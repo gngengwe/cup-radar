@@ -23,17 +23,16 @@ export default function App() {
           {/* Landing — city selection */}
           <Route path="/" element={<LandingPage />} />
 
-          {/* Seattle city dashboard */}
-          <Route path="/seattle" element={<Navigate to="/seattle/hq" replace />} />
-          <Route path="/seattle/:section" element={<Dashboard />} />
-
-          {/* Kansas City dashboard */}
-          <Route path="/kansascity" element={<Navigate to="/kansascity/hq" replace />} />
-          <Route path="/kansascity/:section" element={<Dashboard />} />
-
-          {/* Backward compat — old /dashboard/* routes */}
-          <Route path="/dashboard/:section" element={<LegacyDashboardRedirect />} />
+          {/* Backward compat first (more specific — must come before /:city/:section) */}
           <Route path="/dashboard" element={<Navigate to="/seattle/hq" replace />} />
+          <Route path="/dashboard/:section" element={<LegacyDashboardRedirect />} />
+
+          {/* City redirects (bare /seattle or /kansascity) */}
+          <Route path="/seattle" element={<Navigate to="/seattle/hq" replace />} />
+          <Route path="/kansascity" element={<Navigate to="/kansascity/hq" replace />} />
+
+          {/* All city dashboards — /:city/:section gives useParams() both values */}
+          <Route path="/:city/:section" element={<Dashboard />} />
 
           {/* Catch-all */}
           <Route path="*" element={<Navigate to="/" replace />} />
