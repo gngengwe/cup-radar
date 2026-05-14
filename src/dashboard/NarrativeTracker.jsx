@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import narrativeData from '../data/narratives.json';
+import FlagImg from '../components/FlagImg';
 
 const STATUS_CONFIG = {
   'pre-tournament': { label: 'Pre-tournament',  color: 'var(--blue)',        bg: 'var(--blue-soft)'   },
@@ -40,7 +41,7 @@ function NarrativeCard({ narrative, expanded, onToggle }) {
           <div className="narrative-card__title-wrap">
             <h3 className="narrative-card__title">{narrative.title}</h3>
             <div className="narrative-card__flags">
-              {narrative.teamFlags.map((f, i) => <span key={i}>{f}</span>)}
+              {narrative.teamFlags.map((f, i) => <FlagImg key={i} emoji={f} size={18} />)}
             </div>
           </div>
           <div className="narrative-card__right">

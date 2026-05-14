@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useMatches } from '../hooks/useMatches';
+import FlagImg from '../components/FlagImg';
 
 const STATUS_LABELS = { scheduled: 'Scheduled', live: '● Live', finished: 'FT', postponed: 'PPD' };
 
@@ -19,7 +20,7 @@ function MatchRow({ match }) {
       <div className="match-row__date">{dateStr}</div>
       <div className="match-row__teams">
         <span className="match-row__team home">
-          <span className="match-row__flag">{match.homeFlag}</span>
+          <FlagImg emoji={match.homeFlag} size={16} />
           <span className="match-row__name">{match.homeTeam}</span>
         </span>
         <span className="match-row__score">
@@ -29,7 +30,7 @@ function MatchRow({ match }) {
         </span>
         <span className="match-row__team away">
           <span className="match-row__name">{match.awayTeam}</span>
-          <span className="match-row__flag">{match.awayFlag}</span>
+          <FlagImg emoji={match.awayFlag} size={16} />
         </span>
       </div>
       <div className="match-row__meta">

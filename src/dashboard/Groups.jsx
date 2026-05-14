@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useStandings } from '../hooks/useStandings';
 import scenarioData from '../data/scenarios.json';
+import FlagImg from '../components/FlagImg';
 
 const STATUS_CONFIG = {
   advance:    { label: 'Advancing', color: 'var(--accent)',   bg: 'var(--accent-soft)' },
@@ -34,7 +35,7 @@ function GroupTable({ group }) {
               <tr key={team.code} className={`gt-row${team.status === 'advance' ? ' advancing' : ''}`}>
                 <td className="gt-team">
                   <span className="gt-pos">{idx + 1}</span>
-                  <span className="gt-flag">{team.flag}</span>
+                  <FlagImg emoji={team.flag} size={16} className="gt-flag" />
                   <span className="gt-name">{team.name}</span>
                   {team.status !== 'none' && (
                     <span className="gt-status" style={{ color: cfg.color, background: cfg.bg }}>

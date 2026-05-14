@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import citiesData from '../data/cities.json';
+import FlagImg from '../components/FlagImg';
 
 const SCORE_LABELS = {
   matchQuality: 'Match Quality',
@@ -26,7 +27,7 @@ function CityCard({ city, expanded, onToggle }) {
     <div className={`city-jump-card${city.home ? ' home' : ''}${expanded ? ' expanded' : ''}`}>
       <div className="city-jump-card__header" onClick={onToggle} role="button" tabIndex={0}>
         <div className="city-jump-card__top">
-          <span className="city-jump-card__flag">{city.flag}</span>
+          <FlagImg emoji={city.flag} size={22} className="city-jump-card__flag" />
           <div className="city-jump-card__info">
             <div className="city-jump-card__name">{city.name}</div>
             <div className="city-jump-card__country">{city.country}</div>

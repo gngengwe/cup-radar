@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import bracketData from '../data/bracket.json';
+import FlagImg from '../components/FlagImg';
 
 const STATUS_CONFIG = {
   upcoming: { label: 'Upcoming', color: 'var(--text-dim)' },
@@ -18,7 +19,7 @@ function BracketMatch({ match }) {
       {match.label && <div className="bracket-match__label">{match.label}</div>}
 
       <div className="bracket-match__row">
-        <span className="bracket-match__flag">{match.homeFlag}</span>
+        <FlagImg emoji={match.homeFlag} size={16} />
         <span className={`bracket-match__team${isDone && match.homeScore > match.awayScore ? ' winner' : ''}`}>
           {match.home}
         </span>
@@ -28,7 +29,7 @@ function BracketMatch({ match }) {
       </div>
 
       <div className="bracket-match__row">
-        <span className="bracket-match__flag">{match.awayFlag}</span>
+        <FlagImg emoji={match.awayFlag} size={16} />
         <span className={`bracket-match__team${isDone && match.awayScore > match.homeScore ? ' winner' : ''}`}>
           {match.away}
         </span>

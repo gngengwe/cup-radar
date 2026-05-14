@@ -97,6 +97,17 @@ input, textarea { font-family: inherit; }
   color: var(--accent);
   margin-bottom: 16px;
 }
+/* Flag images via Twemoji CDN — fixes Windows where flag emoji don't render */
+.flag-img {
+  display: inline-block;
+  vertical-align: middle;
+  object-fit: contain;
+  flex-shrink: 0;
+  line-height: 1;
+}
+/* Remove default gt-flag padding when it's now an img */
+td .flag-img { margin-right: 4px; }
+
 .section-label::before {
   content: '';
   display: block;

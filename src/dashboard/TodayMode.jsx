@@ -4,6 +4,7 @@ import { useTodayMatches } from '../hooks/useMatches';
 import alerts     from '../data/alerts.json';
 import ticketData from '../data/tickets.json';
 import matchData  from '../data/matches.json';
+import FlagImg from '../components/FlagImg';
 
 const KICKOFF = new Date('2026-06-11T00:00:00Z');
 const FINAL   = new Date('2026-07-20T00:00:00Z');
@@ -104,13 +105,13 @@ export default function TodayMode() {
                     {m.seattleMatch && <span className="match-row__seattle-tag" style={{marginLeft:8}}>SEA</span>}
                   </div>
                   <div className="today-match-card__teams">
-                    <span>{m.homeFlag} {m.homeTeam}</span>
+                    <span><FlagImg emoji={m.homeFlag} size={16} /> {m.homeTeam}</span>
                     <span className="today-match-card__vs">
                       {m.status === 'live' || m.status === 'finished'
                         ? `${m.homeScore ?? '–'} – ${m.awayScore ?? '–'}`
                         : `${m.time} ${m.timezone}`}
                     </span>
-                    <span>{m.awayTeam} {m.awayFlag}</span>
+                    <span>{m.awayTeam} <FlagImg emoji={m.awayFlag} size={16} /></span>
                   </div>
                   {m.status === 'live' && <div className="today-match-card__live">● LIVE</div>}
                   {m.status === 'finished' && <div className="today-match-card__ft">Full Time</div>}
@@ -159,7 +160,7 @@ export default function TodayMode() {
             <div className="today-seattle-card__info">
               <div className="today-seattle-card__stage">{nextSeattle.stage} · {nextSeattle.notes}</div>
               <div className="today-seattle-card__teams">
-                {nextSeattle.homeFlag} {nextSeattle.homeTeam} vs {nextSeattle.awayTeam} {nextSeattle.awayFlag}
+                <FlagImg emoji={nextSeattle.homeFlag} size={16} /> {nextSeattle.homeTeam} vs {nextSeattle.awayTeam} <FlagImg emoji={nextSeattle.awayFlag} size={16} />
               </div>
               <div className="today-seattle-card__venue">
                 ⏰ {nextSeattle.time} {nextSeattle.timezone} · {nextSeattle.venue}

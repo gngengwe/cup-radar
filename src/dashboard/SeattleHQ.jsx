@@ -5,6 +5,7 @@ import seattleData from '../data/seattle.json';
 import eventsData  from '../data/events.json';
 import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
 import WeatherWidget from '../components/WeatherWidget';
+import FlagImg from '../components/FlagImg';
 
 const seattleMatches = matchData.matches.filter(m => m.seattleMatch);
 
@@ -44,7 +45,7 @@ function MatchCard({ match }) {
 
       <div className="seattle-match-card__date">{weekday}, {dateStr}</div>
       <div className="seattle-match-card__teams">
-        {match.homeFlag} {match.homeTeam} <span className="seattle-match-card__vs">vs</span> {match.awayTeam} {match.awayFlag}
+        <FlagImg emoji={match.homeFlag} size={16} /> {match.homeTeam} <span className="seattle-match-card__vs">vs</span> {match.awayTeam} <FlagImg emoji={match.awayFlag} size={16} />
       </div>
       <div className="seattle-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
 

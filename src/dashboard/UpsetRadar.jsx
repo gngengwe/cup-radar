@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import upsetData from '../data/upsets.json';
+import FlagImg from '../components/FlagImg';
 
 const RISK_CONFIG = {
   5: { label: 'Extreme',  color: '#f87171', bg: 'rgba(248,113,113,.12)' },
@@ -37,7 +38,7 @@ function UpsetCard({ upset, expanded, onToggle }) {
       <div className="upset-card__header" onClick={onToggle} role="button" tabIndex={0}>
         <div className="upset-card__top">
           <div className="upset-card__teams">
-            {upset.teamFlags.map((f, i) => <span key={i} className="upset-card__flag">{f}</span>)}
+            {upset.teamFlags.map((f, i) => <FlagImg key={i} emoji={f} size={22} />)}
           </div>
           <div className="upset-card__title-group">
             <h3 className="upset-card__title">{upset.title}</h3>

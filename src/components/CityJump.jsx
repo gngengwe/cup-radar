@@ -1,3 +1,5 @@
+import FlagImg from './FlagImg';
+
 const CITIES = [
   { flag: '🇺🇸', name: 'Seattle',          country: 'USA',    tag: 'Home base',   home: true  },
   { flag: '🇨🇦', name: 'Vancouver',         country: 'Canada', tag: 'Drive or fly'             },
@@ -36,7 +38,7 @@ export default function CityJump() {
         <div className="city-grid">
           {CITIES.map(c => (
             <div key={c.name} className={`city-card${c.home ? ' city-card--home' : ''}`}>
-              <div className="city-card__flag">{c.flag}</div>
+              <FlagImg emoji={c.flag} size={24} className="city-card__flag" />
               <div className="city-card__name">{c.name}</div>
               <div className="city-card__country">{c.country}</div>
               <span className="city-card__tag">{c.tag}</span>
