@@ -1,6 +1,8 @@
 import { useState, useMemo } from 'react';
+import { useParams } from 'react-router-dom';
 import { useMatches } from '../hooks/useMatches';
 import FlagImg from '../components/FlagImg';
+import { daysUntilLabel } from '../utils/time';
 
 const STATUS_LABELS = { scheduled: 'Scheduled', live: '● Live', finished: 'FT', postponed: 'PPD' };
 
@@ -14,9 +16,10 @@ function MatchRow({ match }) {
   const dateStr = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
   const isLive  = match.status === 'live';
   const isDone  = match.status === 'finished';
+  const countdown = !isDone && !isLive ? daysUntilLabel(match.date) : null;
 
   return (
-    <div className={`match-row${match.seattleMatch ? ' seattle' : ''}${isLive ? ' live' : ''}`}>
+    <div className={`match-row${match.seattleMatch ? ' seattle' : ''}${match.kcMatch ? ' kc' : ''}${isLive ? ' live' : ''}`}>
       <div className="match-row__date">{dateStr}</div>
       <div className="match-row__teams">
         <span className="match-row__team home">
@@ -40,30 +43,45 @@ function MatchRow({ match }) {
           {STATUS_LABELS[match.status] || match.status}
         </span>
         {match.seattleMatch && <span className="match-row__seattle-tag">SEA</span>}
+        {match.kcMatch      && <span className="match-row__kc-tag">KC</span>}
+        {countdown && <span className="match-row__countdown">{countdown}</span>}
       </div>
     </div>
   );
 }
 
 export default function Matches() {
+  const { city = 'seattle' }                     = useParams();
   const { matches, loading, error, source, refresh } = useMatches();
 
+  const isKC = city === 'kansascity';
+
+  // Derive options from data
   const allCities  = useMemo(() => [...new Set(matches.map(m => m.city))].sort(), [matches]);
   const allStages  = useMemo(() => [...new Set(matches.map(m => m.stage))], [matches]);
   const allGroups  = useMemo(() => [...new Set(matches.map(m => m.group).filter(Boolean))].sort(), [matches]);
 
+  // Default: home city only
+  const [homeOnly,    setHomeOnly]    = useState(true);
   const [cityFilter,  setCityFilter]  = useState('all');
   const [stageFilter, setStageFilter] = useState('all');
   const [groupFilter, setGroupFilter] = useState('all');
-  const [seaOnly,     setSeaOnly]     = useState(false);
+  const [search,      setSearch]      = useState('');
 
-  const filtered = useMemo(() => matches.filter(m => {
-    if (seaOnly && !m.seattleMatch)                      return false;
-    if (cityFilter  !== 'all' && m.city  !== cityFilter)  return false;
-    if (stageFilter !== 'all' && m.stage !== stageFilter) return false;
-    if (groupFilter !== 'all' && m.group !== groupFilter) return false;
-    return true;
-  }), [matches, seaOnly, cityFilter, stageFilter, groupFilter]);
+  const filtered = useMemo(() => {
+    const q = search.toLowerCase().trim();
+    return matches.filter(m => {
+      if (homeOnly) {
+        if (isKC && !m.kcMatch)      return false;
+        if (!isKC && !m.seattleMatch) return false;
+      }
+      if (cityFilter  !== 'all' && m.city  !== cityFilter)  return false;
+      if (stageFilter !== 'all' && m.stage !== stageFilter) return false;
+      if (groupFilter !== 'all' && m.group !== groupFilter) return false;
+      if (q && !m.homeTeam.toLowerCase().includes(q) && !m.awayTeam.toLowerCase().includes(q)) return false;
+      return true;
+    });
+  }, [matches, homeOnly, isKC, cityFilter, stageFilter, groupFilter, search]);
 
   const grouped = useMemo(() => filtered.reduce((acc, m) => {
     if (!acc[m.date]) acc[m.date] = [];
@@ -71,7 +89,8 @@ export default function Matches() {
     return acc;
   }, {}), [filtered]);
 
-  const filtersActive = seaOnly || cityFilter !== 'all' || stageFilter !== 'all' || groupFilter !== 'all';
+  const homeCityLabel = isKC ? '🏈 Kansas City only' : '🏟️ Seattle only';
+  const filtersActive = !homeOnly || cityFilter !== 'all' || stageFilter !== 'all' || groupFilter !== 'all' || search;
 
   return (
     <div>
@@ -91,12 +110,24 @@ export default function Matches() {
         </div>
       )}
 
+      {/* ── Search ── */}
+      <div className="match-search-wrap">
+        <input
+          className="match-search"
+          type="search"
+          placeholder="Search by team name…"
+          value={search}
+          onChange={e => setSearch(e.target.value)}
+          aria-label="Search matches by team name"
+        />
+      </div>
+
       {/* ── Filters ── */}
       <div className="filter-bar">
         <button
-          className={`filter-chip${seaOnly ? ' active' : ''}`}
-          onClick={() => setSeaOnly(v => !v)}
-        >🏟️ Seattle only</button>
+          className={`filter-chip${homeOnly ? ' active' : ''}`}
+          onClick={() => { setHomeOnly(v => !v); setCityFilter('all'); }}
+        >{homeCityLabel}</button>
 
         <select className="filter-select" value={stageFilter} onChange={e => setStageFilter(e.target.value)}>
           <option value="all">All stages</option>
@@ -108,21 +139,32 @@ export default function Matches() {
           {allGroups.map(g => <option key={g} value={g}>Group {g}</option>)}
         </select>
 
-        <select className="filter-select" value={cityFilter} onChange={e => setCityFilter(e.target.value)}>
+        <select
+          className="filter-select"
+          value={cityFilter}
+          onChange={e => { setCityFilter(e.target.value); if (e.target.value !== 'all') setHomeOnly(false); }}
+        >
           <option value="all">All cities</option>
           {allCities.map(c => <option key={c} value={c}>{c}</option>)}
         </select>
 
         {filtersActive && (
           <button className="filter-clear" onClick={() => {
-            setCityFilter('all'); setStageFilter('all'); setGroupFilter('all'); setSeaOnly(false);
+            setHomeOnly(true); setCityFilter('all'); setStageFilter('all');
+            setGroupFilter('all'); setSearch('');
           }}>Clear</button>
         )}
       </div>
 
       {/* ── Match list ── */}
       {Object.keys(grouped).length === 0 ? (
-        <div className="empty-state">No matches match the current filters.</div>
+        <div className="empty-state">
+          No matches found.{' '}
+          <button className="api-retry-btn" onClick={() => {
+            setHomeOnly(true); setCityFilter('all'); setStageFilter('all');
+            setGroupFilter('all'); setSearch('');
+          }}>Clear filters</button>
+        </div>
       ) : (
         Object.entries(grouped)
           .sort(([a], [b]) => a.localeCompare(b))
@@ -140,9 +182,9 @@ export default function Matches() {
       )}
 
       <p className="dash-disclaimer">
-        Match times displayed in PT (local Seattle time). Verify kickoff times with official FIFA sources.
-        Cup Radar is not affiliated with FIFA.{' '}
-        {source === 'live' && 'Live data via football-data.org.'}
+        Match times in local venue timezone. Verify kickoff times with official FIFA sources.
+        {source === 'live' && ' Live data via football-data.org.'}
+        {' '}Cup Radar is not affiliated with FIFA.
       </p>
     </div>
   );

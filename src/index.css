@@ -2589,3 +2589,99 @@ td .flag-img { margin-right: 4px; }
   .cities-hero__grid { grid-template-columns: 1fr; }
   .cities-hero__card { padding: 22px 18px; }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   PRODUCT POLISH — Phase 1 improvements
+═══════════════════════════════════════════════════════════ */
+
+/* ── Match countdown badge on HQ match cards ── */
+.seattle-match-card__countdown {
+  font-size: 11px;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+  background: rgba(255,255,255,0.07);
+  color: var(--text-muted);
+}
+.seattle-match-card__countdown.today    { background: var(--accent-soft); color: var(--accent); }
+.seattle-match-card__countdown.tomorrow { background: rgba(255,184,77,0.12); color: #ffb84d; }
+
+/* Imminent match card (today/tomorrow) gets subtle glow */
+.seattle-match-card.imminent { box-shadow: 0 0 0 1px var(--border-accent); }
+
+/* ── Match row KC styling ── */
+.match-row.kc { border-left: 3px solid rgba(192,132,252,0.5); }
+
+/* ── Match countdown on match rows ── */
+.match-row__countdown {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 2px 7px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+}
+
+/* ── Match search input ── */
+.match-search-wrap { margin-bottom: 12px; }
+.match-search {
+  width: 100%;
+  max-width: 360px;
+  padding: 9px 14px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 14px;
+  font-family: var(--font);
+  outline: none;
+  transition: border-color 0.15s;
+}
+.match-search::placeholder { color: var(--text-dim); }
+.match-search:focus { border-color: var(--border-accent); }
+
+/* ── Groups: city group badge + pills ── */
+.group-table-card.city-group { border-color: var(--border-accent); }
+.group-table-card__city-badge {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 2px 8px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+}
+.group-pill.city-pill {
+  width: auto;
+  padding: 0 12px;
+  border-radius: 100px;
+  background: var(--accent-soft);
+  border-color: var(--border-accent);
+  color: var(--accent);
+}
+.group-pill.has-city-match { border-color: var(--border-accent); }
+.group-pill.city-pill.active { background: var(--accent); color: #041208; }
+
+/* ── Share button ── */
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.share-btn:hover { color: var(--text-muted); border-color: rgba(255,255,255,0.15); }
+
+/* ── Groups table: mobile horizontal scroll ── */
+.group-table-card > div { min-width: 0; }
+@media (max-width: 640px) {
+  .group-table { min-width: 460px; }
+  .group-table-card__header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px; }
+}

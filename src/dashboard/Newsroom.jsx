@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import newsData from '../data/news.json';
+import { relativeTime } from '../utils/time';
 
 const CATEGORIES = ['all', 'tournament', 'seattle', 'tickets', 'teams', 'travel', 'culture'];
 
@@ -21,7 +22,7 @@ function NewsCard({ article, featured }) {
         <span className="news-card__cat" style={{ color: cfg.color, background: cfg.bg }}>
           {article.category}
         </span>
-        <span className="news-card__date">{article.date}</span>
+        <span className="news-card__date" title={article.date}>{relativeTime(article.date)}</span>
       </div>
       <div className="news-card__headline">{article.headline}</div>
       <div className="news-card__summary">{article.summary}</div>

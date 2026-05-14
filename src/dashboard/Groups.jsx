@@ -1,7 +1,15 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
+import { useParams } from 'react-router-dom';
 import { useStandings } from '../hooks/useStandings';
 import scenarioData from '../data/scenarios.json';
+import matchData from '../data/matches.json';
 import FlagImg from '../components/FlagImg';
+
+// Pre-compute which groups have matches in each city
+const CITY_GROUPS = {
+  seattle:    [...new Set(matchData.matches.filter(m => m.seattleMatch && m.group).map(m => m.group))],
+  kansascity: [...new Set(matchData.matches.filter(m => m.kcMatch      && m.group).map(m => m.group))],
+};
 
 const STATUS_CONFIG = {
   advance:    { label: 'Advancing', color: 'var(--accent)',   bg: 'var(--accent-soft)' },
@@ -10,16 +18,20 @@ const STATUS_CONFIG = {
   none:       { label: '',          color: 'transparent',     bg: 'transparent' },
 };
 
-function GroupTable({ group }) {
-  const sorted = [...group.teams].sort((a, b) =>
-    b.points - a.points || b.gd - a.gd || b.gf - a.gf
+function GroupTable({ group, cityGroups }) {
+  const sorted = useMemo(() =>
+    [...group.teams].sort((a, b) => b.points - a.points || b.gd - a.gd || b.gf - a.gf),
+    [group.teams]
   );
+  const playsInCity = cityGroups?.includes(group.id);
 
   return (
-    <div className="group-table-card">
+    <div className={`group-table-card${playsInCity ? ' city-group' : ''}`}>
       <div className="group-table-card__header">
         <span className="group-table-card__name">{group.name}</span>
+        {playsInCity && <span className="group-table-card__city-badge">🏟️ Hosts matches</span>}
       </div>
+      <div style={{ overflowX: 'auto' }}>
       <table className="group-table">
         <thead>
           <tr>
@@ -56,6 +68,7 @@ function GroupTable({ group }) {
           })}
         </tbody>
       </table>
+      </div>
     </div>
   );
 }
@@ -103,13 +116,19 @@ function ScenarioGroup({ groupId, data }) {
 }
 
 export default function Groups() {
-  const { standings, loading, error, source } = useStandings();
-  const [activeGroup, setActiveGroup] = useState(null);
-  const [tab, setTab] = useState('standings'); // 'standings' | 'scenarios'
+  const { city = 'seattle' }                    = useParams();
+  const { standings, loading, error, source }   = useStandings();
+  const [activeGroup,  setActiveGroup]  = useState(null);
+  const [tab,          setTab]          = useState('standings');
+  const [cityOnly,     setCityOnly]     = useState(false);
 
-  const displayed = activeGroup
-    ? standings.filter(g => g.id === activeGroup)
-    : standings;
+  const cityGroups = CITY_GROUPS[city] || [];
+
+  const displayed = useMemo(() => {
+    let list = activeGroup ? standings.filter(g => g.id === activeGroup) : standings;
+    if (cityOnly) list = list.filter(g => cityGroups.includes(g.id));
+    return list;
+  }, [standings, activeGroup, cityOnly, cityGroups]);
 
   return (
     <div>
@@ -138,18 +157,25 @@ export default function Groups() {
         >🎯 Scenarios</button>
       </div>
 
-      {/* ── Group pills (standings only) ── */}
+      {/* ── Group pills + city filter (standings only) ── */}
       {tab === 'standings' && (
         <div className="group-pills">
           <button
             className={`group-pill${activeGroup === null ? ' active' : ''}`}
-            onClick={() => setActiveGroup(null)}
+            onClick={() => { setActiveGroup(null); setCityOnly(false); }}
           >All</button>
+          {cityGroups.length > 0 && (
+            <button
+              className={`group-pill city-pill${cityOnly ? ' active' : ''}`}
+              onClick={() => { setCityOnly(v => !v); setActiveGroup(null); }}
+              title={`Groups playing in ${city === 'kansascity' ? 'Kansas City' : 'Seattle'}`}
+            >🏟️ My city</button>
+          )}
           {standings.map(g => (
             <button
               key={g.id}
-              className={`group-pill${activeGroup === g.id ? ' active' : ''}`}
-              onClick={() => setActiveGroup(g.id)}
+              className={`group-pill${activeGroup === g.id ? ' active' : ''}${cityGroups.includes(g.id) ? ' has-city-match' : ''}`}
+              onClick={() => { setActiveGroup(g.id); setCityOnly(false); }}
             >{g.id}</button>
           ))}
         </div>
@@ -158,7 +184,7 @@ export default function Groups() {
       {tab === 'standings' && (
       <>
       <div className="groups-grid">
-        {displayed.map(g => <GroupTable key={g.id} group={g} />)}
+        {displayed.map(g => <GroupTable key={g.id} group={g} cityGroups={cityGroups} />)}
       </div>
 
       <div className="groups-legend">

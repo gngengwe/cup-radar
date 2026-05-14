@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ticketData from '../data/tickets.json';
+import { relativeTime } from '../utils/time';
 
 const ACTION_CONFIG = {
   move:  { label: 'MOVE',  color: '#041208', bg: 'var(--accent)' },
@@ -155,9 +156,7 @@ export default function TicketRadar() {
     return tickets.filter(t => t.action === filter);
   })();
 
-  const updatedStr = new Date(lastUpdated).toLocaleDateString('en-US', {
-    month: 'short', day: 'numeric', year: 'numeric',
-  });
+  const updatedStr = relativeTime(lastUpdated);
 
   return (
     <div>
@@ -187,7 +186,7 @@ export default function TicketRadar() {
       </div>
 
       {filter === 'urgent' ? (
-        <UrgentBoard tickets={isKC ? tickets.filter(t => t.kcMatch) : tickets} />
+        <UrgentBoard tickets={tickets} />
       ) : (
         <div className="tickets-grid">
           {filtered.map(t => <TicketCard key={t.id} ticket={t} />)}

@@ -1,9 +1,11 @@
 // Shared HQ template — rendered by SeattleHQ and KansasCityHQ with city-specific data.
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
 import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
+import { daysUntilLabel } from '../utils/time';
+import ShareButton from '../components/ShareButton';
 
 const SHOULD_GO_COLORS = {
   'Once in a lifetime': '#00e676',
@@ -25,11 +27,18 @@ function MatchCard({ match, cityData }) {
   const transit   = cityData.transitPain?.find(t => t.matchId === match.id);
   const shouldIGo = cityData.shouldIGoScores?.find(s => s.matchId === match.id);
 
+  const countdown = daysUntilLabel(match.date);
+
   return (
-    <div className={`seattle-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}`}>
+    <div className={`seattle-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}${countdown === 'TODAY' || countdown === 'TOMORROW' ? ' imminent' : ''}`}>
       <div className="seattle-match-card__top">
         <span className="seattle-match-card__stage">{match.stage}</span>
         {isKnockout && <span className="seattle-match-card__badge">{match.stage === 'Quarterfinal' ? 'QF' : 'KO'}</span>}
+        {countdown && (
+          <span className={`seattle-match-card__countdown${countdown === 'TODAY' ? ' today' : countdown === 'TOMORROW' ? ' tomorrow' : ''}`}>
+            {countdown}
+          </span>
+        )}
         {shouldIGo && (
           <span
             className="seattle-match-card__sigo"
@@ -92,6 +101,10 @@ function MatchCard({ match, cityData }) {
       <div className="seattle-match-card__cal">
         <AddMatchToGoogleCalendar match={match} />
         <AddMatchToICS match={match} />
+        <ShareButton
+          text={`${match.homeTeam} vs ${match.awayTeam} — ${match.date} at ${match.venue}`}
+          url={`https://wc.ngengwe.com`}
+        />
       </div>
     </div>
   );
