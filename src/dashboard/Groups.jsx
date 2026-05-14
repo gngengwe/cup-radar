@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useStandings } from '../hooks/useStandings';
+import scenarioData from '../data/scenarios.json';
 
 const STATUS_CONFIG = {
   advance:    { label: 'Advancing', color: 'var(--accent)',   bg: 'var(--accent-soft)' },
@@ -58,9 +59,52 @@ function GroupTable({ group }) {
   );
 }
 
+const IMPORTANCE_CONFIG = {
+  critical: { color: '#f87171', label: 'Critical' },
+  high:     { color: '#ffb84d', label: 'High'     },
+  medium:   { color: 'var(--text-muted)', label: 'Medium' },
+};
+
+const SCENARIO_STATUS = {
+  pending:  { label: 'Pending',  color: 'var(--text-dim)'    },
+  happened: { label: '✓ Happened', color: 'var(--accent)'   },
+  didnt:    { label: '✗ Didn\'t happen', color: 'var(--text-muted)' },
+};
+
+function ScenarioGroup({ groupId, data }) {
+  const scenarios = data.groups[groupId];
+  if (!scenarios) return null;
+  return (
+    <div className="scenario-group">
+      <div className="scenario-group__header">Group {groupId} — {scenarios.summary}</div>
+      <div className="scenario-list">
+        {scenarios.scenarios.map(s => {
+          const imp = IMPORTANCE_CONFIG[s.importance] || IMPORTANCE_CONFIG.medium;
+          const st  = SCENARIO_STATUS[s.status] || SCENARIO_STATUS.pending;
+          return (
+            <div key={s.id} className={`scenario-card scenario-card--${s.importance}`}>
+              <div className="scenario-card__top">
+                <span className="scenario-card__importance" style={{ color: imp.color }}>
+                  {imp.label}
+                </span>
+                <span className="scenario-card__status" style={{ color: st.color }}>
+                  {st.label}
+                </span>
+              </div>
+              <div className="scenario-card__condition">If: {s.condition}</div>
+              <div className="scenario-card__outcome">Then: {s.outcome}</div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 export default function Groups() {
   const { standings, loading, error, source } = useStandings();
   const [activeGroup, setActiveGroup] = useState(null);
+  const [tab, setTab] = useState('standings'); // 'standings' | 'scenarios'
 
   const displayed = activeGroup
     ? standings.filter(g => g.id === activeGroup)
@@ -81,21 +125,37 @@ export default function Groups() {
         <div className="api-error-bar">Live standings unavailable — showing local data.</div>
       )}
 
-      {/* ── Group pills ── */}
-      <div className="group-pills">
+      {/* ── View tabs ── */}
+      <div className="group-view-tabs">
         <button
-          className={`group-pill${activeGroup === null ? ' active' : ''}`}
-          onClick={() => setActiveGroup(null)}
-        >All</button>
-        {standings.map(g => (
-          <button
-            key={g.id}
-            className={`group-pill${activeGroup === g.id ? ' active' : ''}`}
-            onClick={() => setActiveGroup(g.id)}
-          >{g.id}</button>
-        ))}
+          className={`group-view-tab${tab === 'standings' ? ' active' : ''}`}
+          onClick={() => setTab('standings')}
+        >📊 Standings</button>
+        <button
+          className={`group-view-tab${tab === 'scenarios' ? ' active' : ''}`}
+          onClick={() => setTab('scenarios')}
+        >🎯 Scenarios</button>
       </div>
 
+      {/* ── Group pills (standings only) ── */}
+      {tab === 'standings' && (
+        <div className="group-pills">
+          <button
+            className={`group-pill${activeGroup === null ? ' active' : ''}`}
+            onClick={() => setActiveGroup(null)}
+          >All</button>
+          {standings.map(g => (
+            <button
+              key={g.id}
+              className={`group-pill${activeGroup === g.id ? ' active' : ''}`}
+              onClick={() => setActiveGroup(g.id)}
+            >{g.id}</button>
+          ))}
+        </div>
+      )}
+
+      {tab === 'standings' && (
+      <>
       <div className="groups-grid">
         {displayed.map(g => <GroupTable key={g.id} group={g} />)}
       </div>
@@ -104,6 +164,21 @@ export default function Groups() {
         <span className="legend-item advance">⬆ Top 2 advance to Round of 32</span>
         <span className="legend-item playoff">~ 8 best 3rd-place teams also advance</span>
       </div>
+      </>
+      )}
+
+      {tab === 'scenarios' && (
+        <div className="scenarios-container">
+          <p className="dash-sub-desc" style={{ marginBottom: 20 }}>
+            Key scenarios per group — what each team needs to advance, and the critical results to watch.
+            Updated as matches are played.
+          </p>
+          {(activeGroup ? [activeGroup] : Object.keys(scenarioData.groups)).map(gId => (
+            <ScenarioGroup key={gId} groupId={gId} data={scenarioData} />
+          ))}
+        </div>
+
+      )}
 
       <p className="dash-disclaimer" style={{ marginTop: 24 }}>
         Group assignments are illustrative — verify with official FIFA sources.

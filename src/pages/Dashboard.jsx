@@ -6,6 +6,8 @@ import Matches from '../dashboard/Matches';
 import Groups from '../dashboard/Groups';
 import Bracket from '../dashboard/Bracket';
 import WatchGuide from '../dashboard/WatchGuide';
+import NarrativeTracker from '../dashboard/NarrativeTracker';
+import UpsetRadar from '../dashboard/UpsetRadar';
 import TicketRadar from '../dashboard/TicketRadar';
 import CityJump from '../dashboard/CityJump';
 import Newsroom from '../dashboard/Newsroom';
@@ -20,8 +22,10 @@ const NAV = [
   { id: 'tickets', label: 'Ticket Radar',    icon: '🎫', desc: 'Opportunities'    },
   { id: 'watch',   label: 'Watch Guide',     icon: '🍺', desc: 'Bars & neighborhoods' },
   { id: 'cities',  label: 'City Jump',       icon: '✈️', desc: 'Trip compare'     },
-  { id: 'news',    label: 'Newsroom',        icon: '📰', desc: 'Latest stories'   },
-  { id: 'culture', label: 'Culture Tracker', icon: '👕', desc: 'Kits & moments'   },
+  { id: 'narrative', label: 'Narratives',      icon: '📖', desc: 'Tournament stories' },
+  { id: 'upsets',    label: 'Upset Radar',    icon: '🚨', desc: 'Chaos potential'   },
+  { id: 'news',      label: 'Newsroom',       icon: '📰', desc: 'Latest stories'    },
+  { id: 'culture',   label: 'Culture Tracker',icon: '👕', desc: 'Kits & moments'    },
 ];
 
 const SECTIONS = {
@@ -31,7 +35,9 @@ const SECTIONS = {
   groups:  Groups,
   bracket: Bracket,
   tickets: TicketRadar,
-  watch:   WatchGuide,
+  watch:     WatchGuide,
+  narrative: NarrativeTracker,
+  upsets:    UpsetRadar,
   cities:  CityJump,
   news:    Newsroom,
   culture: CultureTracker,

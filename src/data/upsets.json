@@ -1,0 +1,166 @@
+{
+  "_note": "Upset radar — matches and groups with high chaos potential. Update as the tournament progresses.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "upsets": [
+    {
+      "id": "ups-001",
+      "title": "South Africa shocks Mexico — at the Azteca",
+      "matchId": "wc26-001",
+      "teams": ["RSA", "MEX"],
+      "teamFlags": ["🇿🇦", "🇲🇽"],
+      "stage": "Group Stage",
+      "date": "2026-06-11",
+      "riskScore": 4,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Mexico are heavy favorites at their sacred Estadio Azteca on opening day. But South Africa are organized, physical, and play with nothing to lose. The Azteca crowd pressure could work against Mexico — and 'nothing to lose' upsets happen on opening days.",
+      "keyFactors": [
+        "Mexico under enormous home pressure",
+        "South Africa's tournament experience (hosted 2010)",
+        "Azteca atmosphere cuts both ways",
+        "Opening match nerves affect favorites more than underdogs"
+      ],
+      "upsetOdds": "Low — but very possible"
+    },
+    {
+      "id": "ups-002",
+      "title": "Egypt ends USA's group stage dominance",
+      "matchId": null,
+      "teams": ["EGY", "USA"],
+      "teamFlags": ["🇪🇬", "🇺🇸"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Egypt have one of the most dangerous strikers in African football and a deeply organized defensive structure. USA as co-host will carry expectation. If Egypt can neutralize the US midfield and get a set-piece goal, the crowd goes quiet quickly.",
+      "keyFactors": [
+        "USA co-host pressure",
+        "Egypt's African Cup of Nations form",
+        "Set-piece vulnerability for USA",
+        "Mo Salah factor if fit"
+      ],
+      "upsetOdds": "Moderate"
+    },
+    {
+      "id": "ups-003",
+      "title": "Morocco tops Group C",
+      "matchId": null,
+      "teams": ["MAR"],
+      "teamFlags": ["🇲🇦"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Morocco winning their group isn't exactly an upset — they're 2022 semifinalists. But they're often underseeded. If they come out of Group C at the top, it sets up a run.",
+      "keyFactors": [
+        "2022 momentum still real",
+        "Tight defensive structure",
+        "Dangerous on the counter",
+        "Tournament experience at the highest level"
+      ],
+      "upsetOdds": "Moderate — not really an upset anymore"
+    },
+    {
+      "id": "ups-004",
+      "title": "Chile beats Brazil in Group D",
+      "matchId": null,
+      "teams": ["CHI", "BRA"],
+      "teamFlags": ["🇨🇱", "🇧🇷"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Brazil are the pre-tournament favorites in Group D, but Chile have beaten Brazil in competitive South American football. A fiery CONMEBOL rivalry, both teams know each other well. If Brazil start slow and Chile score first, the pressure builds fast.",
+      "keyFactors": [
+        "Chile's history vs Brazil in CONMEBOL",
+        "Brazil's slow-start tendency",
+        "Physical, battle-hardened Chilean squad",
+        "High stakes group dynamic"
+      ],
+      "upsetOdds": "Low-moderate"
+    },
+    {
+      "id": "ups-005",
+      "title": "Indonesia — the group stage wildcard",
+      "matchId": null,
+      "teams": ["IDN"],
+      "teamFlags": ["🇮🇩"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 2,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Indonesia are likely the longest shot in the tournament. But first World Cup appearances carry unpredictable energy. They play with pride and have nothing to lose. Their group opponents will need to be switched on — complacency is the danger.",
+      "keyFactors": [
+        "Nothing-to-lose mentality",
+        "Enormous national pride",
+        "Opponents may underestimate them",
+        "The World Cup debut factor"
+      ],
+      "upsetOdds": "Very low — but worth watching"
+    },
+    {
+      "id": "ups-006",
+      "title": "Turkey knocks Argentina out of the group",
+      "matchId": null,
+      "teams": ["TUR", "ARG"],
+      "teamFlags": ["🇹🇷", "🇦🇷"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Argentina are defending champions and Group E favorites. But Turkey are a dangerous, tactically sophisticated side that has outperformed expectations in recent Euros. Group E could be tighter than expected. Messi at 38 against a young, physical Turkish midfield is an interesting matchup.",
+      "keyFactors": [
+        "Turkey's tactical organization",
+        "Argentina's age profile",
+        "Messi won't play every minute",
+        "Post-championship complacency risk"
+      ],
+      "upsetOdds": "Low — but legitimate"
+    },
+    {
+      "id": "ups-007",
+      "title": "Scotland causes havoc in Group G",
+      "matchId": null,
+      "teams": ["SCO", "ESP"],
+      "teamFlags": ["🏴󠁧󠁢󠁳󠁣󠁴󠁿", "🇪🇸"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Scotland's World Cup return after decades away will be electric. They are physical, organized, and dangerous on set pieces. Against Spain, who sometimes lack urgency in group stages, Scotland could capitalize.",
+      "keyFactors": [
+        "Scotland's return to the World Cup",
+        "Set-piece danger",
+        "Spanish consistency variable in group stages",
+        "Player motivation on the world stage after long absence"
+      ],
+      "upsetOdds": "Moderate"
+    },
+    {
+      "id": "ups-008",
+      "title": "Poland eliminates England",
+      "matchId": null,
+      "teams": ["POL", "ENG"],
+      "teamFlags": ["🇵🇱", "🏴󠁧󠁢󠁥󠁮󠁧󠁿"],
+      "stage": "Group Stage",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "England are heavy favorites in Group H. But they have a history of underperforming in group stages when the pressure isn't fully on. Poland with Lewandowski — even at 37 — can punish any England lapse. And England vs a European opponent is always nervous viewing.",
+      "keyFactors": [
+        "Lewandowski's tournament pedigree",
+        "England's notorious slow starts",
+        "Group H has a difficult balance of quality",
+        "England psychological fragility in group stages"
+      ],
+      "upsetOdds": "Low-moderate"
+    }
+  ]
+}
