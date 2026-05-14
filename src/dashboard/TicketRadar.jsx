@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useParams } from 'react-router-dom';
 import ticketData from '../data/tickets.json';
 
 const ACTION_CONFIG = {
@@ -20,7 +21,7 @@ function TicketCard({ ticket }) {
   const stars  = ticket.opportunityScore;
 
   return (
-    <div className={`ticket-card${ticket.seattleMatch ? ' seattle' : ''}`}>
+    <div className={`ticket-card${ticket.seattleMatch ? ' seattle' : ''}${ticket.kcMatch ? ' kc' : ''}`}>
       <div className="ticket-card__top">
         <span className="ticket-card__action" style={{ background: action.bg, color: action.color }}>
           {action.label}
@@ -29,6 +30,7 @@ function TicketCard({ ticket }) {
           ● {avail.label}
         </span>
         {ticket.seattleMatch && <span className="ticket-card__seattle-tag">SEA</span>}
+        {ticket.kcMatch && <span className="ticket-card__kc-tag">KC</span>}
       </div>
 
       <div className="ticket-card__match">{ticket.match}</div>
@@ -131,13 +133,24 @@ function UrgentBoard({ tickets }) {
 }
 
 export default function TicketRadar() {
-  const [filter, setFilter] = useState('all');
+  const { city = 'seattle' } = useParams();
+  const isKC = city === 'kansascity';
+
+  // Default filter shows city-specific tickets first
+  const [filter, setFilter] = useState(isKC ? 'kc' : 'seattle');
 
   const { tickets, lastUpdated, disclaimer } = ticketData;
 
+  // City-specific home filter label/key
+  const homeFilter    = isKC ? 'kc' : 'seattle';
+  const homeLabel     = isKC ? '🏈 Kansas City' : '🏟️ Seattle';
+  const awayLabel     = isKC ? '✈️ Away trips' : '✈️ Away trips';
+
   const filtered = (() => {
-    if (filter === 'urgent')  return tickets; // UrgentBoard handles its own filtering
+    if (filter === 'urgent')  return tickets;
     if (filter === 'seattle') return tickets.filter(t => t.seattleMatch);
+    if (filter === 'kc')      return tickets.filter(t => t.kcMatch);
+    if (filter === 'away')    return tickets.filter(t => isKC ? (!t.kcMatch && !t.seattleMatch) : (!t.seattleMatch));
     if (filter === 'all')     return tickets;
     return tickets.filter(t => t.action === filter);
   })();
@@ -154,22 +167,27 @@ export default function TicketRadar() {
       </div>
 
       <div className="filter-bar">
-        {['all', 'urgent', 'move', 'watch', 'wait', 'seattle'].map(f => (
+        {[
+          { id: homeFilter, label: homeLabel },
+          { id: 'away',     label: awayLabel },
+          { id: 'urgent',   label: '🔴 Urgent — same week' },
+          { id: 'move',     label: 'Move' },
+          { id: 'watch',    label: 'Watch' },
+          { id: 'wait',     label: 'Wait' },
+          { id: 'all',      label: 'All' },
+        ].map(f => (
           <button
-            key={f}
-            className={`filter-chip${filter === f ? ' active' : ''}${f === 'urgent' ? ' urgent-chip' : ''}`}
-            onClick={() => setFilter(f)}
+            key={f.id}
+            className={`filter-chip${filter === f.id ? ' active' : ''}${f.id === 'urgent' ? ' urgent-chip' : ''}`}
+            onClick={() => setFilter(f.id)}
           >
-            {f === 'all' ? 'All'
-              : f === 'urgent'  ? '🔴 Urgent — same week'
-              : f === 'seattle' ? '🏟️ Seattle'
-              : f.charAt(0).toUpperCase() + f.slice(1)}
+            {f.label}
           </button>
         ))}
       </div>
 
       {filter === 'urgent' ? (
-        <UrgentBoard tickets={tickets} />
+        <UrgentBoard tickets={isKC ? tickets.filter(t => t.kcMatch) : tickets} />
       ) : (
         <div className="tickets-grid">
           {filtered.map(t => <TicketCard key={t.id} ticket={t} />)}
