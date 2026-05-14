@@ -1,5 +1,7 @@
 import { useState } from 'react';
-import citiesData from '../data/cities.json';
+import { useParams } from 'react-router-dom';
+import seattleCitiesData from '../data/cities.json';
+import kcCitiesData      from '../data/kc-cities.json';
 import FlagImg from '../components/FlagImg';
 
 const SCORE_LABELS = {
@@ -77,9 +79,12 @@ function CityCard({ city, expanded, onToggle }) {
 export default function CityJump() {
   const [expanded, setExpanded] = useState(null);
   const [sortBy, setSortBy]     = useState('overall');
+  const { city = 'seattle' }    = useParams();
 
-  const { cities, lastUpdated } = citiesData;
+  const data    = city === 'kansascity' ? kcCitiesData : seattleCitiesData;
+  const homeCity = city === 'kansascity' ? 'Kansas City' : 'Seattle';
 
+  const { cities, lastUpdated } = data;
   const sorted = [...cities].sort((a, b) => (b.scores[sortBy] || 0) - (a.scores[sortBy] || 0));
 
   const updatedStr = new Date(lastUpdated).toLocaleDateString('en-US', {
@@ -95,7 +100,7 @@ export default function CityJump() {
 
       <p className="dash-sub-desc" style={{ marginBottom: 24 }}>
         Compare opportunistic trips across World Cup host cities — scored for match quality,
-        ticket access, travel ease from Seattle, and city energy.
+        ticket access, travel ease from {homeCity}, and city energy.
       </p>
 
       <div className="filter-bar">
