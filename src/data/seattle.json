@@ -1,0 +1,72 @@
+{
+  "_note": "Seattle HQ data. Update events, transit, and logistics as match days approach.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "venue": {
+    "name": "Lumen Field",
+    "address": "800 Occidental Ave S, Seattle, WA 98134",
+    "capacity": 69000,
+    "notes": "Capacity expanded for World Cup. Bag policy: clear bags only, max 12\"x6\"x12\".",
+    "parkingNote": "No public parking at venue. Use transit or remote parking with shuttle."
+  },
+  "transit": {
+    "recommended": "Link Light Rail — Stadium Station (1 block from Lumen Field)",
+    "lines": ["1 Line (Central Link)"],
+    "tips": [
+      "Trains run every 8–12 min on match days. Arrive 90 min early.",
+      "Westlake, Capitol Hill, University District, and Sea-Tac all connect via 1 Line.",
+      "Last train after match: approximately 1:00 AM.",
+      "King County Metro adding express bus routes from Park & Ride lots."
+    ],
+    "parking": "WSDOT Lot B (SoDo) — $35/day shuttle. Reserve in advance.",
+    "rideshare": "Designated pickup/dropoff at 1st Ave S & Edgar Martinez Dr S."
+  },
+  "fanZones": [
+    {
+      "name": "Seattle FIFA Fan Festival",
+      "location": "Seattle Center",
+      "dates": "June 13 – July 7",
+      "hours": "11am – 11pm on match days",
+      "free": true,
+      "notes": "Free entry. Live entertainment, food, giant screens. Official FIFA fan zone."
+    },
+    {
+      "name": "SoDo Watch Zone",
+      "location": "Occidental Park, Pioneer Square",
+      "dates": "Match days only",
+      "hours": "2 hours before kickoff",
+      "free": true,
+      "notes": "Outdoor screen. First-come basis. Walking distance to Lumen Field."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "The Pyramid Alehouse",
+      "type": "Bar/Brewery",
+      "distance": "3 min walk to Lumen Field",
+      "notes": "Classic SoDo match-day spot. Gets packed 2+ hours before kickoff.",
+      "area": "SoDo"
+    },
+    {
+      "name": "Pioneer Square bars",
+      "type": "Neighborhood",
+      "distance": "10 min walk",
+      "notes": "Best pre-game neighborhood energy. Try Central Saloon or Elysian Bar.",
+      "area": "Pioneer Square"
+    },
+    {
+      "name": "Pike Place Market",
+      "type": "Food/Culture",
+      "distance": "15 min by Link",
+      "notes": "Good for earlier arrivals. Head to SoDo 90 min before kickoff.",
+      "area": "Downtown"
+    }
+  ],
+  "cityEnergyForecast": [
+    { "matchId": "wc26-sea-01", "date": "2026-06-15", "energyScore": 4, "crowdNote": "Opening Seattle match — expect heavy crowds citywide." },
+    { "matchId": "wc26-sea-02", "date": "2026-06-19", "energyScore": 4, "crowdNote": "Second group match. Midweek — slightly lighter downtown traffic." },
+    { "matchId": "wc26-sea-03", "date": "2026-06-24", "energyScore": 5, "crowdNote": "Group stage heating up. High-stakes result likely." },
+    { "matchId": "wc26-sea-04", "date": "2026-06-26", "energyScore": 5, "crowdNote": "Final group match day — peak city energy." },
+    { "matchId": "wc26-sea-05", "date": "2026-07-01", "energyScore": 5, "crowdNote": "Knockout round. Elimination stakes — maximum atmosphere." },
+    { "matchId": "wc26-sea-06", "date": "2026-07-06", "energyScore": 5, "crowdNote": "Knockout round. One of the last Seattle matches ever." }
+  ]
+}

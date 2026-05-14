@@ -1,0 +1,126 @@
+{
+  "_note": "Manually curated news. Add new items at the top of the array. Keep to 12–15 items max.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "articles": [
+    {
+      "id": "news-012",
+      "headline": "FIFA confirms all 48 teams certified — World Cup field is set",
+      "summary": "All intercontinental playoff results are in. The full 48-team lineup for the 2026 FIFA World Cup is officially confirmed.",
+      "category": "tournament",
+      "source": "FIFA.com",
+      "date": "2026-05-12",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-011",
+      "headline": "Seattle transit authority confirms expanded Link Light Rail service for all match days",
+      "summary": "Sound Transit will run 8-minute service on the 1 Line from 4 hours before each Seattle match until 1 AM. Additional express buses from Bellevue and Redmond.",
+      "category": "seattle",
+      "source": "Sound Transit",
+      "date": "2026-05-11",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-010",
+      "headline": "Ticket market analysis: resale floor stabilizing at 30-day mark",
+      "summary": "Across most non-host venues, resale floors have stabilized or dropped 10–15% from April peaks. Seattle and LA remain elevated.",
+      "category": "tickets",
+      "source": "Cup Radar analysis",
+      "date": "2026-05-09",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-009",
+      "headline": "Argentina names 26-man squad — Messi confirmed, Álvarez leads attack",
+      "summary": "Argentina released their preliminary World Cup roster. Lionel Messi is confirmed for what is widely expected to be his final World Cup appearance.",
+      "category": "teams",
+      "source": "AFA",
+      "date": "2026-05-08",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-008",
+      "headline": "Lumen Field renovation complete — capacity set at 69,000 for World Cup",
+      "summary": "The $45M FIFA-required upgrades to Lumen Field are complete. Temporary seating adds 8,000 seats. New fan plazas open June 13.",
+      "category": "seattle",
+      "source": "Seattle Stadium Authority",
+      "date": "2026-05-07",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-007",
+      "headline": "England squad depth at an all-time high heading into 2026",
+      "summary": "With a golden generation at peak age, England are among the favorites. Manager analysis and tactical preview.",
+      "category": "teams",
+      "source": "The Athletic",
+      "date": "2026-05-06",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-006",
+      "headline": "Vancouver sees surge in Seattle-based travel bookings for World Cup matches",
+      "summary": "BC Place is selling out quickly for Group C matches. Day-trip packages from Seattle starting at $180 all-in are moving fast.",
+      "category": "travel",
+      "source": "Tourism Vancouver",
+      "date": "2026-05-05",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-005",
+      "headline": "USA squad preview: USMNT's deepest roster in history",
+      "summary": "The United States opens as co-host favorites to advance from their group. Full squad preview and tactical outlook.",
+      "category": "teams",
+      "source": "US Soccer",
+      "date": "2026-05-04",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-004",
+      "headline": "Adidas drops official 2026 World Cup match ball — 'Stella' unveiled",
+      "summary": "The official 2026 FIFA World Cup match ball is named 'Stella.' Thermally bonded, AI-aerodynamics tested. Available June 1.",
+      "category": "culture",
+      "source": "Adidas",
+      "date": "2026-05-02",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-003",
+      "headline": "Seattle fan guide: the 10 best pre-game spots near Lumen Field",
+      "summary": "From Pioneer Square dive bars to rooftop views, a practical guide to the best matchday pre-game experiences within walking distance.",
+      "category": "seattle",
+      "source": "Cup Radar",
+      "date": "2026-04-28",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-002",
+      "headline": "How the 48-team format changes everything about this World Cup",
+      "summary": "More teams, more upsets, more drama. An analysis of how the expanded field changes tournament dynamics, group outcomes, and underdog odds.",
+      "category": "tournament",
+      "source": "Cup Radar",
+      "date": "2026-04-22",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-001",
+      "headline": "Brazil's 2026 squad looks to end 24-year World Cup drought",
+      "summary": "Brazil hasn't won the World Cup since 2002. With a new generation led by Vinicius Jr and Endrick, the Seleção believe this is their year.",
+      "category": "teams",
+      "source": "ESPN FC",
+      "date": "2026-04-15",
+      "link": null,
+      "featured": false
+    }
+  ]
+}

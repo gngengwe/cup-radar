@@ -1,0 +1,153 @@
+{
+  "_note": "City Jump data. Update scores as the tournament approaches and ticket/travel conditions change.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "cities": [
+    {
+      "id": "seattle",
+      "name": "Seattle",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "home": true,
+      "venue": "Lumen Field",
+      "matches": 6,
+      "stages": ["Group Stage", "Round of 32"],
+      "scores": {
+        "matchQuality": 4,
+        "ticketAccess": 3,
+        "travelEase": 5,
+        "cityEnergy": 5,
+        "overall": 4
+      },
+      "flightFromSEA": "Home",
+      "hotelNote": "Book now — rates rising fast for match weeks",
+      "bestFor": "Your home turf. Maximum immersion.",
+      "tag": "Home base"
+    },
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "home": false,
+      "venue": "BC Place",
+      "matches": 6,
+      "stages": ["Group Stage", "Round of 32"],
+      "scores": {
+        "matchQuality": 4,
+        "ticketAccess": 5,
+        "travelEase": 5,
+        "cityEnergy": 4,
+        "overall": 5
+      },
+      "flightFromSEA": "45 min or 3 hr drive",
+      "hotelNote": "Reasonable rates vs US cities. Book soon.",
+      "bestFor": "Easiest day-trip or overnight from Seattle.",
+      "tag": "Best day-trip"
+    },
+    {
+      "id": "losangeles",
+      "name": "Los Angeles",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "home": false,
+      "venue": "Rose Bowl + SoFi Stadium",
+      "matches": 12,
+      "stages": ["Group Stage", "Round of 32", "Quarterfinal", "Semifinal"],
+      "scores": {
+        "matchQuality": 5,
+        "ticketAccess": 2,
+        "travelEase": 3,
+        "cityEnergy": 5,
+        "overall": 4
+      },
+      "flightFromSEA": "2.5 hr flight",
+      "hotelNote": "Premium pricing. Airbnb may be better value.",
+      "bestFor": "Top-tier match quality. Argentina, Brazil likely here.",
+      "tag": "Flagship city"
+    },
+    {
+      "id": "sanfrancisco",
+      "name": "San Francisco Bay",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "home": false,
+      "venue": "Levi's Stadium",
+      "matches": 6,
+      "stages": ["Group Stage", "Round of 32"],
+      "scores": {
+        "matchQuality": 4,
+        "ticketAccess": 4,
+        "travelEase": 4,
+        "cityEnergy": 4,
+        "overall": 4
+      },
+      "flightFromSEA": "2 hr flight",
+      "hotelNote": "Expensive but more available than LA.",
+      "bestFor": "Solid trip option — good matches, manageable cost.",
+      "tag": "Short hop"
+    },
+    {
+      "id": "dallas",
+      "name": "Dallas",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "home": false,
+      "venue": "AT&T Stadium",
+      "matches": 9,
+      "stages": ["Group Stage", "Round of 32", "Quarterfinal", "Final"],
+      "scores": {
+        "matchQuality": 5,
+        "ticketAccess": 4,
+        "travelEase": 3,
+        "cityEnergy": 4,
+        "overall": 4
+      },
+      "flightFromSEA": "3.5 hr flight",
+      "hotelNote": "Reasonably priced hotels outside downtown.",
+      "bestFor": "AT&T Stadium is stunning. Final venue — big match energy.",
+      "tag": "Final venue city"
+    },
+    {
+      "id": "mexicocity",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "flag": "🇲🇽",
+      "home": false,
+      "venue": "Estadio Azteca",
+      "matches": 6,
+      "stages": ["Group Stage", "Round of 32"],
+      "scores": {
+        "matchQuality": 5,
+        "ticketAccess": 4,
+        "travelEase": 2,
+        "cityEnergy": 5,
+        "overall": 4
+      },
+      "flightFromSEA": "4.5 hr flight",
+      "hotelNote": "Affordable lodging. Currency favorable for US travelers.",
+      "bestFor": "Azteca at a World Cup is a once-in-a-generation experience.",
+      "tag": "Bucket-list venue"
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "home": false,
+      "venue": "BMO Field",
+      "matches": 6,
+      "stages": ["Group Stage", "Round of 32"],
+      "scores": {
+        "matchQuality": 4,
+        "ticketAccess": 4,
+        "travelEase": 2,
+        "cityEnergy": 4,
+        "overall": 3
+      },
+      "flightFromSEA": "5 hr flight",
+      "hotelNote": "Expensive city but fun World Cup atmosphere.",
+      "bestFor": "Canadian home crowd energy. Canada HQ.",
+      "tag": "Canada HQ"
+    }
+  ]
+}

@@ -63,8 +63,8 @@ export default function Hero() {
         </p>
 
         <div className="hero__ctas fade-up fade-up-4">
-          <a href="#brief"   className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
-          <a href="#seattle" className="btn btn-secondary">{PRODUCT.CTA_SECONDARY}</a>
+          <a href="/dashboard/today"   className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
+          <a href="/dashboard/seattle" className="btn btn-secondary">{PRODUCT.CTA_SECONDARY}</a>
         </div>
 
         <div className="fade-up fade-up-5">

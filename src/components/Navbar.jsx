@@ -19,7 +19,7 @@ export default function Navbar() {
           </a>
           <div className="navbar__actions">
             <span className="navbar__tag">WC 2026 · Seattle HQ</span>
-            <a href="#brief" className="btn btn-primary navbar__cta">
+            <a href="/dashboard/today" className="btn btn-primary navbar__cta">
               {PRODUCT.CTA_PRIMARY}
             </a>
           </div>

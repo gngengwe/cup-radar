@@ -1,0 +1,71 @@
+{
+  "_note": "Seattle fan events and watch parties. Update as new events are announced.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "events": [
+    {
+      "id": "evt-001",
+      "name": "Seattle FIFA Fan Festival",
+      "type": "Official Fan Zone",
+      "location": "Seattle Center, 305 Harrison St",
+      "dates": "June 13 – July 7, 2026",
+      "hours": "11am–11pm on match days; 12pm–8pm other days",
+      "cost": "Free",
+      "capacity": "Large outdoor venue",
+      "link": null,
+      "notes": "Official FIFA fan zone. Live music, food vendors, giant screen, interactive activations.",
+      "confirmed": true
+    },
+    {
+      "id": "evt-002",
+      "name": "World Cup Watch Party — Occidental Park",
+      "type": "Watch Party",
+      "location": "Occidental Square, Pioneer Square",
+      "dates": "All Seattle match days",
+      "hours": "2 hours before kickoff",
+      "cost": "Free",
+      "capacity": "~500",
+      "link": null,
+      "notes": "Community watch party. Street food nearby. Walking distance to Lumen Field.",
+      "confirmed": false
+    },
+    {
+      "id": "evt-003",
+      "name": "Sounders FC World Cup Nights",
+      "type": "Venue Watch Party",
+      "location": "TBD — downtown Seattle",
+      "dates": "Select match days",
+      "hours": "Match time",
+      "cost": "TBD",
+      "capacity": "TBD",
+      "link": null,
+      "notes": "Seattle Sounders FC expected to host official viewing events. Details TBA.",
+      "confirmed": false
+    },
+    {
+      "id": "evt-004",
+      "name": "Lumen Field Matchday Experience",
+      "type": "In-stadium",
+      "location": "Lumen Field, 800 Occidental Ave S",
+      "dates": "June 15, 19, 24, 26 / July 1, 6",
+      "hours": "Gates open 2.5 hours before kickoff",
+      "cost": "Ticket required",
+      "capacity": "~69,000",
+      "link": "https://www.fifa.com/tickets",
+      "notes": "Inside the stadium. Bag policy: clear bags only. No outside food/drink.",
+      "confirmed": true
+    },
+    {
+      "id": "evt-005",
+      "name": "Capitol Hill Block Watch Party",
+      "type": "Watch Party",
+      "location": "Volunteer Park, Capitol Hill",
+      "dates": "USA matches (if applicable)",
+      "hours": "Match time",
+      "cost": "Free",
+      "capacity": "~200",
+      "link": null,
+      "notes": "Neighborhood event. Bring your own chair. Details TBA.",
+      "confirmed": false
+    }
+  ]
+}

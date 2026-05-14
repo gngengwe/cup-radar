@@ -1,0 +1,38 @@
+{
+  "_note": "Update this file daily during the tournament. lastUpdated uses ISO 8601.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "phase": "pre-tournament",
+  "cityEnergy": 4,
+  "seattleAlert": {
+    "type": "info",
+    "message": "Lumen Field renovations on schedule. Fan zone locations to be confirmed by June 1.",
+    "source": "Seattle Office of Special Events",
+    "date": "2026-05-10"
+  },
+  "ticketAlert": {
+    "message": "Group stage face-value tickets still available for select non-Seattle matches via FIFA.com. Seattle match inventory very limited.",
+    "action": "monitor",
+    "urgency": "medium"
+  },
+  "travelAlert": null,
+  "topStories": [
+    {
+      "headline": "FIFA confirms all 48 teams set — full tournament lineup certified",
+      "category": "tournament",
+      "date": "2026-05-12",
+      "link": null
+    },
+    {
+      "headline": "Sound Transit announces expanded Link Light Rail service for Seattle match days",
+      "category": "seattle",
+      "date": "2026-05-11",
+      "link": null
+    },
+    {
+      "headline": "Ticket price analysis: resale floor stabilizing with 30 days to kickoff",
+      "category": "tickets",
+      "date": "2026-05-09",
+      "link": null
+    }
+  ]
+}

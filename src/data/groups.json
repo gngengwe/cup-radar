@@ -1,0 +1,125 @@
+{
+  "_note": "Group assignments are illustrative. Verify with official FIFA sources at fifa.com. 48 teams, 12 groups of 4.",
+  "groups": [
+    {
+      "id": "A",
+      "name": "Group A",
+      "teams": [
+        { "code": "MEX", "name": "Mexico",    "flag": "🇲🇽", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "ECU", "name": "Ecuador",   "flag": "🇪🇨", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "CIV", "name": "Ivory Coast","flag": "🇨🇮", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "JPN", "name": "Japan",     "flag": "🇯🇵", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Group B",
+      "teams": [
+        { "code": "USA", "name": "USA",       "flag": "🇺🇸", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "URU", "name": "Uruguay",   "flag": "🇺🇾", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "EGY", "name": "Egypt",     "flag": "🇪🇬", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "AUS", "name": "Australia", "flag": "🇦🇺", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Group C",
+      "teams": [
+        { "code": "CAN", "name": "Canada",    "flag": "🇨🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "COL", "name": "Colombia",  "flag": "🇨🇴", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "MAR", "name": "Morocco",   "flag": "🇲🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "KOR", "name": "South Korea","flag": "🇰🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Group D",
+      "teams": [
+        { "code": "BRA", "name": "Brazil",    "flag": "🇧🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "CHI", "name": "Chile",     "flag": "🇨🇱", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "HUN", "name": "Hungary",   "flag": "🇭🇺", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "TUN", "name": "Tunisia",   "flag": "🇹🇳", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "E",
+      "name": "Group E",
+      "teams": [
+        { "code": "ARG", "name": "Argentina", "flag": "🇦🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "PAR", "name": "Paraguay",  "flag": "🇵🇾", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "TUR", "name": "Turkey",    "flag": "🇹🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "IDN", "name": "Indonesia", "flag": "🇮🇩", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "F",
+      "name": "Group F",
+      "teams": [
+        { "code": "FRA", "name": "France",    "flag": "🇫🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "SRB", "name": "Serbia",    "flag": "🇷🇸", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "IRN", "name": "Iran",      "flag": "🇮🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "JAM", "name": "Jamaica",   "flag": "🇯🇲", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "G",
+      "name": "Group G",
+      "teams": [
+        { "code": "ESP", "name": "Spain",     "flag": "🇪🇸", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "PER", "name": "Peru",      "flag": "🇵🇪", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "SCO", "name": "Scotland",  "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "SEN", "name": "Senegal",   "flag": "🇸🇳", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "H",
+      "name": "Group H",
+      "teams": [
+        { "code": "ENG", "name": "England",   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "VEN", "name": "Venezuela", "flag": "🇻🇪", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "POL", "name": "Poland",    "flag": "🇵🇱", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "GHA", "name": "Ghana",     "flag": "🇬🇭", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "I",
+      "name": "Group I",
+      "teams": [
+        { "code": "POR", "name": "Portugal",  "flag": "🇵🇹", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "BOL", "name": "Bolivia",   "flag": "🇧🇴", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "ROU", "name": "Romania",   "flag": "🇷🇴", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "NGA", "name": "Nigeria",   "flag": "🇳🇬", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "J",
+      "name": "Group J",
+      "teams": [
+        { "code": "GER", "name": "Germany",   "flag": "🇩🇪", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "HON", "name": "Honduras",  "flag": "🇭🇳", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "AUT", "name": "Austria",   "flag": "🇦🇹", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "CMR", "name": "Cameroon",  "flag": "🇨🇲", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "K",
+      "name": "Group K",
+      "teams": [
+        { "code": "NED", "name": "Netherlands","flag": "🇳🇱", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "PAN", "name": "Panama",    "flag": "🇵🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "UKR", "name": "Ukraine",   "flag": "🇺🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "ZAF", "name": "South Africa","flag": "🇿🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    },
+    {
+      "id": "L",
+      "name": "Group L",
+      "teams": [
+        { "code": "CRO", "name": "Croatia",   "flag": "🇭🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "KSA", "name": "Saudi Arabia","flag": "🇸🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "JOR", "name": "Jordan",    "flag": "🇯🇴", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "NZL", "name": "New Zealand","flag": "🇳🇿", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+      ]
+    }
+  ]
+}

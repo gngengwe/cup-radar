@@ -19,8 +19,8 @@ export const PRODUCT = {
   TAGLINE:          'Matches, moments, tickets, and city energy — all in one place.',
   SITE_TITLE:       'Cup Radar — World Cup Seattle HQ',
   META_DESCRIPTION: 'A Seattle-first World Cup command center for matches, tickets, events, travel opportunities, and tournament news.',
-  CTA_PRIMARY:      'Join the Cup Radar list',
-  CTA_SECONDARY:    'Preview Seattle HQ',
+  CTA_PRIMARY:      'Open Today Mode',
+  CTA_SECONDARY:    'View Seattle HQ',
   SIGNUP_FORM_ACTION: '', // Mailchimp / ConvertKit form action URL — fill in before launch
 };
 

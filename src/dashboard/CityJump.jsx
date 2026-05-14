@@ -1,0 +1,122 @@
+import { useState } from 'react';
+import citiesData from '../data/cities.json';
+
+const SCORE_LABELS = {
+  matchQuality: 'Match Quality',
+  ticketAccess: 'Ticket Access',
+  travelEase:   'Travel Ease',
+  cityEnergy:   'City Energy',
+  overall:      'Overall',
+};
+
+function ScoreBar({ value, max = 5 }) {
+  return (
+    <div className="score-bar-wrap">
+      <div className="score-bar">
+        <div className="score-bar__fill" style={{ width: `${(value / max) * 100}%` }} />
+      </div>
+      <span className="score-bar__num">{value}/{max}</span>
+    </div>
+  );
+}
+
+function CityCard({ city, expanded, onToggle }) {
+  const { scores } = city;
+  return (
+    <div className={`city-jump-card${city.home ? ' home' : ''}${expanded ? ' expanded' : ''}`}>
+      <div className="city-jump-card__header" onClick={onToggle} role="button" tabIndex={0}>
+        <div className="city-jump-card__top">
+          <span className="city-jump-card__flag">{city.flag}</span>
+          <div className="city-jump-card__info">
+            <div className="city-jump-card__name">{city.name}</div>
+            <div className="city-jump-card__country">{city.country}</div>
+          </div>
+          <div className="city-jump-card__right">
+            <span className="city-jump-card__tag">{city.tag}</span>
+            <span className="city-jump-card__overall">{scores.overall}/5</span>
+            <span className="city-jump-card__chevron">{expanded ? '▲' : '▼'}</span>
+          </div>
+        </div>
+        <div className="city-jump-card__flight">
+          ✈️ {city.flightFromSEA} · {city.matches} matches · {city.stages.join(', ')}
+        </div>
+      </div>
+
+      {expanded && (
+        <div className="city-jump-card__details">
+          <p className="city-jump-card__best-for">{city.bestFor}</p>
+
+          <div className="city-jump-scores">
+            {Object.entries(scores)
+              .filter(([k]) => k !== 'overall')
+              .map(([key, val]) => (
+                <div key={key} className="city-jump-score-row">
+                  <span className="city-jump-score-label">{SCORE_LABELS[key]}</span>
+                  <ScoreBar value={val} />
+                </div>
+              ))}
+          </div>
+
+          <div className="city-jump-card__hotel">
+            🏨 {city.hotelNote}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+export default function CityJump() {
+  const [expanded, setExpanded] = useState(null);
+  const [sortBy, setSortBy]     = useState('overall');
+
+  const { cities, lastUpdated } = citiesData;
+
+  const sorted = [...cities].sort((a, b) => (b.scores[sortBy] || 0) - (a.scores[sortBy] || 0));
+
+  const updatedStr = new Date(lastUpdated).toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+  });
+
+  return (
+    <div>
+      <div className="dash-section-header">
+        <h1 className="dash-section-title">City Jump</h1>
+        <span className="dash-last-updated">Updated {updatedStr}</span>
+      </div>
+
+      <p className="dash-sub-desc" style={{ marginBottom: 24 }}>
+        Compare opportunistic trips across World Cup host cities — scored for match quality,
+        ticket access, travel ease from Seattle, and city energy.
+      </p>
+
+      <div className="filter-bar">
+        <span className="filter-label">Sort by</span>
+        {Object.entries(SCORE_LABELS).map(([key, label]) => (
+          <button
+            key={key}
+            className={`filter-chip${sortBy === key ? ' active' : ''}`}
+            onClick={() => setSortBy(key)}
+          >{label}</button>
+        ))}
+      </div>
+
+      <div className="city-jump-list">
+        {sorted.map(city => (
+          <CityCard
+            key={city.id}
+            city={city}
+            expanded={expanded === city.id}
+            onToggle={() => setExpanded(expanded === city.id ? null : city.id)}
+          />
+        ))}
+      </div>
+
+      <p className="dash-disclaimer">
+        Scores are subjective estimates based on publicly available information.
+        Travel conditions, ticket availability, and city logistics change frequently.
+        Cup Radar is not affiliated with FIFA or any airline or hotel provider.
+      </p>
+    </div>
+  );
+}
