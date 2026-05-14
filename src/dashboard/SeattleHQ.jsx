@@ -1,28 +1,98 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import matchData  from '../data/matches.json';
+import matchData   from '../data/matches.json';
 import seattleData from '../data/seattle.json';
 import eventsData  from '../data/events.json';
 import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
+import WeatherWidget from '../components/WeatherWidget';
 
 const seattleMatches = matchData.matches.filter(m => m.seattleMatch);
 
+const SHOULD_GO_COLORS = {
+  'Don\'t miss it': '#00e676',
+  'Strongly Go':    '#00e676',
+  'Go':             'var(--accent)',
+  'Consider':       '#ffb84d',
+  'Wait':           'var(--text-muted)',
+};
+
 function MatchCard({ match }) {
-  const d = new Date(match.date + 'T12:00:00');
-  const weekday = d.toLocaleDateString('en-US', { weekday: 'short' });
-  const dateStr = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const [expanded, setExpanded] = useState(false);
+
+  const d         = new Date(match.date + 'T12:00:00');
+  const weekday   = d.toLocaleDateString('en-US', { weekday: 'short' });
+  const dateStr   = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
   const isKnockout = match.stage !== 'Group Stage';
 
+  const transit    = seattleData.transitPain?.find(t => t.matchId === match.id);
+  const shouldIGo  = seattleData.shouldIGoScores?.find(s => s.matchId === match.id);
+
   return (
-    <div className={`seattle-match-card${isKnockout ? ' knockout' : ''}`}>
+    <div className={`seattle-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}`}>
       <div className="seattle-match-card__top">
         <span className="seattle-match-card__stage">{match.stage}</span>
         {isKnockout && <span className="seattle-match-card__badge">KO</span>}
+        {shouldIGo && (
+          <span
+            className="seattle-match-card__sigo"
+            style={{ color: SHOULD_GO_COLORS[shouldIGo.label] || 'var(--accent)' }}
+          >
+            {shouldIGo.score}/100
+          </span>
+        )}
       </div>
+
       <div className="seattle-match-card__date">{weekday}, {dateStr}</div>
       <div className="seattle-match-card__teams">
         {match.homeFlag} {match.homeTeam} <span className="seattle-match-card__vs">vs</span> {match.awayTeam} {match.awayFlag}
       </div>
       <div className="seattle-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
+
+      {/* ── Transit pain ── */}
+      {transit && (
+        <div className="seattle-match-card__transit" style={{ borderColor: transit.color }}>
+          <span className="transit-pain__label">Transit</span>
+          <span className="transit-pain__score" style={{ color: transit.color }}>{transit.label}</span>
+          <span className="transit-pain__peak">{transit.peakWindow}</span>
+        </div>
+      )}
+
+      {/* ── Expand button ── */}
+      <button
+        className="seattle-match-card__expand-btn"
+        onClick={() => setExpanded(v => !v)}
+      >
+        {expanded ? '▲ Less' : '▼ More details'}
+      </button>
+
+      {/* ── Expanded: weather + should I go + transit tips ── */}
+      {expanded && (
+        <div className="seattle-match-card__detail">
+          <WeatherWidget matchDate={match.date} />
+
+          {shouldIGo && (
+            <div className="sigo-block">
+              <div className="sigo-block__header">
+                <span className="sigo-block__label">Should I Go?</span>
+                <span className="sigo-block__score" style={{ color: SHOULD_GO_COLORS[shouldIGo.label] || 'var(--accent)' }}>
+                  {shouldIGo.label} · {shouldIGo.score}/100
+                </span>
+              </div>
+              <p className="sigo-block__summary">{shouldIGo.summary}</p>
+            </div>
+          )}
+
+          {transit?.tips && (
+            <div className="transit-tips">
+              <div className="transit-tips__label">Transit tips</div>
+              <ul>
+                {transit.tips.map((tip, i) => <li key={i}>{tip}</li>)}
+              </ul>
+            </div>
+          )}
+        </div>
+      )}
+
       <div className="seattle-match-card__cal">
         <AddMatchToGoogleCalendar match={match} />
         <AddMatchToICS match={match} />

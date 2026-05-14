@@ -68,5 +68,99 @@
     { "matchId": "wc26-sea-04", "date": "2026-06-26", "energyScore": 5, "crowdNote": "Final group match day — peak city energy." },
     { "matchId": "wc26-sea-05", "date": "2026-07-01", "energyScore": 5, "crowdNote": "Knockout round. Elimination stakes — maximum atmosphere." },
     { "matchId": "wc26-sea-06", "date": "2026-07-06", "energyScore": 5, "crowdNote": "Knockout round. One of the last Seattle matches ever." }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-sea-01", "date": "2026-06-15",
+      "score": 4, "label": "High",
+      "color": "#ffb84d",
+      "note": "First Seattle match. Maximum crowd. Arrive at Stadium Station 75+ min early.",
+      "peakWindow": "5:00–7:30 PM PT",
+      "tips": ["Take Link from wherever you are", "Stadium Station platform will be at capacity — go early", "Post-match: walk north toward Pioneer Square before getting on Link"]
+    },
+    {
+      "matchId": "wc26-sea-02", "date": "2026-06-19",
+      "score": 3, "label": "Moderate",
+      "color": "#facc15",
+      "note": "Midweek Friday evening. Lighter than weekend but still busy.",
+      "peakWindow": "6:00–7:30 PM PT",
+      "tips": ["Friday evening commute + match crowd overlap", "Leave work early if downtown", "Link every 8 min — platform will fill fast after 6 PM"]
+    },
+    {
+      "matchId": "wc26-sea-03", "date": "2026-06-24",
+      "score": 4, "label": "High",
+      "color": "#ffb84d",
+      "note": "Group stage getting critical. High demand day.",
+      "peakWindow": "5:00–7:00 PM PT",
+      "tips": ["Wednesday evening. Leave office by 5 PM at latest", "Consider Capitol Hill or Pioneer Square staging area", "Lumen Field gates open 2.5 hrs before kickoff — use them"]
+    },
+    {
+      "matchId": "wc26-sea-04", "date": "2026-06-26",
+      "score": 4, "label": "High",
+      "color": "#ffb84d",
+      "note": "Final group stage day. Multiple group scenarios resolving simultaneously.",
+      "peakWindow": "2:00–4:00 PM PT",
+      "tips": ["Afternoon kickoff — post-lunch timing actually helps transit", "Bars fill earlier since it's daytime", "Post-match chaos: stay near SoDo until crowd thins (30–45 min)"]
+    },
+    {
+      "matchId": "wc26-sea-05", "date": "2026-07-01",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Knockout round. Single-elimination. City will be at fever pitch.",
+      "peakWindow": "5:30–8:00 PM PT",
+      "tips": ["Plan your entire day around this match", "Stay near SoDo or Pioneer Square all afternoon", "Book your post-match ride or accommodation in advance — transit will be mobbed for 90+ min after final whistle"]
+    },
+    {
+      "matchId": "wc26-sea-06", "date": "2026-07-06",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Final Seattle knockout match. One of the last World Cup games here — ever.",
+      "peakWindow": "5:30–8:00 PM PT",
+      "tips": ["Make this a full day event", "Book SoDo/Pioneer Square table in advance", "This is the last time Lumen Field hosts a World Cup match — treat it accordingly"]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-sea-01", "date": "2026-06-15",
+      "score": 82, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Your city, your moment. First Seattle match of a once-in-a-generation tournament.",
+      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-sea-02", "date": "2026-06-19",
+      "score": 78, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Midweek match — slightly better ticket access and lighter crowds than the opener.",
+      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 4, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-sea-03", "date": "2026-06-24",
+      "score": 85, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Group stage reaching its peak. Real stakes. Lumen Field will be electric.",
+      "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-sea-04", "date": "2026-06-26",
+      "score": 88, "label": "Strongly Go",
+      "color": "var(--accent)",
+      "summary": "Final group match day. Teams fighting for their lives. Maximum drama.",
+      "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-sea-05", "date": "2026-07-01",
+      "score": 94, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Knockout soccer at Lumen Field. Elimination match. Go.",
+      "factors": { "stage": 5, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-sea-06", "date": "2026-07-06",
+      "score": 97, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "The last World Cup match Seattle will ever host. Nothing close to this again.",
+      "factors": { "stage": 5, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    }
   ]
 }

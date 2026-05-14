@@ -1753,3 +1753,266 @@ input, textarea { font-family: inherit; }
   .bracket-tab__short { font-size: 12px; }
   .bracket-tab__dates { display: none; }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 4 — SEATTLE HQ ENHANCEMENTS
+═══════════════════════════════════════════════════════════ */
+
+/* Should I Go score badge on match card */
+.seattle-match-card__sigo {
+  font-size: 12px;
+  font-weight: 900;
+  margin-left: auto;
+  letter-spacing: -0.02em;
+}
+
+/* Transit pain strip */
+.seattle-match-card__transit {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid;
+  background: rgba(255,255,255,0.03);
+}
+.transit-pain__label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+.transit-pain__score { font-size: 12px; font-weight: 800; }
+.transit-pain__peak  { font-size: 11px; color: var(--text-muted); margin-left: auto; }
+
+/* Expand button */
+.seattle-match-card__expand-btn {
+  font-size: 11px;
+  color: var(--text-dim);
+  margin-top: 10px;
+  padding: 4px 0;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.seattle-match-card__expand-btn:hover { color: var(--text-muted); }
+
+/* Expanded detail block */
+.seattle-match-card__detail {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* Should I Go block */
+.sigo-block {}
+.sigo-block__header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px; }
+.sigo-block__label  { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+.sigo-block__score  { font-size: 13px; font-weight: 800; }
+.sigo-block__summary { font-size: 13px; color: var(--text-muted); line-height: 1.55; }
+
+/* Transit tips */
+.transit-tips {}
+.transit-tips__label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); margin-bottom: 6px; }
+.transit-tips ul { padding-left: 16px; display: flex; flex-direction: column; gap: 4px; }
+.transit-tips li { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 4 — WEATHER WIDGET
+═══════════════════════════════════════════════════════════ */
+.weather-widget {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 8px 12px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+}
+.weather-widget--placeholder, .weather-widget--loading {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+.weather-widget__icon { font-size: 18px; }
+.weather-widget__temp { font-size: 16px; font-weight: 800; color: var(--text); }
+.weather-widget__desc { font-size: 12px; color: var(--text-muted); }
+.weather-widget__rain { font-size: 12px; color: var(--blue); font-weight: 600; }
+.weather-widget__wind { font-size: 12px; color: var(--text-dim); }
+.weather-widget__msg  { font-size: 12px; color: var(--text-dim); }
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 4 — URGENT TICKET BOARD
+═══════════════════════════════════════════════════════════ */
+.urgent-chip.active {
+  background: rgba(248, 113, 113, 0.12);
+  border-color: rgba(248, 113, 113, 0.3);
+  color: #f87171;
+}
+
+.urgent-board {}
+.urgent-board--empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 40px 24px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  text-align: center;
+}
+.urgent-board__icon { font-size: 28px; }
+.urgent-board__msg  { font-size: 14px; color: var(--text-muted); font-weight: 600; }
+.urgent-board__next { font-size: 13px; color: var(--text-dim); max-width: 360px; }
+
+.urgent-section { margin-bottom: 24px; }
+.urgent-section__label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 4 — NEIGHBORHOOD WATCH GUIDE
+═══════════════════════════════════════════════════════════ */
+.hood-legend {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.hood-legend-item {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.hood-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.hood-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: border-color 0.18s;
+}
+.hood-card:hover  { border-color: rgba(255,255,255,0.1); }
+.hood-card.expanded { border-color: var(--border-accent); }
+
+.hood-card__header {
+  padding: 16px 20px;
+  cursor: pointer;
+  user-select: none;
+}
+.hood-card__top-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.hood-card__name    { font-size: 16px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 2px; }
+.hood-card__tagline { font-size: 13px; color: var(--text-muted); }
+.hood-card__meta    { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.hood-card__chevron { font-size: 11px; color: var(--text-dim); }
+
+.hood-card__summary-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.hood-card__walk  { font-size: 12px; color: var(--text-muted); font-weight: 600; }
+.hood-card__crowd { font-size: 12px; color: var(--text-dim); }
+.hood-card__badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+}
+.hood-card__badge.outdoor { background: var(--accent-soft); color: var(--accent); }
+
+.energy-dots { display: flex; gap: 3px; }
+.energy-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.1);
+}
+.energy-dot.active { background: var(--accent); }
+
+.hood-card__body {
+  padding: 0 20px 20px;
+  border-top: 1px solid var(--border);
+  background: rgba(0,0,0,0.1);
+}
+.hood-card__transit {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 14px 0 10px;
+}
+.hood-card__transit-label { font-weight: 700; color: var(--text-dim); margin-right: 6px; font-size: 12px; }
+.hood-card__vibe      { font-size: 13px; color: var(--text-muted); font-style: italic; margin-bottom: 8px; }
+.hood-card__best-for  { font-size: 13px; color: var(--text-muted); margin-bottom: 16px; }
+
+.hood-card__spots-heading {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  margin-bottom: 10px;
+}
+
+.hood-spots-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.spot-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+}
+.spot-card__top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 5px;
+}
+.spot-card__name     { font-size: 14px; font-weight: 700; color: var(--text); }
+.spot-card__type     { font-size: 11px; color: var(--text-dim); padding: 1px 7px; background: rgba(255,255,255,0.05); border-radius: 100px; }
+.spot-card__outdoor  { font-size: 11px; color: var(--accent); font-weight: 600; }
+.spot-card__distance { font-size: 12px; color: var(--text-muted); margin-bottom: 4px; }
+.spot-card__tip      { font-size: 12.5px; color: var(--text-muted); line-height: 1.55; }
+
+.hood-tips-list { padding-left: 18px; display: flex; flex-direction: column; gap: 5px; }
+.hood-tip       { font-size: 13px; color: var(--text-muted); line-height: 1.55; }
+
+.hood-transit-banner {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 16px 20px;
+  background: var(--bg-card-alt);
+  border: 1px solid var(--border-blue);
+  border-radius: var(--radius);
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-top: 8px;
+}
+.hood-transit-banner__icon { font-size: 20px; flex-shrink: 0; margin-top: 2px; }
+.hood-transit-banner strong { color: var(--text); }

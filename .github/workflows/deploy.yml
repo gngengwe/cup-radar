@@ -19,6 +19,7 @@ jobs:
       - run: npm run build
         env:
           VITE_FOOTBALL_API_KEY: ${{ secrets.VITE_FOOTBALL_API_KEY }}
+          VITE_WEATHER_API_KEY:  ${{ secrets.VITE_WEATHER_API_KEY }}
 
       - name: Create Pages project (skips if already exists)
         run: npx wrangler pages project create cup-radar --production-branch master 2>/dev/null || true

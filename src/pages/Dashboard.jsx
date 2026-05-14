@@ -5,6 +5,7 @@ import SeattleHQ from '../dashboard/SeattleHQ';
 import Matches from '../dashboard/Matches';
 import Groups from '../dashboard/Groups';
 import Bracket from '../dashboard/Bracket';
+import WatchGuide from '../dashboard/WatchGuide';
 import TicketRadar from '../dashboard/TicketRadar';
 import CityJump from '../dashboard/CityJump';
 import Newsroom from '../dashboard/Newsroom';
@@ -17,6 +18,7 @@ const NAV = [
   { id: 'groups',  label: 'Group Tracker',   icon: '📊', desc: '12 groups'        },
   { id: 'bracket', label: 'Bracket',         icon: '🏆', desc: 'Knockout rounds'  },
   { id: 'tickets', label: 'Ticket Radar',    icon: '🎫', desc: 'Opportunities'    },
+  { id: 'watch',   label: 'Watch Guide',     icon: '🍺', desc: 'Bars & neighborhoods' },
   { id: 'cities',  label: 'City Jump',       icon: '✈️', desc: 'Trip compare'     },
   { id: 'news',    label: 'Newsroom',        icon: '📰', desc: 'Latest stories'   },
   { id: 'culture', label: 'Culture Tracker', icon: '👕', desc: 'Kits & moments'   },
@@ -29,6 +31,7 @@ const SECTIONS = {
   groups:  Groups,
   bracket: Bracket,
   tickets: TicketRadar,
+  watch:   WatchGuide,
   cities:  CityJump,
   news:    Newsroom,
   culture: CultureTracker,

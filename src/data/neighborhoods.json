@@ -1,0 +1,134 @@
+{
+  "_note": "Seattle neighborhood watch guide for World Cup match days. Update spots and tips as new venues announce World Cup programming.",
+  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "neighborhoods": [
+    {
+      "id": "sodo",
+      "name": "SoDo",
+      "tagline": "Walk to the match",
+      "walkToLumen": "3–8 min walk",
+      "transitToLumen": "Stadium Station (Link) — 1 block",
+      "vibe": "Pre-game central. Loud, busy, close.",
+      "bestFor": "Match-day convenience. Arrive early.",
+      "energyRating": 5,
+      "crowdLevel": "Very high on match days",
+      "spots": [
+        { "name": "The Pyramid Alehouse", "type": "Bar/Brewery", "distance": "4 min walk", "tip": "Classic SoDo match-day spot. Arrive 2+ hrs before KO or you'll wait.", "outdoor": false },
+        { "name": "Holy City Brewing", "type": "Brewery", "distance": "6 min walk", "tip": "Less touristy than Pyramid. Good rotating taps. Quieter until ~1hr before KO.", "outdoor": false },
+        { "name": "Georgetown Brewing Taproom", "type": "Brewery", "distance": "12 min walk", "tip": "Worth the walk for Seattle's best lager. Starts filling early.", "outdoor": false }
+      ],
+      "matchDayTips": [
+        "Street vendors set up on Occidental Ave S 2–3 hrs before kickoff.",
+        "Occidental Square sometimes hosts informal fan gatherings.",
+        "Rideshare pickup is chaotic post-match — walk a few blocks north.",
+        "Food trucks park near 1st Ave S before big matches."
+      ]
+    },
+    {
+      "id": "pioneer-square",
+      "name": "Pioneer Square",
+      "tagline": "Historic bars, 10 min from the pitch",
+      "walkToLumen": "10–15 min walk",
+      "transitToLumen": "Walk or 1 stop on Link (Pioneer Square → Stadium)",
+      "vibe": "Seattle's oldest neighborhood. Underground bar culture meets World Cup energy.",
+      "bestFor": "Pre-game drinking with history. Good group options.",
+      "energyRating": 5,
+      "crowdLevel": "High — multiple bars draw simultaneous crowds",
+      "spots": [
+        { "name": "Central Saloon", "type": "Bar", "distance": "13 min walk", "tip": "Seattle's oldest bar (1892). Intimate and loud on match days.", "outdoor": false },
+        { "name": "Elysian Bar", "type": "Bar/Brewery", "distance": "11 min walk", "tip": "Multiple screens, big space, good beer. One of the best watch setups in the area.", "outdoor": false },
+        { "name": "The Panama Hotel Tea & Coffee", "type": "Café", "distance": "10 min walk", "tip": "For a calmer pre-game. Historic space, no alcohol.", "outdoor": false },
+        { "name": "Occidental Park", "type": "Outdoor Space", "distance": "11 min walk", "tip": "Cobblestone square. Informal gatherings form naturally. Community watch parties on select days.", "outdoor": true }
+      ],
+      "matchDayTips": [
+        "Bars along 1st Ave S fill up fast — aim to arrive 2 hrs before kickoff.",
+        "Walking to the stadium is better than waiting for transit post-match.",
+        "Post-match crowd spills into the streets — great energy if you're not rushing."
+      ]
+    },
+    {
+      "id": "capitol-hill",
+      "name": "Capitol Hill",
+      "tagline": "Seattle's most electric neighborhood",
+      "walkToLumen": "35–40 min walk or 15 min by Link",
+      "transitToLumen": "Capitol Hill Station → Stadium Station (2 stops, ~12 min)",
+      "vibe": "Dense bar scene, soccer culture, diverse crowds. Best post-match neighborhood in Seattle.",
+      "bestFor": "Groups, late nights, soccer regulars.",
+      "energyRating": 4,
+      "crowdLevel": "Moderate pre-match, high post-match",
+      "spots": [
+        { "name": "Rhein Haus", "type": "German Beer Hall", "distance": "2 min from Cap Hill Station", "tip": "Giant beer hall with bocce courts. Books out fast for big matches — check for reservations.", "outdoor": false },
+        { "name": "Optimism Brewing", "type": "Brewery", "distance": "4 min from Cap Hill Station", "tip": "Massive indoor/outdoor space. One of Seattle's best watch venues.", "outdoor": true },
+        { "name": "Canterbury Ale & Eats", "type": "Pub", "distance": "7 min from Cap Hill Station", "tip": "Classic soccer bar. Multiple screens, knows the game.", "outdoor": false },
+        { "name": "Cal Anderson Park", "type": "Outdoor Space", "distance": "5 min from Cap Hill Station", "tip": "Informal outdoor hangout on match days. No screens but great city energy.", "outdoor": true }
+      ],
+      "matchDayTips": [
+        "Link is the move — drives and rideshare are a nightmare on match days.",
+        "Capitol Hill has the best post-match energy in the city.",
+        "For early kickoffs, Optimism's outdoor space is worth it."
+      ]
+    },
+    {
+      "id": "international-district",
+      "name": "International District",
+      "tagline": "Closest food + culture, 5 min from the pitch",
+      "walkToLumen": "5–10 min walk",
+      "transitToLumen": "International District Station (Link) — then walk",
+      "vibe": "Authentic, local, underrated on match days. Best pre-match food near the venue.",
+      "bestFor": "Eating before the match. Less chaotic than SoDo bars.",
+      "energyRating": 3,
+      "crowdLevel": "Moderate — locals, not tourist crowds",
+      "spots": [
+        { "name": "Jade Garden", "type": "Dim Sum / Chinese", "distance": "7 min walk to Lumen", "tip": "Legendary dim sum. Go for lunch before an afternoon match.", "outdoor": false },
+        { "name": "Saigon Deli", "type": "Vietnamese", "distance": "8 min walk", "tip": "Cheap, fast, excellent banh mi. Ideal quick pre-match meal.", "outdoor": false },
+        { "name": "Uwajimaya", "type": "Japanese Market/Food Court", "distance": "8 min walk", "tip": "Great pre-match food court options. Stock up on snacks.", "outdoor": false }
+      ],
+      "matchDayTips": [
+        "Come early to eat — kitchens get slammed once the SoDo crowd arrives.",
+        "Little to no World Cup buzz here — it's genuinely local.",
+        "Good option if you want food + calm before the storm."
+      ]
+    },
+    {
+      "id": "downtown",
+      "name": "Downtown / Pike Place",
+      "tagline": "Tourist energy, central access",
+      "walkToLumen": "25–30 min walk or 10 min by Link",
+      "transitToLumen": "Westlake Station → Stadium Station (3 stops, ~8 min)",
+      "vibe": "High tourist energy during World Cup. Hotels, official FIFA spaces, and fan merchandise everywhere.",
+      "bestFor": "Arriving from outside Seattle. Hotel base. Pre-match browsing.",
+      "energyRating": 4,
+      "crowdLevel": "Very high citywide during tournament weeks",
+      "spots": [
+        { "name": "Pike Place Market", "type": "Market", "distance": "27 min walk to Lumen", "tip": "Best for morning/early afternoon. Head south at least 90 min before kickoff.", "outdoor": true },
+        { "name": "Pike Brewing", "type": "Brewery", "distance": "Westlake area", "tip": "Solid pre-game option if you're starting downtown.", "outdoor": false },
+        { "name": "Seattle FIFA Fan Festival (Seattle Center)", "type": "Official Fan Zone", "distance": "15 min from downtown", "tip": "Free entry. Best for atmosphere and non-ticket-holders.", "outdoor": true }
+      ],
+      "matchDayTips": [
+        "Westlake Link station will be packed — budget extra time.",
+        "Official fan merchandise and FIFA activations concentrated downtown.",
+        "Don't wait until 60 min before kickoff to head to SoDo."
+      ]
+    },
+    {
+      "id": "fremont",
+      "name": "Fremont",
+      "tagline": "Local vibe, worth the trip for afternoon matches",
+      "walkToLumen": "40–50 min walk or 30 min by bus",
+      "transitToLumen": "Bus to Link (transfer required), ~25–35 min",
+      "vibe": "Quirky neighborhood energy. More relaxed than Capitol Hill. Ideal for afternoon kickoffs.",
+      "bestFor": "Locals who want to avoid downtown chaos.",
+      "energyRating": 3,
+      "crowdLevel": "Low to moderate — mostly Seattle regulars",
+      "spots": [
+        { "name": "Fremont Brewing", "type": "Brewery", "distance": "30 min bus to Lumen", "tip": "One of Seattle's best outdoor beer gardens. Great for afternoon pre-game — leave 60 min before KO.", "outdoor": true },
+        { "name": "Red Door", "type": "Bar", "distance": "Fremont Ave", "tip": "Neighborhood pub feel. Usually has screens for big matches.", "outdoor": false }
+      ],
+      "matchDayTips": [
+        "Budget 35–40 min travel time to Lumen Field.",
+        "Best for afternoon kickoffs when you want a leisurely pre-game.",
+        "Uber/Lyft surge pricing will be brutal — take transit."
+      ]
+    }
+  ]
+}
