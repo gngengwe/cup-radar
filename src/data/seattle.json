@@ -62,45 +62,45 @@
     }
   ],
   "cityEnergyForecast": [
-    { "matchId": "wc26-sea-01", "date": "2026-06-15", "energyScore": 4, "crowdNote": "Opening Seattle match — expect heavy crowds citywide." },
-    { "matchId": "wc26-sea-02", "date": "2026-06-19", "energyScore": 4, "crowdNote": "Second group match. Midweek — slightly lighter downtown traffic." },
-    { "matchId": "wc26-sea-03", "date": "2026-06-24", "energyScore": 5, "crowdNote": "Group stage heating up. High-stakes result likely." },
-    { "matchId": "wc26-sea-04", "date": "2026-06-26", "energyScore": 5, "crowdNote": "Final group match day — peak city energy." },
-    { "matchId": "wc26-sea-05", "date": "2026-07-01", "energyScore": 5, "crowdNote": "Knockout round. Elimination stakes — maximum atmosphere." },
-    { "matchId": "wc26-sea-06", "date": "2026-07-06", "energyScore": 5, "crowdNote": "Knockout round. One of the last Seattle matches ever." }
+    { "matchId": "wc26-sea-01", "date": "2026-06-15", "energyScore": 4, "crowdNote": "Belgium vs Egypt — noon kickoff, Mo Salah in Seattle. Belgian and Egyptian fans mix citywide." },
+    { "matchId": "wc26-sea-02", "date": "2026-06-19", "energyScore": 5, "crowdNote": "USA vs Australia — USMNT at home at Lumen Field. Largest American crowd possible. Historic." },
+    { "matchId": "wc26-sea-03", "date": "2026-06-24", "energyScore": 3, "crowdNote": "Bosnia-Herzegovina vs Qatar — noon kickoff. European fans traveling, quieter than USA or Belgium matches." },
+    { "matchId": "wc26-sea-04", "date": "2026-06-26", "energyScore": 5, "crowdNote": "Egypt vs Iran — 8pm PT night kickoff, geopolitically charged. Sold out. Maximum atmosphere." },
+    { "matchId": "wc26-sea-05", "date": "2026-07-01", "energyScore": 5, "crowdNote": "Round of 32 — Group G winner returns to Lumen Field for elimination knockout." },
+    { "matchId": "wc26-sea-06", "date": "2026-07-06", "energyScore": 5, "crowdNote": "Round of 16 — Last Seattle match ever at a World Cup. One of the final 16 teams on earth." }
   ],
   "transitPain": [
     {
       "matchId": "wc26-sea-01", "date": "2026-06-15",
-      "score": 4, "label": "High",
-      "color": "#ffb84d",
-      "note": "First Seattle match. Maximum crowd. Arrive at Stadium Station 75+ min early.",
-      "peakWindow": "5:00–7:30 PM PT",
-      "tips": ["Take Link from wherever you are", "Stadium Station platform will be at capacity — go early", "Post-match: walk north toward Pioneer Square before getting on Link"]
+      "score": 3, "label": "Moderate",
+      "color": "#facc15",
+      "note": "Belgium vs Egypt — noon kickoff (12pm PT). Earlier timing helps transit. Still busy.",
+      "peakWindow": "10:30 AM–1:30 PM PT",
+      "tips": ["Noon kickoff is actually manageable — no evening commute overlap", "Belgian and Egyptian fans arrive early — bars fill from 10am", "Post-match: midday means easier transit and rideshare"]
     },
     {
       "matchId": "wc26-sea-02", "date": "2026-06-19",
-      "score": 3, "label": "Moderate",
-      "color": "#facc15",
-      "note": "Midweek Friday evening. Lighter than weekend but still busy.",
-      "peakWindow": "6:00–7:30 PM PT",
-      "tips": ["Friday evening commute + match crowd overlap", "Leave work early if downtown", "Link every 8 min — platform will fill fast after 6 PM"]
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "USA vs Australia — noon kickoff. USMNT at Lumen Field will draw the biggest American crowd of the tournament.",
+      "peakWindow": "9:30 AM–2:00 PM PT",
+      "tips": ["USA match = maximum crowd energy. Stadium full hours early", "American Outlaws fan section will create the loudest atmosphere Seattle has ever seen", "Post-match: despite noon KO, city celebrates all afternoon — plan for a full day"]
     },
     {
       "matchId": "wc26-sea-03", "date": "2026-06-24",
-      "score": 4, "label": "High",
-      "color": "#ffb84d",
-      "note": "Group stage getting critical. High demand day.",
-      "peakWindow": "5:00–7:00 PM PT",
-      "tips": ["Wednesday evening. Leave office by 5 PM at latest", "Consider Capitol Hill or Pioneer Square staging area", "Lumen Field gates open 2.5 hrs before kickoff — use them"]
+      "score": 2, "label": "Low",
+      "color": "var(--accent)",
+      "note": "Bosnia-Herzegovina vs Qatar — noon kickoff. Smaller fan followings, easiest transit day of the group stage.",
+      "peakWindow": "10:30 AM–1:30 PM PT",
+      "tips": ["Most manageable transit day of all 4 group stage matches", "Good day to explore SoDo and Pioneer Square without extreme crowds", "Bosnia fans traveling from Europe will add energy — watch for scarves and songs"]
     },
     {
       "matchId": "wc26-sea-04", "date": "2026-06-26",
-      "score": 4, "label": "High",
-      "color": "#ffb84d",
-      "note": "Final group stage day. Multiple group scenarios resolving simultaneously.",
-      "peakWindow": "2:00–4:00 PM PT",
-      "tips": ["Afternoon kickoff — post-lunch timing actually helps transit", "Bars fill earlier since it's daytime", "Post-match chaos: stay near SoDo until crowd thins (30–45 min)"]
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Egypt vs Iran — 8pm PT night kickoff. Most intense atmosphere of the group stage. Geopolitically charged.",
+      "peakWindow": "6:30–9:30 PM PT",
+      "tips": ["Night kickoff means Friday-night energy plus soccer energy — city is electric", "Bars will be packed from 5pm. Pioneer Square is the pre-game destination", "Post-match: 10pm+ crowd, limited transit — stay near SoDo 30 min before boarding Link"]
     },
     {
       "matchId": "wc26-sea-05", "date": "2026-07-01",
@@ -122,30 +122,30 @@
   "shouldIGoScores": [
     {
       "matchId": "wc26-sea-01", "date": "2026-06-15",
-      "score": 82, "label": "Go",
+      "score": 85, "label": "Go",
       "color": "var(--accent)",
-      "summary": "Your city, your moment. First Seattle match of a once-in-a-generation tournament.",
-      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 4 }
-    },
-    {
-      "matchId": "wc26-sea-02", "date": "2026-06-19",
-      "score": 78, "label": "Go",
-      "color": "var(--accent)",
-      "summary": "Midweek match — slightly better ticket access and lighter crowds than the opener.",
+      "summary": "Belgium vs Egypt — Mo Salah at Lumen Field. Could be one of the most dramatic matches of the group stage. Noon kickoff is manageable.",
       "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 4, "atmosphereExpected": 4 }
     },
     {
-      "matchId": "wc26-sea-03", "date": "2026-06-24",
-      "score": 85, "label": "Go",
-      "color": "var(--accent)",
-      "summary": "Group stage reaching its peak. Real stakes. Lumen Field will be electric.",
+      "matchId": "wc26-sea-02", "date": "2026-06-19",
+      "score": 95, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "USA vs Australia at Lumen Field — USMNT on home soil in your city. The biggest American soccer moment in decades. If you're a Seattle fan, this is the match.",
       "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
     },
     {
-      "matchId": "wc26-sea-04", "date": "2026-06-26",
-      "score": 88, "label": "Strongly Go",
+      "matchId": "wc26-sea-03", "date": "2026-06-24",
+      "score": 72, "label": "Consider",
       "color": "var(--accent)",
-      "summary": "Final group match day. Teams fighting for their lives. Maximum drama.",
+      "summary": "Bosnia-Herzegovina vs Qatar — Bosnia's historic first WC game in Seattle. Less high-profile than USA or Egypt/Belgium matches. Best ticket value of the group stage.",
+      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 5, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-sea-04", "date": "2026-06-26",
+      "score": 92, "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Egypt vs Iran — night kickoff, geopolitical electricity, Group G stakes. The most atmospheric match of the four group stage games. Friday night at Lumen Field.",
       "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
     },
     {

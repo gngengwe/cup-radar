@@ -1,166 +1,166 @@
 {
-  "_note": "Upset radar — matches and groups with high chaos potential. Update as the tournament progresses.",
-  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
+  "lastUpdated": "2026-05-14T12:00:00-07:00",
   "upsets": [
     {
       "id": "ups-001",
-      "title": "South Africa shocks Mexico — at the Azteca",
+      "title": "South Africa shock Mexico at the Azteca",
       "matchId": "wc26-001",
       "teams": ["RSA", "MEX"],
       "teamFlags": ["🇿🇦", "🇲🇽"],
-      "stage": "Group Stage",
+      "stage": "Group Stage — Group A",
       "date": "2026-06-11",
       "riskScore": 4,
       "status": "upcoming",
       "result": null,
-      "reasoning": "Mexico are heavy favorites at their sacred Estadio Azteca on opening day. But South Africa are organized, physical, and play with nothing to lose. The Azteca crowd pressure could work against Mexico — and 'nothing to lose' upsets happen on opening days.",
+      "reasoning": "Mexico are heavy favorites at the sacred Estadio Azteca on opening day. But South Africa are organized, physical, and play with nothing to lose. The 2010 hosts know what a World Cup opening-match atmosphere feels like. Mexico's pressure could work against them.",
       "keyFactors": [
-        "Mexico under enormous home pressure",
-        "South Africa's tournament experience (hosted 2010)",
-        "Azteca atmosphere cuts both ways",
-        "Opening match nerves affect favorites more than underdogs"
+        "Mexico under enormous home pressure at the Azteca",
+        "South Africa hosted 2010 — they know tournament atmospheres",
+        "Opening match nerves affect favorites more than underdogs",
+        "A draw would already be historic"
       ],
-      "upsetOdds": "Low — but very possible"
+      "upsetOdds": "Low but genuine — could define the whole group"
     },
     {
       "id": "ups-002",
-      "title": "Egypt ends USA's group stage dominance",
-      "matchId": null,
-      "teams": ["EGY", "USA"],
-      "teamFlags": ["🇪🇬", "🇺🇸"],
-      "stage": "Group Stage",
-      "date": null,
-      "riskScore": 3,
+      "title": "Egypt beat Belgium at Lumen Field",
+      "matchId": "wc26-sea-01",
+      "teams": ["EGY", "BEL"],
+      "teamFlags": ["🇪🇬", "🇧🇪"],
+      "stage": "Group Stage — Group G (Seattle, June 15)",
+      "date": "2026-06-15",
+      "riskScore": 4,
       "status": "upcoming",
       "result": null,
-      "reasoning": "Egypt have one of the most dangerous strikers in African football and a deeply organized defensive structure. USA as co-host will carry expectation. If Egypt can neutralize the US midfield and get a set-piece goal, the crowd goes quiet quickly.",
+      "reasoning": "Belgium are favorites, but Mo Salah in his final World Cup is one of the world's most dangerous attackers. Belgium's golden generation is aging. Egypt are organized defensively and lethal on the break. June 15 at Lumen Field could be one of the biggest shocks of the group stage.",
       "keyFactors": [
-        "USA co-host pressure",
-        "Egypt's African Cup of Nations form",
-        "Set-piece vulnerability for USA",
-        "Mo Salah factor if fit"
+        "Mo Salah's last World Cup — expect maximum motivation",
+        "Belgium's best players are past peak — Lukaku, De Bruyne both 30+",
+        "Egypt have tactical discipline to sit deep and counter",
+        "First Seattle match of the tournament — unpredictable opener atmosphere"
       ],
-      "upsetOdds": "Moderate"
+      "upsetOdds": "Moderate — this match will go down to the wire"
     },
     {
       "id": "ups-003",
-      "title": "Morocco tops Group C",
+      "title": "Morocco beat Brazil in Group C",
       "matchId": null,
-      "teams": ["MAR"],
-      "teamFlags": ["🇲🇦"],
-      "stage": "Group Stage",
+      "teams": ["MAR", "BRA"],
+      "teamFlags": ["🇲🇦", "🇧🇷"],
+      "stage": "Group Stage — Group C",
       "date": null,
       "riskScore": 3,
       "status": "upcoming",
       "result": null,
-      "reasoning": "Morocco winning their group isn't exactly an upset — they're 2022 semifinalists. But they're often underseeded. If they come out of Group C at the top, it sets up a run.",
+      "reasoning": "Morocco reached the 2022 World Cup semifinal. Brazil haven't won since 2002 and carry enormous psychological weight. This is the most high-profile group stage matchup of the tournament — 2022's most dramatic nation vs 2022's biggest disappointment. Morocco know how to beat anyone.",
       "keyFactors": [
-        "2022 momentum still real",
-        "Tight defensive structure",
-        "Dangerous on the counter",
-        "Tournament experience at the highest level"
+        "Morocco beat Portugal, Spain, and Belgium in 2022 — Brazil is not invincible",
+        "Brazil's defensive fragility in knockout situations",
+        "Morocco's compact tactical system neutralizes Brazil's individual quality",
+        "The 2022 connection — Morocco are no longer underdogs"
       ],
-      "upsetOdds": "Moderate — not really an upset anymore"
+      "upsetOdds": "Moderate — this is the match of Group C"
     },
     {
       "id": "ups-004",
-      "title": "Chile beats Brazil in Group D",
+      "title": "Scotland cause chaos in Group C",
       "matchId": null,
-      "teams": ["CHI", "BRA"],
-      "teamFlags": ["🇨🇱", "🇧🇷"],
-      "stage": "Group Stage",
+      "teams": ["SCO", "BRA"],
+      "teamFlags": ["🏴󠁧󠁢󠁳󠁣󠁴󠁿", "🇧🇷"],
+      "stage": "Group Stage — Group C",
       "date": null,
       "riskScore": 3,
       "status": "upcoming",
       "result": null,
-      "reasoning": "Brazil are the pre-tournament favorites in Group D, but Chile have beaten Brazil in competitive South American football. A fiery CONMEBOL rivalry, both teams know each other well. If Brazil start slow and Chile score first, the pressure builds fast.",
+      "reasoning": "Scotland haven't been at a World Cup since 1998 — 28 years of absence creates enormous emotional energy. They play with nothing to lose. Physical, direct, and dangerous on set pieces. A Brazil or Morocco scalp would be one of the all-time great World Cup moments.",
       "keyFactors": [
-        "Chile's history vs Brazil in CONMEBOL",
-        "Brazil's slow-start tendency",
-        "Physical, battle-hardened Chilean squad",
-        "High stakes group dynamic"
+        "28-year wait creates irreplaceable motivation",
+        "Scotland dangerous on set pieces",
+        "Opponents may underestimate the emotional factor",
+        "Scotland have nothing to lose — Brazil and Morocco have everything"
       ],
-      "upsetOdds": "Low-moderate"
+      "upsetOdds": "Low — but Scotland will make it uncomfortable for whoever they play"
     },
     {
       "id": "ups-005",
-      "title": "Indonesia — the group stage wildcard",
+      "title": "Norway eliminate France from Group I",
       "matchId": null,
-      "teams": ["IDN"],
-      "teamFlags": ["🇮🇩"],
-      "stage": "Group Stage",
+      "teams": ["NOR", "FRA"],
+      "teamFlags": ["🇳🇴", "🇫🇷"],
+      "stage": "Group Stage — Group I",
+      "date": null,
+      "riskScore": 4,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Erling Haaland is the best striker in world football and this is his first senior World Cup. France are defending tournament runners-up. Norway have the individual talent to beat anyone on a given day. Haaland vs France could be the defining group stage encounter of the entire tournament.",
+      "keyFactors": [
+        "Haaland in form — world-class striker at peak age (25) at his first WC",
+        "France's defensive vulnerabilities under pressure",
+        "Norway are not a one-man team — Ødegaard orchestrates",
+        "Group I is the toughest group in the draw — nobody is safe"
+      ],
+      "upsetOdds": "Moderate-high — this is genuinely 50/50 if Haaland fires"
+    },
+    {
+      "id": "ups-006",
+      "title": "Algeria eliminate defending champions Argentina",
+      "matchId": null,
+      "teams": ["ALG", "ARG"],
+      "teamFlags": ["🇩🇿", "🇦🇷"],
+      "stage": "Group Stage — Group J",
+      "date": null,
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "Argentina are defending champions but carry the weight of expectation. At 38, Messi cannot play every minute. Algeria are Africa's most experienced and physically imposing side. A defending champion group stage exit — with Messi's final World Cup ending early — would be the tournament's most devastating story.",
+      "keyFactors": [
+        "Messi at 38 cannot carry the full load",
+        "Algeria AFCON quality and physical style",
+        "Post-championship complacency risk for Argentina",
+        "Jordan and Austria also capable of points"
+      ],
+      "upsetOdds": "Low — but the consequences would be enormous"
+    },
+    {
+      "id": "ups-007",
+      "title": "Egypt vs Iran in Seattle — a draw that sends Iran through",
+      "matchId": "wc26-sea-04",
+      "teams": ["EGY", "IRN"],
+      "teamFlags": ["🇪🇬", "🇮🇷"],
+      "stage": "Group Stage — Group G (Seattle, June 26)",
+      "date": "2026-06-26",
+      "riskScore": 3,
+      "status": "upcoming",
+      "result": null,
+      "reasoning": "This is one of the most geopolitically charged matches in World Cup history, played at Lumen Field on a Friday night at 8pm. Iran are disciplined and hard to beat. A draw could send Iran through at Egypt's expense, ending Mo Salah's tournament in the group stage.",
+      "keyFactors": [
+        "Night kickoff, sold-out Lumen Field — electric atmosphere",
+        "Iran famous for defensive organization",
+        "If Egypt drew vs Belgium and need a win here, the pressure is enormous",
+        "Political dimension adds weight to every moment"
+      ],
+      "upsetOdds": "Moderate — Iran are capable of grinding out a result"
+    },
+    {
+      "id": "ups-008",
+      "title": "Curaçao stun Ivory Coast in their World Cup debut",
+      "matchId": null,
+      "teams": ["CUW", "CIV"],
+      "teamFlags": ["🇨🇼", "🇨🇮"],
+      "stage": "Group Stage — Group E",
       "date": null,
       "riskScore": 2,
       "status": "upcoming",
       "result": null,
-      "reasoning": "Indonesia are likely the longest shot in the tournament. But first World Cup appearances carry unpredictable energy. They play with pride and have nothing to lose. Their group opponents will need to be switched on — complacency is the danger.",
+      "reasoning": "Curaçao are making their first-ever World Cup appearance — a nation of 150,000 people. Ivory Coast are their most beatable Group E opponent. Nothing-to-lose energy is real. Any Curaçao point would be a landmark moment for Caribbean football.",
       "keyFactors": [
-        "Nothing-to-lose mentality",
-        "Enormous national pride",
-        "Opponents may underestimate them",
-        "The World Cup debut factor"
+        "Nothing-to-lose energy from a first World Cup appearance",
+        "Ivory Coast may underestimate a Caribbean debutant",
+        "Curaçao have several Eredivisie-quality players",
+        "Any result becomes historic — motivation is total"
       ],
-      "upsetOdds": "Very low — but worth watching"
-    },
-    {
-      "id": "ups-006",
-      "title": "Turkey knocks Argentina out of the group",
-      "matchId": null,
-      "teams": ["TUR", "ARG"],
-      "teamFlags": ["🇹🇷", "🇦🇷"],
-      "stage": "Group Stage",
-      "date": null,
-      "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
-      "reasoning": "Argentina are defending champions and Group E favorites. But Turkey are a dangerous, tactically sophisticated side that has outperformed expectations in recent Euros. Group E could be tighter than expected. Messi at 38 against a young, physical Turkish midfield is an interesting matchup.",
-      "keyFactors": [
-        "Turkey's tactical organization",
-        "Argentina's age profile",
-        "Messi won't play every minute",
-        "Post-championship complacency risk"
-      ],
-      "upsetOdds": "Low — but legitimate"
-    },
-    {
-      "id": "ups-007",
-      "title": "Scotland causes havoc in Group G",
-      "matchId": null,
-      "teams": ["SCO", "ESP"],
-      "teamFlags": ["🏴󠁧󠁢󠁳󠁣󠁴󠁿", "🇪🇸"],
-      "stage": "Group Stage",
-      "date": null,
-      "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
-      "reasoning": "Scotland's World Cup return after decades away will be electric. They are physical, organized, and dangerous on set pieces. Against Spain, who sometimes lack urgency in group stages, Scotland could capitalize.",
-      "keyFactors": [
-        "Scotland's return to the World Cup",
-        "Set-piece danger",
-        "Spanish consistency variable in group stages",
-        "Player motivation on the world stage after long absence"
-      ],
-      "upsetOdds": "Moderate"
-    },
-    {
-      "id": "ups-008",
-      "title": "Poland eliminates England",
-      "matchId": null,
-      "teams": ["POL", "ENG"],
-      "teamFlags": ["🇵🇱", "🏴󠁧󠁢󠁥󠁮󠁧󠁿"],
-      "stage": "Group Stage",
-      "date": null,
-      "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
-      "reasoning": "England are heavy favorites in Group H. But they have a history of underperforming in group stages when the pressure isn't fully on. Poland with Lewandowski — even at 37 — can punish any England lapse. And England vs a European opponent is always nervous viewing.",
-      "keyFactors": [
-        "Lewandowski's tournament pedigree",
-        "England's notorious slow starts",
-        "Group H has a difficult balance of quality",
-        "England psychological fragility in group stages"
-      ],
-      "upsetOdds": "Low-moderate"
+      "upsetOdds": "Very low — but this is exactly the kind of match where surprises happen"
     }
   ]
 }

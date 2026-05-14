@@ -141,6 +141,34 @@
       "watchFor": "Do the extra teams create great stories or just forgettable group stage padding? Does a true minnow shock a giant? The format is on trial.",
       "chapterCount": 0,
       "chapters": []
+    },
+    {
+      "id": "nar-011",
+      "title": "Haaland's World Cup Arrival",
+      "status": "pre-tournament",
+      "category": "player",
+      "teams": ["NOR"],
+      "teamFlags": ["🇳🇴"],
+      "featured": true,
+      "emotionalStake": 5,
+      "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
+      "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
+      "chapterCount": 0,
+      "chapters": []
+    },
+    {
+      "id": "nar-012",
+      "title": "Bosnia-Herzegovina: A Nation's First World Cup",
+      "status": "pre-tournament",
+      "category": "team",
+      "teams": ["BIH"],
+      "teamFlags": ["🇧🇦"],
+      "featured": false,
+      "emotionalStake": 5,
+      "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014 — and their match against Qatar at Lumen Field in Seattle on June 24 is the official start of their campaign. A nation that only declared independence in 1992 is back on the world's biggest stage. June 24 in Seattle will be one of the most emotional sporting moments in Bosnian history.",
+      "watchFor": "The Bosnian diaspora in Seattle is real. Watch for fans from every corner of the city converging on Lumen Field to watch their nation play in the city they now call home.",
+      "chapterCount": 0,
+      "chapters": []
     }
   ]
 }
