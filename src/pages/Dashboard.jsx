@@ -11,13 +11,15 @@ const WatchGuide      = lazy(() => import('../dashboard/WatchGuide'));
 const NarrativeTracker= lazy(() => import('../dashboard/NarrativeTracker'));
 const UpsetRadar      = lazy(() => import('../dashboard/UpsetRadar'));
 const TicketRadar     = lazy(() => import('../dashboard/TicketRadar'));
+const KansasCityHQ   = lazy(() => import('../dashboard/KansasCityHQ'));
 const CityJump        = lazy(() => import('../dashboard/CityJump'));
 const Newsroom        = lazy(() => import('../dashboard/Newsroom'));
 const CultureTracker  = lazy(() => import('../dashboard/CultureTracker'));
 
 const NAV = [
   { id: 'today',   label: 'Today Mode',     icon: '🌅', desc: 'Daily briefing'   },
-  { id: 'seattle', label: 'Seattle HQ',      icon: '🏟️', desc: '6 matches'        },
+  { id: 'seattle',     label: 'Seattle HQ',      icon: '🏟️', desc: '6 matches · SEA'  },
+  { id: 'kansascity',  label: 'Kansas City HQ',  icon: '🏈', desc: '6 matches · KC'   },
   { id: 'matches', label: 'Match Tracker',   icon: '⚽', desc: 'All fixtures'     },
   { id: 'groups',  label: 'Group Tracker',   icon: '📊', desc: '12 groups'        },
   { id: 'bracket', label: 'Bracket',         icon: '🏆', desc: 'Knockout rounds'  },
@@ -32,7 +34,8 @@ const NAV = [
 
 const SECTIONS = {
   today:   TodayMode,
-  seattle: SeattleHQ,
+  seattle:     SeattleHQ,
+  kansascity:  KansasCityHQ,
   matches: Matches,
   groups:  Groups,
   bracket: Bracket,

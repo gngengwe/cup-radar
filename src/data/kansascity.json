@@ -1,0 +1,213 @@
+{
+  "_note": "Kansas City HQ data. Source: kansascityfwc26.com, Fox Sports, FIFA.",
+  "lastUpdated": "2026-05-14T12:00:00-05:00",
+  "cityId": "kansascity",
+  "cityName": "Kansas City",
+  "cityShort": "KC",
+  "venue": {
+    "name": "Kansas City Stadium",
+    "altName": "GEHA Field at Arrowhead Stadium",
+    "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+    "capacity": 76416,
+    "notes": "Home of the Kansas City Chiefs. Renamed 'Kansas City Stadium' for the World Cup. One of the loudest stadiums in the world on a full crowd day.",
+    "parkingNote": "Arrowhead's massive parking lots available for WC matches — verify specific lots and pricing with kansascityfwc26.com. Rideshare also available."
+  },
+  "transit": {
+    "recommended": "Official WC Game Day Shuttles from Crown Center / Union Station and Power & Light District",
+    "lines": ["Shuttle Bus — Crown Center to Arrowhead", "Shuttle Bus — Power & Light District to Arrowhead", "KC Streetcar to Union Station, then shuttle"],
+    "tips": [
+      "KC Streetcar runs from River Market to Union Station (free). Connect to game-day shuttles at Union Station.",
+      "Shuttles depart 2.5 hrs before kickoff and run for 90 min after final whistle.",
+      "Driving is feasible — Arrowhead has large lots but expect 45–60 min exit delays post-match.",
+      "Rideshare surge pricing will be significant post-match — consider pre-scheduling your pickup."
+    ],
+    "parking": "Lots 1-9 accessible. Pre-purchase through official WC channels. Typically $35–50/match.",
+    "rideshare": "Designated rideshare pickup near Gate 4. Heavy surge expected — book in advance."
+  },
+  "fanZones": [
+    {
+      "name": "Power & Light FIFA Fan Festival",
+      "location": "Power & Light District, Downtown KC",
+      "dates": "June 14 – July 12, 2026",
+      "hours": "Match days: 10am–midnight. Other days: 12pm–10pm.",
+      "free": true,
+      "notes": "Official FIFA fan zone in KC's premier entertainment district. Giant screens, live music, food vendors, interactive activations. Epicenter of World Cup energy in Kansas City.",
+      "confirmed": true
+    },
+    {
+      "name": "Crown Center Watch Party Hub",
+      "location": "Crown Center, 2450 Grand Blvd",
+      "dates": "Match days",
+      "hours": "2 hrs before kickoff",
+      "free": true,
+      "notes": "Outdoor screening area. Also the primary shuttle departure point to Arrowhead.",
+      "confirmed": true
+    },
+    {
+      "name": "Westport World Cup Watch Parties",
+      "location": "Westport neighborhood, 39th & Broadway",
+      "dates": "All KC match days",
+      "hours": "Match time",
+      "free": true,
+      "notes": "Multiple Westport bars will host outdoor screenings and parties. Kansas City's most famous bar district.",
+      "confirmed": false
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Power & Light District",
+      "type": "Entertainment District",
+      "distance": "Shuttle to Arrowhead (~25 min)",
+      "notes": "The main World Cup pre-game hub for KC. Multiple bars and restaurants. Start here, take the official shuttle.",
+      "area": "Downtown"
+    },
+    {
+      "name": "Westport",
+      "type": "Bar District",
+      "distance": "15 min drive to Arrowhead",
+      "notes": "KC's historic bar strip. Joe's KC BBQ nearby. Best neighborhood energy in the city on match days.",
+      "area": "Midtown"
+    },
+    {
+      "name": "Joe's Kansas City Bar-B-Que",
+      "type": "Legendary BBQ",
+      "distance": "10 min drive to Arrowhead",
+      "notes": "One of the best BBQ spots in America. The Z-Man sandwich is a must. Expect lines — go early.",
+      "area": "Midtown"
+    },
+    {
+      "name": "Q39 BBQ",
+      "type": "BBQ Restaurant",
+      "distance": "15 min drive to Arrowhead",
+      "notes": "Competition-style BBQ with a full bar. Great for groups. Reservations recommended on match days.",
+      "area": "Midtown"
+    },
+    {
+      "name": "Arrowhead Parking Lots (Tailgate)",
+      "type": "Stadium Tailgate",
+      "distance": "On-site",
+      "notes": "Chiefs tailgate culture is world-class. Expect full World Cup tailgate setups in the parking lots 3+ hours before kickoff.",
+      "area": "Arrowhead"
+    }
+  ],
+  "cityEnergyForecast": [
+    {
+      "matchId": "wc26-kc-01", "date": "2026-06-16",
+      "energyScore": 5,
+      "crowdNote": "Argentina vs Algeria — defending champs in Kansas City. Messi. Night kickoff. Arrowhead will be electric."
+    },
+    {
+      "matchId": "wc26-kc-02", "date": "2026-06-20",
+      "energyScore": 3,
+      "crowdNote": "Ecuador vs Curaçao — Group E match. Curaçao's historic debut. Smaller crowd but fun atmosphere."
+    },
+    {
+      "matchId": "wc26-kc-03", "date": "2026-06-25",
+      "energyScore": 4,
+      "crowdNote": "Tunisia vs Netherlands — Dutch fans travel in numbers. Strong European presence in KC."
+    },
+    {
+      "matchId": "wc26-kc-04", "date": "2026-06-27",
+      "energyScore": 4,
+      "crowdNote": "Algeria vs Austria — Group J stakes. Algeria fans passionate. Night kickoff at 9pm CT."
+    },
+    {
+      "matchId": "wc26-kc-05", "date": "2026-07-03",
+      "energyScore": 5,
+      "crowdNote": "Round of 32 — Knockout soccer returns to Arrowhead. Elimination stakes. City fully engaged."
+    },
+    {
+      "matchId": "wc26-kc-06", "date": "2026-07-11",
+      "energyScore": 5,
+      "crowdNote": "Quarterfinal — Elite 8 of the World Cup. Top 8 teams on earth. One of the greatest sporting events Kansas City will ever host."
+    }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-kc-01", "date": "2026-06-16",
+      "score": 5, "label": "Very High", "color": "#f87171",
+      "note": "Argentina vs Algeria — expect max Argentina fan attendance. Tuesday night, 8pm. Heavy post-match traffic.",
+      "peakWindow": "6:30–9:30 PM CT",
+      "tips": ["Take the official shuttle from Power & Light — do not drive", "Arrive at shuttle stop 75 min before kickoff", "Post-match: Arrowhead exit is always congested — stay 30 min post-final whistle"]
+    },
+    {
+      "matchId": "wc26-kc-02", "date": "2026-06-20",
+      "score": 3, "label": "Moderate", "color": "#facc15",
+      "note": "Ecuador vs Curaçao — Saturday evening, 7pm. Lighter crowd than Argentina match.",
+      "peakWindow": "5:30–8:30 PM CT",
+      "tips": ["Saturday makes driving more feasible — less weekday commute overlap", "Power & Light shuttle still recommended for post-match ease", "Curaçao fans are small in number — expect strong Ecuador presence"]
+    },
+    {
+      "matchId": "wc26-kc-03", "date": "2026-06-25",
+      "score": 4, "label": "High", "color": "#ffb84d",
+      "note": "Tunisia vs Netherlands — Dutch fans are notorious travelers. Expect full Arrowhead. Thursday evening.",
+      "peakWindow": "5:00–8:00 PM CT",
+      "tips": ["Netherlands fans will fill Power & Light from noon", "Take shuttle — Dutch fans will clog driving routes", "Orange everywhere — embrace it"]
+    },
+    {
+      "matchId": "wc26-kc-04", "date": "2026-06-27",
+      "score": 4, "label": "High", "color": "#ffb84d",
+      "note": "Algeria vs Austria — late Saturday night kickoff (9pm). Expect a lively post-midnight scene in Power & Light.",
+      "peakWindow": "7:30–11:30 PM CT",
+      "tips": ["Late kickoff means post-match is very late — plan your night accordingly", "Saturday means more people staying in KC overnight", "Power & Light district will be lively until 2am post-match"]
+    },
+    {
+      "matchId": "wc26-kc-05", "date": "2026-07-03",
+      "score": 5, "label": "Very High", "color": "#f87171",
+      "note": "Round of 32 — July 4th weekend. Knockout stakes PLUS holiday weekend. Plan way ahead.",
+      "peakWindow": "6:00–11:00 PM CT",
+      "tips": ["July 4th weekend — KC will be packed regardless of the match", "Book shuttles and accommodation early", "Combine fireworks and soccer into one epic KC weekend"]
+    },
+    {
+      "matchId": "wc26-kc-06", "date": "2026-07-11",
+      "score": 5, "label": "Very High", "color": "#f87171",
+      "note": "Quarterfinal — Elite 8 of the World Cup. Top 8 teams alive. Do not drive. Do not rush.",
+      "peakWindow": "6:00–11:30 PM CT",
+      "tips": ["This is the biggest sporting event in Kansas City history since the Chiefs Super Bowl", "Book everything in advance — hotels, shuttles, restaurants", "Stay near Power & Light post-match — it will be the most electric night KC has ever seen"]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-kc-01", "date": "2026-06-16",
+      "score": 92, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Argentina vs Algeria at Arrowhead on a Tuesday night. Messi, defending champs, African dark horses. Night soccer under the lights at Arrowhead.",
+      "factors": { "stage": 4, "matchQuality": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-kc-02", "date": "2026-06-20",
+      "score": 74, "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Ecuador vs Curaçao — solid group stage match. Curaçao's historic debut makes this worth attending for the occasion, if not the matchup.",
+      "factors": { "stage": 3, "matchQuality": 3, "ticketValue": 5, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-kc-03", "date": "2026-06-25",
+      "score": 83, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Netherlands in Kansas City. Dutch fans pack every tournament. Arrowhead in orange will be a visual spectacle.",
+      "factors": { "stage": 3, "matchQuality": 4, "ticketValue": 3, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-kc-04", "date": "2026-06-27",
+      "score": 80, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Algeria vs Austria at 9pm — late-night KC soccer. High stakes for Group J. Night game at Arrowhead.",
+      "factors": { "stage": 3, "matchQuality": 4, "ticketValue": 3, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-kc-05", "date": "2026-07-03",
+      "score": 94, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Knockout soccer on July 4th weekend at Arrowhead. The two things Kansas City does best: sports and holidays.",
+      "factors": { "stage": 5, "matchQuality": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-kc-06", "date": "2026-07-11",
+      "score": 99, "label": "Once in a lifetime",
+      "color": "#00e676",
+      "summary": "A World Cup Quarterfinal at Arrowhead Stadium. Elite 8 on earth. This is the greatest sporting event Kansas City will ever host.",
+      "factors": { "stage": 5, "matchQuality": 5, "ticketValue": 2, "atmosphereExpected": 5 }
+    }
+  ]
+}

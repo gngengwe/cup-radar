@@ -1,5 +1,7 @@
+import { CityProvider } from '../context/CityContext';
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
+import CitySelector from '../components/CitySelector';
 import SeattleHQ from '../components/SeattleHQ';
 import WhatWeTrack from '../components/WhatWeTrack';
 import TicketRadar from '../components/TicketRadar';
@@ -10,11 +12,13 @@ import Footer from '../components/Footer';
 
 export default function LandingPage() {
   return (
-    <>
+    <CityProvider>
       <a href="#main-content" className="skip-link">Skip to main content</a>
       <Navbar />
       <main id="main-content">
         <Hero />
+        <div className="divider" />
+        <CitySelector />
         <div className="divider" />
         <SeattleHQ />
         <div className="divider" />
@@ -29,6 +33,6 @@ export default function LandingPage() {
         <FounderClose />
       </main>
       <Footer />
-    </>
+    </CityProvider>
   );
 }

@@ -2316,3 +2316,126 @@ td .flag-img { margin-right: 4px; }
   justify-content: center;
   margin-top: 8px;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   CITY SELECTOR — LANDING PAGE
+═══════════════════════════════════════════════════════════ */
+.city-selector {}
+
+.hq-city-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+.hq-city-card {
+  background: var(--bg-card);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-xl);
+  padding: 28px 24px;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.hq-city-card:hover {
+  border-color: rgba(255,255,255,0.15);
+  transform: translateY(-2px);
+}
+.hq-city-card.selected {
+  border-color: var(--accent);
+  box-shadow: 0 0 32px rgba(0, 230, 118, 0.14);
+  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.04));
+}
+
+.hq-city-card__top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+.hq-city-card__emoji {
+  font-size: 24px;
+}
+.hq-city-card__check {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 3px 10px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+  margin-left: auto;
+}
+.hq-city-card__badge {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  padding: 3px 9px;
+  border-radius: 100px;
+  margin-left: auto;
+}
+.hq-city-card__badge.qf {
+  background: rgba(196, 132, 252, 0.15);
+  color: #c084fc;
+}
+
+.hq-city-card__name {
+  font-size: 22px;
+  font-weight: 900;
+  color: var(--text);
+  letter-spacing: -0.03em;
+}
+.hq-city-card__venue {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+.hq-city-card__tagline {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-dim);
+  letter-spacing: 0.03em;
+}
+.hq-city-card__highlight {
+  font-size: 13px;
+  color: var(--accent);
+  font-weight: 600;
+  margin-top: 8px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+.hq-city-card__cta {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-dim);
+  margin-top: 10px;
+  transition: color 0.15s;
+}
+.hq-city-card__cta.active { color: var(--accent); }
+.hq-city-card:hover .hq-city-card__cta { color: var(--text-muted); }
+.hq-city-card.selected .hq-city-card__cta { color: var(--accent); }
+
+.city-selector__note {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-top: 4px;
+}
+
+/* Dashboard: Kansas City HQ nav item gets a subtle KC accent */
+.dash-nav__item[href*="kansascity"].active {
+  background: rgba(196, 132, 252, 0.08);
+  border-left-color: #c084fc;
+}
+.dash-nav__item[href*="kansascity"].active .dash-nav__label {
+  color: #c084fc;
+}
+
+@media (max-width: 480px) {
+  .hq-city-grid { grid-template-columns: 1fr; }
+}

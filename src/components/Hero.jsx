@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { PRODUCT, TOURNAMENT } from '../config';
+import { useCity } from '../context/CityContext';
 
 function calcTimeLeft(isoTarget) {
   const diff = new Date(isoTarget) - Date.now();
@@ -18,7 +19,8 @@ function pad(n) {
 }
 
 export default function Hero() {
-  const [t, setT] = useState(() => calcTimeLeft(TOURNAMENT.START_DATE));
+  const [t, setT]     = useState(() => calcTimeLeft(TOURNAMENT.START_DATE));
+  const { cityConfig } = useCity();
 
   useEffect(() => {
     const id = setInterval(() => setT(calcTimeLeft(TOURNAMENT.START_DATE)), 1000);
@@ -63,8 +65,10 @@ export default function Hero() {
         </p>
 
         <div className="hero__ctas fade-up fade-up-4">
-          <a href="/dashboard/today"   className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
-          <a href="/dashboard/seattle" className="btn btn-secondary">{PRODUCT.CTA_SECONDARY}</a>
+          <a href="/dashboard/today"               className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
+          <a href={cityConfig.dashRoute}            className="btn btn-secondary">
+            View {cityConfig.name} HQ
+          </a>
         </div>
 
         <div className="fade-up fade-up-5">

@@ -1,6 +1,8 @@
 import { PRODUCT } from '../config';
+import { useCity } from '../context/CityContext';
 
 export default function FounderClose() {
+  const { cityConfig } = useCity();
   return (
     <section className="section founder-close" id="about">
       <div className="container">
@@ -15,8 +17,8 @@ export default function FounderClose() {
         <p className="founder-launch">{PRODUCT.NAME} — launching before kickoff.</p>
 
         <div className="founder-ctas">
-          <a href="/dashboard/today"   className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
-          <a href="/dashboard/seattle" className="btn btn-secondary">Explore Seattle HQ</a>
+          <a href="/dashboard/today"      className="btn btn-primary">{PRODUCT.CTA_PRIMARY}</a>
+          <a href={cityConfig.dashRoute}  className="btn btn-secondary">Explore {cityConfig.name} HQ</a>
         </div>
       </div>
     </section>
