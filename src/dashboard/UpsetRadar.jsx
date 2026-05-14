@@ -35,7 +35,14 @@ function UpsetCard({ upset, expanded, onToggle }) {
 
   return (
     <div className={`upset-card${upset.riskScore >= 4 ? ' high-risk' : ''}${expanded ? ' expanded' : ''}`}>
-      <div className="upset-card__header" onClick={onToggle} role="button" tabIndex={0}>
+      <div
+        className="upset-card__header"
+        onClick={onToggle}
+        role="button"
+        tabIndex={0}
+        aria-expanded={expanded}
+        onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onToggle(); } }}
+      >
         <div className="upset-card__top">
           <div className="upset-card__teams">
             {upset.teamFlags.map((f, i) => <FlagImg key={i} emoji={f} size={22} />)}
@@ -104,7 +111,7 @@ export default function UpsetRadar() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Upset Radar</h1>
+        <h2 className="dash-section-title">Upset Radar</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

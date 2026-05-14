@@ -19,7 +19,7 @@ function pdtToUtc(dateStr, timeStr) {
 function makeGoogleCalUrl(match) {
   const start = pdtToUtc(match.date, match.time || '19:00');
   // Assume 2-hour match duration
-  const [sh, sm] = [parseInt(start.slice(9,11)), parseInt(start.slice(11,13))];
+  const sh = parseInt(start.slice(9, 11), 10);
   const endHour  = String(sh + 2).padStart(2, '0');
   const end      = start.slice(0, 9) + endHour + start.slice(11);
 

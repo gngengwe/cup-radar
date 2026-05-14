@@ -114,7 +114,7 @@ export default function Groups() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Group Tracker</h1>
+        <h2 className="dash-section-title">Group Tracker</h2>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
           {source === 'live' && <span className="data-source-badge live">● Live data</span>}
           {loading && <span className="loading-dot" />}

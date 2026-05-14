@@ -11,8 +11,9 @@ import Footer from '../components/Footer';
 export default function LandingPage() {
   return (
     <>
+      <a href="#main-content" className="skip-link">Skip to main content</a>
       <Navbar />
-      <main>
+      <main id="main-content">
         <Hero />
         <div className="divider" />
         <SeattleHQ />

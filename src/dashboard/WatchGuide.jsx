@@ -41,7 +41,14 @@ function NeighborhoodCard({ hood, expanded, onToggle }) {
   return (
     <div className={`hood-card${expanded ? ' expanded' : ''}`}>
       {/* ── Header ── */}
-      <div className="hood-card__header" onClick={onToggle} role="button" tabIndex={0}>
+      <div
+        className="hood-card__header"
+        onClick={onToggle}
+        role="button"
+        tabIndex={0}
+        aria-expanded={expanded}
+        onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onToggle(); } }}
+      >
         <div className="hood-card__top-row">
           <div className="hood-card__title-group">
             <h3 className="hood-card__name">{hood.name}</h3>
@@ -112,7 +119,7 @@ export default function WatchGuide() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Watch Guide</h1>
+        <h2 className="dash-section-title">Watch Guide</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

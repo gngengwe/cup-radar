@@ -25,7 +25,14 @@ function CityCard({ city, expanded, onToggle }) {
   const { scores } = city;
   return (
     <div className={`city-jump-card${city.home ? ' home' : ''}${expanded ? ' expanded' : ''}`}>
-      <div className="city-jump-card__header" onClick={onToggle} role="button" tabIndex={0}>
+      <div
+        className="city-jump-card__header"
+        onClick={onToggle}
+        role="button"
+        tabIndex={0}
+        aria-expanded={expanded}
+        onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onToggle(); } }}
+      >
         <div className="city-jump-card__top">
           <FlagImg emoji={city.flag} size={22} className="city-jump-card__flag" />
           <div className="city-jump-card__info">
@@ -82,7 +89,7 @@ export default function CityJump() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">City Jump</h1>
+        <h2 className="dash-section-title">City Jump</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

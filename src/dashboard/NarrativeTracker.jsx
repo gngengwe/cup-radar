@@ -35,7 +35,14 @@ function NarrativeCard({ narrative, expanded, onToggle }) {
 
   return (
     <div className={`narrative-card${narrative.featured ? ' featured' : ''}${expanded ? ' expanded' : ''}`}>
-      <div className="narrative-card__header" onClick={onToggle} role="button" tabIndex={0}>
+      <div
+        className="narrative-card__header"
+        onClick={onToggle}
+        role="button"
+        tabIndex={0}
+        aria-expanded={expanded}
+        onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onToggle(); } }}
+      >
         <div className="narrative-card__top">
           <span className="narrative-card__cat">{catIcon}</span>
           <div className="narrative-card__title-wrap">
@@ -105,7 +112,7 @@ export default function NarrativeTracker() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Narrative Tracker</h1>
+        <h2 className="dash-section-title">Narrative Tracker</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

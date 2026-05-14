@@ -149,7 +149,7 @@ export default function TicketRadar() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Ticket Radar</h1>
+        <h2 className="dash-section-title">Ticket Radar</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

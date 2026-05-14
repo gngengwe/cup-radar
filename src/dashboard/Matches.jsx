@@ -76,7 +76,7 @@ export default function Matches() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Match Tracker</h1>
+        <h2 className="dash-section-title">Match Tracker</h2>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
           <LiveBadge source={source} />
           {loading && <span className="loading-dot" />}

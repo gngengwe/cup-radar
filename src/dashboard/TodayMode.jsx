@@ -66,7 +66,7 @@ export default function TodayMode() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Today Mode</h1>
+        <h2 className="dash-section-title">Today Mode</h2>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
           {matchSource === 'live' && <span className="data-source-badge live">● Live</span>}
           <span className="dash-last-updated">Updated {lastUpdated}</span>

@@ -1,17 +1,19 @@
 import { useParams, NavLink, Link, Navigate } from 'react-router-dom';
-import { useState } from 'react';
-import TodayMode from '../dashboard/TodayMode';
-import SeattleHQ from '../dashboard/SeattleHQ';
-import Matches from '../dashboard/Matches';
-import Groups from '../dashboard/Groups';
-import Bracket from '../dashboard/Bracket';
-import WatchGuide from '../dashboard/WatchGuide';
-import NarrativeTracker from '../dashboard/NarrativeTracker';
-import UpsetRadar from '../dashboard/UpsetRadar';
-import TicketRadar from '../dashboard/TicketRadar';
-import CityJump from '../dashboard/CityJump';
-import Newsroom from '../dashboard/Newsroom';
-import CultureTracker from '../dashboard/CultureTracker';
+import { useState, lazy, Suspense } from 'react';
+
+// Lazy-load each dashboard section — splits into separate chunks, reducing initial bundle
+const TodayMode       = lazy(() => import('../dashboard/TodayMode'));
+const SeattleHQ       = lazy(() => import('../dashboard/SeattleHQ'));
+const Matches         = lazy(() => import('../dashboard/Matches'));
+const Groups          = lazy(() => import('../dashboard/Groups'));
+const Bracket         = lazy(() => import('../dashboard/Bracket'));
+const WatchGuide      = lazy(() => import('../dashboard/WatchGuide'));
+const NarrativeTracker= lazy(() => import('../dashboard/NarrativeTracker'));
+const UpsetRadar      = lazy(() => import('../dashboard/UpsetRadar'));
+const TicketRadar     = lazy(() => import('../dashboard/TicketRadar'));
+const CityJump        = lazy(() => import('../dashboard/CityJump'));
+const Newsroom        = lazy(() => import('../dashboard/Newsroom'));
+const CultureTracker  = lazy(() => import('../dashboard/CultureTracker'));
 
 const NAV = [
   { id: 'today',   label: 'Today Mode',     icon: '🌅', desc: 'Daily briefing'   },
@@ -55,7 +57,7 @@ export default function Dashboard() {
   return (
     <div className="dashboard">
       {/* ── Sidebar ── */}
-      <aside className={`dash-sidebar${menuOpen ? ' open' : ''}`}>
+      <aside id="dash-sidebar" className={`dash-sidebar${menuOpen ? ' open' : ''}`} aria-label="Dashboard navigation">
         <div className="dash-sidebar__header">
           <Link to="/" className="dash-logo">Cup<span>Radar</span></Link>
           <button
@@ -98,9 +100,13 @@ export default function Dashboard() {
           <button
             className="dash-menu-btn"
             onClick={() => setMenuOpen(true)}
-            aria-label="Open menu"
+            aria-label="Open navigation menu"
+            aria-expanded={menuOpen}
+            aria-controls="dash-sidebar"
           >
-            <span /><span /><span />
+            <span aria-hidden="true" />
+            <span aria-hidden="true" />
+            <span aria-hidden="true" />
           </button>
           <div className="dash-topbar__title">
             <span>{currentNav.icon}</span>
@@ -110,7 +116,9 @@ export default function Dashboard() {
         </div>
 
         <div className="dash-content">
-          <Section />
+          <Suspense fallback={<div className="dash-section-loading">Loading…</div>}>
+            <Section />
+          </Suspense>
         </div>
       </div>
     </div>

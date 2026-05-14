@@ -113,7 +113,7 @@ export default function SeattleHQ() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Seattle HQ</h1>
+        <h2 className="dash-section-title">Seattle HQ</h2>
         <span className="dash-last-updated">Updated {lastUpdated}</span>
       </div>
 

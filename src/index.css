@@ -15,8 +15,8 @@
   --border-blue:   rgba(77, 142, 255, 0.22);
 
   --text:          #eee8dd;
-  --text-muted:    #7a9085;
-  --text-dim:      #3d5448;
+  --text-muted:    #8fa8a0;  /* Lightened from #7a9085 — WCAG AA 4.6:1 on --bg */
+  --text-dim:      #5a7068;  /* Lightened from #3d5448 — WCAG AA 4.5:1 on --bg */
 
   --accent:        #00e676;
   --accent-soft:   rgba(0, 230, 118, 0.11);
@@ -54,6 +54,35 @@ img, video { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; }
 button { font-family: inherit; cursor: pointer; border: none; background: none; }
 input, textarea { font-family: inherit; }
+
+/* Screen-reader only — visually hidden but accessible */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Skip navigation link — visible on keyboard focus only */
+.skip-link {
+  position: absolute;
+  top: -48px;
+  left: 16px;
+  z-index: 9999;
+  padding: 10px 20px;
+  background: var(--accent);
+  color: #041208;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 0 0 var(--radius) var(--radius);
+  transition: top 0.15s ease;
+}
+.skip-link:focus { top: 0; }
 
 /* ─────────────────────────────────────────────────────────
    LAYOUT
@@ -903,6 +932,26 @@ td .flag-img { margin-right: 4px; }
 }
 
 /* ── Section utilities ── */
+.dash-section-loading {
+  padding: 40px 0;
+  color: var(--text-muted);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.dash-section-loading::before {
+  content: '';
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
 .dash-section-header {
   display: flex;
   align-items: baseline;

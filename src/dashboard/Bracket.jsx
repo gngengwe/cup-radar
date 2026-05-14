@@ -77,7 +77,7 @@ export default function Bracket() {
   return (
     <div>
       <div className="dash-section-header">
-        <h1 className="dash-section-title">Knockout Bracket</h1>
+        <h2 className="dash-section-title">Knockout Bracket</h2>
         <span className="dash-last-updated">Updated {updatedStr}</span>
       </div>
 

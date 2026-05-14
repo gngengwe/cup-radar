@@ -30,6 +30,29 @@ function emojiToUrl(emoji) {
   return url;
 }
 
+// Accessible label map: raw emoji → descriptive country name for screen readers
+const FLAG_LABELS = {
+  '🇦🇷': 'Argentina', '🇦🇺': 'Australia', '🇦🇹': 'Austria',
+  '🇧🇴': 'Bolivia',   '🇧🇷': 'Brazil',    '🇨🇦': 'Canada',
+  '🇨🇲': 'Cameroon',  '🇨🇱': 'Chile',     '🇨🇴': 'Colombia',
+  '🇭🇷': 'Croatia',   '🇨🇺': 'Cuba',      '🇨🇮': 'Ivory Coast',
+  '🇪🇨': 'Ecuador',   '🇪🇬': 'Egypt',
+  '🏴󠁧󠁢󠁥󠁮󠁧󠁿': 'England',  '🇫🇷': 'France',   '🇬🇭': 'Ghana',
+  '🇩🇪': 'Germany',  '🇬🇪': 'Georgia',  '🇭🇳': 'Honduras',
+  '🇭🇺': 'Hungary',  '🇮🇩': 'Indonesia','🇮🇷': 'Iran',
+  '🇮🇶': 'Iraq',     '🇯🇲': 'Jamaica',  '🇯🇵': 'Japan',
+  '🇯🇴': 'Jordan',   '🇸🇦': 'Saudi Arabia','🇰🇷': 'South Korea',
+  '🇲🇦': 'Morocco',  '🇲🇽': 'Mexico',   '🇳🇱': 'Netherlands',
+  '🇳🇿': 'New Zealand','🇳🇬': 'Nigeria', '🇵🇦': 'Panama',
+  '🇵🇾': 'Paraguay', '🇵🇪': 'Peru',     '🇵🇱': 'Poland',
+  '🇵🇹': 'Portugal', '🇷🇴': 'Romania',  '🇷🇸': 'Serbia',
+  '🏴󠁧󠁢󠁳󠁣󠁴󠁿': 'Scotland',  '🇸🇳': 'Senegal',  '🇸🇰': 'Slovakia',
+  '🇿🇦': 'South Africa','🇪🇸': 'Spain', '🇸🇪': 'Sweden',
+  '🇨🇭': 'Switzerland','🇹🇷': 'Turkey','🇹🇳': 'Tunisia',
+  '🇺🇦': 'Ukraine',  '🇺🇾': 'Uruguay', '🇺🇸': 'USA',
+  '🇻🇪': 'Venezuela','🏴󠁧󠁢󠁷󠁬󠁳󠁿': 'Wales',
+};
+
 // Non-flag emoji we render as-is (no image needed — they render fine everywhere)
 const PASSTHROUGH = new Set(['⚽', '🏳️', '🌅', '⭐', '📖', '🚨', '🏆', '📊', '📰', '👕', '🍺', '✈️', '🎫']);
 
@@ -38,13 +61,15 @@ export default function FlagImg({ emoji, size = 18, className = '' }) {
     return <span className={className} style={{ fontSize: size }}>{emoji}</span>;
   }
 
-  const url = emojiToUrl(emoji);
+  const url   = emojiToUrl(emoji);
+  const label = FLAG_LABELS[emoji] ? `${FLAG_LABELS[emoji]} flag` : emoji;
+
   if (!url) return <span className={className}>{emoji}</span>;
 
   return (
     <img
       src={url}
-      alt={emoji}
+      alt={label}
       width={size}
       height={size}
       className={`flag-img${className ? ` ${className}` : ''}`}
