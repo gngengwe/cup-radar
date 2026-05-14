@@ -77,7 +77,9 @@ export default function TodayMode() {
       {phase === 'pre' && t && (
         <div className="today-countdown-block">
           <p className="today-countdown-label">World Cup kicks off · June 11, 2026 · Mexico City</p>
-          <div className="today-countdown">
+          {/* aria-live="off" — seconds tick every second; announcing each change would spam screen readers.
+              The static label above provides all needed context. */}
+          <div className="today-countdown" role="timer" aria-label={`${t.days} days, ${t.hours} hours, ${t.minutes} minutes until kickoff`}>
             {[['days', t.days], ['hrs', t.hours], ['min', t.minutes], ['sec', t.seconds]].map(
               ([lbl, val], i, arr) => (
                 <span key={lbl} className="today-countdown__unit-wrap">
@@ -113,7 +115,11 @@ export default function TodayMode() {
                     </span>
                     <span>{m.awayTeam} <FlagImg emoji={m.awayFlag} size={16} /></span>
                   </div>
-                  {m.status === 'live' && <div className="today-match-card__live">● LIVE</div>}
+                  {m.status === 'live' && (
+                    <div className="today-match-card__live" role="status" aria-live="polite" aria-atomic="true">
+                      ● LIVE
+                    </div>
+                  )}
                   {m.status === 'finished' && <div className="today-match-card__ft">Full Time</div>}
                 </div>
               ))}

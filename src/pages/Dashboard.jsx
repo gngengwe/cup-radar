@@ -1,5 +1,5 @@
 import { useParams, NavLink, Link, Navigate } from 'react-router-dom';
-import { useState, lazy, Suspense } from 'react';
+import { useState, lazy, Suspense, useEffect, useRef } from 'react';
 
 // Lazy-load each dashboard section — splits into separate chunks, reducing initial bundle
 const TodayMode       = lazy(() => import('../dashboard/TodayMode'));
@@ -48,6 +48,29 @@ const SECTIONS = {
 export default function Dashboard() {
   const { section } = useParams();
   const [menuOpen, setMenuOpen] = useState(false);
+  const menuBtnRef = useRef(null);
+
+  // Focus trap + Escape key for mobile sidebar
+  useEffect(() => {
+    if (!menuOpen) return;
+
+    const sidebar = document.getElementById('dash-sidebar');
+    const FOCUSABLE = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
+    const focusable = sidebar ? Array.from(sidebar.querySelectorAll(FOCUSABLE)) : [];
+    if (focusable.length) focusable[0].focus();
+
+    const onKey = e => {
+      if (e.key === 'Escape') { setMenuOpen(false); menuBtnRef.current?.focus(); return; }
+      if (e.key !== 'Tab' || !focusable.length) return;
+      const first = focusable[0];
+      const last  = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    };
+
+    document.addEventListener('keydown', onKey);
+    return () => document.removeEventListener('keydown', onKey);
+  }, [menuOpen]);
 
   if (!SECTIONS[section]) return <Navigate to="/dashboard/today" replace />;
 
@@ -73,7 +96,7 @@ export default function Dashboard() {
               key={n.id}
               to={`/dashboard/${n.id}`}
               className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
-              onClick={() => setMenuOpen(false)}
+              onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
             >
               <span className="dash-nav__icon">{n.icon}</span>
               <div className="dash-nav__text">
@@ -98,6 +121,7 @@ export default function Dashboard() {
       <div className="dash-main">
         <div className="dash-topbar">
           <button
+            ref={menuBtnRef}
             className="dash-menu-btn"
             onClick={() => setMenuOpen(true)}
             aria-label="Open navigation menu"

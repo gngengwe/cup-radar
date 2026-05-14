@@ -69,11 +69,15 @@ export default function Hero() {
 
         <div className="fade-up fade-up-5">
           {t.started ? (
-            <p className="hero__started">The World Cup is live — scores and updates incoming.</p>
+            <p className="hero__started" role="status">The World Cup is live — scores and updates incoming.</p>
           ) : (
             <>
               <p className="hero__countdown-label">Kickoff countdown · June 11, 2026</p>
-              <div className="hero__countdown">
+              <div
+                className="hero__countdown"
+                role="timer"
+                aria-label={`${t.days} days, ${t.hours} hours, ${t.minutes} minutes until World Cup kickoff`}
+              >
                 <div className="countdown-unit">
                   <span className="countdown-unit__num">{pad(t.days)}</span>
                   <span className="countdown-unit__label">Days</span>
