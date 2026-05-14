@@ -9,9 +9,9 @@
       "homeTeam": "Mexico",
       "homeCode": "MEX",
       "homeFlag": "🇲🇽",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "awayTeam": "South Africa",
+      "awayCode": "RSA",
+      "awayFlag": "🇿🇦",
       "venue": "Estadio Azteca",
       "city": "Mexico City",
       "cityCode": "MEX-CITY",
@@ -22,7 +22,7 @@
       "homeScore": null,
       "awayScore": null,
       "seattleMatch": false,
-      "notes": "Tournament opening match"
+      "notes": "Tournament opening match — Mexico City"
     },
     {
       "id": "wc26-002",

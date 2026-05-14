@@ -4,6 +4,7 @@ import TodayMode from '../dashboard/TodayMode';
 import SeattleHQ from '../dashboard/SeattleHQ';
 import Matches from '../dashboard/Matches';
 import Groups from '../dashboard/Groups';
+import Bracket from '../dashboard/Bracket';
 import TicketRadar from '../dashboard/TicketRadar';
 import CityJump from '../dashboard/CityJump';
 import Newsroom from '../dashboard/Newsroom';
@@ -14,6 +15,7 @@ const NAV = [
   { id: 'seattle', label: 'Seattle HQ',      icon: '🏟️', desc: '6 matches'        },
   { id: 'matches', label: 'Match Tracker',   icon: '⚽', desc: 'All fixtures'     },
   { id: 'groups',  label: 'Group Tracker',   icon: '📊', desc: '12 groups'        },
+  { id: 'bracket', label: 'Bracket',         icon: '🏆', desc: 'Knockout rounds'  },
   { id: 'tickets', label: 'Ticket Radar',    icon: '🎫', desc: 'Opportunities'    },
   { id: 'cities',  label: 'City Jump',       icon: '✈️', desc: 'Trip compare'     },
   { id: 'news',    label: 'Newsroom',        icon: '📰', desc: 'Latest stories'   },
@@ -25,6 +27,7 @@ const SECTIONS = {
   seattle: SeattleHQ,
   matches: Matches,
   groups:  Groups,
+  bracket: Bracket,
   tickets: TicketRadar,
   cities:  CityJump,
   news:    Newsroom,

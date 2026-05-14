@@ -5,10 +5,10 @@
       "id": "A",
       "name": "Group A",
       "teams": [
-        { "code": "MEX", "name": "Mexico",    "flag": "🇲🇽", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
-        { "code": "ECU", "name": "Ecuador",   "flag": "🇪🇨", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
-        { "code": "CIV", "name": "Ivory Coast","flag": "🇨🇮", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
-        { "code": "JPN", "name": "Japan",     "flag": "🇯🇵", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
+        { "code": "MEX", "name": "Mexico",      "flag": "🇲🇽", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "RSA", "name": "South Africa","flag": "🇿🇦", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "POL", "name": "Poland",      "flag": "🇵🇱", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" },
+        { "code": "JAM", "name": "Jamaica",     "flag": "🇯🇲", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "gd": 0, "points": 0, "status": "none" }
       ]
     },
     {

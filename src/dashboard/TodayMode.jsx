@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import matchData from '../data/matches.json';
-import alerts    from '../data/alerts.json';
+import { useTodayMatches } from '../hooks/useMatches';
+import alerts     from '../data/alerts.json';
 import ticketData from '../data/tickets.json';
+import matchData  from '../data/matches.json';
 
-const KICKOFF  = new Date('2026-06-11T00:00:00Z');
-const FINAL    = new Date('2026-07-20T00:00:00Z');
+const KICKOFF = new Date('2026-06-11T00:00:00Z');
+const FINAL   = new Date('2026-07-20T00:00:00Z');
 
 function getPhase() {
   const now = new Date();
@@ -20,8 +21,8 @@ function calcTimeLeft(target) {
   return {
     days:    Math.floor(diff / 86_400_000),
     hours:   Math.floor((diff % 86_400_000) / 3_600_000),
-    minutes: Math.floor((diff % 3_600_000)  / 60_000),
-    seconds: Math.floor((diff % 60_000)     / 1_000),
+    minutes: Math.floor((diff % 3_600_000) / 60_000),
+    seconds: Math.floor((diff % 60_000)    / 1_000),
   };
 }
 
@@ -46,10 +47,10 @@ export default function TodayMode() {
     return () => clearInterval(id);
   }, []);
 
-  const { matches } = matchData;
-  const todayMatches = matches.filter(m => m.date === todayStr);
+  // Today's matches — tries live API, falls back to local
+  const { matches: todayMatches, source: matchSource } = useTodayMatches();
 
-  const nextSeattle = matches
+  const nextSeattle = matchData.matches
     .filter(m => m.seattleMatch && m.date >= todayStr)
     .sort((a, b) => a.date.localeCompare(b.date))[0];
 
@@ -65,48 +66,63 @@ export default function TodayMode() {
     <div>
       <div className="dash-section-header">
         <h1 className="dash-section-title">Today Mode</h1>
-        <span className="dash-last-updated">Updated {lastUpdated}</span>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          {matchSource === 'live' && <span className="data-source-badge live">● Live</span>}
+          <span className="dash-last-updated">Updated {lastUpdated}</span>
+        </div>
       </div>
 
-      {/* ── Phase banner ── */}
+      {/* ── Pre-tournament countdown ── */}
       {phase === 'pre' && t && (
         <div className="today-countdown-block">
-          <p className="today-countdown-label">World Cup kicks off in</p>
+          <p className="today-countdown-label">World Cup kicks off · June 11, 2026 · Mexico City</p>
           <div className="today-countdown">
-            {[['days', t.days], ['hrs', t.hours], ['min', t.minutes], ['sec', t.seconds]].map(([lbl, val], i, arr) => (
-              <span key={lbl} className="today-countdown__unit-wrap">
-                <span className="today-countdown__num">{pad(val)}</span>
-                <span className="today-countdown__lbl">{lbl}</span>
-                {i < arr.length - 1 && <span className="today-countdown__sep">:</span>}
-              </span>
-            ))}
+            {[['days', t.days], ['hrs', t.hours], ['min', t.minutes], ['sec', t.seconds]].map(
+              ([lbl, val], i, arr) => (
+                <span key={lbl} className="today-countdown__unit-wrap">
+                  <span className="today-countdown__num">{pad(val)}</span>
+                  <span className="today-countdown__lbl">{lbl}</span>
+                  {i < arr.length - 1 && <span className="today-countdown__sep">:</span>}
+                </span>
+              )
+            )}
           </div>
+          <p className="today-countdown-sub">Opening match: 🇲🇽 Mexico vs South Africa 🇿🇦</p>
         </div>
       )}
 
-      {phase === 'live' && todayMatches.length === 0 && (
-        <div className="today-info-banner">No matches scheduled for today. Check the <Link to="/dashboard/matches">Match Tracker</Link>.</div>
-      )}
-
-      {phase === 'live' && todayMatches.length > 0 && (
-        <div className="today-matches-block">
-          <h3 className="today-sub-heading">Today's Matches</h3>
-          <div className="today-matches-list">
-            {todayMatches.map(m => (
-              <div key={m.id} className="today-match-card">
-                <div className="today-match-card__stage">{m.stage} · {m.city}</div>
-                <div className="today-match-card__teams">
-                  <span>{m.homeFlag} {m.homeTeam}</span>
-                  <span className="today-match-card__vs">
-                    {m.status === 'live' ? `${m.homeScore}–${m.awayScore}` : m.time + ' ' + m.timezone}
-                  </span>
-                  <span>{m.awayTeam} {m.awayFlag}</span>
+      {/* ── Live match list ── */}
+      {phase === 'live' && (
+        todayMatches.length > 0 ? (
+          <div className="today-matches-block">
+            <h3 className="today-sub-heading">Today's Matches</h3>
+            <div className="today-matches-list">
+              {todayMatches.map(m => (
+                <div key={m.id} className={`today-match-card${m.seattleMatch ? ' seattle' : ''}`}>
+                  <div className="today-match-card__stage">
+                    {m.stage} · {m.city}
+                    {m.seattleMatch && <span className="match-row__seattle-tag" style={{marginLeft:8}}>SEA</span>}
+                  </div>
+                  <div className="today-match-card__teams">
+                    <span>{m.homeFlag} {m.homeTeam}</span>
+                    <span className="today-match-card__vs">
+                      {m.status === 'live' || m.status === 'finished'
+                        ? `${m.homeScore ?? '–'} – ${m.awayScore ?? '–'}`
+                        : `${m.time} ${m.timezone}`}
+                    </span>
+                    <span>{m.awayTeam} {m.awayFlag}</span>
+                  </div>
+                  {m.status === 'live' && <div className="today-match-card__live">● LIVE</div>}
+                  {m.status === 'finished' && <div className="today-match-card__ft">Full Time</div>}
                 </div>
-                {m.status === 'live' && <div className="today-match-card__live">● LIVE</div>}
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
-        </div>
+        ) : (
+          <div className="today-info-banner">
+            No matches today. Check the <Link to="/dashboard/matches">Match Tracker</Link> for upcoming fixtures.
+          </div>
+        )
       )}
 
       {phase === 'post' && (
@@ -120,7 +136,9 @@ export default function TodayMode() {
           <div>
             <div className="today-alert-card__label">Seattle Alert</div>
             <div className="today-alert-card__msg">{alerts.seattleAlert.message}</div>
-            <div className="today-alert-card__meta">{alerts.seattleAlert.source} · {alerts.seattleAlert.date}</div>
+            <div className="today-alert-card__meta">
+              {alerts.seattleAlert.source} · {alerts.seattleAlert.date}
+            </div>
           </div>
         </div>
       )}
@@ -131,13 +149,21 @@ export default function TodayMode() {
           <h3 className="today-sub-heading">Next Seattle Match</h3>
           <div className="today-seattle-card">
             <div className="today-seattle-card__date">
-              <span className="today-seattle-card__day">{new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short' })}</span>
-              <span className="today-seattle-card__datenum">{new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+              <span className="today-seattle-card__day">
+                {new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short' })}
+              </span>
+              <span className="today-seattle-card__datenum">
+                {new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+              </span>
             </div>
             <div className="today-seattle-card__info">
               <div className="today-seattle-card__stage">{nextSeattle.stage} · {nextSeattle.notes}</div>
-              <div className="today-seattle-card__teams">{nextSeattle.homeFlag} {nextSeattle.homeTeam} vs {nextSeattle.awayTeam} {nextSeattle.awayFlag}</div>
-              <div className="today-seattle-card__venue">⏰ {nextSeattle.time} {nextSeattle.timezone} · {nextSeattle.venue}</div>
+              <div className="today-seattle-card__teams">
+                {nextSeattle.homeFlag} {nextSeattle.homeTeam} vs {nextSeattle.awayTeam} {nextSeattle.awayFlag}
+              </div>
+              <div className="today-seattle-card__venue">
+                ⏰ {nextSeattle.time} {nextSeattle.timezone} · {nextSeattle.venue}
+              </div>
             </div>
             <Link to="/dashboard/seattle" className="btn btn-secondary" style={{ padding: '8px 16px', fontSize: '13px' }}>
               Seattle HQ →
@@ -183,10 +209,7 @@ export default function TodayMode() {
         <div className="today-energy">
           <div className="today-energy-bars">
             {[1, 2, 3, 4, 5].map(n => (
-              <div
-                key={n}
-                className={`today-energy-bar${n <= alerts.cityEnergy ? ' active' : ''}`}
-              />
+              <div key={n} className={`today-energy-bar${n <= alerts.cityEnergy ? ' active' : ''}`} />
             ))}
           </div>
           <span className="today-energy-score">{alerts.cityEnergy}/5</span>
@@ -196,7 +219,6 @@ export default function TodayMode() {
         </div>
       </div>
 
-      {/* ── Disclaimer ── */}
       <p className="dash-disclaimer">
         Cup Radar is an independent fan-built dashboard and is not affiliated with FIFA.
         Official schedules, tickets, and venue information should be confirmed with official sources.

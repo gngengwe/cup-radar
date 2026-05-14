@@ -1530,3 +1530,226 @@ input, textarea { font-family: inherit; }
   .today-seattle-card { flex-direction: column; align-items: flex-start; }
   .city-jump-card__right { flex-wrap: wrap; }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 3 — LIVE DATA STATUS
+═══════════════════════════════════════════════════════════ */
+.data-source-badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+}
+.data-source-badge.live {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid var(--border-accent);
+  animation: pulse 2.5s ease-in-out infinite;
+}
+
+.loading-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--text-dim);
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+.api-error-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  background: rgba(255,184,77,0.06);
+  border: 1px solid rgba(255,184,77,0.2);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+.api-retry-btn {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.today-countdown-sub {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-top: 14px;
+}
+.today-match-card__ft {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 3 — CALENDAR EXPORT
+═══════════════════════════════════════════════════════════ */
+.cal-export-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  transition: border-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.cal-export-btn:hover {
+  border-color: var(--border-accent);
+  color: var(--accent);
+}
+
+.cal-gcal-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  transition: all 0.15s;
+}
+.cal-gcal-link:hover {
+  color: var(--accent);
+  border-color: var(--border-accent);
+  background: var(--accent-soft);
+}
+
+.seattle-match-card__cal {
+  display: flex;
+  gap: 6px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PHASE 3 — KNOCKOUT BRACKET
+═══════════════════════════════════════════════════════════ */
+.bracket-tabs {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.bracket-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 8px 16px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-muted);
+  transition: all 0.15s;
+  min-width: 72px;
+}
+.bracket-tab:hover { border-color: rgba(255,255,255,0.15); color: var(--text); }
+.bracket-tab.active {
+  background: var(--accent-soft);
+  border-color: var(--border-accent);
+  color: var(--accent);
+}
+.bracket-tab__short { font-size: 14px; font-weight: 800; letter-spacing: -0.02em; }
+.bracket-tab__dates { font-size: 10px; font-weight: 500; letter-spacing: 0.02em; white-space: nowrap; }
+
+.bracket-round {}
+.bracket-round__header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.bracket-round__name  { font-size: 18px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; }
+.bracket-round__dates { font-size: 13px; color: var(--text-muted); }
+
+.bracket-matches-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+.bracket-matches-grid.final {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  max-width: 620px;
+}
+
+.bracket-match {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  transition: border-color 0.15s;
+}
+.bracket-match:hover { border-color: rgba(255,255,255,0.1); }
+.bracket-match.seattle { border-color: var(--border-accent); }
+.bracket-match.live    { border-color: var(--accent); }
+.bracket-match.tbd     { opacity: 0.6; }
+
+.bracket-match__label {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.bracket-match__row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+}
+.bracket-match__row + .bracket-match__row {
+  border-top: 1px solid var(--border);
+}
+.bracket-match__flag { font-size: 16px; flex-shrink: 0; }
+.bracket-match__team {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bracket-match__team.winner { color: var(--accent); font-weight: 800; }
+.bracket-match__score {
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+  min-width: 20px;
+  text-align: right;
+}
+
+.bracket-match__footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+.bracket-match__city   { font-size: 11px; color: var(--text-dim); flex: 1; }
+.bracket-match__status { font-size: 11px; font-weight: 600; }
+
+@media (max-width: 480px) {
+  .bracket-tabs { gap: 4px; }
+  .bracket-tab  { min-width: 56px; padding: 7px 10px; }
+  .bracket-tab__short { font-size: 12px; }
+  .bracket-tab__dates { display: none; }
+}

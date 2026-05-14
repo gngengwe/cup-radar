@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import matchData  from '../data/matches.json';
 import seattleData from '../data/seattle.json';
 import eventsData  from '../data/events.json';
+import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
 
 const seattleMatches = matchData.matches.filter(m => m.seattleMatch);
 
@@ -22,6 +23,10 @@ function MatchCard({ match }) {
         {match.homeFlag} {match.homeTeam} <span className="seattle-match-card__vs">vs</span> {match.awayTeam} {match.awayFlag}
       </div>
       <div className="seattle-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
+      <div className="seattle-match-card__cal">
+        <AddMatchToGoogleCalendar match={match} />
+        <AddMatchToICS match={match} />
+      </div>
     </div>
   );
 }
@@ -43,7 +48,10 @@ export default function SeattleHQ() {
 
       {/* ── Match schedule ── */}
       <div className="dash-sub-section">
-        <h2 className="dash-sub-heading">Match Schedule — Lumen Field</h2>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 10, marginBottom: 6 }}>
+          <h2 className="dash-sub-heading" style={{ marginBottom: 0 }}>Match Schedule — Lumen Field</h2>
+          <AddAllToCalendar matches={seattleMatches} />
+        </div>
         <p className="dash-sub-desc">6 matches · 4 group stage · 2 knockout</p>
         <div className="seattle-matches-grid">
           {seattleMatches.map(m => <MatchCard key={m.id} match={m} />)}
