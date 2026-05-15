@@ -140,6 +140,7 @@ export default function Dashboard() {
 
         <div className="dash-sidebar__footer">
           <Link to="/" className="dash-back">← Switch city</Link>
+          <Link to="/how-it-works" className="dash-back" style={{ marginTop: 6, opacity: 0.6 }}>How it works</Link>
         </div>
       </aside>
 
