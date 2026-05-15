@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "stamp": "node scripts/stamp.js",
+    "publish:data": "node scripts/stamp.js && git add src/data && git commit -m 'data: update' && git push"
   },
   "dependencies": {
     "react": "^18.3.1",
