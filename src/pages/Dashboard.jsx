@@ -38,22 +38,22 @@ const CITY_CONFIG = {
   },
 };
 
-// Nav is identical for both cities — only the HQ item label/icon differs per city
+// Nav ordered by day-to-day relevance — HQ + Team IQ front, then action, then intel
 function buildNav(city) {
   const cfg = CITY_CONFIG[city];
   return [
-    { id: 'hq',         label: cfg.label,          icon: cfg.icon,  desc: '6 matches'           },
-    { id: 'matches',    label: 'Match Tracker',     icon: '⚽',      desc: 'All fixtures'        },
-    { id: 'groups',     label: 'Group Tracker',     icon: '📊',      desc: '12 groups'           },
-    { id: 'bracket',    label: 'Bracket',           icon: '🏆',      desc: 'Knockout rounds'     },
-    { id: 'tickets',    label: 'Ticket Radar',      icon: '🎫',      desc: 'Opportunities'       },
-    { id: 'cityjump',   label: 'City Jump',         icon: '✈️',      desc: 'Trip compare'        },
-    { id: 'watch',      label: 'Watch Guide',       icon: '🍺',      desc: 'Bars & neighborhoods'},
-    { id: 'news',       label: 'Newsroom',          icon: '📰',      desc: 'Latest stories'      },
-    { id: 'culture',    label: 'Culture Tracker',   icon: '👕',      desc: 'Kits & moments'      },
-    { id: 'narratives', label: 'Narratives',        icon: '📖',      desc: 'Tournament stories'  },
-    { id: 'upsets',     label: 'Upset Radar',       icon: '🚨',      desc: 'Chaos potential'     },
-    { id: 'teamiq',    label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'     },
+    { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: '6 matches'            },
+    { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
+    { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'All fixtures'         },
+    { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
+    { id: 'tickets',    label: 'Ticket Radar',       icon: '🎫',      desc: 'Opportunities'        },
+    { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
+    { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
+    { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
+    { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
+    { id: 'narratives', label: 'Narratives',         icon: '📖',      desc: 'Tournament stories'   },
+    { id: 'news',       label: 'Newsroom',           icon: '📰',      desc: 'Latest stories'       },
+    { id: 'culture',    label: 'Culture Tracker',    icon: '👕',      desc: 'Kits & moments'       },
   ];
 }
 

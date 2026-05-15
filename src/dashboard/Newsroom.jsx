@@ -56,7 +56,13 @@ export default function Newsroom() {
 
   const { articles, lastUpdated } = newsData;
 
-  const filtered = cat === 'all' ? articles : articles.filter(a => a.category === cat);
+  // "Other city" category to exclude from the All view
+  const otherCity = city === 'kansascity' ? 'seattle' : 'kansascity';
+
+  const filtered = (() => {
+    if (cat === 'all') return articles.filter(a => a.category !== otherCity);
+    return articles.filter(a => a.category === cat);
+  })();
   const featured = filtered.filter(a => a.featured);
   const rest     = filtered.filter(a => !a.featured);
 
