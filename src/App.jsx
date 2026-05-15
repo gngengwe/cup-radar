@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, Navigate, useParams } from 'react-router-
 import LandingPage from './pages/LandingPage';
 import Dashboard from './pages/Dashboard';
 import HowItWorks from './pages/HowItWorks';
+import AdminPanel from './pages/AdminPanel';
 import ErrorBoundary from './components/ErrorBoundary';
 
 // Redirect old /dashboard/:section URLs to /seattle/:section
@@ -24,6 +25,7 @@ export default function App() {
           {/* Landing — city selection */}
           <Route path="/" element={<LandingPage />} />
           <Route path="/how-it-works" element={<HowItWorks />} />
+          <Route path="/admin" element={<AdminPanel />} />
 
           {/* Backward compat first (more specific — must come before /:city/:section) */}
           <Route path="/dashboard" element={<Navigate to="/seattle/hq" replace />} />
