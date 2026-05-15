@@ -3615,3 +3615,165 @@ td .flag-img { margin-right: 4px; }
   padding: 8px 0 4px;
   margin: -4px 0 6px;
 }
+
+/* ═══════════════════════════════════════════════════════════
+   VIBE ANIMATIONS
+   All gated behind prefers-reduced-motion: no-preference
+   so users who opt out see a clean static experience.
+═══════════════════════════════════════════════════════════ */
+@media (prefers-reduced-motion: no-preference) {
+
+  /* ── Shared keyframes ─────────────────────────────────── */
+
+  @keyframes pitchDrift {
+    /* Hero and DailyBrief pitch grids slowly pan diagonally */
+    from { background-position: 0 0; }
+    to   { background-position: 52px 52px; }
+  }
+
+  @keyframes countdownHeartbeat {
+    /* Countdown digits breathe — feel like a ticking clock */
+    0%, 100% { transform: scale(1); }
+    45%      { transform: scale(1.05); }
+    65%      { transform: scale(1.02); }
+  }
+
+  @keyframes matchDayAura {
+    /* Today banner radiates when it's match day */
+    0%, 100% { box-shadow: 0 0 0 1px var(--accent), 0 0 12px rgba(0,230,118,0.15); }
+    50%      { box-shadow: 0 0 0 1px var(--accent), 0 0 30px rgba(0,230,118,0.40), 0 0 56px rgba(0,230,118,0.08); }
+  }
+
+  @keyframes imminentRing {
+    /* Match cards for TODAY / TOMORROW emit a soft pulse ring */
+    0%, 100% { box-shadow: 0 0 0 0 rgba(0,230,118,0); }
+    50%      { box-shadow: 0 0 0 4px rgba(0,230,118,0.10), 0 0 18px rgba(0,230,118,0.08); }
+  }
+
+  @keyframes upsetGlow {
+    /* High-risk upset card borders throb red */
+    0%, 100% { border-color: rgba(248,113,113,0.20); box-shadow: none; }
+    50%      { border-color: rgba(248,113,113,0.55); box-shadow: 0 0 16px rgba(248,113,113,0.12); }
+  }
+
+  @keyframes narrativeShimmer {
+    /* Featured storyline cards get a periodic light-sweep */
+    0%, 65%, 100% { transform: translateX(-130%) skewX(-12deg); }
+    78%           { transform: translateX(230%)  skewX(-12deg); }
+  }
+
+  @keyframes jerseyBreathe {
+    /* Opposing jerseys in match panel breathe against each other */
+    0%, 100% { transform: scale(1);    filter: brightness(1);    }
+    50%      { transform: scale(1.04); filter: brightness(1.10); }
+  }
+
+  @keyframes energyWave {
+    /* City energy bars ripple outward like a crowd wave */
+    0%, 100% { transform: scaleY(1);    }
+    50%      { transform: scaleY(1.30); }
+  }
+
+  @keyframes riskFlicker {
+    /* Risk bars shimmer to signal danger level */
+    0%, 100% { opacity: 1;   }
+    50%      { opacity: 0.65; }
+  }
+
+  @keyframes navGlow {
+    /* Active nav item left-border breathes */
+    0%, 100% { border-left-color: var(--accent); }
+    50%      { border-left-color: rgba(0,230,118,0.50); }
+  }
+
+  /* ── 1. Pitch grid slow drift (Hero + DailyBrief) ─────── */
+  .pitch-bg {
+    animation: pitchDrift 28s linear infinite;
+  }
+
+  /* ── 2. Countdown heartbeat ───────────────────────────── */
+  .today-countdown__num {
+    animation: countdownHeartbeat 2.8s ease-in-out infinite;
+    display: inline-block;
+  }
+  /* Stagger each unit slightly for a ripple feel */
+  .today-countdown__unit-wrap:nth-child(1) .today-countdown__num { animation-delay: 0.00s; }
+  .today-countdown__unit-wrap:nth-child(3) .today-countdown__num { animation-delay: 0.12s; }
+  .today-countdown__unit-wrap:nth-child(5) .today-countdown__num { animation-delay: 0.24s; }
+  .today-countdown__unit-wrap:nth-child(7) .today-countdown__num { animation-delay: 0.36s; }
+
+  /* Same for the hero countdown */
+  .countdown-unit__num {
+    animation: countdownHeartbeat 2.8s ease-in-out infinite;
+    display: inline-block;
+  }
+
+  /* ── 3. Match day banner aura ─────────────────────────── */
+  .city-today-banner.match-day {
+    animation: matchDayAura 2.5s ease-in-out infinite;
+  }
+
+  /* ── 4. Imminent match card ring ──────────────────────── */
+  .seattle-match-card.imminent {
+    animation: imminentRing 2s ease-in-out infinite;
+  }
+
+  /* ── 5. High-risk upset glow ──────────────────────────── */
+  .upset-card.high-risk {
+    animation: upsetGlow 4.5s ease-in-out infinite;
+  }
+
+  /* ── 6. Featured narrative shimmer ───────────────────── */
+  .narrative-card.featured {
+    overflow: hidden;
+  }
+  .narrative-card.featured::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255,255,255,0.045) 50%,
+      transparent 100%
+    );
+    transform: translateX(-130%) skewX(-12deg);
+    animation: narrativeShimmer 7s ease-in-out infinite;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* ── 7. Jersey matchup breathing duel ────────────────── */
+  .hq-jersey-team:first-child {
+    animation: jerseyBreathe 3.8s ease-in-out infinite;
+    animation-delay: 0s;
+  }
+  .hq-jersey-team:last-child {
+    animation: jerseyBreathe 3.8s ease-in-out infinite;
+    animation-delay: 1.9s; /* half-period offset — they breathe in opposition */
+  }
+
+  /* ── 8. City energy bars wave ─────────────────────────── */
+  .today-energy-bars .today-energy-bar.active {
+    animation: energyWave 1.5s ease-in-out infinite;
+    transform-origin: bottom center;
+  }
+  .today-energy-bars .today-energy-bar.active:nth-child(1) { animation-delay: 0.00s; }
+  .today-energy-bars .today-energy-bar.active:nth-child(2) { animation-delay: 0.12s; }
+  .today-energy-bars .today-energy-bar.active:nth-child(3) { animation-delay: 0.24s; }
+  .today-energy-bars .today-energy-bar.active:nth-child(4) { animation-delay: 0.36s; }
+  .today-energy-bars .today-energy-bar.active:nth-child(5) { animation-delay: 0.48s; }
+
+  /* ── 9. Risk bars flicker ─────────────────────────────── */
+  .risk-bars .risk-bar:nth-child(1) { animation: riskFlicker 2.2s ease-in-out 0.00s infinite; }
+  .risk-bars .risk-bar:nth-child(2) { animation: riskFlicker 2.2s ease-in-out 0.14s infinite; }
+  .risk-bars .risk-bar:nth-child(3) { animation: riskFlicker 2.2s ease-in-out 0.28s infinite; }
+  .risk-bars .risk-bar:nth-child(4) { animation: riskFlicker 2.2s ease-in-out 0.42s infinite; }
+  .risk-bars .risk-bar:nth-child(5) { animation: riskFlicker 2.2s ease-in-out 0.56s infinite; }
+
+  /* ── 10. Nav active item accent breath ────────────────── */
+  .dash-nav__item.active {
+    animation: navGlow 4s ease-in-out infinite;
+  }
+
+}
