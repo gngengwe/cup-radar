@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import teamIQData from '../data/team-iq.json';
 import FlagImg from '../components/FlagImg';
+import JerseyDisplay from '../components/JerseyDisplay';
 import { relativeTime } from '../utils/time';
 
 const CONTINENT_EMOJI = {
@@ -41,11 +42,21 @@ function TeamCard({ team }) {
         aria-expanded={expanded}
         onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(v => !v); } }}
       >
-        <div className="tiq-card__flag-wrap">
-          <FlagImg emoji={team.flag} size={36} />
+        {/* Jersey + flag */}
+        <div className="tiq-card__identity">
+          {team.jersey && (
+            <JerseyDisplay
+              colors={team.jersey.colors}
+              pattern={team.jersey.pattern}
+              size={62}
+            />
+          )}
+          <FlagImg emoji={team.flag} size={28} />
         </div>
+
         <div className="tiq-card__title-col">
           <div className="tiq-card__name">{team.name}</div>
+          <div className="tiq-card__nickname">"{squad.nickname}"</div>
           <div className="tiq-card__meta">
             {continentEmoji} {country.region} · Group {team.group} · #{squad.fifaRanking} FIFA
           </div>
@@ -122,6 +133,12 @@ function TeamCard({ team }) {
           <div className="tiq-section">
             <div className="tiq-section__label">⚽ 2026 Squad</div>
             <div className="tiq-manager">Manager: <strong>{squad.manager}</strong></div>
+            {team.jersey && (
+              <div className="tiq-jersey-desc">
+                <span className="tiq-jersey-swatch" style={{ background: team.jersey.colors[0], borderColor: team.jersey.colors[1] }} />
+                {team.jersey.description}
+              </div>
+            )}
 
             <div className="tiq-players">
               {squad.starPlayers.map((p, i) => (

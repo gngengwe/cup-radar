@@ -3036,14 +3036,31 @@ td .flag-img { margin-right: 4px; }
   cursor: pointer;
   user-select: none;
 }
+/* Jersey + flag identity block */
+.tiq-card__identity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  min-width: 70px;
+}
 .tiq-card__flag-wrap { flex-shrink: 0; margin-top: 2px; }
-.tiq-card__title-col { flex: 1; }
+.tiq-card__title-col { flex: 1; min-width: 0; }
 .tiq-card__name {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 900;
   color: var(--text);
   letter-spacing: -0.03em;
-  margin-bottom: 3px;
+  margin-bottom: 1px;
+}
+.tiq-card__nickname {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  font-style: italic;
+  margin-bottom: 5px;
+  letter-spacing: 0.01em;
 }
 .tiq-card__meta {
   font-size: 12px;
@@ -3152,6 +3169,25 @@ td .flag-img { margin-right: 4px; }
   margin-bottom: 12px;
 }
 .tiq-manager strong { color: var(--text); }
+
+.tiq-jersey-desc {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 8px;
+  margin-bottom: 4px;
+  font-style: italic;
+}
+.tiq-jersey-swatch {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 2px solid;
+  flex-shrink: 0;
+}
 
 /* ── Player cards ── */
 .tiq-players { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }

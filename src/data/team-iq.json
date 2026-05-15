@@ -7,6 +7,7 @@
       "name": "Belgium",
       "flag": "🇧🇪",
       "group": "G",
+      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Classic red with black trim" },
       "cityMatches": ["vs Egypt — Jun 15, noon PT, Lumen Field (Group G)"],
       "country": {
         "capital": "Brussels",
@@ -48,6 +49,7 @@
       "name": "Egypt",
       "flag": "🇪🇬",
       "group": "G",
+      "jersey": { "colors": ["#FFFFFF", "#CE1126"], "pattern": "solid", "description": "White with red collar and cuffs" },
       "cityMatches": [
         "vs Belgium — Jun 15, noon PT, Lumen Field (Group G)",
         "vs Iran — Jun 26, 8pm PT, Lumen Field (Group G)"
@@ -92,6 +94,7 @@
       "name": "Iran",
       "flag": "🇮🇷",
       "group": "G",
+      "jersey": { "colors": ["#FFFFFF", "#239F40"], "pattern": "solid", "description": "White with green trim" },
       "cityMatches": ["vs Egypt — Jun 26, 8pm PT, Lumen Field (Group G)"],
       "country": {
         "capital": "Tehran",
@@ -133,6 +136,7 @@
       "name": "USA",
       "flag": "🇺🇸",
       "group": "D",
+      "jersey": { "colors": ["#FFFFFF", "#002868"], "pattern": "solid", "description": "White with navy blue trim" },
       "cityMatches": ["vs Australia — Jun 19, noon PT, Lumen Field (Group D)"],
       "country": {
         "capital": "Washington, D.C.",
@@ -174,6 +178,7 @@
       "name": "Australia",
       "flag": "🇦🇺",
       "group": "D",
+      "jersey": { "colors": ["#FFD700", "#00843D"], "pattern": "solid", "description": "Gold with green trim — the iconic Socceroos kit" },
       "cityMatches": ["vs USA — Jun 19, noon PT, Lumen Field (Group D)"],
       "country": {
         "capital": "Canberra",
@@ -215,6 +220,7 @@
       "name": "Bosnia-Herzegovina",
       "flag": "🇧🇦",
       "group": "B",
+      "jersey": { "colors": ["#003DA5", "#FFCD00"], "pattern": "solid", "description": "Royal blue with yellow diagonal stripe" },
       "cityMatches": ["vs Qatar — Jun 24, noon PT, Lumen Field (Group B)"],
       "country": {
         "capital": "Sarajevo",
@@ -256,6 +262,7 @@
       "name": "Qatar",
       "flag": "🇶🇦",
       "group": "B",
+      "jersey": { "colors": ["#8D1B3D", "#FFFFFF"], "pattern": "solid", "description": "Maroon — the color of Qatar's national identity" },
       "cityMatches": ["vs Bosnia-Herzegovina — Jun 24, noon PT, Lumen Field (Group B)"],
       "country": {
         "capital": "Doha",
@@ -299,6 +306,7 @@
       "name": "Argentina",
       "flag": "🇦🇷",
       "group": "J",
+      "jersey": { "colors": ["#74ACDF", "#FFFFFF"], "pattern": "vstripes", "description": "Sky blue and white vertical stripes — the most iconic jersey in world football" },
       "cityMatches": ["vs Algeria — Jun 16, 8pm CT, Kansas City Stadium (Group J)"],
       "country": {
         "capital": "Buenos Aires",
@@ -340,6 +348,7 @@
       "name": "Algeria",
       "flag": "🇩🇿",
       "group": "J",
+      "jersey": { "colors": ["#FFFFFF", "#006233"], "pattern": "sash", "description": "White with a distinctive green diagonal sash" },
       "cityMatches": [
         "vs Argentina — Jun 16, 8pm CT, Kansas City Stadium (Group J)",
         "vs Austria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"
@@ -384,6 +393,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "group": "J",
+      "jersey": { "colors": ["#ED2939", "#FFFFFF"], "pattern": "solid", "description": "Bold red — Austria's national color since the 13th century" },
       "cityMatches": ["vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"],
       "country": {
         "capital": "Vienna",
@@ -425,6 +435,7 @@
       "name": "Ecuador",
       "flag": "🇪🇨",
       "group": "E",
+      "jersey": { "colors": ["#FFD100", "#0033A0"], "pattern": "solid", "description": "Bright yellow with blue trim — La Tri's vibrant identity" },
       "cityMatches": ["vs Curaçao — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
       "country": {
         "capital": "Quito",
@@ -466,6 +477,7 @@
       "name": "Curaçao",
       "flag": "🇨🇼",
       "group": "E",
+      "jersey": { "colors": ["#003DA5", "#FFD700"], "pattern": "solid", "description": "Royal blue with gold accents — the Caribbean island's colors" },
       "cityMatches": ["vs Ecuador — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
       "country": {
         "capital": "Willemstad",
@@ -507,6 +519,7 @@
       "name": "Tunisia",
       "flag": "🇹🇳",
       "group": "F",
+      "jersey": { "colors": ["#FFFFFF", "#E70013"], "pattern": "solid", "description": "White with red collar and cuffs — the Eagles of Carthage" },
       "cityMatches": ["vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
       "country": {
         "capital": "Tunis",
@@ -548,6 +561,7 @@
       "name": "Netherlands",
       "flag": "🇳🇱",
       "group": "F",
+      "jersey": { "colors": ["#FF6600", "#FFFFFF"], "pattern": "solid", "description": "Iconic orange — Oranje is one of the most recognizable kits in football" },
       "cityMatches": ["vs Tunisia — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
       "country": {
         "capital": "Amsterdam (governmental seat: The Hague)",
