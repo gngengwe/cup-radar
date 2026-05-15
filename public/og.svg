@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <!-- Pitch grid pattern -->
+    <pattern id="g" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M 52 0 L 0 0 0 52" fill="none" stroke="rgba(0,230,118,0.045)" stroke-width="1"/>
+    </pattern>
+    <!-- Accent glow gradient -->
+    <radialGradient id="aura" cx="75%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="rgba(0,230,118,0.07)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#07100a"/>
+  <!-- Grid -->
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <!-- Aura -->
+  <rect width="1200" height="630" fill="url(#aura)"/>
+
+  <!-- Decorative pitch elements (right side) -->
+  <circle cx="960" cy="315" r="220" stroke="rgba(0,230,118,0.055)" stroke-width="1.5" fill="none"/>
+  <circle cx="960" cy="315" r="44"  stroke="rgba(0,230,118,0.055)" stroke-width="1.5" fill="none"/>
+  <line  x1="740" y1="315" x2="1180" y2="315" stroke="rgba(0,230,118,0.055)" stroke-width="1.2"/>
+  <rect  x="740" y="200" width="82"  height="230" stroke="rgba(0,230,118,0.04)" stroke-width="1.2" fill="none"/>
+  <rect  x="740" y="240" width="36"  height="150" stroke="rgba(0,230,118,0.04)" stroke-width="1"   fill="none"/>
+  <circle cx="785" cy="370" r="5" fill="rgba(0,230,118,0.2)"/>
+
+  <!-- Left edge accent bar -->
+  <rect x="0" y="0" width="5" height="630" fill="rgba(0,230,118,0.4)"/>
+
+  <!-- CUP wordmark -->
+  <text
+    x="90" y="228"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="122"
+    font-weight="900"
+    letter-spacing="-5"
+    fill="#eee8dd"
+  >Cup</text>
+
+  <!-- RADAR wordmark (accent) -->
+  <text
+    x="90" y="354"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="122"
+    font-weight="900"
+    letter-spacing="-5"
+    fill="#00e676"
+  >Radar</text>
+
+  <!-- Divider -->
+  <rect x="90" y="378" width="340" height="3" rx="1.5" fill="rgba(0,230,118,0.35)"/>
+
+  <!-- Descriptor -->
+  <text
+    x="90" y="420"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="24"
+    font-weight="700"
+    letter-spacing="0.5"
+    fill="rgba(238,232,221,0.75)"
+  >WORLD CUP 2026  ·  SEATTLE  ·  KANSAS CITY</text>
+
+  <!-- Tagline -->
+  <text
+    x="90" y="460"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="19"
+    font-weight="500"
+    fill="rgba(122,144,128,0.9)"
+  >Matches, tickets, city energy — all in one place.</text>
+
+  <!-- Dates badge -->
+  <rect x="90" y="490" width="280" height="42" rx="8" fill="rgba(0,230,118,0.1)" stroke="rgba(0,230,118,0.25)" stroke-width="1.5"/>
+  <text
+    x="230" y="517"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="17"
+    font-weight="700"
+    fill="#00e676"
+    letter-spacing="0.5"
+  >June 11 – July 19, 2026</text>
+
+  <!-- Domain -->
+  <text
+    x="90" y="590"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="19"
+    font-weight="700"
+    fill="rgba(0,230,118,0.55)"
+    letter-spacing="1"
+  >wc.ngengwe.com</text>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="622" width="1200" height="8" rx="0" fill="rgba(0,230,118,0.2)"/>
+  <rect x="0" y="625" width="360"  height="5" rx="0" fill="rgba(0,230,118,0.5)"/>
+</svg>
