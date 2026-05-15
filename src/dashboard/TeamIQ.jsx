@@ -65,6 +65,17 @@ function TeamCard({ team }) {
               <span key={i} className="tiq-card__match-chip">{m}</span>
             ))}
           </div>
+          {team.jersey?.kitLink && (
+            <a
+              href={team.jersey.kitLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="tiq-kit-link"
+              onClick={e => e.stopPropagation()}
+            >
+              🛒 Official kit ↗
+            </a>
+          )}
         </div>
         <div className="tiq-card__chevron">{expanded ? '▲' : '▼'}</div>
       </div>
@@ -136,7 +147,17 @@ function TeamCard({ team }) {
             {team.jersey && (
               <div className="tiq-jersey-desc">
                 <span className="tiq-jersey-swatch" style={{ background: team.jersey.colors[0], borderColor: team.jersey.colors[1] }} />
-                {team.jersey.description}
+                <span>{team.jersey.description}</span>
+                {team.jersey.kitLink && (
+                  <a
+                    href={team.jersey.kitLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="tiq-kit-link tiq-kit-link--inline"
+                  >
+                    Buy ↗
+                  </a>
+                )}
               </div>
             )}
 

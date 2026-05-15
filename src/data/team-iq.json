@@ -7,7 +7,7 @@
       "name": "Belgium",
       "flag": "🇧🇪",
       "group": "G",
-      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Classic red with black trim" },
+      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red inspired by Gothic stained-glass windows — Red Devils and Red Flames icons woven in (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-belgium-2026-home-jersey-mens" },
       "cityMatches": ["vs Egypt — Jun 15, noon PT, Lumen Field (Group G)"],
       "country": {
         "capital": "Brussels",
@@ -49,7 +49,7 @@
       "name": "Egypt",
       "flag": "🇪🇬",
       "group": "G",
-      "jersey": { "colors": ["#CC1122", "#FFD700"], "pattern": "solid", "description": "Deep red gradient with gold and black accents — angular motifs echo hieroglyphics (Puma)" },
+      "jersey": { "colors": ["#CC1122", "#FFD700"], "pattern": "solid", "description": "Deep red gradient with gold and black accents — angular motifs echo hieroglyphics (Puma)", "kitLink": "https://store.fifa.com/product/puma-egypt-2026-home-replica-jersey-mens" },
       "cityMatches": [
         "vs Belgium — Jun 15, noon PT, Lumen Field (Group G)",
         "vs Iran — Jun 26, 8pm PT, Lumen Field (Group G)"
@@ -94,7 +94,7 @@
       "name": "Iran",
       "flag": "🇮🇷",
       "group": "G",
-      "jersey": { "colors": ["#FFFFFF", "#239F40"], "pattern": "solid", "description": "White with green trim" },
+      "jersey": { "colors": ["#FFFFFF", "#239F40"], "pattern": "solid", "description": "White body with tonal animal spot pattern on sleeves — Iranian flag colors trim the cuffs (Nike)", "kitLink": "https://store.fifa.com/products/nike-iran-2026-home-jersey-mens" },
       "cityMatches": ["vs Egypt — Jun 26, 8pm PT, Lumen Field (Group G)"],
       "country": {
         "capital": "Tehran",
@@ -136,7 +136,7 @@
       "name": "USA",
       "flag": "🇺🇸",
       "group": "D",
-      "jersey": { "colors": ["#FFFFFF", "#002868"], "pattern": "solid", "description": "White with navy blue trim" },
+      "jersey": { "colors": ["#FFFFFF", "#002868"], "pattern": "solid", "description": "White with wavy stripe pattern flowing across the jersey — stars subtly integrated into the fabric (Nike)", "kitLink": "https://store.fifa.com/products/nike-usa-2026-home-jersey-mens" },
       "cityMatches": ["vs Australia — Jun 19, noon PT, Lumen Field (Group D)"],
       "country": {
         "capital": "Washington, D.C.",
@@ -178,7 +178,7 @@
       "name": "Australia",
       "flag": "🇦🇺",
       "group": "D",
-      "jersey": { "colors": ["#FFD700", "#00843D"], "pattern": "solid", "description": "Gold with green trim — the iconic Socceroos kit" },
+      "jersey": { "colors": ["#FFD700", "#00843D"], "pattern": "solid", "description": "Yellow and green inspired by the beloved 2006 Socceroos kit — gradient green shorts complete the look (Nike)", "kitLink": "https://store.fifa.com/products/nike-australia-2026-home-jersey-mens" },
       "cityMatches": ["vs USA — Jun 19, noon PT, Lumen Field (Group D)"],
       "country": {
         "capital": "Canberra",
@@ -220,7 +220,7 @@
       "name": "Bosnia-Herzegovina",
       "flag": "🇧🇦",
       "group": "B",
-      "jersey": { "colors": ["#003DA5", "#FFCD00"], "pattern": "solid", "description": "Royal blue with yellow diagonal stripe" },
+      "jersey": { "colors": ["#003DA5", "#FFCD00"], "pattern": "solid", "description": "Royal blue with yellow diagonal stripe — Bosnia's first World Cup kit in 12 years (Nike)", "kitLink": "https://store.fifa.com/products/nike-bosnia-herzegovina-2026-home-jersey-mens" },
       "cityMatches": ["vs Qatar — Jun 24, noon PT, Lumen Field (Group B)"],
       "country": {
         "capital": "Sarajevo",
@@ -262,7 +262,7 @@
       "name": "Qatar",
       "flag": "🇶🇦",
       "group": "B",
-      "jersey": { "colors": ["#8D1B3D", "#FFFFFF"], "pattern": "solid", "description": "Maroon — the color of Qatar's national identity" },
+      "jersey": { "colors": ["#8D1B3D", "#FFFFFF"], "pattern": "solid", "description": "Maroon with darker serrated lines honoring the national flag's zig-zag division (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-qatar-2026-home-jersey-mens" },
       "cityMatches": ["vs Bosnia-Herzegovina — Jun 24, noon PT, Lumen Field (Group B)"],
       "country": {
         "capital": "Doha",
@@ -306,7 +306,7 @@
       "name": "Argentina",
       "flag": "🇦🇷",
       "group": "J",
-      "jersey": { "colors": ["#74ACDF", "#FFFFFF"], "pattern": "vstripes", "description": "Sky blue and white vertical stripes — the most iconic jersey in world football" },
+      "jersey": { "colors": ["#74ACDF", "#FFFFFF"], "pattern": "vstripes", "description": "Sky blue and white stripes with three-tone fade honouring Argentina's three World Cup wins (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-argentina-2026-home-jersey-mens" },
       "cityMatches": ["vs Algeria — Jun 16, 8pm CT, Kansas City Stadium (Group J)"],
       "country": {
         "capital": "Buenos Aires",
@@ -348,7 +348,7 @@
       "name": "Algeria",
       "flag": "🇩🇿",
       "group": "J",
-      "jersey": { "colors": ["#FFFFFF", "#006233"], "pattern": "sash", "description": "White with a distinctive green diagonal sash" },
+      "jersey": { "colors": ["#FFFFFF", "#006233"], "pattern": "sash", "description": "White with iconic green diagonal sash — one of the most distinctive designs in African football (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-algeria-2026-home-jersey-mens" },
       "cityMatches": [
         "vs Argentina — Jun 16, 8pm CT, Kansas City Stadium (Group J)",
         "vs Austria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"
@@ -393,7 +393,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "group": "J",
-      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red with deep black sleeves — fluid topographic linework maps Austria's mountain terrain (Puma)" },
+      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red with deep black sleeves — fluid topographic linework mapping Austria's mountainous terrain (Puma)", "kitLink": "https://store.fifa.com/products/puma-austria-2026-home-replica-jersey-mens" },
       "cityMatches": ["vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"],
       "country": {
         "capital": "Vienna",
@@ -435,7 +435,7 @@
       "name": "Ecuador",
       "flag": "🇪🇨",
       "group": "E",
-      "jersey": { "colors": ["#FFD100", "#0033A0"], "pattern": "solid", "description": "Bright yellow with blue trim — La Tri's vibrant identity" },
+      "jersey": { "colors": ["#FFD100", "#0033A0"], "pattern": "solid", "description": "Bright yellow with navy trim — La Tri's vibrant traditional identity (Marathon)", "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts" },
       "cityMatches": ["vs Curaçao — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
       "country": {
         "capital": "Quito",
@@ -477,7 +477,7 @@
       "name": "Curaçao",
       "flag": "🇨🇼",
       "group": "E",
-      "jersey": { "colors": ["#003DA5", "#FFD700"], "pattern": "solid", "description": "Royal blue with gold accents — the Caribbean island's colors" },
+      "jersey": { "colors": ["#003DA5", "#FFD700"], "pattern": "solid", "description": "Royal blue with gold — home kit for Curaçao's historic World Cup debut. Away: yellow/turquoise/pink (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-curacao-2026-home-jersey-mens" },
       "cityMatches": ["vs Ecuador — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
       "country": {
         "capital": "Willemstad",
@@ -519,7 +519,7 @@
       "name": "Tunisia",
       "flag": "🇹🇳",
       "group": "F",
-      "jersey": { "colors": ["#D00020", "#FFFFFF"], "pattern": "solid", "description": "Strong red base with subtle geometric pattern across the fabric — sharp and modern (Nike)" },
+      "jersey": { "colors": ["#D00020", "#FFFFFF"], "pattern": "solid", "description": "Strong red base with subtle geometric pattern across the fabric — sharp and modern (Nike)", "kitLink": "https://store.fifa.com/products/nike-tunisia-2026-home-jersey-mens" },
       "cityMatches": ["vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
       "country": {
         "capital": "Tunis",
@@ -561,7 +561,7 @@
       "name": "Netherlands",
       "flag": "🇳🇱",
       "group": "F",
-      "jersey": { "colors": ["#FF6600", "#FFFFFF"], "pattern": "solid", "description": "Iconic orange — Oranje is one of the most recognizable kits in football" },
+      "jersey": { "colors": ["#FF6600", "#FFFFFF"], "pattern": "solid", "description": "Boldest Dutch orange Nike has ever produced — lenticular crest shifts as players move (Nike)", "kitLink": "https://store.fifa.com/products/netherlands-2026-home-jersey-mens" },
       "cityMatches": ["vs Tunisia — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
       "country": {
         "capital": "Amsterdam (governmental seat: The Hague)",
