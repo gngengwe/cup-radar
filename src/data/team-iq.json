@@ -49,7 +49,7 @@
       "name": "Egypt",
       "flag": "🇪🇬",
       "group": "G",
-      "jersey": { "colors": ["#FFFFFF", "#CE1126"], "pattern": "solid", "description": "White with red collar and cuffs" },
+      "jersey": { "colors": ["#CC1122", "#FFD700"], "pattern": "solid", "description": "Deep red gradient with gold and black accents — angular motifs echo hieroglyphics (Puma)" },
       "cityMatches": [
         "vs Belgium — Jun 15, noon PT, Lumen Field (Group G)",
         "vs Iran — Jun 26, 8pm PT, Lumen Field (Group G)"
@@ -393,7 +393,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "group": "J",
-      "jersey": { "colors": ["#ED2939", "#FFFFFF"], "pattern": "solid", "description": "Bold red — Austria's national color since the 13th century" },
+      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red with deep black sleeves — fluid topographic linework maps Austria's mountain terrain (Puma)" },
       "cityMatches": ["vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"],
       "country": {
         "capital": "Vienna",
@@ -519,7 +519,7 @@
       "name": "Tunisia",
       "flag": "🇹🇳",
       "group": "F",
-      "jersey": { "colors": ["#FFFFFF", "#E70013"], "pattern": "solid", "description": "White with red collar and cuffs — the Eagles of Carthage" },
+      "jersey": { "colors": ["#D00020", "#FFFFFF"], "pattern": "solid", "description": "Strong red base with subtle geometric pattern across the fabric — sharp and modern (Nike)" },
       "cityMatches": ["vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
       "country": {
         "capital": "Tunis",
