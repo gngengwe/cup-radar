@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import upsetData from '../data/upsets.json';
 import FlagImg from '../components/FlagImg';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
 
 const RISK_CONFIG = {
   5: { label: 'Extreme',  color: '#f87171', bg: 'rgba(248,113,113,.12)' },
@@ -45,7 +47,12 @@ function UpsetCard({ upset, expanded, onToggle }) {
       >
         <div className="upset-card__top">
           <div className="upset-card__teams">
-            {upset.teamFlags.map((f, i) => <FlagImg key={i} emoji={f} size={22} />)}
+            {upset.teams.map((code, i) => {
+              const j = getJersey(code);
+              return j
+                ? <JerseyDisplay key={i} colors={j.colors} pattern={j.pattern} size={38} />
+                : <FlagImg key={i} emoji={upset.teamFlags[i]} size={22} />;
+            })}
           </div>
           <div className="upset-card__title-group">
             <h3 className="upset-card__title">{upset.title}</h3>

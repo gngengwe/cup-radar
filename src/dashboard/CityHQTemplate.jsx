@@ -6,6 +6,8 @@ import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
 import { daysUntilLabel } from '../utils/time';
 import ShareButton from '../components/ShareButton';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey, getNickname } from '../utils/teamData';
 
 const SHOULD_GO_COLORS = {
   'Once in a lifetime': '#00e676',
@@ -49,11 +51,32 @@ function MatchCard({ match, cityData }) {
         )}
       </div>
 
+      {/* ── Jersey matchup ── */}
+      {(getJersey(match.homeCode) || getJersey(match.awayCode)) && (
+        <div className="hq-jersey-matchup">
+          <div className="hq-jersey-team">
+            {getJersey(match.homeCode)
+              ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={54} />
+              : <FlagImg emoji={match.homeFlag} size={28} />}
+            <span className="hq-jersey-team__name">{match.homeTeam}</span>
+            {getNickname(match.homeCode) && <span className="hq-jersey-team__nick">"{getNickname(match.homeCode)}"</span>}
+          </div>
+          <span className="hq-jersey-vs">vs</span>
+          <div className="hq-jersey-team">
+            {getJersey(match.awayCode)
+              ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={54} />
+              : <FlagImg emoji={match.awayFlag} size={28} />}
+            <span className="hq-jersey-team__name">{match.awayTeam}</span>
+            {getNickname(match.awayCode) && <span className="hq-jersey-team__nick">"{getNickname(match.awayCode)}"</span>}
+          </div>
+        </div>
+      )}
+
       <div className="seattle-match-card__date">{weekday}, {dateStr}</div>
       <div className="seattle-match-card__teams">
-        <FlagImg emoji={match.homeFlag} size={16} /> {match.homeTeam}{' '}
+        <FlagImg emoji={match.homeFlag} size={14} /> {match.homeTeam}{' '}
         <span className="seattle-match-card__vs">vs</span>{' '}
-        {match.awayTeam} <FlagImg emoji={match.awayFlag} size={16} />
+        {match.awayTeam} <FlagImg emoji={match.awayFlag} size={14} />
       </div>
       <div className="seattle-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
 

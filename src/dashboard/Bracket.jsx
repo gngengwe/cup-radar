@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import bracketData from '../data/bracket.json';
 import FlagImg from '../components/FlagImg';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
 
 const STATUS_CONFIG = {
   upcoming: { label: 'Upcoming', color: 'var(--text-dim)' },
@@ -19,7 +21,9 @@ function BracketMatch({ match }) {
       {match.label && <div className="bracket-match__label">{match.label}</div>}
 
       <div className="bracket-match__row">
-        <FlagImg emoji={match.homeFlag} size={16} />
+        {getJersey(match.homeCode)
+          ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={18} />
+          : <FlagImg emoji={match.homeFlag} size={16} />}
         <span className={`bracket-match__team${isDone && match.homeScore > match.awayScore ? ' winner' : ''}`}>
           {match.home}
         </span>
@@ -29,7 +33,9 @@ function BracketMatch({ match }) {
       </div>
 
       <div className="bracket-match__row">
-        <FlagImg emoji={match.awayFlag} size={16} />
+        {getJersey(match.awayCode)
+          ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={18} />
+          : <FlagImg emoji={match.awayFlag} size={16} />}
         <span className={`bracket-match__team${isDone && match.awayScore > match.homeScore ? ' winner' : ''}`}>
           {match.away}
         </span>

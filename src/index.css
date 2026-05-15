@@ -3481,3 +3481,51 @@ td .flag-img { margin-right: 4px; }
   .admin-tabs { overflow-x: auto; flex-wrap: nowrap; }
   .admin-tab  { min-width: 80px; }
 }
+
+/* ═══════════════════════════════════════════════════════════
+   JERSEY MATCHUP — City HQ match cards
+═══════════════════════════════════════════════════════════ */
+.hq-jersey-matchup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 12px 0 8px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 8px;
+}
+.hq-jersey-team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  min-width: 64px;
+}
+.hq-jersey-team__name {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text);
+  text-align: center;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+.hq-jersey-team__nick {
+  font-size: 10px;
+  color: var(--accent);
+  font-style: italic;
+  text-align: center;
+}
+.hq-jersey-vs {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-dim);
+  flex-shrink: 0;
+}
+
+/* Today Mode match team cells */
+.today-match-card__team-cell {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.today-match-card__team-cell.away { flex-direction: row-reverse; }

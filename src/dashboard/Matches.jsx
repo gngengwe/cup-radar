@@ -2,6 +2,8 @@ import { useState, useMemo } from 'react';
 import { useParams } from 'react-router-dom';
 import { useMatches } from '../hooks/useMatches';
 import FlagImg from '../components/FlagImg';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
 import { daysUntilLabel } from '../utils/time';
 
 const STATUS_LABELS = { scheduled: 'Scheduled', live: '● Live', finished: 'FT', postponed: 'PPD' };
@@ -23,7 +25,9 @@ function MatchRow({ match }) {
       <div className="match-row__date">{dateStr}</div>
       <div className="match-row__teams">
         <span className="match-row__team home">
-          <FlagImg emoji={match.homeFlag} size={16} />
+          {getJersey(match.homeCode)
+            ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={22} />
+            : <FlagImg emoji={match.homeFlag} size={16} />}
           <span className="match-row__name">{match.homeTeam}</span>
         </span>
         <span className="match-row__score">
@@ -33,7 +37,9 @@ function MatchRow({ match }) {
         </span>
         <span className="match-row__team away">
           <span className="match-row__name">{match.awayTeam}</span>
-          <FlagImg emoji={match.awayFlag} size={16} />
+          {getJersey(match.awayCode)
+            ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={22} />
+            : <FlagImg emoji={match.awayFlag} size={16} />}
         </span>
       </div>
       <div className="match-row__meta">
