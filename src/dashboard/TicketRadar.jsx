@@ -159,11 +159,34 @@ export default function TicketRadar() {
   const updatedStr = relativeTime(lastUpdated);
 
   return (
-    <div>
-      <div className="dash-section-header">
-        <h2 className="dash-section-title">Ticket Radar</h2>
-        <span className="dash-last-updated">Updated {updatedStr}</span>
+    <div className="ticket-radar-wrapper">
+      {/* ── Coming Soon overlay ── */}
+      <div className="coming-soon-overlay" role="status" aria-label="Coming Soon">
+        <div className="coming-soon-overlay__diagonal">COMING SOON</div>
+        <div className="coming-soon-overlay__card">
+          <div className="coming-soon-overlay__icon">🎫</div>
+          <h2 className="coming-soon-overlay__title">Ticket Radar</h2>
+          <p className="coming-soon-overlay__msg">
+            Ticket intelligence is being sourced and verified.
+            Check back soon — or go direct to the official source.
+          </p>
+          <a
+            href="https://www.fifa.com/tickets"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-primary"
+            style={{ display: 'inline-flex' }}
+          >
+            Official tickets at fifa.com ↗
+          </a>
+        </div>
       </div>
+
+      <div className="coming-soon-content">
+        <div className="dash-section-header">
+          <h2 className="dash-section-title">Ticket Radar</h2>
+          <span className="dash-last-updated">Updated {updatedStr}</span>
+        </div>
 
       <div className="filter-bar">
         {[
@@ -205,6 +228,7 @@ export default function TicketRadar() {
         Cup Radar is an independent fan-built dashboard and is not affiliated with FIFA.
         Official tickets at <a href="https://www.fifa.com/tickets" target="_blank" rel="noopener noreferrer">fifa.com/tickets</a>.
       </p>
+      </div>
     </div>
   );
 }

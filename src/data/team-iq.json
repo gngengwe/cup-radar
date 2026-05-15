@@ -1,0 +1,588 @@
+{
+  "_note": "Country + Team IQ profiles for teams playing in each host city. Update star players and FIFA rankings as tournament approaches.",
+  "lastUpdated": "2026-05-14T12:00:00-07:00",
+  "seattle": [
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "group": "G",
+      "cityMatches": ["vs Egypt — Jun 15, noon PT, Lumen Field (Group G)"],
+      "country": {
+        "capital": "Brussels",
+        "population": "11.6 million",
+        "region": "Western Europe",
+        "continent": "Europe",
+        "language": "French, Dutch (Flemish), German",
+        "currency": "Euro (€)",
+        "location": "Landlocked between France, Germany, Netherlands, and Luxembourg. 5,100 miles from Seattle.",
+        "funFacts": [
+          "Belgium invented the modern french fry — not France",
+          "Home to the HQ of both NATO and the European Union",
+          "Has more Michelin-starred restaurants per capita than any European country",
+          "Produces 220,000 tons of chocolate per year",
+          "Holds the world record for the most varieties of beer"
+        ]
+      },
+      "team": {
+        "nickname": "Red Devils",
+        "fifaRanking": 3,
+        "wcAppearances": 14,
+        "wcBestFinish": "3rd place — 2018 Russia",
+        "lastWC": "2022 Qatar — eliminated in group stage",
+        "manager": "Domenico Tedesco",
+        "starPlayers": [
+          { "name": "Kevin De Bruyne", "position": "Midfielder", "club": "Manchester City", "note": "One of the best midfielders in history. 2026 may be his last WC. Creates everything for Belgium." },
+          { "name": "Romelu Lukaku", "position": "Forward", "club": "Roma", "note": "Belgium's all-time top scorer. Physical, powerful, best in box. Fitness is always the question." },
+          { "name": "Lois Openda", "position": "Forward", "club": "RB Leipzig", "note": "The next generation of Belgian attack. Fast, clinical, hungry for big moments." }
+        ],
+        "style": "Possession-based with elite individual quality. De Bruyne dictates tempo. Strong on transitions and set pieces.",
+        "strengths": ["World-class midfield", "Experienced squad", "Individual quality in every position"],
+        "weaknesses": ["Aging core", "2022 group stage exit exposed tension", "Pressure of 'last chance' narrative"],
+        "watchFor": "De Bruyne against Egypt. If he's on, Belgium should control the match. If he's off — Egypt's counter-attack becomes dangerous.",
+        "seattleContext": "Belgium's opener vs Egypt on June 15 at noon is the first World Cup match in Lumen Field's history."
+      }
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "group": "G",
+      "cityMatches": [
+        "vs Belgium — Jun 15, noon PT, Lumen Field (Group G)",
+        "vs Iran — Jun 26, 8pm PT, Lumen Field (Group G)"
+      ],
+      "country": {
+        "capital": "Cairo",
+        "population": "107 million",
+        "region": "North Africa / Middle East",
+        "continent": "Africa",
+        "language": "Arabic",
+        "currency": "Egyptian Pound (EGP)",
+        "location": "Northeastern corner of Africa, bridging Africa and the Middle East via the Sinai Peninsula. 7,400 miles from Seattle.",
+        "funFacts": [
+          "Home to the Great Pyramids — the last surviving Wonder of the Ancient World",
+          "The Nile River (world's longest) runs through Egypt for 900 miles",
+          "Egypt is the most populous Arab country in the world",
+          "Ancient Egyptian civilization is over 5,000 years old",
+          "Alexandria was once the world's largest city under Alexander the Great"
+        ]
+      },
+      "team": {
+        "nickname": "The Pharaohs",
+        "fifaRanking": 42,
+        "wcAppearances": 3,
+        "wcBestFinish": "Group stage (1934, 1990, 2018)",
+        "lastWC": "2018 Russia — group stage exit (Salah played despite injury from CL final)",
+        "manager": "Hossam Hassan",
+        "starPlayers": [
+          { "name": "Mohamed Salah", "position": "Forward", "club": "Liverpool", "note": "One of the greatest players of his generation. At 34, this is likely his final World Cup. Everything Egypt does runs through him." },
+          { "name": "Omar Marmoush", "position": "Forward", "club": "Manchester City", "note": "Breakout star of European football. Fast, two-footed, elite pressing. Egypt's next generation superstar." },
+          { "name": "Mostafa Mohamed", "position": "Forward", "club": "Galatasaray", "note": "Physical center forward who leads the line. Lethal in the box when Salah creates space." }
+        ],
+        "style": "Disciplined defensive block. Counter-attack through Salah and Marmoush. Dangerous on set pieces.",
+        "strengths": ["Salah in peak form", "Marmoush as a second weapon", "Organized defense"],
+        "weaknesses": ["Heavily reliant on Salah", "Struggles when going behind", "Limited depth beyond top stars"],
+        "watchFor": "Salah's opening match at Lumen Field vs Belgium. He described this World Cup as the one that defines his legacy.",
+        "seattleContext": "Egypt plays in Seattle twice — vs Belgium June 15 (noon) and vs Iran June 26 (8pm). The nighttime Egypt vs Iran match is one of the most anticipated fixtures of the entire tournament."
+      }
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "flag": "🇮🇷",
+      "group": "G",
+      "cityMatches": ["vs Egypt — Jun 26, 8pm PT, Lumen Field (Group G)"],
+      "country": {
+        "capital": "Tehran",
+        "population": "88 million",
+        "region": "Western Asia / Middle East",
+        "continent": "Asia",
+        "language": "Persian (Farsi)",
+        "currency": "Iranian Rial (IRR) / Toman",
+        "location": "Southwestern Asia, bordered by Turkey, Iraq, the Caspian Sea, Afghanistan, and Pakistan. 7,700 miles from Seattle.",
+        "funFacts": [
+          "Iran is home to one of the world's oldest civilizations — ancient Persia dates back 3,000+ years",
+          "Tehran sits at 3,800 feet elevation — one of the highest capital cities in the world",
+          "Iran has 26 UNESCO World Heritage Sites including Persepolis, built in 520 BC",
+          "The Persian Empire was the world's first superpower",
+          "Iran produces more saffron than any other country (90% of global supply)"
+        ]
+      },
+      "team": {
+        "nickname": "Team Melli",
+        "fifaRanking": 22,
+        "wcAppearances": 7,
+        "wcBestFinish": "Group stage",
+        "lastWC": "2022 Qatar — group stage (drew with USA 0-0, beat Wales 2-0)",
+        "manager": "Amir Ghalenoei",
+        "starPlayers": [
+          { "name": "Mehdi Taremi", "position": "Forward", "club": "Inter Milan", "note": "Iran's greatest modern player. Clinical finisher, smart movement, Champions League quality." },
+          { "name": "Sardar Azmoun", "position": "Forward", "club": "Bayer Leverkusen", "note": "'The Iranian Messi' — gifted technician. When motivated, world-class. Fitness and desire questioned." },
+          { "name": "Alireza Beiranvand", "position": "Goalkeeper", "club": "Antwerp", "note": "World-class shot-stopper. Will be essential in holding Egypt to a draw if needed." }
+        ],
+        "style": "Defensively disciplined, physical, organized. Counter-attack through Taremi. Set-piece threats.",
+        "strengths": ["World-class goalkeeper", "Organized defensive structure", "Taremi's clinical finishing"],
+        "weaknesses": ["Limited possession play", "Inconsistent performances under pressure", "Political narrative can affect focus"],
+        "watchFor": "Taremi vs Egypt's defense in Seattle's late-night Group G clash on June 26. With high stakes for both teams, this match carries enormous tension.",
+        "seattleContext": "Iran vs Egypt at 8pm on a Friday night is the most geopolitically charged match of Seattle's World Cup. Sold out. Maximum security."
+      }
+    },
+    {
+      "code": "USA",
+      "name": "USA",
+      "flag": "🇺🇸",
+      "group": "D",
+      "cityMatches": ["vs Australia — Jun 19, noon PT, Lumen Field (Group D)"],
+      "country": {
+        "capital": "Washington, D.C.",
+        "population": "331 million",
+        "region": "North America",
+        "continent": "North America",
+        "language": "English",
+        "currency": "US Dollar ($)",
+        "location": "Seattle's HOME. 6th-largest country by area, spanning from Atlantic to Pacific oceans.",
+        "funFacts": [
+          "Co-host of the 2026 World Cup alongside Canada and Mexico",
+          "The US Women's National Team is the most successful in history (4 World Cups)",
+          "Yellowstone National Park — the world's first national park — was founded here in 1872",
+          "The United States has the world's largest economy by nominal GDP",
+          "Seattle is home to Amazon, Microsoft, Boeing, and Starbucks"
+        ]
+      },
+      "team": {
+        "nickname": "Stars and Stripes",
+        "fifaRanking": 13,
+        "wcAppearances": 11,
+        "wcBestFinish": "3rd place — 1930 (inaugural World Cup)",
+        "lastWC": "2022 Qatar — Round of 16 (lost to Netherlands 3-1)",
+        "manager": "Mauricio Pochettino",
+        "starPlayers": [
+          { "name": "Christian Pulisic", "position": "Winger / Forward", "club": "AC Milan", "note": "Captain America. The face of US soccer's golden generation. Strong, skillful, clutch in big moments." },
+          { "name": "Gio Reyna", "position": "Attacking Midfielder", "club": "Nottingham Forest", "note": "The most technically gifted American of his generation. When fit and firing, changes games completely." },
+          { "name": "Yunus Musah", "position": "Midfielder", "club": "AC Milan", "note": "Engine of the US midfield. Italian-born American who brings elite European quality to every match." }
+        ],
+        "style": "High-energy, high-pressing, physical. Transition football at speed. Set-piece threats.",
+        "strengths": ["Home crowd energy", "Athletic, dynamic squad", "European club experience across roster"],
+        "weaknesses": ["Can struggle when pressed defensively", "Set pieces as a weakness as well as strength", "Big tournament experience still building"],
+        "watchFor": "Pulisic in front of a home crowd at Lumen Field. The USMNT playing in Seattle is the domestic World Cup moment Seattle has been waiting for.",
+        "seattleContext": "USA vs Australia June 19 at noon PT. The largest American soccer crowd Seattle has ever seen. USMNT on home soil."
+      }
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "group": "D",
+      "cityMatches": ["vs USA — Jun 19, noon PT, Lumen Field (Group D)"],
+      "country": {
+        "capital": "Canberra",
+        "population": "26 million",
+        "region": "Oceania / Pacific",
+        "continent": "Australia/Oceania",
+        "language": "English",
+        "currency": "Australian Dollar (AUD)",
+        "location": "Southern hemisphere, entirely surrounded by ocean. The only country that is also a continent. 7,700 miles from Seattle.",
+        "funFacts": [
+          "Australia is the only country on Earth that is also a continent",
+          "Home to 21 of the 25 most venomous snake species in the world",
+          "The Great Barrier Reef is the world's largest living structure — visible from space",
+          "Australia has more species of kangaroo than any other mammal",
+          "Canberra was purpose-built as the capital after Sydney and Melbourne couldn't agree who should be"
+        ]
+      },
+      "team": {
+        "nickname": "Socceroos",
+        "fifaRanking": 24,
+        "wcAppearances": 6,
+        "wcBestFinish": "Quarter-final — 2006 Germany",
+        "lastWC": "2022 Qatar — Round of 16 (lost to Argentina 2-1)",
+        "manager": "Tony Popovic",
+        "starPlayers": [
+          { "name": "Mathew Ryan", "position": "Goalkeeper", "club": "Real Sociedad", "note": "World-class shot-stopper. The heartbeat of the Australian backline. Essential for any deep run." },
+          { "name": "Jackson Irvine", "position": "Midfielder", "club": "FC St. Pauli", "note": "Captain. Engine, leader, box-to-box quality. Sets the intensity for the whole team." },
+          { "name": "Martin Boyle", "position": "Winger", "club": "Hibernian", "note": "Electric pace and directness on the wing. Can beat anyone with speed on his day." }
+        ],
+        "style": "Organized, physical, set-piece oriented. Counter-attack on transitions. Hard to beat.",
+        "strengths": ["Mental toughness", "World-class goalkeeper", "Set pieces and aerial duels"],
+        "weaknesses": ["Technical quality gaps vs elite nations", "Rely on individual moments", "Travel exhaustion from OFC"],
+        "watchFor": "Australia knows how to beat co-host favorites — they upset Denmark and France in 2022. Don't sleep on the Socceroos vs USA.",
+        "seattleContext": "Australia plays in Seattle because of their Pacific connection — the closest World Cup venue to Australia's timezone."
+      }
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia-Herzegovina",
+      "flag": "🇧🇦",
+      "group": "B",
+      "cityMatches": ["vs Qatar — Jun 24, noon PT, Lumen Field (Group B)"],
+      "country": {
+        "capital": "Sarajevo",
+        "population": "3.3 million",
+        "region": "Southeastern Europe / Western Balkans",
+        "continent": "Europe",
+        "language": "Bosnian, Croatian, Serbian",
+        "currency": "Bosnia-Herzegovina Convertible Mark (BAM)",
+        "location": "Western Balkans, bordered by Croatia, Serbia, and Montenegro. Small landlocked nation with a narrow access to the Adriatic. 5,600 miles from Seattle.",
+        "funFacts": [
+          "Sarajevo hosted the 1984 Winter Olympics",
+          "The assassination of Archduke Franz Ferdinand in Sarajevo in 1914 triggered World War I",
+          "Bosnia-Herzegovina has three presidents simultaneously — one for each major ethnic group",
+          "The Stari Most (Old Bridge) in Mostar is a UNESCO World Heritage Site rebuilt after destruction in the 1990s war",
+          "Has the largest Bosnian diaspora community of any US city in Seattle, WA"
+        ]
+      },
+      "team": {
+        "nickname": "Dragons / Zmajevi",
+        "fifaRanking": 55,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage (2014 Brazil)",
+        "lastWC": "2014 Brazil — group stage (beat Iran 3-1 but eliminated)",
+        "manager": "Sergej Barbarez",
+        "starPlayers": [
+          { "name": "Ermedin Demirović", "position": "Forward", "club": "VfB Stuttgart", "note": "Bundesliga sensation. Clinical finisher, physical, relentless. Bosnia's most dangerous attacker." },
+          { "name": "Sehad Hajradinović", "position": "Midfielder", "club": "FK Željezničar", "note": "Creative force. Technical and dangerous in final third." },
+          { "name": "Nikola Bilbija", "position": "Forward", "club": "FK Borac", "note": "Experienced domestic striker who provides a focal point for attack." }
+        ],
+        "style": "Physical, direct, set-piece focused. Long ball to Demirović. Compact defensive shape.",
+        "strengths": ["Emotional motivation — first WC in 12 years", "Demirović's world-class finishing", "Physical intensity"],
+        "weaknesses": ["Small player pool", "Limited depth", "Qatar is a manageable opponent but Belgium and Canada are difficult"],
+        "watchFor": "Bosnia's historic match at Lumen Field June 24 — their first World Cup appearance since 2014. Seattle has a significant Bosnian diaspora who will be in the stands.",
+        "seattleContext": "Bosnia-Herzegovina vs Qatar at noon on June 24 is a rare, accessible group stage match. Seattle's Bosnian community makes this uniquely local."
+      }
+    },
+    {
+      "code": "QAT",
+      "name": "Qatar",
+      "flag": "🇶🇦",
+      "group": "B",
+      "cityMatches": ["vs Bosnia-Herzegovina — Jun 24, noon PT, Lumen Field (Group B)"],
+      "country": {
+        "capital": "Doha",
+        "population": "2.7 million (80% expatriates)",
+        "region": "Middle East / Arabian Gulf",
+        "continent": "Asia",
+        "language": "Arabic",
+        "currency": "Qatari Riyal (QAR)",
+        "location": "Small peninsula jutting into the Persian Gulf from the Arabian Peninsula. One of the smallest countries in the world. 8,500 miles from Seattle.",
+        "funFacts": [
+          "Qatar has the highest GDP per capita in the world",
+          "Qatar hosted the 2022 FIFA World Cup — the first ever in the Middle East",
+          "90% of Qatar's workforce are foreign nationals from South Asia and Southeast Asia",
+          "Qatar's natural gas reserves are the third largest in the world",
+          "Doha has grown from a fishing village in the 1970s to a global metropolis today"
+        ]
+      },
+      "team": {
+        "nickname": "The Maroons",
+        "fifaRanking": 68,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage (2022 as host)",
+        "lastWC": "2022 Qatar — group stage (0 points as host nation, historic poor performance)",
+        "manager": "Marquez Lopez",
+        "starPlayers": [
+          { "name": "Akram Afif", "position": "Winger", "club": "Al-Sadd", "note": "Qatar's best player. Technically gifted, two-footed. Won AFC Player of the Year. Best in Asian football." },
+          { "name": "Almoez Ali", "position": "Forward", "club": "Al-Duhail", "note": "Scored 9 goals in 2019 Asian Cup — a tournament record. Physical and direct striker." },
+          { "name": "Hassan Al-Haydos", "position": "Midfielder", "club": "Al-Sadd", "note": "Veteran captain. Experienced and creative. The soul of Qatar's national team." }
+        ],
+        "style": "Technical, possession-oriented. Relies on domestic league talent. Limited physical intensity vs top European sides.",
+        "strengths": ["Experience from hosting 2022", "Technical quality in attacking third", "Akram Afif as game-changer"],
+        "weaknesses": ["Poor 2022 host performance psychological weight", "Biggest quality gap vs Canada/Switzerland", "Limited top-level European experience"],
+        "watchFor": "Whether Qatar can finally get a point or win at a World Cup after going 0-for-7 in 2022.",
+        "seattleContext": "Qatar vs Bosnia-Herzegovina is Group B's most evenly matched fixture — both fighting to avoid last place. A genuine contest."
+      }
+    }
+  ],
+  "kansascity": [
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "group": "J",
+      "cityMatches": ["vs Algeria — Jun 16, 8pm CT, Kansas City Stadium (Group J)"],
+      "country": {
+        "capital": "Buenos Aires",
+        "population": "46 million",
+        "region": "South America / Southern Cone",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "Argentine Peso (ARS)",
+        "location": "Southern tip of South America, stretching from the tropics to Patagonia and Antarctica. 7,200 miles from Kansas City.",
+        "funFacts": [
+          "Argentina has produced more Ballon d'Or winners (8) than any other country",
+          "Buenos Aires is South America's most European-feeling capital, known as the 'Paris of South America'",
+          "Argentina is the world's leading producer of yerba maté tea",
+          "The country has the highest beef consumption per capita on earth",
+          "Patagonia covers 400,000 square miles of glaciers, mountains, and steppes"
+        ]
+      },
+      "team": {
+        "nickname": "La Albiceleste",
+        "fifaRanking": 1,
+        "wcAppearances": 19,
+        "wcBestFinish": "World Cup Champions (1978, 1986, 2022)",
+        "lastWC": "2022 Qatar — CHAMPIONS (beat France on penalties in the final)",
+        "manager": "Lionel Scaloni",
+        "starPlayers": [
+          { "name": "Lionel Messi", "position": "Forward / Playmaker", "club": "Inter Miami", "note": "The greatest player in history. At 38, this is almost certainly his final World Cup. Winner of 8 Ballons d'Or and the 2022 World Cup. Every match is a farewell tour." },
+          { "name": "Julián Álvarez", "position": "Forward", "club": "Atlético Madrid", "note": "2022 World Cup hero. 4 goals at Qatar. The perfect strike partner for Messi — relentless pressing, clinical finishing." },
+          { "name": "Rodrigo De Paul", "position": "Midfielder", "club": "Atlético Madrid", "note": "The heartbeat of Argentina's midfield. Box-to-box quality, fights for every ball, Messi's protector." }
+        ],
+        "style": "Elite possession and transition. Everything channeled through Messi. Álvarez and Enzo Fernández the engines. Tight defensive shape.",
+        "strengths": ["Messi", "Defending champions momentum", "Tactical discipline under Scaloni", "Squad depth at every position"],
+        "weaknesses": ["Messi at 38 — how many minutes can he play?", "Pressure of being champions", "Algeria is dangerous on transitions"],
+        "watchFor": "Messi's opener at Arrowhead Stadium vs Algeria on June 16. One of the last times on earth you'll watch Messi play a competitive international match.",
+        "kcContext": "Argentina vs Algeria is Kansas City's opening Group J match — and the most anticipated non-US match of the entire KC schedule."
+      }
+    },
+    {
+      "code": "ALG",
+      "name": "Algeria",
+      "flag": "🇩🇿",
+      "group": "J",
+      "cityMatches": [
+        "vs Argentina — Jun 16, 8pm CT, Kansas City Stadium (Group J)",
+        "vs Austria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"
+      ],
+      "country": {
+        "capital": "Algiers",
+        "population": "45 million",
+        "region": "North Africa",
+        "continent": "Africa",
+        "language": "Arabic, Tamazight (Berber), French",
+        "currency": "Algerian Dinar (DZD)",
+        "location": "Largest country in Africa by area. The Sahara Desert covers 90% of the land. Borders the Mediterranean, Morocco, Tunisia, Libya, Niger, Mali, and Mauritania. 6,200 miles from Kansas City.",
+        "funFacts": [
+          "Algeria is the largest country in Africa and the Arab world",
+          "The Sahara Desert — the world's largest hot desert — covers most of Algeria",
+          "Algeria has ancient Roman ruins including Timgad, a UNESCO World Heritage Site",
+          "The country gained independence from France in 1962 after a brutal 8-year war",
+          "Algeria is one of the world's top 10 natural gas producers"
+        ]
+      },
+      "team": {
+        "nickname": "Les Fennecs (Desert Foxes)",
+        "fifaRanking": 35,
+        "wcAppearances": 5,
+        "wcBestFinish": "Round of 16 (2014 Brazil — extra time vs Germany)",
+        "lastWC": "2014 Brazil — R16 (took Germany to extra time before losing 2-1)",
+        "manager": "Vladimir Petkovic",
+        "starPlayers": [
+          { "name": "Mohamed Benrahma", "position": "Winger", "club": "Lyon", "note": "Algeria's creative force. Technical, tricky, dangerous on the ball in tight spaces. Ligue 1 quality." },
+          { "name": "Youcef Atal", "position": "Right Back / Winger", "club": "Nice", "note": "Attacking full-back with pace and directness. Algeria's right flank is their most dangerous outlet." },
+          { "name": "Baghdad Bounedjah", "position": "Forward", "club": "Al-Sadd", "note": "Scored the winning goal in the 2019 AFCON final vs Senegal in 22 seconds. Clinical and smart." }
+        ],
+        "style": "Compact defensively. Counter-attack at pace through wide players. Physical and difficult to break down.",
+        "strengths": ["Organized defensive structure", "Dangerous on the counter", "Underdog motivation vs Argentina"],
+        "weaknesses": ["Lack of top-level European stars", "Depth behind starting XI", "Facing the world #1 team"],
+        "watchFor": "Algeria defending against Messi at Arrowhead. Their 2014 performance vs Germany showed they can frustrate anyone. Can they do it again to the defending champions?",
+        "kcContext": "Algeria plays in KC twice — opening vs Argentina (Group J) and vs Austria June 27. Two must-see Group J matches at Arrowhead."
+      }
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "group": "J",
+      "cityMatches": ["vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"],
+      "country": {
+        "capital": "Vienna",
+        "population": "9.1 million",
+        "region": "Central Europe",
+        "continent": "Europe",
+        "language": "German",
+        "currency": "Euro (€)",
+        "location": "Landlocked in the heart of Europe, bordering Germany, Czech Republic, Slovakia, Hungary, Slovenia, Italy, Switzerland, and Liechtenstein. 5,300 miles from Kansas City.",
+        "funFacts": [
+          "Vienna is consistently ranked as the world's most livable city",
+          "Austria was the birthplace of Mozart, Beethoven, Schubert, Strauss, and Freud",
+          "The Habsburg Empire ruled much of Europe for 600 years from Vienna",
+          "Austria produces some of the world's finest white wines (Grüner Veltliner, Riesling)",
+          "Arnold Schwarzenegger was born in Thal, a small village in Styria, Austria"
+        ]
+      },
+      "team": {
+        "nickname": "Das Team",
+        "fifaRanking": 17,
+        "wcAppearances": 7,
+        "wcBestFinish": "3rd place — 1954 Switzerland",
+        "lastWC": "Did not qualify 2018/2022",
+        "manager": "Ralf Rangnick",
+        "starPlayers": [
+          { "name": "David Alaba", "position": "Defender / Midfielder", "club": "Real Madrid", "note": "Austria's greatest modern player. Champions League winner. Versatile, reads the game at elite level." },
+          { "name": "Marcel Sabitzer", "position": "Midfielder", "club": "Borussia Dortmund", "note": "Dynamic box-to-box midfielder with a powerful shot. Sets the tempo for Austria's press." },
+          { "name": "Christoph Baumgartner", "position": "Attacking Midfielder", "club": "RB Leipzig", "note": "Creative and technically gifted. Austria's best chance creator behind Alaba." }
+        ],
+        "style": "High-pressing, Rangnick's signature gegenpressing system. Technical and organized. Demand for relentless running.",
+        "strengths": ["Alaba's world-class quality", "Rangnick's tactical system proven at elite level", "Athletic and energetic squad"],
+        "weaknesses": ["Long absence from World Cups (2018 and 2022 missed)", "Group J is extremely difficult with Argentina and Algeria"],
+        "watchFor": "Austria vs Algeria is a must-win for both teams. The winner likely advances. Alaba vs the Algeria attack at Arrowhead under the lights at 9pm.",
+        "kcContext": "Austria vs Algeria is Group J's final deciding match. With Argentina likely already through, second place is a straight fight between these two."
+      }
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "group": "E",
+      "cityMatches": ["vs Curaçao — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
+      "country": {
+        "capital": "Quito",
+        "population": "18 million",
+        "region": "South America / Andean Region",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "US Dollar ($) — adopted in 2000",
+        "location": "The equator runs through Ecuador — its name literally means 'equator.' Sits on the Pacific coast of South America, below Colombia and above Peru. 3,800 miles from Kansas City.",
+        "funFacts": [
+          "'Ecuador' literally means equator in Spanish — it sits right on the line",
+          "The Galapagos Islands, where Darwin developed his theory of evolution, belong to Ecuador",
+          "Ecuador is the world's top exporter of bananas",
+          "Quito (elevation 9,350 ft) is the second-highest capital city in the world",
+          "Ecuador uniquely uses the US Dollar as its official currency, adopted in 2000 after economic crisis"
+        ]
+      },
+      "team": {
+        "nickname": "La Tri",
+        "fifaRanking": 38,
+        "wcAppearances": 5,
+        "wcBestFinish": "Quarter-final — 2006 Germany",
+        "lastWC": "2022 Qatar — group stage (4 points, narrowly eliminated)",
+        "manager": "Sebastián Beccacece",
+        "starPlayers": [
+          { "name": "Gonzalo Plata", "position": "Winger", "club": "Wolverhampton", "note": "Devastating pace and directness. Ecuador's most dangerous player in transition. Tough to contain." },
+          { "name": "Moisés Caicedo", "position": "Midfielder", "club": "Chelsea", "note": "One of the best defensive midfielders in the Premier League. Controls tempo, wins every duel." },
+          { "name": "Kendry Páez", "position": "Attacking Midfielder", "club": "Chelsea", "note": "Teenage sensation — signed by Chelsea at 16. Technical, creative, the future of Ecuadorian football." }
+        ],
+        "style": "Physical and hard-working. Strong defensive foundation. Counter-attack through Plata and wingbacks.",
+        "strengths": ["Caicedo's elite midfield control", "Dangerous on transitions", "Physical intensity"],
+        "weaknesses": ["Limited finishing outside Plata", "Rely on counter-attack vs organized defenses", "Curaçao match is a trap game"],
+        "watchFor": "Caicedo vs Germany's midfield in the group stage. If Caicedo wins the midfield battle, Ecuador can compete with anyone.",
+        "kcContext": "Ecuador vs Curaçao is the most accessible Group E ticket in Kansas City — great value, historical occasion (Curaçao's debut), and Ecuador is a quality side."
+      }
+    },
+    {
+      "code": "CUW",
+      "name": "Curaçao",
+      "flag": "🇨🇼",
+      "group": "E",
+      "cityMatches": ["vs Ecuador — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
+      "country": {
+        "capital": "Willemstad",
+        "population": "160,000",
+        "region": "Caribbean / Dutch Antilles",
+        "continent": "South America (geographically) / Caribbean (culturally)",
+        "language": "Papiamentu, Dutch, English",
+        "currency": "Netherlands Antillean Guilder (ANG)",
+        "location": "Small island in the southern Caribbean, 40 miles off the Venezuelan coast. Part of the Dutch Caribbean. One of the smallest nations ever to qualify for a World Cup. 2,200 miles from Kansas City.",
+        "funFacts": [
+          "Willemstad's colorful Dutch colonial harbor is a UNESCO World Heritage Site",
+          "Despite having 160,000 people, Curaçao has produced several Premier League and Bundesliga players",
+          "Curaçao officially became a separate country within the Kingdom of the Netherlands in 2010",
+          "The island has over 35 different nationalities living on it",
+          "Curaçao's coastline has some of the clearest water in the world — visibility up to 100 feet"
+        ]
+      },
+      "team": {
+        "nickname": "Korebèrdè (The Blue Birds)",
+        "fifaRanking": 87,
+        "wcAppearances": 1,
+        "wcBestFinish": "First World Cup — 2026",
+        "lastWC": "DEBUT — 2026 FIFA World Cup",
+        "manager": "Leonardo Virgüez",
+        "starPlayers": [
+          { "name": "Juriën Timber", "position": "Defender", "club": "Arsenal", "note": "The jewel of Curaçao football. Arsenal's first-choice defender. Elite ball-playing ability. World-class potential." },
+          { "name": "Myron Boadu", "position": "Forward", "club": "Monaco", "note": "Ligue 1 striker of Dutch-Curaçaoan heritage. Clinical and powerful. Curaçao's most dangerous attacker." },
+          { "name": "Cuco Martina", "position": "Defender / Veteran", "club": "Retired / coaching pathway", "note": "Legendary veteran who pioneered the path for Curaçao players in European football." }
+        ],
+        "style": "Technical and brave. Many players in top European leagues. Attack-minded. Nothing to lose.",
+        "strengths": ["Timber's world-class quality", "European club experience throughout the squad", "Maximum motivation for historic moment"],
+        "weaknesses": ["Tiny nation with limited depth", "Never been in a World Cup match before", "Ecuador, Germany, Ivory Coast all significantly ranked higher"],
+        "watchFor": "The moment Curaçao takes the field in Kansas City for their first-ever World Cup match. A nation of 160,000 people on the biggest stage on earth.",
+        "kcContext": "Curaçao vs Ecuador is one of the most historically significant matches in Kansas City — the smallest nation to ever play in a World Cup making their debut at Arrowhead."
+      }
+    },
+    {
+      "code": "TUN",
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "group": "F",
+      "cityMatches": ["vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
+      "country": {
+        "capital": "Tunis",
+        "population": "12 million",
+        "region": "North Africa / Maghreb",
+        "continent": "Africa",
+        "language": "Arabic, French",
+        "currency": "Tunisian Dinar (TND)",
+        "location": "Northernmost country in Africa, sitting at the crossroads of the Mediterranean. Bordered by Algeria and Libya. Across the sea from Italy and Sicily. 6,000 miles from Kansas City.",
+        "funFacts": [
+          "Tunisia was the first African and Arab country to ever play in a World Cup (1978)",
+          "The ruins of ancient Carthage — the rival of Rome — are a suburb of modern Tunis",
+          "Tunisia is Africa's northernmost country, with a Mediterranean coastline of 750 miles",
+          "The Tunisian medina (old city) of Tunis is a UNESCO World Heritage Site",
+          "George Lucas filmed Star Wars in Tunisia — Tatooine scenes were shot in the Saharan villages"
+        ]
+      },
+      "team": {
+        "nickname": "Eagles of Carthage",
+        "fifaRanking": 36,
+        "wcAppearances": 6,
+        "wcBestFinish": "Group stage (multiple appearances)",
+        "lastWC": "2022 Qatar — group stage (beat France 1-0 in a dead rubber, eliminated on goal difference)",
+        "manager": "Jalel Kadri",
+        "starPlayers": [
+          { "name": "Hannibal Mejbri", "position": "Midfielder", "club": "Manchester United", "note": "Young, explosive, combative. Manchester United's midfielder brings Premier League energy to Tunisia." },
+          { "name": "Wahbi Khazri", "position": "Forward / Attacking Midfielder", "club": "Retired", "note": "The veteran leader who guided Tunisia in 2022. Brilliant vision, technical quality. Final World Cup appearance." },
+          { "name": "Dylan Bronn", "position": "Defender", "club": "Salernitana", "note": "Composed central defender. Organizes the backline and is key to Tunisia's defensive resilience." }
+        ],
+        "style": "Disciplined defensive shape. Direct and physical. Strong at set pieces. Counter-attack through wingers.",
+        "strengths": ["Beat France in 2022 (even in dead rubber)", "Organized defense", "Set-piece threats"],
+        "weaknesses": ["Often exit at group stage despite competitive performances", "Limited in true world-class forward talent", "Netherlands is significantly stronger on paper"],
+        "watchFor": "Tunisia's defensive setup vs the Netherlands attack. Tunisia has historically made life very difficult for European favorites.",
+        "kcContext": "Tunisia vs Netherlands is the most technically compelling Group F match at Kansas City. Dutch fans in force vs a Tunisian team with a point to prove."
+      }
+    },
+    {
+      "code": "NED",
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "group": "F",
+      "cityMatches": ["vs Tunisia — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
+      "country": {
+        "capital": "Amsterdam (governmental seat: The Hague)",
+        "population": "17.9 million",
+        "region": "Northwestern Europe",
+        "continent": "Europe",
+        "language": "Dutch",
+        "currency": "Euro (€)",
+        "location": "Low-lying coastal nation in northwest Europe. Borders Belgium and Germany. 25% of its territory is below sea level — all reclaimed from the sea. 5,000 miles from Kansas City.",
+        "funFacts": [
+          "25% of the Netherlands is below sea level — the country built an entire system of dikes and pumps to reclaim it from the ocean",
+          "The Netherlands is the world's second-largest food exporter (after the USA)",
+          "Amsterdam has more bicycles than people — 880,000 bikes in a city of 820,000",
+          "Rembrandt and Vincent van Gogh are both Dutch",
+          "Dutch 'Total Football' revolutionized world football in the 1970s and still influences tactics today"
+        ]
+      },
+      "team": {
+        "nickname": "Oranje (The Orange)",
+        "fifaRanking": 7,
+        "wcAppearances": 11,
+        "wcBestFinish": "Runner-up (1974, 1978, 2010)",
+        "lastWC": "2022 Qatar — Quarter-final (lost to Argentina on penalties)",
+        "manager": "Ronald Koeman",
+        "starPlayers": [
+          { "name": "Virgil van Dijk", "position": "Defender", "club": "Liverpool", "note": "Captain. One of the best defenders in football history. Physical, commanding, perfect on the ball. Leaders leaders." },
+          { "name": "Cody Gakpo", "position": "Forward", "club": "Liverpool", "note": "Scored 3 goals at the 2022 World Cup in Qatar. Powerful, left-footed, can play wide or central." },
+          { "name": "Xavi Simons", "position": "Attacking Midfielder", "club": "RB Leipzig", "note": "The most exciting young Dutch player of his generation. Technical, creative, direct. Future Ballon d'Or candidate." }
+        ],
+        "style": "Possession-based. High-press when needed. Van Dijk anchors a solid defense. Simons and Gakpo as the creativity.",
+        "strengths": ["Van Dijk — among the world's best defenders", "Wide attacking threat through Gakpo and Simons", "Netherlands vs Japan (2022 R16 rematch) makes Group F fascinating"],
+        "weaknesses": ["Can struggle for consistency in knockout rounds", "Historically underperform relative to talent"],
+        "watchFor": "The Netherlands' first match since their 2022 QF loss to Argentina. A motivated Dutch team in KC orange vs a stubborn Tunisia.",
+        "kcContext": "Dutch fans travel in massive numbers to World Cups. Kansas City in orange on June 25 at 6pm CT will be a visual spectacle."
+      }
+    }
+  ]
+}

@@ -1,7 +1,107 @@
 {
-  "_note": "Manually curated news. Add new items at the top of the array. Keep to 12–15 items max.",
-  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
+  "lastUpdated": "2026-05-14T12:00:00-07:00",
   "articles": [
+    {
+      "id": "news-kc-007",
+      "headline": "Arrowhead Stadium renamed 'Kansas City Stadium' for World Cup — transformation underway",
+      "summary": "GEHA Field at Arrowhead Stadium is officially renamed Kansas City Stadium for the 2026 FIFA World Cup. Capacity expansions, pitch installation, and fan plazas are on schedule.",
+      "category": "kansascity",
+      "source": "Kansas City FWC26",
+      "date": "2026-05-13",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-kc-006",
+      "headline": "Argentina vs Algeria confirmed as Kansas City opener — Messi at Arrowhead on June 16",
+      "summary": "The defending World Cup champions open their Group J campaign at Kansas City Stadium on June 16 at 8pm CT. It will be Messi's first match of what is widely expected to be his final World Cup.",
+      "category": "kansascity",
+      "source": "Cup Radar",
+      "date": "2026-05-12",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-kc-005",
+      "headline": "Kansas City lands a World Cup Quarterfinal — July 11 at Arrowhead",
+      "summary": "Kansas City Stadium will host a FIFA World Cup Quarterfinal on July 11 — placing it among the six elite host venues in the entire tournament. The match could feature any top-8 team on earth.",
+      "category": "kansascity",
+      "source": "FIFA.com",
+      "date": "2026-05-10",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-kc-004",
+      "headline": "Dutch invasion: Netherlands fans expected to arrive in force for Group F match in KC",
+      "summary": "Supporters travel clubs from the Netherlands are already organizing group travel to Kansas City for the June 25 Tunisia vs Netherlands Group F match. Orange is expected to dominate the stadium.",
+      "category": "kansascity",
+      "source": "Kansas City Star",
+      "date": "2026-05-08",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-kc-003",
+      "headline": "Power & Light District named official FIFA Fan Festival hub for Kansas City",
+      "summary": "The Power & Light District will serve as Kansas City's official FIFA Fan Festival site with giant screens, live entertainment, international food vendors, and free admission on all match days.",
+      "category": "kansascity",
+      "source": "Kansas City FWC26",
+      "date": "2026-05-06",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-kc-002",
+      "headline": "Algeria squad preview: can the Atlas Lions pull a Group J upset on Argentina?",
+      "summary": "Algeria arrive at the 2026 World Cup with their most balanced squad in years. Their opening match against defending champions Argentina in Kansas City on June 16 is the most anticipated Group J fixture.",
+      "category": "kansascity",
+      "source": "Cup Radar",
+      "date": "2026-05-05",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-kc-001",
+      "headline": "Curaçao makes history: island of 160,000 people arrives at their first World Cup",
+      "summary": "Curaçao, a Dutch Caribbean island nation of roughly 160,000 people, will make their first-ever World Cup appearance at Kansas City Stadium on June 20 vs Ecuador. One of the great underdog stories of 2026.",
+      "category": "kansascity",
+      "source": "Cup Radar",
+      "date": "2026-05-03",
+      "link": null,
+      "featured": false
+    },
+    {
+      "id": "news-sea-003",
+      "headline": "Egypt vs Iran in Seattle — the most geopolitically charged match of the group stage",
+      "summary": "June 26 at 8pm PT at Lumen Field. Egypt vs Iran in Group G is being described as one of the most politically significant soccer matches in years. Seattle will be at the center of the World Cup's most complex fixture.",
+      "category": "seattle",
+      "source": "Cup Radar",
+      "date": "2026-05-11",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-sea-002",
+      "headline": "USA vs Australia in Seattle: USMNT brings the World Cup home to Lumen Field",
+      "summary": "June 19 at noon PT. The US national team plays in Seattle for the first time at a World Cup. The match is expected to be the most-attended and most-energized of Seattle's group stage fixtures.",
+      "category": "seattle",
+      "source": "Sounders FC",
+      "date": "2026-05-09",
+      "link": null,
+      "featured": true
+    },
+    {
+      "id": "news-sea-001",
+      "headline": "Belgium squad preview: golden generation's last shot at glory begins in Seattle",
+      "summary": "Belgium open their 2026 World Cup against Egypt at Lumen Field on June 15. De Bruyne leads a squad many consider aging past its peak — making this tournament the Red Devils' last realistic shot at a first World Cup title.",
+      "category": "seattle",
+      "source": "Cup Radar",
+      "date": "2026-05-07",
+      "link": null,
+      "featured": false
+    },
     {
       "id": "news-012",
       "headline": "FIFA confirms all 48 teams certified — World Cup field is set",

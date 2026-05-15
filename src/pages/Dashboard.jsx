@@ -17,6 +17,7 @@ const Newsroom        = lazy(() => import('../dashboard/Newsroom'));
 const CultureTracker  = lazy(() => import('../dashboard/CultureTracker'));
 const NarrativeTracker= lazy(() => import('../dashboard/NarrativeTracker'));
 const UpsetRadar      = lazy(() => import('../dashboard/UpsetRadar'));
+const TeamIQ          = lazy(() => import('../dashboard/TeamIQ'));
 
 const CITY_CONFIG = {
   seattle: {
@@ -52,6 +53,7 @@ function buildNav(city) {
     { id: 'culture',    label: 'Culture Tracker',   icon: '👕',      desc: 'Kits & moments'      },
     { id: 'narratives', label: 'Narratives',        icon: '📖',      desc: 'Tournament stories'  },
     { id: 'upsets',     label: 'Upset Radar',       icon: '🚨',      desc: 'Chaos potential'     },
+    { id: 'teamiq',    label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'     },
   ];
 }
 
@@ -69,6 +71,7 @@ function getSectionComponent(city, section) {
     culture:    CultureTracker,
     narratives: NarrativeTracker,
     upsets:     UpsetRadar,
+    teamiq:     TeamIQ,
   };
   return map[section] || null;
 }

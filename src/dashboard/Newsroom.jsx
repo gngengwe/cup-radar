@@ -1,26 +1,39 @@
 import { useState } from 'react';
+import { useParams } from 'react-router-dom';
 import newsData from '../data/news.json';
 import { relativeTime } from '../utils/time';
 
-const CATEGORIES = ['all', 'tournament', 'seattle', 'tickets', 'teams', 'travel', 'culture'];
+const CATEGORIES = ['all', 'tournament', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
 
 const CAT_COLORS = {
-  tournament: { color: 'var(--accent)',    bg: 'var(--accent-soft)' },
-  seattle:    { color: '#4d8eff',          bg: 'var(--blue-soft)' },
-  tickets:    { color: '#ffb84d',          bg: 'rgba(255,184,77,0.1)' },
-  teams:      { color: '#c084fc',          bg: 'rgba(192,132,252,0.1)' },
-  travel:     { color: '#34d399',          bg: 'rgba(52,211,153,0.1)' },
-  culture:    { color: '#f472b6',          bg: 'rgba(244,114,182,0.1)' },
+  tournament:  { color: 'var(--accent)',              bg: 'var(--accent-soft)' },
+  seattle:     { color: '#4d8eff',                    bg: 'var(--blue-soft)' },
+  kansascity:  { color: '#c084fc',                    bg: 'rgba(192,132,252,0.1)' },
+  tickets:     { color: '#ffb84d',                    bg: 'rgba(255,184,77,0.1)' },
+  teams:       { color: '#a78bfa',                    bg: 'rgba(167,139,250,0.1)' },
+  travel:      { color: '#34d399',                    bg: 'rgba(52,211,153,0.1)' },
+  culture:     { color: '#f472b6',                    bg: 'rgba(244,114,182,0.1)' },
+};
+
+const CAT_LABELS = {
+  all:         'All',
+  tournament:  'Tournament',
+  seattle:     '🏟️ Seattle',
+  kansascity:  '🏈 Kansas City',
+  tickets:     'Tickets',
+  teams:       'Teams',
+  travel:      'Travel',
+  culture:     'Culture',
 };
 
 function NewsCard({ article, featured }) {
-  const cfg = CAT_COLORS[article.category] || { color: 'var(--text-muted)', bg: 'rgba(255,255,255,0.05)' };
+  const cfg = CAT_COLORS[article.category] || { color: 'var(--text-muted)', bg: 'rgba(255,255,255,.05)' };
 
   return (
     <div className={`news-card${featured ? ' featured' : ''}`}>
       <div className="news-card__top">
         <span className="news-card__cat" style={{ color: cfg.color, background: cfg.bg }}>
-          {article.category}
+          {CAT_LABELS[article.category] || article.category}
         </span>
         <span className="news-card__date" title={article.date}>{relativeTime(article.date)}</span>
       </div>
@@ -37,7 +50,9 @@ function NewsCard({ article, featured }) {
 }
 
 export default function Newsroom() {
-  const [cat, setCat] = useState('all');
+  const { city = 'seattle' } = useParams();
+  const defaultCat = city === 'kansascity' ? 'kansascity' : 'seattle';
+  const [cat, setCat] = useState(defaultCat);
 
   const { articles, lastUpdated } = newsData;
 
@@ -63,7 +78,7 @@ export default function Newsroom() {
             className={`filter-chip${cat === c ? ' active' : ''}`}
             onClick={() => setCat(c)}
           >
-            {c === 'all' ? 'All' : c.charAt(0).toUpperCase() + c.slice(1)}
+            {CAT_LABELS[c]}
           </button>
         ))}
       </div>
@@ -82,8 +97,8 @@ export default function Newsroom() {
       </div>
 
       <p className="dash-disclaimer">
-        Cup Radar curates news manually. Articles are summaries only — follow source links for full
-        coverage. Cup Radar is not affiliated with FIFA.
+        Cup Radar curates news manually. Articles are summaries only.
+        Cup Radar is not affiliated with FIFA.
       </p>
     </div>
   );
