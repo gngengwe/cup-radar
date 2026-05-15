@@ -2,12 +2,11 @@
  * JerseyDisplay — renders a CSS soccer jersey shape with team colors.
  * Patterns: solid | vstripes (vertical) | hstripes (horizontal) | sash | halves
  */
-
-let idCounter = 0;
+import { useId } from 'react';
 
 export default function JerseyDisplay({ colors = ['#cccccc', '#ffffff'], pattern = 'solid', size = 72 }) {
-  const id    = ++idCounter;
-  const pid   = `jp-${id}`;
+  const uid = useId();
+  const pid = `jp-${uid.replace(/:/g, '')}`;
   const [c1, c2 = '#ffffff'] = colors;
 
   // Jersey outline path (viewBox 0 0 100 108)

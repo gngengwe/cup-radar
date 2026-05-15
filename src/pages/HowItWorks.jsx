@@ -138,6 +138,23 @@ const SECTIONS = [
       'Updated with result (happened / didn\'t happen) as matches play out',
     ],
   },
+  {
+    icon: '🛠️',
+    id: 'admin',
+    name: 'Admin Panel',
+    desc: 'Data editor — no command line needed',
+    bullets: [
+      'Access at wc.ngengwe.com/admin — login with a GitHub Personal Access Token',
+      'Alerts tab: set tournament phase, city energy score, Seattle alert, top 3 stories',
+      'Scores tab: mark matches live, then record the final score at full time',
+      'News tab: publish new articles or delete old ones by category',
+      'Scenarios tab: flip group stage scenarios between Pending / Happened / Didn\'t happen',
+      'Narratives tab: add chapters to storylines as the tournament unfolds, update status',
+      'Bracket tab: fill in advancing teams and record knockout results round by round',
+      'Upsets tab: mark each upset risk as Happened / Didn\'t happen after the match',
+      'Every save commits directly to GitHub — site auto-deploys in ~40 seconds',
+    ],
+  },
 ];
 
 const FAQ = [
@@ -172,6 +189,14 @@ const FAQ = [
   {
     q: 'Will Cup Radar cover other host cities?',
     a: 'Seattle and Kansas City are the current HQ cities. City Jump lets you compare trips to 7+ other host cities from either home base. Additional full HQ cities may be added.',
+  },
+  {
+    q: 'How is the data kept up to date?',
+    a: 'The admin panel at /admin lets the site owner update match scores, news articles, group stage scenarios, narratives, bracket results, and daily alerts — all through a browser-based form that commits directly to GitHub and auto-deploys in ~40 seconds. No command line needed during the tournament.',
+  },
+  {
+    q: 'How do I access the admin panel?',
+    a: 'Visit wc.ngengwe.com/admin and enter a GitHub Personal Access Token with repo read+write access. Tokens are stored in your browser sessionStorage only and cleared when you close the browser.',
   },
 ];
 
@@ -228,7 +253,7 @@ export default function HowItWorks() {
 
         {/* ── Sections grid ── */}
         <section className="hiw-section">
-          <h2 className="hiw-section-title">The 11 dashboard sections.</h2>
+          <h2 className="hiw-section-title">The 12 dashboard sections.</h2>
           <div className="hiw-sections-grid">
             {SECTIONS.map(s => (
               <div key={s.id} className="hiw-section-card">

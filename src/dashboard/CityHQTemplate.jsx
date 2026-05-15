@@ -133,6 +133,43 @@ function MatchCard({ match, cityData }) {
   );
 }
 
+function TodaySummary({ matches, cityData }) {
+  const today     = new Date().toISOString().split('T')[0];
+  const todayMatch = matches.find(m => m.date === today);
+  const nextMatch  = matches
+    .filter(m => m.date > today)
+    .sort((a, b) => a.date.localeCompare(b.date))[0];
+  const featured   = todayMatch || nextMatch;
+  if (!featured) return null;
+
+  const energyEntry = cityData.cityEnergyForecast?.find(e => e.matchId === featured.id);
+  const cd          = daysUntilLabel(featured.date);
+  const isToday     = featured.date === today;
+
+  return (
+    <div className={`city-today-banner${isToday ? ' match-day' : ''}`}>
+      <div className="city-today-banner__pill">
+        {isToday ? '🔴 Match Day' : cd || 'Upcoming'}
+      </div>
+      <div className="city-today-banner__match">
+        <FlagImg emoji={featured.homeFlag} size={15} />
+        <strong>{featured.homeTeam}</strong>
+        <span style={{ color: 'var(--text-dim)', margin: '0 6px' }}>vs</span>
+        <strong>{featured.awayTeam}</strong>
+        <FlagImg emoji={featured.awayFlag} size={15} />
+      </div>
+      <div className="city-today-banner__meta">
+        {featured.time} {featured.timezone} · {featured.venue}
+        {energyEntry && (
+          <span className="city-today-banner__energy" title={energyEntry.crowdNote}>
+            · {'⚡'.repeat(Math.min(energyEntry.energyScore, 5))}
+          </span>
+        )}
+      </div>
+    </div>
+  );
+}
+
 export default function CityHQTemplate({ cityData, matches, events, title, venueName }) {
   const { venue, transit, fanZones, preGame } = cityData;
 
@@ -152,6 +189,9 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
         <h2 className="dash-section-title">{title}</h2>
         <span className="dash-last-updated">Updated {lastUpdated}</span>
       </div>
+
+      {/* ── Today/Next match summary ── */}
+      <TodaySummary matches={matches} cityData={cityData} />
 
       {/* ── Match schedule ── */}
       <div className="dash-sub-section">

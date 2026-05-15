@@ -43,7 +43,7 @@ export default function ScenarioUpdater({ token }) {
     try {
       const updated = { ...data, lastUpdated: new Date().toISOString() };
       await saveFile(token, 'src/data/scenarios.json', updated, sha, 'data: update scenarios');
-      setStatus('✓ Saved and deploying…');
+      setStatus('✓ Saved and deploying…'); setTimeout(() => setStatus(''), 5000);
       const fresh = await fetchFile(token, 'src/data/scenarios.json');
       setData(fresh.content); setSha(fresh.sha);
     } catch (e) { setError(e.message); }

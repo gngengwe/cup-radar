@@ -152,7 +152,7 @@ export default function Matches() {
           <button className="filter-clear" onClick={() => {
             setHomeOnly(true); setCityFilter('all'); setStageFilter('all');
             setGroupFilter('all'); setSearch('');
-          }}>Clear</button>
+          }} aria-label="Reset all filters to default">↺ Reset</button>
         )}
       </div>
 

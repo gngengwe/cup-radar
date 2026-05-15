@@ -1,16 +1,22 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { verifyToken, getLatestCommit } from '../utils/github';
-import AlertsEditor     from '../admin/AlertsEditor';
-import NewsEditor       from '../admin/NewsEditor';
+import AlertsEditor      from '../admin/AlertsEditor';
+import NewsEditor        from '../admin/NewsEditor';
 import MatchScoreUpdater from '../admin/MatchScoreUpdater';
-import ScenarioUpdater  from '../admin/ScenarioUpdater';
+import ScenarioUpdater   from '../admin/ScenarioUpdater';
+import NarrativesEditor  from '../admin/NarrativesEditor';
+import BracketEditor     from '../admin/BracketEditor';
+import UpsetEditor       from '../admin/UpsetEditor';
 
 const TABS = [
-  { id: 'alerts',    icon: '⚡', label: 'Alerts',    desc: 'Daily update'  },
-  { id: 'scores',    icon: '⚽', label: 'Scores',    desc: 'Match results' },
-  { id: 'news',      icon: '📰', label: 'News',      desc: 'Add article'   },
-  { id: 'scenarios', icon: '🎯', label: 'Scenarios', desc: 'Mark outcomes' },
+  { id: 'alerts',     icon: '⚡', label: 'Alerts',     desc: 'Daily update'     },
+  { id: 'scores',     icon: '⚽', label: 'Scores',     desc: 'Match results'    },
+  { id: 'news',       icon: '📰', label: 'News',       desc: 'Add article'      },
+  { id: 'scenarios',  icon: '🎯', label: 'Scenarios',  desc: 'Mark outcomes'    },
+  { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Chapters/status'  },
+  { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Teams/results'    },
+  { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Happened/didn\'t' },
 ];
 
 // ─── Login screen ───────────────────────────────────────────────────────────
@@ -131,7 +137,10 @@ export default function AdminPanel() {
         {tab === 'alerts'    && <AlertsEditor      token={token} key="alerts" />}
         {tab === 'scores'    && <MatchScoreUpdater  token={token} key="scores" />}
         {tab === 'news'      && <NewsEditor          token={token} key="news" />}
-        {tab === 'scenarios' && <ScenarioUpdater    token={token} key="scenarios" />}
+        {tab === 'scenarios'  && <ScenarioUpdater   token={token} key="scenarios"  />}
+        {tab === 'narratives' && <NarrativesEditor  token={token} key="narratives" />}
+        {tab === 'bracket'    && <BracketEditor      token={token} key="bracket"    />}
+        {tab === 'upsets'     && <UpsetEditor        token={token} key="upsets"     />}
       </div>
     </div>
   );

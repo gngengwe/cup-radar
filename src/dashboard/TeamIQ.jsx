@@ -40,6 +40,7 @@ function TeamCard({ team }) {
         role="button"
         tabIndex={0}
         aria-expanded={expanded}
+        aria-label={`${expanded ? 'Collapse' : 'Expand'} team profile for ${team.name}`}
         onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setExpanded(v => !v); } }}
       >
         {/* Jersey + flag */}

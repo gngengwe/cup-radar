@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import cultureData from '../data/culture.json';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
 
 const TYPE_CONFIG = {
   kit:     { label: 'Kit',     icon: '👕', color: 'var(--accent)' },
@@ -29,6 +31,17 @@ function CultureCard({ item }) {
         </span>
         {item.rating && <RatingStars rating={item.rating} />}
       </div>
+
+      {/* Jersey SVG for kit items */}
+      {item.type === 'kit' && item.teamCode && getJersey(item.teamCode) && (
+        <div className="culture-card__jersey">
+          <JerseyDisplay
+            colors={getJersey(item.teamCode).colors}
+            pattern={getJersey(item.teamCode).pattern}
+            size={68}
+          />
+        </div>
+      )}
 
       {item.teamFlag && item.teamCode && (
         <div className="culture-card__team">

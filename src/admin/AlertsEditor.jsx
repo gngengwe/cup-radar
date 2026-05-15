@@ -24,7 +24,7 @@ export default function AlertsEditor({ token }) {
     try {
       const updated = { ...data, lastUpdated: new Date().toISOString() };
       await saveFile(token, 'src/data/alerts.json', updated, sha, 'data: update alerts');
-      setStatus('✓ Saved and deploying…');
+      setStatus('✓ Saved and deploying…'); setTimeout(() => setStatus(''), 5000);
       // re-fetch to get new SHA
       const fresh = await fetchFile(token, 'src/data/alerts.json');
       setData(fresh.content); setSha(fresh.sha);

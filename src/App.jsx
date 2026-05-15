@@ -1,9 +1,12 @@
 import { BrowserRouter, Routes, Route, Navigate, useParams } from 'react-router-dom';
+import { lazy, Suspense } from 'react';
 import LandingPage from './pages/LandingPage';
 import Dashboard from './pages/Dashboard';
 import HowItWorks from './pages/HowItWorks';
-import AdminPanel from './pages/AdminPanel';
 import ErrorBoundary from './components/ErrorBoundary';
+
+// Admin panel is lazy-loaded — it's never on the critical path and adds ~50KB
+const AdminPanel = lazy(() => import('./pages/AdminPanel'));
 
 // Redirect old /dashboard/:section URLs to /seattle/:section
 function LegacyDashboardRedirect() {
@@ -25,7 +28,11 @@ export default function App() {
           {/* Landing — city selection */}
           <Route path="/" element={<LandingPage />} />
           <Route path="/how-it-works" element={<HowItWorks />} />
-          <Route path="/admin" element={<AdminPanel />} />
+          <Route path="/admin" element={
+            <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading admin…</div>}>
+              <AdminPanel />
+            </Suspense>
+          } />
 
           {/* Backward compat first (more specific — must come before /:city/:section) */}
           <Route path="/dashboard" element={<Navigate to="/seattle/hq" replace />} />

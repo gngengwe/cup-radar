@@ -3555,3 +3555,63 @@ td .flag-img { margin-right: 4px; }
   gap: 6px;
 }
 .today-match-card__team-cell.away { flex-direction: row-reverse; }
+
+/* ═══════════════════════════════════════════════════════════
+   TODAY IN [CITY] — City HQ summary banner
+═══════════════════════════════════════════════════════════ */
+.city-today-banner {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.city-today-banner.match-day {
+  border-color: var(--border-accent);
+  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.04));
+}
+.city-today-banner__pill {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  border-radius: 100px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  flex-shrink: 0;
+}
+.city-today-banner.match-day .city-today-banner__pill {
+  background: var(--accent);
+  color: #041208;
+}
+.city-today-banner__match {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  flex: 1;
+  flex-wrap: wrap;
+}
+.city-today-banner__meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.city-today-banner__energy { letter-spacing: -2px; }
+
+/* ═══════════════════════════════════════════════════════════
+   CULTURE TRACKER — jersey in kit cards
+═══════════════════════════════════════════════════════════ */
+.culture-card__jersey {
+  display: flex;
+  justify-content: center;
+  padding: 8px 0 4px;
+  margin: -4px 0 6px;
+}

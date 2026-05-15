@@ -42,7 +42,7 @@ export default function NewsEditor({ token }) {
       };
       await saveFile(token, 'src/data/news.json', updated, sha,
         `data: add news — ${article.headline.slice(0, 60)}`);
-      setStatus('✓ Article published and deploying…');
+      setStatus('✓ Article published and deploying…'); setTimeout(() => setStatus(''), 5000);
       setArticle(BLANK());
       const fresh = await fetchFile(token, 'src/data/news.json');
       setData(fresh.content); setSha(fresh.sha);
@@ -60,7 +60,7 @@ export default function NewsEditor({ token }) {
         articles: data.articles.filter(a => a.id !== id),
       };
       await saveFile(token, 'src/data/news.json', updated, sha, 'data: delete news article');
-      setStatus('✓ Article deleted.');
+      setStatus('✓ Article deleted.'); setTimeout(() => setStatus(''), 5000);
       const fresh = await fetchFile(token, 'src/data/news.json');
       setData(fresh.content); setSha(fresh.sha);
     } catch (e) { setError(e.message); }
