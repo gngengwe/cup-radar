@@ -1322,8 +1322,8 @@ td .flag-img { margin-right: 4px; }
   min-width: 200px;
 }
 .match-row__team { display: flex; align-items: center; gap: 6px; }
-.match-row__team.home { justify-content: flex-end; }   /* right-align home team */
-.match-row__team.away { flex-direction: row-reverse; justify-content: flex-end; } /* left-align away team */
+.match-row__team.home { justify-content: flex-start; }        /* 🏠 flag name → pushed left  */
+.match-row__team.away { justify-content: flex-end; }          /* name flag → pushed right    */
 .match-row__flag { font-size: 16px; }
 .match-row__name { font-size: 13px; font-weight: 600; color: var(--text); }
 .match-row__score { font-size: 14px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; white-space: nowrap; }
