@@ -3699,7 +3699,7 @@ td .flag-img { margin-right: 4px; }
 
   .match-row { flex-wrap: wrap; padding: 10px 12px; gap: 6px; }
   .match-row__date { min-width: auto; font-size: 11px; width: 100%; color: var(--text-dim); }
-  .match-row__teams { min-width: 0; flex: 1; }
+  .match-row__teams { width: 100%; flex-grow: 1; min-width: 0; }
   .match-row__name { font-size: 12px; }
   .match-row__score { font-size: 13px; }
   .match-row__meta { font-size: 10px; flex-wrap: wrap; gap: 5px; }
