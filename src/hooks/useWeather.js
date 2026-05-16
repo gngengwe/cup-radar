@@ -1,12 +1,17 @@
-// OpenWeatherMap 5-day forecast for Lumen Field (Seattle)
-// Free tier: https://openweathermap.org/api — sign up for VITE_WEATHER_API_KEY
-// Forecasts are only reliable within ~5 days. Shows a placeholder beyond that window.
+// OpenWeatherMap One Call API 3.0 — hourly forecast for match venue
+// Docs: https://openweathermap.org/api/one-call-3
+// Key goes in VITE_WEATHER_API_KEY (GitHub secret → auto-deployed)
+// First 1,000 calls/day free. Cup Radar uses <50 calls/day in practice.
 
 import { useState, useEffect } from 'react';
 
-const LAT  = 47.5951;
-const LON  = -122.3316;
-const FORECAST_WINDOW_DAYS = 5;
+// Venue coordinates — One Call API returns the closest forecast point
+const VENUES = {
+  seattle:     { lat: 47.5951,  lon: -122.3316 }, // Lumen Field
+  kansascity:  { lat: 39.0489,  lon: -94.4839  }, // Kansas City Stadium (Arrowhead)
+};
+
+const FORECAST_WINDOW_DAYS = 2; // One Call API 3.0 hourly = 48hrs; daily = 8 days
 const FETCH_TIMEOUT_MS     = 8_000;
 
 const WEATHER_ICONS = {
@@ -16,18 +21,17 @@ const WEATHER_ICONS = {
   Drizzle:      { emoji: '🌦️',  label: 'Drizzle'       },
   Thunderstorm: { emoji: '⛈️',  label: 'Storms'        },
   Snow:         { emoji: '❄️',  label: 'Snow'          },
-  Mist:         { emoji: '🌫️',  label: 'Mist'          },
-  Fog:          { emoji: '🌫️',  label: 'Fog'           },
+  Mist:         { emoji: '🌫️',  label: 'Mist/Fog'     },
+  Fog:          { emoji: '🌫️',  label: 'Foggy'         },
 };
 
 function daysUntil(dateStr) {
-  const target = new Date(dateStr + 'T12:00:00');
-  return (target - Date.now()) / 86_400_000;
+  return (new Date(dateStr + 'T12:00:00') - Date.now()) / 86_400_000;
 }
 
-export function useWeather(matchDate) {
-  const [weather,   setWeather]   = useState(null);
-  const [status,    setStatus]    = useState('loading');
+export function useWeather(matchDate, cityId = 'seattle') {
+  const [weather, setWeather] = useState(null);
+  const [status,  setStatus]  = useState('loading');
 
   useEffect(() => {
     if (!matchDate) return;
@@ -35,22 +39,11 @@ export function useWeather(matchDate) {
     const days   = daysUntil(matchDate);
     const apiKey = import.meta.env.VITE_WEATHER_API_KEY;
 
-    if (!apiKey) {
-      setStatus('noKey');
-      return;
-    }
+    if (!apiKey)              { setStatus('noKey');  return; }
+    if (days > FORECAST_WINDOW_DAYS) { setStatus('tooFar'); return; }
+    if (days < 0)             { setStatus('past');   return; }
 
-    if (days > FORECAST_WINDOW_DAYS) {
-      setStatus('tooFar');
-      return;
-    }
-
-    if (days < 0) {
-      setStatus('past');
-      return;
-    }
-
-    const cacheKey = `wx_${matchDate}`;
+    const cacheKey = `wx3_${cityId}_${matchDate}`;
     try {
       const cached = JSON.parse(localStorage.getItem(cacheKey) || 'null');
       if (cached && Date.now() < cached.expires) {
@@ -60,14 +53,20 @@ export function useWeather(matchDate) {
       }
     } catch {}
 
-    // AbortController for fetch timeout
     const controller = new AbortController();
     const timer      = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
-    // Use URLSearchParams to avoid leaking key in string interpolation logs
-    const params = new URLSearchParams({ lat: LAT, lon: LON, appid: apiKey, units: 'imperial' });
+    const { lat, lon } = VENUES[cityId] || VENUES.seattle;
 
-    fetch(`https://api.openweathermap.org/data/2.5/forecast?${params}`, {
+    // One Call API 3.0 — returns hourly (48h) and daily (8d) in one call
+    const params = new URLSearchParams({
+      lat, lon,
+      appid:   apiKey,
+      units:   'imperial',
+      exclude: 'minutely,alerts', // save response bytes
+    });
+
+    fetch(`https://api.openweathermap.org/data/3.0/onecall?${params}`, {
       signal: controller.signal,
     })
       .then(r => {
@@ -75,34 +74,39 @@ export function useWeather(matchDate) {
         return r.json();
       })
       .then(data => {
-        if (!data.list || !Array.isArray(data.list)) throw new Error('Invalid response');
-
-        // Find forecast entry closest to match kickoff (7 PM PT = 02:00 UTC next day)
+        // Target: match kickoff converted to UTC unix timestamp
+        // Most Seattle PT matches kick off 7–8 PM PT = 02:00–03:00 UTC next day
         const matchTs = new Date(matchDate + 'T02:00:00Z').getTime() / 1000;
-        const closest = data.list.reduce((prev, curr) =>
+
+        // Prefer hourly (within 48h) → fall back to daily
+        const source = data.hourly?.length ? data.hourly : data.daily || [];
+        if (!source.length) throw new Error('No forecast data');
+
+        const closest = source.reduce((prev, curr) =>
           Math.abs(curr.dt - matchTs) < Math.abs(prev.dt - matchTs) ? curr : prev
         );
 
-        if (!closest?.main) throw new Error('Missing forecast data');
-
-        const iconKey = closest.weather?.[0]?.main || 'Clear';
-        const icon    = WEATHER_ICONS[iconKey] || { emoji: '🌡️', label: iconKey };
+        // One Call 3.0 flattens temp to top level in hourly; daily has temp.day
+        const temp      = closest.temp?.day ?? closest.temp ?? 0;
+        const feelsLike = closest.feels_like?.day ?? closest.feels_like ?? temp;
+        const iconKey   = closest.weather?.[0]?.main || 'Clear';
+        const icon      = WEATHER_ICONS[iconKey] || { emoji: '🌡️', label: iconKey };
 
         const result = {
-          temp:        Math.round(closest.main.temp),
-          feelsLike:   Math.round(closest.main.feels_like ?? closest.main.temp),
+          temp:        Math.round(temp),
+          feelsLike:   Math.round(feelsLike),
           description: closest.weather?.[0]?.description || '',
           icon:        icon.emoji,
           iconLabel:   icon.label,
           rainChance:  Math.round((closest.pop || 0) * 100),
-          wind:        Math.round(closest.wind?.speed || 0),
-          humidity:    closest.main.humidity ?? 0,
+          wind:        Math.round(closest.wind_speed || 0),
+          humidity:    closest.humidity ?? 0,
         };
 
         try {
           localStorage.setItem(cacheKey, JSON.stringify({
-            data: result,
-            expires: Date.now() + 60 * 60 * 1000,
+            data:    result,
+            expires: Date.now() + 60 * 60 * 1000, // 1-hr cache
           }));
         } catch {}
 
@@ -111,12 +115,11 @@ export function useWeather(matchDate) {
       })
       .catch(err => {
         if (err.name !== 'AbortError') setStatus('error');
-        // AbortError = timeout — silently fall through to placeholder
       })
       .finally(() => clearTimeout(timer));
 
     return () => { controller.abort(); clearTimeout(timer); };
-  }, [matchDate]);
+  }, [matchDate, cityId]);
 
   return { weather, status };
 }
