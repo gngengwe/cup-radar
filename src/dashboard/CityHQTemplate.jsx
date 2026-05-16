@@ -59,7 +59,6 @@ function MatchCard({ match, cityData }) {
               ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={54} />
               : <FlagImg emoji={match.homeFlag} size={28} />}
             <span className="hq-jersey-team__name">{match.homeTeam}</span>
-            {getNickname(match.homeCode) && <span className="hq-jersey-team__nick">"{getNickname(match.homeCode)}"</span>}
           </div>
           <span className="hq-jersey-vs">vs</span>
           <div className="hq-jersey-team">
@@ -67,7 +66,6 @@ function MatchCard({ match, cityData }) {
               ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={54} />
               : <FlagImg emoji={match.awayFlag} size={28} />}
             <span className="hq-jersey-team__name">{match.awayTeam}</span>
-            {getNickname(match.awayCode) && <span className="hq-jersey-team__nick">"{getNickname(match.awayCode)}"</span>}
           </div>
         </div>
       )}

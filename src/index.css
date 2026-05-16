@@ -3533,8 +3533,9 @@ td .flag-img { margin-right: 4px; }
   flex-direction: column;
   align-items: center;
   gap: 4px;
-  min-width: 96px;
-  max-width: 120px;
+  min-width: 80px;
+  max-width: 100px;
+  overflow: hidden;
 }
 .hq-jersey-team__name {
   font-size: 11px;
@@ -3543,16 +3544,10 @@ td .flag-img { margin-right: 4px; }
   text-align: center;
   letter-spacing: -0.01em;
   line-height: 1.2;
-}
-.hq-jersey-team__nick {
-  font-size: 10px;
-  color: var(--accent);
-  font-style: italic;
-  text-align: center;
-  white-space: nowrap;
+  width: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%;
+  white-space: nowrap;
 }
 .hq-jersey-vs {
   font-size: 13px;
