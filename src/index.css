@@ -2651,7 +2651,7 @@ td .flag-img { margin-right: 4px; }
   border: 1.5px solid var(--border);
   border-radius: var(--radius);
   color: var(--text);
-  font-size: 14px;
+  font-size: 16px; /* 16px prevents iOS auto-zoom */
   font-family: var(--font);
   outline: none;
   transition: border-color 0.15s;
@@ -3628,4 +3628,232 @@ td .flag-img { margin-right: 4px; }
 @media (prefers-reduced-motion: no-preference) {
   /* pitch grid slow drift — kept as sole remaining subtle effect */
   .pitch-bg { animation: pitchDrift 28s linear infinite; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   MOBILE OPTIMIZATION — 480px and below (all iPhones)
+   Priority ordered: critical → high → polish
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 480px) {
+
+  /* ── Prevent iOS auto-zoom on any input/select ─────────── */
+  input, select, textarea { font-size: 16px !important; }
+
+  /* ── Hero: tighter heading + countdown ─────────────────── */
+  .hero { padding: 40px 0 48px; min-height: auto; }
+  .hero__h1 { font-size: clamp(30px, 8vw, 40px); margin-bottom: 14px; }
+  .hero__sub { font-size: 15px; margin-bottom: 28px; }
+  .hero__badge-row { gap: 6px; margin-bottom: 24px; }
+  .badge { font-size: 11px; padding: 4px 10px; }
+
+  .today-countdown { gap: 6px; }
+  .today-countdown__num { font-size: clamp(22px, 5.5vw, 30px); }
+  .today-countdown__sep { font-size: clamp(18px, 4vw, 24px); }
+  .today-countdown__lbl { font-size: 9px; }
+  .hero__countdown-label { font-size: 10px; }
+  .today-countdown-sub { font-size: 13px; }
+
+  /* ── Navbar: compact CTA ───────────────────────────────── */
+  .navbar { padding: 11px 0; }
+  .navbar__wordmark { font-size: 15px; }
+  .navbar__cta { padding: 7px 14px; font-size: 12px; }
+  .navbar__hiw-link { display: none; } /* hide on small screens — it's in footer */
+
+  /* ── Landing: CitiesHero single column ─────────────────── */
+  .cities-hero__grid { grid-template-columns: 1fr; gap: 14px; margin-top: 24px; }
+  .cities-hero__card { padding: 20px 18px; border-radius: var(--radius-lg); }
+  .cities-hero__city-name { font-size: 20px; }
+  .cities-hero__emoji { font-size: 22px; }
+  .cities-hero__headline { font-size: 15px; }
+  .cities-hero__tagline { font-size: 11px; }
+  .cities-hero__match { padding: 4px 0; }
+  .cities-hero__match-teams { font-size: 12px; min-width: 0; }
+  .cities-hero__match-date { font-size: 10px; min-width: 34px; }
+  .cities-hero__cta { padding: 10px 16px; font-size: 13px; }
+
+  /* ── Dashboard sidebar: narrower, hide desc ─────────────── */
+  .dash-sidebar { width: 200px !important; }
+  .dash-sidebar__header { padding: 11px 14px 9px; }
+  .dash-nav__item { padding: 5px 14px; gap: 7px; }
+  .dash-nav__desc { display: none; }
+  .dash-nav__label { font-size: 12px; }
+  .dash-nav__icon { font-size: 13px; }
+  .dash-city-badge { font-size: 10px; padding: 3px 10px; margin: 4px 10px; }
+  .dash-sidebar__footer { padding: 8px 14px; }
+  .dash-back { font-size: 11px; }
+
+  /* ── Dashboard topbar ─────────────────────────────────── */
+  .dash-topbar { padding: 10px 14px; }
+  .dash-topbar__title { font-size: 13px; gap: 6px; }
+  .dash-content { padding: 16px 14px; }
+  .dash-section-title { font-size: clamp(18px, 5vw, 22px); }
+  .dash-sub-heading { font-size: 14px; }
+
+  /* ── Match Tracker: stacked rows, search, filters ────────── */
+  .match-search { padding: 11px 14px; }
+  .filter-bar { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .filter-chip { text-align: center; font-size: 11px; padding: 7px 8px; min-height: 36px; }
+  .filter-select { font-size: 12px; padding: 6px 10px; }
+  .filter-clear { grid-column: 1 / -1; text-align: center; }
+
+  .match-row { flex-wrap: wrap; padding: 10px 12px; gap: 6px; }
+  .match-row__date { min-width: auto; font-size: 11px; width: 100%; color: var(--text-dim); }
+  .match-row__teams { min-width: 0; flex: 1; }
+  .match-row__name { font-size: 12px; }
+  .match-row__score { font-size: 13px; }
+  .match-row__meta { font-size: 10px; flex-wrap: wrap; gap: 5px; }
+  .match-row__seattle-tag, .match-row__kc-tag { font-size: 9px; }
+  .match-row__countdown { font-size: 9px; }
+  .match-date-group__header { font-size: 11px; }
+
+  /* ── Group Tracker: compact pills + hide W/D/L columns ──── */
+  .group-pills { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; }
+  .group-pill { width: 100%; height: 30px; font-size: 12px; border-radius: var(--radius-sm); }
+  .group-pill.city-pill, .group-pill:first-child { grid-column: span 2; }
+  .group-view-tabs { flex-wrap: wrap; gap: 4px; }
+  .group-view-tab { padding: 7px 14px; font-size: 12px; }
+  .groups-grid { grid-template-columns: 1fr; }
+  .group-table { font-size: 11px; min-width: 360px; }
+  .group-table th { padding: 5px 5px; font-size: 10px; }
+  .group-table td { padding: 7px 5px; }
+  .gt-name { font-size: 11px; }
+  .gt-flag { font-size: 13px; margin-right: 4px; }
+
+  /* ── Ticket Radar ──────────────────────────────────────── */
+  .tickets-grid { grid-template-columns: 1fr; }
+  .ticket-card { padding: 14px 16px; }
+  .ticket-card__prices { flex-direction: column; gap: 10px; }
+  .ticket-card__price { font-size: 15px; }
+  .ticket-card__match { font-size: 14px; }
+  .ticket-card__note { font-size: 12px; }
+
+  /* ── City Jump ────────────────────────────────────────── */
+  .city-jump-card__header { padding: 12px 14px; }
+  .city-jump-card__name { font-size: 14px; }
+  .city-jump-card__details { padding: 12px 14px; }
+  .city-jump-score-label { min-width: 90px; font-size: 11px; }
+  .score-bar { height: 5px; }
+
+  /* ── Watch Guide ──────────────────────────────────────── */
+  .hood-card__header { padding: 13px 16px; }
+  .hood-card__name { font-size: 15px; }
+  .hood-card__body { padding: 0 16px 16px; }
+  .hood-spots-list { gap: 6px; }
+  .spot-card { padding: 10px 12px; }
+
+  /* ── Newsroom ─────────────────────────────────────────── */
+  .news-featured, .news-grid { grid-template-columns: 1fr; }
+  .news-card { padding: 14px 16px; }
+  .news-card__headline { font-size: 13px; line-height: 1.35; }
+  .news-card__summary { font-size: 12px; }
+
+  /* ── Culture Tracker ──────────────────────────────────── */
+  .culture-grid { grid-template-columns: 1fr; }
+  .culture-card { padding: 14px 16px; }
+
+  /* ── Narrative Tracker ────────────────────────────────── */
+  .narrative-card__header { padding: 13px 16px; }
+  .narrative-card__top { gap: 8px; }
+  .narrative-card__title { font-size: 14px; }
+  .narrative-card__right { flex-direction: row; gap: 6px; flex-wrap: wrap; }
+  .narrative-card__status { font-size: 9px; padding: 2px 7px; }
+  .stake-dot { width: 6px; height: 6px; }
+  .narrative-card__preview { font-size: 12px; }
+  .narrative-card__body { padding: 0 16px 16px; }
+  .narrative-card__watch { padding: 10px 12px; }
+  .narrative-card__watch-text { font-size: 12px; }
+  .narrative-chapter { gap: 8px; }
+
+  /* ── Upset Radar ──────────────────────────────────────── */
+  .upset-card__header { padding: 12px 14px; }
+  .upset-card__top { gap: 8px; }
+  .upset-card__title { font-size: 13px; }
+  .upset-card__stage { font-size: 10px; }
+  .risk-bar { width: 8px; height: 8px; border-radius: 2px; }
+  .upset-card__risk-label { font-size: 10px; }
+  .upset-card__body { padding: 12px 14px; }
+  .upset-card__reasoning { font-size: 12px; }
+
+  /* ── Team IQ ──────────────────────────────────────────── */
+  .tiq-card__header { padding: 12px 14px; gap: 10px; }
+  .tiq-card__name { font-size: 16px; }
+  .tiq-card__nickname { font-size: 12px; }
+  .tiq-card__meta { font-size: 11px; }
+  .tiq-card__match-chip { font-size: 10px; padding: 2px 8px; }
+  .tiq-kit-link { font-size: 10px; padding: 2px 8px; }
+  .tiq-card__body { padding: 0 14px 16px; }
+  .tiq-country-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .tiq-wc-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .tiq-sw-row { grid-template-columns: 1fr; }
+  .tiq-player-card { padding: 10px 12px; }
+  .tiq-player-name { font-size: 13px; }
+  .tiq-player-note { font-size: 12px; }
+  .tiq-watch-for { font-size: 13px; }
+  .tiq-city-note { font-size: 12px; }
+  .tiq-city-context { padding: 12px; }
+  .tiq-identity { min-width: 56px !important; }
+
+  /* ── Bracket ──────────────────────────────────────────── */
+  .bracket-tabs { gap: 4px; }
+  .bracket-tab { min-width: 52px; padding: 6px 8px; }
+  .bracket-tab__short { font-size: 11px; }
+  .bracket-matches-grid { grid-template-columns: repeat(2, 1fr); }
+  .bracket-match { padding: 10px 12px; }
+  .bracket-match__team { font-size: 11px; }
+
+  /* ── City HQ ──────────────────────────────────────────── */
+  .seattle-matches-grid { grid-template-columns: 1fr; }
+  .hq-jersey-matchup { gap: 10px; padding: 8px 0 6px; }
+  .hq-jersey-vs { font-size: 12px; }
+  .seattle-match-card { padding: 12px 14px; }
+  .seattle-match-card__date { font-size: 15px; }
+  .seattle-match-card__time { font-size: 11px; }
+  .info-grid { grid-template-columns: 1fr; }
+  .pregame-list { grid-template-columns: 1fr; }
+  .events-list { gap: 8px; }
+
+  /* ── Seattle HQ: Today banner ─────────────────────────── */
+  .city-today-banner { flex-direction: column; align-items: flex-start; gap: 6px; padding: 10px 14px; }
+  .city-today-banner__match { font-size: 13px; }
+  .city-today-banner__meta { font-size: 11px; }
+
+  /* ── Admin panel ──────────────────────────────────────── */
+  .admin-topbar { padding: 10px 14px; flex-wrap: wrap; gap: 6px; }
+  .admin-topbar__commit { display: none; }
+  .admin-tabs { display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; flex-wrap: unset; }
+  .admin-tab { padding: 8px 10px; min-width: unset; }
+  .admin-tab__desc { display: none; }
+  .admin-tab__label { font-size: 11px; }
+  .admin-content { padding: 16px; }
+  .admin-row { flex-direction: column; gap: 10px; }
+  .admin-match-card { padding: 12px 14px; }
+  .admin-match-card__teams { font-size: 13px; }
+  .admin-score-input { width: 48px; font-size: 16px; }
+  .admin-match-actions { gap: 5px; }
+  .admin-scenario-card { padding: 10px 12px; }
+  .admin-scenario-actions { flex-wrap: wrap; gap: 5px; }
+  .admin-card { padding: 14px 16px; }
+
+  /* ── How It Works ─────────────────────────────────────── */
+  .hiw-container { padding: 0 16px 60px; }
+  .hiw-hero { padding: 36px 0 28px; }
+  .hiw-title { font-size: clamp(24px, 7vw, 36px); }
+  .hiw-subtitle { font-size: 14px; }
+  .hiw-sections-grid { grid-template-columns: 1fr; gap: 12px; }
+  .hiw-section-card { padding: 16px; }
+  .hiw-section-card__bullets li { font-size: 11px; }
+  .hiw-data-grid { grid-template-columns: 1fr; }
+  .hiw-faq-q { font-size: 13px; }
+  .hiw-faq-a { font-size: 12px; }
+  .hiw-city-pills { flex-direction: column; gap: 10px; }
+
+  /* ── Touch targets: ensure 44px minimum ──────────────── */
+  .btn { min-height: 44px; }
+  .cal-export-btn { min-height: 40px; padding: 8px 14px; }
+  .cal-gcal-link { min-height: 36px; padding: 6px 12px; }
+
+  /* ── General: consistent section spacing ─────────────── */
+  :root { --section-py: 48px; }
+  .section-heading { font-size: clamp(22px, 6vw, 32px); }
+  .section-sub { font-size: 15px; }
 }
