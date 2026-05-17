@@ -8,6 +8,7 @@ import { daysUntilLabel } from '../utils/time';
 import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
+import CurrencyWidget from '../components/CurrencyWidget';
 
 const SHOULD_GO_COLORS = {
   'Once in a lifetime': '#00e676',
@@ -181,6 +182,8 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
   const knockoutCount = matches.filter(m => m.stage !== 'Group Stage').length;
   const groupCount    = matches.length - knockoutCount;
 
+  const teamCodes = [...new Set(matches.flatMap(m => [m.homeCode, m.awayCode]).filter(Boolean))];
+
   return (
     <div>
       <div className="dash-section-header">
@@ -205,6 +208,12 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
         <div className="seattle-matches-grid">
           {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} cityId={cityId} />)}
         </div>
+      </div>
+
+      {/* ── Currency exchange ── */}
+      <div className="dash-sub-section">
+        <h3 className="dash-sub-heading">Currencies in Town</h3>
+        <CurrencyWidget teamCodes={teamCodes} />
       </div>
 
       {/* ── Venue & logistics ── */}
