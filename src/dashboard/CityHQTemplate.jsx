@@ -18,7 +18,7 @@ const SHOULD_GO_COLORS = {
   'Wait':               'var(--text-muted)',
 };
 
-function MatchCard({ match, cityData }) {
+function MatchCard({ match, cityData, cityId = 'seattle' }) {
   const [expanded, setExpanded] = useState(false);
 
   const d         = new Date(match.date + 'T12:00:00');
@@ -203,7 +203,7 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
           {matches.length} matches · {groupCount} group stage · {knockoutCount} knockout
         </p>
         <div className="seattle-matches-grid">
-          {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} />)}
+          {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} cityId={cityId} />)}
         </div>
       </div>
 
