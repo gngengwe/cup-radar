@@ -3267,7 +3267,9 @@ td .flag-img { margin-right: 4px; }
   list-style: disc;
 }
 .tiq-facts-list li { font-size: 13px; color: var(--text-muted); line-height: 1.55; }
-.tiq-rates-note { font-size: 11px; color: var(--text-dim); }
+.tiq-rates-note  { font-size: 11px; color: var(--text-dim); }
+.tiq-rate-note   { color: var(--text-dim); font-style: italic; }
+.tiq-rate-loading { color: var(--text-dim); }
 
 /* ── WC history grid ── */
 .tiq-wc-grid {

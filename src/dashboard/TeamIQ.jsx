@@ -105,13 +105,15 @@ function TeamCard({ team, rateEntry }) {
               <div className="tiq-country-stat">
                 <span className="tiq-stat-label">Currency</span>
                 <span className="tiq-stat-value">
-                  {rateEntry?.note
-                    ? <>{rateEntry.code} · {rateEntry.note}</>
-                    : rateEntry?.rate != null
-                      ? <>{rateEntry.code} · 1 USD = {rateEntry.rate.toFixed(2)} {rateEntry.symbol}</>
-                      : rateEntry
-                        ? <>{rateEntry.code} · rate N/A</>
-                        : country.currency}
+                  {!rateEntry
+                    ? country.currency
+                    : rateEntry.note
+                      ? <>{rateEntry.code} · <span className="tiq-rate-note">{rateEntry.note}</span></>
+                      : rateEntry.rate === undefined
+                        ? <>{rateEntry.code} · <span className="tiq-rate-loading">…</ span></>
+                        : rateEntry.rate != null
+                          ? <>{rateEntry.code} · 1 USD&nbsp;= {rateEntry.rate.toFixed(2)}&nbsp;{rateEntry.symbol}</>
+                          : <>{rateEntry.code} · <span className="tiq-rate-note">rate unavailable</span></>}
                 </span>
               </div>
             </div>

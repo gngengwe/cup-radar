@@ -20,7 +20,6 @@ function cacheSet(data) {
   } catch {}
 }
 
-// Returns { rates: { EUR: 0.92, AUD: 1.54, ... }, updatedAt: '2026-05-16', status }
 export function useCurrencies(teamCodes) {
   const [rates,     setRates]     = useState({});
   const [updatedAt, setUpdatedAt] = useState(null);
@@ -32,7 +31,6 @@ export function useCurrencies(teamCodes) {
     const codes = getFrankfurterCodes(teamCodes);
     if (!codes.length) { setStatus('done'); return; }
 
-    // Serve from cache if fresh
     const cached = cacheGet();
     if (cached) {
       setRates(cached.rates);
@@ -51,20 +49,17 @@ export function useCurrencies(teamCodes) {
         setUpdatedAt(payload.updatedAt);
         setStatus('live');
       })
-      .catch(() => {
-        setStatus('error');
-      });
+      .catch(() => setStatus('error'));
   }, [teamCodes?.join(',')]);
 
-  // Build per-team rate entries
+  // Build per-team rate entries — dedupe by currency code (e.g. multiple EUR teams)
   const entries = (teamCodes || [])
     .filter(tla => TEAM_CURRENCY[tla] && TEAM_CURRENCY[tla].code !== 'USD')
     .reduce((acc, tla) => {
       const meta = TEAM_CURRENCY[tla];
-      const rate = meta.frankfurter ? rates[meta.code] : null;
-      const key  = `${tla}-${meta.code}`;
-      if (acc.some(e => e.currencyCode === meta.code)) return acc; // dedupe EUR etc.
-      acc.push({ tla, ...meta, rate, key });
+      if (acc.some(e => e.code === meta.code)) return acc; // fixed: was e.currencyCode
+      const rate = (meta.frankfurter && status !== 'loading') ? (rates[meta.code] ?? null) : undefined;
+      acc.push({ tla, ...meta, rate, key: `${tla}-${meta.code}` });
       return acc;
     }, []);
 
