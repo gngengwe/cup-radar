@@ -182,7 +182,7 @@ export default function TicketRadar() {
         </div>
       </div>
 
-      <div className="coming-soon-content">
+      <div className="coming-soon-content" aria-hidden="true" style={{ pointerEvents: 'none' }}>
         <div className="dash-section-header">
           <h2 className="dash-section-title">Ticket Radar</h2>
           <span className="dash-last-updated">Updated {updatedStr}</span>

@@ -94,7 +94,7 @@ function NarrativeCard({ narrative, expanded, onToggle }) {
 
 export default function NarrativeTracker() {
   const [filter,   setFilter]   = useState('all');
-  const [expanded, setExpanded] = useState('nar-001');
+  const [expanded, setExpanded] = useState(narrativeData?.narratives?.[0]?.id ?? null);
 
   const { narratives, lastUpdated } = narrativeData;
 

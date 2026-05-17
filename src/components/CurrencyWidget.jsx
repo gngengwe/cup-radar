@@ -13,8 +13,8 @@ export default function CurrencyWidget({ teamCodes }) {
       <div className="currency-widget__header">
         <span className="currency-widget__title">Currencies in Town</span>
         <span className="currency-widget__meta">
-          {status === 'live'   && updatedAt && `ECB · ${updatedAt}`}
-          {status === 'cached' && updatedAt && `ECB · ${updatedAt} (cached)`}
+          {status === 'live'   && updatedAt && `open.er-api.com · ${updatedAt}`}
+          {status === 'cached' && updatedAt && `open.er-api.com · ${updatedAt} (cached)`}
           {status === 'error'  && 'Rates unavailable'}
           {status === 'loading' && 'Loading…'}
         </span>
@@ -37,7 +37,7 @@ export default function CurrencyWidget({ teamCodes }) {
                 </div>
               </>
             ) : (
-              <div className="currency-rate-card__note">Rate not via ECB</div>
+              <div className="currency-rate-card__note">Rate unavailable</div>
             )}
           </div>
         ))}
@@ -54,7 +54,7 @@ export default function CurrencyWidget({ teamCodes }) {
       </div>
 
       <p className="currency-widget__disclaimer">
-        Indicative rates from the European Central Bank. Check your bank or exchange bureau for exact rates.
+        Indicative rates via open.er-api.com · Updated daily · Not for financial transactions.
       </p>
     </div>
   );

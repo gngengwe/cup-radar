@@ -17,7 +17,7 @@ export default function WeatherWidget({ matchDate, cityId = 'seattle' }) {
         <span className="weather-widget__icon">🌤️</span>
         <span className="weather-widget__msg">
           {status === 'noKey'
-            ? 'Add VITE_WEATHER_API_KEY for forecasts'
+            ? 'Weather forecast not available'
             : `Forecast available closer to match day`}
         </span>
       </div>
@@ -36,7 +36,10 @@ export default function WeatherWidget({ matchDate, cityId = 'seattle' }) {
     return (
       <div className="weather-widget weather-widget--placeholder">
         <span className="weather-widget__icon">🌡️</span>
-        <span className="weather-widget__msg">Check weather.com for match-day forecast</span>
+        <span className="weather-widget__msg">
+          Weather forecast unavailable — check{' '}
+          <a href="https://weather.com" target="_blank" rel="noopener noreferrer">weather.com</a>
+        </span>
       </div>
     );
   }

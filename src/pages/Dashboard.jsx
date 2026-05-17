@@ -1,4 +1,4 @@
-import { useParams, NavLink, Link, Navigate } from 'react-router-dom';
+import { useParams, NavLink, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState, lazy, Suspense, useEffect, useRef } from 'react';
 
 // City-specific sections (lazy-loaded per city)
@@ -78,8 +78,15 @@ function getSectionComponent(city, section) {
 
 export default function Dashboard() {
   const { city = 'seattle', section = 'hq' } = useParams();
+  const navigate = useNavigate();
   const [menuOpen, setMenuOpen] = useState(false);
   const menuBtnRef = useRef(null);
+
+  const switchCity = (newCity) => {
+    if (newCity === city) return;
+    navigate(`/${newCity}/${section || 'hq'}`);
+    setMenuOpen(false);
+  };
 
   // Validate city
   if (!CITY_CONFIG[city]) return <Navigate to="/seattle/hq" replace />;
@@ -119,9 +126,22 @@ export default function Dashboard() {
           <button className="dash-sidebar__close" onClick={() => setMenuOpen(false)} aria-label="Close menu">✕</button>
         </div>
 
-        {/* City badge */}
-        <div className="dash-city-badge" style={{ color: cfg.accentVar, borderColor: cfg.accentVar }}>
-          {cfg.icon} {cfg.short}
+        {/* City switcher */}
+        <div className="dash-city-switcher">
+          <button
+            className={`dash-city-pill${city === 'seattle' ? ' active' : ''}`}
+            onClick={() => switchCity('seattle')}
+            aria-pressed={city === 'seattle'}
+          >
+            🏟️ Seattle
+          </button>
+          <button
+            className={`dash-city-pill${city === 'kansascity' ? ' active kc' : ''}`}
+            onClick={() => switchCity('kansascity')}
+            aria-pressed={city === 'kansascity'}
+          >
+            🏈 KC
+          </button>
         </div>
 
         <nav className="dash-nav">

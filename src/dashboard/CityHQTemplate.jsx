@@ -212,7 +212,6 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
 
       {/* ── Currency exchange ── */}
       <div className="dash-sub-section">
-        <h3 className="dash-sub-heading">Currencies in Town</h3>
         <CurrencyWidget teamCodes={teamCodes} />
       </div>
 
@@ -243,8 +242,8 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
             <div className="info-card__icon">🅿️</div>
             <div className="info-card__title">Parking & Rideshare</div>
             <div className="info-card__body">
-              <strong>Parking:</strong> {venue.parkingNote}<br /><br />
-              <strong>Rideshare:</strong> {transit.rideshare}
+              <p style={{ margin: '0 0 8px' }}><strong>Parking:</strong> {venue.parkingNote}</p>
+              <p style={{ margin: 0 }}><strong>Rideshare:</strong> {transit.rideshare}</p>
             </div>
           </div>
         </div>

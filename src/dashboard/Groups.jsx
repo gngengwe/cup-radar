@@ -157,14 +157,14 @@ export default function Groups() {
         >🎯 Scenarios</button>
       </div>
 
-      {/* ── Group pills + city filter (standings only) ── */}
-      {tab === 'standings' && (
+      {/* ── Group pills + city filter ── */}
+      {(tab === 'standings' || tab === 'scenarios') && (
         <div className="group-pills">
           <button
             className={`group-pill${activeGroup === null ? ' active' : ''}`}
             onClick={() => { setActiveGroup(null); setCityOnly(false); }}
           >All</button>
-          {cityGroups.length > 0 && (
+          {cityGroups.length > 0 && tab === 'standings' && (
             <button
               className={`group-pill city-pill${cityOnly ? ' active' : ''}`}
               onClick={() => { setCityOnly(v => !v); setActiveGroup(null); }}

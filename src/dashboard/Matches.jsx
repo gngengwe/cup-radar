@@ -89,7 +89,7 @@ export default function Matches() {
     return acc;
   }, {}), [filtered]);
 
-  const homeCityLabel = isKC ? '🏈 Kansas City only' : '🏟️ Seattle only';
+  const homeCityLabel = isKC ? '📍 Kansas City only' : '📍 Seattle only';
   const filtersActive = !homeOnly || cityFilter !== 'all' || stageFilter !== 'all' || groupFilter !== 'all' || search;
 
   return (
@@ -159,11 +159,14 @@ export default function Matches() {
       {/* ── Match list ── */}
       {Object.keys(grouped).length === 0 ? (
         <div className="empty-state">
-          No matches found.{' '}
-          <button className="api-retry-btn" onClick={() => {
-            setHomeOnly(true); setCityFilter('all'); setStageFilter('all');
-            setGroupFilter('all'); setSearch('');
-          }}>Clear filters</button>
+          {filtersActive
+            ? <>No matches match the current filters.{' '}
+                <button className="api-retry-btn" onClick={() => {
+                  setHomeOnly(true); setCityFilter('all'); setStageFilter('all');
+                  setGroupFilter('all'); setSearch('');
+                }}>Clear filters</button>
+              </>
+            : 'No matches available.'}
         </div>
       ) : (
         Object.entries(grouped)

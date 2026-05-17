@@ -154,7 +154,15 @@ export default function UpsetRadar() {
           />
         ))}
         {sorted.length === 0 && (
-          <div className="empty-state">No upsets in this filter.</div>
+          <div className="empty-state">
+            {filter === 'high'
+              ? 'No upsets match the High risk level.'
+              : filter === 'live'
+              ? 'No upsets are currently in progress.'
+              : filter === 'resolved'
+              ? 'No resolved upsets yet.'
+              : 'No upsets found.'}
+          </div>
         )}
       </div>
 
