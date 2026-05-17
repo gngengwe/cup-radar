@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react';
-import { TEAM_CURRENCY, getFrankfurterCodes } from '../utils/currencyData';
+import { TEAM_CURRENCY } from '../utils/currencyData';
 
-const CACHE_KEY = 'fx_rates';
+const CACHE_KEY = 'fx_rates_v2';
 const CACHE_TTL = 4 * 60 * 60 * 1000; // 4 hours
+const API_URL   = 'https://open.er-api.com/v6/latest/USD';
 
 function cacheGet() {
   try {
@@ -21,16 +22,11 @@ function cacheSet(data) {
 }
 
 export function useCurrencies(teamCodes) {
-  const [rates,     setRates]     = useState({});
+  const [rates,     setRates]     = useState(null);   // null = not yet loaded
   const [updatedAt, setUpdatedAt] = useState(null);
-  const [status,    setStatus]    = useState('loading'); // loading | live | cached | error
+  const [status,    setStatus]    = useState('loading');
 
   useEffect(() => {
-    if (!teamCodes?.length) return;
-
-    const codes = getFrankfurterCodes(teamCodes);
-    if (!codes.length) { setStatus('done'); return; }
-
     const cached = cacheGet();
     if (cached) {
       setRates(cached.rates);
@@ -39,26 +35,28 @@ export function useCurrencies(teamCodes) {
       return;
     }
 
-    const url = `https://api.frankfurter.app/latest?from=USD&to=${codes.join(',')}`;
-    fetch(url)
+    fetch(API_URL)
       .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
       .then(json => {
-        const payload = { rates: json.rates || {}, updatedAt: json.date };
+        if (json.result !== 'success') throw new Error('API error');
+        const payload = { rates: json.rates, updatedAt: json.date || json.time_last_update_utc?.slice(0, 10) };
         cacheSet(payload);
         setRates(payload.rates);
         setUpdatedAt(payload.updatedAt);
         setStatus('live');
       })
       .catch(() => setStatus('error'));
-  }, [teamCodes?.join(',')]);
+  }, []); // fetch once — covers all currencies
 
-  // Build per-team rate entries — dedupe by currency code (e.g. multiple EUR teams)
+  // Build per-team entries — dedupe by currency code
   const entries = (teamCodes || [])
     .filter(tla => TEAM_CURRENCY[tla] && TEAM_CURRENCY[tla].code !== 'USD')
     .reduce((acc, tla) => {
       const meta = TEAM_CURRENCY[tla];
-      if (acc.some(e => e.code === meta.code)) return acc; // fixed: was e.currencyCode
-      const rate = (meta.frankfurter && status !== 'loading') ? (rates[meta.code] ?? null) : undefined;
+      if (acc.some(e => e.code === meta.code)) return acc;
+      const rate = rates === null
+        ? undefined                          // still loading
+        : (rates[meta.code] ?? null);        // null = currency not in dataset
       acc.push({ tla, ...meta, rate, key: `${tla}-${meta.code}` });
       return acc;
     }, []);

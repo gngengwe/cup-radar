@@ -1,5 +1,5 @@
 // Team TLA → currency metadata
-// frankfurter.app (ECB) supported codes marked with frankfurter: true
+// Rates fetched from open.er-api.com (free, no key, 170+ currencies)
 export const TEAM_CURRENCY = {
   // North & Central America
   USA: { code: 'USD', name: 'US Dollar',               symbol: '$',    frankfurter: false, note: 'Local currency' },
@@ -74,11 +74,3 @@ export const TEAM_CURRENCY = {
 };
 
 // Currencies the frankfurter API can fetch in one call
-export function getFrankfurterCodes(teamCodes) {
-  return [...new Set(
-    teamCodes
-      .map(tla => TEAM_CURRENCY[tla])
-      .filter(c => c && c.frankfurter && c.code !== 'USD')
-      .map(c => c.code)
-  )];
-}
