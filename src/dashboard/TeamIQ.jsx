@@ -4,6 +4,7 @@ import teamIQData from '../data/team-iq.json';
 import FlagImg from '../components/FlagImg';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { relativeTime } from '../utils/time';
+import { useCurrencies } from '../hooks/useCurrencies';
 
 const CONTINENT_EMOJI = {
   'Europe':               '🌍',
@@ -25,7 +26,7 @@ function StarRating({ n, max = 5, color = 'var(--accent)' }) {
   );
 }
 
-function TeamCard({ team }) {
+function TeamCard({ team, rateEntry }) {
   const [expanded, setExpanded] = useState(false);
   const { country, team: squad } = team;
 
@@ -103,7 +104,15 @@ function TeamCard({ team }) {
               </div>
               <div className="tiq-country-stat">
                 <span className="tiq-stat-label">Currency</span>
-                <span className="tiq-stat-value">{country.currency}</span>
+                <span className="tiq-stat-value">
+                  {rateEntry?.note
+                    ? <>{rateEntry.code} · {rateEntry.note}</>
+                    : rateEntry?.rate != null
+                      ? <>{rateEntry.code} · 1 USD = {rateEntry.rate.toFixed(2)} {rateEntry.symbol}</>
+                      : rateEntry
+                        ? <>{rateEntry.code} · rate N/A</>
+                        : country.currency}
+                </span>
               </div>
             </div>
 
@@ -220,6 +229,10 @@ export default function TeamIQ() {
 
   const cityLabel = city === 'kansascity' ? 'Kansas City' : 'Seattle';
 
+  const teamCodes = teams.map(t => t.code);
+  const { entries: rateEntries, updatedAt: ratesDate } = useCurrencies(teamCodes);
+  const rateMap = Object.fromEntries(rateEntries.map(e => [e.tla, e]));
+
   return (
     <div>
       <div className="dash-section-header">
@@ -230,10 +243,11 @@ export default function TeamIQ() {
       <p className="dash-sub-desc" style={{ marginBottom: 24 }}>
         Know every team coming to {cityLabel}. Country background, World Cup history,
         key players, style of play, and what to watch for at your venue.
+        {ratesDate && <span className="tiq-rates-note"> · Rates: ECB {ratesDate}</span>}
       </p>
 
       <div className="tiq-list">
-        {teams.map(t => <TeamCard key={t.code} team={t} />)}
+        {teams.map(t => <TeamCard key={t.code} team={t} rateEntry={rateMap[t.code]} />)}
       </div>
 
       <p className="dash-disclaimer">
