@@ -55,8 +55,8 @@ Keep this file updated. Never commit actual secrets — use the references below
 
 ### football-data.org
 - **Purpose:** Live match scores, group standings, real-time tournament data
-- **Plan:** Free tier (10 calls/minute)
-- **Account:** Sign up at https://www.football-data.org/client/register
+- **Plan:** Free tier (10 calls/minute, WC included)
+- **Account:** gngengwe@gmail.com — https://www.football-data.org/client
 - **Competition ID:** 2000 (FIFA World Cup)
 - **Season:** 2026
 - **Endpoints used:**
@@ -66,7 +66,7 @@ Keep this file updated. Never commit actual secrets — use the references below
 - **Caching:** localStorage, 5-min TTL (60s during live matches)
 - **Fallback:** Local JSON data if API unavailable
 - **Dashboard:** https://www.football-data.org/client
-- **Set secret:** `gh secret set VITE_FOOTBALL_API_KEY --body "KEY" --repo gngengwe/cup-radar`
+- **Secret set:** ✅ `VITE_FOOTBALL_API_KEY` in GitHub Actions secrets
 
 ---
 
@@ -175,7 +175,7 @@ VITE_WEATHER_API_KEY=your_weather_key
 | Twemoji CDN | ✅ Active | Free | Yes (flags) |
 | FIFA store links | ✅ Active | Free | No (outbound only) |
 | OpenWeatherMap | ⚠️ Key not set | ~$0/mo | No (fallback exists) |
-| football-data.org | ⚠️ Key not set | Free | No (fallback exists) |
+| football-data.org | ✅ Key set | Free | No (fallback exists) |
 | Email signups | ❌ Not configured | TBD | No |
 
 ---
