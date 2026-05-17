@@ -13,6 +13,7 @@ export default function SeattleHQ() {
       events={eventsData.events}
       title="Seattle HQ"
       venueName="Lumen Field"
+      cityId="seattle"
     />
   );
 }

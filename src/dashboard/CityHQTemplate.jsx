@@ -96,7 +96,7 @@ function MatchCard({ match, cityData }) {
 
       {expanded && (
         <div className="seattle-match-card__detail">
-          <WeatherWidget matchDate={match.date} />
+          <WeatherWidget matchDate={match.date} cityId={cityId} />
 
           {shouldIGo && (
             <div className="sigo-block">
@@ -168,7 +168,7 @@ function TodaySummary({ matches, cityData }) {
   );
 }
 
-export default function CityHQTemplate({ cityData, matches, events, title, venueName }) {
+export default function CityHQTemplate({ cityData, matches, events, title, venueName, cityId = 'seattle' }) {
   const { venue, transit, fanZones, preGame } = cityData;
 
   const lastUpdated = new Date(cityData.lastUpdated).toLocaleDateString('en-US', {

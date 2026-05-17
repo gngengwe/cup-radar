@@ -5,8 +5,8 @@ function daysUntil(dateStr) {
   return Math.ceil((target - Date.now()) / 86_400_000);
 }
 
-export default function WeatherWidget({ matchDate }) {
-  const { weather, status } = useWeather(matchDate);
+export default function WeatherWidget({ matchDate, cityId = 'seattle' }) {
+  const { weather, status } = useWeather(matchDate, cityId);
   const days = daysUntil(matchDate);
 
   if (status === 'past') return null;
@@ -18,7 +18,7 @@ export default function WeatherWidget({ matchDate }) {
         <span className="weather-widget__msg">
           {status === 'noKey'
             ? 'Add VITE_WEATHER_API_KEY for forecasts'
-            : `Forecast available ~${Math.max(0, days - 5)} days before match`}
+            : `Forecast available closer to match day`}
         </span>
       </div>
     );

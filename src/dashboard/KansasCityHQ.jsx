@@ -12,6 +12,7 @@ export default function KansasCityHQ() {
       events={[]}
       title="Kansas City HQ"
       venueName="Kansas City Stadium"
+      cityId="kansascity"
     />
   );
 }
