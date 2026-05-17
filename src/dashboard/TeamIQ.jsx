@@ -108,12 +108,12 @@ function TeamCard({ team, rateEntry }) {
                   {!rateEntry
                     ? country.currency
                     : rateEntry.note
-                      ? <>{rateEntry.code} · <span className="tiq-rate-note">{rateEntry.note}</span></>
+                      ? <>{rateEntry.name} ({rateEntry.code}) · <span className="tiq-rate-note">{rateEntry.note}</span></>
                       : rateEntry.rate === undefined
-                        ? <>{rateEntry.code} · <span className="tiq-rate-loading">…</ span></>
+                        ? <>{rateEntry.name} ({rateEntry.code}) · <span className="tiq-rate-loading">…</span></>
                         : rateEntry.rate != null
-                          ? <>{rateEntry.code} · 1 USD&nbsp;= {rateEntry.rate.toFixed(2)}&nbsp;{rateEntry.symbol}</>
-                          : <>{rateEntry.code} · <span className="tiq-rate-note">rate unavailable</span></>}
+                          ? <>{rateEntry.name} · 1 USD&nbsp;= {rateEntry.rate.toFixed(2)}&nbsp;{rateEntry.symbol}</>
+                          : <>{rateEntry.name} ({rateEntry.code}) · <span className="tiq-rate-note">rate unavailable</span></>}
                 </span>
               </div>
             </div>
