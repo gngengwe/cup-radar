@@ -61,6 +61,43 @@ export async function saveFile(token, path, content, sha, message) {
   return res.json();
 }
 
+/** Trigger a workflow_dispatch event. */
+export async function dispatchWorkflow(token, workflowFile, inputs = {}) {
+  const res = await fetch(
+    `${API}/repos/${OWNER}/${REPO}/actions/workflows/${workflowFile}/dispatches`,
+    {
+      method: 'POST',
+      headers: headers(token),
+      body: JSON.stringify({ ref: BRANCH, inputs }),
+    }
+  );
+  if (res.status === 404) throw new Error('Workflow not found — push refresh.yml first');
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.message || `GitHub ${res.status}`);
+  }
+  return true;
+}
+
+/** Get recent runs for a workflow. */
+export async function getWorkflowRuns(token, workflowFile, perPage = 5) {
+  const res = await fetch(
+    `${API}/repos/${OWNER}/${REPO}/actions/workflows/${workflowFile}/runs?per_page=${perPage}`,
+    { headers: headers(token) }
+  );
+  if (!res.ok) return [];
+  const data = await res.json();
+  return (data.workflow_runs || []).map(r => ({
+    id:         r.id,
+    status:     r.status,       // queued | in_progress | completed
+    conclusion: r.conclusion,   // success | failure | cancelled | null
+    createdAt:  r.created_at,
+    updatedAt:  r.updated_at,
+    url:        r.html_url,
+    inputs:     r.inputs || {},
+  }));
+}
+
 /** Get the latest commit SHA and message for display. */
 export async function getLatestCommit(token) {
   const res = await fetch(

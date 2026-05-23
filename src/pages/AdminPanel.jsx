@@ -8,6 +8,7 @@ import ScenarioUpdater   from '../admin/ScenarioUpdater';
 import NarrativesEditor  from '../admin/NarrativesEditor';
 import BracketEditor     from '../admin/BracketEditor';
 import UpsetEditor       from '../admin/UpsetEditor';
+import RefreshPanel      from '../admin/RefreshPanel';
 
 const TABS = [
   { id: 'alerts',     icon: '⚡', label: 'Alerts',     desc: 'Daily update'     },
@@ -17,6 +18,7 @@ const TABS = [
   { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Chapters/status'  },
   { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Teams/results'    },
   { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Happened/didn\'t' },
+  { id: 'refresh',    icon: '🌐', label: 'Refresh',    desc: 'Crawl & sync'     },
 ];
 
 // ─── Login screen ───────────────────────────────────────────────────────────
@@ -141,6 +143,7 @@ export default function AdminPanel() {
         {tab === 'narratives' && <NarrativesEditor  token={token} key="narratives" />}
         {tab === 'bracket'    && <BracketEditor      token={token} key="bracket"    />}
         {tab === 'upsets'     && <UpsetEditor        token={token} key="upsets"     />}
+        {tab === 'refresh'    && <RefreshPanel       token={token} key="refresh"    />}
       </div>
     </div>
   );
