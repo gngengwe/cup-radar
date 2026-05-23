@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-05-23T23:48:47.726Z",
+  "lastUpdated": "2026-05-23T23:56:47.447Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-world-cup-ticket-prices-drop-as--2026-05-21",
+      "headline": "Seattle World Cup ticket prices drop as first Lumen Field match nears - NonStop Local KHQ",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhLRXlpQVhxcktjWWVGNmh2QVZYT3lMMWV6QWtxOFZMUnJ6V3hyYjRaLXU3TzRiVVpJSWlTUEhtanVLYVJkaVlMbmVZZEhFa2E4YzRIbl9OOWpWS1RFZHJGY2ZCdHFRWk1hd1h5YVhEVElnR0xkZ1VMMi1Gc0hhN2RzTFkweng3dExDbDVheHJRRGp4ZkdCNDJpS212TndxekhvRkVtUzJ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-21",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhLRXlpQVhxcktjWWVGNmh2QVZYT3lMMWV6QWtxOFZMUnJ6V3hyYjRaLXU3TzRiVVpJSWlTUEhtanVLYVJkaVlMbmVZZEhFa2E4YzRIbl9OOWpWS1RFZHJGY2ZCdHFRWk1hd1h5YVhEVElnR0xkZ1VMMi1Gc0hhN2RzTFkweng3dExDbDVheHJRRGp4ZkdCNDJpS212TndxekhvRkVtUzJXRThZQWd2NVBIUzR6Rk5lZnkyd0RJZWFjaTByeS1qX1pWc3A5em1ESjNWWDh3Y0FaQUpY?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-geha-field-at-arrowhead-stadium-starts-t-2026-05-11",
+      "headline": "GEHA Field at Arrowhead Stadium starts transformation for FIFA World Cup 2026 - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjNKQVRKMmxxWEwtQ19lQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-iran-say-fifa-has-approved-world-cup-bas-2026-05-23",
       "headline": "Iran say Fifa has approved World Cup base camp switch from US to Mexico - The Guardian",

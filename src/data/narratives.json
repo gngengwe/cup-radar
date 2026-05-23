@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-05-23T23:48:50.184Z",
+  "lastUpdated": "2026-05-23T23:56:49.972Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -135,7 +135,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 5,
+      "chapterCount": 6,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -176,6 +176,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ4TFcyQ2tnZV9CNFJYejNaLWJzS0pJd1NKMm5wSll2RzlLdkttUDhRckpEUHNVYzhmLTNqTXJXLWFpSmNEX3pZb0lHT2J4YVdHMEJjYTJPaVdZbmNhaUw5SnBtS0FrTEJ0UjdIR3VPa19fS1hPaVJRaUJaR2ZHS2ZxNGZ2MkpjelVwcVhUT3o4S0FkRm5nMXkzY2FxVGVka2ZYSTBGcjFwRG1ZV3FmOG9LNElOVzR0cjJacg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1779580608942",
+          "date": "2026-05-23",
+          "title": "Inside USA's World Cup roster 2026: Pulisic leads host nation as Pochettino selects USMNT squad - sportingnews.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWUwc3M5Vzc3U1dqaFhtVFlCVFV3TGlMSTFCcVBFWGotLXh2YmFSS21yWDlNVGY0ZUJEN1JpRDNtbDUtQzh4aWwzTlZIMzJ1MVpwVGg1T21wT19UcU9zdG9vN3B5RHA0Z28wTWJXOTkyNGhROFA2QUZobGViVmk4VlBQelZLX2ZNcDQ3QVlMMzRkMEFrWkljSEFDQ0xKc0JLRGJZbGhib3g1aGFoWkpzd21rTDE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -194,7 +202,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 5,
+      "chapterCount": 6,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -234,6 +242,14 @@
           "title": "Who will start? Predicted XIs for 2026 World Cup contenders, hosts - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc3NwNHF1RUlnNnF2b3c1a3lZN01Yb2FOMDNmNnFMbXFLbE9RWmpwSDMxdFM0aE45WDZfT3RqcnROVTA2LTZyWGdORDR6QkpETDI2QnZGOXptTW41OVZ6UVc0YzhnMEdqdzA5d3owdlBodUtsREgtRmFVT0tPWDJoRnBSVVNXWmlaQ0FyMDRDcnNPV1Q5UGRFZWRUWDEtSkpxTGlOQlptUTRMeHVtQ01QX3RhUXQtWVp0ejloUlBfZENsaEQyRGV6a2VKS3FoX2N0THg2RmUzN05ES2FRalhUVVpWMmlQSlU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1779580609431",
+          "date": "2026-05-18",
+          "title": "Brazil call up Neymar to World Cup 2026 squad - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajdBWndxMFFxcVdyM3ZnMW9yZEFpN1VBMzBFRmp1OFlzT2xCQVM4SUlVb3ZFYzZBak9LQ2paM0FoTF9WOHBobklkZWNIN3dFN0M1bEpDaGNvOFRnS2ZKTmVpSlhVUTE5Tk5fRmFuUklBM3o0QjFnTUdPM3hIcXdfMzZPRXFTWnZPLTRNQ0twemg1UQ?oc=5",
           "draft": true
         }
       ]
