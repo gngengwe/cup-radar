@@ -1,70 +1,254 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-05-13T12:00:00-07:00",
+  "lastUpdated": "2026-05-23T23:48:50.184Z",
   "narratives": [
     {
       "id": "nar-001",
       "title": "Messi's Last Stand",
       "status": "pre-tournament",
       "category": "player",
-      "teams": ["ARG"],
-      "teamFlags": ["🇦🇷"],
+      "teams": [
+        "ARG"
+      ],
+      "teamFlags": [
+        "🇦🇷"
+      ],
       "featured": true,
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "id": "ch-auto-nar-001-1779580128185",
+          "date": "2026-05-23",
+          "title": "Lionel Messi locked in for 2026 World Cup, confirms Argentina’s assistant coach Roberto Ayala - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFFsNXFBbWhwZmZlRkFGQjROY2NqTE13NTkwVUw3aXpycDdRWHVkM0tGbFpBc2gxVGJnOGh6c3VkYk4zT0w0MzNwVFZQWEtXN3JldVVvdU9oTlVSc0pGVjVsbk5DeGota0N3dEp5bU9XVHhvS1dQLUFqaEptcDhoUjNXa2ctNHp4SS1vVGpVLUJpSmFEMjFwdWtLNFNlUHlFY2xsWDRwYkljcUdHMTFKZzFqeHg3R1lRRXM4NDE4bndCTHVTZFJ1MUVn0gHOAUFVX3lxTE5RUFpJb0J3VGZUUmVUM1A5WFBJaWEzZE5KaXh5bmw3YUZfeEs3RVYyOEFGMk9Gdm9UV1kyb2pINlNVcm9pS25jZ0xVQWtnbTl0dTVOYllRcTBEUkJpUlJnYXc4WDdIeno5ZGE3MFluWFhpc1Q0ZDBGa3VpUEZWcTBkT0wtd2Fadm55bUpaVU0xblpUNXNaWU0xSEVpMGlMZkV5dDFKODRsS3dMUFhBYnRWYkJKQXo1UWN6MmF1eFI5dHllelZxYV9Ja09pelh3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1779580128185",
+          "date": "2026-05-21",
+          "title": "Is Lionel Messi Playing In the 2026 World Cup? What the Argentina Star Has Said - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUFaUjAza2xmZE55ZS1XSlB3MzRsaEJFOW9yZVRBWDVtV1BTRlhkdnh5S3BDMDJTM1ZTN3VOTUdRTkpaWl9pNm9kYlJLT2NMcGN4TlV6Wk92U3ZKZVE5aFJNMk1zTTNBTzV4amg5dEhMQnFRZVNoeVl3NDAwc0NDelF2VzdyTzgyUXdxWU9pZjBtMWxlbDZscUJISHRGcXBsNk9VU0dYZXjSAagBQVVfeXFMTkdHb2lfX21KTXhOYkF4NVE5YWt2LUtYbnpLd1VKWGpQejVoRDFTZFBGdzBuYWdpRml5eTJqWUdDRmszV1h2ei1ZcnlRTVRuZzd3d3NpQXdvb09yWnl0ZGhvZVpqZ2JPQnloWUNFZWNVUUdGYjlCRll4bm52SGFGdzJJVU1ZSWx3OGgycXc5Nk9Yc2VMSi1Od2lySkN6X05NalRXMFRpeFlM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1779580128185",
+          "date": "2026-05-21",
+          "title": "Report: Argentina’s 2026 World Cup roster, potentially with Messi, to be revealed just before deadline - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN3owLTVEa1dvem43dzNnX3c5aXIzYW5kZ3Ewd1JUUmM4VFczUXBiWmh1WU1WSERGQ2JDUWtmeEt1QnJORGh1eUZUM2ZkdHpvcUQwcjY1QXZReDdOTlNzRGt5RzB0RjI0UXo2M1hNcHlkVFM2M08wYnJTY1dBa01hSlhQb0ZxU2l1cU5CbElMNlhURVZoSTQyUXIxNEVsOGtOWDBfZWNYT3BTdjJ0RmVrckpQenNQU3hROHljOFliVGZaRi10TnNtbk1pUdIB0AFBVV95cUxPN3NLVHYtUWNoTC1iaFQzVnF4ZHBJeFBqRy1ValhmMkxKaDJrb3JLQkd2WmRaME05Z0pCeFhpb2FnUXh1Q1NFSHp5cDdiSTQxcFVJdGcweFo5bDg4TEwxMTYxZEdEcndaZWRWalhPRGRWX000V0RvTWM3MHRMcHczckdjOElQRm1nekN3bkNpNTdsc0Q5MFc4Nkgxc1BaWVlaUUkxUFBna0I0V2JjdGh5UC1KeE9qdHRHREdLT2RPOURDRXc2WldvaUtyX28xdHot?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1779580128185",
+          "date": "2026-05-12",
+          "title": "Lionel Messi included in Argentina 55-player provisional World Cup squad - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVW5Kb0xHSlZMYV83dmUwTDl0bndNSTBHQS1UZUswODdKcjNWVXJUcWRyVldRTHJaUUhhWERlYnEyek56YTR1b3E4T2Y3LTBMMnlyU3Z6bU1zMHc2c0U0c2xQTENLVmkxTHFpUzVHdF8xV1hJWlZyLXFTY2ZMdklHa1BESWUzdHRYQmF3all4YVBLeUl3bkp3cXRzRDJPdlNiOFpGM2xnN3d5ejdtdTBKbDdmQXRXdXlY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1779580128185",
+          "date": "2026-05-11",
+          "title": "Argentina Gives Major Update on Lionel Messi’s 2026 World Cup Involvement - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGJVS1B3eG04MkhQMHZLTTZFTVppbzlmRnFiZlZpN2F3SC1rSnkyOEFQczdwUjlURExkN1NyVXNNR3VhZE5uZTVWVm5sbEU4WDRFZEhMMEExMVVYRVh1VE1fRHVra3NNUmZFdldXZDZsVER6aXppT2xzb3cyaFJjN09vWXE2aWdZZnpEM2N0eXl2bnR0SmdmSnQtSzFEQQ?oc=5",
+          "draft": true
+        }
+      ]
     },
     {
       "id": "nar-002",
       "title": "Mbappé Unchained",
       "status": "pre-tournament",
       "category": "player",
-      "teams": ["FRA"],
-      "teamFlags": ["🇫🇷"],
+      "teams": [
+        "FRA"
+      ],
+      "teamFlags": [
+        "🇫🇷"
+      ],
       "featured": true,
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "id": "ch-auto-nar-002-1779580128610",
+          "date": "2026-05-21",
+          "title": "France World Cup 2026 Preview: Best Players, Roster, History - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWE1jQ05Qd1lVN2pIZU9iZGd1V1FLcjNRYVdrSGtvaS1YU1Q0NG0waGQ4d0pkN3FpMHVpS1plS2o1cVg5bzRoMEM4QnBPWmVOTURPVlZ5M29STzRSclhyMjBLQzdnRmVUVjBqckVDUEJIODQ5eW1qV3UzWnZCcWpGRzNVX2dkekZROVBuSk4ya0JCREZLWUZVb21YekhZQkRFV1RjcGk3TlRXZjlaOW5DaWJXc3pSSUFD0gG4AUFVX3lxTE9CV2E4bWZiOG1XNnZYa0k3WUcyNngxcHg5RU4tOUV2M2lxVkNhZC1nenQ4Qy1VYW95N1ItcHR5RU1MLVNMSTM0a1dHY05MSEtUTFVnQjVVTkoweEItZU1Tbm9kdnBscjZNeWROM2pCZU05bjAyQUVycnhZcmp2a2s0ZlljVURtRk1UdFVkSnR5NjMxUWhkZC16TTBuUWtZYS1BV1B0eDFlSFBWOS1VTjh3LXFMY3Bfb3I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1779580128611",
+          "date": "2026-05-23",
+          "title": "Mbappe and Dembele in: How France will line up at the 2026 World Cup - MSN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazhVSEdFSkRFYWJfRWFhX2ZhNlBFdFBvQ21tNmRQaGdBT1NNYW1SUHprbmN6RTJRbERoVUlVb0RNVlJoR3ZFTmlicHRyemZzV0JjeVVpS0tXbU1jXzljVFVCSi1kN045ZmJnUUJFcnQ3Y3lNdGNlNld5TWZRZERjRENodG11aTFMNFBkY3I3cXA1N0FoV0ZtelFmSjF3dDNFYzQxNEtpTDNQN3pTbzJlcUZMUXNQbWFUc05z?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1779580128611",
+          "date": "2026-05-21",
+          "title": "France and Spain are co-favorites to win FIFA World Cup 2026 - fox8live.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaTM2MEo5bExuRWtFUlc3cXpDaWdpcVA2WUF0ZU9PNDAwd0JsVGhXOEZXMWNnY0NPUi1qcWZMYzM5RUtldzNFRWlJN2FMWTlsTGF4R1J4NUpwWjBHa3BXc3d2eTNrUlkyNHVYc0N0V3BKS0JqWnh3R2c4Qk1mREM4djNxdGFsUkgzVk5XSW16UG9ZSERR0gGoAUFVX3lxTFBxY0dtX3RQR0UxVzZWN1ZPaHpRcU82MmMxYThEOTY3UGt1M1JuWTVMZzY4OWlQekRsclk2TkFtc09TeDUwdVoySDFSZEd5WUwxSm9xSUQ0VjJuOVlHWHZhSENfdVJfZmJEb1Jua2ZJY0pDNVNRZmlLZW83TnQ4VDRvb0Q2ZTJKd3hCeTE0c0pqQ0R0Q2x6d3F4OVBXRTVwaXYtS0pHaEVDWA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1779580128611",
+          "date": "2026-05-23",
+          "title": "Spain coach Luis de la Fuente predicts three favorites for the 2026 World Cup - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkJLa1JOT0pkVkRmRWVTZXY3cW42Z2ZXUTFrV0VrR3JvWnYxQnZjQnRWZnAwYmx2YS02cEwtRlJTYnJiSEU3NGUtMlJ2WmRFeG44THZvQkhmV3pQckw2bEVmbVc3V0lMc001aVVlcmZDM2YxTElzZDhSenNfeGozRWVZcTdhY1JnZmxKMm82WDg4czVEN0RYT1dubmk2YXBYNl9JeUJJMk9PZUVtcC1pTmFWaF9oOHRDSmQ40gG7AUFVX3lxTE5OQktrUk5PSmRWRGZFZVNldjdxbjZnZldRMWtXRWtHcm9adjFCdmNCdFZmcDBibHZhLTZwTC1GUlNicmJIRTc0ZS0yUnZaZEV4bjhMdm9CSGZXelByTDZsRWZtVzdXSUxzTTVpVWVyZkMzZjFMSXNkOFJ6c194ajNFZVlxN2FjUmdmbEoybzZYODhzNUQ3RFhPV25uaTZhcFg2X0l5QkkyT09lRW1wLWlOYVZoX2g4dENKZDg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1779580128611",
+          "date": "2026-05-14",
+          "title": "Mbappe and Dembele head up star-studded France World Cup squad - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVFxQWJYcWRVakw3UnlPNllTYUwxVlV1Z2ZIcnRyX25pcXYxZUd6cDhReG1WV3Fkd0J4WjdvdGVNM1dJWTRCMk00ejZGaFlHSUhob080Y1ZMLW8wSEZSM2gxSnM4a1RvdHBGdkNQVHkzeGFuWEZBekdxVF96d0Y3UUtuSF9PUHNBWFNuSXBpVWg5YklhOWJNM0FIVUFyTl9TOWNlMWZ0QljSAa4BQVVfeXFMT3BpVk1VcnZ4N204UDlBWTJZYkpGd3hzU2R1NVF1Z2t3N1A3Qjk1MV9xdjBTdnVzRnBsdndGbFVUNHRGRjgyenZpYzhEVy02dWFDZnFzb2lPTU4wT2FMQk9pODcwQl9UM1cxUFBfNnlrajd2aFFSMFR3VW1vUXdBanBwaGxBOHpOdTVKNnVseE4tOHpvOUJibGthY08xSnZpYnI2bXNsTTdNbC12RlhR?oc=5",
+          "draft": true
+        }
+      ]
     },
     {
       "id": "nar-003",
       "title": "USMNT on Home Soil",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["USA"],
-      "teamFlags": ["🇺🇸"],
+      "teams": [
+        "USA"
+      ],
+      "teamFlags": [
+        "🇺🇸"
+      ],
       "featured": true,
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "id": "ch-auto-nar-003-1779580129131",
+          "date": "2026-05-23",
+          "title": "USMNT World Cup full roster: Alejandro Zendejas is in, Tanner Tessmann misses out - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVV9pUWJPSi1vMUVDTXlmRW12N08yd09ES0xIUGJPV3dFU1RCTlpReUxqZ2FUajJZeG03VTFlS2RPR2ZoWjRUVW81cUc2ODFqVUpBbFJuQnlrTDJzOWw1VDdzcUpBN1N0QVpZQi1LczJ6Q2huWUhkeWdRRDl3ZEtydXo4c05QOXJNUmViU0RZaU1hUEluS2dYdUdCTldUcGM5VE9PR1ZGUDZPZjlEdWNKalRuS3lfWGlpaFhWdWJSUGZmRVVDUmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1779580129131",
+          "date": "2026-05-23",
+          "title": "2026 World Cup news live tracker: Squad announcements, injuries, key storylines and latest updates - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLVVBQ2Q4RVdPcExyOUhURnBlM1ZDVU5Wc3NUUXpQM3l4d21YZTJZeWsyZVAweUV0a1hvaHpjUDFTSlREZGI2S2FUdW94dmczWXdCMUU1VG05WndYY0t4NTI1c2pabjN1SjdYZk5VSDNSQzdWM2N6RXRYR2ppX3hlem9pVGVCcjRhemlQU1pvSEl3M3BRcm9Dcklxd281N2xXdUtPY2VTSUpjOTRwa3JyX1Z3RkU0dXcyLTRHYjRpT2JZM3JodDlzRzB2Tkp0eG1nMEoza2VYQ3VjVlk4UVFUSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1779580129131",
+          "date": "2026-05-23",
+          "title": "USMNT 2026 World Cup Roster Leaks: Mauricio Pochettino Springs Some Surprises—Report - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnQ1cUQ5QzBuUXRndWhXbHRleE5oaGxCSjA4ZWdOcDhRZDI1M0h3LUNlY2YtcjBobGpIOUlwWVljX0xhdllmN1llZFlpbVRFaG5LZzBQeVdSc3NsZkJwSmd3TnZSeVJwZ0stZFBLeTdaN185ZElGVHoxdkIzWkxRQ3VyVnIyRmpmNUxqeDlyQTFsUkU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1779580129132",
+          "date": "2026-05-23",
+          "title": "World Cup 2026: USMNT full roster leaked, confirmed by sources - Boston 25 News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnFRR3JkOU5hZjVGcElkd0U3ZHdGWUhWRUt6c1Q3TWVYVmF0R2Z6d2dhSGhPRzdRN09oMXB5RDhHUFQ1bUdBV3NpdXBLMUVqSWlZRG1vTkc1c2EyblZpWlFnODltdVh5dnFVT25BU1BOd0dfVkI1cm9JQlR0aE81TUNmdzE4c3RTRUVKYUpOcUgtT05OTXRDcG5XbXRfYVQ5RFFsTXllYmNYajZFYUthc1Rrb3UzU0dNc2Q3S2dGUFY4NEpWdlRN0gHbAUFVX3lxTE1mcGczNnpNVzlTaFJhcDdXM1RSYnptTTNjTmFYaVVNX3I3bTlRZnFCcDY2UzJ3dVBmOGQ4NDFld09aMk5acHhsR1hjenA4VWVCMmUtd1VBTXBVZndVdWpTcXo5Q29MeGxqN0lieG5uUmZUcVJxVFFuNm9ITnIySkRKZXJwWVhrM0lJZmcyTDlkN1ZmamJ6dlY3dmJvUlF3NFFzZEo2ZUR1c0NVSk5oV2U4aC1pREFzZzByNV9la0dmTzAxNGZsd0FXNFZHdmlDRW01MjdQc21lQ0ZENA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1779580129132",
+          "date": "2026-05-23",
+          "title": "U.S. World Cup roster revealed early; two big surprises in midfield - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ4TFcyQ2tnZV9CNFJYejNaLWJzS0pJd1NKMm5wSll2RzlLdkttUDhRckpEUHNVYzhmLTNqTXJXLWFpSmNEX3pZb0lHT2J4YVdHMEJjYTJPaVdZbmNhaUw5SnBtS0FrTEJ0UjdIR3VPa19fS1hPaVJRaUJaR2ZHS2ZxNGZ2MkpjelVwcVhUT3o4S0FkRm5nMXkzY2FxVGVka2ZYSTBGcjFwRG1ZV3FmOG9LNElOVzR0cjJacg?oc=5",
+          "draft": true
+        }
+      ]
     },
     {
       "id": "nar-004",
       "title": "Brazil's 24-Year Drought",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["BRA"],
-      "teamFlags": ["🇧🇷"],
+      "teams": [
+        "BRA"
+      ],
+      "teamFlags": [
+        "🇧🇷"
+      ],
       "featured": true,
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "id": "ch-auto-nar-004-1779580129714",
+          "date": "2026-05-20",
+          "title": "Neymar Admits He ‘Cried for Several Hours’ After He Was Selected for Brazil's 2026 World Cup Team - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0hWWGYzcVBhYzQyOFRHVTNUTTNhQUZwSXUzLVhNYTh5VHJnQzQ5WEhLbjZLWnZVd0ltYzhkUVc2N1U4MWVnV0tfaHFtYnM1ZzZxeld1dk1xLTEwU2VnWnF3aTJwc01KX3NEcVZySjVlWDZBOE9zZDRqWFlMaDgyei1DVmlGaFZybzM0cWJOMWN1NGRFNk5WSVJGUVo1aHNlTF96YjFRMVhyZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1779580129714",
+          "date": "2026-05-21",
+          "title": "Brazil Handed Neymar Concern Days After Including Him in 2026 World Cup Squad Over Joao Pedro - GiveMeSport",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyV3ZKLXN5TUUzcVNTUTBQaDdNU1JFVnRxYVdfQ1FVbDZNRWNkRWdKSUZhNTg2eUViZVRkTkdZdVQweTNqblNHVkpHLUFlMV93eE9tM2dzSGJ6dURYLW1UWmhrdlpoWTFzUTkxcUt5czYwS21GeTBjYU04Z0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1779580129714",
+          "date": "2026-05-22",
+          "title": "World Cup 2026 squad lists: England, Scotland, Brazil, USA, Spain, France, Germany, Netherlands, Argentina, Portugal and more - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSVNOeXBPdUc5dXR0WUhYSm9vRGR0MjhGQkhWeEJOcVEtb0dzTHF5RFctR0hwdzNuWWM1SURtQzEtOVZWMGtJeHdNdExZRi1HV3pGc3lwbmpnb05pRnJuZjdpVmVnOWtPMzgzY2tWUHZGYkNtTWZyeTR4dUtxRnZtQmFJcHBtWHo4RnFvNUcwd3RTeUJTM3RneTlFRXVJLXdsQ0JGWE1OVHlKcXc4SUk3dGZaWXFiSk81NjJNUEFrd2tvT1dac1FMTUFwcDNIbjg2Vkc1aVdMTFQ1ZXd3QlR1cmVkZktHM1V0ZnlLM0MySmVBT0dwQTBYVjd3dHk4dTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1779580129714",
+          "date": "2026-05-18",
+          "title": "Brazil call up Neymar to World Cup 2026 squad - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajdBWndxMFFxcVdyM3ZnMW9yZEFpN1VBMzBFRmp1OFlzT2xCQVM4SUlVb3ZFYzZBak9LQ2paM0FoTF9WOHBobklkZWNIN3dFN0M1bEpDaGNvOFRnS2ZKTmVpSlhVUTE5Tk5fRmFuUklBM3o0QjFnTUdPM3hIcXdfMzZPRXFTWnZPLTRNQ0twemg1UdIBlwFBVV95cUxPY2N0WFFGU1YyV3o2anNYS3lNc2xDSFFFNEhjbXhDMHJRQl9UcXE1d28xaHJTT2xnU29WQV9yWDM5RjJ0bWJ0blRzdGF5SW93eVg0MngyX19qa1hjXy1iLXVGTTBQZWdBS0hiMkNuYWhNdzRTbGJhZ3Yzd09rMXF6UW1FYU5TY0tDUzBOa0NPRWtlM29XX0pr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1779580129714",
+          "date": "2026-05-13",
+          "title": "Who will start? Predicted XIs for 2026 World Cup contenders, hosts - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc3NwNHF1RUlnNnF2b3c1a3lZN01Yb2FOMDNmNnFMbXFLbE9RWmpwSDMxdFM0aE45WDZfT3RqcnROVTA2LTZyWGdORDR6QkpETDI2QnZGOXptTW41OVZ6UVc0YzhnMEdqdzA5d3owdlBodUtsREgtRmFVT0tPWDJoRnBSVVNXWmlaQ0FyMDRDcnNPV1Q5UGRFZWRUWDEtSkpxTGlOQlptUTRMeHVtQ01QX3RhUXQtWVp0ejloUlBfZENsaEQyRGV6a2VKS3FoX2N0THg2RmUzN05ES2FRalhUVVpWMmlQSlU?oc=5",
+          "draft": true
+        }
+      ]
     },
     {
       "id": "nar-005",
       "title": "Mexico Breaks the Curse",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["MEX"],
-      "teamFlags": ["🇲🇽"],
+      "teams": [
+        "MEX"
+      ],
+      "teamFlags": [
+        "🇲🇽"
+      ],
       "featured": false,
       "emotionalStake": 4,
       "summary": "Mexico has been eliminated in the Round of 16 in every World Cup from 1994 to 2018 — eight straight times. As co-hosts in 2026, playing an opening match at the sacred Estadio Azteca, they have the most emotionally charged chance in decades to finally break through.",
@@ -77,8 +261,14 @@
       "title": "South Africa: The Opening Match Shock",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["RSA", "MEX"],
-      "teamFlags": ["🇿🇦", "🇲🇽"],
+      "teams": [
+        "RSA",
+        "MEX"
+      ],
+      "teamFlags": [
+        "🇿🇦",
+        "🇲🇽"
+      ],
       "featured": false,
       "emotionalStake": 4,
       "summary": "South Africa is handed the most difficult opening match in World Cup history: Mexico at the Azteca on opening day. But upsets happen. South Africa's 2010 home World Cup showed what belief and occasion can do. An opening-day shock would be one of the great moments in tournament history.",
@@ -91,8 +281,12 @@
       "title": "Morocco: The New African Giant",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["MAR"],
-      "teamFlags": ["🇲🇦"],
+      "teams": [
+        "MAR"
+      ],
+      "teamFlags": [
+        "🇲🇦"
+      ],
       "featured": false,
       "emotionalStake": 4,
       "summary": "Morocco reached the World Cup semifinal in 2022 — the first African nation ever to do so. Their run electrified the continent and changed what people believe African teams can achieve. In 2026, they return as genuine contenders, not underdogs.",
@@ -105,22 +299,71 @@
       "title": "England: Is It Coming Home?",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["ENG"],
-      "teamFlags": ["🏴󠁧󠁢󠁥󠁮󠁧󠁿"],
+      "teams": [
+        "ENG"
+      ],
+      "teamFlags": [
+        "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      ],
       "featured": false,
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 5,
+      "chapters": [
+        {
+          "id": "ch-auto-nar-008-1779580130184",
+          "date": "2026-05-22",
+          "title": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUlIajdKYzFQQl9Scll0al85ZHUwY0xxOHJvSklkUlEzLS0zN0lNQ19NVWUzREZBWTNUSXpWWlFaRENJeVJTdkQ2QnFRWUpqTHJ0dWV5bHJzUGVzbzZ2QVZ1bnhKM1otMXpVaVdXWWx6T29kOWxfYWE1bjJUSDQycUdCZWRsN3NwMTZ3UjEzXzR6Ti02QTR0SlE4WXk5RnNkd3VUNUYtWGdfdXVYRXFncFZQUFltNUxlcjdRelhadXJNSmFnTVhOYVRHZEdiQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1779580130184",
+          "date": "2026-05-22",
+          "title": "England World Cup squad LIVE: Tuchel reveals ‘clear the air’ talks with Toney - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmlTa1pVMzF6d2FvSUgzZjFjLS0wUjJ1WHIxLXJLMlRsTXVQUDR4LVZ1eFUyM1NKTDdVUnBwd19HRGZWT3Z0RnUtdDdfLVFCUTVtcUZDdDRYc3d5NWdWYnhELXZUcFFTU2owakJvS2tmbzRFWVdxQlVjZTBkUXJ1bVFzTVNFc0NaYmtRaHNiaDdMdmhzdnhqem5takpTaElDTHpmdWVkbzBwYVRhZ2VodC1CLWg0TTFySTNzNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1779580130184",
+          "date": "2026-05-23",
+          "title": "Meet England's 2026 World Cup squad: All 26 players picked by Thomas Tuchel and why - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUZENVhBYzNnRFdyUTdwdWpfLWlLNngxYUZmM1BiV2d1U1VIQ3BEN1Q0ckpnd1dFX1JjMDNtS2VTYVNDcEF0dnlUTjFfVzIxcWFNWkRKSGdlR09EX1BqMEZGMWZidURDXzQzZXp2cGNjVkdrMzVxMFFkSW1GX01panBPaEp4UFpnMlBBcm5UT1p2YVd4SDI3a3E4NERkRHFuMDJpcTBsanZxZl8yZllCN2FhNmwtdDZt?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1779580130184",
+          "date": "2026-05-23",
+          "title": "England World Cup 2026 squad in full unveiled - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUdjeHdPbVFkOFhyM2t4b3Znc2Z0dVNTZVZzWENWSF9ydEMtb3B0UTZ2UlJROXJmVGxUdzZwVnhWeGZPMjNuSTE4OU1mODdEZDdoUVZKMnFzenRodEVESFJBWFJfeUlrRzVzSlNrcDd2MHhfUHNPb1BiVnhuVDBuZmYyZWRNbW4tcVd6bnBYWXNaam1NY1JVYm11VDd3cExBcEpN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1779580130184",
+          "date": "2026-05-22",
+          "title": "Picking the England World Cup squad: Who makes our writers’ final 26-man cut? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1VjWEd4SGpacnhNZkZkWDVsR3YwRjJPbzU5cnVsQk9zR25LY054cjRkTmFRTzk5aEVxNkdnQkhpSUM1eTlUd1o2UVNmMjg5ci03ZFg2WmxWODRGLWZTWXhoLWJOcDl4Nnh6LTlvdkZrZ3FxQnBoZDZuZ3VIRWkxOFcxVjQyMGZYVWRGdA?oc=5",
+          "draft": true
+        }
+      ]
     },
     {
       "id": "nar-009",
       "title": "Canada's Home Tournament Debut",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["CAN"],
-      "teamFlags": ["🇨🇦"],
+      "teams": [
+        "CAN"
+      ],
+      "teamFlags": [
+        "🇨🇦"
+      ],
       "featured": false,
       "emotionalStake": 3,
       "summary": "Canada qualified for their first World Cup in 36 years in 2022 and performed above expectations. Now as co-hosts in 2026, playing at BMO Field in Toronto in front of their own country, they arrive with a generation of players that could make Canadians care about soccer the way they care about hockey.",
@@ -147,8 +390,12 @@
       "title": "Haaland's World Cup Arrival",
       "status": "pre-tournament",
       "category": "player",
-      "teams": ["NOR"],
-      "teamFlags": ["🇳🇴"],
+      "teams": [
+        "NOR"
+      ],
+      "teamFlags": [
+        "🇳🇴"
+      ],
       "featured": true,
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
@@ -161,8 +408,12 @@
       "title": "Bosnia-Herzegovina: A Nation's First World Cup",
       "status": "pre-tournament",
       "category": "team",
-      "teams": ["BIH"],
-      "teamFlags": ["🇧🇦"],
+      "teams": [
+        "BIH"
+      ],
+      "teamFlags": [
+        "🇧🇦"
+      ],
       "featured": false,
       "emotionalStake": 5,
       "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014 — and their match against Qatar at Lumen Field in Seattle on June 24 is the official start of their campaign. A nation that only declared independence in 1992 is back on the world's biggest stage. June 24 in Seattle will be one of the most emotional sporting moments in Bosnian history.",
