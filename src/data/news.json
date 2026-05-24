@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-05-23T23:56:47.447Z",
+  "lastUpdated": "2026-05-24T01:08:22.513Z",
   "articles": [
+    {
+      "id": "news-auto-iran-move-world-cup-base-from-us-to-mexi-2026-05-23",
+      "headline": "Iran move World Cup base from US to Mexico with FIFA approval - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNN09sVjI4X2tEaWZPU2RfVGw0R1FraDFnUHZ3U2lud0JuajNNQnlHZ0RFMGpCT2dzMmhxMEpHZ2s5Slg4aG5OUTVERTlXN3NpbW5sb1JNbGdzUEplNmhrU3VULWtNbzViU1VDcXBKbkp4V1dTeWhTcVZWX2JJVGpjeXJHWVlqM0NDT3RYLXRFVTRZQmxNdkVTakFTTzdBejJWWkFNTWt4TdI",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-23",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN09sVjI4X2tEaWZPU2RfVGw0R1FraDFnUHZ3U2lud0JuajNNQnlHZ0RFMGpCT2dzMmhxMEpHZ2s5Slg4aG5OUTVERTlXN3NpbW5sb1JNbGdzUEplNmhrU3VULWtNbzViU1VDcXBKbkp4V1dTeWhTcVZWX2JJVGpjeXJHWVlqM0NDT3RYLXRFVTRZQmxNdkVTakFTTzdBejJWWkFNTWt4TdIBrAFBVV95cUxOS0tzZ2ZFVjBpQkVQVkEzZlVkSURQUmRBQ3l1T0NubEowbmllbXF3Z2FKVVZIekVhR3BoVi1za29qQWZrcXdzTlpsdHNxOUhENkRaRFBsaE5PamN4XzdRWWJkbFkxMEE5ckZMWlBfSVVOVmNNY1ZYZ3laOTRrQmFleWdKazJEN19mZDBxaFI5UFl0a0ZnVVFPaWxLVXhzRDJHRGk4TXIzMlZEVUtp?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-iran-granted-permission-by-fifa-to-move--2026-05-23",
+      "headline": "Iran granted permission by FIFA to move World Cup training base from USA to Mexico amid ongoing conflict - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNE1YVXV6VnJIaVY4cnJzckJSSVpkQUxYQUJ4YXFoU2ctTTNBVFd4Q0t5S1k5Z21nVXdmTTIxTVVEbG1kMmhRX19VU0QyU0M3MnlQdUIyT1VZZWFYUFpkY2M2TkNneHF1UjE2Q1dUTHFPUHVJcHIxemJFVDJiOHh1UTYyWnhOc0YwUk85R1IwdloyUEJiS190RzRKTHFXUVZuUEhINmhWSF9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-23",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNE1YVXV6VnJIaVY4cnJzckJSSVpkQUxYQUJ4YXFoU2ctTTNBVFd4Q0t5S1k5Z21nVXdmTTIxTVVEbG1kMmhRX19VU0QyU0M3MnlQdUIyT1VZZWFYUFpkY2M2TkNneHF1UjE2Q1dUTHFPUHVJcHIxemJFVDJiOHh1UTYyWnhOc0YwUk85R1IwdloyUEJiS190RzRKTHFXUVZuUEhINmhWSF9CNTczeWpGdmNmVmw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-atlanta-not-represented-on-the-2026-usmn-2026-05-23",
+      "headline": "Atlanta not represented on the 2026 USMNT World Cup roster. Who could be next? - AJC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBZWVJPWVQwWWhZUW03ZnRfZjhkWVpxM29aWFhWMXl1b1BWTnNXVU9BaUgtbTcxSEZ5a3hCWlktSnppbFh5OWlwblMyWWpKM2dMbkNDdnZMVWc2R2g4bzlkTUlRNkpPc1RZR25Wc2xpSmJEcC1vY2xZdy1PWS1pZFZCTThPc3YzLXZJd1NzTThwOUVWd28zZ3lPOW9weWVSSFFldGVxNzF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-23",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBZWVJPWVQwWWhZUW03ZnRfZjhkWVpxM29aWFhWMXl1b1BWTnNXVU9BaUgtbTcxSEZ5a3hCWlktSnppbFh5OWlwblMyWWpKM2dMbkNDdnZMVWc2R2g4bzlkTUlRNkpPc1RZR25Wc2xpSmJEcC1vY2xZdy1PWS1pZFZCTThPc3YzLXZJd1NzTThwOUVWd28zZ3lPOW9weWVSSFFldGVxNzFncU9Da01FTnJR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-shakira-burna-boy-drop-dai-dai-video-fea-2026-05-23",
+      "headline": "Shakira & Burna Boy Drop ‘Dai Dai’ Video Featuring Cameos From World Cup Winners Messi & Mbappé: Watch - Yahoo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFl2a3lsM1JETzduQlVjRHhnckctYmVVdENkM3VtUnh2TXpUWkc3d1hXYkpzQkY5dWxnWkhSWmRsbWJrM2REc1Z0Q2tlWWozYS1HR2gxeUpNSEVFUVhBeFhkTmJuVTFQbFJiSVhmU0d3UTFXbW9pZGRCaWNmOEVpWWJ5eGdRNzFjZ0k0XzM5Vmp3M1hUSFNr?oc=5\" target=\"_blank\"&",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-23",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFl2a3lsM1JETzduQlVjRHhnckctYmVVdENkM3VtUnh2TXpUWkc3d1hXYkpzQkY5dWxnWkhSWmRsbWJrM2REc1Z0Q2tlWWozYS1HR2gxeUpNSEVFUVhBeFhkTmJuVTFQbFJiSVhmU0d3UTFXbW9pZGRCaWNmOEVpWWJ5eGdRNzFjZ0k0XzM5Vmp3M1hUSFNr?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-who-are-the-star-players-missing-from-wo-2026-05-23",
+      "headline": "Who are the star players missing from World Cup 2026? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOE55Y213T01TNW5zZ21RRHRyUk9nR1Q2S3FMZWY3TUlFTUdzZDlWMzUxdll6UTF3eFhHdU1vLXU3em5Kclo3T254OEhBWGhtX0tIVl9jRnJrMUt0bkhRZEZmMnVKbVZxb1dSVUdZaTZNMUluUV96RjJtSEJMQ0JTWS1MRUhqSzBUcU1ZVVVyYzBmZTNrVFNvN1ZZRzNVeldURmNB0gGoAUF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-23",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOE55Y213T01TNW5zZ21RRHRyUk9nR1Q2S3FMZWY3TUlFTUdzZDlWMzUxdll6UTF3eFhHdU1vLXU3em5Kclo3T254OEhBWGhtX0tIVl9jRnJrMUt0bkhRZEZmMnVKbVZxb1dSVUdZaTZNMUluUV96RjJtSEJMQ0JTWS1MRUhqSzBUcU1ZVVVyYzBmZTNrVFNvN1ZZRzNVeldURmNB0gGoAUFVX3lxTE5PZG9TdXZtdU81bDJUWXV0Z1d2c3daNU4zWk1DZ2Jnck1fSWlCUDZXTVdKX21kMmcycmpPeHQ5WDlhRGh1bmxsVE1mTjJReXB4cjEzTkNhOFZhWVhreHZPWG5GbElYMkxSd0dBdEFoVXkxNk03UEE4MFJieWw4akNGUTVVT3Y4cVhrd2dqSzdUblAxRnR1ODZ4ajJPbWFQalc3b18yVUgtVQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-transforms-into-kansas-2026-05-11",
+      "headline": "Arrowhead Stadium transforms into ‘Kansas City Stadium’ for 2026 FIFA World Cup - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXlGRFnSAb8BQVVfeXFMT01NMXZHYzk5RGxCYU5sYXhjWXZzX09CeDlTYjJ3bzA3dV9na2t1RTNkWmdlbnZVcXpEREk2R2ZkRXNUdFNjMTZacnFSRVpBdi1oOGFxWDRFS0R5a1J2ck9sekdGcktzRE1OdDlxYXNCWTM2UGtzSWV1T2tfZ2xkWTh6RkNISEpSOTJXWGFQNklZY1NKLWVIZklQUXhnQ1pVMk0zRmw0aklXclZrM3dVRmJYSFlYMHBiMjNCTnh6VWs?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-world-cup-ticket-prices-drop-as--2026-05-21",
       "headline": "Seattle World Cup ticket prices drop as first Lumen Field match nears - NonStop Local KHQ",
