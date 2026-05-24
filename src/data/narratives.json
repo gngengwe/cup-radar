@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-05-23T23:56:49.972Z",
+  "lastUpdated": "2026-05-24T01:11:01.384Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 5,
+      "chapterCount": 6,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -57,6 +57,14 @@
           "title": "Argentina Gives Major Update on Lionel Messi’s 2026 World Cup Involvement - Sports Illustrated",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGJVS1B3eG04MkhQMHZLTTZFTVppbzlmRnFiZlZpN2F3SC1rSnkyOEFQczdwUjlURExkN1NyVXNNR3VhZE5uZTVWVm5sbEU4WDRFZEhMMEExMVVYRVh1VE1fRHVra3NNUmZFdldXZDZsVER6aXppT2xzb3cyaFJjN09vWXE2aWdZZnpEM2N0eXl2bnR0SmdmSnQtSzFEQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1779585059384",
+          "date": "2026-05-21",
+          "title": "Report: Argentina’s 2026 World Cup roster, potentially with Messi, to be revealed just before deadline - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN3NLVHYtUWNoTC1iaFQzVnF4ZHBJeFBqRy1ValhmMkxKaDJrb3JLQkd2WmRaME05Z0pCeFhpb2FnUXh1Q1NFSHp5cDdiSTQxcFVJdGcweFo5bDg4TEwxMTYxZEdEcndaZWRWalhPRGRWX000V0RvTWM3MHRMcHczckdjOElQRm1nekN3bkNpNTdsc0Q5MFc4Nkgxc1BaWVlaUUkxUFBna0I0V2JjdGh5UC1KeE9qdHRHREdLT2RPOURDRXc2WldvaUtyX28xdHot0gHQAUFVX3lxTE83c0tUdi1RY2hMLWJoVDNWcXhkcEl4UGpHLVVqWGYyTEpoMmtvcktCR3ZaZFowTTlnSkJ4WGlvYWdReHVDU0VIenlwN2JJNDFwVUl0ZzB4WjlsODhMTDExNjFkR0Ryd1plZFZqWE9EZFZfTTRXRG9NYzcwdExwdzNyR2M4SVBGbWd6Q3duQ2k1N2xzRDkwVzg2SDFzUFpZWVpRSTFQUGdrQjRXYmN0aHlQLUp4T2p0dEdER0tPZE85RENFdzZaV29pS3JfbzF0ei0?oc=5",
           "draft": true
         }
       ]
