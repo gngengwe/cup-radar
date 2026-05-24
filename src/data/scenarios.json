@@ -1,113 +1,401 @@
 {
   "_note": "Group stage scenarios based on the official December 5, 2025 draw. Update scenario status as matches are played: pending → happened | didnt.",
-  "lastUpdated": "2026-05-14T12:00:00-07:00",
+  "lastUpdated": "2026-05-24T01:11:56.413Z",
   "groups": {
     "A": {
       "summary": "Mexico as host opener vs South Africa on June 11. South Korea always dangerous. Czechia the European wildcard.",
       "scenarios": [
-        { "id": "A-01", "condition": "Mexico win their opener vs South Africa", "outcome": "Mexico control their destiny. Group A is theirs to lose.", "status": "pending", "importance": "high" },
-        { "id": "A-02", "condition": "South Africa draw or beat Mexico at the Azteca", "outcome": "Group A is suddenly wide open. Mexico in danger. One of the great shocks.", "status": "pending", "importance": "critical" },
-        { "id": "A-03", "condition": "South Korea advance from Group A", "outcome": "Korea continue their run of advancing deep into every World Cup they enter.", "status": "pending", "importance": "medium" },
-        { "id": "A-04", "condition": "Czechia eliminate Mexico", "outcome": "Host nation out in the group stage. Azteca devastated.", "status": "pending", "importance": "critical" }
+        {
+          "id": "A-01",
+          "condition": "Mexico win their opener vs South Africa",
+          "outcome": "Mexico control their destiny. Group A is theirs to lose.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "A-02",
+          "condition": "South Africa draw or beat Mexico at the Azteca",
+          "outcome": "Group A is suddenly wide open. Mexico in danger. One of the great shocks.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "A-03",
+          "condition": "South Korea advance from Group A",
+          "outcome": "Korea continue their run of advancing deep into every World Cup they enter.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "A-04",
+          "condition": "Czechia eliminate Mexico",
+          "outcome": "Host nation out in the group stage. Azteca devastated.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "B": {
       "summary": "Canada as co-hosts, Bosnia-Herzegovina in their first ever World Cup, Switzerland the dark horse, Qatar likely the weakest team.",
       "scenarios": [
-        { "id": "B-01", "condition": "Canada top Group B", "outcome": "Co-hosts in control. Canada's moment is real. Toronto erupts.", "status": "pending", "importance": "high" },
-        { "id": "B-02", "condition": "Bosnia-Herzegovina advance from Group B", "outcome": "Historic first World Cup knockout stage for Bosnia. The Balkan giant arrives.", "status": "pending", "importance": "high" },
-        { "id": "B-03", "condition": "Bosnia beat Qatar in Seattle", "outcome": "First World Cup win for Bosnia at Lumen Field. Seattle witnesses history.", "status": "pending", "importance": "high" },
-        { "id": "B-04", "condition": "Switzerland eliminate Canada", "outcome": "Co-hosts go home early. Swiss neutralize the Canadian dream.", "status": "pending", "importance": "critical" }
+        {
+          "id": "B-01",
+          "condition": "Canada top Group B",
+          "outcome": "Co-hosts in control. Canada's moment is real. Toronto erupts.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "B-02",
+          "condition": "Bosnia-Herzegovina advance from Group B",
+          "outcome": "Historic first World Cup knockout stage for Bosnia. The Balkan giant arrives.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "B-03",
+          "condition": "Bosnia beat Qatar in Seattle",
+          "outcome": "First World Cup win for Bosnia at Lumen Field. Seattle witnesses history.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "B-04",
+          "condition": "Switzerland eliminate Canada",
+          "outcome": "Co-hosts go home early. Swiss neutralize the Canadian dream.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "C": {
       "summary": "Brazil vs Morocco is a rematch of 2022's most dramatic quarter — Brazil QF exit, Morocco's historic run. Scotland return after 28 years. Haiti debut.",
       "scenarios": [
-        { "id": "C-01", "condition": "Morocco beat Brazil", "outcome": "The most stunning result of the group stage. Morocco prove 2022 was not a fluke.", "status": "pending", "importance": "critical" },
-        { "id": "C-02", "condition": "Scotland advance from Group C", "outcome": "Scotland's first World Cup knockout appearance since 1958. Nation goes wild.", "status": "pending", "importance": "critical" },
-        { "id": "C-03", "condition": "Brazil top Group C with maximum points", "outcome": "Brazil dominant and ominous. Vinicius Jr. in full form heading into the knockout.", "status": "pending", "importance": "medium" },
-        { "id": "C-04", "condition": "Haiti get a point", "outcome": "Any Haiti point is a triumph — their debut and one of the great underdog moments.", "status": "pending", "importance": "medium" }
+        {
+          "id": "C-01",
+          "condition": "Morocco beat Brazil",
+          "outcome": "The most stunning result of the group stage. Morocco prove 2022 was not a fluke.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "C-02",
+          "condition": "Scotland advance from Group C",
+          "outcome": "Scotland's first World Cup knockout appearance since 1958. Nation goes wild.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "C-03",
+          "condition": "Brazil top Group C with maximum points",
+          "outcome": "Brazil dominant and ominous. Vinicius Jr. in full form heading into the knockout.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "C-04",
+          "condition": "Haiti get a point",
+          "outcome": "Any Haiti point is a triumph — their debut and one of the great underdog moments.",
+          "status": "pending",
+          "importance": "medium"
+        }
       ]
     },
     "D": {
       "summary": "USA on home soil, Paraguay and Turkey as serious threats, Australia the Socceroos. USA play in Seattle vs Australia on June 19.",
       "scenarios": [
-        { "id": "D-01", "condition": "USA beat Australia in Seattle on June 19", "outcome": "USMNT at Lumen Field in front of a home crowd. The tournament announcement.", "status": "pending", "importance": "high" },
-        { "id": "D-02", "condition": "Türkiye eliminate USA from Group D", "outcome": "USA knocked out by Turkey. Co-host exits the group stage. Major shock.", "status": "pending", "importance": "critical" },
-        { "id": "D-03", "condition": "USA top Group D comfortably", "outcome": "Americans building real belief. The home-crowd advantage is tangible.", "status": "pending", "importance": "medium" },
-        { "id": "D-04", "condition": "Paraguay advance ahead of USA or Australia", "outcome": "South American quality in a tight group. Paraguay make a statement.", "status": "pending", "importance": "medium" }
+        {
+          "id": "D-01",
+          "condition": "USA beat Australia in Seattle on June 19",
+          "outcome": "USMNT at Lumen Field in front of a home crowd. The tournament announcement.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "D-02",
+          "condition": "Türkiye eliminate USA from Group D",
+          "outcome": "USA knocked out by Turkey. Co-host exits the group stage. Major shock.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "D-03",
+          "condition": "USA top Group D comfortably",
+          "outcome": "Americans building real belief. The home-crowd advantage is tangible.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "D-04",
+          "condition": "Paraguay advance ahead of USA or Australia",
+          "outcome": "South American quality in a tight group. Paraguay make a statement.",
+          "status": "pending",
+          "importance": "medium"
+        }
       ]
     },
     "E": {
       "summary": "Germany's redemption after 2022 group stage disgrace. Ecuador and Ivory Coast as real threats. Curaçao in their first ever World Cup.",
       "scenarios": [
-        { "id": "E-01", "condition": "Germany top Group E convincingly", "outcome": "Germany are back. Die Mannschaft look like themselves again. 2022 exorcised.", "status": "pending", "importance": "medium" },
-        { "id": "E-02", "condition": "Germany exit in the group stage again", "outcome": "Second consecutive group stage elimination. German football faces a genuine crisis.", "status": "pending", "importance": "critical" },
-        { "id": "E-03", "condition": "Ivory Coast advance from Group E", "outcome": "Africa's most technically gifted squad reaches the knockouts. Elephants roar.", "status": "pending", "importance": "high" },
-        { "id": "E-04", "condition": "Curaçao get any points in Group E", "outcome": "A genuine World Cup miracle. Island nation of 150,000 on the global stage.", "status": "pending", "importance": "high" }
+        {
+          "id": "E-01",
+          "condition": "Germany top Group E convincingly",
+          "outcome": "Germany are back. Die Mannschaft look like themselves again. 2022 exorcised.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "E-02",
+          "condition": "Germany exit in the group stage again",
+          "outcome": "Second consecutive group stage elimination. German football faces a genuine crisis.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "E-03",
+          "condition": "Ivory Coast advance from Group E",
+          "outcome": "Africa's most technically gifted squad reaches the knockouts. Elephants roar.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "E-04",
+          "condition": "Curaçao get any points in Group E",
+          "outcome": "A genuine World Cup miracle. Island nation of 150,000 on the global stage.",
+          "status": "pending",
+          "importance": "high"
+        }
       ]
     },
     "F": {
       "summary": "Netherlands vs Japan is a 2022 Round of 16 rematch — now a group stage showdown. Sweden return, Tunisia fight to advance.",
       "scenarios": [
-        { "id": "F-01", "condition": "Japan beat Netherlands in the group stage", "outcome": "Japan reverse their 2022 R16 loss in the biggest revenge match of Group F.", "status": "pending", "importance": "critical" },
-        { "id": "F-02", "condition": "Netherlands top Group F", "outcome": "Oranje in control. If De Jong and De Bruyne fire, this is a title contender.", "status": "pending", "importance": "medium" },
-        { "id": "F-03", "condition": "Sweden advance from Group F", "outcome": "Sweden rebuild pays off. Zlatan's era behind them, new generation steps up.", "status": "pending", "importance": "high" },
-        { "id": "F-04", "condition": "Japan top Group F", "outcome": "Japan once again defy expectations. Blue Samurai as genuine dark horse confirmed.", "status": "pending", "importance": "high" }
+        {
+          "id": "F-01",
+          "condition": "Japan beat Netherlands in the group stage",
+          "outcome": "Japan reverse their 2022 R16 loss in the biggest revenge match of Group F.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "F-02",
+          "condition": "Netherlands top Group F",
+          "outcome": "Oranje in control. If De Jong and De Bruyne fire, this is a title contender.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "F-03",
+          "condition": "Sweden advance from Group F",
+          "outcome": "Sweden rebuild pays off. Zlatan's era behind them, new generation steps up.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "F-04",
+          "condition": "Japan top Group F",
+          "outcome": "Japan once again defy expectations. Blue Samurai as genuine dark horse confirmed.",
+          "status": "pending",
+          "importance": "high"
+        }
       ]
     },
     "G": {
       "summary": "Two of Group G's four matches are in Seattle — Belgium vs Egypt (June 15) and Egypt vs Iran (June 26). Belgium, Egypt with Salah, Iran, New Zealand.",
       "scenarios": [
-        { "id": "G-01", "condition": "Egypt beat Belgium at Lumen Field on June 15", "outcome": "Mo Salah delivers a defining performance in Seattle. Egypt shock Belgium.", "status": "pending", "importance": "critical" },
-        { "id": "G-02", "condition": "Egypt advance from Group G", "outcome": "Egypt in the knockouts for the first time since 1990. Salah's legacy moment.", "status": "pending", "importance": "high" },
-        { "id": "G-03", "condition": "Egypt vs Iran in Seattle is a draw", "outcome": "A geopolitically charged stalemate at Lumen Field. The whole world watching June 26.", "status": "pending", "importance": "high" },
-        { "id": "G-04", "condition": "New Zealand advance from Group G", "outcome": "All Whites in the knockouts. OFC's finest ever result. Football's smallest confederation makes history.", "status": "pending", "importance": "critical" }
+        {
+          "id": "G-01",
+          "condition": "Egypt beat Belgium at Lumen Field on June 15",
+          "outcome": "Mo Salah delivers a defining performance in Seattle. Egypt shock Belgium.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "G-02",
+          "condition": "Egypt advance from Group G",
+          "outcome": "Egypt in the knockouts for the first time since 1990. Salah's legacy moment.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "G-03",
+          "condition": "Egypt vs Iran in Seattle is a draw",
+          "outcome": "A geopolitically charged stalemate at Lumen Field. The whole world watching June 26.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "G-04",
+          "condition": "New Zealand advance from Group G",
+          "outcome": "All Whites in the knockouts. OFC's finest ever result. Football's smallest confederation makes history.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "H": {
       "summary": "Spain as reigning Euro champions and strong favorites. Uruguay as CONMEBOL quality. Saudi Arabia and Cape Verde the underdogs.",
       "scenarios": [
-        { "id": "H-01", "condition": "Spain top Group H", "outcome": "Spain in dominant form — backs up Euro glory. Looking like potential champions.", "status": "pending", "importance": "medium" },
-        { "id": "H-02", "condition": "Uruguay beat Spain", "outcome": "South American power derails the reigning European champion. Massive result.", "status": "pending", "importance": "critical" },
-        { "id": "H-03", "condition": "Cape Verde advance from Group H", "outcome": "Island nation of 600,000 reaches the knockouts. The tournament's Cinderella story.", "status": "pending", "importance": "critical" },
-        { "id": "H-04", "condition": "Saudi Arabia repeat their 2022 Argentina upset on Spain or Uruguay", "outcome": "Back-to-back tournaments, back-to-back shocks. Saudi Arabia as genuine disruptor.", "status": "pending", "importance": "high" }
+        {
+          "id": "H-01",
+          "condition": "Spain top Group H",
+          "outcome": "Spain in dominant form — backs up Euro glory. Looking like potential champions.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "H-02",
+          "condition": "Uruguay beat Spain",
+          "outcome": "South American power derails the reigning European champion. Massive result.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "H-03",
+          "condition": "Cape Verde advance from Group H",
+          "outcome": "Island nation of 600,000 reaches the knockouts. The tournament's Cinderella story.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "H-04",
+          "condition": "Saudi Arabia repeat their 2022 Argentina upset on Spain or Uruguay",
+          "outcome": "Back-to-back tournaments, back-to-back shocks. Saudi Arabia as genuine disruptor.",
+          "status": "pending",
+          "importance": "high"
+        }
       ]
     },
     "I": {
       "summary": "France as favorites alongside Haaland's Norway, Senegal 2022 QF, and Iraq's historic return. The most dangerous group in the tournament.",
       "scenarios": [
-        { "id": "I-01", "condition": "Norway beat France", "outcome": "Haaland announces himself at a World Cup. Norway topple the defending runners-up.", "status": "pending", "importance": "critical" },
-        { "id": "I-02", "condition": "France top Group I", "outcome": "France in full force — Mbappé and co. on track. Les Bleus look inevitable.", "status": "pending", "importance": "medium" },
-        { "id": "I-03", "condition": "Senegal advance from Group I", "outcome": "AFCON champions prove they belong at the world's top table again.", "status": "pending", "importance": "high" },
-        { "id": "I-04", "condition": "Iraq qualify for the Round of 32", "outcome": "Iraq's first World Cup since 1986 — and they advance. One of the best stories in the tournament.", "status": "pending", "importance": "critical" }
+        {
+          "id": "I-01",
+          "condition": "Norway beat France",
+          "outcome": "Haaland announces himself at a World Cup. Norway topple the defending runners-up.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "I-02",
+          "condition": "France top Group I",
+          "outcome": "France in full force — Mbappé and co. on track. Les Bleus look inevitable.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "I-03",
+          "condition": "Senegal advance from Group I",
+          "outcome": "AFCON champions prove they belong at the world's top table again.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "I-04",
+          "condition": "Iraq qualify for the Round of 32",
+          "outcome": "Iraq's first World Cup since 1986 — and they advance. One of the best stories in the tournament.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "J": {
       "summary": "Argentina defending champions with Messi. Algeria as Africa's dark horse. Austria as European quality. Jordan's first major tournament.",
       "scenarios": [
-        { "id": "J-01", "condition": "Argentina win Group J comfortably", "outcome": "Champions cruise. Messi managing his minutes for the knockout sprint.", "status": "pending", "importance": "medium" },
-        { "id": "J-02", "condition": "Algeria eliminate Argentina from Group J", "outcome": "Defending champions out in the group stage. Messi's last World Cup ends in disaster.", "status": "pending", "importance": "critical" },
-        { "id": "J-03", "condition": "Austria advance from Group J", "outcome": "Austria's golden generation finally delivers on the biggest stage.", "status": "pending", "importance": "high" },
-        { "id": "J-04", "condition": "Jordan advance from Group J", "outcome": "Jordan's debut World Cup ends in advancement. Arab football's most shocking result since Saudi's 2022 win.", "status": "pending", "importance": "critical" }
+        {
+          "id": "J-01",
+          "condition": "Argentina win Group J comfortably",
+          "outcome": "Champions cruise. Messi managing his minutes for the knockout sprint.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "J-02",
+          "condition": "Algeria eliminate Argentina from Group J",
+          "outcome": "Defending champions out in the group stage. Messi's last World Cup ends in disaster.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "J-03",
+          "condition": "Austria advance from Group J",
+          "outcome": "Austria's golden generation finally delivers on the biggest stage.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "J-04",
+          "condition": "Jordan advance from Group J",
+          "outcome": "Jordan's debut World Cup ends in advancement. Arab football's most shocking result since Saudi's 2022 win.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "K": {
       "summary": "Portugal with Cristiano Ronaldo's potential last WC. Colombia as dark horse. Uzbekistan's remarkable qualification story. DR Congo.",
       "scenarios": [
-        { "id": "K-01", "condition": "Portugal win Group K", "outcome": "Ronaldo's final World Cup begins with command. Portugal looking dangerous.", "status": "pending", "importance": "medium" },
-        { "id": "K-02", "condition": "Colombia top Group K", "outcome": "South American quality — Colombia announce themselves as a genuine World Cup force.", "status": "pending", "importance": "high" },
-        { "id": "K-03", "condition": "Portugal exit in the group stage", "outcome": "Ronaldo's World Cup ends before it begins. Portugal's era over.", "status": "pending", "importance": "critical" },
-        { "id": "K-04", "condition": "Uzbekistan advance from Group K", "outcome": "Central Asia's first ever World Cup advancement. One of the tournament's great stories.", "status": "pending", "importance": "critical" }
+        {
+          "id": "K-01",
+          "condition": "Portugal win Group K",
+          "outcome": "Ronaldo's final World Cup begins with command. Portugal looking dangerous.",
+          "status": "pending",
+          "importance": "medium"
+        },
+        {
+          "id": "K-02",
+          "condition": "Colombia top Group K",
+          "outcome": "South American quality — Colombia announce themselves as a genuine World Cup force.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "K-03",
+          "condition": "Portugal exit in the group stage",
+          "outcome": "Ronaldo's World Cup ends before it begins. Portugal's era over.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "K-04",
+          "condition": "Uzbekistan advance from Group K",
+          "outcome": "Central Asia's first ever World Cup advancement. One of the tournament's great stories.",
+          "status": "pending",
+          "importance": "critical"
+        }
       ]
     },
     "L": {
       "summary": "England vs Croatia is a 2018 WC semifinal and Euro 2020/21 final rematch, now in the group stage. Panama and Ghana complete the group.",
       "scenarios": [
-        { "id": "L-01", "condition": "England beat Croatia in the group stage", "outcome": "England exorcise 2018 semifinal demons. Three Lions roar. It's coming home talk begins.", "status": "pending", "importance": "high" },
-        { "id": "L-02", "condition": "Croatia eliminate England from Group L", "outcome": "Modric and company do it again. England's golden generation fails once more.", "status": "pending", "importance": "critical" },
-        { "id": "L-03", "condition": "Ghana beat England", "outcome": "Ghana exact revenge for 2010. West African football at its peak.", "status": "pending", "importance": "critical" },
-        { "id": "L-04", "condition": "England top Group L", "outcome": "England in control — momentum building. A different kind of tournament for the Three Lions.", "status": "pending", "importance": "medium" }
+        {
+          "id": "L-01",
+          "condition": "England beat Croatia in the group stage",
+          "outcome": "England exorcise 2018 semifinal demons. Three Lions roar. It's coming home talk begins.",
+          "status": "pending",
+          "importance": "high"
+        },
+        {
+          "id": "L-02",
+          "condition": "Croatia eliminate England from Group L",
+          "outcome": "Modric and company do it again. England's golden generation fails once more.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "L-03",
+          "condition": "Ghana beat England",
+          "outcome": "Ghana exact revenge for 2010. West African football at its peak.",
+          "status": "pending",
+          "importance": "critical"
+        },
+        {
+          "id": "L-04",
+          "condition": "England top Group L",
+          "outcome": "England in control — momentum building. A different kind of tournament for the Three Lions.",
+          "status": "pending",
+          "importance": "medium"
+        }
       ]
     }
   }
