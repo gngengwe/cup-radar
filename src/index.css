@@ -3589,17 +3589,58 @@ td .flag-img { margin-right: 4px; }
 .admin-story-num { font-size: 12px; font-weight: 800; color: var(--text-dim); min-width: 16px; }
 
 /* ── News editor ── */
-.admin-news-list { display: flex; flex-direction: column; gap: 4px; max-height: 400px; overflow-y: auto; }
-.admin-news-item {
-  display: flex; align-items: flex-start; gap: 10px;
-  padding: 10px 14px; background: var(--bg-card); border-radius: var(--radius-sm);
-  border: 1px solid var(--border);
+.news-filter-bar { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+.news-filter-btn {
+  padding: 5px 12px; border-radius: var(--radius-sm); font-size: 12px; font-weight: 600;
+  background: var(--bg-card); border: 1px solid var(--border); color: var(--text-dim);
+  cursor: pointer; transition: all 0.15s;
 }
-.admin-news-item__cat      { font-size: 10px; font-weight: 700; text-transform: uppercase; color: var(--text-dim); min-width: 80px; padding-top: 2px; }
-.admin-news-item__headline  { font-size: 13px; color: var(--text); flex: 1; line-height: 1.4; }
-.admin-news-item__meta      { font-size: 11px; color: var(--text-dim); white-space: nowrap; }
-.admin-delete-btn { font-size: 12px; color: var(--text-dim); padding: 2px 6px; flex-shrink: 0; transition: color 0.15s; }
-.admin-delete-btn:hover { color: #f87171; }
+.news-filter-btn:hover { color: var(--text); border-color: var(--accent); }
+.news-filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.news-filter-count { font-weight: 400; opacity: 0.8; }
+
+.news-table { display: flex; flex-direction: column; gap: 0; border: 1px solid var(--border); border-radius: var(--radius-sm); overflow: hidden; }
+.news-table__head {
+  display: grid;
+  grid-template-columns: 1fr 90px 100px 90px 200px;
+  gap: 0 12px; padding: 8px 14px;
+  background: var(--bg-alt); border-bottom: 1px solid var(--border);
+  font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--text-dim);
+}
+.news-table__row {
+  display: grid;
+  grid-template-columns: 1fr 90px 100px 90px 200px;
+  gap: 0 12px; padding: 10px 14px; align-items: center;
+  border-bottom: 1px solid var(--border); background: var(--bg-card);
+  transition: background 0.1s;
+}
+.news-table__row:last-child { border-bottom: none; }
+.news-table__row:hover { background: var(--bg-alt); }
+.news-table__row--archived { opacity: 0.55; }
+
+.news-table__headline { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.news-cat     { font-size: 10px; font-weight: 700; text-transform: uppercase; color: var(--text-dim); }
+.news-headline-text { font-size: 13px; color: var(--text); line-height: 1.35; }
+.news-source  { font-size: 11px; color: var(--text-dim); }
+
+.news-table__date, .news-table__pubdate { font-size: 12px; color: var(--text-dim); }
+
+.news-status { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 99px; }
+.news-status--published { background: rgba(52,211,153,0.15); color: #34d399; }
+.news-status--held      { background: rgba(251,191, 36,0.15); color: #fbbf24; }
+.news-status--archived  { background: rgba(148,163,184,0.15); color: #94a3b8; }
+
+.news-table__actions { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.news-action-btn { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: var(--radius-sm); border: 1px solid transparent; cursor: pointer; transition: all 0.15s; }
+.news-action-btn--publish { background: rgba(52,211,153,0.15); color: #34d399; border-color: rgba(52,211,153,0.3); }
+.news-action-btn--publish:hover { background: rgba(52,211,153,0.3); }
+.news-action-btn--archive { background: var(--bg-alt); color: var(--text-dim); border-color: var(--border); }
+.news-action-btn--archive:hover { color: var(--text); }
+.news-action-btn--delete  { background: rgba(248,113,113,0.1); color: #f87171; border-color: rgba(248,113,113,0.25); }
+.news-action-btn--delete:hover  { background: rgba(248,113,113,0.22); }
+.news-action-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.news-empty { font-size: 13px; color: var(--text-dim); padding: 20px 0; text-align: center; }
 
 /* ── Match score updater ── */
 .admin-match-list    { display: flex; flex-direction: column; gap: 8px; }
