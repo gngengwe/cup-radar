@@ -3516,7 +3516,8 @@ td .flag-img { margin-right: 4px; }
 .admin-tab.active { border-bottom-color: var(--accent); background: var(--accent-soft); }
 .admin-tab__icon  { font-size: 18px; }
 .admin-tab__label { font-size: 13px; font-weight: 700; color: var(--text); }
-.admin-tab__desc  { font-size: 10px; color: var(--text-dim); }
+.admin-tab__desc    { font-size: 10px; color: var(--text-dim); }
+.admin-tab__updated { font-size: 9px; color: var(--text-dim); opacity: 0.7; margin-top: 1px; }
 .admin-tab.active .admin-tab__label { color: var(--accent); }
 
 .admin-content { flex: 1; padding: 28px 28px; max-width: 900px; width: 100%; }

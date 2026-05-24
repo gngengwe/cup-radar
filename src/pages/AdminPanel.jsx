@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { verifyToken, getLatestCommit } from '../utils/github';
+import { verifyToken, getLatestCommit, fetchFile } from '../utils/github';
+import { relativeTime } from '../utils/time';
 import AlertsEditor      from '../admin/AlertsEditor';
 import NewsEditor        from '../admin/NewsEditor';
 import MatchScoreUpdater from '../admin/MatchScoreUpdater';
@@ -11,14 +12,14 @@ import UpsetEditor       from '../admin/UpsetEditor';
 import RefreshPanel      from '../admin/RefreshPanel';
 
 const TABS = [
-  { id: 'alerts',     icon: '⚡', label: 'Alerts',     desc: 'Daily update'     },
-  { id: 'scores',     icon: '⚽', label: 'Scores',     desc: 'Match results'    },
-  { id: 'news',       icon: '📰', label: 'News',       desc: 'Add article'      },
-  { id: 'scenarios',  icon: '🎯', label: 'Scenarios',  desc: 'Mark outcomes'    },
-  { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Chapters/status'  },
-  { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Teams/results'    },
-  { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Happened/didn\'t' },
-  { id: 'refresh',    icon: '🌐', label: 'Refresh',    desc: 'Crawl & sync'     },
+  { id: 'alerts',     icon: '⚡', label: 'Alerts',     desc: 'Daily update',    file: 'src/data/alerts.json'     },
+  { id: 'scores',     icon: '⚽', label: 'Scores',     desc: 'Match results',   file: 'src/data/matches.json'    },
+  { id: 'news',       icon: '📰', label: 'News',       desc: 'Add article',     file: 'src/data/news.json'       },
+  { id: 'scenarios',  icon: '🎯', label: 'Scenarios',  desc: 'Mark outcomes',   file: 'src/data/scenarios.json'  },
+  { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Chapters/status', file: 'src/data/narratives.json' },
+  { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Teams/results',   file: 'src/data/bracket.json'    },
+  { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Happened/didn\'t',file: 'src/data/upsets.json'     },
+  { id: 'refresh',    icon: '🌐', label: 'Refresh',    desc: 'Crawl & sync',    file: null                       },
 ];
 
 // ─── Login screen ───────────────────────────────────────────────────────────
@@ -85,13 +86,24 @@ function LoginScreen({ onLogin }) {
 
 // ─── Main admin panel ────────────────────────────────────────────────────────
 export default function AdminPanel() {
-  const [token,  setToken]  = useState(() => sessionStorage.getItem('cr_admin_token') || '');
-  const [tab,    setTab]    = useState('alerts');
-  const [commit, setCommit] = useState(null);
+  const [token,      setToken]      = useState(() => sessionStorage.getItem('cr_admin_token') || '');
+  const [tab,        setTab]        = useState('alerts');
+  const [commit,     setCommit]     = useState(null);
+  const [lastUpdated, setLastUpdated] = useState({});
 
   useEffect(() => {
     if (!token) return;
     getLatestCommit(token).then(c => setCommit(c)).catch(() => {});
+
+    // Fetch lastUpdated from all data files in parallel
+    const tabsWithFiles = TABS.filter(t => t.file);
+    Promise.allSettled(
+      tabsWithFiles.map(t => fetchFile(token, t.file).then(({ content }) => ({ id: t.id, ts: content.lastUpdated })))
+    ).then(results => {
+      const map = {};
+      results.forEach(r => { if (r.status === 'fulfilled') map[r.value.id] = r.value.ts; });
+      setLastUpdated(map);
+    });
   }, [token]);
 
   const logout = () => {
@@ -130,6 +142,9 @@ export default function AdminPanel() {
             <span className="admin-tab__icon">{t.icon}</span>
             <span className="admin-tab__label">{t.label}</span>
             <span className="admin-tab__desc">{t.desc}</span>
+            {lastUpdated[t.id] && (
+              <span className="admin-tab__updated">{relativeTime(lastUpdated[t.id])}</span>
+            )}
           </button>
         ))}
       </div>
