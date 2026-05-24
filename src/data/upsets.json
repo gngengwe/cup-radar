@@ -1,13 +1,19 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-05-14T12:00:00-07:00",
+  "lastUpdated": "2026-05-24T01:12:21.170Z",
   "upsets": [
     {
       "id": "ups-001",
       "title": "South Africa shock Mexico at the Azteca",
       "matchId": "wc26-001",
-      "teams": ["RSA", "MEX"],
-      "teamFlags": ["🇿🇦", "🇲🇽"],
+      "teams": [
+        "RSA",
+        "MEX"
+      ],
+      "teamFlags": [
+        "🇿🇦",
+        "🇲🇽"
+      ],
       "stage": "Group Stage — Group A",
       "date": "2026-06-11",
       "riskScore": 4,
@@ -26,8 +32,14 @@
       "id": "ups-002",
       "title": "Egypt beat Belgium at Lumen Field",
       "matchId": "wc26-sea-01",
-      "teams": ["EGY", "BEL"],
-      "teamFlags": ["🇪🇬", "🇧🇪"],
+      "teams": [
+        "EGY",
+        "BEL"
+      ],
+      "teamFlags": [
+        "🇪🇬",
+        "🇧🇪"
+      ],
       "stage": "Group Stage — Group G (Seattle, June 15)",
       "date": "2026-06-15",
       "riskScore": 4,
@@ -46,8 +58,14 @@
       "id": "ups-003",
       "title": "Morocco beat Brazil in Group C",
       "matchId": null,
-      "teams": ["MAR", "BRA"],
-      "teamFlags": ["🇲🇦", "🇧🇷"],
+      "teams": [
+        "MAR",
+        "BRA"
+      ],
+      "teamFlags": [
+        "🇲🇦",
+        "🇧🇷"
+      ],
       "stage": "Group Stage — Group C",
       "date": null,
       "riskScore": 3,
@@ -66,8 +84,14 @@
       "id": "ups-004",
       "title": "Scotland cause chaos in Group C",
       "matchId": null,
-      "teams": ["SCO", "BRA"],
-      "teamFlags": ["🏴󠁧󠁢󠁳󠁣󠁴󠁿", "🇧🇷"],
+      "teams": [
+        "SCO",
+        "BRA"
+      ],
+      "teamFlags": [
+        "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "🇧🇷"
+      ],
       "stage": "Group Stage — Group C",
       "date": null,
       "riskScore": 3,
@@ -86,8 +110,14 @@
       "id": "ups-005",
       "title": "Norway eliminate France from Group I",
       "matchId": null,
-      "teams": ["NOR", "FRA"],
-      "teamFlags": ["🇳🇴", "🇫🇷"],
+      "teams": [
+        "NOR",
+        "FRA"
+      ],
+      "teamFlags": [
+        "🇳🇴",
+        "🇫🇷"
+      ],
       "stage": "Group Stage — Group I",
       "date": null,
       "riskScore": 4,
@@ -106,8 +136,14 @@
       "id": "ups-006",
       "title": "Algeria eliminate defending champions Argentina",
       "matchId": null,
-      "teams": ["ALG", "ARG"],
-      "teamFlags": ["🇩🇿", "🇦🇷"],
+      "teams": [
+        "ALG",
+        "ARG"
+      ],
+      "teamFlags": [
+        "🇩🇿",
+        "🇦🇷"
+      ],
       "stage": "Group Stage — Group J",
       "date": null,
       "riskScore": 3,
@@ -126,8 +162,14 @@
       "id": "ups-007",
       "title": "Egypt vs Iran in Seattle — a draw that sends Iran through",
       "matchId": "wc26-sea-04",
-      "teams": ["EGY", "IRN"],
-      "teamFlags": ["🇪🇬", "🇮🇷"],
+      "teams": [
+        "EGY",
+        "IRN"
+      ],
+      "teamFlags": [
+        "🇪🇬",
+        "🇮🇷"
+      ],
       "stage": "Group Stage — Group G (Seattle, June 26)",
       "date": "2026-06-26",
       "riskScore": 3,
@@ -146,8 +188,14 @@
       "id": "ups-008",
       "title": "Curaçao stun Ivory Coast in their World Cup debut",
       "matchId": null,
-      "teams": ["CUW", "CIV"],
-      "teamFlags": ["🇨🇼", "🇨🇮"],
+      "teams": [
+        "CUW",
+        "CIV"
+      ],
+      "teamFlags": [
+        "🇨🇼",
+        "🇨🇮"
+      ],
       "stage": "Group Stage — Group E",
       "date": null,
       "riskScore": 2,
