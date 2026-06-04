@@ -19,7 +19,7 @@ export default function Navbar() {
           </a>
           <div className="navbar__actions">
             <Link to="/how-it-works" className="navbar__tag navbar__hiw-link">How it works</Link>
-            <span className="navbar__tag">WC 2026 · Seattle · Kansas City</span>
+            <span className="navbar__tag">WC 2026 · 5 US Cities</span>
             <a href="/#choose-city" className="btn btn-primary navbar__cta">
               Choose your city
             </a>

@@ -15,8 +15,7 @@ export default function FounderClose() {
         <p className="founder-launch">{PRODUCT.NAME} — launching before kickoff.</p>
 
         <div className="founder-ctas">
-          <a href="/seattle/hq"    className="btn btn-primary">Open Seattle HQ</a>
-          <a href="/kansascity/hq" className="btn btn-secondary">Open Kansas City HQ</a>
+          <a href="/#choose-city" className="btn btn-primary">Choose your city</a>
         </div>
       </div>
     </section>

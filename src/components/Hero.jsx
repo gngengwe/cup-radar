@@ -39,7 +39,7 @@ export default function Hero() {
       <div className="container">
         <div className="hero__badge-row fade-up fade-up-1">
           <span className="badge badge--accent badge--dot">World Cup 2026</span>
-          <span className="badge">Seattle · Kansas City</span>
+          <span className="badge">5 US Host Cities</span>
           <span className="badge">Jun 11 – Jul 19</span>
         </div>
 
@@ -50,12 +50,12 @@ export default function Hero() {
 
         <p className="hero__sub fade-up fade-up-3">
           Matches, moments, tickets, and city energy — all in one place.
-          Seattle and Kansas City, built for fans who want signal, not noise.
+          Seattle · Kansas City · Miami · New York · Philadelphia.
         </p>
 
         <div className="hero__ctas fade-up fade-up-4">
-          <a href="/seattle/hq"     className="btn btn-primary">Open Seattle HQ</a>
-          <a href="/kansascity/hq"  className="btn btn-secondary">Open Kansas City HQ</a>
+          <a href="/#choose-city" className="btn btn-primary">Choose your city</a>
+          <a href="/seattle/hq"   className="btn btn-secondary">Open Seattle HQ</a>
         </div>
 
         <div className="fade-up fade-up-5">

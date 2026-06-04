@@ -49,9 +49,12 @@ const SECTIONS = [
     desc: 'The 32-team elimination bracket. Round of 32 through the Final. Teams populate as the group stage concludes.',
     bullets: [
       'Tabs for each round: R32 · R16 · QF · SF · Final',
-      'Seattle and KC knockout matches highlighted',
-      'Seattle hosts R32 (July 1) and R16 (July 6)',
-      'Kansas City hosts R32 (July 3) and Quarterfinal (July 11)',
+      'Your city\'s knockout matches highlighted',
+      'Seattle: R32 (Jul 1) · R16 (Jul 6)',
+      'Kansas City: R32 (Jul 3) · QF (Jul 11)',
+      'Miami: R16 (Jul 7)',
+      'New York: R32 (Jul 2) · R16 (Jul 4) · SF (Jul 14)',
+      'Philadelphia: QF (Jul 12) · SF (Jul 15)',
     ],
   },
   {
@@ -74,8 +77,11 @@ const SECTIONS = [
     name: 'City Jump',
     desc: 'Compare opportunistic trips to other World Cup host cities, scored from your city\'s perspective — travel ease, match quality, ticket access, and city energy.',
     bullets: [
-      'Seattle perspective: Vancouver, LA, Bay Area, Dallas, Mexico City, Toronto',
-      'Kansas City perspective: Dallas, Houston, Mexico City, LA, Seattle, Vancouver',
+      'Seattle: Vancouver, LA, Bay Area, Dallas, Mexico City, Toronto',
+      'Kansas City: Dallas, Houston, Mexico City, LA, Seattle, Vancouver',
+      'Miami: Mexico City, Dallas, Houston, Atlanta, Toronto',
+      'New York: Toronto, Boston, Philadelphia, Mexico City, Montreal',
+      'Philadelphia: New York, DC, Boston, Toronto, Mexico City',
       'Sort by any factor: overall, match quality, ticket access, travel ease',
       'Expand each city for flight time, hotel notes, and "best for" summary',
     ],
@@ -88,6 +94,9 @@ const SECTIONS = [
     bullets: [
       'Seattle: SoDo · Pioneer Square · Capitol Hill · International District · Downtown · Fremont',
       'Kansas City: Power & Light · Westport · Joe\'s KC BBQ · Arrowhead tailgate',
+      'Miami: Wynwood · Brickell · South Beach · Design District',
+      'New York: Midtown · Hell\'s Kitchen · East Rutherford · Hoboken',
+      'Philadelphia: South Philly · Old City · Rittenhouse Square · Passyunk',
       'Filter by walking distance, transit reach, or outdoor options',
       'Each neighborhood: spots, tips, crowd forecast, and transit advice',
     ],
@@ -98,7 +107,7 @@ const SECTIONS = [
     name: 'Newsroom',
     desc: 'Manually curated tournament news. No scraping — signal over noise. Updated regularly with stories worth reading.',
     bullets: [
-      'Categories: tournament · seattle · tickets · teams · travel · culture',
+      'Categories: tournament · your city · tickets · teams · travel · culture',
       'Relative timestamps ("2 days ago" vs static dates)',
       'Featured articles pinned above the fold',
     ],
@@ -145,7 +154,7 @@ const SECTIONS = [
     desc: 'Data editor — no command line needed',
     bullets: [
       'Access at wc.ngengwe.com/admin — login with a GitHub Personal Access Token',
-      'Alerts tab: set tournament phase, city energy score, Seattle alert, top 3 stories',
+      'Alerts tab: set tournament phase, city energy score, alerts, top 3 stories',
       'Scores tab: mark matches live, then record the final score at full time',
       'News tab: publish new articles or delete old ones by category',
       'Scenarios tab: flip group stage scenarios between Pending / Happened / Didn\'t happen',
@@ -168,11 +177,11 @@ const FAQ = [
   },
   {
     q: 'How often is the data updated?',
-    a: 'During the tournament, match scores and standings update automatically if a live API key is configured. News, ticket intelligence, and Seattle/KC event data are updated manually on a rolling basis. The "updated" timestamp on each section shows when data was last refreshed.',
+    a: 'During the tournament, match scores and standings update automatically if a live API key is configured. News, ticket intelligence, and city event data are updated manually on a rolling basis. The "updated" timestamp on each section shows when data was last refreshed.',
   },
   {
-    q: 'Can I switch between Seattle and Kansas City?',
-    a: 'Yes — use "Switch city" in the dashboard sidebar, or return to the homepage. Both cities have identical dashboard structures with city-specific data.',
+    q: 'Can I switch between cities?',
+    a: 'Yes — use the city switcher in the dashboard sidebar to toggle between Seattle, Kansas City, Miami, New York, and Philadelphia. All five cities share the same dashboard structure with city-specific data.',
   },
   {
     q: 'What\'s the "Should I Go?" score?',
@@ -187,8 +196,8 @@ const FAQ = [
     a: 'Yes. In the City HQ section, each match card has "+ Google Cal" and "+ iCal" buttons. There\'s also an "Add all matches to calendar" button at the top of the match schedule.',
   },
   {
-    q: 'Will Cup Radar cover other host cities?',
-    a: 'Seattle and Kansas City are the current HQ cities. City Jump lets you compare trips to 7+ other host cities from either home base. Additional full HQ cities may be added.',
+    q: 'Which host cities does Cup Radar cover?',
+    a: 'Cup Radar covers all 5 US host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, and Philadelphia. City Jump lets you compare opportunistic trips to other host cities (Vancouver, LA, Dallas, Mexico City, Toronto) from any home base.',
   },
   {
     q: 'How is the data kept up to date?',
@@ -214,24 +223,25 @@ export default function HowItWorks() {
           <span className="section-label">How it works</span>
           <h1 className="hiw-title">Cup Radar explained.</h1>
           <p className="hiw-subtitle">
-            Cup Radar is a World Cup 2026 intelligence dashboard built for fans in Seattle and Kansas City.
+            Cup Radar is a World Cup 2026 intelligence dashboard built for fans across all 5 US host cities —
+            Seattle, Kansas City, Miami, New York, and Philadelphia.
             It organizes matches, tickets, city logistics, and tournament stories into one daily command center —
             rooted in your home city, aware of everything else.
           </p>
           <div className="hiw-ctas">
-            <Link to="/seattle/hq"    className="btn btn-primary">Open Seattle HQ</Link>
-            <Link to="/kansascity/hq" className="btn btn-secondary">Open Kansas City HQ</Link>
+            <a href="/#choose-city" className="btn btn-primary">Choose your city</a>
+            <Link to="/seattle/hq"  className="btn btn-secondary">Open Seattle HQ</Link>
           </div>
         </div>
 
-        {/* ── Two-city model ── */}
+        {/* ── Five-city model ── */}
         <section className="hiw-section">
-          <h2 className="hiw-section-title">Two cities. One engine.</h2>
+          <h2 className="hiw-section-title">Five cities. One engine.</h2>
           <p className="hiw-section-body">
-            Cup Radar is structured around your home city. Choose Seattle or Kansas City on the landing page —
+            Cup Radar is structured around your home city. Choose any of the 5 US host cities on the landing page —
             your City HQ, Watch Guide, City Jump, and Ticket Radar all adjust to your perspective.
             Shared sections (Match Tracker, Groups, Bracket, Newsroom, Culture, Narratives, Upsets)
-            are the same for both cities but default-filter to your city where relevant.
+            cover the full tournament but default-filter to your city where relevant.
           </p>
           <div className="hiw-city-pills">
             <div className="hiw-city-pill seattle">
@@ -245,7 +255,28 @@ export default function HowItWorks() {
               <span>🏈</span>
               <div>
                 <div className="hiw-city-pill__name">Kansas City</div>
-                <div className="hiw-city-pill__detail">6 matches · Jun 16–Jul 11 · Kansas City Stadium · QF</div>
+                <div className="hiw-city-pill__detail">6 matches · Jun 16–Jul 11 · KC Stadium · QF</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill miami">
+              <span>🌴</span>
+              <div>
+                <div className="hiw-city-pill__name">Miami</div>
+                <div className="hiw-city-pill__detail">4 matches · Jun 18–Jul 7 · Hard Rock Stadium · R16</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill newyork">
+              <span>🗽</span>
+              <div>
+                <div className="hiw-city-pill__name">New York</div>
+                <div className="hiw-city-pill__detail">8 matches · Jun 14–Jul 15 · MetLife Stadium · SF</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill philly">
+              <span>🦅</span>
+              <div>
+                <div className="hiw-city-pill__name">Philadelphia</div>
+                <div className="hiw-city-pill__detail">3 matches · Jun 17–Jul 15 · Lincoln Financial · SF</div>
               </div>
             </div>
           </div>
@@ -304,7 +335,7 @@ export default function HowItWorks() {
               <div className="hiw-data-card__icon">🗓️</div>
               <div className="hiw-data-card__title">Calendar export</div>
               <p className="hiw-data-card__body">
-                All Seattle and Kansas City matches can be exported to Google Calendar or Apple Calendar
+                All matches for your city can be exported to Google Calendar or Apple Calendar
                 directly from the City HQ section. Match times are converted from local venue timezone
                 to UTC for accurate calendar entries.
               </p>

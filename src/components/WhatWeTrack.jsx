@@ -15,9 +15,9 @@ const MODULES = [
     body: 'All 12 groups, standings, and advancement scenarios across the entire tournament.',
   },
   {
-    icon: '🏟️',
-    title: 'Seattle HQ',
-    body: 'Your deepest local layer: matchday logistics, fan zones, transit, food, and city energy.',
+    icon: '🏙️',
+    title: 'City HQ',
+    body: 'Your deepest local layer: matchday logistics, fan zones, transit, and city energy — for all 5 host cities.',
   },
   {
     icon: '🎫',

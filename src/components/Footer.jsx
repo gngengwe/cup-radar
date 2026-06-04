@@ -10,8 +10,11 @@ export default function Footer() {
           <div className="footer__top-row">
             <div className="footer__logo">Cup<span>Radar</span></div>
             <nav className="footer__links" aria-label="Footer navigation">
-              <Link to="/seattle/hq"    className="footer__link">Seattle HQ</Link>
-              <Link to="/kansascity/hq" className="footer__link">Kansas City HQ</Link>
+              <Link to="/seattle/hq"    className="footer__link">🏟️ Seattle</Link>
+              <Link to="/kansascity/hq" className="footer__link">🏈 Kansas City</Link>
+              <Link to="/miami/hq"      className="footer__link">🌴 Miami</Link>
+              <Link to="/newyork/hq"    className="footer__link">🗽 New York</Link>
+              <Link to="/philly/hq"     className="footer__link">🦅 Philadelphia</Link>
               <Link to="/how-it-works"  className="footer__link">How it works</Link>
             </nav>
           </div>

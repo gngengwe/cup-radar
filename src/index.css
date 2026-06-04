@@ -2974,8 +2974,11 @@ td .flag-img { margin-right: 4px; }
   background: var(--bg-card);
   font-size: 14px;
 }
-.hiw-city-pill.seattle { border-color: var(--border-accent); }
-.hiw-city-pill.kc      { border-color: rgba(192,132,252,0.3); }
+.hiw-city-pill.seattle  { border-color: var(--border-accent); }
+.hiw-city-pill.kc       { border-color: rgba(192,132,252,0.3); }
+.hiw-city-pill.miami    { border-color: rgba(244, 63, 94, 0.3); }
+.hiw-city-pill.newyork  { border-color: rgba(59, 130, 246, 0.3); }
+.hiw-city-pill.philly   { border-color: rgba(16, 185, 129, 0.3); }
 .hiw-city-pill span    { font-size: 24px; }
 .hiw-city-pill__name   { font-size: 16px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 2px; }
 .hiw-city-pill__detail { font-size: 12px; color: var(--text-muted); }
