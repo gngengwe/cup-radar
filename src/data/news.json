@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-05-24T01:08:22.513Z",
+  "lastUpdated": "2026-06-04T23:31:09.048Z",
   "articles": [
     {
       "id": "news-auto-iran-move-world-cup-base-from-us-to-mexi-2026-05-23",
@@ -11,7 +11,8 @@
       "date": "2026-05-23",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN09sVjI4X2tEaWZPU2RfVGw0R1FraDFnUHZ3U2lud0JuajNNQnlHZ0RFMGpCT2dzMmhxMEpHZ2s5Slg4aG5OUTVERTlXN3NpbW5sb1JNbGdzUEplNmhrU3VULWtNbzViU1VDcXBKbkp4V1dTeWhTcVZWX2JJVGpjeXJHWVlqM0NDT3RYLXRFVTRZQmxNdkVTakFTTzdBejJWWkFNTWt4TdIBrAFBVV95cUxOS0tzZ2ZFVjBpQkVQVkEzZlVkSURQUmRBQ3l1T0NubEowbmllbXF3Z2FKVVZIekVhR3BoVi1za29qQWZrcXdzTlpsdHNxOUhENkRaRFBsaE5PamN4XzdRWWJkbFkxMEE5ckZMWlBfSVVOVmNNY1ZYZ3laOTRrQmFleWdKazJEN19mZDBxaFI5UFl0a0ZnVVFPaWxLVXhzRDJHRGk4TXIzMlZEVUtp?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-04T23:31:09.048Z"
     },
     {
       "id": "news-auto-iran-granted-permission-by-fifa-to-move--2026-05-23",
