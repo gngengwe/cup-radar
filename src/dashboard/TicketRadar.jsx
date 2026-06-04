@@ -2,7 +2,9 @@ import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ticketData from '../data/tickets.json';
 import { relativeTime } from '../utils/time';
-import { getCityMeta, isHomeMatch } from '../utils/cityConfig';
+import { getCityMeta, isHomeMatch, CITY_META } from '../utils/cityConfig';
+
+const CITY_TAGS = Object.entries(CITY_META).map(([id, m]) => ({ id, short: m.short, flag: m.matchFlag }));
 
 const ACTION_CONFIG = {
   move:  { label: 'MOVE',  color: '#041208', bg: 'var(--accent)' },
@@ -18,12 +20,13 @@ const AVAIL_CONFIG = {
 };
 
 function TicketCard({ ticket }) {
-  const action = ACTION_CONFIG[ticket.action] || ACTION_CONFIG.wait;
-  const avail  = AVAIL_CONFIG[ticket.availability] || AVAIL_CONFIG.available;
-  const stars  = ticket.opportunityScore;
+  const action  = ACTION_CONFIG[ticket.action] || ACTION_CONFIG.wait;
+  const avail   = AVAIL_CONFIG[ticket.availability] || AVAIL_CONFIG.available;
+  const stars   = ticket.opportunityScore;
+  const cityTag = CITY_TAGS.find(t => ticket[t.flag]);
 
   return (
-    <div className={`ticket-card${ticket.seattleMatch ? ' seattle' : ''}${ticket.kcMatch ? ' kc' : ''}`}>
+    <div className={`ticket-card${cityTag ? ` ${cityTag.id}` : ''}`}>
       <div className="ticket-card__top">
         <span className="ticket-card__action" style={{ background: action.bg, color: action.color }}>
           {action.label}
@@ -31,8 +34,7 @@ function TicketCard({ ticket }) {
         <span className="ticket-card__avail" style={{ color: avail.color }}>
           ● {avail.label}
         </span>
-        {ticket.seattleMatch && <span className="ticket-card__seattle-tag">SEA</span>}
-        {ticket.kcMatch && <span className="ticket-card__kc-tag">KC</span>}
+        {cityTag && <span className="ticket-card__city-tag">{cityTag.short}</span>}
       </div>
 
       <div className="ticket-card__match">{ticket.match}</div>

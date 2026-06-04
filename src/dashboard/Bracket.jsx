@@ -1,6 +1,17 @@
 import { useState } from 'react';
+import { useParams } from 'react-router-dom';
 import bracketData from '../data/bracket.json';
 import FlagImg from '../components/FlagImg';
+import { getCityMeta } from '../utils/cityConfig';
+
+const BRACKET_CITY_NAMES = {
+  'Seattle':               'seattle',
+  'Kansas City':           'kansascity',
+  'Miami':                 'miami',
+  'New York':              'newyork',
+  'New York / New Jersey': 'newyork',
+  'Philadelphia':          'philly',
+};
 
 const STATUS_CONFIG = {
   upcoming: { label: 'Upcoming', color: 'var(--text-dim)' },
@@ -8,14 +19,16 @@ const STATUS_CONFIG = {
   finished: { label: 'FT',       color: 'var(--text-muted)' },
 };
 
-function BracketMatch({ match }) {
-  const cfg     = STATUS_CONFIG[match.status] || STATUS_CONFIG.upcoming;
-  const isDone  = match.status === 'finished';
-  const isLive  = match.status === 'live';
-  const isTbd   = match.home === 'TBD' && match.away === 'TBD';
+function BracketMatch({ match, city }) {
+  const cfg      = STATUS_CONFIG[match.status] || STATUS_CONFIG.upcoming;
+  const isDone   = match.status === 'finished';
+  const isLive   = match.status === 'live';
+  const isTbd    = match.home === 'TBD' && match.away === 'TBD';
+  const isHome   = BRACKET_CITY_NAMES[match.city] === city;
+  const cityMeta = getCityMeta(city);
 
   return (
-    <div className={`bracket-match${match.seattleMatch ? ' seattle' : ''}${isLive ? ' live' : ''}${isTbd ? ' tbd' : ''}`}>
+    <div className={`bracket-match${isHome ? ` ${city}` : ''}${isLive ? ' live' : ''}${isTbd ? ' tbd' : ''}`}>
       {match.label && <div className="bracket-match__label">{match.label}</div>}
 
       <div className="bracket-match__row">
@@ -41,13 +54,13 @@ function BracketMatch({ match }) {
       <div className="bracket-match__footer">
         <span className="bracket-match__city">{match.city !== 'TBD' ? match.city : ''}</span>
         <span className="bracket-match__status" style={{ color: cfg.color }}>{cfg.label}</span>
-        {match.seattleMatch && <span className="match-row__seattle-tag">SEA</span>}
+        {isHome && <span className="match-row__city-tag">{cityMeta.short}</span>}
       </div>
     </div>
   );
 }
 
-function RoundGrid({ round }) {
+function RoundGrid({ round, city }) {
   return (
     <div className="bracket-round">
       <div className="bracket-round__header">
@@ -55,7 +68,7 @@ function RoundGrid({ round }) {
         <span className="bracket-round__dates">{round.dates}</span>
       </div>
       <div className={`bracket-matches-grid ${round.id}`}>
-        {round.matches.map(m => <BracketMatch key={m.id} match={m} />)}
+        {round.matches.map(m => <BracketMatch key={m.id} match={m} city={city} />)}
       </div>
     </div>
   );
@@ -64,6 +77,8 @@ function RoundGrid({ round }) {
 export default function Bracket() {
   const { rounds, lastUpdated } = bracketData;
   const [activeRound, setActiveRound] = useState('r32');
+  const { city = 'seattle' } = useParams();
+  const cityMeta = getCityMeta(city);
 
   const current = rounds.find(r => r.id === activeRound) || rounds[0];
 
@@ -71,8 +86,8 @@ export default function Bracket() {
     month: 'short', day: 'numeric', year: 'numeric',
   });
 
-  // Count Seattle matches across all rounds
-  const seattleKO = rounds.flatMap(r => r.matches).filter(m => m.seattleMatch).length;
+  const homeKO = rounds.flatMap(r => r.matches)
+    .filter(m => BRACKET_CITY_NAMES[m.city] === city).length;
 
   return (
     <div>
@@ -82,8 +97,11 @@ export default function Bracket() {
       </div>
 
       <p className="dash-sub-desc" style={{ marginBottom: 20 }}>
-        32 teams advance from group stage. Seattle hosts {seattleKO} knockout match{seattleKO !== 1 ? 'es' : ''}.
-        Teams populate as group stage concludes.
+        32 teams advance from group stage.
+        {homeKO > 0
+          ? ` ${cityMeta.label} hosts ${homeKO} knockout match${homeKO !== 1 ? 'es' : ''}.`
+          : ` No confirmed knockout matches in ${cityMeta.label} yet.`}
+        {' '}Teams populate as group stage concludes.
       </p>
 
       {/* ── Round tabs ── */}
@@ -100,11 +118,11 @@ export default function Bracket() {
         ))}
       </div>
 
-      <RoundGrid round={current} />
+      <RoundGrid round={current} city={city} />
 
       <p className="dash-disclaimer">
         Bracket structure is based on FIFA 2026 tournament format. Match assignments and city venues
-        are subject to change. Seattle knockout matches are approximate — verify with official FIFA sources.
+        are subject to change. Knockout venue assignments are approximate — verify with official FIFA sources.
         Cup Radar is not affiliated with FIFA.
       </p>
     </div>

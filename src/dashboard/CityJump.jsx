@@ -3,6 +3,13 @@ import { useParams } from 'react-router-dom';
 import seattleCitiesData from '../data/cities.json';
 import kcCitiesData      from '../data/kc-cities.json';
 import FlagImg from '../components/FlagImg';
+import { getCityMeta } from '../utils/cityConfig';
+
+const CITY_DATA = {
+  seattle:    seattleCitiesData,
+  kansascity: kcCitiesData,
+};
+const CITIES_WITH_DATA = new Set(Object.keys(CITY_DATA));
 
 const SCORE_LABELS = {
   matchQuality: 'Match Quality',
@@ -48,7 +55,7 @@ function CityCard({ city, expanded, onToggle }) {
           </div>
         </div>
         <div className="city-jump-card__flight">
-          ✈️ {city.flightFromSEA} · {city.matches} matches · {city.stages.join(', ')}
+          ✈️ {city.flightFromSEA || city.flightTime || 'Flight TBD'} · {city.matches} matches · {city.stages.join(', ')}
         </div>
       </div>
 
@@ -80,9 +87,28 @@ export default function CityJump() {
   const [expanded, setExpanded] = useState(null);
   const [sortBy, setSortBy]     = useState('overall');
   const { city = 'seattle' }    = useParams();
+  const cityMeta = getCityMeta(city);
 
-  const data    = city === 'kansascity' ? kcCitiesData : seattleCitiesData;
-  const homeCity = city === 'kansascity' ? 'Kansas City' : 'Seattle';
+  if (!CITIES_WITH_DATA.has(city)) {
+    return (
+      <div>
+        <div className="dash-section-header">
+          <h2 className="dash-section-title">City Jump</h2>
+        </div>
+        <div className="empty-state" style={{ padding: '48px 24px', textAlign: 'center' }}>
+          <div style={{ fontSize: 40, marginBottom: 12 }}>✈️</div>
+          <div style={{ fontSize: 18, fontWeight: 700, marginBottom: 8 }}>Coming soon for {cityMeta.label}</div>
+          <p style={{ color: 'var(--text-muted)', maxWidth: 420, margin: '0 auto' }}>
+            Trip comparison scores for departures from {cityMeta.label} are being sourced.
+            Seattle and Kansas City perspectives are available now.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  const data     = CITY_DATA[city];
+  const homeCity = cityMeta.label;
 
   const { cities, lastUpdated } = data;
   const sorted = [...cities].sort((a, b) => (b.scores[sortBy] || 0) - (a.scores[sortBy] || 0));

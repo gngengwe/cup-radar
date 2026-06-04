@@ -292,7 +292,7 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
       <div className="dash-sub-section">
         <h3 className="dash-sub-heading">Ticket Watch</h3>
         <p className="dash-sub-desc">{cityData.cityName} match inventory is limited. Monitor early.</p>
-        <Link to="/dashboard/tickets" className="btn btn-primary" style={{ display: 'inline-flex' }}>
+        <Link to={`/${cityId}/tickets`} className="btn btn-primary" style={{ display: 'inline-flex' }}>
           Open Ticket Radar →
         </Link>
       </div>

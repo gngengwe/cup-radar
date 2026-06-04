@@ -1,10 +1,11 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { useTodayMatches } from '../hooks/useMatches';
 import alerts     from '../data/alerts.json';
 import ticketData from '../data/tickets.json';
 import matchData  from '../data/matches.json';
 import FlagImg from '../components/FlagImg';
+import { getCityMeta, isHomeMatch } from '../utils/cityConfig';
 
 const KICKOFF = new Date('2026-06-11T00:00:00Z');
 const FINAL   = new Date('2026-07-20T00:00:00Z');
@@ -39,7 +40,9 @@ const CAT_COLORS = {
 };
 
 export default function TodayMode() {
-  const phase = getPhase();
+  const { city = 'seattle' } = useParams();
+  const cityMeta = getCityMeta(city);
+  const phase    = getPhase();
   const todayStr = new Date().toISOString().split('T')[0];
 
   const [t, setT] = useState(() => calcTimeLeft(KICKOFF));
@@ -51,8 +54,8 @@ export default function TodayMode() {
   // Today's matches — tries live API, falls back to local
   const { matches: todayMatches, source: matchSource } = useTodayMatches();
 
-  const nextSeattle = matchData.matches
-    .filter(m => m.seattleMatch && m.date >= todayStr)
+  const nextCityMatch = matchData.matches
+    .filter(m => isHomeMatch(m, city) && m.date >= todayStr)
     .sort((a, b) => a.date.localeCompare(b.date))[0];
 
   const topTicket = ticketData.tickets
@@ -100,11 +103,13 @@ export default function TodayMode() {
           <div className="today-matches-block">
             <h3 className="today-sub-heading">Today's Matches</h3>
             <div className="today-matches-list">
-              {todayMatches.map(m => (
-                <div key={m.id} className={`today-match-card${m.seattleMatch ? ' seattle' : ''}`}>
+              {todayMatches.map(m => {
+                const homeToday = isHomeMatch(m, city);
+                return (
+                <div key={m.id} className={`today-match-card${homeToday ? ` ${city}` : ''}`}>
                   <div className="today-match-card__stage">
                     {m.stage} · {m.city}
-                    {m.seattleMatch && <span className="match-row__seattle-tag" style={{marginLeft:8}}>SEA</span>}
+                    {homeToday && <span className="match-row__city-tag" style={{marginLeft:8}}>{cityMeta.short}</span>}
                   </div>
                   <div className="today-match-card__teams">
                     <span><FlagImg emoji={m.homeFlag} size={16} /> {m.homeTeam}</span>
@@ -122,12 +127,12 @@ export default function TodayMode() {
                   )}
                   {m.status === 'finished' && <div className="today-match-card__ft">Full Time</div>}
                 </div>
-              ))}
+              );})}
             </div>
           </div>
         ) : (
           <div className="today-info-banner">
-            No matches today. Check the <Link to="/dashboard/matches">Match Tracker</Link> for upcoming fixtures.
+            No matches today. Check the <Link to={`/${city}/matches`}>Match Tracker</Link> for upcoming fixtures.
           </div>
         )
       )}
@@ -136,12 +141,12 @@ export default function TodayMode() {
         <div className="today-info-banner">The 2026 World Cup has concluded. Thanks for following along.</div>
       )}
 
-      {/* ── Seattle alert ── */}
-      {alerts.seattleAlert && (
+      {/* ── City alert (Seattle only for now — alerts.json has seattleAlert field) ── */}
+      {city === 'seattle' && alerts.seattleAlert && (
         <div className="today-alert-card">
-          <div className="today-alert-card__icon">🏟️</div>
+          <div className="today-alert-card__icon">{cityMeta.icon}</div>
           <div>
-            <div className="today-alert-card__label">Seattle Alert</div>
+            <div className="today-alert-card__label">{cityMeta.label} Alert</div>
             <div className="today-alert-card__msg">{alerts.seattleAlert.message}</div>
             <div className="today-alert-card__meta">
               {alerts.seattleAlert.source} · {alerts.seattleAlert.date}
@@ -150,30 +155,30 @@ export default function TodayMode() {
         </div>
       )}
 
-      {/* ── Next Seattle match ── */}
-      {nextSeattle && (
+      {/* ── Next city match ── */}
+      {nextCityMatch && (
         <div className="today-next-seattle">
-          <h3 className="today-sub-heading">Next Seattle Match</h3>
+          <h3 className="today-sub-heading">Next {cityMeta.label} Match</h3>
           <div className="today-seattle-card">
             <div className="today-seattle-card__date">
               <span className="today-seattle-card__day">
-                {new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short' })}
+                {new Date(nextCityMatch.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short' })}
               </span>
               <span className="today-seattle-card__datenum">
-                {new Date(nextSeattle.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                {new Date(nextCityMatch.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
               </span>
             </div>
             <div className="today-seattle-card__info">
-              <div className="today-seattle-card__stage">{nextSeattle.stage} · {nextSeattle.notes}</div>
+              <div className="today-seattle-card__stage">{nextCityMatch.stage} · {nextCityMatch.notes}</div>
               <div className="today-seattle-card__teams">
-                <FlagImg emoji={nextSeattle.homeFlag} size={16} /> {nextSeattle.homeTeam} vs {nextSeattle.awayTeam} <FlagImg emoji={nextSeattle.awayFlag} size={16} />
+                <FlagImg emoji={nextCityMatch.homeFlag} size={16} /> {nextCityMatch.homeTeam} vs {nextCityMatch.awayTeam} <FlagImg emoji={nextCityMatch.awayFlag} size={16} />
               </div>
               <div className="today-seattle-card__venue">
-                ⏰ {nextSeattle.time} {nextSeattle.timezone} · {nextSeattle.venue}
+                ⏰ {nextCityMatch.time} {nextCityMatch.timezone} · {nextCityMatch.venue}
               </div>
             </div>
-            <Link to="/dashboard/seattle" className="btn btn-secondary" style={{ padding: '8px 16px', fontSize: '13px' }}>
-              Seattle HQ →
+            <Link to={`/${city}/hq`} className="btn btn-secondary" style={{ padding: '8px 16px', fontSize: '13px' }}>
+              {cityMeta.label} HQ →
             </Link>
           </div>
         </div>
@@ -206,13 +211,13 @@ export default function TodayMode() {
             <div className="today-ticket-card__note">{topTicket.actionNote}</div>
             <div className="today-ticket-card__price">From {topTicket.observedResaleFrom}</div>
           </div>
-          <Link to="/dashboard/tickets" className="today-see-all">View all ticket opportunities →</Link>
+          <Link to={`/${city}/tickets`} className="today-see-all">View all ticket opportunities →</Link>
         </div>
       )}
 
       {/* ── City energy ── */}
       <div className="today-energy-block">
-        <h3 className="today-sub-heading">Seattle City Energy</h3>
+        <h3 className="today-sub-heading">{cityMeta.label} City Energy</h3>
         <div className="today-energy">
           <div className="today-energy-bars">
             {[1, 2, 3, 4, 5].map(n => (

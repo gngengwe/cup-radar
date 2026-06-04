@@ -1,31 +1,29 @@
 // Calendar export — generates .ics download + individual Google Calendar links
-// Seattle matches are in PDT (UTC-7) during June–July 2026.
+// Timezone offsets are for June–July 2026 (daylight saving time applies to all US cities).
+const TZ_UTC_OFFSETS = { PT: 7, PDT: 7, CT: 5, CDT: 5, ET: 4, EDT: 4, MT: 6, MDT: 6 };
 
-const PDT_OFFSET_HOURS = 7; // PDT = UTC-7
-
-function pdtToUtc(dateStr, timeStr) {
-  // dateStr: '2026-06-15', timeStr: '19:00'
-  const [year, month, day]   = dateStr.split('-').map(Number);
-  const [hour, minute]       = timeStr.split(':').map(Number);
-  let utcHour = hour + PDT_OFFSET_HOURS;
-  let utcDay  = day;
+function localToUtc(dateStr, timeStr, timezone) {
+  const offset = TZ_UTC_OFFSETS[timezone] ?? 7;
+  const [year, month, day] = dateStr.split('-').map(Number);
+  const [hour, minute]     = timeStr.split(':').map(Number);
+  let utcHour  = hour + offset;
+  let utcDay   = day;
   let utcMonth = month;
   if (utcHour >= 24) { utcHour -= 24; utcDay += 1; }
-
   const fmt = n => String(n).padStart(2, '0');
   return `${year}${fmt(utcMonth)}${fmt(utcDay)}T${fmt(utcHour)}${fmt(minute)}00Z`;
 }
 
 function makeGoogleCalUrl(match) {
-  const start = pdtToUtc(match.date, match.time || '19:00');
-  // Assume 2-hour match duration
-  const sh = parseInt(start.slice(9, 11), 10);
+  const start = localToUtc(match.date, match.time || '19:00', match.timezone || 'PT');
+  const sh       = parseInt(start.slice(9, 11), 10);
   const endHour  = String(sh + 2).padStart(2, '0');
   const end      = start.slice(0, 9) + endHour + start.slice(11);
 
-  const title    = `World Cup 2026 — ${match.stage} at Lumen Field`;
-  const details  = `${match.homeTeam} vs ${match.awayTeam}. ${match.notes || ''} Lumen Field, Seattle. Cup Radar: https://wc.ngengwe.com/dashboard/seattle`;
-  const location = 'Lumen Field, 800 Occidental Ave S, Seattle, WA 98134';
+  const venueName = match.venue || 'Venue TBD';
+  const title    = `World Cup 2026 — ${match.stage} at ${venueName}`;
+  const details  = `${match.homeTeam} vs ${match.awayTeam}. ${match.notes || ''} ${venueName}. Cup Radar: https://wc.ngengwe.com`;
+  const location = venueName;
 
   const params = new URLSearchParams({
     action:   'TEMPLATE',
@@ -39,27 +37,29 @@ function makeGoogleCalUrl(match) {
 
 function generateICS(matches) {
   const events = matches.map(m => {
-    const start = pdtToUtc(m.date, m.time || '19:00');
-    const [sh]  = [parseInt(start.slice(9,11))];
-    const end   = start.slice(0, 9) + String(sh + 2).padStart(2, '0') + start.slice(11);
+    const start     = localToUtc(m.date, m.time || '19:00', m.timezone || 'PT');
+    const sh        = parseInt(start.slice(9, 11), 10);
+    const end       = start.slice(0, 9) + String(sh + 2).padStart(2, '0') + start.slice(11);
+    const venueName = m.venue || 'Venue TBD';
 
     return [
       'BEGIN:VEVENT',
       `DTSTART:${start}`,
       `DTEND:${end}`,
-      `SUMMARY:World Cup 2026 — ${m.stage} at Lumen Field`,
+      `SUMMARY:World Cup 2026 — ${m.stage} at ${venueName}`,
       `DESCRIPTION:${m.homeTeam} vs ${m.awayTeam}. ${m.notes || ''} Official tickets: https://www.fifa.com/tickets`,
-      'LOCATION:Lumen Field\\, 800 Occidental Ave S\\, Seattle\\, WA 98134',
+      `LOCATION:${venueName.replace(/,/g, '\\,')}`,
       'URL:https://www.fifa.com/tickets',
       `UID:cup-radar-${m.id}@wc.ngengwe.com`,
       'END:VEVENT',
     ].join('\r\n');
   });
 
+  const city = matches[0]?.city || 'City';
   return [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//Cup Radar//World Cup 2026 Seattle//EN',
+    `PRODID:-//Cup Radar//World Cup 2026 ${city}//EN`,
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     ...events,
@@ -80,14 +80,16 @@ function downloadICS(content, filename) {
 // ─── Components ───────────────────────────────────────────────────────────────
 
 export function AddAllToCalendar({ matches }) {
+  const city     = matches[0]?.city?.toLowerCase().replace(/\s+/g, '-') || 'matches';
+  const cityName = matches[0]?.city || 'city';
   const handleClick = () => {
     const ics = generateICS(matches);
-    downloadICS(ics, 'cup-radar-seattle-matches.ics');
+    downloadICS(ics, `cup-radar-${city}-matches.ics`);
   };
 
   return (
-    <button className="cal-export-btn" onClick={handleClick} title="Download .ics for all 6 Seattle matches">
-      📅 Add all Seattle matches to calendar
+    <button className="cal-export-btn" onClick={handleClick} title={`Download .ics for all ${cityName} matches`}>
+      📅 Add all {cityName} matches to calendar
     </button>
   );
 }
@@ -109,8 +111,9 @@ export function AddMatchToGoogleCalendar({ match }) {
 export function AddMatchToICS({ match }) {
   const handleClick = () => {
     const ics = generateICS([match]);
+    const city      = match.city?.toLowerCase().replace(/\s+/g, '-') || 'match';
     const dateLabel = match.date.replace(/-/g, '');
-    downloadICS(ics, `cup-radar-seattle-${dateLabel}.ics`);
+    downloadICS(ics, `cup-radar-${city}-${dateLabel}.ics`);
   };
 
   return (

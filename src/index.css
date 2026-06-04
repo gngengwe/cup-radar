@@ -1432,14 +1432,21 @@ td .flag-img { margin-right: 4px; }
   transition: border-color 0.2s, transform 0.2s;
 }
 .ticket-card:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.12); }
-.ticket-card.seattle { border-color: var(--border-accent); }
-.ticket-card.kc      { border-color: rgba(192,132,252,0.3); }
+.ticket-card.seattle    { border-color: var(--border-accent); }
+.ticket-card.kansascity { border-color: rgba(192,132,252,0.3); }
+.ticket-card.miami      { border-color: rgba(244, 63, 94, 0.3); }
+.ticket-card.newyork    { border-color: rgba(59, 130, 246, 0.3); }
+.ticket-card.philly     { border-color: rgba(16, 185, 129, 0.3); }
 
 .ticket-card__top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .ticket-card__action { font-size: 11px; font-weight: 800; padding: 3px 10px; border-radius: 4px; letter-spacing: 0.06em; }
 .ticket-card__avail  { font-size: 11px; font-weight: 600; }
-.ticket-card__seattle-tag { font-size: 10px; font-weight: 800; color: var(--accent);  background: var(--accent-soft);              padding: 2px 7px; border-radius: 4px; margin-left: auto; }
-.ticket-card__kc-tag      { font-size: 10px; font-weight: 800; color: #c084fc;         background: rgba(192,132,252,0.12);          padding: 2px 7px; border-radius: 4px; margin-left: auto; }
+.ticket-card__city-tag { font-size: 10px; font-weight: 800; padding: 2px 7px; border-radius: 4px; margin-left: auto; }
+.ticket-card.seattle    .ticket-card__city-tag { color: var(--accent);  background: var(--accent-soft); }
+.ticket-card.kansascity .ticket-card__city-tag { color: #c084fc;        background: rgba(192,132,252,0.12); }
+.ticket-card.miami      .ticket-card__city-tag { color: #f43f5e;        background: rgba(244,63,94,0.12); }
+.ticket-card.newyork    .ticket-card__city-tag { color: #3b82f6;        background: rgba(59,130,246,0.12); }
+.ticket-card.philly     .ticket-card__city-tag { color: #10b981;        background: rgba(16,185,129,0.12); }
 
 .ticket-card__match { font-size: 15px; font-weight: 700; color: var(--text); }
 .ticket-card__meta  { font-size: 12px; color: var(--text-muted); }
@@ -1778,7 +1785,11 @@ td .flag-img { margin-right: 4px; }
   transition: border-color 0.15s;
 }
 .bracket-match:hover { border-color: rgba(255,255,255,0.1); }
-.bracket-match.seattle { border-color: var(--border-accent); }
+.bracket-match.seattle    { border-color: var(--border-accent); }
+.bracket-match.kansascity { border-color: rgba(192,132,252,0.4); }
+.bracket-match.miami      { border-color: rgba(244, 63, 94, 0.4); }
+.bracket-match.newyork    { border-color: rgba(59, 130, 246, 0.4); }
+.bracket-match.philly     { border-color: rgba(16, 185, 129, 0.4); }
 .bracket-match.live    { border-color: var(--accent); }
 .bracket-match.tbd     { opacity: 0.6; }
 

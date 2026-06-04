@@ -30,6 +30,7 @@ const CITY_CONFIG = {
     label:        'Seattle HQ',
     short:        'Seattle',
     icon:         '🏟️',
+    matchCount:   6,
     hqSection:    SeattleHQ,
     watchSection: SeattleWatchGuide,
     accentVar:    'var(--accent)',
@@ -38,6 +39,7 @@ const CITY_CONFIG = {
     label:        'Kansas City HQ',
     short:        'Kansas City',
     icon:         '🏈',
+    matchCount:   6,
     hqSection:    KansasCityHQ,
     watchSection: KCWatchGuide,
     accentVar:    '#c084fc',
@@ -46,6 +48,7 @@ const CITY_CONFIG = {
     label:        'Miami HQ',
     short:        'Miami',
     icon:         '🌴',
+    matchCount:   4,
     hqSection:    MiamiHQ,
     watchSection: MiamiWatchGuide,
     accentVar:    '#f43f5e',
@@ -54,6 +57,7 @@ const CITY_CONFIG = {
     label:        'New York HQ',
     short:        'New York',
     icon:         '🗽',
+    matchCount:   8,
     hqSection:    NewYorkHQ,
     watchSection: NewYorkWatchGuide,
     accentVar:    '#3b82f6',
@@ -62,6 +66,7 @@ const CITY_CONFIG = {
     label:        'Philadelphia HQ',
     short:        'Philly',
     icon:         '🦅',
+    matchCount:   3,
     hqSection:    PhillyHQ,
     watchSection: PhillyWatchGuide,
     accentVar:    '#10b981',
@@ -72,7 +77,7 @@ const CITY_CONFIG = {
 function buildNav(city) {
   const cfg = CITY_CONFIG[city];
   return [
-    { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: '6 matches'            },
+    { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: `${cfg.matchCount} matches` },
     { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
     { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'All fixtures'         },
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },

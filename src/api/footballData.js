@@ -41,25 +41,38 @@ function normaliseStatus(apiStatus) {
 // ─── Match transformer ─────────────────────────────────────────────────────────
 function transformMatch(m) {
   const utcDate = new Date(m.utcDate);
-  // Display in PT for Seattle-centric view
-  const ptDate  = new Date(m.utcDate);
   const dateStr = utcDate.toISOString().split('T')[0];
-  const timeStr = utcDate.toLocaleTimeString('en-US', {
-    hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'America/Los_Angeles',
-  });
 
   const stage = (m.stage || '').replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   const group = m.group ? m.group.replace('GROUP_', '') : null;
 
-  const venue = m.venue || '';
-  const isSeattle = venue.toLowerCase().includes('lumen') || venue.toLowerCase().includes('seattle');
+  const venue      = m.venue || '';
+  const venueLower = venue.toLowerCase();
+  const isSeattle  = venueLower.includes('lumen')   || venueLower.includes('seattle');
+  const isKC       = venueLower.includes('arrowhead') || venueLower.includes('kansas city');
+  const isMiami    = venueLower.includes('hard rock') || venueLower.includes('miami gardens');
+  const isNY       = venueLower.includes('metlife')  || venueLower.includes('east rutherford');
+  const isPhilly   = venueLower.includes('lincoln financial') || venueLower.includes('philadelphia');
+
+  const cityInfo = isSeattle ? { city: 'Seattle',       cityCode: 'SEA', tz: 'PT' }
+                : isKC       ? { city: 'Kansas City',   cityCode: 'KC',  tz: 'CT' }
+                : isMiami    ? { city: 'Miami',         cityCode: 'MIA', tz: 'ET' }
+                : isNY       ? { city: 'New York',      cityCode: 'NY',  tz: 'ET' }
+                : isPhilly   ? { city: 'Philadelphia',  cityCode: 'PHI', tz: 'ET' }
+                :              { city: m.venue?.split(',')[1]?.trim() || '', cityCode: '', tz: 'ET' };
+
+  const TZ_MAP = { PT: 'America/Los_Angeles', CT: 'America/Chicago', ET: 'America/New_York' };
+  const localTime = utcDate.toLocaleTimeString('en-US', {
+    hour: '2-digit', minute: '2-digit', hour12: false,
+    timeZone: TZ_MAP[cityInfo.tz] || 'America/Los_Angeles',
+  });
 
   return {
     id:         `api-${m.id}`,
     apiId:      m.id,
     date:       dateStr,
-    time:       timeStr,
-    timezone:   'PT',
+    time:       localTime,
+    timezone:   cityInfo.tz,
     homeTeam:   m.homeTeam?.name   || 'TBD',
     homeCode:   m.homeTeam?.tla    || 'TBD',
     homeFlag:   getFlag(m.homeTeam?.tla),
@@ -67,8 +80,8 @@ function transformMatch(m) {
     awayCode:   m.awayTeam?.tla    || 'TBD',
     awayFlag:   getFlag(m.awayTeam?.tla),
     venue,
-    city:       isSeattle ? 'Seattle' : (m.venue?.split(',')[1]?.trim() || m.venue || ''),
-    cityCode:   isSeattle ? 'SEA' : '',
+    city:        cityInfo.city,
+    cityCode:    cityInfo.cityCode,
     group,
     stage,
     matchday:   m.matchday || null,
@@ -76,6 +89,10 @@ function transformMatch(m) {
     homeScore:  m.score?.fullTime?.home ?? null,
     awayScore:  m.score?.fullTime?.away ?? null,
     seattleMatch: isSeattle,
+    kcMatch:      isKC,
+    miamiMatch:   isMiami,
+    nyMatch:      isNY,
+    phillyMatch:  isPhilly,
     notes:      '',
   };
 }
