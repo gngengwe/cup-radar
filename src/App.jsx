@@ -38,9 +38,12 @@ export default function App() {
           <Route path="/dashboard" element={<Navigate to="/seattle/hq" replace />} />
           <Route path="/dashboard/:section" element={<LegacyDashboardRedirect />} />
 
-          {/* City redirects (bare /seattle or /kansascity) */}
-          <Route path="/seattle" element={<Navigate to="/seattle/hq" replace />} />
+          {/* City redirects (bare city slug → /city/hq) */}
+          <Route path="/seattle"    element={<Navigate to="/seattle/hq"    replace />} />
           <Route path="/kansascity" element={<Navigate to="/kansascity/hq" replace />} />
+          <Route path="/miami"      element={<Navigate to="/miami/hq"      replace />} />
+          <Route path="/newyork"    element={<Navigate to="/newyork/hq"    replace />} />
+          <Route path="/philly"     element={<Navigate to="/philly/hq"     replace />} />
 
           {/* All city dashboards — /:city/:section gives useParams() both values */}
           <Route path="/:city/:section" element={<Dashboard />} />

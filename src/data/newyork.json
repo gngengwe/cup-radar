@@ -1,0 +1,199 @@
+{
+  "_note": "New York/NJ HQ data — MetLife Stadium, East Rutherford NJ. Most matches of any host city (8).",
+  "lastUpdated": "2026-06-03T12:00:00-04:00",
+  "venue": {
+    "name": "MetLife Stadium",
+    "address": "One MetLife Stadium Dr, East Rutherford, NJ 07073",
+    "capacity": 82500,
+    "notes": "Largest venue in the tournament at 82,500 capacity. Clear bag policy, no re-entry. Gates open 2.5 hours before kickoff.",
+    "parkingNote": "Extensive on-site parking starting at $60. Reserve via FIFA app or StubHub. NJ Transit is strongly preferred — parking traffic post-match can add 60+ minutes."
+  },
+  "transit": {
+    "recommended": "NJ Transit — Meadowlands Rail Line from Penn Station (direct, ~15 min ride, runs only on event days)",
+    "lines": ["Meadowlands Rail from Penn Station (Manhattan)", "NJ Transit Bus 320 from Port Authority"],
+    "tips": [
+      "The Meadowlands Rail Line runs direct from Penn Station on event days — easiest option from Manhattan.",
+      "Buy your return ticket before the match — queues at station are long post-game.",
+      "PATH train to Hoboken + Shuttle is a good backup option. Ask at Hoboken Terminal.",
+      "From Brooklyn/Queens: LIRR to Penn then Meadowlands Rail. Budget 75 min total."
+    ],
+    "parking": "On-site lots open 5+ hours before kickoff. $60–$90 via official app. Blue 1 lot closest to main entrance.",
+    "rideshare": "Designated Uber/Lyft pickup on the east service road, Gate C area. Heavy surge pricing expected — consider NJ Transit back and rideshare from Penn Station."
+  },
+  "fanZones": [
+    {
+      "name": "FIFA Fan Festival — Flushing Meadows Corona Park",
+      "location": "Flushing Meadows, Queens",
+      "dates": "June 14 – July 4",
+      "hours": "10am – Midnight on match days",
+      "free": true,
+      "notes": "Official FIFA fan zone. Giant screens, entertainment, food from around the world. Accessible via 7 train."
+    },
+    {
+      "name": "Hudson Yards Fan Hub",
+      "location": "Moynihan Train Hall & Surrounds, Manhattan",
+      "dates": "Match days",
+      "hours": "4 hours before kickoff",
+      "free": true,
+      "confirmed": false,
+      "notes": "Unofficial but massive gathering point near Penn Station before Meadowlands Rail. Multiple bars and screens."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Hoboken bar crawl",
+      "type": "Neighborhood",
+      "distance": "PATH from Manhattan; NJ Transit bus to stadium",
+      "notes": "Hoboken's Washington St corridor is electric on match days. Marathon Bar, 1 Republik, and Green Rock fill up fast.",
+      "area": "Hoboken, NJ"
+    },
+    {
+      "name": "Hell's Kitchen soccer bars",
+      "type": "Neighborhood",
+      "distance": "10 min walk to Penn Station, then Meadowlands Rail",
+      "notes": "Legends NYC, Smithfield, and Nevada Smiths (E Village) are NYC's top soccer bars. Arrive 2+ hours early.",
+      "area": "Manhattan"
+    },
+    {
+      "name": "Flushing Meadows Fan Festival",
+      "location": "Queens",
+      "distance": "7 train from Midtown",
+      "notes": "Best pre-game energy if you want the official FIFA experience. Large, family-friendly, international food.",
+      "area": "Queens"
+    }
+  ],
+  "cityEnergyForecast": [
+    { "matchId": "wc26-C1",  "date": "2026-06-14", "energyScore": 5, "crowdNote": "Brazil vs Morocco — opening weekend at the biggest venue. NYC's Brazilian community is massive and vocal. Expect 80,000+ in gold." },
+    { "matchId": "wc26-F2",  "date": "2026-06-16", "energyScore": 4, "crowdNote": "Japan vs Tunisia — Japan's New York diaspora is large and organized. Expect a colorful, disciplined fan section." },
+    { "matchId": "wc26-C3",  "date": "2026-06-19", "energyScore": 5, "crowdNote": "Brazil vs Scotland — Brazil in MetLife is the loudest match in the city. Scotland fans travel in massive numbers and create unforgettable atmosphere." },
+    { "matchId": "wc26-B7",  "date": "2026-06-23", "energyScore": 3, "crowdNote": "Switzerland vs Qatar — technical match with Group B implications. Quieter crowd but still MetLife scale." },
+    { "matchId": "wc26-C5",  "date": "2026-06-24", "energyScore": 4, "crowdNote": "Brazil vs Haiti — NYC's Haitian community will be enormous here. Brazil nearly guaranteed to advance; still a carnival." },
+    { "matchId": "wc26-F6",  "date": "2026-06-28", "energyScore": 4, "crowdNote": "Japan vs Sweden — final group-stage weekend. Both teams likely fighting for knockout spots. High stakes." },
+    { "matchId": "wc26-010", "date": "2026-06-14", "energyScore": 5, "crowdNote": "Brazil knockout match — if Brazil are here it's already a party. MetLife at full roar for a Round of 32." },
+    { "matchId": "wc26-018", "date": "2026-06-22", "energyScore": 4, "crowdNote": "Japan knockout match — Blue Samurai fans are impeccably organized. Expect a dramatic night at MetLife." }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-C1",  "date": "2026-06-14",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Brazil vs Morocco opening weekend — maximum crowds. NJ Transit will be packed. Book return rail ticket in advance.",
+      "peakWindow": "12:00–4:00 PM ET",
+      "tips": ["Take Meadowlands Rail — driving is chaos", "Buy round-trip rail ticket before you leave Manhattan", "Arrive at Penn Station 45 min before train"]
+    },
+    {
+      "matchId": "wc26-F2",  "date": "2026-06-16",
+      "score": 3, "label": "Moderate",
+      "color": "#facc15",
+      "note": "Japan vs Tunisia — evening start, manageable compared to Brazil matches. NJ Transit runs smoothly.",
+      "peakWindow": "5:00–8:00 PM ET",
+      "tips": ["Evening kickoff — avoid NJ Transit during 5pm rush", "Arrive by 6pm for 7pm kickoff to beat the rush", "Post-match transit back to Penn is straightforward"]
+    },
+    {
+      "matchId": "wc26-C3",  "date": "2026-06-19",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Brazil vs Scotland — Scottish fans + Brazilian diaspora at MetLife. Expect full stadium and full transit stress.",
+      "peakWindow": "4:00–8:00 PM ET",
+      "tips": ["This is one of the most anticipated matches of the tournament at this venue", "Do not drive — Meadowlands Rail is your only realistic option", "Scottish fans will sing all night — budget for late return"]
+    },
+    {
+      "matchId": "wc26-B7",  "date": "2026-06-23",
+      "score": 2, "label": "Low",
+      "color": "var(--accent)",
+      "note": "Switzerland vs Qatar — smaller crowd than Brazil/Scotland matches. Easiest transit day of MetLife's schedule.",
+      "peakWindow": "6:00–9:00 PM ET",
+      "tips": ["Most manageable MetLife match — good if it's your first visit to the stadium", "Transit runs on time; post-match queue at station is short"]
+    },
+    {
+      "matchId": "wc26-C5",  "date": "2026-06-24",
+      "score": 4, "label": "High",
+      "color": "#f97316",
+      "note": "Brazil vs Haiti — NYC Haitian community turns out in full. Lively crowd, significant transit pressure.",
+      "peakWindow": "3:00–7:00 PM ET",
+      "tips": ["Caribbean fan communities are vocal and celebratory — great atmosphere", "Meadowlands Rail required — parking will be full by noon"]
+    },
+    {
+      "matchId": "wc26-F6",  "date": "2026-06-28",
+      "score": 3, "label": "Moderate",
+      "color": "#facc15",
+      "note": "Japan vs Sweden — Group F finale, potential must-win for both teams. Evening match, normal transit pressure.",
+      "peakWindow": "5:30–8:30 PM ET",
+      "tips": ["Final group stage match — Japan and Sweden may both need points", "Arrive 90 min early; stadium fills early for high-stakes finales"]
+    },
+    {
+      "matchId": "wc26-010", "date": "2026-06-14",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Brazil knockout at MetLife — maximum crowd, maximum transit pressure. This is one of the biggest events in New York history.",
+      "peakWindow": "All day",
+      "tips": ["Plan your entire day around this match", "Meadowlands Rail — no other option", "Book your hotel/accommodation near Penn Station in advance"]
+    },
+    {
+      "matchId": "wc26-018", "date": "2026-06-22",
+      "score": 4, "label": "High",
+      "color": "#f97316",
+      "note": "Japan knockout — intense match, organized Japanese fan sections, evening atmosphere at MetLife.",
+      "peakWindow": "5:00–10:00 PM ET",
+      "tips": ["Japan fans are famously respectful; expect orderly transit queues from their section", "Evening knockout energy is electric — MetLife at night is unforgettable"]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-C1", "date": "2026-06-14",
+      "score": 96, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Brazil vs Morocco at the world's biggest World Cup venue. 82,500 fans, opening weekend, NYC energy at full blast. This is a once-in-a-lifetime event in your city.",
+      "factors": { "stage": 3, "homeConvenience": 4, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-F2", "date": "2026-06-16",
+      "score": 78, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Japan vs Tunisia — exciting group stage football, great value tickets, strong fan bases from NYC's Japanese community.",
+      "factors": { "stage": 3, "homeConvenience": 4, "ticketValue": 4, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-C3", "date": "2026-06-19",
+      "score": 97, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Brazil vs Scotland — the most atmospheric group-stage match in New York. Scottish fans are legendary. NYC's Brazilian community plus 80,000 others make this historic.",
+      "factors": { "stage": 4, "homeConvenience": 4, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-B7", "date": "2026-06-23",
+      "score": 65, "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Switzerland vs Qatar — best ticket value of MetLife's schedule. Good football, manageable crowds. Worth it if you want the stadium experience without the chaos.",
+      "factors": { "stage": 3, "homeConvenience": 4, "ticketValue": 5, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-C5", "date": "2026-06-24",
+      "score": 83, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Brazil vs Haiti — NYC Haitian and Brazilian communities make this electric. Brazil likely through; festive atmosphere guaranteed.",
+      "factors": { "stage": 3, "homeConvenience": 4, "ticketValue": 3, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-F6", "date": "2026-06-28",
+      "score": 84, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Japan vs Sweden with Group F stakes — likely a must-win situation. High drama, strong traveling support from both sides.",
+      "factors": { "stage": 4, "homeConvenience": 4, "ticketValue": 3, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-010", "date": "2026-06-14",
+      "score": 98, "label": "Once in a lifetime",
+      "color": "#00e676",
+      "summary": "Brazil knockout at the largest World Cup venue on earth. 82,500 people in New York. Nothing in sports comes close to this.",
+      "factors": { "stage": 5, "homeConvenience": 4, "ticketValue": 2, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-018", "date": "2026-06-22",
+      "score": 88, "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Japan knockout at MetLife — Blue Samurai in elimination football, NYC's Japanese community at full presence. Memorable night.",
+      "factors": { "stage": 5, "homeConvenience": 4, "ticketValue": 2, "atmosphereExpected": 4 }
+    }
+  ]
+}

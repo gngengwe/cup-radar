@@ -2,22 +2,28 @@ import { useParams, NavLink, Link, Navigate, useNavigate } from 'react-router-do
 import { useState, lazy, Suspense, useEffect, useRef } from 'react';
 
 // City-specific sections (lazy-loaded per city)
-const SeattleHQ      = lazy(() => import('../dashboard/SeattleHQ'));
-const KansasCityHQ   = lazy(() => import('../dashboard/KansasCityHQ'));
+const SeattleHQ          = lazy(() => import('../dashboard/SeattleHQ'));
+const KansasCityHQ       = lazy(() => import('../dashboard/KansasCityHQ'));
+const MiamiHQ            = lazy(() => import('../dashboard/MiamiHQ'));
+const NewYorkHQ          = lazy(() => import('../dashboard/NewYorkHQ'));
+const PhillyHQ           = lazy(() => import('../dashboard/PhillyHQ'));
 
 // Shared sections (lazy-loaded once)
-const Matches         = lazy(() => import('../dashboard/Matches'));
-const Groups          = lazy(() => import('../dashboard/Groups'));
-const Bracket         = lazy(() => import('../dashboard/Bracket'));
-const TicketRadar     = lazy(() => import('../dashboard/TicketRadar'));
-const CityJump        = lazy(() => import('../dashboard/CityJump'));
-const SeattleWatchGuide = lazy(() => import('../dashboard/WatchGuide'));
-const KCWatchGuide      = lazy(() => import('../dashboard/KCWatchGuide'));
-const Newsroom        = lazy(() => import('../dashboard/Newsroom'));
-const CultureTracker  = lazy(() => import('../dashboard/CultureTracker'));
-const NarrativeTracker= lazy(() => import('../dashboard/NarrativeTracker'));
-const UpsetRadar      = lazy(() => import('../dashboard/UpsetRadar'));
-const TeamIQ          = lazy(() => import('../dashboard/TeamIQ'));
+const Matches            = lazy(() => import('../dashboard/Matches'));
+const Groups             = lazy(() => import('../dashboard/Groups'));
+const Bracket            = lazy(() => import('../dashboard/Bracket'));
+const TicketRadar        = lazy(() => import('../dashboard/TicketRadar'));
+const CityJump           = lazy(() => import('../dashboard/CityJump'));
+const SeattleWatchGuide  = lazy(() => import('../dashboard/WatchGuide'));
+const KCWatchGuide       = lazy(() => import('../dashboard/KCWatchGuide'));
+const MiamiWatchGuide    = lazy(() => import('../dashboard/MiamiWatchGuide'));
+const NewYorkWatchGuide  = lazy(() => import('../dashboard/NewYorkWatchGuide'));
+const PhillyWatchGuide   = lazy(() => import('../dashboard/PhillyWatchGuide'));
+const Newsroom           = lazy(() => import('../dashboard/Newsroom'));
+const CultureTracker     = lazy(() => import('../dashboard/CultureTracker'));
+const NarrativeTracker   = lazy(() => import('../dashboard/NarrativeTracker'));
+const UpsetRadar         = lazy(() => import('../dashboard/UpsetRadar'));
+const TeamIQ             = lazy(() => import('../dashboard/TeamIQ'));
 
 const CITY_CONFIG = {
   seattle: {
@@ -35,6 +41,30 @@ const CITY_CONFIG = {
     hqSection:    KansasCityHQ,
     watchSection: KCWatchGuide,
     accentVar:    '#c084fc',
+  },
+  miami: {
+    label:        'Miami HQ',
+    short:        'Miami',
+    icon:         '🌴',
+    hqSection:    MiamiHQ,
+    watchSection: MiamiWatchGuide,
+    accentVar:    '#f43f5e',
+  },
+  newyork: {
+    label:        'New York HQ',
+    short:        'New York',
+    icon:         '🗽',
+    hqSection:    NewYorkHQ,
+    watchSection: NewYorkWatchGuide,
+    accentVar:    '#3b82f6',
+  },
+  philly: {
+    label:        'Philadelphia HQ',
+    short:        'Philly',
+    icon:         '🦅',
+    hqSection:    PhillyHQ,
+    watchSection: PhillyWatchGuide,
+    accentVar:    '#10b981',
   },
 };
 
@@ -128,20 +158,17 @@ export default function Dashboard() {
 
         {/* City switcher */}
         <div className="dash-city-switcher">
-          <button
-            className={`dash-city-pill${city === 'seattle' ? ' active' : ''}`}
-            onClick={() => switchCity('seattle')}
-            aria-pressed={city === 'seattle'}
-          >
-            🏟️ Seattle
-          </button>
-          <button
-            className={`dash-city-pill${city === 'kansascity' ? ' active kc' : ''}`}
-            onClick={() => switchCity('kansascity')}
-            aria-pressed={city === 'kansascity'}
-          >
-            🏈 KC
-          </button>
+          {Object.entries(CITY_CONFIG).map(([id, cfg]) => (
+            <button
+              key={id}
+              className={`dash-city-pill${city === id ? ' active' : ''}`}
+              onClick={() => switchCity(id)}
+              aria-pressed={city === id}
+              style={city === id ? { '--pill-accent': cfg.accentVar } : {}}
+            >
+              {cfg.icon} {cfg.short}
+            </button>
+          ))}
         </div>
 
         <nav className="dash-nav">

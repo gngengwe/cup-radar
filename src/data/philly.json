@@ -1,0 +1,119 @@
+{
+  "_note": "Philadelphia HQ data — Lincoln Financial Field, South Philadelphia.",
+  "lastUpdated": "2026-06-03T12:00:00-04:00",
+  "venue": {
+    "name": "Lincoln Financial Field",
+    "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148",
+    "capacity": 69796,
+    "notes": "Configured to 67,000+ for World Cup. Clear bag policy. No re-entry. Gates open 2.5 hours before kickoff.",
+    "parkingNote": "South Philly Sports Complex lots open 4 hours before kickoff. $50–$70 via official app. Walking distance parking at stadium complex shared with Citizens Bank Park and Wells Fargo Center."
+  },
+  "transit": {
+    "recommended": "SEPTA Broad Street Line — Pattison Station (direct to South Philly sports complex)",
+    "lines": ["SEPTA Broad Street Line (Orange Line) to Pattison Station", "SEPTA Bus 17"],
+    "tips": [
+      "Broad Street Line is the definitive match-day option. Trains run frequently and stop 2 blocks from the stadium.",
+      "Trains from City Hall station take ~12 minutes. Board with Philly Transit Pass or cash fare.",
+      "Avoid driving — I-95 and Broad St both back up badly. No reason to drive when Broad Street Line is this easy.",
+      "Post-match: trains fill fast. Walk toward City Hall station if the Pattison queue is long."
+    ],
+    "parking": "South Philly parking complex lots. $50–$70 reserved, cash lots $30 walk-up. Lots fill 90+ min before kickoff.",
+    "rideshare": "Designated pickup on Pattison Ave east side, near Citizens Bank Park. Surge pricing expected post-match."
+  },
+  "fanZones": [
+    {
+      "name": "FIFA Fan Festival — Philadelphia Museum of Art",
+      "location": "Benjamin Franklin Pkwy, Philadelphia",
+      "dates": "June 15 – June 29",
+      "hours": "10am – 11pm on match days",
+      "free": true,
+      "notes": "Free entry. Rocky steps backdrop, live entertainment, international food market. Philadelphia's cultural landmark as fan zone."
+    },
+    {
+      "name": "South Street Watch Parties",
+      "location": "South Street corridor",
+      "dates": "All match days",
+      "hours": "From 2 hours before kickoff",
+      "free": true,
+      "confirmed": false,
+      "notes": "South Street bars set up outdoor screens on match days. Walking distance to Lincoln Financial via Broad St."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "South Philadelphia Italian Market area",
+      "type": "Neighborhood",
+      "distance": "15 min walk to stadium",
+      "notes": "9th Street corridor has bars and restaurants that fill up with Eagles — and now soccer — fans. Authentic South Philly experience.",
+      "area": "South Philadelphia"
+    },
+    {
+      "name": "Xfinity Live!",
+      "type": "Entertainment Complex",
+      "distance": "5 min walk to stadium",
+      "notes": "Massive sports bar complex directly adjacent to the stadium. Four-story venue, multiple screens. Gets extremely crowded — arrive 2+ hours early.",
+      "area": "South Philadelphia"
+    },
+    {
+      "name": "East Passyunk Ave",
+      "type": "Neighborhood",
+      "distance": "20 min walk or short rideshare",
+      "notes": "Philly's best dining and bar street. More relaxed pre-game option than Xfinity Live. BYOB culture, excellent food.",
+      "area": "East Passyunk"
+    }
+  ],
+  "cityEnergyForecast": [
+    { "matchId": "wc26-F1",  "date": "2026-06-16", "energyScore": 4, "crowdNote": "Netherlands vs Sweden — Oranje fans travel in massive numbers, all-orange and loud. Swedish support adds strong European atmosphere." },
+    { "matchId": "wc26-B4",  "date": "2026-06-18", "energyScore": 3, "crowdNote": "Switzerland vs Bosnia-Herzegovina — Bosnian diaspora is strong in Philadelphia and New Jersey. Expect passionate Bosnian fan sections." },
+    { "matchId": "wc26-F5",  "date": "2026-06-28", "energyScore": 5, "crowdNote": "Netherlands vs Tunisia — final Group F match with knockout implications. Oranje may need points. Lincoln Financial at peak energy for Group F finale." }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-F1",  "date": "2026-06-16",
+      "score": 4, "label": "High",
+      "color": "#f97316",
+      "note": "Netherlands vs Sweden — Oranje fans are notorious for filling cities in orange. Downtown Philly will be packed before and after.",
+      "peakWindow": "4:00–8:00 PM ET",
+      "tips": ["Broad Street Line strongly recommended — skip driving entirely", "Expect orange jerseys on every train and street corner from noon onward", "Dutch fans party hard post-match — South St and Old City will be electric until late"]
+    },
+    {
+      "matchId": "wc26-B4",  "date": "2026-06-18",
+      "score": 2, "label": "Low",
+      "color": "var(--accent)",
+      "note": "Switzerland vs Bosnia-Herzegovina — most manageable transit day of Lincoln Financial's schedule. Bosnian fans are passionate but smaller traveling contingent.",
+      "peakWindow": "5:00–8:00 PM ET",
+      "tips": ["Easiest match-day logistics in Philly's schedule", "Good day to test Broad Street Line if it's your first visit", "Bosnian community from Philly and NJ will create warm atmosphere"]
+    },
+    {
+      "matchId": "wc26-F5",  "date": "2026-06-28",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "Group F finale — Netherlands vs Tunisia with knockout stakes. Final weekend of group stage, massive crowds across Philly.",
+      "peakWindow": "5:00–9:00 PM ET",
+      "tips": ["Plan the full day — this is a major event in the city", "Broad Street Line will be at capacity; arrive at City Hall station early", "Post-match will be high energy — Dutch celebration or Dutch heartbreak either way is memorable"]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-F1", "date": "2026-06-16",
+      "score": 88, "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Netherlands vs Sweden at Lincoln Financial — Oranje travel in the tens of thousands, all orange, all loud. One of the most visually stunning fan atmospheres in the tournament.",
+      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-B4", "date": "2026-06-18",
+      "score": 72, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Switzerland vs Bosnia — best ticket value in Philly's schedule. Strong Bosnian fan energy, solid match, easy logistics. Good entry point if you're new to the tournament.",
+      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 5, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-F5", "date": "2026-06-28",
+      "score": 91, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Netherlands vs Tunisia — Group F finale with knockout spots on the line. Oranje desperate for points, Tunisian fans fighting too. This is exactly the high-stakes group stage football you came for.",
+      "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+    }
+  ]
+}

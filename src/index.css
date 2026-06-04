@@ -2717,17 +2717,19 @@ td .flag-img { margin-right: 4px; }
 /* ── Dashboard city switcher (sidebar) ── */
 .dash-city-switcher {
   display: flex;
-  gap: 5px;
+  flex-wrap: wrap;
+  gap: 4px;
   margin: 6px 12px 4px;
   flex-shrink: 0;
 }
 .dash-city-pill {
-  flex: 1;
-  padding: 4px 6px;
+  flex: 1 1 calc(33% - 4px);
+  min-width: 0;
+  padding: 4px 5px;
   border-radius: 100px;
-  font-size: 10px;
+  font-size: 9.5px;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   cursor: pointer;
   border: 1px solid var(--border);
   background: var(--border);
@@ -2735,19 +2737,16 @@ td .flag-img { margin-right: 4px; }
   transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   white-space: nowrap;
   text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .dash-city-pill:hover {
   background: rgba(255,255,255,0.07);
   color: var(--text);
 }
 .dash-city-pill.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-}
-.dash-city-pill.active.kc {
-  background: #c084fc;
-  border-color: #c084fc;
+  background: var(--pill-accent, var(--accent));
+  border-color: var(--pill-accent, var(--accent));
   color: #fff;
 }
 
@@ -3873,8 +3872,8 @@ td .flag-img { margin-right: 4px; }
   .dash-nav__label { font-size: 12px; }
   .dash-nav__icon { font-size: 13px; }
   .dash-city-badge { font-size: 10px; padding: 3px 10px; margin: 4px 10px; }
-  .dash-city-switcher { margin: 4px 10px 3px; gap: 4px; }
-  .dash-city-pill { font-size: 9px; padding: 3px 4px; }
+  .dash-city-switcher { margin: 4px 10px 3px; gap: 3px; }
+  .dash-city-pill { font-size: 9px; padding: 3px 4px; flex: 1 1 calc(33% - 3px); }
   .dash-sidebar__footer { padding: 8px 14px; }
   .dash-back { font-size: 11px; }
 

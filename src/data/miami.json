@@ -1,0 +1,135 @@
+{
+  "_note": "Miami HQ data — Hard Rock Stadium, Miami Gardens.",
+  "lastUpdated": "2026-06-03T12:00:00-04:00",
+  "venue": {
+    "name": "Hard Rock Stadium",
+    "address": "347 Don Shula Dr, Miami Gardens, FL 33056",
+    "capacity": 65326,
+    "notes": "Clear bag policy strictly enforced. No re-entry once inside. Gates open 2.5 hours before kickoff.",
+    "parkingNote": "On-site parking available from $50. Book in advance via SeatGeek or the official FIFA app. Lots fill 3+ hours early."
+  },
+  "transit": {
+    "recommended": "Rideshare (Uber/Lyft) or personal vehicle — stadium is in Miami Gardens, ~16 miles from Downtown Miami",
+    "lines": ["No direct rail. Miami-Dade Transit Route 27 stops near the stadium."],
+    "tips": [
+      "Rideshare is the most practical option. Designate a pickup zone before the match ends.",
+      "Metrorail + bus combo from Dadeland South: 45–60 min. Not ideal for large groups.",
+      "Parking lots on Stephens Island and the east side fill earliest — arrive 2+ hours early if driving.",
+      "Wynwood and Brickell are 30+ min away by car on match days — head out early."
+    ],
+    "parking": "On-site parking $50–$80. Reserve via FIFA official app or SeatGeek. Cash lots available but limited.",
+    "rideshare": "Designated Uber/Lyft pickup on the stadium's east side, Gate H area. Expect surge pricing post-match."
+  },
+  "fanZones": [
+    {
+      "name": "FIFA Fan Festival — Bayfront Park",
+      "location": "Bayfront Park, Downtown Miami",
+      "dates": "June 14 – July 1",
+      "hours": "11am – Midnight on match days",
+      "free": true,
+      "notes": "Free entry. Massive main stage, food vendors, live music, giant screens. Best pre-match energy in the city."
+    },
+    {
+      "name": "Wynwood Fan Zone",
+      "location": "NW 2nd Ave & 25th St, Wynwood",
+      "dates": "Match days only",
+      "hours": "3 hours before kickoff",
+      "free": true,
+      "confirmed": false,
+      "notes": "Outdoor watch party in the arts district. Multiple screens, food trucks. Check local listings for confirmation."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Wynwood Walls area bars",
+      "type": "Neighborhood",
+      "distance": "30 min from stadium by rideshare",
+      "notes": "Best pre-game energy in Miami. Bars along NW 2nd Ave pack out hours before kickoff. International fan mix.",
+      "area": "Wynwood"
+    },
+    {
+      "name": "Brickell City Centre",
+      "type": "Food & Drink",
+      "distance": "35 min from stadium",
+      "notes": "Upscale pre-game option. Pull & Pour, Sugar, and Silverbar attract a soccer crowd on match days.",
+      "area": "Brickell"
+    },
+    {
+      "name": "Coconut Grove",
+      "type": "Neighborhood",
+      "distance": "40 min from stadium",
+      "notes": "Relaxed waterfront vibe. Good for earlier arrivals who want to avoid peak-hour traffic heading north.",
+      "area": "Coconut Grove"
+    }
+  ],
+  "cityEnergyForecast": [
+    { "matchId": "wc26-C4",  "date": "2026-06-19", "energyScore": 4, "crowdNote": "Morocco vs Haiti — passionate North African and Caribbean fans. Miami's diverse fan base will be in full voice. Afternoon kickoff." },
+    { "matchId": "wc26-F4",  "date": "2026-06-21", "energyScore": 3, "crowdNote": "Sweden vs Tunisia — European and North African supporters. Solid atmosphere but smaller traveling fan bases." },
+    { "matchId": "wc26-C6",  "date": "2026-06-24", "energyScore": 4, "crowdNote": "Scotland vs Morocco — Group C stakes. Scotland fans travel in force. Miami's Scottish community shows up." },
+    { "matchId": "wc26-012", "date": "2026-06-15", "energyScore": 5, "crowdNote": "France knockout match — Les Bleus at Hard Rock Stadium. Miami's French and Francophone community + massive Brazil of the north vibes." }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-C4",  "date": "2026-06-19",
+      "score": 4, "label": "High",
+      "color": "#f97316",
+      "note": "Morocco vs Haiti — afternoon match. I-95 and 836 will be congested. Leave early or plan rideshare.",
+      "peakWindow": "2:00–5:00 PM ET",
+      "tips": ["Leave Miami proper 2 hours before kickoff", "Rideshare surge pricing likely at post-match exit — walk to secondary pickup zone east of stadium", "Parking is plentiful but expensive; reserve in advance"]
+    },
+    {
+      "matchId": "wc26-F4",  "date": "2026-06-21",
+      "score": 3, "label": "Moderate",
+      "color": "#facc15",
+      "note": "Sweden vs Tunisia — smaller crowd, more manageable traffic. Still plan for 30-min extra travel time.",
+      "peakWindow": "3:00–6:00 PM ET",
+      "tips": ["Most manageable match-day traffic of Miami's group stage", "Good day to test your route if you're attending multiple matches", "I-95 express lanes help heading back south"]
+    },
+    {
+      "matchId": "wc26-C6",  "date": "2026-06-24",
+      "score": 4, "label": "High",
+      "color": "#f97316",
+      "note": "Scotland vs Morocco — evening match draws big crowds. Stadium at capacity. I-95 northbound a slog.",
+      "peakWindow": "5:00–8:30 PM ET",
+      "tips": ["Take Turnpike instead of I-95 if heading from South Miami", "Scottish fans arrive in full kit — atmosphere builds from 3pm", "Post-match rideshare surge: walk toward the Dolphin Expressway exit area"]
+    },
+    {
+      "matchId": "wc26-012", "date": "2026-06-15",
+      "score": 5, "label": "Very High",
+      "color": "#f87171",
+      "note": "France knockout match — Miami's biggest WC moment. City-wide energy, maximum traffic on all corridors.",
+      "peakWindow": "4:00–9:00 PM ET",
+      "tips": ["Plan to be in your seat 90 minutes early — this is a major event", "Book post-match restaurant or ride in advance", "Monitor Waze live — alternate routes via 826 or US-1 may be faster"]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-C4", "date": "2026-06-19",
+      "score": 82, "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Morocco vs Haiti at Hard Rock — atmospheric match with strong local fan energy. Miami's Haitian and North African communities will create something special.",
+      "factors": { "stage": 3, "homeConvenience": 3, "ticketValue": 4, "atmosphereExpected": 4 }
+    },
+    {
+      "matchId": "wc26-F4", "date": "2026-06-21",
+      "score": 68, "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Sweden vs Tunisia — good football, manageable crowds, best ticket value of Miami's group stage. Great introduction to the tournament.",
+      "factors": { "stage": 3, "homeConvenience": 3, "ticketValue": 5, "atmosphereExpected": 3 }
+    },
+    {
+      "matchId": "wc26-C6", "date": "2026-06-24",
+      "score": 85, "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Scotland vs Morocco with Group C stakes — could be a must-win. Scottish fans are legendary travelers. Miami's most complete match-day atmosphere of the group stage.",
+      "factors": { "stage": 4, "homeConvenience": 3, "ticketValue": 3, "atmosphereExpected": 5 }
+    },
+    {
+      "matchId": "wc26-012", "date": "2026-06-15",
+      "score": 93, "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "France in a knockout match at Hard Rock. Les Bleus on the biggest stage with elimination on the line. Miami's defining World Cup moment.",
+      "factors": { "stage": 5, "homeConvenience": 3, "ticketValue": 2, "atmosphereExpected": 5 }
+    }
+  ]
+}
