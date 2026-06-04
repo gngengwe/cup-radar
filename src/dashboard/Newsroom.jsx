@@ -2,33 +2,40 @@ import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import newsData from '../data/news.json';
 import { relativeTime } from '../utils/time';
-
-const CATEGORIES = ['all', 'tournament', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
+import { getCityMeta, CITY_NEWS_CATS } from '../utils/cityConfig';
 
 const CAT_COLORS = {
-  tournament:  { color: 'var(--accent)',              bg: 'var(--accent-soft)' },
-  seattle:     { color: '#4d8eff',                    bg: 'var(--blue-soft)' },
-  kansascity:  { color: '#c084fc',                    bg: 'rgba(192,132,252,0.1)' },
-  tickets:     { color: '#ffb84d',                    bg: 'rgba(255,184,77,0.1)' },
-  teams:       { color: '#a78bfa',                    bg: 'rgba(167,139,250,0.1)' },
-  travel:      { color: '#34d399',                    bg: 'rgba(52,211,153,0.1)' },
-  culture:     { color: '#f472b6',                    bg: 'rgba(244,114,182,0.1)' },
+  tournament:  { color: 'var(--accent)',  bg: 'var(--accent-soft)' },
+  seattle:     { color: '#4d8eff',        bg: 'var(--blue-soft)' },
+  kansascity:  { color: '#c084fc',        bg: 'rgba(192,132,252,0.1)' },
+  miami:       { color: '#f43f5e',        bg: 'rgba(244,63,94,0.1)' },
+  newyork:     { color: '#3b82f6',        bg: 'rgba(59,130,246,0.1)' },
+  philly:      { color: '#10b981',        bg: 'rgba(16,185,129,0.1)' },
+  tickets:     { color: '#ffb84d',        bg: 'rgba(255,184,77,0.1)' },
+  teams:       { color: '#a78bfa',        bg: 'rgba(167,139,250,0.1)' },
+  travel:      { color: '#34d399',        bg: 'rgba(52,211,153,0.1)' },
+  culture:     { color: '#f472b6',        bg: 'rgba(244,114,182,0.1)' },
 };
 
 const CAT_LABELS = {
-  all:         'All',
-  tournament:  'Tournament',
-  seattle:     '🏟️ Seattle',
-  kansascity:  '🏈 Kansas City',
-  tickets:     'Tickets',
-  teams:       'Teams',
-  travel:      'Travel',
-  culture:     'Culture',
+  all:        'All',
+  tournament: 'Tournament',
+  seattle:    '🏟️ Seattle',
+  kansascity: '🏈 Kansas City',
+  miami:      '🌴 Miami',
+  newyork:    '🗽 New York',
+  philly:     '🦅 Philadelphia',
+  tickets:    'Tickets',
+  teams:      'Teams',
+  travel:     'Travel',
+  culture:    'Culture',
 };
+
+// Non-city categories always shown
+const GENERAL_CATS = ['all', 'tournament', 'tickets', 'teams', 'travel', 'culture'];
 
 function NewsCard({ article, featured }) {
   const cfg = CAT_COLORS[article.category] || { color: 'var(--text-muted)', bg: 'rgba(255,255,255,.05)' };
-
   return (
     <div className={`news-card${featured ? ' featured' : ''}`}>
       <div className="news-card__top">
@@ -51,20 +58,29 @@ function NewsCard({ article, featured }) {
 
 export default function Newsroom() {
   const { city = 'seattle' } = useParams();
-  const defaultCat = city === 'kansascity' ? 'kansascity' : 'seattle';
-  const [cat, setCat] = useState(defaultCat);
+  const cityMeta = getCityMeta(city);
+  const cityNewsCat = cityMeta.newsCategory;
 
+  // Show city-specific chip + general chips
+  const CATEGORIES = [
+    ...GENERAL_CATS.slice(0, 1),       // 'all'
+    cityNewsCat,                        // current city
+    ...GENERAL_CATS.slice(1),          // tournament, tickets, teams, travel, culture
+  ];
+
+  const [cat, setCat] = useState(cityNewsCat);
   const { articles, lastUpdated } = newsData;
 
-  // "Other city" category to exclude from the All view
-  const otherCity = city === 'kansascity' ? 'seattle' : 'kansascity';
-
+  // In "all" view: show current city's news + general categories; exclude other cities
   const filtered = (() => {
-    if (cat === 'all') return articles.filter(a => a.category !== otherCity);
+    if (cat === 'all') return articles.filter(a =>
+      !CITY_NEWS_CATS.has(a.category) || a.category === cityNewsCat
+    );
     return articles.filter(a => a.category === cat);
   })();
-  const featured = filtered.filter(a => a.featured);
-  const rest     = filtered.filter(a => !a.featured);
+
+  const featured = filtered.filter(a => a.featured && !a.draft && !a.archived);
+  const rest     = filtered.filter(a => !a.featured && !a.draft && !a.archived);
 
   const updatedStr = new Date(lastUpdated).toLocaleDateString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
@@ -84,7 +100,7 @@ export default function Newsroom() {
             className={`filter-chip${cat === c ? ' active' : ''}`}
             onClick={() => setCat(c)}
           >
-            {CAT_LABELS[c]}
+            {CAT_LABELS[c] || c}
           </button>
         ))}
       </div>

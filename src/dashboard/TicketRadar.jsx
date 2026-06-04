@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ticketData from '../data/tickets.json';
 import { relativeTime } from '../utils/time';
+import { getCityMeta, isHomeMatch } from '../utils/cityConfig';
 
 const ACTION_CONFIG = {
   move:  { label: 'MOVE',  color: '#041208', bg: 'var(--accent)' },
@@ -135,24 +136,19 @@ function UrgentBoard({ tickets }) {
 
 export default function TicketRadar() {
   const { city = 'seattle' } = useParams();
-  const isKC = city === 'kansascity';
+  const cityMeta = getCityMeta(city);
 
-  // Default filter shows city-specific tickets first
-  const [filter, setFilter] = useState(isKC ? 'kc' : 'seattle');
+  const [filter, setFilter] = useState('home');
 
   const { tickets, lastUpdated, disclaimer } = ticketData;
 
-  // City-specific home filter label/key
-  const homeFilter    = isKC ? 'kc' : 'seattle';
-  const homeLabel     = isKC ? '🏈 Kansas City' : '🏟️ Seattle';
-  const awayLabel     = isKC ? '✈️ Away trips' : '✈️ Away trips';
+  const homeLabel = `${cityMeta.icon} ${cityMeta.label}`;
 
   const filtered = (() => {
-    if (filter === 'urgent')  return tickets;
-    if (filter === 'seattle') return tickets.filter(t => t.seattleMatch);
-    if (filter === 'kc')      return tickets.filter(t => t.kcMatch);
-    if (filter === 'away')    return tickets.filter(t => isKC ? (!t.kcMatch && !t.seattleMatch) : (!t.seattleMatch));
-    if (filter === 'all')     return tickets;
+    if (filter === 'urgent') return tickets;
+    if (filter === 'home')   return tickets.filter(t => isHomeMatch(t, city));
+    if (filter === 'away')   return tickets.filter(t => !isHomeMatch(t, city));
+    if (filter === 'all')    return tickets;
     return tickets.filter(t => t.action === filter);
   })();
 
@@ -190,8 +186,8 @@ export default function TicketRadar() {
 
       <div className="filter-bar">
         {[
-          { id: homeFilter, label: homeLabel },
-          { id: 'away',     label: awayLabel },
+          { id: 'home',   label: homeLabel },
+          { id: 'away',   label: '✈️ Away trips' },
           { id: 'urgent',   label: '🔴 Urgent — same week' },
           { id: 'move',     label: 'Move' },
           { id: 'watch',    label: 'Watch' },

@@ -4,12 +4,15 @@ import { useStandings } from '../hooks/useStandings';
 import scenarioData from '../data/scenarios.json';
 import matchData from '../data/matches.json';
 import FlagImg from '../components/FlagImg';
+import { getCityMeta, CITY_META } from '../utils/cityConfig';
 
 // Pre-compute which groups have matches in each city
-const CITY_GROUPS = {
-  seattle:    [...new Set(matchData.matches.filter(m => m.seattleMatch && m.group).map(m => m.group))],
-  kansascity: [...new Set(matchData.matches.filter(m => m.kcMatch      && m.group).map(m => m.group))],
-};
+const CITY_GROUPS = Object.fromEntries(
+  Object.entries(CITY_META).map(([id, meta]) => [
+    id,
+    [...new Set(matchData.matches.filter(m => m[meta.matchFlag] && m.group).map(m => m.group))],
+  ])
+);
 
 const STATUS_CONFIG = {
   advance:    { label: 'Advancing', color: 'var(--accent)',   bg: 'var(--accent-soft)' },
@@ -168,7 +171,7 @@ export default function Groups() {
             <button
               className={`group-pill city-pill${cityOnly ? ' active' : ''}`}
               onClick={() => { setCityOnly(v => !v); setActiveGroup(null); }}
-              title={`Groups playing in ${city === 'kansascity' ? 'Kansas City' : 'Seattle'}`}
+              title={`Groups playing in ${getCityMeta(city).label}`}
             >🏟️ My city</button>
           )}
           {standings.map(g => (

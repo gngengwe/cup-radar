@@ -5,6 +5,7 @@ import FlagImg from '../components/FlagImg';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { relativeTime } from '../utils/time';
 import { useCurrencies } from '../hooks/useCurrencies';
+import { getCityMeta } from '../utils/cityConfig';
 
 const CONTINENT_EMOJI = {
   'Europe':               '🌍',
@@ -229,7 +230,7 @@ export default function TeamIQ() {
   const teams                  = teamIQData[city] || [];
   const updatedStr             = relativeTime(teamIQData.lastUpdated);
 
-  const cityLabel = city === 'kansascity' ? 'Kansas City' : 'Seattle';
+  const cityLabel = getCityMeta(city).label;
 
   const teamCodes = teams.map(t => t.code);
   const { entries: rateEntries, updatedAt: ratesDate } = useCurrencies(teamCodes);
