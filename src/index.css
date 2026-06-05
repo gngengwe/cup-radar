@@ -3109,7 +3109,66 @@ td .flag-img { margin-right: 4px; }
 }
 
 /* ═══════════════════════════════════════════════════════════
-   COMING SOON OVERLAY — Ticket Radar
+   TICKET PULSE
+═══════════════════════════════════════════════════════════ */
+.ticket-pulse-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  margin-bottom: 20px;
+}
+.ticket-pulse-card__action-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.ticket-pulse-action {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  padding: 5px 14px;
+  border-radius: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ticket-pulse-action--sm { font-size: 11px; padding: 3px 10px; }
+.ticket-pulse-action__sub { font-size: 14px; color: var(--text-muted); }
+.ticket-pulse-card__note {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text);
+  margin: 0 0 24px;
+}
+.ticket-pulse-card__ctas { display: flex; flex-direction: column; gap: 12px; }
+.ticket-pulse-resale-note { font-size: 12px; color: var(--text-dim); margin: 0; }
+
+.ticket-pulse-how {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-bottom: 20px;
+}
+.ticket-pulse-how__title { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 12px; }
+.ticket-pulse-how__grid  { display: flex; flex-direction: column; gap: 8px; }
+.ticket-pulse-how__row   { display: flex; align-items: center; gap: 10px; }
+.ticket-pulse-how__desc  { font-size: 13px; color: var(--text-muted); }
+
+/* ── HQ inline pulse block ── */
+.hq-pulse-inline { display: flex; flex-direction: column; gap: 14px; }
+.hq-pulse-inline__top { display: flex; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+.hq-pulse-inline__note { font-size: 14px; color: var(--text); line-height: 1.55; flex: 1; min-width: 200px; }
+.hq-pulse-inline__ctas { display: flex; gap: 10px; flex-wrap: wrap; }
+
+/* ── Admin pulse rows ── */
+.admin-pulse-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+.admin-pulse-city { font-size: 13px; font-weight: 600; width: 130px; flex-shrink: 0; }
+
+/* ═══════════════════════════════════════════════════════════
+   COMING SOON OVERLAY — Ticket Radar (legacy, kept for ref)
 ═══════════════════════════════════════════════════════════ */
 .ticket-radar-wrapper {
   position: relative;

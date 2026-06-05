@@ -1,10 +1,16 @@
 import { useState, useEffect } from 'react';
 import { fetchFile, saveFile } from '../utils/github';
 
-const PHASES = ['pre-tournament', 'live', 'post-tournament'];
-const ACTIONS = ['monitor', 'move', 'wait', null];
-const URGENCY = ['low', 'medium', 'high', null];
-const CATEGORIES = ['tournament', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
+const PHASES      = ['pre-tournament', 'live', 'post-tournament'];
+const PULSE_ACTIONS = ['move', 'watch', 'wait'];
+const CATEGORIES  = ['tournament', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
+const CITIES      = [
+  { id: 'seattle',    label: '🏟️ Seattle'       },
+  { id: 'kansascity', label: '🏈 Kansas City'    },
+  { id: 'miami',      label: '🌴 Miami'          },
+  { id: 'newyork',    label: '🗽 New York'       },
+  { id: 'philly',     label: '🦅 Philadelphia'   },
+];
 
 export default function AlertsEditor({ token }) {
   const [data,    setData]    = useState(null);
@@ -81,21 +87,37 @@ export default function AlertsEditor({ token }) {
         </div>
       </div>
 
-      {/* Ticket alert */}
+      {/* Ticket pulse — per city */}
       <div className="admin-field">
-        <label className="admin-label">Ticket alert message</label>
-        <input className="admin-input" value={data.ticketAlert?.message || ''}
-          onChange={e => setData(d => ({ ...d, ticketAlert: { ...d.ticketAlert, message: e.target.value } }))} />
-        <div className="admin-row" style={{ marginTop: 6 }}>
-          <select className="admin-select" value={data.ticketAlert?.action || ''}
-            onChange={e => setData(d => ({ ...d, ticketAlert: { ...d.ticketAlert, action: e.target.value } }))}>
-            {ACTIONS.map(a => <option key={a} value={a ?? ''}>{a ?? '(none)'}</option>)}
-          </select>
-          <select className="admin-select" value={data.ticketAlert?.urgency || ''}
-            onChange={e => setData(d => ({ ...d, ticketAlert: { ...d.ticketAlert, urgency: e.target.value } }))}>
-            {URGENCY.map(u => <option key={u} value={u ?? ''}>{u ?? '(none)'}</option>)}
-          </select>
-        </div>
+        <label className="admin-label">Ticket pulse (per city)</label>
+        <p style={{ fontSize: 12, color: 'var(--text-muted)', margin: '0 0 10px' }}>
+          MOVE = act now · WATCH = monitor · WAIT = overpriced
+        </p>
+        {CITIES.map(({ id, label }) => {
+          const pulse = data.ticketPulse?.[id] || {};
+          const setField = (field, val) => setData(d => ({
+            ...d,
+            ticketPulse: {
+              ...d.ticketPulse,
+              [id]: { ...d.ticketPulse?.[id], [field]: val, updatedAt: new Date().toISOString().split('T')[0] },
+            },
+          }));
+          return (
+            <div key={id} className="admin-pulse-row">
+              <span className="admin-pulse-city">{label}</span>
+              <select className="admin-select admin-select--sm"
+                value={pulse.action || 'watch'}
+                onChange={e => setField('action', e.target.value)}
+              >
+                {PULSE_ACTIONS.map(a => <option key={a} value={a}>{a.toUpperCase()}</option>)}
+              </select>
+              <input className="admin-input" placeholder="One-line market note…"
+                value={pulse.note || ''}
+                onChange={e => setField('note', e.target.value)}
+              />
+            </div>
+          );
+        })}
       </div>
 
       {/* Top 3 stories */}

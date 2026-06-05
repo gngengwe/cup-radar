@@ -1,6 +1,7 @@
-// Shared HQ template — rendered by SeattleHQ and KansasCityHQ with city-specific data.
+// Shared HQ template — rendered by SeattleHQ, KansasCityHQ, MiamiHQ, NewYorkHQ, PhillyHQ.
 import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
+import alertsData from '../data/alerts.json';
 import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
 import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
@@ -9,6 +10,12 @@ import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
 import CurrencyWidget from '../components/CurrencyWidget';
+
+const PULSE_ACTION = {
+  move:  { label: 'MOVE',  bg: 'var(--accent)',          color: '#041208'           },
+  watch: { label: 'WATCH', bg: 'var(--blue-soft)',        color: '#4d8eff'           },
+  wait:  { label: 'WAIT',  bg: 'rgba(255,255,255,0.06)', color: 'var(--text-muted)' },
+};
 
 const SHOULD_GO_COLORS = {
   'Once in a lifetime': '#00e676',
@@ -171,6 +178,8 @@ function TodaySummary({ matches, cityData }) {
 
 export default function CityHQTemplate({ cityData, matches, events, title, venueName, cityId = 'seattle' }) {
   const { venue, transit, fanZones, preGame } = cityData;
+  const pulse      = alertsData.ticketPulse?.[cityId];
+  const pulseCfg   = PULSE_ACTION[pulse?.action] || PULSE_ACTION.watch;
 
   const lastUpdated = new Date(cityData.lastUpdated).toLocaleDateString('en-US', {
     month: 'short', day: 'numeric', year: 'numeric',
@@ -288,13 +297,32 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
         </div>
       )}
 
-      {/* ── Ticket watch ── */}
+      {/* ── Ticket pulse ── */}
       <div className="dash-sub-section">
-        <h3 className="dash-sub-heading">Ticket Watch</h3>
-        <p className="dash-sub-desc">{cityData.cityName} match inventory is limited. Monitor early.</p>
-        <Link to={`/${cityId}/tickets`} className="btn btn-primary" style={{ display: 'inline-flex' }}>
-          Open Ticket Radar →
-        </Link>
+        <h3 className="dash-sub-heading">Ticket Pulse</h3>
+        {pulse ? (
+          <div className="hq-pulse-inline">
+            <div className="hq-pulse-inline__top">
+              <span className="ticket-pulse-action" style={{ background: pulseCfg.bg, color: pulseCfg.color }}>
+                {pulseCfg.label}
+              </span>
+              <span className="hq-pulse-inline__note">{pulse.note}</span>
+            </div>
+            <div className="hq-pulse-inline__ctas">
+              <a href="https://www.fifa.com/tickets" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ display: 'inline-flex' }}>
+                Official tickets at FIFA ↗
+              </a>
+              <Link to={`/${cityId}/tickets`} className="btn btn-secondary" style={{ display: 'inline-flex' }}>
+                Full ticket guide
+              </Link>
+            </div>
+          </div>
+        ) : (
+          <p className="dash-sub-desc">
+            Ticket intelligence coming soon.{' '}
+            <a href="https://www.fifa.com/tickets" target="_blank" rel="noopener noreferrer">Official tickets at FIFA ↗</a>
+          </p>
+        )}
       </div>
 
       <p className="dash-disclaimer">

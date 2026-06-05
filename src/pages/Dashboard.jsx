@@ -12,7 +12,7 @@ const PhillyHQ           = lazy(() => import('../dashboard/PhillyHQ'));
 const Matches            = lazy(() => import('../dashboard/Matches'));
 const Groups             = lazy(() => import('../dashboard/Groups'));
 const Bracket            = lazy(() => import('../dashboard/Bracket'));
-const TicketRadar        = lazy(() => import('../dashboard/TicketRadar'));
+const TicketPulse        = lazy(() => import('../dashboard/TicketPulse'));
 const CityJump           = lazy(() => import('../dashboard/CityJump'));
 const SeattleWatchGuide  = lazy(() => import('../dashboard/WatchGuide'));
 const KCWatchGuide       = lazy(() => import('../dashboard/KCWatchGuide'));
@@ -81,7 +81,7 @@ function buildNav(city) {
     { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
     { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'All fixtures'         },
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
-    { id: 'tickets',    label: 'Ticket Radar',       icon: '🎫',      desc: 'Opportunities'        },
+    { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
     { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
     { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
     { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
@@ -99,7 +99,7 @@ function getSectionComponent(city, section) {
     matches:    Matches,
     groups:     Groups,
     bracket:    Bracket,
-    tickets:    TicketRadar,
+    tickets:    TicketPulse,
     cityjump:   CityJump,
     watch:      cfg.watchSection,
     news:       Newsroom,
