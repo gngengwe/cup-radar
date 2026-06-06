@@ -1,5 +1,5 @@
 {
-  "_note": "Miami HQ data — Hard Rock Stadium, Miami Gardens.",
+  "_note": "Miami HQ data — Hard Rock Stadium, Miami Gardens. 4 group stage matches.",
   "lastUpdated": "2026-06-03T12:00:00-04:00",
   "venue": {
     "name": "Hard Rock Stadium",
@@ -10,7 +10,9 @@
   },
   "transit": {
     "recommended": "Rideshare (Uber/Lyft) or personal vehicle — stadium is in Miami Gardens, ~16 miles from Downtown Miami",
-    "lines": ["No direct rail. Miami-Dade Transit Route 27 stops near the stadium."],
+    "lines": [
+      "No direct rail. Miami-Dade Transit Route 27 stops near the stadium."
+    ],
     "tips": [
       "Rideshare is the most practical option. Designate a pickup zone before the match ends.",
       "Metrorail + bus combo from Dadeland South: 45–60 min. Not ideal for large groups.",
@@ -63,73 +65,146 @@
     }
   ],
   "cityEnergyForecast": [
-    { "matchId": "wc26-C4",  "date": "2026-06-19", "energyScore": 4, "crowdNote": "Morocco vs Haiti — passionate North African and Caribbean fans. Miami's diverse fan base will be in full voice. Afternoon kickoff." },
-    { "matchId": "wc26-F4",  "date": "2026-06-21", "energyScore": 3, "crowdNote": "Sweden vs Tunisia — European and North African supporters. Solid atmosphere but smaller traveling fan bases." },
-    { "matchId": "wc26-C6",  "date": "2026-06-24", "energyScore": 4, "crowdNote": "Scotland vs Morocco — Group C stakes. Scotland fans travel in force. Miami's Scottish community shows up." },
-    { "matchId": "wc26-012", "date": "2026-06-15", "energyScore": 5, "crowdNote": "France knockout match — Les Bleus at Hard Rock Stadium. Miami's French and Francophone community + massive Brazil of the north vibes." }
+    {
+      "matchId": "wc26-012",
+      "date": "2026-06-15",
+      "energyScore": 4,
+      "crowdNote": "Saudi Arabia vs Uruguay — Group H opener. Miami's large South American community will bring early tournament energy. Uruguay fans passionate; Saudi diaspora adds color."
+    },
+    {
+      "matchId": "wc26-F4",
+      "date": "2026-06-21",
+      "energyScore": 3,
+      "crowdNote": "Uruguay vs Cape Verde — Group H Matchday 2. Smaller fan bases but competitive football. Good atmosphere for a weekend afternoon match."
+    },
+    {
+      "matchId": "wc26-C6",
+      "date": "2026-06-24",
+      "energyScore": 5,
+      "crowdNote": "Scotland vs Brazil — Group C finale. Brazil's Miami diaspora is one of the city's largest. Scottish fans travel in force. Hard Rock will be electric."
+    },
+    {
+      "matchId": "wc26-K4",
+      "date": "2026-06-27",
+      "energyScore": 5,
+      "crowdNote": "Colombia vs Portugal — Group K finale. Miami's Colombian and Portuguese communities will fill Hard Rock. Cristiano Ronaldo on the biggest stage in the city."
+    }
   ],
   "transitPain": [
     {
-      "matchId": "wc26-C4",  "date": "2026-06-19",
-      "score": 4, "label": "High",
-      "color": "#f97316",
-      "note": "Morocco vs Haiti — afternoon match. I-95 and 836 will be congested. Leave early or plan rideshare.",
-      "peakWindow": "2:00–5:00 PM ET",
-      "tips": ["Leave Miami proper 2 hours before kickoff", "Rideshare surge pricing likely at post-match exit — walk to secondary pickup zone east of stadium", "Parking is plentiful but expensive; reserve in advance"]
-    },
-    {
-      "matchId": "wc26-F4",  "date": "2026-06-21",
-      "score": 3, "label": "Moderate",
+      "matchId": "wc26-012",
+      "date": "2026-06-15",
+      "score": 3,
+      "label": "Moderate",
       "color": "#facc15",
-      "note": "Sweden vs Tunisia — smaller crowd, more manageable traffic. Still plan for 30-min extra travel time.",
+      "note": "Saudi Arabia vs Uruguay — Sunday afternoon match. I-95 manageable but rideshare pricing will spike post-match.",
+      "peakWindow": "3:00–7:00 PM ET",
+      "tips": [
+        "Rideshare is easiest — designate pickup zone before leaving your seat",
+        "I-95 northbound clear by 9pm if you stay for post-match atmosphere",
+        "Parking available but book in advance via FIFA app"
+      ]
+    },
+    {
+      "matchId": "wc26-F4",
+      "date": "2026-06-21",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Uruguay vs Cape Verde — most manageable match-day logistics of Miami's schedule. Mid-week afternoon.",
       "peakWindow": "3:00–6:00 PM ET",
-      "tips": ["Most manageable match-day traffic of Miami's group stage", "Good day to test your route if you're attending multiple matches", "I-95 express lanes help heading back south"]
+      "tips": [
+        "Best day to test your route if attending multiple matches",
+        "I-95 express lanes run smoothly on weekend afternoons",
+        "Post-match rideshare wait under 15 min historically"
+      ]
     },
     {
-      "matchId": "wc26-C6",  "date": "2026-06-24",
-      "score": 4, "label": "High",
-      "color": "#f97316",
-      "note": "Scotland vs Morocco — evening match draws big crowds. Stadium at capacity. I-95 northbound a slog.",
-      "peakWindow": "5:00–8:30 PM ET",
-      "tips": ["Take Turnpike instead of I-95 if heading from South Miami", "Scottish fans arrive in full kit — atmosphere builds from 3pm", "Post-match rideshare surge: walk toward the Dolphin Expressway exit area"]
-    },
-    {
-      "matchId": "wc26-012", "date": "2026-06-15",
-      "score": 5, "label": "Very High",
+      "matchId": "wc26-C6",
+      "date": "2026-06-24",
+      "score": 5,
+      "label": "Very High",
       "color": "#f87171",
-      "note": "France knockout match — Miami's biggest WC moment. City-wide energy, maximum traffic on all corridors.",
-      "peakWindow": "4:00–9:00 PM ET",
-      "tips": ["Plan to be in your seat 90 minutes early — this is a major event", "Book post-match restaurant or ride in advance", "Monitor Waze live — alternate routes via 826 or US-1 may be faster"]
+      "note": "Scotland vs Brazil — Miami's biggest group-stage match. Brazilian diaspora + Scottish travelers pack every road and transit corridor.",
+      "peakWindow": "4:00–9:30 PM ET",
+      "tips": [
+        "Leave Miami proper 2+ hours before kickoff — this is maximum crowd",
+        "Scottish fans in full kit arrive from 3pm; atmosphere builds early",
+        "Post-match rideshare surge — walk east of the stadium to secondary pickup zone",
+        "Monitor Waze: 826 or Turnpike may be faster than I-95"
+      ]
+    },
+    {
+      "matchId": "wc26-K4",
+      "date": "2026-06-27",
+      "score": 5,
+      "label": "Very High",
+      "color": "#f87171",
+      "note": "Colombia vs Portugal — tournament farewell weekend, Group K finale. City-wide energy across all corridors.",
+      "peakWindow": "5:30–11:00 PM ET",
+      "tips": [
+        "Book post-match transport before the match starts",
+        "Colombian and Portuguese communities will be in full voice from 5pm",
+        "Night match — Wynwood and Brickell will be packed until 2am"
+      ]
     }
   ],
   "shouldIGoScores": [
     {
-      "matchId": "wc26-C4", "date": "2026-06-19",
-      "score": 82, "label": "Go",
+      "matchId": "wc26-012",
+      "date": "2026-06-15",
+      "score": 78,
+      "label": "Go",
       "color": "var(--accent)",
-      "summary": "Morocco vs Haiti at Hard Rock — atmospheric match with strong local fan energy. Miami's Haitian and North African communities will create something special.",
-      "factors": { "stage": 3, "homeConvenience": 3, "ticketValue": 4, "atmosphereExpected": 4 }
+      "summary": "Saudi Arabia vs Uruguay at Hard Rock — the tournament opener for Miami. Uruguay's passionate traveling support and Saudi diaspora make for a lively atmosphere. Good value for a Group H opener.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 3,
+        "ticketValue": 4,
+        "atmosphereExpected": 3
+      }
     },
     {
-      "matchId": "wc26-F4", "date": "2026-06-21",
-      "score": 68, "label": "Consider",
+      "matchId": "wc26-F4",
+      "date": "2026-06-21",
+      "score": 65,
+      "label": "Consider",
       "color": "var(--accent)",
-      "summary": "Sweden vs Tunisia — good football, manageable crowds, best ticket value of Miami's group stage. Great introduction to the tournament.",
-      "factors": { "stage": 3, "homeConvenience": 3, "ticketValue": 5, "atmosphereExpected": 3 }
+      "summary": "Uruguay vs Cape Verde — competitive Group H football, best ticket value of Miami's schedule. Smaller crowd means a more relaxed matchday experience.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 3,
+        "ticketValue": 5,
+        "atmosphereExpected": 3
+      }
     },
     {
-      "matchId": "wc26-C6", "date": "2026-06-24",
-      "score": 85, "label": "Strongly Go",
+      "matchId": "wc26-C6",
+      "date": "2026-06-24",
+      "score": 93,
+      "label": "Don't miss it",
       "color": "#00e676",
-      "summary": "Scotland vs Morocco with Group C stakes — could be a must-win. Scottish fans are legendary travelers. Miami's most complete match-day atmosphere of the group stage.",
-      "factors": { "stage": 4, "homeConvenience": 3, "ticketValue": 3, "atmosphereExpected": 5 }
+      "summary": "Scotland vs Brazil in Miami is everything. NYC's Brazilian diaspora travels south, Scottish fans arrive in full force, and Hard Rock becomes the loudest stadium in the tournament. Group C finale with massive stakes.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 3,
+        "ticketValue": 2,
+        "atmosphereExpected": 5
+      }
     },
     {
-      "matchId": "wc26-012", "date": "2026-06-15",
-      "score": 93, "label": "Don't miss it",
+      "matchId": "wc26-K4",
+      "date": "2026-06-27",
+      "score": 89,
+      "label": "Strongly Go",
       "color": "#00e676",
-      "summary": "France in a knockout match at Hard Rock. Les Bleus on the biggest stage with elimination on the line. Miami's defining World Cup moment.",
-      "factors": { "stage": 5, "homeConvenience": 3, "ticketValue": 2, "atmosphereExpected": 5 }
+      "summary": "Colombia vs Portugal — Cristiano Ronaldo at Hard Rock Stadium is a once-per-generation moment. Miami's Latin American and Iberian communities make this the city's most anticipated Group K fixture.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 3,
+        "ticketValue": 2,
+        "atmosphereExpected": 5
+      }
     }
   ]
 }

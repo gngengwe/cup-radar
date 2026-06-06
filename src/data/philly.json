@@ -1,5 +1,5 @@
 {
-  "_note": "Philadelphia HQ data — Lincoln Financial Field, South Philadelphia.",
+  "_note": "Philadelphia HQ data — Lincoln Financial Field, South Philadelphia. 5 group stage matches.",
   "lastUpdated": "2026-06-03T12:00:00-04:00",
   "venue": {
     "name": "Lincoln Financial Field",
@@ -10,7 +10,10 @@
   },
   "transit": {
     "recommended": "SEPTA Broad Street Line — Pattison Station (direct to South Philly sports complex)",
-    "lines": ["SEPTA Broad Street Line (Orange Line) to Pattison Station", "SEPTA Bus 17"],
+    "lines": [
+      "SEPTA Broad Street Line (Orange Line) to Pattison Station",
+      "SEPTA Bus 17"
+    ],
     "tips": [
       "Broad Street Line is the definitive match-day option. Trains run frequently and stop 2 blocks from the stadium.",
       "Trains from City Hall station take ~12 minutes. Board with Philly Transit Pass or cash fare.",
@@ -63,57 +66,179 @@
     }
   ],
   "cityEnergyForecast": [
-    { "matchId": "wc26-F1",  "date": "2026-06-16", "energyScore": 4, "crowdNote": "Netherlands vs Sweden — Oranje fans travel in massive numbers, all-orange and loud. Swedish support adds strong European atmosphere." },
-    { "matchId": "wc26-B4",  "date": "2026-06-18", "energyScore": 3, "crowdNote": "Switzerland vs Bosnia-Herzegovina — Bosnian diaspora is strong in Philadelphia and New Jersey. Expect passionate Bosnian fan sections." },
-    { "matchId": "wc26-F5",  "date": "2026-06-28", "energyScore": 5, "crowdNote": "Netherlands vs Tunisia — final Group F match with knockout implications. Oranje may need points. Lincoln Financial at peak energy for Group F finale." }
+    {
+      "matchId": "wc26-B4",
+      "date": "2026-06-14",
+      "energyScore": 4,
+      "crowdNote": "Côte d'Ivoire vs Ecuador — Philly's opener. Strong Ivorian and Ecuadorian diaspora communities in the Northeast. Lincoln Financial sets the tournament tone for the city."
+    },
+    {
+      "matchId": "wc26-C5",
+      "date": "2026-06-19",
+      "energyScore": 5,
+      "crowdNote": "Brazil vs Haiti — Philly's Haitian community is one of the most passionate in the US. Brazil traveling support adds carnival atmosphere. One of Philly's biggest match-day moments."
+    },
+    {
+      "matchId": "wc26-F1",
+      "date": "2026-06-22",
+      "energyScore": 4,
+      "crowdNote": "France vs Iraq — Les Bleus bring massive prestige and traveling support. Philly's Franco-American community will be present. Iraq fans in the US primarily based in Detroit and Chicago but will travel."
+    },
+    {
+      "matchId": "wc26-F5",
+      "date": "2026-06-25",
+      "energyScore": 3,
+      "crowdNote": "Curaçao vs Côte d'Ivoire — Curaçao's Caribbean diaspora plus Ivorian fans make for a colorful crowd. Rematch energy from wc26-B4."
+    },
+    {
+      "matchId": "wc26-L3",
+      "date": "2026-06-27",
+      "energyScore": 4,
+      "crowdNote": "Croatia vs Ghana — Group L finale. Philly's Croatian community is strong. Ghanaian fans in the Northeast add Black Stars energy. High-stakes group stage finale."
+    }
   ],
   "transitPain": [
     {
-      "matchId": "wc26-F1",  "date": "2026-06-16",
-      "score": 4, "label": "High",
-      "color": "#f97316",
-      "note": "Netherlands vs Sweden — Oranje fans are notorious for filling cities in orange. Downtown Philly will be packed before and after.",
-      "peakWindow": "4:00–8:00 PM ET",
-      "tips": ["Broad Street Line strongly recommended — skip driving entirely", "Expect orange jerseys on every train and street corner from noon onward", "Dutch fans party hard post-match — South St and Old City will be electric until late"]
-    },
-    {
-      "matchId": "wc26-B4",  "date": "2026-06-18",
-      "score": 2, "label": "Low",
-      "color": "var(--accent)",
-      "note": "Switzerland vs Bosnia-Herzegovina — most manageable transit day of Lincoln Financial's schedule. Bosnian fans are passionate but smaller traveling contingent.",
-      "peakWindow": "5:00–8:00 PM ET",
-      "tips": ["Easiest match-day logistics in Philly's schedule", "Good day to test Broad Street Line if it's your first visit", "Bosnian community from Philly and NJ will create warm atmosphere"]
-    },
-    {
-      "matchId": "wc26-F5",  "date": "2026-06-28",
-      "score": 5, "label": "Very High",
-      "color": "#f87171",
-      "note": "Group F finale — Netherlands vs Tunisia with knockout stakes. Final weekend of group stage, massive crowds across Philly.",
+      "matchId": "wc26-B4",
+      "date": "2026-06-14",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Côte d'Ivoire vs Ecuador — Sunday evening match. I-95 manageable by kickoff. Broad Street Line runs smoothly.",
       "peakWindow": "5:00–9:00 PM ET",
-      "tips": ["Plan the full day — this is a major event in the city", "Broad Street Line will be at capacity; arrive at City Hall station early", "Post-match will be high energy — Dutch celebration or Dutch heartbreak either way is memorable"]
+      "tips": [
+        "Broad Street Line from City Hall: 12 min, trains run every 8–10 min on event days",
+        "Evening kickoff avoids rush hour — plan to arrive by 6pm",
+        "Parking at the sports complex available but reserve in advance"
+      ]
+    },
+    {
+      "matchId": "wc26-C5",
+      "date": "2026-06-19",
+      "score": 4,
+      "label": "High",
+      "color": "#f97316",
+      "note": "Brazil vs Haiti — Philly's biggest match-day crowd. Haitian and Brazilian communities pack public transit and streets. Late kickoff adds night energy.",
+      "peakWindow": "6:00–11:00 PM ET",
+      "tips": [
+        "Broad Street Line is essential — do not drive to this match",
+        "Arrive at City Hall station 45 min before departure — trains fill fast",
+        "Haitian and Brazilian communities celebrate loudly — South Street will be electric until 2am"
+      ]
+    },
+    {
+      "matchId": "wc26-F1",
+      "date": "2026-06-22",
+      "score": 4,
+      "label": "High",
+      "color": "#f97316",
+      "note": "France vs Iraq — Les Bleus bring large traveling support. Evening match, transit pressure peaks post-game.",
+      "peakWindow": "5:00–9:30 PM ET",
+      "tips": [
+        "French fans fill Rittenhouse and Old City bars from early afternoon",
+        "Broad Street Line is the move — skip I-95 entirely",
+        "Post-match Philly bar scene will be in full celebration or commiseration mode"
+      ]
+    },
+    {
+      "matchId": "wc26-F5",
+      "date": "2026-06-25",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Curaçao vs Côte d'Ivoire — most manageable match-day logistics in Philly's schedule. Afternoon kickoff, smaller crowd.",
+      "peakWindow": "2:00–5:30 PM ET",
+      "tips": [
+        "Best day for first-time Lincoln Financial visitors — easy logistics",
+        "Broad Street Line runs uncrowded by post-match departure",
+        "Explore East Passyunk before the match for the most relaxed Philly pre-game experience"
+      ]
+    },
+    {
+      "matchId": "wc26-L3",
+      "date": "2026-06-27",
+      "score": 4,
+      "label": "High",
+      "color": "#f97316",
+      "note": "Croatia vs Ghana — Group L finale, final weekend of group stage. Lincoln Financial at capacity, transit pressure significant.",
+      "peakWindow": "4:00–8:30 PM ET",
+      "tips": [
+        "Group stage final weekend — plan the full afternoon around the match",
+        "Broad Street Line reaches capacity before post-match — board quickly",
+        "Croatian community in South Philly will start gathering from noon — great pre-match walk"
+      ]
     }
   ],
   "shouldIGoScores": [
     {
-      "matchId": "wc26-F1", "date": "2026-06-16",
-      "score": 88, "label": "Strongly Go",
-      "color": "#00e676",
-      "summary": "Netherlands vs Sweden at Lincoln Financial — Oranje travel in the tens of thousands, all orange, all loud. One of the most visually stunning fan atmospheres in the tournament.",
-      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
-    },
-    {
-      "matchId": "wc26-B4", "date": "2026-06-18",
-      "score": 72, "label": "Go",
+      "matchId": "wc26-B4",
+      "date": "2026-06-14",
+      "score": 80,
+      "label": "Go",
       "color": "var(--accent)",
-      "summary": "Switzerland vs Bosnia — best ticket value in Philly's schedule. Strong Bosnian fan energy, solid match, easy logistics. Good entry point if you're new to the tournament.",
-      "factors": { "stage": 3, "homeConvenience": 5, "ticketValue": 5, "atmosphereExpected": 3 }
+      "summary": "Côte d'Ivoire vs Ecuador opens Philly's World Cup. Northeast diaspora communities for both nations make for a charged atmosphere at Lincoln Financial. Good value and an accessible intro to the tournament.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 5,
+        "ticketValue": 4,
+        "atmosphereExpected": 4
+      }
     },
     {
-      "matchId": "wc26-F5", "date": "2026-06-28",
-      "score": 91, "label": "Don't miss it",
+      "matchId": "wc26-C5",
+      "date": "2026-06-19",
+      "score": 92,
+      "label": "Don't miss it",
       "color": "#00e676",
-      "summary": "Netherlands vs Tunisia — Group F finale with knockout spots on the line. Oranje desperate for points, Tunisian fans fighting too. This is exactly the high-stakes group stage football you came for.",
-      "factors": { "stage": 4, "homeConvenience": 5, "ticketValue": 3, "atmosphereExpected": 5 }
+      "summary": "Brazil vs Haiti in Philadelphia is one of the tournament's emotional centerpieces. Philly's Haitian community is among the most passionate in North America. Brazil's traveling support turns Lincoln Financial into a carnival. This is Philly's defining World Cup moment.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 5,
+        "ticketValue": 2,
+        "atmosphereExpected": 5
+      }
+    },
+    {
+      "matchId": "wc26-F1",
+      "date": "2026-06-22",
+      "score": 84,
+      "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "France vs Iraq brings international prestige to Lincoln Financial. Les Bleus are one of the most decorated traveling fan bases in the world and Philly's European contingent will be out in full.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 5,
+        "ticketValue": 3,
+        "atmosphereExpected": 4
+      }
+    },
+    {
+      "matchId": "wc26-F5",
+      "date": "2026-06-25",
+      "score": 68,
+      "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Curaçao vs Côte d'Ivoire — best ticket value in Philly's schedule. Colorful crowd, Caribbean and West African energy, easy logistics. Good day to experience Lincoln Financial without the chaos of bigger matches.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 5,
+        "ticketValue": 5,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-L3",
+      "date": "2026-06-27",
+      "score": 83,
+      "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Croatia vs Ghana — Group L finale with knockout implications. South Philly's Croatian community plus Ghanaian supporters create a charged atmosphere. Final weekend energy makes every group-stage match feel electric.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 5,
+        "ticketValue": 3,
+        "atmosphereExpected": 4
+      }
     }
   ]
 }
