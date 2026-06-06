@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-06T16:52:41.848Z",
+  "lastUpdated": "2026-06-06T17:31:31.685Z",
   "articles": [
     {
       "id": "news-auto-iran-move-world-cup-base-from-us-to-mexi-2026-05-23",
@@ -34,7 +34,8 @@
       "date": "2026-05-23",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBZWVJPWVQwWWhZUW03ZnRfZjhkWVpxM29aWFhWMXl1b1BWTnNXVU9BaUgtbTcxSEZ5a3hCWlktSnppbFh5OWlwblMyWWpKM2dMbkNDdnZMVWc2R2g4bzlkTUlRNkpPc1RZR25Wc2xpSmJEcC1vY2xZdy1PWS1pZFZCTThPc3YzLXZJd1NzTThwOUVWd28zZ3lPOW9weWVSSFFldGVxNzFncU9Da01FTnJR?oc=5",
       "featured": false,
-      "draft": true
+      "draft": true,
+      "archived": true
     },
     {
       "id": "news-auto-shakira-burna-boy-drop-dai-dai-video-fea-2026-05-23",
