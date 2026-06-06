@@ -214,8 +214,8 @@ function TeamCard({ team, rateEntry }) {
           <div className="tiq-section tiq-city-context">
             <div className="tiq-section__label">🏟️ Watch for in your city</div>
             <p className="tiq-watch-for">{squad.watchFor}</p>
-            {(team.seattleContext || team.kcContext) && (
-              <p className="tiq-city-note">{team.seattleContext || team.kcContext}</p>
+            {(team.seattleContext || team.kcContext || squad.cityContext) && (
+              <p className="tiq-city-note">{team.seattleContext || team.kcContext || squad.cityContext}</p>
             )}
           </div>
 

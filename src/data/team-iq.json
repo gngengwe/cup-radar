@@ -1,14 +1,24 @@
 {
   "_note": "Country + Team IQ profiles for teams playing in each host city. Update star players and FIFA rankings as tournament approaches.",
-  "lastUpdated": "2026-05-14T12:00:00-07:00",
+  "lastUpdated": "2026-06-06T20:53:51.211Z",
   "seattle": [
     {
       "code": "BEL",
       "name": "Belgium",
       "flag": "🇧🇪",
       "group": "G",
-      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red inspired by Gothic stained-glass windows — Red Devils and Red Flames icons woven in (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-belgium-2026-home-jersey-mens" },
-      "cityMatches": ["vs Egypt — Jun 15, noon PT, Lumen Field (Group G)"],
+      "jersey": {
+        "colors": [
+          "#ED2939",
+          "#000000"
+        ],
+        "pattern": "solid",
+        "description": "Bold red inspired by Gothic stained-glass windows — Red Devils and Red Flames icons woven in (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-belgium-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Egypt — Jun 15, noon PT, Lumen Field (Group G)"
+      ],
       "country": {
         "capital": "Brussels",
         "population": "11.6 million",
@@ -33,13 +43,36 @@
         "lastWC": "2022 Qatar — eliminated in group stage",
         "manager": "Domenico Tedesco",
         "starPlayers": [
-          { "name": "Kevin De Bruyne", "position": "Midfielder", "club": "Manchester City", "note": "One of the best midfielders in history. 2026 may be his last WC. Creates everything for Belgium." },
-          { "name": "Romelu Lukaku", "position": "Forward", "club": "Roma", "note": "Belgium's all-time top scorer. Physical, powerful, best in box. Fitness is always the question." },
-          { "name": "Lois Openda", "position": "Forward", "club": "RB Leipzig", "note": "The next generation of Belgian attack. Fast, clinical, hungry for big moments." }
+          {
+            "name": "Kevin De Bruyne",
+            "position": "Midfielder",
+            "club": "Manchester City",
+            "note": "One of the best midfielders in history. 2026 may be his last WC. Creates everything for Belgium."
+          },
+          {
+            "name": "Romelu Lukaku",
+            "position": "Forward",
+            "club": "Roma",
+            "note": "Belgium's all-time top scorer. Physical, powerful, best in box. Fitness is always the question."
+          },
+          {
+            "name": "Lois Openda",
+            "position": "Forward",
+            "club": "RB Leipzig",
+            "note": "The next generation of Belgian attack. Fast, clinical, hungry for big moments."
+          }
         ],
         "style": "Possession-based with elite individual quality. De Bruyne dictates tempo. Strong on transitions and set pieces.",
-        "strengths": ["World-class midfield", "Experienced squad", "Individual quality in every position"],
-        "weaknesses": ["Aging core", "2022 group stage exit exposed tension", "Pressure of 'last chance' narrative"],
+        "strengths": [
+          "World-class midfield",
+          "Experienced squad",
+          "Individual quality in every position"
+        ],
+        "weaknesses": [
+          "Aging core",
+          "2022 group stage exit exposed tension",
+          "Pressure of 'last chance' narrative"
+        ],
         "watchFor": "De Bruyne against Egypt. If he's on, Belgium should control the match. If he's off — Egypt's counter-attack becomes dangerous.",
         "seattleContext": "Belgium's opener vs Egypt on June 15 at noon is the first World Cup match in Lumen Field's history."
       }
@@ -49,7 +82,15 @@
       "name": "Egypt",
       "flag": "🇪🇬",
       "group": "G",
-      "jersey": { "colors": ["#CC1122", "#FFD700"], "pattern": "solid", "description": "Deep red gradient with gold and black accents — angular motifs echo hieroglyphics (Puma)", "kitLink": "https://store.fifa.com/product/puma-egypt-2026-home-replica-jersey-mens" },
+      "jersey": {
+        "colors": [
+          "#CC1122",
+          "#FFD700"
+        ],
+        "pattern": "solid",
+        "description": "Deep red gradient with gold and black accents — angular motifs echo hieroglyphics (Puma)",
+        "kitLink": "https://store.fifa.com/product/puma-egypt-2026-home-replica-jersey-mens"
+      },
       "cityMatches": [
         "vs Belgium — Jun 15, noon PT, Lumen Field (Group G)",
         "vs Iran — Jun 26, 8pm PT, Lumen Field (Group G)"
@@ -78,13 +119,36 @@
         "lastWC": "2018 Russia — group stage exit (Salah played despite injury from CL final)",
         "manager": "Hossam Hassan",
         "starPlayers": [
-          { "name": "Mohamed Salah", "position": "Forward", "club": "Liverpool", "note": "One of the greatest players of his generation. At 34, this is likely his final World Cup. Everything Egypt does runs through him." },
-          { "name": "Omar Marmoush", "position": "Forward", "club": "Manchester City", "note": "Breakout star of European football. Fast, two-footed, elite pressing. Egypt's next generation superstar." },
-          { "name": "Mostafa Mohamed", "position": "Forward", "club": "Galatasaray", "note": "Physical center forward who leads the line. Lethal in the box when Salah creates space." }
+          {
+            "name": "Mohamed Salah",
+            "position": "Forward",
+            "club": "Liverpool",
+            "note": "One of the greatest players of his generation. At 34, this is likely his final World Cup. Everything Egypt does runs through him."
+          },
+          {
+            "name": "Omar Marmoush",
+            "position": "Forward",
+            "club": "Manchester City",
+            "note": "Breakout star of European football. Fast, two-footed, elite pressing. Egypt's next generation superstar."
+          },
+          {
+            "name": "Mostafa Mohamed",
+            "position": "Forward",
+            "club": "Galatasaray",
+            "note": "Physical center forward who leads the line. Lethal in the box when Salah creates space."
+          }
         ],
         "style": "Disciplined defensive block. Counter-attack through Salah and Marmoush. Dangerous on set pieces.",
-        "strengths": ["Salah in peak form", "Marmoush as a second weapon", "Organized defense"],
-        "weaknesses": ["Heavily reliant on Salah", "Struggles when going behind", "Limited depth beyond top stars"],
+        "strengths": [
+          "Salah in peak form",
+          "Marmoush as a second weapon",
+          "Organized defense"
+        ],
+        "weaknesses": [
+          "Heavily reliant on Salah",
+          "Struggles when going behind",
+          "Limited depth beyond top stars"
+        ],
         "watchFor": "Salah's opening match at Lumen Field vs Belgium. He described this World Cup as the one that defines his legacy.",
         "seattleContext": "Egypt plays in Seattle twice — vs Belgium June 15 (noon) and vs Iran June 26 (8pm). The nighttime Egypt vs Iran match is one of the most anticipated fixtures of the entire tournament."
       }
@@ -94,8 +158,18 @@
       "name": "Iran",
       "flag": "🇮🇷",
       "group": "G",
-      "jersey": { "colors": ["#FFFFFF", "#239F40"], "pattern": "solid", "description": "White body with tonal animal spot pattern on sleeves — Iranian flag colors trim the cuffs (Nike)", "kitLink": "https://store.fifa.com/products/nike-iran-2026-home-jersey-mens" },
-      "cityMatches": ["vs Egypt — Jun 26, 8pm PT, Lumen Field (Group G)"],
+      "jersey": {
+        "colors": [
+          "#FFFFFF",
+          "#239F40"
+        ],
+        "pattern": "solid",
+        "description": "White body with tonal animal spot pattern on sleeves — Iranian flag colors trim the cuffs (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-iran-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Egypt — Jun 26, 8pm PT, Lumen Field (Group G)"
+      ],
       "country": {
         "capital": "Tehran",
         "population": "88 million",
@@ -120,13 +194,36 @@
         "lastWC": "2022 Qatar — group stage (drew with USA 0-0, beat Wales 2-0)",
         "manager": "Amir Ghalenoei",
         "starPlayers": [
-          { "name": "Mehdi Taremi", "position": "Forward", "club": "Inter Milan", "note": "Iran's greatest modern player. Clinical finisher, smart movement, Champions League quality." },
-          { "name": "Sardar Azmoun", "position": "Forward", "club": "Bayer Leverkusen", "note": "'The Iranian Messi' — gifted technician. When motivated, world-class. Fitness and desire questioned." },
-          { "name": "Alireza Beiranvand", "position": "Goalkeeper", "club": "Antwerp", "note": "World-class shot-stopper. Will be essential in holding Egypt to a draw if needed." }
+          {
+            "name": "Mehdi Taremi",
+            "position": "Forward",
+            "club": "Inter Milan",
+            "note": "Iran's greatest modern player. Clinical finisher, smart movement, Champions League quality."
+          },
+          {
+            "name": "Sardar Azmoun",
+            "position": "Forward",
+            "club": "Bayer Leverkusen",
+            "note": "'The Iranian Messi' — gifted technician. When motivated, world-class. Fitness and desire questioned."
+          },
+          {
+            "name": "Alireza Beiranvand",
+            "position": "Goalkeeper",
+            "club": "Antwerp",
+            "note": "World-class shot-stopper. Will be essential in holding Egypt to a draw if needed."
+          }
         ],
         "style": "Defensively disciplined, physical, organized. Counter-attack through Taremi. Set-piece threats.",
-        "strengths": ["World-class goalkeeper", "Organized defensive structure", "Taremi's clinical finishing"],
-        "weaknesses": ["Limited possession play", "Inconsistent performances under pressure", "Political narrative can affect focus"],
+        "strengths": [
+          "World-class goalkeeper",
+          "Organized defensive structure",
+          "Taremi's clinical finishing"
+        ],
+        "weaknesses": [
+          "Limited possession play",
+          "Inconsistent performances under pressure",
+          "Political narrative can affect focus"
+        ],
         "watchFor": "Taremi vs Egypt's defense in Seattle's late-night Group G clash on June 26. With high stakes for both teams, this match carries enormous tension.",
         "seattleContext": "Iran vs Egypt at 8pm on a Friday night is the most geopolitically charged match of Seattle's World Cup. Sold out. Maximum security."
       }
@@ -136,8 +233,18 @@
       "name": "USA",
       "flag": "🇺🇸",
       "group": "D",
-      "jersey": { "colors": ["#FFFFFF", "#002868"], "pattern": "solid", "description": "White with wavy stripe pattern flowing across the jersey — stars subtly integrated into the fabric (Nike)", "kitLink": "https://store.fifa.com/products/nike-usa-2026-home-jersey-mens" },
-      "cityMatches": ["vs Australia — Jun 19, noon PT, Lumen Field (Group D)"],
+      "jersey": {
+        "colors": [
+          "#FFFFFF",
+          "#002868"
+        ],
+        "pattern": "solid",
+        "description": "White with wavy stripe pattern flowing across the jersey — stars subtly integrated into the fabric (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-usa-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Australia — Jun 19, noon PT, Lumen Field (Group D)"
+      ],
       "country": {
         "capital": "Washington, D.C.",
         "population": "331 million",
@@ -162,13 +269,36 @@
         "lastWC": "2022 Qatar — Round of 16 (lost to Netherlands 3-1)",
         "manager": "Mauricio Pochettino",
         "starPlayers": [
-          { "name": "Christian Pulisic", "position": "Winger / Forward", "club": "AC Milan", "note": "Captain America. The face of US soccer's golden generation. Strong, skillful, clutch in big moments." },
-          { "name": "Gio Reyna", "position": "Attacking Midfielder", "club": "Nottingham Forest", "note": "The most technically gifted American of his generation. When fit and firing, changes games completely." },
-          { "name": "Yunus Musah", "position": "Midfielder", "club": "AC Milan", "note": "Engine of the US midfield. Italian-born American who brings elite European quality to every match." }
+          {
+            "name": "Christian Pulisic",
+            "position": "Winger / Forward",
+            "club": "AC Milan",
+            "note": "Captain America. The face of US soccer's golden generation. Strong, skillful, clutch in big moments."
+          },
+          {
+            "name": "Gio Reyna",
+            "position": "Attacking Midfielder",
+            "club": "Nottingham Forest",
+            "note": "The most technically gifted American of his generation. When fit and firing, changes games completely."
+          },
+          {
+            "name": "Yunus Musah",
+            "position": "Midfielder",
+            "club": "AC Milan",
+            "note": "Engine of the US midfield. Italian-born American who brings elite European quality to every match."
+          }
         ],
         "style": "High-energy, high-pressing, physical. Transition football at speed. Set-piece threats.",
-        "strengths": ["Home crowd energy", "Athletic, dynamic squad", "European club experience across roster"],
-        "weaknesses": ["Can struggle when pressed defensively", "Set pieces as a weakness as well as strength", "Big tournament experience still building"],
+        "strengths": [
+          "Home crowd energy",
+          "Athletic, dynamic squad",
+          "European club experience across roster"
+        ],
+        "weaknesses": [
+          "Can struggle when pressed defensively",
+          "Set pieces as a weakness as well as strength",
+          "Big tournament experience still building"
+        ],
         "watchFor": "Pulisic in front of a home crowd at Lumen Field. The USMNT playing in Seattle is the domestic World Cup moment Seattle has been waiting for.",
         "seattleContext": "USA vs Australia June 19 at noon PT. The largest American soccer crowd Seattle has ever seen. USMNT on home soil."
       }
@@ -178,8 +308,18 @@
       "name": "Australia",
       "flag": "🇦🇺",
       "group": "D",
-      "jersey": { "colors": ["#FFD700", "#00843D"], "pattern": "solid", "description": "Yellow and green inspired by the beloved 2006 Socceroos kit — gradient green shorts complete the look (Nike)", "kitLink": "https://store.fifa.com/products/nike-australia-2026-home-jersey-mens" },
-      "cityMatches": ["vs USA — Jun 19, noon PT, Lumen Field (Group D)"],
+      "jersey": {
+        "colors": [
+          "#FFD700",
+          "#00843D"
+        ],
+        "pattern": "solid",
+        "description": "Yellow and green inspired by the beloved 2006 Socceroos kit — gradient green shorts complete the look (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-australia-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs USA — Jun 19, noon PT, Lumen Field (Group D)"
+      ],
       "country": {
         "capital": "Canberra",
         "population": "26 million",
@@ -204,13 +344,36 @@
         "lastWC": "2022 Qatar — Round of 16 (lost to Argentina 2-1)",
         "manager": "Tony Popovic",
         "starPlayers": [
-          { "name": "Mathew Ryan", "position": "Goalkeeper", "club": "Real Sociedad", "note": "World-class shot-stopper. The heartbeat of the Australian backline. Essential for any deep run." },
-          { "name": "Jackson Irvine", "position": "Midfielder", "club": "FC St. Pauli", "note": "Captain. Engine, leader, box-to-box quality. Sets the intensity for the whole team." },
-          { "name": "Martin Boyle", "position": "Winger", "club": "Hibernian", "note": "Electric pace and directness on the wing. Can beat anyone with speed on his day." }
+          {
+            "name": "Mathew Ryan",
+            "position": "Goalkeeper",
+            "club": "Real Sociedad",
+            "note": "World-class shot-stopper. The heartbeat of the Australian backline. Essential for any deep run."
+          },
+          {
+            "name": "Jackson Irvine",
+            "position": "Midfielder",
+            "club": "FC St. Pauli",
+            "note": "Captain. Engine, leader, box-to-box quality. Sets the intensity for the whole team."
+          },
+          {
+            "name": "Martin Boyle",
+            "position": "Winger",
+            "club": "Hibernian",
+            "note": "Electric pace and directness on the wing. Can beat anyone with speed on his day."
+          }
         ],
         "style": "Organized, physical, set-piece oriented. Counter-attack on transitions. Hard to beat.",
-        "strengths": ["Mental toughness", "World-class goalkeeper", "Set pieces and aerial duels"],
-        "weaknesses": ["Technical quality gaps vs elite nations", "Rely on individual moments", "Travel exhaustion from OFC"],
+        "strengths": [
+          "Mental toughness",
+          "World-class goalkeeper",
+          "Set pieces and aerial duels"
+        ],
+        "weaknesses": [
+          "Technical quality gaps vs elite nations",
+          "Rely on individual moments",
+          "Travel exhaustion from OFC"
+        ],
         "watchFor": "Australia knows how to beat co-host favorites — they upset Denmark and France in 2022. Don't sleep on the Socceroos vs USA.",
         "seattleContext": "Australia plays in Seattle because of their Pacific connection — the closest World Cup venue to Australia's timezone."
       }
@@ -220,8 +383,18 @@
       "name": "Bosnia-Herzegovina",
       "flag": "🇧🇦",
       "group": "B",
-      "jersey": { "colors": ["#003DA5", "#FFCD00"], "pattern": "solid", "description": "Royal blue with yellow diagonal stripe — Bosnia's first World Cup kit in 12 years (Nike)", "kitLink": "https://store.fifa.com/products/nike-bosnia-herzegovina-2026-home-jersey-mens" },
-      "cityMatches": ["vs Qatar — Jun 24, noon PT, Lumen Field (Group B)"],
+      "jersey": {
+        "colors": [
+          "#003DA5",
+          "#FFCD00"
+        ],
+        "pattern": "solid",
+        "description": "Royal blue with yellow diagonal stripe — Bosnia's first World Cup kit in 12 years (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-bosnia-herzegovina-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Qatar — Jun 24, noon PT, Lumen Field (Group B)"
+      ],
       "country": {
         "capital": "Sarajevo",
         "population": "3.3 million",
@@ -246,13 +419,36 @@
         "lastWC": "2014 Brazil — group stage (beat Iran 3-1 but eliminated)",
         "manager": "Sergej Barbarez",
         "starPlayers": [
-          { "name": "Ermedin Demirović", "position": "Forward", "club": "VfB Stuttgart", "note": "Bundesliga sensation. Clinical finisher, physical, relentless. Bosnia's most dangerous attacker." },
-          { "name": "Sehad Hajradinović", "position": "Midfielder", "club": "FK Željezničar", "note": "Creative force. Technical and dangerous in final third." },
-          { "name": "Nikola Bilbija", "position": "Forward", "club": "FK Borac", "note": "Experienced domestic striker who provides a focal point for attack." }
+          {
+            "name": "Ermedin Demirović",
+            "position": "Forward",
+            "club": "VfB Stuttgart",
+            "note": "Bundesliga sensation. Clinical finisher, physical, relentless. Bosnia's most dangerous attacker."
+          },
+          {
+            "name": "Sehad Hajradinović",
+            "position": "Midfielder",
+            "club": "FK Željezničar",
+            "note": "Creative force. Technical and dangerous in final third."
+          },
+          {
+            "name": "Nikola Bilbija",
+            "position": "Forward",
+            "club": "FK Borac",
+            "note": "Experienced domestic striker who provides a focal point for attack."
+          }
         ],
         "style": "Physical, direct, set-piece focused. Long ball to Demirović. Compact defensive shape.",
-        "strengths": ["Emotional motivation — first WC in 12 years", "Demirović's world-class finishing", "Physical intensity"],
-        "weaknesses": ["Small player pool", "Limited depth", "Qatar is a manageable opponent but Belgium and Canada are difficult"],
+        "strengths": [
+          "Emotional motivation — first WC in 12 years",
+          "Demirović's world-class finishing",
+          "Physical intensity"
+        ],
+        "weaknesses": [
+          "Small player pool",
+          "Limited depth",
+          "Qatar is a manageable opponent but Belgium and Canada are difficult"
+        ],
         "watchFor": "Bosnia's historic match at Lumen Field June 24 — their first World Cup appearance since 2014. Seattle has a significant Bosnian diaspora who will be in the stands.",
         "seattleContext": "Bosnia-Herzegovina vs Qatar at noon on June 24 is a rare, accessible group stage match. Seattle's Bosnian community makes this uniquely local."
       }
@@ -262,8 +458,18 @@
       "name": "Qatar",
       "flag": "🇶🇦",
       "group": "B",
-      "jersey": { "colors": ["#8D1B3D", "#FFFFFF"], "pattern": "solid", "description": "Maroon with darker serrated lines honoring the national flag's zig-zag division (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-qatar-2026-home-jersey-mens" },
-      "cityMatches": ["vs Bosnia-Herzegovina — Jun 24, noon PT, Lumen Field (Group B)"],
+      "jersey": {
+        "colors": [
+          "#8D1B3D",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Maroon with darker serrated lines honoring the national flag's zig-zag division (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-qatar-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Bosnia-Herzegovina — Jun 24, noon PT, Lumen Field (Group B)"
+      ],
       "country": {
         "capital": "Doha",
         "population": "2.7 million (80% expatriates)",
@@ -288,13 +494,36 @@
         "lastWC": "2022 Qatar — group stage (0 points as host nation, historic poor performance)",
         "manager": "Marquez Lopez",
         "starPlayers": [
-          { "name": "Akram Afif", "position": "Winger", "club": "Al-Sadd", "note": "Qatar's best player. Technically gifted, two-footed. Won AFC Player of the Year. Best in Asian football." },
-          { "name": "Almoez Ali", "position": "Forward", "club": "Al-Duhail", "note": "Scored 9 goals in 2019 Asian Cup — a tournament record. Physical and direct striker." },
-          { "name": "Hassan Al-Haydos", "position": "Midfielder", "club": "Al-Sadd", "note": "Veteran captain. Experienced and creative. The soul of Qatar's national team." }
+          {
+            "name": "Akram Afif",
+            "position": "Winger",
+            "club": "Al-Sadd",
+            "note": "Qatar's best player. Technically gifted, two-footed. Won AFC Player of the Year. Best in Asian football."
+          },
+          {
+            "name": "Almoez Ali",
+            "position": "Forward",
+            "club": "Al-Duhail",
+            "note": "Scored 9 goals in 2019 Asian Cup — a tournament record. Physical and direct striker."
+          },
+          {
+            "name": "Hassan Al-Haydos",
+            "position": "Midfielder",
+            "club": "Al-Sadd",
+            "note": "Veteran captain. Experienced and creative. The soul of Qatar's national team."
+          }
         ],
         "style": "Technical, possession-oriented. Relies on domestic league talent. Limited physical intensity vs top European sides.",
-        "strengths": ["Experience from hosting 2022", "Technical quality in attacking third", "Akram Afif as game-changer"],
-        "weaknesses": ["Poor 2022 host performance psychological weight", "Biggest quality gap vs Canada/Switzerland", "Limited top-level European experience"],
+        "strengths": [
+          "Experience from hosting 2022",
+          "Technical quality in attacking third",
+          "Akram Afif as game-changer"
+        ],
+        "weaknesses": [
+          "Poor 2022 host performance psychological weight",
+          "Biggest quality gap vs Canada/Switzerland",
+          "Limited top-level European experience"
+        ],
         "watchFor": "Whether Qatar can finally get a point or win at a World Cup after going 0-for-7 in 2022.",
         "seattleContext": "Qatar vs Bosnia-Herzegovina is Group B's most evenly matched fixture — both fighting to avoid last place. A genuine contest."
       }
@@ -306,8 +535,18 @@
       "name": "Argentina",
       "flag": "🇦🇷",
       "group": "J",
-      "jersey": { "colors": ["#74ACDF", "#FFFFFF"], "pattern": "vstripes", "description": "Sky blue and white stripes with three-tone fade honouring Argentina's three World Cup wins (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-argentina-2026-home-jersey-mens" },
-      "cityMatches": ["vs Algeria — Jun 16, 8pm CT, Kansas City Stadium (Group J)"],
+      "jersey": {
+        "colors": [
+          "#74ACDF",
+          "#FFFFFF"
+        ],
+        "pattern": "vstripes",
+        "description": "Sky blue and white stripes with three-tone fade honouring Argentina's three World Cup wins (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-argentina-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Algeria — Jun 16, 8pm CT, Kansas City Stadium (Group J)"
+      ],
       "country": {
         "capital": "Buenos Aires",
         "population": "46 million",
@@ -332,13 +571,37 @@
         "lastWC": "2022 Qatar — CHAMPIONS (beat France on penalties in the final)",
         "manager": "Lionel Scaloni",
         "starPlayers": [
-          { "name": "Lionel Messi", "position": "Forward / Playmaker", "club": "Inter Miami", "note": "The greatest player in history. At 38, this is almost certainly his final World Cup. Winner of 8 Ballons d'Or and the 2022 World Cup. Every match is a farewell tour." },
-          { "name": "Julián Álvarez", "position": "Forward", "club": "Atlético Madrid", "note": "2022 World Cup hero. 4 goals at Qatar. The perfect strike partner for Messi — relentless pressing, clinical finishing." },
-          { "name": "Rodrigo De Paul", "position": "Midfielder", "club": "Atlético Madrid", "note": "The heartbeat of Argentina's midfield. Box-to-box quality, fights for every ball, Messi's protector." }
+          {
+            "name": "Lionel Messi",
+            "position": "Forward / Playmaker",
+            "club": "Inter Miami",
+            "note": "The greatest player in history. At 38, this is almost certainly his final World Cup. Winner of 8 Ballons d'Or and the 2022 World Cup. Every match is a farewell tour."
+          },
+          {
+            "name": "Julián Álvarez",
+            "position": "Forward",
+            "club": "Atlético Madrid",
+            "note": "2022 World Cup hero. 4 goals at Qatar. The perfect strike partner for Messi — relentless pressing, clinical finishing."
+          },
+          {
+            "name": "Rodrigo De Paul",
+            "position": "Midfielder",
+            "club": "Atlético Madrid",
+            "note": "The heartbeat of Argentina's midfield. Box-to-box quality, fights for every ball, Messi's protector."
+          }
         ],
         "style": "Elite possession and transition. Everything channeled through Messi. Álvarez and Enzo Fernández the engines. Tight defensive shape.",
-        "strengths": ["Messi", "Defending champions momentum", "Tactical discipline under Scaloni", "Squad depth at every position"],
-        "weaknesses": ["Messi at 38 — how many minutes can he play?", "Pressure of being champions", "Algeria is dangerous on transitions"],
+        "strengths": [
+          "Messi",
+          "Defending champions momentum",
+          "Tactical discipline under Scaloni",
+          "Squad depth at every position"
+        ],
+        "weaknesses": [
+          "Messi at 38 — how many minutes can he play?",
+          "Pressure of being champions",
+          "Algeria is dangerous on transitions"
+        ],
         "watchFor": "Messi's opener at Arrowhead Stadium vs Algeria on June 16. One of the last times on earth you'll watch Messi play a competitive international match.",
         "kcContext": "Argentina vs Algeria is Kansas City's opening Group J match — and the most anticipated non-US match of the entire KC schedule."
       }
@@ -348,7 +611,15 @@
       "name": "Algeria",
       "flag": "🇩🇿",
       "group": "J",
-      "jersey": { "colors": ["#FFFFFF", "#006233"], "pattern": "sash", "description": "White with iconic green diagonal sash — one of the most distinctive designs in African football (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-algeria-2026-home-jersey-mens" },
+      "jersey": {
+        "colors": [
+          "#FFFFFF",
+          "#006233"
+        ],
+        "pattern": "sash",
+        "description": "White with iconic green diagonal sash — one of the most distinctive designs in African football (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-algeria-2026-home-jersey-mens"
+      },
       "cityMatches": [
         "vs Argentina — Jun 16, 8pm CT, Kansas City Stadium (Group J)",
         "vs Austria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"
@@ -377,13 +648,36 @@
         "lastWC": "2014 Brazil — R16 (took Germany to extra time before losing 2-1)",
         "manager": "Vladimir Petkovic",
         "starPlayers": [
-          { "name": "Mohamed Benrahma", "position": "Winger", "club": "Lyon", "note": "Algeria's creative force. Technical, tricky, dangerous on the ball in tight spaces. Ligue 1 quality." },
-          { "name": "Youcef Atal", "position": "Right Back / Winger", "club": "Nice", "note": "Attacking full-back with pace and directness. Algeria's right flank is their most dangerous outlet." },
-          { "name": "Baghdad Bounedjah", "position": "Forward", "club": "Al-Sadd", "note": "Scored the winning goal in the 2019 AFCON final vs Senegal in 22 seconds. Clinical and smart." }
+          {
+            "name": "Mohamed Benrahma",
+            "position": "Winger",
+            "club": "Lyon",
+            "note": "Algeria's creative force. Technical, tricky, dangerous on the ball in tight spaces. Ligue 1 quality."
+          },
+          {
+            "name": "Youcef Atal",
+            "position": "Right Back / Winger",
+            "club": "Nice",
+            "note": "Attacking full-back with pace and directness. Algeria's right flank is their most dangerous outlet."
+          },
+          {
+            "name": "Baghdad Bounedjah",
+            "position": "Forward",
+            "club": "Al-Sadd",
+            "note": "Scored the winning goal in the 2019 AFCON final vs Senegal in 22 seconds. Clinical and smart."
+          }
         ],
         "style": "Compact defensively. Counter-attack at pace through wide players. Physical and difficult to break down.",
-        "strengths": ["Organized defensive structure", "Dangerous on the counter", "Underdog motivation vs Argentina"],
-        "weaknesses": ["Lack of top-level European stars", "Depth behind starting XI", "Facing the world #1 team"],
+        "strengths": [
+          "Organized defensive structure",
+          "Dangerous on the counter",
+          "Underdog motivation vs Argentina"
+        ],
+        "weaknesses": [
+          "Lack of top-level European stars",
+          "Depth behind starting XI",
+          "Facing the world #1 team"
+        ],
         "watchFor": "Algeria defending against Messi at Arrowhead. Their 2014 performance vs Germany showed they can frustrate anyone. Can they do it again to the defending champions?",
         "kcContext": "Algeria plays in KC twice — opening vs Argentina (Group J) and vs Austria June 27. Two must-see Group J matches at Arrowhead."
       }
@@ -393,8 +687,18 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "group": "J",
-      "jersey": { "colors": ["#ED2939", "#000000"], "pattern": "solid", "description": "Bold red with deep black sleeves — fluid topographic linework mapping Austria's mountainous terrain (Puma)", "kitLink": "https://store.fifa.com/products/puma-austria-2026-home-replica-jersey-mens" },
-      "cityMatches": ["vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"],
+      "jersey": {
+        "colors": [
+          "#ED2939",
+          "#000000"
+        ],
+        "pattern": "solid",
+        "description": "Bold red with deep black sleeves — fluid topographic linework mapping Austria's mountainous terrain (Puma)",
+        "kitLink": "https://store.fifa.com/products/puma-austria-2026-home-replica-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Algeria — Jun 27, 9pm CT, Kansas City Stadium (Group J)"
+      ],
       "country": {
         "capital": "Vienna",
         "population": "9.1 million",
@@ -419,13 +723,35 @@
         "lastWC": "Did not qualify 2018/2022",
         "manager": "Ralf Rangnick",
         "starPlayers": [
-          { "name": "David Alaba", "position": "Defender / Midfielder", "club": "Real Madrid", "note": "Austria's greatest modern player. Champions League winner. Versatile, reads the game at elite level." },
-          { "name": "Marcel Sabitzer", "position": "Midfielder", "club": "Borussia Dortmund", "note": "Dynamic box-to-box midfielder with a powerful shot. Sets the tempo for Austria's press." },
-          { "name": "Christoph Baumgartner", "position": "Attacking Midfielder", "club": "RB Leipzig", "note": "Creative and technically gifted. Austria's best chance creator behind Alaba." }
+          {
+            "name": "David Alaba",
+            "position": "Defender / Midfielder",
+            "club": "Real Madrid",
+            "note": "Austria's greatest modern player. Champions League winner. Versatile, reads the game at elite level."
+          },
+          {
+            "name": "Marcel Sabitzer",
+            "position": "Midfielder",
+            "club": "Borussia Dortmund",
+            "note": "Dynamic box-to-box midfielder with a powerful shot. Sets the tempo for Austria's press."
+          },
+          {
+            "name": "Christoph Baumgartner",
+            "position": "Attacking Midfielder",
+            "club": "RB Leipzig",
+            "note": "Creative and technically gifted. Austria's best chance creator behind Alaba."
+          }
         ],
         "style": "High-pressing, Rangnick's signature gegenpressing system. Technical and organized. Demand for relentless running.",
-        "strengths": ["Alaba's world-class quality", "Rangnick's tactical system proven at elite level", "Athletic and energetic squad"],
-        "weaknesses": ["Long absence from World Cups (2018 and 2022 missed)", "Group J is extremely difficult with Argentina and Algeria"],
+        "strengths": [
+          "Alaba's world-class quality",
+          "Rangnick's tactical system proven at elite level",
+          "Athletic and energetic squad"
+        ],
+        "weaknesses": [
+          "Long absence from World Cups (2018 and 2022 missed)",
+          "Group J is extremely difficult with Argentina and Algeria"
+        ],
         "watchFor": "Austria vs Algeria is a must-win for both teams. The winner likely advances. Alaba vs the Algeria attack at Arrowhead under the lights at 9pm.",
         "kcContext": "Austria vs Algeria is Group J's final deciding match. With Argentina likely already through, second place is a straight fight between these two."
       }
@@ -435,8 +761,18 @@
       "name": "Ecuador",
       "flag": "🇪🇨",
       "group": "E",
-      "jersey": { "colors": ["#FFD100", "#0033A0"], "pattern": "solid", "description": "Bright yellow with navy trim — La Tri's vibrant traditional identity (Marathon)", "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts" },
-      "cityMatches": ["vs Curaçao — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
+      "jersey": {
+        "colors": [
+          "#FFD100",
+          "#0033A0"
+        ],
+        "pattern": "solid",
+        "description": "Bright yellow with navy trim — La Tri's vibrant traditional identity (Marathon)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Curaçao — Jun 20, 7pm CT, Kansas City Stadium (Group E)"
+      ],
       "country": {
         "capital": "Quito",
         "population": "18 million",
@@ -461,13 +797,36 @@
         "lastWC": "2022 Qatar — group stage (4 points, narrowly eliminated)",
         "manager": "Sebastián Beccacece",
         "starPlayers": [
-          { "name": "Gonzalo Plata", "position": "Winger", "club": "Wolverhampton", "note": "Devastating pace and directness. Ecuador's most dangerous player in transition. Tough to contain." },
-          { "name": "Moisés Caicedo", "position": "Midfielder", "club": "Chelsea", "note": "One of the best defensive midfielders in the Premier League. Controls tempo, wins every duel." },
-          { "name": "Kendry Páez", "position": "Attacking Midfielder", "club": "Chelsea", "note": "Teenage sensation — signed by Chelsea at 16. Technical, creative, the future of Ecuadorian football." }
+          {
+            "name": "Gonzalo Plata",
+            "position": "Winger",
+            "club": "Wolverhampton",
+            "note": "Devastating pace and directness. Ecuador's most dangerous player in transition. Tough to contain."
+          },
+          {
+            "name": "Moisés Caicedo",
+            "position": "Midfielder",
+            "club": "Chelsea",
+            "note": "One of the best defensive midfielders in the Premier League. Controls tempo, wins every duel."
+          },
+          {
+            "name": "Kendry Páez",
+            "position": "Attacking Midfielder",
+            "club": "Chelsea",
+            "note": "Teenage sensation — signed by Chelsea at 16. Technical, creative, the future of Ecuadorian football."
+          }
         ],
         "style": "Physical and hard-working. Strong defensive foundation. Counter-attack through Plata and wingbacks.",
-        "strengths": ["Caicedo's elite midfield control", "Dangerous on transitions", "Physical intensity"],
-        "weaknesses": ["Limited finishing outside Plata", "Rely on counter-attack vs organized defenses", "Curaçao match is a trap game"],
+        "strengths": [
+          "Caicedo's elite midfield control",
+          "Dangerous on transitions",
+          "Physical intensity"
+        ],
+        "weaknesses": [
+          "Limited finishing outside Plata",
+          "Rely on counter-attack vs organized defenses",
+          "Curaçao match is a trap game"
+        ],
         "watchFor": "Caicedo vs Germany's midfield in the group stage. If Caicedo wins the midfield battle, Ecuador can compete with anyone.",
         "kcContext": "Ecuador vs Curaçao is the most accessible Group E ticket in Kansas City — great value, historical occasion (Curaçao's debut), and Ecuador is a quality side."
       }
@@ -477,8 +836,18 @@
       "name": "Curaçao",
       "flag": "🇨🇼",
       "group": "E",
-      "jersey": { "colors": ["#003DA5", "#FFD700"], "pattern": "solid", "description": "Royal blue with gold — home kit for Curaçao's historic World Cup debut. Away: yellow/turquoise/pink (Adidas)", "kitLink": "https://store.fifa.com/products/adidas-curacao-2026-home-jersey-mens" },
-      "cityMatches": ["vs Ecuador — Jun 20, 7pm CT, Kansas City Stadium (Group E)"],
+      "jersey": {
+        "colors": [
+          "#003DA5",
+          "#FFD700"
+        ],
+        "pattern": "solid",
+        "description": "Royal blue with gold — home kit for Curaçao's historic World Cup debut. Away: yellow/turquoise/pink (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-curacao-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Ecuador — Jun 20, 7pm CT, Kansas City Stadium (Group E)"
+      ],
       "country": {
         "capital": "Willemstad",
         "population": "160,000",
@@ -503,13 +872,36 @@
         "lastWC": "DEBUT — 2026 FIFA World Cup",
         "manager": "Leonardo Virgüez",
         "starPlayers": [
-          { "name": "Juriën Timber", "position": "Defender", "club": "Arsenal", "note": "The jewel of Curaçao football. Arsenal's first-choice defender. Elite ball-playing ability. World-class potential." },
-          { "name": "Myron Boadu", "position": "Forward", "club": "Monaco", "note": "Ligue 1 striker of Dutch-Curaçaoan heritage. Clinical and powerful. Curaçao's most dangerous attacker." },
-          { "name": "Cuco Martina", "position": "Defender / Veteran", "club": "Retired / coaching pathway", "note": "Legendary veteran who pioneered the path for Curaçao players in European football." }
+          {
+            "name": "Juriën Timber",
+            "position": "Defender",
+            "club": "Arsenal",
+            "note": "The jewel of Curaçao football. Arsenal's first-choice defender. Elite ball-playing ability. World-class potential."
+          },
+          {
+            "name": "Myron Boadu",
+            "position": "Forward",
+            "club": "Monaco",
+            "note": "Ligue 1 striker of Dutch-Curaçaoan heritage. Clinical and powerful. Curaçao's most dangerous attacker."
+          },
+          {
+            "name": "Cuco Martina",
+            "position": "Defender / Veteran",
+            "club": "Retired / coaching pathway",
+            "note": "Legendary veteran who pioneered the path for Curaçao players in European football."
+          }
         ],
         "style": "Technical and brave. Many players in top European leagues. Attack-minded. Nothing to lose.",
-        "strengths": ["Timber's world-class quality", "European club experience throughout the squad", "Maximum motivation for historic moment"],
-        "weaknesses": ["Tiny nation with limited depth", "Never been in a World Cup match before", "Ecuador, Germany, Ivory Coast all significantly ranked higher"],
+        "strengths": [
+          "Timber's world-class quality",
+          "European club experience throughout the squad",
+          "Maximum motivation for historic moment"
+        ],
+        "weaknesses": [
+          "Tiny nation with limited depth",
+          "Never been in a World Cup match before",
+          "Ecuador, Germany, Ivory Coast all significantly ranked higher"
+        ],
         "watchFor": "The moment Curaçao takes the field in Kansas City for their first-ever World Cup match. A nation of 160,000 people on the biggest stage on earth.",
         "kcContext": "Curaçao vs Ecuador is one of the most historically significant matches in Kansas City — the smallest nation to ever play in a World Cup making their debut at Arrowhead."
       }
@@ -519,8 +911,18 @@
       "name": "Tunisia",
       "flag": "🇹🇳",
       "group": "F",
-      "jersey": { "colors": ["#D00020", "#FFFFFF"], "pattern": "solid", "description": "Strong red base with subtle geometric pattern across the fabric — sharp and modern (Nike)", "kitLink": "https://store.fifa.com/products/nike-tunisia-2026-home-jersey-mens" },
-      "cityMatches": ["vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
+      "jersey": {
+        "colors": [
+          "#D00020",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Strong red base with subtle geometric pattern across the fabric — sharp and modern (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-tunisia-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Netherlands — Jun 25, 6pm CT, Kansas City Stadium (Group F)"
+      ],
       "country": {
         "capital": "Tunis",
         "population": "12 million",
@@ -545,13 +947,36 @@
         "lastWC": "2022 Qatar — group stage (beat France 1-0 in a dead rubber, eliminated on goal difference)",
         "manager": "Jalel Kadri",
         "starPlayers": [
-          { "name": "Hannibal Mejbri", "position": "Midfielder", "club": "Manchester United", "note": "Young, explosive, combative. Manchester United's midfielder brings Premier League energy to Tunisia." },
-          { "name": "Wahbi Khazri", "position": "Forward / Attacking Midfielder", "club": "Retired", "note": "The veteran leader who guided Tunisia in 2022. Brilliant vision, technical quality. Final World Cup appearance." },
-          { "name": "Dylan Bronn", "position": "Defender", "club": "Salernitana", "note": "Composed central defender. Organizes the backline and is key to Tunisia's defensive resilience." }
+          {
+            "name": "Hannibal Mejbri",
+            "position": "Midfielder",
+            "club": "Manchester United",
+            "note": "Young, explosive, combative. Manchester United's midfielder brings Premier League energy to Tunisia."
+          },
+          {
+            "name": "Wahbi Khazri",
+            "position": "Forward / Attacking Midfielder",
+            "club": "Retired",
+            "note": "The veteran leader who guided Tunisia in 2022. Brilliant vision, technical quality. Final World Cup appearance."
+          },
+          {
+            "name": "Dylan Bronn",
+            "position": "Defender",
+            "club": "Salernitana",
+            "note": "Composed central defender. Organizes the backline and is key to Tunisia's defensive resilience."
+          }
         ],
         "style": "Disciplined defensive shape. Direct and physical. Strong at set pieces. Counter-attack through wingers.",
-        "strengths": ["Beat France in 2022 (even in dead rubber)", "Organized defense", "Set-piece threats"],
-        "weaknesses": ["Often exit at group stage despite competitive performances", "Limited in true world-class forward talent", "Netherlands is significantly stronger on paper"],
+        "strengths": [
+          "Beat France in 2022 (even in dead rubber)",
+          "Organized defense",
+          "Set-piece threats"
+        ],
+        "weaknesses": [
+          "Often exit at group stage despite competitive performances",
+          "Limited in true world-class forward talent",
+          "Netherlands is significantly stronger on paper"
+        ],
         "watchFor": "Tunisia's defensive setup vs the Netherlands attack. Tunisia has historically made life very difficult for European favorites.",
         "kcContext": "Tunisia vs Netherlands is the most technically compelling Group F match at Kansas City. Dutch fans in force vs a Tunisian team with a point to prove."
       }
@@ -561,8 +986,18 @@
       "name": "Netherlands",
       "flag": "🇳🇱",
       "group": "F",
-      "jersey": { "colors": ["#FF6600", "#FFFFFF"], "pattern": "solid", "description": "Boldest Dutch orange Nike has ever produced — lenticular crest shifts as players move (Nike)", "kitLink": "https://store.fifa.com/products/netherlands-2026-home-jersey-mens" },
-      "cityMatches": ["vs Tunisia — Jun 25, 6pm CT, Kansas City Stadium (Group F)"],
+      "jersey": {
+        "colors": [
+          "#FF6600",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Boldest Dutch orange Nike has ever produced — lenticular crest shifts as players move (Nike)",
+        "kitLink": "https://store.fifa.com/products/netherlands-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Tunisia — Jun 25, 6pm CT, Kansas City Stadium (Group F)"
+      ],
       "country": {
         "capital": "Amsterdam (governmental seat: The Hague)",
         "population": "17.9 million",
@@ -587,15 +1022,1921 @@
         "lastWC": "2022 Qatar — Quarter-final (lost to Argentina on penalties)",
         "manager": "Ronald Koeman",
         "starPlayers": [
-          { "name": "Virgil van Dijk", "position": "Defender", "club": "Liverpool", "note": "Captain. One of the best defenders in football history. Physical, commanding, perfect on the ball. Leaders leaders." },
-          { "name": "Cody Gakpo", "position": "Forward", "club": "Liverpool", "note": "Scored 3 goals at the 2022 World Cup in Qatar. Powerful, left-footed, can play wide or central." },
-          { "name": "Xavi Simons", "position": "Attacking Midfielder", "club": "RB Leipzig", "note": "The most exciting young Dutch player of his generation. Technical, creative, direct. Future Ballon d'Or candidate." }
+          {
+            "name": "Virgil van Dijk",
+            "position": "Defender",
+            "club": "Liverpool",
+            "note": "Captain. One of the best defenders in football history. Physical, commanding, perfect on the ball. Leaders leaders."
+          },
+          {
+            "name": "Cody Gakpo",
+            "position": "Forward",
+            "club": "Liverpool",
+            "note": "Scored 3 goals at the 2022 World Cup in Qatar. Powerful, left-footed, can play wide or central."
+          },
+          {
+            "name": "Xavi Simons",
+            "position": "Attacking Midfielder",
+            "club": "RB Leipzig",
+            "note": "The most exciting young Dutch player of his generation. Technical, creative, direct. Future Ballon d'Or candidate."
+          }
         ],
         "style": "Possession-based. High-press when needed. Van Dijk anchors a solid defense. Simons and Gakpo as the creativity.",
-        "strengths": ["Van Dijk — among the world's best defenders", "Wide attacking threat through Gakpo and Simons", "Netherlands vs Japan (2022 R16 rematch) makes Group F fascinating"],
-        "weaknesses": ["Can struggle for consistency in knockout rounds", "Historically underperform relative to talent"],
+        "strengths": [
+          "Van Dijk — among the world's best defenders",
+          "Wide attacking threat through Gakpo and Simons",
+          "Netherlands vs Japan (2022 R16 rematch) makes Group F fascinating"
+        ],
+        "weaknesses": [
+          "Can struggle for consistency in knockout rounds",
+          "Historically underperform relative to talent"
+        ],
         "watchFor": "The Netherlands' first match since their 2022 QF loss to Argentina. A motivated Dutch team in KC orange vs a stubborn Tunisia.",
         "kcContext": "Dutch fans travel in massive numbers to World Cups. Kansas City in orange on June 25 at 6pm CT will be a visual spectacle."
+      }
+    }
+  ],
+  "miami": [
+    {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "group": "H",
+      "jersey": {
+        "colors": [
+          "#006C35",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "All-green with white trim — the Saudi national color dominant across the kit (Adidas)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Uruguay — Jun 15, 6:00 PM ET, Hard Rock Stadium (Group H)"
+      ],
+      "country": {
+        "capital": "Riyadh",
+        "population": "36 million",
+        "region": "Middle East",
+        "continent": "Asia",
+        "language": "Arabic",
+        "currency": "Saudi Riyal (SAR)",
+        "location": "Kingdom occupying most of the Arabian Peninsula. Bordered by Jordan, Iraq, Kuwait, Qatar, UAE, Oman, Yemen. 7,500 miles from Miami.",
+        "funFacts": [
+          "Saudi Arabia contains Mecca and Medina — the two holiest cities in Islam",
+          "The country holds about 17% of proven world oil reserves",
+          "Saudi Arabia shocked Argentina 2-1 at the 2022 World Cup — one of the greatest upsets in tournament history",
+          "The country only opened cinemas to the public in 2018 after a 35-year ban",
+          "Rub al Khali (Empty Quarter) is the largest continuous sand desert in the world"
+        ]
+      },
+      "team": {
+        "nickname": "Green Falcons",
+        "fifaRanking": 55,
+        "wcAppearances": 7,
+        "wcBestFinish": "Round of 16 — 1994 USA",
+        "lastWC": "2022 Qatar — group stage (shocked Argentina in opening match)",
+        "manager": "Roberto Mancini",
+        "starPlayers": [
+          {
+            "name": "Salem Al-Dawsari",
+            "position": "Winger",
+            "club": "Al-Hilal",
+            "note": "The man who scored the 2022 winner vs Argentina. Saudi football icon. Thrives in big moments."
+          },
+          {
+            "name": "Mohammed Al-Owais",
+            "position": "Goalkeeper",
+            "club": "Al-Hilal",
+            "note": "Arguably the best goalkeeper in Asia. Shot-stopping ability drastically exceeds Saudi ranking."
+          },
+          {
+            "name": "Sami Al-Najei",
+            "position": "Midfielder",
+            "club": "Al-Hilal",
+            "note": "Engine of the Saudi midfield. High energy, disciplined positioning, sets the defensive foundation."
+          }
+        ],
+        "style": "Organized low-block defense with explosive counter-attacks. Pace on the wings, resilient under pressure.",
+        "strengths": [
+          "Shock potential",
+          "Defensive discipline",
+          "Pace in transition"
+        ],
+        "weaknesses": [
+          "Limited elite club experience",
+          "Consistent finishing",
+          "High-press vulnerability"
+        ],
+        "watchFor": "Al-Dawsari on the counter. Saudi Arabia's best moment comes from soaking pressure and then breaking at pace. Uruguay cannot underestimate them.",
+        "cityContext": "Saudi Arabia's opener vs Uruguay at Hard Rock is Miami's tournament kickoff. After 2022's shock of Argentina, this team knows how to deliver on big stages."
+      }
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "group": "H",
+      "jersey": {
+        "colors": [
+          "#5AABD6",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Sky blue (celeste) — one of football's most iconic colors, worn since 1910 (Puma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Saudi Arabia — Jun 15, 6:00 PM ET, Hard Rock Stadium (Group H)",
+        "vs Cape Verde — Jun 21, 6:00 PM ET, Hard Rock Stadium (Group H)"
+      ],
+      "country": {
+        "capital": "Montevideo",
+        "population": "3.5 million",
+        "region": "Southern South America",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "Uruguayan Peso (UYU)",
+        "location": "Sandwiched between Brazil and Argentina on the Atlantic coast of South America. Population smaller than Houston. 4,600 miles from Miami.",
+        "funFacts": [
+          "Uruguay was the first country to host AND win the FIFA World Cup — 1930",
+          "Despite a population of 3.5 million, Uruguay has produced some of the greatest footballers in history",
+          "Uruguay legalised marijuana in 2013 — a global first",
+          "40% of Uruguay's electricity comes from renewable energy",
+          "Uruguay has more cattle than people — by a ratio of about 4 to 1"
+        ]
+      },
+      "team": {
+        "nickname": "La Celeste",
+        "fifaRanking": 17,
+        "wcAppearances": 14,
+        "wcBestFinish": "2x Champions — 1930 Uruguay, 1950 Brazil",
+        "lastWC": "2022 Qatar — eliminated in group stage on goal difference",
+        "manager": "Marcelo Bielsa",
+        "starPlayers": [
+          {
+            "name": "Federico Valverde",
+            "position": "Midfielder",
+            "club": "Real Madrid",
+            "note": "The best midfielder in the world at his best. Box-to-box, elite engine, deadly long shots. Uruguay's heartbeat."
+          },
+          {
+            "name": "Darwin Núñez",
+            "position": "Forward",
+            "club": "Liverpool",
+            "note": "Pure finishing instinct. Explosive pace, great in the air. When on song, unstoppable. Inconsistency is the only caveat."
+          },
+          {
+            "name": "Rodrigo Bentancur",
+            "position": "Midfielder",
+            "club": "Tottenham",
+            "note": "Technical, composed, reads the game beautifully. Partners Valverde in one of the best international midfields."
+          }
+        ],
+        "style": "Tactical flexibility under Bielsa. High press when fit, but always pragmatic. Built on defensive solidity and individual quality going forward.",
+        "strengths": [
+          "World-class midfield pair",
+          "Mentality and tournament experience",
+          "Darwin's finishing"
+        ],
+        "weaknesses": [
+          "Small population limits squad depth",
+          "Can be vulnerable to high press",
+          "Bielsa's system requires high fitness"
+        ],
+        "watchFor": "Valverde controlling the tempo vs Saudi Arabia and Cape Verde. If he dominates both matches, Uruguay should advance from Group H comfortably.",
+        "cityContext": "Miami's large South American community will be split but vocal across both matches. Valverde and Núñez are household names for every football fan in the city."
+      }
+    },
+    {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "flag": "🇨🇻",
+      "group": "H",
+      "jersey": {
+        "colors": [
+          "#003893",
+          "#CF2027"
+        ],
+        "pattern": "halves",
+        "description": "Navy and red — the colors of the Cape Verdean flag represented on the pitch (Lacatoni)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Uruguay — Jun 21, 6:00 PM ET, Hard Rock Stadium (Group H)"
+      ],
+      "country": {
+        "capital": "Praia",
+        "population": "600,000",
+        "region": "West Africa (Island Nation)",
+        "continent": "Africa",
+        "language": "Portuguese, Cape Verdean Creole",
+        "currency": "Cape Verdean Escudo (CVE)",
+        "location": "Archipelago of 10 islands in the Atlantic Ocean, 350 miles off the west coast of Africa. 4,200 miles from Miami.",
+        "funFacts": [
+          "Cape Verde has more citizens living abroad than at home — the diaspora outnumbers the island population",
+          "The islands were uninhabited before Portuguese sailors arrived in 1456",
+          "Cape Verde is one of Africa's most stable democracies — consistently ranked among Africa's freest nations",
+          "Cesária Évora, the \"Barefoot Diva\" of morna music, is Cape Verde's most famous cultural export",
+          "Despite the name, the islands are not actually green — they're mostly volcanic and arid"
+        ]
+      },
+      "team": {
+        "nickname": "Blue Sharks (Tubarões Azuis)",
+        "fifaRanking": 79,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage — 2022 Qatar",
+        "lastWC": "2022 Qatar — eliminated in group stage",
+        "manager": "Bubista",
+        "starPlayers": [
+          {
+            "name": "Garry Rodrigues",
+            "position": "Winger",
+            "club": "AEK Larnaca",
+            "note": "The veteran who has carried Cape Verde's attack for years. Experienced, dangerous from wide positions."
+          },
+          {
+            "name": "Ryan Mendes",
+            "position": "Winger",
+            "club": "TBD",
+            "note": "Technical and direct. One of Cape Verde's most creative players. Suited to the counter-attack style."
+          },
+          {
+            "name": "Adam Dianessy",
+            "position": "Forward",
+            "club": "Roda JC",
+            "note": "Young striker who Cape Verde are building their attack around for the future."
+          }
+        ],
+        "style": "Compact 4-4-2 defensive block. Hard to break down, play for set-pieces and counter-attacks. Every point is celebrated as a win.",
+        "strengths": [
+          "Organized defense",
+          "Team spirit and unity",
+          "Set-piece threat"
+        ],
+        "weaknesses": [
+          "Limited attacking quality",
+          "Outmatched vs elite nations",
+          "Squad depth"
+        ],
+        "watchFor": "Can Cape Verde hold Uruguay? Their best result would be a draw that keeps Group H alive. The Blue Sharks have upset potential when fully organized.",
+        "cityContext": "Cape Verde's small but passionate diaspora will be present at Hard Rock. This may be their most globally watched World Cup match yet — the islands are 600,000 people but dreaming big."
+      }
+    },
+    {
+      "code": "SCO",
+      "name": "Scotland",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#003380",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Dark navy blue — The Tartan Army's iconic color, worn with pride (Adidas)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Brazil — Jun 24, 6:00 PM ET, Hard Rock Stadium (Group C)"
+      ],
+      "country": {
+        "capital": "Edinburgh",
+        "population": "5.5 million",
+        "region": "Northern Europe",
+        "continent": "Europe",
+        "language": "English, Scottish Gaelic",
+        "currency": "British Pound Sterling (GBP)",
+        "location": "Northern third of the island of Great Britain. Borders England to the south. Home to 800+ islands including the Hebrides and Shetland. 4,100 miles from Miami.",
+        "funFacts": [
+          "Scotland invented golf, whisky (Scotch), the telephone (Alexander Graham Bell), and the television",
+          "The Tartan Army is widely considered the best-behaved traveling fan group in world football",
+          "Scotland's last World Cup was 1998 in France — a 28-year wait finally ended for 2026",
+          "The Loch Ness Monster has been Scotland's most famous resident since at least 565 AD",
+          "Scotland was the first country to play international football — their 1872 match vs England was the world's first"
+        ]
+      },
+      "team": {
+        "nickname": "The Bravehearts / The Tartan Army",
+        "fifaRanking": 40,
+        "wcAppearances": 8,
+        "wcBestFinish": "Group stage (8 appearances, never advanced beyond)",
+        "lastWC": "1998 France — eliminated in group stage",
+        "manager": "Steve Clarke",
+        "starPlayers": [
+          {
+            "name": "Andrew Robertson",
+            "position": "Left Back",
+            "club": "Liverpool",
+            "note": "One of the best left backs in the world. Sets the tempo with relentless energy and quality crossing."
+          },
+          {
+            "name": "Scott McTominay",
+            "position": "Midfielder",
+            "club": "Napoli",
+            "note": "Physical, powerful, goals from deep. Scotland's most important player — sets the tone in every match."
+          },
+          {
+            "name": "Lawrence Shankland",
+            "position": "Forward",
+            "club": "Hearts",
+            "note": "Scotland's clinical finishing threat. Knows where the goal is. The target man if McTominay plays deep."
+          }
+        ],
+        "style": "Hard-working, organized, counter-attacking. McLean and McTominay protect the back four. Robertson pushes forward. Set-pieces are a genuine weapon.",
+        "strengths": [
+          "Defensive organization",
+          "Set pieces",
+          "Massive crowd support — Tartan Army travels everywhere"
+        ],
+        "weaknesses": [
+          "Limited quality against top nations",
+          "Historically can't convert performances into results",
+          "Brazil in the group stage"
+        ],
+        "watchFor": "McTominay vs Brazil's midfield. Scotland's best chance is winning the physical battle in the middle and hitting Brazil on the break.",
+        "cityContext": "Scottish fans are legendary travelers — expect Hard Rock filled with kilts and tartan. Miami vs Scotland vs Brazil is the match of the group stage in the city."
+      }
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#009C3B",
+          "#FFDF00"
+        ],
+        "pattern": "solid",
+        "description": "Iconic Canarinha yellow — the most recognizable kit in world football (Nike)",
+        "kitLink": "https://www.nike.com/t/brazil-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Scotland — Jun 24, 6:00 PM ET, Hard Rock Stadium (Group C)"
+      ],
+      "country": {
+        "capital": "Brasília",
+        "population": "215 million",
+        "region": "South America",
+        "continent": "South America",
+        "language": "Portuguese",
+        "currency": "Brazilian Real (BRL)",
+        "location": "Largest country in South America and 5th largest in the world. 2,700 miles of Atlantic coastline. Amazon rainforest covers 60% of the country. 4,300 miles from Miami.",
+        "funFacts": [
+          "Brazil is the only country to have played in every single FIFA World Cup since 1930",
+          "Brazil has more species of plants and freshwater fish than any other nation",
+          "São Paulo is the largest city in the Western Hemisphere with 22 million people",
+          "Brazil produces about 35% of the world's coffee",
+          "The Amazon River discharges more water into the ocean than the next 7 largest rivers combined"
+        ]
+      },
+      "team": {
+        "nickname": "Seleção / A Canarinha",
+        "fifaRanking": 5,
+        "wcAppearances": 22,
+        "wcBestFinish": "5x Champions — 1958, 1962, 1970, 1994, 2002",
+        "lastWC": "2022 Qatar — eliminated in quarterfinals by Croatia on penalties",
+        "manager": "Dorival Jr.",
+        "starPlayers": [
+          {
+            "name": "Vinícius Jr.",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "The best player in the world at his peak. Pace, skill, goals. If Brazil win the tournament, it's because of him."
+          },
+          {
+            "name": "Rodrygo",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "Champions League pedigree, brilliant in tight spaces. The foil to Vinícius and equally dangerous."
+          },
+          {
+            "name": "Endrick",
+            "position": "Forward",
+            "club": "Real Madrid",
+            "note": "Teenager who has already scored in El Clásico. Brazil's next generation striker — powerful, instinctive, fearless."
+          }
+        ],
+        "style": "Attacking, fluid, technically brilliant. Four attacking players in the top half. Pressing from the front. Endless creativity.",
+        "strengths": [
+          "Elite individual quality throughout",
+          "Depth at every position",
+          "Tournament pedigree"
+        ],
+        "weaknesses": [
+          "24-year drought — psychology of expectation",
+          "Penalty pressure",
+          "Manager continuity issues"
+        ],
+        "watchFor": "Vinícius Jr. at Hard Rock. Miami's enormous Brazilian community will create one of the loudest atmospheres in the tournament. Brazil needs a statement performance.",
+        "cityContext": "Miami's Brazilian diaspora is one of the largest in the US. Brazil vs Scotland at Hard Rock will feel like a home match — expect deafening noise, dancing in the stands, and yellow everywhere."
+      }
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "group": "K",
+      "jersey": {
+        "colors": [
+          "#FCD116",
+          "#003087"
+        ],
+        "pattern": "solid",
+        "description": "Bright yellow with navy accents — Los Cafeteros' vibrant identity worn since the 1980s (Adidas)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Portugal — Jun 27, 7:30 PM ET, Hard Rock Stadium (Group K)"
+      ],
+      "country": {
+        "capital": "Bogotá",
+        "population": "52 million",
+        "region": "South America (Andean)",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "Colombian Peso (COP)",
+        "location": "Northwestern corner of South America, bordering Venezuela, Brazil, Peru, Ecuador, and Panama. Both Pacific and Caribbean coastlines. 1,900 miles from Miami.",
+        "funFacts": [
+          "Colombia produces 90% of the world's emeralds",
+          "The national bird, the Andean condor, has a wingspan of up to 10 feet",
+          "Colombia is named after Christopher Columbus but he never set foot on its soil",
+          "Bogotá sits at 8,660 feet elevation — visitors often feel altitude effects on arrival",
+          "Colombia produces coffee at altitudes where the unique climate creates what many consider the world's finest beans"
+        ]
+      },
+      "team": {
+        "nickname": "Los Cafeteros",
+        "fifaRanking": 11,
+        "wcAppearances": 7,
+        "wcBestFinish": "Quarterfinals — 2014 Brazil",
+        "lastWC": "2018 Russia — Round of 16",
+        "manager": "Néstor Lorenzo",
+        "starPlayers": [
+          {
+            "name": "Luis Díaz",
+            "position": "Winger",
+            "club": "Liverpool",
+            "note": "One of the most exciting wide players in world football. Explosive, direct, goals and assists. Colombia's biggest star."
+          },
+          {
+            "name": "James Rodríguez",
+            "position": "Attacking Midfielder",
+            "club": "TBD",
+            "note": "The 2014 Golden Boot winner. Still creative and dangerous when fit. The veteran playmaker Colombia's attack revolves around."
+          },
+          {
+            "name": "Richard Ríos",
+            "position": "Midfielder",
+            "club": "Palmeiras",
+            "note": "Emerging engine of the Colombian midfield. Physical, technical, helps Colombia control the ball."
+          }
+        ],
+        "style": "Attacking fluency through Díaz and Ríos. James as the creative hub. Compact defensively but aggressive going forward.",
+        "strengths": [
+          "Luis Díaz at his best is unstoppable",
+          "Creative midfield",
+          "Tournament form — went deep in Copa América 2024"
+        ],
+        "weaknesses": [
+          "Reliance on James Rodríguez fitness",
+          "Portugal is elite opposition",
+          "Group K has pressure from round one"
+        ],
+        "watchFor": "Díaz vs Portugal's defense. If Luis Díaz can get past Cancelo or the right back, Colombia can hurt Portugal's backline repeatedly.",
+        "cityContext": "Miami has one of the largest Colombian communities in the US. Colombia vs Portugal — with Ronaldo on the other side — is one of the most anticipated matches at Hard Rock Stadium. The yellow sea will be extraordinary."
+      }
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "group": "K",
+      "jersey": {
+        "colors": [
+          "#006600",
+          "#FF0000"
+        ],
+        "pattern": "halves",
+        "description": "Green and red — the colors of the Portuguese flag split on the famous Selecção kit (Nike)",
+        "kitLink": "https://www.nike.com/t/portugal-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Colombia — Jun 27, 7:30 PM ET, Hard Rock Stadium (Group K)"
+      ],
+      "country": {
+        "capital": "Lisbon",
+        "population": "10.3 million",
+        "region": "Iberian Peninsula, Western Europe",
+        "continent": "Europe",
+        "language": "Portuguese",
+        "currency": "Euro (€)",
+        "location": "Westernmost country in continental Europe. Atlantic coastline of 1,800 km. Portuguese is the 6th most spoken language in the world — spoken on 6 continents. 4,300 miles from Miami.",
+        "funFacts": [
+          "Portugal is the oldest nation-state in Europe with largely unchanged borders since 1139",
+          "The Portuguese were the first Europeans to reach Japan, India, Brazil, and parts of Africa",
+          "Port wine was invented in Portugal — exported globally since the 1600s",
+          "Lisbon is built on seven hills, like Rome, and is one of the oldest cities in the world",
+          "Portuguese explorers introduced chili peppers to India — now a cornerstone of Indian cuisine"
+        ]
+      },
+      "team": {
+        "nickname": "Seleção das Quinas",
+        "fifaRanking": 6,
+        "wcAppearances": 8,
+        "wcBestFinish": "3rd place — 1966 England",
+        "lastWC": "2022 Qatar — eliminated in quarterfinals by Morocco",
+        "manager": "Roberto Martínez",
+        "starPlayers": [
+          {
+            "name": "Cristiano Ronaldo",
+            "position": "Forward",
+            "club": "Al-Nassr",
+            "note": "Arguably the greatest player ever. Still scoring at 41. His World Cup legacy will be defined here. Miami will be electric."
+          },
+          {
+            "name": "Bruno Fernandes",
+            "position": "Attacking Midfielder",
+            "club": "Manchester United",
+            "note": "Portugal's creative spine. Passes, shoots, runs — the engine that makes the team click."
+          },
+          {
+            "name": "Rúben Dias",
+            "position": "Centre-back",
+            "club": "Manchester City",
+            "note": "One of the best defenders in the world. Commands the backline with total authority."
+          }
+        ],
+        "style": "High possession, technical buildup. Bruno drives the attack. Ronaldo as the elite finishing reference. Strong set-piece threat.",
+        "strengths": [
+          "Ronaldo's finishing",
+          "Technical quality throughout",
+          "Rúben Dias' leadership"
+        ],
+        "weaknesses": [
+          "Aging squad beyond Ronaldo",
+          "Transition from Ronaldo-era identity",
+          "Colombia is a dangerous opponent"
+        ],
+        "watchFor": "Ronaldo at Hard Rock Stadium. One of the greatest players of all time, likely in his final World Cup, playing in front of Miami's massive Portuguese and Latin communities.",
+        "cityContext": "Cristiano Ronaldo in Miami is one of the tournament's defining moments. The Colombian vs Portuguese communities will create one of Hard Rock's most electric atmospheres of the group stage."
+      }
+    }
+  ],
+  "newyork": [
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#009C3B",
+          "#FFDF00"
+        ],
+        "pattern": "solid",
+        "description": "Iconic Canarinha yellow — the most recognizable kit in world football (Nike)",
+        "kitLink": "https://www.nike.com/t/brazil-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Morocco — Jun 13, 6:00 PM ET, MetLife Stadium (Group C)"
+      ],
+      "country": {
+        "capital": "Brasília",
+        "population": "215 million",
+        "region": "South America",
+        "continent": "South America",
+        "language": "Portuguese",
+        "currency": "Brazilian Real (BRL)",
+        "location": "Largest country in South America, 5th largest in the world. Amazon rainforest covers 60% of the country. 4,800 miles from New York.",
+        "funFacts": [
+          "Brazil is the only country to have played in every FIFA World Cup since 1930",
+          "São Paulo is the largest city in the Western Hemisphere with 22 million people",
+          "Brazil produces about 35% of the world's coffee",
+          "The Amazon River discharges more water into the ocean than the next 7 largest rivers combined",
+          "Brazil has won the World Cup a record 5 times — more than any other nation"
+        ]
+      },
+      "team": {
+        "nickname": "Seleção / A Canarinha",
+        "fifaRanking": 5,
+        "wcAppearances": 22,
+        "wcBestFinish": "5x Champions — 1958, 1962, 1970, 1994, 2002",
+        "lastWC": "2022 Qatar — eliminated in quarterfinals by Croatia on penalties",
+        "manager": "Dorival Jr.",
+        "starPlayers": [
+          {
+            "name": "Vinícius Jr.",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "The best player in the world at his peak. Pace, skill, goals. If Brazil win the tournament, it's because of him."
+          },
+          {
+            "name": "Rodrygo",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "Champions League pedigree, brilliant in tight spaces. The foil to Vinícius and equally dangerous."
+          },
+          {
+            "name": "Endrick",
+            "position": "Forward",
+            "club": "Real Madrid",
+            "note": "Teenager who has already scored in El Clásico. Brazil's next generation — powerful, instinctive."
+          }
+        ],
+        "style": "Attacking, fluid, technically brilliant. Four attacking players in the top half. Pressing from the front. Endless creativity.",
+        "strengths": [
+          "Elite individual quality",
+          "Depth at every position",
+          "Tournament pedigree"
+        ],
+        "weaknesses": [
+          "24-year drought psychology",
+          "Penalty pressure",
+          "Morocco is motivated opposition after 2022 run"
+        ],
+        "watchFor": "Vinícius Jr. vs Morocco's elite defense. Morocco held France and Portugal in 2022 — Brazil in New York will be one of the tournament's most anticipated group matches.",
+        "cityContext": "Brazil's opening match at MetLife will be the loudest atmosphere in New Jersey's history. NYC's massive Brazilian diaspora, 82,500 seats, opening weekend energy. Don't miss this."
+      }
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "flag": "🇲🇦",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#C1272D",
+          "#006233"
+        ],
+        "pattern": "solid",
+        "description": "Deep red with green trim — the Atlas Lions' powerful identity (Puma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Brazil — Jun 13, 6:00 PM ET, MetLife Stadium (Group C)"
+      ],
+      "country": {
+        "capital": "Rabat",
+        "population": "38 million",
+        "region": "North Africa",
+        "continent": "Africa",
+        "language": "Arabic, Berber (Tamazight), French",
+        "currency": "Moroccan Dirham (MAD)",
+        "location": "Northwestern corner of Africa, bordering the Sahara to the south and the Strait of Gibraltar to the north. 3,600 miles from New York.",
+        "funFacts": [
+          "Morocco reached the World Cup semifinal in 2022 — the first African or Arab nation ever to do so",
+          "The Sahara Desert covers about 92% of Morocco's land area south of the Atlas Mountains",
+          "Morocco is one of only three countries that border both the Atlantic Ocean and Mediterranean Sea",
+          "The city of Fez has the world's oldest continuously operating university, founded in 859 AD",
+          "Moroccan cooking is a blend of Arab, Amazigh, Andalusian, and sub-Saharan African influences"
+        ]
+      },
+      "team": {
+        "nickname": "Atlas Lions",
+        "fifaRanking": 14,
+        "wcAppearances": 7,
+        "wcBestFinish": "4th place — 2022 Qatar (first African semi-finalist in history)",
+        "lastWC": "2022 Qatar — 4th place",
+        "manager": "Walid Regragui",
+        "starPlayers": [
+          {
+            "name": "Achraf Hakimi",
+            "position": "Right Back",
+            "club": "Paris Saint-Germain",
+            "note": "The best fullback in the world. Creates from wide, scores, never stops running. Morocco's engine."
+          },
+          {
+            "name": "Sofyan Amrabat",
+            "position": "Midfielder",
+            "club": "Fiorentina",
+            "note": "The defensive midfield destroyer who was the best midfielder of the 2022 World Cup. Controls everything."
+          },
+          {
+            "name": "Youssef En-Nesyri",
+            "position": "Forward",
+            "club": "Fenerbahçe",
+            "note": "Morocco's aerial threat and finisher. Scored in every knockout round in 2022. Big-game player."
+          }
+        ],
+        "style": "Defensive solidity first. Compact lines, hard to break down. Then devastating on the counter through Hakimi. Set-pieces are a major weapon.",
+        "strengths": [
+          "World-class defensive organization",
+          "Hakimi's attacking output from right back",
+          "Belief — 2022 proved they can beat anyone"
+        ],
+        "weaknesses": [
+          "Limited in possession against elite pressing teams",
+          "Reliant on counter — if Brazil sits back, Morocco struggles",
+          "Expected now, not underdogs"
+        ],
+        "watchFor": "Hakimi vs Brazil's left side. Morocco's attacks come through the right — Hakimi overlapping and cutting in. If he has space, Morocco can shock Brazil again.",
+        "cityContext": "NYC's North African and Moroccan community is one of the largest in the US. Morocco at MetLife — a team that shocked the world in 2022 — against Brazil. This match will define Group C."
+      }
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "flag": "🇫🇷",
+      "group": "I",
+      "jersey": {
+        "colors": [
+          "#002395",
+          "#EF3340"
+        ],
+        "pattern": "solid",
+        "description": "Deep navy with red accents — Les Bleus' iconic look that has won two World Cups (Nike)",
+        "kitLink": "https://www.nike.com/t/france-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Senegal — Jun 16, 3:00 PM ET, MetLife Stadium (Group I)"
+      ],
+      "country": {
+        "capital": "Paris",
+        "population": "68 million",
+        "region": "Western Europe",
+        "continent": "Europe",
+        "language": "French",
+        "currency": "Euro (€)",
+        "location": "Western Europe, bordering Spain, Italy, Germany, Switzerland, Belgium, and Luxembourg. Atlantic and Mediterranean coastlines. 3,600 miles from New York.",
+        "funFacts": [
+          "France is the most visited country in the world — over 90 million tourists per year",
+          "France has won more Nobel Peace Prizes per capita than any other country",
+          "The Louvre is the world's most visited art museum, holding the Mona Lisa",
+          "France produces over 1,600 different types of cheese",
+          "The French invented the metric system, cinema (Lumière brothers), and the bikini"
+        ]
+      },
+      "team": {
+        "nickname": "Les Bleus",
+        "fifaRanking": 2,
+        "wcAppearances": 16,
+        "wcBestFinish": "2x Champions — 1998 France, 2018 Russia",
+        "lastWC": "2022 Qatar — runners-up (lost final to Argentina after epic comeback)",
+        "manager": "Didier Deschamps",
+        "starPlayers": [
+          {
+            "name": "Kylian Mbappé",
+            "position": "Forward",
+            "club": "Real Madrid",
+            "note": "The best player in the world at 27. Scored a hat trick in the 2022 final. 2026 is his tournament to win or lose."
+          },
+          {
+            "name": "Antoine Griezmann",
+            "position": "Attacking Midfielder",
+            "club": "Atlético Madrid",
+            "note": "The technical engine behind Mbappé. Creates, scores, defends — the glue that holds France's system together."
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "position": "Winger",
+            "club": "Paris Saint-Germain",
+            "note": "Electrifying and unpredictable. Terrifying to defend when at full pace. France's third attacking threat."
+          }
+        ],
+        "style": "Counter-attacking at its finest. Elite pace up front with Mbappé and Dembélé. Griezmann connecting. World-class depth at every position.",
+        "strengths": [
+          "Mbappé — arguably the best player at the tournament",
+          "Squad depth across positions",
+          "Big game experience"
+        ],
+        "weaknesses": [
+          "Internal tensions at previous tournaments",
+          "Heavy reliance on Mbappé",
+          "Senegal is dangerous opposition"
+        ],
+        "watchFor": "Mbappé vs Senegal's elite defense. France's opener at MetLife is their first group match — expect Deschamps to be cautious but Mbappé to deliver at least one moment of brilliance.",
+        "cityContext": "France vs Senegal at MetLife is one of the most emotionally charged group matches of the tournament. NYC's massive Senegalese community vs Les Bleus. Colonial history, current superstardom, maximum stakes."
+      }
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "group": "I",
+      "jersey": {
+        "colors": [
+          "#00853F",
+          "#FDEF42"
+        ],
+        "pattern": "solid",
+        "description": "Green and yellow — the colors of the Lions of Teranga (Puma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs France — Jun 16, 3:00 PM ET, MetLife Stadium (Group I)",
+        "vs Norway — Jun 22, 8:00 PM ET, MetLife Stadium (Group I)"
+      ],
+      "country": {
+        "capital": "Dakar",
+        "population": "18 million",
+        "region": "West Africa",
+        "continent": "Africa",
+        "language": "French, Wolof (widely spoken)",
+        "currency": "West African CFA franc (XOF)",
+        "location": "Westernmost point of Africa on the Atlantic coast. Bordered by Mauritania, Mali, Guinea, Guinea-Bissau, and The Gambia (which is surrounded by Senegal on three sides). 4,000 miles from New York.",
+        "funFacts": [
+          "Senegal is known as the \"Land of Teranga\" — teranga means hospitality in Wolof",
+          "Dakar was the finishing point of the legendary Paris-Dakar rally for 30 years",
+          "Senegal is home to the \"Pink Lake\" (Lake Retba) — naturally colored pink by algae, with salt contents rivaling the Dead Sea",
+          "Wrestling (Laamb) is the most popular sport in Senegal — football is second",
+          "Senegal has never been at war with another country since independence in 1960"
+        ]
+      },
+      "team": {
+        "nickname": "Lions of Teranga",
+        "fifaRanking": 20,
+        "wcAppearances": 4,
+        "wcBestFinish": "Quarterfinals — 2002 Japan/South Korea",
+        "lastWC": "2022 Qatar — Round of 16",
+        "manager": "Aliou Cissé",
+        "starPlayers": [
+          {
+            "name": "Sadio Mané",
+            "position": "Forward",
+            "club": "Al-Nassr",
+            "note": "One of the most decorated African players ever. Champions League winner, African Ballon d'Or. Experience and quality at the top."
+          },
+          {
+            "name": "Kalidou Koulibaly",
+            "position": "Centre-back",
+            "club": "Al-Hilal",
+            "note": "World-class defender. Physical, commanding, vocal leader. Senegal's defensive anchor."
+          },
+          {
+            "name": "Ismaïla Sarr",
+            "position": "Winger",
+            "club": "Marseille",
+            "note": "Explosive pace and directness. Senegal's primary attacking threat after Mané. Can run in behind any defense."
+          }
+        ],
+        "style": "Direct and physical. Counter-attack through Mané and Sarr. Koulibaly anchors the defense. Pressing when energy is high.",
+        "strengths": [
+          "Mané's experience and quality",
+          "Physical intensity",
+          "Belief — 2002 semifinalists showed what's possible"
+        ],
+        "weaknesses": [
+          "France and Norway are difficult group draws",
+          "Consistency in finishing",
+          "Can be exposed by elite technical teams"
+        ],
+        "watchFor": "Mané vs France's back four. Senegal's opener against Les Bleus is massive — and NYC's Senegalese community, one of the largest in the US, will be deafening at MetLife.",
+        "cityContext": "The Senegalese community in New York City is among the largest in North America. Both France and Norway matches at MetLife will be emotionally charged. Expect Senegalese flags throughout the stadium."
+      }
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "group": "I",
+      "jersey": {
+        "colors": [
+          "#EF2B2D",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Bold red — Norway's powerful national identity on the pitch (Nike)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Senegal — Jun 22, 8:00 PM ET, MetLife Stadium (Group I)"
+      ],
+      "country": {
+        "capital": "Oslo",
+        "population": "5.4 million",
+        "region": "Northern Europe / Scandinavia",
+        "continent": "Europe",
+        "language": "Norwegian",
+        "currency": "Norwegian Krone (NOK)",
+        "location": "Western Scandinavian Peninsula in Northern Europe. 2,500 km of coastline with fjords. Arctic Circle runs through northern Norway. 3,900 miles from New York.",
+        "funFacts": [
+          "Norway has the world's highest standard of living, consistently topping human development indices",
+          "Norway has more than 50,000 islands — the coast is so indented it would circle the Earth if straightened",
+          "The concept of \"friluftsliv\" (outdoor life) is central to Norwegian culture — spending time in nature is considered essential",
+          "Norway rejected EU membership in referendums in 1972 and 1994",
+          "Norwegian salmon farming produces 60% of the world's Atlantic salmon supply"
+        ]
+      },
+      "team": {
+        "nickname": "Ulvene (The Wolves)",
+        "fifaRanking": 23,
+        "wcAppearances": 3,
+        "wcBestFinish": "Round of 16 — 1938 France, 1998 France",
+        "lastWC": "1998 France — defeated Brazil in group stage, then lost in Round of 16",
+        "manager": "Ståle Solbakken",
+        "starPlayers": [
+          {
+            "name": "Erling Haaland",
+            "position": "Striker",
+            "club": "Manchester City",
+            "note": "The most feared striker on the planet. First senior World Cup. His record-breaking scoring will be scrutinized like no other Norway player in history."
+          },
+          {
+            "name": "Martin Ødegaard",
+            "position": "Attacking Midfielder",
+            "club": "Arsenal",
+            "note": "Technical, creative, composed. Norway's playmaker who makes Haaland's life much easier."
+          },
+          {
+            "name": "Alexander Sørloth",
+            "position": "Forward",
+            "club": "Atlético Madrid",
+            "note": "Physical, powerful second striker who pairs excellently with Haaland. Strong in the air, reliable finisher."
+          }
+        ],
+        "style": "Direct through Haaland but technically capable via Ødegaard. High press when organized. Built to use Haaland's movement as the reference point for everything.",
+        "strengths": [
+          "Haaland — the best striker in the world",
+          "Ødegaard's creativity",
+          "Motivated first major tournament in 28 years"
+        ],
+        "weaknesses": [
+          "Team quality beyond Haaland and Ødegaard",
+          "Group I has France — elite opposition",
+          "First World Cup in nearly three decades — inexperience at this stage"
+        ],
+        "watchFor": "Haaland vs Senegal's center-backs. Can Haaland finally deliver at a World Cup? 82,500 people at MetLife will be watching. Group I could make or break Norway's tournament ambitions.",
+        "cityContext": "Haaland's first World Cup match at MetLife is one of the tournament's defining moments. The whole world will be watching. NYC's Scandinavian community will be out in force."
+      }
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "group": "E",
+      "jersey": {
+        "colors": [
+          "#FFD100",
+          "#0033A0"
+        ],
+        "pattern": "solid",
+        "description": "Bright yellow with navy trim — La Tri's vibrant traditional identity (Marathon)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Germany — Jun 25, 4:00 PM ET, MetLife Stadium (Group E)"
+      ],
+      "country": {
+        "capital": "Quito",
+        "population": "18 million",
+        "region": "South America / Andean Region",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "US Dollar ($) — adopted in 2000",
+        "location": "The equator runs through Ecuador — its name literally means equator. Pacific coast of South America, below Colombia and above Peru. 3,200 miles from New York.",
+        "funFacts": [
+          "'Ecuador' literally means equator in Spanish — it sits right on the line",
+          "The Galápagos Islands, where Darwin developed his theory of evolution, belong to Ecuador",
+          "Ecuador is the world's top exporter of bananas",
+          "Quito at 9,350 feet elevation is the second-highest capital city in the world",
+          "Ecuador uses the US Dollar as its official currency, adopted in 2000 after an economic crisis"
+        ]
+      },
+      "team": {
+        "nickname": "La Tri",
+        "fifaRanking": 38,
+        "wcAppearances": 5,
+        "wcBestFinish": "Quarterfinals — 2006 Germany",
+        "lastWC": "2022 Qatar — group stage (4 points, narrowly eliminated)",
+        "manager": "Sebastián Beccacece",
+        "starPlayers": [
+          {
+            "name": "Gonzalo Plata",
+            "position": "Winger",
+            "club": "Wolverhampton",
+            "note": "Devastating pace and directness. Ecuador's most dangerous player in transition. Tough to contain."
+          },
+          {
+            "name": "Moisés Caicedo",
+            "position": "Midfielder",
+            "club": "Chelsea",
+            "note": "One of the best defensive midfielders in the Premier League. Controls tempo, wins every duel."
+          },
+          {
+            "name": "Kendry Páez",
+            "position": "Attacking Midfielder",
+            "club": "Chelsea",
+            "note": "Teenage sensation signed by Chelsea at 16. Technical, creative, the future of Ecuadorian football."
+          }
+        ],
+        "style": "Physical and hard-working. Strong defensive foundation. Counter-attack through Plata and wingbacks.",
+        "strengths": [
+          "Caicedo's elite midfield control",
+          "Dangerous on transitions",
+          "Physical intensity"
+        ],
+        "weaknesses": [
+          "Limited finishing outside Plata",
+          "Germany is elite opposition",
+          "Group E pressure from round one"
+        ],
+        "watchFor": "Caicedo vs Germany's midfield. Ecuador's group decider at MetLife will define their tournament. NYC's Ecuadorian community is enormous and will be loud.",
+        "cityContext": "New York City has one of the largest Ecuadorian populations in the US — centered in Queens. Ecuador vs Germany at MetLife will feel electric for the Latino community in the city."
+      }
+    },
+    {
+      "code": "GER",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "group": "E",
+      "jersey": {
+        "colors": [
+          "#FFFFFF",
+          "#000000"
+        ],
+        "pattern": "solid",
+        "description": "Classic white with black trim — Die Mannschaft's timeless identity worn at 4 World Cup triumphs (Adidas)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Ecuador — Jun 25, 4:00 PM ET, MetLife Stadium (Group E)"
+      ],
+      "country": {
+        "capital": "Berlin",
+        "population": "84 million",
+        "region": "Central Europe",
+        "continent": "Europe",
+        "language": "German",
+        "currency": "Euro (€)",
+        "location": "Heart of Central Europe, bordering 9 countries: France, Switzerland, Austria, Czech Republic, Poland, Denmark, Netherlands, Belgium, Luxembourg. 3,900 miles from New York.",
+        "funFacts": [
+          "Germany has won the World Cup 4 times (1954, 1974, 1990, 2014) — most of any European nation",
+          "Germans drink an average of 106 liters of beer per person per year",
+          "Berlin has more bridges than Venice — over 1,700 crossing the city's waterways",
+          "Germany invented the printing press, the automobile, aspirin, and the MP3 format",
+          "Germany is Europe's largest economy and home to some of the world's most famous engineering brands"
+        ]
+      },
+      "team": {
+        "nickname": "Die Mannschaft",
+        "fifaRanking": 12,
+        "wcAppearances": 20,
+        "wcBestFinish": "4x Champions — 1954, 1974, 1990, 2014",
+        "lastWC": "2022 Qatar — eliminated in group stage (shocking exit)",
+        "manager": "Julian Nagelsmann",
+        "starPlayers": [
+          {
+            "name": "Florian Wirtz",
+            "position": "Attacking Midfielder",
+            "club": "Bayer Leverkusen",
+            "note": "The most exciting young talent in Europe. Creative, powerful, scores and assists — Germany's next generational superstar."
+          },
+          {
+            "name": "Jamal Musiala",
+            "position": "Attacking Midfielder",
+            "club": "Bayern Munich",
+            "note": "Technically brilliant, unpredictable with the ball. Partners Wirtz to form the most exciting midfield pair in the tournament."
+          },
+          {
+            "name": "Kai Havertz",
+            "position": "Forward",
+            "club": "Arsenal",
+            "note": "Champions League winner. Versatile, technical, clinical when it matters. Germany's experienced attacking reference."
+          }
+        ],
+        "style": "Attacking football rebuilt under Nagelsmann. Wirtz and Musiala free to create. High press, technical buildup, quality at every position.",
+        "strengths": [
+          "Wirtz + Musiala combination",
+          "World Cup winning DNA and experience",
+          "Quality across all positions"
+        ],
+        "weaknesses": [
+          "2022 group stage exit created doubt",
+          "Ecuador with nothing to lose is dangerous",
+          "Pressure of expectation at every tournament"
+        ],
+        "watchFor": "Wirtz at MetLife. Germany's Group E decider vs Ecuador — with 82,500 watching — is exactly the big stage these young players were built for.",
+        "cityContext": "New York has one of the largest German-American communities in the US. Germany vs Ecuador at MetLife — a Group E decider — is one of the most anticipated matches of the tournament's final group weekend."
+      }
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "group": "L",
+      "jersey": {
+        "colors": [
+          "#D21034",
+          "#FFFFFF"
+        ],
+        "pattern": "solid",
+        "description": "Red and white — the colors of the Panamanian flag on Los Canaleros' kit (New Balance)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs England — Jun 27, 5:00 PM ET, MetLife Stadium (Group L)"
+      ],
+      "country": {
+        "capital": "Panama City",
+        "population": "4.4 million",
+        "region": "Central America",
+        "continent": "North America",
+        "language": "Spanish",
+        "currency": "Balboa (1:1 with USD) / US Dollar widely used",
+        "location": "The narrow isthmus connecting North and South America. Panama Canal connects the Pacific and Atlantic Oceans. 2,300 miles from New York.",
+        "funFacts": [
+          "The Panama Canal allows ships to travel between the Atlantic and Pacific in around 10 hours instead of weeks around South America",
+          "Panama was the first country outside the US to adopt the US Dollar as legal tender",
+          "Panama City is the only capital city in the Americas with a rainforest within its city limits",
+          "The Panama hat is actually from Ecuador — Panamanian merchants exported it, and the name stuck",
+          "Panama is the only place in the world where you can see the sun rise over the Pacific and set over the Atlantic from the same spot"
+        ]
+      },
+      "team": {
+        "nickname": "Los Canaleros",
+        "fifaRanking": 71,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage — 2018 Russia",
+        "lastWC": "2018 Russia — eliminated in group stage",
+        "manager": "Thomas Christiansen",
+        "starPlayers": [
+          {
+            "name": "Rolando Blackburn",
+            "position": "Forward",
+            "club": "FC Dallas",
+            "note": "Panama's top scorer and target man. Physical presence, hold-up play, creates space for others."
+          },
+          {
+            "name": "Adalberto Carrasquilla",
+            "position": "Midfielder",
+            "club": "Esbjerg",
+            "note": "Creative midfield link who makes Panama tick. Technical, composed under pressure."
+          },
+          {
+            "name": "César Yanis",
+            "position": "Midfielder",
+            "club": "Columbus Crew",
+            "note": "Energy and dynamism in the midfield. Sets the tempo for Panama's press when organized."
+          }
+        ],
+        "style": "Compact defensive block. Hard work and discipline. Counter-attack when the moment is right. Passionate, physical, organized.",
+        "strengths": [
+          "Defensive discipline",
+          "Team spirit",
+          "Set-piece threat"
+        ],
+        "weaknesses": [
+          "England is elite opposition",
+          "Limited quality in possession",
+          "Group L is very difficult"
+        ],
+        "watchFor": "Can Panama keep England from scoring early? If they can stay in the match until the 60th minute, Group L gets interesting.",
+        "cityContext": "New York's Latin American community includes thousands of Panamanians. England vs Panama at MetLife will be electric — with England fans descending on the city in enormous numbers."
+      }
+    },
+    {
+      "code": "ENG",
+      "name": "England",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": "L",
+      "jersey": {
+        "colors": [
+          "#FFFFFF",
+          "#003399"
+        ],
+        "pattern": "solid",
+        "description": "Classic white — the Three Lions' home kit, worn at the one and only 1966 World Cup triumph (Nike)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Panama — Jun 27, 5:00 PM ET, MetLife Stadium (Group L)"
+      ],
+      "country": {
+        "capital": "London",
+        "population": "57 million",
+        "region": "Northwestern Europe",
+        "continent": "Europe",
+        "language": "English",
+        "currency": "British Pound Sterling (GBP)",
+        "location": "Southern two-thirds of the island of Great Britain, plus many smaller islands. Separated from continental Europe by the English Channel (21 miles at its narrowest). 3,500 miles from New York.",
+        "funFacts": [
+          "England invented the modern rules of football in 1863 — when the Football Association was founded in London",
+          "The Premier League is broadcast in 189 countries and watched by 3.2 billion people globally",
+          "England has the most successful club football history — 9 European Champions Cups, 6 UEFA Cups",
+          "London has more languages spoken within its boundaries than any other city in the world",
+          "The phrase \"It's coming home\" was first used in 1996 — and has haunted England ever since"
+        ]
+      },
+      "team": {
+        "nickname": "Three Lions",
+        "fifaRanking": 5,
+        "wcAppearances": 16,
+        "wcBestFinish": "Champions — 1966 England",
+        "lastWC": "2022 Qatar — eliminated in quarterfinals by France",
+        "manager": "Thomas Tuchel",
+        "starPlayers": [
+          {
+            "name": "Jude Bellingham",
+            "position": "Attacking Midfielder",
+            "club": "Real Madrid",
+            "note": "The best young player in the world. Scores, creates, leads. England's tournament rests on his shoulders."
+          },
+          {
+            "name": "Harry Kane",
+            "position": "Striker",
+            "club": "Bayern Munich",
+            "note": "World-class finishing, intelligent movement, best striker in England's history. Still seeking a major trophy."
+          },
+          {
+            "name": "Bukayo Saka",
+            "position": "Winger",
+            "club": "Arsenal",
+            "note": "Consistent, direct, dangerous on either wing. One of the Premier League's best players for three straight seasons."
+          }
+        ],
+        "style": "Structured, patient, direct when the opportunity arises. Bellingham connecting midfield to attack. Kane as the elite reference point.",
+        "strengths": [
+          "Bellingham + Kane is the best attacking duo at the tournament",
+          "Premier League quality across the squad",
+          "Organization under Tuchel"
+        ],
+        "weaknesses": [
+          "History of tournament pressure collapses",
+          "Kane's trophy drought adds psychological weight",
+          "60 years since a major trophy — the weight of expectation"
+        ],
+        "watchFor": "Bellingham at MetLife. England fans will arrive in New York in the tens of thousands and create one of the most electric atmospheres at the stadium all tournament.",
+        "cityContext": "England's traveling support descends on NYC in force — expect English pub culture to take over Midtown and Hell's Kitchen from the day before the match. MetLife will feel like Wembley when they score."
+      }
+    }
+  ],
+  "philly": [
+    {
+      "code": "CIV",
+      "name": "Côte d'Ivoire",
+      "flag": "🇨🇮",
+      "group": "E",
+      "jersey": {
+        "colors": [
+          "#FF6600",
+          "#FFFFFF"
+        ],
+        "pattern": "halves",
+        "description": "Orange, white, and green — the Éléphants wearing the Ivorian flag colors (Nike)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Ecuador — Jun 14, 7:00 PM ET, Lincoln Financial Field (Group E)",
+        "vs Curaçao — Jun 25, 4:00 PM ET, Lincoln Financial Field (Group E)"
+      ],
+      "country": {
+        "capital": "Yamoussoukro (official) / Abidjan (economic)",
+        "population": "27 million",
+        "region": "West Africa",
+        "continent": "Africa",
+        "language": "French (official), Dioula, Baoulé",
+        "currency": "West African CFA franc (XOF)",
+        "location": "West Africa on the Gulf of Guinea, bordered by Ghana, Burkina Faso, Mali, Guinea, and Liberia. 4,500 miles from Philadelphia.",
+        "funFacts": [
+          "Côte d'Ivoire is the world's largest exporter of cocoa — responsible for about 40% of global supply",
+          "Abidjan is one of the fastest-growing cities in Africa, sometimes called 'the Paris of West Africa'",
+          "The Basilica of Our Lady of Peace in Yamoussoukro is the world's largest church by area",
+          "Côte d'Ivoire won back-to-back Africa Cup of Nations titles in 2015 and 2024",
+          "Didier Drogba remains the country's most celebrated sports figure — his 2005 appeal helped end a civil war"
+        ]
+      },
+      "team": {
+        "nickname": "Les Éléphants",
+        "fifaRanking": 35,
+        "wcAppearances": 4,
+        "wcBestFinish": "Group stage (4 appearances)",
+        "lastWC": "2014 Brazil — eliminated in group stage (group with Colombia)",
+        "manager": "Emerse Faé",
+        "starPlayers": [
+          {
+            "name": "Sébastien Haller",
+            "position": "Forward",
+            "club": "Borussia Dortmund",
+            "note": "Champions League semi-finalist. Physical, technical, lethal in the box. Ivory Coast's finishing reference point."
+          },
+          {
+            "name": "Franck Kessié",
+            "position": "Midfielder",
+            "club": "Al-Qadsiah",
+            "note": "Physical midfielder who drives from deep. Won the Serie A title with Milan. Sets the tempo for the entire team."
+          },
+          {
+            "name": "Simon Adingra",
+            "position": "Winger",
+            "club": "Brighton",
+            "note": "The future of Ivorian football. Fast, direct, unpredictable. Proved himself in the Premier League."
+          }
+        ],
+        "style": "Physical and direct. Haller as the target man, wide players running in behind. Kessié protects and connects in midfield.",
+        "strengths": [
+          "Haller's finishing",
+          "2024 AFCON champions — the squad knows how to win",
+          "Physical intensity in the press"
+        ],
+        "weaknesses": [
+          "Ecuador and Germany are dangerous opposition",
+          "Group E has no easy games",
+          "Relies on fitness of aging stars"
+        ],
+        "watchFor": "Haller vs Ecuador's defense in the opener. Ivory Coast's group campaign starts at Lincoln Financial — a match that could set the tone for their entire tournament.",
+        "cityContext": "Philly's West African community will make Lincoln Financial one of the most emotionally charged venues in the tournament. Côte d'Ivoire playing two group matches in Philadelphia is a historic occasion."
+      }
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "group": "E",
+      "jersey": {
+        "colors": [
+          "#FFD100",
+          "#0033A0"
+        ],
+        "pattern": "solid",
+        "description": "Bright yellow with navy trim — La Tri's vibrant traditional identity (Marathon)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Côte d'Ivoire — Jun 14, 7:00 PM ET, Lincoln Financial Field (Group E)"
+      ],
+      "country": {
+        "capital": "Quito",
+        "population": "18 million",
+        "region": "South America / Andean Region",
+        "continent": "South America",
+        "language": "Spanish",
+        "currency": "US Dollar ($) — adopted in 2000",
+        "location": "The equator runs through Ecuador — its name literally means equator. Pacific coast of South America, between Colombia and Peru. 3,800 miles from Philadelphia.",
+        "funFacts": [
+          "'Ecuador' literally means equator in Spanish — it sits right on the line",
+          "The Galápagos Islands, where Darwin developed his theory of evolution, belong to Ecuador",
+          "Ecuador is the world's top exporter of bananas",
+          "Quito at 9,350 feet elevation is the second-highest capital city in the world",
+          "Ecuador uses the US Dollar as its official currency, adopted in 2000 after an economic crisis"
+        ]
+      },
+      "team": {
+        "nickname": "La Tri",
+        "fifaRanking": 38,
+        "wcAppearances": 5,
+        "wcBestFinish": "Quarterfinals — 2006 Germany",
+        "lastWC": "2022 Qatar — group stage (4 points, narrowly eliminated)",
+        "manager": "Sebastián Beccacece",
+        "starPlayers": [
+          {
+            "name": "Gonzalo Plata",
+            "position": "Winger",
+            "club": "Wolverhampton",
+            "note": "Devastating pace and directness. Ecuador's most dangerous player in transition."
+          },
+          {
+            "name": "Moisés Caicedo",
+            "position": "Midfielder",
+            "club": "Chelsea",
+            "note": "One of the best defensive midfielders in the Premier League. Controls tempo, wins every duel."
+          },
+          {
+            "name": "Kendry Páez",
+            "position": "Attacking Midfielder",
+            "club": "Chelsea",
+            "note": "Teenage sensation signed by Chelsea at 16. The future of Ecuadorian football."
+          }
+        ],
+        "style": "Physical and hard-working. Strong defensive foundation. Counter-attack through Plata and wingbacks.",
+        "strengths": [
+          "Caicedo's elite midfield control",
+          "Dangerous on transitions",
+          "Physical intensity"
+        ],
+        "weaknesses": [
+          "Ivory Coast is dangerous opposition",
+          "Group E is extremely competitive",
+          "Limited finishing outside Plata"
+        ],
+        "watchFor": "Caicedo vs Ivory Coast's midfield. Ecuador's Group E opener at Lincoln Financial — Caicedo's performance will set the tone for their entire tournament.",
+        "cityContext": "Philadelphia's South American community will have a strong Ecuador contingent. Ivory Coast vs Ecuador is Philly's World Cup opener — both teams have everything to play for in Group E."
+      }
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#009C3B",
+          "#FFDF00"
+        ],
+        "pattern": "solid",
+        "description": "Iconic Canarinha yellow — the most recognizable kit in world football (Nike)",
+        "kitLink": "https://www.nike.com/t/brazil-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Haiti — Jun 19, 8:30 PM ET, Lincoln Financial Field (Group C)"
+      ],
+      "country": {
+        "capital": "Brasília",
+        "population": "215 million",
+        "region": "South America",
+        "continent": "South America",
+        "language": "Portuguese",
+        "currency": "Brazilian Real (BRL)",
+        "location": "Largest country in South America, 5th largest in the world. Amazon rainforest covers 60%. 4,700 miles from Philadelphia.",
+        "funFacts": [
+          "Brazil is the only country to have played in every FIFA World Cup since 1930",
+          "Brazil has won the World Cup a record 5 times — more than any other nation",
+          "São Paulo is the largest city in the Western Hemisphere with 22 million people",
+          "Brazil produces about 35% of the world's coffee",
+          "The Amazon River discharges more water into the ocean than the next 7 largest rivers combined"
+        ]
+      },
+      "team": {
+        "nickname": "Seleção / A Canarinha",
+        "fifaRanking": 5,
+        "wcAppearances": 22,
+        "wcBestFinish": "5x Champions — 1958, 1962, 1970, 1994, 2002",
+        "lastWC": "2022 Qatar — eliminated in quarterfinals by Croatia on penalties",
+        "manager": "Dorival Jr.",
+        "starPlayers": [
+          {
+            "name": "Vinícius Jr.",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "The best player in the world at his peak. Pace, skill, goals. If Brazil win the tournament, it's because of him."
+          },
+          {
+            "name": "Rodrygo",
+            "position": "Winger",
+            "club": "Real Madrid",
+            "note": "Champions League pedigree, brilliant in tight spaces. The foil to Vinícius and equally dangerous."
+          },
+          {
+            "name": "Endrick",
+            "position": "Forward",
+            "club": "Real Madrid",
+            "note": "Teenager who has already scored in El Clásico. Brazil's next generation — powerful, instinctive."
+          }
+        ],
+        "style": "Attacking, fluid, technically brilliant. Four attacking players in the top half. Pressing from the front.",
+        "strengths": [
+          "Elite individual quality throughout",
+          "Depth at every position",
+          "Tournament pedigree"
+        ],
+        "weaknesses": [
+          "24-year drought psychology",
+          "Haiti will play for the occasion",
+          "Penalty pressure in knockouts"
+        ],
+        "watchFor": "Vinícius Jr. at Lincoln Financial. Brazil vs Haiti will become one of the most emotionally charged matches in Philly's tournament — the city's Haitian community will create an extraordinary atmosphere.",
+        "cityContext": "Philadelphia's Haitian community is one of the most passionate in North America. Brazil vs Haiti at Lincoln Financial will be electric — expect Haitian flags, drumming, and Brazil gold everywhere. Philly's defining World Cup night."
+      }
+    },
+    {
+      "code": "HAI",
+      "name": "Haiti",
+      "flag": "🇭🇹",
+      "group": "C",
+      "jersey": {
+        "colors": [
+          "#00209F",
+          "#D21034"
+        ],
+        "pattern": "halves",
+        "description": "Blue and red — the colors of the Haitian flag on Les Grenadiers' kit (Macron)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Brazil — Jun 19, 8:30 PM ET, Lincoln Financial Field (Group C)"
+      ],
+      "country": {
+        "capital": "Port-au-Prince",
+        "population": "11.5 million",
+        "region": "Caribbean",
+        "continent": "North America",
+        "language": "Haitian Creole, French",
+        "currency": "Haitian Gourde (HTG)",
+        "location": "Western third of the island of Hispaniola in the Caribbean, sharing with the Dominican Republic. 1,600 miles from Philadelphia.",
+        "funFacts": [
+          "Haiti was the first Black republic in the world and the first Caribbean country to gain independence (1804)",
+          "The Haitian Revolution is the only successful slave revolt in history to found a nation",
+          "Haiti's revolution inspired slave rebellions across the Americas and changed the course of history",
+          "Haiti has one of the oldest and richest Vodou traditions in the Caribbean",
+          "Philadelphia has one of the largest Haitian diaspora communities in the United States"
+        ]
+      },
+      "team": {
+        "nickname": "Les Grenadiers",
+        "fifaRanking": 83,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage — 1974 West Germany",
+        "lastWC": "1974 West Germany — eliminated in group stage",
+        "manager": "Marc Collat",
+        "starPlayers": [
+          {
+            "name": "Duckens Nazon",
+            "position": "Forward",
+            "club": "Saint-Étienne",
+            "note": "Haiti's most experienced attacker. Physical, direct, knows how to hold the ball up under pressure."
+          },
+          {
+            "name": "Steeven Saba",
+            "position": "Forward",
+            "club": "FC Brussels",
+            "note": "Pacy winger who can create danger on the counter-attack. Haiti's primary transition threat."
+          },
+          {
+            "name": "Frantzdy Pierrot",
+            "position": "Midfielder",
+            "club": "Charlotte FC",
+            "note": "Energetic midfielder who works tirelessly. Sets the defensive foundation and links play for Haiti."
+          }
+        ],
+        "style": "Defensive block, organized, hard to break down. Counter-attack through pace up front. Set pieces offer their best scoring opportunities.",
+        "strengths": [
+          "Organization and discipline",
+          "Motivated by the occasion",
+          "Philadelphia's Haitian community as their 12th man"
+        ],
+        "weaknesses": [
+          "Brazil is the strongest opposition in the group",
+          "Limited squad depth",
+          "First World Cup in 52 years — rusty at this level"
+        ],
+        "watchFor": "Can Haiti hold Brazil for any significant period? Every minute they stay level will be celebrated like a goal. Lincoln Financial will be one of the most emotionally charged venues of the entire tournament.",
+        "cityContext": "Haiti vs Brazil at Lincoln Financial is Philly's most emotionally significant World Cup match. The city's Haitian community — one of America's largest — will turn Lincoln Financial into a cauldron. This is their moment on the world stage."
+      }
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "flag": "🇫🇷",
+      "group": "I",
+      "jersey": {
+        "colors": [
+          "#002395",
+          "#EF3340"
+        ],
+        "pattern": "solid",
+        "description": "Deep navy with red accents — Les Bleus' iconic look that has won two World Cups (Nike)",
+        "kitLink": "https://www.nike.com/t/france-2026-stadium-home-mens-football-replica-jersey"
+      },
+      "cityMatches": [
+        "vs Iraq — Jun 22, 5:00 PM ET, Lincoln Financial Field (Group I)"
+      ],
+      "country": {
+        "capital": "Paris",
+        "population": "68 million",
+        "region": "Western Europe",
+        "continent": "Europe",
+        "language": "French",
+        "currency": "Euro (€)",
+        "location": "Western Europe, bordering Spain, Italy, Germany, Switzerland, Belgium, and Luxembourg. 3,700 miles from Philadelphia.",
+        "funFacts": [
+          "France is the most visited country in the world — over 90 million tourists per year",
+          "The Louvre is the world's most visited art museum, holding the Mona Lisa",
+          "France produces over 1,600 different types of cheese",
+          "France has won the World Cup twice — 1998 at home, 2018 in Russia",
+          "The French invented cinema (Lumière brothers) and the metric system"
+        ]
+      },
+      "team": {
+        "nickname": "Les Bleus",
+        "fifaRanking": 2,
+        "wcAppearances": 16,
+        "wcBestFinish": "2x Champions — 1998 France, 2018 Russia",
+        "lastWC": "2022 Qatar — runners-up (lost final to Argentina)",
+        "manager": "Didier Deschamps",
+        "starPlayers": [
+          {
+            "name": "Kylian Mbappé",
+            "position": "Forward",
+            "club": "Real Madrid",
+            "note": "The best player in the world at 27. Scored a hat trick in the 2022 final. 2026 is his tournament to win or lose."
+          },
+          {
+            "name": "Antoine Griezmann",
+            "position": "Attacking Midfielder",
+            "club": "Atlético Madrid",
+            "note": "Creative, scores, defends — the glue that holds France's system together."
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "position": "Winger",
+            "club": "Paris Saint-Germain",
+            "note": "Electrifying and unpredictable. Terrifying to defend when at full pace."
+          }
+        ],
+        "style": "Counter-attacking at its finest. Elite pace up front. World-class depth at every position.",
+        "strengths": [
+          "Mbappé — arguably the best player at the tournament",
+          "Squad depth",
+          "Big game experience"
+        ],
+        "weaknesses": [
+          "Internal tensions at previous tournaments",
+          "Heavy reliance on Mbappé",
+          "Group I pressure begins here"
+        ],
+        "watchFor": "Mbappé at Lincoln Financial. France vs Iraq is expected to be a statement win — but how dominant Les Bleus are here will signal their tournament intentions.",
+        "cityContext": "France's Group I match at Lincoln Financial brings one of the tournament's biggest teams to South Philly. Expect French traveling fans to fill the bars of Old City and Rittenhouse before kickoff."
+      }
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "flag": "🇮🇶",
+      "group": "I",
+      "jersey": {
+        "colors": [
+          "#CE1126",
+          "#000000"
+        ],
+        "pattern": "solid",
+        "description": "Red and black — the colors of Iraq's national identity on the kit (Joma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs France — Jun 22, 5:00 PM ET, Lincoln Financial Field (Group I)"
+      ],
+      "country": {
+        "capital": "Baghdad",
+        "population": "42 million",
+        "region": "Middle East",
+        "continent": "Asia",
+        "language": "Arabic, Kurdish",
+        "currency": "Iraqi Dinar (IQD)",
+        "location": "Heart of the Middle East, between the Tigris and Euphrates rivers — the ancient land of Mesopotamia. Bordered by Iran, Turkey, Syria, Jordan, Kuwait, and Saudi Arabia. 6,200 miles from Philadelphia.",
+        "funFacts": [
+          "Iraq is home to the world's earliest writing system — cuneiform script, developed 5,000 years ago",
+          "The Tigris and Euphrates rivers that run through Iraq are from the Bible's Garden of Eden account",
+          "Iraq has the world's 4th largest oil reserves",
+          "The city of Baghdad was once the world's largest and most advanced city during the Islamic Golden Age",
+          "Iraq's national football team has won the AFC Asian Cup — showing real competitive quality in Asian football"
+        ]
+      },
+      "team": {
+        "nickname": "Lions of Mesopotamia",
+        "fifaRanking": 67,
+        "wcAppearances": 1,
+        "wcBestFinish": "Group stage — 1986 Mexico",
+        "lastWC": "1986 Mexico — eliminated in group stage",
+        "manager": "Jesús Casas",
+        "starPlayers": [
+          {
+            "name": "Mohanad Ali",
+            "position": "Forward",
+            "club": "Al-Shorta",
+            "note": "Iraq's most prolific domestic scorer. Experienced, knows the game, brings leadership to the attack."
+          },
+          {
+            "name": "Bashar Resan",
+            "position": "Midfielder",
+            "club": "Al-Shorta",
+            "note": "Technical midfielder who controls the pace of Iraq's play. Their most consistent performer."
+          },
+          {
+            "name": "Amjed Attwan",
+            "position": "Goalkeeper",
+            "club": "Al-Quwa Al-Jawiya",
+            "note": "Experienced goalkeeper who has kept Iraq competitive in Asian qualifiers. Shot-stopping is his strength."
+          }
+        ],
+        "style": "Organized defensive block, looking to frustrate and counter. Very limited chance of scoring vs France, but discipline could keep the margin manageable.",
+        "strengths": [
+          "Organization and discipline",
+          "Motivated by the occasion",
+          "First World Cup in 40 years — playing for history"
+        ],
+        "weaknesses": [
+          "France is the toughest possible Group I draw",
+          "Limited exposure to top European football",
+          "Quality gap is significant"
+        ],
+        "watchFor": "How many does France score? Iraq's defensive organization will be tested from minute one. Every save Attwan makes and every good defensive moment will be celebrated by the traveling Iraqi support.",
+        "cityContext": "The Iraqi-American community in the Mid-Atlantic region will have representation at Lincoln Financial. For many fans, this is Iraq's first World Cup in their lifetime. The occasion itself is the victory."
+      }
+    },
+    {
+      "code": "CUW",
+      "name": "Curaçao",
+      "flag": "🇨🇼",
+      "group": "E",
+      "jersey": {
+        "colors": [
+          "#002B7F",
+          "#F9E300"
+        ],
+        "pattern": "solid",
+        "description": "Blue and gold — inspired by the Netherlands heritage and Curaçao's island identity (Joma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Côte d'Ivoire — Jun 25, 4:00 PM ET, Lincoln Financial Field (Group E)"
+      ],
+      "country": {
+        "capital": "Willemstad",
+        "population": "160,000",
+        "region": "Caribbean (Dutch Constituent)",
+        "continent": "North America",
+        "language": "Papiamentu, Dutch, English",
+        "currency": "Netherlands Antillean Guilder (ANG)",
+        "location": "Island in the southern Caribbean Sea, just north of Venezuela. Part of the ABC Islands of the Dutch Caribbean. 2,100 miles from Philadelphia.",
+        "funFacts": [
+          "Curaçao — a population of 160,000 — is the smallest nation to qualify for the 2026 World Cup",
+          "The island produces the famous Curaçao liqueur — the blue version is exported worldwide",
+          "Willemstad's colorful colonial waterfront is a UNESCO World Heritage Site",
+          "Football in Curaçao exploded after the Dutch Antilles reformed — the island punches far above its weight",
+          "Curaçao is one of only a few places where the oil refinery has been a bigger industry than tourism — though tourism is growing fast"
+        ]
+      },
+      "team": {
+        "nickname": "Karchi (The Dogs)",
+        "fifaRanking": 89,
+        "wcAppearances": 1,
+        "wcBestFinish": "Group stage — 2026 (debut)",
+        "lastWC": "First World Cup appearance",
+        "manager": "Remko Bicentini",
+        "starPlayers": [
+          {
+            "name": "Cuco Martina",
+            "position": "Defender",
+            "club": "TBD",
+            "note": "Veteran captain who has been the backbone of Curaçao's rise. Experienced, organized, leads by example."
+          },
+          {
+            "name": "Leandro Bacuna",
+            "position": "Midfielder",
+            "club": "TBD",
+            "note": "Quality midfielder who has played in the English Championship. Technical and experienced at the professional level."
+          },
+          {
+            "name": "Juniordinho",
+            "position": "Forward",
+            "club": "TBD",
+            "note": "Exciting young forward who could be Curaçao's breakout star. Pace and directness on the counter."
+          }
+        ],
+        "style": "Defensive organization, hard work, counter-attack. An island of 160,000 people with a football identity that belies its size.",
+        "strengths": [
+          "Team spirit and unity",
+          "Pride of representing a tiny nation on the biggest stage",
+          "Group E match at Philly is their tournament highlight"
+        ],
+        "weaknesses": [
+          "Côte d'Ivoire is significantly stronger",
+          "Squad depth is very limited",
+          "Global exposure far less than every opponent"
+        ],
+        "watchFor": "Can Curaçao score against Ivory Coast? Any goal at Lincoln Financial would be the biggest moment in Curaçaoan sporting history. An island of 160,000 watching their team at the World Cup.",
+        "cityContext": "Curaçao makes history at Lincoln Financial — their first World Cup match ever. Philadelphia's Caribbean community will be well represented. Cheer for the little guy: 160,000 people and a World Cup dream."
+      }
+    },
+    {
+      "code": "CRO",
+      "name": "Croatia",
+      "flag": "🇭🇷",
+      "group": "L",
+      "jersey": {
+        "colors": [
+          "#FF0000",
+          "#FFFFFF"
+        ],
+        "pattern": "quarters",
+        "description": "Red and white checkerboard — the Vatreni's iconic Šahovnica kit, one of the most recognized in football (Nike)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Ghana — Jun 27, 5:00 PM ET, Lincoln Financial Field (Group L)"
+      ],
+      "country": {
+        "capital": "Zagreb",
+        "population": "3.9 million",
+        "region": "Southeast Europe / Balkans",
+        "continent": "Europe",
+        "language": "Croatian",
+        "currency": "Euro (€) — adopted in 2023",
+        "location": "Eastern Adriatic coast of Europe. Famous 1,778 km coastline with over 1,000 islands. Bordered by Slovenia, Hungary, Serbia, Bosnia-Herzegovina, and Montenegro. 4,400 miles from Philadelphia.",
+        "funFacts": [
+          "Croatia won silver at the 2018 World Cup and bronze in 2022 — extraordinary for a nation of 3.9 million",
+          "The tie was invented in Croatia — it originated in Croat soldiers' scarves during the 30 Years War",
+          "Dubrovnik's Old Town, a UNESCO site, was used as the filming location for King's Landing in Game of Thrones",
+          "Croatia has 10 UNESCO World Heritage Sites and 8 national parks",
+          "Croatia's coastline has more islands than any other country in the Mediterranean"
+        ]
+      },
+      "team": {
+        "nickname": "Vatreni (The Blazers)",
+        "fifaRanking": 10,
+        "wcAppearances": 7,
+        "wcBestFinish": "Runner-up — 2018 Russia",
+        "lastWC": "2022 Qatar — 3rd place",
+        "manager": "Zlatko Dalić",
+        "starPlayers": [
+          {
+            "name": "Luka Modrić",
+            "position": "Midfielder",
+            "club": "Al-Qadsiah",
+            "note": "Ballon d'Or winner, arguably the greatest midfielder of his generation. 39 years old and still leading Croatia. Legacy match."
+          },
+          {
+            "name": "Joško Gvardiol",
+            "position": "Defender",
+            "club": "Manchester City",
+            "note": "The best young defender in the world. Manchester City regular. Dominant, assured, commands the backline."
+          },
+          {
+            "name": "Mateo Kovačić",
+            "position": "Midfielder",
+            "club": "Manchester City",
+            "note": "Technical, composed, Champions League winner. Provides the quality link between defense and attack."
+          }
+        ],
+        "style": "Possession and patience. Modrić orchestrates. Gvardiol provides the attacking outlet from defense. Organized, difficult to beat.",
+        "strengths": [
+          "Modrić — tournament pedigree like no other",
+          "Gvardiol's world-class defending",
+          "Experienced squad under Dalić"
+        ],
+        "weaknesses": [
+          "Aging core around Modrić",
+          "Ghana is motivated opposition",
+          "Physical demands of Group L schedule"
+        ],
+        "watchFor": "Modrić's final World Cup? At 39, watching Luka Modrić control the midfield at Lincoln Financial could be one of football's last great farewells. Croatia vs Ghana in Philly is a serious Group L match.",
+        "cityContext": "South Philadelphia's Croatian community will make Lincoln Financial feel special. Croatia — a nation of 3.9 million that reached a World Cup final — brings elite football culture to Philly's Group L decider."
+      }
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "group": "L",
+      "jersey": {
+        "colors": [
+          "#006B3F",
+          "#FCD116"
+        ],
+        "pattern": "solid",
+        "description": "Green and gold — the Black Stars' vibrant Pan-African identity on the pitch (Puma)",
+        "kitLink": "https://store.fifa.com/collections/world-cup-2026-football-shirts"
+      },
+      "cityMatches": [
+        "vs Croatia — Jun 27, 5:00 PM ET, Lincoln Financial Field (Group L)"
+      ],
+      "country": {
+        "capital": "Accra",
+        "population": "33 million",
+        "region": "West Africa",
+        "continent": "Africa",
+        "language": "English (official), Akan, Dagbani",
+        "currency": "Ghanaian Cedi (GHS)",
+        "location": "West Africa on the Gulf of Guinea, bordered by Côte d'Ivoire, Burkina Faso, and Togo. The Prime Meridian passes through Ghana. 5,100 miles from Philadelphia.",
+        "funFacts": [
+          "Ghana was the first sub-Saharan African country to gain independence (1957) and became a symbol of Pan-Africanism",
+          "Ghana's name comes from the ancient Ghana Empire, though the current country is in a different location",
+          "Ghana is the world's second-largest cocoa producer and a major gold exporter — two of the richest commodities on earth",
+          "Ghanaian football was the first to produce consistent Premier League talent — from Abedi Pelé to Michael Essien to Thomas Partey",
+          "The most heartbreaking moment in African football history: Luis Suárez's handball in 2010 stopped Ghana from becoming Africa's first World Cup semi-finalist"
+        ]
+      },
+      "team": {
+        "nickname": "Black Stars",
+        "fifaRanking": 62,
+        "wcAppearances": 4,
+        "wcBestFinish": "Quarterfinals — 2010 South Africa",
+        "lastWC": "2022 Qatar — eliminated in group stage",
+        "manager": "Otto Addo",
+        "starPlayers": [
+          {
+            "name": "Mohammed Kudus",
+            "position": "Attacking Midfielder",
+            "club": "West Ham",
+            "note": "One of the most exciting midfielders in the Premier League. Creative, dangerous, scores and assists consistently."
+          },
+          {
+            "name": "Iñaki Williams",
+            "position": "Forward",
+            "club": "Athletic Club",
+            "note": "Physical, relentless, hard to contain. Williams chose Ghana over Spain — and his passion for the Black Stars is undeniable."
+          },
+          {
+            "name": "Thomas Partey",
+            "position": "Midfielder",
+            "club": "Arsenal",
+            "note": "Experienced, powerful, controls the defensive midfield. Partey's form sets Ghana's defensive foundation."
+          }
+        ],
+        "style": "Direct and physical. Kudus creating in the final third, Williams as the physical threat up front. Partey protecting behind.",
+        "strengths": [
+          "Kudus — Premier League-proven creativity",
+          "Williams' physical threat",
+          "Motivated by 2010 heartbreak legacy"
+        ],
+        "weaknesses": [
+          "Croatia is experienced World Cup opposition",
+          "2022 group stage exit still fresh",
+          "Qualifying pressure vs top African nations"
+        ],
+        "watchFor": "Kudus vs Modrić. The biggest creative battle in Group L. Ghana vs Croatia is a repeat of their 2022 group stage match (Croatia won 2-0). Can Ghana reverse the result in Philly?",
+        "cityContext": "Philadelphia's West African community will be well represented for Ghana vs Croatia. The Black Stars' 2010 heartbreak story resonates globally — Philly will know what it means when Ghana score."
       }
     }
   ]
