@@ -176,6 +176,12 @@ export default function NewsEditor({ token }) {
 
       {/* ── Article list ── */}
       <div style={{ marginTop: 24 }}>
+        {(error || status) && (
+          <div className="admin-save-bar" style={{ marginBottom: 12 }}>
+            {error  && <span className="admin-status error">{error}</span>}
+            {status && <span className="admin-status ok">{status}</span>}
+          </div>
+        )}
         <div className="news-filter-bar">
           {FILTERS.map(f => (
             <button key={f}

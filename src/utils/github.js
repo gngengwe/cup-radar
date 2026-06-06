@@ -29,7 +29,7 @@ export async function verifyToken(token) {
 export async function fetchFile(token, path) {
   const res = await fetch(
     `${API}/repos/${OWNER}/${REPO}/contents/${path}?ref=${BRANCH}`,
-    { headers: headers(token) }
+    { headers: headers(token), cache: 'no-cache' }
   );
   if (!res.ok) throw new Error(`GitHub ${res.status}: ${res.statusText}`);
   const data = await res.json();
