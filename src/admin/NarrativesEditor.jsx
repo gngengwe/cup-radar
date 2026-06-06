@@ -94,7 +94,18 @@ export default function NarrativesEditor({ token }) {
               {n.chapters.map((ch, i) => (
                 <div key={i} className="narrative-chapter" style={{ display: 'flex', alignItems: 'flex-start', gap: 8 }}>
                   <span className="narrative-chapter__num">Ch.{i + 1}</span>
-                  <span className="narrative-chapter__text" style={{ flex: 1 }}>{ch}</span>
+                  <span className="narrative-chapter__text" style={{ flex: 1 }}>
+                    {typeof ch === 'string' ? ch : (
+                      <>
+                        {ch.title}
+                        {ch.sourceLink && (
+                          <a href={ch.sourceLink} target="_blank" rel="noopener noreferrer"
+                            style={{ marginLeft: 6, fontSize: 10, opacity: 0.5 }}>↗</a>
+                        )}
+                        {ch.draft && <span style={{ marginLeft: 6, fontSize: 10, color: 'var(--text-muted)' }}>draft</span>}
+                      </>
+                    )}
+                  </span>
                   <button className="admin-delete-btn" onClick={() => removeChapter(n.id, i)} style={{ flexShrink: 0 }}>✕</button>
                 </div>
               ))}

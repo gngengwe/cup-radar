@@ -81,7 +81,9 @@ function NarrativeCard({ narrative, expanded, onToggle }) {
               {narrative.chapters.map((ch, i) => (
                 <div key={i} className="narrative-chapter">
                   <span className="narrative-chapter__num">Ch.{i + 1}</span>
-                  <span className="narrative-chapter__text">{ch}</span>
+                  <span className="narrative-chapter__text">
+                    {typeof ch === 'string' ? ch : ch.title}
+                  </span>
                 </div>
               ))}
             </div>
