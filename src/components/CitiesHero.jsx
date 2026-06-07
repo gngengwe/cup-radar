@@ -10,7 +10,7 @@ const CITIES = [
     accent:     'var(--accent)',
     accentSoft: 'var(--accent-soft)',
     border:     'var(--border-accent)',
-    matchCount: 6,
+    matchCount: 4,
     stages:     'Group Stage · Round of 32 · Round of 16',
     headline:   'The home city experience.',
     keyMatches: [
@@ -31,7 +31,7 @@ const CITIES = [
     accent:     '#c084fc',
     accentSoft: 'rgba(192,132,252,0.1)',
     border:     'rgba(192,132,252,0.25)',
-    matchCount: 6,
+    matchCount: 4,
     stages:     'Group Stage · Round of 32 · Quarterfinal',
     headline:   'Argentina. The Quarterfinal. Arrowhead.',
     keyMatches: [
@@ -81,6 +81,7 @@ const CITIES = [
     keyMatches: [
       { teams: '🇧🇷 Brazil vs Morocco 🇲🇦',      date: 'Jun 13', note: 'Group C' },
       { teams: '🇫🇷 France vs Senegal 🇸🇳',       date: 'Jun 16', note: 'Group I' },
+      { teams: '🇳🇴 Norway vs Senegal 🇸🇳',        date: 'Jun 22', note: 'Group I' },
       { teams: '🇪🇨 Ecuador vs Germany 🇩🇪',       date: 'Jun 25', note: 'Group E' },
       { teams: '🇵🇦 Panama vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿',    date: 'Jun 27', note: 'Group L' },
     ],
@@ -104,10 +105,12 @@ const CITIES = [
       { teams: "🇨🇮 Côte d'Ivoire vs Ecuador 🇪🇨", date: 'Jun 14', note: 'Group E' },
       { teams: '🇧🇷 Brazil vs Haiti 🇭🇹',           date: 'Jun 19', note: 'Group C' },
       { teams: '🇫🇷 France vs Iraq 🇮🇶',             date: 'Jun 22', note: 'Group I' },
+      { teams: '🇨🇼 Curaçao vs Côte d\'Ivoire 🇨🇮',  date: 'Jun 25', note: 'Group E' },
       { teams: '🇭🇷 Croatia vs Ghana 🇬🇭',           date: 'Jun 27', note: 'Group L' },
     ],
     modules: ['Matchday logistics', 'Broad Street Line guide', 'Rocky Steps fan festival', 'Xfinity Live & South Philly', 'Should I go? scores', 'Philly Watch Guide'],
     ctaLabel: 'Open Philadelphia HQ →',
+    badge:    '📋 Hosts the Round of 16',
   },
 ];
 

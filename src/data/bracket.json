@@ -8,22 +8,183 @@
       "shortName": "R32",
       "dates": "July 4–7, 2026",
       "matches": [
-        { "id": "r32-01", "home": "Winner Group A", "homeFlag": "🏳️", "away": "3rd (B/C/D)", "awayFlag": "🏳️", "date": "2026-07-04", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-02", "home": "Winner Group C", "homeFlag": "🏳️", "away": "3rd (A/B/F)", "awayFlag": "🏳️", "date": "2026-07-04", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-03", "home": "Winner Group B", "homeFlag": "🏳️", "away": "3rd (A/C/D)", "awayFlag": "🏳️", "date": "2026-07-04", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-04", "home": "Winner Group D", "homeFlag": "🏳️", "away": "3rd (E/F/G)", "awayFlag": "🏳️", "date": "2026-07-05", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-05", "home": "Runner-up Group A", "homeFlag": "🏳️", "away": "Runner-up Group C", "awayFlag": "🏳️", "date": "2026-07-05", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-06", "home": "Winner Group E", "homeFlag": "🏳️", "away": "3rd (H/I/J)", "awayFlag": "🏳️", "date": "2026-07-05", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-07", "home": "Runner-up Group B", "homeFlag": "🏳️", "away": "Runner-up Group D", "awayFlag": "🏳️", "date": "2026-07-05", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-08", "home": "Winner Group F", "homeFlag": "🏳️", "away": "3rd (K/L)", "awayFlag": "🏳️", "date": "2026-07-06", "city": "Seattle", "status": "upcoming", "seattleMatch": true },
-        { "id": "r32-09", "home": "Runner-up Group E", "homeFlag": "🏳️", "away": "Runner-up Group G", "awayFlag": "🏳️", "date": "2026-07-06", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-10", "home": "Winner Group G", "homeFlag": "🏳️", "away": "Runner-up Group F", "awayFlag": "🏳️", "date": "2026-07-06", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-11", "home": "Winner Group H", "homeFlag": "🏳️", "away": "3rd (A/B/C)", "awayFlag": "🏳️", "date": "2026-07-06", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-12", "home": "Runner-up Group H", "homeFlag": "🏳️", "away": "Runner-up Group I", "awayFlag": "🏳️", "date": "2026-07-07", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-13", "home": "Winner Group I", "homeFlag": "🏳️", "away": "Runner-up Group J", "awayFlag": "🏳️", "date": "2026-07-07", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-14", "home": "Winner Group J", "homeFlag": "🏳️", "away": "Runner-up Group K", "awayFlag": "🏳️", "date": "2026-07-07", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-15", "home": "Winner Group K", "homeFlag": "🏳️", "away": "Runner-up Group L", "awayFlag": "🏳️", "date": "2026-07-07", "city": "TBD", "status": "upcoming" },
-        { "id": "r32-16", "home": "Winner Group L", "homeFlag": "🏳️", "away": "Runner-up Group B", "awayFlag": "🏳️", "date": "2026-07-07", "city": "TBD", "status": "upcoming" }
+        {
+          "id": "r32-01",
+          "home": "Winner Group A",
+          "homeFlag": "🏳️",
+          "away": "3rd (B/C/D)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-04",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-02",
+          "home": "Winner Group C",
+          "homeFlag": "🏳️",
+          "away": "3rd (A/B/F)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-04",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-03",
+          "home": "Winner Group B",
+          "homeFlag": "🏳️",
+          "away": "3rd (A/C/D)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-04",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-04",
+          "home": "Winner Group D",
+          "homeFlag": "🏳️",
+          "away": "3rd (E/F/G)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-05",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-05",
+          "home": "Runner-up Group A",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group C",
+          "awayFlag": "🏳️",
+          "date": "2026-07-05",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-06",
+          "home": "Winner Group E",
+          "homeFlag": "🏳️",
+          "away": "3rd (H/I/J)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-05",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-07",
+          "home": "Runner-up Group B",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group D",
+          "awayFlag": "🏳️",
+          "date": "2026-07-05",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-08",
+          "home": "Winner Group F",
+          "homeFlag": "🏳️",
+          "away": "3rd (K/L)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-06",
+          "city": "Seattle",
+          "status": "upcoming",
+          "seattleMatch": true,
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-09",
+          "home": "Runner-up Group E",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group G",
+          "awayFlag": "🏳️",
+          "date": "2026-07-06",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-10",
+          "home": "Winner Group G",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group F",
+          "awayFlag": "🏳️",
+          "date": "2026-07-06",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-11",
+          "home": "Winner Group H",
+          "homeFlag": "🏳️",
+          "away": "3rd (A/B/C)",
+          "awayFlag": "🏳️",
+          "date": "2026-07-06",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-12",
+          "home": "Runner-up Group H",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group I",
+          "awayFlag": "🏳️",
+          "date": "2026-07-07",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-13",
+          "home": "Winner Group I",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group J",
+          "awayFlag": "🏳️",
+          "date": "2026-07-07",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-14",
+          "home": "Winner Group J",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group K",
+          "awayFlag": "🏳️",
+          "date": "2026-07-07",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-15",
+          "home": "Winner Group K",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group L",
+          "awayFlag": "🏳️",
+          "date": "2026-07-07",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-16",
+          "home": "Winner Group L",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group B",
+          "awayFlag": "🏳️",
+          "date": "2026-07-07",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 32"
+        }
       ]
     },
     {
@@ -32,14 +193,94 @@
       "shortName": "R16",
       "dates": "July 9–12, 2026",
       "matches": [
-        { "id": "r16-01", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-09", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-02", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-09", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-03", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-10", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-04", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-10", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-05", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-11", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-06", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-11", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-07", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-12", "city": "TBD", "status": "upcoming" },
-        { "id": "r16-08", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-12", "city": "TBD", "status": "upcoming" }
+        {
+          "id": "r16-01",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-09",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-02",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-09",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-03",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-10",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-04",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-10",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-05",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-11",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-06",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-11",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-07",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-12",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        },
+        {
+          "id": "r16-08",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-12",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Round of 16"
+        }
       ]
     },
     {
@@ -48,10 +289,50 @@
       "shortName": "QF",
       "dates": "July 14–15, 2026",
       "matches": [
-        { "id": "qf-01", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-14", "city": "TBD", "status": "upcoming" },
-        { "id": "qf-02", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-14", "city": "TBD", "status": "upcoming" },
-        { "id": "qf-03", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-15", "city": "TBD", "status": "upcoming" },
-        { "id": "qf-04", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-15", "city": "TBD", "status": "upcoming" }
+        {
+          "id": "qf-01",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-14",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Quarterfinals"
+        },
+        {
+          "id": "qf-02",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-14",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Quarterfinals"
+        },
+        {
+          "id": "qf-03",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-15",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Quarterfinals"
+        },
+        {
+          "id": "qf-04",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-15",
+          "city": "TBD",
+          "status": "upcoming",
+          "round": "Quarterfinals"
+        }
       ]
     },
     {
@@ -60,8 +341,28 @@
       "shortName": "SF",
       "dates": "July 18–19, 2026",
       "matches": [
-        { "id": "sf-01", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-18", "city": "Dallas", "status": "upcoming" },
-        { "id": "sf-02", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-19", "city": "New York / New Jersey", "status": "upcoming" }
+        {
+          "id": "sf-01",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-18",
+          "city": "Dallas",
+          "status": "upcoming",
+          "round": "Semifinals"
+        },
+        {
+          "id": "sf-02",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-19",
+          "city": "New York / New Jersey",
+          "status": "upcoming",
+          "round": "Semifinals"
+        }
       ]
     },
     {
@@ -70,8 +371,30 @@
       "shortName": "Final",
       "dates": "July 19, 2026",
       "matches": [
-        { "id": "3rd-place", "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-18", "city": "Dallas", "status": "upcoming", "label": "3rd Place Play-off" },
-        { "id": "final-01",  "home": "TBD", "homeFlag": "🏳️", "away": "TBD", "awayFlag": "🏳️", "date": "2026-07-19", "city": "New York / New Jersey", "status": "upcoming", "label": "🏆 World Cup Final" }
+        {
+          "id": "3rd-place",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-18",
+          "city": "Dallas",
+          "status": "upcoming",
+          "label": "3rd Place Play-off",
+          "round": "Final"
+        },
+        {
+          "id": "final-01",
+          "home": "TBD",
+          "homeFlag": "🏳️",
+          "away": "TBD",
+          "awayFlag": "🏳️",
+          "date": "2026-07-19",
+          "city": "New York / New Jersey",
+          "status": "upcoming",
+          "label": "🏆 World Cup Final",
+          "round": "Final"
+        }
       ]
     }
   ]
