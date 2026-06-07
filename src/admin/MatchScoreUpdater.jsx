@@ -80,6 +80,9 @@ export default function MatchScoreUpdater({ token }) {
       if (filter === 'today')    return m.date === today;
       if (filter === 'seattle')  return m.seattleMatch;
       if (filter === 'kc')       return m.kcMatch;
+      if (filter === 'miami')    return m.miamiMatch;
+      if (filter === 'newyork')  return m.nyMatch;
+      if (filter === 'philly')   return m.phillyMatch;
       if (filter === 'finished') return m.status === 'finished';
       return true;
     });
@@ -97,6 +100,9 @@ export default function MatchScoreUpdater({ token }) {
           { id: 'today',    label: 'Today' },
           { id: 'seattle',  label: '🏟️ Seattle' },
           { id: 'kc',       label: '🏈 KC' },
+          { id: 'miami',    label: '🌴 Miami' },
+          { id: 'newyork',  label: '🗽 NY' },
+          { id: 'philly',   label: '🦅 Philly' },
           { id: 'finished', label: 'Finished' },
           { id: 'all',      label: 'All' },
         ].map(f => (
@@ -129,6 +135,9 @@ export default function MatchScoreUpdater({ token }) {
                   {m.stage} · {m.city}
                   {m.seattleMatch && <span className="match-row__seattle-tag" style={{marginLeft:6}}>SEA</span>}
                   {m.kcMatch      && <span className="match-row__kc-tag"      style={{marginLeft:6}}>KC</span>}
+                  {m.miamiMatch   && <span className="match-row__kc-tag"      style={{marginLeft:6}}>MIA</span>}
+                  {m.nyMatch      && <span className="match-row__kc-tag"      style={{marginLeft:6}}>NYC</span>}
+                  {m.phillyMatch  && <span className="match-row__kc-tag"      style={{marginLeft:6}}>PHI</span>}
                 </div>
               </div>
 

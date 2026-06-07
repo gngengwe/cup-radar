@@ -80,7 +80,7 @@ export default function BracketEditor({ token }) {
             {/* Home team */}
             <input className="admin-input" style={{ maxWidth: 160 }}
               placeholder={m.home || 'Home team'}
-              value={m.home}
+              value={m.home ?? ''}
               onChange={e => updateMatch(currentRound.id, m.id, 'home', e.target.value)} />
             {/* Score */}
             <div className="admin-score-row">
@@ -97,7 +97,7 @@ export default function BracketEditor({ token }) {
             {/* Away team */}
             <input className="admin-input" style={{ maxWidth: 160 }}
               placeholder={m.away || 'Away team'}
-              value={m.away}
+              value={m.away ?? ''}
               onChange={e => updateMatch(currentRound.id, m.id, 'away', e.target.value)} />
             {/* Status */}
             <select className="admin-select" style={{ maxWidth: 120 }} value={m.status}

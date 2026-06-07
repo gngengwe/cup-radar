@@ -3,7 +3,7 @@ import { fetchFile, saveFile } from '../utils/github';
 
 const PHASES      = ['pre-tournament', 'live', 'post-tournament'];
 const PULSE_ACTIONS = ['move', 'watch', 'wait'];
-const CATEGORIES  = ['tournament', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
+const CATEGORIES  = ['tournament', 'general', 'seattle', 'kansascity', 'miami', 'newyork', 'philly', 'tickets', 'teams', 'travel', 'culture'];
 const CITIES      = [
   { id: 'seattle',    label: '🏟️ Seattle'       },
   { id: 'kansascity', label: '🏈 Kansas City'    },

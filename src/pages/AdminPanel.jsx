@@ -10,6 +10,7 @@ import NarrativesEditor  from '../admin/NarrativesEditor';
 import BracketEditor     from '../admin/BracketEditor';
 import UpsetEditor       from '../admin/UpsetEditor';
 import RefreshPanel      from '../admin/RefreshPanel';
+import ErrorBoundary     from '../components/ErrorBoundary';
 
 const TABS = [
   { id: 'alerts',     icon: '⚡', label: 'Alerts',     desc: 'Daily update',    file: 'src/data/alerts.json'     },
@@ -151,14 +152,16 @@ export default function AdminPanel() {
 
       {/* ── Content ── */}
       <div className="admin-content">
-        {tab === 'alerts'    && <AlertsEditor      token={token} key="alerts" />}
-        {tab === 'scores'    && <MatchScoreUpdater  token={token} key="scores" />}
-        {tab === 'news'      && <NewsEditor          token={token} key="news" />}
-        {tab === 'scenarios'  && <ScenarioUpdater   token={token} key="scenarios"  />}
-        {tab === 'narratives' && <NarrativesEditor  token={token} key="narratives" />}
-        {tab === 'bracket'    && <BracketEditor      token={token} key="bracket"    />}
-        {tab === 'upsets'     && <UpsetEditor        token={token} key="upsets"     />}
-        {tab === 'refresh'    && <RefreshPanel       token={token} key="refresh"    />}
+        <ErrorBoundary key={tab}>
+          {tab === 'alerts'    && <AlertsEditor      token={token} />}
+          {tab === 'scores'    && <MatchScoreUpdater  token={token} />}
+          {tab === 'news'      && <NewsEditor          token={token} />}
+          {tab === 'scenarios'  && <ScenarioUpdater   token={token} />}
+          {tab === 'narratives' && <NarrativesEditor  token={token} />}
+          {tab === 'bracket'    && <BracketEditor      token={token} />}
+          {tab === 'upsets'     && <UpsetEditor        token={token} />}
+          {tab === 'refresh'    && <RefreshPanel       token={token} />}
+        </ErrorBoundary>
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { fetchFile, saveFile } from '../utils/github';
 
-const CATEGORIES = ['tournament', 'general', 'seattle', 'kansascity', 'tickets', 'teams', 'travel', 'culture'];
+const CATEGORIES = ['tournament', 'general', 'seattle', 'kansascity', 'miami', 'newyork', 'philly', 'tickets', 'teams', 'travel', 'culture'];
 
 const BLANK = () => ({
   id:       `news-${Date.now()}`,
