@@ -941,32 +941,46 @@ td .flag-img { margin-right: 4px; }
 
 .dash-content { padding: 28px 32px; flex: 1; max-width: 1080px; }
 
-.intro-banner {
+.intro-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 10px 16px;
-  margin-bottom: 20px;
-  background: var(--accent-soft);
+  justify-content: center;
+  z-index: 200;
+  padding: 20px;
+}
+.intro-modal {
+  position: relative;
+  max-width: 420px;
+  width: 100%;
+  background: var(--bg-card);
   border: 1px solid var(--border-accent);
   border-radius: var(--radius);
-  font-size: 13px;
-  color: var(--text);
+  padding: 28px 24px;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
 }
-.intro-banner__text a { color: var(--accent); font-weight: 700; text-decoration: none; }
-.intro-banner__text a:hover { text-decoration: underline; }
-.intro-banner__close {
+.intro-modal__icon { font-size: 36px; display: block; margin-bottom: 12px; }
+.intro-modal__title { font-size: 18px; font-weight: 800; color: var(--text); margin: 0 0 8px; }
+.intro-modal__text { font-size: 14px; color: var(--text-muted); line-height: 1.5; margin: 0 0 20px; }
+.intro-modal__actions { display: flex; gap: 10px; justify-content: center; }
+.intro-modal__close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
   background: none;
   border: none;
   color: var(--text-muted);
   cursor: pointer;
-  font-size: 13px;
+  font-size: 14px;
   padding: 6px 8px;
-  flex-shrink: 0;
   border-radius: var(--radius-sm);
 }
-.intro-banner__close:hover { color: var(--text); background: rgba(255,255,255,0.06); }
+.intro-modal__close:hover { color: var(--text); background: rgba(255,255,255,0.06); }
 
 /* ── Mobile overlay ── */
 .dash-overlay {
