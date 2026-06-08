@@ -225,9 +225,13 @@ export default function Dashboard() {
             <span aria-hidden="true" /><span aria-hidden="true" /><span aria-hidden="true" />
           </button>
           <div className="dash-topbar__title">
-            <span>{cfg.icon}</span>
-            <span className="dash-topbar__city">{cfg.short}</span>
-            <span className="dash-topbar__sep" aria-hidden="true">·</span>
+            <span>{section === 'hq' ? cfg.icon : currentNav.icon}</span>
+            {section !== 'hq' && (
+              <>
+                <span className="dash-topbar__city">{cfg.short}</span>
+                <span className="dash-topbar__sep" aria-hidden="true">·</span>
+              </>
+            )}
             {currentNav.label}
           </div>
           <Link to="/" className="dash-topbar__home">Cup<span>Radar</span></Link>

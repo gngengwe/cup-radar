@@ -31,22 +31,16 @@ export default function DailyBrief() {
   };
 
   const handlePrefsSubmit = () => {
+    setStep(3); // optimistic — show success immediately
     if (PRODUCT.SIGNUP_FORM_ACTION) {
-      const form = document.createElement('form');
-      form.method = 'POST';
-      form.action = PRODUCT.SIGNUP_FORM_ACTION;
-      const emailInput = document.createElement('input');
-      emailInput.name  = 'email';
-      emailInput.value = email;
-      form.appendChild(emailInput);
-      const prefsInput = document.createElement('input');
-      prefsInput.name  = 'tags';
-      prefsInput.value = prefs.join(',');
-      form.appendChild(prefsInput);
-      document.body.appendChild(form);
-      form.submit();
+      const body = new URLSearchParams({ email, embed: '1' });
+      prefs.forEach(p => body.append('tag', p));
+      fetch(PRODUCT.SIGNUP_FORM_ACTION, {
+        method: 'POST',
+        body,
+        mode: 'no-cors', // Buttondown embed endpoint — response is opaque, always optimistic
+      }).catch(() => {});
     }
-    setStep(3);
   };
 
   return (

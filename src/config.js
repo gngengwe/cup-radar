@@ -21,7 +21,10 @@ export const PRODUCT = {
   META_DESCRIPTION: 'A five-city World Cup 2026 command center for matches, tickets, events, travel opportunities, and tournament news. Covering Seattle, Kansas City, Miami, New York, and Philadelphia.',
   CTA_PRIMARY:      'Open Today Mode',
   CTA_SECONDARY:    'View Your City HQ',
-  SIGNUP_FORM_ACTION: '', // Mailchimp / ConvertKit form action URL — fill in before launch
+  // Buttondown embed endpoint — fill in your username when you create the account:
+  // https://buttondown.com → Settings → Sharing → Embed → copy your subscribe URL
+  // Format: 'https://buttondown.com/api/emails/embed-subscribe/YOUR_USERNAME'
+  SIGNUP_FORM_ACTION: '',
 };
 
 // ─── TOURNAMENT CONFIG ────────────────────────────────────────────────────────
