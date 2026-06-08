@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-05-24T01:12:21.170Z",
+  "lastUpdated": "2026-06-07T00:00:00.000Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -14,7 +14,7 @@
         "🇿🇦",
         "🇲🇽"
       ],
-      "stage": "Group Stage — Group A",
+      "stage": "Group Stage",
       "date": "2026-06-11",
       "riskScore": 4,
       "status": "upcoming",
@@ -40,7 +40,7 @@
         "🇪🇬",
         "🇧🇪"
       ],
-      "stage": "Group Stage — Group G (Seattle, June 15)",
+      "stage": "Group Stage",
       "date": "2026-06-15",
       "riskScore": 4,
       "status": "upcoming",
@@ -57,7 +57,7 @@
     {
       "id": "ups-003",
       "title": "Morocco beat Brazil in Group C",
-      "matchId": null,
+      "matchId": "wc26-C1",
       "teams": [
         "MAR",
         "BRA"
@@ -66,8 +66,8 @@
         "🇲🇦",
         "🇧🇷"
       ],
-      "stage": "Group Stage — Group C",
-      "date": null,
+      "stage": "Group Stage",
+      "date": "2026-06-13",
       "riskScore": 3,
       "status": "upcoming",
       "result": null,
@@ -83,7 +83,7 @@
     {
       "id": "ups-004",
       "title": "Scotland cause chaos in Group C",
-      "matchId": null,
+      "matchId": "wc26-C6",
       "teams": [
         "SCO",
         "BRA"
@@ -92,8 +92,8 @@
         "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "🇧🇷"
       ],
-      "stage": "Group Stage — Group C",
-      "date": null,
+      "stage": "Group Stage",
+      "date": "2026-06-24",
       "riskScore": 3,
       "status": "upcoming",
       "result": null,
@@ -118,7 +118,7 @@
         "🇳🇴",
         "🇫🇷"
       ],
-      "stage": "Group Stage — Group I",
+      "stage": "Group Stage",
       "date": null,
       "riskScore": 4,
       "status": "upcoming",
@@ -144,7 +144,7 @@
         "🇩🇿",
         "🇦🇷"
       ],
-      "stage": "Group Stage — Group J",
+      "stage": "Group Stage",
       "date": null,
       "riskScore": 3,
       "status": "upcoming",
@@ -170,7 +170,7 @@
         "🇪🇬",
         "🇮🇷"
       ],
-      "stage": "Group Stage — Group G (Seattle, June 26)",
+      "stage": "Group Stage",
       "date": "2026-06-26",
       "riskScore": 3,
       "status": "upcoming",
@@ -187,7 +187,7 @@
     {
       "id": "ups-008",
       "title": "Curaçao stun Ivory Coast in their World Cup debut",
-      "matchId": null,
+      "matchId": "wc26-F5",
       "teams": [
         "CUW",
         "CIV"
@@ -196,8 +196,8 @@
         "🇨🇼",
         "🇨🇮"
       ],
-      "stage": "Group Stage — Group E",
-      "date": null,
+      "stage": "Group Stage",
+      "date": "2026-06-25",
       "riskScore": 2,
       "status": "upcoming",
       "result": null,
