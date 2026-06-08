@@ -40,18 +40,18 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
   const countdown = daysUntilLabel(match.date);
 
   return (
-    <div className={`seattle-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}${countdown === 'TODAY' || countdown === 'TOMORROW' ? ' imminent' : ''}`}>
-      <div className="seattle-match-card__top">
-        <span className="seattle-match-card__stage">{match.stage}</span>
-        {isKnockout && <span className="seattle-match-card__badge">{match.stage === 'Quarterfinal' ? 'QF' : 'KO'}</span>}
+    <div className={`hq-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}${countdown === 'TODAY' || countdown === 'TOMORROW' ? ' imminent' : ''}`}>
+      <div className="hq-match-card__top">
+        <span className="hq-match-card__stage">{match.stage}</span>
+        {isKnockout && <span className="hq-match-card__badge">{match.stage === 'Quarterfinal' ? 'QF' : 'KO'}</span>}
         {countdown && (
-          <span className={`seattle-match-card__countdown${countdown === 'TODAY' ? ' today' : countdown === 'TOMORROW' ? ' tomorrow' : ''}`}>
+          <span className={`hq-match-card__countdown${countdown === 'TODAY' ? ' today' : countdown === 'TOMORROW' ? ' tomorrow' : ''}`}>
             {countdown}
           </span>
         )}
         {shouldIGo && (
           <span
-            className="seattle-match-card__sigo"
+            className="hq-match-card__sigo"
             style={{ color: SHOULD_GO_COLORS[shouldIGo.label] || 'var(--accent)' }}
           >
             {shouldIGo.score}/100
@@ -78,16 +78,16 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
         </div>
       )}
 
-      <div className="seattle-match-card__date">{weekday}, {dateStr}</div>
-      <div className="seattle-match-card__teams">
+      <div className="hq-match-card__date">{weekday}, {dateStr}</div>
+      <div className="hq-match-card__teams">
         <FlagImg emoji={match.homeFlag} size={14} /> {match.homeTeam}{' '}
-        <span className="seattle-match-card__vs">vs</span>{' '}
+        <span className="hq-match-card__vs">vs</span>{' '}
         {match.awayTeam} <FlagImg emoji={match.awayFlag} size={14} />
       </div>
-      <div className="seattle-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
+      <div className="hq-match-card__time">{match.time} {match.timezone} · {match.venue}</div>
 
       {transit && (
-        <div className="seattle-match-card__transit" style={{ borderColor: transit.color }}>
+        <div className="hq-match-card__transit" style={{ borderColor: transit.color }}>
           <span className="transit-pain__label">Transit</span>
           <span className="transit-pain__score" style={{ color: transit.color }}>{transit.label}</span>
           <span className="transit-pain__peak">{transit.peakWindow}</span>
@@ -95,7 +95,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
       )}
 
       <button
-        className="seattle-match-card__expand-btn"
+        className="hq-match-card__expand-btn"
         onClick={() => setExpanded(v => !v)}
         aria-expanded={expanded}
       >
@@ -103,7 +103,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
       </button>
 
       {expanded && (
-        <div className="seattle-match-card__detail">
+        <div className="hq-match-card__detail">
           <WeatherWidget matchDate={match.date} cityId={cityId} />
 
           {shouldIGo && (
@@ -127,7 +127,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
         </div>
       )}
 
-      <div className="seattle-match-card__cal">
+      <div className="hq-match-card__cal">
         <AddMatchToGoogleCalendar match={match} />
         <AddMatchToICS match={match} />
         <ShareButton
@@ -214,7 +214,7 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
         <p className="dash-sub-desc">
           {matches.length} matches · {groupCount} group stage · {knockoutCount} knockout
         </p>
-        <div className="seattle-matches-grid">
+        <div className="hq-matches-grid">
           {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} cityId={cityId} />)}
         </div>
       </div>

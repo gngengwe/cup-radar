@@ -25,6 +25,8 @@
   },
   "fanZones": [
     {
+      "id": "fifa-fan-festival-flushing",
+      "type": "Official Fan Zone",
       "name": "FIFA Fan Festival — Flushing Meadows Corona Park",
       "location": "Flushing Meadows, Queens",
       "dates": "June 14 – July 4",
@@ -33,6 +35,8 @@
       "notes": "Official FIFA fan zone. Giant screens, entertainment, food from around the world. Accessible via 7 train."
     },
     {
+      "id": "hudson-yards-fan-hub",
+      "type": "Unofficial Gathering",
       "name": "Hudson Yards Fan Hub",
       "location": "Moynihan Train Hall & Surrounds, Manhattan",
       "dates": "Match days",
@@ -59,6 +63,7 @@
     },
     {
       "name": "Flushing Meadows Fan Festival",
+      "type": "Fan Zone",
       "location": "Queens",
       "distance": "7 train from Midtown",
       "notes": "Best pre-game energy if you want the official FIFA experience. Large, family-friendly, international food.",

@@ -25,6 +25,8 @@
   },
   "fanZones": [
     {
+      "id": "fifa-fan-festival-museum",
+      "type": "Official Fan Zone",
       "name": "FIFA Fan Festival — Philadelphia Museum of Art",
       "location": "Benjamin Franklin Pkwy, Philadelphia",
       "dates": "June 15 – June 29",
@@ -33,6 +35,8 @@
       "notes": "Free entry. Rocky steps backdrop, live entertainment, international food market. Philadelphia's cultural landmark as fan zone."
     },
     {
+      "id": "south-street-watch-parties",
+      "type": "Neighborhood Watch Party",
       "name": "South Street Watch Parties",
       "location": "South Street corridor",
       "dates": "All match days",

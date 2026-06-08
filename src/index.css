@@ -1222,28 +1222,28 @@ td .flag-img { margin-right: 4px; }
 /* ═══════════════════════════════════════════════════════════
    DASHBOARD — SEATTLE HQ
 ═══════════════════════════════════════════════════════════ */
-.seattle-matches-grid {
+.hq-matches-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 10px;
   margin-top: 16px;
 }
-.seattle-match-card {
+.hq-match-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px 16px;
   transition: border-color 0.2s;
 }
-.seattle-match-card:hover { border-color: var(--border-accent); }
-.seattle-match-card.knockout { border-color: rgba(255,184,77,0.25); }
-.seattle-match-card__top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
-.seattle-match-card__stage { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
-.seattle-match-card__badge { font-size: 10px; font-weight: 800; color: #ffb84d; background: rgba(255,184,77,0.12); padding: 2px 7px; border-radius: 4px; }
-.seattle-match-card__date { font-size: 17px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 6px; }
-.seattle-match-card__teams { font-size: 12px; color: var(--text-muted); margin-bottom: 5px; }
-.seattle-match-card__vs { color: var(--text-dim); margin: 0 4px; }
-.seattle-match-card__time { font-size: 11px; color: var(--accent); font-weight: 600; }
+.hq-match-card:hover { border-color: var(--border-accent); }
+.hq-match-card.knockout { border-color: rgba(255,184,77,0.25); }
+.hq-match-card__top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+.hq-match-card__stage { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-dim); }
+.hq-match-card__badge { font-size: 10px; font-weight: 800; color: #ffb84d; background: rgba(255,184,77,0.12); padding: 2px 7px; border-radius: 4px; }
+.hq-match-card__date { font-size: 17px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 6px; }
+.hq-match-card__teams { font-size: 12px; color: var(--text-muted); margin-bottom: 5px; }
+.hq-match-card__vs { color: var(--text-dim); margin: 0 4px; }
+.hq-match-card__time { font-size: 11px; color: var(--accent); font-weight: 600; }
 
 .info-grid {
   display: grid;
@@ -1616,7 +1616,7 @@ td .flag-img { margin-right: 4px; }
 }
 
 @media (max-width: 480px) {
-  .seattle-matches-grid { grid-template-columns: repeat(2, 1fr); }
+  .hq-matches-grid { grid-template-columns: repeat(2, 1fr); }
   .today-seattle-card { flex-direction: column; align-items: flex-start; }
   .city-jump-card__right { flex-wrap: wrap; }
 }
@@ -1717,7 +1717,7 @@ td .flag-img { margin-right: 4px; }
   background: var(--accent-soft);
 }
 
-.seattle-match-card__cal {
+.hq-match-card__cal {
   display: flex;
   gap: 6px;
   margin-top: 10px;
@@ -1853,7 +1853,7 @@ td .flag-img { margin-right: 4px; }
 ═══════════════════════════════════════════════════════════ */
 
 /* Should I Go score badge on match card */
-.seattle-match-card__sigo {
+.hq-match-card__sigo {
   font-size: 12px;
   font-weight: 900;
   margin-left: auto;
@@ -1861,7 +1861,7 @@ td .flag-img { margin-right: 4px; }
 }
 
 /* Transit pain strip */
-.seattle-match-card__transit {
+.hq-match-card__transit {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -1876,7 +1876,7 @@ td .flag-img { margin-right: 4px; }
 .transit-pain__peak  { font-size: 11px; color: var(--text-muted); margin-left: auto; }
 
 /* Expand button */
-.seattle-match-card__expand-btn {
+.hq-match-card__expand-btn {
   font-size: 11px;
   color: var(--text-dim);
   margin-top: 10px;
@@ -1884,10 +1884,10 @@ td .flag-img { margin-right: 4px; }
   font-weight: 600;
   letter-spacing: 0.04em;
 }
-.seattle-match-card__expand-btn:hover { color: var(--text-muted); }
+.hq-match-card__expand-btn:hover { color: var(--text-muted); }
 
 /* Expanded detail block */
-.seattle-match-card__detail {
+.hq-match-card__detail {
   margin-top: 14px;
   padding-top: 14px;
   border-top: 1px solid var(--border);
@@ -2775,7 +2775,7 @@ td .flag-img { margin-right: 4px; }
 ═══════════════════════════════════════════════════════════ */
 
 /* ── Match countdown badge on HQ match cards ── */
-.seattle-match-card__countdown {
+.hq-match-card__countdown {
   font-size: 11px;
   font-weight: 800;
   padding: 2px 8px;
@@ -2784,11 +2784,11 @@ td .flag-img { margin-right: 4px; }
   background: rgba(255,255,255,0.07);
   color: var(--text-muted);
 }
-.seattle-match-card__countdown.today    { background: var(--accent-soft); color: var(--accent); }
-.seattle-match-card__countdown.tomorrow { background: rgba(255,184,77,0.12); color: #ffb84d; }
+.hq-match-card__countdown.today    { background: var(--accent-soft); color: var(--accent); }
+.hq-match-card__countdown.tomorrow { background: rgba(255,184,77,0.12); color: #ffb84d; }
 
 /* Imminent match card (today/tomorrow) gets subtle glow */
-.seattle-match-card.imminent { box-shadow: 0 0 0 1px var(--border-accent); }
+.hq-match-card.imminent { box-shadow: 0 0 0 1px var(--border-accent); }
 
 
 /* ── Match countdown on match rows ── */
@@ -4072,12 +4072,12 @@ td .flag-img { margin-right: 4px; }
   .bracket-match__team { font-size: 11px; }
 
   /* ── City HQ ──────────────────────────────────────────── */
-  .seattle-matches-grid { grid-template-columns: 1fr; }
+  .hq-matches-grid { grid-template-columns: 1fr; }
   .hq-jersey-matchup { gap: 10px; padding: 8px 0 6px; }
   .hq-jersey-vs { font-size: 12px; }
-  .seattle-match-card { padding: 12px 14px; }
-  .seattle-match-card__date { font-size: 15px; }
-  .seattle-match-card__time { font-size: 11px; }
+  .hq-match-card { padding: 12px 14px; }
+  .hq-match-card__date { font-size: 15px; }
+  .hq-match-card__time { font-size: 11px; }
   .info-grid { grid-template-columns: 1fr; }
   .pregame-list { grid-template-columns: 1fr; }
   .events-list { gap: 8px; }

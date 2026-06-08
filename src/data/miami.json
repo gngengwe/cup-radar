@@ -24,6 +24,8 @@
   },
   "fanZones": [
     {
+      "id": "fifa-fan-festival-bayfront",
+      "type": "Official Fan Zone",
       "name": "FIFA Fan Festival — Bayfront Park",
       "location": "Bayfront Park, Downtown Miami",
       "dates": "June 14 – July 1",
@@ -32,6 +34,8 @@
       "notes": "Free entry. Massive main stage, food vendors, live music, giant screens. Best pre-match energy in the city."
     },
     {
+      "id": "wynwood-fan-zone",
+      "type": "Neighborhood Watch Party",
       "name": "Wynwood Fan Zone",
       "location": "NW 2nd Ave & 25th St, Wynwood",
       "dates": "Match days only",
@@ -184,7 +188,7 @@
       "score": 93,
       "label": "Don't miss it",
       "color": "#00e676",
-      "summary": "Scotland vs Brazil in Miami is everything. NYC's Brazilian diaspora travels south, Scottish fans arrive in full force, and Hard Rock becomes the loudest stadium in the tournament. Group C finale with massive stakes.",
+      "summary": "Scotland vs Brazil in Miami is everything. Miami's Brazilian community turns Hard Rock gold and green, Scottish fans arrive in full force, and the stadium becomes the loudest in the tournament. Group C finale with massive stakes.",
       "factors": {
         "stage": 4,
         "homeConvenience": 3,
