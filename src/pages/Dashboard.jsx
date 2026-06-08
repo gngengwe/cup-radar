@@ -123,8 +123,8 @@ export default function Dashboard() {
     setMenuOpen(false);
   };
 
-  // Validate city
-  if (!CITY_CONFIG[city]) return <Navigate to="/seattle/hq" replace />;
+  // Validate city — unknown slug goes to landing so user can choose a valid one
+  if (!CITY_CONFIG[city]) return <Navigate to="/" replace />;
 
   const cfg     = CITY_CONFIG[city];
   const nav     = buildNav(city);
@@ -133,6 +133,9 @@ export default function Dashboard() {
   if (!Section) return <Navigate to={`/${city}/hq`} replace />;
 
   const currentNav = nav.find(n => n.id === section) || nav[0];
+
+  // Scroll to top when section changes
+  useEffect(() => { window.scrollTo(0, 0); }, [section]);
 
   // Focus trap + Escape for mobile sidebar
   useEffect(() => {

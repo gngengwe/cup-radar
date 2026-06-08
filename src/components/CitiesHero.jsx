@@ -54,7 +54,7 @@ const CITIES = [
     accentSoft: 'rgba(244,63,94,0.1)',
     border:     'rgba(244,63,94,0.25)',
     matchCount: 4,
-    stages:     'Group Stage · Quarterfinal · 3rd Place',
+    stages:     'Group Stage · Quarterfinal',
     headline:   'Brazil vs Scotland. Ronaldo in Miami. Hard Rock.',
     keyMatches: [
       { teams: '🇸🇦 Saudi Arabia vs Uruguay 🇺🇾', date: 'Jun 15', note: 'Group H' },
