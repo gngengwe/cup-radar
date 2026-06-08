@@ -941,6 +941,33 @@ td .flag-img { margin-right: 4px; }
 
 .dash-content { padding: 28px 32px; flex: 1; max-width: 1080px; }
 
+.intro-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  background: var(--accent-soft);
+  border: 1px solid var(--border-accent);
+  border-radius: var(--radius);
+  font-size: 13px;
+  color: var(--text);
+}
+.intro-banner__text a { color: var(--accent); font-weight: 700; text-decoration: none; }
+.intro-banner__text a:hover { text-decoration: underline; }
+.intro-banner__close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 13px;
+  padding: 6px 8px;
+  flex-shrink: 0;
+  border-radius: var(--radius-sm);
+}
+.intro-banner__close:hover { color: var(--text); background: rgba(255,255,255,0.06); }
+
 /* ── Mobile overlay ── */
 .dash-overlay {
   display: none;

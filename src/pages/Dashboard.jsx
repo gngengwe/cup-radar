@@ -1,6 +1,7 @@
 import { useParams, NavLink, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState, lazy, Suspense, useEffect, useRef } from 'react';
 import ErrorBoundary from '../components/ErrorBoundary';
+import IntroBanner from '../components/IntroBanner';
 
 // City-specific sections (lazy-loaded per city)
 const SeattleHQ          = lazy(() => import('../dashboard/SeattleHQ'));
@@ -238,6 +239,7 @@ export default function Dashboard() {
         </div>
 
         <div className="dash-content" id="dash-content">
+          <IntroBanner />
           <ErrorBoundary key={section}>
             <Suspense fallback={
               <div className="dash-section-loading" role="status" aria-label="Loading section">
