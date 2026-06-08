@@ -10,7 +10,7 @@ const CITIES = [
     accent:     'var(--accent)',
     accentSoft: 'var(--accent-soft)',
     border:     'var(--border-accent)',
-    matchCount: 4,
+    matchCount: 6,
     stages:     'Group Stage · Round of 32 · Round of 16',
     headline:   'The home city experience.',
     keyMatches: [
@@ -31,7 +31,7 @@ const CITIES = [
     accent:     '#c084fc',
     accentSoft: 'rgba(192,132,252,0.1)',
     border:     'rgba(192,132,252,0.25)',
-    matchCount: 4,
+    matchCount: 6,
     stages:     'Group Stage · Round of 32 · Quarterfinal',
     headline:   'Argentina. The Quarterfinal. Arrowhead.',
     keyMatches: [
@@ -53,12 +53,13 @@ const CITIES = [
     accent:     '#f43f5e',
     accentSoft: 'rgba(244,63,94,0.1)',
     border:     'rgba(244,63,94,0.25)',
-    matchCount: 4,
+    matchCount: 6,
     stages:     'Group Stage · Quarterfinal',
     headline:   'Brazil vs Scotland. Ronaldo in Miami. Hard Rock.',
     keyMatches: [
       { teams: '🇸🇦 Saudi Arabia vs Uruguay 🇺🇾', date: 'Jun 15', note: 'Group H' },
-      { teams: '🇺🇾 Uruguay vs Cape Verde 🇨🇻',   date: 'Jun 21', note: 'Group H' },
+      { teams: '🇲🇦 Morocco vs Haiti 🇭🇹',         date: 'Jun 19', note: 'Group C' },
+      { teams: '🇺🇾 Uruguay vs Cape Verde 🇨🇻',    date: 'Jun 21', note: 'Group H' },
       { teams: '🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs Brazil 🇧🇷',    date: 'Jun 24', note: 'Group C' },
       { teams: '🇨🇴 Colombia vs Portugal 🇵🇹',    date: 'Jun 27', note: 'Group K' },
     ],
@@ -75,8 +76,8 @@ const CITIES = [
     accent:     '#3b82f6',
     accentSoft: 'rgba(59,130,246,0.1)',
     border:     'rgba(59,130,246,0.25)',
-    matchCount: 5,
-    stages:     'Group Stage · World Cup Final',
+    matchCount: 10,
+    stages:     'Group Stage · Semifinal · World Cup Final',
     headline:   'Brazil. France. England. MetLife. The Final.',
     keyMatches: [
       { teams: '🇧🇷 Brazil vs Morocco 🇲🇦',      date: 'Jun 13', note: 'Group C' },
@@ -98,7 +99,7 @@ const CITIES = [
     accent:     '#10b981',
     accentSoft: 'rgba(16,185,129,0.1)',
     border:     'rgba(16,185,129,0.25)',
-    matchCount: 5,
+    matchCount: 6,
     stages:     'Group Stage · Round of 16',
     headline:   'Brazil vs Haiti. France vs Iraq. South Philly energy.',
     keyMatches: [
