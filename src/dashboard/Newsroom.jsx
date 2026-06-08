@@ -6,6 +6,7 @@ import { getCityMeta, CITY_NEWS_CATS } from '../utils/cityConfig';
 
 const CAT_COLORS = {
   tournament:  { color: 'var(--accent)',  bg: 'var(--accent-soft)' },
+  general:     { color: 'var(--text-muted)', bg: 'rgba(255,255,255,0.05)' },
   seattle:     { color: '#4d8eff',        bg: 'var(--blue-soft)' },
   kansascity:  { color: '#c084fc',        bg: 'rgba(192,132,252,0.1)' },
   miami:       { color: '#f43f5e',        bg: 'rgba(244,63,94,0.1)' },
@@ -20,6 +21,7 @@ const CAT_COLORS = {
 const CAT_LABELS = {
   all:        'All',
   tournament: 'Tournament',
+  general:    'General',
   seattle:    '🏟️ Seattle',
   kansascity: '🏈 Kansas City',
   miami:      '🌴 Miami',
@@ -32,7 +34,7 @@ const CAT_LABELS = {
 };
 
 // Non-city categories always shown
-const GENERAL_CATS = ['all', 'tournament', 'tickets', 'teams', 'travel', 'culture'];
+const GENERAL_CATS = ['all', 'tournament', 'general', 'tickets', 'teams', 'travel', 'culture'];
 
 function NewsCard({ article, featured }) {
   const cfg = CAT_COLORS[article.category] || { color: 'var(--text-muted)', bg: 'rgba(255,255,255,.05)' };

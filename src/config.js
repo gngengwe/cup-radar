@@ -15,12 +15,12 @@ export const DEPLOY = {
 
 export const PRODUCT = {
   NAME:             'Cup Radar',
-  WORKING_TITLE:    'Cup Radar: Seattle HQ',
+  WORKING_TITLE:    'Cup Radar: World Cup 2026 HQ',
   TAGLINE:          'Matches, moments, tickets, and city energy — all in one place.',
-  SITE_TITLE:       'Cup Radar — World Cup Seattle HQ',
-  META_DESCRIPTION: 'A Seattle-first World Cup command center for matches, tickets, events, travel opportunities, and tournament news.',
+  SITE_TITLE:       'Cup Radar — World Cup 2026 Command Center',
+  META_DESCRIPTION: 'A five-city World Cup 2026 command center for matches, tickets, events, travel opportunities, and tournament news. Covering Seattle, Kansas City, Miami, New York, and Philadelphia.',
   CTA_PRIMARY:      'Open Today Mode',
-  CTA_SECONDARY:    'View Seattle HQ',
+  CTA_SECONDARY:    'View Your City HQ',
   SIGNUP_FORM_ACTION: '', // Mailchimp / ConvertKit form action URL — fill in before launch
 };
 

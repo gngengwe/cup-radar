@@ -3,23 +3,23 @@ import { PRODUCT } from '../config';
 
 const INCLUDES = [
   { icon: '⚽', text: "Today's matches & kickoff times" },
-  { icon: '🏟️', text: 'Seattle logistics when applicable' },
+  { icon: '🏟️', text: 'City logistics when applicable' },
   { icon: '🎫', text: 'Active ticket windows' },
   { icon: '✈️', text: 'Travel opportunities to watch' },
   { icon: '📰', text: 'One story worth reading' },
 ];
 
 const PREFERENCES = [
-  { id: 'daily',   label: 'Daily Brief',       desc: 'Every morning during the tournament' },
-  { id: 'seattle', label: 'Seattle Match Days', desc: 'Only when Seattle has a match' },
-  { id: 'tickets', label: 'Ticket Alerts',      desc: 'When a good window opens up' },
-  { id: 'upsets',  label: 'Upset Watch',        desc: 'When a big result is about to happen' },
+  { id: 'daily',     label: 'Daily Brief',      desc: 'Every morning during the tournament' },
+  { id: 'matchdays', label: 'Match Day Alerts',  desc: 'When a match-day briefing is triggered' },
+  { id: 'tickets',   label: 'Ticket Alerts',     desc: 'When a good window opens up' },
+  { id: 'upsets',    label: 'Upset Watch',       desc: 'When a big result is about to happen' },
 ];
 
 export default function DailyBrief() {
   const [step,      setStep]      = useState(1); // 1=email, 2=prefs, 3=success
   const [email,     setEmail]     = useState('');
-  const [prefs,     setPrefs]     = useState(['daily', 'seattle']);
+  const [prefs,     setPrefs]     = useState(['daily', 'matchdays']);
 
   const togglePref = id =>
     setPrefs(p => p.includes(id) ? p.filter(x => x !== id) : [...p, id]);
@@ -128,9 +128,13 @@ export default function DailyBrief() {
         {step === 3 && (
           <div className="brief-success">
             <div className="brief-success__icon">✅</div>
-            <div className="brief-success__msg">You're on the list.</div>
+            <div className="brief-success__msg">
+              {PRODUCT.SIGNUP_FORM_ACTION ? "You're on the list." : "Got it — you're on the radar."}
+            </div>
             <div className="brief-success__sub">
-              Receiving: {prefs.join(', ')}. First brief as kickoff approaches.
+              {PRODUCT.SIGNUP_FORM_ACTION
+                ? `Receiving: ${prefs.join(', ')}. First brief as kickoff approaches.`
+                : "We'll reach out when the Cup Radar Daily Brief launches. First issue goes out before kickoff."}
             </div>
           </div>
         )}

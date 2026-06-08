@@ -13,11 +13,12 @@ const CITIES      = [
 ];
 
 export default function AlertsEditor({ token }) {
-  const [data,    setData]    = useState(null);
-  const [sha,     setSha]     = useState('');
-  const [saving,  setSaving]  = useState(false);
-  const [status,  setStatus]  = useState('');
-  const [error,   setError]   = useState('');
+  const [data,       setData]       = useState(null);
+  const [sha,        setSha]        = useState('');
+  const [saving,     setSaving]     = useState(false);
+  const [status,     setStatus]     = useState('');
+  const [error,      setError]      = useState('');
+  const [alertCity,  setAlertCity]  = useState('seattle');
 
   useEffect(() => {
     fetchFile(token, 'src/data/alerts.json')
@@ -41,6 +42,18 @@ export default function AlertsEditor({ token }) {
   const setStory = (i, field, val) =>
     setData(d => ({ ...d, topStories: d.topStories.map((s, j) => j === i ? { ...s, [field]: val } : s) }));
 
+  const setCityAlert = (cityId, field, val) =>
+    setData(d => ({
+      ...d,
+      cityAlerts: { ...d.cityAlerts, [cityId]: { ...d.cityAlerts?.[cityId], [field]: val } },
+    }));
+
+  const setCityEnergy = (cityId, val) =>
+    setData(d => ({
+      ...d,
+      cityEnergy: { ...d.cityEnergy, [cityId]: val },
+    }));
+
   if (error && !data) return <div className="admin-load-error">Failed to load: {error}</div>;
   if (!data) return <div className="admin-loading">Loading alerts.json…</div>;
 
@@ -60,30 +73,45 @@ export default function AlertsEditor({ token }) {
           </select>
         </div>
         <div className="admin-field">
-          <label className="admin-label">Seattle city energy (1–5)</label>
-          <div className="admin-energy-row">
-            {[1,2,3,4,5].map(n => (
-              <button key={n}
-                className={`admin-energy-btn${n <= data.cityEnergy ? ' active' : ''}`}
-                onClick={() => setData(d => ({ ...d, cityEnergy: n }))}
-              >{n}</button>
-            ))}
-          </div>
+          <label className="admin-label">City energy (1–5 per city)</label>
+          {CITIES.map(({ id, label }) => (
+            <div key={id} className="admin-pulse-row">
+              <span className="admin-pulse-city">{label}</span>
+              <div className="admin-energy-row">
+                {[1,2,3,4,5].map(n => (
+                  <button key={n}
+                    className={`admin-energy-btn${n <= (data.cityEnergy?.[id] ?? 3) ? ' active' : ''}`}
+                    onClick={() => setCityEnergy(id, n)}
+                  >{n}</button>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
       </div>
 
-      {/* Seattle alert */}
+      {/* City alerts */}
       <div className="admin-field">
-        <label className="admin-label">Seattle alert message</label>
+        <label className="admin-label">City alert</label>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginBottom: 8 }}>
+          {CITIES.map(({ id, label }) => (
+            <button key={id}
+              className={`filter-chip${alertCity === id ? ' active' : ''}`}
+              onClick={() => setAlertCity(id)}
+            >{label}</button>
+          ))}
+        </div>
         <textarea className="admin-textarea" rows={2}
-          value={data.seattleAlert?.message || ''}
-          onChange={e => setData(d => ({ ...d, seattleAlert: { ...d.seattleAlert, message: e.target.value } }))}
+          value={data.cityAlerts?.[alertCity]?.message || ''}
+          onChange={e => setCityAlert(alertCity, 'message', e.target.value)}
         />
         <div className="admin-row" style={{ marginTop: 6 }}>
-          <input className="admin-input" placeholder="Source" value={data.seattleAlert?.source || ''}
-            onChange={e => setData(d => ({ ...d, seattleAlert: { ...d.seattleAlert, source: e.target.value } }))} />
-          <input className="admin-input" type="date" value={data.seattleAlert?.date || ''}
-            onChange={e => setData(d => ({ ...d, seattleAlert: { ...d.seattleAlert, date: e.target.value } }))} />
+          <input className="admin-input" placeholder="Source"
+            value={data.cityAlerts?.[alertCity]?.source || ''}
+            onChange={e => setCityAlert(alertCity, 'source', e.target.value)} />
+          <input className="admin-input" type="date"
+            value={data.cityAlerts?.[alertCity]?.date || ''}
+            onChange={e => setCityAlert(alertCity, 'date', e.target.value)} />
         </div>
       </div>
 

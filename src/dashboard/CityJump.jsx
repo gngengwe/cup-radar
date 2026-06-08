@@ -100,7 +100,7 @@ export default function CityJump() {
           <div style={{ fontSize: 18, fontWeight: 700, marginBottom: 8 }}>Coming soon for {cityMeta.label}</div>
           <p style={{ color: 'var(--text-muted)', maxWidth: 420, margin: '0 auto' }}>
             Trip comparison scores for departures from {cityMeta.label} are being sourced.
-            Seattle and Kansas City perspectives are available now.
+            Check back soon — more city perspectives are on the way.
           </p>
         </div>
       </div>

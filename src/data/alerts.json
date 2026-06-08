@@ -2,12 +2,20 @@
   "_note": "Update this file daily during the tournament. lastUpdated uses ISO 8601.",
   "lastUpdated": "2026-05-15T16:53:00.259Z",
   "phase": "pre-tournament",
-  "cityEnergy": 4,
+  "cityEnergy": { "seattle": 4, "kansascity": 3, "miami": 3, "newyork": 4, "philly": 3 },
   "seattleAlert": {
     "type": "info",
     "message": "Lumen Field renovations on schedule. Fan zone locations to be confirmed by June 1.",
     "source": "Seattle Office of Special Events",
     "date": "2026-05-10"
+  },
+  "cityAlerts": {
+    "seattle": {
+      "type": "info",
+      "message": "Lumen Field renovations on schedule. Fan zone locations to be confirmed by June 1.",
+      "source": "Seattle Office of Special Events",
+      "date": "2026-05-10"
+    }
   },
   "ticketPulse": {
     "seattle":    { "action": "watch", "note": "Group stage still has availability. Knockout inventory is limited — check back weekly as matches approach.", "updatedAt": "2026-06-04" },

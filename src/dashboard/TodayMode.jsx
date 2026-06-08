@@ -31,12 +31,17 @@ function calcTimeLeft(target) {
 function pad(n) { return String(n).padStart(2, '0'); }
 
 const CAT_COLORS = {
-  tournament: 'var(--accent)',
-  seattle:    '#4d8eff',
-  tickets:    '#ffb84d',
-  teams:      '#c084fc',
-  travel:     '#34d399',
-  culture:    '#f472b6',
+  tournament:  'var(--accent)',
+  general:     'var(--text-muted)',
+  seattle:     '#4d8eff',
+  kansascity:  '#c084fc',
+  miami:       '#f43f5e',
+  newyork:     '#3b82f6',
+  philly:      '#10b981',
+  tickets:     '#ffb84d',
+  teams:       '#a78bfa',
+  travel:      '#34d399',
+  culture:     '#f472b6',
 };
 
 export default function TodayMode() {
@@ -141,15 +146,15 @@ export default function TodayMode() {
         <div className="today-info-banner">The 2026 World Cup has concluded. Thanks for following along.</div>
       )}
 
-      {/* ── City alert (Seattle only for now — alerts.json has seattleAlert field) ── */}
-      {city === 'seattle' && alerts.seattleAlert && (
+      {/* ── City alert (per-city — alerts.json cityAlerts object keyed by city slug) ── */}
+      {alerts.cityAlerts?.[city] && (
         <div className="today-alert-card">
           <div className="today-alert-card__icon">{cityMeta.icon}</div>
           <div>
             <div className="today-alert-card__label">{cityMeta.label} Alert</div>
-            <div className="today-alert-card__msg">{alerts.seattleAlert.message}</div>
+            <div className="today-alert-card__msg">{alerts.cityAlerts[city].message}</div>
             <div className="today-alert-card__meta">
-              {alerts.seattleAlert.source} · {alerts.seattleAlert.date}
+              {alerts.cityAlerts[city].source} · {alerts.cityAlerts[city].date}
             </div>
           </div>
         </div>
@@ -221,12 +226,12 @@ export default function TodayMode() {
         <div className="today-energy">
           <div className="today-energy-bars">
             {[1, 2, 3, 4, 5].map(n => (
-              <div key={n} className={`today-energy-bar${n <= alerts.cityEnergy ? ' active' : ''}`} />
+              <div key={n} className={`today-energy-bar${n <= (alerts.cityEnergy?.[city] ?? 3) ? ' active' : ''}`} />
             ))}
           </div>
-          <span className="today-energy-score">{alerts.cityEnergy}/5</span>
+          <span className="today-energy-score">{alerts.cityEnergy?.[city] ?? 3}/5</span>
           <span className="today-energy-label">
-            {alerts.cityEnergy >= 4 ? 'Building fast' : alerts.cityEnergy >= 3 ? 'Warming up' : 'Early days'}
+            {(alerts.cityEnergy?.[city] ?? 3) >= 4 ? 'Building fast' : (alerts.cityEnergy?.[city] ?? 3) >= 3 ? 'Warming up' : 'Early days'}
           </span>
         </div>
       </div>
