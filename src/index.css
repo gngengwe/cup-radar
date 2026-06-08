@@ -201,7 +201,7 @@ td .flag-img { margin-right: 4px; }
   align-items: center;
   justify-content: center;
   gap: 8px;
-  padding: 13px 28px;
+  padding: 14px 28px;
   border-radius: var(--radius);
   font-size: 14px;
   font-weight: 700;
@@ -658,7 +658,7 @@ td .flag-img { margin-right: 4px; }
   border: 1.5px solid var(--border);
   border-radius: var(--radius);
   color: var(--text);
-  font-size: 14px;
+  font-size: 16px;
   outline: none;
   transition: border-color 0.18s ease;
 }
@@ -868,7 +868,7 @@ td .flag-img { margin-right: 4px; }
   display: flex;
   align-items: center;
   gap: 9px;
-  padding: 6px 16px;          /* tighter than 9px 20px — fits 12 items */
+  padding: 8px 16px;          /* tighter than 9px 20px — fits 12 items */
   transition: background 0.15s ease;
   border-left: 2px solid transparent;
 }
@@ -919,7 +919,7 @@ td .flag-img { margin-right: 4px; }
   display: none;
   flex-direction: column;
   gap: 4px;
-  padding: 5px;
+  padding: 15px 13px;
   flex-shrink: 0;
 }
 .dash-menu-btn span { display: block; width: 19px; height: 2px; background: var(--text-muted); border-radius: 2px; }
@@ -1023,7 +1023,7 @@ td .flag-img { margin-right: 4px; }
 }
 .filter-label { font-size: 12px; font-weight: 600; color: var(--text-dim); letter-spacing: 0.05em; }
 .filter-chip {
-  padding: 6px 14px;
+  padding: 10px 14px;
   border-radius: 100px;
   font-size: 12px;
   font-weight: 600;
@@ -1616,7 +1616,7 @@ td .flag-img { margin-right: 4px; }
 }
 
 @media (max-width: 480px) {
-  .hq-matches-grid { grid-template-columns: repeat(2, 1fr); }
+  .hq-matches-grid { grid-template-columns: 1fr; }
   .today-seattle-card { flex-direction: column; align-items: flex-start; }
   .city-jump-card__right { flex-wrap: wrap; }
 }
@@ -2607,6 +2607,8 @@ td .flag-img { margin-right: 4px; }
   flex-direction: column;
   gap: 14px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+  color: inherit;
 }
 .cities-hero__card:hover {
   transform: translateY(-3px);
@@ -2740,9 +2742,9 @@ td .flag-img { margin-right: 4px; }
 .dash-city-pill {
   flex: 1 1 calc(33% - 4px);
   min-width: 0;
-  padding: 4px 5px;
+  padding: 8px 5px;
   border-radius: 100px;
-  font-size: 9.5px;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.02em;
   cursor: pointer;
@@ -4213,3 +4215,38 @@ td .flag-img { margin-right: 4px; }
   margin-top: 8px;
 }
 .refresh-panel__note strong { color: var(--text-muted); }
+
+/* ═══════════════════════════════════════════════════════════
+   TOUCH DEVICES — suppress sticky-hover flash
+   @media (hover: none) matches touch-only devices where
+   :hover state persists after tap and doesn't clear.
+═══════════════════════════════════════════════════════════ */
+@media (hover: none) {
+  .ticket-card:hover,
+  .news-card:hover,
+  .culture-card:hover,
+  .cities-hero__card:hover,
+  .cities-hero__cta:hover,
+  .hq-match-card:hover,
+  .hq-city-card:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PRINT
+═══════════════════════════════════════════════════════════ */
+@media print {
+  .dash-sidebar,
+  .dash-topbar,
+  .dash-overlay,
+  .dash-menu-btn { display: none !important; }
+
+  .dashboard { display: block; }
+  .dash-main  { width: 100%; }
+  .dash-content { padding: 0; max-width: 100%; }
+
+  body { background: #fff; color: #000; }
+  a    { color: #000; text-decoration: underline; }
+}

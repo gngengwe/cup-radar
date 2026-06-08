@@ -126,7 +126,8 @@ function MatchRow({ match }) {
 
 function CityCard({ city }) {
   return (
-    <div
+    <a
+      href={city.route}
       className="cities-hero__card"
       style={{ '--city-accent': city.accent, '--city-border': city.border, '--city-soft': city.accentSoft }}
     >
@@ -158,10 +159,10 @@ function CityCard({ city }) {
         ))}
       </div>
 
-      <a href={city.route} className="cities-hero__cta">
+      <span className="cities-hero__cta">
         {city.ctaLabel}
-      </a>
-    </div>
+      </span>
+    </a>
   );
 }
 
