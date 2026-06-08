@@ -29,8 +29,7 @@ export default class ErrorBoundary extends Component {
           This section hit an unexpected error. Try refreshing or go back to the home page.
         </p>
 
-        {/* Show error details — always visible so you can diagnose in production */}
-        {error && (
+        {isDev && error && (
           <details className="error-boundary__details">
             <summary>Error details</summary>
             <pre className="error-boundary__trace">

@@ -54,8 +54,8 @@ export default function Hero() {
         </p>
 
         <div className="hero__ctas fade-up fade-up-4">
-          <a href="/#choose-city" className="btn btn-primary">Choose your city</a>
-          <a href="/seattle/hq"   className="btn btn-secondary">Open Seattle HQ</a>
+          <a href="/#choose-city"  className="btn btn-primary">Choose your city</a>
+          <a href="/how-it-works" className="btn btn-secondary">How it works</a>
         </div>
 
         <div className="fade-up fade-up-5">

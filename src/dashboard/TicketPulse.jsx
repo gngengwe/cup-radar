@@ -51,7 +51,11 @@ export default function TicketPulse() {
                 Official tickets at FIFA ↗
               </a>
               <p className="ticket-pulse-resale-note">
-                For resale, check StubHub or SeatGeek. All prices subject to change — not sold through this site.
+                For resale, check{' '}
+                <a href="https://www.stubhub.com" target="_blank" rel="noopener noreferrer">StubHub</a>
+                {' '}or{' '}
+                <a href="https://www.seatgeek.com" target="_blank" rel="noopener noreferrer">SeatGeek</a>.
+                All prices subject to change — not sold through this site.
               </p>
             </div>
           </div>

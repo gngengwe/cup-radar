@@ -17,11 +17,15 @@ const CAT_ICONS = {
   moment:  '⚡',
 };
 
-const FILTERS = ['all', 'player', 'team', 'format'];
+const FILTERS = ['all', 'player', 'team', 'format', 'rivalry', 'moment'];
 
 function StakeDots({ rating }) {
   return (
-    <div className="stake-dots">
+    <div
+      className="stake-dots"
+      title={`Emotional stake: ${rating}/5`}
+      aria-label={`Emotional stake: ${rating} out of 5`}
+    >
       {[1,2,3,4,5].map(n => (
         <span key={n} className={`stake-dot${n <= rating ? ' active' : ''}`} />
       ))}
@@ -129,40 +133,53 @@ export default function NarrativeTracker() {
             className={`filter-chip${filter === f ? ' active' : ''}`}
             onClick={() => setFilter(f)}
           >
-            {f === 'all' ? 'All storylines'
-              : f === 'player' ? '⭐ Player'
-              : f === 'team'   ? '🏳️ Team'
-              : '📋 Format'}
+            {f === 'all'     ? 'All storylines'
+              : f === 'player'  ? '⭐ Player'
+              : f === 'team'    ? '🏳️ Team'
+              : f === 'format'  ? '📋 Format'
+              : f === 'rivalry' ? '⚔️ Rivalry'
+              : '⚡ Moment'}
           </button>
         ))}
       </div>
 
-      {featured.length > 0 && (
-        <div className="narrative-section">
-          <div className="narrative-section__label">Featured storylines</div>
-          {featured.map(n => (
-            <NarrativeCard
-              key={n.id}
-              narrative={n}
-              expanded={expanded === n.id}
-              onToggle={() => setExpanded(expanded === n.id ? null : n.id)}
-            />
-          ))}
+      {filtered.length === 0 ? (
+        <div className="empty-state" style={{ padding: '40px 0', textAlign: 'center' }}>
+          <div style={{ fontSize: 32, marginBottom: 10 }}>{CAT_ICONS[filter] ?? '📖'}</div>
+          <p style={{ color: 'var(--text-muted)', margin: 0 }}>
+            No {filter} storylines tracked yet. Check back as the tournament develops.
+          </p>
         </div>
-      )}
+      ) : (
+        <>
+          {featured.length > 0 && (
+            <div className="narrative-section">
+              <div className="narrative-section__label">Featured storylines</div>
+              {featured.map(n => (
+                <NarrativeCard
+                  key={n.id}
+                  narrative={n}
+                  expanded={expanded === n.id}
+                  onToggle={() => setExpanded(expanded === n.id ? null : n.id)}
+                />
+              ))}
+            </div>
+          )}
 
-      {rest.length > 0 && (
-        <div className="narrative-section">
-          {featured.length > 0 && <div className="narrative-section__label">More storylines</div>}
-          {rest.map(n => (
-            <NarrativeCard
-              key={n.id}
-              narrative={n}
-              expanded={expanded === n.id}
-              onToggle={() => setExpanded(expanded === n.id ? null : n.id)}
-            />
-          ))}
-        </div>
+          {rest.length > 0 && (
+            <div className="narrative-section">
+              {featured.length > 0 && <div className="narrative-section__label">More storylines</div>}
+              {rest.map(n => (
+                <NarrativeCard
+                  key={n.id}
+                  narrative={n}
+                  expanded={expanded === n.id}
+                  onToggle={() => setExpanded(expanded === n.id ? null : n.id)}
+                />
+              ))}
+            </div>
+          )}
+        </>
       )}
 
       <p className="dash-disclaimer">

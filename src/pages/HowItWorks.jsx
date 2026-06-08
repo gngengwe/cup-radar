@@ -230,7 +230,6 @@ export default function HowItWorks() {
           </p>
           <div className="hiw-ctas">
             <a href="/#choose-city" className="btn btn-primary">Choose your city</a>
-            <Link to="/seattle/hq"  className="btn btn-secondary">Open Seattle HQ</Link>
           </div>
         </div>
 

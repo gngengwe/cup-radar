@@ -882,6 +882,7 @@ td .flag-img { margin-right: 4px; }
 .dash-nav__label { font-size: 12px; font-weight: 600; color: var(--text); line-height: 1.3; }
 .dash-nav__desc  { font-size: 10px; color: var(--text-muted); line-height: 1.2; }
 .dash-nav__item.active .dash-nav__label { color: var(--accent); }
+.dash-nav__divider { height: 1px; background: var(--border); margin: 8px 16px; }
 
 .dash-sidebar__footer {
   padding: 10px 16px;
@@ -935,6 +936,8 @@ td .flag-img { margin-right: 4px; }
 }
 .dash-topbar__home { font-size: 14px; font-weight: 900; letter-spacing: -0.04em; color: var(--text-muted); }
 .dash-topbar__home span { color: var(--accent); }
+.dash-topbar__city { color: var(--accent); }
+.dash-topbar__sep  { color: var(--text-dim); font-weight: 400; }
 
 .dash-content { padding: 28px 32px; flex: 1; max-width: 1080px; }
 

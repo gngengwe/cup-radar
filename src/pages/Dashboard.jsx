@@ -1,5 +1,6 @@
 import { useParams, NavLink, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState, lazy, Suspense, useEffect, useRef } from 'react';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 // City-specific sections (lazy-loaded per city)
 const SeattleHQ          = lazy(() => import('../dashboard/SeattleHQ'));
@@ -83,6 +84,7 @@ function buildNav(city) {
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
     { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
     { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
+    { id: '__divider__', divider: true },
     { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
     { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
     { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
@@ -157,6 +159,7 @@ export default function Dashboard() {
 
   return (
     <div className="dashboard">
+      <a href="#dash-content" className="skip-link">Skip to content</a>
       {/* ── Sidebar ── */}
       <aside id="dash-sidebar" className={`dash-sidebar${menuOpen ? ' open' : ''}`} aria-label="Dashboard navigation">
         <div className="dash-sidebar__header">
@@ -180,20 +183,23 @@ export default function Dashboard() {
         </div>
 
         <nav className="dash-nav">
-          {nav.map(n => (
-            <NavLink
-              key={n.id}
-              to={`/${city}/${n.id}`}
-              className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
-              onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
-            >
-              <span className="dash-nav__icon">{n.icon}</span>
-              <div className="dash-nav__text">
-                <span className="dash-nav__label">{n.label}</span>
-                <span className="dash-nav__desc">{n.desc}</span>
-              </div>
-            </NavLink>
-          ))}
+          {nav.map(n => n.divider
+            ? <div key={n.id} className="dash-nav__divider" aria-hidden="true" />
+            : (
+              <NavLink
+                key={n.id}
+                to={`/${city}/${n.id}`}
+                className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
+                onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
+              >
+                <span className="dash-nav__icon">{n.icon}</span>
+                <div className="dash-nav__text">
+                  <span className="dash-nav__label">{n.label}</span>
+                  <span className="dash-nav__desc">{n.desc}</span>
+                </div>
+              </NavLink>
+            )
+          )}
         </nav>
 
         <div className="dash-sidebar__footer">
@@ -219,16 +225,24 @@ export default function Dashboard() {
             <span aria-hidden="true" /><span aria-hidden="true" /><span aria-hidden="true" />
           </button>
           <div className="dash-topbar__title">
-            <span>{currentNav.icon}</span>
+            <span>{cfg.icon}</span>
+            <span className="dash-topbar__city">{cfg.short}</span>
+            <span className="dash-topbar__sep" aria-hidden="true">·</span>
             {currentNav.label}
           </div>
           <Link to="/" className="dash-topbar__home">Cup<span>Radar</span></Link>
         </div>
 
-        <div className="dash-content">
-          <Suspense fallback={<div className="dash-section-loading">Loading…</div>}>
-            <Section />
-          </Suspense>
+        <div className="dash-content" id="dash-content">
+          <ErrorBoundary key={section}>
+            <Suspense fallback={
+              <div className="dash-section-loading" role="status" aria-label="Loading section">
+                Loading…
+              </div>
+            }>
+              <Section />
+            </Suspense>
+          </ErrorBoundary>
         </div>
       </div>
     </div>
