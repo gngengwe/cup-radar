@@ -145,4 +145,4 @@ Publishing guidance:
 
 Current limitation:
 
-- `src/data/matches.json` is still editorial and incomplete for the full tournament (`81` local records vs `104` official matches). Until that file is fully backfilled, another application should read schedule data from the FIFA source listed in `world-cup-sources.json`.
+- `src/data/matches.json` covers all 72 group-stage matches (verified against the official FIFA/Wikipedia post-draw schedule on 2026-06-11: dates, kickoff times, venues, and cities all checked) plus 9 knockout placeholders for Seattle/Kansas City/Atlanta/Vancouver. The remaining 23 knockout matches (Round of 32/16, Quarterfinals, Semifinals, 3rd place, Final at other venues) are not yet in the file, since their participants depend on group-stage results. Until those are added, another application should read knockout schedule data from the FIFA source listed in `world-cup-sources.json`.
