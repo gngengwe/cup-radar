@@ -126,8 +126,9 @@
           "away": "3rd (A/B/C)",
           "awayFlag": "🏳️",
           "date": "2026-07-06",
-          "city": "TBD",
+          "city": "Atlanta",
           "status": "upcoming",
+          "atlantaMatch": true,
           "round": "Round of 32"
         },
         {
@@ -148,8 +149,9 @@
           "away": "Runner-up Group J",
           "awayFlag": "🏳️",
           "date": "2026-07-07",
-          "city": "TBD",
+          "city": "Vancouver",
           "status": "upcoming",
+          "vancouverMatch": true,
           "round": "Round of 32"
         },
         {
@@ -222,8 +224,9 @@
           "away": "TBD",
           "awayFlag": "🏳️",
           "date": "2026-07-10",
-          "city": "TBD",
+          "city": "Atlanta",
           "status": "upcoming",
+          "atlantaMatch": true,
           "round": "Round of 16"
         },
         {
@@ -244,8 +247,9 @@
           "away": "TBD",
           "awayFlag": "🏳️",
           "date": "2026-07-11",
-          "city": "TBD",
+          "city": "Vancouver",
           "status": "upcoming",
+          "vancouverMatch": true,
           "round": "Round of 16"
         },
         {
@@ -359,8 +363,9 @@
           "away": "TBD",
           "awayFlag": "🏳️",
           "date": "2026-07-19",
-          "city": "New York / New Jersey",
+          "city": "Atlanta",
           "status": "upcoming",
+          "atlantaMatch": true,
           "round": "Semifinals"
         }
       ]
@@ -378,8 +383,9 @@
           "away": "TBD",
           "awayFlag": "🏳️",
           "date": "2026-07-18",
-          "city": "Dallas",
+          "city": "Miami",
           "status": "upcoming",
+          "miamiMatch": true,
           "label": "3rd Place Play-off",
           "round": "Final"
         },

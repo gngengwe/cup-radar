@@ -10,7 +10,10 @@
       "home": true,
       "venue": "Lumen Field",
       "matches": 6,
-      "stages": ["Group Stage", "Round of 32"],
+      "stages": [
+        "Group Stage",
+        "Round of 32"
+      ],
       "scores": {
         "matchQuality": 4,
         "ticketAccess": 3,
@@ -31,7 +34,10 @@
       "home": false,
       "venue": "BC Place",
       "matches": 6,
-      "stages": ["Group Stage", "Round of 32"],
+      "stages": [
+        "Group Stage",
+        "Round of 32"
+      ],
       "scores": {
         "matchQuality": 4,
         "ticketAccess": 5,
@@ -52,7 +58,12 @@
       "home": false,
       "venue": "Rose Bowl + SoFi Stadium",
       "matches": 12,
-      "stages": ["Group Stage", "Round of 32", "Quarterfinal", "Semifinal"],
+      "stages": [
+        "Group Stage",
+        "Round of 32",
+        "Quarterfinal",
+        "Semifinal"
+      ],
       "scores": {
         "matchQuality": 5,
         "ticketAccess": 2,
@@ -73,7 +84,10 @@
       "home": false,
       "venue": "Levi's Stadium",
       "matches": 6,
-      "stages": ["Group Stage", "Round of 32"],
+      "stages": [
+        "Group Stage",
+        "Round of 32"
+      ],
       "scores": {
         "matchQuality": 4,
         "ticketAccess": 4,
@@ -94,7 +108,12 @@
       "home": false,
       "venue": "AT&T Stadium",
       "matches": 9,
-      "stages": ["Group Stage", "Round of 32", "Quarterfinal", "Final"],
+      "stages": [
+        "Group Stage",
+        "Round of 32",
+        "Quarterfinal",
+        "Final"
+      ],
       "scores": {
         "matchQuality": 5,
         "ticketAccess": 4,
@@ -115,7 +134,10 @@
       "home": false,
       "venue": "Estadio Azteca",
       "matches": 6,
-      "stages": ["Group Stage", "Round of 32"],
+      "stages": [
+        "Group Stage",
+        "Round of 32"
+      ],
       "scores": {
         "matchQuality": 5,
         "ticketAccess": 4,
@@ -136,7 +158,10 @@
       "home": false,
       "venue": "BMO Field",
       "matches": 6,
-      "stages": ["Group Stage", "Round of 32"],
+      "stages": [
+        "Group Stage",
+        "Round of 32"
+      ],
       "scores": {
         "matchQuality": 4,
         "ticketAccess": 4,
@@ -148,6 +173,32 @@
       "hotelNote": "Expensive city but fun World Cup atmosphere.",
       "bestFor": "Canadian home crowd energy. Canada HQ.",
       "tag": "Canada HQ"
+    },
+    {
+      "id": "atlanta",
+      "name": "Atlanta",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "home": false,
+      "venue": "Mercedes-Benz Stadium",
+      "matches": 8,
+      "stages": [
+        "Group Stage",
+        "Round of 32",
+        "Round of 16",
+        "Semifinal"
+      ],
+      "scores": {
+        "matchQuality": 5,
+        "ticketAccess": 3,
+        "travelEase": 3,
+        "cityEnergy": 4,
+        "overall": 4
+      },
+      "flightFromSEA": "4.5 hr direct flight",
+      "hotelNote": "Big downtown hotel inventory near the stadium. Semifinal week will spike hard.",
+      "bestFor": "Spain group matches and the Semifinal. The South's biggest World Cup stage.",
+      "tag": "Semifinal host"
     }
   ]
 }

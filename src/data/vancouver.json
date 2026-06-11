@@ -1,0 +1,249 @@
+{
+  "_note": "Vancouver HQ data — BC Place, downtown Vancouver. 5 group stage matches + R32 + R16.",
+  "lastUpdated": "2026-06-10T12:00:00-07:00",
+  "venue": {
+    "name": "BC Place",
+    "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8",
+    "capacity": 54500,
+    "notes": "Retractable roof downtown stadium. Clear bag policy in effect. Remember: this is Canada — bring your passport if you're crossing from the US, and prices are in CAD.",
+    "parkingNote": "Downtown parking is scarce and expensive ($30–$60 CAD). SkyTrain is the only sensible option on match days."
+  },
+  "transit": {
+    "recommended": "SkyTrain — Stadium–Chinatown station (Expo Line) is directly beside BC Place; Yaletown–Roundhouse (Canada Line) is a 10-minute walk",
+    "lines": [
+      "Expo Line — Stadium–Chinatown station at the stadium's doorstep",
+      "Canada Line — Yaletown–Roundhouse, 10 min walk; direct from YVR airport"
+    ],
+    "tips": [
+      "Get a Compass card or tap a credit card directly at the gates — no ticket lines.",
+      "Canada Line runs direct from YVR airport to downtown in 25 minutes — no car needed all trip.",
+      "Stadium–Chinatown station gets crushed post-match; walking 10 min to Yaletown–Roundhouse is often faster.",
+      "US visitors: cell plans may treat Vancouver as international roaming — download offline maps."
+    ],
+    "parking": "Limited lots near Plaza of Nations and Concord Pacific from $30 CAD, sell out early. Park-and-ride from a suburban SkyTrain station beats downtown parking.",
+    "rideshare": "Uber/Lyft operate in Vancouver with designated pickup on Expo Blvd. Post-match surge is real but milder than US host cities — SkyTrain still wins."
+  },
+  "fanZones": [
+    {
+      "id": "fifa-fan-festival-pne",
+      "type": "Official Fan Zone",
+      "name": "FIFA Fan Festival — PNE / Hastings Park",
+      "location": "Pacific National Exhibition grounds, East Vancouver",
+      "dates": "June 12 – July 7",
+      "hours": "11am – 11pm on match days",
+      "free": true,
+      "notes": "Vancouver's official Fan Festival site. Giant screens, food trucks, live music on the historic fairgrounds — 15 min from downtown on the Hastings bus corridor."
+    },
+    {
+      "id": "granville-fan-zone",
+      "type": "Neighborhood Watch Party",
+      "name": "Granville Street Entertainment District",
+      "location": "Granville St between Robson & Davie",
+      "dates": "Match days",
+      "hours": "From noon on match days",
+      "free": true,
+      "confirmed": false,
+      "notes": "Vancouver's bar strip becomes an unofficial fan corridor on match days. Expect street closures for the biggest fixtures."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Yaletown",
+      "type": "Neighborhood",
+      "distance": "10 min walk to BC Place",
+      "notes": "The closest pre-match district — patios, breweries, and sports bars along Mainland and Hamilton St. Fills early on match days.",
+      "area": "Yaletown"
+    },
+    {
+      "name": "Gastown",
+      "type": "Food & Drink",
+      "distance": "15 min walk or 1 SkyTrain stop",
+      "notes": "Historic district with the city's best pub density. International supporters' groups have claimed bars here for the tournament.",
+      "area": "Gastown"
+    },
+    {
+      "name": "Main Street / Chinatown",
+      "type": "Neighborhood",
+      "distance": "10–15 min walk",
+      "notes": "Craft-beer corridor with a local feel. Quieter build-up before walking over to the stadium — and the best food value downtown.",
+      "area": "Main Street"
+    }
+  ],
+  "cityEnergyForecast": [
+    {
+      "matchId": "wc26-van-01",
+      "date": "2026-06-13",
+      "energyScore": 4,
+      "crowdNote": "Netherlands vs Sweden — a heavyweight European opener on day two of the tournament. Orange shirts will take over Gastown. Canada's World Cup truly arrives in the west."
+    },
+    {
+      "matchId": "wc26-van-02",
+      "date": "2026-06-18",
+      "energyScore": 4,
+      "crowdNote": "Norway vs Iraq — Haaland's first ever World Cup match. Neutral fans will pack BC Place just to say they were there; Vancouver's Iraqi community adds real noise."
+    },
+    {
+      "matchId": "wc26-van-03",
+      "date": "2026-06-21",
+      "energyScore": 3,
+      "crowdNote": "Croatia vs Panama — Sunday noon kickoff. Croatia's checkered shirts travel everywhere; relaxed weekend matchday downtown."
+    },
+    {
+      "matchId": "wc26-van-04",
+      "date": "2026-06-24",
+      "energyScore": 4,
+      "crowdNote": "Japan vs Sweden — Group F decider. Vancouver's large Japanese community makes this a near-home match for the Samurai Blue. Expect the loudest organized supporter section of the group stage."
+    },
+    {
+      "matchId": "wc26-van-05",
+      "date": "2026-06-26",
+      "energyScore": 5,
+      "crowdNote": "France vs Norway — Mbappé vs Haaland on a Friday night. The most in-demand group-stage ticket in western North America. Downtown will be a festival from lunchtime."
+    }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-van-01",
+      "date": "2026-06-13",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Netherlands vs Sweden — Saturday noon, opening-weekend excitement plus regular downtown traffic.",
+      "peakWindow": "10:00 AM–3:30 PM PT",
+      "tips": [
+        "SkyTrain from any suburban station beats driving downtown",
+        "Arrive by 10:30am to enjoy Yaletown before the noon kickoff",
+        "Post-match crowds disperse into downtown easily — no rush to leave"
+      ]
+    },
+    {
+      "matchId": "wc26-van-02",
+      "date": "2026-06-18",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Norway vs Iraq — Thursday 3pm kickoff ends right at commute peak. Plan your exit.",
+      "peakWindow": "1:00–7:00 PM PT",
+      "tips": [
+        "Expo Line trains packed in both directions post-match — consider the Yaletown–Roundhouse walk",
+        "Pre-match is easy; it's the 5pm exit that stings",
+        "Stay for dinner in Chinatown and skip the crush entirely"
+      ]
+    },
+    {
+      "matchId": "wc26-van-03",
+      "date": "2026-06-21",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Croatia vs Panama — Sunday noon, the lightest logistics of Vancouver's slate.",
+      "peakWindow": "10:00 AM–3:00 PM PT",
+      "tips": [
+        "Best day to test your route if attending multiple matches",
+        "Granville and Yaletown brunch + match is the move",
+        "Even driving is survivable today — but why"
+      ]
+    },
+    {
+      "matchId": "wc26-van-04",
+      "date": "2026-06-24",
+      "score": 4,
+      "label": "High",
+      "color": "#fb923c",
+      "note": "Japan vs Sweden — Wednesday 5pm kickoff directly on top of commute peak, with a sellout crowd.",
+      "peakWindow": "3:00–9:00 PM PT",
+      "tips": [
+        "Leave work early — downtown is gridlocked from 3:30pm",
+        "Stadium–Chinatown station will queue at entry pre-match; buffer 30 min",
+        "Post-match, walk to Main Street for food and let the trains clear"
+      ]
+    },
+    {
+      "matchId": "wc26-van-05",
+      "date": "2026-06-26",
+      "score": 5,
+      "label": "Very High",
+      "color": "#f87171",
+      "note": "France vs Norway — Friday night, max-demand fixture. Every train, bridge, and bar at capacity.",
+      "peakWindow": "2:00–11:30 PM PT",
+      "tips": [
+        "Be downtown by mid-afternoon and make a full evening of it",
+        "Post-match SkyTrain queues will be 30+ min at Stadium–Chinatown — walk to Yaletown–Roundhouse or wait it out in a bar",
+        "If staying outside downtown, pre-book transport now",
+        "Granville district will run past 2am — the city has waited decades for this"
+      ]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-van-01",
+      "date": "2026-06-13",
+      "score": 84,
+      "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Netherlands vs Sweden — a genuinely elite European fixture on opening weekend, in the most beautiful host city of the tournament. CAD prices make this better value than any comparable US matchup.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 4,
+        "atmosphereExpected": 4
+      }
+    },
+    {
+      "matchId": "wc26-van-02",
+      "date": "2026-06-18",
+      "score": 81,
+      "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Norway vs Iraq — Erling Haaland's World Cup debut. Years from now this is the 'I saw his first one' ticket. Iraq's support adds an atmosphere most neutrals don't expect.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 4,
+        "atmosphereExpected": 4
+      }
+    },
+    {
+      "matchId": "wc26-van-03",
+      "date": "2026-06-21",
+      "score": 66,
+      "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Croatia vs Panama — 2018 finalists on a relaxed Sunday at noon. The easiest, cheapest way to see a World Cup match in Vancouver. Modrić's farewell tour stops here.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 5,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-van-04",
+      "date": "2026-06-24",
+      "score": 83,
+      "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Japan vs Sweden with Group F on the line — Vancouver's Japanese community turns BC Place blue, and a knockout-stakes decider under a closed roof is as loud as group football gets.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 4,
+        "ticketValue": 3,
+        "atmosphereExpected": 5
+      }
+    },
+    {
+      "matchId": "wc26-van-05",
+      "date": "2026-06-26",
+      "score": 95,
+      "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "France vs Norway — Mbappé against Haaland, Friday night, Group I decider. This is the single best group-stage fixture in any host city. If you get one Vancouver ticket, it's this one.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 4,
+        "ticketValue": 1,
+        "atmosphereExpected": 5
+      }
+    }
+  ]
+}

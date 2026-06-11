@@ -9,6 +9,8 @@ const KansasCityHQ       = lazy(() => import('../dashboard/KansasCityHQ'));
 const MiamiHQ            = lazy(() => import('../dashboard/MiamiHQ'));
 const NewYorkHQ          = lazy(() => import('../dashboard/NewYorkHQ'));
 const PhillyHQ           = lazy(() => import('../dashboard/PhillyHQ'));
+const AtlantaHQ          = lazy(() => import('../dashboard/AtlantaHQ'));
+const VancouverHQ        = lazy(() => import('../dashboard/VancouverHQ'));
 
 // Shared sections (lazy-loaded once)
 const Matches            = lazy(() => import('../dashboard/Matches'));
@@ -21,6 +23,8 @@ const KCWatchGuide       = lazy(() => import('../dashboard/KCWatchGuide'));
 const MiamiWatchGuide    = lazy(() => import('../dashboard/MiamiWatchGuide'));
 const NewYorkWatchGuide  = lazy(() => import('../dashboard/NewYorkWatchGuide'));
 const PhillyWatchGuide   = lazy(() => import('../dashboard/PhillyWatchGuide'));
+const AtlantaWatchGuide  = lazy(() => import('../dashboard/AtlantaWatchGuide'));
+const VancouverWatchGuide = lazy(() => import('../dashboard/VancouverWatchGuide'));
 const Newsroom           = lazy(() => import('../dashboard/Newsroom'));
 const CultureTracker     = lazy(() => import('../dashboard/CultureTracker'));
 const NarrativeTracker   = lazy(() => import('../dashboard/NarrativeTracker'));
@@ -50,7 +54,7 @@ const CITY_CONFIG = {
     label:        'Miami HQ',
     short:        'Miami',
     icon:         '🌴',
-    matchCount:   6,
+    matchCount:   7,
     hqSection:    MiamiHQ,
     watchSection: MiamiWatchGuide,
     accentVar:    '#f43f5e',
@@ -59,7 +63,7 @@ const CITY_CONFIG = {
     label:        'New York HQ',
     short:        'New York',
     icon:         '🗽',
-    matchCount:   10,
+    matchCount:   9,
     hqSection:    NewYorkHQ,
     watchSection: NewYorkWatchGuide,
     accentVar:    '#3b82f6',
@@ -72,6 +76,24 @@ const CITY_CONFIG = {
     hqSection:    PhillyHQ,
     watchSection: PhillyWatchGuide,
     accentVar:    '#10b981',
+  },
+  atlanta: {
+    label:        'Atlanta HQ',
+    short:        'Atlanta',
+    icon:         '🍑',
+    matchCount:   8,
+    hqSection:    AtlantaHQ,
+    watchSection: AtlantaWatchGuide,
+    accentVar:    '#fb923c',
+  },
+  vancouver: {
+    label:        'Vancouver HQ',
+    short:        'Vancouver',
+    icon:         '🍁',
+    matchCount:   7,
+    hqSection:    VancouverHQ,
+    watchSection: VancouverWatchGuide,
+    accentVar:    '#22d3ee',
   },
 };
 

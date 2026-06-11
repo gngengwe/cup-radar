@@ -46,6 +46,8 @@ function slug(str) {
 export async function refreshNews() {
   console.log('[news] fetching from Google News RSS…');
 
+  const summary = { vertical: 'news', applied: [], pending: [], flags: [] };
+
   const file    = join(DATA, 'news.json');
   const current = JSON.parse(readFileSync(file, 'utf8'));
   const existingLinks = new Set(current.articles.map(a => a.link).filter(Boolean));
@@ -84,11 +86,17 @@ export async function refreshNews() {
     }
   }
 
-  if (fresh.length === 0) { console.log('[news] no new articles'); return; }
+  if (fresh.length === 0) { console.log('[news] no new articles'); return summary; }
 
   // Prepend fresh articles (newest first), keep max 100 total
   current.articles = [...fresh, ...current.articles].slice(0, 100);
   current.lastUpdated = new Date().toISOString();
   writeFileSync(file, JSON.stringify(current, null, 2) + '\n');
   console.log(`[news] added ${fresh.length} draft articles`);
+
+  for (const a of fresh) {
+    summary.pending.push(`"${a.headline}" (${a.category}) — [source](${a.link})`);
+  }
+
+  return summary;
 }

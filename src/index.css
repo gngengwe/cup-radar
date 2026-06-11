@@ -1358,6 +1358,8 @@ td .flag-img { margin-right: 4px; }
 .match-row.miami      { border-left: 3px solid #f43f5e; }
 .match-row.newyork    { border-left: 3px solid #3b82f6; }
 .match-row.philly     { border-left: 3px solid #10b981; }
+.match-row.atlanta    { border-left: 3px solid #fb923c; }
+.match-row.vancouver  { border-left: 3px solid #22d3ee; }
 .match-row.live { border-color: var(--border-accent); }
 
 .match-row__date { font-size: 12px; color: var(--text-dim); min-width: 90px; flex-shrink: 0; }
@@ -1481,6 +1483,8 @@ td .flag-img { margin-right: 4px; }
 .ticket-card.miami      { border-color: rgba(244, 63, 94, 0.3); }
 .ticket-card.newyork    { border-color: rgba(59, 130, 246, 0.3); }
 .ticket-card.philly     { border-color: rgba(16, 185, 129, 0.3); }
+.ticket-card.atlanta    { border-color: rgba(251, 146, 60, 0.3); }
+.ticket-card.vancouver  { border-color: rgba(34, 211, 238, 0.3); }
 
 .ticket-card__top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .ticket-card__action { font-size: 11px; font-weight: 800; padding: 3px 10px; border-radius: 4px; letter-spacing: 0.06em; }
@@ -1491,6 +1495,8 @@ td .flag-img { margin-right: 4px; }
 .ticket-card.miami      .ticket-card__city-tag { color: #f43f5e;        background: rgba(244,63,94,0.12); }
 .ticket-card.newyork    .ticket-card__city-tag { color: #3b82f6;        background: rgba(59,130,246,0.12); }
 .ticket-card.philly     .ticket-card__city-tag { color: #10b981;        background: rgba(16,185,129,0.12); }
+.ticket-card.atlanta    .ticket-card__city-tag { color: #fb923c;        background: rgba(251,146,60,0.12); }
+.ticket-card.vancouver  .ticket-card__city-tag { color: #22d3ee;        background: rgba(34,211,238,0.12); }
 
 .ticket-card__match { font-size: 15px; font-weight: 700; color: var(--text); }
 .ticket-card__meta  { font-size: 12px; color: var(--text-muted); }
@@ -1834,6 +1840,8 @@ td .flag-img { margin-right: 4px; }
 .bracket-match.miami      { border-color: rgba(244, 63, 94, 0.4); }
 .bracket-match.newyork    { border-color: rgba(59, 130, 246, 0.4); }
 .bracket-match.philly     { border-color: rgba(16, 185, 129, 0.4); }
+.bracket-match.atlanta    { border-color: rgba(251, 146, 60, 0.4); }
+.bracket-match.vancouver  { border-color: rgba(34, 211, 238, 0.4); }
 .bracket-match.live    { border-color: var(--accent); }
 .bracket-match.tbd     { opacity: 0.6; }
 
@@ -3036,6 +3044,8 @@ td .flag-img { margin-right: 4px; }
 .hiw-city-pill.miami    { border-color: rgba(244, 63, 94, 0.3); }
 .hiw-city-pill.newyork  { border-color: rgba(59, 130, 246, 0.3); }
 .hiw-city-pill.philly   { border-color: rgba(16, 185, 129, 0.3); }
+.hiw-city-pill.atlanta  { border-color: rgba(251, 146, 60, 0.3); }
+.hiw-city-pill.vancouver { border-color: rgba(34, 211, 238, 0.3); }
 .hiw-city-pill span    { font-size: 24px; }
 .hiw-city-pill__name   { font-size: 16px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 2px; }
 .hiw-city-pill__detail { font-size: 12px; color: var(--text-muted); }

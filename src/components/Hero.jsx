@@ -39,7 +39,7 @@ export default function Hero() {
       <div className="container">
         <div className="hero__badge-row fade-up fade-up-1">
           <span className="badge badge--accent badge--dot">World Cup 2026</span>
-          <span className="badge">5 US Host Cities</span>
+          <span className="badge">7 Host Cities</span>
           <span className="badge">Jun 11 – Jul 19</span>
         </div>
 

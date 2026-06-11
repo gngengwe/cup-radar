@@ -53,8 +53,8 @@ const CITIES = [
     accent:     '#f43f5e',
     accentSoft: 'rgba(244,63,94,0.1)',
     border:     'rgba(244,63,94,0.25)',
-    matchCount: 6,
-    stages:     'Group Stage · Quarterfinal',
+    matchCount: 7,
+    stages:     'Group Stage · Quarterfinal · 3rd Place Match',
     headline:   'Brazil vs Scotland. Ronaldo in Miami. Hard Rock.',
     keyMatches: [
       { teams: '🇸🇦 Saudi Arabia vs Uruguay 🇺🇾', date: 'Jun 15', note: 'Group H' },
@@ -76,8 +76,8 @@ const CITIES = [
     accent:     '#3b82f6',
     accentSoft: 'rgba(59,130,246,0.1)',
     border:     'rgba(59,130,246,0.25)',
-    matchCount: 10,
-    stages:     'Group Stage · Semifinal · World Cup Final',
+    matchCount: 9,
+    stages:     'Group Stage · World Cup Final',
     headline:   'Brazil. France. England. MetLife. The Final.',
     keyMatches: [
       { teams: '🇧🇷 Brazil vs Morocco 🇲🇦',      date: 'Jun 13', note: 'Group C' },
@@ -112,6 +112,52 @@ const CITIES = [
     modules: ['Matchday logistics', 'Broad Street Line guide', 'Rocky Steps fan festival', 'Xfinity Live & South Philly', 'Should I go? scores', 'Philly Watch Guide'],
     ctaLabel: 'Open Philadelphia HQ →',
     badge:    '📋 Hosts the Round of 16',
+  },
+  {
+    id:         'atlanta',
+    name:       'Atlanta',
+    emoji:      '🍑',
+    venue:      'Mercedes-Benz Stadium',
+    route:      '/atlanta/hq',
+    accent:     '#fb923c',
+    accentSoft: 'rgba(251,146,60,0.1)',
+    border:     'rgba(251,146,60,0.25)',
+    matchCount: 8,
+    stages:     'Group Stage · Round of 32 · Round of 16 · Semifinal',
+    headline:   "Spain twice. A Semifinal. The South's biggest stage.",
+    keyMatches: [
+      { teams: '🇺🇿 Uzbekistan vs DR Congo 🇨🇩', date: 'Jun 15', note: 'Group K' },
+      { teams: '🇬🇭 Ghana vs Panama 🇵🇦',          date: 'Jun 18', note: 'Group L' },
+      { teams: '🇸🇪 Sweden vs Tunisia 🇹🇳',        date: 'Jun 21', note: 'Group F' },
+      { teams: '🇪🇸 Spain vs Cape Verde 🇨🇻',      date: 'Jun 24', note: 'Group H' },
+      { teams: '🇪🇸 Spain vs Uruguay 🇺🇾',          date: 'Jun 27', note: 'Group H · 6pm ET' },
+    ],
+    modules: ['Matchday logistics', 'MARTA transit guide', 'Centennial Park fan festival', 'Castleberry Hill pre-game', 'Should I go? scores', 'Atlanta Watch Guide'],
+    ctaLabel: 'Open Atlanta HQ →',
+    badge:    '⭐ Hosts a Semifinal',
+  },
+  {
+    id:         'vancouver',
+    name:       'Vancouver',
+    emoji:      '🍁',
+    venue:      'BC Place',
+    route:      '/vancouver/hq',
+    accent:     '#22d3ee',
+    accentSoft: 'rgba(34,211,238,0.1)',
+    border:     'rgba(34,211,238,0.25)',
+    matchCount: 7,
+    stages:     'Group Stage · Round of 32 · Round of 16',
+    headline:   'Mbappé vs Haaland. Under the roof at BC Place.',
+    keyMatches: [
+      { teams: '🇳🇱 Netherlands vs Sweden 🇸🇪', date: 'Jun 13', note: 'Group F' },
+      { teams: '🇳🇴 Norway vs Iraq 🇮🇶',          date: 'Jun 18', note: 'Group I' },
+      { teams: '🇭🇷 Croatia vs Panama 🇵🇦',       date: 'Jun 21', note: 'Group L' },
+      { teams: '🇯🇵 Japan vs Sweden 🇸🇪',         date: 'Jun 24', note: 'Group F' },
+      { teams: '🇫🇷 France vs Norway 🇳🇴',         date: 'Jun 26', note: 'Group I · 5pm PT' },
+    ],
+    modules: ['Matchday logistics', 'SkyTrain guide', 'PNE fan festival', 'Yaletown & Gastown pre-game', 'Should I go? scores', 'Vancouver Watch Guide'],
+    ctaLabel: 'Open Vancouver HQ →',
+    badge:    "🇨🇦 Canada's western host city",
   },
 ];
 
@@ -171,7 +217,7 @@ export default function CitiesHero() {
   return (
     <section className="section cities-hero-section" id="choose-city">
       <div className="container">
-        <span className="section-label">Five cities. One dashboard.</span>
+        <span className="section-label">Seven cities. One dashboard.</span>
         <h2 className="section-heading">Choose your HQ city.</h2>
         <p className="section-sub">
           Cup Radar goes deepest in your home city. Every dashboard section —

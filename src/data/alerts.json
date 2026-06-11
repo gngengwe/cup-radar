@@ -2,7 +2,7 @@
   "_note": "Update this file daily during the tournament. lastUpdated uses ISO 8601.",
   "lastUpdated": "2026-05-15T16:53:00.259Z",
   "phase": "pre-tournament",
-  "cityEnergy": { "seattle": 4, "kansascity": 3, "miami": 3, "newyork": 4, "philly": 3 },
+  "cityEnergy": { "seattle": 4, "kansascity": 3, "miami": 3, "newyork": 4, "philly": 3, "atlanta": 3, "vancouver": 4 },
   "seattleAlert": {
     "type": "info",
     "message": "Lumen Field renovations on schedule. Fan zone locations to be confirmed by June 1.",
@@ -15,14 +15,28 @@
       "message": "Lumen Field renovations on schedule. Fan zone locations to be confirmed by June 1.",
       "source": "Seattle Office of Special Events",
       "date": "2026-05-10"
+    },
+    "atlanta": {
+      "type": "info",
+      "message": "MARTA confirms extended rail hours for all Mercedes-Benz Stadium match days. Fan Festival at Centennial Olympic Park opens June 13.",
+      "source": "MARTA / Atlanta World Cup Host Committee",
+      "date": "2026-06-09"
+    },
+    "vancouver": {
+      "type": "info",
+      "message": "US visitors: bring a passport — Vancouver is a border crossing. SkyTrain running extended service on BC Place match days.",
+      "source": "Vancouver FIFA World Cup 2026 Host Committee",
+      "date": "2026-06-09"
     }
   },
   "ticketPulse": {
     "seattle":    { "action": "watch", "note": "Group stage still has availability. Knockout inventory is limited — check back weekly as matches approach.", "updatedAt": "2026-06-04" },
     "kansascity": { "action": "watch", "note": "Group stage available across most tiers. Arrowhead knockout matches filling earlier than expected.", "updatedAt": "2026-06-04" },
     "miami":      { "action": "wait",  "note": "Most listings above face value. Prices likely soften closer to match day — monitor but don't chase yet.", "updatedAt": "2026-06-04" },
-    "newyork":    { "action": "move",  "note": "SF and late-round fixtures showing strong demand. If you're planning a July trip, act now before the bracket sets.", "updatedAt": "2026-06-04" },
-    "philly":     { "action": "watch", "note": "Limited inventory across all five group stage matches. Round of 16 window worth monitoring weekly as the bracket sets.", "updatedAt": "2026-06-07" }
+    "newyork":    { "action": "move",  "note": "Final and late-round fixtures showing strong demand. If you're planning a July trip, act now before the bracket sets.", "updatedAt": "2026-06-10" },
+    "philly":     { "action": "watch", "note": "Limited inventory across all five group stage matches. Round of 16 window worth monitoring weekly as the bracket sets.", "updatedAt": "2026-06-07" },
+    "atlanta":    { "action": "move",  "note": "Group stage still near face value outside the two Spain fixtures. Semifinal demand will only climb — secure early if you're targeting July 19.", "updatedAt": "2026-06-10" },
+    "vancouver":  { "action": "move",  "note": "Best value in the tournament — CAD pricing and face-value availability on most group matches. France vs Norway is the exception: act now or miss it.", "updatedAt": "2026-06-10" }
   },
   "travelAlert": null,
   "topStories": [

@@ -181,7 +181,7 @@ const FAQ = [
   },
   {
     q: 'Can I switch between cities?',
-    a: 'Yes — use the city switcher in the dashboard sidebar to toggle between Seattle, Kansas City, Miami, New York, and Philadelphia. All five cities share the same dashboard structure with city-specific data.',
+    a: 'Yes — use the city switcher in the dashboard sidebar to toggle between Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver. All seven cities share the same dashboard structure with city-specific data.',
   },
   {
     q: 'What\'s the "Should I Go?" score?',
@@ -197,7 +197,7 @@ const FAQ = [
   },
   {
     q: 'Which host cities does Cup Radar cover?',
-    a: 'Cup Radar covers all 5 US host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, and Philadelphia. City Jump lets you compare opportunistic trips to other host cities (Vancouver, LA, Dallas, Mexico City, Toronto) from any home base.',
+    a: 'Cup Radar covers 7 host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver. City Jump lets you compare opportunistic trips to other host cities (LA, Dallas, Mexico City, Toronto) from any home base.',
   },
   {
     q: 'How is the data kept up to date?',
@@ -223,8 +223,8 @@ export default function HowItWorks() {
           <span className="section-label">How it works</span>
           <h1 className="hiw-title">Cup Radar explained.</h1>
           <p className="hiw-subtitle">
-            Cup Radar is a World Cup 2026 intelligence dashboard built for fans across all 5 US host cities —
-            Seattle, Kansas City, Miami, New York, and Philadelphia.
+            Cup Radar is a World Cup 2026 intelligence dashboard built for fans across 7 host cities —
+            Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver.
             It organizes matches, tickets, city logistics, and tournament stories into one daily command center —
             rooted in your home city, aware of everything else.
           </p>
@@ -235,9 +235,9 @@ export default function HowItWorks() {
 
         {/* ── Five-city model ── */}
         <section className="hiw-section">
-          <h2 className="hiw-section-title">Five cities. One engine.</h2>
+          <h2 className="hiw-section-title">Seven cities. One engine.</h2>
           <p className="hiw-section-body">
-            Cup Radar is structured around your home city. Choose any of the 5 US host cities on the landing page —
+            Cup Radar is structured around your home city. Choose any of the 7 host cities on the landing page —
             your City HQ, Watch Guide, City Jump, and Ticket Radar all adjust to your perspective.
             Shared sections (Match Tracker, Groups, Bracket, Newsroom, Culture, Narratives, Upsets)
             cover the full tournament but default-filter to your city where relevant.
@@ -261,21 +261,35 @@ export default function HowItWorks() {
               <span>🌴</span>
               <div>
                 <div className="hiw-city-pill__name">Miami</div>
-                <div className="hiw-city-pill__detail">4 matches · Jun 18–Jul 7 · Hard Rock Stadium · R16</div>
+                <div className="hiw-city-pill__detail">7 matches · Jun 15–Jul 18 · Hard Rock Stadium · QF + 3rd Place</div>
               </div>
             </div>
             <div className="hiw-city-pill newyork">
               <span>🗽</span>
               <div>
                 <div className="hiw-city-pill__name">New York</div>
-                <div className="hiw-city-pill__detail">8 matches · Jun 14–Jul 15 · MetLife Stadium · SF</div>
+                <div className="hiw-city-pill__detail">9 matches · Jun 13–Jul 19 · MetLife Stadium · Final</div>
               </div>
             </div>
             <div className="hiw-city-pill philly">
               <span>🦅</span>
               <div>
                 <div className="hiw-city-pill__name">Philadelphia</div>
-                <div className="hiw-city-pill__detail">3 matches · Jun 17–Jul 15 · Lincoln Financial · SF</div>
+                <div className="hiw-city-pill__detail">6 matches · Jun 14–Jul 12 · Lincoln Financial · R16</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill atlanta">
+              <span>🍑</span>
+              <div>
+                <div className="hiw-city-pill__name">Atlanta</div>
+                <div className="hiw-city-pill__detail">8 matches · Jun 15–Jul 19 · Mercedes-Benz Stadium · SF</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill vancouver">
+              <span>🍁</span>
+              <div>
+                <div className="hiw-city-pill__name">Vancouver</div>
+                <div className="hiw-city-pill__detail">7 matches · Jun 13–Jul 11 · BC Place · R16</div>
               </div>
             </div>
           </div>

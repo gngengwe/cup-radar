@@ -53,12 +53,16 @@ function transformMatch(m) {
   const isMiami    = venueLower.includes('hard rock') || venueLower.includes('miami gardens');
   const isNY       = venueLower.includes('metlife')  || venueLower.includes('east rutherford');
   const isPhilly   = venueLower.includes('lincoln financial') || venueLower.includes('philadelphia');
+  const isAtlanta  = venueLower.includes('mercedes-benz') || venueLower.includes('atlanta');
+  const isVancouver = venueLower.includes('bc place') || venueLower.includes('vancouver');
 
   const cityInfo = isSeattle ? { city: 'Seattle',       cityCode: 'SEA', tz: 'PT' }
                 : isKC       ? { city: 'Kansas City',   cityCode: 'KC',  tz: 'CT' }
                 : isMiami    ? { city: 'Miami',         cityCode: 'MIA', tz: 'ET' }
                 : isNY       ? { city: 'New York',      cityCode: 'NY',  tz: 'ET' }
                 : isPhilly   ? { city: 'Philadelphia',  cityCode: 'PHI', tz: 'ET' }
+                : isAtlanta  ? { city: 'Atlanta',       cityCode: 'ATL', tz: 'ET' }
+                : isVancouver ? { city: 'Vancouver',    cityCode: 'VAN', tz: 'PT' }
                 :              { city: m.venue?.split(',')[1]?.trim() || '', cityCode: '', tz: 'ET' };
 
   const TZ_MAP = { PT: 'America/Los_Angeles', CT: 'America/Chicago', ET: 'America/New_York' };
@@ -93,6 +97,8 @@ function transformMatch(m) {
     miamiMatch:   isMiami,
     nyMatch:      isNY,
     phillyMatch:  isPhilly,
+    atlantaMatch: isAtlanta,
+    vancouverMatch: isVancouver,
     notes:      '',
   };
 }

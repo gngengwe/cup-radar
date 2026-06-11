@@ -17,6 +17,8 @@ const FLAGS = {
 export async function refreshBracket() {
   console.log('[bracket] syncing knockout results from matches.json…');
 
+  const summary = { vertical: 'bracket', applied: [], pending: [], flags: [] };
+
   const matchFile   = join(DATA, 'matches.json');
   const bracketFile = join(DATA, 'bracket.json');
   const matches     = JSON.parse(readFileSync(matchFile, 'utf8')).matches;
@@ -24,7 +26,7 @@ export async function refreshBracket() {
 
   // Only knockout matches have score data to sync
   const knockout = matches.filter(m => m.stage !== 'Group Stage' && m.status === 'finished');
-  if (knockout.length === 0) { console.log('[bracket] no finished knockout matches yet'); return; }
+  if (knockout.length === 0) { console.log('[bracket] no finished knockout matches yet'); return summary; }
 
   let updated = 0;
 
@@ -49,6 +51,7 @@ export async function refreshBracket() {
           slot.awayScore = match.awayScore;
           slot.status    = 'finished';
           updated++;
+          summary.applied.push(`${round.name || round.id}: ${slot.home} ${match.homeScore}–${match.awayScore} ${slot.away}`);
         }
       }
     }
@@ -61,4 +64,6 @@ export async function refreshBracket() {
   } else {
     console.log('[bracket] no bracket changes');
   }
+
+  return summary;
 }

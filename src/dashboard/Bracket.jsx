@@ -11,6 +11,8 @@ const BRACKET_CITY_NAMES = {
   'New York':              'newyork',
   'New York / New Jersey': 'newyork',
   'Philadelphia':          'philly',
+  'Atlanta':               'atlanta',
+  'Vancouver':             'vancouver',
 };
 
 const STATUS_CONFIG = {

@@ -8,6 +8,8 @@ const DATA = join(__dirname, '../../src/data');
 export async function refreshUpsets() {
   console.log('[upsets] cross-referencing with match scores…');
 
+  const summary = { vertical: 'upsets', applied: [], pending: [], flags: [] };
+
   const matchFile  = join(DATA, 'matches.json');
   const upsetFile  = join(DATA, 'upsets.json');
   const matches    = JSON.parse(readFileSync(matchFile, 'utf8')).matches;
@@ -34,12 +36,15 @@ export async function refreshUpsets() {
     if (draw) {
       upset.status = 'happened';
       upset.result = `${homeTeam} ${homeScore}–${awayScore} ${awayTeam} (draw — upset partially materialised)`;
+      summary.flags.push(`"${upset.title}" ended in a draw — marked as happened, but check the wording in upsets.json reads correctly.`);
     } else if (underdogWon) {
       upset.status = 'happened';
       upset.result = `${homeTeam} ${homeScore}–${awayScore} ${awayTeam}`;
+      summary.applied.push(`"${upset.title}" → HAPPENED (${upset.result})`);
     } else {
       upset.status = 'didnt-happen';
       upset.result = `${homeTeam} ${homeScore}–${awayScore} ${awayTeam}`;
+      summary.applied.push(`"${upset.title}" → didn't happen (${upset.result})`);
     }
     updated++;
   }
@@ -51,4 +56,6 @@ export async function refreshUpsets() {
   } else {
     console.log('[upsets] no finished matches to resolve');
   }
+
+  return summary;
 }

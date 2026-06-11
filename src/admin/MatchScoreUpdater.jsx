@@ -83,6 +83,8 @@ export default function MatchScoreUpdater({ token }) {
       if (filter === 'miami')    return m.miamiMatch;
       if (filter === 'newyork')  return m.nyMatch;
       if (filter === 'philly')   return m.phillyMatch;
+      if (filter === 'atlanta')  return m.atlantaMatch;
+      if (filter === 'vancouver') return m.vancouverMatch;
       if (filter === 'finished') return m.status === 'finished';
       return true;
     });
@@ -103,6 +105,8 @@ export default function MatchScoreUpdater({ token }) {
           { id: 'miami',    label: '🌴 Miami' },
           { id: 'newyork',  label: '🗽 NY' },
           { id: 'philly',   label: '🦅 Philly' },
+          { id: 'atlanta',  label: '🍑 Atlanta' },
+          { id: 'vancouver', label: '🍁 Vancouver' },
           { id: 'finished', label: 'Finished' },
           { id: 'all',      label: 'All' },
         ].map(f => (
@@ -138,6 +142,8 @@ export default function MatchScoreUpdater({ token }) {
                   {m.miamiMatch   && <span className="match-row__kc-tag"      style={{marginLeft:6}}>MIA</span>}
                   {m.nyMatch      && <span className="match-row__kc-tag"      style={{marginLeft:6}}>NYC</span>}
                   {m.phillyMatch  && <span className="match-row__kc-tag"      style={{marginLeft:6}}>PHI</span>}
+                  {m.atlantaMatch && <span className="match-row__kc-tag"     style={{marginLeft:6}}>ATL</span>}
+                  {m.vancouverMatch && <span className="match-row__kc-tag"   style={{marginLeft:6}}>VAN</span>}
                 </div>
               </div>
 

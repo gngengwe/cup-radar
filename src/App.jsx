@@ -19,6 +19,8 @@ function LegacyDashboardRedirect() {
   if (section === 'miami')      return <Navigate to="/miami/hq"      replace />;
   if (section === 'newyork')    return <Navigate to="/newyork/hq"    replace />;
   if (section === 'philly')     return <Navigate to="/philly/hq"     replace />;
+  if (section === 'atlanta')    return <Navigate to="/atlanta/hq"    replace />;
+  if (section === 'vancouver')  return <Navigate to="/vancouver/hq"  replace />;
   if (citylessRoutes.includes(section))
     return <Navigate to={`/seattle/${section}`} replace />;
   return <Navigate to="/seattle/hq" replace />;
@@ -48,6 +50,8 @@ export default function App() {
           <Route path="/miami"      element={<Navigate to="/miami/hq"      replace />} />
           <Route path="/newyork"    element={<Navigate to="/newyork/hq"    replace />} />
           <Route path="/philly"     element={<Navigate to="/philly/hq"     replace />} />
+          <Route path="/atlanta"    element={<Navigate to="/atlanta/hq"    replace />} />
+          <Route path="/vancouver"  element={<Navigate to="/vancouver/hq"  replace />} />
 
           {/* All city dashboards — /:city/:section gives useParams() both values */}
           <Route path="/:city/:section" element={<Dashboard />} />

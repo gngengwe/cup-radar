@@ -40,6 +40,8 @@ const NARRATIVE_KEYWORDS = {
 export async function refreshNarratives() {
   console.log('[narratives] checking for new chapters via news search…');
 
+  const summary = { vertical: 'narratives', applied: [], pending: [], flags: [] };
+
   const file    = join(DATA, 'narratives.json');
   const current = JSON.parse(readFileSync(file, 'utf8'));
 
@@ -84,9 +86,11 @@ export async function refreshNarratives() {
         narrative.chapterCount = narrative.chapters.length;
         existing.add(item.link);
         addedChapters++;
+        summary.pending.push(`"${item.title}" — chapter for "${narrative.title || narrative.id}" needs a body written — [source](${item.link})`);
       }
     } catch (err) {
       console.log(`[narratives] ${narrative.id} failed: ${err.message}`);
+      summary.flags.push(`${narrative.id}: search failed — ${err.message}`);
     }
   }
 
@@ -97,4 +101,6 @@ export async function refreshNarratives() {
   } else {
     console.log('[narratives] no new chapters found');
   }
+
+  return summary;
 }

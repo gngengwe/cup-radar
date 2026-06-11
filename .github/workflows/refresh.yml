@@ -15,6 +15,9 @@ on:
           - upsets
           - bracket
           - narratives
+  schedule:
+    # Every 3 hours — keeps live scores, upsets, and bracket fresh during the tournament.
+    - cron: '0 */3 * * *'
 
 jobs:
   refresh:
@@ -24,6 +27,7 @@ jobs:
     permissions:
       contents: write
       actions: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v4.2.2
@@ -33,9 +37,10 @@ jobs:
           node-version: '24'
 
       - name: Run refresh
+        id: refresh
         run: node scripts/refresh/index.js
         env:
-          VERTICAL: ${{ inputs.vertical }}
+          VERTICAL: ${{ inputs.vertical || 'all' }}
           FOOTBALL_API_KEY: ${{ secrets.VITE_FOOTBALL_API_KEY }}
 
       - name: Commit updated data
@@ -44,7 +49,7 @@ jobs:
           git config user.email "bot@cup-radar.pages.dev"
           git add src/data/
           git diff --staged --quiet && echo "No data changes" || \
-            git commit -m "data: auto-refresh ${{ inputs.vertical }} [bot]"
+            git commit -m "data: auto-refresh ${{ inputs.vertical || 'all' }} [bot]"
           git push
 
       - name: Trigger deploy
@@ -52,3 +57,13 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh workflow run deploy.yml --ref master
+
+      - name: Post ops digest
+        if: steps.refresh.outputs.has_digest == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Cup Radar Ops Digest — $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            --body-file ops-digest.md \
+            --label ops-digest

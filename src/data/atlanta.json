@@ -1,0 +1,249 @@
+{
+  "_note": "Atlanta HQ data — Mercedes-Benz Stadium, downtown Atlanta. 5 group stage matches + R32 + R16 + Semifinal.",
+  "lastUpdated": "2026-06-10T12:00:00-04:00",
+  "venue": {
+    "name": "Mercedes-Benz Stadium",
+    "address": "1 AMB Drive NW, Atlanta, GA 30313",
+    "capacity": 71000,
+    "notes": "Retractable roof — climate controlled regardless of Georgia summer heat. Clear bag policy enforced. Famous for fan-friendly concession pricing.",
+    "parkingNote": "Downtown decks (Home Depot Backyard, Red/Gold decks) from $40. Book via the official FIFA app. MARTA is strongly preferred on match days."
+  },
+  "transit": {
+    "recommended": "MARTA rail — GWCC/CNN Center station (Blue/Green lines) and Vine City station are both steps from the stadium",
+    "lines": [
+      "Blue & Green lines — GWCC/CNN Center and Vine City stations adjacent to the stadium",
+      "Red & Gold lines — transfer at Five Points, one stop away"
+    ],
+    "tips": [
+      "Buy a Breeze card before match day — station lines get long 2+ hours pre-kickoff.",
+      "Five Points transfer station is the crowd pinch point — route via Vine City if coming from the west.",
+      "Trains run extended hours on match nights; confirm last train time for late kickoffs.",
+      "Midtown and Decatur bars are a straight MARTA ride from the stadium — easy post-match exit."
+    ],
+    "parking": "Decks within 3 blocks run $40–$90 on match days. The Home Depot Backyard lot doubles as the tailgate zone — arrives full 3 hours early.",
+    "rideshare": "Designated pickup on Northside Drive, west of the stadium. Expect heavy surge post-match — MARTA beats rideshare on every Atlanta match day."
+  },
+  "fanZones": [
+    {
+      "id": "fifa-fan-festival-centennial",
+      "type": "Official Fan Zone",
+      "name": "FIFA Fan Festival — Centennial Olympic Park",
+      "location": "Centennial Olympic Park, Downtown Atlanta",
+      "dates": "June 13 – July 19",
+      "hours": "11am – Midnight on match days",
+      "free": true,
+      "notes": "Free entry, a 10-minute walk from the stadium. Giant screens, live music, food vendors — the legacy 1996 Olympics park becomes the South's biggest watch party."
+    },
+    {
+      "id": "home-depot-backyard",
+      "type": "Tailgate Zone",
+      "name": "The Home Depot Backyard",
+      "location": "Adjacent to Mercedes-Benz Stadium",
+      "dates": "Match days only",
+      "hours": "Opens 4 hours before kickoff",
+      "free": true,
+      "confirmed": false,
+      "notes": "Atlanta's signature tailgate lawn. Expect a World Cup twist on the Falcons/Atlanta United tailgate tradition. Capacity limits possible — arrive early."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Castleberry Hill",
+      "type": "Neighborhood",
+      "distance": "10–15 min walk to stadium",
+      "notes": "Atlanta's walkable pre-match district. Galleries, lofts, and bars along Walker St and Peters St fill with supporters' groups hours before kickoff.",
+      "area": "Castleberry Hill"
+    },
+    {
+      "name": "Marietta Street corridor",
+      "type": "Food & Drink",
+      "distance": "10 min walk via Centennial Park",
+      "notes": "Stadium-adjacent strip of breweries and sports bars between the park and the venue. The default meeting point for neutral fans.",
+      "area": "Downtown"
+    },
+    {
+      "name": "West Midtown breweries",
+      "type": "Neighborhood",
+      "distance": "10 min rideshare",
+      "notes": "Monday Night Garage and the Westside brewery scene host watch parties all tournament. Relaxed option before evening kickoffs.",
+      "area": "West Midtown"
+    }
+  ],
+  "cityEnergyForecast": [
+    {
+      "matchId": "wc26-atl-01",
+      "date": "2026-06-15",
+      "energyScore": 3,
+      "crowdNote": "Uzbekistan vs DR Congo — two World Cup debutants open Atlanta's tournament. Curiosity crowd plus Atlanta's Congolese community brings genuine color to a historic first."
+    },
+    {
+      "matchId": "wc26-atl-02",
+      "date": "2026-06-18",
+      "energyScore": 4,
+      "crowdNote": "Ghana vs Panama — Atlanta's large Ghanaian and West African communities will make this feel like a home match. Expect drums, kente, and the loudest 'neutral' crowd of the group stage."
+    },
+    {
+      "matchId": "wc26-atl-03",
+      "date": "2026-06-21",
+      "energyScore": 3,
+      "crowdNote": "Sweden vs Tunisia — Sunday afternoon under the roof. Solid traveling support from both sides; comfortable family matchday."
+    },
+    {
+      "matchId": "wc26-atl-04",
+      "date": "2026-06-24",
+      "energyScore": 4,
+      "crowdNote": "Spain vs Cape Verde — La Roja's arrival is Atlanta's first true heavyweight visit. Spanish fans travel well, and Cape Verdean diaspora from the East Coast will show up loud."
+    },
+    {
+      "matchId": "wc26-atl-05",
+      "date": "2026-06-27",
+      "energyScore": 5,
+      "crowdNote": "Spain vs Uruguay — Group H decider, Saturday night, likely winner takes the group. The biggest group-stage atmosphere Atlanta will see. Downtown will be electric from noon."
+    }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-atl-01",
+      "date": "2026-06-15",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Uzbekistan vs DR Congo — Monday afternoon, lightest crowd of Atlanta's slate. Best day to learn your MARTA route.",
+      "peakWindow": "1:30–6:00 PM ET",
+      "tips": [
+        "Ideal dry run if you're attending multiple Atlanta matches",
+        "GWCC/CNN Center station will be comfortable — no need to reroute",
+        "Downtown lunch traffic is the only real factor"
+      ]
+    },
+    {
+      "matchId": "wc26-atl-02",
+      "date": "2026-06-18",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Ghana vs Panama — Thursday evening kickoff collides with downtown commute traffic. MARTA strongly preferred.",
+      "peakWindow": "4:30–8:00 PM ET",
+      "tips": [
+        "Skip driving entirely — the connector at 6pm on a Thursday is its own sport",
+        "Vine City station is the calmer entry point",
+        "Post-match trains busy but moving — grab food in Castleberry Hill and let the rush clear"
+      ]
+    },
+    {
+      "matchId": "wc26-atl-03",
+      "date": "2026-06-21",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Sweden vs Tunisia — Sunday afternoon, light traffic, smooth MARTA service.",
+      "peakWindow": "1:30–6:00 PM ET",
+      "tips": [
+        "Easiest driving day if you must park — decks won't fill",
+        "Combine with the Centennial Park Fan Festival before kickoff",
+        "Post-match rideshare wait under 15 min expected"
+      ]
+    },
+    {
+      "matchId": "wc26-atl-04",
+      "date": "2026-06-24",
+      "score": 4,
+      "label": "High",
+      "color": "#fb923c",
+      "note": "Spain vs Cape Verde — Wednesday evening with a heavyweight in town. Commute + crowd stacking on all corridors.",
+      "peakWindow": "4:30–9:00 PM ET",
+      "tips": [
+        "Be inside the stadium perimeter by 5pm or budget serious buffer",
+        "Five Points transfer will be jammed — ride Blue/Green direct if possible",
+        "Book post-match plans in Castleberry Hill, not Midtown, to stay walkable"
+      ]
+    },
+    {
+      "matchId": "wc26-atl-05",
+      "date": "2026-06-27",
+      "score": 5,
+      "label": "Very High",
+      "color": "#f87171",
+      "note": "Spain vs Uruguay — Saturday night group decider. Maximum crowd, downtown events all day, every system at capacity.",
+      "peakWindow": "3:00–11:30 PM ET",
+      "tips": [
+        "Treat this like a Final — arrive 3+ hours early and make a full day of it",
+        "Fan Festival at Centennial Park will be at capacity by late afternoon",
+        "Pre-book any post-match transport; surge pricing will be extreme",
+        "Last MARTA trains will be packed — leave on the early side or settle in downtown"
+      ]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-atl-01",
+      "date": "2026-06-15",
+      "score": 62,
+      "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Uzbekistan vs DR Congo — two debutants writing history in Atlanta's opener. The cheapest World Cup ticket you may ever buy, and 'I was at their first match' ages well.",
+      "factors": {
+        "stage": 2,
+        "homeConvenience": 4,
+        "ticketValue": 5,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-atl-02",
+      "date": "2026-06-18",
+      "score": 76,
+      "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Ghana vs Panama — Atlanta's West African community makes this the best atmosphere-per-dollar match of the city's group stage. Group L is wide open behind England.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 3,
+        "ticketValue": 4,
+        "atmosphereExpected": 4
+      }
+    },
+    {
+      "matchId": "wc26-atl-03",
+      "date": "2026-06-21",
+      "score": 68,
+      "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Sweden vs Tunisia — solid Group F football on a relaxed Sunday afternoon under the roof. Good value, easy logistics, ideal first-time World Cup experience.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 4,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-atl-04",
+      "date": "2026-06-24",
+      "score": 84,
+      "label": "Strongly Go",
+      "color": "#00e676",
+      "summary": "Spain vs Cape Verde — one of the world's best teams in your building. Spain's midfield is worth the ticket alone, and Cape Verde's underdog story carries real charm.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 3,
+        "ticketValue": 3,
+        "atmosphereExpected": 4
+      }
+    },
+    {
+      "matchId": "wc26-atl-05",
+      "date": "2026-06-27",
+      "score": 92,
+      "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Spain vs Uruguay on a Saturday night with Group H on the line — this is Atlanta's marquee group-stage event. Two former champions' federations, full house, roof closed, sound trapped in. Pay up.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 3,
+        "ticketValue": 2,
+        "atmosphereExpected": 5
+      }
+    }
+  ]
+}

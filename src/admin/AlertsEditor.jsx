@@ -3,13 +3,15 @@ import { fetchFile, saveFile } from '../utils/github';
 
 const PHASES      = ['pre-tournament', 'live', 'post-tournament'];
 const PULSE_ACTIONS = ['move', 'watch', 'wait'];
-const CATEGORIES  = ['tournament', 'general', 'seattle', 'kansascity', 'miami', 'newyork', 'philly', 'tickets', 'teams', 'travel', 'culture'];
+const CATEGORIES  = ['tournament', 'general', 'seattle', 'kansascity', 'miami', 'newyork', 'philly', 'atlanta', 'vancouver', 'tickets', 'teams', 'travel', 'culture'];
 const CITIES      = [
   { id: 'seattle',    label: '🏟️ Seattle'       },
   { id: 'kansascity', label: '🏈 Kansas City'    },
   { id: 'miami',      label: '🌴 Miami'          },
   { id: 'newyork',    label: '🗽 New York'       },
   { id: 'philly',     label: '🦅 Philadelphia'   },
+  { id: 'atlanta',    label: '🍑 Atlanta'        },
+  { id: 'vancouver',  label: '🍁 Vancouver'      },
 ];
 
 export default function AlertsEditor({ token }) {

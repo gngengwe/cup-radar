@@ -18,12 +18,18 @@ function normaliseStatus(s) {
 export async function refreshScores() {
   console.log('[scores] fetching from football-data.org…');
 
-  if (!API_KEY) { console.log('[scores] No FOOTBALL_API_KEY — skipping'); return; }
+  const summary = { vertical: 'scores', applied: [], pending: [], flags: [] };
+
+  if (!API_KEY) {
+    console.log('[scores] No FOOTBALL_API_KEY — skipping');
+    summary.flags.push('FOOTBALL_API_KEY secret is not set — live scores are not syncing.');
+    return summary;
+  }
 
   const res  = await fetch(`${BASE}/competitions/${COMP}/matches?season=2026`,
     { headers: { 'X-Auth-Token': API_KEY } });
 
-  if (res.status === 429) { console.log('[scores] rate-limited, skipping'); return; }
+  if (res.status === 429) { console.log('[scores] rate-limited, skipping'); return summary; }
   if (!res.ok)            throw new Error(`API ${res.status}`);
 
   const { matches: apiMatches } = await res.json();
@@ -51,6 +57,8 @@ export async function refreshScores() {
       local.homeScore = newHome;
       local.awayScore = newAway;
       updated++;
+      const score = (newHome ?? newAway) !== null ? `${newHome}–${newAway}` : 'vs';
+      summary.applied.push(`${local.homeTeam} ${score} ${local.awayTeam} → ${newStatus}`);
     }
   }
 
@@ -61,4 +69,6 @@ export async function refreshScores() {
   } else {
     console.log('[scores] no score changes');
   }
+
+  return summary;
 }
