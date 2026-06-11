@@ -136,11 +136,38 @@ export default function RefreshPanel({ token }) {
         <p className="refresh-panel__checked">Status checked {timeAgo(lastCheck)}</p>
       )}
 
-      <div className="refresh-panel__note">
-        <strong>How it works:</strong> Each button triggers a GitHub Actions workflow that runs
-        on GitHub's servers — not in your browser. Scores pull from football-data.org.
-        News and narratives search Google News RSS and land as drafts for your review.
-        Upsets and bracket are computed automatically from match results.
+      <div className="refresh-panel__howto">
+        <h4 className="refresh-panel__howto-title">🤖 How the automated pipeline works</h4>
+        <ol className="refresh-panel__howto-list">
+          <li>
+            <strong>Runs every 3 hours automatically</strong> — GitHub Actions fetches live data
+            on its own servers, no button press needed. The buttons above just trigger a run early.
+          </li>
+          <li>
+            <strong>Auto-applied, no review needed</strong> — Scores sync from football-data.org,
+            Upsets resolve to "happened" / "didn't happen", and Bracket slots fill in from
+            finished matches. These commit and deploy straight away.
+          </li>
+          <li>
+            <strong>Lands as drafts for you to review</strong> — New News articles and Narrative
+            chapters are added with <code>draft: true</code>. Publish or discard them in the
+            News and Narratives tabs.
+          </li>
+          <li>
+            <strong>You get notified when it matters</strong> — If a run produces changes,
+            drafts, or a "close call" (like an upset that ended in a draw), the bot opens a
+            GitHub issue labeled <code>ops-digest</code> summarizing exactly what happened and
+            what — if anything — needs your attention. Runs with nothing to report stay silent.
+          </li>
+        </ol>
+        <a
+          href="https://github.com/gngengwe/cup-radar/issues?q=is%3Aissue+label%3Aops-digest"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="refresh-panel__howto-link"
+        >
+          View Ops Digest issues ↗
+        </a>
       </div>
     </div>
   );
