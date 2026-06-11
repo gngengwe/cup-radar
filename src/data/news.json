@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-11T02:51:31.900Z",
+  "lastUpdated": "2026-06-11T02:51:42.168Z",
   "articles": [
     {
       "id": "news-auto-world-cup-predictions-champions-golden-b-2026-06-10",
@@ -35,7 +35,8 @@
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkFkZm1uaDZQM2V4QzlNQ3ZXTjlxeWlDUGhmWmFrMFNmcUtRR2d6cHpkQUIzYXRYcjg5UUlER2VrUjRuRlg3elZCYW55N2h6YjhTcVV6WkRMR1VoM09Za3Zqc25kMjNJcWYyZm0ybW1UMF9KdDZlaWxDMUxsamhoQTFMWTJ4cFp3WUM3dU1RWllFQkJtQUZQdF9oSGc0OXM?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-11T02:51:42.168Z"
     },
     {
       "id": "news-auto-world-cup-tickets-hit-eye-popping-highs--2026-06-10",
