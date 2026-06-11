@@ -116,6 +116,24 @@ Keep this file updated. Never commit actual secrets — use the references below
 - **Usage:** One-time login at `wc.ngengwe.com/admin`
 - **Never commit this token**
 
+### Automated Refresh & Ops Digest
+- **Purpose:** Keeps scores, upsets, bracket, news, and narrative drafts in sync without manual button presses
+- **Workflow:** `.github/workflows/refresh.yml`
+- **Schedule:** Every 3 hours (`cron: '0 */3 * * *'`), plus manual trigger from Admin → Web Refresh
+- **What runs automatically:**
+  - **Scores** — synced from football-data.org, committed directly (no review needed)
+  - **Upsets** — auto-resolved to "happened"/"didn't happen" based on finished matches
+  - **Bracket** — knockout slots filled in and scored from match results
+  - **News** & **Narratives** — new items added as `draft: true`, require manual review in Admin
+- **Ops Digest:** If a run produces changes, drafts, or flags, the bot opens a GitHub issue
+  labeled `ops-digest` titled "Cup Radar Ops Digest — <date>". GitHub emails this to the repo
+  owner automatically (no extra secrets needed). The issue lists:
+  - ✅ Auto-applied changes (no action needed)
+  - 📝 New drafts pending review (checklist — review in Admin Panel)
+  - ⚠️ Close calls worth a manual look (e.g., upsets resolved as a draw)
+  - ❌ Errors (e.g., missing API key)
+  - Runs that produce nothing notable post **no** issue (keeps the inbox quiet)
+
 ---
 
 ## 🌍 Domain

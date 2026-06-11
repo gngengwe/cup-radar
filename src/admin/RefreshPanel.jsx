@@ -78,9 +78,11 @@ export default function RefreshPanel({ token }) {
         <div>
           <h3 className="refresh-panel__title">Web Refresh</h3>
           <p className="refresh-panel__sub">
-            Triggers a GitHub Actions job that fetches live data, commits updated JSON,
-            and redeploys the site (~60–90s end-to-end).
+            Runs automatically every 3 hours, or trigger a run now — fetches live data,
+            commits updated JSON, and redeploys the site (~60–90s end-to-end).
             News &amp; narrative items land as <strong>drafts</strong> — review in their tabs before publishing.
+            If a run produces changes, drafts, or flags, you'll get a GitHub issue
+            (<code>ops-digest</code> label) summarizing what happened and what needs your attention.
           </p>
         </div>
         <button
