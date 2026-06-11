@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-11T02:51:27.268Z",
+  "lastUpdated": "2026-06-11T02:51:31.900Z",
   "articles": [
     {
       "id": "news-auto-world-cup-predictions-champions-golden-b-2026-06-10",
@@ -23,7 +23,8 @@
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkJmQmJ4OUIzaC0ydXFIRkNtUFFRWmlIWFNHZl9ZQ28yclRHeEQzSXV5ODBQNG45TFNWVmVKeWpMcjE0cm5uR3Brb2ZRb0Fwa2tXVXZadmxXWHY3aXhMMWxSNjBqTjhKZ29hTy1FRW1GQ2dXWjdOV1o1dnVEX05rVEVkR1k5bGJMRnNmUEtRZVJxVFotcE94anpwSVQ0VDZabzVkSWVXVHJuLUdrS1pqaTVqNm_SAboBQVVfeXFMT3hsOHdrUkFqZmowT3B4bzFnbmFHUEFiVmxQTmFwblpmY2p6TEpnVmo1TF8tRlAzX2RxUzV3UDZ5YVZ2OTBieENONy1seTFQSTVFRXUxeHhRQXRDbnh1R3BtQzZVcTFpOEFyUktmRDNXSVR6cVRrSXNSYXVWcmlPMlI3Ty1vQ3QyQlZUYzVRNDFDTU56S3hQcU9mV1ZwR2E1eE0ybDZmWUM5N1NZY3g1SUlHMnRYbFd6cTVB?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-11T02:51:31.900Z"
     },
     {
       "id": "news-auto-haiti-forced-to-change-world-cup-jerseys-2026-06-10",
