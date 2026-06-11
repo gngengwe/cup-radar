@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-08T01:16:08.188Z",
+  "lastUpdated": "2026-06-11T02:42:38.682Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 11,
+      "chapterCount": 16,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -106,6 +106,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamh0bEFDYXl1VTZybFhFOFRKeXBlcUQ0WXZ6TmJERWJIQmxLdFVlZUtMSE5UNGVNYlJwUzlVc3EzMHMzc3pfVGlPMjF5dkl0bXA5NGp3c3hNaUFMT2pvV091U0NtNUpib0xseW1sWXA4Z3FQRElHMUpXeXYycWc2N0RqcndjQVJqaUdRTUJJRWFjTTdvR2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781145756859",
+          "date": "2026-06-10",
+          "title": "World Cup 2026 news: Messi returns to Argentina action; UN urges US immigration ‘re-think’ – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSEZCdHBPLWxnM1Y2aU5JOHFoSlYwbTU2cS1wNzFPYVJEUGh4VW5OemwwNDBMeVIySUZHZlhCUERYeVVoN3RFLUpPeVQwcHVKT1g3d2tMNzJiTUZ3bTRJbFZFZ3VTUzdRLUtSTHF4T1h5eU5JSzZvVV8yRDYwMzQ2Z1VCdENmbGl2cDkyNGtyczR2ZUZJTFBROW9yeUVKTGx5ZHF2azlMcW02Qkx3RnhWbkNUVWsyc2RtUTU5b1ZteE95NXA0Sl9EdWZDQU9SOXV0Tl9WM3A4Q1hyUnFUTERvRTFuSFpNZVJZN0VCanhCTHc0TnJ3TUFsU3R0UkFVZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781145756860",
+          "date": "2026-06-10",
+          "title": "Messi comes off the bench to score in Argentina’s final World Cup warm-up - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX01hLURhUDNNR2Y4MHE2bnNfc3EyQ29NajNlUzJKblVTMHJWMlFTdHRuRDNXWExPRi1DbUVFNkFGX2tyS1o2RkNzM0lqa21kRVRZbU9JTHdMWTRPY2o5aTVWcVQ3UXkxdnU5bExGOE44Y25JZFdPaERKNnRBVnFBRThtcXBEbFJlREhjX1FpZmRYUmVUakxtbnJNQ2x3ak1hZ082VkpCaGZEY1pNVjUzakFHb0JWQdIBuwFBVV95cUxORkRVX2tZY2hBd195Q3VjeFpDRS1LaEQ0and1QlhoNFBac1hYcDl5YUlMdTlPOVA2bHJGSUlDS0xnNkJiZTZyM2UxbmJ4cjM3Tk5kaXU3NTlMNGZjNGktVlBydjJ1Q1R3MWgwVEdZbnlhR19UUEZZUi1rLXZ6aFJQSmdwSWdBWVhxT0FqMTZlWVFKeUlnTGFFMThZSEJmN0g1U0RpZGZZWVFwcGpuUHRUSVQ5TGZSWThZN2Nv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781145756860",
+          "date": "2026-06-10",
+          "title": "Fresh Controversy Hits FIFA World Cup 2026, Lionel Messi And Argentina's Passport Data Leaked - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2dZd0I4XzJzMFFGRUVIcGR5U0J3dUlna2M0ME82bjgyM1d5bW9PWFFTNFM3a0xFenV0LWM2T1BINmtjLW1xYUJ5QVpSYWN4QUE0WmdmNGVZQkktd0RMdEJfeUpwa0RhdWNreGhEQnVwNHhfWEpQNlhaLWVLLVczcmhueVdYM09DMWdIMzVOdkNkajZ5Q2lNekRpZ01kc2htTzRWRXo2bTBYSFkxUzhuUFVoVkZhRF9JSzlOd1FsSFVJV1VKYUJzNkVtUU14S05jR0k1WmlKa2pWOHJGU3ZaZUlVNWpERFIxS3dNX3VDOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781145756860",
+          "date": "2026-06-10",
+          "title": "Argentina World Cup 2026 preview: Players to watch, group matches and squad - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2p1UGdPQm53ZG1SVk5nNXpiVEl1WVo5UFdBZGx5TWdsZjJ1OG5DRFZqZmx6SDNLOUd4b1J3THRuMnRxSEFMajh0TEVSanI1NlZXaFZQY2VvTmR2Tm8yWGtuSE92aWFfOFdsbHg0MHZGYzF3X0FxTXVaZG9mbXljQlVQY0doMlBFcFI5X3h2XzNJakhyWVd1MzlLUmFHaGtfVWctUGl2bGYwMDJVd0xNWmN30gG3AUFVX3lxTE5vRHh4NS1HVmNkT3VaQUc3QjVMdGdSeHlnT1BDenpnblFfT1ZVYldrYVl4Z0Y1VDhQOFZxaGRmS01INkxna09VNWFQYzNFLVhnRzI0OFF3NXRJcGxZanVSOVo3dFNWOHZOX1MxWGVFZXhHQ2V3UmxWcDFORENhdFRPQnA2ckRkMnhvZjNwNHhOZnp6eno2SmJtYXRzRHFaa2pVdG5sdm5rbW9TZVRqak5aWFpRY3pHdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781145756860",
+          "date": "2026-06-08",
+          "title": "Argentina World Cup 2026 team guide - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcllNNWNPbENkWF9sNURkbU9uV1EwTWtEeUdPQVpMU1o1aWZMRTFhaGZNbVVsM3dOTFlfR0JxTnBxM0pIWEo5QXI4WFpDdThpZzVTRFpSOG52dUNoTlhEMVdTd0xzVFlWdVd2RVRoSUhrdFpVbTdtQ3ZrMk43ZnF6MUxkd0c4c2RRbnJYUg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -124,7 +164,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 10,
+      "chapterCount": 14,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -205,6 +245,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFg2angzeGtVUE1hUDRsNWpFQ3NyckFPb1V5X21IMEFXS254bUtiTk1DMWpCbmhISnlzMUY0aE9tTHY1OFFjMWJONDBocUdOM2ZVSmlCSGpPWXdNQWxfN2U2Z3dFQTJJZldwdnBOVDNISHJwRkYzVFNibnlud01WTXI1dFJhM2M?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781145757278",
+          "date": "2026-06-09",
+          "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’ - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTlGTFk2czlFSngtdzNfWTVqelVFQTBuVGRwVjF5YmU4Q1NJSGVLNGh3ZDFnX3BQc0ZPcmVXYXdreklCQVdNWVpOMFJtb3dxcGxtUWxfaXF4ZXd0QlFFcUtZVkpnRl9ZUFZpRlUycWtvVkFuSVFlbVZVeW4zaHI3QVR0c2c0amdJdURDR240eXNWeGNLWGRMZDhrNjA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781145757278",
+          "date": "2026-06-10",
+          "title": "World Cup 2026: France, Spain, Argentina... Who are the favourites? - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSElMSklMSkdRM1dhd250WFRCT0lqaExPREhKQmN3Nk9URTlMMW93UFdpVnZhR25lZGthUmZRTmV4YlZtNGdhNlZNb0J3cS1nTkZIN0tCb1poOUJxdmgxSERBOHd0VVdfSWMxSXhlQ0QwN3BhSFlJelJlRkJ2c2t2VHUtaW55QXVzMURWZ0hxbnVVSTNUSUM5dXNWeG1tS2J2dHExOGVxajROSm9QbFhnUlBWS1Rwb3FSb2lj?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781145757278",
+          "date": "2026-06-09",
+          "title": "Kylian Mbappe no longer stands alone after Michael Olise matches his France goalscoring record just before ... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1ZRUFVKeWNFNWl6bnRpazduTnMzNjRXWHVTclFsXzVzSUZidjlVSDJSNXZKV0ZXc3RCQVhjM1VxSDJ1M0xvekFuODhmdWtwYk11YllMMkxwQUg0TzJEMmhYdWVmVUlPUWo1TnJ5OTlyYUtLYnd0eTNsWko2YVAzSjFiNEpNSXIzWHAzS0VxWFZPZzBUMm5YcjVLdmpEMUlPdTMwal9Vd05aa01ZNllSMlBsb1RDRXlPRW9JZVFHOG44OG5jT2NGdV9rck9lTU5vcHJ5d3NzbUhHeWZaLWxEOGxUY01pOXZpSVJr0gHvAUFVX3lxTE5SV1BoanhISmhVSm9FSFR6amExZkxISDJHb1ZOTjFjcW00WTFEOWUxMnY2M3VuLXVYdUpPSnVIbXMwQ2tMOHhId0xXcnFqeW1La0Zjc3BGQXZjUFJxQmotNndMQ1d6YzhQT1U4MVZDQzFpYlU5SGtabFFhaWVzSFhLSjE1TzdmUHlkY1E0Z1lyLWE2Mzh6WUEydldoWVNqNExZVTlRVzN1clJJbDlOU0FGNXZVVUFrOTcyMFA1MW9SZ1Z2LWJkOHo2dFYxXzVrREMwRS1hTG51VkFvaE45TXBGVVRxU2otT3NQVThBaUNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781145757278",
+          "date": "2026-06-08",
+          "title": "France Football Team 2026 World Cup Preview: Can Mbappe And Dembele Secure Their Second Title? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTdUa2dXUks1VWNvaDFmSXZQaHZYVXEzMkw4c0J4SHRBY2xmOU5lb0xtMzg3R3lLZXlJcmpwQWRpRzFnRmJQSXRoeC0wRTJFd0V4cWJwSzNaVV81RGxURHRiRXA2WnlWcnlDS2NHMHozT2QySTlDQ2VQb25xWEN1TWY3c25xanc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -223,7 +295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 11,
+      "chapterCount": 16,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -312,6 +384,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtYmM3aUxVZW9nemdhREo0TS1tRG1PbWM3SVdERGw1YkNiMEFzQnZOQjR3eGRfamV4SzQ1bENHbU1nZC1CcGtZVDJPV1g2WjNKUG1RT21HOEtlTnVOWVBTQmFWUUR4blBpd0cySG1WMmxuLXBxaXc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781145757716",
+          "date": "2026-06-10",
+          "title": "World Cup 2026 live updates: Trump won't attend USMNT opener and more news - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEl3RGNTZmxEY3lCVFZfQ3UtZzJUYVQxcmZPX2x2OUN3V3pGRzk4bmFsZi14MjVOMm50RF9YNl9YMzdUSnVfajR3ZmxyNjlDcXhOaTI3STBYdnd2ak9ZUURTZWJ2UkJibnBxaFFWNEVYdTNGbGxOdS1EU201WWR0N0FPVXFkV0thcU9OS0lyM1A1VnNkMDBlLXBaRGQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781145757716",
+          "date": "2026-06-10",
+          "title": "2026 World Cup: Predictions, rankings, team-by-team schedules, rosters and everything else you need to know before kickoff - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRTF0dURGa2Zaejh6TEdjWUtnQlpEcnBmOFVkRzlxY2oyLTNOY3N3QVJJYjQzYUtGWVE3SldwejZ1Q1Fwb0FqQTBEckQwcHFYVGlwNVRtUTZCcm5WTzBTUS0wS2laM2hfU0ZiYWs5Tm1IUzBVSWZKT2kxVkpBYzBTZzlWOTVEeEpUbnJ0eGJxR3dMb1Fndy1YWmo4d291OHRsal9MbThDNkoxYzR0aW9Ud3BrZDZrX1pHSExITnl3cTYzUXJyanFDTXQ3QWdHbjUwTVc5WFNpVkZOUXo0TjZpR1daY1BNXzkxRGxMLTJKdTlLWWJ3YW9Db3VQYXhJWkt6Mnlv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781145757716",
+          "date": "2026-06-10",
+          "title": "2026 World Cup group-by-group predictions: Complete expert picks - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWNka1Q0bnVnNVo5ODJnMm5COFl3Q3k2SlhLTjItQnJfMkFqbHVIN3gwS2p3TWllc3FMZ2w3Z2lVN08wclRObHRzX1NwN1BOM2V2RFdlRWtPcmZKQmpNVTVycUp0c00zaGd1Z1N1NURQOUdYdWpKTnpVemdtMERtNkRTTVBDbG1Dend5T0ZZRDRlOGVQYi1CemthcnI4MUlXQmZsVWcyOFA4d3hyMDJZbk4tcHBqQmZnaG8zNTF3VVpCdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781145757716",
+          "date": "2026-06-08",
+          "title": "With just days left, the U.S. opening match at the World Cup is still not sold out - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUlU2aXFtd01uel9hVHpLeUNTRWNYelRub3hVam1hOHBIQTRZOUVZT1VUWExUVFhIdE5VWEFOV3BTbjNtdXUzZ3hBVDhPUGNCWGY0NzU0YzhGb3NOY0U3WlRYUWN5UjF4UXl3NXpfRHoxQzM2bFREZ3ZlN0pCdEk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781145757716",
+          "date": "2026-06-11",
+          "title": "United States has already lost World Cup with its greed and hostility | Opinion - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmNNa2hpejRXMmRWcnVnUmZubDgyWS0xZ0pNRFNPbU1KdE9sdDFiQzRWTF9PVUZLbkZzbm1nV1JYXzRwYy1JQkdySmZ4THd0WVVVVHZKNml4QlFmWlpWY1ZMb3RvMXJyRlF6NUk2d0JRTS1ycDBaY1l0MERBSU1ZZEpMLXZfYkplSTBFTjFhaEVpOEhfazlZWXFkWUtoSk9hYVNaNkthbmxsTmxWQ2NycGhfSGMtTWZKZGJZdUxuTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -330,7 +442,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 11,
+      "chapterCount": 16,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -419,6 +531,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXBXclhUMjhwY185MEo3TmFUcDVrNHlVU3NsVU4zVkt0aFFmcElXRF9iNURUOXBQdFp1VTQwZXBZb1dXU0RsU09tS3U0ZFVtNmtwdmtBVktwQy16S1dSY2NMemRpXzdfWHM0Z0xvT1VaLVFKM2ctazNwdWtYZDRDbFpQSXB6NGc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781145758188",
+          "date": "2026-06-10",
+          "title": "World Cup 2026 Group C preview: Prediction, odds, full team overviews - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHU1Rjd6TkxRVGxOVG9HUmVySDFxd1l6NjN4aWttN2YzMFJla2p6OWdaM01BYV8xandDVUlPY2oxY1RSX2VCMVI1anRmbTktZDVqaVFNWWt4SC05dnI0SW02YXR2bTF1RGdDbHNmaG8yeXIzX1R6dXlweWI4VXBaUVIyN204YWRfNlktaFFEN1pGSjZrMmI1M0FuM0gzbFl1X2FOa2NGWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781145758188",
+          "date": "2026-06-11",
+          "title": "2026 World Cup predictions, expert picks: Brazil, France and Spain divide opinion on who will win it all - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmlHLUpxekFlU0hiZ0ZxcTktTGluQ1lYdEtFY24wWm9JbDJ5THRiQVNyZURxc3gydmNnRkNqLWdqb3UwMWFCd0J0WE5DZzAzNDZoVjRJeks2UXA1NnNrSFR6eC1qemRfZnQwUnJEWE9wUWtqZkpfTHZ4dEdrWkVseDNnTnl6X1hHdlh4SXUxUEZaa2RObXNacV9ZSU0xaHM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781145758188",
+          "date": "2026-06-10",
+          "title": "Brazil 0-1 USA (Jun 9, 2026) Game Analysis - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ndk5xY055T3dvd0ktaE1UdHg0TF9fWUg4TGpaUFB2Y3Njd29tQ0d1em82ME9BbDdVVGE3U1Q2dkRyOHQyR25PVng0Z2l5U3BtbTFXcWNPamhRUVJ4QjFDVGllNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781145758188",
+          "date": "2026-06-10",
+          "title": "Brazil Couldn’t Kill Its Idol, So It Brought Him Along To The World Cup - Defector",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTByS2xRZVVsbjRveXdUV0VwZmFTUXBfMkVJSWFwcmRST0NaM09tTE5UV3Zsd1pja1hoNV8yaGN4WHlzNlUzY0M1a1VzN0wwUHRyUzA4R255MTBROGo3RVdKYTREdlQtQ09JV0hUWlZWZ2tYSEUwM3pTOGhqc084Y3YyOGxUOVpBX3ZrYkstVnJZc1hn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781145758188",
+          "date": "2026-06-10",
+          "title": "Neymar still absent from Brazil training as squad celebrate Ancelotti's birthday - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2xBaFBjVWpwbjJHTTI4MUVzSTFYYTByRXRJRjhUamZMbndOZF9VQi02NEl3VW1oX3FzQVB4Sk5NYVV4azdid2lYY0Q3LU1pRkRVVkZvOFFSOWFTZ2FkTjhwSjBJbTF3WXZ3VDV3UllmMDBTaVBZangtaEVJczJFbGcyMmwtZjlpMnc4VHZfYl9TdVlwLURXRWRHYU1weVh2N3JlT0Z4REYwVTV1dVB0TXRpYWNQZ2JWWXdiZXZB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -493,7 +645,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 10,
+      "chapterCount": 15,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -573,6 +725,46 @@
           "title": "Nine injured in shooting near England’s World Cup base in Kansas City - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFhEbzRucnNDNC1IMFZEa29VekRFY296bVF5bXQwdl93dzAyemNzdDFfWi1sdDR5MlJULTFjOXZzRnhtbmU4MVVOeFZGaDN2WHFOTjBCSXIzOVhJWm4yTnB4RmJjOGxFYXY2QU5jbEpvcHdSTUplSEZPR0w3aktudU5OcUtVbXdhaEQzbHhaUzc1clMxOGstTGdtV08?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781145758682",
+          "date": "2026-06-10",
+          "title": "England 3-0 Costa Rica: World Cup 2026 warm-up – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNllPTG1UeUxWNUtGX25ZQlVweEhJZmR3Z3ItVWxoZjJobmthcUhuTEU1bGh4aVdiVy1od1NkbmM5UFJPLVVfbXhGekh0R0x1UkJPT2dHd0RyYUJBYUFUMDVSQW9PVjdldE9rQWtKNHlaYkdjTmtXZGZaR0JtUFZNRDNMOFlRQ285MWhTUUZxSXpHMmVyZ0V0UzYwUXFGSjZlZ3VwWA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781145758682",
+          "date": "2026-06-10",
+          "title": "England v Costa Rica kick-off delayed with lightning and rain causing havoc at World Cup 2026 warm-up - the-independent.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUhxRTRIbGQ5bmcwdFVicUg4TUhrVnphWG1lMGNEYTQ1SEw3Z0FDXzVoWnVlbm9nT25tYzRldzNYYkJ3QzlFcGZGYlNWdjZNektMWUtBRjlPS0pLZTR0bzdoWGlrbnZRTXp3WG1xeW9SU3djRUg4OUJXYk9NVkNoLW5MUGdnZ2xYdllnZ210V1k2QTIxLWRWWDhUM2ZCZGhhYTJqTDc2NVBYdW1rSjZwODJUNDM0RlRvMDhkRUJfZWM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781145758682",
+          "date": "2026-06-11",
+          "title": "World Cup 2026: Who will Thomas Tuchel pick in England team against Croatia? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTUR0LTlEMGpXVk44QVlVdTRrTjJmNV9BUXJXY19sZk1RRURhT2Q3OE5VUnl4enFnLW1zOEpPdXdESWV0WHhBaGVib1M4UjZ4UVNNRFdTWkVPOExaUWlnYk43S0QwWjA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781145758682",
+          "date": "2026-06-10",
+          "title": "England's Ollie Watkins scores header, extending lead over Costa Rica - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Wakw5OVlrdXJ6SlBzTEV1V0c3Zkd3Sk9Mc2RSTjREcWJfM0J4TVhuMFRzOGNXVW1HTm1IRElKLWRiTjR5czVFOUdOd2tsazRwX1FvdVM5UkE3RG12N2dCXy13?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781145758682",
+          "date": "2026-06-11",
+          "title": "England beat Costa Rica in final World Cup 2026 warm-up as Gordon impresses: Live updates and reaction - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVW43TXFPVTB3eThSSENaNzhkeE9JcjJGcG9WdVktNG9wRDJoMHZBNjlxYlU5Y2RTQ2tCaktiMzFJU2JYWVQyNTZoY2xGRG9UeER4SmhiN2g4eFdMaTlhQ2pTZnJsNV9yc2Z6ZEY4ZmRRRUxQanBkYzg4SmNURXNHbEc3SXJiTTItTnNrNS1Sb2lBLWxhOHpwYUpVQnZhOWFkYmFoTnFJQUVCMTctZlVNV2NISDctWUhrempKeHRRM0VHOXJwTlkxeg?oc=5",
           "draft": true
         }
       ]
