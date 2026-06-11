@@ -13,7 +13,7 @@ function LegacyDashboardRedirect() {
   const { section } = useParams();
   const citylessRoutes = ['matches', 'groups', 'bracket', 'tickets',
                           'news', 'culture', 'watch', 'narratives', 'upsets',
-                          'cityjump', 'teamiq'];
+                          'cityjump', 'teamiq', 'allteams', 'allgames'];
   if (section === 'seattle')    return <Navigate to="/seattle/hq"    replace />;
   if (section === 'kansascity') return <Navigate to="/kansascity/hq" replace />;
   if (section === 'miami')      return <Navigate to="/miami/hq"      replace />;

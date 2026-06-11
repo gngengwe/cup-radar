@@ -30,6 +30,8 @@ const CultureTracker     = lazy(() => import('../dashboard/CultureTracker'));
 const NarrativeTracker   = lazy(() => import('../dashboard/NarrativeTracker'));
 const UpsetRadar         = lazy(() => import('../dashboard/UpsetRadar'));
 const TeamIQ             = lazy(() => import('../dashboard/TeamIQ'));
+const AllTeams           = lazy(() => import('../dashboard/AllTeams'));
+const AllGames           = lazy(() => import('../dashboard/AllGames'));
 
 const CITY_CONFIG = {
   seattle: {
@@ -102,8 +104,10 @@ function buildNav(city) {
   const cfg = CITY_CONFIG[city];
   return [
     { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: `${cfg.matchCount} matches` },
+    { id: 'allteams',   label: 'All 48 Teams',      icon: '🌍',       desc: 'Squads & status'      },
+    { id: 'allgames',   label: 'All Games',         icon: '📅',       desc: 'Search every match'   },
     { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
-    { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'All fixtures'         },
+    { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'City view'            },
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
     { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
     { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
@@ -121,6 +125,8 @@ function getSectionComponent(city, section) {
   const cfg = CITY_CONFIG[city];
   const map = {
     hq:         cfg.hqSection,
+    allteams:   AllTeams,
+    allgames:   AllGames,
     matches:    Matches,
     groups:     Groups,
     bracket:    Bracket,

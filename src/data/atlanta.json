@@ -74,42 +74,42 @@
       "matchId": "wc26-atl-01",
       "date": "2026-06-15",
       "energyScore": 3,
-      "crowdNote": "Uzbekistan vs DR Congo — two World Cup debutants open Atlanta's tournament. Curiosity crowd plus Atlanta's Congolese community brings genuine color to a historic first."
+      "crowdNote": "Spain vs Cape Verde — Atlanta's first heavyweight group-stage date. Spain supporters travel, and even a Monday lunchtime kickoff should pull a big neutral crowd."
     },
     {
       "matchId": "wc26-atl-02",
       "date": "2026-06-18",
       "energyScore": 4,
-      "crowdNote": "Ghana vs Panama — Atlanta's large Ghanaian and West African communities will make this feel like a home match. Expect drums, kente, and the loudest 'neutral' crowd of the group stage."
+      "crowdNote": "Czechia vs South Africa — less star power, but two traveling fan bases and a weekday downtown slot should still give Atlanta a lively crowd."
     },
     {
       "matchId": "wc26-atl-03",
       "date": "2026-06-21",
       "energyScore": 3,
-      "crowdNote": "Sweden vs Tunisia — Sunday afternoon under the roof. Solid traveling support from both sides; comfortable family matchday."
+      "crowdNote": "Spain vs Saudi Arabia — Sunday noon with Spain back under the roof. Strong family turnout, plenty of neutrals, and a more polished football crowd."
     },
     {
       "matchId": "wc26-atl-04",
       "date": "2026-06-24",
       "energyScore": 4,
-      "crowdNote": "Spain vs Cape Verde — La Roja's arrival is Atlanta's first true heavyweight visit. Spanish fans travel well, and Cape Verdean diaspora from the East Coast will show up loud."
+      "crowdNote": "Morocco vs Haiti — evening kickoff with real upset energy. Morocco's recent World Cup pedigree plus Haiti's underdog support should create real noise."
     },
     {
       "matchId": "wc26-atl-05",
       "date": "2026-06-27",
-      "energyScore": 5,
-      "crowdNote": "Spain vs Uruguay — Group H decider, Saturday night, likely winner takes the group. The biggest group-stage atmosphere Atlanta will see. Downtown will be electric from noon."
+      "energyScore": 3,
+      "crowdNote": "DR Congo vs Uzbekistan — Group K closer on a Saturday night. Not the glamour ticket, but diaspora turnout and qualification stakes should lift the atmosphere."
     }
   ],
   "transitPain": [
     {
       "matchId": "wc26-atl-01",
       "date": "2026-06-15",
-      "score": 2,
-      "label": "Low",
-      "color": "var(--accent)",
-      "note": "Uzbekistan vs DR Congo — Monday afternoon, lightest crowd of Atlanta's slate. Best day to learn your MARTA route.",
-      "peakWindow": "1:30–6:00 PM ET",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Spain vs Cape Verde — Monday noon kickoff hits lunch-hour and early-afternoon downtown traffic. Use MARTA and arrive early.",
+      "peakWindow": "10:30 AM–3:30 PM ET",
       "tips": [
         "Ideal dry run if you're attending multiple Atlanta matches",
         "GWCC/CNN Center station will be comfortable — no need to reroute",
@@ -122,12 +122,12 @@
       "score": 3,
       "label": "Moderate",
       "color": "#facc15",
-      "note": "Ghana vs Panama — Thursday evening kickoff collides with downtown commute traffic. MARTA strongly preferred.",
-      "peakWindow": "4:30–8:00 PM ET",
+      "note": "Czechia vs South Africa — Thursday noon is easier than a night game, but downtown work traffic still complicates driving.",
+      "peakWindow": "10:30 AM–3:30 PM ET",
       "tips": [
-        "Skip driving entirely — the connector at 6pm on a Thursday is its own sport",
+        "MARTA still beats driving into a weekday downtown lunch window",
         "Vine City station is the calmer entry point",
-        "Post-match trains busy but moving — grab food in Castleberry Hill and let the rush clear"
+        "Post-match trains should clear faster than Atlanta's night matches"
       ]
     },
     {
@@ -136,8 +136,8 @@
       "score": 2,
       "label": "Low",
       "color": "var(--accent)",
-      "note": "Sweden vs Tunisia — Sunday afternoon, light traffic, smooth MARTA service.",
-      "peakWindow": "1:30–6:00 PM ET",
+      "note": "Spain vs Saudi Arabia — Sunday noon is manageable, but Spain's draw raises the walk-up crowd.",
+      "peakWindow": "10:30 AM–4:00 PM ET",
       "tips": [
         "Easiest driving day if you must park — decks won't fill",
         "Combine with the Centennial Park Fan Festival before kickoff",
@@ -150,7 +150,7 @@
       "score": 4,
       "label": "High",
       "color": "#fb923c",
-      "note": "Spain vs Cape Verde — Wednesday evening with a heavyweight in town. Commute + crowd stacking on all corridors.",
+      "note": "Morocco vs Haiti — Wednesday evening kickoff overlaps with commute and downtown event traffic.",
       "peakWindow": "4:30–9:00 PM ET",
       "tips": [
         "Be inside the stadium perimeter by 5pm or budget serious buffer",
@@ -161,13 +161,13 @@
     {
       "matchId": "wc26-atl-05",
       "date": "2026-06-27",
-      "score": 5,
-      "label": "Very High",
-      "color": "#f87171",
-      "note": "Spain vs Uruguay — Saturday night group decider. Maximum crowd, downtown events all day, every system at capacity.",
-      "peakWindow": "3:00–11:30 PM ET",
+      "score": 4,
+      "label": "High",
+      "color": "#fb923c",
+      "note": "DR Congo vs Uzbekistan — Saturday night closer with qualification stakes. Downtown will be busy, but less all-consuming than a blue-blood showdown.",
+      "peakWindow": "4:30–11:00 PM ET",
       "tips": [
-        "Treat this like a Final — arrive 3+ hours early and make a full day of it",
+        "Arrive 2+ hours early and make a full evening of it",
         "Fan Festival at Centennial Park will be at capacity by late afternoon",
         "Pre-book any post-match transport; surge pricing will be extreme",
         "Last MARTA trains will be packed — leave on the early side or settle in downtown"
@@ -181,7 +181,7 @@
       "score": 62,
       "label": "Consider",
       "color": "var(--accent)",
-      "summary": "Uzbekistan vs DR Congo — two debutants writing history in Atlanta's opener. The cheapest World Cup ticket you may ever buy, and 'I was at their first match' ages well.",
+      "summary": "Spain vs Cape Verde — the biggest name in Atlanta's first match, but a Monday noon kickoff keeps it more practical than prestige-first. Solid opener if you want Spain without prime-time pricing.",
       "factors": {
         "stage": 2,
         "homeConvenience": 4,
@@ -195,7 +195,7 @@
       "score": 76,
       "label": "Go",
       "color": "var(--accent)",
-      "summary": "Ghana vs Panama — Atlanta's West African community makes this the best atmosphere-per-dollar match of the city's group stage. Group L is wide open behind England.",
+      "summary": "Czechia vs South Africa — midday match, lower secondary-market pressure, and a genuinely open group dynamic. Good value if you want a World Cup day without paying Spain prices.",
       "factors": {
         "stage": 3,
         "homeConvenience": 3,
@@ -209,7 +209,7 @@
       "score": 68,
       "label": "Consider",
       "color": "var(--accent)",
-      "summary": "Sweden vs Tunisia — solid Group F football on a relaxed Sunday afternoon under the roof. Good value, easy logistics, ideal first-time World Cup experience.",
+      "summary": "Spain vs Saudi Arabia — Spain are the draw, the roof keeps conditions perfect, and Sunday noon is friendlier than Atlanta's weekday crunch. A cleaner experience than the later-night slates.",
       "factors": {
         "stage": 3,
         "homeConvenience": 4,
@@ -223,7 +223,7 @@
       "score": 84,
       "label": "Strongly Go",
       "color": "#00e676",
-      "summary": "Spain vs Cape Verde — one of the world's best teams in your building. Spain's midfield is worth the ticket alone, and Cape Verde's underdog story carries real charm.",
+      "summary": "Morocco vs Haiti — one of Atlanta's more intriguing group-stage tickets. Morocco bring recent World Cup credibility, Haiti bring emotion, and the evening slot should feel lively without absolute peak pricing.",
       "factors": {
         "stage": 3,
         "homeConvenience": 3,
@@ -234,10 +234,10 @@
     {
       "matchId": "wc26-atl-05",
       "date": "2026-06-27",
-      "score": 92,
-      "label": "Don't miss it",
-      "color": "#00e676",
-      "summary": "Spain vs Uruguay on a Saturday night with Group H on the line — this is Atlanta's marquee group-stage event. Two former champions' federations, full house, roof closed, sound trapped in. Pay up.",
+      "score": 71,
+      "label": "Go",
+      "color": "var(--accent)",
+      "summary": "DR Congo vs Uzbekistan — late-group stakes on a Saturday night. Not the marquee name matchup, but likely one of Atlanta's better value tickets if you want a real result with something on the line.",
       "factors": {
         "stage": 4,
         "homeConvenience": 3,

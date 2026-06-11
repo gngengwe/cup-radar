@@ -1,0 +1,375 @@
+{
+  "_note": "Official-first source registry for World Cup 2026 publishing. Use FIFA schedule and FIFA squad PDF as the canonical backbone. Team-level availability and late changes are tracked in world-cup-availability.json.",
+  "lastVerified": "2026-06-10",
+  "tournament": {
+    "code": "FWC2026",
+    "name": "FIFA World Cup 2026",
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
+    "teams": 48,
+    "matches": 104,
+    "hosts": [
+      "Canada",
+      "Mexico",
+      "United States"
+    ]
+  },
+  "globalSources": {
+    "schedule": {
+      "title": "Scores & Fixtures",
+      "publisher": "FIFA",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "useFor": [
+        "full fixture list",
+        "kickoff times",
+        "live status",
+        "results",
+        "matchday verification"
+      ]
+    },
+    "matchCentreRoot": {
+      "title": "FIFA Match Centre",
+      "publisher": "FIFA",
+      "url": "https://www.fifa.com/en/match-centre",
+      "useFor": [
+        "official team sheets",
+        "lineups",
+        "cards",
+        "goals",
+        "minute-by-minute match verification"
+      ]
+    },
+    "squads": {
+      "title": "FIFA World Cup 2026: Squad List",
+      "publisher": "FIFA",
+      "publishedAt": "2026-06-02",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "useFor": [
+        "final 26-man squads",
+        "player names",
+        "positions",
+        "clubs",
+        "date of birth",
+        "coach"
+      ]
+    }
+  },
+  "publishingGuidance": {
+    "matchDataStrategy": "Use FIFA scores-fixtures as the source of truth until a complete 104-match local schedule is normalized.",
+    "squadDataStrategy": "Use the FIFA squad PDF by page number for all 48 teams, then overlay team-specific availability and replacement notes from world-cup-availability.json.",
+    "lineupDataStrategy": "Do not publish a player as confirmed to start until the official FIFA match-centre team sheet is live on matchday."
+  },
+  "localFeeds": {
+    "groups": {
+      "path": "src/data/groups.json",
+      "status": "complete"
+    },
+    "matches": {
+      "path": "src/data/matches.json",
+      "status": "partial",
+      "recordsPresent": 80,
+      "officialTournamentMatchCount": 104,
+      "caution": "The existing local match file is useful for editorial content but is not yet a full tournament schedule."
+    },
+    "availability": {
+      "path": "src/data/world-cup-availability.json",
+      "status": "new"
+    },
+    "squads": {
+      "path": "src/data/world-cup-squads.json",
+      "status": "generated",
+      "recordsPresent": 1248,
+      "officialTournamentTeamCount": 48
+    }
+  },
+  "fifaSquadPdfPages": [
+    {
+      "page": 1,
+      "code": "ALG",
+      "name": "Algeria",
+      "group": "J"
+    },
+    {
+      "page": 2,
+      "code": "ARG",
+      "name": "Argentina",
+      "group": "J"
+    },
+    {
+      "page": 3,
+      "code": "AUS",
+      "name": "Australia",
+      "group": "D"
+    },
+    {
+      "page": 4,
+      "code": "AUT",
+      "name": "Austria",
+      "group": "J"
+    },
+    {
+      "page": 5,
+      "code": "BEL",
+      "name": "Belgium",
+      "group": "G"
+    },
+    {
+      "page": 6,
+      "code": "BIH",
+      "name": "Bosnia-Herzegovina",
+      "group": "B"
+    },
+    {
+      "page": 7,
+      "code": "BRA",
+      "name": "Brazil",
+      "group": "C"
+    },
+    {
+      "page": 8,
+      "code": "CPV",
+      "name": "Cape Verde",
+      "group": "H"
+    },
+    {
+      "page": 9,
+      "code": "CAN",
+      "name": "Canada",
+      "group": "B"
+    },
+    {
+      "page": 10,
+      "code": "COL",
+      "name": "Colombia",
+      "group": "K"
+    },
+    {
+      "page": 11,
+      "code": "COD",
+      "name": "DR Congo",
+      "group": "K"
+    },
+    {
+      "page": 12,
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "group": "E"
+    },
+    {
+      "page": 13,
+      "code": "CRO",
+      "name": "Croatia",
+      "group": "L"
+    },
+    {
+      "page": 14,
+      "code": "CUW",
+      "name": "Curaçao",
+      "group": "E"
+    },
+    {
+      "page": 15,
+      "code": "CZE",
+      "name": "Czechia",
+      "group": "A"
+    },
+    {
+      "page": 16,
+      "code": "ECU",
+      "name": "Ecuador",
+      "group": "E"
+    },
+    {
+      "page": 17,
+      "code": "EGY",
+      "name": "Egypt",
+      "group": "G"
+    },
+    {
+      "page": 18,
+      "code": "ENG",
+      "name": "England",
+      "group": "L"
+    },
+    {
+      "page": 19,
+      "code": "FRA",
+      "name": "France",
+      "group": "I"
+    },
+    {
+      "page": 20,
+      "code": "GER",
+      "name": "Germany",
+      "group": "E"
+    },
+    {
+      "page": 21,
+      "code": "GHA",
+      "name": "Ghana",
+      "group": "L"
+    },
+    {
+      "page": 22,
+      "code": "HAI",
+      "name": "Haiti",
+      "group": "C"
+    },
+    {
+      "page": 23,
+      "code": "IRN",
+      "name": "Iran",
+      "group": "G"
+    },
+    {
+      "page": 24,
+      "code": "IRQ",
+      "name": "Iraq",
+      "group": "I"
+    },
+    {
+      "page": 25,
+      "code": "JPN",
+      "name": "Japan",
+      "group": "F"
+    },
+    {
+      "page": 26,
+      "code": "JOR",
+      "name": "Jordan",
+      "group": "J"
+    },
+    {
+      "page": 27,
+      "code": "KOR",
+      "name": "South Korea",
+      "group": "A"
+    },
+    {
+      "page": 28,
+      "code": "MEX",
+      "name": "Mexico",
+      "group": "A"
+    },
+    {
+      "page": 29,
+      "code": "MAR",
+      "name": "Morocco",
+      "group": "C"
+    },
+    {
+      "page": 30,
+      "code": "NED",
+      "name": "Netherlands",
+      "group": "F"
+    },
+    {
+      "page": 31,
+      "code": "NZL",
+      "name": "New Zealand",
+      "group": "G"
+    },
+    {
+      "page": 32,
+      "code": "NOR",
+      "name": "Norway",
+      "group": "I"
+    },
+    {
+      "page": 33,
+      "code": "PAN",
+      "name": "Panama",
+      "group": "L"
+    },
+    {
+      "page": 34,
+      "code": "PAR",
+      "name": "Paraguay",
+      "group": "D"
+    },
+    {
+      "page": 35,
+      "code": "POR",
+      "name": "Portugal",
+      "group": "K"
+    },
+    {
+      "page": 36,
+      "code": "QAT",
+      "name": "Qatar",
+      "group": "B"
+    },
+    {
+      "page": 37,
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "group": "H"
+    },
+    {
+      "page": 38,
+      "code": "SCO",
+      "name": "Scotland",
+      "group": "C"
+    },
+    {
+      "page": 39,
+      "code": "SEN",
+      "name": "Senegal",
+      "group": "I"
+    },
+    {
+      "page": 40,
+      "code": "RSA",
+      "name": "South Africa",
+      "group": "A"
+    },
+    {
+      "page": 41,
+      "code": "ESP",
+      "name": "Spain",
+      "group": "H"
+    },
+    {
+      "page": 42,
+      "code": "SWE",
+      "name": "Sweden",
+      "group": "F"
+    },
+    {
+      "page": 43,
+      "code": "SUI",
+      "name": "Switzerland",
+      "group": "B"
+    },
+    {
+      "page": 44,
+      "code": "TUN",
+      "name": "Tunisia",
+      "group": "F"
+    },
+    {
+      "page": 45,
+      "code": "TUR",
+      "name": "Türkiye",
+      "group": "D"
+    },
+    {
+      "page": 46,
+      "code": "URU",
+      "name": "Uruguay",
+      "group": "H"
+    },
+    {
+      "page": 47,
+      "code": "USA",
+      "name": "USA",
+      "group": "D"
+    },
+    {
+      "page": 48,
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "group": "K"
+    }
+  ]
+}

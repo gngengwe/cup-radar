@@ -1,0 +1,1081 @@
+{
+  "_note": "Team-by-team availability overlay for publishing. Pair each entry with the official FIFA squad PDF page from world-cup-sources.json. This file is for pre-match caution, not confirmed starting lineups.",
+  "lastVerified": "2026-06-10",
+  "defaultCautions": [
+    "FIFA published the final squad list on 2026-06-02, but teams can still make approved injury or illness replacements up to 24 hours before their first match.",
+    "Do not publish a player as a confirmed starter until the official FIFA match-centre team sheet is live on matchday.",
+    "If a federation announcement and a media report conflict, prefer FIFA plus the federation's latest published roster update."
+  ],
+  "teams": [
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "group": "A",
+      "fifaSquadPdfPage": 28,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=27"
+        }
+      ]
+    },
+    {
+      "code": "RSA",
+      "name": "South Africa",
+      "group": "A",
+      "fifaSquadPdfPage": 40,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=39"
+        }
+      ]
+    },
+    {
+      "code": "KOR",
+      "name": "South Korea",
+      "group": "A",
+      "fifaSquadPdfPage": 27,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-31",
+          "playerOut": "Cho Yu-min",
+          "playerIn": "Cho Wi-je",
+          "reason": "injury replacement before the tournament opener"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=40"
+        },
+        {
+          "kind": "availability_update",
+          "title": "South Korea defender Cho ruled out of World Cup",
+          "publisher": "Reuters",
+          "date": "2026-05-31"
+        }
+      ]
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "group": "A",
+      "fifaSquadPdfPage": 15,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=13"
+        }
+      ]
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "group": "B",
+      "fifaSquadPdfPage": 9,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-31",
+          "playerOut": "Marcelo Flores",
+          "playerIn": "Jayden Nelson",
+          "reason": "ACL injury; replacement confirmed by Canada Soccer on 2026-06-09"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=8"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "CANMNT FIFA World Cup 2026 Roster Update",
+          "publisher": "Canada Soccer",
+          "date": "2026-06-09",
+          "url": "https://news.canadasoccer.com/canmnt-fifa-world-cup-2026-roster-update"
+        }
+      ]
+    },
+    {
+      "code": "SUI",
+      "name": "Switzerland",
+      "group": "B",
+      "fifaSquadPdfPage": 43,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=43"
+        }
+      ]
+    },
+    {
+      "code": "QAT",
+      "name": "Qatar",
+      "group": "B",
+      "fifaSquadPdfPage": 36,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=35"
+        }
+      ]
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia-Herzegovina",
+      "group": "B",
+      "fifaSquadPdfPage": 6,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-01",
+          "playerOut": "Osman Hadžikić",
+          "playerIn": "Mladen Jurkas",
+          "reason": "injury replacement after the final squad announcement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=6"
+        },
+        {
+          "kind": "availability_update",
+          "title": "Današnja odluka Barbareza puni kasu Borca",
+          "publisher": "Nezavisne novine",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "group": "C",
+      "fifaSquadPdfPage": 7,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-07",
+          "playerOut": "Wesley",
+          "playerIn": "Ederson Silva",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=7"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Ederson e convocado pela Selecao para a Copa do Mundo",
+          "publisher": "Brazilian Football Confederation",
+          "date": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "group": "C",
+      "fifaSquadPdfPage": 29,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=28"
+        }
+      ]
+    },
+    {
+      "code": "SCO",
+      "name": "Scotland",
+      "group": "C",
+      "fifaSquadPdfPage": 38,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-30",
+          "playerOut": "Billy Gilmour",
+          "playerIn": "Tyler Fletcher",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=37"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "FIFA World Cup 2026 squad update",
+          "publisher": "Scottish Football Association",
+          "date": "2026-05-30"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Fletcher chosen to replace Gilmour in Scotland squad",
+          "publisher": "BBC Sport",
+          "date": "2026-05-31"
+        }
+      ]
+    },
+    {
+      "code": "HAI",
+      "name": "Haiti",
+      "group": "C",
+      "fifaSquadPdfPage": 22,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=21"
+        }
+      ]
+    },
+    {
+      "code": "USA",
+      "name": "USA",
+      "group": "D",
+      "fifaSquadPdfPage": 47,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=46"
+        },
+        {
+          "kind": "official_federation_squad",
+          "title": "U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026",
+          "publisher": "U.S. Soccer",
+          "date": "2026-05-26",
+          "url": "https://www.ussoccer.com/stories/2026/05/usmnt/us-mens-national-team-head-coach-mauricio-pochettino-names-26-player-roster-for-fifa-world-cup-2026"
+        }
+      ]
+    },
+    {
+      "code": "PAR",
+      "name": "Paraguay",
+      "group": "D",
+      "fifaSquadPdfPage": 34,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=33"
+        }
+      ]
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "group": "D",
+      "fifaSquadPdfPage": 3,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=3"
+        },
+        {
+          "kind": "official_federation_squad",
+          "title": "CommBank Socceroos squad named for FIFA World Cup 2026",
+          "publisher": "Football Australia",
+          "date": "2026-05-31",
+          "url": "https://socceroos.com.au/news/commbank-socceroos-squad-named-fifa-world-cup-2026tm"
+        }
+      ]
+    },
+    {
+      "code": "TUR",
+      "name": "Türkiye",
+      "group": "D",
+      "fifaSquadPdfPage": 45,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=45"
+        }
+      ]
+    },
+    {
+      "code": "GER",
+      "name": "Germany",
+      "group": "E",
+      "fifaSquadPdfPage": 20,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-05",
+          "playerOut": "Lennart Karl",
+          "playerIn": "Assan Ouedraogo",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=19"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "RB Leipzig's Assan Ouedraogo to take Lennart Karl's World Cup spot with Germany",
+          "publisher": "Bavarian Football Works",
+          "date": "2026-06-05"
+        }
+      ]
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "group": "E",
+      "fifaSquadPdfPage": 16,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=15"
+        }
+      ]
+    },
+    {
+      "code": "CIV",
+      "name": "Ivory Coast",
+      "group": "E",
+      "fifaSquadPdfPage": 12,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-29",
+          "playerOut": "Clément Akpa",
+          "playerIn": "Christopher Opéri",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=24"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Zaha omitted from Ivory Coast World Cup squad",
+          "publisher": "BBC Sport",
+          "date": "2026-05-15"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Communique Mondial 2026: Clement Akpa forfait remplace par Christopher Operi",
+          "publisher": "Ivorian Football Federation",
+          "date": "2026-05-29"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Wilfried Zaha",
+          "reason": "was omitted from the final World Cup squad.",
+          "date": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "code": "CUW",
+      "name": "Curaçao",
+      "group": "E",
+      "fifaSquadPdfPage": 14,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=12"
+        }
+      ]
+    },
+    {
+      "code": "NED",
+      "name": "Netherlands",
+      "group": "F",
+      "fifaSquadPdfPage": 30,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-08",
+          "playerOut": "Jurriën Timber",
+          "playerIn": "Lutsharel Geertruida",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=29"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Jurriën Timber mist toch WK met Oranje, Geertruida opgeroepen als vervanger",
+          "publisher": "NOS",
+          "date": "2026-06-08"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Xavi Simons ruled out for rest of season and World Cup with ruptured ACL",
+          "publisher": "The Guardian",
+          "date": "2026-04-27",
+          "url": "https://www.theguardian.com/football/2026/apr/27/xavi-simons-acl-injury-tottenham-netherlands-world-cup"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Xavi Simons",
+          "reason": "was not in the final squad after suffering a ruptured ACL that ruled him out of the World Cup.",
+          "date": "2026-04-27"
+        },
+        {
+          "player": "Jurrien Timber",
+          "reason": "withdrew before the tournament and was replaced by Lutsharel Geertruida.",
+          "date": "2026-06-08"
+        }
+      ]
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "group": "F",
+      "fifaSquadPdfPage": 25,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=25"
+        }
+      ]
+    },
+    {
+      "code": "TUN",
+      "name": "Tunisia",
+      "group": "F",
+      "fifaSquadPdfPage": 44,
+      "status": "selection-watch",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=44"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Lamouchi leaves Sassi out of Tunisia World Cup squad",
+          "publisher": "BBC Sport",
+          "date": "2026-05-15"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Ferjani Sassi",
+          "reason": "was left out of the final squad.",
+          "date": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "code": "SWE",
+      "name": "Sweden",
+      "group": "F",
+      "fifaSquadPdfPage": 42,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-30",
+          "playerOut": "Emil Holm",
+          "playerIn": "Herman Johansson",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=42"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Herman Johansson ersatter Emil Holm",
+          "publisher": "Swedish Football Association",
+          "date": "2026-05-30"
+        }
+      ]
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "group": "G",
+      "fifaSquadPdfPage": 5,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=5"
+        }
+      ]
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "group": "G",
+      "fifaSquadPdfPage": 17,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=16"
+        }
+      ]
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "group": "G",
+      "fifaSquadPdfPage": 23,
+      "status": "selection-watch",
+      "selectionNotes": [
+        "Shahriar Moghanlou was called in before the final list was published."
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=22"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Iran drop Azmoun as Taremi leads 26-man World Cup squad in US",
+          "publisher": "Reuters",
+          "date": "2026-06-01"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Sardar Azmoun",
+          "reason": "was dropped from the final squad.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealand",
+      "group": "G",
+      "fifaSquadPdfPage": 31,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=30"
+        }
+      ]
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "group": "H",
+      "fifaSquadPdfPage": 41,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=41"
+        }
+      ]
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "group": "H",
+      "fifaSquadPdfPage": 46,
+      "status": "selection-watch",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=47"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Uruguay pick Man Utd's Ugarte but Suarez left out",
+          "publisher": "BBC Sport",
+          "date": "2026-05-31"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Luis Suarez",
+          "reason": "was left out of the final squad.",
+          "date": "2026-05-31"
+        }
+      ]
+    },
+    {
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "group": "H",
+      "fifaSquadPdfPage": 37,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "code": "CPV",
+      "name": "Cape Verde",
+      "group": "H",
+      "fifaSquadPdfPage": 8,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=9"
+        }
+      ]
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "group": "I",
+      "fifaSquadPdfPage": 19,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=18"
+        }
+      ]
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "group": "I",
+      "fifaSquadPdfPage": 39,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=38"
+        }
+      ]
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "group": "I",
+      "fifaSquadPdfPage": 32,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=31"
+        }
+      ]
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "group": "I",
+      "fifaSquadPdfPage": 24,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-06",
+          "playerOut": "Ahmed Yahya",
+          "playerIn": "Ahmed Maknzi",
+          "reason": "hamstring injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=23"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Makenzie replaces injured Yahya in Iraq's World Cup squad",
+          "publisher": "Reuters",
+          "date": "2026-06-06"
+        }
+      ]
+    },
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "group": "J",
+      "fifaSquadPdfPage": 2,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-06",
+          "playerOut": "Leonardo Balerdi",
+          "reason": "calf injury after the final squad announcement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=2"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Argentina's Balerdi out of World Cup with calf injury",
+          "publisher": "Reuters",
+          "date": "2026-06-06"
+        }
+      ]
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "group": "J",
+      "fifaSquadPdfPage": 4,
+      "status": "selection-watch",
+      "knownChanges": [
+        {
+          "date": "2026-06-02",
+          "playerOut": "Christoph Baumgartner",
+          "reason": "injured and ruled out after the final squad was named"
+        }
+      ],
+      "selectionNotes": [
+        "Austria did not call up a replacement after Baumgartner's injury."
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=4"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Christoph Baumgartner faellt fuer WM aus",
+          "publisher": "Austrian Football Association",
+          "date": "2026-06-02",
+          "url": "https://www.oefb.at/oefb/News/Baumgartner-faellt-fuer-WM-aus"
+        }
+      ],
+      "notableAbsences": [
+        {
+          "player": "Christoph Baumgartner",
+          "reason": "was ruled out by injury after the final squad was named and Austria did not call a replacement.",
+          "date": "2026-06-02"
+        }
+      ]
+    },
+    {
+      "code": "ALG",
+      "name": "Algeria",
+      "group": "J",
+      "fifaSquadPdfPage": 1,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=1"
+        }
+      ]
+    },
+    {
+      "code": "JOR",
+      "name": "Jordan",
+      "group": "J",
+      "fifaSquadPdfPage": 26,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-05",
+          "playerOut": "Ibrahim Sabra",
+          "playerIn": "Mohammad Taha Abu Ghoush",
+          "reason": "ankle ligament injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=26"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Ibrahim Sabra excluded from Jordan's World Cup squad after ankle ligament injury",
+          "publisher": "Jordan Football Association",
+          "date": "2026-06-05"
+        },
+        {
+          "kind": "official_federation_update",
+          "title": "Mohammad Taha Abu Ghoush added to Jordan's World Cup squad",
+          "publisher": "Jordan Football Association",
+          "date": "2026-06-08"
+        }
+      ]
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "group": "K",
+      "fifaSquadPdfPage": 35,
+      "status": "selection-watch",
+      "selectionNotes": [
+        "Ricardo Velho traveled as an emergency fourth-choice goalkeeper but was not part of the official 26 unless one of the registered goalkeepers became unavailable."
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=34"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Roberto Martinez names Portugal World Cup squad with symbolic 'plus one' for Diogo Jota",
+          "publisher": "The Irish Times",
+          "date": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "group": "K",
+      "fifaSquadPdfPage": 10,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=10"
+        }
+      ]
+    },
+    {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "group": "K",
+      "fifaSquadPdfPage": 48,
+      "status": "selection-watch",
+      "selectionNotes": [
+        "Ibrohimxalil Yuldoshev missed the World Cup because of injury before the final squad settled."
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=48"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Ibrohimxalil Yoldoshev jarohat sababli JChni o'tkazib yuboradi",
+          "publisher": "Tribuna.uz",
+          "date": "2026-05-22"
+        }
+      ]
+    },
+    {
+      "code": "COD",
+      "name": "DR Congo",
+      "group": "K",
+      "fifaSquadPdfPage": 11,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-05-20",
+          "playerOut": "Rocky Bushiri",
+          "playerIn": "Aaron Tshibola",
+          "reason": "injury replacement"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=14"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Desabre names fearless DR Congo squad for historic World Cup return",
+          "publisher": "CAF",
+          "date": "2026-05-18"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Hibs defender Rocky Bushiri opens up on World Cup injury heartache and makes vow",
+          "publisher": "Edinburgh Evening News",
+          "date": "2026-05-21"
+        }
+      ]
+    },
+    {
+      "code": "ENG",
+      "name": "England",
+      "group": "L",
+      "fifaSquadPdfPage": 18,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=17"
+        }
+      ]
+    },
+    {
+      "code": "CRO",
+      "name": "Croatia",
+      "group": "L",
+      "fifaSquadPdfPage": 13,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=11"
+        }
+      ]
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "group": "L",
+      "fifaSquadPdfPage": 21,
+      "status": "updated-before-opener",
+      "knownChanges": [
+        {
+          "date": "2026-06-01",
+          "playerOut": "Alexander Djiku",
+          "playerIn": "Derrick Luckassen",
+          "reason": "injury replacement before the final squad was published"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=20"
+        },
+        {
+          "kind": "secondary_confirmation",
+          "title": "Ghana delay naming World Cup squad",
+          "publisher": "The Straits Times",
+          "date": "2026-06-01"
+        },
+        {
+          "kind": "official_federation_squad",
+          "title": "Carlos Queiroz names 2026 FIFA World Cup squad",
+          "publisher": "Ghana Football Association",
+          "date": "2026-06-02"
+        }
+      ]
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "group": "L",
+      "fifaSquadPdfPage": 33,
+      "status": "clear-no-change-located",
+      "sources": [
+        {
+          "kind": "official_fifa_squad",
+          "title": "FIFA World Cup 2026: Squad List",
+          "publisher": "FIFA",
+          "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf#page=32"
+        }
+      ]
+    }
+  ]
+}

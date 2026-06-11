@@ -121,3 +121,28 @@ This landing page is structured for incremental extension:
 - Add `src/pages/` for dashboard views (Today, Matches, Groups, SeattleHQ, etc.)
 - Extend `src/config.js` with API keys and data source URLs
 - Existing module preview cards in `src/components/` become live modules in place
+
+---
+
+## World Cup Publishing Sources
+
+For source-backed tournament publishing, use:
+
+- `src/data/world-cup-sources.json`
+- `src/data/world-cup-availability.json`
+
+What each file does:
+
+- `world-cup-sources.json` points to the official FIFA schedule page and the official FIFA squad PDF, and maps every team to its squad PDF page.
+- `world-cup-availability.json` adds team-by-team caution notes for pre-opener injuries, replacements, and notable omissions.
+
+Publishing guidance:
+
+- Use FIFA `scores-fixtures` as the schedule source of truth.
+- Use the FIFA squad PDF as the canonical squad source for all 48 teams.
+- Use `world-cup-availability.json` to overlay caution flags before publishing player-availability notes.
+- Do not treat any player as a confirmed starter until the official FIFA match-centre team sheet is live on matchday.
+
+Current limitation:
+
+- `src/data/matches.json` is still editorial and incomplete for the full tournament (`81` local records vs `104` official matches). Until that file is fully backfilled, another application should read schedule data from the FIFA source listed in `world-cup-sources.json`.
