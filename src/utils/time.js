@@ -29,11 +29,14 @@ export function relativeTime(dateStr) {
  */
 export function daysUntilLabel(dateStr) {
   if (!dateStr) return null;
-  const target = new Date(dateStr + 'T12:00:00');
-  const diffMs = target - Date.now();
-  if (diffMs < 0) return null;                        // past
-  const days = Math.ceil(diffMs / 86_400_000);
-  if (days === 0) return 'TODAY';
+  const now = new Date();
+  const todayStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  if (dateStr < todayStr) return null;                // past
+  if (dateStr === todayStr) return 'TODAY';
+
+  const target = new Date(dateStr + 'T00:00:00');
+  const today  = new Date(todayStr + 'T00:00:00');
+  const days   = Math.round((target - today) / 86_400_000);
   if (days === 1) return 'TOMORROW';
   if (days <= 30) return `in ${days} day${days !== 1 ? 's' : ''}`;
   return null;
