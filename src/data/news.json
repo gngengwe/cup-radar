@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-11T02:51:51.795Z",
+  "lastUpdated": "2026-06-11T02:51:54.175Z",
   "articles": [
     {
       "id": "news-auto-world-cup-predictions-champions-golden-b-2026-06-10",
@@ -71,7 +71,8 @@
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGU5dU5SN2V0a29fbmVJRlMtV1hncThOeTQtNlVWQTI5TWVrQkFlVDFJaDZCTFRSRkFoRjFzcWFLa2hmdDlRd0RHNDkyVm5jdHVfMnlVMGVId0xKbGtNelJ1akh1T1NkN2s0M3NyZ3FhRzV1M1VZR1FkLUhYNnd2REI5VQ?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-11T02:51:54.175Z"
     },
     {
       "id": "news-auto-the-ultimate-guide-to-the-2026-fifa-worl-2026-06-11",
