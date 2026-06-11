@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-11T18:13:59.227Z",
+  "lastUpdated": "2026-06-11T22:50:02.865Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 19,
+      "chapterCount": 20,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -170,6 +170,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWxHem10NE1hb0ZVM3ZUOG5kNUZCZVZPcDVpT3ZOeUFPd29faFNBS3ZUSS1iVVk1aUVuczlGbmtXQUxBSmJEZEV0WWxsdkt5UGVPdWltS2RVZEwtTmNMQ1BrbmN4bmgybjJ2Sm5QTVA1b3RycVVZVkVibkktT0Q5T3ota2M0c0R0dW9wbC14U3VBODU0amptMlRHYkhfTWc1Mlh5YnItNUZ0ZDBpamhBbFdjaUJndnlXNV9j?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781218200703",
+          "date": "2026-06-10",
+          "title": "Lionel Messi: Stars of Soccer, World Cup 2026 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONE1iYnFnekpqNmYydzB2UFVEOU1zZmlZSXVOQkNhdk90bVIwYWUtLVdERHlZdnlMS1F5RzhKSmV5cjNQVXZoOU1peURpTG9HSVVDOHEzNUE1eFkzYVJIZUxmYkVyT1c0WG54eFBhMGhMRnBYeTEzSkVYclV6TzBYQzY3QURMSGtqRWRMeld2MXVkMUdGOC1peUItbjhtZEppd1FCTVdWdDdwVXJILUxCMndGMklfYjU2Z3FJ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -188,7 +196,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 17,
+      "chapterCount": 18,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -325,6 +333,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXJZaGFZVkhfclJpMjhfS3BWbWtyNUJ2YlZuMnlrUm1yYk5yb3AwNTVFbnNoM2Q3WFV1alFrQk1uTXJodG9tM0xPSHpEa0dXbFVISHN5enJTcGtOQllndm1CeTltdU5VN1lRMmJacmJPSlRFLTFlUUpCRDVJNE42LUhVbFl0b0wwM3RKRm5QbzhnNW85Z2NLUXZoWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781218201195",
+          "date": "2026-06-11",
+          "title": "Kylian Mbappe, French national team greet fans outside hotel in Boston after arriving for World Cup - Boston.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExheVI2SEFpZEQ2d2t0Zkh4dTd0cGVrNEZKUjBvYVItUEtlZy1zSFJlTDVsSkEwTG8yX0Nxand1OUdLR08xYkp2aldaV0U2YXFoRjZZQmJlb1M3OUsxVDdnaWZmNUVCUlFvZnY4bjUyMU5hOEpENWtzSjVfYzZDTHBLWS13Y0VSQXhQQ2pkWGdVbjhSanhGdF95TkljbXRlS2EwMFZkeWdYZUVvbEdPLTdnTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -343,7 +359,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 25,
+      "chapterCount": 29,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -544,6 +560,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGJHVV9iT1l5b0pST1hiVGE0RlhBX0theUJ6akp3YVlHc3hvYUE0QWVNZE5yTUFkYUY5N2FUN3VMNjE1ZERLa0l0NU5zMDhsUVpBTjFsUUJFckFCZVNVNl8tR3BzRnd1OFh4QlE0TVIzdVp0dE5EeHZXUUY1VkkwOHFrcjRoQ3ZhOGd1Z3F2SWxlTDVDZFR1V1Z2M1FYRFpsbWVXQ3RreklzT3NtMmliLTZoa3pjTWEwRVlzOQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781218201744",
+          "date": "2026-06-11",
+          "title": "The U.S. signed up for the 2026 FIFA World Cup – and its 11 host cities are paying for it - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlJhOGt3QWJBMElNaVA1S2QxNE5xY0VxY2xYNFRxbHFaQTFoX0poc2hCZ3p6NEdwNjZzT3JBN3pyMUVmUzdaQjluR21EaEpTODZiR3EtS1hFbWFZTm50NklQTGlOUlEzWXRCdzJIcTVpM1NnenpfME5EcGI2d19kMEJReGVVejZueGpYOXpWVEYxdEZtaEhCc09fWFlRQVdDV1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781218201744",
+          "date": "2026-06-11",
+          "title": "Mo Edu's message to Christian Pulisic, USA heading into 2026 FIFA World Cup™: 'Prove yourselves right' - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRFVvSVByeTJPX09EajE2b01EVW5PSS1Da2hYSXplUDQ2OUw4elJBRnZobVFZMEJZMUpJaHI2eC1oOFNMenQ0ZVZTd2V4Z0diVERaNnQ3eFJqa05HOS1VU1ZB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781218201744",
+          "date": "2026-06-11",
+          "title": "World Cup 2026: When are the US and Canada opening ceremonies, who is performing and how can I watch on TV? - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEJiejdxRnYxemNqLVkwbzBHNHEyWFpxVFFuWkNhZ1dKc3ZCeG1QUWFCWEVvaTVYWHdqb2tiV3hSWU54QkZ6TS1HaUlLVGJycldfLVRKS0I3SnBxdElfekgtYTZhbFpTWF94ZW9qVkROZjREbzhCeXRuYXJZWE1KY2N1WjI3U0V0SF9DblZWbDhfejBoUFQwWVdIdDYwVWJNbEplOGtaajBVQlZuWlpGUXJFai1LU2FaNWJINjBsZ0dIc0p5?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781218201744",
+          "date": "2026-06-11",
+          "title": "Raul Jimenez scores first World Cup goal! Shop Raul Jimenez Mexico soccer jersey - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHF6U2R5dmtiMU5ibE5DYUhrbFFCQU1VNldtVENJd0xVaE51UE9qRDBPeWs1aGtfdml2VlJjRlF5S0d1RVoyN2cxM1lBZTNIdXpTRjNod0UxU05ZMlB3OGZaUE5PcDIwNVBEQllBajRRR29vZlY3YXQ4c3Z5d01HWC1VZXhWNHNVOEVILUhPRmJkRVM4dTh0Z05ob1l3SUZ0WW0wNm9aM01DNjNuM1NtY3FaUG0wWVF3emtoVy1PQmFzZDdzVlE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -562,7 +610,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 25,
+      "chapterCount": 27,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -763,6 +811,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0xwV2djRlFGeWpzZXNyVkNacUpISW84dUU0eTRQclRScVRwbE94Q0hOSjk0QTZHQnJjT1ZTazJvN1p4cHpVVHRhSkoyVnlCV0Vqa3VmTk1BS1BRV0tBUWlrYUN2YXNVdTdoNlRNYWNXdjY4MVByUERhUmk0cEk0aXNkUnFFdWluOTJQMjZrMVBRWXNYRDU4enZncTNldzJydFJhT3hqaHRmcGNDMUFSYmNVR2hwMFMy?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781218202289",
+          "date": "2026-06-11",
+          "title": "Brazil? Germany? Maurice Edu, Kate Scott Give Shock World Cup Exit Predictions - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa29vN09BUnI5cmE5eFlQZi1sTWR6YWNwV1ROTTJhem00bGxhR01PT2VOSS0zV1lyZ2tFMHZDWFhBbHBuSFhYX1lycGdfb0U2cTRHNEFnVkllbnVBbUZEUXBlN1hqWFdEbFBrNVBxOUVfdk9Yc3dkaENXa3NDZlRaMFZEWlFmT1pRX3l3WVdTTlnSAZABQVVfeXFMT3dsQnFERG9QU1pVajRoWTlNRnBLSmdaRUhOTUtCQlFPXzJTT0tFVjdMTGc4ZEw1djcxUWJlUkpTcjZyaXozamtHaEM2NVZpcEk1YkJRYjR2SU1rVzIyTTh3bDgzM3ZqamdkQkw0NEtPa3BfNGotR1A2VDR5VXJPVE05UmV2NGRGcWVEb2tDd2M2?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781218202289",
+          "date": "2026-06-11",
+          "title": "2026 World Cup: How to watch all 104 matches for free - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb28td0hzTXdabXd5am1yVzhObU5iQXBqdWVSdVB3aXRGOEs4aDFsSDdJVDd3SHM4UEpVd2I3VWpmT2VuZXdJdnBna3liWEMtempSbGdOZGplbHEtTDMwV0hKUC1MTi1MVFhrOTc1Vy16Mm5sM3FYRGd2aUR1V3FiMFlCOU94VGVycG52a2ZHdW5Qbm4tSjF0XzZ6NU1iVHpTM1duZjRPOFE0NHM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -837,7 +901,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 26,
+      "chapterCount": 29,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1045,6 +1109,30 @@
           "title": "England 6th, Portugal 13th - Who are the best nations in World Cup history? - Transfermarkt",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTjhkb21oY0lYTTZTQ1dqeTY2WHdjOTlXSkdLN3FHeDN4RmFTVGtGX01HdEI2NmppUUtVTVNHd3RXYzR4YXprWlNjT0RadG9KS1UwWEd1X1lhSGI2aG9xdW9hTUR3RGJFblRjRUJhclF0MFJLdlhaYzl2d1YtMVZSWkN4eGJnbUZLZ1B2bWxxWXNTQ2pXR0tVeDY5cU1lQjhOU3h6UXZ3dl9Xdkt1ZkNQYXBNUUR4cUh5UDZR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781218202865",
+          "date": "2026-06-11",
+          "title": "Arsenal players in 2026 World Cup: Who's representing Premier League champs? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDl5WnRpN0JMeXRyZ0ZQbzU0bnhlR3Nac2o4OHpXRDZpaVZmVThxWm92VDNWaEMtRV9ta3B6a3VRX05nVHA3WWUwSVlwWjR3SlIzN2VJSzVzUXlMaVZYVmtNMEJILTFMUTVtZWxjVFJWT2N5ZHFWNzUxSzA2RFZwT1BleDYxRVZpX0t5RWxWTUR1TGNFbDZKa3g5TExuYmRyOTZya0pxUjh5RUFw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781218202865",
+          "date": "2026-06-11",
+          "title": "World Cup 2026: Shakira among the preforms at World Cup opening ceremony - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qb0ZlSXFEd3hxbkg1b2QtNVVhU2ZuZDljWTlCMGRWdU9aaWEzWVZOTk1jNlZjdDY0UXdqelowcDU3NGw5TmFxRFZ6d3h4MjNUczVSUVFUSUp2SnlrRFM5bWctdTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781218202865",
+          "date": "2026-06-11",
+          "title": "England spank opponents 6-0 in final World Cup warm-up behind closed doors as shock call-up bags HAT-TRICK - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN1RnMXQweE5qazQ4QVVFODJDNnJUOS04cGFtTWR2TFFXOFY4THBLQ0JvXzJnbTRNTmRaWVhQY21xSFA1NDlubVNjUV9aVjY5dU5sQUdRS3c5NGxEc0ZDSUQyNGlub2xZRjJER205cFE5NllLSlVtNkxvd3BjTlhscFhMcEY?oc=5",
           "draft": true
         }
       ]
