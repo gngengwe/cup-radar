@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-11T02:51:42.168Z",
+  "lastUpdated": "2026-06-11T02:51:44.665Z",
   "articles": [
     {
       "id": "news-auto-world-cup-predictions-champions-golden-b-2026-06-10",
@@ -47,7 +47,8 @@
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmFIdHJjRm9wTVlIQmJNRGs1V3hqeC1lb01RdHo5RkdscWpBdVBiSlNXcEQtWGtFQkZDZkVNS01DRk9JMkJaaGFKMXhndWhpb0FzWUktTW51Ull4U3JSdUdTdU1UM2FQeHpuaTBmSi1XcmZtWmFDc19BSTBYTi1yNFBCV25jZ3NGaFoxSDE0UnFiS0lwNTJkUmF4YnBzb3U3cUVCOGdvRldFYnd1VzFuVVR3NGl6eXlQT0hUS1BOTFM0cWvSAcgBQVVfeXFMTXh2VDhFTEdSMnpXM1NVQllkaDA4UW91NE42OXp1a1JUTklNTExERXlQeFdIMFJ5eDE0LU1lZDA1Qzh0NEtxOXdycVJWVzVrVENFdDVSQTBvM0hvYWhhUWpteDA1VUxHTkFmUnQ1Q1F6Y2ZzRXluOW9keDRMVVQzN2xaVTh2OTFaNWZicGwxTnFyT1BCR2plQkpxbmNTY0hhWVpLNmNKVXQyN2lvemNhQVRkVmpvbFR5RVhMRERhTnBDNnlSOEZLZTc?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-11T02:51:44.665Z"
     },
     {
       "id": "news-auto-the-world-cup-is-starting-here-s-what-to-2026-06-10",
