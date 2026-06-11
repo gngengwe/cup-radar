@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-11T02:42:36.382Z",
+  "lastUpdated": "2026-06-11T02:51:27.268Z",
   "articles": [
     {
       "id": "news-auto-world-cup-predictions-champions-golden-b-2026-06-10",
@@ -11,7 +11,8 @@
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaUkxRDFjWHh6SXNXcDFVZ2ZWR01KTmF5aHRxd1h5aXV1Sm53TmtweGFHQk5SQTVvYVNCMThHN2luQlo4Y045blBUd3FUZ0owVzZKLVI5azVpVjZtamkwZWx4aV9CTlV5MHFVUV9qRHdqMUlqa1hZNWtGMTZFU0d0VWFBbVEwanBPc0NTM0dheFhrdmxpTk8wQVhtb1JDNWtOS2o3WC14U3Y4WnBfRklKdFp1RFRPc1F4LVlLLTdlSnp5eTZkM1VpbHhFZGxrcE0?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-11T02:51:27.268Z"
     },
     {
       "id": "news-auto-portugal-2-1-nigeria-world-cup-2026-frie-2026-06-10",
