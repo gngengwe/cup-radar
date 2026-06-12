@@ -665,9 +665,9 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -1927,5 +1927,5 @@
       "notes": "Saudi Arabia vs Cape Verde — Group H"
     }
   ],
-  "lastUpdated": "2026-06-12T17:18:01.870Z"
+  "lastUpdated": "2026-06-12T20:11:27.244Z"
 }

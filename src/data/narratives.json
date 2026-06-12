@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-12T17:40:41.808Z",
+  "lastUpdated": "2026-06-12T20:11:32.888Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -212,7 +212,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 20,
+      "chapterCount": 21,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -373,6 +373,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGpEdzhkZUZBMzV0NFFHZ1p3ODk5TllDLXlTcm9YZTRUVDRlVTA4c1g0cmM4MktJUlNoREh5ck9kVXRULTU5RGxORzl5a3NNUDJmb1NEMDRWNUU4Mnh0blVlalVQYzI0amplY0ZSSHZ4aC1aUUNxSHJXQXFuSnJjNE9taVcySWs1UmcxSHFDVGtrU0IxMXhKOXRXSkxoQUoteFB3X1otRTlTT2g2dGVBSWlKRGFlaEc5NVA0dnV1MTZjUUdod3c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781295091084",
+          "date": "2026-06-12",
+          "title": "World Cup 2026: Critics of France captain Kylian Mbappe have gone 'too far', says Ousmane Dembele - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BaU5WYTNMSElYSURRWk9XUTRiZHVNempKT3hPSmEzZmtlZmY3RjNkT0ZIUmJtRVNvdDlBMU1NTklYbTFTaGZhVFRkTjNqMmpsTG15cFpQUDdlVkZwNUw1dkFqdHltVWs?oc=5",
+          "draft": true
         }
       ]
     },
@@ -391,7 +399,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 44,
+      "chapterCount": 46,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -744,6 +752,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeW40Z25TLTNpb2s0eG5oMFVPRk1PV0dUQm4zeUNYdjltRGxtVV8zQlF0djFreGNmb20xeUNWLTRWNEtXWEhzUGl6T2hMQkUyUmVncDJPMTBvM2JiUVV4M3FpZlNOeVlHZ0k4VVhSdTBORXNobDF0SVVIb0luYi1USlVUcEZqS0RjVldvRk5nYmZxcEN2cmtBcmxSaWltWWVvNGV0b1ZpSnFNMVRiYkFGZ3pJdkFHbWV5NzBrenZZb01YZXdMZ3g2MFo2N3V0a1hweS1lc0tDQlE2dEk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781295091634",
+          "date": "2026-06-12",
+          "title": "The World Cup Has Finally Arrived!!! - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpNS1qQnU5TlV6cVlQZmNULWkyZjk0RFVqYlJKQXhyMzFKdGZHbXN5dDZibzBLenNZTzlnUEdRVDUtWnpjeEpnQ2d0UHVVQTQwS0dIQWZCa1pEb1huS1M2bkZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781295091634",
+          "date": "2026-06-12",
+          "title": "Can the USMNT play Iran at the 2026 World Cup? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZFd4YTFsOFhlc1N6Tk9ocTFoV3JNOXhFNnFLTnNTTzlxTE53MnNubzF3RVg0cnBlYkdlcXhENEhGa0tIQzFOMzhqQ0VIUU1RSTdjdm1GNnhLZE1Da1MySmpHQUg5YWYwUzZweHo5UDVuOU4yZzNzQUl2dlRHRHVUTVdISGN6ck03dkZxVFBRX01wdkYxU0l3U21vOFdUc2gwNnBNRFVvQXRVU2VYbkpmWFF5ZVRGZlNzb2RxOG1Gaml2bGE5TWdmX0JCVXFVMDRZbXlHdHZUMXJLdEVqYVl2bGZYc2Rab0lUUnlJV1ZFaFpHV01NaG9mYkZIRkszM1ZEbHdXUVdYWXUzcVJmbEN6ZzMtNzZUdHE2ZVJtMF9KT2wyMmFZT1plMkJVckRVeWhsZm1jd2JoSTR6dTJWRUp6MXVWNVduTkZDd0tacVA5V1B5Z2E3bVNpVFdkZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -762,7 +786,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 36,
+      "chapterCount": 38,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1051,6 +1075,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmoyME4tVEZTd3FWVTBPWExtQUx3T3VLVW9QdXJWaGNBWlZSckppLXRaR3o3WFRWd01rdVJ3d3VSUGJrRS1kVnVGTF95VHk3UGYzakpnZXdHMEw5SUZLSmNYRDRjQUtnOVR5amd2U2F0YndzMWxfbkxTVHU2T1BNbC1fWlFIbXdaNXJibHplQ19xM3JCWnJOcHJSdTVlVGN5Nlc4cXVVOU9lYW5sZGs2d0lUMlhGYjJxT0Z3NWVkMA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781295092201",
+          "date": "2026-06-12",
+          "title": "‘More pressure than the president’: Ancelotti sets out to end Brazil’s World Cup drought - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVRiVVhwaUxFZ0RpaGJNeGRqczEtbDUwb04yajdnR1REZlM5Q3k2MUNINWo5eHV6WXJ5WnBoUzdJU3BPZlllMEwxamtrclVoak1TSVZiaWx5QjBrSlZhRkJsbUpJMWZpX3R5ektzSW9JYlNfOUs2XzFySTZFNEhjaE9aeFFFcFRVbjNzcXZ5WGRsM2RpVFloR0lIejh5NVhMbmlhck54WFhLR3hudkh0U3JyNjNtM3E5eVlDNlVYaHk5bTVnRHBzMUtFclhuQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781295092201",
+          "date": "2026-06-12",
+          "title": "Chris 'The Bear' Fallica's Match Day 3 World Cup Best Bets, Picks, Predictions - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEJlUWRkSEE1RkxFbkpfUHh0NngxTHlmS1FoQmFUZVlXU0hRQmctR0U4dTZOenV0RHJ4cTNtSUFzUk5pclRkcGt2TDdNbEZNUi1mLV9fNnNQTXhXN2VyNXVvazZneHZuNTViNDkzVDQwZjdiYlU2ZTh1ZC1GOUpHamZVZjRTMVlGaWZwM1FHWFpNcld0UUJXRWxtMnhNRHlSZ1FqLUxtT2cwT2dP0gGsAUFVX3lxTFBNemFzM3hPUUdyekJfNy1KZ0l0MG9zazNKV3c2V3JwUE9DYVlmWlVrSXFhcDFwcExZRmpacF9BSVhnWjVkMThKY1otQVdPbGJWWEF0RHF5VHFPODFGdm5DakhHWEc5LTEyb0FycW9jX0Q2bjdROWdINl9HSF9FTzl3b1dWV3B1S1JzY0d2QThxbmY1dG9FclhWdENnNDRkLS04RTVYSHFlaDJHam8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1125,7 +1165,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 44,
+      "chapterCount": 48,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1477,6 +1517,38 @@
           "title": "America’s ‘soccer capital’ is cheering for England - The Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGlsTHFhaXVDTWp4aGxwekFmMlpCS0FwZ2g2NnE2Y3FsUTRqUnRQU3NkSzVfTkdFXzV4QkZieDZXT2tqMXVleHJRel9jTHU0YnE2Vk0xQlhSUWY3cllxc2FJYWFsVmN1ZENYNUlMUU9wVGNpbnBNUDFUcW5wbUx2aXhpWHdzZUVMbmptZXJoZ2dBbXRzdWxvTmdqc1VHWHhGVHFzOHBB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781295092888",
+          "date": "2026-06-12",
+          "title": "World Cup 2026: Bellingham, but no Guehi - England's expected team - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRlBSYkdrSU9LUzRPSjBNVHlpOHhxRmJsZlFRUS1WVlIxVkRqNWE1TWRQYmQ2YnZoRzNkNjBRVDlta0dFeTFHdi04U0xVdW01XzNPYVpkdU1GT2hlM2VYUGJRZ3QzblE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781295092888",
+          "date": "2026-06-12",
+          "title": "World Cup 2026: Wayne Rooney on England squad - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tZ2pkR1I5TTJjZ3BrY3dFcFJHN1NmbmJ3R0VaUFBBOVZZSFY3X3ZEdWZLbExnd05XRnNieldFaXZVZzBjX3pqRjRRVEpIWTNFdU44blJrYm44b0Z0QVljUm0yZU5oY2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781295092888",
+          "date": "2026-06-12",
+          "title": "Furious England fans blast FIFA as Gianni Infantino 'deserves' the embarrassment of empty seats at World Cup - The Mirror",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnJRcWNLVnFzQlpKRll2bHVnWEZDVFA5eEp3Mlk4eUIzQXNhTkx5TFVjbkptX0UyY3NkdU9mSlZrNmJQbkMzdFRUQzNOVWVlTmk2X2tVek04Njc5akFhNlRMMGJ5TXBWSmM3eFE5bGF2N0NfdE5JUlpETDVIWDlBYkNKaWs2UdIBiwFBVV95cUxPQTgydjNaWUh3WnZ2V0lvMFF4ck9hZU55X1kzaTAxREVudF91SV9heVBON3ljeFNzMUJhM243SEVybkNIQVQ0R2kxQ3huVFV4cFJKdk5oWjUwb2k4QXU4elV2WWJHS0FJcGtMaDRPLWxWcDhqcEJUMGRkSzFSR3M0Zk9pQi1kUHdRT3Iw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781295092888",
+          "date": "2026-06-12",
+          "title": "England v Sri Lanka: Women’s T20 Cricket World Cup opener – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem9YdHo2eVZsNnJyQTRpVURsOEllbVBZeUlFajdsaG5CeFVzVWtGS3diUUdXN2RQNEQ0MzhvTGhxQV9USGQzdEozN1Q2b3k3ZlNvcVMxcFV3ZVVSbG9RdGZkS3p1SGhRRWN0amdtRlFySTZWYjBfdHZzc3NldmZoOEpJTFZSdjgxaXV4czVaSGN6ZHd4ZU5kaEpGRGNFRVN1TUl3NEtB?oc=5",
           "draft": true
         }
       ]
