@@ -40,17 +40,28 @@ export async function refreshScores() {
 
   let updated = 0;
   for (const api of apiMatches) {
-    // Match by venue + date since our IDs differ from theirs
-    const local = current.matches.find(m =>
-      m.date === new Date(api.utcDate).toISOString().split('T')[0] &&
-      (m.homeTeam?.toLowerCase() === api.homeTeam?.name?.toLowerCase() ||
-       m.homeCode === api.homeTeam?.tla)
-    );
+    // Match by date + team since our IDs differ from theirs.
+    // Evening kickoffs in CT/MT/PT roll over to the next UTC calendar day,
+    // so allow up to 1 day of drift between our local date and the API's UTC date.
+    const apiDateStr = new Date(api.utcDate).toISOString().split('T')[0];
+    const local = current.matches.find(m => {
+      const dayDiff = Math.abs(new Date(m.date) - new Date(apiDateStr)) / 86_400_000;
+      if (dayDiff > 1) return false;
+      const matchesHome = m.homeTeam?.toLowerCase() === api.homeTeam?.name?.toLowerCase() || m.homeCode === api.homeTeam?.tla;
+      const matchesAway = m.homeTeam?.toLowerCase() === api.awayTeam?.name?.toLowerCase() || m.homeCode === api.awayTeam?.tla;
+      return matchesHome || matchesAway;
+    });
     if (!local) continue;
 
+    // Our home/away order may not match the API's — swap scores if so.
+    const isSwapped = local.homeTeam?.toLowerCase() === api.awayTeam?.name?.toLowerCase()
+      || local.homeCode === api.awayTeam?.tla;
+
     const newStatus = normaliseStatus(api.status);
-    const newHome   = api.score?.fullTime?.home ?? null;
-    const newAway   = api.score?.fullTime?.away ?? null;
+    const apiHomeScore = api.score?.fullTime?.home ?? null;
+    const apiAwayScore = api.score?.fullTime?.away ?? null;
+    const newHome = isSwapped ? apiAwayScore : apiHomeScore;
+    const newAway = isSwapped ? apiHomeScore : apiAwayScore;
 
     if (local.status !== newStatus || local.homeScore !== newHome || local.awayScore !== newAway) {
       local.status    = newStatus;
