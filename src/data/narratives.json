@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-12T20:11:32.888Z",
+  "lastUpdated": "2026-06-12T22:25:07.337Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -399,7 +399,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 46,
+      "chapterCount": 48,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -768,6 +768,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZFd4YTFsOFhlc1N6Tk9ocTFoV3JNOXhFNnFLTnNTTzlxTE53MnNubzF3RVg0cnBlYkdlcXhENEhGa0tIQzFOMzhqQ0VIUU1RSTdjdm1GNnhLZE1Da1MySmpHQUg5YWYwUzZweHo5UDVuOU4yZzNzQUl2dlRHRHVUTVdISGN6ck03dkZxVFBRX01wdkYxU0l3U21vOFdUc2gwNnBNRFVvQXRVU2VYbkpmWFF5ZVRGZlNzb2RxOG1Gaml2bGE5TWdmX0JCVXFVMDRZbXlHdHZUMXJLdEVqYVl2bGZYc2Rab0lUUnlJV1ZFaFpHV01NaG9mYkZIRkszM1ZEbHdXUVdYWXUzcVJmbEN6ZzMtNzZUdHE2ZVJtMF9KT2wyMmFZT1plMkJVckRVeWhsZm1jd2JoSTR6dTJWRUp6MXVWNVduTkZDd0tacVA5V1B5Z2E3bVNpVFdkZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781303105931",
+          "date": "2026-06-12",
+          "title": "2026 World Cup: President Donald Trump wishes USMNT luck ahead of first game - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenRYNjRtQnVQTkNWbDBNaTZpRDZaWG9HYkVyckxZOXhwUVN2QUpYMEswX056cnI2VmZwSENVSzY4VGI4aW95QU12c3N1N2J0aGhtVzV3LUtGSFNHTzNHU29TVWNWVkZsSXBzc3pJSVEwWjJLYzM4SXo1anpzampDYWhhOHRvT3gzVTM5ZGZMOWVldlpfN0lDb2N3TTU0N0ItdnJNOThZM0U1VjM4NklFbXVHQnU2MFE1ZGYtMk00ckdWejM1VlFUTHpR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781303105932",
+          "date": "2026-06-12",
+          "title": "President Trump sends well wishes to USMNT prior to World Cup kick-off against Paraguay - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGNtRWdfNi1MWFhydW1mQ2hDTzZNeVdDYTR6RGhTNUdoRFpjRlZoZ3ZhaFdsWmhqUjd3Z2JFU0ZEdWhXUk4zNzd5enlvYTdwUkVjelB1bjRuaTN5eUxPeVdfX2RGNk03MlQzWGFmSEYwNEc5MkNWNnQ2RnZzelF2SWdYbEM3aWVPSjh3ZHM5VE4xS0NvYWc5LXM4RnltcWdqSEZ1WDAyRldidWFk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -786,7 +802,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 38,
+      "chapterCount": 40,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1091,6 +1107,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEJlUWRkSEE1RkxFbkpfUHh0NngxTHlmS1FoQmFUZVlXU0hRQmctR0U4dTZOenV0RHJ4cTNtSUFzUk5pclRkcGt2TDdNbEZNUi1mLV9fNnNQTXhXN2VyNXVvazZneHZuNTViNDkzVDQwZjdiYlU2ZTh1ZC1GOUpHamZVZjRTMVlGaWZwM1FHWFpNcld0UUJXRWxtMnhNRHlSZ1FqLUxtT2cwT2dP0gGsAUFVX3lxTFBNemFzM3hPUUdyekJfNy1KZ0l0MG9zazNKV3c2V3JwUE9DYVlmWlVrSXFhcDFwcExZRmpacF9BSVhnWjVkMThKY1otQVdPbGJWWEF0RHF5VHFPODFGdm5DakhHWEc5LTEyb0FycW9jX0Q2bjdROWdINl9HSF9FTzl3b1dWV3B1S1JzY0d2QThxbmY1dG9FclhWdENnNDRkLS04RTVYSHFlaDJHam8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781303106428",
+          "date": "2026-06-12",
+          "title": "World Cup Match Day 3: Brazil-Morocco, Australia-Türkiye Highlight Saturday Slate - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEU0MmhkOGJLU1djN0hJYXh4cDFHTHpYOVdXZ3hpVEJMbmlDUHpPZ2pkMG14anJ5MFozdjEtbnBUdjNhT2Q3OXZHcHdrVHhQUWhRWWFWSm5hTmJlNTQtRF9JVy1abXpUcmtQZmljUC16TWlTU3YwWmVjQXZEZXFhek0wTnYxWjN6aVlDX2VQSVNhSXE5LXB3VENuM01Xc1k2aHVfQlV3a9IBpwFBVV95cUxPWEl2TEppNFRVdldIV3dLT0FkSlptWDhpTW1yajNic0w2YXVzU0JhOGtEOHdJTGFqYjRMc0pmaTJtWDk1ZDF2WkVodTh1NW0wTE1kU29FVTlxMVEtZWktVFU5RGFVSWxXR0lJODF6R19QdU9ERFpVMDVPVkF4YmQ2UjZWb3ljS1poVVdndWU3a1NhclNaZ1BFQURkcElQeGJGZmV0NWk4NA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781303106428",
+          "date": "2026-06-12",
+          "title": "Brazil vs. Morocco Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXpqR25VU0tzUXNwNVAtcWF6a29KdFNuVXhrWEdQUE8zb1BaMV9vNF8yd2tFMjVIV1gycEhNNU01S0JjdGh2S3hoZ3JpSldOeTBqS1dmYmcycXctc1hDYmp6Q1lhdTkyLUJBc1pveDVJZ2xZcFRCNGhSWGV4MVdjX09LRDVQeHdaQ2g1MVpuT1M0a0xLQ2xn0gGXAUFVX3lxTE1YWmlyUXpnY3p6dEJmMHdNMDZKNVozTDU0Q21JTkpGTnVfZWdhTjFzM2stcEMtUHdCYUpTZXRod04tdk5kRmkyREVtVFF2Zlp6NHVtaW9keXU2aW84bzlZb3NWem9pSmJyakhZLVplR2RJLVNCREdmM09xQ0ZwSUVhdEk1YWEtM0hEaEVySFd1VGFHWmtuNVk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1165,7 +1197,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 48,
+      "chapterCount": 53,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1549,6 +1581,46 @@
           "title": "England v Sri Lanka: Women’s T20 Cricket World Cup opener – live - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem9YdHo2eVZsNnJyQTRpVURsOEllbVBZeUlFajdsaG5CeFVzVWtGS3diUUdXN2RQNEQ0MzhvTGhxQV9USGQzdEozN1Q2b3k3ZlNvcVMxcFV3ZVVSbG9RdGZkS3p1SGhRRWN0amdtRlFySTZWYjBfdHZzc3NldmZoOEpJTFZSdjgxaXV4czVaSGN6ZHd4ZU5kaEpGRGNFRVN1TUl3NEtB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781303107337",
+          "date": "2026-06-12",
+          "title": "Thousands of England tickets unsold amid fears over empty World Cup stadiums - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDdBQXJNWXZJOVJtcmRWYVQxcG5PR1ZPdkE2aU1pS3h2eXVNb2laRlVsMTQyc1J0ZDJBaVpQSEVEcVBVU3JkeGR0a2E3X1NTZFNibnljUk9wUFoydE1ldHNKQnU0azhWS1E1WkpHR2tlYll6TmJ0NEItWVFCTnl5MGtZTDljWXpWd3RKT2pWZ1l2cTNxY0hzQ2FPLWpIRGpydS1nWEFKSWFxdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781303107337",
+          "date": "2026-06-12",
+          "title": "World Cup 2026: Bellingham, but no Guehi - England's expected team - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSDNLUThmMk1fVGtESkhPSm5Dak9WRkVBSTZaa2lrTjc2emQySTNhaHFQOXJoM045U21TUml1a3dXZmJmdkxWbVZVMk1udkZsWFVtRWFlZ1FsanUtRnZXek1seC0ydG5YUUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781303107337",
+          "date": "2026-06-12",
+          "title": "Canada 1-1 Bosnia-Herzegovina Highlights - World Cup 2026 - 12 June 2026 - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2NWZUlNcTRhSWVuTWFuV0YwcllxamN4dVg2YXVqaTM3VS1HeDJOV0VGcGEzem5pd0JVOUtSSHp2Mjl1STNwT1BfdDB1SnpEQVYyNm1JS2RTX3lGSjYxVU5oZXY0Y3VERThTZXBmdm5IanFMazZ2LXoxY3MtTVhqdXJhakhwdU5JZDJpeA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781303107337",
+          "date": "2026-06-12",
+          "title": "Bukayo Saka fitness update as England boss Thomas Tuchel faces three selection decisions - Daily Mirror",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmFoVXlBb0kwYTUwekV3MWVVenNrSGpfSGU2dVJJUkFRTkhnVU5mNmFMWWROblktTjRhNFVtZ0JRUVY5bllWajdSeC1iRkR0V3F6cEVKNy1VM1BFQjdMdm9Qdno4cnlzWkJlaHBGV3FDOU9kZkl3cGpGU0N6ejd4RjYtS1FQSFBrSldYcjd4bUR4QdIBlwFBVV95cUxQaTVwS05tV3hyWG9fTWtRQkZ4eGJmcFRjQ3RMNENiSkhhdVpEYy1uQ2NPalhmRXAwa1d3RTZRaENQU3E3QkFYdm5KOV81YzRITTZqQTRqMEdZRndzWVo5VzhMckJzWlZ5ekFrM1hfVTQ2ZFVqeGl0dVNBVkU1U25mcnhsZms4bVBjRTZja3pqWjdmeVJjTm1r?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781303107337",
+          "date": "2026-06-12",
+          "title": "World Cup 2026: Wayne Rooney on England squad - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5d3dwWmpmVmhScXBLcTBFaTZDWmJ1YVpJZXBXTHRiQ1hobC16TXY1bC05SVJOWjEwR3JkQUU3SFphRk15bnVybV9YejA0SlIwN1IyMmw1ZS0xaWx2OW5yTno1OGY?oc=5",
           "draft": true
         }
       ]
