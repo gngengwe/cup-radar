@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-11T22:50:02.865Z",
+  "lastUpdated": "2026-06-12T03:59:58.706Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -196,7 +196,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 18,
+      "chapterCount": 19,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -341,6 +341,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExheVI2SEFpZEQ2d2t0Zkh4dTd0cGVrNEZKUjBvYVItUEtlZy1zSFJlTDVsSkEwTG8yX0Nxand1OUdLR08xYkp2aldaV0U2YXFoRjZZQmJlb1M3OUsxVDdnaWZmNUVCUlFvZnY4bjUyMU5hOEpENWtzSjVfYzZDTHBLWS13Y0VSQXhQQ2pkWGdVbjhSanhGdF95TkljbXRlS2EwMFZkeWdYZUVvbEdPLTdnTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781236797115",
+          "date": "2026-06-10",
+          "title": "Kylian Mbappe draws criticism in France after leaving camp as Dembele reportedly demanded more defensive ef... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWxKZGVSRmZEMXZWTGZiV3hmeDNHTWZ4a3JWaUtfTnM3R3ZOSjdzWG9qVHlWcE9nRFlZQWJ0UDcwNjZYSk1idDB6eElrbk1ySlBOU0tNS2swN0YzQjhLTXhqTlZVRS03VTlqcnE4UDNvaUNSR1VVaHAyRzBERXVvOFJWQlFvc29kaFUtb0YxWmZWd09nQV9IMEdIdTJlbU9oaXY2aVJOLV9wZGtJTXU0TTZYVUhIR3VUdmFBM2JiRTJqdVRmYWhDanZKYjN1MTM0WXE4Tm9PNW9wTW1fOGRJTU9idldXZ9IB6gFBVV95cUxQYWZDSlljSVJkbnkyUFdVcGFoajVxMXFrVmpEcmNvOVUydlZWUWRFLW9PaG1fMnVSQ01sVzYtXzk4LTlGZWpsRDRidFJTaFY0R0ZfRERyWTAtUl9lcUNFck1Cb29pRExFWkQ2SjNYcGxCMEVwMDcweEg2bE9LeEVlQlM4SWxmajYwVUNWNUxSaWptMUhreFduUUxhQ3VPM2x0OXpkQnVVb1F6ejVuMW5GRXE3Q2tyWjdWeGxTUFBWekxCS0t3NFExOTY1RzRqMFJRV3Q0cjR3UFNaUkJBenFjOUY2RUp4YnY2cmc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -359,7 +367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 29,
+      "chapterCount": 33,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -591,6 +599,38 @@
           "title": "Raul Jimenez scores first World Cup goal! Shop Raul Jimenez Mexico soccer jersey - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHF6U2R5dmtiMU5ibE5DYUhrbFFCQU1VNldtVENJd0xVaE51UE9qRDBPeWs1aGtfdml2VlJjRlF5S0d1RVoyN2cxM1lBZTNIdXpTRjNod0UxU05ZMlB3OGZaUE5PcDIwNVBEQllBajRRR29vZlY3YXQ4c3Z5d01HWC1VZXhWNHNVOEVILUhPRmJkRVM4dTh0Z05ob1l3SUZ0WW0wNm9aM01DNjNuM1NtY3FaUG0wWVF3emtoVy1PQmFzZDdzVlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781236797649",
+          "date": "2026-06-11",
+          "title": "Meet the WAGs of World Cup 2026 from USMNT and around the globe - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVZ6VmFIVy1ENXRyQVUwbVgzdDdoQWdBQTJhUTA4T202b2Z5NUJ0dUlGU3hNTTFZckpMRzN2RTdXamw0bjZGTVUtT2tpRGFPTDNKMllHVFROLWM4ZGNtX0pwQ3ZpRE1VUjYzM0xCcEl1WW1CWXM1d0tUcHRqQzJuNnRhd3IwbjI4RlRhQVEwTHRibTNU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781236797649",
+          "date": "2026-06-12",
+          "title": "South Korea's Hwang In-beom Scores Ankle-Breaking Equalizer against Czechia | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBld2RWS1Q5elc3RV91QldNb1g1b1pfQTNzVXVlbWlzZ2lVUU9TWV9URGxuSDJKRkREM0tWVzd6djY4Y1l6STNkcWt6RFNOZUVMdGlrN1BJb3B0RzZBYkdoNXNR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781236797649",
+          "date": "2026-06-12",
+          "title": "DR Congo arrive in the US for the World Cup after Ebola quarantine - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJBUUlBMTAtMXZUYkRtSXJqNlJZZ0JUWkJqeTZ5WFdHeldMTi1LTzliMkZWRGZBX3NvbEFyOHJvc3VkUHpOcUtnUjdjSnNxSXZBQU5uWTRRX2ZFckhUZUJiV25ja1BudzhGOWE1X19ORGg4SGNPRkNEemcxb092U2NwLVZsTnktRVd3UVJCMkpka3preWpkQTB5OHBlU0psbDRqNDNZekNUUU51dmfSAbMBQVVfeXFMTmFUSmVUeDMzQ2dzQ0lmM2syem12RFJOMHdjb2h0R190WEc4anlCRXBvS0JCQVZXNEU5TkJ6YzhPX09kbjZkRFNMRzhQUUxnNGJMSXFRVkk3ejNPSG9wRWNMRUhVUzlVTk9hQURVSVhmNWI0M0dSRHRsTXdIN0x6dTNVQ0VRbjYwQzgwSUZJMXhnaklfWGF2SVdqWjVSbUoxQkxvV2swQmhMczcwUWo1X3JwOEk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781236797649",
+          "date": "2026-06-12",
+          "title": "It might not be fair, but Christian Pulisic's legacy is on the line this World Cup - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2p6bzZ0LTVNVENleF9pZkpqRVc3aTJ1R3gwUUtLU0dEYzFvTmNQb1JSbzZWQVNJN0VwcG5TZXUzMVRzZS1wZWZOeUpYQ0ZEWkotTWl4YWxuc3JLekRqSl9qdjVaMkoyWnZKSTJYVmptaGtsaDk2ZGVwaW14UVZScGV5ckxIYi03YVBrdTZlRWJFTmJuNE1pb1lnOG5ldHVyYmVUOThKcmtpeE41aEFzZGdxdGVfVXhlcnFMWThZSnJsendEVFNzVXN3?oc=5",
           "draft": true
         }
       ]
@@ -901,7 +941,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 29,
+      "chapterCount": 34,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1133,6 +1173,46 @@
           "title": "England spank opponents 6-0 in final World Cup warm-up behind closed doors as shock call-up bags HAT-TRICK - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN1RnMXQweE5qazQ4QVVFODJDNnJUOS04cGFtTWR2TFFXOFY4THBLQ0JvXzJnbTRNTmRaWVhQY21xSFA1NDlubVNjUV9aVjY5dU5sQUdRS3c5NGxEc0ZDSUQyNGlub2xZRjJER205cFE5NllLSlVtNkxvd3BjTlhscFhMcEY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781236798706",
+          "date": "2026-06-11",
+          "title": "World Cup 2026: England players organise team-bonding dinner in Miami - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00NEdzNUYxYnFzdHFhTTNuaHFhTTJGVmxkcFV3VllGdjV0VjRsSEM3eElrTGV2RHNiR2xEeXpRZ0ExQlAyTmpnY1NPUXBtTzctQnRTX01oSmJOaEdFWVJuNFVnQlkxNDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781236798706",
+          "date": "2026-06-10",
+          "title": "How Anthony Gordon answered England’s toughest question for World Cup opener - the-independent.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNOVlRKZVNEeW1yS2RxckMzUldCUnRSMEVOZF9vcUo2NHUwUkNob2E0eFM2WEdydVhyUTNGemlJSV8yYUdRQU41cEVvbjB1UXJmdkdrUUdWTnY5QzhkSDZJVzB3LUw2Q1pGekxHLVVKUWppR1ltWkRRTTFiVndncnZHSjZqdjJwaVFzY3BFc3YwM0d5MHl2MFVmUHpkM2VwTHlLaVlxUVFZUVlrR2JWa0lvYUkxdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781236798706",
+          "date": "2026-06-11",
+          "title": "World Cup 2026 today: Updates and news as Mexico City prepared for tournament opener - as it happened on June 10 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSnI5cEpvZ0cyRzh4akVCRlRUYVdYOVB5aFJEc0Q2cWtiODY5YjBvZGVDMVJwaXJYcjF5TUcxeldvbjN0Tzh0OHNLOVZvOVhWRUpOZmpQSlhhT0tTRUhhS0tQOEREWGx5Y0NNNWxmcVZMOGhqR3hVUnpKcXBIY05Xem1LY1BmRTk0WWpyWkpWQWJBX2hPSm1XVjYxckd4V3dIWnRCc3o0cC1nM0hUOFFyNVUxS21XTFA2MFMyaEZGOHRmZFJIeUN4U1BDcmotbjRCOXpUUGNTRUFfZTNBRVhLRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781236798706",
+          "date": "2026-06-11",
+          "title": "World Cup 2026: teams qualified, key players and fixtures - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQXhvRmJpN3k2aGxZTVl5LWpVOU9NRXdBTDdWNUVqaGFWYXl0QTQ2WVF5cUQ4aDJKVVh4WVRmV0NuWWtTbWMyeVJhN2tGeHlxUnRDX012OTJmd2s5bzFRM1RJWEhtc2VGbXU2QjZVNmNlVXExcVVwT0ZtX2t5U281cmR1YjZFY18xTmowZi1tOUdKclVHUmJ1ZjJNNzJ0RXl6TkdF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781236798706",
+          "date": "2026-06-11",
+          "title": "Sunburnt and ‘bright red’, Declan Rice says heat in the U.S. takes some ‘getting used to’ - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnI3SWEtSFhGWEJUYVJvb0dLUFRTU1d3ZWwxRVEybEtyZDBYb29KYzl4eFl5MUlkaUhYTUdaUXdEMjVlY20tR3dvUEZFYlFqWlV0UnhxQWhCM21kSnlQcWRsY2VfVjRpemhFNVlYbzZkWm14RmUySXdnYi1VXzNsMHRlaGxKV25samdrdjl0TnlLVG03QW4wT0ZBMA?oc=5",
           "draft": true
         }
       ]
