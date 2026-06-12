@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { fetchStandings } from '../api/footballData';
+import { fetchStandings, isLiveDataEnabled } from '../api/footballData';
 import localGroups from '../data/groups.json';
 
 export function useStandings() {
@@ -9,8 +9,7 @@ export function useStandings() {
   const [source,    setSource]    = useState('local');
 
   useEffect(() => {
-    const apiKey = import.meta.env.VITE_FOOTBALL_API_KEY;
-    if (!apiKey) return;
+    if (!isLiveDataEnabled()) return;
 
     setLoading(true);
     fetchStandings()

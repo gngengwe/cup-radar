@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { fetchAllMatches, fetchTodayMatches, invalidateLiveCache } from '../api/footballData';
+import { fetchAllMatches, fetchTodayMatches, invalidateLiveCache, isLiveDataEnabled } from '../api/footballData';
 import localData from '../data/matches.json';
 
 function hasLiveMatch(matches) {
@@ -13,8 +13,7 @@ export function useMatches() {
   const [isLive,   setIsLive]   = useState(false);
 
   const load = useCallback(async () => {
-    const apiKey = import.meta.env.VITE_FOOTBALL_API_KEY;
-    if (!apiKey) return;
+    if (!isLiveDataEnabled()) return;
     setLoading(true);
     try {
       const live = await fetchAllMatches();
@@ -42,7 +41,7 @@ export function useMatches() {
     return () => clearInterval(id);
   }, [isLive, load]);
 
-  const source = error || !import.meta.env.VITE_FOOTBALL_API_KEY ? 'local' : 'live';
+  const source = error || !isLiveDataEnabled() ? 'local' : 'live';
 
   return { matches, loading, error, source, refresh: load };
 }
@@ -56,13 +55,11 @@ export function useTodayMatches() {
   const todayStr = new Date().toISOString().split('T')[0];
 
   useEffect(() => {
-    const apiKey = import.meta.env.VITE_FOOTBALL_API_KEY;
-
     // Derive today's matches from local data as initial state
     const localToday = localData.matches.filter(m => m.date === todayStr);
     setMatches(localToday);
 
-    if (!apiKey) return;
+    if (!isLiveDataEnabled()) return;
 
     setLoading(true);
     fetchTodayMatches()

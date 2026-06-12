@@ -23,6 +23,16 @@ function getFlag(tla) {
   return FLAGS[tla] || '🏳️';
 }
 
+// ─── Live-data availability ────────────────────────────────────────────────
+// football-data.org's free tier only sends Access-Control-Allow-Origin for
+// http://localhost, so browser fetches from any deployed domain are always
+// CORS-blocked. Only attempt live fetches in local dev.
+export function isLiveDataEnabled() {
+  if (!import.meta.env.VITE_FOOTBALL_API_KEY) return false;
+  if (typeof window === 'undefined') return false;
+  return window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+}
+
 // ─── Status normaliser ─────────────────────────────────────────────────────────
 function normaliseStatus(apiStatus) {
   const map = {
