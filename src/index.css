@@ -3880,6 +3880,7 @@ td .flag-img { margin-right: 4px; }
 .wcp-card__top {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
 }
 .wcp-card__title {
@@ -3913,7 +3914,7 @@ td .flag-img { margin-right: 4px; }
   font-weight: 700;
   color: var(--text-dim);
   margin-left: auto;
-  white-space: nowrap;
+  text-align: right;
 }
 .wcp-card__code {
   font-size: 11px;
@@ -3954,9 +3955,9 @@ td .flag-img { margin-right: 4px; }
   font-weight: 700;
   color: var(--text-dim);
   background: var(--bg-card-alt);
-  border-radius: 999px;
+  border-radius: var(--radius);
   padding: 3px 10px;
-  white-space: nowrap;
+  text-align: right;
   margin-left: auto;
 }
 
@@ -4066,9 +4067,18 @@ a.wcp-source-chip:hover { color: var(--text); }
 
 /* ── Responsive ── */
 @media (max-width: 480px) {
+  .wcp-container { padding: 0 16px 80px; }
   .wcp-hero { padding: 40px 0 24px; }
+  /* Filters scroll away instead of permanently eating ~half the
+     viewport — the fan-mode/search/tag stack is tall once it wraps. */
+  .wcp-controls {
+    position: static;
+    top: auto;
+  }
   .wcp-controls__row { flex-direction: column; }
   .wcp-section-select { width: 100%; }
+  .wcp-tags { gap: 8px; }
+  .wcp-tag { font-size: 12px; padding: 6px 12px; }
 }
 
 /* ═══════════════════════════════════════════════════════════
