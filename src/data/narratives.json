@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T19:46:49.366Z",
+  "lastUpdated": "2026-06-13T22:04:19.786Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 24,
+      "chapterCount": 25,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -210,6 +210,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2lnQ3RaVklQS3plOUMzVGpMNnY0ZlkzTk5kbEU4c2lPX0l0UDRuNHJLYk1GaWJhM3lBVDNJTjVjejBzc3liV09qVERfVlp5LWNYemxOX1FObXhCWjR2NTFmVkFva2wtXzZ3WnM1QVpHS1RfOFAtV1ZsNXNDaElUWEM5SGZrRThDYjFYWVBGeGZ1S2s3R3FlV2I4aVNGY0VSamJSTkRnODNqbFR0SzFuSFZMcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781388257510",
+          "date": "2026-05-29",
+          "title": "World Cup 2026: Lionel Messi to represent Argentina at sixth tournament - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eVJERWZDRm1CeHBuQkNINnJzVXRzRjZTUUpvM0wxRVlaYXVmRTktREtmT2tGSTFXS0NKZDZ4TnFqbGhIRHhodEk4dkZfa2NWZkdERXBRRm42NkZIZXVjNC1lR2hKcFU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -228,7 +236,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 25,
+      "chapterCount": 26,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -429,6 +437,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTJLSkRwT2t1RmZwd1laS05uUTNsT2s3M0Q3ekZjR0pxOE5STExuZzdMd0g3V0l6aEhEWnExRkxEUWVvc28tRXJPSkdSQ0Vkdm52NXVEU19wSXAybmMtZTZlUC1YV3IxenBxekJ2V0MtcWNEbEt4NFB1Q0lGbmNCQy1pNTRibWFFQkduU0NidDh6NVZWZU8w?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781388258067",
+          "date": "2026-06-13",
+          "title": "World Cup 2026 top scorer: Who is in the Golden Boot race? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUdZTkhVNEFzZjlMM2JOOHdVaUdwN3dybHNINjhYaWpmQVdMY0RzRk02ZHl4MHdKYXNRekMzS1c3V1E4d3VULWEtU01QWW5XVy1Ca3owRVJFRWM1MkZfUHpTa2RHTU9vRGxjTGVjOXlGRDAyX2xybVEwdDNzM2tQVFBiWldQcXdtejFOWFlYc0NCcjZO?oc=5",
+          "draft": true
         }
       ]
     },
@@ -447,7 +463,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 68,
+      "chapterCount": 70,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -992,6 +1008,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaUNCZXdFa2VQR0tseHQ4NkdGVDE5VWhCTnJLazRFb2l3dy1sLTAwcmFnY0xkRjNZQjFWYjRKZFNsY0o4bHdSbWFkeVVXZllwS0Z6Q2ZwUVVyaWpRYUFVT0RNY2MxT2pCQjFETlQ0djVMVk9NR2VJc0NxYXNyWTU2eHN5bWdLWXhvUVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781388258682",
+          "date": "2026-06-13",
+          "title": "Ten observations after attending a World Cup match in the US - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDVsTDJhQXNPSTk4TDFFYy1VUVVxOTRuRzYydnFXQ0l4NUJTemFrLWt6VE1fVWdSY3dzQ08zLUZ1emRrMTBuV2puTHZtdVJJMlVxMHhncVR5eTBRazJfZzZ0RTFsVEh6TUdzWEI4bkxLY240Qms4MG5wcUpEMlhXMmN6S01FeWZtX0J0bVpoQXJRSDl6TDI1eEdMMUl6dFFNdGpn0gGoAUFVX3lxTE9OLWphYzRzTlBLbERKRW8zSXN0bFA2dFpNWW9hd2FKaWtNeWVxTEViWmE3alpBZE1SZXhnelRYV2V2Y0g4b0l2VVBuWjZTaUZPcUJwMU5KZHppcU9DSGhwVG91ZDlmX1g1Z3V4QXNkR0MxLW16SC1zOUJhWmRfU2p5MjAzMDl2YmZ6U2lKQk9VMlpUQklHVUczWGVkTzhNakVJMWdIMW1MZA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781388258682",
+          "date": "2026-06-13",
+          "title": "Christian Pulisic injury update: USMNT star shares why he left World Cup game - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlZLcGtzcTRkY2E2VlZBS1EwWF9QSkpUWmx3UFBSUEZiMEh2c2huN0pHaWxXbG9RWHNzNmh5LUVBSmJDVlNOZ19wQ0FqRjI3eFZRa01lZ2k5cWVPUmJMRDJ1N2xpLUU3S1ptTVhadlNXQ1BKcnlPRG5tamNRX1BocnZLeW1IUlR0aG1pajg5SzRNZlItX2pvUXhUcl9WSjdlNjdyUjBhUmNnT2pOakJtZEdEUTZtQWFVNEFHX1lPR1dWN0VSX1JSanpjZFI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1010,7 +1042,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 59,
+      "chapterCount": 64,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1483,6 +1515,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVJOS2lKdGlEb1A1Tmh5OUxGS2dmU05aekZJakNZT1ZjYWFzNFNDR2taVkxROThjc19maGFsSjc0N05zNDNQUzIzaG9yTUF0aERTdG10NExhQTdTdWVveUFyRUhkUC12OHBfdGhISnRld0ZVQVpfcDNpWTRqQmo4bHFwX2l6U1ZVbjlHdnJiZlJBZDM2NG91bDQ4ZEt6Q1dZMHRfNDhlWkZ5Q3RVRVJET0wwenBqTkJ6RExYUXV6eEp2enFpdWZVbHR3VFhzOUpUOGlF?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781388259160",
+          "date": "2026-06-13",
+          "title": "Brazil v Morocco: World Cup 2026 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY21PVnBRbFJfYWdYMXR3cEJLdFV2Tkt1Y3ZRZFVVa21BNXhWSlVRUzMtRFI0cWY2TzRKNVNSTDBTalpIMl9MWWQ0RHhtWnhtcVEzbktPS3hKOGJYWWs3aXNKd210a0NwNTAyd3hxVlE4WHlBMHB6dFhwVGR2OXdZM2pzdUpJd0hkVDZDZXNRSHljRDJv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781388259160",
+          "date": "2026-06-13",
+          "title": "Brazil vs Morocco live: World Cup 2026 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanE4N2NYNWdsZWNYYU5SOW44ZE9LY3FRVUZBUXVjZnF6Q2NySG9HWVQtRVpBcFNFcER3ZFVieWZsNG1lSjcwdHIyZnAya0YxRFA3VzBrQkVqOU1vb0R1N3J1Tk1yQWJoUFdHUF91N3Z2ZmoybXhydWFXcWdwX3c3SWpYNGdHdVJGLUtQYjdxdWdDMlBIWi11RGZhbFU2dmdCNnlheUdYc0V3dC1u0gGyAUFVX3lxTE9KeS1IYWtCLUJvQlBnVjFscEc0bmdZemhBbzA1bjFUQzBWdzRQbVVIcXB2MzBOaTRrQ1hxbzJITUlNODdqLWxTWE9EdUhuRlJZd3dQWjNpQTNXenUzX2NsTU1Qcm9QUTV1T1VNR0JXeVIyWlc5U01ZTmxwRUR5T2hHaXFLY2ZOZFdsV3ZCaDhkRmMzZjh0WHBkNy1NUlpJZmZoSHlVQzJibEVDeGp6aHZIeUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781388259160",
+          "date": "2026-06-13",
+          "title": "2026 World Cup schedule, scores, live updates: Qatar vs. Switzerland, Brazil vs. Morocco and more in action on Saturday - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSk82VlZIeWljaFNsa184MHl3QU1oam9sMjhCajVFdGsybHFmdTdXbGxpZWVQVWI2ZDNRbFdaS1BZbW1hSFhmd1JUQ0FZYUg5cjBoT0VUQUVxUFhtTjJHdVJscjlBVnpZZnBqY0s5aURENkhseFBsRFNIT18zbkxGSm9LSEg5TUdfbXBrTnZTRUtyaTF4OUg4WHpOUXpMeTR6SnBZY1pfbWR0VmNoZ204Mnp6Rk1VVnFCRDhocDVfaUwxYmF6czZkWkpueTFBUU1EeHNhWGRMQ09mOEFTeHpwNU83UFcyX1pBRlhXMWdpc1ppNlBMNEtLQkNscWNiVkNIdm5pN1EzaEV6XzlPZ2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781388259160",
+          "date": "2026-06-13",
+          "title": "Vinicius Junior leads Brazil into World Cup, shop Vini Jr.'s Nike team jersey - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3czVEV1aU9JODRma21JY3RNdnAxWGt4aHFBUk51V0J3RW14UEF1RE8tMXpncXktb3VDMWlPY29hbnQ3X0N3N2NIQ3hyNFQ1a09aeVJJWFhOb1FtNE9Uaks5aGYzcHBRbE10ckdwSFpPWjdZSDE3eFJvN05JekdBLUhKX095T1h1SWU5eTZxTmxqcHN2bVZwSXVtcjNvYzBPUEJ1andpbFBNalVVS3U0VTBiQnpYVzVtMk95TlV5VGNpOWVO?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781388259160",
+          "date": "2026-06-13",
+          "title": "Why Neymar Isn’t Playing for Brazil vs. Morocco—2026 World Cup Opener - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdZaHBjMGZFdUtyTmtrOVd2MzVlYmFJUU5XdUhweHVrWEFtZERzQmU4OVpsUlJDV0tSd0lZNC1zVmxadTBSZk9QTXdkOGNlSUlEZy1fWkNqUUdKVHRtUUpUT0VrSU51OVQwOGtqbkkyYnJ5dUllYmZKZHl6OVZsaGptb1JHYjJGTHpsOEZQbkROZEo4ZGl5ZQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1575,7 +1647,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 70,
+      "chapterCount": 73,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2135,6 +2207,30 @@
           "title": "The Three Lions have landed: England arrives in Kansas City for the World CUp - KMBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDZST1ZjZjQ2MkpLaU0xeXBwTF9HMnNDaXprXzYwN0llSy1fWUJqVGJ5c1ptODVmUktzNzZFMVZHWTZQN3pNS2h6NWlJb1dFcjhZSU1WQlg3TEhJXzA2UXV1Wnd2N0hDbnhVNTZWTURmV3ZOM3ZKRVBYSjlzVU1DX0hXM0JVZE13aTB6cTF6NA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781388259786",
+          "date": "2026-06-13",
+          "title": "World Cup 2026 live: Brazil vs Morocco latest scores, news, updates - The Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMl9qTm04SXYwMktoZVRaQ2hKNjV6RllQNV9LZURlVE5NYjNXY05PZGN3UUZLbk5HY1Vlb1hBY2FiZUpCaVpjTWJPa0hQdDYwVWxrU1FMazNwMjlzempvT1FvV2JuZXg2Ym5yWUtHWWFfdEtfelFYUlQ2SVl6TGxzQk1fM243NndiRnNibFFlT2R1bGpxaU5tTHRFYlQ3ZHdLVEMzbms4NExOcXdHVXoydVhEaGdTejZKeHRlRA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781388259786",
+          "date": "2026-06-13",
+          "title": "Team England arrived Saturday in Kansas City for FIFA World Cup base camp - KSHB 41 Kansas City",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3Y4d3pBOWhRS05VZU1WV0pxajJiNzlEVjBrbDE5NmFQUFZFQnpfT3pjcXR0THJ1aHhQb3ljeWxTMTZQcF9MU1RuTGFSTE9rcmNtT252THl0dFluRFp4MU9OdDZhcktXNHBZenlfSFpJOG1BZ2o3aG9FblFfdnFHMzZJT3M3N0lKRG1DR2l0alBaRUlldGEySUJ1d1paS0NHcUxuM2pBMWk4a1BY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781388259786",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: Qatar vs Switzerland - Mahmoud Abunada celebrates - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV0hxSC1uYjJuN0pBQTgxUGd3ZEtRa0hyLW9CZTMxTTNHTC1FclBmQnBOSGR6cldqOUpOVm9nNTBLQkdtOXI3bjNMT1FnZE1tN3NOalRXSkt5ZDhMd1dHSEFGRVFsY3c?oc=5",
           "draft": true
         }
       ]
