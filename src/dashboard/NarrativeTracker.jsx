@@ -36,6 +36,9 @@ function StakeDots({ rating }) {
 function NarrativeCard({ narrative, expanded, onToggle }) {
   const statusCfg = STATUS_CONFIG[narrative.status] || STATUS_CONFIG['pre-tournament'];
   const catIcon   = CAT_ICONS[narrative.category] || '📖';
+  // Auto-fetched headlines (draft: true) are research material, not finished
+  // chapters — only show ones an editor has written up.
+  const publishedChapters = (narrative.chapters || []).filter(ch => !(typeof ch === 'object' && ch.draft));
 
   return (
     <div className={`narrative-card${narrative.featured ? ' featured' : ''}${expanded ? ' expanded' : ''}`}>
@@ -79,10 +82,10 @@ function NarrativeCard({ narrative, expanded, onToggle }) {
             <p className="narrative-card__watch-text">{narrative.watchFor}</p>
           </div>
 
-          {narrative.chapterCount > 0 && (
+          {publishedChapters.length > 0 && (
             <div className="narrative-card__chapters">
-              <span className="narrative-card__watch-label">{narrative.chapterCount} chapters written</span>
-              {narrative.chapters.map((ch, i) => (
+              <span className="narrative-card__watch-label">{publishedChapters.length} chapters written</span>
+              {publishedChapters.map((ch, i) => (
                 <div key={i} className="narrative-chapter">
                   <span className="narrative-chapter__num">Ch.{i + 1}</span>
                   <span className="narrative-chapter__text">

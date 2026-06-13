@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T16:13:49.075Z",
+  "lastUpdated": "2026-06-13T17:48:37.197Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -411,7 +411,7 @@
     {
       "id": "nar-003",
       "title": "USMNT on Home Soil",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "USA"
@@ -1385,7 +1385,7 @@
     {
       "id": "nar-005",
       "title": "Mexico Breaks the Curse",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "MEX"
@@ -1403,7 +1403,7 @@
     {
       "id": "nar-006",
       "title": "South Africa: The Opening Match Shock",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "RSA",
@@ -1988,7 +1988,7 @@
     {
       "id": "nar-009",
       "title": "Canada's Home Tournament Debut",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "CAN"
@@ -2006,7 +2006,7 @@
     {
       "id": "nar-010",
       "title": "The 48-Team Experiment",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "format",
       "teams": [],
       "teamFlags": [
@@ -2040,7 +2040,7 @@
     {
       "id": "nar-012",
       "title": "Bosnia-Herzegovina: A Nation's First World Cup",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "BIH"

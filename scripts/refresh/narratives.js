@@ -37,6 +37,36 @@ const NARRATIVE_KEYWORDS = {
   'USA': 'USMNT World Cup 2026',
 };
 
+// Auto-promote a narrative from "pre-tournament" to "building" once its
+// storyline has actually started — either one of its teams has played a
+// finished match, or (for team-less storylines like the format narrative)
+// the tournament has kicked off at all. Later stages (climax/resolved) stay
+// editorial calls made in the Admin Panel.
+function bumpStatuses(current, matches) {
+  const playedTeams = new Set();
+  for (const m of matches) {
+    if (m.status === 'finished') {
+      playedTeams.add(m.homeCode);
+      playedTeams.add(m.awayCode);
+    }
+  }
+  const tournamentStarted = playedTeams.size > 0;
+  const bumped = [];
+
+  for (const narrative of current.narratives) {
+    if (narrative.status !== 'pre-tournament') continue;
+    const teams = narrative.teams || [];
+    const hasStarted = teams.length > 0
+      ? teams.some(t => playedTeams.has(t))
+      : tournamentStarted;
+    if (hasStarted) {
+      narrative.status = 'building';
+      bumped.push(narrative.title || narrative.id);
+    }
+  }
+  return bumped;
+}
+
 export async function refreshNarratives() {
   console.log('[narratives] checking for new chapters via news search…');
 
@@ -44,6 +74,13 @@ export async function refreshNarratives() {
 
   const file    = join(DATA, 'narratives.json');
   const current = JSON.parse(readFileSync(file, 'utf8'));
+
+  const matchesFile = join(DATA, 'matches.json');
+  const matches     = JSON.parse(readFileSync(matchesFile, 'utf8'));
+  const bumped      = bumpStatuses(current, Array.isArray(matches) ? matches : matches.matches || []);
+  for (const title of bumped) {
+    summary.applied.push(`"${title}" moved pre-tournament → building`);
+  }
 
   let addedChapters = 0;
 
@@ -94,12 +131,12 @@ export async function refreshNarratives() {
     }
   }
 
-  if (addedChapters > 0) {
+  if (addedChapters > 0 || bumped.length > 0) {
     current.lastUpdated = new Date().toISOString();
     writeFileSync(file, JSON.stringify(current, null, 2) + '\n');
-    console.log(`[narratives] added ${addedChapters} draft chapters`);
+    console.log(`[narratives] added ${addedChapters} draft chapters, bumped ${bumped.length} statuses`);
   } else {
-    console.log('[narratives] no new chapters found');
+    console.log('[narratives] no new chapters or status changes');
   }
 
   return summary;
