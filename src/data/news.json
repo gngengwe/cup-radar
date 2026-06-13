@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-13T19:44:16.416Z",
+  "lastUpdated": "2026-06-13T19:44:21.785Z",
   "articles": [
     {
       "id": "news-auto-qatar-v-switzerland-world-cup-2026-live--2026-06-13",
@@ -23,7 +23,8 @@
       "date": "2026-06-13",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkdBS29JckIyMnM2eU0zRlJLWlNwcHZjMWZpSUl3azNrVVBhQmZyMjJDc3NxNWsyOXlqZzM0NExxc1o3VFJJYXBUR2hOR1lkcjZybGVnRjFkM3oyUnBHRjJtb0Y5bVJGREVVblZKN3kzWmZNUWg5T1E5c21lOUZYV0lvcFVMWGxiY01DVHd3LWZzUkdFSXVn0gGcAUFVX3lxTE94X0tVU1MxekpLbHk5SEs2bGFuNkVOVHRuSDQxOVVaU2NlbHBSY0hselQwN1ZVX0JndmYzWUVXT3FIRjM5b0NWZ3hfY3hfeEdoRW9mdi16QTBWRk1kcm5XaTd1cWpVVGNNM3JlOXZ3SWdXZTFFQ2Z2TGUyQnhxSWFJcU8wV0tKRGdLUEhiYzhVR3Vod24yMEVpN2MwTw?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-13T19:44:21.785Z"
     },
     {
       "id": "news-auto-nba-needs-to-incorporate-mistaken-identi-2026-06-13",
