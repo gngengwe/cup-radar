@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T11:22:48.704Z",
+  "lastUpdated": "2026-06-13T13:59:59.268Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -423,7 +423,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 58,
+      "chapterCount": 60,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -888,6 +888,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0xPbjhrWTFXYkxvQmUxUU9xQW4yUDFBZXBOYk50dXhXWDZWZ1NoYm53b2RJR1l6aHpVS05sVGFXTDd5ajM1TlJYbGRnTnNoVXhDcnFJN0hXV0l6ei03dUhtU1RLTDdUZHlYb0R1aG5XY010X2xtcXlsQ3c3dlZBdFRMVHUxb0h6TXp2S0ZzLTNtSWxuZHZuUVgyLVJGbnhiZUc3ZkdXUWx0SS1uaDdEanBfWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781359197996",
+          "date": "2026-06-13",
+          "title": "Power ranking the most patriotic fans at the USMNT's World Cup opener against Paraguay - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaG1jN1BxbGYyejEtSjdXSlJncDk2SkxpZVFuY29BVWZsUUZqejhBamtmU21qV095NjNNS2ZON2RPTzJ1VmdfMUdpZXBTSl9DZzNmUUx4M3hPUldvS2lCY25VRnl3Tm1SVmt4d0ZzbHhGQXYzUUJpd0FhQUVCU2o1c3FNMDlVR1FwbDltcHdaUEw3M1lJVEhVS1RQaDBGY1Y3V2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781359197996",
+          "date": "2026-06-13",
+          "title": "Balogun living World Cup 'dream' as U.S. choice pays off - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXV6enFwaXpGdHlyZUw3NGpkazZSYW90enZuZVlEeXJobHR1Z1hMMWdCYVdDVW93RDFHN3Z4WkFiQ01qSG5xS1lXR3ZXUUI5b2xXMTdRRkU3bm5DSVl1Qmh4dks5Z0J1MXl5eU9EMkY5a25QTW5xUkZ5SjgyN2czNmJyNS1kWmw4RC1IMnhuTWxVMW02QmVZVVhRVzJhQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -906,7 +922,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 47,
+      "chapterCount": 51,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1283,6 +1299,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0hUZ0pVQTYtaVpqaXNhZVdNQl8zVXBobHJVSHNvN082YU1KRVItc0U1OFVULWd0MDlQdTlXSElYVTg3Wlh2NEV4R0xVOVoyLUZ4aU95Yno3ZHlHX0FwbG9uOE5CWGRRWmhvZVpUR05nSmNGYXBCb2N3U0RXa2NPcGc5ZXE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781359198720",
+          "date": "2026-06-13",
+          "title": "Brazil vs. Morocco odds, prediction, time: 2026 World Cup picks, best bets from expert on 31-13 run - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd29Gb2hZclprcWh4cEhoa0NrcFNlR05YVW5pcTB5bmN2QVY3NmVjUEZkVDdfMV9LT0FuV05NVllfU2ZrRmdXMFYzOE1OTlJ0NS1XUEZwTDNtSW54alU2T3AyOUpJTkRqbEtUNTFsM1lNWmstSWpIaGlXcHFZQkhQZzdBVGxZTm1jVmxySThwN19iSUNfMFRwU0dnczFVdDNHZGQyVXM4bkM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781359198720",
+          "date": "2026-06-13",
+          "title": "'Gang leaders are soccer lovers' - Haiti play with hope for peace - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SNDZEcy1ibkl3NDJtVW53dkdCSUh6V2JUVE4zd0hXbHNPZTNGc2VHMkxvY29Ya2E5a3VYdkYtV1VsRlYwQzBEZzhzeUw3Vm9zRVBpWXFUNUJxQWR4S3Q5elR2cmZYdEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781359198720",
+          "date": "2026-06-13",
+          "title": "Brazil hopes to end a 24-year wait for World Cup glory. The pressure has never been greater - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLbl8wT0NtU2lvbkhuaGNYa0NRYUhxbW9UQlRkNlpmMUpjcW5tejFSczdwd0tBODRXTm5HRUM0YnJzNnV5WC1ocFBJOVlEQ0dNdWVvWGQ2cHE3Q18wU2xUUlVqZzJYRnl1M0lB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781359198720",
+          "date": "2026-06-13",
+          "title": "Morocco ready to battle top nations as it sheds underdog status - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yeWtJQ3ZBeHVIS0xBcW0yeVJELUE2ak55T0VNc0Uxb1p6ekhVV1ZMcFZXZ2RyYnVEdkZvLW1rSTlXdUdjTzgxc21DSlhiZnFOamQ1Y2xaanlZeGVLU2RCQVNOUGt2N0VadnRGWGZSQ051R3ZwMUhjZC1FQ2ZNdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1357,7 +1405,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 62,
+      "chapterCount": 65,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1853,6 +1901,30 @@
           "title": "World Cup 2026: Inside the England training base - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2tXMUJ3TlVTQUtwRkJRN3lBU2FmNmJ1MUJYdWRIUmFKSHVyX1ZPVkZBdldZeFkxR2pKcXpTNDU3b2NZOXZLc0lTMTFpeDViV19NRmtPZm9rLW44WTZYazlqMm04Y2JfQUE5UUJxbkFfa2lEZUVsZUNXeGFjV2JvaUxLTExNUUlTT1dBM3lKYjBybkFTczdjRVRPM3JOZk93WGh2OWR3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781359199268",
+          "date": "2026-06-13",
+          "title": "England recover stolen training kit five days before World Cup opener - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm5IaEpfRlpaOG16RVZpbzMtdkptdlZEYkFoUEo0WVJoSXJOMEFCRWNUOTlUUUpKTzA4cGpTQ2JhMTBJLU1aeDc4TlgyZ1lBbHlMUWRBTnNrSUdJMlFWREF0MmdlUTU5aHQzNm9VdmV1QWZCMk56RXFhVVlxOEtkay1kSEhyc21JdjlZdFJaWk1Cc3poRExISjNJU2I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781359199268",
+          "date": "2026-06-13",
+          "title": "World Cup: England's five-star Kansas City hotel and training facilities explained - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVpDVm8ydHJRU3R0WjdBcFBsVmlSRGk4Sm1RQmRJN2NyeVQ3bGNpeWdBbnFKNGduOE1INzF3aURnMHp1cE9FSzNvRWpCOXF0MHlFVm96SDdSVmlaUlpQYXBwYzNGWEdEZm82d3N2d2xMVkhZVElmaDdzSVVhZWtydzZGNllMT1hvU2o2VTFld1U1RE8zc0tod2dwUU5sblVia0JsN0EtZDlabXBTSDRjWVBETUthT3JjYUU5Ny1WNS1weE52UmJkajFMV3BiTVVq?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781359199268",
+          "date": "2026-06-13",
+          "title": "Two arrested as England gear stolen just ahead of World Cup 2026 debut - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUZvM3VDM1dfOGdLU2EzWmo1d0VpNFl3TTZMR0l4Q3JPLTljNmRhd2d5ODVBcjI3N3A1OE9wQU9uMUdDenA1N2JWb2tHTTlyNF9qZWdPYTREWS1SRGZJbzJQSVdfTVVGX0RYdXN5bGdRcTVVTEt1YWRzVWtLSUdkWmcyZEViN09nalM2QjhJcDRaWjFmUnEtTDlpY3gyS1JmQURlLVBLWURIbmtq?oc=5",
           "draft": true
         }
       ]
