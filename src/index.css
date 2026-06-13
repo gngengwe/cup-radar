@@ -3668,6 +3668,52 @@ td .flag-img { margin-right: 4px; }
   max-width: 680px;
   margin-bottom: 20px;
 }
+
+/* ── Choose Your Path hero ── */
+.wcp-paths {
+  margin-bottom: 8px;
+}
+.wcp-paths__label {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 12px;
+}
+.wcp-paths__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+}
+.wcp-path-card {
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.wcp-path-card:hover {
+  border-color: var(--border-accent);
+  background: var(--accent-soft);
+}
+.wcp-path-card__label {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+.wcp-path-card__desc {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
 /* ── Controls (fan mode, search, filters) ── */
 .wcp-controls {
   position: sticky;
@@ -3770,6 +3816,46 @@ td .flag-img { margin-right: 4px; }
   transition: all 0.15s;
 }
 .wcp-clear-filters:hover { color: var(--text); border-color: rgba(255,255,255,0.18); }
+
+/* ── Smarter search: best-match callout ── */
+.wcp-best-match {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  text-align: left;
+  background: var(--accent-soft);
+  border: 1.5px solid var(--border-accent);
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  margin: -8px 0 24px;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.wcp-best-match:hover { border-color: var(--accent); }
+.wcp-best-match__label {
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.wcp-best-match__title {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+.wcp-best-match__summary {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+.wcp-best-match__section {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-top: 2px;
+}
 
 .wcp-hidden-note {
   text-align: center;

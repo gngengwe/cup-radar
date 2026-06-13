@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import guidePage from '../data/world-cup-guide-page.json';
 import soccerLearning from '../data/soccer-learning.json';
@@ -81,6 +81,55 @@ function extractTags(item) {
     ...(item.absenceType ? [item.absenceType] : []),
   ];
 }
+
+function getItemTitle(item) {
+  return item.title || item.label || item.teamName || item.player || '';
+}
+
+function getItemSummary(item) {
+  return item.summary || item.fact || item.pitch || item.plainEnglish || item.reason || item.hook || '';
+}
+
+// "Choose your path" hero — each option sets a fan mode and scrolls to the
+// section that best matches that intent.
+const FAN_PATHS = [
+  {
+    id: 'rules',
+    label: 'Teach me the rules',
+    description: 'Start from zero — the basics, the words people use, and what to watch for first.',
+    fanMode: 'brand-new',
+    targetSection: 'start-here',
+  },
+  {
+    id: 'team',
+    label: 'Help me pick a team',
+    description: 'Find a national team whose style and fan culture will make this tournament feel personal.',
+    fanMode: 'casual',
+    targetSection: 'adopt-a-team',
+  },
+  {
+    id: 'smart',
+    label: 'Make me sound smart',
+    description: 'Skip to the tactics, formations, and team-culture talk that makes you sound like you know ball.',
+    fanMode: 'i-know-ball',
+    targetSection: 'soccer-brain',
+  },
+  {
+    id: 'weird',
+    label: 'Explain the weird stuff',
+    description: 'Jump to the records, oddities, and history that make the World Cup feel bigger than a normal season.',
+    fanMode: 'all',
+    targetSection: 'world-cup-weirdness',
+  },
+];
+
+// When a fan mode is active, sections in this list are pulled to the top in
+// this order so the page feels remixed for that reader, not just filtered.
+const FAN_MODE_SECTION_PRIORITY = {
+  'brand-new': ['start-here', 'soccer-translated', 'soccer-dictionary', 'how-soccer-is-built', 'world-cup-primer', 'watch-smart'],
+  casual: ['soccer-translated', 'watch-smart', 'adopt-a-team', 'missing-stars', 'fan-culture-atlas', 'world-cup-history'],
+  'i-know-ball': ['soccer-brain', 'formations-made-simple', 'soccer-dictionary', 'fan-culture-atlas', 'world-cup-history'],
+};
 
 function SourceChips({ sourceIds }) {
   if (!sourceIds || sourceIds.length === 0) return null;
@@ -265,6 +314,7 @@ export default function WorldCupPrimer() {
   const [query, setQuery] = useState('');
   const [activeTag, setActiveTag] = useState(null);
   const [activeSection, setActiveSection] = useState('all');
+  const [pendingScrollTo, setPendingScrollTo] = useState(null);
 
   const { sections, page } = guidePage;
   const fanModes = useMemo(
@@ -313,6 +363,19 @@ export default function WorldCupPrimer() {
     }))
     .filter(({ items }) => items.length > 0);
 
+  // When a fan mode is active, pull its priority sections to the top so the
+  // page reads like it was remixed for that reader, not just filtered.
+  const orderedVisibleSections = useMemo(() => {
+    const priority = FAN_MODE_SECTION_PRIORITY[fanMode];
+    if (!priority) return visibleSections;
+    const priorityIndex = new Map(priority.map((id, i) => [id, i]));
+    return [...visibleSections].sort((a, b) => {
+      const ai = priorityIndex.has(a.section.id) ? priorityIndex.get(a.section.id) : priority.length;
+      const bi = priorityIndex.has(b.section.id) ? priorityIndex.get(b.section.id) : priority.length;
+      return ai - bi;
+    });
+  }, [visibleSections, fanMode]);
+
   const hasActiveFilters = fanMode !== 'all' || activeSection !== 'all' || !!activeTag || !!q;
   const clearFilters = () => {
     setFanMode('all');
@@ -320,6 +383,23 @@ export default function WorldCupPrimer() {
     setActiveTag(null);
     setActiveSection('all');
   };
+
+  // "Choose your path" hero — sets a fan mode and scrolls to the section
+  // that best matches that reader's intent.
+  const choosePath = (path) => {
+    setFanMode(path.fanMode);
+    setQuery('');
+    setActiveTag(null);
+    setActiveSection('all');
+    setPendingScrollTo(path.targetSection);
+  };
+
+  useEffect(() => {
+    if (!pendingScrollTo) return;
+    const el = document.getElementById(pendingScrollTo);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    setPendingScrollTo(null);
+  }, [pendingScrollTo, orderedVisibleSections]);
 
   // Sections that vanish because a tag/search left zero matching cards —
   // distinct from sections a fan mode deliberately hides.
@@ -339,6 +419,30 @@ export default function WorldCupPrimer() {
   if (activeTag) activeFilterLabels.push(`the "#${activeTag}" tag`);
   if (q) activeFilterLabels.push(`your search for "${query.trim()}"`);
 
+  // Smarter search: surface the single best-matching card above the
+  // filtered grid, scored by title match quality.
+  const bestMatch = useMemo(() => {
+    if (!q) return null;
+    let best = null;
+    let bestScore = 0;
+    for (const { section, items } of sectionsForActiveSection) {
+      for (const entry of items) {
+        if (fanMode !== 'all' && !entry.fanModes.includes(fanMode)) continue;
+        if (activeTag && !entry.tags.includes(activeTag)) continue;
+        const title = getItemTitle(entry.item).toLowerCase();
+        let score = 0;
+        if (title === q) score = 3;
+        else if (title.startsWith(q)) score = 2;
+        else if (entry.searchText.includes(q)) score = 1;
+        if (score > bestScore) {
+          bestScore = score;
+          best = { section, item: entry.item };
+        }
+      }
+    }
+    return best;
+  }, [q, sectionsForActiveSection, fanMode, activeTag]);
+
   return (
     <div className="wcp-page">
       <div className="wcp-topnav">
@@ -350,6 +454,23 @@ export default function WorldCupPrimer() {
           <span className="section-label">{page.eyebrow}</span>
           <h1 className="wcp-title">{page.title}</h1>
           <p className="wcp-subtitle">{page.subtitle}</p>
+
+          <div className="wcp-paths" role="group" aria-label="Choose how you want to use this guide">
+            <p className="wcp-paths__label">Choose your path</p>
+            <div className="wcp-paths__grid">
+              {FAN_PATHS.map(path => (
+                <button
+                  key={path.id}
+                  type="button"
+                  className="wcp-path-card"
+                  onClick={() => choosePath(path)}
+                >
+                  <span className="wcp-path-card__label">{path.label}</span>
+                  <span className="wcp-path-card__desc">{path.description}</span>
+                </button>
+              ))}
+            </div>
+          </div>
         </header>
 
         <div className="wcp-controls">
@@ -411,6 +532,21 @@ export default function WorldCupPrimer() {
           )}
         </div>
 
+        {bestMatch && (
+          <button
+            type="button"
+            className="wcp-best-match"
+            onClick={() => setPendingScrollTo(bestMatch.section.id)}
+          >
+            <span className="wcp-best-match__label">Best match for &ldquo;{query.trim()}&rdquo;</span>
+            <span className="wcp-best-match__title">{getItemTitle(bestMatch.item)}</span>
+            {getItemSummary(bestMatch.item) && (
+              <span className="wcp-best-match__summary">{getItemSummary(bestMatch.item)}</span>
+            )}
+            <span className="wcp-best-match__section">In {bestMatch.section.label} ↓</span>
+          </button>
+        )}
+
         {visibleSections.length > 0 && hiddenByTagOrSearch > 0 && (
           <div className="wcp-hidden-note">
             {hiddenByTagOrSearch} {hiddenByTagOrSearch === 1 ? 'section is' : 'sections are'} hidden because no cards match your current filters —{' '}
@@ -426,7 +562,7 @@ export default function WorldCupPrimer() {
           </div>
         )}
 
-        {visibleSections.map(({ section, items }) => (
+        {orderedVisibleSections.map(({ section, items }) => (
           <section key={section.id} id={section.id} className="wcp-section">
             <div className="wcp-section__head">
               <h2 className="wcp-section__title">{section.label}</h2>
