@@ -3668,22 +3668,6 @@ td .flag-img { margin-right: 4px; }
   max-width: 680px;
   margin-bottom: 20px;
 }
-.wcp-pillars {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-.wcp-pillar {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  color: var(--text-muted);
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 6px 12px;
-}
-
 /* ── Controls (fan mode, search, filters) ── */
 .wcp-controls {
   position: sticky;
@@ -3698,6 +3682,11 @@ td .flag-img { margin-right: 4px; }
   display: flex;
   flex-direction: column;
   gap: 12px;
+}
+.wcp-controls__hint {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin: -4px 0 0;
 }
 .wcp-fanmodes {
   display: flex;

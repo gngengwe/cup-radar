@@ -312,12 +312,10 @@ export default function WorldCupPrimer() {
           <span className="section-label">{page.eyebrow}</span>
           <h1 className="wcp-title">{page.title}</h1>
           <p className="wcp-subtitle">{page.subtitle}</p>
-          <div className="wcp-pillars">
-            {page.tonePillars.map(p => <span key={p} className="wcp-pillar">{p}</span>)}
-          </div>
         </header>
 
         <div className="wcp-controls">
+          <p className="wcp-controls__hint">Pick your level — it reshapes what's shown below.</p>
           <div className="wcp-fanmodes" role="group" aria-label="Filter by fan experience level">
             {fanModes.map(fm => (
               <button
