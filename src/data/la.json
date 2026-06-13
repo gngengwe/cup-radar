@@ -1,0 +1,248 @@
+{
+  "_note": "Los Angeles HQ data — SoFi Stadium, Inglewood. 5 group stage matches + 2 Round of 32 + a Quarterfinal.",
+  "lastUpdated": "2026-06-12T12:00:00-07:00",
+  "venue": {
+    "name": "SoFi Stadium",
+    "address": "1001 Stadium Dr, Inglewood, CA 90301",
+    "capacity": 70240,
+    "notes": "Expanded to roughly 100,000 for World Cup matches. Clear bag policy strictly enforced. The translucent roof and open sides mean it still feels outdoors — dress for SoCal sun even on 'indoor' matchdays.",
+    "parkingNote": "On-site Hollywood Park lots from $75+, often sold out weeks ahead. Book via the official FIFA app or Ticketmaster. Most fans take Metro."
+  },
+  "transit": {
+    "recommended": "LA Metro K Line to Downtown Inglewood station — about a 15-minute walk or free shuttle to SoFi Stadium",
+    "lines": [
+      "K Line — Downtown Inglewood station, direct walk/shuttle to the stadium plaza",
+      "C Line (Green) — Hawthorne/Lennox station, transfer to free game-day shuttle"
+    ],
+    "tips": [
+      "Buy a TAP card before match day — K Line platforms get crowded fast pre-kickoff.",
+      "I-405/I-105 interchange near the stadium is one of the busiest in the country — avoid driving if at all possible.",
+      "Hollywood Park plaza (The Forum side) is the main pre- and post-match gathering area.",
+      "Last trains run later on match nights, but confirm timing for late kickoffs before you head in."
+    ],
+    "parking": "Hollywood Park lots $75–$150+ on match days, often sold out in advance. Remote lots with shuttle service are cheaper but add travel time.",
+    "rideshare": "Designated Uber/Lyft pickup near Pylon Plaza on the stadium's west side. Expect long surge windows after evening kickoffs given the 405/105 bottleneck."
+  },
+  "fanZones": [
+    {
+      "id": "fifa-fan-festival-exposition-park",
+      "type": "Official Fan Zone",
+      "name": "FIFA Fan Festival — Exposition Park",
+      "location": "Exposition Park, near USC, Downtown LA",
+      "dates": "June 12 – July 10",
+      "hours": "11am – Midnight on match days",
+      "free": true,
+      "confirmed": false,
+      "notes": "Free entry, giant screens and live music near the Coliseum. Location based on early planning reports — confirm with official FIFA channels closer to kickoff."
+    },
+    {
+      "id": "hollywood-park-plaza",
+      "type": "Stadium Plaza Watch Party",
+      "name": "Hollywood Park Plaza",
+      "location": "Adjacent to SoFi Stadium, Inglewood",
+      "dates": "Match days only",
+      "hours": "3 hours before kickoff",
+      "free": true,
+      "notes": "The retail/entertainment plaza around SoFi fills with supporters' groups well before kickoff — restaurants, bars, and big screens right at the gates."
+    }
+  ],
+  "preGame": [
+    {
+      "name": "Hollywood Park / The Forum district",
+      "type": "Stadium District",
+      "distance": "Walking distance from SoFi Stadium",
+      "notes": "New restaurants and bars built around SoFi and The Forum — the easiest pre-game option since you're already at the venue.",
+      "area": "Inglewood"
+    },
+    {
+      "name": "Downtown Inglewood (Market Street)",
+      "type": "Neighborhood",
+      "distance": "15-min walk via K Line",
+      "notes": "Local restaurants and bars along Market Street fill up with fans riding in on the K Line — more affordable than the stadium district.",
+      "area": "Inglewood"
+    },
+    {
+      "name": "Manhattan Beach / South Bay",
+      "type": "Neighborhood",
+      "distance": "15–20 min drive",
+      "notes": "Beach-town watch party scene for fans wanting to combine the World Cup with the Pacific coast before heading to SoFi.",
+      "area": "South Bay"
+    }
+  ],
+  "cityEnergyForecast": [
+    {
+      "matchId": "wc26-002",
+      "date": "2026-06-12",
+      "energyScore": 5,
+      "crowdNote": "USA vs Paraguay — the United States' tournament opener at SoFi Stadium. Expect a sold-out, red-white-and-blue crowd from the first whistle."
+    },
+    {
+      "matchId": "wc26-G3",
+      "date": "2026-06-15",
+      "energyScore": 2,
+      "crowdNote": "Iran vs New Zealand — Group G Matchday 3 with no US team involved. Smaller but passionate diaspora crowds on a Monday evening."
+    },
+    {
+      "matchId": "wc26-B8",
+      "date": "2026-06-18",
+      "energyScore": 3,
+      "crowdNote": "Switzerland vs Bosnia-Herzegovina — Group B opener with two well-traveled European fan bases. Solid midweek noon crowd."
+    },
+    {
+      "matchId": "wc26-G4",
+      "date": "2026-06-21",
+      "energyScore": 3,
+      "crowdNote": "Belgium vs Iran — Group G opener. Belgium's golden-generation pedigree draws a strong neutral turnout for a Sunday noon kickoff."
+    },
+    {
+      "matchId": "wc26-D5",
+      "date": "2026-06-25",
+      "energyScore": 5,
+      "crowdNote": "Türkiye vs USA — Group D finale with the hosts' knockout-stage fate on the line. The biggest matchday of LA's group stage by far."
+    }
+  ],
+  "transitPain": [
+    {
+      "matchId": "wc26-002",
+      "date": "2026-06-12",
+      "score": 5,
+      "label": "Very High",
+      "color": "#f87171",
+      "note": "USA vs Paraguay — Friday evening kickoff for the host nation's opener. The 405/105 interchange will be gridlocked for hours around SoFi.",
+      "peakWindow": "3:00–10:00 PM PT",
+      "tips": [
+        "Take the K Line — driving to SoFi on opener night is not recommended",
+        "Arrive at Downtown Inglewood station 90+ minutes before kickoff",
+        "Post-match, expect long waits for trains and rideshares alike — pack patience"
+      ]
+    },
+    {
+      "matchId": "wc26-G3",
+      "date": "2026-06-15",
+      "score": 3,
+      "label": "Moderate",
+      "color": "#facc15",
+      "note": "Iran vs New Zealand — Monday evening kickoff overlaps with rush hour on the 405/105, but stadium crowds will be lighter than USA matches.",
+      "peakWindow": "4:00–8:00 PM PT",
+      "tips": [
+        "K Line still the easiest option during rush hour",
+        "Lighter crowd means shorter lines at Downtown Inglewood station",
+        "Good day to scout your route for busier matchdays"
+      ]
+    },
+    {
+      "matchId": "wc26-B8",
+      "date": "2026-06-18",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Switzerland vs Bosnia-Herzegovina — Thursday noon kickoff avoids both rush hour and a USA-sized crowd.",
+      "peakWindow": "10:00 AM–2:00 PM PT",
+      "tips": [
+        "Best day to drive and park if you must — lots won't sell out",
+        "K Line trains run comfortably outside peak commute hours",
+        "Combine with Hollywood Park plaza for an easy pre-match lunch"
+      ]
+    },
+    {
+      "matchId": "wc26-G4",
+      "date": "2026-06-21",
+      "score": 2,
+      "label": "Low",
+      "color": "var(--accent)",
+      "note": "Belgium vs Iran — Sunday noon kickoff means light weekend traffic on the 405/105 corridor.",
+      "peakWindow": "10:00 AM–2:00 PM PT",
+      "tips": [
+        "Weekend midday is one of the easiest windows to reach SoFi all tournament",
+        "K Line and C Line both run normal weekend schedules — no rush-hour overlap",
+        "Good opportunity to explore Downtown Inglewood before the match"
+      ]
+    },
+    {
+      "matchId": "wc26-D5",
+      "date": "2026-06-25",
+      "score": 5,
+      "label": "Very High",
+      "color": "#f87171",
+      "note": "Türkiye vs USA — Thursday evening Group D decider with the hosts' fate on the line. Expect SoFi opener-level gridlock again.",
+      "peakWindow": "4:00–11:00 PM PT",
+      "tips": [
+        "Treat this like the opener — K Line only, arrive 90+ minutes early",
+        "Hollywood Park plaza will be at capacity well before kickoff",
+        "Pre-book any post-match transport; rideshare surge will be extreme if the US needs a result"
+      ]
+    }
+  ],
+  "shouldIGoScores": [
+    {
+      "matchId": "wc26-002",
+      "date": "2026-06-12",
+      "score": 95,
+      "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "USA vs Paraguay — the United States' opening match of their home World Cup, at SoFi Stadium. This is the ticket of LA's group stage, full stop.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 2,
+        "ticketValue": 2,
+        "atmosphereExpected": 5
+      }
+    },
+    {
+      "matchId": "wc26-G3",
+      "date": "2026-06-15",
+      "score": 52,
+      "label": "Consider",
+      "color": "var(--accent)",
+      "summary": "Iran vs New Zealand — a quieter Group G fixture with no US team involved. Good value and an easier matchday if you want SoFi without the opener crush.",
+      "factors": {
+        "stage": 2,
+        "homeConvenience": 4,
+        "ticketValue": 4,
+        "atmosphereExpected": 2
+      }
+    },
+    {
+      "matchId": "wc26-B8",
+      "date": "2026-06-18",
+      "score": 64,
+      "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Switzerland vs Bosnia-Herzegovina — competitive Group B football with two committed European fan bases, plus the most relaxed matchday logistics of LA's schedule.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 4,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-G4",
+      "date": "2026-06-21",
+      "score": 70,
+      "label": "Go",
+      "color": "var(--accent)",
+      "summary": "Belgium vs Iran — Belgium's experienced core is always worth watching, and a Sunday noon kickoff makes this one of the easiest SoFi matchdays to attend.",
+      "factors": {
+        "stage": 3,
+        "homeConvenience": 4,
+        "ticketValue": 3,
+        "atmosphereExpected": 3
+      }
+    },
+    {
+      "matchId": "wc26-D5",
+      "date": "2026-06-25",
+      "score": 96,
+      "label": "Don't miss it",
+      "color": "#00e676",
+      "summary": "Türkiye vs USA — the Group D finale with the hosts' knockout-stage destiny on the line. If the US needs a result, SoFi Stadium will be the loudest building in the country.",
+      "factors": {
+        "stage": 4,
+        "homeConvenience": 2,
+        "ticketValue": 1,
+        "atmosphereExpected": 5
+      }
+    }
+  ]
+}

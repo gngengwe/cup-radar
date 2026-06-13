@@ -11,6 +11,7 @@ const NewYorkHQ          = lazy(() => import('../dashboard/NewYorkHQ'));
 const PhillyHQ           = lazy(() => import('../dashboard/PhillyHQ'));
 const AtlantaHQ          = lazy(() => import('../dashboard/AtlantaHQ'));
 const VancouverHQ        = lazy(() => import('../dashboard/VancouverHQ'));
+const LAHQ               = lazy(() => import('../dashboard/LAHQ'));
 
 // Shared sections (lazy-loaded once)
 const Matches            = lazy(() => import('../dashboard/Matches'));
@@ -25,6 +26,7 @@ const NewYorkWatchGuide  = lazy(() => import('../dashboard/NewYorkWatchGuide'));
 const PhillyWatchGuide   = lazy(() => import('../dashboard/PhillyWatchGuide'));
 const AtlantaWatchGuide  = lazy(() => import('../dashboard/AtlantaWatchGuide'));
 const VancouverWatchGuide = lazy(() => import('../dashboard/VancouverWatchGuide'));
+const LAWatchGuide       = lazy(() => import('../dashboard/LAWatchGuide'));
 const Newsroom           = lazy(() => import('../dashboard/Newsroom'));
 const CultureTracker     = lazy(() => import('../dashboard/CultureTracker'));
 const NarrativeTracker   = lazy(() => import('../dashboard/NarrativeTracker'));
@@ -96,6 +98,15 @@ const CITY_CONFIG = {
     hqSection:    VancouverHQ,
     watchSection: VancouverWatchGuide,
     accentVar:    '#22d3ee',
+  },
+  losangeles: {
+    label:        'Los Angeles HQ',
+    short:        'Los Angeles',
+    icon:         '🎬',
+    matchCount:   8,
+    hqSection:    LAHQ,
+    watchSection: LAWatchGuide,
+    accentVar:    '#facc15',
   },
 };
 

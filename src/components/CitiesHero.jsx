@@ -159,6 +159,29 @@ const CITIES = [
     ctaLabel: 'Open Vancouver HQ →',
     badge:    "🇨🇦 Canada's western host city",
   },
+  {
+    id:         'losangeles',
+    name:       'Los Angeles',
+    emoji:      '🎬',
+    venue:      'SoFi Stadium',
+    route:      '/losangeles/hq',
+    accent:     '#facc15',
+    accentSoft: 'rgba(250,204,21,0.1)',
+    border:     'rgba(250,204,21,0.25)',
+    matchCount: 8,
+    stages:     'Group Stage · Round of 32 · Quarterfinal',
+    headline:   "USA's group opener. Hollywood meets the World Cup at SoFi.",
+    keyMatches: [
+      { teams: '🇺🇸 USA vs Paraguay 🇵🇾',              date: 'Jun 12', note: 'Group D' },
+      { teams: '🇮🇷 Iran vs New Zealand 🇳🇿',           date: 'Jun 15', note: 'Group G' },
+      { teams: '🇨🇭 Switzerland vs Bosnia-Herzegovina 🇧🇦', date: 'Jun 18', note: 'Group B' },
+      { teams: '🇧🇪 Belgium vs Iran 🇮🇷',               date: 'Jun 21', note: 'Group G' },
+      { teams: '🇹🇷 Türkiye vs USA 🇺🇸',                date: 'Jun 25', note: 'Group D · 7pm PT' },
+    ],
+    modules: ['Matchday logistics', 'Metro K Line guide', 'Hollywood Park fan zone', 'Inglewood pre-game', 'Should I go? scores', 'LA Watch Guide'],
+    ctaLabel: 'Open Los Angeles HQ →',
+    badge:    '⭐ Hosts a Quarterfinal',
+  },
 ];
 
 function MatchRow({ match }) {
@@ -217,7 +240,7 @@ export default function CitiesHero() {
   return (
     <section className="section cities-hero-section" id="choose-city">
       <div className="container">
-        <span className="section-label">Seven cities. One dashboard.</span>
+        <span className="section-label">Eight cities. One dashboard.</span>
         <h2 className="section-heading">Choose your HQ city.</h2>
         <p className="section-sub">
           Cup Radar goes deepest in your home city. Every dashboard section —

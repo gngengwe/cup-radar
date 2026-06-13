@@ -6,6 +6,7 @@ export const CITY_META = {
   philly:     { label: 'Philadelphia', short: 'PHI', icon: '🦅', matchFlag: 'phillyMatch',   newsCategory: 'philly',     accentColor: '#10b981' },
   atlanta:    { label: 'Atlanta',      short: 'ATL', icon: '🍑', matchFlag: 'atlantaMatch',  newsCategory: 'atlanta',    accentColor: '#fb923c' },
   vancouver:  { label: 'Vancouver',    short: 'VAN', icon: '🍁', matchFlag: 'vancouverMatch', newsCategory: 'vancouver',  accentColor: '#22d3ee' },
+  losangeles: { label: 'Los Angeles',  short: 'LA',  icon: '🎬', matchFlag: 'laMatch',       newsCategory: 'losangeles', accentColor: '#facc15' },
 };
 
 export function getCityMeta(city) {
