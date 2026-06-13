@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T17:48:37.197Z",
+  "lastUpdated": "2026-06-13T17:59:14.948Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -423,7 +423,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 63,
+      "chapterCount": 66,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -928,6 +928,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUm41U0gtTWV6Vm5kcUx6VUVMVTJkcUFUcEw5T2RqbmhRemFiWWFkeXBEalFlYTBORDBQck9EaWpUQzNLLXloQWpGS1JfRHNyd185cE5ycmxRbzlBd08wcUpHR2ZWOEVfZ2EtbEdnM2tZSklCdDJmRHhCYlR1dVRFbzVEMVBGQkFnQXJvcGROWF9MVFNMQlk3bGF2ZmM5OFRRQ0kyeEZYWjRTUFdFeDQ1bU5R?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-002",
+          "date": "2026-06-12",
+          "title": "USA beat Paraguay 4-1 at SoFi Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-003-1781373553858",
+          "date": "2026-06-13",
+          "title": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXpOYnlobVRwWE1fZVp2MEUwNnZHMmllR3JONWI0SDVIQjlwTGNkOEx2eV9BajJ2Y3lIdE5YX3AxY1FTUlZNSk1LOE9wODg4X2tRVVotRktqYUcyU1oxNlJwQ3dpVjFXSmkxTHpQc1k2TTJMaEJuVnlRV093MW1GWmFERV9sb1hCbFZjVl9CcDRscmd0ZldtV0VUeVN1WERRRXBaZkUyZnM4RWViMWtTODAzRVJVRjRHQU1LODNUTVg4YlladGl2bVpTN0EtZDJ1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781373553859",
+          "date": "2026-06-13",
+          "title": "Why is football called 'soccer' in the US and Canada? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWEZTbjMzZFhkeV85UDB6dFdLRmptQkVNUW9SQUdFRGpzYmRVanFOZDRxTXRqenE5cW1DdEMwVm1fNmlCc3l6dzU2LUNjb3hkVjBDVEV4Q0dpdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -946,7 +970,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 54,
+      "chapterCount": 57,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1379,6 +1403,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1RNN1JWWTJTSTd1VVIyVGlVZy15Sk9sNTFVd1ZTckdyLU9tVmxEYWRrTEtpLXljYjJCQ0dsNnJZSXNVcGg3bzFueVpNYVNJRjZZMjBHRHgwTXVfZWdpV1FTTEMtRjlieDk5cG5QLWJTQWdNeVhZbEw4NEZRazVFOG5XNXdHQ21tRW91RUR3MA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781373554397",
+          "date": "2026-06-13",
+          "title": "The World Cup hits full gear on a massive Saturday - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMlY5ZzRobkpTUXhZTzZwNVE3Y1R4R3VBVEJsLWJpWGRkZmUyamhPZFFRVE5EX2pJZnNEX3B0QTVKWFVqUjU4Y2xLQlVJaDUxZVNTMWctcjVEb2VOOUZjLWROYjBOS09IZXhveEI4OWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781373554397",
+          "date": "2026-06-13",
+          "title": "2026 World Cup June 13 schedule: Soccer games today - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnp2UENDTGRsSkNDMGY5LTJhREVCMWg4SG1hejdCRGpGLW9wamFIcGdaS3hzTjVkM3VhMVlpWkRqTHBCb1BPTVhzMWdZdEZwYlE4NzctTV9YbW1yeFF4dGdKbFpDczVOSDFxWnQ3b1V0ZW5iZWVNZ091ZWl2VDYyd1Q1OV9lWEFZUF9FenVRREpfU3d5bl82azFXekhEYVdjUDJ2WFF3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781373554397",
+          "date": "2026-06-13",
+          "title": "World Cup live updates: Tourney jumps up a notch with four games Saturday - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeE90MUtUM1ozd1VScW1rajd3UXdPZGJWdzJ3Q0dReVpsMHRlMi1GZGhKSUxoNmFSd2lVTEt2U1c3Z3g0bElBMzNaSTgtOXJvTHNGSUk5aWdNTzJ6S0JuMVF5ZVpDVDRQNUxiaEJwd0F6Q3R0MmJtak1qSFBCcHZ3NFBsY1V3Q3ppcmwyLVJ5N1ZWYlhWQ19aTktySDNVb18yUEVrc3dITWlyeVo1M2xFSExIdkRXeGJ5cVdqbXBkd2F1UzdRWE5wWGZibU5PY3hwRVNpR3dxVQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1397,8 +1445,17 @@
       "emotionalStake": 4,
       "summary": "Mexico has been eliminated in the Round of 16 in every World Cup from 1994 to 2018 — eight straight times. As co-hosts in 2026, playing an opening match at the sacred Estadio Azteca, they have the most emotionally charged chance in decades to finally break through.",
       "watchFor": "Do they get past the Round of 16 for the first time in 32 years? The Azteca crowd will be deafening. And can a new generation of Mexican players carry that weight?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 1,
+      "chapters": [
+        {
+          "id": "ch-result-wc26-001",
+          "date": "2026-06-11",
+          "title": "Mexico beat South Africa 2-0 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        }
+      ]
     },
     {
       "id": "nar-006",
@@ -1417,8 +1474,17 @@
       "emotionalStake": 4,
       "summary": "South Africa is handed the most difficult opening match in World Cup history: Mexico at the Azteca on opening day. But upsets happen. South Africa's 2010 home World Cup showed what belief and occasion can do. An opening-day shock would be one of the great moments in tournament history.",
       "watchFor": "Can South Africa survive the Azteca atmosphere and grind out a result? Even a draw would be historic. A win would be one of the best moments of the tournament.",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 1,
+      "chapters": [
+        {
+          "id": "ch-result-wc26-001",
+          "date": "2026-06-11",
+          "title": "Mexico beat South Africa 2-0 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        }
+      ]
     },
     {
       "id": "nar-007",
@@ -1453,7 +1519,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 66,
+      "chapterCount": 69,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1982,6 +2048,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNzNrNnRNVlJsMDFCZGYtd0ZCYjFyODlaVUFvMW8yNFlYbEhUQ3FVUG95TEF0Mm1feG9xUUxHdWl2MHVzRzRwQ19JUTlGbGxlanA1TEU4VllKUWp6Yk16ay1raVlSeVk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781373554948",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: USA's Folarin Balogun stars against Paraguay after rise at Arsenal and switch away from England - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSDNycmM4MUF5ZWd2YnE0eTZFMUNjVi0wMmt6YW4zMDdwRjBBdzBHN2djU2w5Z042dnhjOVBRSkpTTEhqSXlDZlA3alNRT1k2dWxIb3BKNURaTWhLMTNETHFESFREbG9CRlZRcm5hcnl0am1GWVRjenpkcDl5Ti1TTWxfaTNTMnZWSFpEZWo0dWRFejFxMTZaSXItdWQyaDIzc1VOaWFsWDhkM2JOR1VwWGkwc2ZNNnY3MHNwNExMcGMxT2VNY2FZRkZHYXFsd1BQTkpWSldpNm1NQnE3elBRUmR2dGZxTkctZnRnNE9SSTlndDR5WVpF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781373554948",
+          "date": "2026-06-13",
+          "title": "Mexico to Korea in 20 minutes - World Cup opening night in London - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05Vll5Z2Q2dW1mb0phZ3V3ZW9IdlZMcFV0U3ZIeVYtMlJhNGNUSXBoaGJSZ0ltVTRnQVdVcXltZ25IYk9sXzJaeXZIQllQWGZDWVpNN25XTDhqV3F4VVFzdnVnRm4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781373554948",
+          "date": "2026-06-13",
+          "title": "England team expected to arrive in Prairie Village on Saturday for World Cup - Johnson County Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFZsMld4X0FmNHRkUTBVU1lhUmZVellLS1J3ZVBXelZZMzIzNE1vQUZzbTFZNXU2WGVBdnZqTDI2Rl9EMEF4MXdGeXhMMUZMNEI1RTM2N3h0Z3k3VzhkMXByelNabVdHUnlzU0Y1MWw0UDFmd2ppLUtqZ2l3U2JDcjFzUGRGRnpRbnBOZWRUb2Y0V01p?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2000,8 +2090,17 @@
       "emotionalStake": 3,
       "summary": "Canada qualified for their first World Cup in 36 years in 2022 and performed above expectations. Now as co-hosts in 2026, playing at BMO Field in Toronto in front of their own country, they arrive with a generation of players that could make Canadians care about soccer the way they care about hockey.",
       "watchFor": "How does Canada respond to the pressure of being a host? Does Alphonso Davies put on a show? And can they advance further than they ever have?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 1,
+      "chapters": [
+        {
+          "id": "ch-result-wc26-B6",
+          "date": "2026-06-12",
+          "title": "Canada and Bosnia-Herzegovina drew 1-1 at BMO Field.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        }
+      ]
     },
     {
       "id": "nar-010",
@@ -2052,8 +2151,17 @@
       "emotionalStake": 5,
       "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014 — and their match against Qatar at Lumen Field in Seattle on June 24 is the official start of their campaign. A nation that only declared independence in 1992 is back on the world's biggest stage. June 24 in Seattle will be one of the most emotional sporting moments in Bosnian history.",
       "watchFor": "The Bosnian diaspora in Seattle is real. Watch for fans from every corner of the city converging on Lumen Field to watch their nation play in the city they now call home.",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 1,
+      "chapters": [
+        {
+          "id": "ch-result-wc26-B6",
+          "date": "2026-06-12",
+          "title": "Canada and Bosnia-Herzegovina drew 1-1 at BMO Field.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        }
+      ]
     }
   ]
 }

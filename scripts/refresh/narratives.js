@@ -67,6 +67,63 @@ function bumpStatuses(current, matches) {
   return bumped;
 }
 
+// Describe a finished match as one neutral, factual sentence.
+function describeResult(m) {
+  const venue = m.venue ? ` at ${m.venue}` : '';
+  if (m.homeScore === m.awayScore) {
+    return `${m.homeTeam} and ${m.awayTeam} drew ${m.homeScore}-${m.awayScore}${venue}.`;
+  }
+  const winner = m.homeScore > m.awayScore ? m.homeTeam : m.awayTeam;
+  const loser  = m.homeScore > m.awayScore ? m.awayTeam : m.homeTeam;
+  const wScore = Math.max(m.homeScore, m.awayScore);
+  const lScore = Math.min(m.homeScore, m.awayScore);
+  return `${winner} beat ${loser} ${wScore}-${lScore}${venue}.`;
+}
+
+// Auto-publish a factual "what happened" chapter for every finished match
+// involving a narrative's team(s). These are plain results from our own
+// match data, so they're safe to publish immediately (draft: false) —
+// unlike the news-search chapters below, which need an editor's voice.
+// Each one also raises a flag, since a narrative's `summary`/`watchFor` is
+// written in anticipation of the match and may need an editorial rewrite
+// now that the result is in.
+function addResultChapters(current, matches) {
+  const added = [];
+  const flags = [];
+  const finished = matches.filter(m => m.status === 'finished');
+
+  for (const narrative of current.narratives) {
+    const teams = narrative.teams || [];
+    if (teams.length === 0) continue;
+
+    narrative.chapters = narrative.chapters || [];
+    const existingIds = new Set(narrative.chapters.map(c => c.id).filter(Boolean));
+
+    const relevant = finished.filter(m => teams.includes(m.homeCode) || teams.includes(m.awayCode));
+    for (const m of relevant) {
+      const chapterId = `ch-result-${m.id}`;
+      if (existingIds.has(chapterId)) continue;
+
+      const sentence = describeResult(m);
+      narrative.chapters.push({
+        id:         chapterId,
+        date:       m.date,
+        title:      sentence,
+        body:       '',
+        sourceLink: '',
+        draft:      false,
+      });
+      narrative.chapterCount = narrative.chapters.length;
+      existingIds.add(chapterId);
+
+      added.push(`"${narrative.title}" — ${sentence}`);
+      flags.push(`"${narrative.title}": ${sentence} — check whether the summary/watchFor still reads right.`);
+    }
+  }
+
+  return { added, flags };
+}
+
 export async function refreshNarratives() {
   console.log('[narratives] checking for new chapters via news search…');
 
@@ -76,11 +133,17 @@ export async function refreshNarratives() {
   const current = JSON.parse(readFileSync(file, 'utf8'));
 
   const matchesFile = join(DATA, 'matches.json');
-  const matches     = JSON.parse(readFileSync(matchesFile, 'utf8'));
-  const bumped      = bumpStatuses(current, Array.isArray(matches) ? matches : matches.matches || []);
+  const matchesData = JSON.parse(readFileSync(matchesFile, 'utf8'));
+  const matches     = Array.isArray(matchesData) ? matchesData : matchesData.matches || [];
+
+  const bumped = bumpStatuses(current, matches);
   for (const title of bumped) {
     summary.applied.push(`"${title}" moved pre-tournament → building`);
   }
+
+  const resultChapters = addResultChapters(current, matches);
+  summary.applied.push(...resultChapters.added);
+  summary.flags.push(...resultChapters.flags);
 
   let addedChapters = 0;
 
@@ -131,10 +194,10 @@ export async function refreshNarratives() {
     }
   }
 
-  if (addedChapters > 0 || bumped.length > 0) {
+  if (addedChapters > 0 || bumped.length > 0 || resultChapters.added.length > 0) {
     current.lastUpdated = new Date().toISOString();
     writeFileSync(file, JSON.stringify(current, null, 2) + '\n');
-    console.log(`[narratives] added ${addedChapters} draft chapters, bumped ${bumped.length} statuses`);
+    console.log(`[narratives] added ${addedChapters} draft chapters, ${resultChapters.added.length} result chapters, bumped ${bumped.length} statuses`);
   } else {
     console.log('[narratives] no new chapters or status changes');
   }
