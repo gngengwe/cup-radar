@@ -1,0 +1,233 @@
+{
+  "_note": "Searchable position and role glossary for a standalone soccer primer.",
+  "lastUpdated": "2026-06-12",
+  "positions": [
+    {
+      "id": "goalkeeper",
+      "label": "Goalkeeper",
+      "shortLabel": "GK",
+      "line": "back line",
+      "summary": "The only player allowed to use hands inside the penalty area and the last line of defense.",
+      "mainJobs": [
+        "save shots",
+        "claim crosses",
+        "start attacks with distribution"
+      ],
+      "whatToWatch": "Notice whether the keeper stays deep as a shot-stopper or steps higher like an extra passer.",
+      "relatedTerms": [
+        "shot-stopper",
+        "sweeper-keeper"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "center-back",
+      "label": "Center-back",
+      "shortLabel": "CB",
+      "line": "defense",
+      "summary": "The central defenders who protect the box, attack aerial balls, and keep the line organized.",
+      "mainJobs": [
+        "block shots",
+        "win duels",
+        "hold the shape"
+      ],
+      "whatToWatch": "A calm center-back often makes the whole team look calmer because everyone trusts the space behind them.",
+      "relatedTerms": [
+        "back line",
+        "marking",
+        "aerial duels"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "fullback",
+      "label": "Fullback",
+      "shortLabel": "FB",
+      "line": "defense",
+      "summary": "Wide defenders who protect the flank but often join attacks with overlaps and crosses.",
+      "mainJobs": [
+        "defend the wings",
+        "support buildup",
+        "add width"
+      ],
+      "whatToWatch": "If a fullback keeps flying forward, someone else usually has to cover the risk behind them.",
+      "relatedTerms": [
+        "overlap",
+        "underlap",
+        "recovery runs"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "defensive-midfielder",
+      "label": "Defensive midfielder",
+      "shortLabel": "DM",
+      "line": "midfield",
+      "summary": "The shield in front of the defense who breaks up attacks and keeps the team balanced.",
+      "mainJobs": [
+        "screen the back line",
+        "win second balls",
+        "recycle possession"
+      ],
+      "whatToWatch": "Great defensive midfielders can dominate a game without taking many flashy touches.",
+      "relatedTerms": [
+        "No. 6",
+        "pivot",
+        "screen"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "central-midfielder",
+      "label": "Central midfielder",
+      "shortLabel": "CM",
+      "line": "midfield",
+      "summary": "The all-purpose connector who links defense to attack and helps control tempo.",
+      "mainJobs": [
+        "progress the ball",
+        "cover ground",
+        "support both boxes"
+      ],
+      "whatToWatch": "The best central midfielders seem to appear everywhere just before the game tilts.",
+      "relatedTerms": [
+        "box-to-box",
+        "tempo",
+        "ball progression"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "attacking-midfielder",
+      "label": "Attacking midfielder",
+      "shortLabel": "AM",
+      "line": "midfield",
+      "summary": "The creative player operating between midfield and the forwards, looking for killer passes and shots.",
+      "mainJobs": [
+        "create chances",
+        "receive between lines",
+        "combine near the box"
+      ],
+      "whatToWatch": "If a team suddenly starts finding dangerous passes through the middle, this player is often the reason.",
+      "relatedTerms": [
+        "No. 10",
+        "playmaker",
+        "between the lines"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "winger",
+      "label": "Winger",
+      "shortLabel": "W",
+      "line": "attack",
+      "summary": "The wide attacker who stretches the field, isolates defenders, and creates danger from the flank.",
+      "mainJobs": [
+        "beat defenders one-on-one",
+        "cut inside or cross",
+        "threaten in transition"
+      ],
+      "whatToWatch": "When a crowd starts buzzing before a pass even arrives, it is often because the winger has space to attack.",
+      "relatedTerms": [
+        "inside forward",
+        "cutback",
+        "touchline"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "striker",
+      "label": "Striker",
+      "shortLabel": "ST",
+      "line": "attack",
+      "summary": "The central forward who leads the line, attacks the box, and is usually judged by finishing.",
+      "mainJobs": [
+        "score goals",
+        "occupy center-backs",
+        "time runs behind the line"
+      ],
+      "whatToWatch": "Even when the striker barely touches the ball, their movement can open space for everyone else.",
+      "relatedTerms": [
+        "No. 9",
+        "target man",
+        "false 9"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "wing-back",
+      "label": "Wing-back",
+      "shortLabel": "WB",
+      "line": "hybrid",
+      "summary": "A wide player in back-three systems who has to cover almost the entire flank.",
+      "mainJobs": [
+        "provide width",
+        "track wide runners",
+        "turn defense into attack quickly"
+      ],
+      "whatToWatch": "If the wing-back gets pinned deep, the whole formation can look more defensive than planned.",
+      "relatedTerms": [
+        "back three",
+        "transition lane",
+        "endline"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    }
+  ]
+}

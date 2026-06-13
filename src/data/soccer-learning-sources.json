@@ -1,0 +1,143 @@
+{
+  "_note": "Source registry for evergreen soccer education and standalone World Cup guide modules. IFAB entries are primary rules sources. Wikipedia entries are stable summary sources for tournament history and records and should be reviewed after each World Cup.",
+  "lastUpdated": "2026-06-12",
+  "sources": [
+    {
+      "id": "ifab-law-7",
+      "title": "Law 7 - The Duration of the Match",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/the-duration-of-the-match/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "ifab-law-8",
+      "title": "Law 8 - The Start and Restart of Play",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/the-start-and-restart-of-play/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "ifab-law-10",
+      "title": "Law 10 - Determining the Outcome of a Match",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/determining-the-outcome-of-a-match/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "ifab-law-11",
+      "title": "Law 11 - Offside",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/offside/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "ifab-law-12",
+      "title": "Law 12 - Fouls and Misconduct",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "ifab-law-14",
+      "title": "Law 14 - The Penalty Kick",
+      "publisher": "IFAB",
+      "sourceType": "primary",
+      "kind": "rules",
+      "url": "https://www.theifab.com/laws/latest/the-penalty-kick/",
+      "reviewAfter": "2027-07-31"
+    },
+    {
+      "id": "wikipedia-fifa-world-cup",
+      "title": "FIFA World Cup",
+      "publisher": "Wikipedia",
+      "sourceType": "secondary",
+      "kind": "history",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "reviewAfter": "2030-07-31"
+    },
+    {
+      "id": "wikipedia-2026-world-cup",
+      "title": "2026 FIFA World Cup",
+      "publisher": "Wikipedia",
+      "sourceType": "secondary",
+      "kind": "format",
+      "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "wikipedia-world-cup-records",
+      "title": "FIFA World Cup records and statistics",
+      "publisher": "Wikipedia",
+      "sourceType": "secondary",
+      "kind": "records",
+      "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_records_and_statistics",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "fifa-2026-scores-fixtures",
+      "title": "FIFA World Cup 2026 Scores & Fixtures",
+      "publisher": "FIFA",
+      "sourceType": "primary",
+      "kind": "tournament",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "fifa-2026-match-centre",
+      "title": "FIFA Match Centre",
+      "publisher": "FIFA",
+      "sourceType": "primary",
+      "kind": "matchday",
+      "url": "https://www.fifa.com/en/match-centre",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "fifa-2026-squad-pdf",
+      "title": "FIFA World Cup 2026: Squad List",
+      "publisher": "FIFA",
+      "sourceType": "primary",
+      "kind": "squads",
+      "url": "https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "local-world-cup-squads",
+      "title": "Cup Radar local World Cup squad feed",
+      "publisher": "Cup Radar",
+      "sourceType": "internal",
+      "kind": "squads",
+      "url": null,
+      "path": "src/data/world-cup-squads.json",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "local-world-cup-availability",
+      "title": "Cup Radar local World Cup availability overlay",
+      "publisher": "Cup Radar",
+      "sourceType": "internal",
+      "kind": "availability",
+      "url": null,
+      "path": "src/data/world-cup-availability.json",
+      "reviewAfter": "2026-07-31"
+    },
+    {
+      "id": "editorial-house",
+      "title": "Cup Radar editorial explainer model",
+      "publisher": "Cup Radar",
+      "sourceType": "internal",
+      "kind": "tactics",
+      "url": null,
+      "reviewAfter": "2027-01-31"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "_note": "Manifest for evergreen editorial datasets that can be loaded by UI modules or publishing jobs.",
+  "lastUpdated": "2026-06-12",
+  "collections": [
+    {
+      "id": "soccer-learning",
+      "title": "Soccer Learning Tiers",
+      "path": "/src/data/soccer-learning.json",
+      "kind": "evergreen-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "curious-fans"
+      ],
+      "supports": [
+        "beginner-explainers",
+        "match-context-cards",
+        "what-to-watch modules"
+      ]
+    },
+    {
+      "id": "world-cup-fun-facts",
+      "title": "World Cup Fun Facts",
+      "path": "/src/data/world-cup-fun-facts.json",
+      "kind": "evergreen-trivia",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "casual-fans",
+        "social-content",
+        "homepage-readers"
+      ],
+      "supports": [
+        "fact-cards",
+        "empty-state-content",
+        "social snippets"
+      ]
+    },
+    {
+      "id": "soccer-learning-sources",
+      "title": "Editorial Sources Registry",
+      "path": "/src/data/soccer-learning-sources.json",
+      "kind": "source-registry",
+      "refreshCadence": "manual-when-content-changes",
+      "primaryAudience": [
+        "editors",
+        "publishers",
+        "internal-tools"
+      ],
+      "supports": [
+        "source attribution",
+        "review workflows",
+        "trust markers"
+      ]
+    },
+    {
+      "id": "world-cup-guide-page",
+      "title": "Standalone World Cup Guide Page Blueprint",
+      "path": "/src/data/world-cup-guide-page.json",
+      "kind": "page-blueprint",
+      "refreshCadence": "manual-when-sections-change",
+      "primaryAudience": [
+        "designers",
+        "frontend",
+        "publishers"
+      ],
+      "supports": [
+        "section ordering",
+        "search/filter setup",
+        "fan-mode toggles"
+      ]
+    },
+    {
+      "id": "soccer-ecosystem",
+      "title": "How Soccer Is Organized",
+      "path": "/src/data/soccer-ecosystem.json",
+      "kind": "evergreen-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans"
+      ],
+      "supports": [
+        "club vs country explainers",
+        "competition ladders",
+        "primer sections"
+      ]
+    },
+    {
+      "id": "soccer-positions",
+      "title": "Positions and Roles",
+      "path": "/src/data/soccer-positions.json",
+      "kind": "evergreen-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans"
+      ],
+      "supports": [
+        "role cards",
+        "searchable glossary",
+        "watch-smarter modules"
+      ]
+    },
+    {
+      "id": "soccer-formations",
+      "title": "Formations Made Simple",
+      "path": "/src/data/soccer-formations.json",
+      "kind": "evergreen-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "casual-fans",
+        "curious-fans"
+      ],
+      "supports": [
+        "formation explainers",
+        "tactical cards",
+        "fan education"
+      ]
+    },
+    {
+      "id": "world-cup-primer",
+      "title": "World Cup Primer",
+      "path": "/src/data/world-cup-primer.json",
+      "kind": "evergreen-primer",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "homepage-readers"
+      ],
+      "supports": [
+        "format explainers",
+        "host storylines",
+        "tournament overview"
+      ]
+    },
+    {
+      "id": "famous-absences",
+      "title": "Famous Missing Names",
+      "path": "/src/data/famous-absences.json",
+      "kind": "availability-editorial",
+      "refreshCadence": "manual-pre-match",
+      "primaryAudience": [
+        "casual-fans",
+        "publishers",
+        "social-content"
+      ],
+      "supports": [
+        "notable absences section",
+        "pre-tournament caution cards",
+        "why-isnt-he-here answers"
+      ]
+    },
+    {
+      "id": "adopt-a-team",
+      "title": "Adopt A Team Guide",
+      "path": "/src/data/adopt-a-team.json",
+      "kind": "editorial-recommendation",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "neutral-fans",
+        "casual-fans",
+        "homepage-readers"
+      ],
+      "supports": [
+        "team discovery",
+        "personality rails",
+        "recommendation cards"
+      ]
+    }
+  ],
+  "usageNotes": [
+    "Use soccer-learning for tiered educational cards and contextual match explainer inserts.",
+    "Use world-cup-fun-facts for lightweight promotional or filler content where live data is unavailable.",
+    "Use soccer-learning-sources to show provenance and decide which cards need scheduled review.",
+    "Use world-cup-guide-page to drive the standalone page without hard-coding section order in the UI.",
+    "Use famous-absences with explicit labels and dates so the page never implies a player is simply missing without explanation."
+  ]
+}

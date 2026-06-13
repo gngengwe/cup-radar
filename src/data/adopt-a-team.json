@@ -1,0 +1,230 @@
+{
+  "_note": "Editorial team-discovery cards for neutral fans who want a rooting interest without picking a random badge.",
+  "lastUpdated": "2026-06-12",
+  "profiles": [
+    {
+      "id": "brazil-star-power",
+      "teamCode": "BRA",
+      "teamName": "Brazil",
+      "pitch": "Pick Brazil if you want star power, noise, and the feeling that every attack might become a highlight.",
+      "bestFor": [
+        "brand-new",
+        "casual"
+      ],
+      "vibeTags": [
+        "stars",
+        "attacking",
+        "theater"
+      ],
+      "whyYouWillEnjoyIt": [
+        "The shirt carries instant World Cup mythology.",
+        "Big attacking moments are part of the package.",
+        "They are easy to explain to casual friends because everyone already understands the aura."
+      ],
+      "watchWords": [
+        "wingers",
+        "flair",
+        "statement games"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "morocco-underdog-force",
+      "teamCode": "MAR",
+      "teamName": "Morocco",
+      "pitch": "Pick Morocco if you want a tournament team that can punch a giant in the mouth and make it look deserved.",
+      "bestFor": [
+        "casual",
+        "i-know-ball"
+      ],
+      "vibeTags": [
+        "underdog",
+        "resilient",
+        "counterpunch"
+      ],
+      "whyYouWillEnjoyIt": [
+        "They bring genuine belief instead of just survival energy.",
+        "Their defensive structure makes every counterattack feel dangerous.",
+        "They are one of the easiest teams to root for if you love bracket chaos."
+      ],
+      "watchWords": [
+        "discipline",
+        "transitions",
+        "belief"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "japan-precision",
+      "teamCode": "JPN",
+      "teamName": "Japan",
+      "pitch": "Pick Japan if you like organization, quick combinations, and a team that rarely looks rattled.",
+      "bestFor": [
+        "casual",
+        "i-know-ball"
+      ],
+      "vibeTags": [
+        "organized",
+        "technical",
+        "smart"
+      ],
+      "whyYouWillEnjoyIt": [
+        "They are often one of the cleanest watchable teams in the tournament.",
+        "They can defend compactly and still attack with real speed.",
+        "They reward fans who notice spacing and timing."
+      ],
+      "watchWords": [
+        "shape",
+        "discipline",
+        "wide speed"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "usa-home-drama",
+      "teamCode": "USA",
+      "teamName": "USA",
+      "pitch": "Pick the USA if you want host-country emotion, crowd energy, and the pressure of being watched by everyone at home.",
+      "bestFor": [
+        "brand-new",
+        "casual"
+      ],
+      "vibeTags": [
+        "host",
+        "energy",
+        "pressure"
+      ],
+      "whyYouWillEnjoyIt": [
+        "The atmosphere will feel bigger because every match carries host-nation attention.",
+        "The stakes are easy to understand even if you are new to the sport.",
+        "Home crowds turn every momentum swing into a louder emotional ride."
+      ],
+      "watchWords": [
+        "crowd",
+        "transition speed",
+        "nerves"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "uruguay-edge",
+      "teamCode": "URU",
+      "teamName": "Uruguay",
+      "pitch": "Pick Uruguay if you like teams that feel sharp-edged, competitive, and a little dangerous.",
+      "bestFor": [
+        "casual",
+        "i-know-ball"
+      ],
+      "vibeTags": [
+        "intensity",
+        "edge",
+        "tournament savvy"
+      ],
+      "whyYouWillEnjoyIt": [
+        "They carry genuine World Cup history without feeling like a museum piece.",
+        "Their matches usually feel combative instead of sleepy.",
+        "They are a good fit for fans who enjoy midfield control with bite."
+      ],
+      "watchWords": [
+        "duels",
+        "tempo control",
+        "snarl"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "netherlands-structure",
+      "teamCode": "NED",
+      "teamName": "Netherlands",
+      "pitch": "Pick the Netherlands if you want a team that usually looks coherent, technical, and tournament-ready.",
+      "bestFor": [
+        "casual",
+        "i-know-ball"
+      ],
+      "vibeTags": [
+        "structure",
+        "possession",
+        "big-match heritage"
+      ],
+      "whyYouWillEnjoyIt": [
+        "They are one of the best teams for learning shape and spacing while still enjoying star quality.",
+        "They usually offer a balance between control and direct threat.",
+        "The orange visual identity is impossible to miss."
+      ],
+      "watchWords": [
+        "spacing",
+        "build-up",
+        "control"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "senegal-strength",
+      "teamCode": "SEN",
+      "teamName": "Senegal",
+      "pitch": "Pick Senegal if you want athletic power, emotional crowds, and the feeling that they can hit elite teams in transition.",
+      "bestFor": [
+        "casual",
+        "i-know-ball"
+      ],
+      "vibeTags": [
+        "power",
+        "counterattacks",
+        "belief"
+      ],
+      "whyYouWillEnjoyIt": [
+        "Their games often have a real physical edge to them.",
+        "They can defend honestly and still threaten with serious pace.",
+        "They are a strong choice for fans who want an underdog that does not feel small."
+      ],
+      "watchWords": [
+        "pace",
+        "strength",
+        "transition moments"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "curacao-fairytale",
+      "teamCode": "CUW",
+      "teamName": "Curacao",
+      "pitch": "Pick Curacao if you want the pure fairy-tale experience of a tiny football nation entering the giant stage.",
+      "bestFor": [
+        "brand-new",
+        "casual"
+      ],
+      "vibeTags": [
+        "fairy tale",
+        "debut",
+        "pure emotion"
+      ],
+      "whyYouWillEnjoyIt": [
+        "Every result feels historic rather than routine.",
+        "Neutral fans naturally lean toward first-time or smaller-scale stories.",
+        "The emotional upside is massive compared with expectations."
+      ],
+      "watchWords": [
+        "firsts",
+        "upsets",
+        "heart"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    }
+  ]
+}

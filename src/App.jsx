@@ -3,6 +3,7 @@ import { lazy, Suspense } from 'react';
 import LandingPage from './pages/LandingPage';
 import Dashboard from './pages/Dashboard';
 import HowItWorks from './pages/HowItWorks';
+import WorldCupPrimer from './pages/WorldCupPrimer';
 import ErrorBoundary from './components/ErrorBoundary';
 
 // Admin panel is lazy-loaded — it's never on the critical path and adds ~50KB
@@ -35,6 +36,7 @@ export default function App() {
           {/* Landing — city selection */}
           <Route path="/" element={<LandingPage />} />
           <Route path="/how-it-works" element={<HowItWorks />} />
+          <Route path="/world-cup-primer" element={<WorldCupPrimer />} />
           <Route path="/admin" element={
             <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading admin…</div>}>
               <AdminPanel />

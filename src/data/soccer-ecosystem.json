@@ -1,0 +1,158 @@
+{
+  "_note": "Standalone explainer data for how soccer is organized across club and international football.",
+  "lastUpdated": "2026-06-12",
+  "tiers": [
+    {
+      "id": "club-football",
+      "title": "Club football is the day job",
+      "label": "Club",
+      "summary": "Most players spend most of the year with their clubs, not their national teams.",
+      "whyItMatters": "This is where players build weekly chemistry, learn a manager's system, and play the majority of their matches.",
+      "examples": [
+        "MLS",
+        "Premier League",
+        "Liga MX",
+        "Serie A"
+      ],
+      "watcherTranslation": "If you know American sports, club football is the regular-season home of the stars you recognize.",
+      "tags": [
+        "basics",
+        "club-vs-country",
+        "calendar"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "domestic-leagues",
+      "title": "Domestic leagues decide who is best over time",
+      "label": "League",
+      "summary": "Leagues reward consistency because teams play long schedules instead of one-off elimination games.",
+      "whyItMatters": "A great league team can still struggle in a short tournament because tournament football punishes mistakes differently.",
+      "examples": [
+        "Premier League",
+        "La Liga",
+        "Bundesliga",
+        "Brasileirao"
+      ],
+      "watcherTranslation": "Leagues are the marathon version of the sport.",
+      "tags": [
+        "leagues",
+        "structure",
+        "consistency"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "domestic-cups",
+      "title": "Domestic cups are where chaos lives",
+      "label": "Cup",
+      "summary": "Cup competitions are usually knockout-heavy, which makes giant-killings and weird nights much more common.",
+      "whyItMatters": "They teach fans the emotional rhythm of win-or-go-home football before they even get to the World Cup.",
+      "examples": [
+        "FA Cup",
+        "Copa del Rey",
+        "DFB-Pokal"
+      ],
+      "watcherTranslation": "If leagues are the marathon, cups are the upset machine.",
+      "tags": [
+        "cups",
+        "upsets",
+        "knockout"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "continental-club-competitions",
+      "title": "Continental club tournaments raise the level",
+      "label": "Continental Club",
+      "summary": "The best clubs from each country also face one another in regional competitions.",
+      "whyItMatters": "This is often where casual fans first see star players outside domestic league play.",
+      "examples": [
+        "UEFA Champions League",
+        "Copa Libertadores",
+        "Concacaf Champions Cup"
+      ],
+      "watcherTranslation": "This is where elite clubs stop being local kings and have to prove it abroad.",
+      "tags": [
+        "continental",
+        "elite",
+        "club-football"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "international-football",
+      "title": "International football is the short-camp version",
+      "label": "International",
+      "summary": "National teams only get players in shorter windows, which makes identity and fit just as important as raw talent.",
+      "whyItMatters": "A national team cannot buy fixes or train together every day, so tournament teams often look more pragmatic than club superteams.",
+      "examples": [
+        "World Cup qualifiers",
+        "friendlies",
+        "international windows"
+      ],
+      "watcherTranslation": "The talent may be huge, but the prep time is tiny.",
+      "tags": [
+        "country",
+        "national-team",
+        "calendar"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "continental-national-tournaments",
+      "title": "Regional tournaments are dress rehearsals for the biggest stage",
+      "label": "Regional Tournaments",
+      "summary": "Every confederation has its own major national-team event with its own style, rivalries, and pressure.",
+      "whyItMatters": "These tournaments show who is battle-tested before the World Cup arrives.",
+      "examples": [
+        "UEFA European Championship",
+        "Copa America",
+        "Africa Cup of Nations",
+        "Asian Cup",
+        "Gold Cup"
+      ],
+      "watcherTranslation": "Think of them as continent-level measuring sticks.",
+      "tags": [
+        "continental",
+        "national-team",
+        "prestige"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "world-cup",
+      "title": "The World Cup is the event that bends everything else around it",
+      "label": "World Cup",
+      "summary": "It is the most global and emotionally concentrated tournament in the sport.",
+      "whyItMatters": "Players can have legendary club careers and still be judged by what happened at a World Cup.",
+      "examples": [
+        "48 national teams in 2026",
+        "104 matches",
+        "three host countries"
+      ],
+      "watcherTranslation": "This is the tournament even non-fans feel.",
+      "tags": [
+        "world-cup",
+        "prestige",
+        "global"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup",
+        "wikipedia-fifa-world-cup"
+      ]
+    }
+  ]
+}

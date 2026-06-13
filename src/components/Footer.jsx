@@ -15,6 +15,7 @@ export default function Footer() {
               <Link to="/miami/hq"      className="footer__link">🌴 Miami</Link>
               <Link to="/newyork/hq"    className="footer__link">🗽 New York</Link>
               <Link to="/philly/hq"     className="footer__link">🦅 Philadelphia</Link>
+              <Link to="/world-cup-primer" className="footer__link">New to soccer?</Link>
               <Link to="/how-it-works"  className="footer__link">How it works</Link>
             </nav>
           </div>

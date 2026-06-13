@@ -1,0 +1,149 @@
+{
+  "_note": "Evergreen World Cup fact cards for trivia rails, sidebar modules, and between-section education. Facts with current-tournament numbers should be reviewed after the 2026 final.",
+  "lastUpdated": "2026-06-12",
+  "facts": [
+    {
+      "id": "fact-first-world-cup",
+      "title": "The first World Cup was played in 1930",
+      "category": "history",
+      "tone": "classic",
+      "fact": "The men's World Cup began in 1930 and has been staged every four years except during World War II.",
+      "whyItPlays": "It gives new fans a clean historical anchor right away.",
+      "placementHints": ["homepage", "allteams", "allgames"],
+      "stability": "evergreen",
+      "sourceIds": ["wikipedia-fifa-world-cup"]
+    },
+    {
+      "id": "fact-2026-three-hosts",
+      "title": "2026 is the first World Cup hosted by three countries",
+      "category": "format",
+      "tone": "surprise",
+      "fact": "The 2026 tournament is the first World Cup to be co-hosted by three nations: Canada, Mexico, and the United States.",
+      "whyItPlays": "It instantly explains why the tournament feels so spread out and city-driven.",
+      "placementHints": ["homepage", "cityhq", "allgames"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-2026-world-cup"]
+    },
+    {
+      "id": "fact-2026-48-teams",
+      "title": "This is the first 48-team World Cup",
+      "category": "format",
+      "tone": "big",
+      "fact": "The 2026 World Cup is the first edition with 48 teams instead of 32.",
+      "whyItPlays": "It helps explain why there are more groups, more matches, and more host-city storylines.",
+      "placementHints": ["homepage", "allgames"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-2026-world-cup"]
+    },
+    {
+      "id": "fact-2026-104-matches",
+      "title": "The 2026 tournament has 104 matches",
+      "category": "format",
+      "tone": "scale",
+      "fact": "The new format uses 12 groups of four, sends the top two teams plus the eight best third-place finishers into a Round of 32, and expands the tournament to 104 matches.",
+      "whyItPlays": "This turns the format itself into a fun-size explainer card.",
+      "placementHints": ["allgames", "homepage"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-2026-world-cup"]
+    },
+    {
+      "id": "fact-brazil-most-titles",
+      "title": "Brazil owns the most men's World Cup titles",
+      "category": "records",
+      "tone": "legend",
+      "fact": "Brazil has won the men's World Cup five times, more than any other nation.",
+      "whyItPlays": "It is one of the fastest ways to explain why Brazil carries a permanent mythic aura.",
+      "placementHints": ["allteams", "homepage", "teamiq"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-fifa-world-cup"]
+    },
+    {
+      "id": "fact-brazil-every-tournament",
+      "title": "Brazil is the only team to appear in every World Cup",
+      "category": "records",
+      "tone": "legacy",
+      "fact": "As of 2026, Brazil is still the only nation to have appeared in every men's World Cup.",
+      "whyItPlays": "It is a stronger brag than titles alone because it speaks to permanence and standard.",
+      "placementHints": ["allteams", "teamiq"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-fifa-world-cup"]
+    },
+    {
+      "id": "fact-klose-top-scorer",
+      "title": "Miroslav Klose still owns the goals record",
+      "category": "records",
+      "tone": "stat",
+      "fact": "Germany's Miroslav Klose remains the men's World Cup all-time top scorer with 16 goals.",
+      "whyItPlays": "It gives even casual fans a single all-time scoring benchmark to remember.",
+      "placementHints": ["homepage", "allteams"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-world-cup-records"]
+    },
+    {
+      "id": "fact-fontaine-single-tournament",
+      "title": "One player scored 13 goals in a single World Cup",
+      "category": "records",
+      "tone": "wow",
+      "fact": "France's Just Fontaine scored 13 goals at the 1958 World Cup, still the record for one edition.",
+      "whyItPlays": "Even people who know modern stars are usually shocked by how enormous that number is.",
+      "placementHints": ["homepage", "allteams", "culture"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-world-cup-records"]
+    },
+    {
+      "id": "fact-biggest-crowd",
+      "title": "The biggest World Cup crowd was 173,850",
+      "category": "records",
+      "tone": "stadium",
+      "fact": "The best-attended World Cup match on record is Uruguay vs Brazil at the Maracana in 1950, officially listed at 173,850.",
+      "whyItPlays": "It makes modern stadium atmospheres feel part of a much older emotional scale.",
+      "placementHints": ["cityhq", "homepage", "allgames"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-world-cup-records"]
+    },
+    {
+      "id": "fact-cristiano-five-tournaments",
+      "title": "Cristiano Ronaldo is the only player to score in five editions",
+      "category": "records",
+      "tone": "longevity",
+      "fact": "Cristiano Ronaldo is the only men's player to score in five different World Cup tournaments.",
+      "whyItPlays": "It says as much about durability and era-spanning relevance as it does about goals.",
+      "placementHints": ["homepage", "allteams"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-world-cup-records"]
+    },
+    {
+      "id": "fact-pele-youngest-scorer",
+      "title": "Pele was still a teenager when he made history",
+      "category": "records",
+      "tone": "iconic",
+      "fact": "Pele remains the youngest World Cup goalscorer, scoring at 17 years and 239 days in 1958.",
+      "whyItPlays": "It is a perfect reminder that some World Cup legends arrive before the world is ready for them.",
+      "placementHints": ["homepage", "allteams", "culture"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-world-cup-records"]
+    },
+    {
+      "id": "fact-viewership-scale",
+      "title": "The tournament is watched on a giant global scale",
+      "category": "culture",
+      "tone": "scale",
+      "fact": "Wikipedia's summary of FIFA audience reporting says the 2018 World Cup reached an estimated 3.57 billion viewers and the 2022 tournament drove roughly 5 billion engagements.",
+      "whyItPlays": "It helps explain why even casual fans feel the World Cup in a way they do not feel most other events.",
+      "placementHints": ["homepage", "cityhq"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-fifa-world-cup"]
+    },
+    {
+      "id": "fact-mexico-three-times",
+      "title": "Mexico becomes the first country to host World Cup games three times",
+      "category": "history",
+      "tone": "host-city",
+      "fact": "With 1970, 1986, and 2026, Mexico becomes the first country to host or co-host men's World Cup matches three times.",
+      "whyItPlays": "It is a great host-story fact that feels local and historical at the same time.",
+      "placementHints": ["homepage", "cityhq"],
+      "stability": "review-after-tournament",
+      "sourceIds": ["wikipedia-2026-world-cup"]
+    }
+  ]
+}

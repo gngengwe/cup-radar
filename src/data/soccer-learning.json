@@ -1,0 +1,354 @@
+{
+  "_note": "Evergreen soccer education content for non-live placements. Rule cards cite IFAB. Tactics cards are editorial explainers, not official rule text.",
+  "lastUpdated": "2026-06-12",
+  "audiences": [
+    {
+      "id": "first-match",
+      "label": "First Match",
+      "goal": "Help a first-time viewer follow a game in under a minute."
+    },
+    {
+      "id": "watching-smart",
+      "label": "Watching Smart",
+      "goal": "Give casual fans a few sharp things to notice during a match."
+    },
+    {
+      "id": "soccer-brain",
+      "label": "Soccer Brain",
+      "goal": "Offer deeper tactical language without turning the site into a coaching clinic."
+    }
+  ],
+  "tiers": [
+    {
+      "id": "first-match",
+      "label": "First Match",
+      "cards": [
+        {
+          "id": "basics-scoring",
+          "title": "The team with more goals wins",
+          "type": "rule",
+          "hook": "Soccer is low scoring, so one clean finish can flip everything.",
+          "summary": "A goal counts when the whole ball crosses the whole goal line between the posts and under the crossbar.",
+          "whyItMatters": "A match can feel even for long stretches, then change because one attack is sharper than the other.",
+          "whatToWatch": "Notice how much emotion follows a single chance on target.",
+          "placementHints": ["homepage", "allgames", "cityhq"],
+          "tags": ["basics", "rules", "scoring"],
+          "sourceIds": ["ifab-law-10"]
+        },
+        {
+          "id": "basics-clock",
+          "title": "The clock lies a little",
+          "type": "rule",
+          "hook": "Ninety minutes does not mean exactly 90:00 of playing time.",
+          "summary": "Matches have two 45-minute halves, but referees add time for stoppages like goals, substitutions, injuries, time wasting, and VAR checks.",
+          "whyItMatters": "Late goals are common because the end of each half usually stretches longer than the scoreboard clock suggests.",
+          "whatToWatch": "When the board shows added time, the game usually gets more frantic, not less.",
+          "placementHints": ["allgames", "homepage", "cityhq"],
+          "tags": ["basics", "clock", "stoppage-time"],
+          "sourceIds": ["ifab-law-7"]
+        },
+        {
+          "id": "basics-offside",
+          "title": "Offside is about timing, not camping",
+          "type": "rule",
+          "hook": "A player is not punished just for standing high up the field.",
+          "summary": "Offside is judged when a team-mate plays the ball. A player is only punished if they then get involved in play or interfere with an opponent.",
+          "whyItMatters": "This is why TV replays freeze the instant the pass is made, not the instant the runner touches the ball.",
+          "whatToWatch": "Watch the passer's foot, then the runner's line against the second-last defender.",
+          "placementHints": ["allgames", "homepage", "teamiq"],
+          "tags": ["basics", "rules", "offside"],
+          "sourceIds": ["ifab-law-11"]
+        },
+        {
+          "id": "basics-fouls-cards",
+          "title": "Not every foul is a card",
+          "type": "rule",
+          "hook": "A whistle and a booking are not the same thing.",
+          "summary": "Careless fouls can be punished without a card. Reckless challenges usually mean yellow. Excessive force usually means red.",
+          "whyItMatters": "Fans often think every hard challenge should be a booking, but the Laws separate bad timing from dangerous play.",
+          "whatToWatch": "The referee's body language often tells you whether they saw a simple foul or misconduct.",
+          "placementHints": ["allgames", "cityhq", "homepage"],
+          "tags": ["basics", "rules", "cards"],
+          "sourceIds": ["ifab-law-12"]
+        },
+        {
+          "id": "basics-penalties",
+          "title": "A penalty is not a guaranteed goal",
+          "type": "rule",
+          "hook": "It is a huge chance, but it is still a duel.",
+          "summary": "A penalty kick is taken from the spot with the ball stationary, the kicker clearly identified, and the goalkeeper on or behind the goal line until the kick.",
+          "whyItMatters": "The moment feels automatic, but pressure, technique, and goalkeeper timing still matter a lot.",
+          "whatToWatch": "Watch whether the kicker is reading the goalkeeper or simply choosing power and placement.",
+          "placementHints": ["allgames", "homepage", "cityhq"],
+          "tags": ["basics", "rules", "penalties"],
+          "sourceIds": ["ifab-law-14"]
+        },
+        {
+          "id": "basics-draws-restarts",
+          "title": "Draws are real, and restarts matter",
+          "type": "rule",
+          "hook": "Soccer does not force a winner every time.",
+          "summary": "A group-stage match can end level. Play restarts with kick-offs, free kicks, throw-ins, goal kicks, corner kicks, penalties, or dropped balls depending on what happened.",
+          "whyItMatters": "A draw can be useful in tournament play, and many big chances start from well-used restarts.",
+          "whatToWatch": "Late in group games, pay attention to whether both teams are still chasing the win or protecting the table.",
+          "placementHints": ["allgames", "homepage", "cityhq"],
+          "tags": ["basics", "tournament", "restarts"],
+          "sourceIds": ["ifab-law-8", "ifab-law-10"]
+        }
+      ]
+    },
+    {
+      "id": "watching-smart",
+      "label": "Watching Smart",
+      "cards": [
+        {
+          "id": "smart-possession",
+          "title": "More possession does not automatically mean better",
+          "type": "concept",
+          "hook": "Some teams want the ball. Others want the moment after they win it.",
+          "summary": "A favorite may dominate possession while an underdog waits for transition chances. The prettier team is not always the more dangerous team.",
+          "whyItMatters": "This helps new viewers understand why a team with less of the ball can still look comfortable.",
+          "whatToWatch": "Ask who is creating the cleaner shots, not just who is passing more.",
+          "placementHints": ["allgames", "teamiq"],
+          "tags": ["concepts", "possession", "transitions"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "smart-transitions",
+          "title": "The game changes fastest right after the ball changes hands",
+          "type": "concept",
+          "hook": "The most dangerous moment can be the first three seconds after a turnover.",
+          "summary": "Transitions are the instant a team switches from attack to defense or defense to attack.",
+          "whyItMatters": "World Cup matches often swing on chaos before defenses reset.",
+          "whatToWatch": "When a move breaks down, see which side reacts first instead of which side complains first.",
+          "placementHints": ["allgames", "homepage", "teamiq"],
+          "tags": ["concepts", "transitions", "watch-for"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "smart-width",
+          "title": "Wide players stretch the field so others can breathe",
+          "type": "concept",
+          "hook": "A winger hugging the touchline can help a striker they never touch.",
+          "summary": "Width forces defenders to spread out, which opens central lanes for runs, passes, and cutbacks.",
+          "whyItMatters": "A team that looks stuck often needs wider spacing, not just faster passing.",
+          "whatToWatch": "If one side keeps switching play from flank to flank, they are trying to pull the defense apart.",
+          "placementHints": ["teamiq", "allgames"],
+          "tags": ["concepts", "width", "wing-play"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "smart-pressing",
+          "title": "Pressing is organized pressure, not random sprinting",
+          "type": "concept",
+          "hook": "Good pressing looks like a trap, not a chase.",
+          "summary": "Teams press to force rushed passes, isolate a defender, or win the ball high up the field.",
+          "whyItMatters": "A strong press can make one team look nervous even before any shot happens.",
+          "whatToWatch": "See whether the forwards are steering the ball to one side instead of running straight at everyone.",
+          "placementHints": ["teamiq", "allgames", "cityhq"],
+          "tags": ["concepts", "pressing", "shape"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "smart-set-pieces",
+          "title": "Corners and free kicks are rehearsed moments",
+          "type": "concept",
+          "hook": "Some teams treat dead balls like mini plays drawn up in a huddle.",
+          "summary": "Set pieces include corners, attacking free kicks, and long throw-ins. They are one of the easiest ways to manufacture danger.",
+          "whyItMatters": "Tournament games are tight, and a good set-piece team can survive without open-play brilliance.",
+          "whatToWatch": "Pay attention to blockers, screens, late runs, and who attacks the near post.",
+          "placementHints": ["allgames", "teamiq", "cityhq"],
+          "tags": ["concepts", "set-pieces", "goals"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "smart-game-state",
+          "title": "The score changes the style",
+          "type": "concept",
+          "hook": "The same team can look brave at 0-0 and cautious at 1-0.",
+          "summary": "Game state means how the current score influences risk. A team protecting a lead often values shape over flair.",
+          "whyItMatters": "Some fans think a team has become timid when it is actually managing the moment.",
+          "whatToWatch": "If a team scores first, notice whether its fullbacks stop flying forward and its counterattacks become more direct.",
+          "placementHints": ["allgames", "cityhq"],
+          "tags": ["concepts", "game-state", "tournament"],
+          "sourceIds": ["editorial-house"]
+        }
+      ]
+    },
+    {
+      "id": "soccer-brain",
+      "label": "Soccer Brain",
+      "cards": [
+        {
+          "id": "brain-low-block",
+          "title": "A low block is a defensive choice, not a surrender",
+          "type": "concept",
+          "hook": "Sometimes sitting deep is the plan, not the panic.",
+          "summary": "A low block means defending compactly near your own box and daring the opponent to solve crowded space.",
+          "whyItMatters": "This is one of the most common underdog strategies in tournament football.",
+          "whatToWatch": "Count how many defenders stay goal-side of the ball and how little space exists between the lines.",
+          "placementHints": ["teamiq", "allgames"],
+          "tags": ["tactics", "defense", "underdogs"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "brain-double-pivot",
+          "title": "The double pivot is the midfield safety net",
+          "type": "concept",
+          "hook": "Two midfielders sitting deeper can calm a whole team down.",
+          "summary": "A double pivot usually means two central midfielders sharing buildup and defensive cover in front of the back line.",
+          "whyItMatters": "It helps teams survive counters and recycle possession without losing shape.",
+          "whatToWatch": "If two midfielders keep dropping to receive from center-backs, that is often the platform of the whole system.",
+          "placementHints": ["teamiq"],
+          "tags": ["tactics", "midfield", "shape"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "brain-false-nine",
+          "title": "A false 9 leaves the striker spot on purpose",
+          "type": "concept",
+          "hook": "The center forward sometimes disappears to create space somewhere else.",
+          "summary": "A false 9 drops away from the back line to pull defenders out and open lanes for runners.",
+          "whyItMatters": "It can make a defense choose between following the striker or protecting the space behind.",
+          "whatToWatch": "If the central attacker keeps checking into midfield while wingers run beyond, you are probably seeing this idea.",
+          "placementHints": ["teamiq"],
+          "tags": ["tactics", "attack", "forwards"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "brain-half-spaces",
+          "title": "The half-spaces are where clever teams make trouble",
+          "type": "concept",
+          "hook": "The danger is often just inside the wing, not all the way out on it.",
+          "summary": "Half-spaces are the channels between the center and the flank. They are great for cutbacks, line-breaking passes, and angled shots.",
+          "whyItMatters": "Modern attacks often target these lanes because they are awkward for defenses to cover cleanly.",
+          "whatToWatch": "Notice where attacking midfielders receive when they turn and face goal with options both inside and outside.",
+          "placementHints": ["teamiq", "allgames"],
+          "tags": ["tactics", "spacing", "attack"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "brain-overloads",
+          "title": "Overloads create free players somewhere else",
+          "type": "concept",
+          "hook": "Crowding one zone is often a trick to open another one.",
+          "summary": "Teams overload an area by placing extra players there, forcing the defense to collapse before switching or slipping the ball elsewhere.",
+          "whyItMatters": "This is why some attacks look crowded right before a sudden simple pass breaks everything open.",
+          "whatToWatch": "If one flank gets crowded, scan the weak side for the player who may soon be completely free.",
+          "placementHints": ["teamiq", "allgames"],
+          "tags": ["tactics", "attack", "spacing"],
+          "sourceIds": ["editorial-house"]
+        },
+        {
+          "id": "brain-rest-defense",
+          "title": "Rest defense is how teams protect themselves while attacking",
+          "type": "concept",
+          "hook": "Even when a team attacks with six, somebody is still planning for the counter.",
+          "summary": "Rest defense describes the defenders and midfielders left in positions to stop the next transition if possession is lost.",
+          "whyItMatters": "A team can look adventurous and still be carefully insured against one long clearance.",
+          "whatToWatch": "When a fullback flies forward, check whether a midfielder or center-back slides across to balance the risk.",
+          "placementHints": ["teamiq"],
+          "tags": ["tactics", "transitions", "defense"],
+          "sourceIds": ["editorial-house"]
+        }
+      ]
+    }
+  ],
+  "contextModules": [
+    {
+      "id": "group-stage-math",
+      "title": "Why group games can feel cagey",
+      "summary": "A draw is not always failure. In tournament groups, teams sometimes protect a useful point or goal difference instead of chasing chaos.",
+      "whatToWatch": "Late in the match, notice whether both benches still behave like they need a winner.",
+      "triggerRules": {
+        "stage": ["Group Stage"]
+      },
+      "placementHints": ["allgames", "cityhq"],
+      "sourceIds": ["ifab-law-10", "wikipedia-2026-world-cup"]
+    },
+    {
+      "id": "knockout-pressure",
+      "title": "Knockout soccer shrinks the margin for error",
+      "summary": "Once there is no group table to fall back on, teams often become more cautious because one mistake can end the tournament.",
+      "whatToWatch": "Look for safer passing, fewer players bombing forward at the same time, and huge emotional swings after goals.",
+      "triggerRules": {
+        "stage": ["Round of 32", "Round of 16", "Quarterfinal", "Semifinal", "Final", "Third-place match"]
+      },
+      "placementHints": ["allgames", "cityhq"],
+      "sourceIds": ["ifab-law-10", "wikipedia-2026-world-cup"]
+    },
+    {
+      "id": "underdog-blueprint",
+      "title": "How underdogs survive",
+      "summary": "Underdogs usually shrink space, defend crosses, attack on the break, and treat every set piece like a jackpot.",
+      "whatToWatch": "Notice whether the smaller side is happy letting the favorite pass harmlessly in front of a compact block.",
+      "triggerRules": {
+        "archetype": ["favorite-vs-underdog"]
+      },
+      "placementHints": ["allgames", "teamiq"],
+      "sourceIds": ["editorial-house"]
+    },
+    {
+      "id": "favorite-with-ball",
+      "title": "Favorites usually have to solve a puzzle",
+      "summary": "Big teams often see lots of the ball but fewer clean lanes. Their job is to move the defense until one gap finally appears.",
+      "whatToWatch": "Watch switches of play, patient circulation, and whether the favorite can create cutbacks instead of hopeful crosses.",
+      "triggerRules": {
+        "archetype": ["favorite-vs-underdog", "possession-team"]
+      },
+      "placementHints": ["allgames", "teamiq"],
+      "sourceIds": ["editorial-house"]
+    },
+    {
+      "id": "penalty-shootout-drama",
+      "title": "A shootout is its own little sport",
+      "summary": "Penalty shoot-outs happen after the match ends, and only eligible players on the field at the end can take part.",
+      "whatToWatch": "Body language matters. Some kickers wait for the goalkeeper, others commit early and trust technique.",
+      "triggerRules": {
+        "stage": ["Round of 32", "Round of 16", "Quarterfinal", "Semifinal", "Final", "Third-place match"]
+      },
+      "placementHints": ["allgames", "cityhq"],
+      "sourceIds": ["ifab-law-10", "ifab-law-14"]
+    },
+    {
+      "id": "why-nil-nil-can-matter",
+      "title": "Why 0-0 is not automatically boring",
+      "summary": "A scoreless match can still be tense if both teams are protecting narrow space, trading transitions, or carrying tournament risk.",
+      "whatToWatch": "If the shots are scarce, focus on who is denying space, who is winning duels, and whose plan is actually being imposed.",
+      "triggerRules": {
+        "gameState": ["scoreless"]
+      },
+      "placementHints": ["allgames", "homepage"],
+      "sourceIds": ["editorial-house"]
+    }
+  ],
+  "publishRails": [
+    {
+      "id": "new-to-soccer-start-here",
+      "label": "New to soccer? Start here",
+      "cardIds": [
+        "basics-scoring",
+        "basics-clock",
+        "basics-offside"
+      ]
+    },
+    {
+      "id": "watch-for-this-tonight",
+      "label": "Watch for this tonight",
+      "cardIds": [
+        "smart-transitions",
+        "smart-set-pieces",
+        "smart-game-state"
+      ]
+    },
+    {
+      "id": "tactics-without-the-jargon",
+      "label": "Tactics without the jargon",
+      "cardIds": [
+        "brain-low-block",
+        "brain-half-spaces",
+        "brain-rest-defense"
+      ]
+    }
+  ]
+}

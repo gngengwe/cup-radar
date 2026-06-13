@@ -1,0 +1,187 @@
+{
+  "_note": "Curated list of recognizable players who are absent, omitted, or withdrawn from the 2026 tournament. This is a fan-facing editorial layer built on the local availability overlay.",
+  "lastUpdated": "2026-06-12",
+  "caution": [
+    "Use these cards to explain why a recognizable player is not involved, not to predict matchday lineups.",
+    "Every entry should show the reason and date so readers do not assume a player was simply overlooked by the site.",
+    "For deeper source trails, look up the matching teamCode in src/data/world-cup-availability.json."
+  ],
+  "players": [
+    {
+      "id": "xavi-simons",
+      "player": "Xavi Simons",
+      "teamCode": "NED",
+      "teamName": "Netherlands",
+      "absenceType": "injury",
+      "statusLabel": "Out of tournament",
+      "date": "2026-04-27",
+      "reason": "Ruptured ACL injury kept him out of the final World Cup squad.",
+      "whyFansKnowHim": "He is one of the Dutch attack's most recognizable young stars.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "NED"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "jurrien-timber",
+      "player": "Jurrien Timber",
+      "teamCode": "NED",
+      "teamName": "Netherlands",
+      "absenceType": "late-withdrawal",
+      "statusLabel": "Replaced before opener",
+      "date": "2026-06-08",
+      "reason": "He withdrew before the tournament and was replaced by Lutsharel Geertruida.",
+      "whyFansKnowHim": "He is a well-known Dutch defender and one of the first names casual fans notice when scanning the squad.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "NED"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "luis-suarez",
+      "player": "Luis Suarez",
+      "teamCode": "URU",
+      "teamName": "Uruguay",
+      "absenceType": "selection",
+      "statusLabel": "Left out",
+      "date": "2026-05-31",
+      "reason": "He was left out of Uruguay's final World Cup squad.",
+      "whyFansKnowHim": "He is one of the defining strikers of the modern World Cup era.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "URU"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "sardar-azmoun",
+      "player": "Sardar Azmoun",
+      "teamCode": "IRN",
+      "teamName": "Iran",
+      "absenceType": "selection",
+      "statusLabel": "Dropped from final squad",
+      "date": "2026-06-01",
+      "reason": "He was dropped from Iran's final squad.",
+      "whyFansKnowHim": "For many casual viewers, he has long been one of the first attacking names associated with Iran.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "IRN"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "wilfried-zaha",
+      "player": "Wilfried Zaha",
+      "teamCode": "CIV",
+      "teamName": "Ivory Coast",
+      "absenceType": "selection",
+      "statusLabel": "Omitted from final squad",
+      "date": "2026-05-15",
+      "reason": "He was omitted from Ivory Coast's final World Cup squad.",
+      "whyFansKnowHim": "He is one of the best-known Ivorian names for fans who follow major European leagues.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "CIV"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "christoph-baumgartner",
+      "player": "Christoph Baumgartner",
+      "teamCode": "AUT",
+      "teamName": "Austria",
+      "absenceType": "injury",
+      "statusLabel": "Ruled out after squad announcement",
+      "date": "2026-06-02",
+      "reason": "He was ruled out by injury after the final squad was named, and Austria did not call a replacement.",
+      "whyFansKnowHim": "He is one of Austria's most recognizable attacking midfield names.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "AUT"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "billy-gilmour",
+      "player": "Billy Gilmour",
+      "teamCode": "SCO",
+      "teamName": "Scotland",
+      "absenceType": "injury",
+      "statusLabel": "Replaced before opener",
+      "date": "2026-05-30",
+      "reason": "He was replaced because of injury before Scotland's opener.",
+      "whyFansKnowHim": "He is one of the better-known Scotland midfielders among Premier League and European club viewers.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "SCO"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    },
+    {
+      "id": "marcelo-flores",
+      "player": "Marcelo Flores",
+      "teamCode": "CAN",
+      "teamName": "Canada",
+      "absenceType": "injury",
+      "statusLabel": "Replaced before opener",
+      "date": "2026-06-09",
+      "reason": "An ACL injury forced him out and Canada confirmed Jayden Nelson as the replacement.",
+      "whyFansKnowHim": "He is one of the young Canadian names casual North American fans tend to recognize quickly.",
+      "confidence": "high",
+      "sourceTrail": [
+        {
+          "type": "local-team-overlay",
+          "path": "src/data/world-cup-availability.json",
+          "teamCode": "CAN"
+        }
+      ],
+      "sourceIds": [
+        "local-world-cup-availability"
+      ]
+    }
+  ]
+}

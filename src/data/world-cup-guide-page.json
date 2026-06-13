@@ -1,0 +1,214 @@
+{
+  "_note": "Blueprint for a standalone World Cup guide page. This is intentionally not tied to individual fixtures so it stays useful without live data.",
+  "lastUpdated": "2026-06-12",
+  "page": {
+    "id": "world-cup-primer",
+    "title": "World Cup Primer",
+    "eyebrow": "New to soccer?",
+    "subtitle": "A standalone fan guide that explains the sport, the tournament, and the personalities around it without pretending to be a live command center.",
+    "tonePillars": [
+      "smart but welcoming",
+      "clear before clever",
+      "fun without fake urgency",
+      "confident but never snobby"
+    ],
+    "fanModes": [
+      {
+        "id": "brand-new",
+        "label": "Brand New",
+        "promise": "Get the sport in plain English fast."
+      },
+      {
+        "id": "casual",
+        "label": "Casual Fan",
+        "promise": "Learn enough to sound sharp while watching."
+      },
+      {
+        "id": "i-know-ball",
+        "label": "I Know Ball",
+        "promise": "Skip straight to shape, style, and personality."
+      }
+    ],
+    "search": {
+      "placeholder": "Search offside, formations, missing stars, teams, fun facts...",
+      "filters": [
+        "section",
+        "fanMode",
+        "contentType",
+        "tag"
+      ]
+    }
+  },
+  "sections": [
+    {
+      "id": "start-here",
+      "label": "Start Here",
+      "contentType": "rule-cards",
+      "layout": "featured-grid",
+      "cardType": "explainer",
+      "description": "The fastest possible on-ramp for someone who just wants to follow a match without feeling lost.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-learning",
+          "path": "tiers.first-match.cards"
+        }
+      ]
+    },
+    {
+      "id": "how-soccer-is-built",
+      "label": "How Soccer Is Built",
+      "contentType": "competition-ladder",
+      "layout": "step-rail",
+      "cardType": "tier-card",
+      "description": "Explains club vs country and where the World Cup sits in the larger ecosystem.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-ecosystem",
+          "path": "tiers"
+        }
+      ]
+    },
+    {
+      "id": "positions-and-roles",
+      "label": "Positions and Roles",
+      "contentType": "glossary",
+      "layout": "searchable-grid",
+      "cardType": "role-card",
+      "description": "A quick decoder for who does what on the field.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-positions",
+          "path": "positions"
+        }
+      ]
+    },
+    {
+      "id": "formations-made-simple",
+      "label": "Formations Made Simple",
+      "contentType": "shape-cards",
+      "layout": "stacked-cards",
+      "cardType": "formation-card",
+      "description": "Tells users what the famous number patterns actually mean in human language.",
+      "defaultFanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-formations",
+          "path": "formations"
+        }
+      ]
+    },
+    {
+      "id": "watch-smart",
+      "label": "Watch Smart",
+      "contentType": "signal-cards",
+      "layout": "carousel-or-grid",
+      "cardType": "watch-for-card",
+      "description": "Turns casual viewers into active viewers by giving them a few smart cues to look for.",
+      "defaultFanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-learning",
+          "path": "tiers.watching-smart.cards"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-primer",
+      "label": "World Cup Primer",
+      "contentType": "tournament-guide",
+      "layout": "section-rail",
+      "cardType": "primer-card",
+      "description": "Why this tournament feels bigger than normal football and how the 2026 format works.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "world-cup-primer",
+          "path": "cards"
+        }
+      ]
+    },
+    {
+      "id": "missing-stars",
+      "label": "Famous Missing Names",
+      "contentType": "absence-cards",
+      "layout": "story-card-list",
+      "cardType": "absence-card",
+      "description": "Answers the question casual fans ask constantly: why is that player not here?",
+      "defaultFanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "famous-absences",
+          "path": "players"
+        }
+      ]
+    },
+    {
+      "id": "adopt-a-team",
+      "label": "Adopt A Team",
+      "contentType": "team-personality-cards",
+      "layout": "personality-grid",
+      "cardType": "recommendation-card",
+      "description": "Helps neutral fans pick a side based on play style, atmosphere, and emotional chaos.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "adopt-a-team",
+          "path": "profiles"
+        }
+      ]
+    },
+    {
+      "id": "world-cup-weirdness",
+      "label": "Fun Facts",
+      "contentType": "trivia-cards",
+      "layout": "masonry-or-grid",
+      "cardType": "fact-card",
+      "description": "The snackable section for records, weirdness, and lore.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "world-cup-fun-facts",
+          "path": "facts"
+        }
+      ]
+    }
+  ],
+  "interfaceNotes": [
+    "Do not present timestamps in a way that implies live updates unless a real refresh pipeline exists.",
+    "Show source chips or info drawers on facts, rules, and absence cards so trust stays high.",
+    "Let search work across titles, player names, teams, and tags from every referenced collection.",
+    "Keep the first screen skimmable. This page should feel like an inviting guide, not a textbook."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "_note": "Standalone World Cup explainer cards. Use this for a static guide page, not live match coverage.",
+  "lastUpdated": "2026-06-12",
+  "cards": [
+    {
+      "id": "primer-what-is-world-cup",
+      "title": "What the World Cup actually is",
+      "summary": "The men's World Cup is the biggest international tournament in the sport, bringing national teams together rather than clubs.",
+      "whyItMatters": "This is why fans care about flags, anthems, and national identity in a way that feels different from club football.",
+      "whatToWatch": "The emotion is usually sharper because players may only get one or two World Cups in their whole careers.",
+      "tags": [
+        "basics",
+        "international-football",
+        "world-cup"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup"
+      ]
+    },
+    {
+      "id": "primer-why-it-feels-different",
+      "title": "Why the World Cup feels bigger than normal football",
+      "summary": "It is rare, global, short, and emotionally compressed. Every mistake feels louder because there are fewer chances to recover.",
+      "whyItMatters": "That is why even all-time great players can be remembered for one tournament month.",
+      "whatToWatch": "Notice how conservative even star-heavy teams can become once the knockout rounds start.",
+      "tags": [
+        "emotion",
+        "prestige",
+        "tournament-football"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup",
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "primer-2026-format",
+      "title": "How the 2026 format works",
+      "summary": "The 2026 edition uses 12 groups of four teams. The top two in each group plus the eight best third-place teams advance to a Round of 32.",
+      "whyItMatters": "It creates more teams, more matches, and more chances for group-stage scoreboard math.",
+      "whatToWatch": "A team can survive one bad day and still advance, which changes the risk profile of early matches.",
+      "tags": [
+        "format",
+        "2026",
+        "groups"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup"
+      ]
+    },
+    {
+      "id": "primer-group-stage",
+      "title": "The group stage is a mini league with nerves",
+      "summary": "Each team plays three group matches, earning points for wins and draws before the table decides who moves on.",
+      "whyItMatters": "This is why a draw can be useful and why goal difference becomes part of the drama.",
+      "whatToWatch": "Late group games can shift from wild to cautious depending on what the live table is doing.",
+      "tags": [
+        "group-stage",
+        "table",
+        "points"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup",
+        "ifab-law-10"
+      ]
+    },
+    {
+      "id": "primer-best-third-place",
+      "title": "Third place can still be enough",
+      "summary": "Because 32 teams advance from 12 groups, the eight best third-place finishers also move on.",
+      "whyItMatters": "Teams sometimes manage a match with that escape hatch in mind instead of chasing chaos.",
+      "whatToWatch": "This can make the final group-round scoreboards feel interconnected across cities and kickoff windows.",
+      "tags": [
+        "format",
+        "third-place",
+        "math"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup"
+      ]
+    },
+    {
+      "id": "primer-knockout-rounds",
+      "title": "Once the bracket starts, the mood changes",
+      "summary": "After the group stage, the tournament becomes straight knockout football, where one bad half can end everything.",
+      "whyItMatters": "That pressure often makes elite teams look more careful than their talent level suggests.",
+      "whatToWatch": "The deeper the tournament goes, the more every goal feels like a major event instead of just part of a long season.",
+      "tags": [
+        "knockout",
+        "pressure",
+        "bracket"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup"
+      ]
+    },
+    {
+      "id": "primer-extra-time-and-penalties",
+      "title": "A knockout match can end with penalties",
+      "summary": "If a knockout match is level after regulation, it can go to extra time and then a penalty shoot-out if needed.",
+      "whyItMatters": "A shoot-out is one of the most intense and emotionally brutal endings in all of sports.",
+      "whatToWatch": "The match can become more conservative late because both teams know the next mistake might decide the whole tournament.",
+      "tags": [
+        "penalties",
+        "extra-time",
+        "knockout"
+      ],
+      "sourceIds": [
+        "ifab-law-10",
+        "ifab-law-14"
+      ]
+    },
+    {
+      "id": "primer-three-hosts",
+      "title": "This is the first World Cup shared by three host countries",
+      "summary": "Canada, Mexico, and the United States are jointly staging the 2026 tournament.",
+      "whyItMatters": "It makes this edition feel especially spread out, city-driven, and continent-sized.",
+      "whatToWatch": "Different host cities will feel like different mini-festivals rather than one single atmosphere copied 104 times.",
+      "tags": [
+        "hosts",
+        "2026",
+        "scale"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup"
+      ]
+    }
+  ]
+}

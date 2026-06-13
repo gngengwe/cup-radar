@@ -1,0 +1,131 @@
+{
+  "_note": "Plain-English formation explainers for fans who see the numbers but want the real idea behind them.",
+  "lastUpdated": "2026-06-12",
+  "formations": [
+    {
+      "id": "4-3-3",
+      "label": "4-3-3",
+      "plainEnglish": "Four defenders, three midfielders, three attackers.",
+      "vibe": "Balanced, modern, and flexible.",
+      "whyCoachesUseIt": "It gives natural width, a clear midfield triangle, and an easy platform for pressing.",
+      "whatFansWillNotice": "The wingers stay high, the central midfielders rotate, and the fullbacks often help create overloads.",
+      "strengths": [
+        "good width",
+        "clean pressing shape",
+        "multiple passing triangles"
+      ],
+      "tradeoffs": [
+        "can leave the lone striker isolated",
+        "demands a lot from the wide forwards"
+      ],
+      "bestFor": "Teams that want to attack without losing structure.",
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "4-2-3-1",
+      "label": "4-2-3-1",
+      "plainEnglish": "Four defenders, two deeper midfielders, three creators behind one striker.",
+      "vibe": "Stable with room for a star playmaker.",
+      "whyCoachesUseIt": "The double pivot adds security while the attacking midfielder gets freedom between the lines.",
+      "whatFansWillNotice": "The team often looks compact without the ball and much more layered once it settles in possession.",
+      "strengths": [
+        "good defensive cover",
+        "room for a No. 10",
+        "clear balance between risk and safety"
+      ],
+      "tradeoffs": [
+        "can get flat if the attacking line does not move enough",
+        "relies heavily on the lone striker to occupy defenders"
+      ],
+      "bestFor": "Teams built around one main creator or a careful tournament approach.",
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "4-4-2",
+      "label": "4-4-2",
+      "plainEnglish": "Four defenders, four midfielders, two forwards.",
+      "vibe": "Classic, disciplined, and easy to defend in.",
+      "whyCoachesUseIt": "It keeps two banks of four compact and gives the team two reference points up front.",
+      "whatFansWillNotice": "The shape is simple to read, especially when a side is defending deep and trying to counter quickly.",
+      "strengths": [
+        "clear defensive spacing",
+        "good for counters",
+        "two strikers can occupy both center-backs"
+      ],
+      "tradeoffs": [
+        "midfield can be outnumbered centrally",
+        "creative burden can fall too heavily on wide players"
+      ],
+      "bestFor": "Underdogs, organized mid-block teams, and direct transition sides.",
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "3-5-2",
+      "label": "3-5-2",
+      "plainEnglish": "Three center-backs, five across midfield, and two forwards.",
+      "vibe": "Compact through the middle with aggressive wing-backs.",
+      "whyCoachesUseIt": "It protects the center while still allowing width from the wing-backs and partnerships up front.",
+      "whatFansWillNotice": "The wing-backs become the most exhausting job on the field because they have to create and recover constantly.",
+      "strengths": [
+        "strong central coverage",
+        "good striker partnerships",
+        "natural rest defense with three center-backs"
+      ],
+      "tradeoffs": [
+        "wing-backs can be pinned back",
+        "width disappears if the flank players tire"
+      ],
+      "bestFor": "Teams that trust their central defenders and want to attack with two forwards.",
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "4-1-4-1",
+      "label": "4-1-4-1",
+      "plainEnglish": "Four defenders, one sitter, four across midfield, one striker.",
+      "vibe": "Control-first and difficult to play through.",
+      "whyCoachesUseIt": "The lone holding midfielder protects the center while the line of four ahead can press or drop depending on game state.",
+      "whatFansWillNotice": "It often looks conservative at first, then surprisingly aggressive when the midfield line jumps together.",
+      "strengths": [
+        "great central protection",
+        "strong pressing platform",
+        "easy to turn into a block"
+      ],
+      "tradeoffs": [
+        "the striker can become isolated",
+        "creative players need runners around them"
+      ],
+      "bestFor": "Tournament teams that care about structure first and flair second.",
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    }
+  ]
+}
