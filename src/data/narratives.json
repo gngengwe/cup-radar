@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T08:58:44.657Z",
+  "lastUpdated": "2026-06-13T11:22:48.704Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -423,7 +423,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 54,
+      "chapterCount": 58,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -856,6 +856,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZOW0tZkFGX3p5TV9iZ1NOTm5obGRvbE9UNnMtU2hHakhrWV9KdmZtN0I3UUg4VGtQQWRubklyQy1NNUlIVGhla2g1MWhvRDdXMFpqZFkycFZKZ1prQ1BpSTBxZ2I3aHRzOHdR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781349767460",
+          "date": "2026-06-13",
+          "title": "United States vs Paraguay Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0MlRoSUZ4MHNWMnRqOUh1d0t1eXJCS1BwTWp1ZWJZN3dURzc0UFhmNnZheEEwR0Zfa1l1bkZ4c3dIbVhCMWNOeEFrU1VtWDdIN0NXV0NVUXNsa3hxTHNmakxn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781349767460",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: Christian Pulisic ready to take USA to next level - Olivier Giroud - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V1JxYVFBV2swZ01VLWVqNWRGUEI2NW9uTV8xdHVNV0hwbUh1NE1xS214bzQ5WkVIZ2xHdGQ2TWd5blNRRG9IU3Q4RjVKX2dwUW5oMUp6MnFZYjhmZlkyTWhlMlZGUjg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781349767460",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDF4V3MxVGMzaFEwZUdfcmZoS0EtWm9KYXpiY3lfYTZ5U1lZdWtjV1YyX3RieXJ5Rk5mSnpRWllTMkw0NHViX2dfWk9jLUo4bFRtNzY5S2ZkbFBfUk9LN3ZDXzFZOVdvQkc1U3NvQ0dKVmZxY3NhRFlqOWZibmlwSnMxV0p3MjU2OVpDVWl2OGx4bEx2TkRvQloyWUxLbEdTaHNycUw2YVdwQnAyWWRSSG05eTJBYXRNQmlKaVZOYkFNWm9PaklONDlGV0I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781349767460",
+          "date": "2026-06-13",
+          "title": "The American left has a favorite player - Live Updates - Politico",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0xPbjhrWTFXYkxvQmUxUU9xQW4yUDFBZXBOYk50dXhXWDZWZ1NoYm53b2RJR1l6aHpVS05sVGFXTDd5ajM1TlJYbGRnTnNoVXhDcnFJN0hXV0l6ei03dUhtU1RLTDdUZHlYb0R1aG5XY010X2xtcXlsQ3c3dlZBdFRMVHUxb0h6TXp2S0ZzLTNtSWxuZHZuUVgyLVJGbnhiZUc3ZkdXUWx0SS1uaDdEanBfWQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -874,7 +906,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 45,
+      "chapterCount": 47,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1235,6 +1267,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXRfbG5BUzJ6TlBpZ3l6am45ZmRCRXJaYjdlMkd4ejJ6TlhNRnNGV3pKa2FSSWs4OWI2c3ViT29jeEFSRHJ5eW02aUw2S0k4YnVYNjllZkJUTVIxcWQ3Z0EyZWhfcEo0N2lOUEhUY1QwazRCcW9uQ0tEeDM2VHlfYlQyQmMzd1FRMEUwRmZNbjVJOWc0Z2hMY1B2VlRxdXg1SVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781349768191",
+          "date": "2026-06-13",
+          "title": "World Cup Daily: Brazil fans take over NYC, Ronaldo arrives - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHZvUVhySVg4MUtyWDNhTlpSWUpnbUx6Q293aW1zaUk5aFQwdFNSM1Z3MExZeWZXOUZiUWNnX0RoQ3M3NEw0YUlqUTk3SVdCT3drazZtek9GS0pNY2o2WFhNYjF3a0lVRmJZLW0wNGhLNGZSZW1fS0RGb1ZTYmV6VHc2S2cxSXZ3Tmh3NUk0V3dkMUp3MjUzZkxfYnlNRFVaSi1oTTAxZk93Wm5BVnpXLXo3cXRQMjdyV0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781349768191",
+          "date": "2026-06-13",
+          "title": "World Cup predictions: Brazil vs Morocco, Haiti vs Scotland and rest of matchday 3 - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0hUZ0pVQTYtaVpqaXNhZVdNQl8zVXBobHJVSHNvN082YU1KRVItc0U1OFVULWd0MDlQdTlXSElYVTg3Wlh2NEV4R0xVOVoyLUZ4aU95Yno3ZHlHX0FwbG9uOE5CWGRRWmhvZVpUR05nSmNGYXBCb2N3U0RXa2NPcGc5ZXE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1309,7 +1357,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 60,
+      "chapterCount": 62,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1789,6 +1837,22 @@
           "title": "World Cup 2026: Where do England compare in terms of travel? - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BRYzM0eFdHeWQ3akRHbU1kQ1NOUGMtbi1LaTE3Y3NZX3VSc3JIRnRWbE5WVW1oLTA1UjhvMEU1UE8xeGNuRlZPZkgyOWdTb1BkX3lXRkNJMERuUmkxeFQ1Z1FNQjJpSHdlYVVEdldIc0tzV0NiTEwzUEZkUWFueC1VeVNVMUpUX2FiSkFxZHlOLUdjbWlnR0Y1VzVQa1RmaFRIY3ZQakpuTVV5UVdpbkpINDU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781349768704",
+          "date": "2026-06-13",
+          "title": "England welcomed to World Cup by 'Soccer Capital of America' Kansas City - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVZWV2VFYll3Zlhkdkl3eVhDVEN5bWJrWVNNQjQybFdMc21XZnlQUTl2T3VLeTVFQUl6YUVJRElTNElId2cyZkNUd0FFY09ZbGpPcG84US0xUjdxcHB3akVnc3lCZ3huM21KMmlYWjFzWnVkblcxUVA4VGc1ZzFmemVXbFNQVFc1ZzVPUG1hX0tsLW9nWlJJRUc1X0x1ZENlTkd6R2NFWm1YaGVZTGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781349768704",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: Inside the England training base - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2tXMUJ3TlVTQUtwRkJRN3lBU2FmNmJ1MUJYdWRIUmFKSHVyX1ZPVkZBdldZeFkxR2pKcXpTNDU3b2NZOXZLc0lTMTFpeDViV19NRmtPZm9rLW44WTZYazlqMm04Y2JfQUE5UUJxbkFfa2lEZUVsZUNXeGFjV2JvaUxLTExNUUlTT1dBM3lKYjBybkFTczdjRVRPM3JOZk93WGh2OWR3?oc=5",
           "draft": true
         }
       ]
