@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T03:44:47.704Z",
+  "lastUpdated": "2026-06-13T08:58:44.657Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 22,
+      "chapterCount": 23,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -194,6 +194,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZjJHNjFMQThvQnJQRnNTSWJ6WHg5WXRSMnpCWkF3OERIQ0JLWVJlcVIzcWR5ZHVZVHpESnBDNUduRkZfTG5mcGlpZ3B4NEt6LXRFUWwybUo1U1A5NHFveVJDYXB5MnlVT09GVjAzd1Vyd2lPWkYweTNFWHUxRWZEZUNpam5DRjU2dkthbkxwdzl5aFFVT1Y2b2cwRF9OdnA0Y3RMOVd6ZFRvdjdrT1B4M0VPQ1BRMXBMVDNjdXRZTzU0U3hvR1VqcGd6T1M3MnRR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781341122390",
+          "date": "2026-06-12",
+          "title": "Argentina’s World Cup title defence: Odds and expectations of Lionel Messi going back-to-back - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEhCZ0ZHX2NQZ3FwcGtwN255VjdxWWZ5ZW1MSms0Q3FkNXFlb3lPdHFmN2JGQ0JMcjFhdGpfQ0UtNHVLRDRWQlE1QnM2Mk1qcEpidW9NM0ZRYm9ESzVNbXRiZkdYejR5VUFrcm5sTThiSmF1VDl0bl9vZGVYdHRVM3hWWUJRYS10bld1UENTV3VWR201THdETlZfZTk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -212,7 +220,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 21,
+      "chapterCount": 23,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -381,6 +389,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BaU5WYTNMSElYSURRWk9XUTRiZHVNempKT3hPSmEzZmtlZmY3RjNkT0ZIUmJtRVNvdDlBMU1NTklYbTFTaGZhVFRkTjNqMmpsTG15cFpQUDdlVkZwNUw1dkFqdHltVWs?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781341122905",
+          "date": "2026-06-12",
+          "title": "Dembele says criticism of France captain Mbappe has gone too far - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYU5zTjIwYXNzRWtYVklTS2J3aXVEc3NMeG1xZnNmaHJFd1FZUTJfTDhQZ0ZybmVuY0thSExFTVo1bE90RmVPWkp6MVI5YmNkeXdGb1NGT245UGRLNTdEVm10QUc3b3lCZ3Z3NEJacHFDTXZvMGFaRmpOakZ1UXpVbElLZFdrN2s2VzhoTzZBV2NqQzRlTTdmeXY1ck1xLWNYdE1ybkxOOW9FaTRKQmMyRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781341122905",
+          "date": "2026-06-13",
+          "title": "James Corden Gives Kylian Mbappé Fashion Advice - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yeDNDSjNRcF9MVEh3aUFDd2R3T3UxWjNtVm5Bc3VxUV9XYmZVV3hrY19GN3Zld0Zuc3NkOUxieU82akRZcWNKT0tTb0hKVkk2SW96RGZBWE1tWVg1enhKcmln?oc=5",
+          "draft": true
         }
       ]
     },
@@ -399,7 +423,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. Playing in front of massive home crowds — including in LA, Dallas, and New York — the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "How far do they go? Does the home crowd energy translate to results? And how does the country react if they make a deep run — or crash out early?",
-      "chapterCount": 51,
+      "chapterCount": 54,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -808,6 +832,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbW03enRtSnRUcURaWFJCQ052RzkxNEV6S0VZMFAtdFJLNzhiTV9QVWRkRG9zZEpib09OdFZGcklqZTNFR2NHeVNyeUNnaUU2eF8yMDE3eWNwYW9ENFJramU4VEdNRWhvREtTc3FfeXBvU3dsdlFBTmdxQ2w5UHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781341123566",
+          "date": "2026-06-13",
+          "title": "2026 World Cup scores, results: USMNT throttles Paraguay; Canada earns draw with Bosnia and Herzegovina - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFRmV2llWHVwaW4tNy1BdlBZa2VXMUJIaHVGSjVjWFZjcUxEbmRTWnU0U3FyVEtSeW53Zi1PNzZTU2M3cVF6OERFcGF2S3JnLTZCYjFxR1JKZWpYNW9QQlZHekN6LWZQZnlibWs3VWlCZldsS0xLNWFYdnd4X0lEbUxZSXNlZm41ZjA4cXhRZGxZU0FncWRfbXl0OHROMl8zcnlMM3Q3Y2FFS1Vad1phRGt5SS1XOU1UX3hUM2JsWW5HYUhDLXJRLW5EQ2xManZ0aWhkRzV4NjMtMHFVS2JTWWpIV1BZNTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781341123566",
+          "date": "2026-06-12",
+          "title": "U.S. Soccer wanted a top coach for the 2026 World Cup. Billionaires helped make it happen - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSEVpR0JvNW05eTZUbXB4aGlsaWNmamxINjdUSGZ4ejlDWjlqX2xWekJmbXJZNzhfN1gyMWFvN1VkZ0dFZkpqbTZ2WlU5Z2g2U3NwdWxlTmRFclA1Y3lGWklhaHlWc2hjWFF6anlnWkM4T1RVc1NPSVNHRHhINUM0Q1lZMjlCX1ZrSHZ3TTlib3JlSlg5NWZrSzlHdGN2ajh5NVpmV0FULXhVb0RsZWFuS0R4eEhYM2NnSWhWU1BB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781341123566",
+          "date": "2026-06-13",
+          "title": "A perfectly American start to the USA’s 2026 World Cup - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZOW0tZkFGX3p5TV9iZ1NOTm5obGRvbE9UNnMtU2hHakhrWV9KdmZtN0I3UUg4VGtQQWRubklyQy1NNUlIVGhla2g1MWhvRDdXMFpqZFkycFZKZ1prQ1BpSTBxZ2I3aHRzOHdR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -826,7 +874,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 42,
+      "chapterCount": 45,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1163,6 +1211,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNkVRdzBxUXpVdUpyRFNyM0pIMVlrc0ZnQTg1czUxYmtYazI0NkNEWFJJc0d4cTEtdDMxNWZScWtUU1Q5QU5DTl9HM0RFakpOOV9tYUpHTmxYa0FCZzNJNm1rS1ktbXA2VXF0SE9iRXQ1eXlVMEhySXdxRUJVdndYMTBJVWNuQ0VLMkRRX29xX3MyWHZwMVgwbnpCLVZIWGVwWFJmajZ2MzRmYnNwNTByQ2xTQUJCaEZCejJMR21vYUhIVkFSems3bjUzSlFiaXJaelZtMlNxWHFxN0QtTE1RYW82YXgyaks1X0ZmZ1plOEZpZEo4RFA2eGZLSmQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781341124132",
+          "date": "2026-06-13",
+          "title": "Brazil vs. Morocco—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2ZyTVpoVXVkNXp2SW1BMUJXeHF1TmNXeHdyeExsUldGNFI0enpYejRzSkhqQjdNaEdXRFdHdDc0NGZ5dF9sSnh5TUJ0bzVFWXBvMGpMcnpwSUNPSUlKYmxOMjM1b1JCcVA4b2dIc0Ffdm1GYWQ1YlJ4OHpLVHRJZFpBZjlMRnRwN0dtUEEzaE5XU0U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781341124132",
+          "date": "2026-06-13",
+          "title": "Why Ecuador could be sleeper team of the 2026 World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYWlfSmZudnV1bVB0TkFhaXFnanNDZ0FaLW42b0ZSeW4tYmtrd256NXF0aW9LSV9VaVNPMnNTTExDazZFa1dxcFl4SklnWjMwSm1FNG9GRXVUM2RPajVsWU9UMHZ3SGdQNVJQRGJCZGc4MFhSNFZWbDJub0ZBaTdFRVZMYnd3QUNDQTlkbFQ3dE0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781341124132",
+          "date": "2026-06-13",
+          "title": "Brazil, Carlo Ancelotti and the World Cup: ‘They’re desperate for that sixth star on the shirt’ - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXRfbG5BUzJ6TlBpZ3l6am45ZmRCRXJaYjdlMkd4ejJ6TlhNRnNGV3pKa2FSSWs4OWI2c3ViT29jeEFSRHJ5eW02aUw2S0k4YnVYNjllZkJUTVIxcWQ3Z0EyZWhfcEo0N2lOUEhUY1QwazRCcW9uQ0tEeDM2VHlfYlQyQmMzd1FRMEUwRmZNbjVJOWc0Z2hMY1B2VlRxdXg1SVE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1237,7 +1309,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 56,
+      "chapterCount": 60,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -1685,6 +1757,38 @@
           "title": "Gary Lineker Is Worried About the Trump World Cup - Bloomberg.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oVGtGaHg2SlZxTVJoX0c3N2c0eUtmbThXX0lVZTNjLWFxYXExamdNRlI3OWFRenc1UHZ2MlJJUndjakRZYmFyNTYxZ256NTU0bUpySnR3QnQ5Q0NQOGozcDZ0WWw1VmZOY21iYktGa09CbUFEUl9GeXIyYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781341124657",
+          "date": "2026-06-13",
+          "title": "World Cup 2026 live: Fifa releases statement on empty seats and investigation into theft at England camp - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOG9za1BubzBZVWNYenM4Tm9tMWNkVzB0VFRIQU9INU9UbkdkOFB3UWlWOXBSSEJQQ09jZFBRX2FseGVwb1hycHpIWmwwaTRDSUdsd0F4X21uaW9mLVhzNmgtdUItY0UzMTRqdUJxM1h3ZUZPa0hINS1nVXBaemUyX1JMdlFVMHVyZlRZckZLUjBlMTdLbkxZZlc5a2dpQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781341124657",
+          "date": "2026-06-13",
+          "title": "(2) World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDF4V3MxVGMzaFEwZUdfcmZoS0EtWm9KYXpiY3lfYTZ5U1lZdWtjV1YyX3RieXJ5Rk5mSnpRWllTMkw0NHViX2dfWk9jLUo4bFRtNzY5S2ZkbFBfUk9LN3ZDXzFZOVdvQkc1U3NvQ0dKVmZxY3NhRFlqOWZibmlwSnMxV0p3MjU2OVpDVWl2OGx4bEx2TkRvQloyWUxLbEdTaHNycUw2YVdwQnAyWWRSSG05eTJBYXRNQmlKaVZOYkFNWm9PaklONDlGV0I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781341124657",
+          "date": "2026-06-13",
+          "title": "Folarin Balogun chose the U.S. over England. It’s already paying off in the World Cup - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVdtV3JlMlA3d2YtUTBwSXlrdmdWY3BkTThrV0VqSk1mWC12TUJxSTJHdjdMTXRLU01NOWlJdUJOckd5YjlzeVZuTF9INGlOWF9FdVJYeUQzSnB5dEtsR3NwX1RVR004RVdLU1FoN19hcGRtLXpGNndYZ3UzV1hSWDdIaHhSZVhvZndXa2g5RE9WaGxYQXQyWTloQlI5VW5MM1U2YXp3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781341124657",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: Where do England compare in terms of travel? - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3BRYzM0eFdHeWQ3akRHbU1kQ1NOUGMtbi1LaTE3Y3NZX3VSc3JIRnRWbE5WVW1oLTA1UjhvMEU1UE8xeGNuRlZPZkgyOWdTb1BkX3lXRkNJMERuUmkxeFQ1Z1FNQjJpSHdlYVVEdldIc0tzV0NiTEwzUEZkUWFueC1VeVNVMUpUX2FiSkFxZHlOLUdjbWlnR0Y1VzVQa1RmaFRIY3ZQakpuTVV5UVdpbkpINDU?oc=5",
           "draft": true
         }
       ]
