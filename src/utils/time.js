@@ -42,6 +42,24 @@ export function daysUntilLabel(dateStr) {
   return null;
 }
 
+// Timezone offsets from UTC for June–July 2026 (daylight saving time applies to all US cities).
+const TZ_UTC_OFFSETS = { PT: 7, PDT: 7, CT: 5, CDT: 5, ET: 4, EDT: 4, MT: 6, MDT: 6 };
+
+/**
+ * Returns a match's kickoff time as an ISO 8601 UTC string, given its
+ * local date/time/timezone fields (e.g. "2026-06-13", "18:00", "ET").
+ */
+export function matchKickoffISO(match) {
+  const offset = TZ_UTC_OFFSETS[match.timezone] ?? 7;
+  const [year, month, day] = match.date.split('-').map(Number);
+  const [hour, minute]     = (match.time || '19:00').split(':').map(Number);
+  let utcHour = hour + offset;
+  let utcDay  = day;
+  if (utcHour >= 24) { utcHour -= 24; utcDay += 1; }
+  const fmt = n => String(n).padStart(2, '0');
+  return `${year}-${fmt(month)}-${fmt(utcDay)}T${fmt(utcHour)}:${fmt(minute)}:00Z`;
+}
+
 /**
  * Returns a live countdown string "Xd Xh Xm" or null if time has passed.
  */

@@ -1,11 +1,11 @@
 // Shared HQ template — rendered by SeattleHQ, KansasCityHQ, MiamiHQ, NewYorkHQ, PhillyHQ.
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import alertsData from '../data/alerts.json';
 import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../components/CalendarExport';
 import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
-import { daysUntilLabel } from '../utils/time';
+import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
 import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
@@ -38,6 +38,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
   const shouldIGo = cityData.shouldIGoScores?.find(s => s.matchId === match.id);
 
   const countdown = daysUntilLabel(match.date);
+  const isMatchDay = countdown === 'TODAY';
 
   return (
     <div className={`hq-match-card${isKnockout ? ' knockout' : ''}${expanded ? ' expanded' : ''}${countdown === 'TODAY' || countdown === 'TOMORROW' ? ' imminent' : ''}`}>
@@ -49,7 +50,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
             {countdown}
           </span>
         )}
-        {shouldIGo && (
+        {!isMatchDay && shouldIGo && (
           <span
             className="hq-match-card__sigo"
             style={{ color: SHOULD_GO_COLORS[shouldIGo.label] || 'var(--accent)' }}
@@ -104,9 +105,9 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
 
       {expanded && (
         <div className="hq-match-card__detail">
-          <WeatherWidget matchDate={match.date} cityId={cityId} />
+          {!isMatchDay && <WeatherWidget matchDate={match.date} cityId={cityId} />}
 
-          {shouldIGo && (
+          {!isMatchDay && shouldIGo && (
             <div className="sigo-block">
               <div className="sigo-block__header">
                 <span className="sigo-block__label">Should I Go?</span>
@@ -139,8 +140,98 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
   );
 }
 
+function MatchDayHero({ match, cityData }) {
+  const [now, setNow] = useState(Date.now());
+  useEffect(() => {
+    const id = setInterval(() => setNow(Date.now()), 30_000);
+    return () => clearInterval(id);
+  }, []);
+
+  const energyEntry = cityData.cityEnergyForecast?.find(e => e.matchId === match.id);
+  const transit      = cityData.transitPain?.find(t => t.matchId === match.id);
+  const countdown    = liveCountdown(matchKickoffISO(match));
+
+  let status;
+  if (match.status === 'finished') {
+    status = `FINAL · ${match.homeTeam} ${match.homeScore}–${match.awayScore} ${match.awayTeam}`;
+  } else if (countdown) {
+    status = `Kicks off in ${countdown}`;
+  } else {
+    status = '🔴 Live now — check back for the score';
+  }
+
+  return (
+    <div className="hq-matchday-hero">
+      <div className="hq-matchday-hero__pill">🔴 Match Day</div>
+      <div className="hq-matchday-hero__matchup">
+        {(getJersey(match.homeCode) || getJersey(match.awayCode)) ? (
+          <>
+            <div className="hq-jersey-team">
+              {getJersey(match.homeCode)
+                ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={64} />
+                : <FlagImg emoji={match.homeFlag} size={36} />}
+              <span className="hq-jersey-team__name">{match.homeTeam}</span>
+            </div>
+            <span className="hq-jersey-vs">vs</span>
+            <div className="hq-jersey-team">
+              {getJersey(match.awayCode)
+                ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={64} />
+                : <FlagImg emoji={match.awayFlag} size={36} />}
+              <span className="hq-jersey-team__name">{match.awayTeam}</span>
+            </div>
+          </>
+        ) : (
+          <>
+            <FlagImg emoji={match.homeFlag} size={28} />
+            <strong>{match.homeTeam}</strong>
+            <span className="hq-jersey-vs">vs</span>
+            <strong>{match.awayTeam}</strong>
+            <FlagImg emoji={match.awayFlag} size={28} />
+          </>
+        )}
+      </div>
+      <div className="hq-matchday-hero__status">{status}</div>
+      <div className="hq-matchday-hero__meta">
+        {match.time} {match.timezone} · {match.venue}
+        {energyEntry && (
+          <span className="city-today-banner__energy" title={energyEntry.crowdNote}>
+            · {'⚡'.repeat(Math.min(energyEntry.energyScore, 5))}
+          </span>
+        )}
+      </div>
+      {transit && (
+        <div className="hq-match-card__transit hq-matchday-hero__transit" style={{ borderColor: transit.color }}>
+          <span className="transit-pain__label">Transit</span>
+          <span className="transit-pain__score" style={{ color: transit.color }}>{transit.label}</span>
+          <span className="transit-pain__peak">{transit.peakWindow}</span>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function UpcomingBanner({ match }) {
+  const cd = daysUntilLabel(match.date);
+
+  return (
+    <div className="city-today-banner">
+      <div className="city-today-banner__pill">{cd || 'Upcoming'}</div>
+      <div className="city-today-banner__match">
+        <FlagImg emoji={match.homeFlag} size={15} />
+        <strong>{match.homeTeam}</strong>
+        <span style={{ color: 'var(--text-dim)', margin: '0 6px' }}>vs</span>
+        <strong>{match.awayTeam}</strong>
+        <FlagImg emoji={match.awayFlag} size={15} />
+      </div>
+      <div className="city-today-banner__meta">
+        {match.time} {match.timezone} · {match.venue}
+      </div>
+    </div>
+  );
+}
+
 function TodaySummary({ matches, cityData }) {
-  const today     = new Date().toISOString().split('T')[0];
+  const today      = new Date().toISOString().split('T')[0];
   const todayMatch = matches.find(m => m.date === today);
   const nextMatch  = matches
     .filter(m => m.date > today)
@@ -148,32 +239,9 @@ function TodaySummary({ matches, cityData }) {
   const featured   = todayMatch || nextMatch;
   if (!featured) return null;
 
-  const energyEntry = cityData.cityEnergyForecast?.find(e => e.matchId === featured.id);
-  const cd          = daysUntilLabel(featured.date);
-  const isToday     = featured.date === today;
-
-  return (
-    <div className={`city-today-banner${isToday ? ' match-day' : ''}`}>
-      <div className="city-today-banner__pill">
-        {isToday ? '🔴 Match Day' : cd || 'Upcoming'}
-      </div>
-      <div className="city-today-banner__match">
-        <FlagImg emoji={featured.homeFlag} size={15} />
-        <strong>{featured.homeTeam}</strong>
-        <span style={{ color: 'var(--text-dim)', margin: '0 6px' }}>vs</span>
-        <strong>{featured.awayTeam}</strong>
-        <FlagImg emoji={featured.awayFlag} size={15} />
-      </div>
-      <div className="city-today-banner__meta">
-        {featured.time} {featured.timezone} · {featured.venue}
-        {energyEntry && (
-          <span className="city-today-banner__energy" title={energyEntry.crowdNote}>
-            · {'⚡'.repeat(Math.min(energyEntry.energyScore, 5))}
-          </span>
-        )}
-      </div>
-    </div>
-  );
+  return todayMatch
+    ? <MatchDayHero match={featured} cityData={cityData} />
+    : <UpcomingBanner match={featured} />;
 }
 
 export default function CityHQTemplate({ cityData, matches, events, title, venueName, cityId = 'seattle' }) {

@@ -4925,10 +4925,6 @@ a.wcp-source-chip:hover { color: var(--text); }
   margin-bottom: 20px;
   flex-wrap: wrap;
 }
-.city-today-banner.match-day {
-  border-color: var(--border-accent);
-  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.04));
-}
 .city-today-banner__pill {
   font-size: 11px;
   font-weight: 800;
@@ -4939,10 +4935,6 @@ a.wcp-source-chip:hover { color: var(--text); }
   background: var(--accent-soft);
   color: var(--accent);
   flex-shrink: 0;
-}
-.city-today-banner.match-day .city-today-banner__pill {
-  background: var(--accent);
-  color: #041208;
 }
 .city-today-banner__match {
   display: flex;
@@ -4960,6 +4952,68 @@ a.wcp-source-chip:hover { color: var(--text); }
   white-space: nowrap;
 }
 .city-today-banner__energy { letter-spacing: -2px; }
+
+/* ═══════════════════════════════════════════════════════════
+   MATCH DAY HERO — full-width "today" banner on City HQ
+═══════════════════════════════════════════════════════════ */
+.hq-matchday-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  padding: 28px 20px;
+  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.06));
+  border: 1px solid var(--border-accent);
+  border-radius: var(--radius);
+  margin-bottom: 20px;
+}
+.hq-matchday-hero__pill {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 14px;
+  border-radius: 100px;
+  background: var(--accent);
+  color: #041208;
+}
+.hq-matchday-hero__matchup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  font-size: 18px;
+  font-weight: 700;
+}
+.hq-matchday-hero__matchup .hq-jersey-team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.hq-matchday-hero__matchup .hq-jersey-team__name {
+  font-size: 15px;
+}
+.hq-matchday-hero__status {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.hq-matchday-hero__meta {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.hq-matchday-hero__transit {
+  margin-top: 4px;
+}
+
+@media (max-width: 480px) {
+  .hq-matchday-hero { padding: 20px 14px; }
+  .hq-matchday-hero__matchup { gap: 14px; font-size: 15px; }
+  .hq-matchday-hero__status { font-size: 15px; }
+}
 
 /* ═══════════════════════════════════════════════════════════
    CULTURE TRACKER — jersey in kit cards
