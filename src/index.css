@@ -4181,6 +4181,7 @@ a.wcp-source-chip:hover { color: var(--text); }
     top: auto;
   }
   .wcp-controls__row { flex-direction: column; }
+  .wcp-search { flex: none; width: 100%; }
   .wcp-section-select { width: 100%; }
   .wcp-tags { gap: 8px; }
   .wcp-tag { font-size: 12px; padding: 6px 12px; }
