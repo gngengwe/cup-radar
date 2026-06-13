@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-13T19:44:21.785Z",
+  "lastUpdated": "2026-06-13T19:44:26.982Z",
   "articles": [
     {
       "id": "news-auto-qatar-v-switzerland-world-cup-2026-live--2026-06-13",
@@ -35,7 +35,8 @@
       "date": "2026-06-13",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGdqaTBtQVVVblMxSk96VExwZy02UF8xbzZMT1JRZlZJdUJPM01FUVIyUkZUR2FBQW5MdlA3Zng3X2FNVzZRUFgtLXR2SHc2bmhrNkVUb0M0QkNFWm9jRWpfbE03Q2hLY095SVY1cGVYQ1BIQ2R6bi1pVFFfMUdISVJHWEpLY1Y0cDBGUFFHMFIwRUFyTDJVem9QekdPT0ZYLS1IZQ?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-13T19:44:26.982Z"
     },
     {
       "id": "news-auto-zlatan-thierry-henry-alexi-lalas-on-what-2026-06-13",
