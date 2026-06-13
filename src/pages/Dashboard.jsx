@@ -115,6 +115,8 @@ function buildNav(city) {
   const cfg = CITY_CONFIG[city];
   return [
     { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: `${cfg.matchCount} matches` },
+    { id: 'primer',     label: 'New to Soccer?',    icon: '🎓',      desc: 'World Cup guide', external: true, to: '/world-cup-primer' },
+    { id: '__divider-1__', divider: true },
     { id: 'allteams',   label: 'All 48 Teams',      icon: '🌍',       desc: 'Squads & status'      },
     { id: 'allgames',   label: 'All Games',         icon: '📅',       desc: 'Search every match'   },
     { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
@@ -122,7 +124,7 @@ function buildNav(city) {
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
     { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
     { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
-    { id: '__divider__', divider: true },
+    { id: '__divider-2__', divider: true },
     { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
     { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
     { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
@@ -225,20 +227,35 @@ export default function Dashboard() {
         <nav className="dash-nav">
           {nav.map(n => n.divider
             ? <div key={n.id} className="dash-nav__divider" aria-hidden="true" />
-            : (
-              <NavLink
-                key={n.id}
-                to={`/${city}/${n.id}`}
-                className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
-                onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
-              >
-                <span className="dash-nav__icon">{n.icon}</span>
-                <div className="dash-nav__text">
-                  <span className="dash-nav__label">{n.label}</span>
-                  <span className="dash-nav__desc">{n.desc}</span>
-                </div>
-              </NavLink>
-            )
+            : n.external
+              ? (
+                <Link
+                  key={n.id}
+                  to={n.to}
+                  className="dash-nav__item dash-nav__item--external"
+                  onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
+                >
+                  <span className="dash-nav__icon">{n.icon}</span>
+                  <div className="dash-nav__text">
+                    <span className="dash-nav__label">{n.label}</span>
+                    <span className="dash-nav__desc">{n.desc}</span>
+                  </div>
+                </Link>
+              )
+              : (
+                <NavLink
+                  key={n.id}
+                  to={`/${city}/${n.id}`}
+                  className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
+                  onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
+                >
+                  <span className="dash-nav__icon">{n.icon}</span>
+                  <div className="dash-nav__text">
+                    <span className="dash-nav__label">{n.label}</span>
+                    <span className="dash-nav__desc">{n.desc}</span>
+                  </div>
+                </NavLink>
+              )
           )}
         </nav>
 

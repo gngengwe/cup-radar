@@ -877,6 +877,11 @@ td .flag-img { margin-right: 4px; }
   background: var(--accent-soft);
   border-left-color: var(--accent);
 }
+.dash-nav__item--external {
+  border-left-color: var(--border-blue);
+}
+.dash-nav__item--external .dash-nav__label { color: var(--blue); }
+.dash-nav__item--external:hover { background: var(--blue-soft); }
 .dash-nav__icon { font-size: 14px; flex-shrink: 0; }
 .dash-nav__text { display: flex; flex-direction: column; gap: 0; }
 .dash-nav__label { font-size: 12px; font-weight: 600; color: var(--text); line-height: 1.3; }
