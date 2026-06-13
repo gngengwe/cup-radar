@@ -1,5 +1,5 @@
 {
-  "_note": "Culture Tracker — confirmed 2026 World Cup kits, fan moments, merch. Kits released Nov 2025 (Adidas home), Mar 20 2026 (Nike + Adidas away), Mar 24 2026 (Puma).",
+  "_note": "Kit & culture source data — no longer a standalone dashboard tab. 'kit' items are surfaced as 'Kit & Identity' cards on All 48 Teams (src/dashboard/AllTeams.jsx); 'merch'/'moment'/'culture' items have been migrated to Newsroom articles (category='culture' in news.json). Kits released Nov 2025 (Adidas home), Mar 20 2026 (Nike + Adidas away), Mar 24 2026 (Puma).",
   "lastUpdated": "2026-05-15T12:00:00-07:00",
   "items": [
     {

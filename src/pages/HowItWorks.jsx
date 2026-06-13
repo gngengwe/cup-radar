@@ -113,14 +113,15 @@ const SECTIONS = [
     ],
   },
   {
-    icon: '👕',
-    id: 'culture',
-    name: 'Culture Tracker',
-    desc: 'Kits, merch drops, fan moments, and the aesthetic layer of the tournament.',
+    icon: '🎓',
+    id: 'primer',
+    name: 'World Cup Primer',
+    desc: 'The evergreen guide for new fans — rules, formations, glossary, and the fan-culture and kit identity of every team.',
     bullets: [
-      'Filter by: kit · merch · moment · culture',
-      'Star ratings on kits',
-      'Teams, release dates, where to buy',
+      'Choose your path: teach me the rules, help me pick a team, make me sound smart, explain the weird stuff',
+      'Fan Culture Atlas — what makes each country\'s support feel different',
+      'Adopt-a-Team recommendations based on your vibe',
+      'Searchable glossary, formations, and history timeline',
     ],
   },
   {
@@ -239,7 +240,7 @@ export default function HowItWorks() {
           <p className="hiw-section-body">
             Cup Radar is structured around your home city. Choose any of the 7 host cities on the landing page —
             your City HQ, Watch Guide, City Jump, and Ticket Radar all adjust to your perspective.
-            Shared sections (Match Tracker, Groups, Bracket, Newsroom, Culture, Narratives, Upsets)
+            Shared sections (Match Tracker, Groups, Bracket, Newsroom, Narratives, Upsets)
             cover the full tournament but default-filter to your city where relevant.
           </p>
           <div className="hiw-city-pills">

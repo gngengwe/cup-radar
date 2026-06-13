@@ -1,7 +1,32 @@
 import { useDeferredValue, useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import FlagImg from '../components/FlagImg';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
+import cultureData from '../data/culture.json';
 import { buildSearchParams, readSearchParam } from '../utils/searchParams';
+
+const KIT_TYPE_CONFIG = {
+  kit:   { label: 'Kit',   icon: '👕', color: 'var(--accent)' },
+  merch: { label: 'Merch', icon: '🛍️', color: '#ffb84d' },
+};
+
+const KITS_BY_CODE = cultureData.items
+  .filter(item => item.type === 'kit' && item.teamCode)
+  .reduce((map, item) => {
+    (map[item.teamCode] ||= []).push(item);
+    return map;
+  }, {});
+
+function KitRatingStars({ rating }) {
+  return (
+    <div className="culture-rating">
+      {Array.from({ length: 5 }, (_, i) => (
+        <span key={i} className={`star${i < rating ? ' active' : ''}`}>★</span>
+      ))}
+    </div>
+  );
+}
 
 const STATUS_META = {
   'updated-before-opener': {
@@ -91,6 +116,43 @@ function TeamCard({ team, expandSquad }) {
       </div>
 
       <div className="wc-team-card__body">
+        {KITS_BY_CODE[team.code]?.length > 0 && (
+          <div className="wc-team-block">
+            <div className="wc-team-block__label">Kit &amp; Identity</div>
+            <div className="wc-team-kits">
+              {KITS_BY_CODE[team.code].map(kit => {
+                const typeCfg = KIT_TYPE_CONFIG[kit.type] || KIT_TYPE_CONFIG.kit;
+                const jersey = getJersey(team.code);
+                return (
+                  <div key={kit.id} className="culture-card wc-team-kit">
+                    <div className="culture-card__top">
+                      <span className="culture-card__type" style={{ color: typeCfg.color }}>
+                        {typeCfg.icon} {typeCfg.label}
+                      </span>
+                      {kit.rating && <KitRatingStars rating={kit.rating} />}
+                    </div>
+                    {jersey && (
+                      <div className="culture-card__jersey">
+                        <JerseyDisplay colors={jersey.colors} pattern={jersey.pattern} size={56} />
+                      </div>
+                    )}
+                    <div className="culture-card__title">{kit.title}</div>
+                    <div className="culture-card__desc">{kit.description}</div>
+                    <div className="culture-card__footer">
+                      <span className="culture-card__price">{kit.price}</span>
+                      <div className="culture-card__tags">
+                        {kit.tags?.map(tag => (
+                          <span key={tag} className="culture-card__tag">{tag}</span>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
         {team.knownChanges?.length > 0 && (
           <div className="wc-team-block">
             <div className="wc-team-block__label">Roster updates</div>

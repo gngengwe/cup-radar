@@ -13,8 +13,9 @@ const AdminPanel = lazy(() => import('./pages/AdminPanel'));
 function LegacyDashboardRedirect() {
   const { section } = useParams();
   const citylessRoutes = ['matches', 'groups', 'bracket', 'tickets',
-                          'news', 'culture', 'watch', 'narratives', 'upsets',
+                          'news', 'watch', 'narratives', 'upsets',
                           'cityjump', 'teamiq', 'allteams', 'allgames'];
+  if (section === 'culture')    return <Navigate to="/world-cup-primer" replace />;
   if (section === 'seattle')    return <Navigate to="/seattle/hq"    replace />;
   if (section === 'kansascity') return <Navigate to="/kansascity/hq" replace />;
   if (section === 'miami')      return <Navigate to="/miami/hq"      replace />;
@@ -56,6 +57,9 @@ export default function App() {
           <Route path="/atlanta"    element={<Navigate to="/atlanta/hq"    replace />} />
           <Route path="/vancouver"  element={<Navigate to="/vancouver/hq"  replace />} />
           <Route path="/losangeles" element={<Navigate to="/losangeles/hq" replace />} />
+
+          {/* Culture Tracker was retired — its content now lives in the World Cup Primer */}
+          <Route path="/:city/culture" element={<Navigate to="/world-cup-primer" replace />} />
 
           {/* All city dashboards — /:city/:section gives useParams() both values */}
           <Route path="/:city/:section" element={<Dashboard />} />

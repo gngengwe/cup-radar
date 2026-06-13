@@ -1702,13 +1702,8 @@ td .flag-img { margin-right: 4px; }
 .news-card__link     { font-size: 12px; color: var(--accent); font-weight: 600; margin-top: 4px; }
 
 /* ═══════════════════════════════════════════════════════════
-   DASHBOARD — CULTURE TRACKER
+   SHARED — KIT & CULTURE CARDS (used on All 48 Teams)
 ═══════════════════════════════════════════════════════════ */
-.culture-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 12px;
-}
 .culture-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -3120,6 +3115,13 @@ td .flag-img { margin-right: 4px; }
   text-transform: uppercase;
   color: var(--text-dim);
 }
+
+.wc-team-kits {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+.wc-team-kit { padding: 12px; }
 
 .wc-note-list {
   display: flex;
@@ -5016,7 +5018,7 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 
 /* ═══════════════════════════════════════════════════════════
-   CULTURE TRACKER — jersey in kit cards
+   KIT CARDS — jersey illustration
 ═══════════════════════════════════════════════════════════ */
 .culture-card__jersey {
   display: flex;
@@ -5174,8 +5176,7 @@ a.wcp-source-chip:hover { color: var(--text); }
   .news-card__headline { font-size: 13px; line-height: 1.35; }
   .news-card__summary { font-size: 12px; }
 
-  /* ── Culture Tracker ──────────────────────────────────── */
-  .culture-grid { grid-template-columns: 1fr; }
+  /* ── Kit & Culture cards ──────────────────────────────── */
   .culture-card { padding: 14px 16px; }
 
   /* ── Narrative Tracker ────────────────────────────────── */

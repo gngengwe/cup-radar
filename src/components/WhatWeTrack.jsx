@@ -35,9 +35,9 @@ const MODULES = [
     body: 'Curated tournament news, stories, and moments worth following — no noise.',
   },
   {
-    icon: '👕',
-    title: 'Jersey & Culture',
-    body: 'Kit drops, fan culture moments, and the gear worth knowing about.',
+    icon: '🎓',
+    title: 'World Cup Primer',
+    body: 'New to soccer? Rules, formations, fan culture by country, kit drops, and the moments that make this tournament feel bigger than a normal season.',
   },
 ];
 

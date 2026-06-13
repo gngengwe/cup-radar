@@ -28,7 +28,6 @@ const AtlantaWatchGuide  = lazy(() => import('../dashboard/AtlantaWatchGuide'));
 const VancouverWatchGuide = lazy(() => import('../dashboard/VancouverWatchGuide'));
 const LAWatchGuide       = lazy(() => import('../dashboard/LAWatchGuide'));
 const Newsroom           = lazy(() => import('../dashboard/Newsroom'));
-const CultureTracker     = lazy(() => import('../dashboard/CultureTracker'));
 const NarrativeTracker   = lazy(() => import('../dashboard/NarrativeTracker'));
 const UpsetRadar         = lazy(() => import('../dashboard/UpsetRadar'));
 const TeamIQ             = lazy(() => import('../dashboard/TeamIQ'));
@@ -130,7 +129,6 @@ function buildNav(city) {
     { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
     { id: 'narratives', label: 'Narratives',         icon: '📖',      desc: 'Tournament stories'   },
     { id: 'news',       label: 'Newsroom',           icon: '📰',      desc: 'Latest stories'       },
-    { id: 'culture',    label: 'Culture Tracker',    icon: '👕',      desc: 'Kits & moments'       },
   ];
 }
 
@@ -147,7 +145,6 @@ function getSectionComponent(city, section) {
     cityjump:   CityJump,
     watch:      cfg.watchSection,
     news:       Newsroom,
-    culture:    CultureTracker,
     narratives: NarrativeTracker,
     upsets:     UpsetRadar,
     teamiq:     TeamIQ,
