@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react';
 import { fetchStandings, isLiveDataEnabled } from '../api/footballData';
 import localGroups from '../data/groups.json';
+import matchData from '../data/matches.json';
+import { computeGroupStandings } from '../utils/standings';
 
 export function useStandings() {
-  const [standings, setStandings] = useState(localGroups.groups);
+  const [standings, setStandings] = useState(() => computeGroupStandings(localGroups, matchData.matches));
   const [loading,   setLoading]   = useState(false);
   const [error,     setError]     = useState(null);
   const [source,    setSource]    = useState('local');
