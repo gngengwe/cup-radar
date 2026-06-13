@@ -1,6 +1,6 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-13T19:25:42.024Z",
+  "lastUpdated": "2026-06-13T19:44:16.416Z",
   "articles": [
     {
       "id": "news-auto-qatar-v-switzerland-world-cup-2026-live--2026-06-13",
@@ -11,7 +11,8 @@
       "date": "2026-06-13",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDBGa2JnOFlkVkJXeEUyUE1UdmhJaXotdmV6b3hUb1Q3NUFEb0JBbXFyQVk2LXNoT1E2UkEzcE9GeUkyY3lRdFpIX3RCY01XdkhOLWY1WFV6Nl9FU1NUVUdHcDBHQVpuQ1VCSndVZ05TWldSTHVGOGhiNXJia3FRT0dVcU5CamIzY1YwTGdVSDdfQ2I3SlhvTQ?oc=5",
       "featured": false,
-      "draft": true
+      "draft": false,
+      "publishedAt": "2026-06-13T19:44:16.416Z"
     },
     {
       "id": "news-auto-qatar-vs-switzerland-live-world-cup-2026-2026-06-13",
