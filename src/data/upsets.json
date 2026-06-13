@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-11T22:50:00.226Z",
+  "lastUpdated": "2026-06-13T19:45:56.021Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -17,8 +17,8 @@
       "stage": "Group Stage",
       "date": "2026-06-11",
       "riskScore": 4,
-      "status": "happened",
-      "result": "Mexico 2–0 South Africa",
+      "status": "resolved",
+      "result": "no_upset",
       "reasoning": "Mexico are heavy favorites at the sacred Estadio Azteca on opening day. But South Africa are organized, physical, and play with nothing to lose. The 2010 hosts know what a World Cup opening-match atmosphere feels like. Mexico's pressure could work against them.",
       "keyFactors": [
         "Mexico under enormous home pressure at the Azteca",
