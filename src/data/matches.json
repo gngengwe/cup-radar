@@ -45,6 +45,7 @@
       "homeScore": null,
       "awayScore": null,
       "seattleMatch": false,
+      "laMatch": true,
       "notes": "USA group stage opener"
     },
     {
@@ -843,6 +844,7 @@
       "awayScore": null,
       "seattleMatch": false,
       "kcMatch": false,
+      "laMatch": true,
       "notes": "USA vs Turkey — must watch Group D finale"
     },
     {
@@ -1096,6 +1098,7 @@
       "awayScore": null,
       "seattleMatch": false,
       "kcMatch": false,
+      "laMatch": true,
       "notes": "Group G simultaneous"
     },
     {
@@ -1616,6 +1619,7 @@
       "status": "scheduled",
       "homeScore": null,
       "awayScore": null,
+      "laMatch": true,
       "notes": "Switzerland vs Bosnia-Herzegovina — Group B"
     },
     {
@@ -1902,6 +1906,7 @@
       "status": "scheduled",
       "homeScore": null,
       "awayScore": null,
+      "laMatch": true,
       "notes": "Belgium vs Iran — Group G"
     },
     {
@@ -1925,6 +1930,75 @@
       "homeScore": null,
       "awayScore": null,
       "notes": "Saudi Arabia vs Cape Verde — Group H"
+    },
+    {
+      "id": "wc26-la-01",
+      "date": "2026-06-28",
+      "time": "13:00",
+      "timezone": "PT",
+      "homeTeam": "TBD",
+      "homeCode": "TBD",
+      "homeFlag": "🏳️",
+      "awayTeam": "TBD",
+      "awayCode": "TBD",
+      "awayFlag": "🏳️",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "cityCode": "LA",
+      "group": null,
+      "stage": "Round of 32",
+      "matchday": null,
+      "status": "scheduled",
+      "homeScore": null,
+      "awayScore": null,
+      "laMatch": true,
+      "notes": "Runner-up Group A vs Runner-up Group B — Round of 32 at SoFi Stadium"
+    },
+    {
+      "id": "wc26-la-02",
+      "date": "2026-07-02",
+      "time": "16:00",
+      "timezone": "PT",
+      "homeTeam": "TBD",
+      "homeCode": "TBD",
+      "homeFlag": "🏳️",
+      "awayTeam": "TBD",
+      "awayCode": "TBD",
+      "awayFlag": "🏳️",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "cityCode": "LA",
+      "group": null,
+      "stage": "Round of 32",
+      "matchday": null,
+      "status": "scheduled",
+      "homeScore": null,
+      "awayScore": null,
+      "laMatch": true,
+      "notes": "Winner Group H vs Runner-up Group J — Round of 32 at SoFi Stadium"
+    },
+    {
+      "id": "wc26-la-03",
+      "date": "2026-07-10",
+      "time": "15:00",
+      "timezone": "PT",
+      "homeTeam": "TBD",
+      "homeCode": "TBD",
+      "homeFlag": "🏳️",
+      "awayTeam": "TBD",
+      "awayCode": "TBD",
+      "awayFlag": "🏳️",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "cityCode": "LA",
+      "group": null,
+      "stage": "Quarterfinal",
+      "matchday": null,
+      "status": "scheduled",
+      "homeScore": null,
+      "awayScore": null,
+      "laMatch": true,
+      "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
   "lastUpdated": "2026-06-12T22:25:01.448Z"

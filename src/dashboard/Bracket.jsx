@@ -13,6 +13,7 @@ const BRACKET_CITY_NAMES = {
   'Philadelphia':          'philly',
   'Atlanta':               'atlanta',
   'Vancouver':             'vancouver',
+  'Los Angeles':           'losangeles',
 };
 
 const STATUS_CONFIG = {

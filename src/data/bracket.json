@@ -186,6 +186,30 @@
           "city": "TBD",
           "status": "upcoming",
           "round": "Round of 32"
+        },
+        {
+          "id": "r32-17",
+          "home": "Runner-up Group A",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group B",
+          "awayFlag": "🏳️",
+          "date": "2026-06-28",
+          "city": "Los Angeles",
+          "status": "upcoming",
+          "laMatch": true,
+          "round": "Round of 32"
+        },
+        {
+          "id": "r32-18",
+          "home": "Winner Group H",
+          "homeFlag": "🏳️",
+          "away": "Runner-up Group J",
+          "awayFlag": "🏳️",
+          "date": "2026-07-02",
+          "city": "Los Angeles",
+          "status": "upcoming",
+          "laMatch": true,
+          "round": "Round of 32"
         }
       ]
     },
@@ -335,6 +359,18 @@
           "date": "2026-07-15",
           "city": "TBD",
           "status": "upcoming",
+          "round": "Quarterfinals"
+        },
+        {
+          "id": "qf-05",
+          "home": "Winner Match 93",
+          "homeFlag": "🏳️",
+          "away": "Winner Match 94",
+          "awayFlag": "🏳️",
+          "date": "2026-07-10",
+          "city": "Los Angeles",
+          "status": "upcoming",
+          "laMatch": true,
           "round": "Quarterfinals"
         }
       ]
