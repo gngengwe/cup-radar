@@ -132,6 +132,23 @@
       ]
     },
     {
+      "id": "soccer-brain",
+      "label": "Tactics Without the Jargon",
+      "contentType": "tactics-cards",
+      "layout": "carousel-or-grid",
+      "cardType": "watch-for-card",
+      "description": "Deeper tactical language for fans who want to talk shape and strategy — without turning into a coaching clinic.",
+      "defaultFanModes": [
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-learning",
+          "path": "tiers.soccer-brain.cards"
+        }
+      ]
+    },
+    {
       "id": "world-cup-primer",
       "label": "World Cup Primer",
       "contentType": "tournament-guide",

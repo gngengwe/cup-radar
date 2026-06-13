@@ -79,7 +79,11 @@ function SourceChips({ sourceIds }) {
       <span className="wcp-card__sources-label">Source:</span>
       {sources.map(s => (
         s.url
-          ? <a key={s.id} href={s.url} target="_blank" rel="noopener noreferrer" className="wcp-source-chip">{s.publisher}</a>
+          ? (
+            <a key={s.id} href={s.url} target="_blank" rel="noopener noreferrer" className="wcp-source-chip">
+              {s.publisher}<span className="wcp-source-chip__ext" aria-hidden="true">↗</span>
+            </a>
+          )
           : <span key={s.id} className="wcp-source-chip">{s.publisher}</span>
       ))}
     </div>
@@ -256,8 +260,10 @@ export default function WorldCupPrimer() {
 
   const q = query.trim().toLowerCase();
 
-  const visibleSections = sectionEntries
-    .filter(({ section }) => activeSection === 'all' || section.id === activeSection)
+  const sectionsForActiveSection = sectionEntries
+    .filter(({ section }) => activeSection === 'all' || section.id === activeSection);
+
+  const visibleSections = sectionsForActiveSection
     .map(({ section, items }) => ({
       section,
       items: items.filter(({ fanModes: cardFanModes, searchText, tags }) => {
@@ -268,6 +274,32 @@ export default function WorldCupPrimer() {
       }),
     }))
     .filter(({ items }) => items.length > 0);
+
+  const hasActiveFilters = fanMode !== 'all' || activeSection !== 'all' || !!activeTag || !!q;
+  const clearFilters = () => {
+    setFanMode('all');
+    setQuery('');
+    setActiveTag(null);
+    setActiveSection('all');
+  };
+
+  // Sections that vanish because a tag/search left zero matching cards —
+  // distinct from sections a fan mode deliberately hides.
+  const hiddenByTagOrSearch = (activeTag || q)
+    ? sectionsForActiveSection.length - visibleSections.length
+    : 0;
+
+  const activeFilterLabels = [];
+  if (fanMode !== 'all') {
+    const fm = fanModes.find(f => f.id === fanMode);
+    if (fm) activeFilterLabels.push(`"${fm.label}" mode`);
+  }
+  if (activeSection !== 'all') {
+    const sec = sections.find(s => s.id === activeSection);
+    if (sec) activeFilterLabels.push(`the "${sec.label}" section`);
+  }
+  if (activeTag) activeFilterLabels.push(`the "#${activeTag}" tag`);
+  if (q) activeFilterLabels.push(`your search for "${query.trim()}"`);
 
   return (
     <div className="wcp-page">
@@ -294,10 +326,16 @@ export default function WorldCupPrimer() {
                 className={`wcp-fanmode${fanMode === fm.id ? ' active' : ''}`}
                 onClick={() => setFanMode(fm.id)}
                 title={fm.promise}
+                aria-pressed={fanMode === fm.id}
               >
                 {fm.label}
               </button>
             ))}
+            {hasActiveFilters && (
+              <button type="button" className="wcp-clear-filters" onClick={clearFilters}>
+                Clear filters
+              </button>
+            )}
           </div>
 
           <div className="wcp-controls__row">
@@ -328,6 +366,7 @@ export default function WorldCupPrimer() {
                   type="button"
                   className={`wcp-tag${activeTag === tag ? ' active' : ''}`}
                   onClick={() => setActiveTag(activeTag === tag ? null : tag)}
+                  aria-pressed={activeTag === tag}
                 >
                   #{tag}
                 </button>
@@ -336,8 +375,19 @@ export default function WorldCupPrimer() {
           )}
         </div>
 
+        {visibleSections.length > 0 && hiddenByTagOrSearch > 0 && (
+          <div className="wcp-hidden-note">
+            {hiddenByTagOrSearch} {hiddenByTagOrSearch === 1 ? 'section is' : 'sections are'} hidden because no cards match your current filters —{' '}
+            <button type="button" className="wcp-hidden-note__clear" onClick={clearFilters}>clear filters</button> to see everything.
+          </div>
+        )}
+
         {visibleSections.length === 0 && (
-          <div className="wcp-empty">No matches for these filters. Try clearing the search or tag filter.</div>
+          <div className="wcp-empty">
+            {activeFilterLabels.length > 0
+              ? <>Nothing matches {activeFilterLabels.join(' + ')}. <button type="button" className="wcp-empty__clear" onClick={clearFilters}>Clear all filters</button> to see the full guide.</>
+              : 'Nothing to show yet.'}
+          </div>
         )}
 
         {visibleSections.map(({ section, items }) => (
