@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-13T18:08:51.932Z",
+  "lastUpdated": "2026-06-13T19:25:44.722Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -220,7 +220,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 23,
+      "chapterCount": 25,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -405,6 +405,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yeDNDSjNRcF9MVEh3aUFDd2R3T3UxWjNtVm5Bc3VxUV9XYmZVV3hrY19GN3Zld0Zuc3NkOUxieU82akRZcWNKT0tTb0hKVkk2SW96RGZBWE1tWVg1enhKcmln?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781378743093",
+          "date": "2026-06-13",
+          "title": "Macron dreams of burnishing his legacy via French World Cup glory - Politico",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUURxczJkMnpta05PMFU5Y1hRYVR2OUxzZXE4dWU1eU9PZXM1TDY4ZHJLdTNkanlWMGJLb1NzWHVYZzJVb2RXbGpvcjJibUFSeTcybGwxZC1Pb0RWbU9IN0NkUkNyaFBQbjRlSU9GMW5XLW9uY0NvUklCNGllYTJTb3FDOGtSZm1kN2ZIZEh6MUhKTm1mdnd0ZnJhR3d6ZTdqbkNYVW1zNTNSUHE2dzRFNnBfcm8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781378743093",
+          "date": "2026-06-12",
+          "title": "Paul Pogba: 2026 France team better than 2018 World Cup winners - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTJLSkRwT2t1RmZwd1laS05uUTNsT2s3M0Q3ekZjR0pxOE5STExuZzdMd0g3V0l6aEhEWnExRkxEUWVvc28tRXJPSkdSQ0Vkdm52NXVEU19wSXAybmMtZTZlUC1YV3IxenBxekJ2V0MtcWNEbEt4NFB1Q0lGbmNCQy1pNTRibWFFQkduU0NidDh6NVZWZU8w?oc=5",
+          "draft": true
         }
       ]
     },
@@ -423,7 +439,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 66,
+      "chapterCount": 67,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -952,6 +968,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWEZTbjMzZFhkeV85UDB6dFdLRmptQkVNUW9SQUdFRGpzYmRVanFOZDRxTXRqenE5cW1DdEMwVm1fNmlCc3l6dzU2LUNjb3hkVjBDVEV4Q0dpdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781378743628",
+          "date": "2026-06-13",
+          "title": "Peruvian police use 2026 World Cup mascot costumes as disguises to make arrest in drug raid - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc0ZDODRKVDBza1RUWnFYbEUycmtKYVNVd2tscDg0NlNsVHhrYV9ybTFmeExXQlJQVHo5eXlEMERuR3dnckR5RjFTdHVtdXFUdHpfV1BFMTk4aUxOVmp3NUdWMWh1Q19rT3JwekdYZzNYVXphejdzOFppVkJaSXR6SHBYUnBMYmNGZ1hNUk5MMWM2ZUxJOHdZVldabF92b2J0WWdfY0pPdUhSaUhaU0N4OFZEVWNxc0FBaDFsUDNPNm9XcDZ4MmdxOFNYUUxjVXIzT1hRek9BeUp0RTNBM0NV?oc=5",
+          "draft": true
         }
       ]
     },
@@ -970,7 +994,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 57,
+      "chapterCount": 58,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1427,6 +1451,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeE90MUtUM1ozd1VScW1rajd3UXdPZGJWdzJ3Q0dReVpsMHRlMi1GZGhKSUxoNmFSd2lVTEt2U1c3Z3g0bElBMzNaSTgtOXJvTHNGSUk5aWdNTzJ6S0JuMVF5ZVpDVDRQNUxiaEJwd0F6Q3R0MmJtak1qSFBCcHZ3NFBsY1V3Q3ppcmwyLVJ5N1ZWYlhWQ19aTktySDNVb18yUEVrc3dITWlyeVo1M2xFSExIdkRXeGJ5cVdqbXBkd2F1UzdRWE5wWGZibU5PY3hwRVNpR3dxVQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781378744158",
+          "date": "2026-06-13",
+          "title": "Can 2026 World Cup Winner Actually Predict Next World Series Champion? - Forbes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2c1Z1ZxNzV6U3RvaTM0cEZpR284TG5IcFhvVmJWRUktVURyaWZ5eXUySkd1NmdtRmNXcUVXN3ZPejh6ZE9RVkNMS2d4eW4tMGZLUldEV2JmbmhZTS1SQ3ktUlFBRy1DckwyMjRBUVBIUVBpeHM5NU1wSDlXTElfaGhjb09Yd1lZZ25xVWFBMUdVR2tGRk9fT1AwRkk5NHB6ZzVNR3pocHYwYWVhMmhWM2pCQVU0NUVXckxKNQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1519,7 +1551,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 69,
+      "chapterCount": 70,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2071,6 +2103,14 @@
           "title": "England team expected to arrive in Prairie Village on Saturday for World Cup - Johnson County Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFZsMld4X0FmNHRkUTBVU1lhUmZVellLS1J3ZVBXelZZMzIzNE1vQUZzbTFZNXU2WGVBdnZqTDI2Rl9EMEF4MXdGeXhMMUZMNEI1RTM2N3h0Z3k3VzhkMXByelNabVdHUnlzU0Y1MWw0UDFmd2ppLUtqZ2l3U2JDcjFzUGRGRnpRbnBOZWRUb2Y0V01p?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781378744722",
+          "date": "2026-06-13",
+          "title": "The Three Lions have landed: England arrives in Kansas City for the World CUp - KMBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDZST1ZjZjQ2MkpLaU0xeXBwTF9HMnNDaXprXzYwN0llSy1fWUJqVGJ5c1ptODVmUktzNzZFMVZHWTZQN3pNS2h6NWlJb1dFcjhZSU1WQlg3TEhJXzA2UXV1Wnd2N0hDbnhVNTZWTURmV3ZOM3ZKRVBYSjlzVU1DX0hXM0JVZE13aTB6cTF6NA?oc=5",
           "draft": true
         }
       ]
