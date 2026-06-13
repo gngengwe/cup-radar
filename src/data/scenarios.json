@@ -1,6 +1,6 @@
 {
   "_note": "Group stage scenarios based on the official December 5, 2025 draw. Update scenario status as matches are played: pending → happened | didnt.",
-  "lastUpdated": "2026-05-24T01:11:56.413Z",
+  "lastUpdated": "2026-06-13T19:46:25.211Z",
   "groups": {
     "A": {
       "summary": "Mexico as host opener vs South Africa on June 11. South Korea always dangerous. Czechia the European wildcard.",
@@ -9,7 +9,7 @@
           "id": "A-01",
           "condition": "Mexico win their opener vs South Africa",
           "outcome": "Mexico control their destiny. Group A is theirs to lose.",
-          "status": "pending",
+          "status": "happened",
           "importance": "high"
         },
         {
