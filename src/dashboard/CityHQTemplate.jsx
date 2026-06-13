@@ -6,6 +6,7 @@ import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../co
 import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
 import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
+import { fetchEspnMatchStatus } from '../api/espnScoreboard';
 import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
@@ -142,17 +143,29 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
 
 function MatchDayHero({ match, cityData }) {
   const [now, setNow] = useState(Date.now());
+  const [espn, setEspn] = useState(null);
+
   useEffect(() => {
-    const id = setInterval(() => setNow(Date.now()), 30_000);
-    return () => clearInterval(id);
-  }, []);
+    let cancelled = false;
+    const tick = () => {
+      setNow(Date.now());
+      fetchEspnMatchStatus(match).then(s => { if (!cancelled) setEspn(s); }).catch(() => {});
+    };
+    tick();
+    const id = setInterval(tick, 30_000);
+    return () => { cancelled = true; clearInterval(id); };
+  }, [match.id]);
 
   const energyEntry = cityData.cityEnergyForecast?.find(e => e.matchId === match.id);
   const transit      = cityData.transitPain?.find(t => t.matchId === match.id);
   const countdown    = liveCountdown(matchKickoffISO(match));
 
   let status;
-  if (match.status === 'finished') {
+  if (espn?.state === 'post') {
+    status = `FINAL · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
+  } else if (espn?.state === 'in') {
+    status = `🔴 LIVE ${espn.clock} · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
+  } else if (match.status === 'finished') {
     status = `FINAL · ${match.homeTeam} ${match.homeScore}–${match.awayScore} ${match.awayTeam}`;
   } else if (countdown) {
     status = `Kicks off in ${countdown}`;
