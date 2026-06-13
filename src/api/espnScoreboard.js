@@ -11,17 +11,23 @@ function toEspnDate(dateStr) {
 }
 
 /**
- * Looks up live status for a match by date + team codes.
- * Returns { state: 'pre'|'in'|'post', clock, homeScore, awayScore } or null
- * if the match isn't found (or the fetch fails).
+ * Fetches ESPN's scoreboard events for a given date ("YYYY-MM-DD").
+ * Returns the raw `events` array — pass to matchEspnStatus() per match.
  */
-export async function fetchEspnMatchStatus(match) {
-  const res = await fetch(`${BASE}?dates=${toEspnDate(match.date)}`);
+export async function fetchEspnScoreboard(dateStr) {
+  const res = await fetch(`${BASE}?dates=${toEspnDate(dateStr)}`);
   if (!res.ok) throw new Error(`ESPN scoreboard ${res.status}`);
 
-  const data   = await res.json();
-  const events = data.events || [];
+  const data = await res.json();
+  return data.events || [];
+}
 
+/**
+ * Finds a match's live status within a scoreboard `events` array by team codes.
+ * Returns { state: 'pre'|'in'|'post', clock, homeScore, awayScore } or null
+ * if the match isn't found in this scoreboard.
+ */
+export function matchEspnStatus(events, match) {
   for (const event of events) {
     const comp = event.competitions?.[0];
     if (!comp) continue;
@@ -39,4 +45,14 @@ export async function fetchEspnMatchStatus(match) {
   }
 
   return null;
+}
+
+/**
+ * Looks up live status for a single match by date + team codes.
+ * Returns { state: 'pre'|'in'|'post', clock, homeScore, awayScore } or null
+ * if the match isn't found (or the fetch fails).
+ */
+export async function fetchEspnMatchStatus(match) {
+  const events = await fetchEspnScoreboard(match.date);
+  return matchEspnStatus(events, match);
 }

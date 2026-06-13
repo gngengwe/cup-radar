@@ -2,7 +2,10 @@ import { useDeferredValue, useEffect, useMemo, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { useMatches } from '../hooks/useMatches';
 import FlagImg from '../components/FlagImg';
-import { daysUntilLabel } from '../utils/time';
+import JerseyDisplay from '../components/JerseyDisplay';
+import { getJersey } from '../utils/teamData';
+import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
+import { fetchEspnScoreboard, matchEspnStatus } from '../api/espnScoreboard';
 import { CITY_META, getCityMeta, isHomeMatch } from '../utils/cityConfig';
 import { buildSearchParams, readBooleanSearchParam, readSearchParam } from '../utils/searchParams';
 
@@ -101,6 +104,62 @@ function MatchRow({ match, currentCity }) {
   );
 }
 
+function MatchDayCard({ match, espn }) {
+  const countdown = liveCountdown(matchKickoffISO(match));
+  const isLive    = espn?.state === 'in';
+
+  let status;
+  if (espn?.state === 'post') {
+    status = `FINAL · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
+  } else if (isLive) {
+    status = `🔴 LIVE ${espn.clock} · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
+  } else if (match.status === 'finished') {
+    status = `FINAL · ${match.homeTeam} ${match.homeScore}–${match.awayScore} ${match.awayTeam}`;
+  } else if (countdown) {
+    status = `Kicks off in ${countdown}`;
+  } else {
+    status = '🔴 Live now — check back for the score';
+  }
+
+  return (
+    <div className={`allgames-matchday-card${isLive ? ' live' : ''}`}>
+      <div className="allgames-matchday-card__matchup">
+        {(getJersey(match.homeCode) || getJersey(match.awayCode)) ? (
+          <>
+            <div className="hq-jersey-team">
+              {getJersey(match.homeCode)
+                ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={44} />
+                : <FlagImg emoji={match.homeFlag} size={24} />}
+              <span className="hq-jersey-team__name">{match.homeTeam}</span>
+            </div>
+            <span className="hq-jersey-vs">vs</span>
+            <div className="hq-jersey-team">
+              {getJersey(match.awayCode)
+                ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={44} />
+                : <FlagImg emoji={match.awayFlag} size={24} />}
+              <span className="hq-jersey-team__name">{match.awayTeam}</span>
+            </div>
+          </>
+        ) : (
+          <>
+            <FlagImg emoji={match.homeFlag} size={20} />
+            <strong>{match.homeTeam}</strong>
+            <span className="hq-jersey-vs">vs</span>
+            <strong>{match.awayTeam}</strong>
+            <FlagImg emoji={match.awayFlag} size={20} />
+          </>
+        )}
+      </div>
+      <div className="allgames-matchday-card__status">{status}</div>
+      <div className="allgames-matchday-card__meta">
+        {match.time} {match.timezone} · {match.city}
+        {match.group && ` · Group ${match.group}`}
+        {match.stage && match.stage !== 'Group Stage' && ` · ${match.stage}`}
+      </div>
+    </div>
+  );
+}
+
 export default function AllGames() {
   const { city = 'seattle' } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
@@ -109,6 +168,41 @@ export default function AllGames() {
   const [search, setSearch] = useState(() => searchParams.get('q') || '');
   const deferredSearch = useDeferredValue(search);
   const searchQuery = deferredSearch.toLowerCase().trim();
+
+  const todayStr = useMemo(() => {
+    const now = new Date();
+    return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  }, []);
+
+  const todayMatches = useMemo(
+    () => matches.filter(match => match.date === todayStr).sort(compareMatches),
+    [matches, todayStr]
+  );
+
+  const [espnByMatchId, setEspnByMatchId] = useState({});
+
+  useEffect(() => {
+    if (todayMatches.length === 0) return;
+    let cancelled = false;
+
+    const tick = async () => {
+      try {
+        const events = await fetchEspnScoreboard(todayStr);
+        if (cancelled) return;
+        const next = {};
+        for (const match of todayMatches) {
+          next[match.id] = matchEspnStatus(events, match);
+        }
+        setEspnByMatchId(next);
+      } catch {
+        // fail soft — cards fall back to local match.status
+      }
+    };
+
+    tick();
+    const id = setInterval(tick, 30_000);
+    return () => { cancelled = true; clearInterval(id); };
+  }, [todayStr, todayMatches]);
 
   const allCities = useMemo(
     () => [...new Set(matches.map(match => match.city).filter(Boolean))].sort(),
@@ -249,6 +343,19 @@ export default function AllGames() {
         Tournament-wide fixture board with search and filters across teams, cities, stages, groups,
         and live status.
       </p>
+
+      {todayMatches.length > 0 && (
+        <div className="dash-sub-section">
+          <h3 className="dash-sub-heading">
+            🔴 Match Day — {todayMatches.length} {todayMatches.length === 1 ? 'game' : 'games'} today
+          </h3>
+          <div className="allgames-matchday-grid">
+            {todayMatches.map(match => (
+              <MatchDayCard key={match.id} match={match} espn={espnByMatchId[match.id]} />
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="wc-overview-grid">
         <div className="card wc-overview-card">
