@@ -26,11 +26,11 @@ const SOURCES_MAP = Object.fromEntries(sourcesRegistry.sources.map(s => [s.id, s
 
 const LAYOUT_CLASS = {
   'featured-grid': 'wcp-grid',
-  'step-rail': 'wcp-rail',
+  'step-rail': 'wcp-grid',
   'searchable-grid': 'wcp-grid wcp-grid--compact',
   'stacked-cards': 'wcp-stack',
   'carousel-or-grid': 'wcp-grid',
-  'section-rail': 'wcp-rail',
+  'section-rail': 'wcp-grid',
   'story-card-list': 'wcp-stack',
   'personality-grid': 'wcp-grid',
   'masonry-or-grid': 'wcp-grid wcp-grid--facts',

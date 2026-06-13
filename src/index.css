@@ -3826,17 +3826,6 @@ td .flag-img { margin-right: 4px; }
   flex-direction: column;
   gap: 14px;
 }
-.wcp-rail {
-  display: flex;
-  gap: 14px;
-  overflow-x: auto;
-  padding-bottom: 8px;
-  scroll-snap-type: x proximity;
-}
-.wcp-rail .wcp-card {
-  flex: 0 0 280px;
-  scroll-snap-align: start;
-}
 
 /* ── Cards ── */
 .wcp-card {
@@ -4037,7 +4026,6 @@ a.wcp-source-chip:hover { color: var(--text); }
   .wcp-controls { top: 0; }
   .wcp-controls__row { flex-direction: column; }
   .wcp-section-select { width: 100%; }
-  .wcp-rail .wcp-card { flex: 0 0 240px; }
 }
 
 /* ═══════════════════════════════════════════════════════════
