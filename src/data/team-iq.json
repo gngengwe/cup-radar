@@ -4226,5 +4226,585 @@
         "cityContext": "France closes the group stage at BC Place against Norway — Mbappé vs Haaland under a closed roof. The hottest ticket in western North America, full stop."
       }
     }
+  ],
+  "losangeles": [
+    {
+      "code": "USA",
+      "name": "USA",
+      "flag": "🇺🇸",
+      "group": "D",
+      "jersey": {
+        "colors": ["#FFFFFF", "#002868"],
+        "pattern": "solid",
+        "description": "White with wavy stripe pattern flowing across the jersey — stars subtly integrated into the fabric (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-usa-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Paraguay — Jun 12, 6:00 PM PT, SoFi Stadium (Group D)",
+        "vs Türkiye — Jun 25, 7:00 PM PT, SoFi Stadium (Group D)"
+      ],
+      "country": {
+        "capital": "Washington, D.C.",
+        "population": "331 million",
+        "region": "North America",
+        "continent": "North America",
+        "language": "English",
+        "currency": "US Dollar ($)",
+        "location": "Co-host of the 2026 World Cup alongside Canada and Mexico. 6th-largest country by area, spanning from Atlantic to Pacific oceans.",
+        "funFacts": [
+          "Co-host of the 2026 World Cup alongside Canada and Mexico",
+          "The US Women's National Team is the most successful in history (4 World Cups)",
+          "Los Angeles has hosted the Summer Olympics twice (1932, 1984) and will host again in 2028",
+          "The United States has the world's largest economy by nominal GDP",
+          "SoFi Stadium, opened in 2020, is the most expensive stadium ever built"
+        ]
+      },
+      "team": {
+        "nickname": "Stars and Stripes",
+        "fifaRanking": 13,
+        "wcAppearances": 11,
+        "wcBestFinish": "3rd place — 1930 (inaugural World Cup)",
+        "lastWC": "2022 Qatar — Round of 16 (lost to Netherlands 3-1)",
+        "manager": "Mauricio Pochettino",
+        "starPlayers": [
+          {
+            "name": "Christian Pulisic",
+            "position": "Winger / Forward",
+            "club": "AC Milan",
+            "note": "Captain America. The face of US soccer's golden generation. Strong, skillful, clutch in big moments."
+          },
+          {
+            "name": "Gio Reyna",
+            "position": "Attacking Midfielder",
+            "club": "Nottingham Forest",
+            "note": "The most technically gifted American of his generation. When fit and firing, changes games completely."
+          },
+          {
+            "name": "Yunus Musah",
+            "position": "Midfielder",
+            "club": "AC Milan",
+            "note": "Engine of the US midfield. Italian-born American who brings elite European quality to every match."
+          }
+        ],
+        "style": "High-energy, high-pressing, physical. Transition football at speed. Set-piece threats.",
+        "strengths": [
+          "Home crowd energy",
+          "Athletic, dynamic squad",
+          "European club experience across roster"
+        ],
+        "weaknesses": [
+          "Can struggle when pressed defensively",
+          "Set pieces as a weakness as well as strength",
+          "Big tournament experience still building"
+        ],
+        "watchFor": "Pulisic in front of a sold-out Hollywood crowd at SoFi. The USMNT's World Cup opener — and their group finale vs Türkiye 13 days later — both happen on this stage.",
+        "cityContext": "USA opens its World Cup at SoFi Stadium vs Paraguay on June 12, then returns June 25 to close the group vs Türkiye — two of the biggest USMNT moments of the tournament, both in LA."
+      }
+    },
+    {
+      "code": "PAR",
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "group": "D",
+      "jersey": {
+        "colors": ["#D52B1E", "#FFFFFF", "#0038A8"],
+        "pattern": "striped",
+        "description": "Traditional red-and-white vertical stripes with navy trim — La Albirroja's classic home identity.",
+        "kitLink": "https://store.fifa.com/en/collections/paraguay"
+      },
+      "cityMatches": [
+        "vs USA — Jun 12, 6:00 PM PT, SoFi Stadium (Group D)"
+      ],
+      "country": {
+        "capital": "Asunción",
+        "population": "6.1 million",
+        "region": "South America",
+        "continent": "South America",
+        "language": "Spanish, Guaraní",
+        "currency": "Paraguayan Guaraní (PYG)",
+        "location": "Landlocked country in the heart of South America, bordered by Argentina, Brazil, and Bolivia.",
+        "funFacts": [
+          "Paraguay is one of only two landlocked countries in South America — the other is Bolivia",
+          "Guaraní is an official language alongside Spanish, one of the few indigenous languages with that status in the Americas",
+          "Paraguay reached the World Cup quarterfinals in 2010, their best-ever finish",
+          "The Itaipú Dam, shared with Brazil, is one of the largest hydroelectric power plants in the world",
+          "Paraguay's nickname 'La Albirroja' comes from their red-and-white home shirt"
+        ]
+      },
+      "team": {
+        "nickname": "La Albirroja",
+        "fifaRanking": 54,
+        "wcAppearances": 9,
+        "wcBestFinish": "Quarterfinal — 2010 South Africa",
+        "lastWC": "2010 South Africa — quarterfinal (lost to Spain 1-0)",
+        "manager": "Gustavo Alfaro",
+        "starPlayers": [
+          {
+            "name": "Miguel Almirón",
+            "position": "Winger / Forward",
+            "club": "Atlanta United",
+            "note": "Paraguay's biggest attacking name — quick, direct, and the team's main source of creativity."
+          },
+          {
+            "name": "Julio Enciso",
+            "position": "Attacking Midfielder",
+            "club": "Brighton & Hove Albion",
+            "note": "Young, technical, and capable of unlocking defenses with one pass or a moment of individual quality."
+          },
+          {
+            "name": "Omar Alderete",
+            "position": "Defender",
+            "club": "Real Betis",
+            "note": "Physical, experienced center-back anchoring a defense built to frustrate bigger opponents."
+          }
+        ],
+        "style": "Defensively organized under Alfaro, compact shape, direct transitions, set-piece reliant.",
+        "strengths": [
+          "Compact defensive shape",
+          "Set-piece threat",
+          "Battle-tested through South American qualifying"
+        ],
+        "weaknesses": [
+          "Limited attacking creativity outside Enciso",
+          "Thin squad depth",
+          "Tough group draw alongside the host nation"
+        ],
+        "watchFor": "Paraguay's disciplined back line against the energy of a sold-out USMNT crowd — the first real measuring stick of the tournament for both sides.",
+        "cityContext": "Paraguay opens its World Cup against the host nation in a sold-out SoFi Stadium — their first match in Los Angeles."
+      }
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "flag": "🇮🇷",
+      "group": "G",
+      "jersey": {
+        "colors": ["#FFFFFF", "#239F40"],
+        "pattern": "solid",
+        "description": "White body with tonal animal spot pattern on sleeves — Iranian flag colors trim the cuffs (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-iran-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs New Zealand — Jun 15, 6:00 PM PT, SoFi Stadium (Group G)",
+        "vs Belgium — Jun 21, 12:00 PM PT, SoFi Stadium (Group G)"
+      ],
+      "country": {
+        "capital": "Tehran",
+        "population": "88 million",
+        "region": "Western Asia / Middle East",
+        "continent": "Asia",
+        "language": "Persian (Farsi)",
+        "currency": "Iranian Rial (IRR) / Toman",
+        "location": "Southwestern Asia, bordered by Turkey, Iraq, the Caspian Sea, Afghanistan, and Pakistan.",
+        "funFacts": [
+          "Iran is home to one of the world's oldest civilizations — ancient Persia dates back 3,000+ years",
+          "Tehran sits at 3,800 feet elevation — one of the highest capital cities in the world",
+          "Iran has 26 UNESCO World Heritage Sites including Persepolis, built in 520 BC",
+          "The Persian Empire was the world's first superpower",
+          "Iran produces more saffron than any other country (90% of global supply)"
+        ]
+      },
+      "team": {
+        "nickname": "Team Melli",
+        "fifaRanking": 22,
+        "wcAppearances": 7,
+        "wcBestFinish": "Group stage",
+        "lastWC": "2022 Qatar — group stage (drew with USA 0-0, beat Wales 2-0)",
+        "manager": "Amir Ghalenoei",
+        "starPlayers": [
+          {
+            "name": "Mehdi Taremi",
+            "position": "Forward",
+            "club": "Inter Milan",
+            "note": "Iran's greatest modern player. Clinical finisher, smart movement, Champions League quality."
+          },
+          {
+            "name": "Sardar Azmoun",
+            "position": "Forward",
+            "club": "Bayer Leverkusen",
+            "note": "'The Iranian Messi' — gifted technician. When motivated, world-class. Fitness and desire questioned."
+          },
+          {
+            "name": "Alireza Beiranvand",
+            "position": "Goalkeeper",
+            "club": "Antwerp",
+            "note": "World-class shot-stopper. Essential for holding tight games against technically superior opponents."
+          }
+        ],
+        "style": "Defensively disciplined, physical, organized. Counter-attack through Taremi. Set-piece threats.",
+        "strengths": [
+          "World-class goalkeeper",
+          "Organized defensive structure",
+          "Taremi's clinical finishing"
+        ],
+        "weaknesses": [
+          "Limited possession play",
+          "Inconsistent performances under pressure",
+          "Tough back-to-back fixtures against New Zealand and Belgium"
+        ],
+        "watchFor": "Taremi leading Iran's attack in back-to-back SoFi Stadium fixtures — first against New Zealand's well-drilled defense, then Belgium's elite midfield six days later.",
+        "cityContext": "Iran plays twice at SoFi Stadium in nine days — June 15 vs New Zealand and June 21 vs Belgium — two of their three group-stage matches happen in Los Angeles."
+      }
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "group": "G",
+      "jersey": {
+        "colors": ["#FFFFFF", "#000000"],
+        "pattern": "solid",
+        "description": "White home shirt with black trim and a silver fern motif — a nod to the All Whites' rugby-sharing 'fern' identity.",
+        "kitLink": "https://store.fifa.com/en/collections/new-zealand"
+      },
+      "cityMatches": [
+        "vs Iran — Jun 15, 6:00 PM PT, SoFi Stadium (Group G)"
+      ],
+      "country": {
+        "capital": "Wellington",
+        "population": "5.2 million",
+        "region": "Oceania / South Pacific",
+        "continent": "Australia/Oceania",
+        "language": "English, Māori",
+        "currency": "New Zealand Dollar (NZD)",
+        "location": "Island nation in the South Pacific, southeast of Australia, made up of two main islands.",
+        "funFacts": [
+          "New Zealand co-hosted the 2023 Women's World Cup with Australia",
+          "The All Whites' best World Cup result was an unbeaten group stage in 2010 (three draws, no wins or losses)",
+          "Rugby is New Zealand's most popular sport, but football participation has grown rapidly at youth level",
+          "New Zealand is one of the first countries in the world to see each new day, just west of the International Date Line",
+          "Wellington is the southernmost capital city in the world"
+        ]
+      },
+      "team": {
+        "nickname": "All Whites",
+        "fifaRanking": 90,
+        "wcAppearances": 3,
+        "wcBestFinish": "Group stage, unbeaten — 2010 South Africa",
+        "lastWC": "2010 South Africa — group stage, unbeaten in three draws",
+        "manager": "Darren Bazeley",
+        "starPlayers": [
+          {
+            "name": "Chris Wood",
+            "position": "Forward",
+            "club": "Nottingham Forest",
+            "note": "Captain and all-time leading scorer. A proven Premier League finisher and the focal point of every All Whites attack."
+          },
+          {
+            "name": "Liberato Cacace",
+            "position": "Defender",
+            "club": "Empoli",
+            "note": "Athletic, attack-minded full-back who provides width and width to a compact New Zealand shape."
+          },
+          {
+            "name": "Joe Bell",
+            "position": "Midfielder",
+            "club": "FC Copenhagen",
+            "note": "Engine of the midfield — breaks up play and connects defense to attack."
+          }
+        ],
+        "style": "Compact, hard-working, direct — built around Chris Wood's target-man presence up front.",
+        "strengths": [
+          "Chris Wood's finishing and Premier League experience",
+          "Disciplined defensive shape",
+          "Nothing-to-lose underdog energy"
+        ],
+        "weaknesses": [
+          "Limited squad depth",
+          "Few players at top European clubs",
+          "Group features two technically superior sides in Iran and Belgium"
+        ],
+        "watchFor": "Chris Wood's hold-up play against Iran's backline — New Zealand's best chance for a result is staying compact and scoring on the counter or from a set piece.",
+        "cityContext": "New Zealand's only Los Angeles fixture — and one of just three group matches for the All Whites at this World Cup."
+      }
+    },
+    {
+      "code": "SUI",
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "group": "B",
+      "jersey": {
+        "colors": ["#FF0000", "#FFFFFF"],
+        "pattern": "solid",
+        "description": "Bold red home shirt with a white cross motif echoing the national flag.",
+        "kitLink": "https://store.fifa.com/en/collections/switzerland"
+      },
+      "cityMatches": [
+        "vs Bosnia-Herzegovina — Jun 18, 12:00 PM PT, SoFi Stadium (Group B)"
+      ],
+      "country": {
+        "capital": "Bern",
+        "population": "8.9 million",
+        "region": "Central Europe",
+        "continent": "Europe",
+        "language": "German, French, Italian, Romansh",
+        "currency": "Swiss Franc (CHF)",
+        "location": "Landlocked Alpine country in Central Europe, bordered by Germany, France, Italy, Austria, and Liechtenstein.",
+        "funFacts": [
+          "Switzerland has four official languages and no single 'national' language",
+          "Switzerland eliminated France from EURO 2024 on penalties — one of the tournament's biggest shocks",
+          "Switzerland has qualified for the last seven World Cups in a row",
+          "FIFA is headquartered in Zurich, Switzerland",
+          "Switzerland is famous for precision watchmaking, chocolate, and the Alps"
+        ]
+      },
+      "team": {
+        "nickname": "Die Nati",
+        "fifaRanking": 19,
+        "wcAppearances": 12,
+        "wcBestFinish": "Quarterfinal (most recently 1954)",
+        "lastWC": "2022 Qatar — Round of 16 (lost to Portugal 6-1)",
+        "manager": "Murat Yakin",
+        "starPlayers": [
+          {
+            "name": "Granit Xhaka",
+            "position": "Midfielder",
+            "club": "Bayer Leverkusen",
+            "note": "Captain and controller. Dictates tempo, dangerous from set pieces, the heartbeat of the Swiss midfield."
+          },
+          {
+            "name": "Manuel Akanji",
+            "position": "Defender",
+            "club": "Manchester City",
+            "note": "Composed, mobile center-back with top-level Premier League experience."
+          },
+          {
+            "name": "Breel Embolo",
+            "position": "Forward",
+            "club": "RC Lens",
+            "note": "Physical, direct forward who can hold up play and create space for runners."
+          }
+        ],
+        "style": "Organized, disciplined, technically sound — built on Xhaka's control of midfield tempo and a settled defensive structure.",
+        "strengths": [
+          "Tournament experience — seven straight World Cups",
+          "Defensive organization",
+          "Set-piece quality from Xhaka"
+        ],
+        "weaknesses": [
+          "Lack of a true elite goal-scorer",
+          "Can be cautious and low-scoring",
+          "Round of 16 has been a recurring ceiling"
+        ],
+        "watchFor": "Switzerland's clinical efficiency against Bosnia's emotional intensity — a classic European-organization-vs-passion group opener.",
+        "cityContext": "Switzerland's opening group match arrives at SoFi Stadium on June 18 against a Bosnia-Herzegovina side playing its first World Cup since 2014."
+      }
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia-Herzegovina",
+      "flag": "🇧🇦",
+      "group": "B",
+      "jersey": {
+        "colors": ["#003DA5", "#FFCD00"],
+        "pattern": "solid",
+        "description": "Royal blue with yellow diagonal stripe — Bosnia's first World Cup kit in 12 years (Nike)",
+        "kitLink": "https://store.fifa.com/products/nike-bosnia-herzegovina-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Switzerland — Jun 18, 12:00 PM PT, SoFi Stadium (Group B)"
+      ],
+      "country": {
+        "capital": "Sarajevo",
+        "population": "3.3 million",
+        "region": "Southeastern Europe / Western Balkans",
+        "continent": "Europe",
+        "language": "Bosnian, Croatian, Serbian",
+        "currency": "Bosnia-Herzegovina Convertible Mark (BAM)",
+        "location": "Western Balkans, bordered by Croatia, Serbia, and Montenegro. Small nation with narrow access to the Adriatic.",
+        "funFacts": [
+          "Sarajevo hosted the 1984 Winter Olympics",
+          "The assassination of Archduke Franz Ferdinand in Sarajevo in 1914 triggered World War I",
+          "Bosnia-Herzegovina has three presidents simultaneously — one for each major ethnic group",
+          "The Stari Most (Old Bridge) in Mostar is a UNESCO World Heritage Site rebuilt after destruction in the 1990s war",
+          "The national team's royal blue and yellow colors are drawn directly from the national flag"
+        ]
+      },
+      "team": {
+        "nickname": "Dragons / Zmajevi",
+        "fifaRanking": 55,
+        "wcAppearances": 2,
+        "wcBestFinish": "Group stage (2014 Brazil)",
+        "lastWC": "2014 Brazil — group stage (beat Iran 3-1 but eliminated)",
+        "manager": "Sergej Barbarez",
+        "starPlayers": [
+          {
+            "name": "Ermedin Demirović",
+            "position": "Forward",
+            "club": "VfB Stuttgart",
+            "note": "Bundesliga sensation. Clinical finisher, physical, relentless. Bosnia's most dangerous attacker."
+          },
+          {
+            "name": "Sehad Hajradinović",
+            "position": "Midfielder",
+            "club": "FK Željezničar",
+            "note": "Creative force. Technical and dangerous in the final third."
+          },
+          {
+            "name": "Nikola Bilbija",
+            "position": "Forward",
+            "club": "FK Borac",
+            "note": "Experienced domestic striker who provides a focal point for the attack."
+          }
+        ],
+        "style": "Physical, direct, set-piece focused. Long ball to Demirović. Compact defensive shape.",
+        "strengths": [
+          "Emotional motivation — first World Cup in 12 years",
+          "Demirović's world-class finishing",
+          "Physical intensity"
+        ],
+        "weaknesses": [
+          "Small player pool",
+          "Limited depth",
+          "Opening match comes against an organized Swiss side"
+        ],
+        "watchFor": "Demirović leading Bosnia's attack in their first World Cup match in 12 years — against a well-organized Swiss defense.",
+        "cityContext": "Bosnia-Herzegovina opens its long-awaited World Cup return at SoFi Stadium on June 18 against Switzerland — their first match since 2014."
+      }
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "group": "G",
+      "jersey": {
+        "colors": ["#ED2939", "#000000"],
+        "pattern": "solid",
+        "description": "Bold red inspired by Gothic stained-glass windows — Red Devils and Red Flames icons woven in (Adidas)",
+        "kitLink": "https://store.fifa.com/products/adidas-belgium-2026-home-jersey-mens"
+      },
+      "cityMatches": [
+        "vs Iran — Jun 21, 12:00 PM PT, SoFi Stadium (Group G)"
+      ],
+      "country": {
+        "capital": "Brussels",
+        "population": "11.6 million",
+        "region": "Western Europe",
+        "continent": "Europe",
+        "language": "French, Dutch (Flemish), German",
+        "currency": "Euro (€)",
+        "location": "Landlocked between France, Germany, Netherlands, and Luxembourg, in Western Europe.",
+        "funFacts": [
+          "Belgium invented the modern french fry — not France",
+          "Home to the HQ of both NATO and the European Union",
+          "Has more Michelin-starred restaurants per capita than any European country",
+          "Produces 220,000 tons of chocolate per year",
+          "Holds the world record for the most varieties of beer"
+        ]
+      },
+      "team": {
+        "nickname": "Red Devils",
+        "fifaRanking": 3,
+        "wcAppearances": 14,
+        "wcBestFinish": "3rd place — 2018 Russia",
+        "lastWC": "2022 Qatar — eliminated in group stage",
+        "manager": "Domenico Tedesco",
+        "starPlayers": [
+          {
+            "name": "Kevin De Bruyne",
+            "position": "Midfielder",
+            "club": "Manchester City",
+            "note": "One of the best midfielders in history. 2026 may be his last WC. Creates everything for Belgium."
+          },
+          {
+            "name": "Romelu Lukaku",
+            "position": "Forward",
+            "club": "Roma",
+            "note": "Belgium's all-time top scorer. Physical, powerful, best in the box. Fitness is always the question."
+          },
+          {
+            "name": "Lois Openda",
+            "position": "Forward",
+            "club": "RB Leipzig",
+            "note": "The next generation of Belgian attack. Fast, clinical, hungry for big moments."
+          }
+        ],
+        "style": "Possession-based with elite individual quality. De Bruyne dictates tempo. Strong on transitions and set pieces.",
+        "strengths": [
+          "World-class midfield",
+          "Experienced squad",
+          "Individual quality in every position"
+        ],
+        "weaknesses": [
+          "Aging core",
+          "2022 group stage exit exposed tension",
+          "Pressure of the 'last chance' narrative"
+        ],
+        "watchFor": "De Bruyne and Belgium's midfield control against Iran's compact defense and counter-attacking threat through Taremi.",
+        "cityContext": "Belgium's second group match brings their 'last dance' generation to SoFi Stadium on June 21 against Iran."
+      }
+    },
+    {
+      "code": "TUR",
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "group": "D",
+      "jersey": {
+        "colors": ["#E30A17", "#FFFFFF"],
+        "pattern": "solid",
+        "description": "Bold red home shirt with a white crescent-and-star motif drawn from the national flag.",
+        "kitLink": "https://store.fifa.com/en/collections/turkiye"
+      },
+      "cityMatches": [
+        "vs USA — Jun 25, 7:00 PM PT, SoFi Stadium (Group D)"
+      ],
+      "country": {
+        "capital": "Ankara",
+        "population": "85 million",
+        "region": "Southeast Europe / Western Asia",
+        "continent": "Europe/Asia",
+        "language": "Turkish",
+        "currency": "Turkish Lira (TRY)",
+        "location": "Transcontinental country spanning Southeast Europe and Western Asia, bordered by the Aegean, Mediterranean, and Black Seas.",
+        "funFacts": [
+          "Istanbul is the only major city in the world that spans two continents — Europe and Asia",
+          "Türkiye reached the World Cup semifinals in 2002, finishing third — their best-ever result",
+          "Türkiye reached the quarterfinals of EURO 2024, one of the tournament's most entertaining sides",
+          "Istanbul's Galatasaray, Fenerbahçe, and Beşiktaş give the city one of the most intense football cultures on Earth",
+          "This is Türkiye's first World Cup appearance since 2002"
+        ]
+      },
+      "team": {
+        "nickname": "Ay-Yıldızlılar (Crescent-Stars)",
+        "fifaRanking": 25,
+        "wcAppearances": 3,
+        "wcBestFinish": "3rd place — 2002 Korea/Japan",
+        "lastWC": "2002 Korea/Japan — 3rd place (last WC appearance)",
+        "manager": "Vincenzo Montella",
+        "starPlayers": [
+          {
+            "name": "Arda Güler",
+            "position": "Attacking Midfielder",
+            "club": "Real Madrid",
+            "note": "Generational talent — vision, technique, and the confidence to take over a match at 21."
+          },
+          {
+            "name": "Kenan Yıldız",
+            "position": "Forward",
+            "club": "Juventus",
+            "note": "Explosive young attacker who can play through the middle or off either flank."
+          },
+          {
+            "name": "Hakan Çalhanoğlu",
+            "position": "Midfielder",
+            "club": "Inter Milan",
+            "note": "The experienced playmaker — set-piece specialist and the link between defense and attack."
+          }
+        ],
+        "style": "Technical, attacking, high-tempo — a young core of elite-club talents playing with freedom under Montella.",
+        "strengths": [
+          "Generational attacking talent in Güler and Yıldız",
+          "Çalhanoğlu's set-piece quality and experience",
+          "Momentum from a strong EURO 2024"
+        ],
+        "weaknesses": [
+          "First World Cup appearance since 2002 — limited tournament experience",
+          "Defensive consistency questions",
+          "Squad depth behind the front-line stars"
+        ],
+        "watchFor": "Türkiye's attacking trio against USA's backline in a winner-takes-momentum group finale at SoFi Stadium.",
+        "cityContext": "Türkiye's first World Cup in 24 years could come down to this group-stage finale against the host nation on June 25 at SoFi Stadium."
+      }
+    }
   ]
 }

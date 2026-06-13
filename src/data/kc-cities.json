@@ -68,14 +68,14 @@
       "country": "USA",
       "flag": "🇺🇸",
       "home": false,
-      "venue": "Rose Bowl + SoFi Stadium",
-      "matches": 12,
-      "stages": ["Group Stage", "Round of 32", "Quarterfinal", "Semifinal"],
+      "venue": "SoFi Stadium",
+      "matches": 8,
+      "stages": ["Group Stage", "Round of 32", "Quarterfinal"],
       "scores": { "matchQuality": 5, "ticketAccess": 2, "travelEase": 3, "cityEnergy": 5, "overall": 4 },
       "flightFromCity": "2.5 hr flight",
-      "hotelNote": "Expensive. Consider Airbnb or Pasadena for Rose Bowl matches.",
-      "bestFor": "Top-tier match quality. Argentina, Brazil likely in LA. Most matches of any venue.",
-      "tag": "Most matches"
+      "hotelNote": "Expensive. Consider Airbnb in Inglewood or nearby Hollywood Park.",
+      "bestFor": "USA opens its World Cup here vs Paraguay. Top-tier match quality.",
+      "tag": "USA's opener"
     },
     {
       "id": "seattle",
