@@ -1,0 +1,129 @@
+{
+  "_note": "Evergreen hosting guidance for World Cup watch parties built for casual American sports fans and mixed-experience rooms.",
+  "lastUpdated": "2026-06-12",
+  "steps": [
+    {
+      "id": "watch-party-three-rules",
+      "label": "Start with three rules, not thirty",
+      "summary": "Teach the room scoring, offside, and stoppage time before kickoff. That is enough to unlock the match without turning your party into a lecture.",
+      "whyItMatters": "A small amount of context makes people far more likely to enjoy the game instead of feeling behind from minute one.",
+      "watcherTranslation": "Think of it like handing out a one-page cheat sheet before a playoff game, not assigning homework.",
+      "examples": [
+        "The whole ball over the line is a goal",
+        "Offside is judged when the pass is played",
+        "Ninety minutes often runs longer because of added time"
+      ],
+      "tags": [
+        "watch-party",
+        "hosting",
+        "basics"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "ifab-law-7",
+        "ifab-law-10",
+        "ifab-law-11"
+      ]
+    },
+    {
+      "id": "watch-party-halftime-window",
+      "label": "Use halftime as the social inning break",
+      "summary": "Soccer flows for long stretches, so halftime is the best moment for food runs, catch-up conversations, and explaining what the room just watched.",
+      "whyItMatters": "If the host treats halftime like the natural pause, people stop talking over the live action and start feeling the rhythm of the sport.",
+      "watcherTranslation": "This is your stretch break, drink refill, and mini studio show all in one.",
+      "examples": [
+        "Refill plates at halftime",
+        "Recap the best chance so far",
+        "Reset rooting interests for the second half"
+      ],
+      "tags": [
+        "watch-party",
+        "halftime",
+        "hosting"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "ifab-law-7",
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "watch-party-adopt-a-side",
+      "label": "Give neutrals a reason to care",
+      "summary": "If the room has no built-in allegiance, assign simple hooks: the underdog, the host nation, the loudest fan culture, the team with the coolest kit, or the side with a missing star to overcome.",
+      "whyItMatters": "Once people emotionally pick a side, even casually, every chance starts to feel bigger.",
+      "watcherTranslation": "A room full of neutrals usually just needs one clean rooting angle to come alive.",
+      "examples": [
+        "Cheer for the first-time qualifier",
+        "Back the team with the louder traveling fans",
+        "Choose the side whose style feels more fun"
+      ],
+      "tags": [
+        "watch-party",
+        "rooting",
+        "energy"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "watch-party-sound-matters",
+      "label": "Leave the sound on",
+      "summary": "Crowd noise, commentary tone, and the rising panic before a big chance are part of the sport's emotional architecture. Soccer loses a lot when it becomes silent background TV.",
+      "whyItMatters": "A first-time viewer often understands the importance of a moment from the room and the broadcast before they understand the tactics.",
+      "watcherTranslation": "The sound is not decoration. It is the pressure gauge.",
+      "examples": [
+        "Let the anthem and crowd noise breathe",
+        "Turn subtitles on if the room is noisy",
+        "Save side conversations for stoppages and halftime"
+      ],
+      "tags": [
+        "watch-party",
+        "broadcast",
+        "atmosphere"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "watch-party-food-waves",
+      "label": "Serve in waves, not in a single giant timeout",
+      "summary": "Because the clock keeps moving, watch parties work best when food arrives before kickoff, at halftime, and after the final whistle instead of all at once in the middle.",
+      "whyItMatters": "That rhythm keeps guests from missing the best moments and stops the match from feeling like wallpaper behind the snacks.",
+      "watcherTranslation": "Feed the room like a match has chapters, because it does.",
+      "examples": [
+        "Pregame snacks",
+        "Halftime heavier food",
+        "Postgame dessert or debate round"
+      ],
+      "tags": [
+        "watch-party",
+        "hosting",
+        "timing"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    }
+  ]
+}

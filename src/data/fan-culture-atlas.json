@@ -1,0 +1,151 @@
+{
+  "_note": "Fan-culture cards meant to make national teams feel social and human, not just tactical.",
+  "lastUpdated": "2026-06-12",
+  "profiles": [
+    {
+      "id": "culture-argentina",
+      "teamCode": "ARG",
+      "teamName": "Argentina",
+      "pitch": "Watch Argentina if you want inherited drama, blue-and-white ritual, and a fan base that treats the national team like family history instead of a side hobby.",
+      "whyYouWillEnjoyIt": [
+        "Every major tournament moment feels connected to older legends, especially Diego Maradona and Lionel Messi.",
+        "The visual identity is instantly iconic, so even casual viewers feel the stakes faster.",
+        "When the tension rises, Argentina rarely feels emotionally neutral. The shirt arrives with biography built in."
+      ],
+      "vibeTags": [
+        "legacy",
+        "emotion",
+        "albiceleste"
+      ],
+      "watchWords": [
+        "pressure",
+        "expectation",
+        "myth"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup",
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "culture-mexico",
+      "teamCode": "MEX",
+      "teamName": "Mexico",
+      "pitch": "Watch Mexico if you want one of the loudest, most mobile fan cultures in the tournament and a team that always feels like it is being followed by a moving stadium.",
+      "whyYouWillEnjoyIt": [
+        "Mexico matches often feel like home events even outside Mexico because the traveling support is enormous.",
+        "The colors, noise, and emotional swings make even group-stage games feel socially big.",
+        "With Mexico also part of the 2026 host story, the sense of occasion will be even heavier than usual."
+      ],
+      "vibeTags": [
+        "traveling-fans",
+        "host-energy",
+        "el-tri"
+      ],
+      "watchWords": [
+        "noise",
+        "green shirts",
+        "host pressure"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup",
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "culture-usa",
+      "teamCode": "USA",
+      "teamName": "USA",
+      "pitch": "Watch the USA if you want a fan culture that feels like a country still deciding what soccer should emotionally mean to it in real time.",
+      "whyYouWillEnjoyIt": [
+        "Because the tournament is on home soil, every US match will feel like part sporting event and part national argument.",
+        "The atmosphere tends to spike around big transition moments, stars, and questions about whether the team is finally ready.",
+        "For American viewers, the emotional translation cost is low. You instantly understand why the room cares."
+      ],
+      "vibeTags": [
+        "home-soil",
+        "identity",
+        "new-energy"
+      ],
+      "watchWords": [
+        "crowd swings",
+        "expectation",
+        "host nation"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "wikipedia-2026-world-cup",
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "culture-japan",
+      "teamCode": "JPN",
+      "teamName": "Japan",
+      "pitch": "Watch Japan if you like disciplined teams whose fan culture often mirrors the team itself: organized, respectful, and fully invested once the football starts.",
+      "whyYouWillEnjoyIt": [
+        "Japan tends to reward viewers who enjoy detail, shape, and execution more than chaos for chaos's sake.",
+        "The visual and emotional tone is usually controlled without feeling cold.",
+        "For neutrals, Japan is an easy team to admire because the football often looks intentional from the first minute."
+      ],
+      "vibeTags": [
+        "discipline",
+        "precision",
+        "respect"
+      ],
+      "watchWords": [
+        "structure",
+        "clean execution",
+        "collective belief"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house",
+        "local-team-iq"
+      ]
+    },
+    {
+      "id": "culture-morocco",
+      "teamCode": "MAR",
+      "teamName": "Morocco",
+      "pitch": "Watch Morocco if you want a fan culture that feels communal, defiant, and fully ready for the sport's biggest stages after proving it belongs there.",
+      "whyYouWillEnjoyIt": [
+        "Morocco now carries real tournament memory, so the support feels like belief rather than novelty.",
+        "The team's resilience and the fans' emotional force tend to reinforce each other.",
+        "For neutral viewers, Morocco often feels like the meeting point of underdog romance and genuine quality."
+      ],
+      "vibeTags": [
+        "belief",
+        "resilience",
+        "continental-pride"
+      ],
+      "watchWords": [
+        "counterpunch",
+        "crowd force",
+        "history"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup",
+        "editorial-house"
+      ]
+    }
+  ]
+}

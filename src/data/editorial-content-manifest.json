@@ -168,6 +168,107 @@
         "personality rails",
         "recommendation cards"
       ]
+    },
+    {
+      "id": "american-sports-analogies",
+      "title": "Soccer Translated For American Sports Fans",
+      "path": "/src/data/american-sports-analogies.json",
+      "kind": "editorial-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "american-sports-fans"
+      ],
+      "supports": [
+        "analogy cards",
+        "onboarding sections",
+        "shareable explainers"
+      ]
+    },
+    {
+      "id": "soccer-glossary",
+      "title": "Soccer Glossary",
+      "path": "/src/data/soccer-glossary.json",
+      "kind": "editorial-learning",
+      "refreshCadence": "manual-quarterly",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "curious-fans"
+      ],
+      "supports": [
+        "dictionary cards",
+        "searchable primer sections",
+        "term explanations"
+      ]
+    },
+    {
+      "id": "watch-party-playbook",
+      "title": "World Cup Watch Party Playbook",
+      "path": "/src/data/watch-party-playbook.json",
+      "kind": "editorial-practical",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "hosts"
+      ],
+      "supports": [
+        "hosting tips",
+        "social content",
+        "fan onboarding"
+      ]
+    },
+    {
+      "id": "fan-culture-atlas",
+      "title": "Fan Culture Atlas",
+      "path": "/src/data/fan-culture-atlas.json",
+      "kind": "editorial-culture",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "neutral-fans",
+        "casual-fans",
+        "curious-fans"
+      ],
+      "supports": [
+        "country culture cards",
+        "team personality rails",
+        "adopt-a-team expansion"
+      ]
+    },
+    {
+      "id": "world-cup-history-timeline",
+      "title": "World Cup History Timeline",
+      "path": "/src/data/world-cup-history-timeline.json",
+      "kind": "editorial-history",
+      "refreshCadence": "manual-before-tournament",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans",
+        "history-curious-fans"
+      ],
+      "supports": [
+        "timeline sections",
+        "history cards",
+        "lore rails"
+      ]
+    },
+    {
+      "id": "var-offside-lab",
+      "title": "VAR and Offside Lab",
+      "path": "/src/data/var-offside-lab.json",
+      "kind": "editorial-rules",
+      "refreshCadence": "manual-when-laws-change",
+      "primaryAudience": [
+        "new-fans",
+        "casual-fans"
+      ],
+      "supports": [
+        "diagram cards",
+        "rules explainers",
+        "frame-by-frame walkthroughs"
+      ]
     }
   ],
   "usageNotes": [
@@ -175,6 +276,9 @@
     "Use world-cup-fun-facts for lightweight promotional or filler content where live data is unavailable.",
     "Use soccer-learning-sources to show provenance and decide which cards need scheduled review.",
     "Use world-cup-guide-page to drive the standalone page without hard-coding section order in the UI.",
-    "Use famous-absences with explicit labels and dates so the page never implies a player is simply missing without explanation."
+    "Use famous-absences with explicit labels and dates so the page never implies a player is simply missing without explanation.",
+    "Use soccer-glossary plus the page's global search to create a practical dictionary without needing accounts or personalization.",
+    "Use fan-culture-atlas to make team discovery feel human, not just tactical.",
+    "Use var-offside-lab to explain offside and VAR visually before fans hit the rule explainers in prose."
   ]
 }

@@ -1,0 +1,112 @@
+{
+  "_note": "Evergreen analogy cards that translate soccer ideas into language American sports fans already understand.",
+  "lastUpdated": "2026-06-12",
+  "cards": [
+    {
+      "id": "analogy-press-full-court",
+      "title": "A press is soccer's version of a full-court press",
+      "hook": "The point is not random hustle. The point is to make the next pass ugly.",
+      "summary": "When a team presses, it pushes up together to trap the opponent before the attack can settle. Think basketball defenders swarming a ball-handler and taking away the easy outlet.",
+      "whyItMatters": "New fans often see frantic running and miss that it is coordinated pressure with a map behind it.",
+      "whatToWatch": "See whether the first attacker angles the play toward one sideline, where the rest of the team can spring the trap.",
+      "tags": [
+        "analogies",
+        "nba",
+        "pressing",
+        "defense"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "analogy-counter-fast-break",
+      "title": "A counterattack is the closest thing soccer has to a fast break",
+      "hook": "The danger spikes in the seconds before the other team can get organized.",
+      "summary": "A counterattack starts the moment possession changes hands and one team races into the space the opponent just left behind. It feels a lot like a live-ball turnover in basketball that instantly becomes a numbers advantage the other way.",
+      "whyItMatters": "This helps American fans understand why a team can look calm without the ball and still feel dangerous all night.",
+      "whatToWatch": "After a turnover, count how many defenders are still goal-side of the ball. If the answer is not many, the break is on.",
+      "tags": [
+        "analogies",
+        "nba",
+        "transitions",
+        "counterattack"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "analogy-set-piece-red-zone",
+      "title": "A set piece is like a scripted red-zone possession",
+      "hook": "Everyone knows the ball is about to arrive in a dangerous spot, so preparation matters more than surprise.",
+      "summary": "Corners and attacking free kicks are rehearsed moments. They are soccer's closest equivalent to an NFL team calling a designed play near the goal line, where blocking, timing, and one matchup can decide everything.",
+      "whyItMatters": "Tournament matches are tight, so teams that are average in open play can still steal huge moments from dead balls.",
+      "whatToWatch": "Notice the decoy runs, screens, near-post darts, and the one player trying to arrive late into the real scoring lane.",
+      "tags": [
+        "analogies",
+        "nfl",
+        "set-pieces",
+        "goals"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "analogy-one-nil-pitchers-duel",
+      "title": "A 1-0 match is closer to a pitchers' duel than a broken offense",
+      "hook": "Low scoring does not mean nothing is happening.",
+      "summary": "Soccer has fewer scoring events than basketball or football, so a 1-0 game can still be sharp, tense, and high quality. Think baseball when one mistake, one hanging pitch, or one perfect swing ends up deciding the whole night.",
+      "whyItMatters": "This resets expectations for fans who are waiting for constant points instead of constant tension.",
+      "whatToWatch": "Look for field position, dangerous entries into the box, and how each team handles the one or two clean chances it may actually get.",
+      "tags": [
+        "analogies",
+        "mlb",
+        "scoring",
+        "game-state"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "analogy-extra-time-exhausted-overtime",
+      "title": "Extra time is overtime with tired legs and no reset button",
+      "hook": "The game keeps going, but the players do not magically get fresh.",
+      "summary": "When a knockout match goes to extra time, both teams keep playing after regulation instead of starting a brand-new contest. It is a little like overtime in any American sport, except everyone is already carrying ninety minutes of physical and emotional wear.",
+      "whyItMatters": "That fatigue changes everything: decision-making slows, space opens up, and even favorites can start managing risk instead of chasing beauty.",
+      "whatToWatch": "Watch the body language of fullbacks and midfielders first. They are usually the ones showing the strain before the scoreboard does.",
+      "tags": [
+        "analogies",
+        "overtime",
+        "knockout",
+        "fatigue"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house",
+        "ifab-law-10"
+      ]
+    }
+  ]
+}

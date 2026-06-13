@@ -1,0 +1,107 @@
+{
+  "_note": "History cards that give the World Cup a stronger sense of timeline and lore without becoming a textbook.",
+  "lastUpdated": "2026-06-12",
+  "moments": [
+    {
+      "id": "history-1930-beginning",
+      "title": "1930: The tournament begins in Uruguay",
+      "category": "history",
+      "tone": "origin",
+      "fact": "The first men's World Cup took place in Uruguay in 1930, turning the idea of a global national-team tournament from a concept into a real sporting ritual.",
+      "whyItPlays": "It gives new fans a clean starting line and reminds them this event has almost a century of emotional weight behind it.",
+      "tags": [
+        "history",
+        "1930",
+        "origins"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup"
+      ]
+    },
+    {
+      "id": "history-1950-maracanazo",
+      "title": "1950: The Maracana shock becomes part of football folklore",
+      "category": "history",
+      "tone": "shock",
+      "fact": "Uruguay's win over Brazil in the decisive 1950 match at the Maracana became one of the sport's most famous upsets, helped by the enormous crowd and the emotional scale of the moment.",
+      "whyItPlays": "It explains why World Cup upsets do not just feel surprising. They get remembered like national mythology.",
+      "tags": [
+        "history",
+        "upsets",
+        "maracana"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup",
+        "wikipedia-world-cup-records"
+      ]
+    },
+    {
+      "id": "history-1970-brazil-pele",
+      "title": "1970: Pele's Brazil becomes the tournament's permanent highlight reel",
+      "category": "history",
+      "tone": "mythic",
+      "fact": "Brazil's 1970 team, led by Pele, became one of the signature reference points of World Cup greatness and still shapes how people talk about beautiful, attacking football.",
+      "whyItPlays": "Even fans who cannot name every player still inherit the image of Brazil as soccer royalty from moments like this.",
+      "tags": [
+        "history",
+        "brazil",
+        "pele"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup"
+      ]
+    },
+    {
+      "id": "history-2010-south-africa",
+      "title": "2010: South Africa changes the map of the event",
+      "category": "history",
+      "tone": "global",
+      "fact": "The 2010 World Cup in South Africa was the first men's edition hosted on African soil, making the tournament feel more genuinely global than ever before.",
+      "whyItPlays": "It is a landmark moment in understanding the World Cup as something bigger than Europe and South America taking turns on the same old stages.",
+      "tags": [
+        "history",
+        "2010",
+        "africa"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup"
+      ]
+    },
+    {
+      "id": "history-2022-morocco",
+      "title": "2022: Morocco pushes the bracket into new territory",
+      "category": "history",
+      "tone": "breakthrough",
+      "fact": "Morocco became the first African men's national team to reach a World Cup semifinal in 2022, expanding what a plausible deep run can look like.",
+      "whyItPlays": "This is the kind of recent memory that makes fans believe the next bracket-bending run is not just a fantasy.",
+      "tags": [
+        "history",
+        "2022",
+        "morocco"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "wikipedia-fifa-world-cup"
+      ]
+    }
+  ]
+}

@@ -131,6 +131,16 @@
       "reviewAfter": "2026-07-31"
     },
     {
+      "id": "local-team-iq",
+      "title": "Cup Radar local team personality feed",
+      "publisher": "Cup Radar",
+      "sourceType": "internal",
+      "kind": "team-profiles",
+      "url": null,
+      "path": "src/data/team-iq.json",
+      "reviewAfter": "2026-07-31"
+    },
+    {
       "id": "editorial-house",
       "title": "Cup Radar editorial explainer model",
       "publisher": "Cup Radar",

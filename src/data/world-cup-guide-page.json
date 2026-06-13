@@ -59,6 +59,24 @@
       ]
     },
     {
+      "id": "soccer-translated",
+      "label": "Soccer Translated",
+      "contentType": "analogy-cards",
+      "layout": "section-rail",
+      "cardType": "explainer",
+      "description": "American-sports analogies that help new fans understand what soccer is asking them to notice.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "american-sports-analogies",
+          "path": "cards"
+        }
+      ]
+    },
+    {
       "id": "how-soccer-is-built",
       "label": "How Soccer Is Built",
       "contentType": "competition-ladder",
@@ -73,6 +91,25 @@
         {
           "collectionId": "soccer-ecosystem",
           "path": "tiers"
+        }
+      ]
+    },
+    {
+      "id": "soccer-dictionary",
+      "label": "Soccer Dictionary",
+      "contentType": "glossary-cards",
+      "layout": "searchable-grid",
+      "cardType": "explainer",
+      "description": "A dictionary section for the words soccer people throw around like everyone grew up hearing them.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "soccer-glossary",
+          "path": "terms"
         }
       ]
     },
@@ -132,6 +169,24 @@
       ]
     },
     {
+      "id": "var-lab",
+      "label": "VAR and Offside Lab",
+      "contentType": "diagram-cards",
+      "layout": "stacked-cards",
+      "cardType": "diagram-card",
+      "description": "The two rule areas new fans ask about most, explained visually instead of only verbally.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "var-offside-lab",
+          "path": "entries"
+        }
+      ]
+    },
+    {
       "id": "soccer-brain",
       "label": "Tactics Without the Jargon",
       "contentType": "tactics-cards",
@@ -167,6 +222,25 @@
       ]
     },
     {
+      "id": "world-cup-history",
+      "label": "World Cup History",
+      "contentType": "timeline-cards",
+      "layout": "masonry-or-grid",
+      "cardType": "fact-card",
+      "description": "A story-shaped history rail that gives the tournament more emotional scale than trivia alone.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "world-cup-history-timeline",
+          "path": "moments"
+        }
+      ]
+    },
+    {
       "id": "missing-stars",
       "label": "Famous Missing Names",
       "contentType": "absence-cards",
@@ -185,6 +259,24 @@
       ]
     },
     {
+      "id": "fan-culture-atlas",
+      "label": "Fan Culture Atlas",
+      "contentType": "country-culture-cards",
+      "layout": "personality-grid",
+      "cardType": "recommendation-card",
+      "description": "Country and fan-culture cards that explain why different national-team support feels different.",
+      "defaultFanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "fan-culture-atlas",
+          "path": "profiles"
+        }
+      ]
+    },
+    {
       "id": "adopt-a-team",
       "label": "Adopt A Team",
       "contentType": "team-personality-cards",
@@ -199,6 +291,24 @@
         {
           "collectionId": "adopt-a-team",
           "path": "profiles"
+        }
+      ]
+    },
+    {
+      "id": "watch-party-playbook",
+      "label": "Watch Party Playbook",
+      "contentType": "hosting-steps",
+      "layout": "step-rail",
+      "cardType": "tier-card",
+      "description": "Practical hosting advice so the page helps people enjoy the tournament together, not just understand it alone.",
+      "defaultFanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "dataRefs": [
+        {
+          "collectionId": "watch-party-playbook",
+          "path": "steps"
         }
       ]
     },

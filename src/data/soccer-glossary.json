@@ -1,0 +1,137 @@
+{
+  "_note": "Search-friendly soccer dictionary cards for terms commentators and fans use without always stopping to define them.",
+  "lastUpdated": "2026-06-12",
+  "terms": [
+    {
+      "id": "glossary-advantage",
+      "title": "Advantage",
+      "hook": "The referee can skip the whistle if the fouled team is better off playing on.",
+      "summary": "Advantage means the referee recognizes a foul but allows play to continue because the attacking team still has the better opportunity.",
+      "whyItMatters": "New viewers often think the referee missed the call, when the referee may actually be rewarding the team that survived it.",
+      "whatToWatch": "If the ball pops to a teammate in space right after contact, the referee may spread both arms and let the move keep breathing.",
+      "tags": [
+        "glossary",
+        "rules",
+        "refereeing",
+        "advantage"
+      ],
+      "relatedTerms": [
+        "foul",
+        "play on",
+        "referee"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "ifab-law-12"
+      ]
+    },
+    {
+      "id": "glossary-counter-press",
+      "title": "Counter-press",
+      "hook": "You lose the ball and immediately try to win it back before the opponent can breathe.",
+      "summary": "A counter-press happens right after possession is lost. Instead of retreating, the team that just gave it away attacks the ball and nearby passing lanes at once.",
+      "whyItMatters": "This is one of the fastest ways to stop a dangerous counterattack before it even gets started.",
+      "whatToWatch": "See whether the nearest three or four players jump toward the ball together instead of jogging back and resetting.",
+      "tags": [
+        "glossary",
+        "tactics",
+        "pressing",
+        "transitions"
+      ],
+      "relatedTerms": [
+        "press",
+        "transition",
+        "turnover"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "glossary-low-block",
+      "title": "Low block",
+      "hook": "Sometimes defending deep is the plan, not the panic.",
+      "summary": "A low block is a compact defensive setup close to a team's own goal, inviting the opponent to have the ball in less dangerous areas.",
+      "whyItMatters": "If you do not know the term, an underdog can look timid when it is actually executing its strategy almost perfectly.",
+      "whatToWatch": "Notice how little space exists between the defense and midfield, and how often the favorite is forced to circulate the ball in front of the block.",
+      "tags": [
+        "glossary",
+        "tactics",
+        "defense",
+        "low-block"
+      ],
+      "relatedTerms": [
+        "mid-block",
+        "counterattack",
+        "compactness"
+      ],
+      "fanModes": [
+        "casual",
+        "i-know-ball"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "glossary-switch-of-play",
+      "title": "Switch of play",
+      "hook": "Crowd one side, then punish the space you created on the other.",
+      "summary": "A switch of play is a pass or sequence that moves the ball from one flank to the opposite flank to stretch the defense and find a freer player.",
+      "whyItMatters": "It is one of the cleanest ways to turn harmless-looking possession into sudden danger.",
+      "whatToWatch": "If one side of the field feels crowded, glance to the weak side. The next important player might be standing alone over there.",
+      "tags": [
+        "glossary",
+        "possession",
+        "width",
+        "switch"
+      ],
+      "relatedTerms": [
+        "overload",
+        "width",
+        "weak side"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house"
+      ]
+    },
+    {
+      "id": "glossary-through-ball",
+      "title": "Through ball",
+      "hook": "The pass is trying to beat the defense, not just reach the teammate.",
+      "summary": "A through ball is played into space behind or between defenders so the runner can meet it in stride.",
+      "whyItMatters": "This is one of the most dramatic passes in the sport because the right timing can remove half a defense in one touch.",
+      "whatToWatch": "Watch the passer's head come up and the striker begin the run almost at the same instant. The timing is the whole trick.",
+      "tags": [
+        "glossary",
+        "passing",
+        "attack",
+        "through-ball"
+      ],
+      "relatedTerms": [
+        "offside",
+        "timing",
+        "line-breaking pass"
+      ],
+      "fanModes": [
+        "brand-new",
+        "casual"
+      ],
+      "sourceIds": [
+        "editorial-house",
+        "ifab-law-11"
+      ]
+    }
+  ]
+}

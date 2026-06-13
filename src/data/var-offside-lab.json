@@ -1,0 +1,67 @@
+{
+  "_note": "Visual walk-throughs for the two rule areas new fans ask about most — offside and VAR — explained frame by frame instead of only in prose.",
+  "lastUpdated": "2026-06-12",
+  "entries": [
+    {
+      "id": "diagram-offside-moment-of-pass",
+      "title": "Offside is judged when the pass is played",
+      "summary": "The freeze-frame moment is the passer's touch, not the runner's first touch later.",
+      "diagramType": "offside-line",
+      "frames": [
+        {
+          "label": "Frame 1",
+          "caption": "The passer lifts their head and strikes the ball.",
+          "callouts": ["Freeze the line here", "Ignore the later touch for the offside decision"]
+        },
+        {
+          "label": "Frame 2",
+          "caption": "The runner arrives after the ball has already been played.",
+          "callouts": ["The run can continue", "The timing question was already decided"]
+        }
+      ],
+      "commonMistake": "Fans often judge offside by where the attacker receives the pass instead of where they were when the pass began.",
+      "tags": ["offside", "var", "rules"],
+      "fanModes": ["brand-new", "casual"],
+      "sourceIds": ["ifab-law-11"]
+    },
+    {
+      "id": "diagram-offside-second-last-defender",
+      "title": "It is the second-last defender, not always the goalkeeper",
+      "summary": "The keeper is usually one of the last two defenders, but not automatically.",
+      "diagramType": "offside-line",
+      "frames": [
+        {
+          "label": "Frame 1",
+          "caption": "The goalkeeper has rushed out, leaving two field defenders deeper.",
+          "callouts": ["Count defenders, not positions", "Use the second-last defender as the line"]
+        }
+      ],
+      "commonMistake": "People talk about being 'behind the keeper' when the real law is about the second-last opponent.",
+      "tags": ["offside", "defenders", "rules"],
+      "fanModes": ["brand-new", "casual"],
+      "sourceIds": ["ifab-law-11"]
+    },
+    {
+      "id": "diagram-var-check-stages",
+      "title": "VAR is a review tool, not a second referee running the whole match",
+      "summary": "VAR checks certain game-changing moments and either confirms the call or recommends an on-field review.",
+      "diagramType": "var-check",
+      "frames": [
+        {
+          "label": "Check",
+          "caption": "Video officials quietly review the incident while play is paused or continuing.",
+          "callouts": ["Goal", "Penalty", "Red card", "Mistaken identity"]
+        },
+        {
+          "label": "Review",
+          "caption": "The referee may be sent to the monitor for a closer look.",
+          "callouts": ["Final decision still belongs to the referee"]
+        }
+      ],
+      "commonMistake": "Fans often think every foul can become a full VAR intervention when the review categories are narrower than that.",
+      "tags": ["var", "refereeing", "rules"],
+      "fanModes": ["brand-new", "casual"],
+      "sourceIds": ["ifab-law-12", "ifab-law-14"]
+    }
+  ]
+}

@@ -10,6 +10,12 @@ import famousAbsences from '../data/famous-absences.json';
 import adoptATeam from '../data/adopt-a-team.json';
 import worldCupFunFacts from '../data/world-cup-fun-facts.json';
 import sourcesRegistry from '../data/soccer-learning-sources.json';
+import americanSportsAnalogies from '../data/american-sports-analogies.json';
+import soccerGlossary from '../data/soccer-glossary.json';
+import watchPartyPlaybook from '../data/watch-party-playbook.json';
+import fanCultureAtlas from '../data/fan-culture-atlas.json';
+import worldCupHistoryTimeline from '../data/world-cup-history-timeline.json';
+import varOffsideLab from '../data/var-offside-lab.json';
 
 const COLLECTIONS = {
   'soccer-learning': soccerLearning,
@@ -20,6 +26,12 @@ const COLLECTIONS = {
   'famous-absences': famousAbsences,
   'adopt-a-team': adoptATeam,
   'world-cup-fun-facts': worldCupFunFacts,
+  'american-sports-analogies': americanSportsAnalogies,
+  'soccer-glossary': soccerGlossary,
+  'watch-party-playbook': watchPartyPlaybook,
+  'fan-culture-atlas': fanCultureAtlas,
+  'world-cup-history-timeline': worldCupHistoryTimeline,
+  'var-offside-lab': varOffsideLab,
 };
 
 const SOURCES_MAP = Object.fromEntries(sourcesRegistry.sources.map(s => [s.id, s]));
@@ -214,6 +226,32 @@ function CardBody({ item, cardType, index }) {
           <h3 className="wcp-card__title">{item.title}</h3>
           <p className="wcp-card__summary">{item.fact}</p>
           {item.whyItPlays && <p className="wcp-card__detail wcp-card__quote">{item.whyItPlays}</p>}
+        </>
+      );
+
+    case 'diagram-card':
+      return (
+        <>
+          <h3 className="wcp-card__title">{item.title}</h3>
+          <p className="wcp-card__summary">{item.summary}</p>
+          {item.frames && (
+            <div className="wcp-diagram-frames">
+              {item.frames.map((frame, i) => (
+                <div key={frame.label || i} className="wcp-diagram-frame">
+                  <span className="wcp-diagram-frame__label">{frame.label}</span>
+                  <p className="wcp-diagram-frame__caption">{frame.caption}</p>
+                  {frame.callouts && (
+                    <div className="wcp-card__chips">
+                      {frame.callouts.map(c => <span key={c} className="wcp-chip wcp-chip--callout">{c}</span>)}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+          )}
+          {item.commonMistake && (
+            <p className="wcp-card__detail wcp-card__quote"><strong>Common mistake:</strong> {item.commonMistake}</p>
+          )}
         </>
       );
 
