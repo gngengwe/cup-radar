@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-14T09:35:14.129Z",
+  "lastUpdated": "2026-06-14T14:03:18.554Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 26,
+      "chapterCount": 27,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -225,6 +225,14 @@
           "title": "Is Messi playing at World Cup 2026? - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNm1jVmR2ZVA4cGZwNm9Pd0czZ0k2U0lTWnBjZFFnNFg3SFo5Mnk4SWRnVjNrMWJzNEF1Vk5rbFd3eTJUc05VVURfd2xIb3FwU0JzS21ZTVZlSFNoWTRTbjM0X19BTXRoTGdKbGJMNDc5ZXlJTjhUQjhRWHUtUDNLRjUzTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781445796576",
+          "date": "2026-06-12",
+          "title": "Argentina 2026 World Cup preview: Squad, fixtures and prediction | Can Lionel Messi's last dance lead world's best side to back-to-back titles? - Sports Mole",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWDVMd3FMV3c3SkFXNVk0RXR2Y09kb2xlSlBwV1BkR0R3UWhMeFRfakZCTWtfY0NSbUpHMjFTQWJNMi1hRkM0UGFFQXAwWWpIaU0takpPV3JJenlBOE50dWkzczRvZ0p0NHhDVTMyelRuSWtQSW9GM1JKLWJQQnNUWHZHUDQ2cTlRSjNQc1c2LTZTcGIyal9FZ3pEZzAtOEExc0Vnb1o2elhBbmFaV08xNG44QXpmdjJMTEN5ZzZybE8xcmpTVXNRTkJubWk1ZVFTQ1VYN1RXVQ?oc=5",
           "draft": true
         }
       ]
@@ -479,7 +487,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 75,
+      "chapterCount": 77,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1080,6 +1088,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3dXZDJUdEdEOHpDWnlpdi1BVXpES3VJY3N0MEIzRHF6UkZCbXJKeU9NbDBsa3Q2Qzl5SXRUVHpCV0J0SkQzMVloYldQMDRFaUN4dlM4Vk1kT3VyYkZsSVQ2VE5ueGM2U3V5VWJwc3l6dFVpazBXMWZtdkNlcUROa2Q5NXRUVEFjX2ZZV0RiM1ZrYlJ2WUhRTHFpRktPRHhQMV9jRzhGWmxwSkVwdi02dlRPQXFVYkt6cEhTWFlSWnRTaXUwbGJPUkVhRlpqblZNZHVNZXZSd3hDa1hQX1VoT1FCTGpzUlhtSVFRYUZlODNCQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781445797612",
+          "date": "2026-06-13",
+          "title": "World Cup 2026: USMNT draws its most-watched telecast ever during win over Paraguay, averaging close to 16 million viewers - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUGZkeUd4MlEzVXpXZkpfRnB6Q2hBVFJlY19SaFNnOWp6Tm1BMlRTNnhxUDU2dVQzSWFXOUNsTTJLS3NQeC1KODNtOGJjYUtVcTVadXlJa3kxSUxJM09adXNRb01WUk1Ha3Y3YlpTV0tUdjhVd0F6THduTFBEeE02S1ZpVEI5Y2o3N1pwdWJ0SERVeWlSSEJ5V0lQcDhmSkdBTG5mM0JGcTBlZGhLOVhHLXlscTNEcjFVb1VuZXJNNklnS19ZXzBpTEE5MXR5OGJhdHYtNWpFd0FoLXNPSFlBRmtFSC1VeHRSNF94R21DTUl0RkoyYy1SS0s3VzdQMkJIOWtNWFJxbGwzZ3VyYUJnOU93?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781445797612",
+          "date": "2026-06-14",
+          "title": "How soccer won over America and became part of U.S. sports culture - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVV4ekJkaFVqUHV2SUczSGlxUUF5S1EwdFNTNHVWZWFOLTg5WC1FTWJ3bDVONlBJd0VtMDBrS29wYU51QmhDVFJGeFlUTENlalNtMFBWY3FMMURqbVlMM1h3Z2pOVFJfNGFkb2J1MUR3YXhSVm90UWhmZDhyN0tHU2NKdVBfWlF6UENaVUVuWDQ0RmlGQ2tmNU5jcw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1098,7 +1122,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 72,
+      "chapterCount": 74,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1675,6 +1699,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFhkVGdnY2VGUUxQSG82RXphWnBuRzdKemJWQjNSSnVwZzlSb2J3YXlPSU9hN1hEbkh3dDdLNDRYNG5xWTU3TGc0V1d4Q29wand3NnFVT1paMmswSFNublFvQVJWUkNzWG0taEVvWkRWYnhKcVdhSVkxUmtXd0JlQ19Vd2JKQWc2M2xhbHZWUHFEbWpvckVOekRsclk1MkoxSVJYbnRn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781445798115",
+          "date": "2026-06-14",
+          "title": "World Cup 2026: Biggest takeaways from Brazil-Morocco group match - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUZKQ01RMDVBUkVSdlBXR0JEaG93SEppaVZSTXZyYUFMVFBqNFFDYW10ZGNmRDBUeV9zYmIxUHVHQURkSUlfRlE5cHZRN2Rmek5DdEphRVpPd3NiUktlNnNCaHVZVGt5MGpuZXBZcWZOcEpENnVCM2djS1Q4REFTQlZ6X3NONHI4a3NlVTNKbGNIMkhocjRCalR0OEJNbGdIT2RqMEUtc1d2WjTSAbABQVVfeXFMTUgteHJLS0drVE00U0FVUmpnSUl4bzktZkZZMEttcDItS3JWbnZMcUphYnpFWTAwUzJwV1ZubEhuRmVhSk1WNFdPaGhjb2VDU3ozT3kzV3VBYi0tbENyN1pRbEtPWkZYYjFkYlpyd05QNS1RdlRacjdIYWNSNVZ4NENJeVRSREhiekNyS0tSRExVMV9CZmtxdFpDQkJ3cXRUcFJNbHV1T1NFSnBycXRZMXA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781445798115",
+          "date": "2026-06-14",
+          "title": "Arsenal-linked Ayyoub Bouaddi responds as journalist asks whether Morocco star is coming to the Premier League after magical display against Brazil - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWloeW5CWGl0bE9icGppdzI1dlVUYkpjZTdHOU5pUEpFR0JEclpHdXVZMHExRlJnX3FZUEl0R3Y5YlZnSEhpYmpZS3FIaW1oeXdWVElYRXdfNTlQS05Ub0FaZS1NVXhhRm1hZkczTjhtQTNpcWRQVVZtN253R3VLdjV3RlhtejZEcFFfYk4zekFwb1VGM0hzejFRUkpmX3M3N29leVNpM0ZpUTVTanJUMmpR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1776,7 +1816,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 78,
+      "chapterCount": 81,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2400,6 +2440,30 @@
           "title": "World Cup 2026: England's first World Cup training session - what did we learn? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcW8zRk94RklsZ0R5a19xWm0zdWNQTktWX2p5LUlCN0hIRTJDUjRnWlRLaXR0aXBUSU1OQ3dZZlNFWWRtR3B0RWRvQWJ1Yl9zbEctamppemJpS1BRS0wyalgwVHRnYWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781445798554",
+          "date": "2026-06-14",
+          "title": "World Cup 2026: England camp hit by tornado warning as Scotland reacts to first victory in 36 years – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUUhGZ0cwNEhFbGZnUzlVeVpvbjdCRTZMRFE5Z254UFM3ZlhsRExVXzlDQks2cUFvbTMtazdrWUd4V2laWlRidlFJbDhVQ3lQZGJ1akdrX0dPbWVRcjJ4bVc4VDBOdGhlZms0b1ZHb3pWWndNS200M3RHVjNvRW5UTEo2cHFYTXhFT2M5a1htcURRbTNUSG5EWTNnWVJrNlZtNTRjaXNsdDdneEEwNHJxV0Q3dVVtclFvOUpmdnpaSTcxOFUzZElHTWJ4aGxqbG1uYWdZVXpiektfRllZVU85NjJLclVtR3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781445798554",
+          "date": "2026-06-14",
+          "title": "Cole Palmer, Coca-Cola and what happens when a World Cup brand deal falls flat - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJYZzVyOVFvbzNNem14SG5QNERlUzdCczVkRHRWSm1abzhpaVYycFhhYk9ndVhVbUxLcGJhanFRbXpYWVlQRVU2bk42eVRzNTZmR2FSVUYwZzhrQkJfZHJCa2hMV2o5bFRMcE9nYVBTM013ejVoWHJrS0VhSTFwNWM3cjFweDJkLU1xRkV6anh6ZFIxQm9n?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781445798554",
+          "date": "2026-06-14",
+          "title": "World Cup of Darts 2026 LIVE RESULTS: Littler & Humphries BEAT Clayton's Wales - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZURGLVRfdW5oYjNoV0pIN3MyeG1SenJfaDloRUFyVUJGdHIyYlhLX0RVUEZWbHI5cE9QMTdmNDAweE5TX2J5eVhtOEdRaEVESW1LQldUanJEVTk1Z2xFYzZuN1psSlVYb3hyZ293cm9pWlVLZWE0NXYxbnZJSU9MX1FmeGpPa0d4VFFnYl9Xc3pyRmNMc3YxbDFjVkgzLU9jQ0dmY3FR?oc=5",
           "draft": true
         }
       ]
