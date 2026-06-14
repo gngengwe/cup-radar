@@ -11,32 +11,54 @@ import { EXCITEMENT_HISTORY_CAP, GOAL_RIGHT_HERE_THRESHOLD } from '../config/mat
 
 const EMPTY_BADGES = { dominant: null, secondary: [] };
 
+// When ESPN has no record for this match but the local schedule already
+// marks it finished, fall back to a synthetic "post" snapshot from local
+// scores so finished-match badges (Upset Alert, Win or Go Home, etc.) still
+// evaluate.
+function withFinalFallback(match, espn) {
+  if (espn) return espn;
+  if (match?.status === 'finished') {
+    return { state: 'post', homeScore: match.homeScore ?? 0, awayScore: match.awayScore ?? 0, clock: 'FT', period: null };
+  }
+  return espn;
+}
+
 export function useMatchExcitement(match, espn) {
   const historyRef = useRef([]);
   const sustainRef = useRef(0);
 
+  const effectiveEspn = withFinalFallback(match, espn);
+
   return useMemo(() => {
-    if (!espn || espn.state !== 'in') {
+    if (!effectiveEspn || (effectiveEspn.state !== 'in' && effectiveEspn.state !== 'post')) {
       historyRef.current = [];
       sustainRef.current = 0;
       return { excitement: null, badges: EMPTY_BADGES };
     }
 
+    if (effectiveEspn.state === 'post') {
+      historyRef.current = [];
+      sustainRef.current = 0;
+      const excitement = computeMatchExcitement(match, effectiveEspn, []);
+      const badges = evaluateMatchBadges(match, effectiveEspn, excitement, 0);
+      return { excitement, badges };
+    }
+
     const history = historyRef.current;
     const last = history[history.length - 1];
-    if (!last || last.homeScore !== espn.homeScore || last.awayScore !== espn.awayScore) {
-      history.push({ homeScore: espn.homeScore, awayScore: espn.awayScore });
+    if (!last || last.homeScore !== effectiveEspn.homeScore || last.awayScore !== effectiveEspn.awayScore) {
+      history.push({ homeScore: effectiveEspn.homeScore, awayScore: effectiveEspn.awayScore });
       if (history.length > EXCITEMENT_HISTORY_CAP) history.shift();
     }
 
-    const excitement = computeMatchExcitement(match, espn, history);
+    const excitement = computeMatchExcitement(match, effectiveEspn, history);
 
     sustainRef.current = excitement.score >= GOAL_RIGHT_HERE_THRESHOLD
       ? sustainRef.current + 1
       : 0;
 
-    const badges = evaluateMatchBadges(match, espn, excitement, sustainRef.current);
+    const badges = evaluateMatchBadges(match, effectiveEspn, excitement, sustainRef.current);
 
     return { excitement, badges };
-  }, [match, espn?.state, espn?.clock, espn?.period, espn?.homeScore, espn?.awayScore]);
+  }, [match, effectiveEspn?.state, effectiveEspn?.clock, effectiveEspn?.period, effectiveEspn?.homeScore, effectiveEspn?.awayScore]);
 }

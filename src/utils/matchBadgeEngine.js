@@ -26,7 +26,10 @@ function byId(id) {
 }
 
 /**
- * Returns the set of badge ids currently active for this match.
+ * Returns the set of badge ids active for this match. For finished matches
+ * (phase === 'finished'), only result-based badges apply — "Goal Right Here"
+ * and "Late Equalizer Watch" are in-the-moment signals with no meaning after
+ * full time.
  */
 function activeBadgeIds(match, espn, excitement, sustainTicks) {
   const ids = [];
@@ -35,21 +38,24 @@ function activeBadgeIds(match, espn, excitement, sustainTicks) {
   const homeScore = espn.homeScore ?? 0;
   const awayScore = espn.awayScore ?? 0;
   const { phase, minute, stoppage, components, score } = excitement;
+  const isFinal = phase === 'finished';
 
-  // Goal Right Here — score sustained at/above threshold for multiple polls
-  if (score >= GOAL_RIGHT_HERE_THRESHOLD && sustainTicks >= GOAL_RIGHT_HERE_SUSTAIN_TICKS) {
-    ids.push('goal-right-here');
+  if (!isFinal) {
+    // Goal Right Here — score sustained at/above threshold for multiple polls
+    if (score >= GOAL_RIGHT_HERE_THRESHOLD && sustainTicks >= GOAL_RIGHT_HERE_SUSTAIN_TICKS) {
+      ids.push('goal-right-here');
+    }
+
+    // Late Equalizer Watch — trailing by exactly one in the run-in or stoppage time
+    const diff = Math.abs(homeScore - awayScore);
+    const lateWindow = (phase === 'second-half' && ((minute ?? 0) >= 70 || stoppage > 0))
+      || phase === 'extra-time';
+    if (diff === 1 && lateWindow) {
+      ids.push('late-equalizer-watch');
+    }
   }
 
-  // Late Equalizer Watch — trailing by exactly one in the run-in or stoppage time
-  const diff = Math.abs(homeScore - awayScore);
-  const lateWindow = (phase === 'second-half' && ((minute ?? 0) >= 70 || stoppage > 0))
-    || phase === 'extra-time';
-  if (diff === 1 && lateWindow) {
-    ids.push('late-equalizer-watch');
-  }
-
-  // Upset Alert — underdog currently level or ahead
+  // Upset Alert — underdog finished level or ahead (or currently is, live)
   if (components.upsetPressure > 0) {
     ids.push('upset-alert');
   }
@@ -59,8 +65,9 @@ function activeBadgeIds(match, espn, excitement, sustainTicks) {
     ids.push('win-or-go-home');
   }
 
-  // Extra Time — match has gone beyond regulation
-  if (phase === 'extra-time' || phase === 'penalties') {
+  // Extra Time — match went beyond regulation (live in ET/penalties, or
+  // finished having reached ET — ESPN keeps `period` >= 3 after full time)
+  if (phase === 'extra-time' || phase === 'penalties' || (isFinal && (espn.period ?? 0) >= 3)) {
     ids.push('extra-time-drama');
   }
 

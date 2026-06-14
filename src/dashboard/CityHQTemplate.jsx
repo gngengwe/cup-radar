@@ -163,6 +163,7 @@ function MatchDayHero({ match, cityData }) {
   const transit      = cityData.transitPain?.find(t => t.matchId === match.id);
   const countdown    = liveCountdown(matchKickoffISO(match));
   const isLive       = espn?.state === 'in';
+  const isFinished   = espn?.state === 'post' || match.status === 'finished';
   const { excitement, badges } = useMatchExcitement(match, espn);
 
   let status;
@@ -209,9 +210,9 @@ function MatchDayHero({ match, cityData }) {
         )}
       </div>
       <div className="hq-matchday-hero__status">{status}</div>
-      {isLive && excitement && (
+      {((isLive && excitement) || (isFinished && badges.dominant)) && (
         <div className="hq-matchday-hero__excitement">
-          <ExcitementMeter excitement={excitement} />
+          {isLive && excitement && <ExcitementMeter excitement={excitement} />}
           <MatchExcitementBadges badges={badges} />
         </div>
       )}

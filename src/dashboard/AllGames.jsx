@@ -109,7 +109,8 @@ function MatchRow({ match, currentCity }) {
 
 function MatchDayCard({ match, espn }) {
   const countdown = liveCountdown(matchKickoffISO(match));
-  const isLive    = espn?.state === 'in';
+  const isLive     = espn?.state === 'in';
+  const isFinished = espn?.state === 'post' || match.status === 'finished';
   const { excitement, badges } = useMatchExcitement(match, espn);
 
   let status;
@@ -155,12 +156,8 @@ function MatchDayCard({ match, espn }) {
         )}
       </div>
       <div className="allgames-matchday-card__status">{status}</div>
-      {isLive && excitement && (
-        <>
-          <ExcitementMeter excitement={excitement} compact />
-          <MatchExcitementBadges badges={badges} />
-        </>
-      )}
+      {isLive && excitement && <ExcitementMeter excitement={excitement} compact />}
+      {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
       <div className="allgames-matchday-card__meta">
         {match.time} {match.timezone} · {match.city}
         {match.group && ` · Group ${match.group}`}
