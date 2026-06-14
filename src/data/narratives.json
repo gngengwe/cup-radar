@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-14T16:21:48.758Z",
+  "lastUpdated": "2026-06-14T19:26:52.586Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -487,7 +487,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 81,
+      "chapterCount": 84,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1136,6 +1136,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zS2VucTF1eWFsYXJ1QWx3dkxVWXlfLTI0eE5jUF9GRjlCRDdsRFNBUnVDZlRTR1NHQk9KbXFiX1czZnBDUGNTLV9VR0ZQODlDV3pRZXkxbnpWVEp5MTU4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781465211640",
+          "date": "2026-06-13",
+          "title": "Katy Perry, LISA, Anitta & More at 2026 World Cup USA Opening Ceremony: Best Moments From Inside L.A. Stadium - Billboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXh4ODRabGNuaUM4eEVQMkhHRVBwZU9mUEhicEYzZF9NaTVScTcxWFlsVWN6dlJtci0zWmluYTF3YXFZbURUaWVLN0NuSDJqSDVuQlVoa0VBYm5xYnhhdHJBbWlMeUxFTE1zNFhndG9iV1BMVFpBSGVwMUlObUNTLXh1N0sxTFVkR1JoWjIwZW1vczhlejVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781465211641",
+          "date": "2026-06-14",
+          "title": "Tom Cruise, David Beckham, Katy Perry and more celebrities spotted at 2026 FIFA World Cup matches - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2VBT092eUFLYUV2YnRQYXZqR3dWLTNlNnJHQ3AzdWJkUl9lbVprdzRfRnl5QWRac3N1U3M2bG8xeGctQmhlaGxpajBFZi1pSGlWQXJ0c2pvaTg4b1NsVFQzaXB3NnlKWHF3NTBFRDZSTDdXNDFaOFQ5VjhVaHJ3c2xKQ1FsSVc3aXRfRnhlQjlaTFBGV3FXQzhKNjFyOHpRbFF3OGVrb1ZNOV9oLXVpQ0FSd0tydUNrX1BPbnlR0gHDAUFVX3lxTE1WS1JyRktTU2Q2WWZpV21yc3FuVU5NUzV5ZHBZS2NYZHV1ZzNBQ0RuTFNOdE04NGQ5SjhOcmQwUnZ4bElaeEFXLUVVMnlEWmZheEJ5MnVJdGNpUUt1NXVINUNyQURIYWFLVFVfSktsd3hBTDJJMVhQYXZ3aTI1aENLb2N4cEI5VnpCeG9lYVo3R0lJdW1FNXdhc0w3UU9sTVlSMG54eFB0N1dYWUxPampjM0Niak5rTzJXQVhqSHA2a3hhNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781465211641",
+          "date": "2026-06-14",
+          "title": "Jameis Winston Witnesses USA's CRAZY FIFA World Cup™ Win! 🇺🇸 🤯 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1icUJUV01rMWJxNzhIa0NueU9OOVdTX0V3cEYxNm50QVdOTjF2WnpyQVlYVnFUVDRpSHpqcmhZZlNiMlhJOXFnT0tuYWlmdnE1SERYTWt6SnlJTTBOdUtJbWd3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1154,7 +1178,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 76,
+      "chapterCount": 78,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1763,6 +1787,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmhYMVd3LUh4OThqa1o5S2lsRzdCaXBJcjV4SlpVRUhxRFZuUlZjYW80bTRGTUVDWVY0TGd3NW00SWUwU2VfZnY1NjF2bDE5WmhleFFxb1pnY20zUF9vOU50dGVGUXF1eGRoU2FnZk9Sb2xQZ0NBWFR6RnFGZU5xZkFIVEFvdkRpenR4MkNIRnhrOTdsV3NTekZyNlNNem5hMXNCRWdBc1Vwb293SXp6YVhILUY?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781465212122",
+          "date": "2026-06-14",
+          "title": "\"Are You Taking Something?\": Brazil Legend Ronaldo's Hilarious Comment On IShowSpeed's Muscles Is Viral. Watch - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcXZ3TG1xai0xZzlPOU82czJfZDN0c204LXFTNkprek1DZzZFV0dnVWw2LUlaLUhkN0N4NktfUzFldHcybUVKaVhVUXVjME9NTzJyS2RmbWRha0IyTzlhMmlTbkxBdkR5YTd6aVJhUk5vM09pTzhRRXd3aWJuMGU1aE92MjNwZThKbWN0V2V2X01GLWlQMVNTOWJoLWltX3g0T010dUFPR1ZHNHY4ZmV0UjFpZW5tczBlTVg3Sl9ydmJVaU9BYVZ6YkxzVEJqVzlnbFZBR0U1U2JNOXJDalA3dWRrNzBJZXltQ1Z0OQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781465212122",
+          "date": "2026-06-14",
+          "title": "Top Democrats watch Brazil-Morocco match – together - Politico",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXM3YzZTVTE4OG5JWjV4eG5vUGdVREN0MURXU014UTNlZVRMNFV6Z2dFMGlfaXFjYmJrYWxyVHc0QjlpSDcwRng5LTRVNF9RSVBKTnNSNlljcC1LNHlUX3EyWjN2amZ1eVhEaFViRjRFN3F1LTVUV3dGdWJ5TXhWM2psY3FtV29Oc2dMSGhkb3cyc3h3ZkpoYmtUWWdLUTJxMlFjeg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1864,7 +1904,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 82,
+      "chapterCount": 84,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2520,6 +2560,22 @@
           "title": "Booze bans, beach crackdowns and curfews – the little known rules that England fans could fall foul of at World Cup - the-sun.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxd29BYng3UXVkLUp4MHdtZFJPN3JydHFHaWFVV3l0bGJTM0Rsay04WDVTcmViWDBPNmxMMEx2Q01QdjlGMjdMM01HN2JEVEF1bGZwQ0NqZDV5MVhteERqTW9fY1JlXzJtWEQ5VU45V1h2cnBlRWtVY1U1MA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781465212586",
+          "date": "2026-06-14",
+          "title": "World Cup 2026: Nathaniel Brown scores fifth goal for Germany - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BWENJX3kxUk1mSzN3QXJOeG9UNloxVzc1LU9RclNKTTJkVkl4UnVOVERENFg1NlVzSmxKOHYycDBTZklhREJfS2dvOHRHTEMyT0NDamg5OXVnclVJWVo2SjB4SEY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781465212586",
+          "date": "2026-06-14",
+          "title": "World Cup 2026: Livano Comenencia scores Curacao's first-ever goal - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESVo5SGdGb1o5UkFtT0tLS0VxbEViYmw3MjVyVl9uSnBiZ2pfZU5GcFRoUDE3Z2Y2T2cwSU9jYkR0WURFMlAxZWhMS0ozQkJ0RXdaMXFYWGlOZjBuSlkyM3VUTmg?oc=5",
           "draft": true
         }
       ]
