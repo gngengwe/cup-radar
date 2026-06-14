@@ -5063,6 +5063,97 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 
 /* ═══════════════════════════════════════════════════════════
+   MATCH EXCITEMENT — live score meter + badges
+═══════════════════════════════════════════════════════════ */
+.hq-matchday-hero__excitement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  max-width: 320px;
+}
+
+.excitement-meter {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+}
+.excitement-meter__bar {
+  height: 6px;
+  border-radius: 100px;
+  background: rgba(255,255,255,0.08);
+  overflow: hidden;
+}
+.excitement-meter__fill {
+  height: 100%;
+  border-radius: 100px;
+  background: var(--excitement-color, var(--accent));
+  transition: width 0.6s ease;
+}
+.excitement-meter__label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.excitement-meter__score {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--excitement-color, var(--accent));
+}
+.excitement-meter__text {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+.excitement-meter--compact .excitement-meter__bar { height: 4px; }
+.excitement-meter--compact .excitement-meter__score { font-size: 12px; }
+.excitement-meter--compact .excitement-meter__text { font-size: 10px; }
+
+.excitement-meter[data-level="calm"]  { --excitement-color: #8b95a5; }
+.excitement-meter[data-level="live"]  { --excitement-color: #00e676; }
+.excitement-meter[data-level="tense"] { --excitement-color: #facc15; }
+.excitement-meter[data-level="high"]  { --excitement-color: #fb923c; }
+.excitement-meter[data-level="goal"]  { --excitement-color: #ff4d4f; }
+.excitement-meter[data-level="goal"] .excitement-meter__fill {
+  animation: excitement-pulse 1.4s ease-in-out infinite;
+}
+@keyframes excitement-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.match-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.match-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 9px;
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--badge-color, var(--text));
+  border: 1px solid var(--badge-color, var(--border-accent));
+  background: rgba(255,255,255,0.04);
+}
+.match-badge--dominant {
+  font-size: 12px;
+  padding: 4px 11px;
+}
+.match-badge__icon { font-size: 13px; }
+
+/* ═══════════════════════════════════════════════════════════
    KIT CARDS — jersey illustration
 ═══════════════════════════════════════════════════════════ */
 .culture-card__jersey {

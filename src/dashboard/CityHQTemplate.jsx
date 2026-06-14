@@ -7,6 +7,9 @@ import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
 import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
 import { fetchEspnMatchStatus } from '../api/espnScoreboard';
+import { useMatchExcitement } from '../hooks/useMatchExcitement';
+import { ExcitementMeter } from '../components/ExcitementMeter';
+import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
 import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
@@ -159,11 +162,13 @@ function MatchDayHero({ match, cityData }) {
   const energyEntry = cityData.cityEnergyForecast?.find(e => e.matchId === match.id);
   const transit      = cityData.transitPain?.find(t => t.matchId === match.id);
   const countdown    = liveCountdown(matchKickoffISO(match));
+  const isLive       = espn?.state === 'in';
+  const { excitement, badges } = useMatchExcitement(match, espn);
 
   let status;
   if (espn?.state === 'post') {
     status = `FINAL · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
-  } else if (espn?.state === 'in') {
+  } else if (isLive) {
     status = `🔴 LIVE ${espn.clock} · ${match.homeTeam} ${espn.homeScore}–${espn.awayScore} ${match.awayTeam}`;
   } else if (match.status === 'finished') {
     status = `FINAL · ${match.homeTeam} ${match.homeScore}–${match.awayScore} ${match.awayTeam}`;
@@ -204,6 +209,12 @@ function MatchDayHero({ match, cityData }) {
         )}
       </div>
       <div className="hq-matchday-hero__status">{status}</div>
+      {isLive && excitement && (
+        <div className="hq-matchday-hero__excitement">
+          <ExcitementMeter excitement={excitement} />
+          <MatchExcitementBadges badges={badges} />
+        </div>
+      )}
       <div className="hq-matchday-hero__meta">
         {match.time} {match.timezone} · {match.venue}
         {energyEntry && (

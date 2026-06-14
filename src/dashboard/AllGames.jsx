@@ -6,6 +6,9 @@ import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey } from '../utils/teamData';
 import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
 import { fetchEspnScoreboard, matchEspnStatus } from '../api/espnScoreboard';
+import { useMatchExcitement } from '../hooks/useMatchExcitement';
+import { ExcitementMeter } from '../components/ExcitementMeter';
+import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
 import { CITY_META, getCityMeta, isHomeMatch } from '../utils/cityConfig';
 import { buildSearchParams, readBooleanSearchParam, readSearchParam } from '../utils/searchParams';
 
@@ -107,6 +110,7 @@ function MatchRow({ match, currentCity }) {
 function MatchDayCard({ match, espn }) {
   const countdown = liveCountdown(matchKickoffISO(match));
   const isLive    = espn?.state === 'in';
+  const { excitement, badges } = useMatchExcitement(match, espn);
 
   let status;
   if (espn?.state === 'post') {
@@ -151,6 +155,12 @@ function MatchDayCard({ match, espn }) {
         )}
       </div>
       <div className="allgames-matchday-card__status">{status}</div>
+      {isLive && excitement && (
+        <>
+          <ExcitementMeter excitement={excitement} compact />
+          <MatchExcitementBadges badges={badges} />
+        </>
+      )}
       <div className="allgames-matchday-card__meta">
         {match.time} {match.timezone} · {match.city}
         {match.group && ` · Group ${match.group}`}

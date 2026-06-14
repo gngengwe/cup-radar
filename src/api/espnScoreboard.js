@@ -39,6 +39,7 @@ export function matchEspnStatus(events, match) {
     return {
       state:     comp.status.type.state, // 'pre' | 'in' | 'post'
       clock:     comp.status.displayClock,
+      period:    comp.status.period,
       homeScore: Number(home.score),
       awayScore: Number(away.score),
     };
