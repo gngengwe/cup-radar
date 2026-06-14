@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-14T04:06:09.627Z",
+  "lastUpdated": "2026-06-14T09:35:14.129Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -479,7 +479,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 72,
+      "chapterCount": 75,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1056,6 +1056,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ182ekdKQWUwd3NNSUMzbXppTFl6Y0psSHVpYXVaWWYwbXlxM1VOMjFnTFBGb01ERjVpTGZqRGxPQnc3OFdFYXlEX29NclMxS0xVaWxZM0ZPRlhTVUhjMFNmTE1SZFdHYnZBLWtEbERaN2NWT0QxMWlhU1NpdzdzNnV1ZlBSQkN4RmNnYURzYy1BMDgxTkt2ckxlRm9CamdZbnRHRDF2SDRxZm42SUJ3djFkSEVfVDBETG9jcDNxY0dDaWlfRVZJREln?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781429713015",
+          "date": "2026-06-14",
+          "title": "INSTANT REACTION 🚨 FIFA World Cup Now reacts to Australia's HUGE 2-0 win over Türkiye ⚽️ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0SG9DVS1MbXdNUlhZOHJKNnpDcGdRMXhlcDU0bDZXZmg0aXNwektWZHJTVTFHei1WUHktWVRuQlRubXZvY1NfQmtFQnFScG9ITXVtdGRzdXVRWDdXVkJqT2tn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781429713015",
+          "date": "2026-06-14",
+          "title": "Australia go level with USMNT in Group D after surprise win against Turkey - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXcwel8tSjVSdXJZa1VoVDFwSFJzS0U4S2hkRnpER2EwUzZTS3o5VEdSWFBqWERZUmxYdHRSeU9TRDBoSGZiZl81bWJKZWlLQjhwcWtWWXgycjBURkZGdFJfOHVhLW9HeXE0ZUotTUk5N3NXcVhKblZwaDBpUGNnMzhQVVR3WWFTcl9DMjE3elhtSG1qZ3JjTXFld2h3M2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781429713015",
+          "date": "2026-06-14",
+          "title": "World Cup scores, results: Brazil and Morocco battle to 1-1 draw while Australia stuns Türkiye in the nightcap - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3dXZDJUdEdEOHpDWnlpdi1BVXpES3VJY3N0MEIzRHF6UkZCbXJKeU9NbDBsa3Q2Qzl5SXRUVHpCV0J0SkQzMVloYldQMDRFaUN4dlM4Vk1kT3VyYkZsSVQ2VE5ueGM2U3V5VWJwc3l6dFVpazBXMWZtdkNlcUROa2Q5NXRUVEFjX2ZZV0RiM1ZrYlJ2WUhRTHFpRktPRHhQMV9jRzhGWmxwSkVwdi02dlRPQXFVYkt6cEhTWFlSWnRTaXUwbGJPUkVhRlpqblZNZHVNZXZSd3hDa1hQX1VoT1FCTGpzUlhtSVFRYUZlODNCQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1074,7 +1098,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 69,
+      "chapterCount": 72,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1627,6 +1651,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVOE51cmxIOW1DLWFsUkgzM04wOE5hcnRWcTd5R1ZuRjBtT183SXZKWk1VemFPQXpDSk53bm1kaWhtMGRQWWkzdTFtbng1S0dPbnlVcWRoYVdFY0hQVlF2R3JR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781429713715",
+          "date": "2026-06-14",
+          "title": "World Cup scores, results: Brazil and Morocco battle to 1-1 draw while Australia stuns Türkiye in the nightcap - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa3dXZDJUdEdEOHpDWnlpdi1BVXpES3VJY3N0MEIzRHF6UkZCbXJKeU9NbDBsa3Q2Qzl5SXRUVHpCV0J0SkQzMVloYldQMDRFaUN4dlM4Vk1kT3VyYkZsSVQ2VE5ueGM2U3V5VWJwc3l6dFVpazBXMWZtdkNlcUROa2Q5NXRUVEFjX2ZZV0RiM1ZrYlJ2WUhRTHFpRktPRHhQMV9jRzhGWmxwSkVwdi02dlRPQXFVYkt6cEhTWFlSWnRTaXUwbGJPUkVhRlpqblZNZHVNZXZSd3hDa1hQX1VoT1FCTGpzUlhtSVFRYUZlODNCQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781429713715",
+          "date": "2026-06-14",
+          "title": "Fifa World Cup 2026: Highlights, Scotland 1-0 Haiti, Brazil 1-1 Morocco, schedule, fixtures - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FYnFKN2tuTUxTekMxQUxfVFAwNDVNV3VHTWFpWE53dktjeUJ0T0RrNG9zdkwwZGhTWV9MRVpVb0ZyTTdyMU83bWlWdmNRRjVNRmdrb29YU0E1X19BUS1sd1VR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781429713715",
+          "date": "2026-06-14",
+          "title": "World Cup Roundup: Scotland Outshines Brazil And Morocco, Socceroos Stun Türkiye - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFhkVGdnY2VGUUxQSG82RXphWnBuRzdKemJWQjNSSnVwZzlSb2J3YXlPSU9hN1hEbkh3dDdLNDRYNG5xWTU3TGc0V1d4Q29wand3NnFVT1paMmswSFNublFvQVJWUkNzWG0taEVvWkRWYnhKcVdhSVkxUmtXd0JlQ19Vd2JKQWc2M2xhbHZWUHFEbWpvckVOekRsclk1MkoxSVJYbnRn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1728,7 +1776,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 76,
+      "chapterCount": 78,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2336,6 +2384,22 @@
           "title": "World Cup 2026 fixtures, results and group tables - The Independent",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGNrcVpkWUFmLWZSYjc1aEFhMzZlMkdsZjFDNlhiTmdVLUVueXhKRW1pSWVwOE9wTzdYSUR4anFDenRweTE1QmFuQUpsMG9URjItWGVfelVyVG4xd1l5N1owZlBzNFpncDFfenFueGxUbVluWkF1SThPeUtaa1V6NUxBUnFuQjdyTTd4YmR5TnZEUVI5bkxaTmVJclBHeU5FaEtBMVROMnpGMi1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781429714129",
+          "date": "2026-06-14",
+          "title": "World Cup 2026 LIVE: England forced to shelter after tornado warning in Kansas City - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXpqLWk5b05BU0JNVlBldFdlMHBoRGlTRXFUUVRRM2lCLWhEVFh3NjhZU2lfT3dVMjBNV0NJdkp1c2x0Wk5uVGZUcFJCRlF6TmZjREdnTGxkSGQzY3lMUWxZeWNpYkVua0NUd1FMcDNzQldMdmZBcnVWNzRHOXRULWp5U2pqZThYd1ZicGNjWDlyS3RhbTVtYjRVV0o1a1NyejRZUWFSSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781429714129",
+          "date": "2026-06-14",
+          "title": "World Cup 2026: England's first World Cup training session - what did we learn? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcW8zRk94RklsZ0R5a19xWm0zdWNQTktWX2p5LUlCN0hIRTJDUjRnWlRLaXR0aXBUSU1OQ3dZZlNFWWRtR3B0RWRvQWJ1Yl9zbEctamppemJpS1BRS0wyalgwVHRnYWc?oc=5",
           "draft": true
         }
       ]

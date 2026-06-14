@@ -1455,8 +1455,8 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
-      "homeScore": 0,
+      "status": "finished",
+      "homeScore": 2,
       "awayScore": 0,
       "vancouverMatch": true,
       "notes": "Australia vs Turkey — Group D at BC Place"
@@ -2001,5 +2001,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-14T04:06:04.328Z"
+  "lastUpdated": "2026-06-14T09:35:09.107Z"
 }
