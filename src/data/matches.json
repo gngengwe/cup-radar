@@ -988,9 +988,9 @@
       "group": "F",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "2022 R16 rematch — now group stage"
@@ -2001,5 +2001,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-14T19:26:47.324Z"
+  "lastUpdated": "2026-06-14T22:09:44.632Z"
 }
