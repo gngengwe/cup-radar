@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-13T19:45:56.021Z",
+  "lastUpdated": "2026-06-14T04:06:06.855Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -69,8 +69,8 @@
       "stage": "Group Stage",
       "date": "2026-06-13",
       "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
+      "status": "happened",
+      "result": "Brazil 1–1 Morocco (draw — upset partially materialised)",
       "reasoning": "Morocco reached the 2022 World Cup semifinal. Brazil haven't won since 2002 and carry enormous psychological weight. This is the most high-profile group stage matchup of the tournament — 2022's most dramatic nation vs 2022's biggest disappointment. Morocco know how to beat anyone.",
       "keyFactors": [
         "Morocco beat Portugal, Spain, and Belgium in 2022 — Brazil is not invincible",
