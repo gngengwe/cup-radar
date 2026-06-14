@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-14T14:03:18.554Z",
+  "lastUpdated": "2026-06-14T16:21:48.758Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -487,7 +487,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 77,
+      "chapterCount": 81,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1104,6 +1104,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVV4ekJkaFVqUHV2SUczSGlxUUF5S1EwdFNTNHVWZWFOLTg5WC1FTWJ3bDVONlBJd0VtMDBrS29wYU51QmhDVFJGeFlUTENlalNtMFBWY3FMMURqbVlMM1h3Z2pOVFJfNGFkb2J1MUR3YXhSVm90UWhmZDhyN0tHU2NKdVBfWlF6UENaVUVuWDQ0RmlGQ2tmNU5jcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781454107741",
+          "date": "2026-06-14",
+          "title": "Here's how much Sounders can earn for players' World Cup participation - The Seattle Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXY3TXBUODBabno5VlluNVA4R05vSUw3NkVOUWU2UlMweUZxS2VfRVpsV09JYTZHa28zaXotNDlJcTZFX2h6a21wam1vaVotRkNQTENGRGZYMU1wUl9kaDY0eEZBMkg5YVJDNWM2U3AxVU9kVkhQM2dJTzZTOFowOHcyUzdZbV9rSldrcWZaSW5yVzVubTN6SENpT0J4YzlRZzBMTlJ2a3B3NzFHWW9XS2ZsVHZ0Mk4wVTM0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781454107741",
+          "date": "2026-06-14",
+          "title": "World Cup 2026 schedule, live updates: Germany vs. Curaçao opens Sunday's slate; Netherlands and Japan kick off in Dallas - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdWaVVhcE4yd3hUY1ZIajlUQ3NwMVZMTzV6YnZscVdzYWl6OG1UTWNfU2V0TDV5N1EyOEw3TmFWUTI0V05TV1JjTWhzYmpPbHdwN1JyQjlnQVZfLUJQM3NUaFlLWGtrTXBvWFd4Tk16ZlJRcWYzZGNuNXNoZFpYTW5QdHMwOG5PWFZQN3RHOHJxTHJDYjdwZnFoTktYc0hPYnl1MFRn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781454107741",
+          "date": "2026-06-14",
+          "title": "’Best Team Doesn’t Always Win’ — Cowboys Star Brandon Aubrey Makes Feelings Clear On USMNT’s Chances In World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HT0x6X3VySmpzQVprRkllbVJtLU83QmJPbkdlc0VGYlpEODJOeXBSWVFPZlI2eDJYVm1yVTVPS3c5TGMtVDRyMWttMjFTUnRkdENHNW1kT2ZnSXlZeHh2LTJtRGNLd1hqNDVNdFU5UHYweGxEZmcxLXRGU0dZUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781454107741",
+          "date": "2026-06-14",
+          "title": "Australia 2-0 Türkiye (Jun 14, 2026) Game Analysis - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zS2VucTF1eWFsYXJ1QWx3dkxVWXlfLTI0eE5jUF9GRjlCRDdsRFNBUnVDZlRTR1NHQk9KbXFiX1czZnBDUGNTLV9VR0ZQODlDV3pRZXkxbnpWVEp5MTU4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1122,7 +1154,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 74,
+      "chapterCount": 76,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1715,6 +1747,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWloeW5CWGl0bE9icGppdzI1dlVUYkpjZTdHOU5pUEpFR0JEclpHdXVZMHExRlJnX3FZUEl0R3Y5YlZnSEhpYmpZS3FIaW1oeXdWVElYRXdfNTlQS05Ub0FaZS1NVXhhRm1hZkczTjhtQTNpcWRQVVZtN253R3VLdjV3RlhtejZEcFFfYk4zekFwb1VGM0hzejFRUkpmX3M3N29leVNpM0ZpUTVTanJUMmpR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781454108259",
+          "date": "2026-06-14",
+          "title": "Netherlands vs Japan live: World Cup 2026 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWmlhNmUxN1plMDJPVmhDV3UzV01McVo4XzI3VjRvbzlRMDNIZE9obVBDajVSbldWM3ZkZllnbExnV0ljVjNLcGpWT2RvUmpUTFJfNTNqZkY3QUUxNy1RTE42VjltR2pqS1dKNkoxamdFTTlxUGlrYjI3ZWxuN3pnMXduSjJtbWdKZzRaWXNpbHhCRG1pcDlj0gGcAUFVX3lxTE0wUEc3M3NZVkVrLVhsX0J1MVpVRURZbmRaTEN2VnFUdzlwZ1h6UkQxTWxuS0NCckUwSDFlQnhxdXpyVGNvT1Y3WGxiV1BkMG5SRnZrMmRQNzlBZFNBWUdjNEJReTF3VmFUMFBHUUd6Y0QwR2s4dkMtWnYweDRhUEUxNi1STkhwZ2xoamhxeTFNeERac2staFdvTHA2UA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781454108259",
+          "date": "2026-06-14",
+          "title": "Teenage prodigy Bouaddi strides imperiously onto World Cup stage - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmhYMVd3LUh4OThqa1o5S2lsRzdCaXBJcjV4SlpVRUhxRFZuUlZjYW80bTRGTUVDWVY0TGd3NW00SWUwU2VfZnY1NjF2bDE5WmhleFFxb1pnY20zUF9vOU50dGVGUXF1eGRoU2FnZk9Sb2xQZ0NBWFR6RnFGZU5xZkFIVEFvdkRpenR4MkNIRnhrOTdsV3NTekZyNlNNem5hMXNCRWdBc1Vwb293SXp6YVhILUY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1816,7 +1864,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 81,
+      "chapterCount": 82,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2464,6 +2512,14 @@
           "title": "World Cup of Darts 2026 LIVE RESULTS: Littler & Humphries BEAT Clayton's Wales - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZURGLVRfdW5oYjNoV0pIN3MyeG1SenJfaDloRUFyVUJGdHIyYlhLX0RVUEZWbHI5cE9QMTdmNDAweE5TX2J5eVhtOEdRaEVESW1LQldUanJEVTk1Z2xFYzZuN1psSlVYb3hyZ293cm9pWlVLZWE0NXYxbnZJSU9MX1FmeGpPa0d4VFFnYl9Xc3pyRmNMc3YxbDFjVkgzLU9jQ0dmY3FR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781454108758",
+          "date": "2026-06-14",
+          "title": "Booze bans, beach crackdowns and curfews – the little known rules that England fans could fall foul of at World Cup - the-sun.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxd29BYng3UXVkLUp4MHdtZFJPN3JydHFHaWFVV3l0bGJTM0Rsay04WDVTcmViWDBPNmxMMEx2Q01QdjlGMjdMM01HN2JEVEF1bGZwQ0NqZDV5MVhteERqTW9fY1JlXzJtWEQ5VU45V1h2cnBlRWtVY1U1MA?oc=5",
           "draft": true
         }
       ]
