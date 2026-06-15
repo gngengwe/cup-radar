@@ -177,22 +177,77 @@ export function computeFinishBonus(phase, minute, stoppage, scoreDiff) {
 }
 
 /**
+ * Attack Pressure (V2) — shot/corner volume in the last 10 minutes, weighted
+ * toward the trailing team's share of it. Requires commentary `events` from
+ * normalizeEspnSoccerSummary; returns 0 without them (graceful degradation).
+ */
+export function computeAttackPressure(events, match, minute, homeScore, awayScore) {
+  if (!events?.length || minute == null) return 0;
+
+  const windowStart = minute - 10;
+  const recent = events.filter(ev =>
+    (ev.family === 'shot' || ev.family === 'corner') &&
+    ev.minute != null && ev.minute >= windowStart && ev.minute <= minute
+  );
+  if (recent.length === 0) return 0;
+
+  let pressure = clamp01(recent.length / 6);
+
+  const diff = homeScore - awayScore;
+  const trailingTeam = diff < 0 ? match?.homeTeam : diff > 0 ? match?.awayTeam : null;
+  if (trailingTeam) {
+    const trailingCount = recent.filter(ev => ev.teamName === trailingTeam).length;
+    pressure = clamp01(pressure + (trailingCount / 4) * 0.5);
+  }
+
+  return pressure;
+}
+
+/**
+ * Chaos Bonus (V2) — red cards, penalties and yellow-card pileups spike
+ * unpredictability. Requires commentary `events`; returns 0 without them.
+ */
+export function computeChaosBonus(events) {
+  if (!events?.length) return 0;
+
+  if (events.some(ev => ev.family === 'red-card')) return 1.0;
+  if (events.some(ev => ev.family === 'penalty')) return 0.6;
+
+  const yellows = events.filter(ev => ev.family === 'yellow-card').length;
+  if (yellows >= 3) return 0.4;
+  if (yellows >= 1) return 0.15;
+
+  return 0;
+}
+
+/**
  * Combines all components into a 0-100 excitement score + label.
  * `history` is an array of { homeScore, awayScore } snapshots for this
- * match, oldest first (see useMatchExcitement).
+ * match, oldest first (see useMatchExcitement). `summary` is the optional
+ * result of normalizeEspnSoccerSummary — when its `scoreTimeline` is
+ * non-empty it supersedes `history` for lead-swing detection (it covers the
+ * whole match, not just snapshots taken while polling).
  */
-export function computeMatchExcitement(match, espn, history = []) {
+export function computeMatchExcitement(match, espn, history = [], summary = {}) {
   const homeScore = espn?.homeScore ?? match?.homeScore ?? 0;
   const awayScore = espn?.awayScore ?? match?.awayScore ?? 0;
   const phase = getMatchPhase(espn);
   const { minute, stoppage } = parseClock(espn?.clock);
+
+  const events = summary?.events || [];
+  const scoreTimeline = summary?.scoreTimeline || [];
+  const leadHistory = scoreTimeline.length > 0
+    ? [{ homeScore: 0, awayScore: 0 }, ...scoreTimeline]
+    : history;
 
   const components = {
     scorePressure:    computeScorePressure(homeScore, awayScore),
     clockLeverage:    computeClockLeverage(phase, minute, stoppage),
     stageAndScenario: computeStageAndScenario(match),
     upsetPressure:    computeUpsetPressure(match, homeScore, awayScore),
-    leadSwingDrama:   computeLeadSwingDrama(history),
+    attackPressure:   computeAttackPressure(events, match, minute, homeScore, awayScore),
+    leadSwingDrama:   computeLeadSwingDrama(leadHistory),
+    chaosBonus:       computeChaosBonus(events),
     finishBonus:      computeFinishBonus(phase, minute, stoppage, Math.abs(homeScore - awayScore)),
   };
 
@@ -214,5 +269,7 @@ export function computeMatchExcitement(match, espn, history = []) {
     phase,
     minute,
     stoppage,
+    events,
+    scoreTimeline,
   };
 }

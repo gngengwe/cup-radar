@@ -11,7 +11,9 @@ import {
 import {
   GOAL_RIGHT_HERE_THRESHOLD,
   GOAL_RIGHT_HERE_SUSTAIN_TICKS,
+  UPSET_RANK_GAP_THRESHOLD,
 } from '../config/matchExcitementWeights';
+import teamStrength from '../data/team-strength.json';
 
 const ELIMINATION_STAGES = new Set([
   'Round of 32',
@@ -21,8 +23,52 @@ const ELIMINATION_STAGES = new Set([
   'Final',
 ]);
 
+const SIEGE_MODE_THRESHOLD = 0.6;
+const STOPPAGE_GOAL_MINUTE = 90;
+const COMEBACK_DEFICIT = 2;
+
 function byId(id) {
   return MATCH_BADGE_DEFINITIONS.find(b => b.id === id);
+}
+
+/**
+ * Returns true if the home side is the underdog (≥UPSET_RANK_GAP_THRESHOLD
+ * FIFA places below the away side), false if the away side is, or null if
+ * rankings are missing or the gap is below threshold.
+ */
+function isHomeUnderdog(match) {
+  const home = teamStrength[match.homeCode];
+  const away = teamStrength[match.awayCode];
+  if (!home || !away) return null;
+
+  const rankGap = Math.abs(home.fifaRanking - away.fifaRanking);
+  if (rankGap < UPSET_RANK_GAP_THRESHOLD) return null;
+
+  return home.fifaRanking > away.fifaRanking;
+}
+
+/**
+ * Detects whether either side overturned a 2+ goal deficit to draw level or
+ * win, using the commentary-derived scoreTimeline (oldest-first, no leading
+ * 0-0 entry).
+ */
+function hasComeback(scoreTimeline) {
+  if (!scoreTimeline?.length) return false;
+
+  const timeline = [{ homeScore: 0, awayScore: 0 }, ...scoreTimeline];
+  let maxHomeDeficit = 0;
+  let maxAwayDeficit = 0;
+  for (const snap of timeline) {
+    const diff = snap.homeScore - snap.awayScore;
+    if (-diff > maxHomeDeficit) maxHomeDeficit = -diff;
+    if (diff > maxAwayDeficit) maxAwayDeficit = diff;
+  }
+
+  const final = timeline[timeline.length - 1];
+  const finalDiff = final.homeScore - final.awayScore;
+  if (maxHomeDeficit >= COMEBACK_DEFICIT && finalDiff >= 0) return true;
+  if (maxAwayDeficit >= COMEBACK_DEFICIT && finalDiff <= 0) return true;
+  return false;
 }
 
 /**
@@ -37,7 +83,7 @@ function activeBadgeIds(match, espn, excitement, sustainTicks) {
 
   const homeScore = espn.homeScore ?? 0;
   const awayScore = espn.awayScore ?? 0;
-  const { phase, minute, stoppage, components, score } = excitement;
+  const { phase, minute, stoppage, components, score, events, scoreTimeline } = excitement;
   const isFinal = phase === 'finished';
 
   if (!isFinal) {
@@ -53,11 +99,42 @@ function activeBadgeIds(match, espn, excitement, sustainTicks) {
     if (diff === 1 && lateWindow) {
       ids.push('late-equalizer-watch');
     }
+
+    // Siege Mode — trailing team piling on shots/corners in a short window
+    if (homeScore !== awayScore && components.attackPressure >= SIEGE_MODE_THRESHOLD) {
+      ids.push('siege-mode');
+    }
   }
 
-  // Upset Alert — underdog finished level or ahead (or currently is, live)
+  // Stoppage-Time Stunner — a goal landed in the 90th minute or later
+  if (events?.some(ev => ev.family === 'goal' && (ev.minute ?? 0) >= STOPPAGE_GOAL_MINUTE)) {
+    ids.push('stoppage-time-stunner');
+  }
+
+  // Comeback Complete — a 2+ goal deficit was erased to level or win
+  if (hasComeback(scoreTimeline)) {
+    ids.push('comeback-complete');
+  }
+
+  // Red Card Chaos — a red (or second yellow) card was shown
+  if (events?.some(ev => ev.family === 'red-card')) {
+    ids.push('red-card-chaos');
+  }
+
+  // Penalty Drama — a penalty kick was awarded
+  if (events?.some(ev => ev.family === 'penalty')) {
+    ids.push('penalty-drama');
+  }
+
+  // Upset Alert / Giant Killers — underdog is/finished level (alert) or
+  // is/finished ahead (giant killers)
   if (components.upsetPressure > 0) {
-    ids.push('upset-alert');
+    const homeUnderdog = isHomeUnderdog(match);
+    if (homeUnderdog !== null) {
+      const diff = homeScore - awayScore;
+      const underdogDiff = homeUnderdog ? diff : -diff;
+      ids.push(underdogDiff > 0 ? 'giant-killers' : 'upset-alert');
+    }
   }
 
   // Win or Go Home — knockout stage where the loser is eliminated
@@ -65,10 +142,37 @@ function activeBadgeIds(match, espn, excitement, sustainTicks) {
     ids.push('win-or-go-home');
   }
 
-  // Extra Time — match went beyond regulation (live in ET/penalties, or
-  // finished having reached ET — ESPN keeps `period` >= 3 after full time)
-  if (phase === 'extra-time' || phase === 'penalties' || (isFinal && (espn.period ?? 0) >= 3)) {
+  // Shootout Thriller — match was/is decided on penalties
+  if (phase === 'penalties' || (isFinal && (espn.period ?? 0) >= 5)) {
+    ids.push('shootout-thriller');
+  } else if (phase === 'extra-time' || (isFinal && (espn.period ?? 0) >= 3)) {
+    // Extra Time — match went beyond regulation (but didn't reach penalties)
     ids.push('extra-time-drama');
+  }
+
+  if (isFinal) {
+    const total = homeScore + awayScore;
+    const diff = Math.abs(homeScore - awayScore);
+
+    // Goal Fest — 5+ goals across the match
+    if (total >= 5) ids.push('goal-fest');
+
+    // Demolition — won by 3+ goals
+    if (diff >= 3) ids.push('demolition');
+
+    // Statement Win — won by exactly two goals
+    if (diff === 2) ids.push('statement-win');
+
+    // Tight Finish — settled by a single goal
+    if (diff === 1) ids.push('tight-finish');
+
+    if (homeScore === 0 && awayScore === 0) {
+      // Stalemate — goalless draw
+      ids.push('stalemate');
+    } else if (diff === 0) {
+      // Share the Spoils — both teams scored and drew
+      ids.push('share-the-spoils');
+    }
   }
 
   return ids;

@@ -1,7 +1,16 @@
-// ─── Match Badges — MVP definitions ────────────────────────────────────────
+// ─── Match Badges ───────────────────────────────────────────────────────────
 // Adapted from game_right_here's config/badgeDefinitions.ts. Priority numbers
-// are preserved from the full 12-badge plan in MATCH_EXCITEMENT_ADAPTATION_PLAN.md
-// so the V2 (event-driven) badges can be slotted in later without renumbering.
+// 1-12 follow the 12-badge plan in MATCH_EXCITEMENT_ADAPTATION_PLAN.md (lower
+// = more important / shown first). Priorities 13+ are Cup Radar additions —
+// "final result" recap badges that need only the final score, so every
+// finished match gets at least one storyline badge even without ESPN
+// commentary data.
+//
+// MVP badges (score/clock/state only): goal-right-here, late-equalizer-watch,
+// upset-alert, win-or-go-home, extra-time-drama.
+// V2 badges (require normalizeEspnSoccerSummary commentary data):
+// stoppage-time-stunner, comeback-complete, giant-killers, red-card-chaos,
+// penalty-drama, siege-mode, shootout-thriller.
 
 export const MATCH_BADGE_DEFINITIONS = [
   {
@@ -25,14 +34,74 @@ export const MATCH_BADGE_DEFINITIONS = [
     explanation: 'A team is down by exactly one goal in the final 20 minutes (or stoppage time) — every chance now matters.',
   },
   {
+    id: 'stoppage-time-stunner',
+    name: 'Stoppage-Time Stunner',
+    category: 'drama',
+    priority: 3,
+    icon: '⏱️',
+    color: '#f5222d',
+    shortDescription: 'A goal landed in stoppage time',
+    explanation: 'A goal was scored in the 90th minute (or later) — the latest possible moment to change the result.',
+  },
+  {
+    id: 'comeback-complete',
+    name: 'Comeback Complete',
+    category: 'drama',
+    priority: 4,
+    icon: '🔄',
+    color: '#52c41a',
+    shortDescription: 'A team erased a 2-goal deficit',
+    explanation: 'A team that was trailing by 2 or more goals fought back to draw level or win.',
+  },
+  {
     id: 'upset-alert',
     name: 'Upset Alert',
     category: 'storyline',
     priority: 5,
     icon: '⚡',
     color: '#9254de',
-    shortDescription: 'The underdog is leading or level',
-    explanation: 'The lower-ranked team (by ≥15 FIFA places) is currently level or ahead.',
+    shortDescription: 'The underdog is level',
+    explanation: 'The lower-ranked team (by ≥15 FIFA places) is currently level — or finished level.',
+  },
+  {
+    id: 'giant-killers',
+    name: 'Giant Killers',
+    category: 'storyline',
+    priority: 6,
+    icon: '🗡️',
+    color: '#722ed1',
+    shortDescription: 'The underdog won',
+    explanation: 'The lower-ranked team (by ≥15 FIFA places) is ahead — or completed the upset with a win.',
+  },
+  {
+    id: 'red-card-chaos',
+    name: 'Red Card Chaos',
+    category: 'drama',
+    priority: 7,
+    icon: '🟥',
+    color: '#cf1322',
+    shortDescription: 'A red card changed the match',
+    explanation: 'A red card (or second yellow) reduced one side to 10 men.',
+  },
+  {
+    id: 'penalty-drama',
+    name: 'Penalty Drama',
+    category: 'drama',
+    priority: 8,
+    icon: '🎯',
+    color: '#fa8c16',
+    shortDescription: 'A penalty was awarded',
+    explanation: 'A penalty kick was awarded — scored, saved, or missed.',
+  },
+  {
+    id: 'siege-mode',
+    name: 'Siege Mode',
+    category: 'excitement',
+    priority: 9,
+    icon: '🌊',
+    color: '#13c2c2',
+    shortDescription: 'One side is pounding the door',
+    explanation: 'The trailing team has piled on shots and corners in a short window — a goal feels close.',
   },
   {
     id: 'win-or-go-home',
@@ -51,8 +120,78 @@ export const MATCH_BADGE_DEFINITIONS = [
     priority: 11,
     icon: '🥵',
     color: '#ff7a45',
-    shortDescription: 'The match has gone to extra time',
-    explanation: 'Regulation ended level in a knockout match — 30 more minutes (and maybe penalties) await.',
+    shortDescription: 'The match went to extra time',
+    explanation: 'Regulation ended level in a knockout match — 30 more minutes (and maybe penalties) were needed.',
+  },
+  {
+    id: 'shootout-thriller',
+    name: 'Shootout Thriller',
+    category: 'drama',
+    priority: 12,
+    icon: '🥅',
+    color: '#eb2f96',
+    shortDescription: 'Decided on penalties',
+    explanation: 'The match went all the way to a penalty shootout.',
+  },
+  {
+    id: 'goal-fest',
+    name: 'Goal Fest',
+    category: 'result',
+    priority: 13,
+    icon: '🎉',
+    color: '#52c41a',
+    shortDescription: 'A high-scoring thriller',
+    explanation: '5 or more goals were scored across the match.',
+  },
+  {
+    id: 'demolition',
+    name: 'Demolition',
+    category: 'result',
+    priority: 14,
+    icon: '💥',
+    color: '#fa541c',
+    shortDescription: 'A dominant, one-sided result',
+    explanation: 'One team won by 3 or more goals.',
+  },
+  {
+    id: 'tight-finish',
+    name: 'Tight Finish',
+    category: 'result',
+    priority: 15,
+    icon: '🤏',
+    color: '#fadb14',
+    shortDescription: 'Decided by a single goal',
+    explanation: 'The match was settled by a one-goal margin.',
+  },
+  {
+    id: 'stalemate',
+    name: 'Stalemate',
+    category: 'result',
+    priority: 16,
+    icon: '🔒',
+    color: '#8c8c8c',
+    shortDescription: 'Goalless draw',
+    explanation: 'Neither side found the net — a 0-0 draw.',
+  },
+  {
+    id: 'share-the-spoils',
+    name: 'Share the Spoils',
+    category: 'result',
+    priority: 17,
+    icon: '🤝',
+    color: '#40a9ff',
+    shortDescription: 'Both teams scored and drew',
+    explanation: 'The match ended level with both teams on the scoresheet.',
+  },
+  {
+    id: 'statement-win',
+    name: 'Statement Win',
+    category: 'result',
+    priority: 18,
+    icon: '💪',
+    color: '#36cfc9',
+    shortDescription: 'A clear, controlled victory',
+    explanation: 'One team won by exactly two goals — comfortable, but not a rout.',
   },
 ];
 

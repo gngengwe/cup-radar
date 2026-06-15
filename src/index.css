@@ -1768,6 +1768,9 @@ td .flag-img { margin-right: 4px; }
   .match-row__meta {
     justify-content: flex-start;
   }
+  .match-row__badges {
+    grid-column: auto;
+  }
 }
 
 @media (max-width: 480px) {
@@ -5152,6 +5155,14 @@ a.wcp-source-chip:hover { color: var(--text); }
   padding: 4px 11px;
 }
 .match-badge__icon { font-size: 13px; }
+
+.match-row__badges {
+  grid-column: 2;
+  min-width: 0;
+}
+.match-row__badges .match-badges {
+  justify-content: flex-start;
+}
 
 /* ═══════════════════════════════════════════════════════════
    KIT CARDS — jersey illustration

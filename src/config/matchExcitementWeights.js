@@ -1,17 +1,21 @@
-// ─── Match Excitement — MVP weights & thresholds ──────────────────────────
+// ─── Match Excitement — weights & thresholds ──────────────────────────────
 // Adapted from game_right_here's DEFAULT_EXCITEMENT_WEIGHTS / GAME_RIGHT_HERE
-// pattern. MVP uses only score/clock/state-driven signals (no commentary
-// feed yet) — attackPressure & chaosBonus are V2 additions once the ESPN
-// summary/commentary endpoint is wired in.
+// pattern. `attackPressure` and `chaosBonus` are V2 components driven by
+// ESPN's commentary feed (see normalizeEspnSoccerSummary.js) — they default
+// to 0 when no summary data is available, so matches without commentary
+// simply can't reach the top of the 1.00 raw-score range (graceful
+// degradation, matching MATCH_EXCITEMENT_ADAPTATION_PLAN.md).
 
 // Component weights — sum to 1.00
 export const MATCH_EXCITEMENT_WEIGHTS = {
-  scorePressure:    0.32,
-  clockLeverage:    0.24,
-  stageAndScenario: 0.15,
-  upsetPressure:    0.12,
-  leadSwingDrama:   0.11,
-  finishBonus:      0.06,
+  scorePressure:    0.26,
+  clockLeverage:    0.20,
+  stageAndScenario: 0.12,
+  upsetPressure:    0.10,
+  attackPressure:   0.12, // V2 — requires commentary-derived shot/corner events
+  leadSwingDrama:   0.09,
+  chaosBonus:       0.06, // V2 — requires commentary-derived card/penalty events
+  finishBonus:      0.05,
 };
 
 // Power curve applied to the weighted raw score (0-1) before scaling to 0-100.

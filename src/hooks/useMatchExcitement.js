@@ -23,7 +23,10 @@ function withFinalFallback(match, espn) {
   return espn;
 }
 
-export function useMatchExcitement(match, espn) {
+// `summary` is the optional result of normalizeEspnSoccerSummary
+// ({ events, scoreTimeline }) — V2 storyline data. Pass undefined/null if
+// unavailable; all V2 components and badges degrade to 0/inactive.
+export function useMatchExcitement(match, espn, summary) {
   const historyRef = useRef([]);
   const sustainRef = useRef(0);
 
@@ -39,7 +42,7 @@ export function useMatchExcitement(match, espn) {
     if (effectiveEspn.state === 'post') {
       historyRef.current = [];
       sustainRef.current = 0;
-      const excitement = computeMatchExcitement(match, effectiveEspn, []);
+      const excitement = computeMatchExcitement(match, effectiveEspn, [], summary);
       const badges = evaluateMatchBadges(match, effectiveEspn, excitement, 0);
       return { excitement, badges };
     }
@@ -51,7 +54,7 @@ export function useMatchExcitement(match, espn) {
       if (history.length > EXCITEMENT_HISTORY_CAP) history.shift();
     }
 
-    const excitement = computeMatchExcitement(match, effectiveEspn, history);
+    const excitement = computeMatchExcitement(match, effectiveEspn, history, summary);
 
     sustainRef.current = excitement.score >= GOAL_RIGHT_HERE_THRESHOLD
       ? sustainRef.current + 1
@@ -60,5 +63,5 @@ export function useMatchExcitement(match, espn) {
     const badges = evaluateMatchBadges(match, effectiveEspn, excitement, sustainRef.current);
 
     return { excitement, badges };
-  }, [match, effectiveEspn?.state, effectiveEspn?.clock, effectiveEspn?.period, effectiveEspn?.homeScore, effectiveEspn?.awayScore]);
+  }, [match, effectiveEspn?.state, effectiveEspn?.clock, effectiveEspn?.period, effectiveEspn?.homeScore, effectiveEspn?.awayScore, summary]);
 }

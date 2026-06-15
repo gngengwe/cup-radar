@@ -5,7 +5,8 @@ import FlagImg from '../components/FlagImg';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey } from '../utils/teamData';
 import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
-import { fetchEspnScoreboard, matchEspnStatus } from '../api/espnScoreboard';
+import { fetchEspnScoreboard, matchEspnStatus, matchEspnEventId, fetchEspnSummary } from '../api/espnScoreboard';
+import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary';
 import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from '../components/ExcitementMeter';
 import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
@@ -67,6 +68,7 @@ function MatchRow({ match, currentCity }) {
   const countdown = !isDone && !isLive ? daysUntilLabel(match.date) : null;
   const homeTag = CITY_TAGS.find(tag => match[tag.flag]);
   const currentCityTag = CITY_TAGS.find(tag => tag.id === currentCity && match[tag.flag]);
+  const { badges } = useMatchExcitement(match, null);
 
   return (
     <div className={`match-row${homeTag ? ` ${homeTag.id}` : ''}${isLive ? ' live' : ''}`}>
@@ -103,15 +105,16 @@ function MatchRow({ match, currentCity }) {
           {countdown && <span className="match-row__countdown">{countdown}</span>}
         </div>
       </div>
+      {isDone && <div className="match-row__badges"><MatchExcitementBadges badges={badges} /></div>}
     </div>
   );
 }
 
-function MatchDayCard({ match, espn }) {
+function MatchDayCard({ match, espn, summary }) {
   const countdown = liveCountdown(matchKickoffISO(match));
   const isLive     = espn?.state === 'in';
   const isFinished = espn?.state === 'post' || match.status === 'finished';
-  const { excitement, badges } = useMatchExcitement(match, espn);
+  const { excitement, badges } = useMatchExcitement(match, espn, summary);
 
   let status;
   if (espn?.state === 'post') {
@@ -187,6 +190,7 @@ export default function AllGames() {
   );
 
   const [espnByMatchId, setEspnByMatchId] = useState({});
+  const [summaryByMatchId, setSummaryByMatchId] = useState({});
 
   useEffect(() => {
     if (todayMatches.length === 0) return;
@@ -201,6 +205,20 @@ export default function AllGames() {
           next[match.id] = matchEspnStatus(events, match);
         }
         setEspnByMatchId(next);
+
+        // V2 storyline data — only fetch for live matches (30s cadence)
+        const liveMatches = todayMatches.filter(match => next[match.id]?.state === 'in');
+        for (const match of liveMatches) {
+          const eventId = matchEspnEventId(events, match);
+          if (!eventId) continue;
+          try {
+            const summary = await fetchEspnSummary(eventId);
+            if (cancelled) return;
+            setSummaryByMatchId(prev => ({ ...prev, [match.id]: normalizeEspnSoccerSummary(summary, match) }));
+          } catch {
+            // fail soft — excitement/badges fall back to MVP-only signals
+          }
+        }
       } catch {
         // fail soft — cards fall back to local match.status
       }
@@ -358,7 +376,7 @@ export default function AllGames() {
           </h3>
           <div className="allgames-matchday-grid">
             {todayMatches.map(match => (
-              <MatchDayCard key={match.id} match={match} espn={espnByMatchId[match.id]} />
+              <MatchDayCard key={match.id} match={match} espn={espnByMatchId[match.id]} summary={summaryByMatchId[match.id]} />
             ))}
           </div>
         </div>

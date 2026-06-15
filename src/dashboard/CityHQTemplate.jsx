@@ -6,7 +6,8 @@ import { AddAllToCalendar, AddMatchToGoogleCalendar, AddMatchToICS } from '../co
 import WeatherWidget from '../components/WeatherWidget';
 import FlagImg from '../components/FlagImg';
 import { daysUntilLabel, matchKickoffISO, liveCountdown } from '../utils/time';
-import { fetchEspnMatchStatus } from '../api/espnScoreboard';
+import { fetchEspnScoreboard, matchEspnStatus, matchEspnEventId, fetchEspnSummary } from '../api/espnScoreboard';
+import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary';
 import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from '../components/ExcitementMeter';
 import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
@@ -147,12 +148,33 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
 function MatchDayHero({ match, cityData }) {
   const [now, setNow] = useState(Date.now());
   const [espn, setEspn] = useState(null);
+  const [summary, setSummary] = useState(null);
 
   useEffect(() => {
     let cancelled = false;
-    const tick = () => {
+    const tick = async () => {
       setNow(Date.now());
-      fetchEspnMatchStatus(match).then(s => { if (!cancelled) setEspn(s); }).catch(() => {});
+      try {
+        const events = await fetchEspnScoreboard(match.date);
+        if (cancelled) return;
+        const status = matchEspnStatus(events, match);
+        setEspn(status);
+
+        // V2 storyline data — only fetch for live matches (30s cadence)
+        if (status?.state === 'in') {
+          const eventId = matchEspnEventId(events, match);
+          if (eventId) {
+            try {
+              const rawSummary = await fetchEspnSummary(eventId);
+              if (!cancelled) setSummary(normalizeEspnSoccerSummary(rawSummary, match));
+            } catch {
+              // fail soft — excitement/badges fall back to MVP-only signals
+            }
+          }
+        }
+      } catch {
+        // fail soft — hero falls back to local match.status
+      }
     };
     tick();
     const id = setInterval(tick, 30_000);
@@ -164,7 +186,7 @@ function MatchDayHero({ match, cityData }) {
   const countdown    = liveCountdown(matchKickoffISO(match));
   const isLive       = espn?.state === 'in';
   const isFinished   = espn?.state === 'post' || match.status === 'finished';
-  const { excitement, badges } = useMatchExcitement(match, espn);
+  const { excitement, badges } = useMatchExcitement(match, espn, summary);
 
   let status;
   if (espn?.state === 'post') {
