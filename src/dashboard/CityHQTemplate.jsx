@@ -66,19 +66,15 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
       </div>
 
       {/* ── Jersey matchup ── */}
-      {(getJersey(match.homeCode) || getJersey(match.awayCode)) && (
+      {(getJersey(match.homeCode) && getJersey(match.awayCode)) && (
         <div className="hq-jersey-matchup">
           <div className="hq-jersey-team">
-            {getJersey(match.homeCode)
-              ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={54} />
-              : <FlagImg emoji={match.homeFlag} size={28} />}
+            <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={54} />
             <span className="hq-jersey-team__name">{match.homeTeam}</span>
           </div>
           <span className="hq-jersey-vs">vs</span>
           <div className="hq-jersey-team">
-            {getJersey(match.awayCode)
-              ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={54} />
-              : <FlagImg emoji={match.awayFlag} size={28} />}
+            <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={54} />
             <span className="hq-jersey-team__name">{match.awayTeam}</span>
           </div>
         </div>
@@ -205,19 +201,15 @@ function MatchDayHero({ match, cityData }) {
     <div className="hq-matchday-hero">
       <div className="hq-matchday-hero__pill">🔴 Match Day</div>
       <div className="hq-matchday-hero__matchup">
-        {(getJersey(match.homeCode) || getJersey(match.awayCode)) ? (
+        {(getJersey(match.homeCode) && getJersey(match.awayCode)) ? (
           <>
             <div className="hq-jersey-team">
-              {getJersey(match.homeCode)
-                ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={64} />
-                : <FlagImg emoji={match.homeFlag} size={36} />}
+              <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={64} />
               <span className="hq-jersey-team__name">{match.homeTeam}</span>
             </div>
             <span className="hq-jersey-vs">vs</span>
             <div className="hq-jersey-team">
-              {getJersey(match.awayCode)
-                ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={64} />
-                : <FlagImg emoji={match.awayFlag} size={36} />}
+              <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={64} />
               <span className="hq-jersey-team__name">{match.awayTeam}</span>
             </div>
           </>

@@ -132,19 +132,15 @@ function MatchDayCard({ match, espn, summary }) {
   return (
     <div className={`allgames-matchday-card${isLive ? ' live' : ''}`}>
       <div className="allgames-matchday-card__matchup">
-        {(getJersey(match.homeCode) || getJersey(match.awayCode)) ? (
+        {(getJersey(match.homeCode) && getJersey(match.awayCode)) ? (
           <>
             <div className="hq-jersey-team">
-              {getJersey(match.homeCode)
-                ? <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={44} />
-                : <FlagImg emoji={match.homeFlag} size={24} />}
+              <JerseyDisplay colors={getJersey(match.homeCode).colors} pattern={getJersey(match.homeCode).pattern} size={44} />
               <span className="hq-jersey-team__name">{match.homeTeam}</span>
             </div>
             <span className="hq-jersey-vs">vs</span>
             <div className="hq-jersey-team">
-              {getJersey(match.awayCode)
-                ? <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={44} />
-                : <FlagImg emoji={match.awayFlag} size={24} />}
+              <JerseyDisplay colors={getJersey(match.awayCode).colors} pattern={getJersey(match.awayCode).pattern} size={44} />
               <span className="hq-jersey-team__name">{match.awayTeam}</span>
             </div>
           </>
