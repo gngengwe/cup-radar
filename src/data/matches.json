@@ -1271,9 +1271,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
       "atlantaMatch": true,
       "notes": "Spain vs Cape Verde — Group H at Mercedes-Benz Stadium"
     },
@@ -2001,5 +2001,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-15T04:18:26.651Z"
+  "lastUpdated": "2026-06-15T19:03:44.336Z"
 }
