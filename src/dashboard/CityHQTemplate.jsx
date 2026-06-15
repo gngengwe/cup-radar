@@ -11,7 +11,6 @@ import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary'
 import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from '../components/ExcitementMeter';
 import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
-import { GoalLog } from '../components/GoalLog';
 import ShareButton from '../components/ShareButton';
 import JerseyDisplay from '../components/JerseyDisplay';
 import { getJersey, getNickname } from '../utils/teamData';
@@ -231,7 +230,6 @@ function MatchDayHero({ match, cityData }) {
           <MatchExcitementBadges badges={badges} />
         </div>
       )}
-      {isFinished && <GoalLog match={match} />}
       <div className="hq-matchday-hero__meta">
         {match.time} {match.timezone} · {match.venue}
         {energyEntry && (
