@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-15T04:18:31.753Z",
+  "lastUpdated": "2026-06-15T12:14:45.368Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 29,
+      "chapterCount": 30,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -250,6 +250,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SOXFjYVVCQXNSMXhFbmlsdXZqVThqUkZIam5HbDB1VEkyTlljWmVibXgtRGZ0QzQwbDB2UHNza3BDM2pacndyUE1iY0tGX0ZLOUNPTVlYdU5HZFFob1NWUy1pOA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781525683385",
+          "date": "2026-06-15",
+          "title": "Argentina 2026 World Cup schedule: Who will Lionel Messi face in group? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEN5LWM3Tkl2TlpxQmZOOFo5cE54RDlGQVYwU3JYbS0wRmZ4WXR4ZUJmMzFocGpHTEg5Q3ZTbWlTSDRGZFhOejBXMF81czRJZmprWmY1Ym8wZ1phVHNvRzZWWmV1eW8ySXBNMF9LYk5rNWVCX2hRdUc2aXl1Q2dLMzYtcmZOd1RPaUwycktZMjZkVERBZHNNZWljaUZkcFMzVDZZbEU5al9DeEdJTXZmUTNzQTAtTGhOUTdoNjVhOTk2Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -268,7 +276,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 27,
+      "chapterCount": 28,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -485,6 +493,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemlKMkVsdHdIR1lyUzNvSFdDVDBiTWJpaXoxU0llcGNvUnNfYzFJUWVLUEdLSzZMYWRvVll3VEtmckMyNU9aOG9xTFVYZmZBQU5IYTBRR2V5MzZtZXVTWk9HaUFLY19PTzF4ekVfVlNYR280R2xfcUU5eDBaTlpwbGEzRC0yOHczdFE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781525683900",
+          "date": "2026-06-15",
+          "title": "France 2026 World Cup schedule: Who will Les Bleus face in group? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYU5vM3lZcFBLOVJpSU8xN0V2V1lodjZxQThPTExvc3FrYmdScXJzR2g2RVIwNEhqWVhsUy1fNFJoOUk1aU1NcE8yQkw1V3lyemJuOTREd2o0TU9VODBIaWptUnhJUTZnUkhsSlpBaHFPWWVDRDNXVDYtbjV2TG1GU1hfZzJUeldzRHpaUmc0aVdTZ1J1UXIwS25PbEZqR3Uwb0pBN2U2Y21sdVRwZklPRlg1NGxSUElBTzZZZHlzazRFSjBZaU1FTE9zZk4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -503,7 +519,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 89,
+      "chapterCount": 92,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1216,6 +1232,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNMd3dqQWdraTllRTZEUmhiSnJlSkE1NXJOWDhjdWN6MVpVTEQzNjlhc2MzYURCS0NjRndKWWtpTVI5WlRIQmRCdFdQNGU3M1RlMjVtYU1IMVBlOFBDRVlkblhxU25vY0tmX00xSTMwOEprbWNTV0dIOVMtdHFmTHlGc9IBgwFBVV95cUxOeGt2d3o4T0VSM2lJV0dSZDUzUHJITEp5SmFKTW1SdXNHOEU0OHNwSTdiOTZJc0tnNGpTWGlZVDV0N2NOR1NKTHdrRk1oZXBPaDlOT2R4Ukx4WHFBNWFNTFhzVXFteWt4OXUybV9hN1pWQm1iQ0dGMFMzNWdBblh6eUFvYw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781525684406",
+          "date": "2026-06-15",
+          "title": "It's been a thrilling start to the World Cup. Here are the highlights and what's next - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGQ4RFRpNjVManVoajJPVnBaWDl2S1pNdzRsWkFuZEpwNGg4SWVHdEtFMXplZ2pQU19Ycnp3Q1ZFTjNUelczMkFSLVJSeUdPa2ZOWm5MRlFrN2E2dGJxZnpZQVBVRmxZSmM4bEwxYVBMS25TX04xMUFHRFIzbW8zUGg5WWs1Smh1UHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781525684406",
+          "date": "2026-06-15",
+          "title": "Why are the USA and other World Cup teams kicking the ball straight out of play at kick-off? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbklDX3E0WDdtcW9RRGpzUDRYQXpUZjRvWmY5T2daSzQ3LUZWQktTaFJpMV9Ib0V4WTZTX3ktZHpzWURiS01TNFYzRkdPdm1SblVXcDRUQ2VoTUFZSlNZTnRCLUhFZmNONFBDU21fSG1MaklrLWJpV1NhSzRGYi01SGVKTDU0bzdYNUJ3UA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781525684406",
+          "date": "2026-06-15",
+          "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjI2RmstSjktUUZmZTZWM1RraUR3bE94NkNLV0I3blBHenZBUllUUGctWXFtdlRfeWRRbVNobG5NLUgxRUlJUE1OZnc5cVJpdjM4YlQ2d3pPLWVhcTFIelVxOHRheW5Odm1Tem1CLV9zQnd0blo0THB6S3FhUF9nQ041WkhIbzI0blFCZHl2LWRfUHI4a0J5Qnd1aG5pYURNc0U0bkQ0MzhuOWVYUm12M3d4bi1FVzByRjlCalZrV3lLaXN0WXNBX2VuZzhHVGFjX1Y1XzNzZTNEMmY5aUhqYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1234,7 +1274,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 84,
+      "chapterCount": 88,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -1907,6 +1947,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGEwS1UzZFk1VlNHR1d4bGNrc1pfWmU1TG5CYk1ac1B5U2V3VWlOUjJSdlpkcXgzR294aEF3U1RrU2JFTWRsay10VUFYQTVjNHV2U2dOeUJ0azdSMnVEenhCQkQ4ZDV0RUFjV2xVTlBzTkZHcDA2aGtLT3gzY25wLVFaNmdpcU5jck5jaFMwWl8xdGYzVmZGN1BCa0pfUE12NU9TT19vXzFwaEZYeVNYYWQ1cUNtYWFIUV9tUWhMLXZlVHhRTjVmNUJYTEVRUVdPd0lXQ0EwLTlQbkQ5Mzg4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781525684884",
+          "date": "2026-06-14",
+          "title": "Morocco expose Brazil flaws but settle for draw in World Cup heavyweight clash - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXVMY2swTnFXenNfMGM0NU93V0VxV3RqVDhmRTY1OU9UbWZkX19fYzhtaFBkTWo4YVZ1dnYwVFVJc0RjV01ZU0VhVGgycFpVMUY0MDY1a2lmU1kyT2x1ODFrOVE0V3MzQ3NndzhrU2N1aFZmeGIwS1J5WVpWRnlOdTRlcXEtZ2tabjcxSnJYXzFzcTAtOHRQVThYQWh2c2dmT182QzNsLWNHQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781525684884",
+          "date": "2026-06-15",
+          "title": "Fifa World Cup 2026: How worried should Scotland be about Morocco? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QN2tKT1J3OE5sYnVLZ1BzdDBjX3FBS09uTzdULVc3VWt4aWE5eHVENnhRdUcza29EZ3J3R3lReWpHczlmRE9pTDVwVFJEMFpDT1FDcVJJTTZfMUNxbEtkU2JQX2EwOGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781525684884",
+          "date": "2026-06-15",
+          "title": "World Cup 2026 schedule: How to watch every match for free - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ091aUwydVNYVVluZjlfdW9RYTVYd3l2VzU4eEk0TEpQZW1vcloyNGpZcVp1WDlqTGI3VHYwTFVzSlFjNGN2VjR0V3pjaDRzN2xDTjROd0VlRUQza1lteXlHLW9IVFgxV01PdE1NeEJOemlMaXlDenc2WlQzaTd0bkFXS3B1dUxjU0xaTTB4Qk5QelJ4Uk9zZjhLWFY3dVl5cDAyRGp2M1FfNmpGSjlSWklR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781525684884",
+          "date": "2026-06-14",
+          "title": "Best World Cup photos from Day 3 - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yS09RaXowcTdzMXF6NFV2eEZybklkbEN5b3dNcWFVaEhVYjNJQmJrYUUwTFNOOE5IMnJEd3ZkRVlkOUZtLXZGZ3FaTjV4cnVEUC1vV0RjbHh5RmVGanhMd1NYeExYdzBwTjh3X19GNUxwNkVIcGdEVlNEclc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2008,7 +2080,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 90,
+      "chapterCount": 93,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2728,6 +2800,30 @@
           "title": "‘We all love him’: Henderson says Bellingham can be England’s X-factor - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjktd044cktQNWlIbXZVWm90S2k2UHk0UVNXSGRkSEM5WnltR1lvdmJDZHROMTNUanRoaFZsOFlONGVFSGNaT0d1djRaTExVMjB6bExEN0tjd1cyTDZfb19Wam55YXRUZl85M2xzd01IV24tUVotd1pQVDBaSV9wMTV2eG9uRmhPZHl4ZTJHOHhTTWNCRTM3Nmh4TnhaVzQ0a0tvc2g3cjNQMmJ0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781525685368",
+          "date": "2026-06-15",
+          "title": "World Cup 2026 LIVE: Fifa blamed after squad’s arrival to US delayed and Iran prepare for controversial opener - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT25mMFMzXy1GY2l1Um5ySFQ0QkxJNDhLeDc0TlJwNG9Rdk5GaVprSnpoaGNuX0VoblMxemZmdnNfbkd6dDBMNmJHN3dna1NmMEVKNmoxcjBsZjBrRFV2QnJOY0FMbFd0MzQ4emRMcE9BWUZXRjFGX0dpN2RySzRDNTA3a19JUHNiQ2Q0RmVYU2IwMzN6TTY4aXNwUWdrSTBjem9CVU9Nc2F3Zl9TOUpteEdVNmRrNkk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781525685368",
+          "date": "2026-06-15",
+          "title": "World Cup 2026: Why are all the players in pink boots? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dFdWU3NFZUJYd3JSc3AwakpqMmlGMzdNenJUODVHVHRMazh2aV9lMEtPXy15Qzk3SFBWa1Y1aEFTdXdXUEExTVpQMEkzWm9TR2t1NnlNNmlxc0hXOHNqSGp1dEs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781525685368",
+          "date": "2026-06-15",
+          "title": "England World Cup Preview: Harry Kane eager to end country’s 60-year championship drought - New York Daily News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzZzblV0WnFBeWs3ekNhcEd6LVQ5WU5oQWFNTXRvYmktN1ZCZ2x4VkFlNF80LUlOTGY2ZWZHX2lpT1hqVVJhSEI3RnlkbExZM0JQT2VtWmpUUkVvcFBkaVFtYlRWVl9QY0JCNzd6ZEQ3OVVJaGJxX1Y3VVFfRkNxbmNvWkQtVkliMnZzeQ?oc=5",
           "draft": true
         }
       ]
