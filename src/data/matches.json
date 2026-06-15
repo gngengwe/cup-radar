@@ -21,6 +21,10 @@
       "status": "finished",
       "homeScore": 2,
       "awayScore": 0,
+      "goals": [
+        { "minute": 18, "team": "home", "player": "Raul Jimenez" },
+        { "minute": 73, "team": "home", "player": "Santiago Gimenez" }
+      ],
       "seattleMatch": false,
       "notes": "Tournament opening match — Mexico City"
     },
@@ -44,6 +48,13 @@
       "status": "finished",
       "homeScore": 4,
       "awayScore": 1,
+      "goals": [
+        { "minute": 12, "team": "home", "player": "Christian Pulisic" },
+        { "minute": 29, "team": "away", "player": "Antonio Sanabria" },
+        { "minute": 41, "team": "home", "player": "Ricardo Pepi" },
+        { "minute": 63, "team": "home", "player": "Giovanni Reyna" },
+        { "minute": 88, "team": "home", "player": "Ricardo Pepi" }
+      ],
       "seattleMatch": false,
       "laMatch": true,
       "notes": "USA group stage opener"
@@ -546,6 +557,11 @@
       "status": "finished",
       "homeScore": 2,
       "awayScore": 1,
+      "goals": [
+        { "minute": 15, "team": "away", "player": "Patrik Schick" },
+        { "minute": 52, "team": "home", "player": "Heungmin Son" },
+        { "minute": "90+2", "team": "home", "player": "Jaesung Lee" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -669,6 +685,10 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
+      "goals": [
+        { "minute": 34, "team": "home", "player": "Jonathan David" },
+        { "minute": 77, "team": "away", "player": "Mladen Jurkas" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -693,6 +713,10 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
+      "goals": [
+        { "minute": 22, "team": "away", "player": "Breel Embolo" },
+        { "minute": 81, "team": "home", "player": "Akram Afif" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group B simultaneous",
@@ -718,6 +742,10 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
+      "goals": [
+        { "minute": 9, "team": "away", "player": "Brahim Diaz" },
+        { "minute": 56, "team": "home", "player": "Vinicius Junior" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group C Matchday 1",
@@ -743,6 +771,9 @@
       "status": "finished",
       "homeScore": 0,
       "awayScore": 1,
+      "goals": [
+        { "minute": 64, "team": "away", "player": "Che Adams" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Scotland's World Cup return — first time since 1998"
@@ -915,6 +946,16 @@
       "status": "finished",
       "homeScore": 7,
       "awayScore": 1,
+      "goals": [
+        { "minute": 8, "team": "home", "player": "Florian Wirtz" },
+        { "minute": 21, "team": "home", "player": "Jamal Musiala" },
+        { "minute": 34, "team": "home", "player": "Kai Havertz" },
+        { "minute": 39, "team": "home", "player": "Kai Havertz" },
+        { "minute": 58, "team": "home", "player": "Leroy Sane" },
+        { "minute": 67, "team": "home", "player": "Nick Woltemade" },
+        { "minute": 74, "team": "away", "player": "Juergen Locadia" },
+        { "minute": 82, "team": "home", "player": "Deniz Undav" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -991,6 +1032,12 @@
       "status": "finished",
       "homeScore": 2,
       "awayScore": 2,
+      "goals": [
+        { "minute": 11, "team": "home", "player": "Cody Gakpo" },
+        { "minute": 37, "team": "away", "player": "Takefusa Kubo" },
+        { "minute": 69, "team": "home", "player": "Memphis Depay" },
+        { "minute": "90+1", "team": "away", "player": "Ritsu Doan" }
+      ],
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "2022 R16 rematch — now group stage"
@@ -1458,6 +1505,10 @@
       "status": "finished",
       "homeScore": 2,
       "awayScore": 0,
+      "goals": [
+        { "minute": 28, "team": "home", "player": "Mathew Leckie" },
+        { "minute": 71, "team": "home", "player": "Awer Mabil" }
+      ],
       "vancouverMatch": true,
       "notes": "Australia vs Turkey — Group D at BC Place"
     },
