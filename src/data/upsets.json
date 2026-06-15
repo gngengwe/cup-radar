@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-14T04:06:06.855Z",
+  "lastUpdated": "2026-06-15T23:03:08.951Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -43,8 +43,8 @@
       "stage": "Group Stage",
       "date": "2026-06-15",
       "riskScore": 4,
-      "status": "upcoming",
-      "result": null,
+      "status": "happened",
+      "result": "Belgium 1–1 Egypt (draw — upset partially materialised)",
       "reasoning": "Belgium are favorites, but Mo Salah in his final World Cup is one of the world's most dangerous attackers. Belgium's golden generation is aging. Egypt are organized defensively and lethal on the break. June 15 at Lumen Field could be one of the biggest shocks of the group stage.",
       "keyFactors": [
         "Mo Salah's last World Cup — expect maximum motivation",

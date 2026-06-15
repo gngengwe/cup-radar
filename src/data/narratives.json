@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-15T19:03:50.614Z",
+  "lastUpdated": "2026-06-15T23:03:11.939Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 30,
+      "chapterCount": 31,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -258,6 +258,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEN5LWM3Tkl2TlpxQmZOOFo5cE54RDlGQVYwU3JYbS0wRmZ4WXR4ZUJmMzFocGpHTEg5Q3ZTbWlTSDRGZFhOejBXMF81czRJZmprWmY1Ym8wZ1phVHNvRzZWWmV1eW8ySXBNMF9LYk5rNWVCX2hRdUc2aXl1Q2dLMzYtcmZOd1RPaUwycktZMjZkVERBZHNNZWljaUZkcFMzVDZZbEU5al9DeEdJTXZmUTNzQTAtTGhOUTdoNjVhOTk2Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781564589598",
+          "date": "2026-06-15",
+          "title": "Messi and Argentina make their 2026 World Cup debut Tuesday, shop last-minute tickets - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdEhSVW8yS2FuX1llTnlYU3lrTzBSMmJfeTFIQUxIZ0pRenZZMG5lU1J2RXB6cy1HY2FId3U0R1R1aWRIOGdvRzdybVgwSWQwcllJOXd0NjZ3dUFFODE1UjU1MHVEMkxwc1pLbEltUVNURV9fSHJabXFmS09hZWhReWFQMTFLUE85WFoxT3BMQzNtZ3lzSlBEcml0c2c1LUtKZmtVNjVSU1J0S243c3puYVhwNjRObVJtLXdUTzIzTDZBOVhNeFowRnBlYkg3d09MTkZubGt5aEZ1UQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -276,7 +284,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 29,
+      "chapterCount": 30,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -509,6 +517,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lVWNBTkF2emdQano0N0ZBOTE2ZHBvY2k2T19qdkNoeEJrbE1mMDJLRmMybFFxYXFTMXhkV08tMk5DSWlBb3lsdl9fdnVGSm1FNk4zekQtX0VtNDN3RXFqdmVLaEgwSTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781564590145",
+          "date": "2026-06-15",
+          "title": "France vs Senegal: World Cup 2026 – Mbappe, teams, lineups, start, Dembele - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEVmZXQtcFl6eEZ2aTZuaVV5S2s5X3NjSVJMZG9Qclg2OEZ5OC1mc3NoTG9mMF8zWTl5NEE4SUFpUHpjc2tlMF9JTEg4eEU5MFZDbzdqczhybERZTWR1NDY2bGVfNU1XSzE2eThGSHNzTm5qRFRid3FUSC1WYW42TmM1dkR1ZDE0XzVmckQ0NDItQ19wZzZtWUlNcl9jTlczSlhEcGxoNnoyTTlXVkF30gG0AUFVX3lxTE1iQmlhdnVMMGl0U3Y0X0hxUDdQSmpGZXphQV9TS3FzanpLLXRFVUFIZmhWR0FyYnZ6YUZadFE3QkFVMGxSVWx5dmNnLXlnTHNXbjZMcW1ENlVyN1psVURFY282dGY0MDFKWDBDRVRpYWlqYl93eHBCMWs0aFhXRExXYllaX3VDUm5obHdmXzlTdHYxRmtGRlJka1ZRekhfeFVRMUE4anBqNE9fb2U3QmlSSXFlYQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -527,7 +543,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 95,
+      "chapterCount": 98,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1288,6 +1304,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMFV0TjNfNTVNbkd1SGxmWDZWS0JscnhBSkRFYmNtNmh1Ym5jWlEzMVpucVZoYUYzQTMzU0l5SlJ4U3A5LVJhTjMxMXhLcnhjV2tLdVY5TERlT2pXbnJHOC00aElVVXJmSDVZTDk5anphT2o2VldsVHcxOG5xUjBNVDBGRjZGanY4a3JRMXFfek5iVmotTVRKVXJJYmdXbm5jTzUtNThJY3NRQzBCcXY0TC00MUprT214bFNUT2Y3X3FKS0tVWnZtWmZoYVdBbENISHIzVjZ4Y01jN0lsSVlWYThFaVFuT1ZBUW00S3F2NTVvUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781564590709",
+          "date": "2026-06-15",
+          "title": "U.S. has some of the best players in the world. They just aren’t playing in the 2026 World Cup - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzVCQ0t0UEQzNFBEb1o3Mnd3N3dicm11WnNUWGM2S0ZtWkVhc3N3bUJKaTUyNXN5ZDhiS3JaWkRhNlhqeUYySWN6bFpuQVRWQ0tJbnhvRGY3RHFoZDFmcFFkbTNLRFNva2d6NUU0c1ZIN1U3b0Rlc1RlWFR3cHozcHNLX3Q2MDZZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781564590709",
+          "date": "2026-06-15",
+          "title": "HISTORIC DRAW 🚨 FIFA World Cup Now reacts to SHOCKING Spain-Cape Verde scoreless draw ⚽️ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GMC04Z29qUFVnNi13X3FsX04zV0RkOGQ2LXA5SC1ueF9NNnBKYWp1TkxWY0ZFQ3ZaMFB4Y0hHR01oeGU2b1NVTG11NWxXRXRqSzZjaXlHeG9fdENGQXZiSlln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781564590709",
+          "date": "2026-06-15",
+          "title": "How sourdough bread helped Lapstone & Hammer's U.S. Soccer World Cup collaboration apparel line - CBS News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0d5M25nQjlxWDdNUjVJWDRrLWx0eGo1eWVLV2M1enVYdTFhRXFjeXY3Y3BRODg5QURwdldoT3N2bV9NbzJwY3p4dzk2OVlQaFllTkpEVkMxRGlJaEZKVVJkZlBfX3lHRkp4QjdOSEpPMDdHcXljVGpPUF9nS1BnN2I5OXJCem96Z0ctUlZITU0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1306,7 +1346,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 93,
+      "chapterCount": 96,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2051,6 +2091,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1heWdsZTBOSGN1b0Z1V21GaXpLeHRJRks1VzBBMXNMbFBDeG1lWXd3VGMybXNYS3d3aTRTbkZaZE1sbjAxVURPZzlBWHdXOGJOeU5RazhBSWhHRGdFd2ZrUUg1eGxFcmc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781564591401",
+          "date": "2026-06-14",
+          "title": "FIFA World Cup 2026 stats: Brazil's 21, Qatar's first, Irankunda Australia's youngest - espn.in",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUndob2w5bnZlemVJdmZZYkR2ZzJ0cXM0eUlxcUJFSy1LY2RxRlhIa1Q3aWNxd3hJUlBsYlZBY0xzc0RaX2RjR21BQ0tpNWVZNVA1ZnJKUzZyWG1TX1Nzb1JZYjlPci14bFgwalJ4X3JHMVdKRXBtQmRjNXFySUthaEpCVE5ZVXR1eG13TzBVdUltQmZ2SFJVUFpIalZlMW95bEwwOGt3cU5uaExjU3R5cnNfdWtoWHFJN28wS3NfcThMeTdTcVlTM09SWU5NUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781564591401",
+          "date": "2026-06-15",
+          "title": "Brazil Prepared to Keep Neymar Sidelined for Group Matches to Prevent Re-Injury - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcE11QjJBWnJLZGNKRDBCa29YTXJQa2VjcDNzOGdVcHctUGNZNzY1WFVvWFNvQ3lGZXJsNE1mb0ZWWkJjYWpkZThKWEJYcFQ2TndCaWhrdWhLYTdzZ2UwOFh4ZURmOFMya0MtLWRRRzUzdUlSRHMyRzIyLUU1ZmJNRlBvbFk5b3NyMGEwOXlrTGhFa0tWaEFFZ2l3cjZyZEVqMnVpeGtpZE84azljNi1z0gGvAUFVX3lxTE1BMUUxMzJBOFM2b1R1ekkxN3l5OWsySmR1ZFhvV0dUSHVpVnBvWlVyOWdiQW5GNTFzS2loRGVVNG9sYnMxNTFBUF9MY0Zfb1E4T3R6bld3RXQ4UDYzY1RhS2FfRWZ2V2FIdFo4dUM1bXhyblNXUThlcllfM0JsNnNabnY0T2Y2VWFaVTZEam5naTJlTnlYS0VuOUNvNk9PeXgwSUZfdVdzdkVXdXZ0dEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781564591401",
+          "date": "2026-06-15",
+          "title": "Ronaldo says Carlo Ancelotti is using Raphinha wrong as Brazil legend questions decisions in 'nervous' World Cup draw against Morocco - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaU5lS3RrM0x2WGFhVXNwVnZ0cGVjMzhCaEU1YnVXanpoR0daWnBMYmtMTUZMSWNTSWlvVGpySFIybnJZTHZMNkVfSS1QNzBFckhKcFNqQThFdnlvY2JWSTdhRG56aWh3MGl1c2loVkhwY0NuWW9uMHFRallXMHFOR2otWjFOLXlfNWE2RkpUVEdQT3MxMWJnVnhmYzl3SDRKSDEyS1ZuSjExLVRHejJvRzJrZnh6TUk0YkNwbTZEMk16VUFPV1JmRUxtNWRFaVlIRzBYZ2ppYnI5QQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2152,7 +2216,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 96,
+      "chapterCount": 99,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -2920,6 +2984,30 @@
           "title": "World Cup Group L odds for 2026: Latest standings and rankings - AL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzUkdKSEtOaGUzMDRQcWlSNjFuMXZXZHNNSThTUEtER1BUenZuWF9XWGdWbU1qM3l1LW5hNDV2ejNDbWdaRE0yOW54dUg3di1LakdjYmNYMVljT3VlUVlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781564591939",
+          "date": "2026-06-15",
+          "title": "World Cup 2026: Bukayo Saka says he is ready to gamble with his fitness for England - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSDBaRzlFZl9RUXN5THFlWlJZYmthTnppdlZ3eDhZY1BSQkduVkkzRm91czFMcFZndmk4SEw4dkZNRU11WXRvYWhjZXNNd2hheXVYQndDWldhT3ZqYlBFUjJ5emtld1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781564591939",
+          "date": "2026-06-15",
+          "title": "SunSport's World Cup psychic armadillo reveals exactly how England will get on - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWFqQUtrMmc4c0laajFrZkt6bTIxRjVfYk5kRzBfVl9YdnJoVkxYLUZ0enoxdERIb0tucGFvOFowSGxvbld6MUdiaDJDQnpYaUhfaGxqWHBQMF9qYmxvVlppYXVISVdfQzhiTG1xWDF4blk1QXFsWTVpWk1rLWRUWi1RUmZudGdlbkxGM09jWjlDRXVkbVZB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781564591939",
+          "date": "2026-06-15",
+          "title": "World Cup 2026: Belgium vs Egypt - Hossam Hassan demonstrates 'hug' with official - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WX3BDOWFWc1FWWlNDbmk2Zl9IQ1AzaFVVVERpR3I5VFYxR1Z4WUVtMjhwMUo0dlIzWnZkbVNnMDJOUXRMWVdxTU05c3YwMllGWXpFMFU2bmM2a0lUeUM0Sm5hejQ?oc=5",
           "draft": true
         }
       ]

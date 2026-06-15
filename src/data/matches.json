@@ -65,9 +65,9 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
       "seattleMatch": true,
       "notes": "Belgium vs Egypt — Group G at Lumen Field"
     },
@@ -253,9 +253,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": false,
       "notes": "Group H Matchday 1",
       "miamiMatch": true,
@@ -667,8 +667,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": null,
+      "awayScore": null,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -2001,5 +2001,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-15T19:03:44.336Z"
+  "lastUpdated": "2026-06-15T23:03:05.582Z"
 }
