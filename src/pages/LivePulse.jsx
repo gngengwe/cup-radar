@@ -286,39 +286,31 @@ export default function LivePulse() {
   const [espnMap,    setEspnMap]    = useState({});
   const [summaryMap, setSummaryMap] = useState({});
   const [exMap,      setExMap]      = useState({});
-  const [notifLog,   setNotifLog]   = useState([]);
-  const [toast,      setToast]      = useState(null);
+  const [notifLog,   setNotifLog]   = useState([]);   // all fired, newest first
+  const [toastStack, setToastStack] = useState([]);   // persistent stack — no auto-dismiss
   const [lastPoll,   setLastPoll]   = useState(null);
   const [pollCount,  setPollCount]  = useState(0);
   const [adminOpen,  setAdminOpen]  = useState(false);
 
-  const toastQueueRef = useRef([]);
-  const isShowingRef  = useRef(false);
-  const showNextRef   = useRef(null);
-  const guardsRef     = useRef({});
-  const [, tick_]     = useState(0);
+  const guardsRef = useRef({});
+  const [, tick_] = useState(0);
 
   useEffect(() => {
     const id = setInterval(() => tick_(n => n + 1), 15_000);
     return () => clearInterval(id);
   }, []);
 
-  // ── Toast queue ────────────────────────────────────────────────────────────
-  showNextRef.current = () => {
-    if (!toastQueueRef.current.length) { setToast(null); isShowingRef.current = false; return; }
-    const next = toastQueueRef.current.shift();
-    setToast(next);
-    isShowingRef.current = true;
-    setTimeout(() => showNextRef.current(), next.type === 'post' ? 7000 : 6000);
-  };
-
+  // ── Persistent toast stack — cards stay until manually dismissed ───────────
   function pushToasts(notifs) {
-    toastQueueRef.current.push(...[...notifs].sort((a, b) => b.priority - a.priority));
-    if (toastQueueRef.current.length > 5) {
-      toastQueueRef.current.sort((a, b) => b.priority - a.priority);
-      toastQueueRef.current.length = 5;
-    }
-    if (!isShowingRef.current) showNextRef.current();
+    // Newest at top; cap at 8 visible cards (oldest drop off)
+    setToastStack(prev => {
+      const next = [...notifs.slice().reverse(), ...prev];
+      return next.slice(0, 8);
+    });
+  }
+
+  function dismissToast(id) {
+    setToastStack(prev => prev.filter(t => t.id !== id));
   }
 
   // ── ESPN polling loop ──────────────────────────────────────────────────────
@@ -391,7 +383,8 @@ export default function LivePulse() {
         setExMap(nextEx);
 
         if (newNotifs.length) {
-          setNotifLog(prev => [...newNotifs.slice().reverse(), ...prev]);
+          const reversed = newNotifs.slice().reverse();
+          setNotifLog(prev => [...reversed, ...prev]);
           pushToasts(newNotifs);
         }
       } catch { /* fail soft */ }
@@ -561,103 +554,114 @@ export default function LivePulse() {
         </section>
       </div>
 
-      {/* ── Admin Panel ─────────────────────────────────────────────────────── */}
+      {/* ── Admin Panel — live match only ───────────────────────────────────── */}
       <div className="pulse-admin" style={{ maxWidth: 1100, margin: '24px auto 0', padding: '0 24px' }}>
         <button className="pulse-admin__toggle" onClick={() => setAdminOpen(o => !o)}>
-          {adminOpen ? '▾' : '▸'} Admin — raw ESPN data &amp; trigger state
+          {adminOpen ? '▾' : '▸'} Admin — raw data for current game
         </button>
 
-        {adminOpen && (
-          <div className="pulse-admin__grid">
-            {todayMatches.map(m => {
-              const espn    = espnMap[m.id];
-              const summary = summaryMap[m.id];
-              const ex      = exMap[m.id];
-              const stats   = summary?.stats;
-              const guard   = guardsRef.current[m.id];
+        {adminOpen && (() => {
+          // Only show the currently live match; fall back to most recently active
+          const liveMatch = todayMatches.find(m => espnMap[m.id]?.state === 'in')
+            ?? todayMatches.find(m => espnMap[m.id]?.state === 'post')
+            ?? todayMatches[0];
+          if (!liveMatch) return <p className="pulse-admin__null">No match data yet.</p>;
 
-              return (
-                <div key={m.id} className="pulse-admin__card">
-                  <div className="pulse-admin__card-title">
-                    {m.homeTeam} vs {m.awayTeam}
-                  </div>
+          const espn    = espnMap[liveMatch.id];
+          const summary = summaryMap[liveMatch.id];
+          const ex      = exMap[liveMatch.id];
+          const stats   = summary?.stats;
+          const guard   = guardsRef.current[liveMatch.id];
 
-                  <div className="pulse-admin__section">ESPN</div>
-                  {espn ? (
-                    <pre className="pulse-admin__pre">{JSON.stringify({
-                      state: espn.state, clock: espn.clock,
-                      period: espn.period,
-                      score: `${espn.homeScore}–${espn.awayScore}`,
-                    }, null, 2)}</pre>
-                  ) : (
-                    <p className="pulse-admin__null">no ESPN data yet</p>
-                  )}
+          return (
+            <div className="pulse-admin__grid" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))' }}>
+              <div className="pulse-admin__card">
+                <div className="pulse-admin__card-title">{liveMatch.homeTeam} vs {liveMatch.awayTeam}</div>
+                <div className="pulse-admin__section">ESPN</div>
+                {espn ? (
+                  <pre className="pulse-admin__pre">{JSON.stringify({
+                    state: espn.state, clock: espn.clock,
+                    period: espn.period,
+                    score: `${espn.homeScore}–${espn.awayScore}`,
+                  }, null, 2)}</pre>
+                ) : <p className="pulse-admin__null">no ESPN data yet</p>}
+              </div>
 
-                  {ex && <>
-                    <div className="pulse-admin__section">Excitement</div>
-                    <pre className="pulse-admin__pre">{JSON.stringify({
-                      score:            ex.score,
-                      band:             ex.label,
-                      scorePressure:    pct(ex.components?.scorePressure),
-                      clockLeverage:    pct(ex.components?.clockLeverage),
-                      attackPressure:   pct(ex.components?.attackPressure),
-                      stageAndScenario: pct(ex.components?.stageAndScenario),
-                      upsetPressure:    pct(ex.components?.upsetPressure),
-                      chaosBonus:       pct(ex.components?.chaosBonus),
-                      finishBonus:      pct(ex.components?.finishBonus),
-                    }, null, 2)}</pre>
-                  </>}
+              <div className="pulse-admin__card">
+                <div className="pulse-admin__card-title">Excitement</div>
+                {ex ? (
+                  <pre className="pulse-admin__pre">{JSON.stringify({
+                    score:            ex.score,
+                    band:             ex.label,
+                    scorePressure:    pct(ex.components?.scorePressure),
+                    clockLeverage:    pct(ex.components?.clockLeverage),
+                    attackPressure:   pct(ex.components?.attackPressure),
+                    stageAndScenario: pct(ex.components?.stageAndScenario),
+                    upsetPressure:    pct(ex.components?.upsetPressure),
+                    chaosBonus:       pct(ex.components?.chaosBonus),
+                    finishBonus:      pct(ex.components?.finishBonus),
+                  }, null, 2)}</pre>
+                ) : <p className="pulse-admin__null">not yet computed</p>}
+              </div>
 
-                  {stats ? <>
-                    <div className="pulse-admin__section">Stats</div>
-                    <pre className="pulse-admin__pre">{JSON.stringify({
-                      shots:      `${stats.homeShots || 0}–${stats.awayShots || 0}`,
-                      onTarget:   `${stats.homeShotsOnTarget || 0}–${stats.awayShotsOnTarget || 0}`,
-                      possession: `${stats.homePossession || 0}%–${stats.awayPossession || 0}%`,
-                      corners:    `${stats.homeCorners || 0}–${stats.awayCorners || 0}`,
-                      yellows:    `${stats.homeYellow || 0}–${stats.awayYellow || 0}`,
-                      reds:       `${stats.homeRed || 0}–${stats.awayRed || 0}`,
-                      fouls:      `${stats.homeFouls || 0}–${stats.awayFouls || 0}`,
-                    }, null, 2)}</pre>
-                  </> : <p className="pulse-admin__null">no summary yet</p>}
+              <div className="pulse-admin__card">
+                <div className="pulse-admin__card-title">Stats</div>
+                {stats ? (
+                  <pre className="pulse-admin__pre">{JSON.stringify({
+                    shots:      `${stats.homeShots || 0}–${stats.awayShots || 0}`,
+                    onTarget:   `${stats.homeShotsOnTarget || 0}–${stats.awayShotsOnTarget || 0}`,
+                    possession: `${stats.homePossession || 0}%–${stats.awayPossession || 0}%`,
+                    corners:    `${stats.homeCorners || 0}–${stats.awayCorners || 0}`,
+                    yellows:    `${stats.homeYellow || 0}–${stats.awayYellow || 0}`,
+                    reds:       `${stats.homeRed || 0}–${stats.awayRed || 0}`,
+                    fouls:      `${stats.homeFouls || 0}–${stats.awayFouls || 0}`,
+                  }, null, 2)}</pre>
+                ) : <p className="pulse-admin__null">no summary yet</p>}
+              </div>
 
-                  {guard && <>
-                    <div className="pulse-admin__section">Guard</div>
-                    <pre className="pulse-admin__pre">{JSON.stringify({
-                      initialized:   guard.initialized,
-                      prevExScore:   guard.prevExScore,
-                      prevState:     guard.prevEspnState,
-                      prevPeriod:    guard.prevPeriod,
-                      firedPost:     guard.firedPost,
-                      firedBands:    Object.keys(guard.firedBands),
-                      firedStatKeys: [...guard.firedStatKeys],
-                    }, null, 2)}</pre>
-                  </>}
-                </div>
-              );
-            })}
-          </div>
-        )}
+              <div className="pulse-admin__card">
+                <div className="pulse-admin__card-title">Guard state</div>
+                {guard ? (
+                  <pre className="pulse-admin__pre">{JSON.stringify({
+                    initialized:   guard.initialized,
+                    prevExScore:   guard.prevExScore,
+                    prevState:     guard.prevEspnState,
+                    prevPeriod:    guard.prevPeriod,
+                    firedPost:     guard.firedPost,
+                    firedBands:    Object.keys(guard.firedBands),
+                    firedStatKeys: [...guard.firedStatKeys],
+                  }, null, 2)}</pre>
+                ) : <p className="pulse-admin__null">not initialized</p>}
+              </div>
+            </div>
+          );
+        })()}
       </div>
 
-      {/* ── Toast ────────────────────────────────────────────────────────────── */}
-      {toast && (
-        <div
-          key={toast.id}
-          className={`pulse-toast pulse-toast--${toast.type}`}
-          role="status"
-          aria-live="polite"
-        >
-          <span className="pulse-toast__icon">{toast.icon}</span>
-          <div className="pulse-toast__body">
-            <div className="pulse-toast__title">{toast.title}</div>
-            <div className="pulse-toast__sub">{toast.subtext}</div>
-          </div>
-          <button
-            className="pulse-toast__dismiss"
-            aria-label="Dismiss"
-            onClick={() => { setToast(null); isShowingRef.current = false; showNextRef.current(); }}
-          >×</button>
+      {/* ── Persistent toast stack — stays until dismissed ───────────────────── */}
+      {toastStack.length > 0 && (
+        <div className="pulse-toast-stack" role="log" aria-label="Notifications" aria-live="polite">
+          {toastStack.map(n => (
+            <div key={n.id} className={`pulse-toast pulse-toast--${n.type}`}>
+              <span className="pulse-toast__icon">{n.icon}</span>
+              <div className="pulse-toast__body">
+                <div className="pulse-toast__title">{n.title}</div>
+                <div className="pulse-toast__sub">{n.subtext}</div>
+                <div className="pulse-toast__meta">
+                  <span
+                    className="pulse-notif__type"
+                    style={{ background: TYPE_COLORS[n.type] ?? '#888' }}
+                  >{TYPE_LABELS[n.type] ?? n.type}</span>
+                  <span className="pulse-toast__time">{relTime(n.firedAt)}</span>
+                </div>
+              </div>
+              <button
+                className="pulse-toast__dismiss"
+                aria-label="Dismiss"
+                onClick={() => dismissToast(n.id)}
+              >×</button>
+            </div>
+          ))}
         </div>
       )}
     </div>
