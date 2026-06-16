@@ -43,7 +43,7 @@ function runReplay(match, states, goalMins) {
 // Path 1: goals array (preferred — has per-goal minute data)
 function buildFromGoals(match) {
   const goals = match?.goals;
-  if (!goals?.length) return null;
+  if (!Array.isArray(goals)) return null; // field absent → try other paths
 
   const sorted = [...goals].sort((a, b) => minuteVal(a.minute) - minuteVal(b.minute));
   const states = [{ atMinute: 0, homeScore: 0, awayScore: 0 }];
@@ -53,6 +53,33 @@ function buildFromGoals(match) {
     states.push({ atMinute: minuteVal(g.minute), homeScore: h, awayScore: a });
   }
   const goalMins = sorted.map(g => minuteVal(g.minute));
+  return { points: runReplay(match, states, goalMins), goalMins };
+}
+
+// Path 3: final score fallback — goal times unknown, distribute evenly across match
+function buildFromScore(match) {
+  if (match?.status !== 'finished') return null;
+  const h = match.homeScore ?? 0;
+  const a = match.awayScore ?? 0;
+  const total = h + a;
+  const states = [{ atMinute: 0, homeScore: 0, awayScore: 0 }];
+
+  if (total > 0) {
+    // Spread goal moments from minute 15 to 80, interleave home/away
+    const mins = Array.from({ length: total }, (_, i) =>
+      Math.round(15 + (i * 65) / Math.max(total - 1, 1))
+    );
+    let hc = 0, ac = 0;
+    for (let i = 0; i < total; i++) {
+      const wantHome = i % 2 === 0 && hc < h;
+      if (wantHome) hc++;
+      else if (ac < a) ac++;
+      else hc++;
+      states.push({ atMinute: mins[i], homeScore: hc, awayScore: ac });
+    }
+  }
+
+  const goalMins = states.slice(1).map(s => s.atMinute);
   return { points: runReplay(match, states, goalMins), goalMins };
 }
 
@@ -79,7 +106,9 @@ function bandFor(score) {
 export function ExcitementGraph({ match, livePoints, summary, height = 64 }) {
   const replayResult = useMemo(() => {
     if (livePoints) return null;
-    return buildFromGoals(match) || buildFromTimeline(match, summary?.scoreTimeline);
+    return buildFromGoals(match)
+      || buildFromTimeline(match, summary?.scoreTimeline)
+      || buildFromScore(match);
   }, [match, livePoints, summary]);
 
   const points = livePoints || replayResult?.points;
