@@ -16,10 +16,10 @@ export default function LandingPage() {
       <a href="#main-content" className="skip-link">Skip to main content</a>
       <Navbar />
       <main id="main-content">
-        <Hero />
         <Suspense fallback={null}>
           <TodayMatchHub />
         </Suspense>
+        <Hero />
         <div className="divider" />
         <CitiesHero />
         <div className="divider" />

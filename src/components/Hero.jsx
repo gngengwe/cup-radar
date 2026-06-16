@@ -39,7 +39,7 @@ export default function Hero() {
       <div className="container">
         <div className="hero__badge-row fade-up fade-up-1">
           <span className="badge badge--accent badge--dot">World Cup 2026</span>
-          <span className="badge">7 Host Cities</span>
+          <span className="badge">8 Host Cities</span>
           <span className="badge">Jun 11 – Jul 19</span>
         </div>
 
@@ -50,7 +50,7 @@ export default function Hero() {
 
         <p className="hero__sub fade-up fade-up-3">
           Matches, moments, tickets, and city energy — all in one place.
-          Seattle · Kansas City · Miami · New York · Philadelphia.
+          Seattle · Kansas City · Miami · New York · Philadelphia · Atlanta · Vancouver · Los Angeles.
         </p>
 
         <div className="hero__ctas fade-up fade-up-4">
@@ -60,7 +60,10 @@ export default function Hero() {
 
         <div className="fade-up fade-up-5">
           {t.started ? (
-            <p className="hero__started" role="status">The World Cup is live — scores and updates incoming.</p>
+            <div className="hero__live-status" role="status">
+              <span className="badge badge--accent badge--dot">In progress</span>
+              <span className="hero__live-detail">104 matches · 8 host cities · through Jul 19</span>
+            </div>
           ) : (
             <>
               <p className="hero__countdown-label">Kickoff countdown · June 11, 2026 · Mexico City</p>
