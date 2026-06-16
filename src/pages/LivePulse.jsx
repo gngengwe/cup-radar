@@ -24,12 +24,104 @@ function relTime(ts) {
 
 function pct(v) { return v != null ? `${Math.round(v * 100)}%` : '—'; }
 
+// Parse ESPN display clock ("34:21", "45+2:00") → integer minute
+function parseMinute(clock) {
+  if (!clock) return null;
+  const m = clock.match(/^(\d+)/);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+// ─── Clock-milestone cards ─────────────────────────────────────────────────────
+// Fire at fixed game minutes using the ESPN clock. Reports accumulated stats at
+// that moment — delay-safe because it describes the game state, not any event.
+
+const MILESTONES = {
+  10: {
+    icon: '🕐',
+    title: '10 minutes in — early pulse check',
+    body: (match, espn, stats) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const poss = (stats?.homePossession || 0) > 0
+        ? `${Math.max(stats.homePossession, stats.awayPossession)}% possession for ${stats.homePossession >= stats.awayPossession ? match.homeTeam : match.awayTeam}. `
+        : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. ${poss}In the World Cup, the first 15 minutes are tactical — teams test defensive shape before committing forward. Goals are rarer early.`;
+    },
+  },
+  20: {
+    icon: '🕑',
+    title: '20 minutes in — patterns forming',
+    body: (match, espn, stats) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const shots = stats ? `${(stats.homeShots||0)+(stats.awayShots||0)} shots so far. ` : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. ${shots}The team that scores first in a World Cup match wins roughly 70% of the time — every chance matters.`;
+    },
+  },
+  30: {
+    icon: '🕒',
+    title: 'Half hour mark',
+    body: (match, espn, stats) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const poss = (stats?.homePossession || 0) > 0
+        ? `${Math.max(stats.homePossession, stats.awayPossession)}% possession for ${stats.homePossession >= stats.awayPossession ? match.homeTeam : match.awayTeam}. `
+        : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. ${poss}Goals cluster in the final 15 minutes of each half — teams push harder as halftime approaches.`;
+    },
+  },
+  40: {
+    icon: '⏱️',
+    title: '5 minutes to halftime',
+    body: (match, espn, stats) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const onTarget = stats ? `${(stats.homeShotsOnTarget||0)+(stats.awayShotsOnTarget||0)} shots on target. ` : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. ${onTarget}Teams push for a goal before the break, or go conservative to protect one. Expect intensity to spike right now.`;
+    },
+  },
+  60: {
+    icon: '🕕',
+    title: 'Hour mark — this is when games change',
+    body: (match, espn, stats) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const corners = stats ? `${(stats.homeCorners||0)+(stats.awayCorners||0)} corners, ` : '';
+      const fouls   = stats ? `${(stats.homeFouls||0)+(stats.awayFouls||0)} fouls. ` : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. ${corners}${fouls}The 60th–75th minute produces more goals than any other window in World Cup history. Substitutions bring fresh legs — and change the game.`;
+    },
+  },
+  70: {
+    icon: '🕖',
+    title: '20 minutes left',
+    body: (match, espn) => {
+      const hs  = espn?.homeScore ?? 0;
+      const as_ = espn?.awayScore ?? 0;
+      const lead = hs !== as_
+        ? `${hs > as_ ? match.homeTeam : match.awayTeam} lead — but no lead is safe in soccer until the final whistle.`
+        : `Still level — one set piece, one mistake, one moment of brilliance decides it.`;
+      return `${lead} Tired defenders make more errors. Set pieces near the box are now extremely dangerous.`;
+    },
+  },
+  80: {
+    icon: '⏰',
+    title: '10 minutes of normal time left',
+    body: (match, espn, stats) => {
+      const hs    = espn?.homeScore ?? 0;
+      const as_   = espn?.awayScore ?? 0;
+      const shots = stats ? ` ${(stats.homeShots||0)+(stats.awayShots||0)} shots in this match.` : '';
+      return `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}.${shots} Referees add 3–6 minutes of injury time based on stoppages — the clock won't stop at 90. World Cup games are often decided in these final minutes.`;
+    },
+  },
+};
+
 // ─── Notification derivation ──────────────────────────────────────────────────
 //
-// Three layers:
-//   1. Beat cards    — state transitions (kick-off, 2nd half, FT) — guaranteed
-//   2. Explain It    — first time a stat type appears, teaching what it means
-//   3. Tension cards — excitement band crossings late in the match
+// Four layers:
+//   1. Beat cards      — state transitions (kick-off, 2nd half, FT) — guaranteed
+//   2. Clock milestones— fire at fixed minutes (10/20/30/40/60/70/80) — guaranteed
+//   3. Explain It      — first time a stat type appears, teaching what it means
+//   4. Tension cards   — excitement band crossings late in the match
 //
 // All delay-safe: driven by cumulative stats and ESPN state, never by events.
 
@@ -59,6 +151,26 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       subtext: `${stageCtx}. Watch who controls the ball in the first 10 minutes — the team that sets the tempo early often dictates the whole match.`,
       match, firedAt: Date.now(),
     });
+  }
+
+  // ── LAYER 2: CLOCK MILESTONES (guaranteed every ~10 min) ────────────────
+  if (isLive) {
+    const minute = parseMinute(espn?.clock);
+    if (minute !== null) {
+      for (const [target, cfg] of Object.entries(MILESTONES)) {
+        const t = Number(target);
+        if (minute >= t && !guard.firedStatKeys.has(`milestone-${t}`)) {
+          guard.firedStatKeys.add(`milestone-${t}`);
+          out.push({
+            id: `${match.id}-milestone-${t}`,
+            type: 'teach', priority: 1,
+            icon: cfg.icon, title: cfg.title,
+            subtext: cfg.body(match, espn, stats),
+            match, firedAt: Date.now(),
+          });
+        }
+      }
+    }
   }
 
   // Second half — fires when ESPN confirms period 2
@@ -514,10 +626,11 @@ export default function LivePulse() {
             <div className="pulse-feed-empty">
               <p>Waiting for live match data...</p>
               <p className="pulse-feed-empty__sub">
-                Cards fire in three layers: guaranteed beat cards (kick-off,
-                second half, full time), stat explainers (possession, corners,
-                yellows, shots, fouls), and tension signals late in the match.
-                First poll snapshots state — cards start on the second poll.
+                Four layers: beat cards (kick-off, 2nd half, FT), clock
+                milestones every ~10 minutes (10/20/30/40/60/70/80 min),
+                stat explainers (possession, corners, yellows, shots, fouls),
+                and tension signals late in the match. First poll snapshots
+                state — cards start on the second poll (~30s).
               </p>
               <div className="pulse-type-legend">
                 {Object.entries(TYPE_COLORS).map(([type, color]) => (
