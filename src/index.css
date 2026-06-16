@@ -25,6 +25,11 @@
   --blue:          #4d8eff;
   --blue-soft:     rgba(77, 142, 255, 0.11);
 
+  /* Aliases used by the pulse page (and any future dark-surface components) */
+  --surface:        #0f1d14;  /* ≡ --bg-card */
+  --text-primary:   #eee8dd;  /* ≡ --text */
+  --text-secondary: #8fa8a0;  /* ≡ --text-muted */
+
   --font:          'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
   --radius-sm:     6px;
