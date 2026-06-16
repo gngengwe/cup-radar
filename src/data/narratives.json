@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-16T04:08:55.561Z",
+  "lastUpdated": "2026-06-16T11:11:19.048Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -559,7 +559,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 100,
+      "chapterCount": 101,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1360,6 +1360,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT01vS3pWNEE0X0wxUVYyYWh0TEFzMzNuRGVUazZaMlZNeDhYWlJiWVRIYzZSMnEwbDljMU5JTExqTDFqMXZ4NDRqSlBqbE41bU54X0xlbWIxcUI1SmQ2VXpndFE3eTIxYnV6c2NzbUd6bkkxV2FPTDdXb3RsaTZzMnpwdWgtNEM4amV3VjhHSXE0YVFKeGU3U1dYQ0ZZN3Ru?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781608277783",
+          "date": "2026-06-15",
+          "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaklsSEhBVEZnQ2g1QVBXdjkyVDVSUENQNDNTdThFc0JPRGJ6THpfcDk2MTZKRW5TeF9vbnd1MldtNlZLMzF3ZXE4cGtBd19WWEp4Vld1YXRxNF9waFBRNE1MbUFFekY0VUJLMzBnOUNzWTVFdVNfc2dFWkZHTkpJZF9TQmdkQnpRNmVzWkhubE5pRDJ2Ri1Nd3R3WFRENlVGclJxbnplWVRtNGlaNW1waUZlaUxsZjBLeU5FZ0lrN01pQU1CV0RjMEh4LWYySWlBVGtjWGt4NTNyQlRvc0VKNDZCYzhqUE4zOU1ZMndrSjFLNngtcVEwdURlNFAzZDZMb0J1OE9ybVNrM3JoWUdlQWx4QWg2VGE2Z0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1378,7 +1386,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 98,
+      "chapterCount": 100,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2163,6 +2171,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTWN5X2x5S1FLbGtxUXBoTG12d3UwMjNydHFldkpmQ2NRbndzeDJEaWNnRVF1dEtzNHlnSWZVTVhhekxWcmNGX1JZTEtySzJfZUNReXpkX3pMWmI0WTN4UGt1VkhEYlFINEVDZFdXaHZlRWd2dnFvSE41NmlLQzJkeUZ5ZlRqWU05U3J4QUttclNwTzFQN1luNElROFVaRG5VZHNUaHZMa25ZN3YtUWQzem5Mc1RwaDZxazM5YmNac29lbzRteTdSTGpsVjBmdVRhdGxIaWlPWGMtNFh6aFJWMkkwTTBJWXdNUXBSUjJNSlF5WGc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781608278340",
+          "date": "2026-06-16",
+          "title": "Romario: Brazil ‘grateful to Baggio’, Baresi the ‘most difficult to face’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa044YzFFQTNKcWpweTdXR29IcXJpU0JHNEVSVTI3MmU0endXX1prbGFEUDlONUYtS19BZmRUT1pXeEt4S1FFbnkxQ0FZTjRoWWxQRnZma1NONEhXMlJiSFhlWTItNmVYQzFGdHZKZzZQcEc0R3Ffa0NsMk1WX2JZYTJ6R19ZMkVwTEstVTFBUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781608278340",
+          "date": "2026-06-16",
+          "title": "Brazilian Football Icon Neymar Jr. Launching AI-Powered, 16-Title Microdrama Slate On FlareFlow - Deadline",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN6VkVXTE50SXNpZDMzc2k3NzBMSFJvTnhTSmRxZmZYNnVsVVV5eXVVOURmM3Y2dzRVcHVSc2xBczlBS1o4cFc4Nk10V2UzMWZjeEkycjU0N1hiV2tnNGRqazFqc0VxbGRtWElkUE1aOTVmal9VRkJoNTBMMGtiRXRwQU1pN1pWcXNaM0ktRQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2264,7 +2288,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 102,
+      "chapterCount": 105,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -3080,6 +3104,30 @@
           "title": "World Cup live: Iran fans sneak pre-revolution flags into first match – but not everyone's united - Sky News",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV05SQkw1MmJqM0duRnU3SExsSzF1aVV0bWh6TzNwdE05eGQxdS1pNGp4Qlo3SVdoNE16NVVrd29BcWFQWkItQzlWMU15WlRnbk90UkVQT0psaVNZdFVkUjlsQ0llNmFHSElyVENzbWYwNHIwdmRCMWJ0dkZVUGJHUXJCck9LdklWZEZTSC1IaXJZeEg1MUJEQ0hMbWo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781608279048",
+          "date": "2026-06-16",
+          "title": "Luka Modric has been tormenting England for 20 years. Can he do it one more time? - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGNvREF0U2lUclhtM2hJRnA2NGt3WkxTYXV4ZVJsaG52NDMxMUoxYXR5X21QT1FIUzJ2WXQ1QmtWTWRqNS1lazFlN21QdGQ0LWNsaXo3YXMycmpJb2ZWenJHbWdqT3YyRWh0VGV1ZHptR3V2RXRnNlJsM2E2dDdwbkZGLXZqbVpjRWVzQWQxUWNZckpBb05DYktmbXBvZXlxRDJvcmtiNlNtQ2hhREgxMVprZjRTelVkQkJIRUUzOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781608279048",
+          "date": "2026-06-16",
+          "title": "The real reason why England must top their World Cup group - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkt0b2s1eVUzNVgxbktEN3kwbUJVbFUtSERBZnhoajJtS09yRUNpQzJkdUJpNjdpWjZoRUxCUmZyc3owaGt4cmdqZFV5aEJSSmtockg5ZUR6SHNiakVlQzBMeGRkTjdJVHVlRXUwMVFIU1RWRGxYVEJvV2JnTnVCVjAtd2JlR0tfN3A1MzRCN1J2YWVSV0owSjZydEhNQlh6SFZv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781608279048",
+          "date": "2026-06-16",
+          "title": "Can England really win the World Cup with such an injury-prone and inexperienced defence? - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWM0WE4xSjl1a3FzSzRLMmNhdW43T281SnVpRG1ySEU0VzdSWUQxMzBvcWtScDRsTF9Eb2NkRk5iNVVWSXJ1TVFNTzFqdHFNT2Z0bWlDai04WUljSUpEYTRva2lha0tieF9VMHQ4aUljS3ptN1pGWmh1dHg2Y2xGVDg4QXc5WDBqMjhzWFR3NGZ4a3N6Zk9zcy1zVVgxb3pTMXNFNXpPSk5ISU54UXJOWmNXbw?oc=5",
           "draft": true
         }
       ]
