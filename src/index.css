@@ -621,6 +621,276 @@ td .flag-img { margin-right: 4px; }
 }
 
 /* ─────────────────────────────────────────────────────────
+   TODAY'S MATCH HUB — landing page live section
+───────────────────────────────────────────────────────── */
+.lp-today {
+  padding: 60px 0 56px;
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.lp-today__header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.lp-today__heading {
+  font-size: clamp(24px, 5vw, 36px);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  color: var(--text);
+  margin: 8px 0 6px;
+}
+.lp-today__date {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+.lp-today__block {
+  margin-top: 32px;
+}
+.lp-today__sublabel {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 14px;
+}
+
+/* Live match hero */
+.lp-live-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  text-align: center;
+  padding: 32px 24px;
+  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.06));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 4px;
+}
+.lp-live-hero.is-live {
+  border-color: var(--border-accent);
+  box-shadow: 0 0 0 1px rgba(0,230,118,0.2), 0 4px 24px rgba(0,230,118,0.08);
+  animation: liveGlow 2.5s ease-in-out infinite;
+}
+@keyframes liveGlow {
+  0%, 100% { box-shadow: 0 0 0 1px rgba(0,230,118,0.2), 0 4px 24px rgba(0,230,118,0.08); }
+  50%       { box-shadow: 0 0 0 1px rgba(0,230,118,0.45), 0 4px 32px rgba(0,230,118,0.18); }
+}
+
+.lp-live-hero__topbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.lp-live-hero__pill {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 12px;
+  border-radius: 100px;
+}
+.lp-live-hero__pill.is-live {
+  background: var(--accent);
+  color: #041208;
+}
+.lp-live-hero__pill.is-done {
+  background: var(--border);
+  color: var(--text-muted);
+}
+.lp-live-hero__context {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.lp-live-hero__context strong {
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.lp-live-hero__scoreboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 560px;
+}
+.lp-live-hero__team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  min-width: 90px;
+}
+.lp-live-hero__team-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text);
+}
+.lp-live-hero__score {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: clamp(36px, 8vw, 56px);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.lp-live-hero__sep {
+  font-size: 0.65em;
+  color: var(--text-muted);
+}
+.lp-live-hero__vs {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.lp-live-hero__venue {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.lp-live-hero__meter {
+  width: 100%;
+  max-width: 340px;
+}
+.lp-live-hero__cta {
+  margin-top: 4px;
+}
+
+/* Goal log centering in live hero + result cards */
+.lp-live-hero .match-goal-log,
+.lp-result-card .match-goal-log {
+  justify-content: center;
+}
+
+/* Completed match result cards */
+.lp-today__results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+}
+.lp-result-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+  padding: 18px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.lp-result-card.is-live {
+  border-color: var(--border-accent);
+  background: linear-gradient(135deg, var(--bg-card), rgba(0,230,118,0.06));
+}
+.lp-result-card__status {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.lp-result-card__group {
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.lp-result-card__scoreline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  font-size: 13px;
+  font-weight: 700;
+}
+.lp-result-card__side {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex: 1;
+  justify-content: flex-end;
+}
+.lp-result-card__side--away {
+  justify-content: flex-start;
+}
+.lp-result-card__score {
+  font-size: 20px;
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  white-space: nowrap;
+  min-width: 52px;
+  text-align: center;
+}
+.lp-result-card__venue {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+/* Upcoming match cards */
+.lp-today__upcoming-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.lp-upcoming-card {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 12px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  min-width: 200px;
+}
+.lp-upcoming-card__time {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.lp-upcoming-card__tz {
+  font-weight: 400;
+  color: var(--text-muted);
+  font-size: 11px;
+}
+.lp-upcoming-card__matchup {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+  flex-wrap: wrap;
+}
+.lp-upcoming-card__vs {
+  color: var(--text-muted);
+  font-weight: 400;
+  font-size: 12px;
+}
+.lp-upcoming-card__meta {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+@media (max-width: 768px) {
+  .lp-today { padding: 40px 0 36px; }
+  .lp-live-hero { padding: 24px 16px; gap: 12px; }
+  .lp-live-hero__scoreboard { gap: 16px; }
+  .lp-today__results-grid { grid-template-columns: 1fr; }
+}
+
+/* ─────────────────────────────────────────────────────────
    DAILY BRIEF
 ───────────────────────────────────────────────────────── */
 .daily-brief { text-align: center; }

@@ -1,3 +1,4 @@
+import { Suspense, lazy } from 'react';
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import CitiesHero from '../components/CitiesHero';
@@ -7,6 +8,8 @@ import DailyBrief from '../components/DailyBrief';
 import FounderClose from '../components/FounderClose';
 import Footer from '../components/Footer';
 
+const TodayMatchHub = lazy(() => import('../components/TodayMatchHub'));
+
 export default function LandingPage() {
   return (
     <>
@@ -14,6 +17,9 @@ export default function LandingPage() {
       <Navbar />
       <main id="main-content">
         <Hero />
+        <Suspense fallback={null}>
+          <TodayMatchHub />
+        </Suspense>
         <div className="divider" />
         <CitiesHero />
         <div className="divider" />
