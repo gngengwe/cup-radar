@@ -228,7 +228,10 @@ function getStakesLine(match, hs, as_, chosenCode) {
 const MILESTONES = {
   10: {
     icon: '🕐', title: '10 minutes in — early pulse check',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `The opening 10 minutes are tactical — teams test the defensive shape before committing forward. Goals are rarer in this early window than any other. The team that scores first wins about 70% of World Cup matches from this point.`;
+      }
       const hs = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const hp   = stats?.homePossession || 0;
@@ -247,12 +250,15 @@ const MILESTONES = {
       if (as_ > 0 && hs === 0) {
         return `${away} lead ${as_}–0 inside 10 minutes! ${home} are already behind and need to adjust their shape. An early deficit can force teams to overcommit and leave space on the counter.`;
       }
-      return `${hs}–${as_} already — this has been an open, attacking start. ${totalShots > 0 ? `${totalShots} shots in 10 minutes is a high-intensity opening.` : 'Both teams committing forward early.'}`;
+      return `${hs}–${as_} already — this has been an open, attacking start. ${totalShots > 0 ? `${totalShots} shots in the opening spell — a high-intensity start.` : 'Both teams committing forward early.'}`;
     },
   },
   20: {
     icon: '🕑', title: '20 minutes in — patterns forming',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `By 20 minutes the passing patterns and tactical shapes have usually emerged — who's dominating the ball, who's sitting deep, where the spaces are. The counter-attack threat often becomes visible in this window.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const hp   = stats?.homePossession || 0, ap = stats?.awayPossession || 0;
@@ -282,7 +288,10 @@ const MILESTONES = {
   },
   30: {
     icon: '🕒', title: 'Half hour mark',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `The half-hour mark is when the shape of a match solidifies. Goals cluster in the final 10 minutes of each half as teams push for a psychological lead — the side ahead at halftime wins 81% of World Cup matches.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const hp   = stats?.homePossession || 0, ap = stats?.awayPossession || 0;
@@ -314,7 +323,10 @@ const MILESTONES = {
   },
   40: {
     icon: '⏱️', title: '5 minutes to halftime',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `The final minutes before halftime are the most psychologically loaded window of the first half. Teams that lead at the break win 81% of World Cup matches — the trailing side risks everything to equalize before the whistle.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const onTarget = (stats?.homeShotsOnTarget||0) + (stats?.awayShotsOnTarget||0);
@@ -331,7 +343,10 @@ const MILESTONES = {
   },
   60: {
     icon: '🕕', title: 'Hour mark — this is when games change',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `The hour mark is the most dangerous window in World Cup football — more goals are scored 60–75' than in any other 15-minute block. Substitutions bring fresh legs and shift tactical shapes entirely.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const corners = (stats?.homeCorners||0) + (stats?.awayCorners||0);
@@ -355,7 +370,10 @@ const MILESTONES = {
   },
   70: {
     icon: '🕖', title: '20 minutes left',
-    body: (match, espn) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `Twenty minutes from time — tired legs and tactical desperation combine. Teams push forward and leave space at the back. Every set piece is a potential match-winner from here.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
 
@@ -376,7 +394,10 @@ const MILESTONES = {
   },
   80: {
     icon: '⏰', title: '10 minutes of normal time left',
-    body: (match, espn, stats) => {
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) {
+        return `Ten minutes of normal time plus injury time (usually 4–6 minutes) — the game does not end at 90. Nerves and exhausted defenders make late goals more likely than you'd think.`;
+      }
       const hs  = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
       const home = match.homeTeam, away = match.awayTeam;
       const totalShots = (stats?.homeShots||0) + (stats?.awayShots||0);
@@ -749,7 +770,8 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       const t = Number(target);
       if (currentMinute >= t && !guard.firedStatKeys.has(`milestone-${t}`)) {
         guard.firedStatKeys.add(`milestone-${t}`);
-        const baseBody  = cfg.body(match, espn, stats);
+        const firingLate = currentMinute > t + 5;
+        const baseBody   = cfg.body(match, espn, stats, firingLate);
         const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_, chosenCode) : null;
         out.push({
           id: `${match.id}-milestone-${t}`, type: 'milestone', priority: 1,
