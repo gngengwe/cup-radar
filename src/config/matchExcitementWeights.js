@@ -28,7 +28,7 @@ export const EXCITEMENT_LABELS = [
   { min: 85, label: 'Goal Right Here', short: 'GOAL RIGHT HERE' },
   { min: 75, label: 'High Alert',      short: 'High Alert' },
   { min: 60, label: 'Tense',           short: 'Tense' },
-  { min: 40, label: 'Live',            short: 'Live' },
+  { min: 40, label: 'Building',         short: 'Building' },
   { min: 0,  label: 'Calm',            short: 'Calm' },
 ];
 
