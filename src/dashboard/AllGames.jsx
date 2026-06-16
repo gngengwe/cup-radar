@@ -1,4 +1,4 @@
-import { useDeferredValue, useEffect, useMemo, useState } from 'react';
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import { useMatches } from '../hooks/useMatches';
 import FlagImg from '../components/FlagImg';
@@ -58,19 +58,25 @@ function LiveBadge({ source }) {
   return <span className="data-source-badge live">Live data</span>;
 }
 
-function MatchRow({ match, currentCity }) {
+function MatchRow({ match, currentCity, espn, summary }) {
   const dateObj = new Date(`${match.date}T12:00:00`);
   const dateStr = dateObj.toLocaleDateString('en-US', {
     weekday: 'short',
     month: 'short',
     day: 'numeric',
   });
-  const isLive = match.status === 'live';
-  const isDone = match.status === 'finished';
+  const isLive = espn?.state === 'in' || match.status === 'live';
+  const isDone = espn?.state === 'post' || match.status === 'finished';
+  const homeScore = espn?.homeScore ?? match.homeScore;
+  const awayScore = espn?.awayScore ?? match.awayScore;
   const countdown = !isDone && !isLive ? daysUntilLabel(match.date) : null;
   const homeTag = CITY_TAGS.find(tag => match[tag.flag]);
   const currentCityTag = CITY_TAGS.find(tag => tag.id === currentCity && match[tag.flag]);
-  const { badges } = useMatchExcitement(match, null);
+  const { badges } = useMatchExcitement(match, espn);
+
+  const matchForGraph = isDone
+    ? { ...match, status: 'finished', homeScore: homeScore ?? 0, awayScore: awayScore ?? 0 }
+    : match;
 
   return (
     <div className={`match-row${homeTag ? ` ${homeTag.id}` : ''}${isLive ? ' live' : ''}`}>
@@ -84,7 +90,7 @@ function MatchRow({ match, currentCity }) {
         </span>
         <span className="match-row__score">
           {isDone || isLive
-            ? `${match.homeScore ?? '-'} : ${match.awayScore ?? '-'}`
+            ? `${homeScore ?? '-'} : ${awayScore ?? '-'}`
             : `${match.time} ${match.timezone}`}
         </span>
         <span className="match-row__team away">
@@ -101,7 +107,7 @@ function MatchRow({ match, currentCity }) {
           {match.stage && <span className="match-row__group">{match.stage}</span>}
           {match.group && <span className="match-row__group">Group {match.group}</span>}
           <span className={`match-row__status${isLive ? ' live' : ''}`}>
-            {STATUS_LABELS[match.status] || match.status}
+            {isDone ? 'FT' : STATUS_LABELS[match.status] || match.status}
           </span>
           {currentCityTag && <span className="match-row__city-tag">{currentCityTag.short} host</span>}
           {countdown && <span className="match-row__countdown">{countdown}</span>}
@@ -109,7 +115,7 @@ function MatchRow({ match, currentCity }) {
       </div>
       {isDone && <div className="match-row__badges"><MatchExcitementBadges badges={badges} /></div>}
       {isDone && <div className="match-row__goals"><GoalLog match={match} /></div>}
-      {isDone && <div className="match-row__graph"><ExcitementGraph match={match} height={40} /></div>}
+      {isDone && <div className="match-row__graph"><ExcitementGraph match={matchForGraph} summary={summary} height={40} /></div>}
     </div>
   );
 }
@@ -119,6 +125,13 @@ function MatchDayCard({ match, espn, summary }) {
   const isLive     = espn?.state === 'in';
   const isFinished = espn?.state === 'post' || match.status === 'finished';
   const { excitement, badges } = useMatchExcitement(match, espn, summary);
+
+  const matchForGraph = isFinished ? {
+    ...match,
+    status: 'finished',
+    homeScore: espn?.homeScore ?? match.homeScore ?? 0,
+    awayScore: espn?.awayScore ?? match.awayScore ?? 0,
+  } : match;
 
   let status;
   if (espn?.state === 'post') {
@@ -161,7 +174,7 @@ function MatchDayCard({ match, espn, summary }) {
       <div className="allgames-matchday-card__status">{status}</div>
       {isLive && excitement && <ExcitementMeter excitement={excitement} compact />}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
-      {isFinished && <ExcitementGraph match={match} summary={summary} height={44} />}
+      {isFinished && <ExcitementGraph match={matchForGraph} summary={summary} height={44} />}
       {isFinished && <GoalLog match={match} />}
       <div className="allgames-matchday-card__meta">
         {match.time} {match.timezone} · {match.city}
@@ -193,6 +206,7 @@ export default function AllGames() {
 
   const [espnByMatchId, setEspnByMatchId] = useState({});
   const [summaryByMatchId, setSummaryByMatchId] = useState({});
+  const summaryFetchedRef = useRef(new Set());
 
   useEffect(() => {
     if (todayMatches.length === 0) return;
@@ -208,22 +222,33 @@ export default function AllGames() {
         }
         setEspnByMatchId(next);
 
-        // V2 storyline data — only fetch for live matches (30s cadence)
+        // Fetch summary for live matches (30s cadence — badges + meter)
         const liveMatches = todayMatches.filter(match => next[match.id]?.state === 'in');
         for (const match of liveMatches) {
           const eventId = matchEspnEventId(events, match);
           if (!eventId) continue;
           try {
-            const summary = await fetchEspnSummary(eventId);
+            const sum = await fetchEspnSummary(eventId);
             if (cancelled) return;
-            setSummaryByMatchId(prev => ({ ...prev, [match.id]: normalizeEspnSoccerSummary(summary, match) }));
-          } catch {
-            // fail soft — excitement/badges fall back to MVP-only signals
-          }
+            setSummaryByMatchId(prev => ({ ...prev, [match.id]: normalizeEspnSoccerSummary(sum, match) }));
+          } catch { /* fail soft */ }
         }
-      } catch {
-        // fail soft — cards fall back to local match.status
-      }
+
+        // Fetch summary once for newly-finished matches (gives scoreTimeline for graph)
+        const newlyFinished = todayMatches.filter(match =>
+          next[match.id]?.state === 'post' && !summaryFetchedRef.current.has(match.id)
+        );
+        for (const match of newlyFinished) {
+          summaryFetchedRef.current.add(match.id);
+          const eventId = matchEspnEventId(events, match);
+          if (!eventId) continue;
+          try {
+            const sum = await fetchEspnSummary(eventId);
+            if (cancelled) return;
+            setSummaryByMatchId(prev => ({ ...prev, [match.id]: normalizeEspnSoccerSummary(sum, match) }));
+          } catch { /* fail soft */ }
+        }
+      } catch { /* fail soft */ }
     };
 
     tick();
@@ -539,7 +564,9 @@ export default function AllGames() {
               <div key={date} className="match-date-group">
                 <div className="match-date-group__header">{label}</div>
                 {dayMatches.map(match => (
-                  <MatchRow key={match.id} match={match} currentCity={city} />
+                  <MatchRow key={match.id} match={match} currentCity={city}
+                    espn={date === todayStr ? espnByMatchId[match.id] : undefined}
+                    summary={date === todayStr ? summaryByMatchId[match.id] : undefined} />
                 ))}
               </div>
             );
