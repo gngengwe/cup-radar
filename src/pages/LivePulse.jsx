@@ -118,7 +118,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       ? `Group ${match.group} — 3 points for a win, 1 for a draw`
       : match.stage || 'Knockout round';
     out.push({
-      id: `${match.id}-kickoff`, type: 'teach', priority: 3, icon: '⚽',
+      id: `${match.id}-kickoff`, type: 'beat', priority: 3, icon: '⚽',
       title: `Underway: ${match.homeTeam} vs ${match.awayTeam}`,
       subtext: `${stageCtx}. Watch who controls the ball in the first 10 minutes — the team that sets the tempo early often dictates the whole match.`,
       match, firedAt: Date.now(), matchMinute: 0,
@@ -141,7 +141,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
       : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will push forward and leave space at the back.`;
     out.push({
-      id: `${match.id}-second-half`, type: 'teach', priority: 3, icon: '🔄',
+      id: `${match.id}-second-half`, type: 'beat', priority: 3, icon: '🔄',
       title: `Second half — here's the story so far`,
       subtext: `${htStat}${scoreCtx}`,
       match, firedAt: Date.now(), matchMinute: 45,
@@ -172,7 +172,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       if (currentMinute >= t && !guard.firedStatKeys.has(`milestone-${t}`)) {
         guard.firedStatKeys.add(`milestone-${t}`);
         out.push({
-          id: `${match.id}-milestone-${t}`, type: 'teach', priority: 1,
+          id: `${match.id}-milestone-${t}`, type: 'milestone', priority: 1,
           icon: cfg.icon, title: cfg.title,
           subtext: cfg.body(match, espn, stats),
           match, firedAt: Date.now(), matchMinute: t,
@@ -200,7 +200,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       const other = homePoss >= awayPoss ? match.awayTeam : match.homeTeam;
       const val = Math.max(homePoss, awayPoss);
       out.push({
-        id: `${match.id}-possession-intro`, type: 'teach', priority: 2, icon: '📊',
+        id: `${match.id}-possession-intro`, type: 'explain', priority: 2, icon: '📊',
         title: `${who} with ${val}% possession`,
         subtext: `Possession = how much each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -210,7 +210,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     if (totalCorners >= 1 && !guard.firedStatKeys.has('corner-intro')) {
       guard.firedStatKeys.add('corner-intro');
       out.push({
-        id: `${match.id}-corner-intro`, type: 'teach', priority: 2, icon: '🚩',
+        id: `${match.id}-corner-intro`, type: 'explain', priority: 2, icon: '🚩',
         title: `First corner kick of the match`,
         subtext: `A corner happens when a defender puts the ball over their own goal line. The attacking team gets a free kick from the corner flag — a prime chance for a headed goal. About 1 in 10 World Cup goals comes from a corner situation.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -220,7 +220,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     if (totalYellow >= 1 && !guard.firedStatKeys.has('yellow-intro')) {
       guard.firedStatKeys.add('yellow-intro');
       out.push({
-        id: `${match.id}-yellow-intro`, type: 'teach', priority: 2, icon: '🟨',
+        id: `${match.id}-yellow-intro`, type: 'explain', priority: 2, icon: '🟨',
         title: `First yellow card`,
         subtext: `A yellow is a formal warning. Two yellows in one game = sent off (10 vs 11 for the rest of the match). Two yellows across different tournament games = suspended next match — teams in the knockouts protect key players carefully.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -230,7 +230,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     if (totalShots >= 5 && totalGoals === 0 && !guard.firedStatKeys.has('shot-drought')) {
       guard.firedStatKeys.add('shot-drought');
       out.push({
-        id: `${match.id}-shot-drought`, type: 'teach', priority: 2, icon: '🧤',
+        id: `${match.id}-shot-drought`, type: 'explain', priority: 2, icon: '🧤',
         title: `${totalShots} shots — both keepers holding firm`,
         subtext: `Most shots in soccer don't score. A goalkeeper saves around 70% of shots on target, and many miss entirely. The World Cup average is 2–3 goals per 90 minutes — patience is a weapon.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -246,7 +246,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
         const dominant  = homeCountering ? match.awayTeam : match.homeTeam;
         const domPoss   = homeCountering ? awayPoss : homePoss;
         out.push({
-          id: `${match.id}-counter-attack`, type: 'teach', priority: 2, icon: '⚡',
+          id: `${match.id}-counter-attack`, type: 'explain', priority: 2, icon: '⚡',
           title: `${counter} counter-attacking with less of the ball`,
           subtext: `${dominant} has ${domPoss}% possession but ${counter} has the same or more shots. Classic counter-attack: sit deep, defend in numbers, then explode forward the moment you win the ball back.`,
           match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -257,7 +257,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     if (totalFouls >= 8 && !guard.firedStatKeys.has('physical')) {
       guard.firedStatKeys.add('physical');
       out.push({
-        id: `${match.id}-physical`, type: 'teach', priority: 2, icon: '💪',
+        id: `${match.id}-physical`, type: 'explain', priority: 2, icon: '💪',
         title: `${totalFouls} fouls — this one's getting physical`,
         subtext: `A foul stops play and gives the other team a free kick. Near the penalty box, that's nearly as dangerous as a corner. When fouls pile up, one team is winning the physical battle — or getting desperate.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -267,7 +267,7 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     if (totalYellow >= 4 && !guard.firedStatKeys.has('yellow-wave')) {
       guard.firedStatKeys.add('yellow-wave');
       out.push({
-        id: `${match.id}-yellow-wave`, type: 'teach', priority: 2, icon: '🟨',
+        id: `${match.id}-yellow-wave`, type: 'explain', priority: 2, icon: '🟨',
         title: `${totalYellow} yellow cards — players on the edge`,
         subtext: `With this many yellows, some players are one foul away from a red card (sent off). Teams often substitute booked players to protect a man advantage for the rest of the match.`,
         match, firedAt: Date.now(), matchMinute: currentMinute,
@@ -313,8 +313,21 @@ function deriveNotifs(match, espn, summary, ex, guard) {
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
-const TYPE_COLORS = { teach: '#a78bfa', tension: '#f59e0b', post: '#22c55e' };
-const TYPE_LABELS = { teach: 'explain it', tension: 'tension', post: 'full time' };
+const TYPE_COLORS = {
+  beat:      '#06b6d4',  // cyan — match beats (kickoff, 2nd half, FT)
+  milestone: '#6366f1',  // indigo — clock check-ins
+  explain:   '#a78bfa',  // purple — stat explainers
+  tension:   '#f59e0b',  // amber — excitement crossings
+  post:      '#22c55e',  // green — full time
+};
+
+const TYPE_LABELS = {
+  beat:      'match',
+  milestone: 'check-in',
+  explain:   'explain it',
+  tension:   'tension',
+  post:      'full time',
+};
 
 // ─── Component ────────────────────────────────────────────────────────────────
 

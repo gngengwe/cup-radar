@@ -6369,9 +6369,11 @@ a.wcp-source-chip:hover { color: var(--text); }
   flex-shrink: 0;
 }
 
-.pulse-toast--teach   { border-left-color: #a78bfa; }
-.pulse-toast--tension { border-left-color: #f59e0b; }
-.pulse-toast--post    { border-left-color: #22c55e; }
+.pulse-toast--beat      { border-left-color: #06b6d4; }
+.pulse-toast--milestone { border-left-color: #6366f1; }
+.pulse-toast--explain   { border-left-color: #a78bfa; }
+.pulse-toast--tension   { border-left-color: #f59e0b; }
+.pulse-toast--post      { border-left-color: #22c55e; }
 
 @keyframes pulse-toast-slide {
   from { transform: translateY(10px); opacity: 0; }
@@ -6701,9 +6703,11 @@ a.wcp-source-chip:hover { color: var(--text); }
   padding: 16px 16px 16px 18px;
   animation: pulse-notif-in 0.25s ease;
 }
-.pulse-detail--teach   { border-left-color: #a78bfa; }
-.pulse-detail--tension { border-left-color: #f59e0b; }
-.pulse-detail--post    { border-left-color: #22c55e; }
+.pulse-detail--beat      { border-left-color: #06b6d4; }
+.pulse-detail--milestone { border-left-color: #6366f1; }
+.pulse-detail--explain   { border-left-color: #a78bfa; }
+.pulse-detail--tension   { border-left-color: #f59e0b; }
+.pulse-detail--post      { border-left-color: #22c55e; }
 
 .pulse-detail__icon {
   font-size: 1.5rem;
@@ -6775,6 +6779,7 @@ a.wcp-source-chip:hover { color: var(--text); }
   text-align: left;
   width: 100%;
   font-family: inherit;
+  color: var(--text-primary);  /* override any global button dim */
   transition: border-color 0.15s, background 0.15s;
 }
 .pulse-card-item:hover { border-color: rgba(255,255,255,0.22); }
@@ -6810,7 +6815,7 @@ a.wcp-source-chip:hover { color: var(--text); }
 .pulse-card-item__title {
   font-size: 0.82rem;
   font-weight: 600;
-  color: var(--text-primary);
+  color: #e2e8f0;
   line-height: 1.3;
 }
 
