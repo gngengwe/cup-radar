@@ -370,6 +370,135 @@ const MILESTONES = {
   },
 };
 
+// ─── Post-game story reconstruction ──────────────────────────────────────────
+// Called when a completed match is loaded without having been watched live.
+// Generates a timeline of cards from final stats, spread at plausible minutes.
+
+function buildPostGameStory(match, espn, summary, guard) {
+  const out  = [];
+  const hs   = espn?.homeScore ?? 0;
+  const as_  = espn?.awayScore ?? 0;
+  const stats = summary?.stats;
+  const home = match.homeTeam;
+  const away = match.awayTeam;
+
+  // Card 1: Who were these teams? (minute 1)
+  // Only add if the live kickoff card didn't already fire.
+  if (!guard.firedStatKeys.has('kickoff')) {
+    const homeB = TEAM_BRIEF[match.homeCode] ?? null;
+    const awayB = TEAM_BRIEF[match.awayCode] ?? null;
+    const stageCtx = match.group ? `Group ${match.group}` : match.stage || 'Knockout';
+    let introBlurb = '';
+    if (homeB && awayB) {
+      introBlurb = ` ${home} play ${homeB.style}. ${away} bring ${awayB.style}.`;
+    }
+    out.push({
+      id: `${match.id}-story-intro`, type: 'beat', priority: 0, icon: '📖',
+      title: `Match story: ${home} vs ${away}`,
+      subtext: `${stageCtx} · Final: ${home} ${hs}–${as_} ${away}.${introBlurb} Cards below reconstruct how it played out.`,
+      match, firedAt: Date.now(), matchMinute: 1,
+    });
+  }
+
+  if (!stats) return out;
+
+  const hp   = stats.homePossession || 0;
+  const ap   = stats.awayPossession || 0;
+  const hSh  = stats.homeShots || 0;
+  const aSh  = stats.awayShots || 0;
+  const hOT  = stats.homeShotsOnTarget || 0;
+  const aOT  = stats.awayShotsOnTarget || 0;
+  const totalCorners = (stats.homeCorners || 0) + (stats.awayCorners || 0);
+  const totalYellows = (stats.homeYellow  || 0) + (stats.awayYellow  || 0);
+  const totalFouls   = (stats.homeFouls   || 0) + (stats.awayFouls   || 0);
+  const totalShots   = hSh + aSh;
+  const totalGoals   = hs + as_;
+  const winner = hs > as_ ? home : (as_ > hs ? away : null);
+
+  // Cards 2-5 below are timeline-only — they don't toast (too many at once for a finished game)
+
+  // Card 2: Possession story (minute 22)
+  if (hp > 0 || ap > 0) {
+    const posWho  = hp >= ap ? home : away;
+    const posOther = hp >= ap ? away : home;
+    const posVal  = Math.max(hp, ap);
+    const shotWho = hSh >= aSh ? home : away;
+    const even    = Math.abs(hp - ap) <= 8;
+    let possBody;
+    if (even) {
+      possBody = `Possession was split evenly — ${home} ${hp}%, ${away} ${ap}%. Neither side could impose territorial control for long. This was a match decided by moments, not dominance.`;
+    } else if (posWho === shotWho) {
+      const resultLine = winner === posWho
+        ? 'and converted that control into the result.'
+        : 'but couldn\'t turn it into goals — the result went against the run of play.';
+      possBody = `${posWho} dominated with ${posVal}% possession and the more shots — ${resultLine}`;
+    } else {
+      const counterWho = posWho === home ? away : home;
+      possBody = `${posWho} had ${posVal}% of the ball — but ${counterWho} had equal or more shots. A textbook possession-vs-efficiency split. ${winner === counterWho ? `${counterWho} made less count for more.` : winner === posWho ? `${posWho} eventually converted the territorial advantage.` : 'Neither side found a winner.'}`;
+    }
+    out.push({
+      id: `${match.id}-story-possession`, type: 'explain', priority: 0, icon: '📊', silent: true,
+      title: `Possession: ${home} ${hp}% — ${away} ${ap}%`,
+      subtext: possBody,
+      match, firedAt: Date.now(), matchMinute: 22,
+    });
+  }
+
+  // Card 3: Shot story (minute 46 — just past the HT line)
+  if (totalShots > 0) {
+    const winnerSh = winner === home ? hSh : (winner === away ? aSh : null);
+    const loserSh  = winner === home ? aSh : (winner === away ? hSh : null);
+    let shotBody;
+    if (totalGoals === 0) {
+      shotBody = `${totalShots} shots — ${hSh} from ${home} (${hOT} on target), ${aSh} from ${away} (${aOT} on target). Zero goals. Both keepers had strong games, or the finishing was off. The scoreline doesn't reflect the chances created.`;
+    } else if (winner && winnerSh !== null && winnerSh < loserSh) {
+      shotBody = `${winner} won despite having fewer shots (${winnerSh} vs ${loserSh}). Clinical finishing beats volume. The other side created more but couldn't convert — that's the lottery of World Cup football.`;
+    } else {
+      const tempo = totalShots >= 22 ? 'A high-tempo, open match.' : totalShots <= 10 ? 'A tight, chance-starved game — both defenses held firm.' : 'A reasonably open, contested match.';
+      shotBody = `${home} had ${hSh} shots (${hOT} on target, ${hs} goals). ${away} had ${aSh} shots (${aOT} on target, ${as_} goals). ${tempo}`;
+    }
+    out.push({
+      id: `${match.id}-story-shots`, type: 'explain', priority: 0, icon: '🎯', silent: true,
+      title: `Shots: ${home} ${hSh} — ${away} ${aSh}`,
+      subtext: shotBody,
+      match, firedAt: Date.now(), matchMinute: 46,
+    });
+  }
+
+  // Card 4: Physical battle (minute 62) — only if noteworthy
+  if (totalFouls >= 8 || totalYellows >= 2) {
+    let physBody;
+    if (totalYellows >= 4) {
+      physBody = `${totalYellows} yellow cards and ${totalFouls} fouls — a physical, tense match. Multiple players were one foul from a red card in the second half. That kind of disciplinary pressure shapes how teams defend late on.`;
+    } else if (totalFouls >= 22) {
+      physBody = `${totalFouls} fouls across 90 minutes — this was a combative encounter.${totalYellows > 0 ? ` ${totalYellows} yellow card${totalYellows > 1 ? 's' : ''} issued.` : ''} At this level, foul counts that high usually signal a team disrupting the other's rhythm deliberately.`;
+    } else {
+      physBody = `${totalFouls} fouls, ${totalYellows} yellow${totalYellows !== 1 ? 's' : ''} — physical but within normal range for a competitive World Cup match.`;
+    }
+    out.push({
+      id: `${match.id}-story-physical`, type: 'explain', priority: 0, icon: '💪', silent: true,
+      title: `${totalFouls} fouls · ${totalYellows} yellow cards`,
+      subtext: physBody,
+      match, firedAt: Date.now(), matchMinute: 62,
+    });
+  }
+
+  // Card 5: Set pieces (minute 75) — only if corners were a major factor
+  if (totalCorners >= 6) {
+    const hC = stats.homeCorners || 0;
+    const aC = stats.awayCorners || 0;
+    const cornerWho = hC >= aC ? home : away;
+    out.push({
+      id: `${match.id}-story-setpieces`, type: 'explain', priority: 0, icon: '🚩', silent: true,
+      title: `${totalCorners} corners — ${cornerWho} pressed from wide`,
+      subtext: `${totalCorners} corners is a significant number — ${cornerWho} (${Math.max(hC, aC)}) was consistently dangerous from wide positions and set pieces. At World Cup level roughly 1 in 10 goals comes from a corner or direct free kick.`,
+      match, firedAt: Date.now(), matchMinute: 75,
+    });
+  }
+
+  return out;
+}
+
 // ─── Notification derivation ──────────────────────────────────────────────────
 
 const BAND_COOLDOWN_MS = 3 * 60_000;
@@ -489,6 +618,13 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       subtext: synthLines.join(' '),
       match, firedAt: Date.now(), matchMinute: 90,
     });
+
+    // Reconstruct match story if this game wasn't watched live
+    const watchedLive = guard.firedStatKeys.has('kickoff');
+    if (!watchedLive) {
+      const storyCards = buildPostGameStory(match, espn, summary, guard);
+      out.push(...storyCards);
+    }
   }
 
   // ── LAYER 2: CLOCK MILESTONES ─────────────────────────────────────────────
@@ -706,8 +842,10 @@ export default function LivePulse() {
   }, []);
 
   function pushToasts(notifs) {
+    const toastable = notifs.filter(n => !n.silent);
+    if (!toastable.length) return;
     setToastStack(prev => {
-      const next = [...notifs.slice().reverse(), ...prev];
+      const next = [...toastable.slice().reverse(), ...prev];
       return next.slice(0, 8);
     });
   }
