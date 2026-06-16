@@ -8,7 +8,6 @@ import {
   fetchEspnScoreboard, matchEspnStatus, matchEspnEventId, fetchEspnSummary,
 } from '../api/espnScoreboard';
 import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary';
-import { computeMatchExcitement, parseClock } from '../utils/matchExcitementEngine';
 import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from './ExcitementMeter';
 import { MatchExcitementBadges } from './MatchExcitementBadges';
@@ -47,7 +46,7 @@ function isProbablyLive(match) {
 }
 
 // ─── Live Match Hero ───────────────────────────────────────────────────────
-function LiveHero({ match, espn, summary, livePoints, probablyLive }) {
+function LiveHero({ match, espn, summary, probablyLive }) {
   const { excitement, badges } = useMatchExcitement(match, espn, summary);
   const isLive     = espn?.state === 'in' || (probablyLive && !espn);
   const isFinished = espn?.state === 'post' || match.status === 'finished';
@@ -102,10 +101,7 @@ function LiveHero({ match, espn, summary, livePoints, probablyLive }) {
         </div>
       )}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
-      {(isLive || isFinished) && (
-        <ExcitementGraph match={match} summary={summary}
-          livePoints={isLive ? (livePoints || []) : undefined} />
-      )}
+      {isFinished && <ExcitementGraph match={match} summary={summary} />}
       {isFinished && <GoalLog match={match} />}
 
       {isLive && (
@@ -186,9 +182,8 @@ export default function TodayMatchHub() {
     [matches, todayStr],
   );
 
-  const [espnByMatchId,      setEspnByMatchId]      = useState({});
-  const [summaryByMatchId,   setSummaryByMatchId]    = useState({});
-  const [liveGraphByMatchId, setLiveGraphByMatchId]  = useState({});
+  const [espnByMatchId,    setEspnByMatchId]    = useState({});
+  const [summaryByMatchId, setSummaryByMatchId] = useState({});
   const summaryFetchedRef = useRef(new Set());
 
   useEffect(() => {
@@ -217,14 +212,6 @@ export default function TodayMatchHub() {
             } catch { /* fall back to static signals */ }
           }
 
-          const { minute } = parseClock(espn?.clock);
-          if (minute != null) {
-            const { score } = computeMatchExcitement(m, espn, [], newSummary || {});
-            setLiveGraphByMatchId(prev => ({
-              ...prev,
-              [m.id]: [...(prev[m.id] || []).slice(-200), { minute, score }],
-            }));
-          }
         }
 
         // Fetch summary once for finished matches (gives scoreTimeline for graph
@@ -288,7 +275,7 @@ export default function TodayMatchHub() {
 
         {liveMatches.map(m => (
           <LiveHero key={m.id} match={m} espn={espnByMatchId[m.id]} summary={summaryByMatchId[m.id]}
-            livePoints={liveGraphByMatchId[m.id]} probablyLive={!espnByMatchId[m.id] && isProbablyLive(m)} />
+            probablyLive={!espnByMatchId[m.id] && isProbablyLive(m)} />
         ))}
 
         {finishedMatches.length > 0 && (
