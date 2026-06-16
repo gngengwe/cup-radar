@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useMatches } from '../hooks/useMatches';
+import { matchKickoffISO } from '../utils/time';
 import FlagImg from './FlagImg';
 import JerseyDisplay from './JerseyDisplay';
 import { getJersey } from '../utils/teamData';
@@ -36,10 +37,19 @@ function matchHQLink(match) {
   return '/matches';
 }
 
+// Returns true if a match should be in progress based on kickoff time,
+// used as a fallback before ESPN data arrives on initial load.
+function isProbablyLive(match) {
+  if (match.status === 'finished') return false;
+  const kickoff = new Date(matchKickoffISO(match)).getTime();
+  const now = Date.now();
+  return now >= kickoff && now <= kickoff + 150 * 60_000; // 150 min covers 90 + ET + pens
+}
+
 // ─── Live Match Hero ───────────────────────────────────────────────────────
-function LiveHero({ match, espn, summary, livePoints }) {
+function LiveHero({ match, espn, summary, livePoints, probablyLive }) {
   const { excitement, badges } = useMatchExcitement(match, espn, summary);
-  const isLive     = espn?.state === 'in';
+  const isLive     = espn?.state === 'in' || (probablyLive && !espn);
   const isFinished = espn?.state === 'post' || match.status === 'finished';
   const homeScore  = espn?.homeScore ?? match.homeScore;
   const awayScore  = espn?.awayScore ?? match.awayScore;
@@ -242,9 +252,12 @@ export default function TodayMatchHub() {
 
   if (!todayMatches.length) return null;
 
-  const liveMatches = todayMatches.filter(m =>
-    espnByMatchId[m.id]?.state === 'in' || m.status === 'live',
-  );
+  const liveMatches = todayMatches.filter(m => {
+    const s = espnByMatchId[m.id]?.state;
+    if (s === 'in') return true;
+    if (s === 'post') return false; // ESPN confirmed finished — don't promote
+    return isProbablyLive(m);       // time-based guess before ESPN first responds
+  });
 
   const finishedMatches = todayMatches
     .filter(m => {
@@ -275,7 +288,7 @@ export default function TodayMatchHub() {
 
         {liveMatches.map(m => (
           <LiveHero key={m.id} match={m} espn={espnByMatchId[m.id]} summary={summaryByMatchId[m.id]}
-            livePoints={liveGraphByMatchId[m.id]} />
+            livePoints={liveGraphByMatchId[m.id]} probablyLive={!espnByMatchId[m.id] && isProbablyLive(m)} />
         ))}
 
         {finishedMatches.length > 0 && (
