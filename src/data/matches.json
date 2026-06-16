@@ -243,9 +243,9 @@
       "group": "I",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
-      "homeScore": 1,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
       "seattleMatch": false,
       "notes": "Group I Matchday 1",
       "nyMatch": true,
@@ -366,9 +366,9 @@
       "group": "I",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 2,
       "seattleMatch": false,
       "notes": "Norway vs Iraq — Group I"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-16T20:51:40.259Z"
+  "lastUpdated": "2026-06-16T22:52:55.731Z"
 }

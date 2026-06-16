@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-16T20:51:45.256Z",
+  "lastUpdated": "2026-06-16T22:53:00.915Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 34,
+      "chapterCount": 35,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -290,13 +290,21 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2xUOUVYSkIyUUdqaG50cW4xUkJlS0wyN0FObDBLbFhMRTBRWWt4V2tqa094QVNMQzZNelZzLS1FekVJRlhnVEc1VnRrZjV1ejJ2c2hla2R5N2dmMVBDcGo3Q3JsLUFZaEl0Z1VTUGNZczlKSU9zTVplVFR4SWtBcGQtUVAzVkdBaTE1RXVCTElHSW5LNVM2X2kyWC00VE9MRE85bWhSSWU1RnRnSWVibG1nUWR4c0ZTOXJTN1NtNTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781650378973",
+          "date": "2026-06-16",
+          "title": "Argentina vs Algeria live updates: World Cup 2026 latest news as Lionel Messi prepares for first game - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV01UeEdYc3dJNEtiWUM5Wkl1RUw4NlhRWHk0MF9DM1JqNVJTM1cyc0dVWkxaRnl6dDRxY1p6cDVwTDlOa3ZPUFBSSjg4N2U0UEk0aERJWFplcHpOMHExT3V4WEZaYXh3ZEJ0bm1rUXZKVm1ORG81WnJSS2NCdmVyRnlpTEtoS0V6Nm5qaElfdzJ6dG5rQnFJUjhwOFpvaHplNklPMXJJZWUwaHVIWWlXWkd4YW9XclBGOHBoRlhyRXFhTVU?oc=5",
+          "draft": true
         }
       ]
     },
     {
       "id": "nar-002",
       "title": "Mbappé Unchained",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "player",
       "teams": [
         "FRA"
@@ -308,7 +316,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 37,
+      "chapterCount": 43,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -605,6 +613,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkM1TndWT0tBQ0NKSWxYVml0RGE2SVBfUE96UFY4ZjZxV3BCcXJsN1VnR1ZqRWNoRGZ5SFl1RERPbHMzYWRFbXlWSFdITkRfR29wdnVGRVY3SkZuY2JpOG5qVjdOVUpNLWxOMGRXLUNVdWtnRzBtbW1kd05iN1BPc3RnemhzUmdqWlRab2lEMA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-010",
+          "date": "2026-06-16",
+          "title": "France beat Senegal 3-1 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1781650379475",
+          "date": "2026-06-16",
+          "title": "France's Kylian Mbappé scores his first goal of 2026 FIFA World Cup™ to take lead vs Senegal - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fUFBfMHNLWGVWRW85dW1vTWNBM2M3WjhYSWRXdV85RUZzdGNqZ3JzTzBnckxEcVJWSTVia1RDZEhORG13ZG5HdlA5WWFqVXZZZkFWX2gxWkMwbGoxVy1LR2hB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781650379475",
+          "date": "2026-06-16",
+          "title": "Catch Up with Highlights - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pVlpXVmE2TmpEbk53MzFZb1kwcDFUbm4tZnI2dUloWkFuQkdKT0FDS3hHbGQ3ZzNlR2JFb1ZZRFZWRUdUNzNmY3NRaFBJbU5tS0VLWThCNUZJNDd2azRscjV3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781650379475",
+          "date": "2026-06-16",
+          "title": "Mbappé's first goal of the 2026 FIFA World Cup was too smooth 🇫🇷 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nd1Y1blR1cDZZNE81M1hHNkVmVVNyTVJhdlMyRDVlU0NwVnhKc1c1b2RXdHVlS09Lc0J0UnN1aVdRU3BjSEJlOXp6RkZHdFdsWHh4NVJzMWo3eVdHLW1BLUItdk9JZmkzd1JKNmNB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781650379475",
+          "date": "2026-06-16",
+          "title": "Mbappe becomes France's record scorer with two goals at World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFMtVk82alM5eFpKNDVEak4yckZPMzRGc2NEcXJWLXhvWmZjTGxOcVBNUjVTWFZyTlVGZFhXdk1MZVhkUzJsNTVwczNISllnSGU3djNLc3ZPMDRjc2ZpdkJtdHVFQURuZ3FFWXRQQWt1QlE5N2JGQVNMSFNrb1RDVnRmOWk2QWJQbWM3V09rUElWaGxfU0RGRFJlOE54SG5WOW5sVE9WRUdxdUtXcUlRLQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781650379475",
+          "date": "2026-06-16",
+          "title": "2026 WORLD CUP: Mbappe scores twice, France beats Senegal 3-1 in New York - amNewYork",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaWo3cVA2ZmZoNXNqMDBrbFNteVJqakFfVUZVaTgza1ppUHlETTBjUWZPeGVzNlFua2hTbVpnMS1CMHM0bzlnTDBGc2tLb3FlM3ZSTEpiZldibGUwakJITmtCSUxqWnJGVHF2OFRCMEdGUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -623,7 +679,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 107,
+      "chapterCount": 109,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1480,6 +1536,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmV2bk92SnZ0UXFiZFdiM3FFaEVHS3EzajdZdF9meXRva1dPaWhBeW9VcDBXS2k5WEtaOVRIY0hZekhxOWNkXzlOZUJqajQycG4xc2RmWVdWeEpwR0J0SlZlN1hjdll2Rld1YkFIYlpfdzlMV1p5M3FZTWM0dFNKZGxYd2xHWUE1Y1NEREdqcFVMbXAzcThYeFU2eDF3akNEQnVEZkZ0U3FhT19ERmc0?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781650379957",
+          "date": "2026-06-16",
+          "title": "World Cup visitors are going viral for their reactions to everyday American life - ABC News - Breaking News, Latest News and Videos",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYk5WS2RFb0RJeFZfcHB6RGN2dTlFTVZnd19vbGxFRnRDWlAwUHdFRTcydnlkUGZkSEtPYXFxdE5Dakc5NV9RVG9od3FuWVUxUG4weUx0a2ZZbzR3MWk5SFlDczlkREw5YTBycjd3WGFtTHNpSUI5WlJmUGlhT3BfdlFWOXlzS2xoOVpHNWVSR2hKTDEwRFp0MzlYZ1dvT2NjV1FmVnB3U3hiTHfSAbABQVVfeXFMTmJLNmZybEtjRGtMZ1ZsSXpRWkNhN1hJNC1mRUo1N09vWF90TXpyX1Ewby16bGltQnZkUjBZbzgtZ2hFRjlkbG43ZjhKWTBzNFZRbDBIellWTVBDM1hSdVNjeEhTWW16RDduTU5uVWxSNEFnU0VhQURzRWJyMFg1YWJITUUxTXUyZjJTYXZlOEJjRUZyQi1VU05NWVBqYXhOTTRaMkxWMVY2b1pkVVIxb3E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781650379957",
+          "date": "2026-06-16",
+          "title": "How to watch today’s World Cup matches: Tuesday, June 16 - FOX 5 New York",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUw2QWl5elp1N2lUZUxpRUczWUxfVkt4aUR0TndoZWxxWjl5aFAxRTRFUXFkNWFKc21oVDRJMWFJSUJYazN4a2VEM3RqQzB0MmpFVEZQNUItSGJINlB5N0RxWlRPMWwzdzhBX2dUYU8xX0tkcTFhRXF4Y3VRemMzT3ZsMTLSAYoBQVVfeXFMTVExV0RvNGhKYTZGSmc0T2VtU0dLVTVvaHZsQkxLeDliQkV3OGVTRlg5eExHUkRWUVB2aDR5ZVpvNmd6dGVWNnllQTJVckNKZDZvM1l2R1laNVVLRTJIM1pCREVuUUJ5cGY0NjJKYkZvR3lmWUpsWkFidGxCYXNpeUhLQ2xhekxKV3ZB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1498,7 +1570,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 107,
+      "chapterCount": 109,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2355,6 +2427,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZUJHTzZjSW83VF80RjFTaFA1NmoxZTdkZzlPVFNkQlIxRDhkbHhCY0lScHRIc0NmWE53U3NXNk5VWmNFa0RvNFpHN0dQMEhENVl5aXVtdEtuUkg3aUVCOFdNVTBqNjFVY2VKbW5n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781650380452",
+          "date": "2026-06-16",
+          "title": "Neymar takes first step back on pitch but Haiti return remains remote - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeW05UWxicVVTY3RXa0JGbHlCMVZyYVpBeTU1Q1VHRFJqY0ZGWnNMV01MQklNdTY4QlFiVFpIRUx0Yy0tWkhUQ2VWUE5GcXlJZDRlTm85ODljRjltUkNmUDVOVWtoUHZEOWl5TF9vNlVPX1ZheGZ4RVlZWkNabFdGQUxCbGJhLWVfRzlyTk4xRk9oOU5Pbi02SkhkbGIyaWxia0VSUFl3X3ladEJaVFoxcy1n?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781650380452",
+          "date": "2026-06-16",
+          "title": "Neymar is getting in touches at Brazil's training 🇧🇷 (via X/njdmarlon) - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HT1h5Q2xTeVVCS0IzLWNLc0o0Uk1SLVQzb3RDT0ppd3d2cThwcUJzNmxjM2drTFBaNWhsTWFVR3RWckU3bHRwSlVleHBvNnp3NUtyV3VuU19CZkZOdW1WSk5fbXdKd1EwQ0xpNUpB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2456,7 +2544,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 114,
+      "chapterCount": 117,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -3368,6 +3456,30 @@
           "title": "World Cup 2026 live: France vs Senegal score, commentary, updates - The Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanR6d3k3RGFUSTl6S0lkZmZQcFZXYWxNcG9QaC1QRnFMS0t3LWM4dXMxRFBHakNQYjRISWQyZjV5OERlZnJpbDZlSXZBUTlJMG55UkRfWG4xTjZ5b0VRcmxPckYtNm1leXIybDNwNHlFS251OVFNc01LTnZvaU9URVdtc0czZGtEVTRjVUVna2h5TkVzWDBISi1uSzhRYTlMeDdiZWdOanRXVEs3Y3U1TGMyOFVxY19qanJ4dQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781650380915",
+          "date": "2026-06-16",
+          "title": "Croatian fans to parade through Dallas ahead of England-Croatia World Cup match - CBS News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1cXBQMXdJQzBjYkZWZDdsSG1pU21OUWNWVVNFNHdjaE92bUlPNnoxcWFKbGhkWGlDMXk5WmRrc1FvSExWLXVucXpwSXlXZXJmeER0YTBieGJQeUFweDlsTExyYm9va2g2a0hLSS12T3JSbnM0MXQ5VUZtR1M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781650380915",
+          "date": "2026-06-16",
+          "title": "‘Could be worse’ - Cole Palmer shares what he is up to after England World Cup snub as Chelsea playmaker makes the most of unexpected summer break - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnplOUo2T0ROeXVmcjhTb2tvV3haaGszWDc5U28tRUFrbU1kZWFhcFNHc2JPR1ZvM1JDWUUyOE1vOVNua0xlRnppYkJNeEVNUmtiZlZTRDVlT0M1ZG9EOW9CdUdCMU9scE81SUZKRzN6TFRoZG1lLWdGNXlUWEJ4aTJOUnZnc2VwLVlZZDJCRk1HOGpKUENVV2QtTXV1S0tmbWFZb3VPZ2ZCVVFpSkszNmpXakZ2WTRrTmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781650380915",
+          "date": "2026-06-16",
+          "title": "2026 World Cup Odds: Back England Defense To Dominate Croatia - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWY3bUJPN1RBaU4zNXlsZFoxSXhOdzZzOGpIcE81Y09pdUVXZE9FWWZrUkstTFIzMGtLTkhXRmhOYlFHdnNZSWdtZU5nd3M1SE5GQVNUdjA5RWs3ajJqR3EzM0R2aUE2aUhCb2RRT1pTdzZqRzcweG9rNDNLUWZWUVdzS0FSYXhmazVkdE9SU1B5X1VVRkJLdEowMjJVc0XSAZ8BQVVfeXFMT0RlNmc0VzY0VUoxLUJXVzMySXJIMVpIdGtwcm9Nak1jWmp2b3ZQcVNZTjIyTFQ1ZGNfRVFHRlJFNGlPTDNmc2p4OGluLWYtZXIxalRZRERGUnozUlVBR29TZVdNRXAxenhJQ3NQcGkxQnNfSWtsRXQtV1Q4WlhfeTg0WWhmVGVDSHdsSlE1aFgzYjB3U21ua2hMT3pGaVlv?oc=5",
           "draft": true
         }
       ]
