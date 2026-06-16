@@ -177,45 +177,73 @@ export function computeFinishBonus(phase, minute, stoppage, scoreDiff) {
 }
 
 /**
- * Attack Pressure (V2) — shot/corner volume in the last 10 minutes, weighted
- * toward the trailing team's share of it. Requires commentary `events` from
- * normalizeEspnSoccerSummary; returns 0 without them (graceful degradation).
+ * Attack Pressure (V2) — shot/corner volume, weighted toward the trailing
+ * team. Prefers per-minute event log; falls back to aggregate boxscore stats
+ * when commentary is sparse or absent.
  */
-export function computeAttackPressure(events, match, minute, homeScore, awayScore) {
-  if (!events?.length || minute == null) return 0;
-
-  const windowStart = minute - 10;
-  const recent = events.filter(ev =>
-    (ev.family === 'shot' || ev.family === 'corner') &&
-    ev.minute != null && ev.minute >= windowStart && ev.minute <= minute
-  );
-  if (recent.length === 0) return 0;
-
-  let pressure = clamp01(recent.length / 6);
-
-  const diff = homeScore - awayScore;
-  const trailingTeam = diff < 0 ? match?.homeTeam : diff > 0 ? match?.awayTeam : null;
-  if (trailingTeam) {
-    const trailingCount = recent.filter(ev => ev.teamName === trailingTeam).length;
-    pressure = clamp01(pressure + (trailingCount / 4) * 0.5);
+export function computeAttackPressure(events, match, minute, homeScore, awayScore, stats) {
+  // Event-based path: use recent (last 10 min) shots + corners
+  if (events?.length && minute != null) {
+    const windowStart = minute - 10;
+    const recent = events.filter(ev =>
+      (ev.family === 'shot' || ev.family === 'corner') &&
+      ev.minute != null && ev.minute >= windowStart && ev.minute <= minute
+    );
+    if (recent.length > 0) {
+      let pressure = clamp01(recent.length / 6);
+      const diff = homeScore - awayScore;
+      const trailingTeam = diff < 0 ? match?.homeTeam : diff > 0 ? match?.awayTeam : null;
+      if (trailingTeam) {
+        const trailingCount = recent.filter(ev => ev.teamName === trailingTeam).length;
+        pressure = clamp01(pressure + (trailingCount / 4) * 0.5);
+      }
+      return pressure;
+    }
   }
 
-  return pressure;
+  // Stats-based fallback: aggregate shots + SOT from boxscore
+  if (stats) {
+    const totalShots = (stats.homeShots || 0) + (stats.awayShots || 0);
+    const totalSOT   = (stats.homeShotsOnTarget || 0) + (stats.awayShotsOnTarget || 0);
+    if (totalShots === 0) return 0;
+
+    let pressure = clamp01(totalShots / 22 * 0.55 + totalSOT / 10 * 0.45);
+
+    const diff = homeScore - awayScore;
+    if (diff !== 0) {
+      const trailingShots = diff < 0
+        ? (stats.homeShots || 0)
+        : (stats.awayShots || 0);
+      pressure = clamp01(pressure + (trailingShots / (totalShots || 1)) * 0.35);
+    }
+    return pressure;
+  }
+
+  return 0;
 }
 
 /**
  * Chaos Bonus (V2) — red cards, penalties and yellow-card pileups spike
- * unpredictability. Requires commentary `events`; returns 0 without them.
+ * unpredictability. Prefers event log; falls back to boxscore card counts.
  */
-export function computeChaosBonus(events) {
-  if (!events?.length) return 0;
+export function computeChaosBonus(events, stats) {
+  if (events?.length) {
+    if (events.some(ev => ev.family === 'red-card'))  return 1.0;
+    if (events.some(ev => ev.family === 'penalty'))   return 0.6;
+    const yellows = events.filter(ev => ev.family === 'yellow-card').length;
+    if (yellows >= 3) return 0.4;
+    if (yellows >= 1) return 0.15;
+    return 0;
+  }
 
-  if (events.some(ev => ev.family === 'red-card')) return 1.0;
-  if (events.some(ev => ev.family === 'penalty')) return 0.6;
-
-  const yellows = events.filter(ev => ev.family === 'yellow-card').length;
-  if (yellows >= 3) return 0.4;
-  if (yellows >= 1) return 0.15;
+  if (stats) {
+    const reds    = (stats.homeRed    || 0) + (stats.awayRed    || 0);
+    const yellows = (stats.homeYellow || 0) + (stats.awayYellow || 0);
+    if (reds    >  0) return 1.0;
+    if (yellows >= 5) return 0.4;
+    if (yellows >= 3) return 0.25;
+    if (yellows >= 1) return 0.12;
+  }
 
   return 0;
 }
@@ -234,9 +262,10 @@ export function computeMatchExcitement(match, espn, history = [], summary = {}) 
   const phase = getMatchPhase(espn);
   const { minute, stoppage } = parseClock(espn?.clock);
 
-  const events = summary?.events || [];
+  const events        = summary?.events        || [];
   const scoreTimeline = summary?.scoreTimeline || [];
-  const leadHistory = scoreTimeline.length > 0
+  const stats         = summary?.stats         || null;
+  const leadHistory   = scoreTimeline.length > 0
     ? [{ homeScore: 0, awayScore: 0 }, ...scoreTimeline]
     : history;
 
@@ -245,9 +274,9 @@ export function computeMatchExcitement(match, espn, history = [], summary = {}) 
     clockLeverage:    computeClockLeverage(phase, minute, stoppage),
     stageAndScenario: computeStageAndScenario(match),
     upsetPressure:    computeUpsetPressure(match, homeScore, awayScore),
-    attackPressure:   computeAttackPressure(events, match, minute, homeScore, awayScore),
+    attackPressure:   computeAttackPressure(events, match, minute, homeScore, awayScore, stats),
     leadSwingDrama:   computeLeadSwingDrama(leadHistory),
-    chaosBonus:       computeChaosBonus(events),
+    chaosBonus:       computeChaosBonus(events, stats),
     finishBonus:      computeFinishBonus(phase, minute, stoppage, Math.abs(homeScore - awayScore)),
   };
 
