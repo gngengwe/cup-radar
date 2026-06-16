@@ -563,6 +563,86 @@ function buildPostGameStory(match, espn, summary, guard) {
   return out;
 }
 
+// ─── FT card builder ─────────────────────────────────────────────────────────
+// Shared by deriveNotifs (live → post) and buildReplayDeck (cold load).
+
+function buildFTCard(match, espn, summary, guard, chosenCode) {
+  const hs   = espn?.homeScore ?? 0;
+  const as_  = espn?.awayScore ?? 0;
+  const stats = summary?.stats;
+  const resultWho = hs > as_ ? match.homeTeam : (as_ > hs ? match.awayTeam : null);
+  const synthLines = [];
+
+  // Result
+  if (chosenCode) {
+    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+    const yourScore  = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    if (yourScore > theirScore)      synthLines.push(`Your ${yourTeam} win ${yourScore}–${theirScore}. A brilliant result.`);
+    else if (yourScore < theirScore) synthLines.push(`Your ${yourTeam} lose ${yourScore}–${theirScore}. A tough night.`);
+    else                             synthLines.push(`Your ${yourTeam} draw ${yourScore}–${theirScore} — one point each.`);
+  } else if (hs === as_) {
+    synthLines.push(`${match.homeTeam} ${hs}–${as_} ${match.awayTeam} — a draw, both teams take 1 point.`);
+  } else {
+    synthLines.push(`${resultWho} win ${Math.max(hs,as_)}–${Math.min(hs,as_)}.`);
+  }
+
+  // Stats story
+  if (stats) {
+    const hp = stats.homePossession || 0, ap = stats.awayPossession || 0;
+    const hShots = stats.homeShots || 0, aShots = stats.awayShots || 0;
+    const totalShots = hShots + aShots;
+    const posWho   = hp >= ap ? match.homeTeam : match.awayTeam;
+    const posOther = hp >= ap ? match.awayTeam : match.homeTeam;
+    const posVal   = Math.max(hp, ap);
+    const shotWho  = hShots >= aShots ? match.homeTeam : match.awayTeam;
+    if (posVal >= 55 && totalShots > 0) {
+      synthLines.push(posWho === shotWho
+        ? `${posWho} were dominant — ${posVal}% possession and the most shots.`
+        : `${posWho} had ${posVal}% of the ball but ${posOther} were more efficient — quality over quantity decided this.`);
+    } else if (totalShots > 0) {
+      synthLines.push(`${totalShots} combined shots — a contested game throughout.`);
+    }
+    if (guard.firedStatKeys.has('counter-attack')) {
+      synthLines.push(`The counter-attack pattern that developed midway through proved decisive.`);
+    }
+  }
+
+  // Group implications
+  if (match.group) {
+    synthLines.push(hs !== as_
+      ? `${resultWho} take 3 points in Group ${match.group}. Every point counts — the top two advance.`
+      : `One point each in Group ${match.group}. Useful, but neither team wins the group purely on draws.`);
+  }
+
+  const ftTitle = (() => {
+    if (!chosenCode) return `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+    const yourScore  = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    const score      = `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+    if (yourScore > theirScore) return `Your ${yourTeam} win! ${score}`;
+    if (yourScore < theirScore) return `${yourTeam} lose — ${score}`;
+    return `${yourTeam} draw — ${score}`;
+  })();
+
+  return {
+    id: `${match.id}-post`, type: 'post', priority: 5, icon: '🏁',
+    title: ftTitle, subtext: synthLines.join(' '),
+    match, firedAt: Date.now(), matchMinute: 90,
+  };
+}
+
+// ─── Replay deck builder ──────────────────────────────────────────────────────
+// Called when a completed match is loaded cold (not watched live). Cards fire
+// only through the playback mechanism, not directly into the notification log.
+
+function buildReplayDeck(match, espn, summary, guard, chosenCode) {
+  const storyCards = buildPostGameStory(match, espn, summary, guard);
+  const ftCard     = buildFTCard(match, espn, summary, guard, chosenCode);
+  return [...storyCards, ftCard].sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
+}
+
 // ─── Notification derivation ──────────────────────────────────────────────────
 
 const BAND_COOLDOWN_MS = 3 * 60_000;
@@ -659,86 +739,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
 
   if (isPost && !guard.firedPost) {
     guard.firedPost = true;
-    const synthLines = [];
-    const resultWho  = hs > as_ ? match.homeTeam : (as_ > hs ? match.awayTeam : null);
-
-    // Result — with perspective if a team was chosen
-    if (chosenCode) {
-      const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-      const yourScore  = chosenCode === match.homeCode ? hs : as_;
-      const theirScore = chosenCode === match.homeCode ? as_ : hs;
-      if (yourScore > theirScore) {
-        synthLines.push(`Your ${yourTeam} win ${yourScore}–${theirScore}. A brilliant result.`);
-      } else if (yourScore < theirScore) {
-        synthLines.push(`Your ${yourTeam} lose ${yourScore}–${theirScore}. A tough night.`);
-      } else {
-        synthLines.push(`Your ${yourTeam} draw ${yourScore}–${theirScore} — one point each.`);
-      }
-    } else if (hs === as_) {
-      synthLines.push(`${match.homeTeam} ${hs}–${as_} ${match.awayTeam} — a draw, both teams take 1 point.`);
-    } else {
-      synthLines.push(`${resultWho} win ${Math.max(hs,as_)}–${Math.min(hs,as_)}.`);
-    }
-
-    // Stats story
-    if (stats) {
-      const hp = stats.homePossession || 0, ap = stats.awayPossession || 0;
-      const hShots = stats.homeShots || 0, aShots = stats.awayShots || 0;
-      const totalShots = hShots + aShots;
-      const posWho  = hp >= ap ? match.homeTeam : match.awayTeam;
-      const posOther = hp >= ap ? match.awayTeam : match.homeTeam;
-      const posVal   = Math.max(hp, ap);
-      const shotWho  = hShots >= aShots ? match.homeTeam : match.awayTeam;
-
-      if (posVal >= 55 && totalShots > 0) {
-        if (posWho === shotWho) {
-          synthLines.push(`${posWho} were dominant — ${posVal}% possession and the most shots.`);
-        } else {
-          synthLines.push(`${posWho} had ${posVal}% of the ball but ${posOther} were more efficient with their chances — quality over quantity decided this.`);
-        }
-      } else if (totalShots > 0) {
-        synthLines.push(`${totalShots} combined shots — a contested game throughout.`);
-      }
-
-      // Counter-attack story
-      if (guard.firedStatKeys.has('counter-attack')) {
-        synthLines.push(`The counter-attack pattern that developed midway through proved decisive.`);
-      }
-    }
-
-    // Group implications
-    if (match.group) {
-      if (hs !== as_) {
-        synthLines.push(`${resultWho} take 3 points in Group ${match.group}. Every point counts — the top two advance.`);
-      } else {
-        synthLines.push(`One point each in Group ${match.group}. Useful, but neither team wins the group purely on draws.`);
-      }
-    }
-
-    const ftTitle = (() => {
-      if (!chosenCode) return `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
-      const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-      const yourScore  = chosenCode === match.homeCode ? hs : as_;
-      const theirScore = chosenCode === match.homeCode ? as_ : hs;
-      const score      = `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
-      if (yourScore > theirScore) return `Your ${yourTeam} win! ${score}`;
-      if (yourScore < theirScore) return `${yourTeam} lose — ${score}`;
-      return `${yourTeam} draw — ${score}`;
-    })();
-
-    out.push({
-      id: `${match.id}-post`, type: 'post', priority: 5, icon: '🏁',
-      title: ftTitle,
-      subtext: synthLines.join(' '),
-      match, firedAt: Date.now(), matchMinute: 90,
-    });
-
-    // Reconstruct match story if this game wasn't watched live
-    const watchedLive = guard.firedStatKeys.has('kickoff');
-    if (!watchedLive) {
-      const storyCards = buildPostGameStory(match, espn, summary, guard);
-      out.push(...storyCards);
-    }
+    out.push(buildFTCard(match, espn, summary, guard, chosenCode));
   }
 
   // ── LAYER 2: CLOCK MILESTONES ─────────────────────────────────────────────
@@ -949,11 +950,14 @@ export default function LivePulse() {
   const [snapshotOpen,    setSnapshotOpen]     = useState(false);
 
   const [chosenTeams,    setChosenTeams]    = useState({});
+  const [replayStateMap, setReplayStateMap] = useState({});
+  const [replayCardsMap, setReplayCardsMap] = useState({});
 
   const guardsRef          = useRef({});
   const selectedMatchIdRef = useRef(null);
   const soundEnabledRef    = useRef(false);
   const chosenTeamsRef     = useRef({});
+  const replayIntervalsRef = useRef({});
   const [, tick_]          = useState(0);
 
   useEffect(() => { selectedMatchIdRef.current = selectedMatchId; }, [selectedMatchId]);
@@ -988,6 +992,34 @@ export default function LivePulse() {
       const next = [...toastable.slice().reverse(), ...prev];
       return next.slice(0, 8);
     });
+  }
+
+  // Cleanup any in-progress replay intervals on unmount
+  useEffect(() => () => {
+    Object.values(replayIntervalsRef.current).forEach(clearInterval);
+  }, []);
+
+  function startPlayback(matchId) {
+    const cards = replayCardsMap[matchId];
+    if (!cards?.length) return;
+    setReplayStateMap(prev => ({ ...prev, [matchId]: 'playing' }));
+    let idx = 0;
+    const interval = setInterval(() => {
+      if (idx >= cards.length) {
+        clearInterval(interval);
+        delete replayIntervalsRef.current[matchId];
+        setReplayStateMap(prev => ({ ...prev, [matchId]: 'done' }));
+        return;
+      }
+      const card = { ...cards[idx], silent: true };
+      setNotifLog(prev => {
+        if (prev.some(n => n.id === card.id)) { idx++; return prev; }
+        return [...prev, card].sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
+      });
+      setSelectedCardId(card.id);
+      idx++;
+    }, 2000);
+    replayIntervalsRef.current[matchId] = interval;
   }
 
   // ── ESPN polling loop ──────────────────────────────────────────────────────
@@ -1038,20 +1070,41 @@ export default function LivePulse() {
           const ex = computeMatchExcitement(m, espn, [], summary || {});
           nextEx[m.id] = ex;
 
+          const watchedLive = guard.firedStatKeys.has('kickoff');
+          const isPostGame  = espn?.state === 'post';
+
           if (!guard.initialized) {
             guard.initialized   = true;
             guard.prevExScore   = ex.score;
             guard.prevEspnState = espn?.state ?? null;
             guard.prevPeriod    = espn?.period ?? null;
+            // Show loading state immediately on first detection of a cold post game
+            if (isPostGame && !watchedLive) {
+              setReplayStateMap(prev => ({ ...prev, [m.id]: 'loading' }));
+            }
             continue;
           }
 
           const chosenCode = chosenTeamsRef.current[m.id] ?? null;
-          const derived = deriveNotifs(m, espn, summary, ex, guard, chosenCode);
+
+          if (isPostGame && !watchedLive) {
+            // ── REPLAY PATH — cold post-game load ─────────────────────────────
+            // Cards surface only through the playback mechanism, not immediately.
+            if (summary && !guard.firedPost) {
+              guard.firedPost = true;
+              const deck = buildReplayDeck(m, espn, summary, guard, chosenCode);
+              setReplayCardsMap(prev => ({ ...prev, [m.id]: deck }));
+              setReplayStateMap(prev => ({ ...prev, [m.id]: 'ready' }));
+            }
+          } else {
+            // ── LIVE / WATCHED-LIVE PATH ───────────────────────────────────────
+            const derived = deriveNotifs(m, espn, summary, ex, guard, chosenCode);
+            if (derived.length) newNotifs.push(...derived);
+          }
+
           guard.prevExScore   = ex.score;
           guard.prevEspnState = espn?.state ?? null;
           guard.prevPeriod    = espn?.period ?? null;
-          if (derived.length) newNotifs.push(...derived);
         }
 
         setExMap(nextEx);
@@ -1209,10 +1262,16 @@ export default function LivePulse() {
             </div>
           </div>
 
-          {/* Team picker — pick a side to get perspective-aware card copy */}
+          {/* Team picker — pick a side or stay neutral */}
           {(isSelectedLive || isSelectedPost) && (
             <div className="pulse-team-picker">
-              <span className="pulse-team-picker__label">Back</span>
+              <span className="pulse-team-picker__label">View as</span>
+              <button
+                className={`pulse-team-picker__btn${!chosenTeams[selectedMatchId] ? ' active' : ''}`}
+                onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: null }))}
+              >
+                ⚖️ Neutral
+              </button>
               {[
                 { code: selectedMatch.homeCode, name: selectedMatch.homeTeam, flag: selectedMatch.homeFlag },
                 { code: selectedMatch.awayCode, name: selectedMatch.awayTeam, flag: selectedMatch.awayFlag },
@@ -1220,17 +1279,47 @@ export default function LivePulse() {
                 <button
                   key={t.code}
                   className={`pulse-team-picker__btn${chosenTeams[selectedMatchId] === t.code ? ' active' : ''}`}
-                  onClick={() => setChosenTeams(prev => ({
-                    ...prev,
-                    [selectedMatchId]: prev[selectedMatchId] === t.code ? null : t.code,
-                  }))}
+                  onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: t.code }))}
                 >
                   <FlagImg emoji={t.flag} size={14} />
                   {t.name}
                 </button>
               ))}
-              {chosenTeams[selectedMatchId] && (
-                <span className="pulse-team-picker__note">cards framed from your side</span>
+            </div>
+          )}
+
+          {/* Replay panel — shows for cold-loaded finished games */}
+          {isSelectedPost && replayStateMap[selectedMatchId] && (
+            <div className={`pulse-replay-panel pulse-replay-panel--${replayStateMap[selectedMatchId]}`}>
+              {replayStateMap[selectedMatchId] === 'loading' && (
+                <>
+                  <span className="pulse-replay-panel__spinner">⟳</span>
+                  <span className="pulse-replay-panel__text">Gathering match data…</span>
+                </>
+              )}
+              {replayStateMap[selectedMatchId] === 'ready' && (
+                <>
+                  <div className="pulse-replay-panel__content">
+                    <span className="pulse-replay-panel__title">Match story ready</span>
+                    <span className="pulse-replay-panel__sub">
+                      {replayCardsMap[selectedMatchId]?.length ?? 0} cards — watch it unfold
+                    </span>
+                  </div>
+                  <button
+                    className="pulse-replay-panel__btn"
+                    onClick={() => startPlayback(selectedMatchId)}
+                  >
+                    ▶ Play
+                  </button>
+                </>
+              )}
+              {replayStateMap[selectedMatchId] === 'playing' && (
+                <span className="pulse-replay-panel__text pulse-replay-panel__text--playing">
+                  ▶ Playing match story…
+                </span>
+              )}
+              {replayStateMap[selectedMatchId] === 'done' && (
+                <span className="pulse-replay-panel__text">✓ Playback complete</span>
               )}
             </div>
           )}
@@ -1318,11 +1407,19 @@ export default function LivePulse() {
           {/* Card list — chronological, selectable */}
           {selectedMatchCards.length === 0 ? (
             <div className="pulse-feed-empty" style={{ margin: '0 0 0' }}>
-              <p>No cards yet for this match.</p>
-              <p className="pulse-feed-empty__sub">
-                Cards begin on the second ESPN poll (~30s after load). Guaranteed cards:
-                kick-off · possession · 10/20/30/40 min milestones · 2nd half · 60/70/80 min milestones · full time.
-              </p>
+              {replayStateMap[selectedMatchId] === 'loading' ? (
+                <p>Gathering match data for playback…</p>
+              ) : replayStateMap[selectedMatchId] === 'ready' ? (
+                <p>Press <strong>▶ Play</strong> above to watch the match story unfold card by card.</p>
+              ) : (
+                <>
+                  <p>No cards yet for this match.</p>
+                  <p className="pulse-feed-empty__sub">
+                    Cards begin on the second ESPN poll (~30s after load). Guaranteed cards:
+                    kick-off · possession · 10/20/30/40 min milestones · 2nd half · 60/70/80 min milestones · full time.
+                  </p>
+                </>
+              )}
             </div>
           ) : (
             <div className="pulse-card-list">
