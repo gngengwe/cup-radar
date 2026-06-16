@@ -11,6 +11,7 @@ import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from '../components/ExcitementMeter';
 import { MatchExcitementBadges } from '../components/MatchExcitementBadges';
 import { GoalLog } from '../components/GoalLog';
+import { ExcitementGraph } from '../components/ExcitementGraph';
 import { CITY_META, getCityMeta, isHomeMatch } from '../utils/cityConfig';
 import { buildSearchParams, readBooleanSearchParam, readSearchParam } from '../utils/searchParams';
 
@@ -108,6 +109,7 @@ function MatchRow({ match, currentCity }) {
       </div>
       {isDone && <div className="match-row__badges"><MatchExcitementBadges badges={badges} /></div>}
       {isDone && <div className="match-row__goals"><GoalLog match={match} /></div>}
+      {isDone && <div className="match-row__graph"><ExcitementGraph match={match} height={40} /></div>}
     </div>
   );
 }
@@ -159,6 +161,7 @@ function MatchDayCard({ match, espn, summary }) {
       <div className="allgames-matchday-card__status">{status}</div>
       {isLive && excitement && <ExcitementMeter excitement={excitement} compact />}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
+      {isFinished && <ExcitementGraph match={match} height={44} />}
       {isFinished && <GoalLog match={match} />}
       <div className="allgames-matchday-card__meta">
         {match.time} {match.timezone} · {match.city}

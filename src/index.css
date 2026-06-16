@@ -2081,6 +2081,9 @@ td .flag-img { margin-right: 4px; }
   .match-row__goals {
     grid-column: auto;
   }
+  .match-row__graph {
+    grid-column: auto;
+  }
 }
 
 @media (max-width: 480px) {
@@ -5503,6 +5506,10 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 .match-row__goals .match-goal-log {
   justify-content: flex-start;
+}
+.match-row__graph {
+  grid-column: 2;
+  min-width: 0;
 }
 .allgames-matchday-card .match-goal-log,
 .hq-matchday-hero .match-goal-log {
