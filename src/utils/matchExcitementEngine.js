@@ -66,8 +66,8 @@ export function computeScorePressure(homeScore, awayScore) {
   const diff = Math.abs(homeScore - awayScore);
   if (diff === 0) return 1.0;
   if (diff === 1) return 0.65;
-  if (diff === 2) return 0.3;
-  return 0.1;
+  if (diff === 2) return 0.50;
+  return 0.30;
 }
 
 /**

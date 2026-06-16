@@ -21,7 +21,7 @@ export const MATCH_EXCITEMENT_WEIGHTS = {
 // Power curve applied to the weighted raw score (0-1) before scaling to 0-100.
 // >1 makes the curve "sticky" in the middle — only matches where several
 // signals stack at once climb into the 85+ "Goal Right Here" band.
-export const EXCITEMENT_CURVE_EXPONENT = 1.3;
+export const EXCITEMENT_CURVE_EXPONENT = 0.9;
 
 // Score bands for the meter label
 export const EXCITEMENT_LABELS = [

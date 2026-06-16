@@ -7,10 +7,12 @@ import {
   fetchEspnScoreboard, matchEspnStatus, matchEspnEventId, fetchEspnSummary,
 } from '../api/espnScoreboard';
 import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary';
+import { computeMatchExcitement, parseClock } from '../utils/matchExcitementEngine';
 import { useMatchExcitement } from '../hooks/useMatchExcitement';
 import { ExcitementMeter } from './ExcitementMeter';
 import { MatchExcitementBadges } from './MatchExcitementBadges';
 import { GoalLog } from './GoalLog';
+import { ExcitementGraph } from './ExcitementGraph';
 
 function todayDateStr() {
   const now = new Date();
@@ -35,7 +37,7 @@ function matchHQLink(match) {
 }
 
 // ─── Live Match Hero ───────────────────────────────────────────────────────
-function LiveHero({ match, espn, summary }) {
+function LiveHero({ match, espn, summary, livePoints }) {
   const { excitement, badges } = useMatchExcitement(match, espn, summary);
   const isLive     = espn?.state === 'in';
   const isFinished = espn?.state === 'post' || match.status === 'finished';
@@ -90,6 +92,9 @@ function LiveHero({ match, espn, summary }) {
         </div>
       )}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
+      {(isLive || isFinished) && (
+        <ExcitementGraph match={match} livePoints={isLive ? (livePoints || []) : undefined} />
+      )}
       {isFinished && <GoalLog match={match} />}
 
       {isLive && (
@@ -131,6 +136,7 @@ function ResultCard({ match, espn, summary }) {
       </div>
 
       {(isFinished || isLive) && <MatchExcitementBadges badges={badges} />}
+      {isFinished && <ExcitementGraph match={match} height={44} />}
       {isFinished && <GoalLog match={match} />}
 
       <div className="lp-result-card__venue">{match.city}</div>
@@ -171,6 +177,7 @@ export default function TodayMatchHub() {
 
   const [espnByMatchId,     setEspnByMatchId]     = useState({});
   const [summaryByMatchId,  setSummaryByMatchId]   = useState({});
+  const [liveGraphByMatchId, setLiveGraphByMatchId] = useState({});
 
   useEffect(() => {
     if (!todayMatches.length) return;
@@ -185,13 +192,27 @@ export default function TodayMatchHub() {
         setEspnByMatchId(next);
 
         for (const m of todayMatches.filter(m => next[m.id]?.state === 'in')) {
+          const espn = next[m.id];
+          let newSummary = summaryByMatchId[m.id];
+
           const eventId = matchEspnEventId(events, m);
-          if (!eventId) continue;
-          try {
-            const sum = await fetchEspnSummary(eventId);
-            if (cancelled) return;
-            setSummaryByMatchId(prev => ({ ...prev, [m.id]: normalizeEspnSoccerSummary(sum, m) }));
-          } catch { /* fall back to static signals */ }
+          if (eventId) {
+            try {
+              const sum = await fetchEspnSummary(eventId);
+              if (cancelled) return;
+              newSummary = normalizeEspnSoccerSummary(sum, m);
+              setSummaryByMatchId(prev => ({ ...prev, [m.id]: newSummary }));
+            } catch { /* fall back to static signals */ }
+          }
+
+          const { minute } = parseClock(espn?.clock);
+          if (minute != null) {
+            const { score } = computeMatchExcitement(m, espn, [], newSummary || {});
+            setLiveGraphByMatchId(prev => ({
+              ...prev,
+              [m.id]: [...(prev[m.id] || []).slice(-200), { minute, score }],
+            }));
+          }
         }
       } catch { /* fail soft */ }
     };
@@ -235,7 +256,8 @@ export default function TodayMatchHub() {
         </div>
 
         {liveMatches.map(m => (
-          <LiveHero key={m.id} match={m} espn={espnByMatchId[m.id]} summary={summaryByMatchId[m.id]} />
+          <LiveHero key={m.id} match={m} espn={espnByMatchId[m.id]} summary={summaryByMatchId[m.id]}
+            livePoints={liveGraphByMatchId[m.id]} />
         ))}
 
         {finishedMatches.length > 0 && (

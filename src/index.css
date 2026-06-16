@@ -883,6 +883,43 @@ td .flag-img { margin-right: 4px; }
   color: var(--text-dim);
 }
 
+/* Excitement Graph */
+.eg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 4px;
+}
+.eg__svg {
+  width: 100%;
+  display: block;
+  border-radius: 4px;
+  overflow: visible;
+}
+.eg__labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+  padding: 0 1px;
+}
+.eg__labels-ht {
+  opacity: 0.5;
+}
+.eg__labels-now {
+  color: #22c55e;
+  font-weight: 700;
+}
+.eg__live-dot {
+  animation: eg-pulse 1.4s ease-in-out infinite;
+}
+@keyframes eg-pulse {
+  0%, 100% { opacity: 1; r: 3; }
+  50%       { opacity: 0.4; r: 4.5; }
+}
+
 @media (max-width: 768px) {
   .lp-today { padding: 40px 0 36px; }
   .lp-live-hero { padding: 24px 16px; gap: 12px; }
