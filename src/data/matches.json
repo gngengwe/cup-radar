@@ -22,8 +22,16 @@
       "homeScore": 2,
       "awayScore": 0,
       "goals": [
-        { "minute": 9, "team": "home", "player": "Julian Quinones" },
-        { "minute": 67, "team": "home", "player": "Raul Jimenez" }
+        {
+          "minute": 9,
+          "team": "home",
+          "player": "Julian Quinones"
+        },
+        {
+          "minute": 67,
+          "team": "home",
+          "player": "Raul Jimenez"
+        }
       ],
       "seattleMatch": false,
       "notes": "Tournament opening match — Mexico City"
@@ -49,11 +57,32 @@
       "homeScore": 4,
       "awayScore": 1,
       "goals": [
-        { "minute": 7, "team": "home", "player": "Damian Bobadilla", "note": "og" },
-        { "minute": 31, "team": "home", "player": "Folarin Balogun" },
-        { "minute": "45+5", "team": "home", "player": "Folarin Balogun" },
-        { "minute": 73, "team": "away", "player": "Mauricio" },
-        { "minute": "90+8", "team": "home", "player": "Giovanni Reyna" }
+        {
+          "minute": 7,
+          "team": "home",
+          "player": "Damian Bobadilla",
+          "note": "og"
+        },
+        {
+          "minute": 31,
+          "team": "home",
+          "player": "Folarin Balogun"
+        },
+        {
+          "minute": "45+5",
+          "team": "home",
+          "player": "Folarin Balogun"
+        },
+        {
+          "minute": 73,
+          "team": "away",
+          "player": "Mauricio"
+        },
+        {
+          "minute": "90+8",
+          "team": "home",
+          "player": "Giovanni Reyna"
+        }
       ],
       "seattleMatch": false,
       "laMatch": true,
@@ -264,9 +293,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "seattleMatch": false,
       "notes": "Group H Matchday 1",
       "miamiMatch": true,
@@ -558,9 +587,21 @@
       "homeScore": 2,
       "awayScore": 1,
       "goals": [
-        { "minute": 59, "team": "away", "player": "Ladislav Krejci" },
-        { "minute": 67, "team": "home", "player": "Hwang In-beom" },
-        { "minute": 80, "team": "home", "player": "Oh Hyeon-gyu" }
+        {
+          "minute": 59,
+          "team": "away",
+          "player": "Ladislav Krejci"
+        },
+        {
+          "minute": 67,
+          "team": "home",
+          "player": "Hwang In-beom"
+        },
+        {
+          "minute": 80,
+          "team": "home",
+          "player": "Oh Hyeon-gyu"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -686,8 +727,16 @@
       "homeScore": 1,
       "awayScore": 1,
       "goals": [
-        { "minute": 21, "team": "away", "player": "Jovo Lukic" },
-        { "minute": 78, "team": "home", "player": "Cyle Larin" }
+        {
+          "minute": 21,
+          "team": "away",
+          "player": "Jovo Lukic"
+        },
+        {
+          "minute": 78,
+          "team": "home",
+          "player": "Cyle Larin"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -714,8 +763,18 @@
       "homeScore": 1,
       "awayScore": 1,
       "goals": [
-        { "minute": 17, "team": "away", "player": "Breel Embolo", "note": "pen" },
-        { "minute": "90+4", "team": "home", "player": "Miro Muheim", "note": "og" }
+        {
+          "minute": 17,
+          "team": "away",
+          "player": "Breel Embolo",
+          "note": "pen"
+        },
+        {
+          "minute": "90+4",
+          "team": "home",
+          "player": "Miro Muheim",
+          "note": "og"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -743,8 +802,16 @@
       "homeScore": 1,
       "awayScore": 1,
       "goals": [
-        { "minute": 21, "team": "away", "player": "Ismael Saibari" },
-        { "minute": 32, "team": "home", "player": "Vinicius Junior" }
+        {
+          "minute": 21,
+          "team": "away",
+          "player": "Ismael Saibari"
+        },
+        {
+          "minute": 32,
+          "team": "home",
+          "player": "Vinicius Junior"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -772,7 +839,11 @@
       "homeScore": 0,
       "awayScore": 1,
       "goals": [
-        { "minute": 28, "team": "away", "player": "John McGinn" }
+        {
+          "minute": 28,
+          "team": "away",
+          "player": "John McGinn"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -947,14 +1018,47 @@
       "homeScore": 7,
       "awayScore": 1,
       "goals": [
-        { "minute": 6, "team": "home", "player": "Felix Nmecha" },
-        { "minute": 21, "team": "away", "player": "Livano Comenencia" },
-        { "minute": 38, "team": "home", "player": "Nico Schlotterbeck" },
-        { "minute": "45+5", "team": "home", "player": "Kai Havertz", "note": "pen" },
-        { "minute": 47, "team": "home", "player": "Jamal Musiala" },
-        { "minute": 68, "team": "home", "player": "Nathaniel Brown" },
-        { "minute": 78, "team": "home", "player": "Deniz Undav" },
-        { "minute": 88, "team": "home", "player": "Kai Havertz" }
+        {
+          "minute": 6,
+          "team": "home",
+          "player": "Felix Nmecha"
+        },
+        {
+          "minute": 21,
+          "team": "away",
+          "player": "Livano Comenencia"
+        },
+        {
+          "minute": 38,
+          "team": "home",
+          "player": "Nico Schlotterbeck"
+        },
+        {
+          "minute": "45+5",
+          "team": "home",
+          "player": "Kai Havertz",
+          "note": "pen"
+        },
+        {
+          "minute": 47,
+          "team": "home",
+          "player": "Jamal Musiala"
+        },
+        {
+          "minute": 68,
+          "team": "home",
+          "player": "Nathaniel Brown"
+        },
+        {
+          "minute": 78,
+          "team": "home",
+          "player": "Deniz Undav"
+        },
+        {
+          "minute": 88,
+          "team": "home",
+          "player": "Kai Havertz"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -1033,10 +1137,26 @@
       "homeScore": 2,
       "awayScore": 2,
       "goals": [
-        { "minute": 50, "team": "home", "player": "Virgil van Dijk" },
-        { "minute": 57, "team": "away", "player": "Keito Nakamura" },
-        { "minute": 64, "team": "home", "player": "Crysencio Summerville" },
-        { "minute": 89, "team": "away", "player": "Daichi Kamada" }
+        {
+          "minute": 50,
+          "team": "home",
+          "player": "Virgil van Dijk"
+        },
+        {
+          "minute": 57,
+          "team": "away",
+          "player": "Keito Nakamura"
+        },
+        {
+          "minute": 64,
+          "team": "home",
+          "player": "Crysencio Summerville"
+        },
+        {
+          "minute": 89,
+          "team": "away",
+          "player": "Daichi Kamada"
+        }
       ],
       "seattleMatch": false,
       "kcMatch": false,
@@ -1140,9 +1260,9 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "laMatch": true,
@@ -1506,8 +1626,16 @@
       "homeScore": 2,
       "awayScore": 0,
       "goals": [
-        { "minute": 27, "team": "home", "player": "Nestory Irankunda" },
-        { "minute": 75, "team": "home", "player": "Connor Metcalfe" }
+        {
+          "minute": 27,
+          "team": "home",
+          "player": "Nestory Irankunda"
+        },
+        {
+          "minute": 75,
+          "team": "home",
+          "player": "Connor Metcalfe"
+        }
       ],
       "vancouverMatch": true,
       "notes": "Australia vs Turkey — Group D at BC Place"
@@ -2052,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-15T23:03:05.582Z"
+  "lastUpdated": "2026-06-16T04:08:50.375Z"
 }
