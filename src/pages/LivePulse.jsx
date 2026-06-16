@@ -370,6 +370,27 @@ const MILESTONES = {
   },
 };
 
+// ─── Retroactive milestone bodies ─────────────────────────────────────────────
+// Used in reconstruction — reference the final result rather than in-progress
+// score so the copy stays honest (we don't know the scoreline at each minute).
+
+const RETRO_MILESTONE_BODIES = {
+  10: (match, hs, as_) =>
+    `This match ended ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. In the 10th minute, teams were in the feeling-out phase — testing defensive shape before committing forward. The first goal, whenever it came, was critical.`,
+  20: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. By 20 minutes the patterns had emerged. Teams that score first win 70% of World Cup matches — so how the opening goal arrived (or didn't) shaped everything that followed.`,
+  30: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. The half-hour mark is when the shape of a match becomes clear. Goals cluster in the 35–45' window, so neither side could afford to be passive approaching the break.`,
+  40: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Five minutes to halftime — the most psychologically significant window of the first half. A goal before the break changes everything: teams that lead at HT win 81% of World Cup matches.`,
+  60: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. The hour mark is the most dangerous window in World Cup football — more goals score 60–75' than any other 15-minute block. Substitutions bring fresh legs and shift tactical shapes.`,
+  70: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Twenty minutes left in a World Cup game means maximum pressure. Every set piece and transition is a potential match-winner. Tired defenders make mistakes.`,
+  80: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Ten minutes of normal time plus 4–6 minutes of injury time — this game does not end at 90. In World Cup football, the final stretch is where nerves and tired legs write the story.`,
+};
+
 // ─── Post-game story reconstruction ──────────────────────────────────────────
 // Called when a completed match is loaded without having been watched live.
 // Generates a timeline of cards from final stats, spread at plausible minutes.
@@ -493,6 +514,21 @@ function buildPostGameStory(match, espn, summary, guard) {
       title: `${totalCorners} corners — ${cornerWho} pressed from wide`,
       subtext: `${totalCorners} corners is a significant number — ${cornerWho} (${Math.max(hC, aC)}) was consistently dangerous from wide positions and set pieces. At World Cup level roughly 1 in 10 goals comes from a corner or direct free kick.`,
       match, firedAt: Date.now(), matchMinute: 75,
+    });
+  }
+
+  // Clock check-ins — retroactive milestones at each key interval.
+  // Use final score for context but honest that these are looking back.
+  for (const [t, cfg] of Object.entries(MILESTONES)) {
+    const min = Number(t);
+    const bodyFn = RETRO_MILESTONE_BODIES[min];
+    if (!bodyFn) continue;
+    out.push({
+      id: `${match.id}-retro-milestone-${min}`,
+      type: 'milestone', priority: 0, icon: cfg.icon, silent: true,
+      title: cfg.title,
+      subtext: bodyFn(match, hs, as_),
+      match, firedAt: Date.now(), matchMinute: min,
     });
   }
 
@@ -1119,7 +1155,6 @@ export default function LivePulse() {
 
             <div className="pulse-timeline__labels">
               <span>0&apos;</span>
-              <span>45&apos;</span>
               <span>90&apos;</span>
             </div>
           </div>
