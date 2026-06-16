@@ -121,6 +121,12 @@ function ResultCard({ match, espn, summary }) {
   const homeScore  = espn?.homeScore ?? match.homeScore;
   const awayScore  = espn?.awayScore ?? match.awayScore;
 
+  // Merge ESPN's confirmed final score so buildFromScore works even when
+  // local matches.json still shows status:'scheduled' / null scores
+  const matchForGraph = isFinished
+    ? { ...match, status: 'finished', homeScore: homeScore ?? 0, awayScore: awayScore ?? 0 }
+    : match;
+
   return (
     <div className={`lp-result-card${isLive ? ' is-live' : ''}`}>
       <div className="lp-result-card__status">
@@ -143,7 +149,7 @@ function ResultCard({ match, espn, summary }) {
       </div>
 
       {(isFinished || isLive) && <MatchExcitementBadges badges={badges} />}
-      {isFinished && <ExcitementGraph match={match} summary={summary} height={44} />}
+      {isFinished && <ExcitementGraph match={matchForGraph} summary={summary} height={44} />}
       {isFinished && <GoalLog match={match} />}
 
       <div className="lp-result-card__venue">{match.city}</div>
@@ -252,7 +258,9 @@ export default function TodayMatchHub() {
       if (liveMatches.includes(m)) return false;
       return s === 'post' || m.status === 'finished';
     })
-    .sort((a, b) => b.time.localeCompare(a.time)); // most recent kickoff first
+    .sort((a, b) =>
+      new Date(matchKickoffISO(b)).getTime() - new Date(matchKickoffISO(a)).getTime()
+    );
 
   const upcomingMatches = todayMatches
     .filter(m => !liveMatches.includes(m) && !finishedMatches.includes(m))
