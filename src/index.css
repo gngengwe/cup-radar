@@ -6432,6 +6432,408 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 .pulse-toast__dismiss:hover { opacity: 1; }
 
+/* ── Match tabs ── */
+
+.pulse-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 16px 24px 0;
+  max-width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.pulse-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+  font-family: inherit;
+  text-align: left;
+  min-width: 160px;
+}
+.pulse-tab:hover { border-color: rgba(255,255,255,0.25); }
+.pulse-tab.active {
+  border-color: var(--accent);
+  background: rgba(34,197,94,0.06);
+}
+.pulse-tab.live { border-color: var(--accent); }
+
+.pulse-tab__teams {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.pulse-tab__dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+  animation: pulse-live-dot 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-live-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+.pulse-tab__sub {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+.pulse-tab__count {
+  background: var(--accent);
+  color: #000;
+  border-radius: 100px;
+  font-size: 0.6rem;
+  font-weight: 800;
+  padding: 0 5px;
+  line-height: 1.6;
+}
+
+/* ── Selected match view ── */
+
+.pulse-match-view {
+  max-width: 1100px;
+  margin: 20px auto 0;
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ── Score bar ── */
+
+.pulse-score-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 20px;
+}
+
+.pulse-score-bar__team {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  flex: 1;
+}
+.pulse-score-bar__team--away { flex-direction: row-reverse; }
+
+.pulse-score-bar__center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  flex-shrink: 0;
+}
+
+.pulse-score-bar__score {
+  font-size: 1.4rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+}
+
+.pulse-score-bar__status {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+}
+
+.pulse-score-bar__live-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: pulse-live-dot 1.5s ease-in-out infinite;
+}
+
+/* ── Timeline ── */
+
+.pulse-timeline {
+  padding: 24px 0 8px;
+}
+
+.pulse-timeline__track {
+  position: relative;
+  height: 6px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 3px;
+  margin: 24px 0 8px;
+}
+
+.pulse-timeline__fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+  transition: width 1s linear;
+  opacity: 0.5;
+}
+
+.pulse-timeline__ht {
+  position: absolute;
+  top: -8px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  pointer-events: none;
+}
+.pulse-timeline__ht::before {
+  content: '';
+  display: block;
+  width: 1px;
+  height: 22px;
+  background: rgba(255,255,255,0.2);
+}
+.pulse-timeline__ht-label {
+  font-size: 0.58rem;
+  color: var(--text-secondary);
+  opacity: 0.6;
+  letter-spacing: 0.05em;
+  margin-top: 2px;
+}
+
+.pulse-timeline__cursor {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  pointer-events: none;
+}
+.pulse-timeline__cursor::before {
+  content: '';
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: var(--accent);
+  border-radius: 50%;
+  border: 2px solid var(--bg);
+  box-shadow: 0 0 0 2px var(--accent);
+}
+.pulse-timeline__cursor-label {
+  position: absolute;
+  top: -22px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.pulse-timeline__dot {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  z-index: 2;
+  padding: 0;
+  line-height: 1;
+}
+.pulse-timeline__dot:hover {
+  border-color: rgba(255,255,255,0.5);
+  transform: translate(-50%, -50%) scale(1.15);
+  z-index: 3;
+}
+.pulse-timeline__dot.selected {
+  border-color: var(--accent);
+  background: rgba(34,197,94,0.12);
+  box-shadow: 0 0 0 3px rgba(34,197,94,0.2);
+  z-index: 4;
+}
+
+.pulse-timeline__labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.62rem;
+  color: var(--text-secondary);
+  opacity: 0.5;
+  margin-top: 4px;
+}
+
+/* ── Selected card detail panel ── */
+
+.pulse-detail {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid;
+  border-radius: 10px;
+  padding: 16px 16px 16px 18px;
+  animation: pulse-notif-in 0.25s ease;
+}
+.pulse-detail--teach   { border-left-color: #a78bfa; }
+.pulse-detail--tension { border-left-color: #f59e0b; }
+.pulse-detail--post    { border-left-color: #22c55e; }
+
+.pulse-detail__icon {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  flex-shrink: 0;
+}
+.pulse-detail__body { flex: 1; min-width: 0; }
+
+.pulse-detail__meta-top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.pulse-detail__min {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+.pulse-detail__title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.3;
+  margin-bottom: 6px;
+}
+
+.pulse-detail__sub {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.pulse-detail__close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0 2px;
+  opacity: 0.45;
+  transition: opacity 0.15s;
+  flex-shrink: 0;
+  align-self: flex-start;
+}
+.pulse-detail__close:hover { opacity: 1; }
+
+/* ── Card list ── */
+
+.pulse-card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.pulse-card-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  font-family: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+.pulse-card-item:hover { border-color: rgba(255,255,255,0.22); }
+.pulse-card-item.selected {
+  border-color: var(--accent);
+  background: rgba(34,197,94,0.05);
+}
+
+.pulse-card-item__min {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+  min-width: 26px;
+  padding-top: 1px;
+  flex-shrink: 0;
+}
+
+.pulse-card-item__icon {
+  font-size: 1rem;
+  line-height: 1.3;
+  flex-shrink: 0;
+}
+
+.pulse-card-item__text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.pulse-card-item__title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.3;
+}
+
+.pulse-card-item__sub {
+  font-size: 0.76rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  animation: pulse-notif-in 0.2s ease;
+}
+
+.pulse-card-item__badge {
+  font-size: 0.58rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #000;
+  border-radius: 4px;
+  padding: 2px 6px;
+  flex-shrink: 0;
+  align-self: flex-start;
+  margin-top: 2px;
+}
+
 /* ── Admin panel ── */
 
 .pulse-last-poll {
