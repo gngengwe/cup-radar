@@ -194,6 +194,34 @@ function generateSnapshot(match, espn, summary, ex) {
   return lines.join(' ');
 }
 
+// ─── Group stakes context ─────────────────────────────────────────────────────
+// What the current scoreline means for group advancement. Appended to the
+// 60/70/80-minute milestone cards to give casual fans real stakes context.
+
+function getStakesLine(match, hs, as_, chosenCode) {
+  if (!match.group) return null;
+  const home = match.homeTeam, away = match.awayTeam;
+  const yours = chosenCode ? (chosenCode === match.homeCode ? home : away) : null;
+  const group = `Group ${match.group}`;
+
+  if (hs === as_) {
+    const base = `Both teams take 1 point in ${group} if this stands. Draws rarely win groups — both sides need wins from here.`;
+    return yours ? `${base} Your ${yours} stay in the race, but the next game is must-win.` : base;
+  }
+
+  const leader  = hs > as_ ? home : away;
+  const trailer = hs > as_ ? away : home;
+  const lScore  = Math.max(hs, as_), tScore = Math.min(hs, as_);
+
+  if (!yours) {
+    return `If this holds: ${leader} earn 3 points in ${group}. ${trailer} need wins from their remaining group games just to stay in contention.`;
+  }
+  if (yours === leader) {
+    return `Your ${yours} lead ${lScore}–${tScore} — if this holds that's 3 big points in ${group}, a major step toward the knockout rounds.`;
+  }
+  return `Your ${yours} trail ${tScore}–${lScore} in ${group}. One goal flips the story — comebacks happen at the World Cup.`;
+}
+
 // ─── Clock milestone cards ─────────────────────────────────────────────────────
 // Each body function reacts to actual match state — score, possession, shots.
 
@@ -539,7 +567,7 @@ function buildPostGameStory(match, espn, summary, guard) {
 
 const BAND_COOLDOWN_MS = 3 * 60_000;
 
-function deriveNotifs(match, espn, summary, ex, guard) {
+function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
   const out    = [];
   const isLive = espn?.state === 'in';
   const isPost = espn?.state === 'post';
@@ -560,7 +588,21 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     const homeB = TEAM_BRIEF[match.homeCode] ?? null;
     const awayB = TEAM_BRIEF[match.awayCode] ?? null;
     let styleBlurb;
-    if (homeB && awayB) {
+    if (chosenCode) {
+      const yourCode  = chosenCode;
+      const theirCode = chosenCode === match.homeCode ? match.awayCode : match.homeCode;
+      const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const theirTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
+      const yourB  = TEAM_BRIEF[yourCode]  ?? null;
+      const theirB = TEAM_BRIEF[theirCode] ?? null;
+      if (yourB && theirB) {
+        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Key thing to watch: ${yourB.watchFor}. The challenge from ${theirTeam}: ${theirB.watchFor}.`;
+      } else if (yourB) {
+        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Watch for: ${yourB.watchFor}.`;
+      } else {
+        styleBlurb = `Watch who controls the ball in the first 10 minutes — the team that sets the tempo early often dictates the whole match.`;
+      }
+    } else if (homeB && awayB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. ${match.awayTeam} lean ${awayB.style}. First thing to watch: ${homeB.watchFor}. And from ${match.awayTeam}: ${awayB.watchFor}.`;
     } else if (homeB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. Watch for: ${homeB.watchFor}.`;
@@ -590,9 +632,23 @@ function deriveNotifs(match, espn, summary, ex, guard) {
         ? `${who} had ${val}% possession and there were ${totalShots} shots. `
         : `${totalShots} shots in the first half. `;
     }
-    const scoreCtx = hs === as_
-      ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
-      : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
+    let scoreCtx;
+    if (chosenCode) {
+      const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const yourScore = chosenCode === match.homeCode ? hs : as_;
+      const theirScore = chosenCode === match.homeCode ? as_ : hs;
+      if (yourScore > theirScore) {
+        scoreCtx = `Your ${yourTeam} lead ${yourScore}–${theirScore}. 45 minutes to protect it — second-half leads get tested hard. Stay organized.`;
+      } else if (yourScore < theirScore) {
+        scoreCtx = `Your ${yourTeam} trail ${yourScore}–${theirScore}. 45 minutes to turn it around. Comebacks at the World Cup are rare but they happen — and they start with the next goal.`;
+      } else {
+        scoreCtx = `Still ${hs}–${as_} — your ${yourTeam} have 45 minutes to make the difference.`;
+      }
+    } else {
+      scoreCtx = hs === as_
+        ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
+    }
     out.push({
       id: `${match.id}-second-half`, type: 'beat', priority: 3, icon: '🔄',
       title: `Second half — here's the story so far`,
@@ -606,8 +662,19 @@ function deriveNotifs(match, espn, summary, ex, guard) {
     const synthLines = [];
     const resultWho  = hs > as_ ? match.homeTeam : (as_ > hs ? match.awayTeam : null);
 
-    // Result
-    if (hs === as_) {
+    // Result — with perspective if a team was chosen
+    if (chosenCode) {
+      const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const yourScore  = chosenCode === match.homeCode ? hs : as_;
+      const theirScore = chosenCode === match.homeCode ? as_ : hs;
+      if (yourScore > theirScore) {
+        synthLines.push(`Your ${yourTeam} win ${yourScore}–${theirScore}. A brilliant result.`);
+      } else if (yourScore < theirScore) {
+        synthLines.push(`Your ${yourTeam} lose ${yourScore}–${theirScore}. A tough night.`);
+      } else {
+        synthLines.push(`Your ${yourTeam} draw ${yourScore}–${theirScore} — one point each.`);
+      }
+    } else if (hs === as_) {
       synthLines.push(`${match.homeTeam} ${hs}–${as_} ${match.awayTeam} — a draw, both teams take 1 point.`);
     } else {
       synthLines.push(`${resultWho} win ${Math.max(hs,as_)}–${Math.min(hs,as_)}.`);
@@ -648,9 +715,20 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       }
     }
 
+    const ftTitle = (() => {
+      if (!chosenCode) return `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+      const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const yourScore  = chosenCode === match.homeCode ? hs : as_;
+      const theirScore = chosenCode === match.homeCode ? as_ : hs;
+      const score      = `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+      if (yourScore > theirScore) return `Your ${yourTeam} win! ${score}`;
+      if (yourScore < theirScore) return `${yourTeam} lose — ${score}`;
+      return `${yourTeam} draw — ${score}`;
+    })();
+
     out.push({
       id: `${match.id}-post`, type: 'post', priority: 5, icon: '🏁',
-      title: `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`,
+      title: ftTitle,
       subtext: synthLines.join(' '),
       match, firedAt: Date.now(), matchMinute: 90,
     });
@@ -670,10 +748,12 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       const t = Number(target);
       if (currentMinute >= t && !guard.firedStatKeys.has(`milestone-${t}`)) {
         guard.firedStatKeys.add(`milestone-${t}`);
+        const baseBody  = cfg.body(match, espn, stats);
+        const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_, chosenCode) : null;
         out.push({
           id: `${match.id}-milestone-${t}`, type: 'milestone', priority: 1,
           icon: cfg.icon, title: cfg.title,
-          subtext: cfg.body(match, espn, stats),
+          subtext: stakesLine ? `${baseBody} ${stakesLine}` : baseBody,
           match, firedAt: Date.now(), matchMinute: t,
         });
       }
@@ -698,10 +778,24 @@ function deriveNotifs(match, espn, summary, ex, guard) {
       const who   = homePoss >= awayPoss ? match.homeTeam : match.awayTeam;
       const other = homePoss >= awayPoss ? match.awayTeam : match.homeTeam;
       const val   = Math.max(homePoss, awayPoss);
+      let possSubtext;
+      if (chosenCode) {
+        const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+        const yourPoss  = chosenCode === match.homeCode ? homePoss : awayPoss;
+        const theirPoss = chosenCode === match.homeCode ? awayPoss : homePoss;
+        const otherTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
+        if (yourPoss > theirPoss) {
+          possSubtext = `Your ${yourTeam} have ${yourPoss}% possession — dictating the tempo. High possession means finding space to play through; watch if it translates into shots on goal.`;
+        } else {
+          possSubtext = `Your ${yourTeam} have ${yourPoss}% — ${otherTeam} are controlling the ball at ${theirPoss}%. Your team is sitting deeper. This is either tactical (waiting to counter) or a sign of pressure. The shot count will tell you which.`;
+        }
+      } else {
+        possSubtext = `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`;
+      }
       out.push({
         id: `${match.id}-possession-intro`, type: 'explain', priority: 2, icon: '📊',
         title: `${who} with ${val}% possession`,
-        subtext: `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`,
+        subtext: possSubtext,
         match, firedAt: Date.now(), matchMinute: currentMinute,
       });
     }
@@ -784,7 +878,13 @@ function deriveNotifs(match, espn, summary, ex, guard) {
           const ctx = hs === as_
             ? `Level at ${hs}–${as_} — a goal now changes everything.`
             : `${hs > as_ ? match.homeTeam : match.awayTeam} lead, but no lead is safe in soccer.`;
-          return `${ctx} Clock pressure, attacking patterns, and score situation are all elevated right now.`;
+          const counterRef = guard.firedStatKeys.has('counter-attack')
+            ? ` The counter-attack pattern we identified is now under maximum pressure.`
+            : '';
+          const perspRef = chosenCode
+            ? ` ${(() => { const yours = chosenCode === match.homeCode ? hs : as_; const theirs = chosenCode === match.homeCode ? as_ : hs; const team = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam; return yours >= theirs ? `Hold strong, ${team}.` : `Push now, ${team}.`; })()}`
+            : '';
+          return `${ctx}${counterRef} Clock pressure, attacking patterns, and score situation are all elevated.${perspRef}`;
         },
       },
       {
@@ -848,13 +948,17 @@ export default function LivePulse() {
   const [soundEnabled,    setSoundEnabled]     = useState(false);
   const [snapshotOpen,    setSnapshotOpen]     = useState(false);
 
+  const [chosenTeams,    setChosenTeams]    = useState({});
+
   const guardsRef          = useRef({});
   const selectedMatchIdRef = useRef(null);
   const soundEnabledRef    = useRef(false);
+  const chosenTeamsRef     = useRef({});
   const [, tick_]          = useState(0);
 
   useEffect(() => { selectedMatchIdRef.current = selectedMatchId; }, [selectedMatchId]);
   useEffect(() => { soundEnabledRef.current = soundEnabled; }, [soundEnabled]);
+  useEffect(() => { chosenTeamsRef.current = chosenTeams; }, [chosenTeams]);
 
   // Relative-time refresh
   useEffect(() => {
@@ -942,7 +1046,8 @@ export default function LivePulse() {
             continue;
           }
 
-          const derived = deriveNotifs(m, espn, summary, ex, guard);
+          const chosenCode = chosenTeamsRef.current[m.id] ?? null;
+          const derived = deriveNotifs(m, espn, summary, ex, guard, chosenCode);
           guard.prevExScore   = ex.score;
           guard.prevEspnState = espn?.state ?? null;
           guard.prevPeriod    = espn?.period ?? null;
@@ -1103,6 +1208,32 @@ export default function LivePulse() {
               <FlagImg emoji={selectedMatch.awayFlag} size={22} />
             </div>
           </div>
+
+          {/* Team picker — pick a side to get perspective-aware card copy */}
+          {(isSelectedLive || isSelectedPost) && (
+            <div className="pulse-team-picker">
+              <span className="pulse-team-picker__label">Back</span>
+              {[
+                { code: selectedMatch.homeCode, name: selectedMatch.homeTeam, flag: selectedMatch.homeFlag },
+                { code: selectedMatch.awayCode, name: selectedMatch.awayTeam, flag: selectedMatch.awayFlag },
+              ].map(t => (
+                <button
+                  key={t.code}
+                  className={`pulse-team-picker__btn${chosenTeams[selectedMatchId] === t.code ? ' active' : ''}`}
+                  onClick={() => setChosenTeams(prev => ({
+                    ...prev,
+                    [selectedMatchId]: prev[selectedMatchId] === t.code ? null : t.code,
+                  }))}
+                >
+                  <FlagImg emoji={t.flag} size={14} />
+                  {t.name}
+                </button>
+              ))}
+              {chosenTeams[selectedMatchId] && (
+                <span className="pulse-team-picker__note">cards framed from your side</span>
+              )}
+            </div>
+          )}
 
           {/* On-demand snapshot panel */}
           {snapshotOpen && snapshotText && (
