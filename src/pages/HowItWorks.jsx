@@ -13,19 +13,44 @@ const SECTIONS = [
       'Matchday logistics: venue guide, bag policy, entry gates, parking',
       'Fan zones and watch parties — confirmed + TBC',
       'Pre-game neighborhood and food guide',
-      'Calendar export — add all 6 matches to Google Calendar or Apple Calendar',
+      'Calendar export — add all matches to Google Calendar or Apple Calendar',
+    ],
+  },
+  {
+    icon: '📅',
+    id: 'allgames',
+    name: 'All Games',
+    desc: 'The central fixture board for all 104 matches. Searchable, filterable, and live — with real-time ESPN scores and an excitement analytics layer on every completed game.',
+    bullets: [
+      'Search by team, city, venue, stage, group, or status — filters persist in the URL',
+      'Today\'s featured match cards with ESPN live scores refreshed every 30 seconds',
+      'Excitement Graph: an SVG arc tracing the 90-minute excitement story of every finished match',
+      'Excitement Badges: Calm · Building · Tense · High Alert · Goal Right Here',
+      'Scores and badges update from ESPN before the bot commits match data',
+      'Goal log on every completed fixture',
+    ],
+  },
+  {
+    icon: '🌍',
+    id: 'allteams',
+    name: 'All 48 Teams',
+    desc: 'Profiles for every team in the tournament — kit identity, fan culture, key players, and tournament history organized by city.',
+    bullets: [
+      'Kit colors and jersey patterns for every squad',
+      'Fan culture signature — what makes each country\'s support feel different',
+      'Key players and recent tournament history',
+      'Organized by the host city they play in',
     ],
   },
   {
     icon: '⚽',
     id: 'matches',
     name: 'Match Tracker',
-    desc: 'Every match in the tournament. Defaults to your city\'s matches. Search by team name, filter by stage or group.',
+    desc: 'City-focused match schedule. Defaults to your city\'s fixtures with jersey displays, live scores, and countdown badges.',
     bullets: [
-      'Opens on your city\'s matches by default — switch to "All" anytime',
-      'Search by team name: type "Belgium" or "Haaland" to find matches instantly',
-      'Filter by group, stage, or host city',
-      'Live scores when VITE_FOOTBALL_API_KEY is set',
+      'Opens on your city\'s matches by default',
+      'Jersey display for teams with kit data',
+      'Live scores from ESPN during active matches',
       'Countdown badges on every upcoming match',
     ],
   },
@@ -37,7 +62,6 @@ const SECTIONS = [
     bullets: [
       '🏟️ My city filter — one tap to see only your city\'s groups',
       'Groups with local matches highlighted with "Hosts matches" badge',
-      'Standings update automatically when API key is set',
       'Scenarios tab — "What does Mexico need to advance?"',
       'Mobile-scrollable tables',
     ],
@@ -52,8 +76,9 @@ const SECTIONS = [
       'Your city\'s knockout matches highlighted',
       'Seattle: R32 (Jul 1) · R16 (Jul 6)',
       'Kansas City: R32 (Jul 3) · QF (Jul 11)',
-      'Miami: R16 (Jul 7)',
-      'New York: R32 (Jul 2) · R16 (Jul 4) · SF (Jul 14)',
+      'Miami: R16 (Jul 7) · 3rd Place (Jul 18)',
+      'New York: R32 (Jul 2) · R16 (Jul 4) · World Cup Final (Jul 19)',
+      'Atlanta: SF (Jul 14)',
       'Philadelphia: QF (Jul 12) · SF (Jul 15)',
     ],
   },
@@ -72,21 +97,6 @@ const SECTIONS = [
     ],
   },
   {
-    icon: '✈️',
-    id: 'cityjump',
-    name: 'City Jump',
-    desc: 'Compare opportunistic trips to other World Cup host cities, scored from your city\'s perspective — travel ease, match quality, ticket access, and city energy.',
-    bullets: [
-      'Seattle: Vancouver, LA, Bay Area, Dallas, Mexico City, Toronto',
-      'Kansas City: Dallas, Houston, Mexico City, LA, Seattle, Vancouver',
-      'Miami: Mexico City, Dallas, Houston, Atlanta, Toronto',
-      'New York: Toronto, Boston, Philadelphia, Mexico City, Montreal',
-      'Philadelphia: New York, DC, Boston, Toronto, Mexico City',
-      'Sort by any factor: overall, match quality, ticket access, travel ease',
-      'Expand each city for flight time, hotel notes, and "best for" summary',
-    ],
-  },
-  {
     icon: '🍺',
     id: 'watch',
     name: 'Watch Guide',
@@ -97,8 +107,8 @@ const SECTIONS = [
       'Miami: Wynwood · Brickell · South Beach · Design District',
       'New York: Midtown · Hell\'s Kitchen · East Rutherford · Hoboken',
       'Philadelphia: South Philly · Old City · Rittenhouse Square · Passyunk',
-      'Filter by walking distance, transit reach, or outdoor options',
-      'Each neighborhood: spots, tips, crowd forecast, and transit advice',
+      'Atlanta: Castleberry Hill · Home Depot Backyard · Centennial Olympic Park',
+      'Vancouver: Yaletown · Gastown · Granville · PNE Fan Festival',
     ],
   },
   {
@@ -178,7 +188,7 @@ const FAQ = [
   },
   {
     q: 'How often is the data updated?',
-    a: 'During the tournament, match scores and standings update automatically if a live API key is configured. News, ticket intelligence, and city event data are updated manually on a rolling basis. The "updated" timestamp on each section shows when data was last refreshed.',
+    a: 'Live match scores come from ESPN and refresh every 30 seconds during active games. Match result data (goals, final scores) is committed by a bot after each match and the site auto-deploys in ~40 seconds — the app also polls the GitHub raw URL every 5 minutes to catch updates without a page reload. News, ticket intelligence, and city data are updated manually on a rolling basis.',
   },
   {
     q: 'Can I switch between cities?',
@@ -198,7 +208,7 @@ const FAQ = [
   },
   {
     q: 'Which host cities does Cup Radar cover?',
-    a: 'Cup Radar covers 7 host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver. City Jump lets you compare opportunistic trips to other host cities (LA, Dallas, Mexico City, Toronto) from any home base.',
+    a: 'Cup Radar covers 7 host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver. Each city has its own HQ, Watch Guide, Match Tracker, Ticket Radar, Team IQ, and city-filtered views across all shared sections.',
   },
   {
     q: 'How is the data kept up to date?',
@@ -239,8 +249,8 @@ export default function HowItWorks() {
           <h2 className="hiw-section-title">Seven cities. One engine.</h2>
           <p className="hiw-section-body">
             Cup Radar is structured around your home city. Choose any of the 7 host cities on the landing page —
-            your City HQ, Watch Guide, City Jump, and Ticket Radar all adjust to your perspective.
-            Shared sections (Match Tracker, Groups, Bracket, Newsroom, Narratives, Upsets)
+            your City HQ, Watch Guide, and Ticket Radar all adjust to your perspective.
+            Shared sections (All Games, Groups, Bracket, Newsroom, Narratives, Upsets)
             cover the full tournament but default-filter to your city where relevant.
           </p>
           <div className="hiw-city-pills">
@@ -298,7 +308,7 @@ export default function HowItWorks() {
 
         {/* ── Sections grid ── */}
         <section className="hiw-section">
-          <h2 className="hiw-section-title">The 12 dashboard sections.</h2>
+          <h2 className="hiw-section-title">The 13 dashboard sections.</h2>
           <div className="hiw-sections-grid">
             {SECTIONS.map(s => (
               <div key={s.id} className="hiw-section-card">
@@ -321,19 +331,25 @@ export default function HowItWorks() {
           <div className="hiw-data-grid">
             <div className="hiw-data-card">
               <div className="hiw-data-card__icon">📡</div>
-              <div className="hiw-data-card__title">Live scores & standings</div>
+              <div className="hiw-data-card__title">Live scores — ESPN polling</div>
               <p className="hiw-data-card__body">
-                When configured, Cup Radar connects to <strong>football-data.org</strong> for live match scores
-                and group standings. Updates every 60 seconds during live matches, every 5 minutes otherwise.
-                Falls back to local data if the API is unavailable.
+                During live matches, Cup Radar polls the <strong>ESPN scoreboard API</strong> every 30 seconds
+                for scores, match clock, and commentary events. This powers live score cards, the excitement
+                meter, and the excitement badges — all before any manual update is needed.
+                Match data (goals, final scores) is also committed to the repo by a bot and deployed automatically,
+                with the GitHub raw URL polled every 5 minutes to catch updates without a page reload.
               </p>
             </div>
             <div className="hiw-data-card">
-              <div className="hiw-data-card__icon">🌤️</div>
-              <div className="hiw-data-card__title">Matchday weather</div>
+              <div className="hiw-data-card__icon">📈</div>
+              <div className="hiw-data-card__title">Excitement system</div>
               <p className="hiw-data-card__body">
-                Match cards show a live weather forecast from <strong>OpenWeatherMap</strong> when the match
-                is within 5 days. Beyond that window, a placeholder is shown. Forecasts update hourly.
+                Every finished match gets an <strong>Excitement Graph</strong> — a 90-minute SVG arc computed
+                from a multi-factor engine: score pressure, clock leverage, stage weight, upset potential,
+                attack pressure, lead-swing drama, and chaos bonus. The graph peaks at goal moments and sags
+                in quiet stretches. The <strong>peak score</strong> is annotated with a band label:
+                Calm · Building · Tense · High Alert · Goal Right Here. Live matches show an
+                Excitement Meter instead.
               </p>
             </div>
             <div className="hiw-data-card">

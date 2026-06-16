@@ -18,7 +18,6 @@ const Matches            = lazy(() => import('../dashboard/Matches'));
 const Groups             = lazy(() => import('../dashboard/Groups'));
 const Bracket            = lazy(() => import('../dashboard/Bracket'));
 const TicketPulse        = lazy(() => import('../dashboard/TicketPulse'));
-const CityJump           = lazy(() => import('../dashboard/CityJump'));
 const SeattleWatchGuide  = lazy(() => import('../dashboard/WatchGuide'));
 const KCWatchGuide       = lazy(() => import('../dashboard/KCWatchGuide'));
 const MiamiWatchGuide    = lazy(() => import('../dashboard/MiamiWatchGuide'));
@@ -122,7 +121,6 @@ function buildNav(city) {
     { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'City view'            },
     { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
     { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
-    { id: 'cityjump',   label: 'City Jump',          icon: '✈️',      desc: 'Trip compare'         },
     { id: '__divider-2__', divider: true },
     { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
     { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
@@ -142,7 +140,6 @@ function getSectionComponent(city, section) {
     groups:     Groups,
     bracket:    Bracket,
     tickets:    TicketPulse,
-    cityjump:   CityJump,
     watch:      cfg.watchSection,
     news:       Newsroom,
     narratives: NarrativeTracker,

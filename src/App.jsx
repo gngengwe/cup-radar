@@ -14,7 +14,7 @@ function LegacyDashboardRedirect() {
   const { section } = useParams();
   const citylessRoutes = ['matches', 'groups', 'bracket', 'tickets',
                           'news', 'watch', 'narratives', 'upsets',
-                          'cityjump', 'teamiq', 'allteams', 'allgames'];
+                          'teamiq', 'allteams', 'allgames'];
   if (section === 'culture')    return <Navigate to="/world-cup-primer" replace />;
   if (section === 'seattle')    return <Navigate to="/seattle/hq"    replace />;
   if (section === 'kansascity') return <Navigate to="/kansascity/hq" replace />;
