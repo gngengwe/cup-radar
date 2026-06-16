@@ -2,6 +2,11 @@ import { useState, useEffect, useCallback } from 'react';
 import { fetchAllMatches, fetchTodayMatches, invalidateLiveCache, isLiveDataEnabled } from '../api/footballData';
 import localData from '../data/matches.json';
 
+// Fetches the latest matches.json from GitHub after each bot commit lands.
+// raw.githubusercontent.com is CORS-open for public repos; no auth needed.
+const REMOTE_MATCHES_URL =
+  'https://raw.githubusercontent.com/gngengwe/cup-radar/master/src/data/matches.json';
+
 function hasLiveMatch(matches) {
   return matches.some(m => m.status === 'live');
 }
@@ -40,6 +45,24 @@ export function useMatches() {
     const id = setInterval(load, 60_000);
     return () => clearInterval(id);
   }, [isLive, load]);
+
+  // Periodic refresh from GitHub raw — catches bot commits (goal data, scores)
+  // within ~5 min of landing, regardless of whether a live match is in progress.
+  useEffect(() => {
+    const refreshFromGitHub = async () => {
+      try {
+        const res = await fetch(REMOTE_MATCHES_URL, { cache: 'no-store' });
+        if (!res.ok) return;
+        const json = await res.json();
+        // Guard against empty/partial responses overwriting good local data
+        if (Array.isArray(json?.matches) && json.matches.length >= 50) {
+          setMatches(json.matches);
+        }
+      } catch { /* fail soft — bundled data stays in state */ }
+    };
+    const id = setInterval(refreshFromGitHub, 5 * 60_000);
+    return () => clearInterval(id);
+  }, []);
 
   const source = error || !isLiveDataEnabled() ? 'local' : 'live';
 

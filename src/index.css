@@ -919,6 +919,31 @@ td .flag-img { margin-right: 4px; }
   0%, 100% { opacity: 1; r: 3; }
   50%       { opacity: 0.4; r: 4.5; }
 }
+.eg__peak {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  gap: 4px;
+  margin-bottom: 2px;
+}
+.eg__peak-score {
+  font-size: 15px;
+  font-weight: 800;
+  color: #22c55e;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+.eg__peak-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  line-height: 1;
+}
+.eg__peak-tag {
+  font-size: 10px;
+  color: var(--text-dim);
+  line-height: 1;
+}
 
 @media (max-width: 768px) {
   .lp-today { padding: 40px 0 36px; }

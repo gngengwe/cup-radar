@@ -161,7 +161,7 @@ function MatchDayCard({ match, espn, summary }) {
       <div className="allgames-matchday-card__status">{status}</div>
       {isLive && excitement && <ExcitementMeter excitement={excitement} compact />}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
-      {isFinished && <ExcitementGraph match={match} height={44} />}
+      {isFinished && <ExcitementGraph match={match} summary={summary} height={44} />}
       {isFinished && <GoalLog match={match} />}
       <div className="allgames-matchday-card__meta">
         {match.time} {match.timezone} · {match.city}

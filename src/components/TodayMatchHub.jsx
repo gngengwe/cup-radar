@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useMatches } from '../hooks/useMatches';
 import FlagImg from './FlagImg';
 import JerseyDisplay from './JerseyDisplay';
@@ -93,7 +93,8 @@ function LiveHero({ match, espn, summary, livePoints }) {
       )}
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
       {(isLive || isFinished) && (
-        <ExcitementGraph match={match} livePoints={isLive ? (livePoints || []) : undefined} />
+        <ExcitementGraph match={match} summary={summary}
+          livePoints={isLive ? (livePoints || []) : undefined} />
       )}
       {isFinished && <GoalLog match={match} />}
 
@@ -136,7 +137,7 @@ function ResultCard({ match, espn, summary }) {
       </div>
 
       {(isFinished || isLive) && <MatchExcitementBadges badges={badges} />}
-      {isFinished && <ExcitementGraph match={match} height={44} />}
+      {isFinished && <ExcitementGraph match={match} summary={summary} height={44} />}
       {isFinished && <GoalLog match={match} />}
 
       <div className="lp-result-card__venue">{match.city}</div>
@@ -175,9 +176,10 @@ export default function TodayMatchHub() {
     [matches, todayStr],
   );
 
-  const [espnByMatchId,     setEspnByMatchId]     = useState({});
-  const [summaryByMatchId,  setSummaryByMatchId]   = useState({});
-  const [liveGraphByMatchId, setLiveGraphByMatchId] = useState({});
+  const [espnByMatchId,      setEspnByMatchId]      = useState({});
+  const [summaryByMatchId,   setSummaryByMatchId]    = useState({});
+  const [liveGraphByMatchId, setLiveGraphByMatchId]  = useState({});
+  const summaryFetchedRef = useRef(new Set());
 
   useEffect(() => {
     if (!todayMatches.length) return;
@@ -213,6 +215,22 @@ export default function TodayMatchHub() {
               [m.id]: [...(prev[m.id] || []).slice(-200), { minute, score }],
             }));
           }
+        }
+
+        // Fetch summary once for finished matches (gives scoreTimeline for graph
+        // before bot commits goal data to matches.json)
+        const newlyFinished = todayMatches.filter(m =>
+          next[m.id]?.state === 'post' && !summaryFetchedRef.current.has(m.id)
+        );
+        for (const m of newlyFinished) {
+          summaryFetchedRef.current.add(m.id);
+          const eventId = matchEspnEventId(events, m);
+          if (!eventId) continue;
+          try {
+            const sum = await fetchEspnSummary(eventId);
+            if (cancelled) return;
+            setSummaryByMatchId(prev => ({ ...prev, [m.id]: normalizeEspnSoccerSummary(sum, m) }));
+          } catch { /* fail soft */ }
         }
       } catch { /* fail soft */ }
     };
