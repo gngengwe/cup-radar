@@ -6360,8 +6360,8 @@ a.wcp-source-chip:hover { color: var(--text); }
   z-index: 9000;
 }
 
+.pulse-toast--teach   { border-left-color: #a78bfa; }
 .pulse-toast--tension { border-left-color: #f59e0b; }
-.pulse-toast--stats   { border-left-color: #3b82f6; }
 .pulse-toast--post    { border-left-color: #22c55e; }
 
 @keyframes pulse-toast-slide {
