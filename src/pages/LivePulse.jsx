@@ -1520,10 +1520,19 @@ export default function LivePulse() {
             guard.prevPeriod    = espn?.period ?? null;
             guard.prevHomeScore = espn?.homeScore ?? 0;
             guard.prevAwayScore = espn?.awayScore ?? 0;
-            // Show loading state immediately on first detection of a cold post game
             if (isPostGame && !watchedLive) {
-              setReplayStateMap(prev => ({ ...prev, [m.id]: 'loading' }));
-              setReplayLoadStartMap(prev => ({ ...prev, [m.id]: Date.now() }));
+              if (summary) {
+                // Summary already in hand (fetched in the parallel Promise.all above) —
+                // build the replay deck immediately instead of waiting for the next poll.
+                const chosenCode = chosenTeamsRef.current[m.id] ?? null;
+                guard.firedPost = true;
+                const deck = buildReplayDeck(m, espn, summary, guard, chosenCode);
+                setReplayCardsMap(prev => ({ ...prev, [m.id]: deck }));
+                setReplayStateMap(prev => ({ ...prev, [m.id]: 'ready' }));
+              } else {
+                setReplayStateMap(prev => ({ ...prev, [m.id]: 'loading' }));
+                setReplayLoadStartMap(prev => ({ ...prev, [m.id]: Date.now() }));
+              }
             }
             try {
               sessionStorage.setItem(`lp-guard-${m.id}`, JSON.stringify({
@@ -1535,7 +1544,9 @@ export default function LivePulse() {
                 prevAwayScore: guard.prevAwayScore,
                 firedStatKeys: [...guard.firedStatKeys],
                 firedBands: guard.firedBands,
-                firedPost: guard.firedPost,
+                // Never persist firedPost=true for replay games — it would block
+                // needsSummary on the next page load, preventing deck rebuild.
+                firedPost: watchedLive ? guard.firedPost : false,
               }));
             } catch {
               // storage full or private mode - fail soft
@@ -1575,7 +1586,7 @@ export default function LivePulse() {
               prevAwayScore: guard.prevAwayScore,
               firedStatKeys: [...guard.firedStatKeys],
               firedBands: guard.firedBands,
-              firedPost: guard.firedPost,
+              firedPost: watchedLive ? guard.firedPost : false,
             }));
           } catch {
             // storage full or private mode - fail soft
