@@ -2006,34 +2006,6 @@ export default function LivePulse() {
             </div>
           </div>
 
-          {/* Team picker — pick a side or stay neutral */}
-          {selectedMatch && (
-            <div className="pulse-team-picker">
-              <span className="pulse-team-picker__label">View as</span>
-              <button
-                className={`pulse-team-picker__btn${!chosenTeams[selectedMatchId] ? ' active' : ''}`}
-                onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: null }))}
-              >
-                ⚖️ Neutral
-              </button>
-              {[
-                { code: selectedMatch.homeCode, name: selectedMatch.homeTeam, flag: selectedMatch.homeFlag },
-                { code: selectedMatch.awayCode, name: selectedMatch.awayTeam, flag: selectedMatch.awayFlag },
-              ].map(t => (
-                <button
-                  key={t.code}
-                  className={`pulse-team-picker__btn${chosenTeams[selectedMatchId] === t.code ? ' active' : ''}`}
-                  onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: t.code }))}
-                >
-                  <FlagImg emoji={t.flag} size={14} />
-                  {t.name}
-                </button>
-              ))}
-              {(!selectedEspn || selectedEspn.state === 'pre') && (
-                <span className="pulse-team-picker__note">Pick your team before kickoff for a personalized feed</span>
-              )}
-            </div>
-          )}
 
           {/* Replay panel — shows for cold-loaded finished games */}
           {isSelectedPost && replayStateMap[selectedMatchId] && (
