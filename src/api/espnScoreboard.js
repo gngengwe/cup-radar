@@ -94,12 +94,40 @@ export function matchEspnEventId(events, match) {
 }
 
 /**
- * Fetches ESPN's match summary (commentary, boxscore, rosters, standings)
- * for a given event id. Used for V2 event-driven excitement/badges — best
- * effort only, callers should fail soft if this throws.
+ * Fetches ESPN's match summary direct from ESPN (live games, fallback).
  */
 export async function fetchEspnSummary(eventId) {
   const res = await fetch(`${SUMMARY_BASE}?event=${eventId}`);
   if (!res.ok) throw new Error(`ESPN summary ${res.status}`);
   return res.json();
+}
+
+/**
+ * Fetches a finished-game summary via the /api/summary cache layer.
+ * On cache-miss the Worker proxies ESPN and stores the result in D1,
+ * so subsequent calls return instantly from the edge.
+ * Falls back to direct ESPN fetch if the cache endpoint is unavailable.
+ */
+export async function fetchCachedSummary(eventId) {
+  try {
+    const res = await fetch(`/api/summary?eventId=${eventId}`);
+    if (res.ok) return res.json();
+  } catch { /* network error — fall through to ESPN */ }
+  return fetchEspnSummary(eventId);
+}
+
+/**
+ * Explicitly stores a finished-game summary in D1 via the /api/summary
+ * POST endpoint. Called when a live game transitions to 'post' and summary
+ * is already in hand — avoids waiting for the first-read cache-miss path.
+ * Fire-and-forget: failures are silent.
+ */
+export async function storeSummaryCache(eventId, matchId, data) {
+  try {
+    await fetch('/api/summary', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ eventId, matchId, data }),
+    });
+  } catch { /* best effort */ }
 }

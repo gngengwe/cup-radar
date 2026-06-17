@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useMatches } from '../hooks/useMatches';
 import {
   fetchEspnScoreboard, matchEspnStatus, matchEspnEventId, fetchEspnSummary,
+  fetchCachedSummary, storeSummaryCache,
 } from '../api/espnScoreboard';
 import { normalizeEspnSoccerSummary } from '../utils/normalizeEspnSoccerSummary';
 import { computeMatchExcitement } from '../utils/matchExcitementEngine';
@@ -1567,7 +1568,7 @@ export default function LivePulse() {
         const eventId = matchEspnEventId(espnEvents, match);
         if (!eventId) { setReplayStateMap(prev => ({ ...prev, [selectedMatchId]: null })); return; }
 
-        const raw = await fetchEspnSummary(eventId);
+        const raw = await fetchCachedSummary(eventId);
         if (cancelled) return;
         const summary = normalizeEspnSoccerSummary(raw, match);
 
@@ -1712,7 +1713,7 @@ export default function LivePulse() {
         const nextEx    = {};
         const newNotifs = [];
 
-        for (const { match: m, espn, guard } of matchPass) {
+        for (const { match: m, espn, guard, eventId } of matchPass) {
           const summary = mergedSummaryMap[m.id];
 
           const ex = computeMatchExcitement(m, espn, [], summary || {});
@@ -1775,8 +1776,14 @@ export default function LivePulse() {
             }
           } else {
             // ── LIVE / WATCHED-LIVE PATH ───────────────────────────────────────
+            const prevFiredPost = guard.firedPost;
             const derived = deriveNotifs(m, espn, summary, ex, guard, chosenCode);
             if (derived.length) newNotifs.push(...derived);
+            // When the FT card fires for the first time, persist the summary to D1
+            // so future loads of this game bypass ESPN entirely.
+            if (!prevFiredPost && guard.firedPost && summary && eventId) {
+              storeSummaryCache(eventId, m.id, summary);
+            }
           }
 
           guard.prevExScore   = ex.score;
