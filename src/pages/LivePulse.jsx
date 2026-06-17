@@ -944,7 +944,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
 
   // ── LAYER 1: BEAT CARDS ──────────────────────────────────────────────────
 
-  if (isLive && guard.prevEspnState !== 'in' && !guard.firedStatKeys.has('kickoff')) {
+  if (isLive && !guard.firedStatKeys.has('kickoff')) {
     guard.firedStatKeys.add('kickoff');
     const stageCtx = match.group
       ? `Group ${match.group} — 3 points for a win, 1 for a draw, 0 for a loss`
@@ -971,7 +971,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
-  if (isLive && period >= 2 && (guard.prevPeriod ?? 0) < 2 && !guard.firedStatKeys.has('second-half')) {
+  if (isLive && period >= 2 && !guard.firedStatKeys.has('second-half')) {
     guard.firedStatKeys.add('second-half');
     let htStat = '';
     if (stats) {
@@ -994,7 +994,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
-  if (isLive && period >= 3 && (guard.prevPeriod ?? 0) < 3 && !guard.firedStatKeys.has('extra-time')) {
+  if (isLive && period >= 3 && !guard.firedStatKeys.has('extra-time')) {
     guard.firedStatKeys.add('extra-time');
     out.push({
       id: `${match.id}-extra-time`, type: 'beat', priority: 3, icon: '⏱',
@@ -1004,7 +1004,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
-  if (isLive && period >= 5 && (guard.prevPeriod ?? 0) < 5 && !guard.firedStatKeys.has('penalties')) {
+  if (isLive && period >= 5 && !guard.firedStatKeys.has('penalties')) {
     guard.firedStatKeys.add('penalties');
     out.push({
       id: `${match.id}-penalties`, type: 'beat', priority: 3, icon: '🥅',
@@ -1512,6 +1512,22 @@ export default function LivePulse() {
   useEffect(() => { chosenTeamsRef.current = chosenTeams; }, [chosenTeams]);
   useEffect(() => { summaryMapRef.current = summaryMap; }, [summaryMap]);
 
+  // Clear stale firedStatKeys from sessionStorage on mount so reloads regenerate cards
+  useEffect(() => {
+    try {
+      for (let i = 0; i < sessionStorage.length; i++) {
+        const key = sessionStorage.key(i);
+        if (!key?.startsWith('lp-guard-')) continue;
+        const raw = sessionStorage.getItem(key);
+        if (!raw) continue;
+        const saved = JSON.parse(raw);
+        if (saved.firedStatKeys?.length) {
+          sessionStorage.setItem(key, JSON.stringify({ ...saved, firedStatKeys: [] }));
+        }
+      }
+    } catch { /* private mode / storage full — ignore */ }
+  }, []);
+
   // Relative-time refresh
   useEffect(() => {
     const id = setInterval(() => tick_(n => n + 1), 15_000);
@@ -1734,7 +1750,7 @@ export default function LivePulse() {
                 prevPeriod: guard.prevPeriod,
                 prevHomeScore: guard.prevHomeScore,
                 prevAwayScore: guard.prevAwayScore,
-                firedStatKeys: [...guard.firedStatKeys],
+                firedStatKeys: [],
                 firedBands: guard.firedBands,
                 // Never persist firedPost=true for replay games — it would block
                 // needsSummary on the next page load, preventing deck rebuild.
