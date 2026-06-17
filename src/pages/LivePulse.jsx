@@ -584,6 +584,120 @@ function buildPostGameStory(match, espn, summary, guard) {
   return out;
 }
 
+// ─── Goal explainer card ──────────────────────────────────────────────────────
+
+function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
+  const hs   = espn?.homeScore ?? 0;
+  const as_  = espn?.awayScore ?? 0;
+  const home = match.homeTeam;
+  const away = match.awayTeam;
+  const events = summary?.events ?? [];
+
+  const prevHs  = guard.prevHomeScore ?? 0;
+  const prevAs_ = guard.prevAwayScore ?? 0;
+  const homeDiff = hs - prevHs;
+  const scoringTeam = homeDiff > 0 ? 'home' : 'away';
+
+  // Find the most recent goal event not yet attributed
+  const goalFamilies = ['goal', 'penalty', 'own-goal'];
+  const unattributed = events.filter(ev =>
+    goalFamilies.includes(ev.family) &&
+    (ev.minute ?? 0) <= (currentMinute ?? 90) + 2 &&
+    !guard.firedStatKeys.has(`goal-ev-${ev.id}`)
+  );
+  const goalEvent = unattributed[unattributed.length - 1] ?? null;
+  if (goalEvent) guard.firedStatKeys.add(`goal-ev-${goalEvent.id}`);
+
+  // Determine goal type
+  let goalType = 'open play';
+  let isOwnGoal = false;
+
+  if (goalEvent) {
+    if (goalEvent.family === 'penalty') {
+      goalType = 'penalty';
+    } else if (goalEvent.family === 'own-goal' || goalEvent.isOwnGoal) {
+      goalType = 'own goal';
+      isOwnGoal = true;
+    } else {
+      const goalMin = goalEvent.minute ?? currentMinute ?? 0;
+      const recent  = events.filter(ev => ev.minute >= goalMin - 3 && ev.minute < goalMin);
+      if (recent.some(ev => ev.family === 'corner'))     goalType = 'corner';
+      else if (recent.some(ev => ev.family === 'foul'))  goalType = 'free kick';
+    }
+  } else {
+    const hp = summary?.stats?.homePossession ?? 50;
+    const ap = summary?.stats?.awayPossession ?? 50;
+    const scorerPoss = scoringTeam === 'home' ? hp : ap;
+    const defPoss    = scoringTeam === 'home' ? ap : hp;
+    if (defPoss >= 60 && scorerPoss <= 40) goalType = 'counter';
+  }
+
+  // The team that benefits from the goal
+  const benefitTeam = isOwnGoal
+    ? (scoringTeam === 'home' ? away : home)
+    : (scoringTeam === 'home' ? home : away);
+
+  const scorer    = goalEvent?.scorer ?? null;
+  const scorerStr = scorer ? ` (${scorer})` : '';
+  const scoreline = `${hs}–${as_}`;
+
+  let typeLabel, titleText, subtext;
+
+  if (goalType === 'penalty') {
+    typeLabel = 'Penalty';
+    titleText = `Penalty goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A penalty is awarded for a foul inside the 18-yard box. The taker shoots from 12 yards with only the goalkeeper to beat — but the keeper must pick a side to dive before the ball is struck. World Cup conversion rate is around 75%. It's a straight psychological duel: technique meets nerve.`;
+  } else if (goalType === 'own goal') {
+    typeLabel = 'Own goal';
+    titleText = `Own goal — ${benefitTeam} benefit. Now ${scoreline}.`;
+    subtext   = `An own goal occurs when a defender puts the ball into their own net — most often from a cross, shot, or clearance under pressure. They account for roughly 5% of World Cup goals. At this level, forwards deliver balls at pace with intelligent runs; defenders must intercept or deflect, and sometimes the geometry just doesn't work out.`;
+  } else if (goalType === 'corner') {
+    typeLabel = 'Set piece';
+    titleText = `Set piece goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A goal from a corner kick situation — the ball delivered from the corner flag into the penalty area. Around 25–30% of World Cup goals originate from set pieces. Teams rehearse these routines intensively: blockers, movers, target players, second-ball runners. The defending team knows it's coming and still can't always stop it.`;
+  } else if (goalType === 'free kick') {
+    typeLabel = 'Free kick';
+    titleText = `Free kick goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A goal from a free kick situation near the box. A defensive wall blocks the direct path, but a curled or dipped shot over it is nearly unstoppable when executed well. Direct free kick conversion rates are below 10% at this level — but when they go in, they tend to be spectacular. The threat alone disrupts defensive shape.`;
+  } else if (goalType === 'counter') {
+    const hp = summary?.stats?.homePossession ?? 50;
+    const ap = summary?.stats?.awayPossession ?? 50;
+    const defPoss = scoringTeam === 'home' ? ap : hp;
+    typeLabel = 'Counter';
+    titleText = `Counter-attack goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A counter-attack goal — ${benefitTeam} absorbed ${defPoss}% possession and punished the opponent in space. Counter-attacks are most dangerous when the opposition commits players forward: the defensive line is stretched, wide channels are open, and one or two passes can create a clean chance. Speed + composure = the counter-attack goal.`;
+  } else {
+    typeLabel = 'Open play';
+    titleText = `Goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `An open-play goal built through passing, movement, and timing. This type of goal requires multiple players to read the same moment simultaneously — the run, the pass weight, the finish. Defenders must track the ball or the runner, rarely both at once. This is what winning the tactical battle looks like in real time.`;
+  }
+
+  // Perspective note
+  if (chosenCode) {
+    const yourTeam  = chosenCode === match.homeCode ? home : away;
+    const yourScore = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    const youScored = benefitTeam === yourTeam;
+    if (youScored && yourScore > theirScore)      subtext += ` Your ${yourTeam} lead now.`;
+    else if (youScored && yourScore === theirScore) subtext += ` Your ${yourTeam} have levelled it.`;
+    else if (!youScored && theirScore > yourScore)  subtext += ` Your ${yourTeam} are now trailing — a response is needed.`;
+    else if (!youScored && theirScore === yourScore) subtext += ` They've pegged ${yourTeam} back — level again.`;
+  }
+
+  return {
+    id:            `${match.id}-goal-${hs}-${as_}`,
+    type:          'goal',
+    priority:      4,
+    icon:          '⚽',
+    title:         titleText,
+    subtext,
+    match,
+    firedAt:       Date.now(),
+    matchMinute:   currentMinute ?? null,
+    goalTypeLabel: typeLabel,
+  };
+}
+
 // ─── FT card builder ─────────────────────────────────────────────────────────
 // Shared by deriveNotifs (live → post) and buildReplayDeck (cold load).
 
@@ -756,6 +870,19 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       subtext: `${htStat}${scoreCtx}`,
       match, firedAt: Date.now(), matchMinute: 45,
     });
+  }
+
+  // ── GOAL DETECTION ────────────────────────────────────────────────────────
+  if (isLive && guard.prevHomeScore !== null && guard.prevAwayScore !== null) {
+    const prevTotal = guard.prevHomeScore + guard.prevAwayScore;
+    const currTotal = hs + as_;
+    if (currTotal > prevTotal) {
+      const goalKey = `goal-${hs}-${as_}`;
+      if (!guard.firedStatKeys.has(goalKey)) {
+        guard.firedStatKeys.add(goalKey);
+        out.push(buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute));
+      }
+    }
   }
 
   if (isPost && !guard.firedPost) {
@@ -941,6 +1068,7 @@ const TYPE_COLORS = {
   explain:   '#a78bfa',
   tension:   '#f59e0b',
   post:      '#22c55e',
+  goal:      '#f97316',
 };
 
 const TYPE_LABELS = {
@@ -949,6 +1077,7 @@ const TYPE_LABELS = {
   explain:   'explain it',
   tension:   'tension',
   post:      'full time',
+  goal:      'goal',
 };
 
 // ─── Component ────────────────────────────────────────────────────────────────
@@ -1070,6 +1199,7 @@ export default function LivePulse() {
             guardsRef.current[m.id] = {
               initialized: false, prevExScore: null,
               prevEspnState: null, prevPeriod: null,
+              prevHomeScore: null, prevAwayScore: null,
               firedBands: {}, firedStatKeys: new Set(), firedPost: false,
             };
           }
@@ -1100,6 +1230,8 @@ export default function LivePulse() {
             guard.prevExScore   = ex.score;
             guard.prevEspnState = espn?.state ?? null;
             guard.prevPeriod    = espn?.period ?? null;
+            guard.prevHomeScore = espn?.homeScore ?? 0;
+            guard.prevAwayScore = espn?.awayScore ?? 0;
             // Show loading state immediately on first detection of a cold post game
             if (isPostGame && !watchedLive) {
               setReplayStateMap(prev => ({ ...prev, [m.id]: 'loading' }));
@@ -1127,6 +1259,8 @@ export default function LivePulse() {
           guard.prevExScore   = ex.score;
           guard.prevEspnState = espn?.state ?? null;
           guard.prevPeriod    = espn?.period ?? null;
+          guard.prevHomeScore = espn?.homeScore ?? 0;
+          guard.prevAwayScore = espn?.awayScore ?? 0;
         }
 
         setExMap(nextEx);

@@ -13,7 +13,7 @@ const GOAL_LINE = /^Goal!\s*(.+?)\s+(\d+),\s*(.+?)\s+(\d+)/i;
 function classifyFamily(rawType, typeText) {
   const t = (rawType || typeText || '').toLowerCase().replace(/[\s_]/g, '-');
   if (t.includes('penalty'))                          return 'penalty';
-  if (t.includes('own') && t.includes('goal'))        return 'goal';
+  if (t.includes('own') && t.includes('goal'))        return 'own-goal';
   if (t === 'goal' || t.startsWith('goal-'))          return 'goal';
   if (t.includes('second-yellow') || t.includes('red-card')) return 'red-card';
   if (t.includes('yellow-card'))                      return 'yellow-card';
@@ -34,11 +34,23 @@ function parseMinute(clock) {
   return m ? Number(m[1]) : null;
 }
 
+// Extract scorer name from ESPN participants array
+function extractScorer(participants) {
+  if (!Array.isArray(participants)) return null;
+  const p = participants.find(p =>
+    p.type?.name?.toLowerCase().includes('scorer') ||
+    p.type?.id === '1' ||
+    p.type?.id === 1
+  ) || participants[0];
+  return p?.athlete?.displayName || p?.athlete?.shortName || null;
+}
+
 // Normalise a raw play object (either from commentary.play or plays[i])
 function normPlay(raw) {
   if (!raw?.id) return null;
   const rawType  = raw.type?.type  || raw.type?.abbreviation || '';
   const typeText = raw.type?.text  || raw.type?.name         || '';
+  const family   = classifyFamily(rawType, typeText);
   return {
     id:          raw.id,
     minute:      parseMinute(raw.clock),
@@ -47,7 +59,10 @@ function normPlay(raw) {
     teamName:    raw.team?.displayName || raw.team?.name || null,
     text:        raw.text || '',
     rawType,
-    family:      classifyFamily(rawType, typeText),
+    family,
+    scorer:      (family === 'goal' || family === 'penalty' || family === 'own-goal')
+                   ? extractScorer(raw.participants) : null,
+    scoringPlay: !!raw.scoringPlay,
   };
 }
 
