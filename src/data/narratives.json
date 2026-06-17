@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-17T20:12:29.192Z",
+  "lastUpdated": "2026-06-17T22:45:24.737Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 48,
+      "chapterCount": 49,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -402,6 +402,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTJjcU1iVFlQY0p1bUFoazVJbndzTUpmdVB5WlBTb3FiX2o3RkZ0X1dCdC1MbFNVZ0t0b2xOOWgyQWZXZlFDWEVONnItVnhQNDY0VTloZElZZ1N5SkdZWHo3clIyTjdzSkQxZ2NfZFhabk5fTVVmb1JWT1JGUlN3TlNTSGJiSll0dDl6NzBYMEZma0o1SzJxVHJBNkJZOWdk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781736322805",
+          "date": "2026-06-17",
+          "title": "Lionel Messi rewrites history books at record sixth World Cup - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzVpN2pWYmpXT04xcUhzT1d5eWsxSjdtRWJTOEFSQzdFY2VSbW9Fa1ZkTk1iRW9rSS00YnJFbHE5RlduX2E4U2wwMHdVN180YkJaZGNVNFlnNXdVb0syYnVON2dKY1RqU1NvU1RuQ0dTYkRwbWtwRnpNUkxXRkZEVThxd1FIWkJzNXFhRzcwQ1Q5b3Q4SFlHUEVmN3c0VFBOeXpGT3N0WdIBrAFBVV95cUxOWjZuWmZhSi1USGc4ZWtEbERlMVF1UlhXeU1TMkhvc1FvZl9fV2dLTFlQdDZ6d2VjdXUwMHMzVkJubzVuZjhaMTlJam51QzdLTEFaS0g1dE15dVp5blpRc3paTC1QMFphMm5zeFhXblRZTmZTbjQxVlIxTHBLeDMzUlJGVUJjZXNGb244MHVJcVpzRmd3NjRlNlRCdHdxbU9mekFuRnBsQ0c4OGUx?oc=5",
+          "draft": true
         }
       ]
     },
@@ -420,7 +428,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 49,
+      "chapterCount": 50,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -813,6 +821,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSmJ2cFZIWllSTEUxVkthTEp5dEtBQmF4TXJxM0JoMXpGNUU0NnFNUlpKem5ya0tNcjhwazZFaUV5WVlzRFNWOVE0a2FCRHlyb0g5ZGZrX3hNUkt4al9iV1ZIaVdWZkNjTVV6N01MSnRhQmZQOFg5VmQxUWF2NFk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781736323307",
+          "date": "2026-06-16",
+          "title": "Kylian Mbappé becomes France's Men's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QTDJ3SW1tejBpWTFPeXZLeFVLVkxCcWVna2VZcWJNRldjQm1Mcm03Y1JtSkwyaWxkZzVxek9hOVNxeE9NUU1WeXQ5Ml9XV0o0ZGVPZm0tT19fY3ZJSzdHX3hR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -831,7 +847,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 121,
+      "chapterCount": 122,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1800,6 +1816,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmVWY0FsUHBMWmJWN0ZJSzc1YmtMMnJXQ0ZLVG5SUC1pWk1OS29VbXJ2d3JfU2ZEV1lOakFLOWVFSUszUlIyNXROMG44MTJEdWN1OW94WlI5OFF5LVR3U095QkVIdUFYN2UyQU1DRV9FSVdvRVVVRHo5MWRqTVdDbEJUTHlWNGpqMFN0Yl80LWLSAZYBQVVfeXFMUFFzZDBaS1lqek9iZG9Va3FPVmk2STZ2c2h6VjJudWYyU09MdEk1S0NCWlBDOWRrZ1ItR1MwWFNWRkR4RlpoMVJvd1J0QjB6Qm1wb1MxWUxTdWVOeEdtb1had3RqSEJGckNYV1hmcFluYUVITUlSTlhnZXhIRUdWczVvbzBtQkJLTGFuTWdRelNHeHY0MjBB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781736323794",
+          "date": "2026-06-17",
+          "title": "USMNT’s Christian Pulisic remains day-to-day ahead of World Cup clash with Australia - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmtiY0xCQXJLUXhpd05tX29zczBUc0Z6NmZ3VHd2ZG9ZZnI3NmlCZWdBQW9lT3N3eWlsdXl3bHBoZ1NMTkhSOGVFYmlGb0E0dHhKQXB6N2dwS0lCRmxzRk5zaXJSWDlyTzhGSE43TVBkdzB6dFlMOG5zMmxNaTV6N2JvVjdpZmJCeTFBTzNBMC1maXV4QkR2UUozdVZTQ01xdVQtSnlaOGJ1YlowclVYUUlLSVpxcGJIaFBBOHA5aEsyN2k2OTBLVHpLZlVrckcxREowOQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1818,7 +1842,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 121,
+      "chapterCount": 124,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2787,6 +2811,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVFQWGliUzBDQzd5bGQ4RmNFU0xCUUF0a2hRaDViWmZMek1VbTYtN2Nkb2trdXE3OThRUHNTRFl4YWh1M3Q1RnN0Ym92TGMtemNpcDBvaVlhTnJIUjVEOFA2c01fVlNRTkxvRUhteVFhc3d3Qk10U281ekNCVDV0OWR2Q0xJdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781736324270",
+          "date": "2026-06-17",
+          "title": "Brazil-Morocco dominant viewership draw as World Cup continues hot start - Sports Media Watch",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0NkYUtIOXRwMFJYQU9JUWtEeVBPQWsteVA3ZVB6d1F2cFZuOXRtcDdQNzZCYkNMaF8yMG9HQmwzeF9OalJ2WXJkeEhfYVlOTC0zYTVJMlJxTTd3bUZBM01CbXNBbUJCV05vYmxCY3BXWDVDQ0tfVFdqSy1NM2JuOUZyMWhqNTBITlBZRXpld1hTTi1IeVpkeXVRdlhYMHVQcEVRTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781736324270",
+          "date": "2026-06-17",
+          "title": "Brazil continues to spread their energy through New York - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZGFDbUhjcUxVelR0MVdXc3k5Sk9nd3phV2ltdFB1TDROMzdYNFNnYzNsd05aa1g4TkE4aGF1T2pOdDVVYTZVekh2cU1Mck5hbDZBNU5ZcFdFNFc4N1U1SklhS0Q4c3RTUS1zYy1n?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781736324270",
+          "date": "2026-06-17",
+          "title": "FIFA World Cup Fantasy: Must-Have Players Before the Matchday 2 Deadline - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUpQNWo3UHJzTnVfMC1BenprYVlFX0gyTkZ5c05idExpcE93SGN6Y0lrTW5INW56b0MzZmtsMTdzaGhOdGprZVZUTGRuYVRoTDdiTWxyVmV3Tk1ITmhDT3BEV182WnJKWGZscmVtN3UzZERNV2MzdFJ6RVljVTRESVVR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2876,7 +2924,7 @@
     {
       "id": "nar-008",
       "title": "England: Is It Coming Home?",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "team",
       "teams": [
         "ENG"
@@ -2888,7 +2936,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 132,
+      "chapterCount": 136,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -3944,6 +3992,38 @@
           "title": "Wissa makes history as DR Congo hold Portugal at World Cup 2026 – updates - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXRtYVQtTUUzSXJHTFB5MklKUy1rRjdxN3ZPUUY4ekJLbTNrcVpMRV9jS2RWWWUzVTFEMHFVRWtrenB4Q04xaTlyTEN1TnY5NEhxMFk2dnZfVmtEWXpaUnpmRU9nQ0VtREsyOHpzTW9qa1ZHY01kY0JDa20wbjBfSXlmVjc0RExTbXlYdUVkYU9WUlR0WnJF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-013",
+          "date": "2026-06-17",
+          "title": "England beat Croatia 4-2 at AT&T Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-008-1781736324737",
+          "date": "2026-06-17",
+          "title": "England vs Croatia live updates: Bellingham goal restores lead in 2026 World Cup thriller - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWt1QWpIM0V0b0J2VmVnTENhbXhmVk43bVdOT3RYVnh6Rmt1dzVCTUdXMVhjcWJJSy1FOGZZdXdMVi1BLUdySEVoOUVPenZmQThlQ2hTVktJV3hwdDltbDlQdFgwNERWbm40Q01QazRaRG9URjhabHdtQUswWTZKTEo1cV9FWExGalR6bDJic21kbnRUZ3hZMzZFTEFxN0kyNml6ek5HejFTZlBWRmN5RUZpZXhvYWwx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781736324737",
+          "date": "2026-06-17",
+          "title": "'Scared to take him off' - Ronaldo struggles after fellow superstars sparkle - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QUmpVbzQ1VnRleWcyaER0S2dsVWxjX1lvZXg0bnllNU9WQkRmTWVqd1Q1Z3pLcmVSXzU2enlCa3M1dnQ0aG5ZdzJ5SmVjV2Q3REthYTZVMUJiT2NDWktLanV3RW9NTlk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781736324737",
+          "date": "2026-06-17",
+          "title": "World Cup 2026 live: Ghana and Panama fans take over Toronto streets; Congo shocks Cristiano Ronaldo’s Portugal; England beats Croatia - Toronto Star",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTW55S2tvcE1sM0FIZVJQWDloSHdiaFgyLTd2cHc4S2lrQ3NmNVBNR2ZmTDNEY2piZG5zQnJTdjVYYUp5OEdrcWg4QUxQQlZLbGxyYng2WHRvRkxULWtzdi1NOVdkSWFsdkpfWnlsLS1saVpXU2xwRTRuN0JISzBnNlpubkRsV0hLVFUzT1J3ZHpWYUFPLTFSb01xeS1xOUJNNDIxcklBc0dSTGpkQVZDU3RkaEs4ZXRfNTUzTkFQdlJ1RVRmT2pEcmVR?oc=5",
           "draft": true
         }
       ]

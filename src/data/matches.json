@@ -320,9 +320,9 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 2,
       "seattleMatch": false,
       "notes": "England vs Croatia — Group L"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-17T20:12:23.473Z"
+  "lastUpdated": "2026-06-17T22:45:19.940Z"
 }
