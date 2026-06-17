@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-17T15:31:10.467Z",
+  "lastUpdated": "2026-06-17T20:12:29.192Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 44,
+      "chapterCount": 48,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -369,6 +369,38 @@
           "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWJXMmpPckVtSU0wdlUxU01ZaU0xdUhkRTJyMEdGYkpiUlRvVHpSNncxcktrTl9PSXlCd2o4LTRySm9DMkd3UzdCUWlFUVZpTEo4dmgtblpTeldVUDltejA0MWtNbWxvWkpBWEN0OFppSjh0Z05LMjF2VW04eWZIR1RnSkdmNkhka05rUUVxRXJvYk1QTlQ5SmNnUi1TUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781727146942",
+          "date": "2026-06-17",
+          "title": "World Cup 2026: Lionel Messi's Argentina want to retain trophy but history suggests the holders risk spectacular failure in 2026 - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMXdGYWZNMm9yT09OS2x6alBUSzhGRUZzejNxTDVsQ0ZlN3RZNlRfXzY5ZEhwc0pwdGFCVkdZSzlsb0JKRHpvTUY4MzljZFQxYjh2d2xacFRwYkxHUFhxSFJueENzRUtxOVFjdWFkSDE0czFfS01MMWdqak5RblR5X01ZMkFVUDhobk5KNm1rSlM4YU1pbENzREN6cVFDNjU0bS1FRjNOTmZWUUZMZ0pkMlE1NWJVM0FkbGppYjNNdWZVRXhFZTIwU3JuOXFMbS1qTWp0WUZ5R2VFOEJlT3NvTFZNa3N0bTF1N25HZDRmakdZQ3NkY3lHdXhqMXRMVnVBTkp2TEZ3RkF6WWF0VFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781727146943",
+          "date": "2026-06-17",
+          "title": "Soccer's premier goal scorers, led by Lionel Messi, show up to the World Cup with a bang - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkhQdGhnVWhMUC1URnhDbU9VWk54V2ItbEhZaTR1d3k3aERoaU1fTzdIQWFQbHJoNGQtNmdiNTJ5eXBPak9xTUM1bUFuSi1lNHQ1eGJ6WkFKOEt2ZHFCQVV5WmdFdll3YnRqX0QySnQ4VzduUjN3Tk8wQ3ZaWTYtNFh4S1hpeXdkU0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781727146943",
+          "date": "2026-06-17",
+          "title": "World Cup 2026: Did Lionel Messi deserve a red card before scoring his historic hat trick vs. Algeria? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ3pjQ0tqcmNVT3EyQ2NxZzZCZERqX0dfOFlrTktKXzRpc0x0M19kTzJsbVEzTjFqb05hbktjRjZhaHRnc2hhd2YwbTBFUWlqLVozTG5uR2tBb2wzcTFJNnVUNnF0R0NCYWN1dG1ZNGZrQUo3Y05GLWxOd2tXS3NaRnpqQVgzT2RhbE8tLWxJSmtFb3BxcWloYkd6R01nbHd4eXQ3bUM0VnB4X3N6NHVZUVJkRVIzWDhIWTdQTW4tYzFQb05LbEw1TFozNkpjNFJ6TG9YdE9ET0VRdkhHS2hGeWtNTS1LYkZIQkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781727146943",
+          "date": "2026-06-17",
+          "title": "What happened on a historic night for Argentina? ‘Messi things’ | Pablo Iglesias Maurer - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTJjcU1iVFlQY0p1bUFoazVJbndzTUpmdVB5WlBTb3FiX2o3RkZ0X1dCdC1MbFNVZ0t0b2xOOWgyQWZXZlFDWEVONnItVnhQNDY0VTloZElZZ1N5SkdZWHo3clIyTjdzSkQxZ2NfZFhabk5fTVVmb1JWT1JGUlN3TlNTSGJiSll0dDl6NzBYMEZma0o1SzJxVHJBNkJZOWdk?oc=5",
           "draft": true
         }
       ]
@@ -799,7 +831,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 118,
+      "chapterCount": 121,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1744,6 +1776,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDh2OFcyYlVxWFd4X3hlck1XeVhhV01obVE3VHlKTVh2TnBTSnZ2Qm5QOXlROUhtcWhzYm13ZmVVMm5icEVjWGtKWjNZWWlzTUNuT01PQTg0Zm9yNEdCaU13MWNLTUUzRmJwU2o1T1VjaGdoZTlWS2Jvb3VuVzFWSmtvSFkyNGUxV1ZiYlZEaGZxdFQwbVNRNlNsRVN5THl5RTVvVmpOM3VtMGo0?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781727148136",
+          "date": "2026-06-16",
+          "title": "USA vs. Australia: What to know about Seattle’s next World Cup match - The Seattle Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlFxU3BWNHAyMTRSMzZvS3F6bktLTkRCR2JUM0pkZXRFVzNZSnJOU25lWnVyOVNCQ2trNnVmUE5TbjVaelJ5SnRINUVDM2dBUVJBVm1uM1JSMVNtREEtN21BTThUcHZBeGRIY0NROWt1V0wtR1Z4bnhKRGdXNmJueVZvLXQtNEoxUFF1S2VnX293ZVRpUXU1d0dNSVZCZG1SX0llaE4zS09ZYmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781727148137",
+          "date": "2026-06-17",
+          "title": "Mauricio Pochettino told USMNT players 'we're American, we don't take s***' ahead of World Cup - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkQ5Ykh0elhRdEpLQ29tOWlERWdyRDNxRm9YUDJBMW9NbC03X1EwdUFOdGZjbnoyQldlenZ0VGR1dXRJUWEzM0s0ZmZ5bXhRdW5CTmFhLWlyYXdNMWt6VURGNjV3b2RqSU05d080OWstRjQ3VE5fQnNuSnJieU5DLUlJX05pQzQ0MXgtbVpGaWxjMGxkWFJmR05ENjAySGZTdzdkTFNRWDNJekdnWlR3WWVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781727148137",
+          "date": "2026-06-13",
+          "title": "USA 4-1 Paraguay: World Cup 2026 – as it happened - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmVWY0FsUHBMWmJWN0ZJSzc1YmtMMnJXQ0ZLVG5SUC1pWk1OS29VbXJ2d3JfU2ZEV1lOakFLOWVFSUszUlIyNXROMG44MTJEdWN1OW94WlI5OFF5LVR3U095QkVIdUFYN2UyQU1DRV9FSVdvRVVVRHo5MWRqTVdDbEJUTHlWNGpqMFN0Yl80LWLSAZYBQVVfeXFMUFFzZDBaS1lqek9iZG9Va3FPVmk2STZ2c2h6VjJudWYyU09MdEk1S0NCWlBDOWRrZ1ItR1MwWFNWRkR4RlpoMVJvd1J0QjB6Qm1wb1MxWUxTdWVOeEdtb1had3RqSEJGckNYV1hmcFluYUVITUlSTlhnZXhIRUdWczVvbzBtQkJLTGFuTWdRelNHeHY0MjBB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1762,7 +1818,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 117,
+      "chapterCount": 121,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2699,6 +2755,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIQk9qdmJrb3BjSzVvcklEaTY2aTRCRDBzR3RiZUVaZ0htZjFRdVIwQXhjeURoUTI3cXBNRFVYYVBidV9DbUN5czFKaS1YaU1oQ3BJYkZzajBMTW81ejNtbTVQVnFTakFhUDNZYndJYXNmUzl6a1cwb2JTNThfUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781727148724",
+          "date": "2026-06-17",
+          "title": "Brazil vs Haiti at FIFA World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFY1eVJuN2I3bjVfQXZnYWZoUmRSVEdhVmJoZTZCRUwtY3A5OVlrd1pfVklOWmpvWDJMcVRub2g4MHNYbEZpZXo0X0VQdjhhVzJta2ZuckZLRU54U0pwQS1zQ0U3Sm1obzh5YUFUcU9kdWk5MndLTVVEVnYyR2tQR3lkaW9HQ09HRUYzalI3NWVlZlBncWZVNVYtVFk5LTg2a19ydEtRN2FQQzdPVXNCNU9PUDl0S0xrUHotbDRpY0ZnaUoyNnJhc2pWczVTT1h0VW03UDIydFllNEd5M3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781727148724",
+          "date": "2026-06-17",
+          "title": "Lionel Messi Details \"Difficult” Days Ahead of World Cup 2026 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFdWbGxzRkpCYTVkRmtLUDhJUTlnODFVdVc3Wk5SVU5RRkFRMUJjZ0xHU3JxYjFYYXhjNklqelJJT3RHUF96MEFWZGM2bnd3QmxSMzByRWNMVkFWZG5DdVFXUC1QUjZZeHBtbFMzWTZkZ2xZQ0NULWVNQXJlbVdiWmVmV1RDQ0s4MklYaA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781727148724",
+          "date": "2026-06-14",
+          "title": "Brazil - Morocco: Score, goals, and highlights - FIFA World Cup 2026 - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmp3cU1Mc1FKZDJBZDBwV2xESzBJN1M3VXB1ZFg4U3VjYWdvRGZwTzhSbkY2WGZmX3c0MmNlcUw5aUxEV1RhZENnNXRDcDdqcXdKWXZzcDFybmhOY2JsMUJFQ2dfRjRCUlo4M0tOemtxZzZEYURWYjFkcTNwQjgxZlhPbWRfTnFXZE56VThGZm9xaVBTbmRIaU1oQTExZGI1dzZLMGtUbzdHQ3hEb0xB0gGvAUFVX3lxTFBWdVBiVzdVSnhCOWV2WlFKX0xKWDNxZ0UtLWpGXzhfQTlVTGhfdGNUbmZDUFN2ZlV6bVoyM0pKNkdRZE5WRGlqTFZIdDlleVk5OXJkRGY0VURJY0ZPZWpITW5oa1BMTFc1WXdNai1hLW5oVGpZODFieDc3VEd1Uk50VEstMHQ5bjM0X2w2dlBiQjlqZ1NuUktfaE01OVZOa1dOUDJfZXF3cDF2VjRtUHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781727148724",
+          "date": "2026-06-16",
+          "title": "Brazil vs Haiti FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONVFQWGliUzBDQzd5bGQ4RmNFU0xCUUF0a2hRaDViWmZMek1VbTYtN2Nkb2trdXE3OThRUHNTRFl4YWh1M3Q1RnN0Ym92TGMtemNpcDBvaVlhTnJIUjVEOFA2c01fVlNRTkxvRUhteVFhc3d3Qk10U281ekNCVDV0OWR2Q0xJdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2800,7 +2888,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 127,
+      "chapterCount": 132,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -3816,6 +3904,46 @@
           "title": "England vs. Croatia odds, prediction, time: 2026 World Cup picks, best bets from expert on 31-13 run - CBS Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeS12elZpR2hyQ1Bqb3htWXlxSUR0QzY1R0Y5S3FaQjJvVGVoWG9INEpQcWNzR2NiMDZpSDdGclZmaU1rUTIyZmxwbHR2Y1p6YjJiR2pVWjFFVmxPaHlOaXpYelVtc1JIM3c1VG9lbVQ3ZHpzcnhPNGxXbTNTUlpCT1MtS2ctQXBid2RJakQzZkZSNF9IQzZsQnpfOEpUWVBQTWxmVmhJRkh2dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781727149192",
+          "date": "2026-06-17",
+          "title": "England v Croatia: World Cup 2026 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVk1SdUhMVzVaRTdGaHdYSEFNSzBySDBHeFdxb2tIUGVZaW03RFQtSkVDYmJTaTNUQm4wbHk4cHpqNXZHSXh2WXBZWUx4eGp0bjI1WUdVYzk4em1OTElwQUw4SV8zVTRhV2REcVpoemVrWk5aUHRNUGJJN3NEblhtRnVNUHpZMkx6MEhTRzZ3aDlHSkVSdUlLdjk1VGlad1ZO?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781727149192",
+          "date": "2026-06-17",
+          "title": "World Cup 2026 schedule, live updates: England takes on Croatia; Congo, Portugal fight to draw - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjV2RWkxTWh5djhTSzNubXViTmdySlJIbEdjeUVCejFRZmtpcThnaExEWEVCcW1rQTJ4aWRnRWpmN1pqbFIzQTUzSU5SOV9CUW9UOXp1VGIxWmcxbEViZHBhNG9uNkFXLXN2QW5rTS1CVmpLcTd4c3pXTUlUWTFRX2RFelRXSFk1TzB6VnNhYjd2MTZQbkhUU09DeDVZclU5cGNCU0tB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781727149192",
+          "date": "2026-06-17",
+          "title": "England vs Croatia LIVE: FIFA World Cup 2026 Group L - score, lineups, commentary, updates & stats - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcUpfNy1heVNXRndRUEItQnVXem8tdVhiMjZ6VVl4Nl9yUUxtQlBrTHJzWTNHZ3dwRkJpSlp2NnFwMkdxRFNQb1ltN3V4NFpYZmlKaEJtT2Z6MnQyRlp4QVB3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781727149192",
+          "date": "2026-06-17",
+          "title": "Why Bukayo Saka Isn’t Playing for England vs. Croatia—2026 World Cup Opener - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR29TYW9CUHFsWHM1blFRRThMWERQaktoNHdkSjRmU0lfUUx3SlI1bUUySGFOSzdXdWt6SWRSQm12QlU5Zl9DbjMwOWJHZnRXdHdLelJKLVk4NF90cV8yWGMtUnpVa3hPbEdvcGpndEl6RU9ZRVhQYjNkWnFLd3BXbndCOThKbDh1OXlFQjNkcTlfMWtIZXVfZk5Xdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781727149192",
+          "date": "2026-06-17",
+          "title": "Wissa makes history as DR Congo hold Portugal at World Cup 2026 – updates - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXRtYVQtTUUzSXJHTFB5MklKUy1rRjdxN3ZPUUY4ekJLbTNrcVpMRV9jS2RWWWUzVTFEMHFVRWtrenB4Q04xaTlyTEN1TnY5NEhxMFk2dnZfVmtEWXpaUnpmRU9nQ0VtREsyOHpzTW9qa1ZHY01kY0JDa20wbjBfSXlmVjc0RExTbXlYdUVkYU9WUlR0WnJF?oc=5",
           "draft": true
         }
       ]
