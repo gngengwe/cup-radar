@@ -6,6 +6,15 @@
 
 const BASE = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard';
 const SUMMARY_BASE = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary';
+const ESPN_CODE_ALIAS = {
+  BOS: 'BIH',
+  HON: 'HND',
+  GRE: 'GRE',
+};
+
+function normalizeEspnCode(code) {
+  return ESPN_CODE_ALIAS[code] ?? code;
+}
 
 function toEspnDate(dateStr) {
   return dateStr.replace(/-/g, ''); // "2026-06-13" -> "20260613"
@@ -35,7 +44,10 @@ export function matchEspnStatus(events, match) {
 
     const home = comp.competitors.find(c => c.homeAway === 'home');
     const away = comp.competitors.find(c => c.homeAway === 'away');
-    if (home?.team?.abbreviation !== match.homeCode || away?.team?.abbreviation !== match.awayCode) continue;
+    if (
+      normalizeEspnCode(home?.team?.abbreviation) !== match.homeCode
+      || normalizeEspnCode(away?.team?.abbreviation) !== match.awayCode
+    ) continue;
 
     return {
       state:     comp.status.type.state, // 'pre' | 'in' | 'post'
@@ -70,7 +82,10 @@ export function matchEspnEventId(events, match) {
 
     const home = comp.competitors.find(c => c.homeAway === 'home');
     const away = comp.competitors.find(c => c.homeAway === 'away');
-    if (home?.team?.abbreviation !== match.homeCode || away?.team?.abbreviation !== match.awayCode) continue;
+    if (
+      normalizeEspnCode(home?.team?.abbreviation) !== match.homeCode
+      || normalizeEspnCode(away?.team?.abbreviation) !== match.awayCode
+    ) continue;
 
     return event.id || null;
   }

@@ -98,6 +98,7 @@ function playTone(type) {
       milestone: { freqs: [330, 392],      dur: 0.55, vol: 0.07, wave: 'triangle' },
       explain:   { freqs: [392],           dur: 0.35, vol: 0.08, wave: 'sine' },
       tension:   { freqs: [523, 587],      dur: 0.6,  vol: 0.09, wave: 'sine' },
+      goal:      { freqs: [659, 784, 1047], dur: 0.8, vol: 0.12, wave: 'sine' },
       post:      { freqs: [261, 329, 392], dur: 1.0,  vol: 0.10, wave: 'sine' },
     };
     const c = configs[type] || configs.milestone;
@@ -624,12 +625,6 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
       if (recent.some(ev => ev.family === 'corner'))     goalType = 'corner';
       else if (recent.some(ev => ev.family === 'foul'))  goalType = 'free kick';
     }
-  } else {
-    const hp = summary?.stats?.homePossession ?? 50;
-    const ap = summary?.stats?.awayPossession ?? 50;
-    const scorerPoss = scoringTeam === 'home' ? hp : ap;
-    const defPoss    = scoringTeam === 'home' ? ap : hp;
-    if (defPoss >= 60 && scorerPoss <= 40) goalType = 'counter';
   }
 
   // The team that benefits from the goal
@@ -695,6 +690,10 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
     firedAt:       Date.now(),
     matchMinute:   currentMinute ?? null,
     goalTypeLabel: typeLabel,
+    ...(!goalEvent ? {
+      pending: true,
+      pendingScoreline: { hs, as_ },
+    } : {}),
   };
 }
 
@@ -775,7 +774,28 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
 function buildReplayDeck(match, espn, summary, guard, chosenCode) {
   const storyCards = buildPostGameStory(match, espn, summary, guard);
   const ftCard     = buildFTCard(match, espn, summary, guard, chosenCode);
-  return [...storyCards, ftCard].sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
+  const goalCards  = [];
+  let prevHs = 0;
+  let prevAs_ = 0;
+
+  for (const entry of summary?.scoreTimeline ?? []) {
+    const syntheticGuard = {
+      ...guard,
+      prevHomeScore: prevHs,
+      prevAwayScore: prevAs_,
+      firedStatKeys: new Set(guard.firedStatKeys),
+    };
+    const syntheticEspn = {
+      ...espn,
+      homeScore: entry.homeScore,
+      awayScore: entry.awayScore,
+    };
+    goalCards.push(buildGoalCard(match, syntheticEspn, summary, syntheticGuard, chosenCode, entry.minute));
+    prevHs = entry.homeScore;
+    prevAs_ = entry.awayScore;
+  }
+
+  return [...storyCards, ...goalCards, ftCard].sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
 }
 
 // ─── Notification derivation ──────────────────────────────────────────────────
@@ -872,11 +892,87 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
+  // ── GOAL CATCH-UP ────────────────────────────────────────────────────────
+  // prevHomeScore was set to the existing score on guard init, so the normal
+  // poll-to-poll delta is 0 for any goal scored before the page loaded. This
+  // block fires once on the first processing tick to surface those goals.
+  if (isLive && !guard.catchupChecked) {
+    guard.catchupChecked = true;
+    if (hs + as_ > 0) {
+      if (summary?.scoreTimeline?.length) {
+        let prevHs = 0, prevAs = 0;
+        for (const entry of summary.scoreTimeline) {
+          const goalKey = `goal-${entry.homeScore}-${entry.awayScore}`;
+          if (!guard.firedStatKeys.has(goalKey)) {
+            guard.firedStatKeys.add(goalKey);
+            const synEspn  = { ...espn, homeScore: entry.homeScore, awayScore: entry.awayScore };
+            const synGuard = { ...guard, prevHomeScore: prevHs, prevAwayScore: prevAs };
+            out.push(buildGoalCard(match, synEspn, summary, synGuard, chosenCode, entry.minute));
+          }
+          prevHs = entry.homeScore;
+          prevAs = entry.awayScore;
+        }
+      } else {
+        // Summary not yet available — fire one card for the current scoreline
+        const goalKey = `goal-${hs}-${as_}`;
+        if (!guard.firedStatKeys.has(goalKey)) {
+          guard.firedStatKeys.add(goalKey);
+          const synGuard = { ...guard, prevHomeScore: 0, prevAwayScore: 0 };
+          out.push(buildGoalCard(match, espn, summary, synGuard, chosenCode, currentMinute));
+        }
+      }
+    }
+  }
+
   // ── GOAL DETECTION ────────────────────────────────────────────────────────
   if (isLive && guard.prevHomeScore !== null && guard.prevAwayScore !== null) {
     const prevTotal = guard.prevHomeScore + guard.prevAwayScore;
     const currTotal = hs + as_;
-    if (currTotal > prevTotal) {
+    const totalNewGoals = currTotal - prevTotal;
+    if (totalNewGoals >= 2 && summary?.scoreTimeline?.length) {
+      const newEntries = summary.scoreTimeline.filter(entry =>
+        (entry.homeScore + entry.awayScore) > prevTotal
+        && (entry.homeScore + entry.awayScore) <= currTotal
+      );
+      let iterPrevHs = guard.prevHomeScore;
+      let iterPrevAs = guard.prevAwayScore;
+      for (const entry of newEntries) {
+        const entryKey = `goal-${entry.homeScore}-${entry.awayScore}`;
+        if (!guard.firedStatKeys.has(entryKey)) {
+          guard.firedStatKeys.add(entryKey);
+          const syntheticEspn = {
+            ...espn,
+            homeScore: entry.homeScore,
+            awayScore: entry.awayScore,
+          };
+          const syntheticGuard = {
+            ...guard,
+            prevHomeScore: iterPrevHs,
+            prevAwayScore: iterPrevAs,
+          };
+          out.push(buildGoalCard(match, syntheticEspn, summary, syntheticGuard, chosenCode, entry.minute));
+        }
+        iterPrevHs = entry.homeScore;
+        iterPrevAs = entry.awayScore;
+      }
+    } else if (totalNewGoals >= 2) {
+      const goalKey = `goal-${hs}-${as_}`;
+      if (!guard.firedStatKeys.has(goalKey)) {
+        guard.firedStatKeys.add(goalKey);
+        out.push({
+          id: `${match.id}-goal-${hs}-${as_}`,
+          type: 'goal',
+          priority: 4,
+          icon: '⚽',
+          title: `Multiple goals landed in quick succession — now ${hs}–${as_}`,
+          subtext: `The scoreboard jumped by ${totalNewGoals} goals between polls, which usually means a fast exchange of chances or a delayed broadcast update. The current score is reliable even if the intermediate goal sequence hasn't reached the summary feed yet.`,
+          match,
+          firedAt: Date.now(),
+          matchMinute: currentMinute ?? null,
+          goalTypeLabel: 'Multiple goals',
+        });
+      }
+    } else if (totalNewGoals === 1) {
       const goalKey = `goal-${hs}-${as_}`;
       if (!guard.firedStatKeys.has(goalKey)) {
         guard.firedStatKeys.add(goalKey);
@@ -1094,6 +1190,7 @@ export default function LivePulse() {
   const [toastStack,      setToastStack]       = useState([]);
   const [lastPoll,        setLastPoll]         = useState(null);
   const [pollCount,       setPollCount]        = useState(0);
+  const [feedError,       setFeedError]        = useState(false);
   const [selectedMatchId, setSelectedMatchId]  = useState(null);
   const [selectedCardId,  setSelectedCardId]   = useState(null);
   const [adminOpen,       setAdminOpen]        = useState(false);
@@ -1105,6 +1202,7 @@ export default function LivePulse() {
   const [replayCardsMap, setReplayCardsMap] = useState({});
 
   const guardsRef          = useRef({});
+  const summaryMapRef      = useRef({});
   const selectedMatchIdRef = useRef(null);
   const soundEnabledRef    = useRef(false);
   const chosenTeamsRef     = useRef({});
@@ -1114,6 +1212,7 @@ export default function LivePulse() {
   useEffect(() => { selectedMatchIdRef.current = selectedMatchId; }, [selectedMatchId]);
   useEffect(() => { soundEnabledRef.current = soundEnabled; }, [soundEnabled]);
   useEffect(() => { chosenTeamsRef.current = chosenTeams; }, [chosenTeams]);
+  useEffect(() => { summaryMapRef.current = summaryMap; }, [summaryMap]);
 
   // Relative-time refresh
   useEffect(() => {
@@ -1185,39 +1284,53 @@ export default function LivePulse() {
 
         const nextEspn = {};
         for (const m of todayMatches) nextEspn[m.id] = matchEspnStatus(espnEvents, m);
+        setFeedError(false);
         setEspnMap(nextEspn);
         setLastPoll(Date.now());
         setPollCount(c => c + 1);
 
-        const nextEx    = {};
-        const newNotifs = [];
-
-        for (const m of todayMatches) {
+        const matchPass = todayMatches.map(m => {
           const espn = nextEspn[m.id];
-
           if (!guardsRef.current[m.id]) {
             guardsRef.current[m.id] = {
               initialized: false, prevExScore: null,
               prevEspnState: null, prevPeriod: null,
               prevHomeScore: null, prevAwayScore: null,
+              catchupChecked: false,
               firedBands: {}, firedStatKeys: new Set(), firedPost: false,
             };
           }
           const guard = guardsRef.current[m.id];
+          const eventId = matchEspnEventId(espnEvents, m);
+          const needsSummary = (espn?.state === 'in' || (espn?.state === 'post' && !guard.firedPost)) && !!eventId;
+          return { match: m, espn, guard, eventId, needsSummary };
+        });
 
-          let summary = summaryMap[m.id];
-          const needsSummary = espn?.state === 'in' || (espn?.state === 'post' && !guard.firedPost);
-          if (needsSummary) {
-            const eid = matchEspnEventId(espnEvents, m);
-            if (eid) {
-              try {
-                const raw = await fetchEspnSummary(eid);
-                if (cancelled) return;
-                summary = normalizeEspnSoccerSummary(raw, m);
-                setSummaryMap(prev => ({ ...prev, [m.id]: summary }));
-              } catch { /* fail soft */ }
-            }
-          }
+        const summaryJobs = matchPass
+          .filter(({ needsSummary, eventId }) => needsSummary && eventId)
+          .map(({ match, eventId }) =>
+            fetchEspnSummary(eventId)
+              .then(raw => ({
+                matchId: match.id,
+                summary: normalizeEspnSoccerSummary(raw, match),
+              }))
+              .catch(() => null)
+          );
+
+        const summaryFetches = await Promise.all(summaryJobs);
+        if (cancelled) return;
+
+        const summaryResults = {};
+        for (const result of summaryFetches) {
+          if (result) summaryResults[result.matchId] = result.summary;
+        }
+        const mergedSummaryMap = { ...summaryMapRef.current, ...summaryResults };
+
+        const nextEx    = {};
+        const newNotifs = [];
+
+        for (const { match: m, espn, guard } of matchPass) {
+          const summary = mergedSummaryMap[m.id];
 
           const ex = computeMatchExcitement(m, espn, [], summary || {});
           nextEx[m.id] = ex;
@@ -1263,10 +1376,68 @@ export default function LivePulse() {
           guard.prevAwayScore = espn?.awayScore ?? 0;
         }
 
+        if (Object.keys(summaryResults).length) {
+          setSummaryMap(prev => ({ ...prev, ...summaryResults }));
+        }
         setExMap(nextEx);
 
-        if (newNotifs.length) {
-          setNotifLog(prev => [...newNotifs.slice().reverse(), ...prev]);
+        if (newNotifs.length || Object.keys(summaryResults).length) {
+          setNotifLog(prev => {
+            let next = prev;
+            let changed = false;
+
+            next = next.map(card => {
+              if (!card.pending || Date.now() - card.firedAt >= 120_000) return card;
+
+              const summary = mergedSummaryMap[card.match.id];
+              const guard = guardsRef.current[card.match.id];
+              const pendingScoreline = card.pendingScoreline;
+              if (!summary?.events?.length || !guard || !pendingScoreline || card.matchMinute == null) return card;
+
+              const matchedEvent = summary.events
+                .filter(ev => ['goal', 'penalty', 'own-goal'].includes(ev.family))
+                .filter(ev => ev.minute != null && Math.abs(ev.minute - card.matchMinute) <= 3)
+                .filter(ev => !guard.firedStatKeys.has(`goal-ev-${ev.id}`))
+                .sort((a, b) => Math.abs((a.minute ?? 0) - card.matchMinute) - Math.abs((b.minute ?? 0) - card.matchMinute))[0] ?? null;
+              if (!matchedEvent) return card;
+
+              const { hs, as_ } = pendingScoreline;
+              let prevHs = hs;
+              let prevAs_ = as_;
+              if (matchedEvent.teamName === card.match.homeTeam && hs > 0) {
+                prevHs = hs - 1;
+              } else if (matchedEvent.teamName === card.match.awayTeam && as_ > 0) {
+                prevAs_ = as_ - 1;
+              } else {
+                return card;
+              }
+
+              const syntheticGuard = {
+                ...guard,
+                prevHomeScore: prevHs,
+                prevAwayScore: prevAs_,
+                firedStatKeys: new Set(guard.firedStatKeys),
+              };
+              const enrichedCard = buildGoalCard(
+                card.match,
+                { homeScore: hs, awayScore: as_ },
+                {
+                  ...summary,
+                  events: summary.events.filter(ev => (ev.minute ?? Infinity) <= (matchedEvent.minute ?? card.matchMinute)),
+                },
+                syntheticGuard,
+                chosenTeamsRef.current[card.match.id] ?? null,
+                card.matchMinute,
+              );
+
+              guard.firedStatKeys.add(`goal-ev-${matchedEvent.id}`);
+              changed = true;
+              return { ...enrichedCard, silent: card.silent };
+            });
+
+            if (!changed && !newNotifs.length) return prev;
+            return newNotifs.length ? [...newNotifs.slice().reverse(), ...next] : next;
+          });
           pushToasts(newNotifs);
 
           // Sound — highest-priority card type
@@ -1282,7 +1453,9 @@ export default function LivePulse() {
             setSelectedCardId(top.id);
           }
         }
-      } catch { /* fail soft */ }
+      } catch {
+        setFeedError(true);
+      }
     };
 
     runTick();
@@ -1316,6 +1489,7 @@ export default function LivePulse() {
   );
 
   const selectedCard = selectedMatchCards.find(c => c.id === selectedCardId) ?? null;
+  const feedStale = lastPoll !== null && Date.now() - lastPoll > 65_000;
 
   // Timeline progress (0-100)
   const timelineProgress = isSelectedPost
@@ -1339,6 +1513,9 @@ export default function LivePulse() {
           <p className="pulse-desc">
             Game-teaching notifications · ESPN polls every 30s
             {lastPoll && <span className="pulse-last-poll"> · {relTime(lastPoll)} (#{pollCount})</span>}
+            {(feedError || feedStale) && (
+              <span className="pulse-feed-error">⚠ Live feed delayed — retrying</span>
+            )}
           </p>
         </div>
         <button
