@@ -199,28 +199,19 @@ function generateSnapshot(match, espn, summary, ex) {
 // What the current scoreline means for group advancement. Appended to the
 // 60/70/80-minute milestone cards to give casual fans real stakes context.
 
-function getStakesLine(match, hs, as_, chosenCode) {
+function getStakesLine(match, hs, as_) {
   if (!match.group) return null;
   const home = match.homeTeam, away = match.awayTeam;
-  const yours = chosenCode ? (chosenCode === match.homeCode ? home : away) : null;
   const group = `Group ${match.group}`;
 
   if (hs === as_) {
-    const base = `Both teams take 1 point in ${group} if this stands. Draws rarely win groups — both sides need wins from here.`;
-    return yours ? `${base} Your ${yours} stay in the race, but the next game is must-win.` : base;
+    return `Both teams take 1 point in ${group} if this stands. Draws rarely win groups — both sides need wins from here.`;
   }
 
   const leader  = hs > as_ ? home : away;
   const trailer = hs > as_ ? away : home;
-  const lScore  = Math.max(hs, as_), tScore = Math.min(hs, as_);
 
-  if (!yours) {
-    return `If this holds: ${leader} earn 3 points in ${group}. ${trailer} need wins from their remaining group games just to stay in contention.`;
-  }
-  if (yours === leader) {
-    return `Your ${yours} lead ${lScore}–${tScore} — if this holds that's 3 big points in ${group}, a major step toward the knockout rounds.`;
-  }
-  return `Your ${yours} trail ${tScore}–${lScore} in ${group}. One goal flips the story — comebacks happen at the World Cup.`;
+  return `If this holds: ${leader} earn 3 points in ${group}. ${trailer} need wins from their remaining group games just to stay in contention.`;
 }
 
 // ─── Clock milestone cards ─────────────────────────────────────────────────────
@@ -733,18 +724,6 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
     subtext   = `An open-play goal built through passing, movement, and timing. This type of goal requires multiple players to read the same moment simultaneously — the run, the pass weight, the finish. Defenders must track the ball or the runner, rarely both at once. This is what winning the tactical battle looks like in real time.`;
   }
 
-  // Perspective note
-  if (chosenCode) {
-    const yourTeam  = chosenCode === match.homeCode ? home : away;
-    const yourScore = chosenCode === match.homeCode ? hs : as_;
-    const theirScore = chosenCode === match.homeCode ? as_ : hs;
-    const youScored = benefitTeam === yourTeam;
-    if (youScored && yourScore > theirScore)      subtext += ` Your ${yourTeam} lead now.`;
-    else if (youScored && yourScore === theirScore) subtext += ` Your ${yourTeam} have levelled it.`;
-    else if (!youScored && theirScore > yourScore)  subtext += ` Your ${yourTeam} are now trailing — a response is needed.`;
-    else if (!youScored && theirScore === yourScore) subtext += ` They've pegged ${yourTeam} back — level again.`;
-  }
-
   return {
     id:            `${match.id}-goal-${hs}-${as_}`,
     type:          'goal',
@@ -774,14 +753,7 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
   const synthLines = [];
 
   // Result
-  if (chosenCode) {
-    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-    const yourScore  = chosenCode === match.homeCode ? hs : as_;
-    const theirScore = chosenCode === match.homeCode ? as_ : hs;
-    if (yourScore > theirScore)      synthLines.push(`Your ${yourTeam} win ${yourScore}–${theirScore}. A brilliant result.`);
-    else if (yourScore < theirScore) synthLines.push(`Your ${yourTeam} lose ${yourScore}–${theirScore}. A tough night.`);
-    else                             synthLines.push(`Your ${yourTeam} draw ${yourScore}–${theirScore} — one point each.`);
-  } else if (hs === as_) {
+  if (hs === as_) {
     synthLines.push(`${match.homeTeam} ${hs}–${as_} ${match.awayTeam} — a draw, both teams take 1 point.`);
   } else {
     synthLines.push(`${resultWho} win ${Math.max(hs,as_)}–${Math.min(hs,as_)}.`);
@@ -815,16 +787,7 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
       : `One point each in Group ${match.group}. Useful, but neither team wins the group purely on draws.`);
   }
 
-  const ftTitle = (() => {
-    if (!chosenCode) return `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
-    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-    const yourScore  = chosenCode === match.homeCode ? hs : as_;
-    const theirScore = chosenCode === match.homeCode ? as_ : hs;
-    const score      = `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
-    if (yourScore > theirScore) return `Your ${yourTeam} win! ${score}`;
-    if (yourScore < theirScore) return `${yourTeam} lose — ${score}`;
-    return `${yourTeam} draw — ${score}`;
-  })();
+  const ftTitle = `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
 
   return {
     id: `${match.id}-post`, type: 'post', priority: 5, icon: '🏁',
@@ -902,12 +865,27 @@ function buildReplayDeck(match, espn, summary, guard, chosenCode) {
       const t = ev.text.toLowerCase();
       return t.includes('drink') || t.includes('hydration') || t.includes('cool');
     })
-    .map(ev => ({
-      id: `${match.id}-hydration-${ev.id}`, type: 'beat', priority: 3, icon: '💧',
-      title: `Drinks break — ${ev.minuteLabel || `${ev.minute}'`}`,
-      subtext: `A mandatory cooling break — FIFA requires these when pitch-side temperature hits 32°C (90°F). Play paused for around 3 minutes. Both benches relayed instructions directly to their players — a rare live tactical window mid-game. Watch what changed in shape and pressing intensity when play resumed.`,
-      match, firedAt: Date.now(), matchMinute: ev.minute ?? 0, silent: true,
-    }));
+    .map(ev => {
+      const hs = match.homeScore ?? 0, as_ = match.awayScore ?? 0;
+      const diff = Math.abs(hs - as_);
+      let expectNext;
+      if (hs === as_) {
+        expectNext = `Level game. Both benches will have pushed for the next goal — watch which team presses higher in the first 5 minutes after restart. The side that seizes the initiative often doesn't let go.`;
+      } else if (diff === 1) {
+        const leader = hs > as_ ? match.homeTeam : match.awayTeam;
+        const trailer = hs > as_ ? match.awayTeam : match.homeTeam;
+        expectNext = `${leader} lead by one — they'll look to compact and deny space. ${trailer} must push immediately after restart: teams that let the tempo slow after a drinks break rarely find the urgency again.`;
+      } else {
+        const trailer = hs > as_ ? match.awayTeam : match.homeTeam;
+        expectNext = `${trailer} trail by ${diff} — a tactical dilemma coming out of this break. Do they push bodies forward and risk the counter, or stay organized and chase a goal back through the set-piece route? Watch their shape when play resumes.`;
+      }
+      return {
+        id: `${match.id}-hydration-${ev.id}`, type: 'beat', priority: 3, icon: '💧',
+        title: `Drinks break — ${ev.minuteLabel || `${ev.minute}'`}`,
+        subtext: `Pitch-side temperature hit 32°C (90°F) — a mandatory FIFA cooling break, roughly 3 minutes. Both benches get direct access to their players — one of the few live tactical windows in a match. ${expectNext}`,
+        match, firedAt: Date.now(), matchMinute: ev.minute ?? 0, silent: true,
+      };
+    });
 
   // Pressure cards — detect sustained spells from events
   const pressureCards = [];
@@ -975,21 +953,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     const homeB = TEAM_BRIEF[match.homeCode] ?? null;
     const awayB = TEAM_BRIEF[match.awayCode] ?? null;
     let styleBlurb;
-    if (chosenCode) {
-      const yourCode  = chosenCode;
-      const theirCode = chosenCode === match.homeCode ? match.awayCode : match.homeCode;
-      const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-      const theirTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
-      const yourB  = TEAM_BRIEF[yourCode]  ?? null;
-      const theirB = TEAM_BRIEF[theirCode] ?? null;
-      if (yourB && theirB) {
-        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Key thing to watch: ${yourB.watchFor}. The challenge from ${theirTeam}: ${theirB.watchFor}.`;
-      } else if (yourB) {
-        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Watch for: ${yourB.watchFor}.`;
-      } else {
-        styleBlurb = `Watch who controls the ball in the first 10 minutes — the team that sets the tempo early often dictates the whole match.`;
-      }
-    } else if (homeB && awayB) {
+    if (homeB && awayB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. ${match.awayTeam} lean ${awayB.style}. First thing to watch: ${homeB.watchFor}. And from ${match.awayTeam}: ${awayB.watchFor}.`;
     } else if (homeB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. Watch for: ${homeB.watchFor}.`;
@@ -1019,23 +983,9 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
         ? `${who} had ${val}% possession and there were ${totalShots} shots. `
         : `${totalShots} shots in the first half. `;
     }
-    let scoreCtx;
-    if (chosenCode) {
-      const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-      const yourScore = chosenCode === match.homeCode ? hs : as_;
-      const theirScore = chosenCode === match.homeCode ? as_ : hs;
-      if (yourScore > theirScore) {
-        scoreCtx = `Your ${yourTeam} lead ${yourScore}–${theirScore}. 45 minutes to protect it — second-half leads get tested hard. Stay organized.`;
-      } else if (yourScore < theirScore) {
-        scoreCtx = `Your ${yourTeam} trail ${yourScore}–${theirScore}. 45 minutes to turn it around. Comebacks at the World Cup are rare but they happen — and they start with the next goal.`;
-      } else {
-        scoreCtx = `Still ${hs}–${as_} — your ${yourTeam} have 45 minutes to make the difference.`;
-      }
-    } else {
-      scoreCtx = hs === as_
-        ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
-        : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
-    }
+    const scoreCtx = hs === as_
+      ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
+      : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
     out.push({
       id: `${match.id}-second-half`, type: 'beat', priority: 3, icon: '🔄',
       title: `Second half — here's the story so far`,
@@ -1116,10 +1066,22 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       const hKey = `hydration-ev-${ev.id}`;
       if (guard.firedStatKeys.has(hKey)) continue;
       guard.firedStatKeys.add(hKey);
+      const hdiff = Math.abs(hs - as_);
+      let expectNext;
+      if (hs === as_) {
+        expectNext = `Level game. Both benches will have pushed for the next goal — watch which team presses higher in the first 5 minutes after restart. The side that seizes the initiative often doesn't let go.`;
+      } else if (hdiff === 1) {
+        const leader = hs > as_ ? match.homeTeam : match.awayTeam;
+        const trailer = hs > as_ ? match.awayTeam : match.homeTeam;
+        expectNext = `${leader} lead by one — they'll look to compact and deny space. ${trailer} must push immediately after restart: teams that let the tempo slow after a drinks break rarely find the urgency again.`;
+      } else {
+        const trailer = hs > as_ ? match.awayTeam : match.homeTeam;
+        expectNext = `${trailer} trail by ${hdiff} — a tactical dilemma coming out of this break. Do they push bodies forward and risk the counter, or stay organized and chase a goal back through the set-piece route? Watch their shape when play resumes.`;
+      }
       out.push({
         id: `${match.id}-hydration-${ev.id}`, type: 'beat', priority: 3, icon: '💧',
         title: `Drinks break — ${ev.minuteLabel || `${ev.minute}'`}`,
-        subtext: `A mandatory cooling break — FIFA requires these when pitch-side temperature hits 32°C (90°F). Play pauses for around 3 minutes. Both benches can relay instructions directly to their players — a rare live tactical window mid-game. Watch for shape adjustments when play resumes: pressed teams use this to reorganize their defensive structure; leading teams reinforce the block. These pauses are short but often shift momentum.`,
+        subtext: `Pitch-side temperature hit 32°C (90°F) — a mandatory FIFA cooling break, roughly 3 minutes. Both benches get direct access to their players — one of the few live tactical windows in a match. ${expectNext}`,
         match, firedAt: Date.now(), matchMinute: ev.minute ?? currentMinute,
       });
     }
@@ -1228,7 +1190,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
         guard.firedStatKeys.add(`milestone-${t}`);
         const firingLate = currentMinute > t + 5;
         const baseBody   = cfg.body(match, espn, stats, firingLate);
-        const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_, chosenCode) : null;
+        const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_) : null;
         out.push({
           id: `${match.id}-milestone-${t}`, type: 'milestone', priority: 1,
           icon: cfg.icon, title: cfg.title,
@@ -1295,20 +1257,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       const who   = homePoss >= awayPoss ? match.homeTeam : match.awayTeam;
       const other = homePoss >= awayPoss ? match.awayTeam : match.homeTeam;
       const val   = Math.max(homePoss, awayPoss);
-      let possSubtext;
-      if (chosenCode) {
-        const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
-        const yourPoss  = chosenCode === match.homeCode ? homePoss : awayPoss;
-        const theirPoss = chosenCode === match.homeCode ? awayPoss : homePoss;
-        const otherTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
-        if (yourPoss > theirPoss) {
-          possSubtext = `Your ${yourTeam} have ${yourPoss}% possession — dictating the tempo. High possession means finding space to play through; watch if it translates into shots on goal.`;
-        } else {
-          possSubtext = `Your ${yourTeam} have ${yourPoss}% — ${otherTeam} are controlling the ball at ${theirPoss}%. Your team is sitting deeper. This is either tactical (waiting to counter) or a sign of pressure. The shot count will tell you which.`;
-        }
-      } else {
-        possSubtext = `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`;
-      }
+      const possSubtext = `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`;
       out.push({
         id: `${match.id}-possession-intro`, type: 'explain', priority: 2, icon: '📊',
         title: `${who} with ${val}% possession`,
@@ -1433,10 +1382,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
           const counterRef = guard.firedStatKeys.has('counter-attack')
             ? ` The counter-attack pattern we identified is now under maximum pressure.`
             : '';
-          const perspRef = chosenCode
-            ? ` ${(() => { const yours = chosenCode === match.homeCode ? hs : as_; const theirs = chosenCode === match.homeCode ? as_ : hs; const team = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam; return yours >= theirs ? `Hold strong, ${team}.` : `Push now, ${team}.`; })()}`
-            : '';
-          return `${ctx}${counterRef} Clock pressure, attacking patterns, and score situation are all elevated.${perspRef}`;
+          return `${ctx}${counterRef} Clock pressure, attacking patterns, and score situation are all elevated.`;
         },
       },
       {
