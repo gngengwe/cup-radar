@@ -418,6 +418,52 @@ const MILESTONES = {
       return `${leader} lead ${lScore}–${tScore} — effectively finished. ${trailer} need ${margin} goals from nothing. ${totalShots > 0 ? `${totalShots} shots across this match. ` : ''}Watch ${leader} manage the ball and run the clock down.`;
     },
   },
+  95: {
+    icon: '⏱', title: 'Extra time — first period',
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) return `Extra time first period underway. Both teams have had 90 minutes of the physical demands of international football — tactical discipline now competes with exhaustion.`;
+      const hs = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
+      return hs === as_
+        ? `Still ${hs}–${as_} going into extra time. 30 more minutes — the first team to score creates enormous psychological pressure.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs, as_)}–${Math.min(hs, as_)} in extra time. Defending a lead with tired legs is one of the hardest things in soccer.`;
+    },
+  },
+  100: {
+    icon: '⏱', title: '100 minutes — fatigue starts deciding things',
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) return `Around 100 minutes, the match becomes less about perfect structure and more about who can still sprint, recover, and stay switched on. One loose touch can decide it.`;
+      const hs = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
+      return hs === as_
+        ? `Still level after 100 minutes. Exhaustion changes the geometry of the game — defensive lines stretch, midfield runners stop tracking, and one clean transition can end it.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} are protecting a lead with every player now carrying 100 minutes in their legs. The next transition or set piece could settle everything.`;
+    },
+  },
+  105: {
+    icon: '⏱', title: 'Extra time — second period starts',
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) return `The second and final 15-minute period of extra time. If no goal is scored, this goes to penalties.`;
+      const hs = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
+      return hs === as_
+        ? `Still ${hs}–${as_} — 15 more minutes before a penalty shootout. Both teams know it. The question is whether someone blinks first.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} lead in the second period of extra time. ${hs > as_ ? match.awayTeam : match.homeTeam} need one goal to force a shootout.`;
+    },
+  },
+  110: {
+    icon: '⏱', title: '110 minutes — one moment or penalties',
+    body: (match, espn, stats, firingLate = false) => {
+      if (firingLate) return `The final 10 minutes of extra time are survival football. Players are exhausted, spaces open up, and every set piece feels like a coin flip with a trophy-sized consequence.`;
+      const hs = espn?.homeScore ?? 0, as_ = espn?.awayScore ?? 0;
+      return hs === as_
+        ? `Still tied with 10 minutes left before penalties. The next shot, deflection, or defensive mistake may spare one team the shootout and haunt the other forever.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} are 10 minutes from surviving extra time. ${hs > as_ ? match.awayTeam : match.homeTeam} need one moment to force penalties.`;
+    },
+  },
+  120: {
+    icon: '⏱', title: 'End of extra time',
+    body: () => {
+      return `120 minutes played. If the score is still level after this, it goes to a penalty shootout — the most psychologically intense 15 minutes in team sports.`;
+    },
+  },
 };
 
 // ─── Retroactive milestone bodies ─────────────────────────────────────────────
@@ -892,6 +938,26 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
+  if (isLive && period >= 3 && (guard.prevPeriod ?? 0) < 3 && !guard.firedStatKeys.has('extra-time')) {
+    guard.firedStatKeys.add('extra-time');
+    out.push({
+      id: `${match.id}-extra-time`, type: 'beat', priority: 3, icon: '⏱',
+      title: `Extra time — 30 more minutes to decide this`,
+      subtext: `Neither team could separate themselves in 90 minutes. Extra time is two 15-minute halves — first to score doesn't win automatically (unlike Golden Goal rules of the past). If it's still level after 120 minutes, it goes to a penalty shootout. Fatigue is now a tactical weapon: tired legs, fresh substitutes, and psychological pressure at maximum.`,
+      match, firedAt: Date.now(), matchMinute: 90,
+    });
+  }
+
+  if (isLive && period >= 5 && (guard.prevPeriod ?? 0) < 5 && !guard.firedStatKeys.has('penalties')) {
+    guard.firedStatKeys.add('penalties');
+    out.push({
+      id: `${match.id}-penalties`, type: 'beat', priority: 3, icon: '🥅',
+      title: `Penalty shootout — sudden death`,
+      subtext: `After 120 minutes of soccer, the result comes down to five kicks per side from 12 yards. Each player walks up alone. The goalkeeper has no data on where the ball is going — they pick a side and dive. World Cup shootout conversion rate: ~73%. The team that scores all five and whose goalkeeper saves one wins. Some of the most dramatic moments in sports history happen in the next few minutes.`,
+      match, firedAt: Date.now(), matchMinute: 120,
+    });
+  }
+
   // ── GOAL CATCH-UP ────────────────────────────────────────────────────────
   // prevHomeScore was set to the existing score on guard init, so the normal
   // poll-to-poll delta is 0 for any goal scored before the page loaded. This
@@ -1001,6 +1067,44 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
           icon: cfg.icon, title: cfg.title,
           subtext: stakesLine ? `${baseBody} ${stakesLine}` : baseBody,
           match, firedAt: Date.now(), matchMinute: t,
+        });
+      }
+    }
+  }
+
+  // ── LAYER 2.5: SUBSTITUTION AND DISCIPLINE EVENTS ────────────────────────
+
+  if (isLive && summary?.events) {
+    const subEvents = summary.events.filter(ev => ev.family === 'substitution');
+    let subCardsFired = [...guard.firedStatKeys].filter(k => k.startsWith('sub-ev-')).length;
+    for (const ev of subEvents) {
+      if (subCardsFired >= 2) break;
+      const subKey = `sub-ev-${ev.id}`;
+      if (!guard.firedStatKeys.has(subKey)) {
+        guard.firedStatKeys.add(subKey);
+        subCardsFired++;
+        out.push({
+          id: `${match.id}-sub-${ev.id}`,
+          type: 'explain', priority: 2, icon: '🔄',
+          title: `Substitution — ${ev.teamName ?? 'change made'}`,
+          subtext: `A substitution signals a tactical shift or injury response. Teams get 5 substitutions per game. Bringing on a fresh player at this stage means the manager wants to change shape, add pace, or protect a result. Watch for what changes in the next 5 minutes — the new player's movement reveals the intent.`,
+          match, firedAt: Date.now(), matchMinute: ev.minute ?? currentMinute,
+        });
+      }
+    }
+
+    const redEvents = summary.events.filter(ev => ev.family === 'red-card');
+    for (const ev of redEvents) {
+      const redKey = `red-ev-${ev.id}`;
+      if (!guard.firedStatKeys.has(redKey)) {
+        guard.firedStatKeys.add(redKey);
+        const teamStr = ev.teamName ? `${ev.teamName} are` : 'One team is';
+        out.push({
+          id: `${match.id}-red-${ev.id}`,
+          type: 'tension', priority: 4, icon: '🟥',
+          title: `Red card — ${ev.teamName ?? 'dismissal'}`,
+          subtext: `${teamStr} now down to 10 men for the remainder of the match. Statistically, teams with 10 men concede 40% more goals in the following 20 minutes as the defensive shape is stretched. The tactical response is to compress into a deep block and protect the center. With 10 vs 11, every set piece becomes critical — one goal here could decide everything.`,
+          match, firedAt: Date.now(), matchMinute: ev.minute ?? currentMinute,
         });
       }
     }
@@ -1151,6 +1255,28 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
         }
       }
     }
+  }
+
+  // ── LAYER 4.5: NARRATIVE THREAD — DANGER ZONE ────────────────────────────
+  if (
+    isLive &&
+    currentMinute != null && currentMinute >= 70 &&
+    hs === as_ &&
+    guard.firedStatKeys.has('counter-attack') &&
+    !guard.firedStatKeys.has('danger-zone')
+  ) {
+    guard.firedStatKeys.add('danger-zone');
+    const hp = stats?.homePossession || 0;
+    const ap = stats?.awayPossession || 0;
+    const dominant = hp >= ap ? match.homeTeam : match.awayTeam;
+    const counter = hp >= ap ? match.awayTeam : match.homeTeam;
+    const domPoss = Math.max(hp, ap);
+    out.push({
+      id: `${match.id}-danger-zone`, type: 'tension', priority: 4, icon: '⚡',
+      title: `Level at ${currentMinute}' — the counter-attack tension is now critical`,
+      subtext: `Earlier we flagged the counter-attack pattern: ${dominant} with ${domPoss}% possession, ${counter} creating chances from fewer touches. That dynamic is now at maximum pressure. A single counter-attack goal in this window could be the decisive moment of the match. One mistake in transition ends this game.`,
+      match, firedAt: Date.now(), matchMinute: currentMinute,
+    });
   }
 
   return out;
@@ -1544,7 +1670,9 @@ export default function LivePulse() {
   const timelineProgress = isSelectedPost
     ? 100
     : isSelectedLive && currentMinute != null
-      ? Math.min((currentMinute / 90) * 100, 99)
+      ? currentMinute <= 90
+        ? Math.min((currentMinute / 90) * 100, 99)
+        : Math.min(((currentMinute - 90) / 30) * 100, 99)
       : 0;
 
   const toggleCard = useCallback((id) => {
@@ -1794,6 +1922,16 @@ export default function LivePulse() {
                 aria-label="Close card"
                 onClick={() => setSelectedCardId(null)}
               >×</button>
+              <button
+                className="pulse-detail__share"
+                title="Copy card text"
+                onClick={() => {
+                  const text = `${selectedCard.icon} ${selectedCard.title}\n\n${selectedCard.subtext}\n\n\u2014 Live Pulse \u00b7 wc.ngengwe.com/live-pulse`;
+                  navigator.clipboard?.writeText(text)?.catch(() => {});
+                }}
+              >
+                📋
+              </button>
             </div>
           )}
 
