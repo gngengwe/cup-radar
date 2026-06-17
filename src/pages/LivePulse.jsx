@@ -1329,6 +1329,17 @@ export default function LivePulse() {
   const today        = useMemo(makeTodayStr, []);
   const todayMatches = useMemo(() => matches.filter(m => m.date === today), [matches, today]);
 
+  // For tab display: live first, then by kickoff time, finished last
+  const displayMatches = useMemo(() => {
+    const order = { in: 0, pre: 1, post: 2 };
+    return [...todayMatches].sort((a, b) => {
+      const sa = order[espnMap[a.id]?.state] ?? 1;
+      const sb = order[espnMap[b.id]?.state] ?? 1;
+      if (sa !== sb) return sa - sb;
+      return (a.time ?? '').localeCompare(b.time ?? '');
+    });
+  }, [todayMatches, espnMap]);
+
   const [espnMap,         setEspnMap]         = useState({});
   const [summaryMap,      setSummaryMap]       = useState({});
   const [exMap,           setExMap]           = useState({});
@@ -1372,8 +1383,8 @@ export default function LivePulse() {
     const live = todayMatches.find(m => espnMap[m.id]?.state === 'in');
     if (live) {
       setSelectedMatchId(live.id);
-    } else if (!selectedMatchIdRef.current && todayMatches.length > 0) {
-      setSelectedMatchId(todayMatches[0].id);
+    } else if (!selectedMatchIdRef.current && displayMatches.length > 0) {
+      setSelectedMatchId(displayMatches[0].id);
     }
   }, [espnMap, todayMatches]);
 
@@ -1726,9 +1737,9 @@ export default function LivePulse() {
       </div>
 
       {/* ── Match tabs ─────────────────────────────────────────────────────── */}
-      {todayMatches.length > 0 && (
+      {displayMatches.length > 0 && (
         <div className="pulse-tabs">
-          {todayMatches.map(m => {
+          {displayMatches.map(m => {
             const espn    = espnMap[m.id];
             const isLive  = espn?.state === 'in';
             const isPost  = espn?.state === 'post' || m.status === 'finished';
@@ -2022,9 +2033,9 @@ export default function LivePulse() {
         </button>
 
         {adminOpen && (() => {
-          const live = todayMatches.find(m => espnMap[m.id]?.state === 'in')
-            ?? todayMatches.find(m => espnMap[m.id]?.state === 'post')
-            ?? todayMatches[0];
+          const live = displayMatches.find(m => espnMap[m.id]?.state === 'in')
+            ?? displayMatches.find(m => espnMap[m.id]?.state === 'post')
+            ?? displayMatches[0];
           if (!live) return <p className="pulse-admin__null">No match data yet.</p>;
           const espn  = espnMap[live.id];
           const stats = summaryMap[live.id]?.stats;
