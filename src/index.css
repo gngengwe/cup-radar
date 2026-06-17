@@ -6372,6 +6372,7 @@ a.wcp-source-chip:hover { color: var(--text); }
   box-shadow: 0 4px 20px rgba(0,0,0,0.35);
   animation: pulse-toast-slide 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   flex-shrink: 0;
+  cursor: pointer;
 }
 
 .pulse-toast--beat      { border-left-color: #06b6d4; }
@@ -6384,6 +6385,15 @@ a.wcp-source-chip:hover { color: var(--text); }
 @keyframes pulse-toast-slide {
   from { transform: translateY(10px); opacity: 0; }
   to   { transform: translateY(0);    opacity: 1; }
+}
+
+.pulse-toast__match {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.68rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.2rem;
 }
 
 .pulse-toast__meta {
@@ -6779,10 +6789,30 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 
 .pulse-team-picker__note {
+  flex-basis: 100%;
+  margin-top: 2px;
+  text-align: center;
   font-size: 0.68rem;
   color: var(--accent);
   opacity: 0.7;
   font-style: italic;
+}
+
+.pulse-jump-latest {
+  display: block;
+  margin: 0.4rem auto 0;
+  padding: 0.3rem 1.1rem;
+  font-size: 0.78rem;
+  background: var(--surface);
+  border: 1px solid #334155;
+  border-radius: 999px;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.pulse-jump-latest:hover {
+  border-color: #64748b;
+  color: var(--text-primary);
 }
 
 /* ── Timeline ── */

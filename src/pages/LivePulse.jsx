@@ -1200,6 +1200,7 @@ export default function LivePulse() {
   const [chosenTeams,    setChosenTeams]    = useState({});
   const [replayStateMap, setReplayStateMap] = useState({});
   const [replayCardsMap, setReplayCardsMap] = useState({});
+  const [replayLoadStartMap, setReplayLoadStartMap] = useState({});
 
   const guardsRef          = useRef({});
   const summaryMapRef      = useRef({});
@@ -1250,6 +1251,11 @@ export default function LivePulse() {
   }, []);
 
   function startPlayback(matchId) {
+    if (replayStateMap[matchId] === 'playing') return;
+    if (replayIntervalsRef.current[matchId]) {
+      clearInterval(replayIntervalsRef.current[matchId]);
+      delete replayIntervalsRef.current[matchId];
+    }
     const cards = replayCardsMap[matchId];
     if (!cards?.length) return;
     setReplayStateMap(prev => ({ ...prev, [matchId]: 'playing' }));
@@ -1292,7 +1298,19 @@ export default function LivePulse() {
         const matchPass = todayMatches.map(m => {
           const espn = nextEspn[m.id];
           if (!guardsRef.current[m.id]) {
-            guardsRef.current[m.id] = {
+            const saved = (() => {
+              try {
+                const raw = sessionStorage.getItem(`lp-guard-${m.id}`);
+                return raw ? JSON.parse(raw) : null;
+              } catch {
+                return null;
+              }
+            })();
+
+            guardsRef.current[m.id] = saved ? {
+              ...saved,
+              firedStatKeys: new Set(saved.firedStatKeys ?? []),
+            } : {
               initialized: false, prevExScore: null,
               prevEspnState: null, prevPeriod: null,
               prevHomeScore: null, prevAwayScore: null,
@@ -1348,6 +1366,22 @@ export default function LivePulse() {
             // Show loading state immediately on first detection of a cold post game
             if (isPostGame && !watchedLive) {
               setReplayStateMap(prev => ({ ...prev, [m.id]: 'loading' }));
+              setReplayLoadStartMap(prev => ({ ...prev, [m.id]: Date.now() }));
+            }
+            try {
+              sessionStorage.setItem(`lp-guard-${m.id}`, JSON.stringify({
+                initialized: true,
+                prevExScore: guard.prevExScore,
+                prevEspnState: guard.prevEspnState,
+                prevPeriod: guard.prevPeriod,
+                prevHomeScore: guard.prevHomeScore,
+                prevAwayScore: guard.prevAwayScore,
+                firedStatKeys: [...guard.firedStatKeys],
+                firedBands: guard.firedBands,
+                firedPost: guard.firedPost,
+              }));
+            } catch {
+              // storage full or private mode - fail soft
             }
             continue;
           }
@@ -1374,6 +1408,21 @@ export default function LivePulse() {
           guard.prevPeriod    = espn?.period ?? null;
           guard.prevHomeScore = espn?.homeScore ?? 0;
           guard.prevAwayScore = espn?.awayScore ?? 0;
+          try {
+            sessionStorage.setItem(`lp-guard-${m.id}`, JSON.stringify({
+              initialized: true,
+              prevExScore: guard.prevExScore,
+              prevEspnState: guard.prevEspnState,
+              prevPeriod: guard.prevPeriod,
+              prevHomeScore: guard.prevHomeScore,
+              prevAwayScore: guard.prevAwayScore,
+              firedStatKeys: [...guard.firedStatKeys],
+              firedBands: guard.firedBands,
+              firedPost: guard.firedPost,
+            }));
+          } catch {
+            // storage full or private mode - fail soft
+          }
         }
 
         if (Object.keys(summaryResults).length) {
@@ -1596,7 +1645,7 @@ export default function LivePulse() {
           </div>
 
           {/* Team picker — pick a side or stay neutral */}
-          {(isSelectedLive || isSelectedPost) && (
+          {selectedMatch && (
             <div className="pulse-team-picker">
               <span className="pulse-team-picker__label">View as</span>
               <button
@@ -1618,6 +1667,9 @@ export default function LivePulse() {
                   {t.name}
                 </button>
               ))}
+              {(!selectedEspn || selectedEspn.state === 'pre') && (
+                <span className="pulse-team-picker__note">Pick your team before kickoff for a personalized feed</span>
+              )}
             </div>
           )}
 
@@ -1625,10 +1677,18 @@ export default function LivePulse() {
           {isSelectedPost && replayStateMap[selectedMatchId] && (
             <div className={`pulse-replay-panel pulse-replay-panel--${replayStateMap[selectedMatchId]}`}>
               {replayStateMap[selectedMatchId] === 'loading' && (
-                <>
-                  <span className="pulse-replay-panel__spinner">⟳</span>
-                  <span className="pulse-replay-panel__text">Gathering match data…</span>
-                </>
+                (() => {
+                  const loadStart = replayLoadStartMap[selectedMatchId];
+                  const timedOut = loadStart && Date.now() - loadStart > 15_000;
+                  return timedOut
+                    ? <span className="pulse-replay-panel__text">Couldn't load match data - try refreshing.</span>
+                    : (
+                      <>
+                        <span className="pulse-replay-panel__spinner">⟳</span>
+                        <span className="pulse-replay-panel__text">Gathering match data…</span>
+                      </>
+                    );
+                })()
               )}
               {replayStateMap[selectedMatchId] === 'ready' && (
                 <>
@@ -1755,30 +1815,44 @@ export default function LivePulse() {
               )}
             </div>
           ) : (
-            <div className="pulse-card-list">
-              {selectedMatchCards.map(card => (
+            <>
+              <div className="pulse-card-list">
+                {selectedMatchCards.map(card => (
+                  <button
+                    key={card.id}
+                    className={`pulse-card-item${selectedCardId === card.id ? ' selected' : ''}`}
+                    onClick={() => toggleCard(card.id)}
+                  >
+                    <span className="pulse-card-item__min">
+                      {card.matchMinute != null ? `${card.matchMinute}'` : '–'}
+                    </span>
+                    <span className="pulse-card-item__icon">{card.icon}</span>
+                    <div className="pulse-card-item__text">
+                      <span className="pulse-card-item__title">{card.title}</span>
+                      {selectedCardId === card.id && (
+                        <span className="pulse-card-item__sub">{card.subtext}</span>
+                      )}
+                    </div>
+                    <span
+                      className="pulse-card-item__badge"
+                      style={{ background: TYPE_COLORS[card.type] ?? '#888' }}
+                    >{TYPE_LABELS[card.type] ?? card.type}</span>
+                  </button>
+                ))}
+              </div>
+              {selectedMatchCards.length > 4 && (
                 <button
-                  key={card.id}
-                  className={`pulse-card-item${selectedCardId === card.id ? ' selected' : ''}`}
-                  onClick={() => toggleCard(card.id)}
+                  className="pulse-jump-latest"
+                  onClick={() => {
+                    const latest = selectedMatchCards[selectedMatchCards.length - 1];
+                    setSelectedCardId(latest.id);
+                    document.querySelector('.pulse-card-list')?.lastElementChild?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                  }}
                 >
-                  <span className="pulse-card-item__min">
-                    {card.matchMinute != null ? `${card.matchMinute}'` : '–'}
-                  </span>
-                  <span className="pulse-card-item__icon">{card.icon}</span>
-                  <div className="pulse-card-item__text">
-                    <span className="pulse-card-item__title">{card.title}</span>
-                    {selectedCardId === card.id && (
-                      <span className="pulse-card-item__sub">{card.subtext}</span>
-                    )}
-                  </div>
-                  <span
-                    className="pulse-card-item__badge"
-                    style={{ background: TYPE_COLORS[card.type] ?? '#888' }}
-                  >{TYPE_LABELS[card.type] ?? card.type}</span>
+                  &darr; Latest
                 </button>
-              ))}
-            </div>
+              )}
+            </>
           )}
         </div>
       )}
@@ -1834,9 +1908,24 @@ export default function LivePulse() {
       {toastStack.length > 0 && (
         <div className="pulse-toast-stack" role="log" aria-live="polite">
           {toastStack.map(n => (
-            <div key={n.id} className={`pulse-toast pulse-toast--${n.type}`}>
+            <div
+              key={n.id}
+              className={`pulse-toast pulse-toast--${n.type}`}
+              role="button"
+              tabIndex={0}
+              onClick={() => {
+                setSelectedMatchId(n.match.id);
+                setSelectedCardId(n.id);
+                setSnapshotOpen(false);
+                dismissToast(n.id);
+              }}
+            >
               <span className="pulse-toast__icon">{n.icon}</span>
               <div className="pulse-toast__body">
+                <div className="pulse-toast__match">
+                  <FlagImg emoji={n.match.homeFlag} size={10} />
+                  <span>{n.match.homeTeam} vs {n.match.awayTeam}</span>
+                </div>
                 <div className="pulse-toast__title">{n.title}</div>
                 <div className="pulse-toast__sub">{n.subtext}</div>
                 <div className="pulse-toast__meta">
@@ -1846,7 +1935,7 @@ export default function LivePulse() {
                   <span className="pulse-toast__time">{relTime(n.firedAt)}</span>
                 </div>
               </div>
-              <button className="pulse-toast__dismiss" aria-label="Dismiss" onClick={() => dismissToast(n.id)}>×</button>
+              <button className="pulse-toast__dismiss" aria-label="Dismiss" onClick={(e) => { e.stopPropagation(); dismissToast(n.id); }}>×</button>
             </div>
           ))}
         </div>
