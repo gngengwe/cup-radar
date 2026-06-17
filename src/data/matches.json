@@ -366,9 +366,9 @@
       "group": "I",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 4,
       "seattleMatch": false,
       "notes": "Norway vs Iraq — Group I"
     },
@@ -439,9 +439,9 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": true,
       "notes": "Argentina vs Algeria — Group J at Kansas City Stadium"
@@ -1285,9 +1285,9 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-16T22:52:55.731Z"
+  "lastUpdated": "2026-06-17T04:09:04.349Z"
 }

@@ -1,11 +1,11 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-16T22:53:00.915Z",
+  "lastUpdated": "2026-06-17T04:09:09.408Z",
   "narratives": [
     {
       "id": "nar-001",
       "title": "Messi's Last Stand",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "player",
       "teams": [
         "ARG"
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 35,
+      "chapterCount": 40,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -298,6 +298,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV01UeEdYc3dJNEtiWUM5Wkl1RUw4NlhRWHk0MF9DM1JqNVJTM1cyc0dVWkxaRnl6dDRxY1p6cDVwTDlOa3ZPUFBSSjg4N2U0UEk0aERJWFplcHpOMHExT3V4WEZaYXh3ZEJ0bm1rUXZKVm1ORG81WnJSS2NCdmVyRnlpTEtoS0V6Nm5qaElfdzJ6dG5rQnFJUjhwOFpvaHplNklPMXJJZWUwaHVIWWlXWkd4YW9XclBGOHBoRlhyRXFhTVU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-kc-01",
+          "date": "2026-06-16",
+          "title": "Argentina beat Algeria 3-0 at Kansas City Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-001-1781669347378",
+          "date": "2026-06-17",
+          "title": "Argentina’s Lionel Messi scores goal, becoming oldest player in Men's FIFA World Cup™ History to score brace | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TSjVIR0N0bEc4eGFVRHFiR2JoMnlreUMwd0tSc3E5ay1pcEpQNWdTbzJZMHVwNXhrZGV2ZlQ1QjRSR3RZemNJVnRtdkJTeXpCd1hqWE5iSkR4TXhaZlRMNlJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781669347378",
+          "date": "2026-06-17",
+          "title": "Argentina vs Algeria: LIVE – World Cup 2026; Messi hat-trick - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkZadk1CR0pfU3NwUG5rQlJNOU56MURDb1owWGkxcHp0Z2hmcG0wR0JQckVCbmZ1UTBYZzBKLU9UbWEwQk1PYlktR1drdjhkemYySDZhSEtTQnF5NTI4WnEtMHZYVWhPQkVTcXgtTEJtc2VsQWJQZ2MxQW1WSVFvSHYtTkRuWUFDY1l3blR1bTZKX0Q5Qjhj0gGcAUFVX3lxTE9pNEhyTGUtdXRRb2N1enRLcndQVkl0VS1VZ2ZqSWh0elRCX0t0LTlrRHFVa01rSmRoN2JHUldkUjl6UkM1R0Q2U1hSVFBCWWE0LVdUb1dtUFlFY2g2X2VoOEJfNHRab3ZCeHRCdXREaUdzRjloOXp4LTEwamRkSGY1bmw2ZzVYVXhBczZzTktRcTVHMlJtZ3MxbDhqdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781669347378",
+          "date": "2026-06-17",
+          "title": "Lionel Messi hat trick for Argentina! Shop his trending jerseys - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3dsUVdXazJTb3U2RTJhZTZHc2VCSmNheXpOcTFxWHJvUEZjS0lFZ1ZEXzdGQ3NFaUYxbWpDVy1LaTdIVHJmSmNYWVlMZUZSdk8xS0lyQkNEWGg3ZldYSUdLdlR6eUpBNUgtX083TUtjaGNIWHZRRjZGelVfQnc5SDJNNGRPc2RUYWxrOTRCOURyM2JqNWpBeW10SjVWOXhPdzhLa2tnRVp5VlBrSXB5ZXlNNG82M0RtQlFmOWdWM0FlRjJGa2RQMElmZUdpUW1r?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781669347378",
+          "date": "2026-06-17",
+          "title": "Argentina’s Lionel Messi Scores His First Goal of 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJS1ZSbEFLaERqTEhZYkRSZlJLRVNUVDh5NlJvRWtYNGlmUXdZUjA4UHBpRk1OM1otdU9OeU9uWW5rVU9YbVRLbUNGd2E4NF92TnJCaGg4QjdURmVlZE9URTZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -316,7 +356,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 43,
+      "chapterCount": 45,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -661,6 +701,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaWo3cVA2ZmZoNXNqMDBrbFNteVJqakFfVUZVaTgza1ppUHlETTBjUWZPeGVzNlFua2hTbVpnMS1CMHM0bzlnTDBGc2tLb3FlM3ZSTEpiZldibGUwakJITmtCSUxqWnJGVHF2OFRCMEdGUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781669347884",
+          "date": "2026-06-17",
+          "title": "World Cup LIVE: Scores, schedule, highlights — record-setting night for Messi - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzR2LVpNcnFjb2NkelRKMmp4ZFMxQjgyX2J1VEI3TjI0eEtpVE0xWXRuZlFxTkNHVHBPTEpUTjNNSGlNbEpxbWJfbzRydDJHSGpJYnZ5UUMzNHRXOGt5MVNoWVQtcnp1ZnphWmxZN2ZaWDBRLV9nN25sV3luQmVBbVAwZjZfN2FVWDY3SU1kd2EzeHBMeUFZdEFCbGctUzhTNGhYZDJFTmlRQk01aTVST2FoR2o2X0ZWN2NMU21WTFpJZ09FcU44?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781669347884",
+          "date": "2026-06-16",
+          "title": "2026 World Cup's biggest stars take the field as Lionel Messi's Argentina and Kylian Mbappe's France debut - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVmY3dHd25zeHJrVEp2X1NIYWlYMDlhS1BsSmJkS0FjdmRaeHRxWmt2MTN6a29nTVJzSnlZdzhzaUpuY3U1NFY4X0xPLXh0WUV2YzRMVmRLU3Y5REtFS01GVTdtQ1R1dURwR0hINXV2TzZxcUtsSXJ5TEU4XzJObEZFVW9lX1hxNVZpaWxUN3ZkVWdyX2MwaEtzM2t1ZEtyX3Q2VmlwODA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -679,7 +735,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 109,
+      "chapterCount": 113,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1552,6 +1608,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUw2QWl5elp1N2lUZUxpRUczWUxfVkt4aUR0TndoZWxxWjl5aFAxRTRFUXFkNWFKc21oVDRJMWFJSUJYazN4a2VEM3RqQzB0MmpFVEZQNUItSGJINlB5N0RxWlRPMWwzdzhBX2dUYU8xX0tkcTFhRXF4Y3VRemMzT3ZsMTLSAYoBQVVfeXFMTVExV0RvNGhKYTZGSmc0T2VtU0dLVTVvaHZsQkxLeDliQkV3OGVTRlg5eExHUkRWUVB2aDR5ZVpvNmd6dGVWNnllQTJVckNKZDZvM1l2R1laNVVLRTJIM1pCREVuUUJ5cGY0NjJKYkZvR3lmWUpsWkFidGxCYXNpeUhLQ2xhekxKV3ZB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781669348283",
+          "date": "2026-06-17",
+          "title": "INSTANT REACTION 🚨 FIFA World Cup Now reacts to Erling Haaland & Norway's dominant 4-1 win vs Iraq - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtY2ItN3lrRlNqdzF6ZGFsYjdDejF6U1pjejV6SVdvOUVGTlMzdHNEaEpIY2NpaXBpdDJaNFcxVXdEZnF2aDkxSXROZi1kQkZ4aFU5WExtS1BFd0tickpKX2ln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781669348283",
+          "date": "2026-06-16",
+          "title": "USA vs Australia FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzd4Y1hhR1BUYXUtazhkNzFCRklHdzFhZWFWZEdoSjR0RVFrZGdJbHZNdERtQTlZLWRuOHNtSHBGSGxBUmQ0SWZqWmlVTlgwM0VoWXFQYl9DbnFuVWFTT01VZ3VfdXJGVFVhb2U1Ql9RQjFfQXNqR2FoRnVlNnhzTTBXVVRiV0pOSDVV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781669348283",
+          "date": "2026-06-16",
+          "title": "'We don't take s***': American star's ominous warning to Socceroos - Australian Broadcasting Corporation",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcktwaHc5aUVtOHJ1VHAzcFlJWmVIemxjYjM4NDZ4TGV5VzdibFZyS1EwVDdwUUdmVGx6b1Z5QjY3Ym5KdVhkX2NXVTc4OGdkMVM4ZExYNDFzdThRbm5lRkxfWmhTVXdJbmphNWtMQklGQjRuOWFQWmtMcl9qS293VUVkaFNmclhOSmdETExOVWZNa3M0SlBBODRhU2hKbUFUN0NCV2dNYjhXdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781669348283",
+          "date": "2026-06-16",
+          "title": "Iran will have to leave US hours after every World Cup match, official says - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHlNVTl3SWlPT3dUZjBaQlhuYjNPTjVjS19pWWIySnpDdWJvaEllNTltTEk5dkgtQjhuZEI1UHh1LW1keV91QlpLb1ZhQ0IxU25WblhjNXVDYjI3dVJpS3huME56dXFVWkVuY0xDOF9aVXlxSXEyVnpsR19fLWZYNy1PQ2FUTXVzSlhvMFpiSGE5dmwxMFJNak40ZThKUllvODhaYVZfWkw2U1NHSUtuNU1WYkh5Wlly0gG-AUFVX3lxTE5ONjZ2M1hmbHY0VmJxWVNZWElHMjNvWkpEUGlVanlQTkY3S3Vpa1U4SENhN0NqNzBtSXVQZ0haTXFYc0hNYXhSMlpqSFB0UHZ2YUpNUzRfOFMzVnJ2YWt2X3JfS1VCQkNVaWxTdkRsQmxCbk9na3ZfLW5pUEtRUXpoRUFLVTY0S0pCMlRtUlo2aDJ4M3hobFdBbmNDSWMzaWh0UHhrUHNGNk1TWFR2S2ZLUEVOeFBQTFNINmg4VlE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1570,7 +1658,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 109,
+      "chapterCount": 112,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2443,6 +2531,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HT1h5Q2xTeVVCS0IzLWNLc0o0Uk1SLVQzb3RDT0ppd3d2cThwcUJzNmxjM2drTFBaNWhsTWFVR3RWckU3bHRwSlVleHBvNnp3NUtyV3VuU19CZkZOdW1WSk5fbXdKd1EwQ0xpNUpB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781669348853",
+          "date": "2026-06-14",
+          "title": "EVERY ANGLE of Vinícius Júnior GOAL 🔥 Brazil vs Morocco 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abnp3Zkx4aUNPLWlXeGF1VXp2Q25vb2NoMzZ3OVE5WS1zNjN6TnhmZDczTnRTYlNDSFNWblJKY3RXbEtnQXNTZWJkcDdudnBZd1JfcERMM01yemg1ZlhYNk1R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781669348853",
+          "date": "2026-06-17",
+          "title": "'He's Ready:' Ronaldo Backs Endrick After Brazil's Draw In World Cup Opener - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcV9DYndlZnJtWi01aVA0Rlp5ZG1wUHBNWUFlTS12M0JxejhQSENPM1ZHYW9tRFcxWWpHZ0Q1NXlqengyTVRReml6eWVnUGJZNEc2bVF5X1oxQ0stSFVwSmN3QUZpTWtrWDUwMVd0ZTF3OFNaOFFGd2h1Sk5uY2JqRjJVRlZYMG1hOTZqNlBSV04tQTR3aEh2ZXZKbnh5SDE1NDVjcmNtN0FxX2xTT2Z0UklQZ2xSbXE1QnQyV3JsVmlHdWRqZGcxS20zc2lnYkNoSU5Ob18xcGhReWxpWWNrdFlDYXdhNXd1Tm1IMkstek9WTDJCaVdoYzFR0gH6AUFVX3lxTE9kMC1fcTQ5TmlGWUsybHBSa3lWcmhQcS1sLVhFSjJ6Q1h0Z1ZKejBpQlZUZWFCX0JWVktLQzNZY1RTYTF0TTdQQzdwM2V3WkxfMEtTX0dlbEtlSnJER1NXY2ROeHZCWlRDZFp6Z21vSGhfQWhUNXNUTllfbzV5ajBFWTVGcERxVjNNZUJ2eFpSTTRTVjhoU0xybFZzam41Mlh5dzBqbktiTzBDV3JoamNIM2pfcVAtVVpQTWxiQncxcHpjZTRhYzFKWGVuNEZIdjhoTmRRdmNkRzYzblZscWk5SEpTS3llcDB4VE1ycGc3S1pyMlZLQ2NhMmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781669348853",
+          "date": "2026-06-16",
+          "title": "2026 World Cup guide: Full TV schedule, game previews, results and standings - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUVIM251TmR6Vnh3cnhMbmRqbXEwRUhhUURvRklTd1hwYmhWbldvb3NwU05UZGQxdWV0ZUxaS3hPc2E5eWR4WG1maDNmalVuN2xRTV9sYVlLVV9ibkxldW1iZ1Q5SGN3NEFsZGhkanhsTVlPbFNraE9EcGpDZ194dWxlOGx3ODBQRDlQYWhtU3k2dWZUeUZPX0pOYzk2SDBmcHliYUtnczZPQjYwekE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2544,7 +2656,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 117,
+      "chapterCount": 119,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -3481,6 +3593,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWY3bUJPN1RBaU4zNXlsZFoxSXhOdzZzOGpIcE81Y09pdUVXZE9FWWZrUkstTFIzMGtLTkhXRmhOYlFHdnNZSWdtZU5nd3M1SE5GQVNUdjA5RWs3ajJqR3EzM0R2aUE2aUhCb2RRT1pTdzZqRzcweG9rNDNLUWZWUVdzS0FSYXhmazVkdE9SU1B5X1VVRkJLdEowMjJVc0XSAZ8BQVVfeXFMT0RlNmc0VzY0VUoxLUJXVzMySXJIMVpIdGtwcm9Nak1jWmp2b3ZQcVNZTjIyTFQ1ZGNfRVFHRlJFNGlPTDNmc2p4OGluLWYtZXIxalRZRERGUnozUlVBR29TZVdNRXAxenhJQ3NQcGkxQnNfSWtsRXQtV1Q4WlhfeTg0WWhmVGVDSHdsSlE1aFgzYjB3U21ua2hMT3pGaVlv?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781669349408",
+          "date": "2026-06-17",
+          "title": "World Cup Day 7 What to Watch: Tournament favorites Portugal and England begin their campaigns - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNWhBdnRLTC01bGFMTTlCUkJ0cHBhbjREWm50am9VUHFrd0I4Q1djMkZtQ2RMNXo4Yi1DZENkSXZkV3U5S3ZJSjlwMENMM3R6OFpoY0EtNXRvTXZVS1pSQmNMNFM1TVRTX2h1QjdhNERrTy1zaHFaMFJheWUtVWZNSmdNd1NqZ1RiaXhSUEdvNVhJVXVLMW5WVDhVZDlxSk45VV9xR21ENVIyaEpWcmFNcWkwdzFfazE5TURnVzBhalRZcU1JM1haU09ya0NsU1E2MzRkYnY5UUc0Rkx4dXVRbG9R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781669349408",
+          "date": "2026-06-15",
+          "title": "World Cup 2026 Dallas Stadium match features England vs. Croatia in highly anticipated group stage battle - FOX 4 News Dallas-Fort Worth",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcllHX3JGOEFhbFk1aGNla1V1M0ZHbVFMbC1Dc3VLWjNDUGdBdzM3MVdyYmV5ci03Y2c0TzdmdGNWLU1seXRuRjlYdGJiSEVvM3c0U2ZvS0hhc0prM1luc0lqRlJQdzhRUmJYdHJTT0JGRHlYSFAxeFlGUTA5eDNneFdMY1lsX2lpV3ZpcVF5TGgtYi1hZV9CWXlXNHZyVnR0UHlHb0QxMVk2dzVPMG1RaXBidUxHbVNCTy1OWncyYXRaTFNxMnk1UmExU2ZDZ9IB0wFBVV95cUxObEx1SXJsZ0QwNDcwbHNBQzU0QUswODVxYzNiNFFDTjJ2dGlTUmQ5RDhnTlFHdmRfZzJxNzJMczlaM2NreVk5SDQ5bkx4S2NPTUgzTnhwSGItV3p3OFhLNFlZX1ZBWE9JZ093OU1fYVNDZDBscW8wcW0zZWxBeVg1X3hIWV9VbF9zcmNJQ0JVUmpsSFBLVEo2WXlqbS1tS3JQZEx5TTJ4bUh0bkZ0MW00cGFqYUlrcVNjTHBUV2QzNWlRUGdyMXU3RHpVLTRQelVsS21z?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3530,7 +3658,7 @@
     {
       "id": "nar-011",
       "title": "Haaland's World Cup Arrival",
-      "status": "pre-tournament",
+      "status": "building",
       "category": "player",
       "teams": [
         "NOR"
@@ -3542,8 +3670,17 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 0,
-      "chapters": []
+      "chapterCount": 1,
+      "chapters": [
+        {
+          "id": "ch-result-wc26-015",
+          "date": "2026-06-16",
+          "title": "Norway beat Iraq 4-1 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        }
+      ]
     },
     {
       "id": "nar-012",
