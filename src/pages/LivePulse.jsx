@@ -2027,7 +2027,7 @@ export default function LivePulse() {
 
 
           {/* Replay panel — shows for cold-loaded finished games */}
-          {isSelectedPost && replayStateMap[selectedMatchId] && (
+          {(isSelectedPost || pastMatches.some(m => m.id === selectedMatchId)) && replayStateMap[selectedMatchId] && (
             <div className={`pulse-replay-panel pulse-replay-panel--${replayStateMap[selectedMatchId]}`}>
               {replayStateMap[selectedMatchId] === 'loading' && (
                 (() => {
