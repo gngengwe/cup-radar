@@ -840,28 +840,109 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
 function buildReplayDeck(match, espn, summary, guard, chosenCode) {
   const storyCards = buildPostGameStory(match, espn, summary, guard);
   const ftCard     = buildFTCard(match, espn, summary, guard, chosenCode);
-  const goalCards  = [];
-  let prevHs = 0;
-  let prevAs_ = 0;
 
+  // Goal cards from scoreTimeline
+  const goalCards = [];
+  let prevHs = 0, prevAs_ = 0;
   for (const entry of summary?.scoreTimeline ?? []) {
     const syntheticGuard = {
       ...guard,
-      prevHomeScore: prevHs,
-      prevAwayScore: prevAs_,
+      prevHomeScore: prevHs, prevAwayScore: prevAs_,
       firedStatKeys: new Set(guard.firedStatKeys),
     };
-    const syntheticEspn = {
-      ...espn,
-      homeScore: entry.homeScore,
-      awayScore: entry.awayScore,
-    };
-    goalCards.push(buildGoalCard(match, syntheticEspn, summary, syntheticGuard, chosenCode, entry.minute));
+    goalCards.push(buildGoalCard(
+      match,
+      { ...espn, homeScore: entry.homeScore, awayScore: entry.awayScore },
+      summary, syntheticGuard, chosenCode, entry.minute,
+    ));
     prevHs = entry.homeScore;
     prevAs_ = entry.awayScore;
   }
 
-  return [...storyCards, ...goalCards, ftCard].sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
+  // Stakes card — always included, fires at minute 0
+  const { stage, matchday, homeTeam, awayTeam, group } = match;
+  let stakesTitle, stakesText;
+  if (stage === 'Group Stage') {
+    if (matchday === 1) {
+      stakesTitle = `Group ${group} opens — what this result meant`;
+      stakesText = `First group game for both sides. A win gives immediate breathing room for matchdays 2 and 3. A loss means every subsequent game becomes a must-not-lose situation. Eight of the top third-place teams also advance, so even an early loss isn't fatal — but it tightens the margin for error and forces the loser to take more risks in game two.`;
+    } else if (matchday === 2) {
+      stakesTitle = `Group ${group} matchday 2 — often the decisive game`;
+      stakesText = `Matchday 2 typically decides group fates. A win today can secure qualification or put advancement firmly in your own hands going into the final game. A loss may mean needing results to go your way elsewhere. This is where squad depth starts to show — teams balance resting key players with needing points.`;
+    } else {
+      stakesTitle = `Group ${group} — final matchday, standings set after this`;
+      stakesText = `Last group stage game — after full time, the standings were locked. Both teams knew exactly what they needed going in, and the other Group ${group} game was watched simultaneously. A win advances one; a draw might have been enough for both, or for neither.`;
+    }
+  } else if (stage === 'Round of 32') {
+    stakesTitle = `Round of 32 — one loss and you go home`;
+    stakesText = `Single elimination. The loser went home; the winner reached the Round of 16. Knockout football plays differently — tactics tighten, risk-taking drops in the first half, and set pieces become disproportionately decisive.`;
+  } else if (stage === 'Round of 16') {
+    stakesTitle = `Round of 16 — quarterfinal or eliminated`;
+    stakesText = `The final 16 in the world. The loser went home; the winner reached the quarterfinals. Every opponent here had already beaten two teams to get to this stage.`;
+  } else if (stage === 'Quarterfinal') {
+    stakesTitle = `Quarterfinal — four wins from the title`;
+    stakesText = `Eight teams left. The winner reached the semifinals — guaranteed top-4 in the world. The loser went home as one of the eight best teams in the tournament.`;
+  } else if (stage === 'Semifinal') {
+    stakesTitle = `Semifinal — World Cup Final or third place`;
+    stakesText = `Four teams remained. The winner played in the World Cup Final. The loser played the third-place match — still watched by over a billion people.`;
+  } else {
+    stakesTitle = `What was at stake`;
+    stakesText = `A World Cup knockout match — one result, one outcome.`;
+  }
+  const stakesCard = {
+    id: `${match.id}-stakes`, type: 'stakes', priority: 1, icon: '🏆',
+    title: stakesTitle, subtext: stakesText,
+    match, firedAt: Date.now(), matchMinute: 0, silent: true,
+  };
+
+  // Hydration break cards from ESPN delay events
+  const hydrationCards = (summary?.events ?? [])
+    .filter(ev => {
+      if (ev.rawType !== 'start-delay') return false;
+      const t = ev.text.toLowerCase();
+      return t.includes('drink') || t.includes('hydration') || t.includes('cool');
+    })
+    .map(ev => ({
+      id: `${match.id}-hydration-${ev.id}`, type: 'beat', priority: 3, icon: '💧',
+      title: `Drinks break — ${ev.minuteLabel || `${ev.minute}'`}`,
+      subtext: `A mandatory cooling break — FIFA requires these when pitch-side temperature hits 32°C (90°F). Play paused for around 3 minutes. Both benches relayed instructions directly to their players — a rare live tactical window mid-game. Watch what changed in shape and pressing intensity when play resumed.`,
+      match, firedAt: Date.now(), matchMinute: ev.minute ?? 0, silent: true,
+    }));
+
+  // Pressure cards — detect sustained spells from events
+  const pressureCards = [];
+  const events = summary?.events ?? [];
+  const seenPressureKeys = new Set();
+  for (const ev of events) {
+    if (ev.family !== 'corner' && ev.family !== 'shot') continue;
+    if (!ev.teamName || ev.minute == null) continue;
+    const windowEnd = ev.minute;
+    const windowStart = windowEnd - 15;
+    const recent = events.filter(e =>
+      e.teamName === ev.teamName &&
+      (e.family === 'corner' || e.family === 'shot') &&
+      (e.minute ?? 0) >= windowStart && (e.minute ?? 0) <= windowEnd
+    );
+    const corners = recent.filter(e => e.family === 'corner').length;
+    const shots   = recent.filter(e => e.family === 'shot').length;
+    if (corners < 3 && shots < 5) continue;
+    const bucket = Math.floor(ev.minute / 10) * 10;
+    const pKey = `pressure-${ev.teamName}-${bucket}`;
+    if (seenPressureKeys.has(pKey)) continue;
+    seenPressureKeys.add(pKey);
+    const parts = [];
+    if (shots >= 5)   parts.push(`${shots} shots`);
+    if (corners >= 3) parts.push(`${corners} corners`);
+    pressureCards.push({
+      id: `${match.id}-${pKey}`, type: 'pressure', priority: 3, icon: '🔴',
+      title: `${ev.teamName} — ${parts.join(' and ')} in 15 minutes, still searching`,
+      subtext: `Sustained pressure without reward creates its own tension: the pressing team grows frustrated and starts taking risks that open gaps; the defending team's confidence builds with each clearance. This siege either breaks on a set piece or ends abruptly on a counter.`,
+      match, firedAt: Date.now(), matchMinute: ev.minute, silent: true,
+    });
+  }
+
+  return [stakesCard, ...storyCards, ...goalCards, ...hydrationCards, ...pressureCards, ftCard]
+    .sort((a, b) => (a.matchMinute ?? 0) - (b.matchMinute ?? 0));
 }
 
 // ─── Notification derivation ──────────────────────────────────────────────────
@@ -981,6 +1062,67 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       subtext: `After 120 minutes of soccer, the result comes down to five kicks per side from 12 yards. Each player walks up alone. The goalkeeper has no data on where the ball is going — they pick a side and dive. World Cup shootout conversion rate: ~73%. The team that scores all five and whose goalkeeper saves one wins. Some of the most dramatic moments in sports history happen in the next few minutes.`,
       match, firedAt: Date.now(), matchMinute: 120,
     });
+  }
+
+  // ── LAYER 1.5: STAKES ────────────────────────────────────────────────────
+  // Fires once per match on the first live processing tick. Explains what
+  // this specific result means — group advancement, knockout elimination, etc.
+  if (isLive && !guard.firedStatKeys.has('stakes')) {
+    guard.firedStatKeys.add('stakes');
+    const { stage, matchday, homeTeam, awayTeam, group } = match;
+    let stakesTitle, stakesText;
+    if (stage === 'Group Stage') {
+      if (matchday === 1) {
+        stakesTitle = `Group ${group} opens — what this result means`;
+        stakesText = `First group game for both sides. A win gives immediate breathing room for matchdays 2 and 3. A loss means every subsequent game becomes a must-not-lose situation. Eight of the top third-place teams also advance, so even an early loss isn't fatal — but it tightens the margin for error and forces the loser to take more risks in game two.`;
+      } else if (matchday === 2) {
+        stakesTitle = `Group ${group} matchday 2 — often the decisive game`;
+        stakesText = `Matchday 2 typically decides group fates. A win today can secure qualification or put advancement firmly in your own hands going into the final game. A loss may mean needing results to go your way elsewhere. This is where squad depth starts to show — teams balance resting key players with needing points.`;
+      } else {
+        stakesTitle = `Group ${group} — final matchday, standings set after this`;
+        stakesText = `Last group stage game — after full time, the standings are locked. Both teams know exactly what they need and are watching the other Group ${group} game simultaneously. A win advances one; a draw might be enough for both, or for neither. Watch the first 15 minutes to see if anyone is playing conservatively based on the other result.`;
+      }
+    } else if (stage === 'Round of 32') {
+      stakesTitle = `Round of 32 — one loss and you go home`;
+      stakesText = `Single elimination from here. The loser flies home today — no second chances, no group mathematics to rescue you. 48 teams entered the tournament; the field is thinning toward the world's best 16. Knockout football plays differently: tactics tighten in the first half, risk-taking drops, and set pieces become disproportionately decisive.`;
+    } else if (stage === 'Round of 16') {
+      stakesTitle = `Round of 16 — quarterfinal or eliminated`;
+      stakesText = `The final 16 in the world. The loser goes home; the winner reaches the quarterfinals. From this round, every opponent has already beaten at least two teams to get here. Expect defensive solidity, aerial duels at set pieces, and a match decided by a moment of individual quality — or a penalty shootout.`;
+    } else if (stage === 'Quarterfinal') {
+      stakesTitle = `Quarterfinal — four wins from winning the World Cup`;
+      stakesText = `Eight teams left. Win today and ${homeTeam} or ${awayTeam} is guaranteed a top-4 finish in the entire tournament. The loser returns home as one of the best eight teams in the world but with nothing to show for it. Fitness from five previous matches, tactical adjustments, and penalty shootout nerve are all factors now.`;
+    } else if (stage === 'Semifinal') {
+      stakesTitle = `Semifinal — World Cup Final or third place`;
+      stakesText = `Four teams remain. The winner plays in the World Cup Final; the loser plays a third-place match — still watched by over a billion people, but not the one anyone came here for. Semifinal pressure is unique: squads are exhausted from six matches, but the prize is close enough that adrenaline overrides fatigue. Tournaments are remembered or forgotten in games like this.`;
+    } else {
+      stakesTitle = `What's at stake`;
+      stakesText = `A World Cup knockout match — one result, one outcome, no second chances.`;
+    }
+    out.push({
+      id: `${match.id}-stakes`, type: 'stakes', priority: 1, icon: '🏆',
+      title: stakesTitle, subtext: stakesText,
+      match, firedAt: Date.now(), matchMinute: currentMinute ?? 0,
+    });
+  }
+
+  // ── LAYER 1.6: HYDRATION BREAKS ──────────────────────────────────────────
+  // ESPN surfaces these as start-delay events with "drinks" in the text.
+  // Fire one card per break — they're reset moments worth teaching.
+  if (isLive && summary?.events) {
+    for (const ev of summary.events) {
+      if (ev.rawType !== 'start-delay') continue;
+      const textLower = ev.text.toLowerCase();
+      if (!textLower.includes('drink') && !textLower.includes('hydration') && !textLower.includes('cool')) continue;
+      const hKey = `hydration-ev-${ev.id}`;
+      if (guard.firedStatKeys.has(hKey)) continue;
+      guard.firedStatKeys.add(hKey);
+      out.push({
+        id: `${match.id}-hydration-${ev.id}`, type: 'beat', priority: 3, icon: '💧',
+        title: `Drinks break — ${ev.minuteLabel || `${ev.minute}'`}`,
+        subtext: `A mandatory cooling break — FIFA requires these when pitch-side temperature hits 32°C (90°F). Play pauses for around 3 minutes. Both benches can relay instructions directly to their players — a rare live tactical window mid-game. Watch for shape adjustments when play resumes: pressed teams use this to reorganize their defensive structure; leading teams reinforce the block. These pauses are short but often shift momentum.`,
+        match, firedAt: Date.now(), matchMinute: ev.minute ?? currentMinute,
+      });
+    }
   }
 
   // ── GOAL CATCH-UP ────────────────────────────────────────────────────────
@@ -1243,6 +1385,41 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     }
   }
 
+  // ── LAYER 3.5: SUSTAINED PRESSURE ───────────────────────────────────────
+  // Fires when one team racks up 3+ corners or 5+ shots in a 15-minute
+  // window — a distinct signal from overall tactical patterns (LAYER 3).
+  // Re-fires per 10-minute window so it tracks the siege as it evolves.
+  if (isLive && summary?.events && currentMinute != null && currentMinute >= 20) {
+    const windowStart = currentMinute - 15;
+    const recent = summary.events.filter(ev =>
+      (ev.minute ?? 0) >= windowStart && (ev.minute ?? 0) <= currentMinute &&
+      (ev.family === 'corner' || ev.family === 'shot') && ev.teamName
+    );
+    const byTeam = {};
+    for (const ev of recent) {
+      if (!byTeam[ev.teamName]) byTeam[ev.teamName] = { corners: 0, shots: 0 };
+      if (ev.family === 'corner') byTeam[ev.teamName].corners++;
+      else byTeam[ev.teamName].shots++;
+    }
+    for (const [teamName, counts] of Object.entries(byTeam)) {
+      if (counts.corners < 3 && counts.shots < 5) continue;
+      const bucket = Math.floor(currentMinute / 10) * 10;
+      const pKey = `pressure-${teamName}-${bucket}`;
+      if (guard.firedStatKeys.has(pKey)) continue;
+      guard.firedStatKeys.add(pKey);
+      const parts = [];
+      if (counts.shots >= 5)   parts.push(`${counts.shots} shots`);
+      if (counts.corners >= 3) parts.push(`${counts.corners} corners`);
+      const stat = parts.join(' and ');
+      out.push({
+        id: `${match.id}-${pKey}`, type: 'pressure', priority: 3, icon: '🔴',
+        title: `${teamName} — ${stat} in 15 minutes, still searching`,
+        subtext: `Sustained pressure without reward creates its own tension: the pressing team grows frustrated and starts taking risks that open gaps; the defending team's confidence builds with each clearance. Historically, a siege like this either breaks open on a set piece or ends abruptly on a counter. Watch for the defensive shape starting to tighten — or crack.`,
+        match, firedAt: Date.now(), matchMinute: currentMinute,
+      });
+    }
+  }
+
   // ── LAYER 4: TENSION BAND CROSSINGS ──────────────────────────────────────
 
   if (isLive && guard.prevExScore !== null) {
@@ -1317,6 +1494,8 @@ const TYPE_COLORS = {
   tension:   '#f59e0b',
   post:      '#22c55e',
   goal:      '#f97316',
+  stakes:    '#eab308',
+  pressure:  '#ef4444',
 };
 
 const TYPE_LABELS = {
@@ -1326,6 +1505,8 @@ const TYPE_LABELS = {
   tension:   'tension',
   post:      'full time',
   goal:      'goal',
+  stakes:    "what's at stake",
+  pressure:  'pressure',
 };
 
 // ─── Component ────────────────────────────────────────────────────────────────
@@ -1334,6 +1515,12 @@ export default function LivePulse() {
   const { matches }  = useMatches();
   const today        = useMemo(makeTodayStr, []);
   const todayMatches = useMemo(() => matches.filter(m => m.date === today), [matches, today]);
+  // Past finished matches (before today) available for on-demand replay
+  const pastMatches  = useMemo(
+    () => matches.filter(m => m.status === 'finished' && m.date < today)
+           .sort((a, b) => b.date.localeCompare(a.date) || (b.time ?? '').localeCompare(a.time ?? '')),
+    [matches, today],
+  );
 
   const [espnMap,         setEspnMap]         = useState({});
   const [summaryMap,      setSummaryMap]       = useState({});
@@ -1362,16 +1549,17 @@ export default function LivePulse() {
   const replayIntervalsRef = useRef({});
   const [, tick_]          = useState(0);
 
-  // For tab display: live first, then by kickoff time, finished last
+  // For tab display: today's matches (live first) then past matches newest-first
   const displayMatches = useMemo(() => {
     const order = { in: 0, pre: 1, post: 2 };
-    return [...todayMatches].sort((a, b) => {
+    const todaySorted = [...todayMatches].sort((a, b) => {
       const sa = order[espnMap[a.id]?.state] ?? 1;
       const sb = order[espnMap[b.id]?.state] ?? 1;
       if (sa !== sb) return sa - sb;
       return (a.time ?? '').localeCompare(b.time ?? '');
     });
-  }, [todayMatches, espnMap]);
+    return [...todaySorted, ...pastMatches];
+  }, [todayMatches, pastMatches, espnMap]);
 
   useEffect(() => { selectedMatchIdRef.current = selectedMatchId; }, [selectedMatchId]);
   useEffect(() => { soundEnabledRef.current = soundEnabled; }, [soundEnabled]);
@@ -1393,6 +1581,58 @@ export default function LivePulse() {
       setSelectedMatchId(displayMatches[0].id);
     }
   }, [espnMap, todayMatches]);
+
+  // On-demand replay fetch for past matches (not in today's polling loop)
+  useEffect(() => {
+    if (!selectedMatchId) return;
+    const isPast = pastMatches.some(m => m.id === selectedMatchId);
+    if (!isPast) return;
+    if (replayCardsMap[selectedMatchId] || replayStateMap[selectedMatchId]) return;
+
+    const match = pastMatches.find(m => m.id === selectedMatchId);
+    if (!match) return;
+
+    let cancelled = false;
+    setReplayStateMap(prev => ({ ...prev, [selectedMatchId]: 'loading' }));
+    setReplayLoadStartMap(prev => ({ ...prev, [selectedMatchId]: Date.now() }));
+
+    (async () => {
+      try {
+        // Use today's scoreboard snapshot to find the event id, falling back to
+        // a date-specific fetch if needed (ESPN keeps past events available).
+        const espnEvents = await fetchEspnScoreboard(match.date);
+        if (cancelled) return;
+        const eventId = matchEspnEventId(espnEvents, match);
+        if (!eventId) { setReplayStateMap(prev => ({ ...prev, [selectedMatchId]: null })); return; }
+
+        const raw = await fetchEspnSummary(eventId);
+        if (cancelled) return;
+        const summary = normalizeEspnSoccerSummary(raw, match);
+
+        const fakeEspn = {
+          state: 'post', period: 2,
+          homeScore: match.homeScore ?? 0,
+          awayScore: match.awayScore ?? 0,
+          clock: 'FT',
+        };
+        const fakeGuard = {
+          firedStatKeys: new Set(),
+          firedBands: {}, firedPost: false,
+          prevHomeScore: 0, prevAwayScore: 0,
+        };
+        const chosenCode = chosenTeamsRef.current[selectedMatchId] ?? null;
+        const deck = buildReplayDeck(match, fakeEspn, summary, fakeGuard, chosenCode);
+
+        setSummaryMap(prev => ({ ...prev, [selectedMatchId]: summary }));
+        setReplayCardsMap(prev => ({ ...prev, [selectedMatchId]: deck }));
+        setReplayStateMap(prev => ({ ...prev, [selectedMatchId]: 'ready' }));
+      } catch {
+        if (!cancelled) setReplayStateMap(prev => ({ ...prev, [selectedMatchId]: null }));
+      }
+    })();
+
+    return () => { cancelled = true; };
+  }, [selectedMatchId, pastMatches]);
 
   // Persistent toast stack
   const dismissToast = useCallback((id) => {
@@ -1688,7 +1928,7 @@ export default function LivePulse() {
   }, [today, todayMatches]);
 
   // ── Derived values for selected match ─────────────────────────────────────
-  const selectedMatch   = todayMatches.find(m => m.id === selectedMatchId) ?? null;
+  const selectedMatch   = displayMatches.find(m => m.id === selectedMatchId) ?? null;
   const selectedEspn    = selectedMatch ? espnMap[selectedMatch.id]    : null;
   const selectedSummary = selectedMatch ? summaryMap[selectedMatch.id] : null;
   const selectedEx      = selectedMatch ? exMap[selectedMatch.id]      : null;

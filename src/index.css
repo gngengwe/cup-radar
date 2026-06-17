@@ -6381,6 +6381,8 @@ a.wcp-source-chip:hover { color: var(--text); }
 .pulse-toast--tension   { border-left-color: #f59e0b; }
 .pulse-toast--post      { border-left-color: #22c55e; }
 .pulse-toast--goal      { border-left-color: #f97316; }
+.pulse-toast--stakes    { border-left-color: #eab308; }
+.pulse-toast--pressure  { border-left-color: #ef4444; }
 
 @keyframes pulse-toast-slide {
   from { transform: translateY(10px); opacity: 0; }
@@ -6953,6 +6955,8 @@ a.wcp-source-chip:hover { color: var(--text); }
 .pulse-detail--tension   { border-left-color: #f59e0b; }
 .pulse-detail--post      { border-left-color: #22c55e; }
 .pulse-detail--goal      { border-left-color: #f97316; }
+.pulse-detail--stakes    { border-left-color: #eab308; }
+.pulse-detail--pressure  { border-left-color: #ef4444; }
 
 .pulse-detail__icon {
   font-size: 1.5rem;
