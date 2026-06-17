@@ -1329,17 +1329,6 @@ export default function LivePulse() {
   const today        = useMemo(makeTodayStr, []);
   const todayMatches = useMemo(() => matches.filter(m => m.date === today), [matches, today]);
 
-  // For tab display: live first, then by kickoff time, finished last
-  const displayMatches = useMemo(() => {
-    const order = { in: 0, pre: 1, post: 2 };
-    return [...todayMatches].sort((a, b) => {
-      const sa = order[espnMap[a.id]?.state] ?? 1;
-      const sb = order[espnMap[b.id]?.state] ?? 1;
-      if (sa !== sb) return sa - sb;
-      return (a.time ?? '').localeCompare(b.time ?? '');
-    });
-  }, [todayMatches, espnMap]);
-
   const [espnMap,         setEspnMap]         = useState({});
   const [summaryMap,      setSummaryMap]       = useState({});
   const [exMap,           setExMap]           = useState({});
@@ -1366,6 +1355,17 @@ export default function LivePulse() {
   const chosenTeamsRef     = useRef({});
   const replayIntervalsRef = useRef({});
   const [, tick_]          = useState(0);
+
+  // For tab display: live first, then by kickoff time, finished last
+  const displayMatches = useMemo(() => {
+    const order = { in: 0, pre: 1, post: 2 };
+    return [...todayMatches].sort((a, b) => {
+      const sa = order[espnMap[a.id]?.state] ?? 1;
+      const sb = order[espnMap[b.id]?.state] ?? 1;
+      if (sa !== sb) return sa - sb;
+      return (a.time ?? '').localeCompare(b.time ?? '');
+    });
+  }, [todayMatches, espnMap]);
 
   useEffect(() => { selectedMatchIdRef.current = selectedMatchId; }, [selectedMatchId]);
   useEffect(() => { soundEnabledRef.current = soundEnabled; }, [soundEnabled]);
