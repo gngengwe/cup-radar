@@ -659,13 +659,15 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
       goalType = 'own goal';
       isOwnGoal = true;
     } else if (goalEvent.family === 'header-goal') {
-      goalType = (textLower.includes('corner') || textLower.includes('free kick') || textLower.includes('free-kick'))
-        ? 'set-piece header'
-        : 'header';
+      // ESPN uses "following a corner" / "from a corner" for set pieces;
+      // "to the top/bottom corner" describes shot placement — NOT a corner kick.
+      const isSetPiece = /following a corner|from a corner|corner kick|free.kick/i.test(textLower);
+      goalType = isSetPiece ? 'set-piece header' : 'header';
     } else {
-      // Open play goal — check text for set-piece or counter context
-      if (textLower.includes('corner'))                                            goalType = 'corner';
-      else if (textLower.includes('free kick') || textLower.includes('free-kick')) goalType = 'free kick';
+      // Open play goal — only flag set-piece if ESPN explicitly marks the origin,
+      // not when "corner" refers to the corner of the net.
+      if (/following a corner|from a corner\b|corner kick/i.test(textLower))       goalType = 'corner';
+      else if (/free.kick/i.test(textLower))                                        goalType = 'free kick';
       else if (textLower.includes('counter') || textLower.includes('on the break')) goalType = 'counter';
     }
   }
