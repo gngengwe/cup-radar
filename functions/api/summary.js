@@ -5,7 +5,7 @@
 const ESPN_SUMMARY = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary';
 const CACHE_HEADERS = { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' };
 
-export async function onRequestGet({ request, env }) {
+export async function onRequestGet({ request, env, waitUntil }) {
   const eventId = new URL(request.url).searchParams.get('eventId');
   if (!eventId) return new Response('Missing eventId', { status: 400 });
 
@@ -20,7 +20,7 @@ export async function onRequestGet({ request, env }) {
     });
   }
 
-  // Cache miss — proxy to ESPN and store
+  // Cache miss — proxy to ESPN
   let espnData;
   try {
     const res = await fetch(`${ESPN_SUMMARY}?event=${eventId}`);
@@ -30,11 +30,12 @@ export async function onRequestGet({ request, env }) {
     return new Response(null, { status: 502 });
   }
 
-  // Store asynchronously — don't block the response
-  // INSERT OR IGNORE so concurrent first-reads don't conflict
-  env.DB.prepare(
-    'INSERT OR IGNORE INTO match_summaries (event_id, match_id, data, stored_at) VALUES (?, ?, ?, ?)'
-  ).bind(eventId, '', espnData, Date.now()).run().catch(() => {});
+  // Write to D1 — use waitUntil so the write completes after the response is sent
+  waitUntil(
+    env.DB.prepare(
+      'INSERT OR IGNORE INTO match_summaries (event_id, match_id, data, stored_at) VALUES (?, ?, ?, ?)'
+    ).bind(eventId, '', espnData, Date.now()).run().catch(() => {})
+  );
 
   return new Response(espnData, {
     headers: { ...CACHE_HEADERS, 'X-Cache': 'MISS' },
