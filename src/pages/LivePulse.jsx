@@ -646,7 +646,7 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
   const scoringTeam = homeDiff > 0 ? 'home' : 'away';
 
   // Find the most recent goal event not yet attributed
-  const goalFamilies = ['goal', 'penalty', 'own-goal'];
+  const goalFamilies = ['goal', 'penalty', 'own-goal', 'header-goal'];
   const unattributed = events.filter(ev =>
     goalFamilies.includes(ev.family) &&
     (ev.minute ?? 0) <= (currentMinute ?? 90) + 2 &&
@@ -655,21 +655,26 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
   const goalEvent = unattributed[unattributed.length - 1] ?? null;
   if (goalEvent) guard.firedStatKeys.add(`goal-ev-${goalEvent.id}`);
 
-  // Determine goal type
+  // Determine goal type from ESPN event data (family + text)
   let goalType = 'open play';
   let isOwnGoal = false;
 
   if (goalEvent) {
+    const textLower = (goalEvent.text ?? '').toLowerCase();
     if (goalEvent.family === 'penalty') {
       goalType = 'penalty';
-    } else if (goalEvent.family === 'own-goal' || goalEvent.isOwnGoal) {
+    } else if (goalEvent.family === 'own-goal') {
       goalType = 'own goal';
       isOwnGoal = true;
+    } else if (goalEvent.family === 'header-goal') {
+      goalType = (textLower.includes('corner') || textLower.includes('free kick') || textLower.includes('free-kick'))
+        ? 'set-piece header'
+        : 'header';
     } else {
-      const goalMin = goalEvent.minute ?? currentMinute ?? 0;
-      const recent  = events.filter(ev => ev.minute >= goalMin - 3 && ev.minute < goalMin);
-      if (recent.some(ev => ev.family === 'corner'))     goalType = 'corner';
-      else if (recent.some(ev => ev.family === 'foul'))  goalType = 'free kick';
+      // Open play goal — check text for set-piece or counter context
+      if (textLower.includes('corner'))                                            goalType = 'corner';
+      else if (textLower.includes('free kick') || textLower.includes('free-kick')) goalType = 'free kick';
+      else if (textLower.includes('counter') || textLower.includes('on the break')) goalType = 'counter';
     }
   }
 
@@ -678,7 +683,8 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
     ? (scoringTeam === 'home' ? away : home)
     : (scoringTeam === 'home' ? home : away);
 
-  const scorer    = goalEvent?.scorer ?? null;
+  const scorer    = goalEvent?.scorer   ?? null;
+  const assister  = goalEvent?.assister ?? null;
   const scorerStr = scorer ? ` (${scorer})` : '';
   const scoreline = `${hs}–${as_}`;
 
@@ -692,6 +698,20 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
     typeLabel = 'Own goal';
     titleText = `Own goal — ${benefitTeam} benefit. Now ${scoreline}.`;
     subtext   = `An own goal occurs when a defender puts the ball into their own net — most often from a cross, shot, or clearance under pressure. They account for roughly 5% of World Cup goals. At this level, forwards deliver balls at pace with intelligent runs; defenders must intercept or deflect, and sometimes the geometry just doesn't work out.`;
+  } else if (goalType === 'header') {
+    const assistStr = assister ? `${assister}'s cross` : 'a cross';
+    typeLabel = 'Header';
+    titleText = scorer
+      ? `Header — ${scorer} meets ${assistStr}. ${benefitTeam} score. Now ${scoreline}.`
+      : `Header goal — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A header goal — timed runs into the box and a delivery that demands perfect contact. Heading at this level requires reading the cross early, committing to the run, and generating power from the neck and upper body. Around 15–20% of World Cup goals are headed. It's one of the hardest skills to defend because the delivery and the run happen simultaneously.`;
+  } else if (goalType === 'set-piece header') {
+    const assistStr = assister ? `${assister}'s delivery` : 'a set-piece delivery';
+    typeLabel = 'Set piece';
+    titleText = scorer
+      ? `Set piece — ${scorer} heads home from ${assistStr}. ${benefitTeam}. Now ${scoreline}.`
+      : `Set piece header — ${benefitTeam}. Now ${scoreline}.`;
+    subtext   = `A headed goal from a set piece — corner or free kick delivered into the box. Teams rehearse these routines meticulously: the delivery curve, the blocker runs, the target player's movement. Around 25–30% of World Cup goals come from set pieces. The delivery and the run are choreographed — the defending team can't mark every combination.`;
   } else if (goalType === 'corner') {
     typeLabel = 'Set piece';
     titleText = `Set piece goal${scorerStr} — ${benefitTeam}. Now ${scoreline}.`;

@@ -14,6 +14,7 @@ function classifyFamily(rawType, typeText) {
   const t = (rawType || typeText || '').toLowerCase().replace(/[\s_]/g, '-');
   if (t.includes('penalty'))                          return 'penalty';
   if (t.includes('own') && t.includes('goal'))        return 'own-goal';
+  if (t.includes('header'))                           return 'header-goal';
   if (t === 'goal' || t.startsWith('goal-'))          return 'goal';
   if (t.includes('second-yellow') || t.includes('red-card')) return 'red-card';
   if (t.includes('yellow-card'))                      return 'yellow-card';
@@ -34,7 +35,7 @@ function parseMinute(clock) {
   return m ? Number(m[1]) : null;
 }
 
-// Extract scorer name from ESPN participants array
+// Extract scorer name from ESPN participants array (first participant)
 function extractScorer(participants) {
   if (!Array.isArray(participants)) return null;
   const p = participants.find(p =>
@@ -45,12 +46,27 @@ function extractScorer(participants) {
   return p?.athlete?.displayName || p?.athlete?.shortName || null;
 }
 
+// Extract assister name from ESPN participants array (second participant)
+function extractAssister(participants) {
+  if (!Array.isArray(participants) || participants.length < 2) return null;
+  const a = participants[1];
+  return a?.athlete?.displayName || a?.athlete?.shortName || null;
+}
+
+// Strip "Goal! Team1 N, Team2 M. " from ESPN text to get the action description
+function parseGoalDescription(text) {
+  if (!text) return null;
+  const stripped = text.replace(/^Goal!\s*/i, '').replace(/^[^.]+\.\s*/, '');
+  return stripped.trim() || null;
+}
+
 // Normalise a raw play object (either from commentary.play or plays[i])
 function normPlay(raw) {
   if (!raw?.id) return null;
   const rawType  = raw.type?.type  || raw.type?.abbreviation || '';
   const typeText = raw.type?.text  || raw.type?.name         || '';
   const family   = classifyFamily(rawType, typeText);
+  const isGoal   = family === 'goal' || family === 'header-goal' || family === 'penalty' || family === 'own-goal';
   return {
     id:          raw.id,
     minute:      parseMinute(raw.clock),
@@ -60,8 +76,9 @@ function normPlay(raw) {
     text:        raw.text || '',
     rawType,
     family,
-    scorer:      (family === 'goal' || family === 'penalty' || family === 'own-goal')
-                   ? extractScorer(raw.participants) : null,
+    scorer:      isGoal ? extractScorer(raw.participants) : null,
+    assister:    isGoal ? extractAssister(raw.participants) : null,
+    description: isGoal ? parseGoalDescription(raw.text) : null,
     scoringPlay: !!raw.scoringPlay,
   };
 }
