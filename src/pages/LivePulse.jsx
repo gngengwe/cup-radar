@@ -869,6 +869,11 @@ function buildReplayDeck(match, espn, summary, guard, chosenCode) {
 const BAND_COOLDOWN_MS = 3 * 60_000;
 
 function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
+  // First call for this match (mid-game arrival) produces a catch-up burst.
+  // Mark it silent so the deck fills without flooding the toast stack.
+  const isFirstDerive = !guard.firstDerive;
+  guard.firstDerive = true;
+
   const out    = [];
   const isLive = espn?.state === 'in';
   const isPost = espn?.state === 'post';
@@ -1299,6 +1304,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     });
   }
 
+  if (isFirstDerive) out.forEach(c => { c.silent = true; });
   return out;
 }
 
@@ -1471,7 +1477,7 @@ export default function LivePulse() {
               initialized: false, prevExScore: null,
               prevEspnState: null, prevPeriod: null,
               prevHomeScore: null, prevAwayScore: null,
-              catchupChecked: false,
+              catchupChecked: false, firstDerive: false,
               firedBands: {}, firedStatKeys: new Set(), firedPost: false,
             };
           }
