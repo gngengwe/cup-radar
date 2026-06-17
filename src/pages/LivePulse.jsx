@@ -2178,11 +2178,21 @@ export default function LivePulse() {
                 <p>Press <strong>▶ Play</strong> above to watch the match story unfold card by card.</p>
               ) : (
                 <>
-                  <p>No cards yet for this match.</p>
-                  <p className="pulse-feed-empty__sub">
-                    Cards begin on the second ESPN poll (~30s after load). Guaranteed cards:
-                    kick-off · possession · 10/20/30/40 min milestones · 2nd half · 60/70/80 min milestones · full time.
+                  <p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                    <span style={{ display: 'inline-block', width: 8, height: 8, borderRadius: '50%', background: '#22c55e', boxShadow: '0 0 6px #22c55e', animation: 'pulse-dot 1.4s ease-in-out infinite' }} />
+                    Gathering live data from ESPN…
                   </p>
+                  <p className="pulse-feed-empty__sub">
+                    First cards arrive within 30 seconds. You'll see:
+                  </p>
+                  <ul className="pulse-feed-empty__list">
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--beat">beat</span> Kick-off · 2nd half · any extra time</li>
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--goal">goal</span> Every goal — scorer, assist, how it was scored</li>
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--milestone">milestone</span> 10 · 20 · 30 · 40 · 60 · 70 · 80 min snapshots</li>
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--explain">explain</span> Possession, corners, shots in context</li>
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--stakes">stakes</span> What the scoreline means for group standing</li>
+                    <li><span className="pulse-feed-empty__chip pulse-feed-empty__chip--pressure">pressure</span> Sustained pressure spells worth watching</li>
+                  </ul>
                 </>
               )}
             </div>
