@@ -19,23 +19,6 @@ function todayDateStr() {
   return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
 }
 
-const CITY_HQ_LINKS = {
-  seattleMatch:   '/seattle/hq',
-  kcMatch:        '/kansascity/hq',
-  miamiMatch:     '/miami/hq',
-  nyMatch:        '/newyork/hq',
-  phillyMatch:    '/philly/hq',
-  atlantaMatch:   '/atlanta/hq',
-  vancouverMatch: '/vancouver/hq',
-};
-
-function matchHQLink(match) {
-  for (const [flag, url] of Object.entries(CITY_HQ_LINKS)) {
-    if (match[flag]) return url;
-  }
-  return '/matches';
-}
-
 // Returns true if a match should be in progress based on kickoff time,
 // used as a fallback before ESPN data arrives on initial load.
 function isProbablyLive(match) {
@@ -103,12 +86,6 @@ function LiveHero({ match, espn, summary, probablyLive }) {
       {(isLive || isFinished) && <MatchExcitementBadges badges={badges} />}
       {isFinished && <ExcitementGraph match={match} summary={summary} />}
       {isFinished && <GoalLog match={match} />}
-
-      {isLive && (
-        <a href={matchHQLink(match)} className="btn btn-primary lp-live-hero__cta">
-          Open City HQ →
-        </a>
-      )}
     </div>
   );
 }
