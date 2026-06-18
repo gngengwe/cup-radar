@@ -1972,9 +1972,9 @@
       "group": "K",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "notes": "Colombia vs Uzbekistan — Group K"
     },
     {
@@ -2038,7 +2038,7 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "finished",
+      "status": "live",
       "homeScore": 1,
       "awayScore": 0,
       "notes": "Panama vs Ghana — Group L"
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-18T03:59:49.890Z"
+  "lastUpdated": "2026-06-18T10:20:48.383Z"
 }
