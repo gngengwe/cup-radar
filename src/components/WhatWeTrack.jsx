@@ -17,7 +17,7 @@ const MODULES = [
   {
     icon: '🏙️',
     title: 'City HQ',
-    body: 'Your deepest local layer: matchday logistics, fan zones, transit, and city energy — for all 5 host cities.',
+    body: 'Your deepest local layer: matchday logistics, fan zones, transit, and city energy — for all 8 host cities.',
   },
   {
     icon: '🎫',

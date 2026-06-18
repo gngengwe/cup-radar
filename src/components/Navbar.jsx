@@ -20,7 +20,7 @@ export default function Navbar() {
           <div className="navbar__actions">
             <Link to="/world-cup-primer" className="navbar__tag navbar__hiw-link">New to soccer?</Link>
             <Link to="/how-it-works" className="navbar__tag navbar__hiw-link">How it works</Link>
-            <span className="navbar__tag">WC 2026 · 7 Host Cities</span>
+            <span className="navbar__tag">WC 2026 · 8 Host Cities</span>
             <a href="/#choose-city" className="btn btn-primary navbar__cta">
               Choose your city
             </a>

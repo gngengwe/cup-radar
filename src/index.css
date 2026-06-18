@@ -3871,6 +3871,7 @@ main > section.lp-today:first-child {
 .hiw-city-pill.philly   { border-color: rgba(16, 185, 129, 0.3); }
 .hiw-city-pill.atlanta  { border-color: rgba(251, 146, 60, 0.3); }
 .hiw-city-pill.vancouver { border-color: rgba(34, 211, 238, 0.3); }
+.hiw-city-pill.losangeles { border-color: rgba(250, 204, 21, 0.3); }
 .hiw-city-pill span    { font-size: 24px; }
 .hiw-city-pill__name   { font-size: 16px; font-weight: 800; color: var(--text); letter-spacing: -0.02em; margin-bottom: 2px; }
 .hiw-city-pill__detail { font-size: 12px; color: var(--text-muted); }

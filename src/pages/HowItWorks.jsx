@@ -208,7 +208,7 @@ const FAQ = [
   },
   {
     q: 'Which host cities does Cup Radar cover?',
-    a: 'Cup Radar covers 7 host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver. Each city has its own HQ, Watch Guide, Match Tracker, Ticket Radar, Team IQ, and city-filtered views across all shared sections.',
+    a: 'Cup Radar covers 8 host cities with full City HQ dashboards: Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, Vancouver, and Los Angeles. Each city has its own HQ, Watch Guide, Match Tracker, Ticket Radar, Team IQ, and city-filtered views across all shared sections.',
   },
   {
     q: 'How is the data kept up to date?',
@@ -234,8 +234,8 @@ export default function HowItWorks() {
           <span className="section-label">How it works</span>
           <h1 className="hiw-title">Cup Radar explained.</h1>
           <p className="hiw-subtitle">
-            Cup Radar is a World Cup 2026 intelligence dashboard built for fans across 7 host cities —
-            Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, and Vancouver.
+            Cup Radar is a World Cup 2026 intelligence dashboard built for fans across 8 host cities —
+            Seattle, Kansas City, Miami, New York, Philadelphia, Atlanta, Vancouver, and Los Angeles.
             It organizes matches, tickets, city logistics, and tournament stories into one daily command center —
             rooted in your home city, aware of everything else.
           </p>
@@ -246,9 +246,9 @@ export default function HowItWorks() {
 
         {/* ── Five-city model ── */}
         <section className="hiw-section">
-          <h2 className="hiw-section-title">Seven cities. One engine.</h2>
+          <h2 className="hiw-section-title">Eight cities. One engine.</h2>
           <p className="hiw-section-body">
-            Cup Radar is structured around your home city. Choose any of the 7 host cities on the landing page —
+            Cup Radar is structured around your home city. Choose any of the 8 host cities on the landing page —
             your City HQ, Watch Guide, and Ticket Radar all adjust to your perspective.
             Shared sections (All Games, Groups, Bracket, Newsroom, Narratives, Upsets)
             cover the full tournament but default-filter to your city where relevant.
@@ -301,6 +301,13 @@ export default function HowItWorks() {
               <div>
                 <div className="hiw-city-pill__name">Vancouver</div>
                 <div className="hiw-city-pill__detail">7 matches · Jun 13–Jul 11 · BC Place · R16</div>
+              </div>
+            </div>
+            <div className="hiw-city-pill losangeles">
+              <span>🎬</span>
+              <div>
+                <div className="hiw-city-pill__name">Los Angeles</div>
+                <div className="hiw-city-pill__detail">8 matches · Jun 12–Jul 14 · SoFi Stadium · QF</div>
               </div>
             </div>
           </div>
