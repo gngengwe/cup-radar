@@ -1461,9 +1461,9 @@
       "group": "A",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
       "atlantaMatch": true,
       "notes": "Czechia vs South Africa — Group A at Mercedes-Benz Stadium"
     },
@@ -1795,7 +1795,7 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
+      "status": "live",
       "homeScore": null,
       "awayScore": null,
       "laMatch": true,
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-18T15:24:45.679Z"
+  "lastUpdated": "2026-06-18T20:26:17.988Z"
 }
