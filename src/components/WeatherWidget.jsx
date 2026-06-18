@@ -5,11 +5,11 @@ function daysUntil(dateStr) {
   return Math.ceil((target - Date.now()) / 86_400_000);
 }
 
-export default function WeatherWidget({ matchDate, cityId = 'seattle' }) {
-  const { weather, status } = useWeather(matchDate, cityId);
+export default function WeatherWidget({ matchDate, city = 'Seattle' }) {
+  const { weather, status } = useWeather(matchDate, city);
   const days = daysUntil(matchDate);
 
-  if (status === 'past') return null;
+  if (status === 'past' || status === 'noVenue') return null;
 
   if (status === 'tooFar' || status === 'noKey') {
     return (

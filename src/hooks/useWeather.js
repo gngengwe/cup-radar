@@ -5,11 +5,31 @@
 
 import { useState, useEffect } from 'react';
 
-// Venue coordinates — One Call API returns the closest forecast point
+// Venue coordinates — One Call API returns the closest forecast point.
+// Keyed by normalized host-city name so any of the 16 World Cup 2026
+// venues can resolve a forecast, not just the sponsor cities.
 const VENUES = {
-  seattle:     { lat: 47.5951,  lon: -122.3316 }, // Lumen Field
-  kansascity:  { lat: 39.0489,  lon: -94.4839  }, // Kansas City Stadium (Arrowhead)
+  seattle:          { lat: 47.5952,  lon: -122.3316 }, // Lumen Field
+  kansascity:       { lat: 39.0489,  lon: -94.4839  }, // Kansas City Stadium (Arrowhead)
+  miami:            { lat: 25.9580,  lon: -80.2389  }, // Hard Rock Stadium
+  newyork:          { lat: 40.8135,  lon: -74.0744  }, // MetLife Stadium
+  philadelphia:     { lat: 39.9008,  lon: -75.1675  }, // Lincoln Financial Field
+  atlanta:          { lat: 33.7553,  lon: -84.4006  }, // Mercedes-Benz Stadium
+  vancouver:        { lat: 49.2768,  lon: -123.1119 }, // BC Place
+  losangeles:       { lat: 33.9535,  lon: -118.3392 }, // SoFi Stadium
+  mexicocity:       { lat: 19.3029,  lon: -99.1505  }, // Estadio Azteca
+  dallas:           { lat: 32.7473,  lon: -97.0945  }, // AT&T Stadium
+  guadalajara:      { lat: 20.6792,  lon: -103.4649 }, // Estadio Akron
+  boston:           { lat: 42.0909,  lon: -71.2643  }, // Gillette Stadium
+  houston:          { lat: 29.6847,  lon: -95.4107  }, // NRG Stadium
+  monterrey:        { lat: 25.6694,  lon: -100.2458 }, // Estadio BBVA
+  toronto:          { lat: 43.6332,  lon: -79.4185  }, // BMO Field
+  sanfranciscobay:  { lat: 37.4030,  lon: -121.9700 }, // Levi's Stadium
 };
+
+function normalizeCity(city) {
+  return (city || '').toLowerCase().replace(/[^a-z]/g, '');
+}
 
 const FORECAST_WINDOW_DAYS = 2; // One Call API 3.0 hourly = 48hrs; daily = 8 days
 const FETCH_TIMEOUT_MS     = 8_000;
@@ -29,9 +49,10 @@ function daysUntil(dateStr) {
   return (new Date(dateStr + 'T12:00:00') - Date.now()) / 86_400_000;
 }
 
-export function useWeather(matchDate, cityId = 'seattle') {
+export function useWeather(matchDate, city = 'Seattle') {
   const [weather, setWeather] = useState(null);
   const [status,  setStatus]  = useState('loading');
+  const venueKey = normalizeCity(city);
 
   useEffect(() => {
     if (!matchDate) return;
@@ -40,10 +61,11 @@ export function useWeather(matchDate, cityId = 'seattle') {
     const apiKey = import.meta.env.VITE_WEATHER_API_KEY;
 
     if (!apiKey)              { setStatus('noKey');  return; }
+    if (!VENUES[venueKey])    { setStatus('noVenue'); return; }
     if (days > FORECAST_WINDOW_DAYS) { setStatus('tooFar'); return; }
     if (days < 0)             { setStatus('past');   return; }
 
-    const cacheKey = `wx3_${cityId}_${matchDate}`;
+    const cacheKey = `wx3_${venueKey}_${matchDate}`;
     try {
       const cached = JSON.parse(localStorage.getItem(cacheKey) || 'null');
       if (cached && Date.now() < cached.expires) {
@@ -56,7 +78,7 @@ export function useWeather(matchDate, cityId = 'seattle') {
     const controller = new AbortController();
     const timer      = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
 
-    const { lat, lon } = VENUES[cityId] || VENUES.seattle;
+    const { lat, lon } = VENUES[venueKey];
 
     // One Call API 3.0 — returns hourly (48h) and daily (8d) in one call
     const params = new URLSearchParams({
@@ -119,7 +141,7 @@ export function useWeather(matchDate, cityId = 'seattle') {
       .finally(() => clearTimeout(timer));
 
     return () => { controller.abort(); clearTimeout(timer); };
-  }, [matchDate, cityId]);
+  }, [matchDate, venueKey]);
 
   return { weather, status };
 }

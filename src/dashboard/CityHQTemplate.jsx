@@ -32,7 +32,7 @@ const SHOULD_GO_COLORS = {
   'Wait':               'var(--text-muted)',
 };
 
-function MatchCard({ match, cityData, cityId = 'seattle' }) {
+function MatchCard({ match, cityData }) {
   const [expanded, setExpanded] = useState(false);
 
   const d         = new Date(match.date + 'T12:00:00');
@@ -107,7 +107,7 @@ function MatchCard({ match, cityData, cityId = 'seattle' }) {
 
       {expanded && (
         <div className="hq-match-card__detail">
-          {!isMatchDay && <WeatherWidget matchDate={match.date} cityId={cityId} />}
+          {!isMatchDay && <WeatherWidget matchDate={match.date} city={match.city} />}
 
           {!isMatchDay && shouldIGo && (
             <div className="sigo-block">
@@ -324,7 +324,7 @@ export default function CityHQTemplate({ cityData, matches, events, title, venue
           {matches.length} matches · {groupCount} group stage · {knockoutCount} knockout
         </p>
         <div className="hq-matches-grid">
-          {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} cityId={cityId} />)}
+          {matches.map(m => <MatchCard key={m.id} match={m} cityData={cityData} />)}
         </div>
       </div>
 
