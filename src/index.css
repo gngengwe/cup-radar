@@ -6491,14 +6491,67 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 .pulse-toast__dismiss:hover { opacity: 1; }
 
+/* ── Match selector — grouped layout ── */
+
+.pulse-match-selector {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.pulse-match-section {
+  margin-top: 20px;
+}
+.pulse-match-section--sub {
+  margin-top: 12px;
+}
+.pulse-match-section--upcoming-block {
+  border-top: 1px solid var(--border);
+  padding-top: 4px;
+}
+
+.pulse-match-section__header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.pulse-match-section__label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+.pulse-match-section__tag {
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: rgba(255,255,255,0.07);
+  color: var(--text-secondary);
+  padding: 1px 7px;
+  border-radius: 4px;
+  opacity: 0.7;
+}
+
+.pulse-match-section__sub-label {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  opacity: 0.55;
+  margin-bottom: 6px;
+}
+
 /* ── Match tabs ── */
 
 .pulse-tabs {
   display: flex;
   gap: 8px;
-  padding: 16px 24px 0;
-  max-width: 1100px;
-  margin: 0 auto;
   flex-wrap: wrap;
 }
 
@@ -6563,6 +6616,22 @@ a.wcp-source-chip:hover { color: var(--text); }
   font-weight: 800;
   padding: 0 5px;
   line-height: 1.6;
+}
+
+.pulse-tab--past {
+  opacity: 0.65;
+}
+.pulse-tab--past:hover,
+.pulse-tab--past.active {
+  opacity: 1;
+}
+
+.pulse-tab--upcoming {
+  opacity: 0.4;
+}
+.pulse-tab--upcoming:hover,
+.pulse-tab--upcoming.active {
+  opacity: 0.65;
 }
 
 /* ── Selected match view ── */
