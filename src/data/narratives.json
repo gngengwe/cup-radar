@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-17T22:45:24.737Z",
+  "lastUpdated": "2026-06-18T03:59:54.775Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 49,
+      "chapterCount": 51,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -410,6 +410,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzVpN2pWYmpXT04xcUhzT1d5eWsxSjdtRWJTOEFSQzdFY2VSbW9Fa1ZkTk1iRW9rSS00YnJFbHE5RlduX2E4U2wwMHdVN180YkJaZGNVNFlnNXdVb0syYnVON2dKY1RqU1NvU1RuQ0dTYkRwbWtwRnpNUkxXRkZEVThxd1FIWkJzNXFhRzcwQ1Q5b3Q4SFlHUEVmN3c0VFBOeXpGT3N0WdIBrAFBVV95cUxOWjZuWmZhSi1USGc4ZWtEbERlMVF1UlhXeU1TMkhvc1FvZl9fV2dLTFlQdDZ6d2VjdXUwMHMzVkJubzVuZjhaMTlJam51QzdLTEFaS0g1dE15dVp5blpRc3paTC1QMFphMm5zeFhXblRZTmZTbjQxVlIxTHBLeDMzUlJGVUJjZXNGb244MHVJcVpzRmd3NjRlNlRCdHdxbU9mekFuRnBsQ0c4OGUx?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781755192554",
+          "date": "2026-06-17",
+          "title": "Argentina 3-0 Algeria: Messi sends records tumbling with hat-trick - as it happened - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWtTOXFBRTRDSkc2YWw2U2FSUmpCN0tyVncyaTRTWFhMUWVOcHZYQTgybXNoZ1Uza2R1MTNpdnNUdEVRcjlkVGdHU1hvN3NxNW9qUGYwYjAzbEpGVm96YllVTGI3eERHV0k3UUlJRHQ0TW9EVlZWOU1DcUxqaGdKazA3TUpwQjhzMkJ1ODhPUGZLRjBtN0tBWURqVElaRHMtcy10VVZqdjVucUcwbDc1VjIxR0VDbGo5bjNiX09lWkh2UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781755192554",
+          "date": "2026-06-18",
+          "title": "A magical Lionel Messi hat-trick as Argentina beat Algeria — but should he have been sent off? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUUJxSnBEQ3BWSUQyd1Q4MFJkVmNDT0szWFNJRTJTSFdPbEJnWk1RRGZIM3ZjZmFndlZSZi11REhsTjZsRDVDRTZKc3Z1MUI3bzA5bFozbFpveVdqcGhIU1U1RWlYWGdxMVVsdlIySWJ6Rk83NGhUVWhrRXZNa2E4UkNGNFp4SElwQ084bWlnQUtzOFJO?oc=5",
+          "draft": true
         }
       ]
     },
@@ -428,7 +444,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 50,
+      "chapterCount": 51,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -828,6 +844,14 @@
           "title": "Kylian Mbappé becomes France's Men's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QTDJ3SW1tejBpWTFPeXZLeFVLVkxCcWVna2VZcWJNRldjQm1Mcm03Y1JtSkwyaWxkZzVxek9hOVNxeE9NUU1WeXQ5Ml9XV0o0ZGVPZm0tT19fY3ZJSzdHX3hR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781755193030",
+          "date": "2026-06-17",
+          "title": "Kylian Mbappé's bombastic, two-goal 2026 World Cup debut sets the tone for France's quest to win it all - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEV3TkdKMG1kQlR2cGRYUC11b1NNM0VaTXRPSWZJcUl3UGN3a3UyaVQtTjU3M0JCZEVVU1JzdE1NWGZUUHRQanVpYURBMF9DZUFLRUFHZHJzY01BVXBEU0xzQlVEYzIyRHk2aGQxb2Z1RWI3Nnd4Q2tFN3pSdzRWdFFKQ2gtZ3M?oc=5",
           "draft": true
         }
       ]
@@ -1842,7 +1866,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 124,
+      "chapterCount": 126,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -2835,6 +2859,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUpQNWo3UHJzTnVfMC1BenprYVlFX0gyTkZ5c05idExpcE93SGN6Y0lrTW5INW56b0MzZmtsMTdzaGhOdGprZVZUTGRuYVRoTDdiTWxyVmV3Tk1ITmhDT3BEV182WnJKWGZscmVtN3UzZERNV2MzdFJ6RVljVTRESVVR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781755194127",
+          "date": "2026-06-18",
+          "title": "PREVIEW | Brazil vs Haiti: team news, lineups, predictions (World Cup 20/06) - Yahoo Sports Canada",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHhaeTY4amttMnpTNDA0WlhGcXNHYXA2UzNicmZhZXp3TWlET1FnVEdURFNBSE44N3AxUEVCcGFpTHktODA5eVNBM2gxVW9lSzY4UGxiN3BaS1hNS29hQ3Y3SndidExfdW4ydzU5Sno1QUtuSnBOaGIwbnNwWUphR1Vn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781755194127",
+          "date": "2026-06-17",
+          "title": "Neymar joins Brazil teammates briefly for training ahead of Haiti match - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPazBuZXZObUp3Ql83Y0FnbkRoZTRrdEFQVkJnOEdabFJLOFQ4U2NsZHdEVWNtaGVDQkowWFI5WmZNcnlCY0FFbmxhMU1FbkFqcVg5Vmo1ZkhUdnh0MW11Ull5LThpejNSVVVYeTJJN18wQzBHODd1TzQ4UEhyZjNoZnNTcHpfdmhFeGkyZ2FBenFySWd5OXFNSUlsZWpKdGFFZlptaldVcG80NmlpVW9mVUNGT2pmWDFhOGczcU5Eaw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2936,7 +2976,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 136,
+      "chapterCount": 140,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -4024,6 +4064,38 @@
           "title": "World Cup 2026 live: Ghana and Panama fans take over Toronto streets; Congo shocks Cristiano Ronaldo’s Portugal; England beats Croatia - Toronto Star",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTW55S2tvcE1sM0FIZVJQWDloSHdiaFgyLTd2cHc4S2lrQ3NmNVBNR2ZmTDNEY2piZG5zQnJTdjVYYUp5OEdrcWg4QUxQQlZLbGxyYng2WHRvRkxULWtzdi1NOVdkSWFsdkpfWnlsLS1saVpXU2xwRTRuN0JISzBnNlpubkRsV0hLVFUzT1J3ZHpWYUFPLTFSb01xeS1xOUJNNDIxcklBc0dSTGpkQVZDU3RkaEs4ZXRfNTUzTkFQdlJ1RVRmT2pEcmVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781755194775",
+          "date": "2026-06-18",
+          "title": "Kane reveals Tuchel’s half-time ‘speech’ after thumping World Cup win - live reaction - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0N0VFVvaXdBUTlmeDZTOFpHc1lFV0lOc1Y2QjczME92WFQ5a3FDeHUwWG56OFg3cjJQT2p1OXR0b1FZNUJCWTRsYmdBank5aVJtdmtJRFd2QkNzMG1EZTBXZ0lGTjV6ODFDUHhRUVBoOHpVdjFrZTJSbGE0dGRIMXByblY3QUdpRUpyUnhNUlhZbXh2ZW5uX2x3UUEyOFM2d0M1NGdhNDZpU3M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781755194775",
+          "date": "2026-06-17",
+          "title": "Listen Live to Every England FIFA World Cup 2026 Match - SiriusXM",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKbGlyX092Y0xycmF4OTNNR1dDZzRuZW5NVG9jeTMzX19BQkxTY2czSWFjVzVXRXplTl83bTJVS084QkdfM2RUNXc3Q1dHYTNnLTk3NTRHaHZER2VvVmVfY3NR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781755194775",
+          "date": "2026-06-17",
+          "title": "England at FIFA World Cup 2026: The Three Lions' results, scores and standings - full list - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjEyeWNWSHUyZ2lhVDBfMW9fd3NjMUYzdGo1RTMwZDZNaDhsaE54VlotR1Fsa2RFVXltdEpqcEE5MWtUTkdUNmZWUkpoUkxMcV9wWklnR2FCbU1jampGVlhCaC12bmphUF9jYTZMT3ozTUtmV1ZSeXF3cDROUHNlZlctM0hENWlOWmgwVF9xTXVZSmZYcE9UTGw2NkFjT1hnekVhSmk4UTN6TzA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781755194775",
+          "date": "2026-06-17",
+          "title": "England vs Croatia Quick Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HbGh2Uk02bDRtLUF0dkZKSmpQNXRGYXo3RnZiUGdZUEkwX2p2QUNXQWlDUmZTcXhpeng5QzV3d3A0OEdKSHlLcG96VVVjaHRvbzBHc0ZrZEVjRk9RWWFTcW5HX1VBSHVTVVRKMFBB?oc=5",
           "draft": true
         }
       ]
