@@ -2451,6 +2451,18 @@ main > section.lp-today:first-child {
 .weather-widget__wind { font-size: 12px; color: var(--text-dim); }
 .weather-widget__msg  { font-size: 12px; color: var(--text-dim); }
 
+.weather-widget--compact {
+  padding: 4px 10px;
+  gap: 6px;
+  background: rgba(255,255,255,0.02);
+}
+.weather-widget--compact .weather-widget__icon { font-size: 14px; }
+.weather-widget--compact .weather-widget__temp { font-size: 13px; }
+.weather-widget--compact .weather-widget__desc,
+.weather-widget--compact .weather-widget__rain,
+.weather-widget--compact .weather-widget__wind,
+.weather-widget--compact .weather-widget__msg { font-size: 11px; }
+
 /* ═══════════════════════════════════════════════════════════
    CURRENCY WIDGET
 ═══════════════════════════════════════════════════════════ */

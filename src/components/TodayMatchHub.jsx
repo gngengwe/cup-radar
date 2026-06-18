@@ -13,6 +13,7 @@ import { ExcitementMeter } from './ExcitementMeter';
 import { MatchExcitementBadges } from './MatchExcitementBadges';
 import { GoalLog } from './GoalLog';
 import { ExcitementGraph } from './ExcitementGraph';
+import WeatherWidget from './WeatherWidget';
 
 function todayDateStr() {
   const now = new Date();
@@ -78,6 +79,8 @@ function LiveHero({ match, espn, summary, probablyLive }) {
         {match.venue} · {match.city} · {match.time} {match.timezone}
       </div>
 
+      <WeatherWidget matchDate={match.date} city={match.city} compact />
+
       {(isLive || isFinished) && excitement && (
         <div className="lp-live-hero__meter">
           <ExcitementMeter excitement={excitement} />
@@ -130,6 +133,7 @@ function ResultCard({ match, espn, summary }) {
       {isFinished && <GoalLog match={match} />}
 
       <div className="lp-result-card__venue">{match.city}</div>
+      <WeatherWidget matchDate={match.date} city={match.city} compact />
     </div>
   );
 }
@@ -151,6 +155,7 @@ function UpcomingCard({ match }) {
       <div className="lp-upcoming-card__meta">
         {match.group ? `Group ${match.group}` : match.stage} · {match.city}
       </div>
+      <WeatherWidget matchDate={match.date} city={match.city} compact />
     </div>
   );
 }

@@ -5,15 +5,20 @@ function daysUntil(dateStr) {
   return Math.ceil((target - Date.now()) / 86_400_000);
 }
 
-export default function WeatherWidget({ matchDate, city = 'Seattle' }) {
+export default function WeatherWidget({ matchDate, city = 'Seattle', compact = false }) {
   const { weather, status } = useWeather(matchDate, city);
   const days = daysUntil(matchDate);
+  const cls  = `weather-widget${compact ? ' weather-widget--compact' : ''}`;
 
   if (status === 'past' || status === 'noVenue') return null;
 
+  // Compact cards (today's match grid) stay quiet on unavailable/error states —
+  // only the real forecast is worth the visual noise there.
+  if (compact && status !== 'available') return null;
+
   if (status === 'tooFar' || status === 'noKey') {
     return (
-      <div className="weather-widget weather-widget--placeholder">
+      <div className={`${cls} weather-widget--placeholder`}>
         <span className="weather-widget__icon">🌤️</span>
         <span className="weather-widget__msg">
           {status === 'noKey'
@@ -26,7 +31,7 @@ export default function WeatherWidget({ matchDate, city = 'Seattle' }) {
 
   if (status === 'loading') {
     return (
-      <div className="weather-widget weather-widget--loading">
+      <div className={`${cls} weather-widget--loading`}>
         <span className="loading-dot" /> Fetching forecast…
       </div>
     );
@@ -34,7 +39,7 @@ export default function WeatherWidget({ matchDate, city = 'Seattle' }) {
 
   if (status === 'error' || !weather) {
     return (
-      <div className="weather-widget weather-widget--placeholder">
+      <div className={`${cls} weather-widget--placeholder`}>
         <span className="weather-widget__icon">🌡️</span>
         <span className="weather-widget__msg">
           Weather forecast unavailable — check{' '}
@@ -45,7 +50,7 @@ export default function WeatherWidget({ matchDate, city = 'Seattle' }) {
   }
 
   return (
-    <div className="weather-widget">
+    <div className={cls}>
       <span className="weather-widget__icon">{weather.icon}</span>
       <span className="weather-widget__temp">{weather.temp}°F</span>
       <span className="weather-widget__desc">{weather.iconLabel}</span>
