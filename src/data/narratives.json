@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-18T20:26:23.745Z",
+  "lastUpdated": "2026-06-18T22:56:18.693Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 54,
+      "chapterCount": 56,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -450,6 +450,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjV3Z0RQTHVtNWc1cFJPcGNWRnhiU0dQMGtCV0dUSFo2dEMwdXVUQ3duWlRIYS16QllwTHJBUFA4N3hyNlJvejY5VFBCRXBuNlJEdGJfU3BTRG03eU15R3FsWW01SmFzQkpKd1BLVUlNeE93SEFNdlItb3VuUFlyelFvbEFScUh5b21DWlhabVI5QzllWUtKVk9Lb3g2MmdNM1VwM2ladHpqTFJq0gGyAUFVX3lxTE9OUGQxcDA5bzJwNWhmLXZ3RHE1OEpQQW1OQ0ZBa3J3MjdhUEZaN0IwamNaQXl1NktTRmFiM0xwYmpPaG1qeEtCSDh1Zm82NW1EUzBjenNldHFDWjF1NUNhZlVfbktCeGpFUk1pTXJnQkEtQng3ME9LUkFGcURwZFJFMUVjVXE3QzAxVTNVVzZsWkx2Qk9JeTJsQlBITGl2bENLVGM2VGpMR0pYTi1Ta3lQRkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781823376212",
+          "date": "2026-06-18",
+          "title": "Alexi Lalas' World Cup Power Rankings: Argentina Surges After Messi's Hat Trick - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNMd3dqQWdraTllRTZEUmhiSnJlSkE1NXJOWDhjdWN6MVpVTEQzNjlhc2MzYURCS0NjRndKWWtpTVI5WlRIQmRCdFdQNGU3M1RlMjVtYU1IMVBlOFBDRVlkblhxU25vY0tmX00xSTMwOEprbWNTV0dIOVMtdHFmTHlGc9IBgwFBVV95cUxOeGt2d3o4T0VSM2lJV0dSZDUzUHJITEp5SmFKTW1SdXNHOEU0OHNwSTdiOTZJc0tnNGpTWGlZVDV0N2NOR1NKTHdrRk1oZXBPaDlOT2R4Ukx4WHFBNWFNTFhzVXFteWt4OXUybV9hN1pWQm1iQ0dGMFMzNWdBblh6eUFvYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781823376212",
+          "date": "2026-06-18",
+          "title": "World Cup 2026: Lionel Messi leading Golden Boot race, ahead of pack that includes Kylian Mbappé, Erling Haaland, Harry Kane - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVS11VWZwVFBoUnpqRlhvazZlZ1dfdE1FTUU5Um1yMmItY3pacTk4cm9ueEpRbFlTZTFpMlN5LXNTMU1rYlM5ZHJTdVdoa1A0NHVxbW54bjF4aGpGMUpXOVRpUENNU010bzNuYTR1OXl3QXZIdkExTnJWbGFkdWVRVVZLb1NXZ2xfRjI3QU5LdF9UWXIxRXRSLXNySGJITmw2OHY4RHJvcHBZTGNnaXZ2RE5YTC1WTXpwaG13OEx1QUdQbVlXWTRsVk15dDBGWFFiUmNrWWNickJlOGZJRmJhZmJXQkpoR1gyV0l3RVpZV1pRcGRsaHo4NlNiWDlYS2pYczExaHV3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -468,7 +484,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 57,
+      "chapterCount": 59,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -925,6 +941,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iM0YyV0c4bEtpaEVBR3pKYU5RX0M0QXVQRUk2dGRqMzYzbjc4NnpTRkpFaTV1aG1BRVFMRDE3TTk4cExhX2J5VU5Cc2tZZG91RjZwU0k5MU0tUG1uUW0wM2F5b0g4RTl5a1cxZW9iUUJvc1hiRE0wSjFkbEzSAXxBVV95cUxQTkV4Vkc5U1c1NFp6VWpkUjV1SGlQX1NKV2dGU2hEa0lZZUFMNnoyZG5XN2xoR0oxVFpIUHJydUg5TW9rNFZobXNZdnRNNVNjN21yOXNRbzNJOWNzc0NxUldUYlJyZE1iVXNtV010em9PY3BsUlJuUGF1bENq?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781823376790",
+          "date": "2026-06-18",
+          "title": "World Cup 2026: Lionel Messi leading Golden Boot race, ahead of pack that includes Kylian Mbappé, Erling Haaland, Harry Kane - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVS11VWZwVFBoUnpqRlhvazZlZ1dfdE1FTUU5Um1yMmItY3pacTk4cm9ueEpRbFlTZTFpMlN5LXNTMU1rYlM5ZHJTdVdoa1A0NHVxbW54bjF4aGpGMUpXOVRpUENNU010bzNuYTR1OXl3QXZIdkExTnJWbGFkdWVRVVZLb1NXZ2xfRjI3QU5LdF9UWXIxRXRSLXNySGJITmw2OHY4RHJvcHBZTGNnaXZ2RE5YTC1WTXpwaG13OEx1QUdQbVlXWTRsVk15dDBGWFFiUmNrWWNickJlOGZJRmJhZmJXQkpoR1gyV0l3RVpZV1pRcGRsaHo4NlNiWDlYS2pYczExaHV3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781823376790",
+          "date": "2026-06-17",
+          "title": "Does Ousmane Dembélé fit in a France attack led by Mbappé and Olise? - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhHWE52ZTV4X051NEZ4azZFdDFwellGTlhaUHlBMXJnZk5Tam1xZmppRHlqb2dXSDJkWXZQYzl3djU2YUhFYjlSbEE0djBsNWtXMC04Z1JxOGpzeTJlcW44dDlkUV9NSVNUaU1KckJ1QnhGMVl5ek1kQXRhVC1UOWpHTkNJc1Y5SUNvei13eEt3d2doX0s4ZmF3R3JsTlpCRk5ZSU1KVHFCLW96YnlIcEpXZTJTb3NObHVB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -943,7 +975,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 129,
+      "chapterCount": 130,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -1976,6 +2008,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rOG9QZC1xR2xrQmtzZnY0VHJSU3U5OElhNi13OTBYWHZjejRHTW16dlpqV3dROThHMVNEOWZqZUxOdllvWndDUWJVcU9HcGpOZ1VLdW9PVUxiUWNFdGEwUV9n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781823377331",
+          "date": "2026-06-18",
+          "title": "USMNT vs. Australia World Cup mega-preview: Predictions, odds, must-reads and more - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekJ1VVp0TUdGRUxBWVIwb2J3LUVIZThCMEZCaTVFWmtXMUVNUGM5dXQxVmo0R0wxQ19YNTNzZVdnckthcGpyREZGMFd5OUlIU0wxcVJMWU1nX0RxWEVkUWgxY0l4Y09EUWNMZXFDT0J4VUJNR1pYZkhRTl9qcWVramRzenFEck91MW92clNQNTZpam9xNThqMGZuem9XX3RqX1ZORm5aNFp4ZTdMNGM0Qw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1994,7 +2034,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 135,
+      "chapterCount": 137,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -3075,6 +3115,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcjBBVUdENF8yRzJjNjI3UWV1MWhRQUdyXzF1QlBGV0o2MlNGVjBMSUo2T2hxczBWa2dXV20zX1E2RzhzbjZYc0VVelpFSmdBYkZkZnNwM0s1UnBrcGxZWWk5S0hhcDhfdktHQ3FMeG1OMHZSUVNIc1BoaTM1Y0ZheEFBdGNxRkVYbXY1emo2ajY2eHhuSFgwNndIalRXM09zM3NOdEpfZXlHY19mcTdJZl9ySkJTR21pLUhadVBGQ3FDVjdzUTFvQzZmb2d1VlRQRFAzSlAyT1NubmhJdU02OUc2NGVIN0x6bHMxT1RqcHA3UklmMGRyUmtvX3lOM1E2VG5FOHRB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781823378111",
+          "date": "2026-06-18",
+          "title": "Brazilian soccer fans at the World Cup heed warning not to dress Rocky statue in team gear - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHc3NnowNWx3bjdqdXlKOWhjRlM5R0FWNmdyRWcxTFBrcG8yczdTN1BYLWlaQlRnSW0wUzZoZV9uQm9WV1RvcmY0MTlFcHN4d1lPZmdXM3A3RVFtRWI4eEhFb2l5YmFTbFdwRm9SNUtCcGRMYXI2V1NVOHF6SHpublhtSmh4OVJrVTNYZmVGN3FQUHRJNUZpQw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781823378111",
+          "date": "2026-06-18",
+          "title": "Injured Neymar not travelling with Brazil squad for Haiti match - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVk9HZ2lQcF9UeVZPQzB6SXAtQzRkeVQwc25oNG9ndWNIRjJuNkJfbWQtZjktcHlyRzhfSmdCZ3lienExeUVWT1VkcXlsaFc0ZU1JWllyUG15OVRZdXlzX0JSSjc4UEN1OGRaVC1WWUtYb2VUZzROSWZzQXdxVEhzNGpZU0w0T093XzVtWVIybDlJV3RWZk91Mm83SWdOX0NUZlU4S2xLUDExVWZZZEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3184,7 +3240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 148,
+      "chapterCount": 149,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -4369,6 +4425,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EM0pyYUgwSHVfMnhkMFFyeWFRa2lzTEdJaW5KUVVjbFdDWWZEMHFVRUgyeFlPRFp6RmswUlZ5YXRremtMZS1XQWFjQ3RMQjYzU2xUQ3h3V3RJX1F4Sk9RbkpIYlZtQ0owMkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781823378693",
+          "date": "2026-06-18",
+          "title": "Rio Ferdinand picks out England's 'only genuinely world-class player' after thrilling World Cup win over Croatia - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUjZMMjBaMlB4emV2dHFsQ0YwMTdFUDJyNHVPUnNZckppbXY4azhaZy00YWduVk9sa3FER2NpQy0xYUEycTE3N1RZbC1JX1BGTmdBbzljbmxxTXRsU0R4RE5BeGo5WkpRQlFfSHBIOEhPc1BGeVdvQndUNFJhdUNXYktXTVpDemNyVGZ4YmVhUmRoN2wwVTMzb21mME1md0V5MU1Sa1JXbzFPREtyY3JNTnJRVTdYbm9MMjU3Qzk2TU1mM0ttWlJjb096WWNwVXVQLVlnNWVsVWRsVjIxSVdKOExhdjdvWnZ1bVkweGNTSlA4dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4457,12 +4521,20 @@
       "emotionalStake": 5,
       "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014, and they opened their campaign with a 1-1 draw against co-host Canada at BMO Field — a hard-earned point on the road, in front of a Toronto crowd that wasn't on their side. A nation that only declared independence in 1992 is back on the world's biggest stage, with two more group games still to come.",
       "watchFor": "After a strong start in Toronto, Bosnia-Herzegovina face Switzerland in Los Angeles before closing the group against Qatar at Lumen Field in Seattle on June 24 — a match the Bosnian diaspora in the Pacific Northwest has been counting down to. Can they turn that opening point into a first-ever World Cup knockout appearance?",
-      "chapterCount": 1,
+      "chapterCount": 2,
       "chapters": [
         {
           "id": "ch-result-wc26-B6",
           "date": "2026-06-12",
           "title": "Canada and Bosnia-Herzegovina drew 1-1 at BMO Field.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-B8",
+          "date": "2026-06-18",
+          "title": "Switzerland beat Bosnia-Herzegovina 4-1 at SoFi Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false

@@ -1657,9 +1657,9 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 3,
+      "awayScore": 0,
       "vancouverMatch": true,
       "notes": "Canada vs Qatar — Group B at BC Place"
     },
@@ -1795,9 +1795,9 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 1,
       "laMatch": true,
       "notes": "Switzerland vs Bosnia-Herzegovina — Group B"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-18T20:26:17.988Z"
+  "lastUpdated": "2026-06-18T22:56:12.982Z"
 }
