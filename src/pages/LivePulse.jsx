@@ -1993,100 +1993,6 @@ export default function LivePulse() {
         </button>
       </div>
 
-      {/* ── Match selector — grouped by date ───────────────────────────────── */}
-      {displayMatches.length > 0 && (
-        <div className="pulse-match-selector">
-
-          {/* Today */}
-          {todaySorted.length > 0 && (
-            <div className="pulse-match-section">
-              <div className="pulse-match-section__header">
-                <span className="pulse-match-section__label">Today</span>
-              </div>
-              <div className="pulse-tabs">
-                {todaySorted.map(m => {
-                  const espn  = espnMap[m.id];
-                  const isLive = espn?.state === 'in';
-                  const isPost = espn?.state === 'post';
-                  const cardCount = notifLog.filter(n => n.match.id === m.id).length;
-                  return (
-                    <button
-                      key={m.id}
-                      className={`pulse-tab${selectedMatchId === m.id ? ' active' : ''}${isLive ? ' live' : ''}`}
-                      onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
-                    >
-                      <span className="pulse-tab__teams">
-                        {isLive && <span className="pulse-tab__dot" />}
-                        {m.homeTeam} vs {m.awayTeam}
-                      </span>
-                      <span className="pulse-tab__sub">
-                        {isLive ? espn.clock : isPost ? 'FT' : `${m.time} ${m.timezone}`}
-                        {cardCount > 0 && <span className="pulse-tab__count">{cardCount}</span>}
-                      </span>
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          )}
-
-          {/* Past matches — grouped by date, newest first */}
-          {pastDateGroups.map(([date, ms]) => (
-            <div className="pulse-match-section" key={date}>
-              <div className="pulse-match-section__header">
-                <span className="pulse-match-section__label">{formatDateLabel(date)}</span>
-                <span className="pulse-match-section__tag">Replay</span>
-              </div>
-              <div className="pulse-tabs">
-                {ms.map(m => {
-                  const cardCount = notifLog.filter(n => n.match.id === m.id).length;
-                  return (
-                    <button
-                      key={m.id}
-                      className={`pulse-tab pulse-tab--past${selectedMatchId === m.id ? ' active' : ''}`}
-                      onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
-                    >
-                      <span className="pulse-tab__teams">{m.homeTeam} vs {m.awayTeam}</span>
-                      <span className="pulse-tab__sub">
-                        FT
-                        {cardCount > 0 && <span className="pulse-tab__count">{cardCount}</span>}
-                      </span>
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          ))}
-
-          {/* Upcoming matches — grouped by date, soonest first */}
-          {futureDateGroups.length > 0 && (
-            <div className="pulse-match-section pulse-match-section--upcoming-block">
-              <div className="pulse-match-section__header">
-                <span className="pulse-match-section__label">Coming Up</span>
-              </div>
-              {futureDateGroups.map(([date, ms]) => (
-                <div key={date} className="pulse-match-section pulse-match-section--sub">
-                  <div className="pulse-match-section__sub-label">{formatDateLabel(date)}</div>
-                  <div className="pulse-tabs">
-                    {ms.map(m => (
-                      <button
-                        key={m.id}
-                        className={`pulse-tab pulse-tab--upcoming${selectedMatchId === m.id ? ' active' : ''}`}
-                        onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
-                      >
-                        <span className="pulse-tab__teams">{m.homeTeam} vs {m.awayTeam}</span>
-                        <span className="pulse-tab__sub">{m.time} {m.timezone}</span>
-                      </button>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
-
-        </div>
-      )}
-
       {/* ── Selected match view ─────────────────────────────────────────────── */}
       {selectedMatch && (
         <div className="pulse-match-view">
@@ -2326,6 +2232,100 @@ export default function LivePulse() {
               )}
             </>
           )}
+        </div>
+      )}
+
+      {/* ── Match selector — grouped by date ───────────────────────────────── */}
+      {displayMatches.length > 0 && (
+        <div className="pulse-match-selector">
+
+          {/* Today */}
+          {todaySorted.length > 0 && (
+            <div className="pulse-match-section">
+              <div className="pulse-match-section__header">
+                <span className="pulse-match-section__label">Today</span>
+              </div>
+              <div className="pulse-tabs">
+                {todaySorted.map(m => {
+                  const espn  = espnMap[m.id];
+                  const isLive = espn?.state === 'in';
+                  const isPost = espn?.state === 'post';
+                  const cardCount = notifLog.filter(n => n.match.id === m.id).length;
+                  return (
+                    <button
+                      key={m.id}
+                      className={`pulse-tab${selectedMatchId === m.id ? ' active' : ''}${isLive ? ' live' : ''}`}
+                      onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
+                    >
+                      <span className="pulse-tab__teams">
+                        {isLive && <span className="pulse-tab__dot" />}
+                        {m.homeTeam} vs {m.awayTeam}
+                      </span>
+                      <span className="pulse-tab__sub">
+                        {isLive ? espn.clock : isPost ? 'FT' : `${m.time} ${m.timezone}`}
+                        {cardCount > 0 && <span className="pulse-tab__count">{cardCount}</span>}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Past matches — grouped by date, newest first */}
+          {pastDateGroups.map(([date, ms]) => (
+            <div className="pulse-match-section" key={date}>
+              <div className="pulse-match-section__header">
+                <span className="pulse-match-section__label">{formatDateLabel(date)}</span>
+                <span className="pulse-match-section__tag">Replay</span>
+              </div>
+              <div className="pulse-tabs">
+                {ms.map(m => {
+                  const cardCount = notifLog.filter(n => n.match.id === m.id).length;
+                  return (
+                    <button
+                      key={m.id}
+                      className={`pulse-tab pulse-tab--past${selectedMatchId === m.id ? ' active' : ''}`}
+                      onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
+                    >
+                      <span className="pulse-tab__teams">{m.homeTeam} vs {m.awayTeam}</span>
+                      <span className="pulse-tab__sub">
+                        FT
+                        {cardCount > 0 && <span className="pulse-tab__count">{cardCount}</span>}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+
+          {/* Upcoming matches — grouped by date, soonest first */}
+          {futureDateGroups.length > 0 && (
+            <div className="pulse-match-section pulse-match-section--upcoming-block">
+              <div className="pulse-match-section__header">
+                <span className="pulse-match-section__label">Coming Up</span>
+              </div>
+              {futureDateGroups.map(([date, ms]) => (
+                <div key={date} className="pulse-match-section pulse-match-section--sub">
+                  <div className="pulse-match-section__sub-label">{formatDateLabel(date)}</div>
+                  <div className="pulse-tabs">
+                    {ms.map(m => (
+                      <button
+                        key={m.id}
+                        className={`pulse-tab pulse-tab--upcoming${selectedMatchId === m.id ? ' active' : ''}`}
+                        onClick={() => { setSelectedMatchId(m.id); setSnapshotOpen(false); }}
+                      >
+                        <span className="pulse-tab__teams">{m.homeTeam} vs {m.awayTeam}</span>
+                        <span className="pulse-tab__sub">{m.time} {m.timezone}</span>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+
         </div>
       )}
 
