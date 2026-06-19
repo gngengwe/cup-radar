@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-19T10:26:52.549Z",
+  "lastUpdated": "2026-06-19T15:17:40.326Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -508,7 +508,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 63,
+      "chapterCount": 65,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1013,6 +1013,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjV3Z0RQTHVtNWc1cFJPcGNWRnhiU0dQMGtCV0dUSFo2dEMwdXVUQ3duWlRIYS16QllwTHJBUFA4N3hyNlJvejY5VFBCRXBuNlJEdGJfU3BTRG03eU15R3FsWW01SmFzQkpKd1BLVUlNeE93SEFNdlItb3VuUFlyelFvbEFScUh5b21DWlhabVI5QzllWUtKVk9Lb3g2MmdNM1VwM2ladHpqTFJq0gGyAUFVX3lxTE9OUGQxcDA5bzJwNWhmLXZ3RHE1OEpQQW1OQ0ZBa3J3MjdhUEZaN0IwamNaQXl1NktTRmFiM0xwYmpPaG1qeEtCSDh1Zm82NW1EUzBjenNldHFDWjF1NUNhZlVfbktCeGpFUk1pTXJnQkEtQng3ME9LUkFGcURwZFJFMUVjVXE3QzAxVTNVVzZsWkx2Qk9JeTJsQlBITGl2bENLVGM2VGpMR0pYTi1Ta3lQRkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781882258767",
+          "date": "2026-06-17",
+          "title": "FIFA World Cup 2026 stats: Messi's 38 breaks Ronaldo's record; Mbappe's 58 sets France record, Haaland's 2 first for Norway - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWE52WTk2ZjU4WTJueVJzd0pZcU5fZWs5TFoybS1nUjhZUWZDdXhLREpIOVZNMHkyMi1JemFTOUpsLU0yUVE3ZHQtOTJDeFZlRUotMThnMWNPZGNBZDAxRkIwMzNaeEUxdnhmV1dhaURhcWlVbl9rZVMwaGV3dkNPUnBJMDc4RG1GanE1Z2tySUotdVRyVE01V0RWTnQtR09HOHh4OHpHUjBfaFNwaDNSRjhkR0ZCdTR4aDV0T3dKMHRLd25CNnRpOFQ4dVg0SmtnTnhuZDRMNlg5XzQ5a05aSDgwN2hiUzM3TlA4X1FGZUVSR243YkNOZTZGSTRMNmFPaG1sc2drczQzbzlK?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781882258767",
+          "date": "2026-06-17",
+          "title": "Kylian Mbappe makes history as France avenges World Cup upset vs Senegal - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjM2ZkRQVE1RdWtSYzBiN19nNkNqQUdydlBETmQ1YXhibHJ0RG5FVEYwRW0yMGdlM2Q3clZieE9KT2JwYVJaQzd4OFpFYXFaN0RyQlNPcnNpRmpWNE5DVzBhWkpyXzJLV1pETDBPLXV4WUlrRW1wS2NMc3JBWjVvclFHZzU1RXc0ck5HSGRJQnM1dnJXN2Z6NkNDbmNNandEcTJNSmN0eW9xU0VTTDVYd0NIZ0tsYjBZUUhoUVNZVmxwY1ZoU1E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1031,7 +1047,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 136,
+      "chapterCount": 139,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2120,6 +2136,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTAzdE1BazBiRGZaZ3Ftd3MyYkpXQ29PR0Zjc0xCcVVJZlJFblNFMWFnWmFhenFSQUU4dGU3WmtZWGpMMkVtaHNsLXdpbmx6UU5xbW5sRG44T1BtX1haN3RuWEw0V3VSME9CVG9PM3JmZ18xZGtSR2d6WXNkT3lKSDJlRTFSQUZIZ2hhT1NneFNscXpR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781882259309",
+          "date": "2026-06-19",
+          "title": "World Cup 2026: Folarin Balogun, the US star who would not be allowed under Trump's plan - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04VGJnblRtSG9rOUpGdTBPN3FEaUFvS2JrMWFDSWRCbWJkSUN3QUNlTnh0TDEwdGQ3RW5XQnY2T1FPcngzTUdWWEhyNGZUU1VQRkhENkV2SDdYY0hrUGVpRWgxMlF6dWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781882259309",
+          "date": "2026-06-19",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for USA, Brazil, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlBKNjB5YnNldzdFS3NTcFVXcG1FT3dYdDJCSXNpd0JiemY2bmZSb3hEMVZUeXkwMnExVHAzY0g2ZFE4R1RXOEhYdG1EMnVfQXMxUU1vSlNIWWt5LWtkZUhRMHZDd1NCYjJZM0VveXVCRTRoQ1VQMThjN0pkdGdCNTJqQi1JZkhoRFRCS2JfTURJRGY3N0FETVBteWc2SFRqR1ZPTHdUUmZpcjNadHdB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781882259309",
+          "date": "2026-06-19",
+          "title": "USA, Mexico, Canada: which World Cup co-host can boast the most? - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0x2VWRLeXZPc3VzUi1JOWxPdXdvMEdVZ3ZSQmZQd2dWMVRkUVdUVTVhQ2dieDA0SVdLbW9EWUxLTW5rbEFBQzZpSk9DZTd1MWxEZUx1WjRKeUFtX2xRejhMN1MxYmZ2b1REQjJ4SmVQNUFxdU0xUGxpT0hveThtNnRkV2VoT2cweFFSVVVXN2tYNlVSbTZOUHNVUExMZFVxNW0xTThRcFpDbkYtT2pwRFpNc2UwaVE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2138,7 +2178,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 146,
+      "chapterCount": 151,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -3307,6 +3347,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWi1mVk1KWENOMHF5cHhVSEREaFF1MjNsUXl5NjhRc083U0pMeWVuSDN2c0lRU1AtQnJmbDNRU0tpeUJmNndmbTNhM3IxZ3UydWpKLXBlTkFPbGEzMEFCNy1uNWZhQlY5d2l6NDgwSllPaFBkLVR3MmhhU3hpTFFhZzdfV295NXdYQ1hlalNB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781882259834",
+          "date": "2026-06-19",
+          "title": "Brazil vs Haiti at FIFA World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzNZcVBBTUNnUERhblFWWHFLVXhqRDA3ekVCamhIVjByRGJhWlA3Q0QwRmNDSlB3SU9xeWdSS0dFUVhpR1JJTG9ZZWdDc3lRdllQamJLSnc2dlg3aXdsTkxZX1p3V2hKcXhyVXg3czdUeFdNWk9JSkNiSlZaN18xR1NwdG9DUVJkOXVZbFFqMTNBUGdTdnBwNDZXRFNVU3c1aDdaeWhjUlBUa3lWODJsZlppUEpiS1BjTXNrWXlESnlscGZYRVNBMWlmeVFSaFdOVjNuc21UYXctc1lraEtN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781882259834",
+          "date": "2026-06-19",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for USA, Brazil, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlBKNjB5YnNldzdFS3NTcFVXcG1FT3dYdDJCSXNpd0JiemY2bmZSb3hEMVZUeXkwMnExVHAzY0g2ZFE4R1RXOEhYdG1EMnVfQXMxUU1vSlNIWWt5LWtkZUhRMHZDd1NCYjJZM0VveXVCRTRoQ1VQMThjN0pkdGdCNTJqQi1JZkhoRFRCS2JfTURJRGY3N0FETVBteWc2SFRqR1ZPTHdUUmZpcjNadHdB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781882259834",
+          "date": "2026-06-19",
+          "title": "Why Brazil vs Haiti is the perfect World Cup match to mark Juneteenth - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQanRpNEhLNVFEQXdXXzUxa3JYRDVhTmlBdGpZQmM2aWxkZ1ExbnBtSUlneU5GaFZBUFlCTU9nWm5EVUthQmRkaXRUQVMycTdrTGItcko4cTE4bDlUa2NnSlFnY0ZYVV9PYW5nN3U1YVNPSlU0RFZpbS1HVm16S3VfblFncnVlRmY3U3NUR2ZVcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781882259834",
+          "date": "2026-06-19",
+          "title": "2026 World Cup picks, odds, predictions: Best bets for USA vs. Australia, Brazil vs. Haiti on Friday - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzVKdzJTdTdkSjN5N3hNc3V5Z3ozVlVSQzdxUHYxRm1YQ19Vb3BPT09YNnl2Nng5NmY5TU9OMmlMQThYaGRnZ3lsRWUzRFRKQlZzWVdhZG05Q1FKVm9MNzBIcUd3NnJKSEtjd1BvWFgwdXltT0hTZ0wtZUFsVUM0c09OWGw2bVRpZ3lNUzFxdUhkajNyRlRWUktFRmlGSklHMlYwb0lmN1prcG9nMjlxaU9zZzl1QnBLVExnaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781882259834",
+          "date": "2026-06-19",
+          "title": "World Cup 2026 Power Rankings after one game: Who is No. 1? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWJBVE8xT014c3dVZkYzVGZQTXF5Y1oza0VfcEgwMzRROHMxQmxuRkdIWmRFbnBJU2pJZzVlSGpwQVBmS2JNTzRvdUVGSXRvMHM0M2tPc01JQThvd0swcWRkYVNYSC1QRm40ZVRldUVOT1gxbzNoZUFvbVRqOEZmRm0yUjIwQTFBMlgzUkN5UUU3Q1l5c1c5NE9EbGx0ZGZSVFB3cF81RFh0ZEh1MDFqN3Y1bmF0aWcxdkFGMWMyNDhCUVdYQ0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3432,7 +3512,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 157,
+      "chapterCount": 160,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -4688,6 +4768,30 @@
           "title": "Kansas City Royals send message to England after World Cup team visit MLB side - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGxPSHBPMUJYUm1teTdKM3FUbWxTOE1XcGpMdTNKblV1cFpyX2wxNlp2bUFSbEI0Z09ndGNMRzd0VUhqZmZSbkNGa3VBRUhxcEJYbndNN29MYVZ0Z3d2VlBvWkx4TWJzZzh6N1V0a09oZXpyTm5HTEJzQmx0UGZlVk5YelVDOVU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781882260326",
+          "date": "2026-06-19",
+          "title": "World Cup 2026: Marcus Rashford and Marc Guehi are Thomas Tuchel's big England dilemmas - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VdUQ3eGNUcmh2amR4MGc4LWRMdTh3TEhkMTBDbXk2dDFuNHFRVnp4T29sajcwXzlkLWJDWWRNbzd5b2xucVY1Q0RZTkNNS0xLX3hMSVdkQ1o4VTgtTHA3Tm0zR2xGQW8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781882260326",
+          "date": "2026-06-19",
+          "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlhLS3pMUG44ZnNjSElxaVhWbEtrb0EwZHcwMVVfaXRXRUVmbUw2SnBFeTVROUczQlRTaUk0bHJQd0JwX2x0UXpGeVVmWmYzdEM1VnBibnVWY2wzNngtajlqT1ZEXzVBQno4OGF3VmZIU3hGMUQ1eDlNWjBxS2FSZTd6TmpwOFI0N3Q3S19fWHh3bno4N0p4cmFCbjhsem1YZDdEUUFNZGR3bm5pMmdmNDBGdTN6bmdpUnI2RXZOZUpRbndDQ3loZTVtaEhzODVucWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781882260326",
+          "date": "2026-06-19",
+          "title": "FIFA-mandated hydration breaks at the World Cup have sparked criticism. But what do they actually do? - Chicago Tribune",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BMnozcGRhM2hBNXZGRUY4eDFQZHZ3dGhhQUJJUEJXR2xDR3EweGdaWENXRTZtMXBzVmQyRk9mZFVnQk5TdW5nUEd0cWlXVDV4QlRYMHM0YUhIaXpSVVJVaUlPYjFZUlhZbGp3RDBJWE5zTVJ2OUFHWEc3aUxFT1k?oc=5",
           "draft": true
         }
       ]
