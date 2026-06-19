@@ -4,6 +4,7 @@
 // First 1,000 calls/day free. Cup Radar uses <50 calls/day in practice.
 
 import { useState, useEffect } from 'react';
+import { matchKickoffISO } from '../utils/time';
 
 // Venue coordinates — One Call API returns the closest forecast point.
 // Keyed by normalized host-city name so any of the 16 World Cup 2026
@@ -53,7 +54,7 @@ function daysUntil(dateStr) {
   return (target - todayMidnight) / 86_400_000;
 }
 
-export function useWeather(matchDate, city = 'Seattle') {
+export function useWeather(matchDate, city = 'Seattle', time = '19:00', timezone = 'PT') {
   const [weather, setWeather] = useState(null);
   const [status,  setStatus]  = useState('loading');
   const venueKey = normalizeCity(city);
@@ -100,9 +101,8 @@ export function useWeather(matchDate, city = 'Seattle') {
         return r.json();
       })
       .then(data => {
-        // Target: match kickoff converted to UTC unix timestamp
-        // Most Seattle PT matches kick off 7–8 PM PT = 02:00–03:00 UTC next day
-        const matchTs = new Date(matchDate + 'T02:00:00Z').getTime() / 1000;
+        // Target: actual match kickoff, converted to UTC unix timestamp
+        const matchTs = new Date(matchKickoffISO({ date: matchDate, time, timezone })).getTime() / 1000;
 
         // Prefer hourly (within 48h) → fall back to daily
         const source = data.hourly?.length ? data.hourly : data.daily || [];
@@ -145,7 +145,7 @@ export function useWeather(matchDate, city = 'Seattle') {
       .finally(() => clearTimeout(timer));
 
     return () => { controller.abort(); clearTimeout(timer); };
-  }, [matchDate, venueKey]);
+  }, [matchDate, venueKey, time, timezone]);
 
   return { weather, status };
 }

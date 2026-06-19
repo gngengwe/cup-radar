@@ -107,7 +107,7 @@ function MatchCard({ match, cityData }) {
 
       {expanded && (
         <div className="hq-match-card__detail">
-          {!isMatchDay && <WeatherWidget matchDate={match.date} city={match.city} />}
+          {!isMatchDay && <WeatherWidget matchDate={match.date} city={match.city} time={match.time} timezone={match.timezone} />}
 
           {!isMatchDay && shouldIGo && (
             <div className="sigo-block">

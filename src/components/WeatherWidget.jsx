@@ -5,8 +5,8 @@ function daysUntil(dateStr) {
   return Math.ceil((target - Date.now()) / 86_400_000);
 }
 
-export default function WeatherWidget({ matchDate, city = 'Seattle', compact = false }) {
-  const { weather, status } = useWeather(matchDate, city);
+export default function WeatherWidget({ matchDate, city = 'Seattle', time = '19:00', timezone = 'PT', compact = false }) {
+  const { weather, status } = useWeather(matchDate, city, time, timezone);
   const days = daysUntil(matchDate);
   const cls  = `weather-widget${compact ? ' weather-widget--compact' : ''}`;
 

@@ -79,7 +79,7 @@ function LiveHero({ match, espn, summary, probablyLive }) {
         {match.venue} · {match.city} · {match.time} {match.timezone}
       </div>
 
-      <WeatherWidget matchDate={match.date} city={match.city} compact />
+      <WeatherWidget matchDate={match.date} city={match.city} time={match.time} timezone={match.timezone} compact />
 
       {(isLive || isFinished) && excitement && (
         <div className="lp-live-hero__meter">
@@ -133,7 +133,7 @@ function ResultCard({ match, espn, summary }) {
       {isFinished && <GoalLog match={match} />}
 
       <div className="lp-result-card__venue">{match.city}</div>
-      <WeatherWidget matchDate={match.date} city={match.city} compact />
+      <WeatherWidget matchDate={match.date} city={match.city} time={match.time} timezone={match.timezone} compact />
     </div>
   );
 }
@@ -155,7 +155,7 @@ function UpcomingCard({ match }) {
       <div className="lp-upcoming-card__meta">
         {match.group ? `Group ${match.group}` : match.stage} · {match.city}
       </div>
-      <WeatherWidget matchDate={match.date} city={match.city} compact />
+      <WeatherWidget matchDate={match.date} city={match.city} time={match.time} timezone={match.timezone} compact />
     </div>
   );
 }
