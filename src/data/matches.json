@@ -128,9 +128,9 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": true,
       "notes": "USA vs Australia — Group D at Lumen Field"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-19T04:19:17.407Z"
+  "lastUpdated": "2026-06-19T19:49:47.494Z"
 }
