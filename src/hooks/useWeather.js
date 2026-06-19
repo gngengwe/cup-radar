@@ -46,7 +46,11 @@ const WEATHER_ICONS = {
 };
 
 function daysUntil(dateStr) {
-  return (new Date(dateStr + 'T12:00:00') - Date.now()) / 86_400_000;
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const target = new Date(y, m - 1, d);
+  const now = new Date();
+  const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  return (target - todayMidnight) / 86_400_000;
 }
 
 export function useWeather(matchDate, city = 'Seattle') {
