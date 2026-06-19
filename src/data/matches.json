@@ -624,9 +624,9 @@
       "group": "A",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -1657,8 +1657,8 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
-      "homeScore": 3,
+      "status": "finished",
+      "homeScore": 6,
       "awayScore": 0,
       "vancouverMatch": true,
       "notes": "Canada vs Qatar — Group B at BC Place"
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-18T22:56:12.982Z"
+  "lastUpdated": "2026-06-19T04:19:17.407Z"
 }
