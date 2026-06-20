@@ -5,32 +5,7 @@
 
 import { useState, useEffect } from 'react';
 import { matchKickoffISO } from '../utils/time';
-
-// Venue coordinates — One Call API returns the closest forecast point.
-// Keyed by normalized host-city name so any of the 16 World Cup 2026
-// venues can resolve a forecast, not just the sponsor cities.
-const VENUES = {
-  seattle:          { lat: 47.5952,  lon: -122.3316 }, // Lumen Field
-  kansascity:       { lat: 39.0489,  lon: -94.4839  }, // Kansas City Stadium (Arrowhead)
-  miami:            { lat: 25.9580,  lon: -80.2389  }, // Hard Rock Stadium
-  newyork:          { lat: 40.8135,  lon: -74.0744  }, // MetLife Stadium
-  philadelphia:     { lat: 39.9008,  lon: -75.1675  }, // Lincoln Financial Field
-  atlanta:          { lat: 33.7553,  lon: -84.4006  }, // Mercedes-Benz Stadium
-  vancouver:        { lat: 49.2768,  lon: -123.1119 }, // BC Place
-  losangeles:       { lat: 33.9535,  lon: -118.3392 }, // SoFi Stadium
-  mexicocity:       { lat: 19.3029,  lon: -99.1505  }, // Estadio Azteca
-  dallas:           { lat: 32.7473,  lon: -97.0945  }, // AT&T Stadium
-  guadalajara:      { lat: 20.6792,  lon: -103.4649 }, // Estadio Akron
-  boston:           { lat: 42.0909,  lon: -71.2643  }, // Gillette Stadium
-  houston:          { lat: 29.6847,  lon: -95.4107  }, // NRG Stadium
-  monterrey:        { lat: 25.6694,  lon: -100.2458 }, // Estadio BBVA
-  toronto:          { lat: 43.6332,  lon: -79.4185  }, // BMO Field
-  sanfranciscobay:  { lat: 37.4030,  lon: -121.9700 }, // Levi's Stadium
-};
-
-function normalizeCity(city) {
-  return (city || '').toLowerCase().replace(/[^a-z]/g, '');
-}
+import { VENUE_COORDS as VENUES, normalizeCity } from '../data/venueCoords';
 
 const FORECAST_WINDOW_DAYS = 2; // One Call API 3.0 hourly = 48hrs; daily = 8 days
 const FETCH_TIMEOUT_MS     = 8_000;

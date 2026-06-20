@@ -5,6 +5,7 @@ import Dashboard from './pages/Dashboard';
 import HowItWorks from './pages/HowItWorks';
 import WorldCupPrimer from './pages/WorldCupPrimer';
 import LivePulse from './pages/LivePulse';
+import GoalMontagePage from './pages/GoalMontagePage';
 import ErrorBoundary from './components/ErrorBoundary';
 
 // Admin panel is lazy-loaded — it's never on the critical path and adds ~50KB
@@ -40,6 +41,7 @@ export default function App() {
           <Route path="/how-it-works" element={<HowItWorks />} />
           <Route path="/world-cup-primer" element={<WorldCupPrimer />} />
           <Route path="/live-pulse" element={<LivePulse />} />
+          <Route path="/goal-radar" element={<GoalMontagePage />} />
           <Route path="/admin" element={
             <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading admin…</div>}>
               <AdminPanel />
