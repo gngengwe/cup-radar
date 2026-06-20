@@ -22,6 +22,7 @@ export default function GoalMontagePage() {
   const [active, setActive]   = useState(feed.length ? feed.length - 1 : -1);
   const [playing, setPlaying] = useState(false);
   const itemRefs = useRef({});
+  const skipInitialScroll = useRef(true);
 
   useEffect(() => {
     if (!playing || feed.length < 2) return;
@@ -32,8 +33,9 @@ export default function GoalMontagePage() {
   }, [playing, feed.length]);
 
   useEffect(() => {
+    if (skipInitialScroll.current) { skipInitialScroll.current = false; return; }
     const node = itemRefs.current[active];
-    if (node) node.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    if (node) node.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }, [active]);
 
   const activeGoal = active >= 0 ? feed[active] : null;
