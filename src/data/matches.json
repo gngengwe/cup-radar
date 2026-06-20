@@ -724,8 +724,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": null,
+      "awayScore": null,
       "goals": [
         {
           "minute": 21,
@@ -866,9 +866,9 @@
       "group": "C",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group C Matchday 2",
@@ -917,9 +917,9 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -1818,9 +1818,9 @@
       "group": "C",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
       "notes": "Morocco vs Scotland — Group C"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-19T22:04:01.683Z"
+  "lastUpdated": "2026-06-20T03:40:45.242Z"
 }
