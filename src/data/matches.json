@@ -1840,9 +1840,9 @@
       "group": "F",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 5,
+      "awayScore": 1,
       "notes": "Sweden vs Netherlands — Group F"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-20T08:56:40.950Z"
+  "lastUpdated": "2026-06-20T19:26:29.709Z"
 }

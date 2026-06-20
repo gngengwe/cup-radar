@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-20T16:18:11.243Z",
+  "lastUpdated": "2026-06-20T19:26:34.958Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 64,
+      "chapterCount": 66,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -529,6 +529,22 @@
           "title": "Messi vs Cristiano Ronaldo: when could we see Argentina vs Portugal in the 2026 World Cup? - Diario AS",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVdEeGRnckJ0S1FkNTB4OTdYUGc1WkxzRFF1aERWX2lHRnh3Wlp5S2VWck1xNGdxSXZ1VjA0MVIzS1Z6QUozWk5TaFRNSThUdHdBaFFyekNoeDd4dUNvVmF3bXpDQXVhN2hHdE9GRlNOU3dzWmVKeVB6YTFxdkZ0ZG95TzdrTmJod1pGMmdaOEc2VnVIenNaQW1oOXBaLThta2NmckVhNjdZNnducTBpYkRVbWdpU0JtNXZxT3ZLM3ZsWXJXMXp1QUhwbTRnODTSAeMBQVVfeXFMUGFNYVlCbTVoaUVoSndSWVFLSExWeWIyeHRROHN5ak93SmU1STdfZllfZThORG03R0RUekQtXzJfbjYxVmJUYmVISkZhVUNxN1NYOUtuRGlFV2VVaHJKeDBNbjdpdHZMYmRjS09HN0E2Q0RsY1ZuVTd3RXJCem5CLW1uYm1ITDAzOFRGUlVDaUhvQTBEa1FYclhvQ0V0Z0YyWFRrWGlndExPZU9WWUIwdktEU095UlJzdVJ2dnhSSnlxN1NpR3pvY2FvdTdMQVBkYnE0MVdsUjFsXzZMMlIyd2xfWUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781983592818",
+          "date": "2026-06-19",
+          "title": "World Cup 2026: Argentine presenter resigns after wrongly saying Lionel Messi's father had died - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MQTRaWjZpaF9ObFR4bkE1dWxJQ3B3UlI2WEFWd2Q3aHE1a2hvRm5zVXdMcnotbXZ2STJVcnZaTGdlVmpmeThLaV85c2hHTVF3am1adjFFTGY5SzcwNnZMeWwyWFlKVW8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1781983592818",
+          "date": "2026-06-17",
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWNQRTBCb09ORUg3Ri1fcVhnRDRQWkxqYnBVMWNwSkN1YUtYYnR5dTJab3J6UXh2WjBtdGNqclBFWlV0alRuby1tVzljNmFFa05sZjV5bFVSeHdHLWJWZVQ0bWpIb0tfUFdZaERfeUdoSU5FLXJEaUNMY3h2SXlhVk1TdUtITFU0X2Y1blI5SHRRRlNHc0dQcW0xTUVvbFNBRm53UEdjMVpFSmVsM1JqSDROUEtYUVFybkVBM0pXaVRlRzc3d3dTOWc4WS1ndUpYQmdnTURHVlpWWDZY?oc=5",
           "draft": true
         }
       ]
@@ -1167,7 +1183,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 160,
+      "chapterCount": 162,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2448,6 +2464,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNHJzck8zQ2xwQmc5REtxT1BCcEN1Uk9ka24wOWExYXplcXY2VXJSZ2JrbldKXzV6bVM2QkFHMDRVUWlvNzFacXl1ZWtHS0ZiLWdpZllCOVliQ1JlTlJQMXBON1pSRjM5RWM5T0J4N08?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781983593897",
+          "date": "2026-06-20",
+          "title": "Cody Gakpo extends Netherlands’ lead with goal vs Sweden | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PRnY2eFhxeWFfU05jdDc1R1J2Vm1wTWV5UFhoekVId1FXdWRnVG9VZXRwUnpfOExNOWtEbEs4Xy0xaTk0UjJSbE1sM3UzV3l2MjBmWS1oeGFZSnRVUnBTeDVB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781983593897",
+          "date": "2026-06-20",
+          "title": "This is the USA's roadmap to winning the World Cup now that they've made the knockout round - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnJKV3hTcjFLclpiNHA0NFhUNlI5QmtBU2MzT0FSV3Jxam5yYnRMMkxnYjBXSWJMWDlDdmZmRXBXMnlpLWdaLVJxd2tuT1NQajRuQl9CUHhmTjdFbmFUd1ZTNEZGOWM5b2g5bjhIa19UbFdGX1h6NGRMaE10Z2Y2b2lSM1N3c3B3RW9F?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2466,7 +2498,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 169,
+      "chapterCount": 172,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -3819,6 +3851,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXdzOGI3YkdMaDVGZ2xEdXVJQlV0Tm9ZUTlKZTNuR0pDcTEzTTRrbml5QVROVHlMaGUwQW5PcllhVWt4Y2pzeWx3OXJfWm9sNWJ6UkFxSmh1T2lNTmRqWGJDVjMxZzJKaXJvelozRXlqcFNSNFRlUVJDdlhwZUZjbncybzJGaUVieHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781983594407",
+          "date": "2026-06-20",
+          "title": "Raphinha receives good news after Brazil star undergoes scans on injury in wake of Haiti win - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbG9pSlBKMzdHWVFsM2daLVZUMjlMV05zbDlBUHdMRjNmWkxxa05meWNTQlhrZVA3dFJWY1I2blFVS3hrQzJqZUVuS1BUdl9OSVVpVTdEWVNDblR5UUtVMWtxaV9hTGRKc3JBcVZjWkdTVWttOXNUY3VTNnROQWZWZXZDTEJjY0x3S3VxSlFHUzM2Vnd6cGJKall2cmJDWTM0NEpwY1F3YTFHVHh5TXpPVg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781983594407",
+          "date": "2026-06-20",
+          "title": "Brazil’s new leader Vinicius Jr issues World Cup warning: “I’m at my best physically, technically and mentally - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEdPaUJhQXFiVkhmLVZfYVhMRHhpU29lYnplLVNVR01ROUE2LVNOTG5tbWJsdWFNVHY4al9TSXBNazFzUTF4bGFNRE1keUJvWEFja1pTUXdMM3Q5QXdfaHlyS3czYkR4eHZraDZVQmstTVEzSndoR0pIZjJETlNnSFdqV2pVR2RJdXJsWFJBYWczRmFWZWtJZllzUnVVTDdtbVZyOG1jLUZOUmFFemJ4dHZCWlo3TjNnTUJmbGRMOXhlRC05Q2Q1YkFRR2V5V3RQQWVnQk42V2ZMWjhhT0pjdW5pUzUwZ9IB-gFBVV95cUxON2xza2VNZTlMSm1lQzFlQ0ZKbkpBNnBnMWRjZm92UHVrcm5uZ3BZQTNIOXNZUEZfNk9USXNzQzRKYlpONC1IdFlNTGdhRWZ4ZlJvSEppSDVyQkJfV3pqMjBqYS15SkFFSkptMkJCVmZ0UUlqZXhveWR6dHcyc0xuRkxSMUlKRGVqZWYyRmttRmpYUWNTaVRJbm9pVDdTOW8yZWVVekMxaWhtbWFCYlRrVDBtOVQ0Y0ZmdUhybnV4ajBEYk9NeDdLNHhKZ1lja2otMkhBeEU5aU0weXV5RW5IbWNSTktyclUzS3pBM01xUm9MV3JkWmdYdDZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781983594407",
+          "date": "2026-06-20",
+          "title": "World Cup 2026: USA clinches first place in Group D - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXpObGZLTUM1bHZCVUUtQzFLQllCZE04YnQ2Nk9aQ0wxdkZHRkNDZ3h0bE8xUzdYOG0tSnpnSmNWaU9ldGpWMF90LUpSR2tlM2ZOT0xIVUNoYzlKVUFXTmhXemZmX2l6elJYeko4dldVZTlYUWlwZ2FKaXlUQjR5cTR3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3952,7 +4008,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 177,
+      "chapterCount": 181,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -5368,6 +5424,38 @@
           "title": "Thomas Tuchel hints Bukayo Saka is set for bench role again for England's World Cup clash with Ghana - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkYtcWk5QWVoZjdUbHZCM25MT0tiTTJqd0FvTWlLamZmeGZqNHExMllCQzNyNjJzbjRlc3F5QXZBc1VqUjlrcWs1b2tyTU5YRHA0YjZBQ3ZIU3dQeEVqTHFsaF9ScTJ6aFUtMWo4akZpN2hxX0RmTHlUVDNYNW5COHlRM2p3QmMzWnlvSU9Dd2xxUFotSDA4dWQ3NTZmV0x6ZThOdkRZSHM3Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781983594958",
+          "date": "2026-06-20",
+          "title": "World Cup 2026: Bukayo Saka trains alone as England prepare for Ghana game - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UTExpcmVRZmlKUG5XNGYwZ0UwdmliWjVHMnc3V1E3eXQ1VmcwWnpKXzBUdU9hWXhWbHJDX2NNNDJEbk5JUUU4VmFwQTgtY0pHMVp6SmxqWGw5Vy1wY0FRbENnbmRseHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781983594958",
+          "date": "2026-06-20",
+          "title": "Rashford and Rice give England boost for Ghana with Saka set for bench again - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcU1VYWl4WmV0a2FMUThseEhvU19wdWpMNTZwRmRiRHRYaUZzaFpieDhIejU1QjllenJRS0lUc0xiWUZzMXZ0b0MxQW5CYkJSaEd6YmdxVUszRl8wNW1BcS1NdlpkUGtZdlFERG9BVVpXdFR3akVtMjRfbVUwUmtGZWw2bkZWaWYxM3F1Z1ZFMExoekNCRFc2S2tOVFlFaHZZa0lvTTlJb2RsbklRMGF5dnFEc3oxN3ZueEtScFItdTJYQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781983594958",
+          "date": "2026-06-20",
+          "title": "Thomas Tuchel hints Bukayo Saka is set for bench role again for England's World Cup clash with Ghana - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTlctd21ZcHhNRlp4RnJ2X2g4QWhYX2ROS1Z4X0F4T1JzTGxJb1c0cDlNNHFZb3NrOEJzMGxxeG1tOGRDbFU5LVRNZ1hsNV9xd1pNaTRZd2dGNDVxTlhEZjVpa1Bubm9QcWtLUWdZUmUxbW8tb256eWZ2dUIwOG5peTB6RTZZM2JieWJUTTZkQXRSUnduVk9FZC1nRVpLaVBuZnhKTHRxR0pHYUluNVhIWG5NbFZucFVoVzFRMWgyQTNkbnIyNTY1SmpzYUdKM0daWmM2UjlVUEJjdTExMXdXV0p3YmIxUEFF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781983594958",
+          "date": "2026-06-20",
+          "title": "How Much Do World Cup Soccer Players Get Paid? USMNT, England and Other Teams’ Bonuses Explained - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazVYNzVEZXZlTmpqbms2TG5SMmhTNUdRbGtwM3drMXhOek5LSDNUMTktX1gtV1NGT3V6eC1aTko1dXpGXzFMZmNpZjVGYWMyMWxvVWFLMlljOGV0Wml5SnNYMC1MazhLcXNtUFdqU1JLS1ppLWNhTHJFYi1RQ1dhWXMyckJkUGJkenpWSmVBb0NvbWdIeVF1Q2RxeWhMbW1UX24zQnR3?oc=5",
           "draft": true
         }
       ]
