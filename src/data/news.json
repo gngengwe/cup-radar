@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-20T08:56:43.799Z",
+  "lastUpdated": "2026-06-20T11:21:19.391Z",
   "articles": [
+    {
+      "id": "news-auto-paraguay-s-miguel-almiron-becomes-1st-pl-2026-06-20",
+      "headline": "Paraguay’s Miguel Almiron becomes 1st player red-carded at World Cup for covering his mouth - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVlwb1cwLWQ1b3hlTXVwZVlzV0ZaOUYwWW9SOV9xby1LYzEwRHRVY2hKLWhXeEZMNTJKTnhuQ2htcGxXOWlWQzk2cF9RN0wwLWRaM2RRcGtpamtDcTNnYWttWkE2aE43Q3RGYTFFNzY4a0FEcVVIZFBIckV3MDcyMG1pZl93dC1Jc3hjMmZZQXpVV1N3Y0d4TUF3dEJJVk43WTJ0dVpSTWl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-20",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVlwb1cwLWQ1b3hlTXVwZVlzV0ZaOUYwWW9SOV9xby1LYzEwRHRVY2hKLWhXeEZMNTJKTnhuQ2htcGxXOWlWQzk2cF9RN0wwLWRaM2RRcGtpamtDcTNnYWttWkE2aE43Q3RGYTFFNzY4a0FEcVVIZFBIckV3MDcyMG1pZl93dC1Jc3hjMmZZQXpVV1N3Y0d4TUF3dEJJVk43WTJ0dVpSTWlKRHhyaXpaSk1odzMtTG5HUnlRQ2NPZVNYVk43Y3hn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-usa-clinches-group-d-with-2026-06-19",
+      "headline": "World Cup 2026: USA clinches Group D with win over Australia after Türkiye's loss to Paraguay - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWERLV1cxMG1GQjBQVWlkd2RnTGpPbGtFRWE5ajJXR1dIWVBtS1c2a3ozaXN2V0pXbjIwX2VvS2RacndTVFVYQlV4b1BQM2pVOHFzSGZRcl9ydXRWSXZQeDNIWGlrUm9XZGFPbmRKMHhVeG5uWXFxNXZFc2NidmRaS2x2LThNNGtSRnc1Y1VxMnVsV0pfWGlweXlWdGZzV1VCYVNna0hNd2Z",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWERLV1cxMG1GQjBQVWlkd2RnTGpPbGtFRWE5ajJXR1dIWVBtS1c2a3ozaXN2V0pXbjIwX2VvS2RacndTVFVYQlV4b1BQM2pVOHFzSGZRcl9ydXRWSXZQeDNIWGlrUm9XZGFPbmRKMHhVeG5uWXFxNXZFc2NidmRaS2x2LThNNGtSRnc1Y1VxMnVsV0pfWGlweXlWdGZzV1VCYVNna0hNd2ZpdWxQR2MyMDNMVk5YY1RGeTBhenAtQ0pBcWdYY1AtWUhwaHYtU245VzJha25NeGJkVkliY254YUFENjd6U29vcFpvc3YzUjZqZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-united-states-vs-australia-highlights-20-2026-06-19",
+      "headline": "United States vs Australia Highlights | 2026 FIFA World Cup™ - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ieHF5VFhjaXM3QUtpSDNXdTlKaGwzT1JOZnJfNC1seTdUaFFqcm1ZVS1pYkMtNE84QnR3YXlkd2pZNVFRQWxPQlJIcVRMMXF6N1dsQmIyYjdvUXRFdC1xVUJ3?oc=5\" target=\"_blank\"&gt;United States vs Australia Highlights | 2026 FIFA World Cup™&lt;/a&gt",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ieHF5VFhjaXM3QUtpSDNXdTlKaGwzT1JOZnJfNC1seTdUaFFqcm1ZVS1pYkMtNE84QnR3YXlkd2pZNVFRQWxPQlJIcVRMMXF6N1dsQmIyYjdvUXRFdC1xVUJ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-fan-recalls-horror-after-uber--2026-06-18",
+      "headline": "Argentina fan recalls horror after Uber driver shot on way to World Cup match in KC - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERUR",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERURRdWhSWUlMY2k4NkVKWW50X0ZjbGlnTGlFQmM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-world-cup-gives-kansas-city-a-rare-t-2026-06-18",
+      "headline": "The World Cup Gives Kansas City a Rare Turn in the Global Spotlight - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0xfdmkwR2pENGdVVGt3bEZ0TjRuM1M1SFFObXFmN2lFbjdmS3BZSkhxSkdoLTBMMUZqbTdrRERhcFZiVTQzRURYYzNCU0VXZWVZRnZGakhrbkJ0dUFUMldGWkx0WjNHYW9VSU53bzVHMVhTZG9aaS1aRFhKeUs0cUVhcEk5OHM?oc=5\" target=\"_blank\"&gt;The World Cup Give",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0xfdmkwR2pENGdVVGt3bEZ0TjRuM1M1SFFObXFmN2lFbjdmS3BZSkhxSkdoLTBMMUZqbTdrRERhcFZiVTQzRURYYzNCU0VXZWVZRnZGakhrbkJ0dUFUMldGWkx0WjNHYW9VSU53bzVHMVhTZG9aaS1aRFhKeUs0cUVhcEk5OHM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-gridlock-kc-s-world-cup-debut-marred-by--2026-06-19",
+      "headline": "Gridlock: KC’s World Cup Debut Marred by Traffic, Saved by Messi - KC Soccer Journal",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVVtRDZSdUk4emNVMkdlUE50NmtzemxYa1ZzcHZpMVlZWjQtOHlwV2o1Nkx3Q2tNenpZSDVnQ2RWYm5CSHNHV0R5LWM3ck9Sak1CMDBDZXhYT3MyYTNKSVBKUHJ0U3dtYnVGd0VmdXJvX0Y0NnRhd2MxSi1FNnhiSVc4LTBVZG1qeHEwMUcyS09HTlNwSVh2V0hhQ3FHTURzN2hj?oc=5\" ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVVtRDZSdUk4emNVMkdlUE50NmtzemxYa1ZzcHZpMVlZWjQtOHlwV2o1Nkx3Q2tNenpZSDVnQ2RWYm5CSHNHV0R5LWM3ck9Sak1CMDBDZXhYT3MyYTNKSVBKUHJ0U3dtYnVGd0VmdXJvX0Y0NnRhd2MxSi1FNnhiSVc4LTBVZG1qeHEwMUcyS09HTlNwSVh2V0hhQ3FHTURzN2hj?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-type-of-wholesome-moments-the-fifa-w-2026-06-20",
       "headline": "The type of wholesome moments the FIFA World Cup brings - FOX Sports",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-19",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWVREQjBoeVpaZlpxZXlMYmVXcVlqMHg4NVA1c0JKMDd6YmpZTjZxTHoxQWY3NS05ZGRqaUN6WFh6WEZjN1BNWmVDc3RZdFVNVlpuWGlMWlJyWlJPTzljX19ucWZFSG5RaTZCWDY0Um9FM2NhaVo2NG9XZDYzMmZHV1REZmNpQXI0NUtTRGs3VnYyOFZWOE4tcDRGTDJRN29ibnh6TjVuR0tBMnlMOGZJTDY1S0h2Y2doT044OHdmQ0NrcThHRVhF?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-australia-relishes-challe-2026-06-19",
-      "headline": "2026 World Cup: Australia relishes challenge of playing U.S. in Seattle - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOc25pZDE1WDNScE9jVnAtMTFqWUY2V0txdDYtNndPSlZHNzIwRTVDa0hVVm9OcmF0ODlVVjV6bXJFcnV1azRIb2pJWl9Ed0hGSGp4dnE5ampVbGFyQ1FDblpsTU16RnJQSV84UEF1c2U0d2VwR0xiWk51WXBKSFVWMnFZd1cxR0lwTWFlWFBKTWMtYTNJWXhCMjc2MXpDdmZqN0toZWRXdXU",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc25pZDE1WDNScE9jVnAtMTFqWUY2V0txdDYtNndPSlZHNzIwRTVDa0hVVm9OcmF0ODlVVjV6bXJFcnV1azRIb2pJWl9Ed0hGSGp4dnE5ampVbGFyQ1FDblpsTU16RnJQSV84UEF1c2U0d2VwR0xiWk51WXBKSFVWMnFZd1cxR0lwTWFlWFBKTWMtYTNJWXhCMjc2MXpDdmZqN0toZWRXdXUwQ0RMMEY0emtZVHNZZ2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-is-usa-australia-world-cup-match-biggest-2026-06-19",
-      "headline": "Is USA-Australia World Cup match biggest sporting event ever for Seattle? - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFI2anFhZ1lDdHF1TW1VN2lJM2pDTFNsT1Y3SVhVY0xwd3U2SkVZamR3N3BXMVZULUFOaWtqWGRoQnlLUWtLSU1VLWdtbEVrVlpqOUxjeGd5YVNrSms1RC0zeV9xNzFTZnNCeHQ2aGdCV3ZXQ2NaMjJ1LVFpTXNCd2VwYXBKRG95UkEzVnNEd2ZHWEhQQVZ4ZmdhakZEeHk5NllMWmd6Q1B",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFI2anFhZ1lDdHF1TW1VN2lJM2pDTFNsT1Y3SVhVY0xwd3U2SkVZamR3N3BXMVZULUFOaWtqWGRoQnlLUWtLSU1VLWdtbEVrVlpqOUxjeGd5YVNrSms1RC0zeV9xNzFTZnNCeHQ2aGdCV3ZXQ2NaMjJ1LVFpTXNCd2VwYXBKRG95UkEzVnNEd2ZHWEhQQVZ4ZmdhakZEeHk5NllMWmd6Q1BYc3BPVW1rN0ZZbTExZzQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-reviews-fifa-world-cup-2026-tran-2026-06-16",
-      "headline": "Seattle reviews FIFA World Cup 2026 transit options after post-match congestion - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmlmOFdYNlE3R3VfZF9yTWVfZF9JdGY1VTdfU3lzSmJsWGR6MmlieWczR0YwYktwclZoT3oxbF9IRkw2X0Q3ZmJUaEdrNVhFTHp5ZGdrWmk5UnY4VzBJSGIwUFRjdG43Um9lZmhhbGFUc2gxbDVtQlhYNXg1U2JWejhndmdJdkJRcVAwZw?oc=5\" target=\"_blank\"&gt;Seattle rev",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmlmOFdYNlE3R3VfZF9yTWVfZF9JdGY1VTdfU3lzSmJsWGR6MmlieWczR0YwYktwclZoT3oxbF9IRkw2X0Q3ZmJUaEdrNVhFTHp5ZGdrWmk5UnY4VzBJSGIwUFRjdG43Um9lZmhhbGFUc2gxbDVtQlhYNXg1U2JWejhndmdJdkJRcVAwZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-fan-recalls-horror-after-uber--2026-06-18",
-      "headline": "Argentina fan recalls horror after Uber driver shot on way to World Cup match in KC - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERUR",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERURRdWhSWUlMY2k4NkVKWW50X0ZjbGlnTGlFQmPSAcgBQVVfeXFMTVRwN003REpsVXU5ZTdLTGk4VEs3UV9veW9pT1dqQ3lncFBnT3llVDl5eTB2aWpJWHJZLTMtZ0VyTU5JVFFwU2tqc2ZCWXVGa05CNWNBTDd2a3VSTEplMTluZm1NU2ljLURYQkkyRmI5Vnk5a1o2Q3JqejFuN1IxRG1zdkl3OTlIcXRVLTF0cXY2R080eUNfZ1dLckk1MlFibndQc0drLVNGTXNKNWpPZnFnQmRnTXBMdmNrTGFmUkUzV3NheGVvYzk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-qatar-loses-big-to-canada-shop-qatar-vs--2026-06-19",
-      "headline": "Qatar loses big to Canada, Shop Qatar vs Bosnia World Cup tickets - USA Today",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVBVWFdqNDlUSmVCZ2lzN21fdjJOb2FNeVJqVlZKbU9yNUNQbzg4TV9ycWVPLW13QjRZWWdPeDViRUtVd3FQQ1EySHBWWWliUVRSMVdaRDZELWx1dlRtaUgzTTV6Y09VOU9JNzhHdmFDOEt5WDRJN0ZqZFk2VDZEaVJGYlpoU1NuQ25XZ0dweEZWWGRBQk9KdVBYN3pvZUFXb2pqR21QRHp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQVBVWFdqNDlUSmVCZ2lzN21fdjJOb2FNeVJqVlZKbU9yNUNQbzg4TV9ycWVPLW13QjRZWWdPeDViRUtVd3FQQ1EySHBWWWliUVRSMVdaRDZELWx1dlRtaUgzTTV6Y09VOU9JNzhHdmFDOEt5WDRJN0ZqZFk2VDZEaVJGYlpoU1NuQ25XZ0dweEZWWGRBQk9KdVBYN3pvZUFXb2pqR21QRHpja0g4eGRBdzl3RmxlbWZVVW5FTTlwelFzRUhvbzlMVjZ5SDBWcExMQVhfak1xUTFtWU0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-much-are-last-minute-world-cup-ticke-2026-06-18",
-      "headline": "How much are last-minute World Cup tickets for USA vs. Australia in Seattle? - USA Today",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFluZFpZVzhjeGpSSHI2WUduQmxKRkxaQy10VDE3YjJYZnl4dXlOcnlVNktGZ1d1LU9UdEFmdXJqN3oxNWljdjlhM21LbFNpMVZTSmtEZTdDUy1RYzV5QkRib01INURodVkweExBaV93RjhucWItZ3pybkk4d01aNnQ3aXdnMkM4bnc1U0xFanVvMmsxSTllNTZwVDBlWjJ5QmJncGxnMk5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFluZFpZVzhjeGpSSHI2WUduQmxKRkxaQy10VDE3YjJYZnl4dXlOcnlVNktGZ1d1LU9UdEFmdXJqN3oxNWljdjlhM21LbFNpMVZTSmtEZTdDUy1RYzV5QkRib01INURodVkweExBaV93RjhucWItZ3pybkk4d01aNnQ3aXdnMkM4bnc1U0xFanVvMmsxSTllNTZwVDBlWjJ5QmJncGxnMk5qMFlfbVlkZTBlajJmRndlZFlmN3p4SVR0MTRIdE5tVDV5MFVRWHJt?oc=5",
       "featured": false,
       "draft": true
     }
