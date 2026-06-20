@@ -990,9 +990,9 @@
       "group": "E",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Germany's redemption arc begins"
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-20T19:26:29.709Z"
+  "lastUpdated": "2026-06-20T22:07:06.991Z"
 }

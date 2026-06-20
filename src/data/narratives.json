@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-20T19:26:34.958Z",
+  "lastUpdated": "2026-06-20T22:07:11.927Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -564,7 +564,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 75,
+      "chapterCount": 76,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1165,6 +1165,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnEwNkhYdmY0V0FwR0sxcmIwQy1OSnJxdS1PZ2RuNG5YdDN3LXc4aWx2RmtNV1REcGo3RWcteWRhY3NyTWotWlB4cjdJcnlKMVd0SzBJVXRZNWVnWmhPR3dESG9Mc1JWT2lvWkdSTkhOS2RubmdyRFFJaWFla09YN2w2bEtNa0I3dFVHUE9TekNXWUxQRlc2UlBkcVBmZVBWbFRVR0dWelhFNDNVa1hSYzczdmpUb2xyRVhzckxwSWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1781993230340",
+          "date": "2026-06-20",
+          "title": "Nike Creates Personalized Mercurial 2026 World Cup Boots for Kylian Mbappé's France Goalscoring Record - Footy Headlines",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWZ4OWJxbmRLQjZpejZxTEFDbDAyQTJsaEQtRnpyRk8yck0xVFdSby1IcGxpMzl5WTlPQjV6QXlpekhSZ29MTExXdXF4SnoyVnZlMFktT2Vkckwwc1NmazN6S1pTaWhnLUh0cVdnLWNMM0V6cTNZcmVIbUh6S1otNVNxTU9MYXBoWGRBN2RkU3BpV3hhX1V5c2FxS2tuZE9LNjJvZi1QWUdiZlJBWDN1NmlBMV9qYTFKbVctd1Y5OTNvcDNyUDkyc3NYLTdtS1FaQTJpT1ZyQW9WU19aV3hoa0VMOA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1183,7 +1191,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 162,
+      "chapterCount": 165,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2480,6 +2488,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnJKV3hTcjFLclpiNHA0NFhUNlI5QmtBU2MzT0FSV3Jxam5yYnRMMkxnYjBXSWJMWDlDdmZmRXBXMnlpLWdaLVJxd2tuT1NQajRuQl9CUHhmTjdFbmFUd1ZTNEZGOWM5b2g5bjhIa19UbFdGX1h6NGRMaE10Z2Y2b2lSM1N3c3B3RW9F?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781993230887",
+          "date": "2026-06-20",
+          "title": "Seattle might not be done hosting Team USA during World Cup - The Seattle Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR29iOE1ETU50eGxaQVgzT1JaRXFKZjZDMktYOE10LS0wdkxacW9lM3FjWWhjb3Z1TFI1X2p4bkZ5VEdjeklDSmw4RGdfWElvTHVVdk9NWXpJa0g0czlHZ05DRHo1Y1JDZEx1TzdHTlhMRGh5Yng1Z21xSnZSNFZ4TTUyZDBWUlFIUlV5X21WbVpqZkx6WE9FVmhudGxVS2JMR3FDOG1Fdm56UU9MQzhXTmYxXzE3QQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781993230887",
+          "date": "2026-06-20",
+          "title": "Netherlands vs Sweden Quick Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS3VyZVYzOVMybG40X3pHVV9kcWR1SVFfVlVDMUNMQ0YtdkFCOWhxN25HZWU4WWk4SjhWcVFSNC14aUlyY1htWFpFc1FsNjNiSmZPckhwTEV5Q21KWTZVZ1Vvb0dCcFozV0V6Q3hR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1781993230887",
+          "date": "2026-06-20",
+          "title": "Take me home: why Country Roads has struck a chord at the World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWdSTFhha3NKRC10UU5pUzVlakljN09nOUk0ajZrMmJDNHJ0MjdJa0llZzlUYnNadnRzcnBOUnM0OWRYc1dnd1l2b010Z042NmFIZWtSN3BRZ29aSlk2UmNwTmxIdE5GNlNkZEx0bXJYYVdCNU50bF9ycGdIdUdtNDEyTU9YNE5vVEZ5TFpSa21Rc3V3YWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2498,7 +2530,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 172,
+      "chapterCount": 176,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -3875,6 +3907,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXpObGZLTUM1bHZCVUUtQzFLQllCZE04YnQ2Nk9aQ0wxdkZHRkNDZ3h0bE8xUzdYOG0tSnpnSmNWaU9ldGpWMF90LUpSR2tlM2ZOT0xIVUNoYzlKVUFXTmhXemZmX2l6elJYeko4dldVZTlYUWlwZ2FKaXlUQjR5cTR3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781993231486",
+          "date": "2026-06-20",
+          "title": "Brazil confirm Raphinha hamstring injury; World Cup return uncertain - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbE1Fc0pzcFFZWUdzVXFGMGRtbkU1MUt1QVI5UGI0Q3k2bEFFbTg2RlRnNE16UlB6V3JUZDB3RDdadjJEXzZJalo0VDlmM01YSUVseGoyNUZOSjIzQXlnNkRQSG9pRDBaMzdIcnZnRVRDUFM2YTdDSDNZeWRlQTZ1MndHT0hWVHlrank4b01icTgwcjZJMlFSRTZ1c0hKSVNUeGlWZHBtV0Q5NnlfeVhSczI4SUNBcUx2UUo2WkdidmFoY2JoSEdR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781993231486",
+          "date": "2026-06-20",
+          "title": "Raphinha receives good news after Brazil star undergoes scans on injury in wake of Haiti win - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTEtGUlZWcmlhMDBXQTZaUzZEclk5Mmd2MGJXYmtjOEdlSWxNQ09EWnpqYVo2NTZtR3JaX08xdHVzcmZHX0JmdDd3WVhraGNwLVd4QVNxTXhrc3JqS2t4bkZtTWI1aVZub3c0ZlVWblBtSk5WMmMzRVo4aTV3QWtVb3pVUjR5WFA5ZlJZbUdxLXlfbjB1bV80b2Z6UmpYckpWbko1bzRFWVJvZXRITFlxUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781993231486",
+          "date": "2026-06-20",
+          "title": "Raphinha statement issued by Brazil after Barcelona star sustains injury at World Cup 2026 - Barca Blaugranes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNalRfaTdFRTM3RGpxRkVHT1BlSW1kbXZ1OGVseXgyNjZSTXpuY0lZNFN1YTQ3eTI0RnJVM2YzWlVZWGVMczU3X054b2dTRUY5U1pwQUthdVc0Mi0teE9OQjU2N19HTnk1YWt4NEViOEZRUW10M2x2cFd2QUtKUV9CTURSckdQcUhnTUdrclhnMW9ja29hWjJaNzEwUUFad0xVMFpMU1VYSmZWUGFFTWV0UWRHT3Y1a2lHMFJyZmJfSlV3dlVCeDFwT1pMWm9KcEhtd0hWdkgtM0QyS0k0dFYzWGQ0cw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1781993231486",
+          "date": "2026-06-20",
+          "title": "Scotland loves Boston and Boston loves Scotland for 2026 World Cup - Yahoo Sports Australia",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3pBZkU0ZHJVemZyak5oNHZiR0tLNGpZOEdRdkgyZ2FvLU0yU19qWEU1dkpZNWt6RjhvZmQ0S1JTbnV0dDdMMm52VWRScW5qeGhOdUZJTVYyNF8zZjBzaWZ1dkEzQWdrRXo4Znk4eWRyLTF0YTZKbXZLV2FRQ2YzeTRsTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4008,7 +4072,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 181,
+      "chapterCount": 182,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -5456,6 +5520,14 @@
           "title": "How Much Do World Cup Soccer Players Get Paid? USMNT, England and Other Teams’ Bonuses Explained - Sports Illustrated",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazVYNzVEZXZlTmpqbms2TG5SMmhTNUdRbGtwM3drMXhOek5LSDNUMTktX1gtV1NGT3V6eC1aTko1dXpGXzFMZmNpZjVGYWMyMWxvVWFLMlljOGV0Wml5SnNYMC1MazhLcXNtUFdqU1JLS1ppLWNhTHJFYi1RQ1dhWXMyckJkUGJkenpWSmVBb0NvbWdIeVF1Q2RxeWhMbW1UX24zQnR3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1781993231927",
+          "date": "2026-06-20",
+          "title": "Jude Bellingham: Why singing national anthem means so much to me - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG5MMS1WQlZGNEVHR2ZCTkkzZXRRTXYyazdNbmdSWVRKSFJWZi1qRm9QaGlob05GY1lYTFB5bUVWNi05UUs2QW1oWmxqWFNvNm13WDBsSjNBUTdMUEk2aThsNDBvTFVyXy05V3A2RzUxLWJabzFJYS13Qml5d1FVSk5tRkk2aUZFSGFTaXJFanFiR2l3dVBvM0JUM24tcVZ3dXhvLWxuMEVGUQ?oc=5",
           "draft": true
         }
       ]
