@@ -724,8 +724,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "finished",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "goals": [
         {
           "minute": 21,
@@ -917,7 +917,7 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
       "awayScore": 1,
       "seattleMatch": false,
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-20T03:40:45.242Z"
+  "lastUpdated": "2026-06-20T08:56:40.950Z"
 }
