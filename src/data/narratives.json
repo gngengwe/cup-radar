@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-20T22:07:11.927Z",
+  "lastUpdated": "2026-06-21T04:14:15.491Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1191,7 +1191,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 165,
+      "chapterCount": 169,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2512,6 +2512,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWdSTFhha3NKRC10UU5pUzVlakljN09nOUk0ajZrMmJDNHJ0MjdJa0llZzlUYnNadnRzcnBOUnM0OWRYc1dnd1l2b010Z042NmFIZWtSN3BRZ29aSlk2UmNwTmxIdE5GNlNkZEx0bXJYYVdCNU50bF9ycGdIdUdtNDEyTU9YNE5vVEZ5TFpSa21Rc3V3YWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782015254544",
+          "date": "2026-06-19",
+          "title": "World Cup 2026: USA defeats Australia 2-0 to advance to knockout round despite Christian Pulisic absence - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZkRwblF5VFpfU2hHVlZlMm5yUnRlOGk4VV81akd5eVVKeVFZdUJIQ1JPNlBaSVZ5ZWROc2I1aFhObnlac2h0OE9PVnZEWU43YTVLOEVBSFd6cWNWYXBJVGFKb2hiMGV1V0JPZ3JrVjN5RXdoc0R5VFhLbjBvNXJLaXZVTkNxVUZ1dUhzcWhjYmpfOW5RZjM2ZXNqemNvUUZ5THpzdUk2M0pnUHVpRmFTb0loRHE2VjlCMEpxSy1EVGRuT2QtOVVhcklTSEhFSUw4Ni03UFRTM3cxTWlXWjBwMU01WG13dUVFdFpEdHhsUEhMUkxTaGpNelZJTlZaR3pvaVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782015254544",
+          "date": "2026-06-21",
+          "title": "Did Eloy Room just tie ‘Secretary of Defense’ Tim Howard’s disputed World Cup saves record? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOXzBDbmtpMDR6dzZLQlZQbC1XaDhyR2E2ZFBfa0VReERpZVZQTVc4RFk0V190QWtlbGVJSzFtRnppNjhXT2Z0M1YtaVlsbEIwSGZVclFXWXUtUWs0anpoQlV2WjZ0UUpnT1FjQXcxVFFVT0FlMEFDWE5uSzljTVFJUDRMQU8zVjVnbnlv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782015254544",
+          "date": "2026-06-20",
+          "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON213bm9JVUNhZTlIaHV6a0FpVHB4SWFxSEVwYkRxdVgzSW9SVVdDY3cxejlnSFBsTHF1ZHRLc1dTMGpHTk1Bd2ZzMnB0Sms0NXVzUlNDSHlGU0tPcENlMnljams5WHJOUHpqY3ZjRTNJS2didnJRTHFsdHdCc2JfZ3lFM1ByMmhtTU1qaDk3b1Jldl9MWDlKODNLS1BaeFJBdzJSU3QyenpHQXFfUzY2Mkw3a0TSAboBQVVfeXFMT1hvalZtYVlwa0dDd01MWk4yeVpyYi1ncHJFN05rM3pscVl0UzQ5TG9uZjFtZjFob1loLUN2STl5MjBFV1N6S3ptNWdfNkE4NHJFY1VuYkJ5MWhOZU9qWUhYYkY0dmNNU3FxbDF5Ry1zM1pZbGRQTkhleHYteVVuTWtFc0g3UjdYWDhxSVRpb2hXMVNkaHgwVWFSYnZkcnM4d3ItWm1iR0Q3VEdubWgwRm9LZU93TldHZm9R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782015254544",
+          "date": "2026-06-12",
+          "title": "World Cup 2026 live updates: US locks up Group D top seed; knockout game set in Santa Clara - ABC7 Bay Area",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTHRDYi1qTlFHYWl6dE9HUmxZVExXOTJTZXBqU3FyQkQ4UjZQZEJ5TjdNUjVNRllCN1JVbUxER01zNlkteTZvZXpVSVlfRnk4MXlfV09yWXhfN0lCWEtTb1puMFFwSXFYLUk1TTJ4QUtLVjFLRlRONHlBRHRId2hrLTYxeF9idjlvYjdHT0h5Vm1OMHFkZ09FczdBYlVEb1FacEpUYmcwMU5DRzFKbTVVNHV4MExudzVFUDg1UGdRN2RKLVBZWmRzZFBmazlqTUR1dWdOdnJn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2530,7 +2562,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 176,
+      "chapterCount": 179,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -3939,6 +3971,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3pBZkU0ZHJVemZyak5oNHZiR0tLNGpZOEdRdkgyZ2FvLU0yU19qWEU1dkpZNWt6RjhvZmQ0S1JTbnV0dDdMMm52VWRScW5qeGhOdUZJTVYyNF8zZjBzaWZ1dkEzQWdrRXo4Znk4eWRyLTF0YTZKbXZLV2FRQ2YzeTRsTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782015255029",
+          "date": "2026-06-19",
+          "title": "2026 World Cup Bracket, Standings: Where The USA Stands; Germany Qualifies - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTZUYkIxYkNXUjhDLVVyT1ZadFNKUER5VUVfa3hTdkNobTVYc1o1aXhYc1h6MGFESDFsUVJHZWFlTWhjdThZaHgzM3kxTEFldTZxVzJKREhScV9LbHBSbGZBVmJkeGJmZW1JSU85VlVXXzhReVlVTVRZSVhRd2s3SzhxOULSAYQBQVVfeXFMTzlYb18taUZudkptaUtGd1BpWkVmUG83X2Z5QXg0cGxuMFFQek1pMGtoS19kZFZYUmNvSE1pRUdXa3QtZEVOVmh5dDNhaUwtdEVHNlRQUnFKV1Nqa1pPZ0pjX2ZxaGp5M3dYV3ZVV3ZuVVJfdVV3V012bVh3em9yaFJlaDI4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782015255029",
+          "date": "2026-06-20",
+          "title": "World Cup still waits for real Brazil to show up - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2RFNidHQtYjBZVmZFcDJGZXpPQ3NWbk9UUjBxS0VROElLanZmc09LUG41NURFa0x6Z0xtTUlNZEpYMFMzRG1HaFFvekduZ1pRTG5ES1F3WElFblRqSnlndlNUQXJiYms?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782015255029",
+          "date": "2026-06-20",
+          "title": "World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk9lVmMwUGVMN1pWaVl4TkxpNFd1bExDTTBzanNreFFqb2pReURYd2hqTS14bTc0YWt1UGI3OTJ4YnRia1BKQU5RYjFidUVLN3IwUmw3cFVWZTZfLU44LThlMEFRem1xXzhZRjItTHRLbjZULUJ3VG5SN2lrYWNMZ08wVDA1cHNtRE1aR21wWHZSTVF4cW04TVJQM1B1T3JjempYS2JxRXZZYTdEUUpNdFpfcFhad9IBuwFBVV95cUxOaVRQWWcyNG84X2QzTmxjM2JOdmV2VzlaVXdhUVBidmlaRjhzOGljck03OXpORDJnbVdnVkp0Um5JVTFSTHYzQWtlQ3BwU296S3hhME90eUd0SjM4Zl9hNG9kV3g4TE9kTE5tWnJVZEFRUHdVTFFRc1IyaEszc2lwY2FtQ3RJWElqNHA2Y1p4b3d3bkE3b0VJVW53OHBNSFFRelk0SlMxZFFxWDFLX1NKV1N1Z1E2akszRDJj?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4072,7 +4128,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 182,
+      "chapterCount": 185,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -5528,6 +5584,30 @@
           "title": "Jude Bellingham: Why singing national anthem means so much to me - The Telegraph",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG5MMS1WQlZGNEVHR2ZCTkkzZXRRTXYyazdNbmdSWVRKSFJWZi1qRm9QaGlob05GY1lYTFB5bUVWNi05UUs2QW1oWmxqWFNvNm13WDBsSjNBUTdMUEk2aThsNDBvTFVyXy05V3A2RzUxLWJabzFJYS13Qml5d1FVSk5tRkk2aUZFSGFTaXJFanFiR2l3dVBvM0JUM24tcVZ3dXhvLWxuMEVGUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782015255491",
+          "date": "2026-06-21",
+          "title": "HISTORY for Curaçao 🇨🇼 Eloy Room Makes 15 Saves Helping Curaçao Earn First FIFA World Cup™ Point - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UX0YwSnYwNUh3MjJwRDNHcFQ3Z3B0OVZfQUJPNk9vaHh4bTFxNnlSR1pWb3ZvWDM1cWxXN3JlOVN6OEI1UjhlVTJuSFZ6eXQtZ251bzdyOS0tczZpc2RyNlBn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782015255491",
+          "date": "2026-06-21",
+          "title": "Did Harry Maguire change careers after not being called up for the 2026 World Cup? - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRW03OUtDcVFHbVVCTlNrTTNsci1LOWtVNkU0OE91S1N5QkE4SnpuTWJpS1R6Si00TXJka1dsNWVJeUJocHJLVURnUGpaaGxTSW1RSS1CVmUxM0wxYkU0UHhLNXY1dzhNMnAzcDdCQWJaT2o1U3drV0h2MXJrWF9UbS01T2E4WGtoSzFYZ2p2akJWdnhvNlpGTFJ3Y2dpdU1XVnlUNkJZOG1MVUdQV2RuVEZaem1aa1B6SmRjYVN3a3ZDRE0wZXc2eFJ0RQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782015255491",
+          "date": "2026-06-21",
+          "title": "Jameis Winston Meets Harry Kane & Gets Knighted at England vs Croatia | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1ejlBNVpIUC1uREhJY1FiZGd6a3Z2aVhHRExpc3FiaE5HTG9yR3R6YlZwNDZ3bWV2THpxZnhRZ2ZwUDY1N1ZYVTc5STdBQldjU1Q4SkY0RC1PQW9GdWFsMFhR?oc=5",
           "draft": true
         }
       ]
