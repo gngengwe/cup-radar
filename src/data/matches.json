@@ -1484,9 +1484,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 3,
+      "awayScore": 0,
       "atlantaMatch": true,
       "notes": "Spain vs Saudi Arabia — Group H at Mercedes-Benz Stadium"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-21T09:50:17.275Z"
+  "lastUpdated": "2026-06-21T16:45:25.660Z"
 }
