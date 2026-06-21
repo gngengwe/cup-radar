@@ -1,7 +1,128 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-21T19:41:43.192Z",
+  "lastUpdated": "2026-06-21T22:15:09.253Z",
   "articles": [
+    {
+      "id": "news-auto-dutch-on-the-charge-but-farewell-tunisia-2026-06-21",
+      "headline": "Dutch on the charge, but farewell Tunisia. Re-ranking the 48 World Cup teams after day 10 - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPblFlVVJhV29vQi1sYnVmNXRndU5vTmY0OEVqMkprOC1nV200bENpVXNkb2lxbjZVbGR0SFREMHl6dmhRRnNHT1lyTi1YZGpWV2hVcExrSjlNdjVGSDZXN3FFS0s5ZjMzal85WXlqTm1pX1p5d3RHZC1GaVZoelEyU1hZQ1E5aUk?oc=5\" target=\"_blank\"&gt;Dutch on the charg",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPblFlVVJhV29vQi1sYnVmNXRndU5vTmY0OEVqMkprOC1nV200bENpVXNkb2lxbjZVbGR0SFREMHl6dmhRRnNHT1lyTi1YZGpWV2hVcExrSjlNdjVGSDZXN3FFS0s5ZjMzal85WXlqTm1pX1p5d3RHZC1GaVZoelEyU1hZQ1E5aUk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-yamal-nets-dream-1st-world-cup-goal-as-s-2026-06-21",
+      "headline": "Yamal nets 'dream' 1st World Cup goal as Spain answer critics - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmdrMmVaQnZWSWxFUURSakwtV1lwaW5WRDFPd3ZvaXlOdWtfdFQyWWJxR2stcTM1dlloM0VRTGlYbERqaXp6QUpPNy1HM2FuWV83NkhtUFpPWGJhUkZmdTktUFl6X3lYVk9nRFRnUTNLTzRZSnNHSUJMcVkxUV9GVVRkWmtWN09JcHd1VzYtLWlTMnBCb0pFV3EzRkNuc0I0N005QzhRaFJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmdrMmVaQnZWSWxFUURSakwtV1lwaW5WRDFPd3ZvaXlOdWtfdFQyWWJxR2stcTM1dlloM0VRTGlYbERqaXp6QUpPNy1HM2FuWV83NkhtUFpPWGJhUkZmdTktUFl6X3lYVk9nRFRnUTNLTzRZSnNHSUJMcVkxUV9GVVRkWmtWN09JcHd1VzYtLWlTMnBCb0pFV3EzRkNuc0I0N005QzhRaFJlNWJZdGFF?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-plays-flag-football-against-iranian-2026-06-21",
+      "headline": "FIFA plays flag football against Iranian protesters - Politico",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJ2c3VubVRYUEZTd3kwamZqNl9ZZjRid2R2MXVqbVU1S0FLQWxDdENzaEpVWl8xNWg5Y2JYeW0tU0hsUlkyeVdCTDYxWnluZHhxX1NYcG0xY2RaZmozNllCb19kR1lLejgxa2luTWRsUHRTZDgzbEdkcUZEejJmQ3pyTG9tRGdCQ3FMRTYwZm55TW5sSFdVd1A1aWFQV0szcjJxbzlmSHN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJ2c3VubVRYUEZTd3kwamZqNl9ZZjRid2R2MXVqbVU1S0FLQWxDdENzaEpVWl8xNWg5Y2JYeW0tU0hsUlkyeVdCTDYxWnluZHhxX1NYcG0xY2RaZmozNllCb19kR1lLejgxa2luTWRsUHRTZDgzbEdkcUZEejJmQ3pyTG9tRGdCQ3FMRTYwZm55TW5sSFdVd1A1aWFQV0szcjJxbzlmSHNzSXM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-team-stats-fifa-world-cup-2026-fifa-2026-06-21",
+      "headline": "Team Stats | FIFA World Cup 2026™ - FIFA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUktGbUVTS0N4aU8zZ1Y4Zk5QX1k4enRzRlBOWW1PdC10cGdsaHhHcGlDczFvUi1fR2RaazdQR2ZLajRPRE5QamJQaVlBQVhHR2IwajREbVJMcGozNDUtV01kU2JqVXZmUndwZFM2S1E2VjRqazdQT3dqWlZkbDRWVHlkRHBhZ1paTkZkZkJJYU5jZjU2LXk0bmFBQWc?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUktGbUVTS0N4aU8zZ1Y4Zk5QX1k4enRzRlBOWW1PdC10cGdsaHhHcGlDczFvUi1fR2RaazdQR2ZLajRPRE5QamJQaVlBQVhHR2IwajREbVJMcGozNDUtV01kU2JqVXZmUndwZFM2S1E2VjRqazdQT3dqWlZkbDRWVHlkRHBhZ1paTkZkZkJJYU5jZjU2LXk0bmFBQWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-former-u-s-goalkeeper-tim-2026-06-21",
+      "headline": "World Cup 2026: Former U.S. goalkeeper Tim Howard believes it's 'literally impossible' for USMNT to win tournament - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVZfZWtYRWdKMmhsQk9GaUFkZWYxTkpUaTA1dl91YVpkUm1tcDc1WnphcjdWek1xUkthVlRjdmRLX1NWZkZzZERLVmkxbWUtSmtMVWI4QXpUZ0JkWF9RMDdkdmNqNmN0bXpvVXBUN3E1ZnlDZkhWZ2xPNVBtY0ZsNkFGNlpfNjlTMlJneldXUkhHS2pCcFg2UGNtcjk3YU1uX19KZnFNbWx",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVZfZWtYRWdKMmhsQk9GaUFkZWYxTkpUaTA1dl91YVpkUm1tcDc1WnphcjdWek1xUkthVlRjdmRLX1NWZkZzZERLVmkxbWUtSmtMVWI4QXpUZ0JkWF9RMDdkdmNqNmN0bXpvVXBUN3E1ZnlDZkhWZ2xPNVBtY0ZsNkFGNlpfNjlTMlJneldXUkhHS2pCcFg2UGNtcjk3YU1uX19KZnFNbWxxdjdNcVZ6Ml8tUG9uS0p2dk00X3RIYW80SFNUYXhjS1hIaE41UF9wRGFkb2NFcGJ4RWw5ZUNfZ2EweXpQd2JRYmlxWEltOTBudHZCOHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--out-of-hand-paraguay-coach-alfaro-vents-2026-06-21",
+      "headline": "'Out of hand': Paraguay coach Alfaro vents at World Cup's business elite - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOR05paUNXRGQ1R0VTYUZfWVBvUmx6aWRsTWttcHlhNEkyLWw5OHQzVnllRXFtTVRtSFRZQkV2a0RUaGxUQ0ZqYnEtOWJVYTBBSklKb1JJazhfcW5RS1NwVjJNeHpDSDdhZXVBOF9vaVV4bHBjN1oxcFFVYzFyQmNZeWJ1MG5YdWtaam1xcWFrWGUwUW5LQU1PUWlhcTBiU0V3cUIyRThzTTB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-21",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR05paUNXRGQ1R0VTYUZfWVBvUmx6aWRsTWttcHlhNEkyLWw5OHQzVnllRXFtTVRtSFRZQkV2a0RUaGxUQ0ZqYnEtOWJVYTBBSklKb1JJazhfcW5RS1NwVjJNeHpDSDdhZXVBOF9vaVV4bHBjN1oxcFFVYzFyQmNZeWJ1MG5YdWtaam1xcWFrWGUwUW5LQU1PUWlhcTBiU0V3cUIyRThzTTBiNjFGLTZzbXRn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-might-not-be-done-hosting-team-u-2026-06-20",
+      "headline": "Seattle might not be done hosting Team USA during World Cup - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR29iOE1ETU50eGxaQVgzT1JaRXFKZjZDMktYOE10LS0wdkxacW9lM3FjWWhjb3Z1TFI1X2p4bkZ5VEdjeklDSmw4RGdfWElvTHVVdk9NWXpJa0g0czlHZ05DRHo1Y1JDZEx1TzdHTlhMRGh5Yng1Z21xSnZSNFZ4TTUyZDBWUlFIUlV5X21WbVpqZkx6WE9FVmhudGxVS2JMR3FDOG1Fdm5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-20",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR29iOE1ETU50eGxaQVgzT1JaRXFKZjZDMktYOE10LS0wdkxacW9lM3FjWWhjb3Z1TFI1X2p4bkZ5VEdjeklDSmw4RGdfWElvTHVVdk9NWXpJa0g0czlHZ05DRHo1Y1JDZEx1TzdHTlhMRGh5Yng1Z21xSnZSNFZ4TTUyZDBWUlFIUlV5X21WbVpqZkx6WE9FVmhudGxVS2JMR3FDOG1Fdm56UU9MQzhXTmYxXzE3QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-us-vs-australia-world-cup-updates-scores-2026-06-19",
+      "headline": "US vs Australia: World Cup updates, scores, highlights - FOX 13 Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2VZWnJuRWdycXdDZXc5NzVYQzBHa2VMYzJhb1JJNENSTmNrVnNrSFdqYXFLUkI1TnFsUmd2c2tJaXhsYzViVy1wNlNMWUhCeTVXQXBsdVVMX3NLWldhRzEwSHlidldUdWp5OGVmWVFkUzVwUDg2TVFjanZKSVMwbA?oc=5\" target=\"_blank\"&gt;US vs Australia: World Cup ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2VZWnJuRWdycXdDZXc5NzVYQzBHa2VMYzJhb1JJNENSTmNrVnNrSFdqYXFLUkI1TnFsUmd2c2tJaXhsYzViVy1wNlNMWUhCeTVXQXBsdVVMX3NLWldhRzEwSHlidldUdWp5OGVmWVFkUzVwUDg2TVFjanZKSVMwbA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-guide-match-day-parking-gate-o-2026-06-16",
+      "headline": "World Cup guide: Match day parking, gate opening times, more at Arrowhead Stadium - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWp5NVF3eWlMdTRXdmdPNjhjNVZHYmNkMnQ4MFo0T04yakF2M2RBdC0zT0pUbHZtdU5RT3NHRDIzcVVrMkhHYzB5dkJBSXZwMFVoTElrYXBOdmpYY25HUzg3MjRFdGdqUzFIR2ZxUVp2cklrWEg4amlKdTFwWmtKRi1HQm9DTWFzQUFGQXEyaXEwS3R5M0JDTFkxd1lNc2Y0QUdUNXpVZmn",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWp5NVF3eWlMdTRXdmdPNjhjNVZHYmNkMnQ4MFo0T04yakF2M2RBdC0zT0pUbHZtdU5RT3NHRDIzcVVrMkhHYzB5dkJBSXZwMFVoTElrYXBOdmpYY25HUzg3MjRFdGdqUzFIR2ZxUVp2cklrWEg4amlKdTFwWmtKRi1HQm9DTWFzQUFGQXEyaXEwS3R5M0JDTFkxd1lNc2Y0QUdUNXpVZmnSAa4BQVVfeXFMTTNpaWRBNzdPTmRNMXBKcXhxYTRybE85SlZQWTh1ZUsxQk9yM1UtdnNSRThab2Z1TThWZkp0bEQ4dnlmd2lLQTRiN0pRQUJKcXRrODdpSDFRYWM2bGttd05wSHUzV1NGQWREYVd6UF9kYTFUclpSeEM0VF8ySk4ySGpRcEhKcnFLZTJfZThtdC1PU00wMk1nM2pZQlRPN1VUV2RULXBOelNoTU0zVldn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-debuts-as-a-world-cup-city-w-2026-06-17",
+      "headline": "Kansas City debuts as a World Cup city with Argentina-Algeria match. Here's what we saw - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVNLM0ljamlzdDdiNFVORFp5TlBBVWg3anl4VnpsbExyMnF4X2RfbGEyZGFYUVkzVTF5OTNfaC1POVhDZDNDRnFhWkFTTldWUzhMUjN3WEI0U25ZaHZTTWJsNU1RRkhvUUh4Xy1USkYzWm5rOFZibDZBOWNBSW1jRDd6WDlqaDRRa1AxbnVldVNzenZiblNv?oc=5\" target=\"_blank\"&",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVNLM0ljamlzdDdiNFVORFp5TlBBVWg3anl4VnpsbExyMnF4X2RfbGEyZGFYUVkzVTF5OTNfaC1POVhDZDNDRnFhWkFTTldWUzhMUjN3WEI0U25ZaHZTTWJsNU1RRkhvUUh4Xy1USkYzWm5rOFZibDZBOWNBSW1jRDd6WDlqaDRRa1AxbnVldVNzenZiblNv?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-will-lionel-messi-erling--2026-06-21",
       "headline": "World Cup 2026: Will Lionel Messi, Erling Haaland, Cristiano Ronaldo, Harry Kane and Kylian Mbappe break records? - BBC",
@@ -978,127 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-17",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU9hNUZDVlJBd3Vybnh2LXA3Q2lacEFpTlpPRU5jYTh4dFVHUk9Dc3ZpQXNXQ1prY2pOWEpDbFFsdC1jVUlZVnNXVkNSeEJzRVg4QTdjRmU4SDZ6ZHU0VUNubW0zQzBLT09idjVBbjFQYlFldER5ZTV4ejFzR3dYaVlMZENfVHNUbmFRTDFXTHptSVlOUEVoUTc1WFVRV2NIU1FsT0p2SHU2aTg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--arrowhead-nightmare-bus-takes-more-than-2026-06-17",
-      "headline": "‘Arrowhead nightmare’: Bus takes more than an hour to get to World Cup in KC - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NUDZ6MDZHQndtVF9ycXZQNmc4bzJqWE1SLTE0NUZQYWRPV2dyQ2NNN1pFdGRZalhpdGVqTW40bGM2Mmw3V2did1JqcUt0SXFXTldLZUdncXVmaEp3V0swNWhXT0t1aXd4eDkyaGNnVktTenB0X0VMZnh30gF6QVVfeXFMT1l3bUtLRlVaeWF2SlhJdVZITWRjcDBjcUNxUU5MT19wWHdIa21",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NUDZ6MDZHQndtVF9ycXZQNmc4bzJqWE1SLTE0NUZQYWRPV2dyQ2NNN1pFdGRZalhpdGVqTW40bGM2Mmw3V2did1JqcUt0SXFXTldLZUdncXVmaEp3V0swNWhXT0t1aXd4eDkyaGNnVktTenB0X0VMZnh30gF6QVVfeXFMT1l3bUtLRlVaeWF2SlhJdVZITWRjcDBjcUNxUU5MT19wWHdIa21Gal9mTEp0MnVZbExZeF9iMUdzLThmSUpsRmstbXRLdVpEWEJGZzlmR25YeXRpWDRvbmRMb1hROHRZaHFadHJDZDhxMmw2U0NRLTY1N3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-paraguay-s-miguel-almiron-becomes-1st-pl-2026-06-20",
-      "headline": "Paraguay’s Miguel Almiron becomes 1st player red-carded at World Cup for covering his mouth - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVlwb1cwLWQ1b3hlTXVwZVlzV0ZaOUYwWW9SOV9xby1LYzEwRHRVY2hKLWhXeEZMNTJKTnhuQ2htcGxXOWlWQzk2cF9RN0wwLWRaM2RRcGtpamtDcTNnYWttWkE2aE43Q3RGYTFFNzY4a0FEcVVIZFBIckV3MDcyMG1pZl93dC1Jc3hjMmZZQXpVV1N3Y0d4TUF3dEJJVk43WTJ0dVpSTWl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVlwb1cwLWQ1b3hlTXVwZVlzV0ZaOUYwWW9SOV9xby1LYzEwRHRVY2hKLWhXeEZMNTJKTnhuQ2htcGxXOWlWQzk2cF9RN0wwLWRaM2RRcGtpamtDcTNnYWttWkE2aE43Q3RGYTFFNzY4a0FEcVVIZFBIckV3MDcyMG1pZl93dC1Jc3hjMmZZQXpVV1N3Y0d4TUF3dEJJVk43WTJ0dVpSTWlKRHhyaXpaSk1odzMtTG5HUnlRQ2NPZVNYVk43Y3hn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-usa-clinches-group-d-with-2026-06-19",
-      "headline": "World Cup 2026: USA clinches Group D with win over Australia after Türkiye's loss to Paraguay - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWERLV1cxMG1GQjBQVWlkd2RnTGpPbGtFRWE5ajJXR1dIWVBtS1c2a3ozaXN2V0pXbjIwX2VvS2RacndTVFVYQlV4b1BQM2pVOHFzSGZRcl9ydXRWSXZQeDNIWGlrUm9XZGFPbmRKMHhVeG5uWXFxNXZFc2NidmRaS2x2LThNNGtSRnc1Y1VxMnVsV0pfWGlweXlWdGZzV1VCYVNna0hNd2Z",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWERLV1cxMG1GQjBQVWlkd2RnTGpPbGtFRWE5ajJXR1dIWVBtS1c2a3ozaXN2V0pXbjIwX2VvS2RacndTVFVYQlV4b1BQM2pVOHFzSGZRcl9ydXRWSXZQeDNIWGlrUm9XZGFPbmRKMHhVeG5uWXFxNXZFc2NidmRaS2x2LThNNGtSRnc1Y1VxMnVsV0pfWGlweXlWdGZzV1VCYVNna0hNd2ZpdWxQR2MyMDNMVk5YY1RGeTBhenAtQ0pBcWdYY1AtWUhwaHYtU245VzJha25NeGJkVkliY254YUFENjd6U29vcFpvc3YzUjZqZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-united-states-vs-australia-highlights-20-2026-06-19",
-      "headline": "United States vs Australia Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ieHF5VFhjaXM3QUtpSDNXdTlKaGwzT1JOZnJfNC1seTdUaFFqcm1ZVS1pYkMtNE84QnR3YXlkd2pZNVFRQWxPQlJIcVRMMXF6N1dsQmIyYjdvUXRFdC1xVUJ3?oc=5\" target=\"_blank\"&gt;United States vs Australia Highlights | 2026 FIFA World Cup™&lt;/a&gt",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ieHF5VFhjaXM3QUtpSDNXdTlKaGwzT1JOZnJfNC1seTdUaFFqcm1ZVS1pYkMtNE84QnR3YXlkd2pZNVFRQWxPQlJIcVRMMXF6N1dsQmIyYjdvUXRFdC1xVUJ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-fan-recalls-horror-after-uber--2026-06-18",
-      "headline": "Argentina fan recalls horror after Uber driver shot on way to World Cup match in KC - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERUR",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWhvcENyTHpMbFBqTVQwYWl0ZjlVV2xLLTNPREsyWm9pc1k4VjJiNENBaENGeXR5X2JyYU5FdHoxM3paV3RKZHhGQnZDSzlyWXQ3ZmJQWWNsSlRwTmdENFBYS0ZwT0hrYk1vc3hYNjZXWEZ6TWlWQk83UFJObi1DV2ltN0xxaU83OXFJSnhaOVRuelhGWjU2UkJWclVwb3RBMHNtLVRERURRdWhSWUlMY2k4NkVKWW50X0ZjbGlnTGlFQmM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-gives-kansas-city-a-rare-t-2026-06-18",
-      "headline": "The World Cup Gives Kansas City a Rare Turn in the Global Spotlight - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0xfdmkwR2pENGdVVGt3bEZ0TjRuM1M1SFFObXFmN2lFbjdmS3BZSkhxSkdoLTBMMUZqbTdrRERhcFZiVTQzRURYYzNCU0VXZWVZRnZGakhrbkJ0dUFUMldGWkx0WjNHYW9VSU53bzVHMVhTZG9aaS1aRFhKeUs0cUVhcEk5OHM?oc=5\" target=\"_blank\"&gt;The World Cup Give",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0xfdmkwR2pENGdVVGt3bEZ0TjRuM1M1SFFObXFmN2lFbjdmS3BZSkhxSkdoLTBMMUZqbTdrRERhcFZiVTQzRURYYzNCU0VXZWVZRnZGakhrbkJ0dUFUMldGWkx0WjNHYW9VSU53bzVHMVhTZG9aaS1aRFhKeUs0cUVhcEk5OHM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-gridlock-kc-s-world-cup-debut-marred-by--2026-06-19",
-      "headline": "Gridlock: KC’s World Cup Debut Marred by Traffic, Saved by Messi - KC Soccer Journal",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVVtRDZSdUk4emNVMkdlUE50NmtzemxYa1ZzcHZpMVlZWjQtOHlwV2o1Nkx3Q2tNenpZSDVnQ2RWYm5CSHNHV0R5LWM3ck9Sak1CMDBDZXhYT3MyYTNKSVBKUHJ0U3dtYnVGd0VmdXJvX0Y0NnRhd2MxSi1FNnhiSVc4LTBVZG1qeHEwMUcyS09HTlNwSVh2V0hhQ3FHTURzN2hj?oc=5\" ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVVtRDZSdUk4emNVMkdlUE50NmtzemxYa1ZzcHZpMVlZWjQtOHlwV2o1Nkx3Q2tNenpZSDVnQ2RWYm5CSHNHV0R5LWM3ck9Sak1CMDBDZXhYT3MyYTNKSVBKUHJ0U3dtYnVGd0VmdXJvX0Y0NnRhd2MxSi1FNnhiSVc4LTBVZG1qeHEwMUcyS09HTlNwSVh2V0hhQ3FHTURzN2hj?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-type-of-wholesome-moments-the-fifa-w-2026-06-20",
-      "headline": "The type of wholesome moments the FIFA World Cup brings - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFByNWNNNFk2ZVVqU3RaV0JpZFduY0NjZUgtdVFYRHBNRkpVeVNlRXJ5c1RkRHZfWjhCcG5GcGlseWdJdTBSSVdLTmN4MmVRakFPU0dmN2FWMEhJMldsQ3N6b3E0Znl1bmVjd2U1dHVB?oc=5\" target=\"_blank\"&gt;The type of wholesome moments the FIFA World Cup brin",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByNWNNNFk2ZVVqU3RaV0JpZFduY0NjZUgtdVFYRHBNRkpVeVNlRXJ5c1RkRHZfWjhCcG5GcGlseWdJdTBSSVdLTmN4MmVRakFPU0dmN2FWMEhJMldsQ3N6b3E0Znl1bmVjd2U1dHVB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-brazil-s-matheus-cunha-scores-goal-off-r-2026-06-20",
-      "headline": "Brazil's Matheus Cunha scores goal off rebound to take lead vs Haiti | 2026 FIFA World Cup™ - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfNWJubEVTY1JzSkExbU1hUE1BSmRKMWZRT2tXVDdCbTBRVXNGNElaelV0RnBFNWl0cEd4eWczdjNHMEZFN2pWam5LeWRoOGdWT213WlpjUVAwak96TEFFcW5R?oc=5\" target=\"_blank\"&gt;Brazil's Matheus Cunha scores goal off rebound to take lead vs Haiti ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfNWJubEVTY1JzSkExbU1hUE1BSmRKMWZRT2tXVDdCbTBRVXNGNElaelV0RnBFNWl0cEd4eWczdjNHMEZFN2pWam5LeWRoOGdWT213WlpjUVAwak96TEFFcW5R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-still-waits-for-real-brazil-to-2026-06-20",
-      "headline": "World Cup still waits for real Brazil to show up - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2RFNidHQtYjBZVmZFcDJGZXpPQ3NWbk9UUjBxS0VROElLanZmc09LUG41NURFa0x6Z0xtTUlNZEpYMFMzRG1HaFFvekduZ1pRTG5ES1F3WElFblRqSnlndlNUQXJiYms?oc=5\" target=\"_blank\"&gt;World Cup still waits for real Brazil to show up&lt;/a&gt;&amp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2RFNidHQtYjBZVmZFcDJGZXpPQ3NWbk9UUjBxS0VROElLanZmc09LUG41NURFa0x6Z0xtTUlNZEpYMFMzRG1HaFFvekduZ1pRTG5ES1F3WElFblRqSnlndlNUQXJiYms?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-turkey-0-1-paraguay-world-cup-2026-as-it-2026-06-20",
-      "headline": "Turkey 0-1 Paraguay: World Cup 2026 – as it happened - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUZwbjQ2Ylk2UjRnd1llLVF1bFRmRGU1X281Sy1MWU9wdlhmU0lrN0JmMGQtVUJPdTVCNWI4anFyOG5IanQ4aUdfbkwyVngxSzhuUmVCSWc2a0xCVnhXMklrNkdZdkUwYVB1U1RoU3NYSVUzckhfRVdQSXh3SlRKZ0pLVlpQQUtEVnB5c1I0dWhtRFl6WXVJd3NwbTBJdThlQjgyZ3dNaTN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUZwbjQ2Ylk2UjRnd1llLVF1bFRmRGU1X281Sy1MWU9wdlhmU0lrN0JmMGQtVUJPdTVCNWI4anFyOG5IanQ4aUdfbkwyVngxSzhuUmVCSWc2a0xCVnhXMklrNkdZdkUwYVB1U1RoU3NYSVUzckhfRVdQSXh3SlRKZ0pLVlpQQUtEVnB5c1I0dWhtRFl6WXVJd3NwbTBJdThlQjgyZ3dNaTN0ckhLVC1tR05UU01DNDIxWHFueWNRODhYS3JRV1RJNTQ4c0hIZV9fQjU5ZWR6eWFYQQ?oc=5",
       "featured": false,
       "draft": true
     }
