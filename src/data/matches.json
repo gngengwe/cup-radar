@@ -1484,8 +1484,8 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
-      "homeScore": 3,
+      "status": "finished",
+      "homeScore": 5,
       "awayScore": 0,
       "atlantaMatch": true,
       "notes": "Spain vs Saudi Arabia — Group H at Mercedes-Benz Stadium"
@@ -2082,9 +2082,9 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "laMatch": true,
       "notes": "Belgium vs Iran — Group G"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-21T16:45:25.660Z"
+  "lastUpdated": "2026-06-21T19:41:41.128Z"
 }
