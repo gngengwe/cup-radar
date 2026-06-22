@@ -724,8 +724,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": null,
+      "awayScore": null,
       "goals": [
         {
           "minute": 21,
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-22T04:15:49.258Z"
+  "lastUpdated": "2026-06-22T16:58:23.131Z"
 }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-22T11:55:00.638Z",
+  "lastUpdated": "2026-06-22T16:58:27.560Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 67,
+      "chapterCount": 68,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -554,6 +554,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEJOTUNhZEF2QncwMUJYM2NCUDhaOTNnWGJSU3FnaXlmaG1UVnVuU0lReUJRbjNkSTZ3MWtIY0lhdXg5N0F1YzBpb0NqTGtOX1FsOE5zQ2VhdnhTdGx6M0pZdVh3QmNIMkp1WGdINXg1WE5Xa1RFRmlCZWhSejg5Y0E5SzVRb05EZDdXWEdXVXI1cVpyTm5sQk9mZGZtc2g1ZkJWLU5keG9XS3ZC0gGyAUFVX3lxTE1Xb1hTN1RodDBHdXZRaS1VV21VaExtdWhtY0hHSnN6ZlZzcXBZTkNYWG9qdFNFRFU5dTRfLVM2cE90U3BDTm9tR1NrTEFLd0plcjFxZG5zMC1FTFh0MkJPSVZiNzlFVmFGMkN5YWM4SElxb3h0LTRVZ1lCeFB0eWZ1WWtsV0t2U25Zc3IybFl1X1FRRjExRXJtLUVHekVNaGxYUWFmX3AzTWt6RVJ4Qk5Na3c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782147505942",
+          "date": "2026-06-22",
+          "title": "Argentina vs Austria live updates: Messi aims to break goals record in 2026 World Cup game - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkNFUmtvM0JJVHF0cTh3SXBualNSaTNNbkhTa2dlR0NoRXdSZmFaRlp3clFsSi1rQ0lSbHQwUFUydVNjbW1QVlQ3Slc3RDRWTzRlcHBiS18wVXExRFRZTVo4eHVxQ1Vqc0VhejRQWW1qdmVxV3ljSm9yVVZQMEcxN0x1dWREMC1PbkVXQWJUeEItWm9McjhVbENPYTNVcWVGalVkcnF3eFc3TEVqMHhaWmFsd3h6TlFnZDMxQ0Q1VHBIVG8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -572,7 +580,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 79,
+      "chapterCount": 80,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1205,6 +1213,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RjVGWlVIal96NTBwRmtzZEl0YXhFRkduNE15dHh2Wm9hdEUzU04ySzZ6aHlaRWd3UG5OZldKQ1RxdG8xT0hiaXN0LTduUHpMVlJpZ0xEemRWNFU4eGJ3d0FR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782147506452",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Lionel Messi Argentina v Austria, Kylian Mbappe France v Iraq - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91VEtaTU9RR3VxS2dycFJxRTZ6d3h4aFN1YjlYQm1YNE53bU1QT1lHMThNaHdqc2VWd0ZZTDFNSU82b3I3b3ctcWk2VURGRmh6alVzLVVWVk5JdTV2UWNQTU04YVE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1223,7 +1239,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 183,
+      "chapterCount": 186,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2687,6 +2703,30 @@
           "title": "‘Law-Breaking Country’: Iran Soccer Federation Escalates Tensions With U.S. - Time Magazine",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjRNemNtSGJSd0RDOVNibS14TTVBUWpuQlpGZUZGY0cxSFZEbkh4U2cwUXM5WjhPcVR0bS03X3dSdTAxZkIwYmVZUDRGUzhsdGluS1JSRmRPR3R5OW45b3cyVF9yQ1NON2QxSzdrN1NqNnY0aWVKenM3RE5FdzZnQUZ6MVJTTko2b3BfYVdUdG1nRjl3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782147506890",
+          "date": "2026-06-22",
+          "title": "Every 2026 World Cup team ranked, according to FIFA - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVltTGFKVkV6TTBNMjg4c24tdDRGUmtUaFdHVHlub3lqVFZFck0zNHJoak1vRmpkSUs0cm1BanhsaTdWenVEZUtmNmFFdW1aSmR4dTRzblo5OEdjQl95cVhBd3dmSTNlTDNqb1FadHIwR0otNE9xLThhbHoybDl3WFd0b1pIX2pkM1NoUXJrLXN6Q0d0YXVfVW1kc3dJN09ZbFBXSjJnUVVFWTlxVXJfdg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782147506890",
+          "date": "2026-06-22",
+          "title": "Behind the Numbers: USMNT Impresses in Victories against Paraguay, Australia at FIFA World Cup 2026 - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1dMdmdHZ0RqTTlhRE5rbTRicHBzTkgxczJwbHFwcGZvbVRIemdKamJVN0VHNmNTS0JTeTRkTWxRQzhqbFctVHNaR0ZLSFR6YVdMdnE0YXNVV2czYVJyQ2tyN1FEcHZtZUI3NVRLWEo0T0FCTUJISDFNQnc4RlZlRkxoWkZVNTJ0bHp2S2tJU1RXcGhxeC05Vjh3VGJkQ3Q2aWRvcUNqZWgta195b2xvVE8wQW5QQm5nNU4zM0stNU5SWXM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782147506890",
+          "date": "2026-06-22",
+          "title": "USMNT faces World Cup dilemma vs. Turkiye: Rotate squad or keep same XI? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDhRd3dLVDk2aHQ1YjByOVN0UlhGZDBha1puSEd5WTVIV0xqVUx0MUdvekV3WGlTTUhXWjlrNTZpSXRCZGxTcUgyWGdGVzdYcjVQVkI0ZlJvOHZsMkV6ZmRqUDdmQ0ZsWWVabXQwR2xQLVFlTVpfOFZnQnh0aW5Cc0kxZEYyUXVMSWRva1pLaUpKMU8tY1did2dGcnlfYzNhOHlUWmV2SDZ1TTk0MDNYeEFZTEo?oc=5",
           "draft": true
         }
       ]
@@ -4376,7 +4416,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 206,
+      "chapterCount": 209,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -6024,6 +6064,30 @@
           "title": "Madueke's remarkable season - from petition to World Cup starter - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOTmVobFlxQUpnSnc5MjROcXlEMEV0S29VdUJhOElzTmJKOW9MZmFwakNCRDhJSVltbFdwUXhjNjAxLWxweVQ3dzBneEVvX2cyNEtqUXdkbjJYUmhuZURTTnJYMkdSTmJRd0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782147507560",
+          "date": "2026-06-22",
+          "title": "Ronaldo Must Win, England's Best Attack & 6 World Cup Takes | Cooligans Daily Live - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbkNEQU0yczJla0t4MkFOWlYyWThSUFpnT2dfUU8yNjlfYUVpSmF5YTZ0aUVzMi1ZWUEwVWJZREZXMU0tYlJIZjJJcDMzNE8wRS14dEEwVzgzNFJHa2J3aU90RnVPeUkyczMyWk9KX24zN24xdU1OMjJGOHZuWlEwQTdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782147507560",
+          "date": "2026-06-22",
+          "title": "FIFA Moves World Cup Photographers After England Coach's Complaints About 'Ruined' National Anthems - PetaPixel",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWnpva182Ui15OC1iTkJyV3lad2NCaGc5RW1XZmFEdFRrSXZKSnZUTmpYbDJ1VnJ0dGlKd1A1SzZnUDJoZENHdmZha2VHcFY1aGVwYndhaEtOV0JGNkp4dFNTVHZCeE5uV0psVjZmR21HQ29HZDJrcHlJRTEyMndTN0g0Ny1DczBCRERMY3I3QlQ1dlgtbEk1VHY4M0lXY2M5OFJqM29jZUI4c0ZXXzFCblJicFFhTFFZdXAwU0tTQVlXZ0xiay1reG9B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782147507560",
+          "date": "2026-06-22",
+          "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
           "draft": true
         }
       ]
