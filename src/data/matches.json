@@ -1179,9 +1179,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group H Matchday 2",
@@ -1680,9 +1680,9 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 3,
       "vancouverMatch": true,
       "notes": "New Zealand vs Egypt — Group G at BC Place"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-21T22:15:06.679Z"
+  "lastUpdated": "2026-06-22T04:15:49.258Z"
 }

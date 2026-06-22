@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-21T22:15:12.046Z",
+  "lastUpdated": "2026-06-22T04:15:54.304Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1215,7 +1215,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 179,
+      "chapterCount": 181,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2647,6 +2647,22 @@
           "title": "Dutch on the charge, but farewell Tunisia. Re-ranking the 48 World Cup teams after day 10 - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPblFlVVJhV29vQi1sYnVmNXRndU5vTmY0OEVqMkprOC1nV200bENpVXNkb2lxbjZVbGR0SFREMHl6dmhRRnNHT1lyTi1YZGpWV2hVcExrSjlNdjVGSDZXN3FFS0s5ZjMzal85WXlqTm1pX1p5d3RHZC1GaVZoelEyU1hZQ1E5aUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782101753293",
+          "date": "2026-06-22",
+          "title": "Tim Howard calls it 'impossible' for the USMNT to win the 2026 World Cup despite strong start - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ25SRmZLbC1CdndKNmJYSnhHLS1wak5ZMzRHTzlzSXk0NFNjNnBKVWp6TTMteWJ2NGk5d2Q2X3RCVUlWRm9QcXZyR24zbjJRbW03ajFwVURJaWE5R3g0N2QyRXJ6TTIxMUtXdF9weTY3cTlLbm1RMS1Kd1JRcGdrZXRrSW01WFpkV2V0VW5qVEl0ZVFzUk9GY05BZUp6SjVqaEZFQ0FlONIBrAFBVV95cUxQZUt5SEUtTWVQNEQwUDRHRjBBQnh2MGxILXBJUUpJYTdPUk9tNDdWYThIVVdkcE1nWktFU0pCMlJKMGxIU1NZbXNGNjh0ekx2N2hrRkJ6eFo3S0w4Nk1RbDcxZ09HYW92RzhPZ0dwTmc0cVpEZTZyS3hDMjNNUGdNUnVNaXRwZDJ0QzFsNThWQ1loRXJrcnBNNktJQUhGTHpabHh2UTliNm95eTdR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782101753293",
+          "date": "2026-06-22",
+          "title": "Super Bowl Champ Antonio Freeman Sees Something 'Far Bigger' With Son Alex At World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlA1RW4yUFBIeWpWbDNTd2NCQ2dmOU1McHVTT05Tak11SDJsT09Ec1lTbkVOX212YkdBcG15OFc4czYtZDJPcGZGR1ZuZXNpWmprSzVZVGdBZjJ3T2EzZl9UV21DNURGT2RSanNUSEpMTXFJOTNwd0M1elNrZ3JTZVRhUE80bm1mVmoyNEtTcVVDUF9sS3pyQ1FUR2VJY09naGgxeU91UVFPdTgxS0xhenNlZFVMMDZockHSAboBQVVfeXFMTkgxWktqcjlIUF85TWt1MnBjUm11Yjd0eXdCQlVYdmd4XzY1UU9CQjVTcmlLRzNIV1F3eGxVbEZJdlMwSDQtaXF3aElSdGgzOFM2aG1xWm5lR3FiMkp5Nk5faDhydzFjWDJQc3VZbkRNM21fMkY0TGFxVnVhbjFqalhDVFhvUEFGOEZnLVVQa1FTUjJGQkJHOEZpTUlteGJsQmN1VUdnT052b0JsLXZRMEZ2X05BNUFzRHFn?oc=5",
           "draft": true
         }
       ]
@@ -4320,7 +4336,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 199,
+      "chapterCount": 202,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -5912,6 +5928,30 @@
           "title": "Chalobah reveals bizarre change of plans after late England call-up - London Evening Standard",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2FXQ2J5aGRydEtuNmVQWE1kRmdXMzdJRTVSNmZLcXdsQWNYRGhjVFljNVNHQWFlNXJaZHd2UlAzWHhyVDJ6a0FBdWRZLXIxSmRieTFSV1FVa2FXR1RDZWZaRmNSWlIwWUlkN0l2dEhxSjZUbDhvYmd6cUxUeE9Ybkg4YnVzNjdnZmxFWUFabWdGa3l2aDVLVTNiR1Jac2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782101754304",
+          "date": "2026-06-21",
+          "title": "Bukayo Saka hands England fitness boost for Ghana clash - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFpWaWhrSGlnTEZINlRJVW9oWmxYUS1YeWdZcExSMm9JekVYbG9Ebmg4dk9WR1huaElKQVRGZWgySDE1VGtrOUZ1MG9fNno0MUxWNmFhZV84U2NtZXlBOHFBU09sQkp3M241SHVRam5mei12YkEzZlRMT0gtS2EtZ3dtaGtJZXBmTEEzcWpiNTAwSjZmMl9rWnZGM0Zoc0c4cEJhMmRITENMc1Ft?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782101754304",
+          "date": "2026-06-22",
+          "title": "Fifa World Cup 2026: Does New York care about the World Cup? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YV2xGTVRGSTlDa2pzcVJpS1QzbWl3SUlkWjhoaTZrYXpMZzFVeGY4SG5CckZnTGM2VEgzUGl4TjhMazgyZGRuT3B3eldKOUFuN2tDbXItS296UDgxRldHMEVfS2NubkU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782101754304",
+          "date": "2026-06-21",
+          "title": "England offer rare peek behind the curtain with no place to hide under Tuchel - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS09NQ2FGbmVYWHVCZEI2Wks3ekI3U25hY3dmU0hWTWF6WXFBUnlDdUowNTlURmkyNkd6OV9QLXRNRWluYzdwemxrUmpHYVN1YXRNNHBVUlNLODc0UGNGMUVScnMybEdyTnRRUk9fVTlsaDZpelRzRmQ1Z3pQLXlmVVZGdHVsZy13UTlXUGtWUHFTMGktX2t5cHBqcE5DX0pMQTZBZ0poMXVZYnU3UVIxQ256aTVvVHlRb29B?oc=5",
           "draft": true
         }
       ]
