@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-22T20:48:50.978Z",
+  "lastUpdated": "2026-06-22T22:47:51.030Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 74,
+      "chapterCount": 75,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -610,6 +610,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm5EM3dGRm41WHROLUk0MmJhb1VrcVhhMWxnUEhheG5xNTFDZncwaTM1MU1ScXhkWHVOcGpBMFQ0QzhZbk9VV2llbGRVQjhVbXdRTWpvUG5Za0UxMndfQXE2SEZReWx1TlE2UEdOb2xBMHVCZ1FtZDZjOGktREx5YzVfVEoxQTNOT2VLQ240Q1NsdFJ3VUNKWndfeHd1RW9keXpEUzZ1ZlN3RmRORU4wckFfVnF1S29qbEx3QWt4QjZyUjZtQU9wc240WWdIVk9FQVZCQ0xZOEM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782168468851",
+          "date": "2026-06-22",
+          "title": "Who Are the Best Players on Argentina’s 2026 World Cup Squad, Other Than Messi? - heavy.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMU5ibjN6Qms2XzlCaFBBQXBZbHd6OUM1QXJKZ1BWRHNyZk5zX05VWGdBUG9SM1JZcFlvdmxfTl9jR0h6LVgtNWcyYVhDR0ZZTWV1VWRlQ25BWHJLUmlYdXFXNGxXVDlBaDhUUmdvTDIxY0lVWlF0d3pramNRRXdPNy0tUlZWYWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -628,7 +636,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 83,
+      "chapterCount": 84,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1293,6 +1301,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWNad0tMVlJxZkRyUWtneXJVR25IS1JqOW10VFhIOGhabUx0SDEwbFFtbEl5SF9mOGFZTjdHUGVHVFJQcWpQSEJwdGd2ZmlfMkpZVlFDX0NUMFpjNG4tMko5elVPMmgyTC11RktDUkZYc21wVDVvNVdHNENrOGd1Q0UxNHVyc3lzRmNpV196d3RKcTltalQxLWUyWmgtMVZVLWZuX0dLdU96ZjlZSGdhT2hYNA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782168469365",
+          "date": "2026-06-22",
+          "title": "France's Kylian Mbappé scores screamer, taking early lead vs Iraq | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDX2tlWlhEc3BFZW9VVUVxbnZQNjVvMDM3NmVkdFNVd1pPYThUWE0td3R3TF9aVU5YUHY5bExCakdiTDNSU0hFbF9PODZqVzRrTlhsQnJ5S0o2TjhtOFpoRkxB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1311,7 +1327,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 189,
+      "chapterCount": 190,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2824,6 +2840,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXdkQkJ0ZXp5elA0OXFpV0RfNy1CaDlMbVJhb0N3T1UxbVNUbVdlNFRySGZINnFacG1lSVFEdUdiTUVKUXMyVnBhOXFUSDloWjlEd3hvU2pjdU1yb0kwcGdMVGpHM2tDOWxRcVJxWjJ0S3hzSWFNZ2tzLWZJYnZBbzFKNzhOVWFsanZSZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782168469875",
+          "date": "2026-06-21",
+          "title": "Cape Verde’s Hélio Varela scores equalizer for first career international goal | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MNHVQUGpNQjRjUkFrWVQxbEJkVVFhYlZQX1phZ2hHbVlkdUtxbm1nVWFNUUNvY2VkNE5kZ3NlcTl4X3FTaWhzMC15blllSUlRUVZQT1ZMcXp3TnRIRmJLUVhB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2842,7 +2866,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 195,
+      "chapterCount": 197,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4403,6 +4427,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG1JUFBnd25yazM2dW9jNEttSTFxeXMxZldkUmJMS0JiaTJjbmpoVHRnd3FPemE0UGU1TVM0VWl3eXZnbHI0RURxa3ROS3JPTk95VU4yeEJFQ2syZVIzald4Q01yTVVrMnc3d0d4YnJnUjMzUDhfZjJSNEYzNDdQVTlOeWV3V1AySmxxeVZQX2FtM1FuMWNIWVhNc29qWE8tU3R2ejZIQThfaHJscWVYV19NclRJSGwwVHlIZnE5Nkt6cEo3UFF5WnZGWG5MNVQxWWE5VElVOWFoWlBGZ294bk5VQ08?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782168470399",
+          "date": "2026-06-22",
+          "title": "Messi surpasses Brazilian football legend Marta to become the all-time leading goalscorer in FIFA World Cup history, men's or women's - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1McVNNU3pzeFp5V1kxU05Qb1JWcWtLVFRMVDlnSGZUanREWXljUkVHa1RnQjVndDVsM3dobHVpVjJRcVg1N19XZjR4cnJZYlQ0RDM4djhadFZ6dEJUZXo2V1BjbHRkZDNybmVyT1Zn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782168470399",
+          "date": "2026-06-22",
+          "title": "Neymar edges towards Brazil return as Scotland showdown looms - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbktUQzB4UW1NNkJDNWU5Zk1RRkhkNDc1bjZjUTFSOWtrcFFPdXBkMVFxOS13UXhJRlc1OXUzM2FOMWlaQ09Pb05aREhCQUdNRzJCWXRRVkRIMTROQWtMMTB0RVI0WUEzdS1NZHhKUnJ3NXFPaUkxbEVQZVVBNml5Mkt3blJNbXpaX1ZING4yM3RpTGpLQWdDdGhlZWVhVDBxV0tMSG8xcHJja3Z2?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4536,7 +4576,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 212,
+      "chapterCount": 215,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -6232,6 +6272,30 @@
           "title": "WaterFire event to welcome Ghana, England teams has been canceled - WPRI.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGxRcFpGcjhlTEQwdnZkNkpaSkFYQUJHanBpaFFUeDVsSm8xTEVBS1pyNnp0RXpnRDFTaVlfN0tIaVlEejRmV1Y0S25yZzQ4QnlEdGdYb1RLejNhUUs3LTRNQzN3RFJXaVcyX2h6XzdlRk9oTHd6YWxYYUN5Mm9EaTV2QXBlZXVJRExOSnZxUkViVjJ1dHpGV3FZemtXLVphdXllbnBzV1pYODRV0gGyAUFVX3lxTE5Bb2xuX01UTU43ektySHhWWEZFQm1zeE9zeURpT2xZcVFqXzBPNllDcTRzZTNDMGNhSHR4SGNCUWtGY0JSeWZJN0V5Rm9rQ1p6TTVIRkUwMHlha1dNQmU4QTB4REo0S1ZHaENBOEJXQjRDVXBZcEhhNEM4QTFDRFlIVWJMMHVHMzMwSzlVNDI1bWxoTThja1RBcG5IaHk0ZkFGQXhWdFYyNHZPOUZXZlRZYmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782168471030",
+          "date": "2026-06-22",
+          "title": "Thomas Tuchel brings The Surge to make England genuine World Cup threat - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzZYcWluU2FTYVl3eTJRdXpEaWNxQmZnNlZ1M3N6SURVVWVNaERyQ0RMUkZSWXpBOTRaZ3paSTJuakRxdy1FRDZxMUJDaldrNWhmbUNYbzBxaTJ1MnB6ejg4aEMzdlFFZGZwMUlwRGtONkNNblZzUVRqNnJfWnBUMmZva3I3SmdaWV9ITWgydS01RjNZRXFEdE03ZHp4SkVoTXJ6X3NDYS1nU2tfMGxhV0VJODlMdzZqd1Ftcg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782168471030",
+          "date": "2026-06-22",
+          "title": "Alexi Lalas' 2026 FIFA World Cup™ Power Rankings: England over Spain? Portugal out of Top 10? - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUkdLSzJJT2N6aVRoSkNqSy1tWENkTnI5OTVVeTN4SlJlTGxqazN4NUdLV1dTb0dJMzVBSGNlUHN6UFdTZTY1WEx2NVprSE4xeUlwVWp3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782168471030",
+          "date": "2026-06-22",
+          "title": "England Impress! And is Ronaldo Done?! - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmZFlTTUludm5WVkh1NEdPSUN5MFhzcFh5Z0Z4and0R014WThJOHg4TFFMSjhzbDFNMllfZ045YmxrVjYzeVRJTURJb0pTSFNsZmR0WU13eWl6TFF1TzkyVjlR?oc=5",
           "draft": true
         }
       ]

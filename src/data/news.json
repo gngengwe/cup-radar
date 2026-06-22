@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-22T20:48:47.891Z",
+  "lastUpdated": "2026-06-22T22:47:48.362Z",
   "articles": [
+    {
+      "id": "news-auto-a-team-by-team-guide-to-the-2026-world-c-2026-06-08",
+      "headline": "A team-by-team guide to the 2026 World Cup: What to expect and who to watch - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1QtZzRMdnZFYmhna1ZVdWF0WFFtY0htalV3ODEzaUJHbWVtS1hpUGNRRllpeW9yQ2N1aFlRaGFQcnRUVTUzV1F3ajVyRWlRV0pZUVlDRmFnX0hwNkVjcEQ0VWpkczVHVUlBZDB2MkNzS0JlMnJ6WVREQWdJek1rNFJpUUlEZw?oc=5\" target=\"_blank\"&gt;A team-by-team guid",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1QtZzRMdnZFYmhna1ZVdWF0WFFtY0htalV3ODEzaUJHbWVtS1hpUGNRRllpeW9yQ2N1aFlRaGFQcnRUVTUzV1F3ajVyRWlRV0pZUVlDRmFnX0hwNkVjcEQ0VWpkczVHVUlBZDB2MkNzS0JlMnJ6WVREQWdJek1rNFJpUUlEZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-norway-vs-senegal-live-world-cup-2026-up-2026-06-22",
+      "headline": "Norway vs. Senegal LIVE: World Cup 2026 updates from high-stakes Group I clash - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzJlWk9JblhuZzdocVVaM29ITTlpX0lkNkJVVHJYU2xQeHo0SFFiaTNZM2k0VXhDbDh1ZjlnaGtsbGxIbkJWZ1V2YnhKUmU4OWliY1dyWlJUY19FcXgtMHlQdXlyV2Vncnh0M1QzcTVPUUU5MEdhU0xkX3U5T09wZDhaRE02Wl90YWx5bjBRSE5Lam16alZEc1U4ZWw2T25laXkyY3ZMcFB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-22",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzJlWk9JblhuZzdocVVaM29ITTlpX0lkNkJVVHJYU2xQeHo0SFFiaTNZM2k0VXhDbDh1ZjlnaGtsbGxIbkJWZ1V2YnhKUmU4OWliY1dyWlJUY19FcXgtMHlQdXlyV2Vncnh0M1QzcTVPUUU5MEdhU0xkX3U5T09wZDhaRE02Wl90YWx5bjBRSE5Lam16alZEc1U4ZWw2T25laXkyY3ZMcFB1a1AyUDBuN2JpOC1FYWRRVkpmVWJn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-france-vs-iraq-becomes-first-world-cup-m-2026-06-22",
+      "headline": "France vs. Iraq becomes first World Cup match delayed by weather: What are the rules? - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdGcyMHZiaWp6ZTgtYUFvMHJxV3hmUTNBTjZIQWxKZVhPdFJCSy1QUmZkTGpsMVJ6WlluQmc5LUJUMDB2OGYwNm1Hc1BLWTVqbVhxX1BQV282NWlkdklnVUwyOHRGTFR0dDU5Nm5CTUpPV1RkRFhMT3p3Sk5JYXFmY3cydUhXaTZwWktuZ3FqVjRybmN3d2FTd2xua0ktUQ?oc=5\" target",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-22",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGcyMHZiaWp6ZTgtYUFvMHJxV3hmUTNBTjZIQWxKZVhPdFJCSy1QUmZkTGpsMVJ6WlluQmc5LUJUMDB2OGYwNm1Hc1BLWTVqbVhxX1BQV282NWlkdklnVUwyOHRGTFR0dDU5Nm5CTUpPV1RkRFhMT3p3Sk5JYXFmY3cydUhXaTZwWktuZ3FqVjRybmN3d2FTd2xua0ktUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-egypt-denied-flight-to-seattle-ahead-of--2026-06-22",
+      "headline": "Egypt denied flight to Seattle ahead of final World Cup group match - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUhiQm4wZ3N3X0dZb21iVlFtMi1oU3U5N0JMc1d0SVBGNkxpTDBwaEVwU3JOSVhuNkk1Nlp3WGV1REpuMExZTDcyUTF3YmxvZGVlWXh0S3BBb2pHdjJOOTdTZ2ZwX19Da0xucGdsa0pQUVpqOGdrRzZ3djQ1OXBhMThqLWdkcnJ2SlEtbmRydU5GRFN6ZmxQNE5FQmc1eE5rZzF4NDYxdTF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-22",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUhiQm4wZ3N3X0dZb21iVlFtMi1oU3U5N0JMc1d0SVBGNkxpTDBwaEVwU3JOSVhuNkk1Nlp3WGV1REpuMExZTDcyUTF3YmxvZGVlWXh0S3BBb2pHdjJOOTdTZ2ZwX19Da0xucGdsa0pQUVpqOGdrRzZ3djQ1OXBhMThqLWdkcnJ2SlEtbmRydU5GRFN6ZmxQNE5FQmc1eE5rZzF4NDYxdTFGUFFBVE1B0gG0AUFVX3lxTFBHcDlFQlhtdjNRX0FqcE5qdVB0TGlOVWotN2JUTUlQQTNSZzhjbjNJNHRqSHFCbzV6dzBZS1ZpQmVBckxYVFVXZkJ6QjY1b0dIdWRZOXdsSmRUUkZBZjVYZjRuRUhRaElCQ0F1bEhpWGxEaExmTUtaMmMwTk1udVVtMTNFYk5SUGZfX0RJLS14SHc5S1A2eXh4NXQ4cTBEaFRNOXRrOGZnVzFjYzdRR2pNU25naA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-stadium-rankings-which-venue-i-2026-06-18",
+      "headline": "World Cup stadium rankings: Which venue is best for atmosphere, location and suitability for soccer? - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlI1MzA2T3RHUXotTTJvbjVLUkE0N0FQcC1IT3hrVVAtZnhBY3VfRkMzSmdGMkxiT19xYWJDSHQ0WEVvZk9ucEZjaHZTOTJFV0tfQjRYWk9GUlRIUlUtdXd1Q0JWT0s2c2FYNWh3MkFXaWJJUmpPX0ZubGd1Zmo5UkpKUkhrUQ?oc=5\" target=\"_blank\"&gt;World Cup stadium r",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlI1MzA2T3RHUXotTTJvbjVLUkE0N0FQcC1IT3hrVVAtZnhBY3VfRkMzSmdGMkxiT19xYWJDSHQ0WEVvZk9ucEZjaHZTOTJFV0tfQjRYWk9GUlRIUlUtdXd1Q0JWT0s2c2FYNWh3MkFXaWJJUmpPX0ZubGd1Zmo5UkpKUkhrUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-live-updates-argentina-s--2026-06-22",
       "headline": "World Cup 2026 live updates: Argentina’s Messi makes history with 2-0 win vs. Austria, Mbappé to take stage for France vs. Iraq - NBC News",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-15",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXpDZWh4YmZfME1LOG9Zdy1aN1h5T0Z5cjV3VlpQd3huaFVSS2txTm5mSkI1dVQyZTk1UTlCWkxlbzJmRGxRVTkxRTIyb3dWMXVrX0lKekRYVEtRX3RBWmFJVHFabmpaRlFkaUVQSHpBSExtZ0M0RzVoYzVod1FwNW5BNXctRGlNN25Icw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-mixed-results-for-kansas-city-world-cup--2026-06-18",
-      "headline": "Mixed results for Kansas City World Cup start as some businesses struggle - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1dhbkxnd2FlRzRZVDIxMjVkT05KS3ZOVFRGT2hrS2c4VEhDSW5pdndIYVFsNThpSk0zYTBSdWYyUm1zX3NjMm9PRGU3d3F5ajhKSzktRGVKZlktY1V2TzBvVS12V2w0N25WUXZ4alNrOTdHRWZXNHo5SDI1bEdOOEVLY0QyM0hWZFJFOEJNNVdBUU5scEF3THJCMHlaaTNoeWfSAbYBQVV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1dhbkxnd2FlRzRZVDIxMjVkT05KS3ZOVFRGT2hrS2c4VEhDSW5pdndIYVFsNThpSk0zYTBSdWYyUm1zX3NjMm9PRGU3d3F5ajhKSzktRGVKZlktY1V2TzBvVS12V2w0N25WUXZ4alNrOTdHRWZXNHo5SDI1bEdOOEVLY0QyM0hWZFJFOEJNNVdBUU5scEF3THJCMHlaaTNoeWfSAbYBQVVfeXFMTk5sbzd0STlqMXY4UUtqblZKVGowSXJJUl9JdkdtdnhCZDJUbVRSak90cFRweGtvUGFXQUNBMmxsWWcydGxqTm1vUnRuaGx4WlJOOGRuLTIycC1vZGFzTG1YeUxfLXRxUG0ybWFVQ2Ixb1B5cXJIWmI1Z1BkdHlQOFVTZFMxMXZIbXZOb1BMbXdSM3VfRlVMbFgzZVIyMGlPTFhESldWSmtqN0NJZkFkdjBQdUhicGc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-every-match-result-o-2026-06-20",
-      "headline": "FIFA World Cup 2026 - Every match result on Saturday 20 June - Live scores - olympics.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1RlSDhKTXlDNTRNZU1HaTd6LXZNZVdRWTJYVThVc1FuYnEwYjg1UjdGczNvekc0OTRSNElfRm5FM0FYN3AwSjNYZFo5bG9GVFlyZnJKbTQ5dDJoUlhDOF9fX0o1WUhvRVk3SzhIYjZDalNSVWYyczQxT1MxaXB0LVRiUzEyaG1ya0hUMVQzZzRVVVVsenJLNmVscFJIdDF2Q2ItTFVR?oc",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1RlSDhKTXlDNTRNZU1HaTd6LXZNZVdRWTJYVThVc1FuYnEwYjg1UjdGczNvekc0OTRSNElfRm5FM0FYN3AwSjNYZFo5bG9GVFlyZnJKbTQ5dDJoUlhDOF9fX0o1WUhvRVk3SzhIYjZDalNSVWYyczQxT1MxaXB0LVRiUzEyaG1ya0hUMVQzZzRVVVVsenJLNmVscFJIdDF2Q2ItTFVR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-world-cup-how-lumen-field-was-tr-2026-06-19",
-      "headline": "Seattle World Cup: How Lumen Field was transformed from Seahawks turf to FIFA-approved natural grass - MyNorthwest.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5idFlUbWJzbEVTV2pRN3JzaExPMi05VjFmZXFFbWNSRVZqd1FLdWtJYzdnOTZiSGY1ZUlZaUpOU2xVRk9HTlhMNUptMEMwcHBRVjhhUXEweGVRbnk1NzRFR29QNlZxX1Z3WjdVOGRBNGppTXhxbWc?oc=5\" target=\"_blank\"&gt;Seattle World Cup: How Lumen Field was tra",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5idFlUbWJzbEVTV2pRN3JzaExPMi05VjFmZXFFbWNSRVZqd1FLdWtJYzdnOTZiSGY1ZUlZaUpOU2xVRk9HTlhMNUptMEMwcHBRVjhhUXEweGVRbnk1NzRFR29QNlZxX1Z3WjdVOGRBNGppTXhxbWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-travel-to-arrowhead-appears-smoother-for-2026-06-21",
-      "headline": "Travel to Arrowhead appears smoother for second World Cup match, but fans still arrive early - ABC17NEWS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWs4aXF0ZFdtMUVYeUd1cnV0VG9JVzlxa2cydTRudXJYWGtfaUgxSDMyUHR6YWN1TkUtYnVmRzBOTXZMZFVia01HejBuT3lXV1BmXzV4S3JrVG0zU1J5MHFIQk1oZWMyZ0tnUkE2M21zRTdGOUJVZ2pQcno4dWstM0hEWVJPajcyVGx6MFpUald5RDhmSktnaGtGb2wxMFpWSFRnYWNJTTF",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWs4aXF0ZFdtMUVYeUd1cnV0VG9JVzlxa2cydTRudXJYWGtfaUgxSDMyUHR6YWN1TkUtYnVmRzBOTXZMZFVia01HejBuT3lXV1BmXzV4S3JrVG0zU1J5MHFIQk1oZWMyZ0tnUkE2M21zRTdGOUJVZ2pQcno4dWstM0hEWVJPajcyVGx6MFpUald5RDhmSktnaGtGb2wxMFpWSFRnYWNJTTFib3ItRHdRRVpnOTMxZF9NVkFJUVgxWXhOZ2lBRGR1WTFGN2RQOXJIeVA2S0pCSnI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
-      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
       "featured": false,
       "draft": true
     }
