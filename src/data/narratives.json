@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-22T16:58:27.560Z",
+  "lastUpdated": "2026-06-22T20:48:50.978Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 68,
+      "chapterCount": 74,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -562,6 +562,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkNFUmtvM0JJVHF0cTh3SXBualNSaTNNbkhTa2dlR0NoRXdSZmFaRlp3clFsSi1rQ0lSbHQwUFUydVNjbW1QVlQ3Slc3RDRWTzRlcHBiS18wVXExRFRZTVo4eHVxQ1Vqc0VhejRQWW1qdmVxV3ljSm9yVVZQMEcxN0x1dWREMC1PbkVXQWJUeEItWm9McjhVbENPYTNVcWVGalVkcnF3eFc3TEVqMHhaWmFsd3h6TlFnZDMxQ0Q1VHBIVG8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-J3",
+          "date": "2026-06-22",
+          "title": "Argentina beat Austria 2-0 at AT&T Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-001-1782161328400",
+          "date": "2026-06-22",
+          "title": "Argentina 2-0 Austria: Messi breaks scoring record at World Cup 2026 – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnV0ZzR6N1BWMGZ6eFdFRE1hZkdQazN0V21tUmc0V19qcVlwS1RxMFo0ZHNpc0thNkE5YU9nZGJDbmE2aHFyM0piMTdya3hfRVZLZld4ekViMGxLU2pSLTZTMnZMbVd6TVJNVmhJT0ZpLXUwMzZMQ01OUmZSeGNKRGhPVTVNTmp1clFNRFlLeUlHWmhlZ2MwNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782161328400",
+          "date": "2026-06-22",
+          "title": "World Cup 2026 live updates: Argentina’s Messi makes history with 2-0 win vs. Austria, Mbappé to take stage for France vs. Iraq - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1rSzJBaklleS1fYlBZMG1USWI2R2hZcEZYNGRLRnFxUTI4cW5fMlVqNHZvOG1kME00VlVQY0QtUk5ZTHVzaEVLd25zTVhzR2M4SVp1Y1hKejdRdVd5OVc0cmlnSDdxNVpLXzRjTDEzT1R0WG9GQXVOQVhDTWpwNGRwS3NuLVZUQm5XNGdnNVdfdGlJV3puVnlxOEFONS1jVjRlRy1MTWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782161328400",
+          "date": "2026-06-22",
+          "title": "Argentina vs Austria 2-0: World Cup 2026 – as it happened - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmVYVFQtS3BCc2x0QlZjbWxLclpJNGJmblVQemF0LU41c2xUbUFHbVg2S0VvdHBlTDJwc1h0ODlDYUtySzZ2NkRvQ3lhUFhBWV9GcDEyc25wb04wZzVFT1hhS1dia2pUY1FXaTYxelV6UkVsbXVJZkkzendadXh0UnBOZ21yd05sQ0JxMy1rc0FPOEJxN0Nv0gGcAUFVX3lxTE9Pc3cxeDlfTmRmVVR2UGFMMXJMUloyemxoVW5RUHdnekd6VHZxRURsTDduTWkydDlVc0xwQi1mZHgxeW1CdVpZX0VRSnkzSTZEYVVya2FWMW1PY0ZkM2EtcnZVZ21pVG9qWEpPOWczb0RxblJibjNTYXpWODN5bWxjd2lVS1RYa2lUYU5YQVh5c3dUVXhrcW5vUEpOeQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782161328400",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: How to watch Messi, Argentina vs. Austria for free - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUZCSTRQVWtMb0Z3aTdpWkNsZjZ2ckJLQ09KZW9wN0s1bUlLaFdPZllJQUJkck9Rc2RITUZKY1NNNExDdkxrNzZXRW16NkRNMl9ydDdDVFFpX1RkeUhkOTRPTjZ2LUN0OXVrQUVoYWhZWE1VQzYwWHZQekRSSUhVLXhha2lkN01OV3NZS0lQeUNWRXBNdThWbkJIamk4VmtIOFlPaQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782161328400",
+          "date": "2026-06-22",
+          "title": "Argentina vs Austria Live, FIFA World Cup 2026: Messi double puts Argentina into Round of 32 - India Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm5EM3dGRm41WHROLUk0MmJhb1VrcVhhMWxnUEhheG5xNTFDZncwaTM1MU1ScXhkWHVOcGpBMFQ0QzhZbk9VV2llbGRVQjhVbXdRTWpvUG5Za0UxMndfQXE2SEZReWx1TlE2UEdOb2xBMHVCZ1FtZDZjOGktREx5YzVfVEoxQTNOT2VLQ240Q1NsdFJ3VUNKWndfeHd1RW9keXpEUzZ1ZlN3RmRORU4wckFfVnF1S29qbEx3QWt4QjZyUjZtQU9wc240WWdIVk9FQVZCQ0xZOEM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -580,7 +628,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 80,
+      "chapterCount": 83,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1221,6 +1269,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91VEtaTU9RR3VxS2dycFJxRTZ6d3h4aFN1YjlYQm1YNE53bU1QT1lHMThNaHdqc2VWd0ZZTDFNSU82b3I3b3ctcWk2VURGRmh6alVzLVVWVk5JdTV2UWNQTU04YVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782161329151",
+          "date": "2026-06-22",
+          "title": "World Cup 2026 schedule, live updates: Messi breaks scoring record in Argentina victory; Mbappé, France up next vs. Iraq - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaENBR3RKb0tmcC1KTGJXLVR0a0I5TWZzMlNpUUkzN1ZFWmlwM0dZYXVYc0c3RlpHQzZVVjI5dnh5YVE3dUlXS0JWdmZPUGlGRVRqVHRZZFR0bUZHVlUyZmNCZDFyb0UtSlRjVTVoakNFY3FTemxJX2g4bGVPQ2lYZzc4R3RUVGFreGFqUW1Gd3M3blFaMk5GRXg2dXFDTUdPczk3MGRR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782161329151",
+          "date": "2026-06-22",
+          "title": "World Cup 2026 live updates: Argentina’s Messi makes history with 2-0 win vs. Austria, Mbappé to take stage for France vs. Iraq - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG1rSzJBaklleS1fYlBZMG1USWI2R2hZcEZYNGRLRnFxUTI4cW5fMlVqNHZvOG1kME00VlVQY0QtUk5ZTHVzaEVLd25zTVhzR2M4SVp1Y1hKejdRdVd5OVc0cmlnSDdxNVpLXzRjTDEzT1R0WG9GQXVOQVhDTWpwNGRwS3NuLVZUQm5XNGdnNVdfdGlJV3puVnlxOEFONS1jVjRlRy1MTWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782161329151",
+          "date": "2026-06-22",
+          "title": "France vs Iraq live updates: World Cup 2026 game latest as Mbappe starts - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWNad0tMVlJxZkRyUWtneXJVR25IS1JqOW10VFhIOGhabUx0SDEwbFFtbEl5SF9mOGFZTjdHUGVHVFJQcWpQSEJwdGd2ZmlfMkpZVlFDX0NUMFpjNG4tMko5elVPMmgyTC11RktDUkZYc21wVDVvNVdHNENrOGd1Q0UxNHVyc3lzRmNpV196d3RKcTltalQxLWUyWmgtMVZVLWZuX0dLdU96ZjlZSGdhT2hYNA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1239,7 +1311,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 186,
+      "chapterCount": 189,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2728,6 +2800,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDhRd3dLVDk2aHQ1YjByOVN0UlhGZDBha1puSEd5WTVIV0xqVUx0MUdvekV3WGlTTUhXWjlrNTZpSXRCZGxTcUgyWGdGVzdYcjVQVkI0ZlJvOHZsMkV6ZmRqUDdmQ0ZsWWVabXQwR2xQLVFlTVpfOFZnQnh0aW5Cc0kxZEYyUXVMSWRva1pLaUpKMU8tY1did2dGcnlfYzNhOHlUWmV2SDZ1TTk0MDNYeEFZTEo?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782161329736",
+          "date": "2026-06-22",
+          "title": "World Cup 2026 knockout stage tracker: Argentina joins USA, Mexico, Germany in Round of 32; who's in and who's out? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWVkwV0xKbHNmX1BPN1MxVzU4UE4xeUV5TjBqWlp3SjR2RERacjRGeFJ6NW90TDVGUG1UeWdGVEpYM3Y3UmJ6SVQ5QkJNdVpGTWRkdWppVm9Ia214RVJMblpVdEhSVC1WcExmaGF3MTVBY2lRbGtzOEpNUVVKeWRHZURsREN5dzlZc2twbGdUVnU2Ykt3cTlFaW1mQzQ5VDdhSjBuc2gxWEprMFRCNzJrc3p4SVpfSmJfcXNVYjhnZHdSdS10cmM1LXFRbTVOR29udVJsa1BjenBNd01KU19nLVdBV2RVVXlRWjYyQm5LTHFOeHlpelE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782161329736",
+          "date": "2026-06-22",
+          "title": "A World Cup Debut To Remember! - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DaFYzVnV5aVBZREJIcUpoZU9qYkhtOExZaHJrLVdCaGNyTnZRRW1EdEsxTG51Mzhlbmh3ZVlxX0FMd2NxRlp3Qy0tMVo1YTBvSlFSUW9sR2xzZEQtb2hxaTdB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782161329736",
+          "date": "2026-06-22",
+          "title": "The United States is lighting up the World Cup, so where is President Trump? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXdkQkJ0ZXp5elA0OXFpV0RfNy1CaDlMbVJhb0N3T1UxbVNUbVdlNFRySGZINnFacG1lSVFEdUdiTUVKUXMyVnBhOXFUSDloWjlEd3hvU2pjdU1yb0kwcGdMVGpHM2tDOWxRcVJxWjJ0S3hzSWFNZ2tzLWZJYnZBbzFKNzhOVWFsanZSZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2746,7 +2842,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 192,
+      "chapterCount": 195,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4283,6 +4379,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jeTg0WDh5b1ZCQmZlYnVUVTVLWU9YdmRfMjcyVzgweFY1ekNlUE5lWDVwRXpJZUNnVjh1QlFERlBlZGJST0M2alROalNmY2VzOWZEbWtYQ2Mtb1B0cEZSdGVxcDkzWDA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782161330393",
+          "date": "2026-06-22",
+          "title": "FIFA backs controversial World Cup venue after France and Brazil stars raise concerns - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVEQzUDBuWE1pRlFaXzlNV3NDNXUyTVpHaGlxNFFmSWotNjBKaHREQWRrSm01VWMycHZWRkc0VUFTZ0IzVlNIbDFCeFg0TXUyWm5JSnlkS2VwTmNoRDRUVk9GQXFxdE1ob0Y5UkpVNXQzNENtSGRtOU5KeDh3Z2tZdG8yazdRM0xid2p3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782161330393",
+          "date": "2026-06-22",
+          "title": "France vs. Iraq Live Updates, Score: Latest World Cup News and Goals - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1NpNkh3OFBKWVFoS2pHSllNQVI2Y3ZKYTRMZ0otZVdiRWNPcE55aDlGLWdGYXVpS1RwUGVRNXZNZGlEenhPRnVmT2tIRjFlUGhFeVRZeTVHOS16T0VzZFBsakZiUW1fTmw5aFFnaG9Xa20tS2d2WEh4NGhReGtGYy1IaHFJYWRCR2YyLUtJdGROOXNTSm5vd2dFNEFONnJUQXUxVGhKbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782161330393",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Scotland's Shankland 'craves' chances against Brazil - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG1JUFBnd25yazM2dW9jNEttSTFxeXMxZldkUmJMS0JiaTJjbmpoVHRnd3FPemE0UGU1TVM0VWl3eXZnbHI0RURxa3ROS3JPTk95VU4yeEJFQ2syZVIzald4Q01yTVVrMnc3d0d4YnJnUjMzUDhfZjJSNEYzNDdQVTlOeWV3V1AySmxxeVZQX2FtM1FuMWNIWVhNc29qWE8tU3R2ejZIQThfaHJscWVYV19NclRJSGwwVHlIZnE5Nkt6cEo3UFF5WnZGWG5MNVQxWWE5VElVOWFoWlBGZ294bk5VQ08?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4416,7 +4536,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 209,
+      "chapterCount": 212,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -6088,6 +6208,30 @@
           "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT19ocmJUWUVZaUEzcVViay1mMlJvdEd5R0hCaFdEVG5NRzFNQUE0VkhhQXJRNjJCZXZiTmVGZUM0ZUFuYVV5RFMyOTExM2xYeC03YXRqTzhQajhWcWlCTHdKMnpRSFFMbUpBN1NvUGlfdDJGLU5KV1F1Ql9JWUgyR0xSZS10VGdxalNhaXUxQXliYk1FWmV5Tm1qdy1VRDZTWDYwSjhVM05PS1NOWUJmbDZiZFQ3bmlNdENuV04yV0JFVzdDaUVnWDdVcERtU05VUlNoVFJlRFNVejJxUVFMOEx5WQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782161330977",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Thomas Partey 'ready to play' against England - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SeEtYUUtlMEMwQm5xNVBKM1ZFMGpka1p4QlBON0xXZFNSNjhYclBmSDNHLU1Memg2dXV4eTNheUg0NjU5MnJRMnprTEE4N3Z5SFBFM2pUV3ZoaDc3NHltYWhKX1pkc1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782161330978",
+          "date": "2026-06-22",
+          "title": "Semenyo and Ghana aim to emulate 2010 World Cup heroes as they face England - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2dQdU1LQkxYX3RsLVFha3VheGJDSjJ0Z2pndDFxbmhJWDFHendPMnFET0xhUnlzQzZHQTZsV3Z2dWNhMTFWalRzZkpuSjR6ZkZfRmZkYTM1X0pab2JlbWpTZlBRYVZGQnJRb1lmZmFZYjRWcmlNZEtkMmRzeVc1ZXVvaUR1T3diNWlUc1AzVHQwYXVyTkhha3JzTk55MDg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782161330978",
+          "date": "2026-06-22",
+          "title": "WaterFire event to welcome Ghana, England teams has been canceled - WPRI.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGxRcFpGcjhlTEQwdnZkNkpaSkFYQUJHanBpaFFUeDVsSm8xTEVBS1pyNnp0RXpnRDFTaVlfN0tIaVlEejRmV1Y0S25yZzQ4QnlEdGdYb1RLejNhUUs3LTRNQzN3RFJXaVcyX2h6XzdlRk9oTHd6YWxYYUN5Mm9EaTV2QXBlZXVJRExOSnZxUkViVjJ1dHpGV3FZemtXLVphdXllbnBzV1pYODRV0gGyAUFVX3lxTE5Bb2xuX01UTU43ektySHhWWEZFQm1zeE9zeURpT2xZcVFqXzBPNllDcTRzZTNDMGNhSHR4SGNCUWtGY0JSeWZJN0V5Rm9rQ1p6TTVIRkUwMHlha1dNQmU4QTB4REo0S1ZHaENBOEJXQjRDVXBZcEhhNEM4QTFDRFlIVWJMMHVHMzMwSzlVNDI1bWxoTThja1RBcG5IaHk0ZkFGQXhWdFYyNHZPOUZXZlRZYmc?oc=5",
           "draft": true
         }
       ]
