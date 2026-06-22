@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-22T04:15:54.304Z",
+  "lastUpdated": "2026-06-22T11:55:00.638Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -572,7 +572,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 78,
+      "chapterCount": 79,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1197,6 +1197,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2RsUFJiUmdWWnhiUTFYa18yZ0lOT0p6eW5hcDNJQU5FYUxucTlCbkdWMW1FcFpJRmd0VTdZaWMzQnlZNjV4M3ZKcDdMRlBqNmpDYy04RDg1RzNHSjJsZlgxTUlreW9qaVhyYU5ScWYwRmtmSS1Ucms0RDd6cUlNNDExTnpVLTNCUXpiaF9IY292U3pRb2ZxVlhTcDBEN0ZkeXRIUWthd3B1LUNzRWlpY0RTeVLSAboBQVVfeXFMTnlqZ2JYSjhfajFrNmtDZWZiZGdSM3ZyRmc1UXFBMEc0QzJRdHpnMlN1ZFJsTUJnbUhKT0QyM2VzRlFEcExoLVhpX1luRGRLYjh1NzNQQ0FpWGNjZVZrdG81Z2JKeV9FbDBvNGNfVXVucHBfNTNXaXpvdmJpSHBTc0R4WFFRTXNxekpyR1hkclZPeGVScWI5NDBETmtYRGRYS2Y1Zk56dlc1Y204bEE3ZldOaHFNbGR6NVBB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782129298974",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Lionel Messi Argentina v Austria, Kylian Mbappe France v Iraq - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43RjVGWlVIal96NTBwRmtzZEl0YXhFRkduNE15dHh2Wm9hdEUzU04ySzZ6aHlaRWd3UG5OZldKQ1RxdG8xT0hiaXN0LTduUHpMVlJpZ0xEemRWNFU4eGJ3d0FR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1215,7 +1223,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 181,
+      "chapterCount": 183,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2664,6 +2672,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlA1RW4yUFBIeWpWbDNTd2NCQ2dmOU1McHVTT05Tak11SDJsT09Ec1lTbkVOX212YkdBcG15OFc4czYtZDJPcGZGR1ZuZXNpWmprSzVZVGdBZjJ3T2EzZl9UV21DNURGT2RSanNUSEpMTXFJOTNwd0M1elNrZ3JTZVRhUE80bm1mVmoyNEtTcVVDUF9sS3pyQ1FUR2VJY09naGgxeU91UVFPdTgxS0xhenNlZFVMMDZockHSAboBQVVfeXFMTkgxWktqcjlIUF85TWt1MnBjUm11Yjd0eXdCQlVYdmd4XzY1UU9CQjVTcmlLRzNIV1F3eGxVbEZJdlMwSDQtaXF3aElSdGgzOFM2aG1xWm5lR3FiMkp5Nk5faDhydzFjWDJQc3VZbkRNM21fMkY0TGFxVnVhbjFqalhDVFhvUEFGOEZnLVVQa1FTUjJGQkJHOEZpTUlteGJsQmN1VUdnT052b0JsLXZRMEZ2X05BNUFzRHFn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782129299612",
+          "date": "2026-06-22",
+          "title": "Pochettino Exclusive Interview, and Messi’s Hat Trick - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaURXam4wQW5ERndBQWhIcGxKRExsZW5jc0lJUnBlRV9Gd1cwcjRoM3FwN0UwWE1vQ2x1eVlJSnZ6cjJlYUVQRldwVTZVeE5hSTlCWk9IR2JfSXZlcEZ5S3lveVNPbWN4Q2xONWRueVo5NW5jNC01WkhOS01VbU5sZmdXQnpFengwaDRibVJfSmduVHNtMDZPNmFn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782129299612",
+          "date": "2026-06-22",
+          "title": "‘Law-Breaking Country’: Iran Soccer Federation Escalates Tensions With U.S. - Time Magazine",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjRNemNtSGJSd0RDOVNibS14TTVBUWpuQlpGZUZGY0cxSFZEbkh4U2cwUXM5WjhPcVR0bS03X3dSdTAxZkIwYmVZUDRGUzhsdGluS1JSRmRPR3R5OW45b3cyVF9yQ1NON2QxSzdrN1NqNnY0aWVKenM3RE5FdzZnQUZ6MVJTTko2b3BfYVdUdG1nRjl3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2682,7 +2706,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 190,
+      "chapterCount": 192,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4203,6 +4227,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzliODA4WC1mYVlNWFBmZlEySzRueEQwRmhJQkJaclN3WDBlUzRpQlFnV0NXQWhhRlNUTmdEUjZEc2hzVHJrZXlmOFZGenotN2syZHhjR25KbkRiUi1MRDcxa3hXR3Rya0JjZHhBS1N3MkxnQjluQWxkaVMtclJYNklfT1FHNmw4QzFWbzUxaG1TVmJ2ZXd1VFFHZURYQld5TDAxZlZZd2VVOW5FZ3dBbjdybGFQSUotcGRURFZ3R0lPTVFqZjJuUmtIVTZ6bzZFUGIteEdVODlRZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782129300142",
+          "date": "2026-06-20",
+          "title": "Haiti becomes first team eliminated from 2026 World Cup with 3-0 loss to Brazil - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVV1Vy1PN3cySnFhd0d2eWFCd3JtNEw0S252WWYzMWhIdGJMbjZoa0hMbkk4eUtWQWE0VWMwT3FwZ3lEOTFaNFFfYmVRWVNEMVNwTkQ5VnVubUFPcjJfNEpqS25qYVdQRldkTEZrOVhUUlJUdlk5NGNLLWpWcG5iNU9BN0NkS1p5bnV1Nk13amFKRml5Nlc1MjlhSmxPaFNLNjBwSm9qVlBkUlN4dnA2SEU3M3R4bENmc0dtWWRnQ2ZPdmhyMWpNZV9MSDdQTGd1NDlITjBrSkVWc25kd1JHMUln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782129300142",
+          "date": "2026-06-21",
+          "title": "World Cup 2026: Does it matter if Scotland lose and still make history? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jeTg0WDh5b1ZCQmZlYnVUVTVLWU9YdmRfMjcyVzgweFY1ekNlUE5lWDVwRXpJZUNnVjh1QlFERlBlZGJST0M2alROalNmY2VzOWZEbWtYQ2Mtb1B0cEZSdGVxcDkzWDA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4336,7 +4376,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 202,
+      "chapterCount": 206,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -5952,6 +5992,38 @@
           "title": "England offer rare peek behind the curtain with no place to hide under Tuchel - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS09NQ2FGbmVYWHVCZEI2Wks3ekI3U25hY3dmU0hWTWF6WXFBUnlDdUowNTlURmkyNkd6OV9QLXRNRWluYzdwemxrUmpHYVN1YXRNNHBVUlNLODc0UGNGMUVScnMybEdyTnRRUk9fVTlsaDZpelRzRmQ1Z3pQLXlmVVZGdHVsZy13UTlXUGtWUHFTMGktX2t5cHBqcE5DX0pMQTZBZ0poMXVZYnU3UVIxQ256aTVvVHlRb29B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782129300638",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Who's facing who in the last 32? Every potential fixture in the knockout stages! - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PU0s1TTNqc0psZDEzY0c3a2xOcU0xd2o3QzJRQUZrVWdIM2phVXhZNEhUZnFJUlFqcFZVVzg1QVFac0ZWdGhnRFBMS0stU2wyb1J0dmxId2lyVFN1Z1Z0U055WkxKQnM3bU8xYmNkTkVFMFgtNVdkTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782129300638",
+          "date": "2026-06-22",
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for June 22 - Mashable",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbm9kOVlpVzJiMklhN1VMSld3c0VnMVRhWjJaR1RJVEY5bVU2QzU5V19YWW1SWlRkRklKQ0psNk15d1lWeERWNlRaZWo0aDNUU1JDNGpmczN3c004aklHdEcyN1VyTDRNenhNT3dEN1lXNVBrbjNFVGx2T3l2Z1JsUzN0WXhWS2gtS1dsckUzeF9WaEZ6MWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782129300638",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: England boss Thomas Tuchel has Marc Guehi pushing for recall after uncertain John Stones, Ezri Konsa performances against Croatia - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbHNpRVZlekN3T2lvbHJhQWRCRm9LUnZRQnFWeWViQno1ZFY3UlBEMUphZkdvQnBROGszWF8yODBxZ0V5M2o5R3BvOTF0UlpXVG9Qd0JzU0xVU1JWd3A4SUxlZnEyWG11OFVNTDY3SFRYcTk5eGFudVVwNWdjZWlFbXc1ZF9QdkZqODBNXzJlMG92eVVEOUZDd011QkVhOHVXa3VzVklsVzVYN0UxekpjMlY5T3FXakpMWTJnMG1IaDRlUEVVQjZpNVI0ejdKVHZFa1dOSEx2ZnVRXzI1RlRpUFgzd2NUWTVKOGV3bmJTYWl0bHZ3MkcxeEViNEZqODk2TjR6cEZXTHlUYUh3dVNGa1N1MmpZQnU5ZUVld0pLc1hJSVJF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782129300638",
+          "date": "2026-06-22",
+          "title": "Madueke's remarkable season - from petition to World Cup starter - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOTmVobFlxQUpnSnc5MjROcXlEMEV0S29VdUJhOElzTmJKOW9MZmFwakNCRDhJSVltbFdwUXhjNjAxLWxweVQ3dzBneEVvX2cyNEtqUXdkbjJYUmhuZURTTnJYMkdSTmJRd0E?oc=5",
           "draft": true
         }
       ]
