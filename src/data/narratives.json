@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-22T22:47:51.030Z",
+  "lastUpdated": "2026-06-23T03:35:12.495Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 75,
+      "chapterCount": 76,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -618,6 +618,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMU5ibjN6Qms2XzlCaFBBQXBZbHd6OUM1QXJKZ1BWRHNyZk5zX05VWGdBUG9SM1JZcFlvdmxfTl9jR0h6LVgtNWcyYVhDR0ZZTWV1VWRlQ25BWHJLUmlYdXFXNGxXVDlBaDhUUmdvTDIxY0lVWlF0d3pramNRRXdPNy0tUlZWYWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782185710224",
+          "date": "2026-06-22",
+          "title": "Lionel Messi breaks World Cup goal record, shop his trending Argentina jersey - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3dtNERWQzkyMnhHYzZhai01WllWamZUOTNTUlRqdzYya1VHRFhrUjdPTkg3end0QWVmdTFmVk82WGpPei1HdS1JVC00U215NFdjVW10RjJiYWNLMUhzc1ZCLTEwRy15cGdydVI2YWV0UFo5WE1lXzZjTkp2TzZkVmh3YVZsSndyLTk1Z2lkMy00aFZLaUVqQU9GMUJscEt4Vmk2bkQwMFo1a001VEg3eWoyR09KS05LZ1duTTdVZ2dwbHFiZzVWTWl3R3JUWmxv?oc=5",
+          "draft": true
         }
       ]
     },
@@ -636,7 +644,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 84,
+      "chapterCount": 86,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1309,6 +1317,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDX2tlWlhEc3BFZW9VVUVxbnZQNjVvMDM3NmVkdFNVd1pPYThUWE0td3R3TF9aVU5YUHY5bExCakdiTDNSU0hFbF9PODZqVzRrTlhsQnJ5S0o2TjhtOFpoRkxB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-F1",
+          "date": "2026-06-22",
+          "title": "France beat Iraq 3-0 at Lincoln Financial Field, Philadelphia, PA.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1782185710716",
+          "date": "2026-06-23",
+          "title": "World Cup Daily: Mbappé, Haaland with two goals in wins for France and Norway - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYW9HOHFhaFhCaFBTT0NBZzhLWWNvNlAzNjcxRERZdlF0TmJSNEVnR29yZmhwWDFucU1iMGZEMERZN0xxTVVlbmtXTldhaHlYYTRDU1h2elVUUWQ5dlBIWkhkQ2FKeWpFTGdpbm9INlBSQjdfRHc2QTRCRXhtWlctSnR5RFFkNklWcjRiMi1Ib0luRlJwNVM0dmhiaUVRbEpRaS1obGs2SXAzcy1NekJ1dlo0V2xZNUJSSnRtaA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1327,7 +1351,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 190,
+      "chapterCount": 194,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -2848,6 +2872,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MNHVQUGpNQjRjUkFrWVQxbEJkVVFhYlZQX1phZ2hHbVlkdUtxbm1nVWFNUUNvY2VkNE5kZ3NlcTl4X3FTaWhzMC15blllSUlRUVZQT1ZMcXp3TnRIRmJLUVhB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782185711226",
+          "date": "2026-06-22",
+          "title": "World Cup 2026: Which third-place team will the United States play in the Round of 32? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREJuOU1fUTVTeGNJWU9kU2lrUE5la1JvVmoxc0JzVXJSQXA1TVdhaUJBdi1xUGxPMEVSZzNLQTFCOHpCSU9SUm9wQWNNbnJLT2Z4TnlKQWZiMEhiWjJYbW5BbVJ0LUI5bDBuejdQNTE2ZkNSUkRUV1lpelA1eDRoUHg2TUpHU085OG5lU29DZWt2V1ZFQjRSeFl3dzQwcnhxblNabk13R2ZPUVJ3TUVtc1VKeGxLZlVRTFJ1dlpYQjhtcmtUNzZiRlM5VWp4MEZJYmc5LUxn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782185711226",
+          "date": "2026-06-22",
+          "title": "Why every round-of-32 team will, won't win FIFA World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW02VDlOOXh1NFpQTVdjSUhQWmpmTGRCdVdmRmFDZ2ZYaGRWRWpodEhzbmZQX2hUVXdaVUl4Z1NhMXB4ZEJ0RnNLX2R3U2xOOE1KOXJWNmVpX0xoMTF4d2NPQm9sellLcXdjS1hOeVdtM3Fqb3JJZTVDUTJtSnk3XzFWSWtyMnpJMEI0XzBjMWRHb2t2dWh4RVZhdlBCcmdUV0c1d3lILUl5NVZTbE9kanhDSUlwbkdBY28ybnQxVHpkYV9JSXJMbU9NRzdZcjdISWhkUzB5XzFEbkNUeVYtQXh4M0RSRU0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782185711226",
+          "date": "2026-06-22",
+          "title": "Cheapest USA vs. Turkey World Cup tickets drop almost $1,000, shop now - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaU9janVGUVh5a2Jvb290ZzZWMkFwZVRHYVllYWtUaDdieEdXcG1uaTZ1Y2YxeHBwUllXdU5zeUs3aGJHZXExQm9OREJDRXZmRElScGtsdVA0NEE5aFZDdzZETTRGWDgxWDdodHlSU083UFhJMll1bzZFTW91UktqV0t2SWw5eldRQWltbDZmY3NEM2p3N2VjZm1yTXdxZ3JlbnlJS05jdE9YdFZfemRvRG9oUThVMk93Zzc3TURLa2F2SlJiTkNvTlhsTjBtNFo5cFBnOGRBcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782185711226",
+          "date": "2026-06-22",
+          "title": "World Cup: How to get tickets to USA's Round of 32 match in Santa Clara - KCRA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHRSamR0S0pHY3dJaFE4TmhJaTRHSUw5d1VFVVJ4T3hqbjg5MThVY1NXdnM4MGVBLVlXaVBRZEZJVmdMVl84ZW4tXzc3dHIzMTZjSWVZNE9MM1RmVDFkNTR4cTh0LWpXTUtBNTNKOEhNcS1Wa0Nuc2gtaHhzSWNsdlk5LWtFMWpiTkdwal9sMjg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2866,7 +2922,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 197,
+      "chapterCount": 200,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4443,6 +4499,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbktUQzB4UW1NNkJDNWU5Zk1RRkhkNDc1bjZjUTFSOWtrcFFPdXBkMVFxOS13UXhJRlc1OXUzM2FOMWlaQ09Pb05aREhCQUdNRzJCWXRRVkRIMTROQWtMMTB0RVI0WUEzdS1NZHhKUnJ3NXFPaUkxbEVQZVVBNml5Mkt3blJNbXpaX1ZING4yM3RpTGpLQWdDdGhlZWVhVDBxV0tMSG8xcHJja3Z2?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782185711965",
+          "date": "2026-06-20",
+          "title": "Brazil 3-0 Haiti: Cunha brace, Vinicius strike as Ancelotti's side stroll to victory - as it happened - ESPN India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2stWElKeUlqdnRJd1NYeGkyRzhxZ3lYNHZkeVYtNmNDNkIwdXp4emNFeWZoY2ZKWXNRSkFESHYwTnI3T0lHWk9qYVJ6cnVuSHNzY1NwYk0yV2xtSmVrUVpHaEMyaEV5QkcwRDVCdUFSYkx3elNvanNmVG5QR3p2eVkzTENxR21YY2VKX25RbFBrZHpfMFhsaWg0NGpRRzRKUENjb1RHbThLZWo2RmhyelNteXpHb2YzR3dPMw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782185711965",
+          "date": "2026-06-22",
+          "title": "Why every round-of-32 team will, won't win FIFA World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbW02VDlOOXh1NFpQTVdjSUhQWmpmTGRCdVdmRmFDZ2ZYaGRWRWpodEhzbmZQX2hUVXdaVUl4Z1NhMXB4ZEJ0RnNLX2R3U2xOOE1KOXJWNmVpX0xoMTF4d2NPQm9sellLcXdjS1hOeVdtM3Fqb3JJZTVDUTJtSnk3XzFWSWtyMnpJMEI0XzBjMWRHb2t2dWh4RVZhdlBCcmdUV0c1d3lILUl5NVZTbE9kanhDSUlwbkdBY28ybnQxVHpkYV9JSXJMbU9NRzdZcjdISWhkUzB5XzFEbkNUeVYtQXh4M0RSRU0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782185711965",
+          "date": "2026-06-23",
+          "title": "Brazil Star Left In Tears Amid Injury Concerns During FIFA World Cup 2026, Wife Reveals - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2k4VVBBLTl6MVA2NmZTZ0U4cGRXeGtwbkVuYWV1REMyLTJ2M3ozUGszZHJDSHNPUWdPN2ZIcWhtcVZWZk9RZjhONGs4SVdkR1NhWmhGZzZaNEJsOWNjMGlvS3cxaUlSQ0RSUVBQM3RoMlFoV3ZoZTZ2MVNRdjlISGVRMFZSWVIxSVRyaVRCbi1IQ21ISms2Mk9wUHBUVDJwYnk4b3JFYVMtRDk4RUZrR3cxd0VWbHo0enhtT3BqdEFaUkp6eVl3ZzVTQkQ0R21GbVdLN1pPMDdpajZMc3VqVld3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4576,7 +4656,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 215,
+      "chapterCount": 218,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -6297,6 +6377,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmZFlTTUludm5WVkh1NEdPSUN5MFhzcFh5Z0Z4and0R014WThJOHg4TFFMSjhzbDFNMllfZ045YmxrVjYzeVRJTURJb0pTSFNsZmR0WU13eWl6TFF1TzkyVjlR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782185712495",
+          "date": "2026-06-22",
+          "title": "Is watching England in the World Cup bad for your health? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tUldyNktKaGF2RFRpNzVUOHdJRnpvdWhKa1pjdy0tNmRGekNsd1JlT0VxcDZ0Qk5Xb0NCbl8tY2RPYldWck1vZmM5cjJtaEw0VU85elRYZDBuUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782185712495",
+          "date": "2026-06-23",
+          "title": "How USMNT Could Face England at the World Cup During the U.S.’s 250th Anniversary - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWpSX3Jmd1RkZHlBZXIyLS1EWHhvTmxWS01rdGZfRHZyYjZaclExT0N0eXFNRlRaaFNJcnQ0WmR4TnpqOGl4TFhuTGxzbjJvRHpzR2xkMGwtWjd4QUxnSnJIWnFPOXA3VkUtUFlNVW1OUmJsbkk4QjRaR2tpanVqVnZ3NHRocXBzSUh6Z05BY3I3N2ZvMjlJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782185712495",
+          "date": "2026-06-23",
+          "title": "England's Declan Rice: Harry Kane's World Cup form is 'inevitable' - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnpHNXdKbjBaOGZWenNaQ2tjZ3FBS1phUThUa2tPemNVZnZHR3Exc00zOHdadllWY0tHZUlGWXRhaXRFV2FLWWhaakNSY0VoR1FuRFNUMWJnNjBkRHFTXzBzMUtITlFMbVU2aGtkdGtjZmd1UGUtUURDYzkwV1diXzV3Mi11Mk8zQ2Z5TkFueG4waWRYNU1pUkExOTR4bEhVXzVFNV80cHc2eDRibEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6366,12 +6470,20 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 1,
+      "chapterCount": 2,
       "chapters": [
         {
           "id": "ch-result-wc26-015",
           "date": "2026-06-16",
           "title": "Norway beat Iraq 4-1 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-018",
+          "date": "2026-06-22",
+          "title": "Norway beat Senegal 3-2 at MetLife Stadium, East Rutherford, NJ.",
           "body": "",
           "sourceLink": "",
           "draft": false
