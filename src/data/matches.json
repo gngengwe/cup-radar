@@ -2060,7 +2060,7 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
+      "status": "finished",
       "homeScore": 0,
       "awayScore": 0,
       "notes": "England vs Ghana — Group L"
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-23T20:06:17.541Z"
+  "lastUpdated": "2026-06-23T22:13:17.712Z"
 }
