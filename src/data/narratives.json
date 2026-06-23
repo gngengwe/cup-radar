@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-23T14:49:02.010Z",
+  "lastUpdated": "2026-06-23T17:17:33.273Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 80,
+      "chapterCount": 82,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -657,6 +657,22 @@
           "title": "Last one, the best one? How Lionel Messi keeps doing it at the World Cup - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2RXbm1UVmVEYkhqNFE3WnR3d3lmYkdVcF84M3VLUVZkNDRXdnpyLVI3NGlYa2tNNWtxMlZ3LW1OYi1zcExEUWhQMHpjaUxkRXhPejBZdTE4RFRkWTZvWnhBN3RLWE9Nd1V5b1BTUE9hazlDSVBLNGVHU2Q3cXBPQnNrQ2E1ajJsTFZGNUV1Y1dtMmozeE1XdDJyYVV4ZFB5MHhMSGxXVnF5ZzlpSUowV3AxONIBuAFBVV95cUxOS3p0Skw4dTIxTUZmcWpNYTc2OHllNThtaGl3bExrTjZYMkZXX19KWURKYXZhVG5fdmpONTlmWE1oRDVuZ3hGWmlZdmh5bWtpNXA5RXhZS0tJVUdHRmgtTVZCV19CUUdjb0RDMDhUY1c4OExsZGxYZkpZallvUC1wU1BFQ2p4TTNmSERWbkNKckQtTnl3c2tkZm1FT3lQU0kzX2o1U0NERGY1aFVoRGdZZDN0bU80QUNo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782235051229",
+          "date": "2026-06-23",
+          "title": "Lionel Messi breaks World Cup goals record as Argentina beat Austria. This is how he did it - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVB2cDRWTlZpWnplQ2prbTB6UnQ0dkVrak9aeC1ubU9OclBUU21pakFXQUFZc0tsREVhdDFPand4Rk5PZkF2eFRUeEl5OEV2d3g4VlZ1MG5MRTFRSHdHTmFfM0h6YVNIMXJwem9uVHpuNUdRMzRUazI2NnZSamNJX2UydmVxd2I3LXk1Zm45VkpmTEl5Ty1EYnNhY3A?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782235051229",
+          "date": "2026-06-23",
+          "title": "Messi vs Cristiano Ronaldo: when could we see Argentina vs Portugal in World Cup 2026? - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYy02R2hibmYxOE41c2NRVEpFdDk2UFBlRUpnWlNxRENhUEJuQ0JpMTVPVUVSQk5UczdUYWctbU9SVklnM05ubk9ORjIxOTlBU2h1YzFUZ21ZbWY1TzZvMHpKWnFMRTRYTTFTMV90MFdFZm9oNWtQbUoxQWJ0M3M0b2NyaUJpZkd3WkR6VkxnRWJYX2pJdzR5NmZMa0sybUY4NzMzVXRibUNmMXEwWXBSN0xJYUdMTVFiWXhJelBldjd2TVM5aHBoenpR0gHeAUFVX3lxTFBSWTNzM1dyUGc3MG13cWRPUHQ4RG51SlZjRWVNam9RMDJ1SVZDOGhIXzRlQThWN2tLWm16ZVFNaXdTUjQyQmVYQkdSekFwa0FVN0RZOGpBeEk2UUIyTGVvZVQwQVJDSU9NUUVhVWZtZW1hMGh0SUFSWm85QkhhcGpPVXNFOTRkOWRtRWFwOWNHRVFTSTFydU9Ec00yUG9HM3B4OEhrWU1oTVp6QWh5T0hTdndqV1RnM1MyQ3RKRHh4N1hwZUVYM3RhV0lUcW5BMzFWMHVIcWVzbHFkRGhHUQ?oc=5",
           "draft": true
         }
       ]
@@ -1431,7 +1447,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 198,
+      "chapterCount": 200,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3016,6 +3032,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hZ3NpSEtGWGJjSEJZUHBmWHRHOWxjV25ZZDNLSkxxaXRiN1JJNWVrZGVUUlM0UjBJQk1RODdkaE9ZQ1puaFVGQlRXVXJoVm9DMVNwMzZYQlJzZTlDQzkyMXJtOWtMaGFRNUxOQmxIQnFNM25YSmRuZQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782235052242",
+          "date": "2026-06-23",
+          "title": "Donald Trump to present World Cup trophy to winners, says Gianni Infantino - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkdSbmRjWXBYby1vT1NzTTRSdW84dnZ0dGpYV3ZFdXh6UVpiU0FnTWZuTVdrUWFrVVpGQTJvcXBBSzVtNURLMWNlbFVLemFYSnB3b3pCdXNKdGxkVzBjVmJYNUlkeEctQVVhVzlNS1E1M2ppRVdzTkdKeHZsc3lZNXpxeTVNNmRyWVc2bnF5SFo3cWJTRXdYSHFqc0RRWFJP?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782235052242",
+          "date": "2026-06-23",
+          "title": "USA soccer GOATs: Ranking the ten best men's soccer players in United States program history - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDJoTVQyZ2RmZ25JdFdPdVo3WWtPVFQyaXpFTUV1ZXd3bnkzbnI1WTlCdG1vOWozeFRpN0FkcmhucUtDSDBrTTBlSUdHWE9WbV9qTUJIaTNJdGZKempPYUV5bUZTR1ByaWR4UFZZbFdZZ0pMSmh3ZXV1YThEUWxCQUdNZHVfNlZmeldtUHE0a0xrWUEyUlJFU2dRc2oyc2Nlc2g3VEhoLXVNdGt0eU1mN09lQzFObU1xR21EUk5MQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3034,7 +3066,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 202,
+      "chapterCount": 203,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4651,6 +4683,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcEZMZmZlOWhHTWNDbXRiQkVwTnAtZDYtMGVacENpNjB4VkYzVDN6RUV4dmtRNWdTbDBqQzhJV0RHVzZScGtlR3lRLVpBMGpmeU5jejhRdmVQRjdRdFZoR2RaemdmMUtfbUpvSWYyaUxEcWtXTHk5eDRYSjhkTFl6WDBxdFpkSnYzZ0d2NDJwMGlPTWVjaHFEMFNSbWNuU3AzSDRvRmREMzdzWUExalFzYkJxMHJDRmlSQjBnd0QtN0J3Nk9uNUduQ0cxMmZyUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782235052739",
+          "date": "2026-06-23",
+          "title": "Barcelona sending warning to Brazil over Raphinha injury - Barca Blaugranes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFctVDJqSzNCc1NSd0R3ZEtteWZFcnpRQjVVamxnVEVVSWhmaEVrZWxPVjBOSHdRUmIxNi1PUlZMRi1hMUhVOS1hZF8tQTFjckNMTFozaHZBSXRtS004YVVnTlhYU2RUazk5bEViRXp1WXVqeXJXLXZuRm5aUWdjLXJIQVpmVmVtcC1Gc2M2RHRWUWNsTnJYNXlUYV92MGZ2ckQ2MmZldy1EbHVKclhZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4784,7 +4824,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 225,
+      "chapterCount": 227,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -6584,6 +6624,22 @@
           "title": "Thomas Partey ‘ready’ to face England at World Cup. This is why he is yet to play - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmpHdkNIWlVUb0dRT0kzNkZsQUhQWGlxR1BjWkhpV25tVU92VGwxSmZlTFc4Y2JFNHdqaUVWM3lBM3FKTE1IOFlhYVNMVW54alpKN2lMWko2V0ZvcVl4UTdpQlRsRDQySXpzN0N0WHZuNDh3b3lBNnBXUm9CLUNnYTM5ek9oTHV6RUVVcQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782235053273",
+          "date": "2026-06-23",
+          "title": "Noel Gallagher Reveals His Thoughts on Oasis' ‘Wonderwall’ Becoming England's 2026 World Cup Anthem - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUgxa3ZtV01CUFdqRXNqRHE2NVVwRXpBZWNRVnFON2VacXZVdk1qTnBnT1BuT3dWYWlhaFZwUld3Y0p4YmdMcmRqTEdheExXT1JiaWdQdjg0MjhMQlUtQmh4NmpCRHZvUUJDdnVES2lnSk9hZTJLcVk4RVI3TXBnUmhkdGJmOVVibmJVT0RjN09hT0k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782235053273",
+          "date": "2026-06-23",
+          "title": "World Cup 2026 - updates, news as England prepare to face Ghana - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmVUSThWZWZIR2dzUUtSc3VXRG9vRnd5WXQ0NWZzcjVNdDE5ak9KWFU4Q21nLTh3MGx4LURjNkJucjV3ZEh3OUcwaXdnYjNBWjVMazd6ZnlGeHZHSV9NY0poSmRRM25HNXZVbm9BcEdXUXdfdlZLWVhrTFoxelBWcnNMcGNFRmhtVUNwVVBsUkdaZnBYS0N3VmZmOUtQQkF1amRlY0tB?oc=5",
           "draft": true
         }
       ]

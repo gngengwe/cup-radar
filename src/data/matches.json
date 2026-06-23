@@ -1994,9 +1994,9 @@
       "group": "K",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "notes": "Portugal vs Uzbekistan — Group K"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-23T09:38:47.686Z"
+  "lastUpdated": "2026-06-23T17:17:27.930Z"
 }
