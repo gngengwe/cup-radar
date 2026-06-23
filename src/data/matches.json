@@ -1333,9 +1333,9 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group J simultaneous"
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-23T03:35:07.187Z"
+  "lastUpdated": "2026-06-23T09:38:47.686Z"
 }
