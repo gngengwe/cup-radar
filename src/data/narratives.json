@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-24T14:30:39.142Z",
+  "lastUpdated": "2026-06-24T17:04:36.475Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1527,7 +1527,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 214,
+      "chapterCount": 217,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3240,6 +3240,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3ZLMFI2dE9SVEFzRmx4c0FTR3dSNWVRRXp3OEFOSk0zY21SVzU3NWgxQ09FTERHdjZ4ak5UY0VIY1ZqUnptYlp0MjFBUkJpNW5DU2hCYUM3dDlmMHVHd2pqYVQ3Z2dYaDNTMWd5SzBmUi1hRHUwZHVza0k4Ung0cklSVWJGNkJUOUFnY1gxVTFiam1iM3lrYlp3dld0b0xBRWJ1T0daNTB0T1QyZDVic2JNV0vSAboBQVVfeXFMTkZjdjViRGtWaC1XSzQwUk9ndnF1X3FEVXhzZmg3ZHpUTzY4RW10NDNWSVkxRUN5VndQTTZZMnBmal9ZMHBZSW1ROEJIRnhnYTlldTVJM2hYTWtscDB4TGhfVUoyN3dmR3RVRUdZMDNqRVpkUTVfbnhHTjNORFYwWVF4NkRwX1FYcWV4ZlVEZlpTVk4ta20wVWlXeEdCVjFjb3dmd0UtYk85R2JlbXhRZ1A4cnFlRnlFajFR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782320675433",
+          "date": "2026-06-24",
+          "title": "World Cup live scores and updates today: Groups A, B and C will be decided - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUG9DeFdTRkF2a1hVcHBqQTVFXzJfUjVjMUUyaExkeTM1a3EwdDBtVEFOcFU5eVYyYXZucHp6LUJHRU5PR1JjVDZ1MUZ3aUFaa0IxZXpKaHhmSGdTRUJwMDhid3hpMDA2ZE1vU1VPVy1lT0xLT0NuekNxY3oxcXFZWlNaOU9GMzQ1VjZnY2owMWs3eDRWMmRWc3l1bVEydlo4bmJwcU5IM0pxa29oWURNdVUxamdxR3pSWVZrS1lhU2ViS3dGamFIVFJn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782320675433",
+          "date": "2026-06-24",
+          "title": "World Cup: ‘Why not us?’ — Inside Mauricio Pochettino’s U.S. soccer revolution - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01ELTRxcVVwb3hHWWF0YXAxbnpTWW90eDJCTlNqWTBTbzZ3elktRkNRbzZpUXVGRC1MOG9kRUc1X281MGZUZ3oxQ1l2SzdEcWlfMnhpbVBkVmdiODFZMlNjREtFaE1PU3R1TjRmbDBhdDhneGM4SGtXUXZqUUFmM0d1S2VhSDUwQWtvRGVXN25Ea1M2R3pjSnloM2I3NnpFTVVlYndYZXZXcmJ5dERROWNtOFN5SHdOc0NDdzFnYWJrY0k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782320675433",
+          "date": "2026-06-24",
+          "title": "How to Watch: USMNT vs. Türkiye in the FIFA World Cup on Thursday, June 25 in Los Angeles - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0U5ZGd5clJJa2tEeG1QR1Y2Ry12czZ2dzdIRVpBWS04dy1McFEyT2JmVUM3WUllbl9ucnpWUVJsT0JodUxkMHpvaG9oR1pMUXk4RGdONjRJN2oyRWl6VllqcTJqOWFtZjlzclRUdk05TW9fdE92Mnd4dk1lQ2NrVEE1VS00NjJHd2xKYUZIbTVsM2pQcnlHZy11U0pWSFhraW5rOHpuOVNtd0FMRTdhRFJZbDVvUWVOV2c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3258,7 +3282,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 216,
+      "chapterCount": 217,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -4987,6 +5011,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGp0eHdTVk03cERpV3pKY3NabHdaNC1mcEJWdzlaSDF2OFBfYmVacGUzeHlFTFc5V2dDcHB3YndudnA5Q0NkZ1RsdmE2RVlHb2h2alU1UVBiMnd6cHNGZGpwQkpXcGFONFQ5dkJheGN4WnZlU1kxdWpKWGxYVDFSRHdwVlBocnBUZE5Mb1pndmh2Tmo0QjFoMGUzelFTbDI5QmtFNzRxRnhsbVpkS2ZxS0xWZ3h5eFY0ZDlyWnBvMmxJRm9IM3M1VmdTWGRORkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782320675902",
+          "date": "2026-06-24",
+          "title": "World Cup 2026 LIVE: Scotland v Brazil - are Steve Clarke's side good enough to progress? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FYS01LXA3R09ZQ2ZVQjJ3VDVuSGFTOTJ3Sk9yNWJPUmJtYXRaWGtSbEdEZUdESFZYSjB6bklnTTV6dTliU1c3RDVSNXMtcHZSMmlmYzhzb0NpaE1Zd1U5dEF3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5120,7 +5152,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 241,
+      "chapterCount": 243,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7048,6 +7080,22 @@
           "title": "World Cup Star Appears to Snub Pre-Game Handshake with Opponent Facing Multiple Rape Charges - People.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY21ydVUyYng5U3N3OUpXR3NMWGpjQm1TZnlrX21MeUNnbnROQmR5VGxfMkYwZDBJMHRzV2E2N09sc2JyWm84SXVVSGtxSjJoNnhQM2FZZzhmbkQtNGtwT2dwYXFjM2NNajJVZUhoc1ktT25WemZZdWY1cGJpb3cwMXdMYldXTnBpMFR2cktzTjhySDNwa1hVaUpZRVNxcHNxVVZpSXlhRF9WOHNIQm1QbjltY1M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782320676475",
+          "date": "2026-06-24",
+          "title": "World Cup 2026: England's Reece James and Declan Rice to have fitness assessed - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TnhLNjY5RVJOVGRnSEFkZFZHTU9PeWJrMzdwVTIyNE9YanVWemhGYjEyWWtjZ0plTGJ5amp2STNGRUJIdk1OV21GdjhSQUJqSnhKbWdZOUw4Z1ViS01qSWllbzlieUU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782320676475",
+          "date": "2026-06-24",
+          "title": "A 7-Time Accused Rapist Is Playing At The World Cup, And This On-Pitch Interaction Is Going Viral - BuzzFeed",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaks2VmZHSHpEODEta0d1RGpoOEFwRE5UUjdZOHJ6VW9rb2pfQTl1dDBrWmR3Nzg0NnNlRTU4TzhCckszYk5xOW5VLThWdV9lM2xoREJaWnNjYWtQRlJGNGpFRDBDUjl0bWxmcHdCajJOR24xOWstbVZVc3plTWhjRUdnN0RabTZtQll3aFh2OTh5cFFJdjVR?oc=5",
           "draft": true
         }
       ]
