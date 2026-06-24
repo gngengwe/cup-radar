@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-24T19:46:12.214Z",
+  "lastUpdated": "2026-06-24T22:17:53.829Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 88,
+      "chapterCount": 89,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -721,6 +721,14 @@
           "title": "World Cup 2026: Key takeaways from the second round of group stage matches - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnB0c1Z0Rl81Q0I2X1dTVFN5UnVvUnc3UTNBc0U0NUV4S1gxVHk5MTBtMVBrMlNWZEhrVUdjWHVLNU50bV9DeGt0NDdNeW1iYnNXOEliMnhmeU5QS3Eyb3dTa0VkQUxyRmhKLXpLSnB5SDVZblliMERsbzBzZW5rVnVORWczNmhfYzBoNlYxZzAzYk5qQzh2djlkWVpwakJqZVZxRUdDQ3BYMHpSTWtEQm90TkRwOHVPZ3NZWnpEMW5KRS01Z2JTa01sYTdUZ9IB0wFBVV95cUxNRGQ1R1N3QnQzbFR5RzFMVENfd0E3MmI4X1V4am51QkdVT0hMbEpCUXVPeXZSSE4yc0llUGJRQXNYaVhaSWlvaDJMWWg1dmJhM09SVU8yVkxHamFTSXFfd3dGN2ZHSDZCSU1qLU95ZlJGVGZQeUNEUUdKSWU4VmstOWdGcVZTMTU1MWhEVHNraTJJUkRSOUtjNnR0eUVXZzF3ZzdxeDdkZ0l6dGFhSllkNlk1aklxcVRLUTFfZ0NBSkdOT3RHT1pVWmV6ZDBzR2lEMzdZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782339470480",
+          "date": "2026-06-22",
+          "title": "Messi and Argentina ready to turn up the heat after fast World Cup start - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkFDMFVQS1JlOFJzWHhUbk05N0ltM1Q2dEwweW95d3JBbVFmb01Ybm56eHdsM2gtZVZyOGV6VEFNRzA4MWpac0ZselM3Vm9PQ0ZEenItNHE0NXROTWs4N0ZpRWpWS0ZQYmlrUTNtTHl2ZEF4MHRnWkNlOVU5N0FwdGxPU0ZhYUFNem83OVktVm9BWDA?oc=5",
           "draft": true
         }
       ]
@@ -1535,7 +1543,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 220,
+      "chapterCount": 224,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3296,6 +3304,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82cTJRcjhHVlMyWUxBUGNpZVh5UEhYRDJuLXpKQWE5enE3XzktOEhrX3lJY0MwOXJKX1pfdGNPNkxBajRaT3Q2eC01S0ozWndjZnpnMVFfNA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782339472613",
+          "date": "2026-06-24",
+          "title": "2026 World Cup Projected Bracket: It’s Opening Up for the USMNT - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMm5GalJRZkcwbnFtRHVHbVJpSkFnZV85RWJsMXc4ckZxblJzN0JlMnF0Z2pBdi1taXhaTlVqNEg1STFpNlhWXzNqblc4RndSeG9FdzkweFJrbEY2bWtxN1VEMExzTTBmWjJpYU9OaDJfcDIzM3pXeTcza0hZUFZsaA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782339472613",
+          "date": "2026-06-24",
+          "title": "World Cup live updates, scores: Switzerland tops Canada to win Group B; Bosnia and Herzegovina most likely to meet USMNT - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGVUWWdhZkFQM3M4YVVmejF6R2tBelM0RG9GLUNCT1J4MUxMYURHakl5NzB6MFhIT05mSGNwV0Z2MkVoYXpOUGFnN0lEdy1lWVpXblY5ZWZrTWU0TUNEa3BLdXc0QlZyX2Q4bUdqaWJfbUh2cWJDSHptQWZZbzRJazVvQ3puNWNpODUwLVVSbWdHd29BbHNVd1pLOFI0RFlkQlc5Y3c2UEtiam1GcWtjZ2J4c1g1clFteFFvZXAxMA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782339472613",
+          "date": "2026-06-24",
+          "title": "Bosnia take huge step towards USMNT knockout tie, Qatar out. Was this Alajbegovic’s breakout moment? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjVGUzFVTVd6VlQ4N1JmZGUyWGVZa2RLT1hITE9fOHhVSXhVaXBmS0lITHVfOTZpRWtIazhteUxvR2Z4a3BxY3JUSUR1TktlcGtWY1VnU1pqVFlPTjlsZWJTN3ZZZk9lNDJiWGxZUXdsenRLaGlLT1lVVlF5WWFfYXVSdElOSnpTcG9pd1VQQTdodkYzckd2UDAyOV9UbDhta25sUTV6djQ3T1U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782339472613",
+          "date": "2026-06-24",
+          "title": "US eases restriction on Iran's World Cup team, allowing travel 2 days before next match - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDUxMXRVNmdiN3pJdUZTNExqbFpZclA1bjZxVmkyUk0wRGhmWTFxWlJHTHVPRzN3NEVaYmZLUk5YOUlJOVh1WGlOMEZTS1lZMGVQNnRPN3Zoc09RcG9jQWpYX0N2QldTVEdtQ0NtbGU4MFFoUGpmbThPQWUtUUt5R3RNNVU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3314,7 +3354,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 220,
+      "chapterCount": 225,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5075,6 +5115,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2I3RVlvR1hGekg4NGRhcFNKLTRiLU1XZ3BlbXpIVFprT2R6Mk93eTJwazFOb1FxcHo2XzJqTnZZV0tLQ3R4SlFEanVhUjQtdDU0c1pzcUx1VktJZzJGSUVfbmM0OXp0U05mdEhUSzVXbWZ6UkY5czJ4akZMamZ1Y2d6Skt2cWJHQTNLdE9Ialc1OXdIZkExZ0p3QlNJbzRhdkp6Z1J6NnlJcnVsUGs4Skw0NUhpMXhJT0xDS3ljMGNGOGl2MmJwbWgtODdhMGE4RjZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782339473248",
+          "date": "2026-06-24",
+          "title": "Scotland v Brazil: World Cup 2026 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFBFeWtycjVKU2dCYk1BUTZpalZaMWtwMkJYWnlxSlBnaXNwdWhUTVJJZFZfMnQtMzV4TUMtV1MzclhkR0pxTlNuSlYtVE9jblJzbjRhX25rMm1tRkhneF9JaWVFSXh3cVBuYjJFQ18zQkZ4SmdkVHRvbDlsMXdqUi1aRGtNVHp0RVhtVjg3bnhCcl93WVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782339473248",
+          "date": "2026-06-24",
+          "title": "Scotland vs Brazil live updates: World Cup 2026 game score and bracket latest - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTQ3WGJSUGFIc19HYUhyN2l0a1RaOHJGTjEwVDJSeVJ2YlgtTWExOG84LTNjcEZMOUN6TzI0bmsxb3FFSmo5X0cwR1Vxc3IyeTNDNVZfT3VsVDd2RzJaTGM3aGYwRWlZVFNOUmJzOTE2NllzT2w0U2lhY0NnSXBSRmdXWHlEU2J5N2h0QzJLT3dPczhBcXZUY1NfaUhvTjh1VFRPTWdjeWJIak1XemVnWGhaQUNmeXhk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782339473248",
+          "date": "2026-06-24",
+          "title": "World Cup live updates, scores: Switzerland tops Canada to win Group B; Bosnia and Herzegovina most likely to meet USMNT - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGVUWWdhZkFQM3M4YVVmejF6R2tBelM0RG9GLUNCT1J4MUxMYURHakl5NzB6MFhIT05mSGNwV0Z2MkVoYXpOUGFnN0lEdy1lWVpXblY5ZWZrTWU0TUNEa3BLdXc0QlZyX2Q4bUdqaWJfbUh2cWJDSHptQWZZbzRJazVvQ3puNWNpODUwLVVSbWdHd29BbHNVd1pLOFI0RFlkQlc5Y3c2UEtiam1GcWtjZ2J4c1g1clFteFFvZXAxMA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782339473248",
+          "date": "2026-06-24",
+          "title": "Neymar’s girlfriend Bruna Biancardi models blue bikini before Brazil World Cup match - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUE3Vy1VMmdKWXdYS0xuVnBlcG8tNGp6amJlRjVXWG1tT21WOXVTNU5ZMnFLcVNrZk40TWNSbnUwZXczZEFZQzM4UDZNUzJVWUdISFRGcEJUb3VmS0dwTGRQZnQwbmNiV3NULVRJRGl6QzJVbnpfWVFLM3l5Sy15blFnTzFITldfNXRSTlVVVzBhNmlUTjBsaHNITWxUN2tUZ1BGVVA0cFJkejFYSjk4SVc3WGREZ0ZlZlBNNg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782339473248",
+          "date": "2026-06-24",
+          "title": "Will Neymar Jr. play in the World Cup today? Shop his Brazil soccer jersey - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVM5SWdEellsdXRXd1U5OVgzX05LVWE3clg5UVBwdGpnbDVmcU5BeDhXRTNFTGVyTjRNcDRUNmdSZUgweG1MTFNuVXI0M1FaQ0VSUUNGaFBCQXExcEh0WXE4cTFiMlZfYTZUVHAyNEFIc3pWd1k1bl93ZTk4U2Vnc002V2YzWkpodUZpSHVHZWREdlhhZU5lWmZfM3RnWDFVdHdzbVhvVzZ6dUZTckpCMEkyVzJxUUthWjJlT0NfOHY5Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5208,7 +5288,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 245,
+      "chapterCount": 248,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7169,6 +7249,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNC1TRDY0SXBxODlBd0hwQThMck5HUGxPZHBleExMb2pxbFVuZjU5SnZPcjR0WkY2dkdZUmcyajNINTY4SndvaHQ0SGptUmtZcEJPc1RNYjcyYk4tUmNMZnBCbVVIU19BRGtZT2t5aGduT25RY29MdTNJWHFhSDUxWDhPRHp2blFwZjN6TWZzUWhqQWNqaVNWQUZnVTh6c1FJT2t2Z0ROXy1XUFN3RVNhNkVyOUt6YVFjLUM3X1I4RUlOV2hJLU5VOFlNOHVwb3ZjMjhqUjRlYmZUSDVHc0FYUWRNaWUwUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782339473829",
+          "date": "2026-06-24",
+          "title": "World Cup 2026: England to face Scotland? World Cup third-place table and knockout schedule - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nS0lzeDg4clpDa19ZNGJOZTN0aW9IRlpSX2pJamU2bkJEMTZSZmt4bklpbTdhUE9oOVoyQ3dvQ2RiYmVubS1uQndXWVhzMDNFd3ZyNTlLbWV1c2ppZ25NS3B1SVd0b0k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782339473829",
+          "date": "2026-06-24",
+          "title": "World Cup 2026 today: Live updates, latest news as it happened - June 24 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWFJQNWFxSnkySlprSTFmcmFPdVFxWFN6ZEVzTjNpYkJKWV9vM0ZOenNNbFJXWEgzR0Nvc2NUQ3lQd0hQakp4Y3VLNTdTS0ozZVV5dzRLOWhudVVIU1dROElJa2hqYzl6UF9BWE9TY1NCTTBVd2lYOElObGNObGNpemFtRWdNTmROcm5IbEdGTUVERWgtai1wbUIzd1BCUkFyTDZ2TDFYU0djMU5CaFZTZWNzeTlKbXdXcC03RVQ2WFo4NkxlVDZKZW5Sdmdja0N3MENFNklWb2swemZ0T3dUREE5MXFtbUhUbGxhcEJFUm1xUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782339473829",
+          "date": "2026-06-24",
+          "title": "World Cup 2026 knockout round tracker: Who’s in, who’s out and every team’s path to the Round of 32 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVHRDVGJ6YnQyVHFIMjl0V2tzUnhnZFpfMkJlVkVKUnlDUVNZeTlZWFhWWmJNN2x6Y3g2ZmNhNzRTbTN4QkZaaVB5V3FKQUdQSExJd0lLX202ZDU0NkdoSFpIakdiRVJWcTg5Rkx3ek5BTnZ3aHpUT19qNGoyMmtxX3pYUTNmcEdkTll3SHdWWWZacGpOMmVlcmdsdnRTMFp3VWVRMDN6VUE4SzVLWjF1Qmt1ek5UWmpXQTlvMmVvd05FZlRzQnllSHZlbWVPeTVaeDFHSGtITjhqM1piaHYyVkNJbw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7187,7 +7291,7 @@
       "emotionalStake": 3,
       "summary": "Canada qualified for their first World Cup in 36 years in 2022 and performed above expectations. Now as co-hosts, they opened their home tournament at BMO Field in Toronto with a 1-1 draw against Bosnia-Herzegovina — a fair point, but their group is wide open. They still arrive with a generation of players that could make Canadians care about soccer the way they care about hockey.",
       "watchFor": "A draw at home is a start, not a statement. Canada now needs results against Qatar and Switzerland to advance. Does Alphonso Davies turn it up? And can the host nation handle the pressure when the wins start to matter?",
-      "chapterCount": 2,
+      "chapterCount": 3,
       "chapters": [
         {
           "id": "ch-result-wc26-B6",
@@ -7201,6 +7305,14 @@
           "id": "ch-result-wc26-van-02",
           "date": "2026-06-18",
           "title": "Canada beat Qatar 6-0 at BC Place.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-van-04",
+          "date": "2026-06-24",
+          "title": "Switzerland beat Canada 2-1 at BC Place.",
           "body": "",
           "sourceLink": "",
           "draft": false
@@ -7273,7 +7385,7 @@
       "emotionalStake": 5,
       "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014, and they opened their campaign with a 1-1 draw against co-host Canada at BMO Field — a hard-earned point on the road, in front of a Toronto crowd that wasn't on their side. A nation that only declared independence in 1992 is back on the world's biggest stage, with two more group games still to come.",
       "watchFor": "After a strong start in Toronto, Bosnia-Herzegovina face Switzerland in Los Angeles before closing the group against Qatar at Lumen Field in Seattle on June 24 — a match the Bosnian diaspora in the Pacific Northwest has been counting down to. Can they turn that opening point into a first-ever World Cup knockout appearance?",
-      "chapterCount": 2,
+      "chapterCount": 3,
       "chapters": [
         {
           "id": "ch-result-wc26-B6",
@@ -7287,6 +7399,14 @@
           "id": "ch-result-wc26-B8",
           "date": "2026-06-18",
           "title": "Switzerland beat Bosnia-Herzegovina 4-1 at SoFi Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-sea-03",
+          "date": "2026-06-24",
+          "title": "Bosnia-Herzegovina beat Qatar 3-1 at Lumen Field.",
           "body": "",
           "sourceLink": "",
           "draft": false

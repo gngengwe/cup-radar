@@ -151,9 +151,9 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
-      "homeScore": 2,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
       "seattleMatch": true,
       "notes": "Bosnia-Herzegovina vs Qatar — Group B at Lumen Field"
     },
@@ -893,8 +893,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group C Matchday 3",
@@ -1508,8 +1508,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "atlantaMatch": true,
       "notes": "Morocco vs Haiti — Group C at Mercedes-Benz Stadium"
     },
@@ -1703,9 +1703,9 @@
       "group": "B",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
       "vancouverMatch": true,
       "notes": "Switzerland vs Canada — Group B at BC Place"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-24T19:46:05.487Z"
+  "lastUpdated": "2026-06-24T22:17:47.077Z"
 }
