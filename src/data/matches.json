@@ -1951,8 +1951,8 @@
       "stage": "Group Stage",
       "matchday": 1,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "notes": "Colombia vs DR Congo — Group K"
     },
     {
@@ -2016,9 +2016,9 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
       "notes": "Panama vs Croatia — Group L"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-23T22:13:17.712Z"
+  "lastUpdated": "2026-06-24T03:35:48.458Z"
 }
