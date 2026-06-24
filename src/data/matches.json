@@ -1950,8 +1950,8 @@
       "group": "K",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": 0,
+      "status": "finished",
+      "homeScore": 1,
       "awayScore": 0,
       "notes": "Colombia vs DR Congo — Group K"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-24T03:35:48.458Z"
+  "lastUpdated": "2026-06-24T09:30:17.667Z"
 }
