@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-24T17:04:36.475Z",
+  "lastUpdated": "2026-06-24T19:46:12.214Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 87,
+      "chapterCount": 88,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -713,6 +713,14 @@
           "title": "Watching Lionel Messi and Cristiano Ronaldo in 24 hours. The World Cup is still in thrall to them - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR1BfenlmdVZMc19GdXBrTG1RM2tSU3NvMXVjMXREbVlpYWVub0dCSTJ6dER6NFNmNVVUanZaRnZ2b1lldnpxeEdPdVBaczF6RlQxSzkxWDFyUWhQWS1SZFlwZ1kzRE1pMVNWcEtncC00eTBEalVkNHZtOUJOcmdrRHhDXy1SMmY0NFBvUi1VUi12cmMzb2c0MXo5ZGE4Mzg1YlBZcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782330369375",
+          "date": "2026-06-24",
+          "title": "World Cup 2026: Key takeaways from the second round of group stage matches - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnB0c1Z0Rl81Q0I2X1dTVFN5UnVvUnc3UTNBc0U0NUV4S1gxVHk5MTBtMVBrMlNWZEhrVUdjWHVLNU50bV9DeGt0NDdNeW1iYnNXOEliMnhmeU5QS3Eyb3dTa0VkQUxyRmhKLXpLSnB5SDVZblliMERsbzBzZW5rVnVORWczNmhfYzBoNlYxZzAzYk5qQzh2djlkWVpwakJqZVZxRUdDQ3BYMHpSTWtEQm90TkRwOHVPZ3NZWnpEMW5KRS01Z2JTa01sYTdUZ9IB0wFBVV95cUxNRGQ1R1N3QnQzbFR5RzFMVENfd0E3MmI4X1V4am51QkdVT0hMbEpCUXVPeXZSSE4yc0llUGJRQXNYaVhaSWlvaDJMWWg1dmJhM09SVU8yVkxHamFTSXFfd3dGN2ZHSDZCSU1qLU95ZlJGVGZQeUNEUUdKSWU4VmstOWdGcVZTMTU1MWhEVHNraTJJUkRSOUtjNnR0eUVXZzF3ZzdxeDdkZ0l6dGFhSllkNlk1aklxcVRLUTFfZ0NBSkdOT3RHT1pVWmV6ZDBzR2lEMzdZ?oc=5",
           "draft": true
         }
       ]
@@ -1527,7 +1535,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 217,
+      "chapterCount": 220,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3264,6 +3272,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0U5ZGd5clJJa2tEeG1QR1Y2Ry12czZ2dzdIRVpBWS04dy1McFEyT2JmVUM3WUllbl9ucnpWUVJsT0JodUxkMHpvaG9oR1pMUXk4RGdONjRJN2oyRWl6VllqcTJqOWFtZjlzclRUdk05TW9fdE92Mnd4dk1lQ2NrVEE1VS00NjJHd2xKYUZIbTVsM2pQcnlHZy11U0pWSFhraW5rOHpuOVNtd0FMRTdhRFJZbDVvUWVOV2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782330370444",
+          "date": "2026-06-24",
+          "title": "The USMNT's Path To The World Cup Final Changed Last Night - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1lRZ1h3MVBGS2VxS2JUa3RMTVpTb0pZcUlIQnlOUzh2eC1UQXdwNWdaS1h4WTY1MXp3dDdJS2FtUkNyeFBoVDNna2owazhYU09HYXZqd3dCS1IzYU1VTlBjUjAyQVI1V3ZjS3prQzFWOUpob25vMUhiYVBtODdNb3JB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782330370444",
+          "date": "2026-06-23",
+          "title": "Which nation will USA face in the 2026 FIFA World Cup Round of 32? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGtEcDlrQlN1eENGZldIckpqQVFWTElvcndVcWJsdGdTdXItaVdwYlFhdWdhS01RTnpkZ2xvMW5QS3M1ei01M3NoQlVKbXRaUzBaY2lPYXNlM05JSEdmcFFMc1ZISXVqWERzNjZQRmJiSEw1Q0JoMXhMdGU5em1tdWhTU3hTRV9pb1pzTnRMNkNVMHpMZGtDSXN6Umtnc2xLaHRzWi1aZnZXZjNnOWkwWl9nZVdwdERNaEJabzZDWGtmQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782330370444",
+          "date": "2026-06-24",
+          "title": "Two men make $50k to watch the World Cup, with nowhere to hide - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82cTJRcjhHVlMyWUxBUGNpZVh5UEhYRDJuLXpKQWE5enE3XzktOEhrX3lJY0MwOXJKX1pfdGNPNkxBajRaT3Q2eC01S0ozWndjZnpnMVFfNA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3282,7 +3314,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 217,
+      "chapterCount": 220,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5019,6 +5051,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FYS01LXA3R09ZQ2ZVQjJ3VDVuSGFTOTJ3Sk9yNWJPUmJtYXRaWGtSbEdEZUdESFZYSjB6bklnTTV6dTliU1c3RDVSNXMtcHZSMmlmYzhzb0NpaE1Zd1U5dEF3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782330371218",
+          "date": "2026-06-24",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Mexico, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGJ6SXlFR0d3VDFBVFpyUjRFdzFqSGFycEE3OXFEQzY3YlN2NFE2Qi1wYnJtUENNUi1FdlNsYW1CZ2RIVU5pdjJVeElsbW5yT2NLOEp5NW1ZbElnUUNEY3hzTXlGZy1SaE9hUVZIZ0NGS09FeGVGeXRLd0FWSElqcFJVRllWRDdmUXg4WmlxOEhjRlNNMHJxd3JBMlR6ODQxMVBxSThhVDRoa0poNURmWG91VQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782330371218",
+          "date": "2026-06-24",
+          "title": "Scotland on 'brink of history' ahead of Brazil World Cup tie - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zUGNjZUhZdzRORzZiWVlOeUhMU0lnaHJyaXo2SjdyRlAyUGNfemkxVDIxaVlIV1RNT0Mxc0x0ZU1iVmJEQ1RZVXB3RUVTTkl1dzVzc2RDRHB2UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782330371218",
+          "date": "2026-06-24",
+          "title": "Today's top games to watch, best bets, odds: Brazil-Scotland, Czechia-Mexico, Braves vs. Padres and more - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2I3RVlvR1hGekg4NGRhcFNKLTRiLU1XZ3BlbXpIVFprT2R6Mk93eTJwazFOb1FxcHo2XzJqTnZZV0tLQ3R4SlFEanVhUjQtdDU0c1pzcUx1VktJZzJGSUVfbmM0OXp0U05mdEhUSzVXbWZ6UkY5czJ4akZMamZ1Y2d6Skt2cWJHQTNLdE9Ialc1OXdIZkExZ0p3QlNJbzRhdkp6Z1J6NnlJcnVsUGs4Skw0NUhpMXhJT0xDS3ljMGNGOGl2MmJwbWgtODdhMGE4RjZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5152,7 +5208,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 243,
+      "chapterCount": 245,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7096,6 +7152,22 @@
           "title": "A 7-Time Accused Rapist Is Playing At The World Cup, And This On-Pitch Interaction Is Going Viral - BuzzFeed",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaks2VmZHSHpEODEta0d1RGpoOEFwRE5UUjdZOHJ6VW9rb2pfQTl1dDBrWmR3Nzg0NnNlRTU4TzhCckszYk5xOW5VLThWdV9lM2xoREJaWnNjYWtQRlJGNGpFRDBDUjl0bWxmcHdCajJOR24xOWstbVZVc3plTWhjRUdnN0RabTZtQll3aFh2OTh5cFFJdjVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782330372214",
+          "date": "2026-06-24",
+          "title": "World Cup live: Why England star wasn't sent off for new rule - as Scotland hope to make history against Brazil - Sky News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkphN0VsTkVYTXhlS01GYWdtUEhEU05BZDg1Q1ZMTG9LYTZWbGFMRHBfNVN5T0pXVWMybnhMSDExVWJFcWFvWXpwMDJaS3RicldpQWlKY3RqZHR1NFVWMWZLVmhla3RXLVhfM0JoOWNqVFBwR2pTWks4UzFoTE9GcHI3aGRfaTVMSUNwWFQ5akZqWjlLWmhTOTJkbTVEMjRuNVJqRG5fWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782330372214",
+          "date": "2026-06-24",
+          "title": "England World Cup fan issues apology to America over stadium judgment: ‘They are simply better than ours’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNC1TRDY0SXBxODlBd0hwQThMck5HUGxPZHBleExMb2pxbFVuZjU5SnZPcjR0WkY2dkdZUmcyajNINTY4SndvaHQ0SGptUmtZcEJPc1RNYjcyYk4tUmNMZnBCbVVIU19BRGtZT2t5aGduT25RY29MdTNJWHFhSDUxWDhPRHp2blFwZjN6TWZzUWhqQWNqaVNWQUZnVTh6c1FJT2t2Z0ROXy1XUFN3RVNhNkVyOUt6YVFjLUM3X1I4RUlOV2hJLU5VOFlNOHVwb3ZjMjhqUjRlYmZUSDVHc0FYUWRNaWUwUQ?oc=5",
           "draft": true
         }
       ]
