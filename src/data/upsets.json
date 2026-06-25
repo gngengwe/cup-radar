@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-15T23:03:08.951Z",
+  "lastUpdated": "2026-06-25T03:34:26.387Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -95,8 +95,8 @@
       "stage": "Group Stage",
       "date": "2026-06-24",
       "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
+      "status": "happened",
+      "result": "Scotland 0–3 Brazil",
       "reasoning": "Scotland haven't been at a World Cup since 1998 — 28 years of absence creates enormous emotional energy. They play with nothing to lose. Physical, direct, and dangerous on set pieces. A Brazil or Morocco scalp would be one of the all-time great World Cup moments.",
       "keyFactors": [
         "28-year wait creates irreplaceable motivation",

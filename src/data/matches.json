@@ -648,9 +648,9 @@
       "group": "A",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": ""
@@ -672,9 +672,9 @@
       "group": "A",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group A simultaneous"
@@ -892,9 +892,9 @@
       "group": "C",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group C Matchday 3",
@@ -1507,9 +1507,9 @@
       "group": "C",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": 0,
-      "awayScore": 1,
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 2,
       "atlantaMatch": true,
       "notes": "Morocco vs Haiti — Group C at Mercedes-Benz Stadium"
     },
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-24T22:17:47.077Z"
+  "lastUpdated": "2026-06-25T03:34:23.710Z"
 }

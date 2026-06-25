@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-24T22:17:53.829Z",
+  "lastUpdated": "2026-06-25T03:34:29.019Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 89,
+      "chapterCount": 93,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -729,6 +729,38 @@
           "title": "Messi and Argentina ready to turn up the heat after fast World Cup start - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkFDMFVQS1JlOFJzWHhUbk05N0ltM1Q2dEwweW95d3JBbVFmb01Ybm56eHdsM2gtZVZyOGV6VEFNRzA4MWpac0ZselM3Vm9PQ0ZEenItNHE0NXROTWs4N0ZpRWpWS0ZQYmlrUTNtTHl2ZEF4MHRnWkNlOVU5N0FwdGxPU0ZhYUFNem83OVktVm9BWDA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782358466896",
+          "date": "2026-06-22",
+          "title": "Lionel Messi scores brace as Argentina beat Austria 2–0 at World Cup 2026 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYklTMXA0TTlBblhOVlNmcVZweWV0aWhySWNCclZabXltMjJibE1xZU1YMk9wWi1Cam1GR0lYLTBQeUpmZWhPRzBXaEV6TVM3LUoxbjZXSzk0WkZCSGN6WEZUV2NqaUZuVmJTc2xNUUtmaWh5QmZWaFMtem1tdzhwSmZTRkQ4TEdXT01tNTV1N3piRTQwRTY2WU5NMVA1elpSYmJUUXctWFhOZFd0VzhrMWMyc1h0eTjSAbwBQVVfeXFMTXR4dUQ4di1JS2xrM19zUzl6QlpLQVN4a1l5QzJRS2ZIWV9aUV9kcDMxV2g4OWZXX3Q0aHAwc1VZYlpyLWV5X2ItelJRYTRMQS0tYzFncEtQMDdhTXJ0b2pTTjRSam04el82MUJVSUw5cE8tWVpfZlcwMi1ING9fMFRBX1dlaFVlNk5sNEJMWGZqZFJUWW9aTFA0QVE0LXc1RUtrSkctTHM5N0J6Qk00VlhuQXQ5YU9HSV8wdTk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782358466896",
+          "date": "2026-06-24",
+          "title": "Lionel Messi gets World Cup birthday treat with Argentina squad - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZENncTNnUVNOZGZYNDMxbDJmSy1qLThGakVxSTg4aVpTX0lqY2hYOW5fbjM5cHFlZklETkhGaXRmMUh1VnY1dmJrS2FSczFwcXZUVWlFX0hBMjlSbHpncFJ3TFJJVllxX2hPZ0tXeUdHdS1VV3pyRXVOZXBLYmtIcjN5clNYblBfX3I5bjVZdGpKYjlCQ25fVVgwS1NRVlhmZlpYbFFn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782358466896",
+          "date": "2026-06-24",
+          "title": "World Cup goal leaders: Lionel Messi ahead in Golden Boot race, but Vinícius Júnior, Kylian Mbappé and Erling Haaland aren't far behind - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOHZOa1dwTWhTX05IdFMzbHNOM0RGSDJhMFktbDR0eURrTVFLVXc0YUpZaWtXMHRJZ29mVW44UFhFVHlGUlVQX1FIZlF0V05WR2tOTEthdG4zeE9HYlRQM3FtRXc1anFFWEhqcEVGaU96eG9PUDRPWWc0R3hhRGtRMi1RWVk0YmhjWnN0eTUxMkFELWJCWHlaOE1wWk1feW5BRVU4bmo1QlBucFJvUkJvMW5Nb2lyZ0hEbXI0QTR0OUk4STU3blV5WFl0YmlFRHdkelBFcFZ3R050VXRET3dkbVRZbkVINmQtSVk1d1RyVDY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782358466896",
+          "date": "2026-06-24",
+          "title": "Has MLS Made Messi An Even Better World Cup Player For Argentina? - Forbes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR083SWVmTEhPZzhjWXgzMHNPdkVFWDhKa1huVlROM2sxYXZWOEE5X0pKM3hLS1A1aTlqdW1PUzZYTmhSTW1BNC0yQzZoMS1ESndmSlo5ZjF0cEdiYy1CLXJFMW5DZHRwQ3kxY3hYUXJVc09ld3FpQWVDeEpqbm5TSGc0aUxqeXowaXcwNzJsNzNNNDBpcHpCTmFycDhPRmN2N1VfYkNzcHJNSEpjeXl5bUZMdk8?oc=5",
           "draft": true
         }
       ]
@@ -1543,7 +1575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 224,
+      "chapterCount": 227,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3336,6 +3368,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDUxMXRVNmdiN3pJdUZTNExqbFpZclA1bjZxVmkyUk0wRGhmWTFxWlJHTHVPRzN3NEVaYmZLUk5YOUlJOVh1WGlOMEZTS1lZMGVQNnRPN3Zoc09RcG9jQWpYX0N2QldTVEdtQ0NtbGU4MFFoUGpmbThPQWUtUUt5R3RNNVU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782358468098",
+          "date": "2026-06-25",
+          "title": "Neymar officially joins the OGs at the 2026 FIFA World Cup 🇧🇷 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVmc4NHpXZS01WmUxNHdJeHFickloV19MN1B2dTRGd0JhUGlUTHhwUk9OM29ldFk3TnU1bk9kVFpfVkE5V3pkMTE5cDJ6QTRJWnZDRm4wSlJ4QW5rNFpBNHZpM0xVajFFeFhjQkV3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782358468098",
+          "date": "2026-06-25",
+          "title": "USMNT's Mauricio Pochettino teases heavy rotation for World Cup group stage finale vs. Turkiye - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3JJN0g3d2oxZlRCdzZuclJfMzl2Snc2bVlPU0pXc0J5QXpfVHVxUnFCTmNoR0xfTlo2SnZLdWJCOXBMa1dCMEpaMU1WNV9tRnVHajhRNHBYT1NJS3B3QjlJN2ZGQVEtYzhKak1BNXdjV3dfOVVab1lBQmtlMmllVERial91Y2d1TjlhbU4tRmJheV93RklzRHhwTVdVQ2ZfSmFLVWRXZjVodFkxMUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782358468098",
+          "date": "2026-06-25",
+          "title": "Scotland vs Brazil Quick Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WQlJHcUZjOUgtVDFRaEVIQjlpYnMyTUQ2dXBoNkxTeTBjbUJLR0YzNGJ2MWx2LS13b3hlMDA0QzBGcmpYRGFDNElZQWQzX0xkYmZkUXRZcGIyU2ZwQXBNamMzM2IxN3RNUV8yMTdR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3354,7 +3410,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 225,
+      "chapterCount": 230,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5155,6 +5211,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVM5SWdEellsdXRXd1U5OVgzX05LVWE3clg5UVBwdGpnbDVmcU5BeDhXRTNFTGVyTjRNcDRUNmdSZUgweG1MTFNuVXI0M1FaQ0VSUUNGaFBCQXExcEh0WXE4cTFiMlZfYTZUVHAyNEFIc3pWd1k1bl93ZTk4U2Vnc002V2YzWkpodUZpSHVHZWREdlhhZU5lWmZfM3RnWDFVdHdzbVhvVzZ6dUZTckpCMEkyVzJxUUthWjJlT0NfOHY5Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-C6",
+          "date": "2026-06-24",
+          "title": "Brazil beat Scotland 3-0 at Hard Rock Stadium, Miami Gardens, FL.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-004-1782358468605",
+          "date": "2026-06-25",
+          "title": "Scotland vs Brazil Extended Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaZkFHd3JmQmlCSjU1SGd3RTRGd3BUMmkzV28xVkd4ZzQwZWY4RnNoOGJDZENSdDN1V2NFSDZ1cEtOQ0FyU3g2eTNQS2tka0xzaDcyUTJ1N2RsVHVNdUlnTXNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782358468605",
+          "date": "2026-06-25",
+          "title": "World Cup Daily updates: South Africa shock Korea, Brazil smash Scotland - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcGFfdFNibkFHYmZMeDJmVEd4Q1hhT2FHM0NpakVxYXo2b19RcVZPMGlBX3ZwNDdPUVhzYjRjelc0YjVUMW95Ykp1Sk5qQnFUcFpRZDlTdlBzWGZHVnJLa1ZDMEQwRnhzMkNvam8xZ054cExNWTFGNmtaMm40YUhtTEpfeFpCVml2YXEtWmd5MmotMnJ5cWNDU2tuOXZ4dlpNZFlkeXlISmFJdTFwNWpIV1YxUGk5V0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782358468605",
+          "date": "2026-06-25",
+          "title": "World Cup 2026: Mexico dominates Czechia while South Korea outlasts South Africa - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2hLYzdla043ZzlRWXFzX3BmMVNoQXppVXpyRnZJMUp6WFZROFhVTGRRRVlUSFhsZHpWbF93NUk4NzZQcDlsRlJnLWZkaXBmSndTT3BmYjJOVUJmam5oUXNqaFNtM3BOd2J2SWRFQkxPV0puR0NmN2lWV0pOVnYyNldZX3I3N1ZtOHBaX2JranpHNFFSal8wZGZFOU03eUlzV1ZieDlhLTU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782358468605",
+          "date": "2026-06-25",
+          "title": "Catch Up with Highlights - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PUGhIR3AzYnVEdG9sWFVoeXhCVjd2SFRHZ2EteUdNT0FzU1NTWkNqWVhtZUczSS1tUG5UZmg1NS1mRno5V1VpSkJUaEhBcnZSOV84RHpSbEZaY0cwYmh4QWZ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5173,7 +5269,7 @@
       "emotionalStake": 4,
       "summary": "Mexico has been eliminated in the Round of 16 in every World Cup from 1994 to 2018 — eight straight times. As co-hosts, they opened the entire tournament at the sacred Estadio Azteca and delivered, beating South Africa 2-0 in front of a roaring home crowd — exactly the start co-hosts dream of, and the most emotionally charged chance in decades to finally break through.",
       "watchFor": "Two more group games — South Korea and Czechia — stand between Mexico and a Round of 16 they haven't escaped in 32 years. The Azteca crowd showed up loud for the opener. Can this new generation carry that weight all the way through?",
-      "chapterCount": 2,
+      "chapterCount": 3,
       "chapters": [
         {
           "id": "ch-result-wc26-001",
@@ -5187,6 +5283,14 @@
           "id": "ch-result-wc26-A3",
           "date": "2026-06-18",
           "title": "Mexico beat South Korea 1-0 at Estadio Akron.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-A5",
+          "date": "2026-06-24",
+          "title": "Mexico beat Czechia 3-0 at Estadio Azteca.",
           "body": "",
           "sourceLink": "",
           "draft": false
@@ -5210,7 +5314,7 @@
       "emotionalStake": 4,
       "summary": "South Africa was handed the toughest possible opening match: Mexico at the Azteca, on opening day, with the host nation roaring. The shock didn't come — Mexico won 2-0. But South Africa's 2010 home World Cup showed what belief and occasion can do, and two more group games, against Czechia and South Korea, are still very much up for grabs.",
       "watchFor": "Can South Africa regroup and find a result against Czechia or South Korea? A win in either match would keep their group-stage hopes alive — and would be one of the best moments of the tournament for a team written off after the Azteca.",
-      "chapterCount": 3,
+      "chapterCount": 5,
       "chapters": [
         {
           "id": "ch-result-wc26-001",
@@ -5235,6 +5339,22 @@
           "body": "",
           "sourceLink": "",
           "draft": false
+        },
+        {
+          "id": "ch-result-wc26-A5",
+          "date": "2026-06-24",
+          "title": "Mexico beat Czechia 3-0 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-A6",
+          "date": "2026-06-24",
+          "title": "South Africa beat South Korea 1-0 at Estadio BBVA.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
         }
       ]
     },
@@ -5253,7 +5373,7 @@
       "emotionalStake": 4,
       "summary": "Morocco reached the World Cup semifinal in 2022 — the first African nation ever to do so. Their run electrified the continent and changed what people believe African teams can achieve. In 2026, they return as genuine contenders, not underdogs.",
       "watchFor": "Can they go further? Can they win it? And does their success inspire a generation of players from Africa and the Arab world to believe bigger?",
-      "chapterCount": 2,
+      "chapterCount": 3,
       "chapters": [
         {
           "id": "ch-result-wc26-C1",
@@ -5267,6 +5387,14 @@
           "id": "ch-result-wc26-C7",
           "date": "2026-06-19",
           "title": "Morocco beat Scotland 1-0 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-atl-04",
+          "date": "2026-06-24",
+          "title": "Morocco beat Haiti 4-2 at Mercedes-Benz Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false
@@ -5288,7 +5416,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 248,
+      "chapterCount": 250,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7272,6 +7400,22 @@
           "title": "World Cup 2026 knockout round tracker: Who’s in, who’s out and every team’s path to the Round of 32 - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVHRDVGJ6YnQyVHFIMjl0V2tzUnhnZFpfMkJlVkVKUnlDUVNZeTlZWFhWWmJNN2x6Y3g2ZmNhNzRTbTN4QkZaaVB5V3FKQUdQSExJd0lLX202ZDU0NkdoSFpIakdiRVJWcTg5Rkx3ek5BTnZ3aHpUT19qNGoyMmtxX3pYUTNmcEdkTll3SHdWWWZacGpOMmVlcmdsdnRTMFp3VWVRMDN6VUE4SzVLWjF1Qmt1ek5UWmpXQTlvMmVvd05FZlRzQnllSHZlbWVPeTVaeDFHSGtITjhqM1piaHYyVkNJbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782358469019",
+          "date": "2026-06-24",
+          "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the last 32 and route to final - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782358469019",
+          "date": "2026-06-24",
+          "title": "Tuchel breaks silence on letting rip at Spence and explains why he was angry - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlJRR3dIMFF5XzFZR3JMTWJWYmhwbnlOb18xQ3hLcTZvQVNFQ0ltRXdMcWkzZkxmTC03ZUZZMlltQnF3RDZDNE9PblFTTUQwa21vbGJpeTlKY19Jc1Z0QzFTWTUxY2V0ZW54YlZsRnJPWWh2aldKX1hrblRCaEhkOEtCV2NORzdJaHBKYQ?oc=5",
           "draft": true
         }
       ]
