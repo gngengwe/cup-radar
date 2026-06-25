@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-25T03:34:26.387Z",
+  "lastUpdated": "2026-06-25T22:21:14.482Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -199,8 +199,8 @@
       "stage": "Group Stage",
       "date": "2026-06-25",
       "riskScore": 2,
-      "status": "upcoming",
-      "result": null,
+      "status": "happened",
+      "result": "Curaçao 0–2 Ivory Coast",
       "reasoning": "Curaçao are making their first-ever World Cup appearance — a nation of 150,000 people. Ivory Coast are their most beatable Group E opponent. Nothing-to-lose energy is real. Any Curaçao point would be a landmark moment for Caribbean football.",
       "keyFactors": [
         "Nothing-to-lose energy from a first World Cup appearance",

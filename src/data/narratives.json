@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-25T20:00:52.815Z",
+  "lastUpdated": "2026-06-25T22:21:17.041Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 98,
+      "chapterCount": 99,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -801,6 +801,14 @@
           "title": "Irrepressible Messi breaks World Cup scoring record as Argentina beat Austria - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEw1X1NIbEVRQXp3UG5kbXlIUk1XVW4zdU16dklKRW9kNnpURnZQNWNwV0RENDN1M29mTlREaTNMM0pZMS1ySW1kVVBXcnl3OHNHTlhNTDY3d0hPRHdGaHEzaVFwZTFhNWtGcHJSM1haSGVZdTBDckxTa3RtbEV0X0tUdWNwN0xUZHp2N09KMllybUZRN200UDd0UlVXZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782426074915",
+          "date": "2026-06-25",
+          "title": "Jordan vs. Argentina at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOVRuRkQ2RTJGZS1KUm9seFFUcGZwWHAwNDY3VVJkSWszTkxub0JCRmdHZUdYbl9lUUJPV09nWlJTbnFXUVppT0ZXTWtXSVA0alhMUkd4LUFQcVRQX1M2QWZ4TllIVjREeXhtWi1WWWhmTnNkMGhBQzVFMDg4TXVqb0ZNc0dEeDc4cEhfZmVMXzVIaDI3QWFycW93V0E2M19QVE9RalY1RlhXdHUzb2c2ZXpIeHB0Sm5BS2txNkpXZVNxN3FITkNQSnpzanJJSC1hVzRNRnlUNnpUamxQS3JlOGRDbVFlaWlROHc?oc=5",
           "draft": true
         }
       ]
@@ -1631,7 +1639,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 236,
+      "chapterCount": 240,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3520,6 +3528,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOektvRWQyaEJLdUZ1R0w0RVRuY0J1WDFxXzNBUGtYR3Y1dGplTEZVb0VEUExYT0NGT3FOdGo3dFNobUhNUk45RlcwOW1faDV1ZXRSTldjTlFQT2JoWWlBNFNRVjZReF80MVY2d2prSVVnSi03VFJDY3p4RXloVHBEVUJsY0dJenoy?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782426075923",
+          "date": "2026-06-25",
+          "title": "What time is USA soccer game today? How to watch World Cup vs Turkey - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVFjdWtiRUE4d2ViT3phNi1fdW83dnRpcVpBQWo0UVZURW5scGZGYWFpOGl6OEV2TzlSbEw5QTh1S3VkMFJvQk9JOFJRRHJ4aGpoTGYwLXhBdkFXZTFaU2hjQURFZHNfVjFOZnZMYmJwQWdJZkRIZHhxTm1sTDJCWnYwakJDazBRczFHWW5ZR3lmZTg5WDV0MVJvSUxSWjdTeUVBNERTZlFoZ2N6eFhmNEdRbUJIRDAxYkgtOUsxOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782426075923",
+          "date": "2026-06-25",
+          "title": "Team USA's unsung hero has the team poised to make historic World Cup run as it wraps up group play - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEJQUEZNUmhpX1lIMlFMcUdfZHBuS0FFZlBlMlhEUDhxUlUxVUkyVWpQNXMzNi1hZUdmU19TYVlpamZhc0V6ZmpMU0laZzJvWHFaUmhEbXdXRDlPQUJMczRJaEVxWkxTd3VZV0Y3YWFVUUNSUW5aVkJ1Wk9sMWNxRVdZdXR3aWZ2UlJnSTZidHJaNHJZWFp3dUlXbHNMWExYTHN4dmVLRFhsUEtoaU81TUpiQ2hHa0lm?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782426075923",
+          "date": "2026-06-25",
+          "title": "2026 World Cup picks, odds, predictions: Best bets for USA vs. Turkiye, Japan vs. Sweden on Thursday - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXRVT3JpejBmajNuMTd4bHc3czBOcF9wX0kyc1BrejRRaHVxMjg1eFQwMEpSUElSdTUxYlpHcmdIZXJVZ0xiRzc4VUIyai1rbmxpOWNoN1Z6TTVySHRYQmZXS0dCSTZpREl3dko2S0hvaGZDcXVRR1pyYnlpWTluMjVOb3htYUlqSEZHUjBJOW1qNW1vVGM1em1CSEZoS21OTVZGeGx6VW1pMWE3YWlRYW1VUExUX0hDdThiWA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782426075923",
+          "date": "2026-06-25",
+          "title": "USMNT World Cup Lineup vs. Türkiye: Balogun, Jedi, Adams, Richards Won't Start - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMW9USTZ4VU1CVlF3X3o5d2ZJNVowLW5sb0lkSC1jMGJQV0NQc1cxLWhYdjJRMVJqUnp2QlNGczdCZnktaGM4Z3JOT1lQT1dnWHVueTFkYWZNbU5ia1FSbGM3LXEzbjRCWkZnOXNkcHlBdWkyd0gxenU4TUpRVk1sRFBtMmJiWTVpX2xXNlczOHdhd9IBkgFBVV95cUxOOHRUOU5oZkJhVVFjdFN0Yy1VTnVZNmtrQ0hSTVNoRnk0SHRkMHhFa09BQmx4U25zMnFMTTZUVHRIR3kwdjhFYklLS2JpMHoxM3Y0VkdHaWF3cE43eHRuVjVDeE9BNkViMjIwNC1oUTB1M3lVV1BhZkJ5ZWlmZVFaaUZUaDFfNTFsb2U0Y1dKWXYwZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3538,7 +3578,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 238,
+      "chapterCount": 240,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5443,6 +5483,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmJGUDBaaW5TLTdnX1g5R0x1cEFKQ0VMTms1U1B4UlV4RGdjYzZ3NndGU0J6eGlDOXg5QWZhSWU4bEJYeXM1cGp0bVRkUEx5bmxKaVVTdXF5Ny14WGw0S2RueURtOW51NlRCaHpyaWk5VE01MUl3Rll1SkkxZmVSUF8tU1hTTTltV2kxNUt5YjZiWHpoR0dnVXVwaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782426076508",
+          "date": "2026-06-25",
+          "title": "Neymar makes World Cup debut for Brazil in first appearance since 2023 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUQwRGVwbWt0aHpBZFhNU0dXd2d0V3B1VHpqRW9fZ2c4c3l1R0NVSGFSNkVTUnlrZFpSZnZiZ0ladUh0cW1wc2l0VjZmczlUX0NuUXNQaXZMUkJjUng1WUhtQ1M5aVVCRFlvUlk4QUtUUDFWMzY2di02UWxjY0hncV9IRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782426076508",
+          "date": "2026-06-25",
+          "title": "Neymar reportedly pulls out of discussions with FC Cincinnati after meeting with team leaders - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUX2ViTzlkRndCUVppX2VKdjFLTk9tUlhjUlFtQ1g5eGVRNXBsaFZJNVVpdzNaa2ZTcENkajQ5MTA4Vi0tZGotUnZlbExFc3JyMlNYTjNYTjRKa2pPVVhZdE5JNjE0TEo3TUVyd3FiTnF0aE5NYmNySUxR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5608,7 +5664,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 257,
+      "chapterCount": 260,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7664,6 +7720,30 @@
           "title": "Cole Palmer breaks silence on England World Cup snub and insists 'I'm not crying' over brutal omission - thesun.co.uk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemFGNUNjS0pEU3lIOXpUaEpkakRsM3pDWjg1MmduVmljN2F4dTZaNnhXaDN3SjBSS2FfRmh2UXBYN21YX1RfZTRFZktZZ3BGTm9mSDdtT2QycmRjdS16SEQwU1VscFluNXJoNWdaZkpPS05jQVlSZUpCMFI1NW1rTE1kUmZfLUx5SzVtV01zOUFDU3d3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782426077041",
+          "date": "2026-06-25",
+          "title": "How England can qualify for the World Cup knockout stages tonight – and who they could play - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDFKenFJUzQ4REtEU0NyLWVQVTVpUUlMOVhmNDJzcElkUmRHNzJ3bldQLVZaTVY0ZDdPZklrTTJObkUyMHAyTURPdnJqaXJMcnR4dklyazM2ellPeWRmQmdWcFNwT01wcENFMjdCWXAtZm9MZ2oyVFBvM3gxTWI3NkJETENRTFpzYThLTWk2cUY1cDJmbVRtMlZhZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782426077041",
+          "date": "2026-06-25",
+          "title": "World Cup 2026: Reece James and Declan Rice injury concerns for England before Panama game - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53QUg0ZnMwT0NqOV9xVmtTMVBSVU9Vc21hTFdKVDg2ZkI2RDhRaFJzb1h4WklYcnNxbzdtMWhXSW9saUR1Y1NvWXFRTWlPVDBMckdteVNJdGktWVVrX05QcEcyTXFxVms?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782426077041",
+          "date": "2026-06-24",
+          "title": "Harry Kane turns attention to Panama with England focused on bigger picture - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjRFV1BMSnMzYk9PbkhnRVdHOFh6WG1tVFFwdk15Z0pjMlN6UlZoc19ZWFlxRHhwMmUtWDA2MmFvZ2V0dVZuM2pjY1VMMmRUejItMV9OVzVOdWt4bGdEX05aNEtFSGk3WTM4Tk9PN3VEODdqM3RRWTRkWEZRYW85X1ZyMm5IdmMxTDlCWXFIOXNhSDltazNUODcxVDJPQXlBUFBFLWJMTm51SW84YlE?oc=5",
           "draft": true
         }
       ]
