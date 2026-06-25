@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-25T03:34:29.019Z",
+  "lastUpdated": "2026-06-25T09:22:10.873Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 93,
+      "chapterCount": 95,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -761,6 +761,22 @@
           "title": "Has MLS Made Messi An Even Better World Cup Player For Argentina? - Forbes",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR083SWVmTEhPZzhjWXgzMHNPdkVFWDhKa1huVlROM2sxYXZWOEE5X0pKM3hLS1A1aTlqdW1PUzZYTmhSTW1BNC0yQzZoMS1ESndmSlo5ZjF0cEdiYy1CLXJFMW5DZHRwQ3kxY3hYUXJVc09ld3FpQWVDeEpqbm5TSGc0aUxqeXowaXcwNzJsNzNNNDBpcHpCTmFycDhPRmN2N1VfYkNzcHJNSEpjeXl5bUZMdk8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782379328666",
+          "date": "2026-06-23",
+          "title": "Argentina 2-0 Austria: Lionel Messi scores brace to become all-time leading World Cup goalscorer - as it happened - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2VxVFg1QkticmJDbEY5T1NZa2x1OW56VDRPVjlpQWpsMUJxQWlWYWhrYkNyVXA0NXJXQ0ltN1phcDYzenppNmFaRFhYWGx4Q3hNbUhoWFZ6emJZTV83ZkN0eTRGTi1LY3hhSEpwUDZrdDJKRWdVOTR1RkQxdFpoWEM0TExrdjNsemlHZFNGeXpsWlNCcE41XzdFSnk0SDVDMi02bVV0UkMxNVJLT3dkVncyLWJ6ZW9KZkQyT3FST0JETnk4MC1WbzVQRkxpRC04SUJr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782379328666",
+          "date": "2026-06-25",
+          "title": "World Cup goal leaders: Lionel Messi ahead in Golden Boot race, but Vinícius Júnior, Kylian Mbappé and Erling Haaland aren't far behind - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbFViZnlGS2ktQWItMWp3SS1ZY1o1OFoyMG5USEFiZFBxWlF6eW1GOHBBb2hEVlVBMWZQUERUc0NWTUhFd1dPSVBPX3gzTG81dF93Um81YmpGRmNMSFVpMmVHU1NjTWc3bkZLMUZ3MC1fdk55SS1DYkVfTmREakJidThtZW8yOFNPYm1fVlc5cENoeDQ1YnFHeWZrYThoUVUtMkNLdEs2Z05jcGVXM0ZLQjlWSmg3blNPUHZVUlVKb0MtRlpjYTFMc1BlZVNBcEFKR2g2TEduNXFMMS1YVmNuZGl2bTltU0wtS1owT1Vn?oc=5",
           "draft": true
         }
       ]
@@ -1575,7 +1591,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 227,
+      "chapterCount": 229,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3392,6 +3408,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WQlJHcUZjOUgtVDFRaEVIQjlpYnMyTUQ2dXBoNkxTeTBjbUJLR0YzNGJ2MWx2LS13b3hlMDA0QzBGcmpYRGFDNElZQWQzX0xkYmZkUXRZcGIyU2ZwQXBNamMzM2IxN3RNUV8yMTdR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782379329697",
+          "date": "2026-06-25",
+          "title": "How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPck1xYUVrdzNRNTAzTUlfVkpOS3Fnd211emVoSmNzaHRTSkV2OVBENUs1MVBTdVROVGpNN20wbUtsb0ZLUXBEWG10d1VfV1ZYUGcwTnRwTnhseGxQaGlKdHJDYkJMbHBMZmt1SWhNZUVnejlCcmhlbW5iVXRUUlBEMDRHdnYwOFRja1otal9kSVFNa04xOFVMRXpMUGw4dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782379329697",
+          "date": "2026-06-25",
+          "title": "2026 World Cup: Bosnia and Herzegovina emerges as USMNT's likeliest Round of 32 opponent after eliminating Qatar - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaFdNaVhMQjg0OGRtb1hRaWctdlp5UlZwMWhpTmxXTjR2NzRidXNfNlEyQjh6MmNMS3J0dW5DTXczSk05c2RoeVhncEdtYS03US1QZFZhcEtKTGdGOE9nOUdHbDhvQjBIWHI4eThiMHUyOFBXVEFFV0lHcGZlQzlzLTlBRkR2SWVaRjhDRF9HTzYzaXFGUHlseVBHaHFBY2YwTHNrX3JmYUF0VE50eHFOazFoY1RYV2FsTm42RWgwU3Nwa0RpSEFiTW9EOWRGWXBXMzBjY2xkWGtmT3FpQ1NEVEtEMDRPTml0MG5hSE9pVTdoQ056VEx0Nw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3410,7 +3442,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 230,
+      "chapterCount": 233,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5251,6 +5283,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PUGhIR3AzYnVEdG9sWFVoeXhCVjd2SFRHZ2EteUdNT0FzU1NTWkNqWVhtZUczSS1tUG5UZmg1NS1mRno5V1VpSkJUaEhBcnZSOV84RHpSbEZaY0cwYmh4QWZ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782379330251",
+          "date": "2026-06-25",
+          "title": "Scotland vs Brazil Highlights | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdTgtS0JaVWZhay16OUtTcVZuTW9Hd0VSbGd2ZjE0VTA0OHFuMWwyWFNiUlJwdk5MREpiUXdVU1RLX2lpWjJrczRORXFScjdxM19YNWZwdXVVNmxjSEVMX2pn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782379330252",
+          "date": "2026-06-25",
+          "title": "World Cup 2026: Can Brazil do it again? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2YUNLUWFZYXVDSEZ3U2hqNmdlQXpxbjFYMEFQRVRGZFdpMFkwX3A4NzJFTjRxZlZwT1B5Rk9CRHJyc1huWWEzR0g1ZU93MHplV2hXcjFyX0JpYVJHUl92SnBGZkg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782379330252",
+          "date": "2026-06-25",
+          "title": "Have Brazil created a Neymar problem? What now for teams in World Cup limbo? Day 14 recap - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTllWR0hwTWMyWEhhM2U2ajlzczdtdHpNcnUwRnBSVE9CSng3TmNMRlRUNG9EdEhhTmhBVWc5NWJxOTdNTE1IRk0wT3lWbzFsN2tiVFY1OUdvWno2Q3VwNUExUHV6Y3ZKQWRGUGpUR1AzQVczV3I2Q0c1UWViR1dGQ2JIdlc5bTM5RVNOeXM3eTFWdE9tZ3JIUHhiX0dpc3otWkRhNVlmaTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5416,7 +5472,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 250,
+      "chapterCount": 251,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7416,6 +7472,14 @@
           "title": "Tuchel breaks silence on letting rip at Spence and explains why he was angry - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlJRR3dIMFF5XzFZR3JMTWJWYmhwbnlOb18xQ3hLcTZvQVNFQ0ltRXdMcWkzZkxmTC03ZUZZMlltQnF3RDZDNE9PblFTTUQwa21vbGJpeTlKY19Jc1Z0QzFTWTUxY2V0ZW54YlZsRnJPWWh2aldKX1hrblRCaEhkOEtCV2NORzdJaHBKYQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782379330873",
+          "date": "2026-06-25",
+          "title": "Jameis Winston Discovers the Heart of Ghana's Soccer Culture 🇬🇭 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1heXhYM25zR1dVN1ZFT2VfNV8tZjZKbUNsNHhIal9xRmxVTWVkUTYwUktKTkpSUnkxYy1pMTZaYUplRHpPMXdHalNvZDA3SkV1NkJDVTl6SFVFOUt6bTNkUWJB?oc=5",
           "draft": true
         }
       ]

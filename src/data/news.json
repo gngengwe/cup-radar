@@ -1,7 +1,128 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-25T03:34:26.386Z",
+  "lastUpdated": "2026-06-25T09:22:08.189Z",
   "articles": [
+    {
+      "id": "news-auto-luis-suarez-joins-1win-as-official-footb-2026-06-25",
+      "headline": "Luis Suarez Joins 1win as Official Football Expert for the FIFA World Cup 2026 - Yahoo Finance",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk5id2NuZlhXYy1fSWN0bmQ3WGZCaTJSVE8tbXRPbW91MG94LUoxaGg0SklLNFlRcFRDTXJjb0NCd1R1N2ZMVDdQTkZfbE81V2pMdzRxTjRQMXJJMFBsbjZVelM0OGNfanIyTDhKRWdkakhTSXNCUDZzSzczbmZja29veTFlVkc5UldTNHZENTdMX0xNVzhWQlJDMlktSzAt?oc=5\" targ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk5id2NuZlhXYy1fSWN0bmQ3WGZCaTJSVE8tbXRPbW91MG94LUoxaGg0SklLNFlRcFRDTXJjb0NCd1R1N2ZMVDdQTkZfbE81V2pMdzRxTjRQMXJJMFBsbjZVelM0OGNfanIyTDhKRWdkakhTSXNCUDZzSzczbmZja29veTFlVkc5UldTNHZENTdMX0xNVzhWQlJDMlktSzAt?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-jameis-winston-discovers-the-heart-of-gh-2026-06-25",
+      "headline": "Jameis Winston Discovers the Heart of Ghana's Soccer Culture 🇬🇭 2026 FIFA World Cup™ - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1heXhYM25zR1dVN1ZFT2VfNV8tZjZKbUNsNHhIal9xRmxVTWVkUTYwUktKTkpSUnkxYy1pMTZaYUplRHpPMXdHalNvZDA3SkV1NkJDVTl6SFVFOUt6bTNkUWJB?oc=5\" target=\"_blank\"&gt;Jameis Winston Discovers the Heart of Ghana's Soccer Culture 🇬🇭 202",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1heXhYM25zR1dVN1ZFT2VfNV8tZjZKbUNsNHhIal9xRmxVTWVkUTYwUktKTkpSUnkxYy1pMTZaYUplRHpPMXdHalNvZDA3SkV1NkJDVTl6SFVFOUt6bTNkUWJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-south-korea-s-seung-gyu-kim-makes-double-2026-06-25",
+      "headline": "South Korea's Seung-Gyu Kim makes double save to keep game scoreless vs South Africa | 2026 FIFA World Cup - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PR3FIdHBMdHViNHJVQWc5QUpEWU9DTDFXb2pHVnR0MjFhTHg0azEtU0Z2dVROSDRpOUZNeXZGWUI5dzBhV19FNWY3ZGNnUzZ0MWR4U1c3U3Y3TG5KeFEzazVn?oc=5\" target=\"_blank\"&gt;South Korea's Seung-Gyu Kim makes double save to keep game scoreless ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PR3FIdHBMdHViNHJVQWc5QUpEWU9DTDFXb2pHVnR0MjFhTHg0azEtU0Z2dVROSDRpOUZNeXZGWUI5dzBhV19FNWY3ZGNnUzZ0MWR4U1c3U3Y3TG5KeFEzazVn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-3rd-world-cup-match-has-knocko-2026-06-24",
+      "headline": "Seattle's 3rd World Cup match has knockout potential: Here's what to expect - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNLWp6TTVWSk1SZklxcWhjR21MVXVsWTRsemUyenljVUM4UVBmZWhLejRnYkpHc1JiajZDTWc1YUhhTXNScHBKcDhvcnVVSzdUa2ZzZmExMUI5QzZTQ09ZblNsQzNpMFIzRFVoX0JuQ0huR3NVYVZieUZsaXFwYnBZNTJ6OHp4T0xnd0tDTGx2eEd0WV9BczBsbFB1ckRVeGxwSmFObmo2eWl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLWp6TTVWSk1SZklxcWhjR21MVXVsWTRsemUyenljVUM4UVBmZWhLejRnYkpHc1JiajZDTWc1YUhhTXNScHBKcDhvcnVVSzdUa2ZzZmExMUI5QzZTQ09ZblNsQzNpMFIzRFVoX0JuQ0huR3NVYVZieUZsaXFwYnBZNTJ6OHp4T0xnd0tDTGx2eEd0WV9BczBsbFB1ckRVeGxwSmFObmo2eWlqOTNjUXhHQmd0N2NkREdRZEJBcF9ZV2R2VWxweGFQYVliNTFReENoYWRPd1NIM1YzYVpDRXh6dl9MNHJFTUx5eE5TRHdRanNTREZXd21rWWxHZlFWWnFuNk1hVXhTZGtISGtvNWFldHFYMEh4SDRDc0lTUUxBQmlMNmRha1ZzSG45WnAzZW8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-in-seattle-bosnia-herzegovina-has-breakt-2026-06-25",
+      "headline": "In Seattle, Bosnia-Herzegovina has breakthrough World Cup moment - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUW1TRmpOc0U1NlZVZDJXeThQc1l6SzZRT1Atd0dJaVo2bzFEb0FzSUJ5RzVUamxrdlA4eUlFeDhTM1dSeWFfTnYwSDRYMWFYRzV2NjZ6QU5OOUtSamNoMGVjQXpMQWNBWkRRRzg0VEJ1cnJ4Q05SckozVzBsbnl6djFVVTVCSkV4QXR3NVprVVB5dFVFT1Jic3RPUEZRSkgzcUJ6ODFKcWl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUW1TRmpOc0U1NlZVZDJXeThQc1l6SzZRT1Atd0dJaVo2bzFEb0FzSUJ5RzVUamxrdlA4eUlFeDhTM1dSeWFfTnYwSDRYMWFYRzV2NjZ6QU5OOUtSamNoMGVjQXpMQWNBWkRRRzg0VEJ1cnJ4Q05SckozVzBsbnl6djFVVTVCSkV4QXR3NVprVVB5dFVFT1Jic3RPUEZRSkgzcUJ6ODFKcWlkM0plOHpFYkFFNXlhQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-qatar-heading-home-after-world-cup-loss--2026-06-24",
+      "headline": "Qatar heading home after World Cup loss in Seattle - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWlLS2FfS0RISnRaUnJqNXZtbDA2Sk5MazR3T2hLLUFlUk5FS2tCNG56UTFmVWNfMDlYQm9lT2lGLUQ1bWE1QTFEQmtsLUpzSHJpTWxFckEwMlZIWEZMelJDTFFPQ0FSdFJ3SldsbndGektkM1ctdUhERGxnU3JWQnNsNjNFVkJBbXduSFJPMHpLTV8xMlVJU0RGLXBNYTBaZW14TQ?oc=5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWlLS2FfS0RISnRaUnJqNXZtbDA2Sk5MazR3T2hLLUFlUk5FS2tCNG56UTFmVWNfMDlYQm9lT2lGLUQ1bWE1QTFEQmtsLUpzSHJpTWxFckEwMlZIWEZMelJDTFFPQ0FSdFJ3SldsbndGektkM1ctdUhERGxnU3JWQnNsNjNFVkJBbXduSFJPMHpLTV8xMlVJU0RGLXBNYTBaZW14TQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-braces-for-massive-dutch-fan-2026-06-24",
+      "headline": "Kansas City braces for massive Dutch fan march ahead of World Cup match - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEg0X3d0Rlltaml3VmQtS0ptRlNGOG0ySzBBYk1jWlBaM2J1VThkVllsTnNzZE1oa2ZaZF9BV3pld0ZtVXI3MlFzVkJkLTdua2xLcnk0R2pTMXBxTzEwTVo5ZjNKTzA2YlBOZWpqT2xIdE1Hb2ZidWJSSnZpcG41UTRBUUNQMmhYMHBQanB4V1B0OFF4QmVfRWZPSkvSAaIBQVVfeXFMTS1",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-24",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEg0X3d0Rlltaml3VmQtS0ptRlNGOG0ySzBBYk1jWlBaM2J1VThkVllsTnNzZE1oa2ZaZF9BV3pld0ZtVXI3MlFzVkJkLTdua2xLcnk0R2pTMXBxTzEwTVo5ZjNKTzA2YlBOZWpqT2xIdE1Hb2ZidWJSSnZpcG41UTRBUUNQMmhYMHBQanB4V1B0OFF4QmVfRWZPSkvSAaIBQVVfeXFMTS1KNmdMVkZPZ0ZmQkhwSHlYSVByNUlXM0dJNURoWXdhczhmdmdoTTlsT2s4Rnd5ZlhuU2Y1WW9kbV9BazVJWkNSWTc2cEtLLTE2aVBDYXJwUUpaU0o4UVNhZUZZOTdlVlJKQWNlZVd5Qi1OS0YxV2ZhNEZzQ05tQjItNUxVbVJod0FKYVZveXJ1UktSTFYxYTBCaW1XVjFvc01n?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-world-cup-how-lumen-field-was-tr-2026-06-19",
+      "headline": "Seattle World Cup: How Lumen Field was transformed from Seahawks turf to FIFA-approved natural grass - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFhudUtPdks3X0RNckc2LS1WLWw1ZVA2aC14LXlBaFFMYkpsWllFQU1wNEplZUNvN2dTZW1SS1V4dVJKQkZpVDVUYTZYdnJwZjZyd2hxV1U4cHRnbWpENG0wVTBlXzJkWGdDRmFYeEg3eUVpdU83X19Eb3JCSzFHZDhJUTZTa0Iya3I4Ny1tckxUcDBXTEF5Xy1lZnFfMy1OWlNzQnRpWHR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFhudUtPdks3X0RNckc2LS1WLWw1ZVA2aC14LXlBaFFMYkpsWllFQU1wNEplZUNvN2dTZW1SS1V4dVJKQkZpVDVUYTZYdnJwZjZyd2hxV1U4cHRnbWpENG0wVTBlXzJkWGdDRmFYeEg3eUVpdU83X19Eb3JCSzFHZDhJUTZTa0Iya3I4Ny1tckxUcDBXTEF5Xy1lZnFfMy1OWlNzQnRpWHRlUFp0eUJfVF9DeGNBNjFQQTdxd3hmOTZ5SUNTYk5NTlNId3BRdndNeXJyTk9PMDQ3bU9CMVRDZ3p4cFhPMDDSAfsBQVVfeXFMTVJPUmozdjZaRHB1WmRaREJ6QVBrTU5aWFUwQmpMcXJsMUpjWlktYnQ5WmVYblFWc3h5Q2pubW5YeDhrN0ktZml2LXJ6NUNCS09ZWmZha0M3NDNYYm1JMXdZRVY4X2F0dFRkb01tRnk5UG53eFFRM1A2QlN1SHNSd2FfQ2FwOE1sREdQQ012U0lEQV9QQmtoMXVZT1NfMDhPRVN2UGlfc25VSC1ac1luUGR3ZGlKSmVmWVFXczJjM2hjQ3pudW1NekRTMUJXR2ZEYkFKTWJ6d0RTLXhUTmdURVA3YnNmNEU0ZWtXd2lLekEzczFvSUhXQm9Sdk0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-stadium-aka-lumen-field-dubbed-b-2026-06-23",
+      "headline": "Seattle Stadium, aka Lumen Field, dubbed best for World Cup - Seattle Red",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjhzT241LVNFTnU3SlJBMXdMS2c1MmpFZ1lzX2tiRWFpX2JnQ0NSc1VMZV9SN3pnTWM5MGc2M3NZSFBhcmZRajdXQWJVTklyVWdpN3RuTVpLdW1oVnBZaWhQMjUydi1WdU14NGxDdENEQzc4bERtNzhFNkd5YXZmb1pzWQ?oc=5\" target=\"_blank\"&gt;Seattle Stadium, aka Lu",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjhzT241LVNFTnU3SlJBMXdMS2c1MmpFZ1lzX2tiRWFpX2JnQ0NSc1VMZV9SN3pnTWM5MGc2M3NZSFBhcmZRajdXQWJVTklyVWdpN3RuTVpLdW1oVnBZaWhQMjUydi1WdU14NGxDdENEQzc4bERtNzhFNkd5YXZmb1pzWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-clashes-with-iran-egypt-over-rainbo-2026-06-25",
+      "headline": "FIFA clashes with Iran, Egypt over rainbow symbols at World Cup Pride Match - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxObm40dFB3NTBQdlh5dWpBUGRyOGxmTVZGb2VUZkhYS3V5RXlDV3BzR28tYTFmM2hFeHZ1QU9zcU5uQU9jX3M3Mzg0bkc0WGxCR2FaanpQTDY4dnlUYktia0NLSXlhM1FnR3lFNDRXMHJMY3o3SnZ6bWE1MEo3MGJhRHl6VUhwc3pFbGVJSDVmNXpLdw?oc=5\" target=\"_blank\"&gt;FIF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObm40dFB3NTBQdlh5dWpBUGRyOGxmTVZGb2VUZkhYS3V5RXlDV3BzR28tYTFmM2hFeHZ1QU9zcU5uQU9jX3M3Mzg0bkc0WGxCR2FaanpQTDY4dnlUYktia0NLSXlhM1FnR3lFNDRXMHJMY3o3SnZ6bWE1MEo3MGJhRHl6VUhwc3pFbGVJSDVmNXpLdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-two-days-to-kickoff-seattle-welcomes-the-2026-06-13",
+      "headline": "Two Days to Kickoff: Seattle Welcomes the World for FIFA World Cup 2026™ - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEtkalQwZjJjTUtsVWxPWWFDeFhEbmRJOVlmckc0bnZDSy0wLUdzZEpVZ1RKRUtHX3VvV3M3RF9CWVloei03aFpycmJFZjBGMHlTc0MyTmVjSU14bnRDN0F6UHQ1OUh5QTdJQkJ1eHpsZXBHbUxTSGxRTGxvN0pTMm9jaTgtM2J5V25YMGtWT1otZDR2VGVMZWs0MnRmY0xHM0xNZl8xbU9",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-13",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEtkalQwZjJjTUtsVWxPWWFDeFhEbmRJOVlmckc0bnZDSy0wLUdzZEpVZ1RKRUtHX3VvV3M3RF9CWVloei03aFpycmJFZjBGMHlTc0MyTmVjSU14bnRDN0F6UHQ1OUh5QTdJQkJ1eHpsZXBHbUxTSGxRTGxvN0pTMm9jaTgtM2J5V25YMGtWT1otZDR2VGVMZWs0MnRmY0xHM0xNZl8xbU9pQm8?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-standings-who-s-in-who-s--2026-06-25",
       "headline": "World Cup 2026 standings: Who's in, who's out and every team's path to the Round of 32 - Yahoo Sports",
@@ -978,127 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-23",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNk1HOEJIdUJRcnRubmVFc1dnaW5HNTB5Q2NzT0YtYmVPaHFEVlRFa3czSlBibTdJbE5LdW1SVmNqY3VmaTVxcnhFdUkzV1VrRWQ1cm9oOUJiQTR2Q01COGFyY3o5bmZPRVNGYUFvQnZmS1RqU0lyc0dpZDdhT05pZVZWdmJNNW85RUExMTF1ZEJQWkF2SGtZMVJBQ3RIbnIxWWdkSWJxQWFtbXpydWQzQXhCMmIyelItT0Q5aTNYU2dKZ3JoMk84OUFYWVl3YWVTLUFXSkNVQzJvNURhSk9ZUXdMSElDME5fMHR3QVZKSUE2bjRqMUxOUdIB-AFBVV95cUxQNk1HOEJIdUJRcnRubmVFc1dnaW5HNTB5Q2NzT0YtYmVPaHFEVlRFa3czSlBibTdJbE5LdW1SVmNqY3VmaTVxcnhFdUkzV1VrRWQ1cm9oOUJiQTR2Q01COGFyY3o5bmZPRVNGYUFvQnZmS1RqU0lyc0dpZDdhT05pZVZWdmJNNW85RUExMTF1ZEJQWkF2SGtZMVJBQ3RIbnIxWWdkSWJxQWFtbXpydWQzQXhCMmIyelItT0Q5aTNYU2dKZ3JoMk84OUFYWVl3YWVTLUFXSkNVQzJvNURhSk9ZUXdMSElDME5fMHR3QVZKSUE2bjRqMUxOUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-fan-fest-draws-international-crowds-2026-06-21",
-      "headline": "FIFA Fan Fest draws international crowds to Kansas City, but clear bag policy turns some away - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUM3eGNqVzRfa090VzVCWE11aXVmWmhBRWkwOTdjVjJ6X3NvanRUY2FFenFTRW4tb1dBYWg2N1hSZGFHdHkxQy1ZSkZKel90UGV6bk5nRHFsekgyNDN1YlNmVkNXcnlkdHBUNll1cjN2UF9INmhPdHpCV0lWaHBVSWFWNEhkcmhKTlFoNk93alNEZDBXbDRKd0d6NXpjYVFBaGJSVWdiY2h",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUM3eGNqVzRfa090VzVCWE11aXVmWmhBRWkwOTdjVjJ6X3NvanRUY2FFenFTRW4tb1dBYWg2N1hSZGFHdHkxQy1ZSkZKel90UGV6bk5nRHFsekgyNDN1YlNmVkNXcnlkdHBUNll1cjN2UF9INmhPdHpCV0lWaHBVSWFWNEhkcmhKTlFoNk93alNEZDBXbDRKd0d6NXpjYVFBaGJSVWdiY2hGWWF1OEdHY3hIVkZZdzZqbnF4QkRmd2JDbnpVVEdTWDJn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-is-it-really-like-to-travel-for-the-2026-06-23",
-      "headline": "What Is It Really Like to Travel for the World Cup? We Went to Kansas City to Find Out - Condé Nast Traveler",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOenI2bWdKMUt1emRqUm5Xd1g4UmJNcm9MQnpKOHlfdUVISVdzTHVpV2o0SldZdFZlWnNmRUZXdEZrOHdDTEdYRTNTWi1MR0ZULTNJMkNneWFVNmhJZ3hzWUN1ekJmM0pPd1NLM25nMExsMFdqX1JGdk5OdlM4NDZLNUY0Tk03TC1JXzFNTWlrQzZKZGFqOEU5Q0laMzFqSzRrLVVGSXVCYzR",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenI2bWdKMUt1emRqUm5Xd1g4UmJNcm9MQnpKOHlfdUVISVdzTHVpV2o0SldZdFZlWnNmRUZXdEZrOHdDTEdYRTNTWi1MR0ZULTNJMkNneWFVNmhJZ3hzWUN1ekJmM0pPd1NLM25nMExsMFdqX1JGdk5OdlM4NDZLNUY0Tk03TC1JXzFNTWlrQzZKZGFqOEU5Q0laMzFqSzRrLVVGSXVCYzRYYjBQRHhIcDlLMGF3ZEU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-manhunt-underway-for-kansas-city-suspect-2026-06-20",
-      "headline": "Manhunt underway for Kansas City suspect of mass shooting near World Cup venue — FBI offers $25K reward - nypost.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc0NEaWIxUTFQdzEyXzZhckFxQzBnMjJfR0JGV1V3TmdqMWhHa2lPUUVNV1ZPX2doMHF4cFVmVzc4MjNySVB5bkxjZndNZUM1SW9mSk9LTUJiM25tZE9PQnRPdWs2THNTZkJudFhOam9hYnhFUE5DX2p5ejl4cDA2aFlNSHdmRHo3eVE2OHREeFFPSDY1cm91UGxsMlVaWUdxTWd0MXA0bHY",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc0NEaWIxUTFQdzEyXzZhckFxQzBnMjJfR0JGV1V3TmdqMWhHa2lPUUVNV1ZPX2doMHF4cFVmVzc4MjNySVB5bkxjZndNZUM1SW9mSk9LTUJiM25tZE9PQnRPdWs2THNTZkJudFhOam9hYnhFUE5DX2p5ejl4cDA2aFlNSHdmRHo3eVE2OHREeFFPSDY1cm91UGxsMlVaWUdxTWd0MXA0bHY4a1hvVTdxNmtvaV90Z215UlVUOXE0U0poM0h2ZWM1cTNycDZTT1NUclE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-team-comes-to-kc-this-week-try-2026-06-22",
-      "headline": "World Cup team comes to KC this week trying to avoid making wrong kind of history - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9acVFrVWk5VUVENlo4cFhFSnRUaXVqMnBSbENmQVdPUVVhOUZPVW9FYV9rekNOOFg4TE9rQlNaajRaRmFjaW9zVm13b2NLVVFXeDUwbEpoWThoaXZCb3R6bzkzZ3lSRFVXTVhLck1wSTduRnNSVEROaF9R0gF6QVVfeXFMTzM5bnpGX0pGMjl5QlM3NENvdTVmWEQ3WVJkR1h3R0k5SVJJbW5",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9acVFrVWk5VUVENlo4cFhFSnRUaXVqMnBSbENmQVdPUVVhOUZPVW9FYV9rekNOOFg4TE9rQlNaajRaRmFjaW9zVm13b2NLVVFXeDUwbEpoWThoaXZCb3R6bzkzZ3lSRFVXTVhLck1wSTduRnNSVEROaF9R0gF6QVVfeXFMTzM5bnpGX0pGMjl5QlM3NENvdTVmWEQ3WVJkR1h3R0k5SVJJbW5xNlA0T0JGa2hmRWRYdWJhclNhdEFqb0tJa1VMLXZqYWxOTzlpdXIyRU53VjBQU0tfSk5scEJ0NmRNSW16Tmx1WmRvSkIzSERxQlJwNXc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-portugal-vs-uzbekistan-highlights-2026-f-2026-06-23",
-      "headline": "Portugal vs Uzbekistan Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE16YjVXcUlEVE9HMTE2YVZ0T0Fzc2ZQeHpjU1VJM05aNTRLZWtRbFpLZWxRcnp1c2o2aC1xN2ZRYnVLTjZrS1pZbUs5YmJ3NlZjNllpN0NlMjloeVh4YVZramp3?oc=5\" target=\"_blank\"&gt;Portugal vs Uzbekistan Highlights | 2026 FIFA World Cup™&lt;/a&gt;&am",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16YjVXcUlEVE9HMTE2YVZ0T0Fzc2ZQeHpjU1VJM05aNTRLZWtRbFpLZWxRcnp1c2o2aC1xN2ZRYnVLTjZrS1pZbUs5YmJ3NlZjNllpN0NlMjloeVh4YVZramp3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-donald-trump-to-attend-wo-2026-06-23",
-      "headline": "World Cup 2026: Donald Trump to attend World Cup final and present winner - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVckVpNFpyUzc4cl9Pa0NCYXFRbWlGblpjOUtEbVp1anhZeGRQdTJhSW5OTUNSYUcybEw0UXpLR21ndXJxYUMzWVB4cWFxZXJQNTktaEpjcU5rQnRLNXdVbnhKTHFJU0E?oc=5\" target=\"_blank\"&gt;World Cup 2026: Donald Trump to attend World Cup final and pre",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVckVpNFpyUzc4cl9Pa0NCYXFRbWlGblpjOUtEbVp1anhZeGRQdTJhSW5OTUNSYUcybEw0UXpLR21ndXJxYUMzWVB4cWFxZXJQNTktaEpjcU5rQnRLNXdVbnhKTHFJU0E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-vs-ghana-live-updates-world-cup--2026-06-23",
-      "headline": "England vs Ghana live updates: World Cup 2026 game latest team news as Guehi, Spence start - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmVRdzhzTmFDMXBEUzEteG1YSWw4SnlJWU1MRFdYVmhwSlpyZV9HenVXVlJjWTRGR3ZzYXl3WEo1ZmJqazVDQWtCUC1NZ0dXZFlkOWdrRXgwanFxeHhUR1I2SFYxLU1OaHJ1YjU5WUljQ2FpdkFvY25KODhzZFdzR2pUUE91NTVObHNYMFdDdmx5R0xqUXJEY2g5ZHJIQ0dWS3FGMmpRdjJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmVRdzhzTmFDMXBEUzEteG1YSWw4SnlJWU1MRFdYVmhwSlpyZV9HenVXVlJjWTRGR3ZzYXl3WEo1ZmJqazVDQWtCUC1NZ0dXZFlkOWdrRXgwanFxeHhUR1I2SFYxLU1OaHJ1YjU5WUljQ2FpdkFvY25KODhzZFdzR2pUUE91NTVObHNYMFdDdmx5R0xqUXJEY2g5ZHJIQ0dWS3FGMmpRdjJIc1NaSFM1WkNFV2tpdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-vs-ghana-live-world-cup-2026-al--2026-06-23",
-      "headline": "England vs Ghana LIVE: World Cup 2026 - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTFjcy1kTEZKRkQ3bWRlX280ZjBrVjNxZ3I4TVZBVXhoSFFmTzM4enlwd0VQb3NZYXBlNWhvVHpKVW5jZGNlZVFWaFlLM3hUWkNLRTZncFRSbzdXeXRuU05WYUlpeEk4RVM0V09jLXMtaTA0blBEd0w5eGtQc2lGUmtLV2h4NXN0X3ZlV2J1VkF6UdIBlwFBVV95cUxPb0pGWFVmOU5MVjV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTFjcy1kTEZKRkQ3bWRlX280ZjBrVjNxZ3I4TVZBVXhoSFFmTzM4enlwd0VQb3NZYXBlNWhvVHpKVW5jZGNlZVFWaFlLM3hUWkNLRTZncFRSbzdXeXRuU05WYUlpeEk4RVM0V09jLXMtaTA0blBEd0w5eGtQc2lGUmtLV2h4NXN0X3ZlV2J1VkF6UdIBlwFBVV95cUxPb0pGWFVmOU5MVjVLZEppazczVTlKZVFXeE5NVWVDZC1faFhDVzVGVmxLbkh5OWhqdFplNVF6NkZFa2l2MDNjNEkzUllmRmxjcTVIaC1qXzJ3UURfSEhLX1ZPRzlvZzVycHk2UklMOXp2MzgxQnM4NXNwaTdkc2tNSklkY0pjZjZieGVBeWJzdWlJYlhfZGZJ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-player-stats-fifa-world-cup-2026-fifa-2026-06-21",
-      "headline": "Player Stats | FIFA World Cup 2026™ - FIFA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMjdnZ2wzQ2xRTUs2VkpUbEJlMDdFLTM3ZEFJQmNTazhFQi14S0JMZmR1ZTlLTnN5RmxTUGJKZmE0WElkUUM2Y3ZDOHVKR0xnNlJQWTdudXpXcWFKRTBNUk05THVMejFqN3NRQ3pnOVlZekNaWkNTc2l6UEFNcUVNamViUzVVZjRmc3F4NXVEeWRFNE9vRW5ScVVjQ1hOUzQ?oc=5\" targe",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMjdnZ2wzQ2xRTUs2VkpUbEJlMDdFLTM3ZEFJQmNTazhFQi14S0JMZmR1ZTlLTnN5RmxTUGJKZmE0WElkUUM2Y3ZDOHVKR0xnNlJQWTdudXpXcWFKRTBNUk05THVMejFqN3NRQ3pnOVlZekNaWkNTc2l6UEFNcUVNamViUzVVZjRmc3F4NXVEeWRFNE9vRW5ScVVjQ1hOUzQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-after-initial-denial-egyp-2026-06-23",
-      "headline": "2026 World Cup: After initial denial, Egypt heading to Seattle - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDd1X0ppT255eHZOYlV1Tmp2Nk9ndThXdS0zSU1qX0xMZXVSS1pPbnRqd0ExZERKN3hnNldGN0o5WHA5VXhpZl8tV0xYVDN1QUdUbmVtR2JrVm5HZ0RsOFhsZjhUNENsV1B6aGZRVlZpNFp6OTJNQnFpU2hTUnVVbHdyYVdVWXJRRVV1bDN6dUFFRWxfNmZPRkdCeE1OemwyZDhNWWtvVXc",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDd1X0ppT255eHZOYlV1Tmp2Nk9ndThXdS0zSU1qX0xMZXVSS1pPbnRqd0ExZERKN3hnNldGN0o5WHA5VXhpZl8tV0xYVDN1QUdUbmVtR2JrVm5HZ0RsOFhsZjhUNENsV1B6aGZRVlZpNFp6OTJNQnFpU2hTUnVVbHdyYVdVWXJRRVV1bDN6dUFFRWxfNmZPRkdCeE1OemwyZDhNWWtvVXc4aG8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
       "featured": false,
       "draft": true
     }
