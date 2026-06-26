@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T14:24:49.883Z",
+  "lastUpdated": "2026-06-26T17:00:49.834Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 100,
+      "chapterCount": 101,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -817,6 +817,14 @@
           "title": "Fifa World Cup 2026: Argentina vs Austria - all the angles of Lionel Messi opening goal - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzT1p1VXFkbjY3R2JQbk9QcW4xR2NPRWJ0cjF4T2VMY0hRZU4weUM4N2V2WmlOMFdIM1k2VU5iWnZ3YVlrMERoYnlrcE1YYW0xLTlFZW9tMEVhc04yQTBjenRhZ1g?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782493247548",
+          "date": "2026-06-23",
+          "title": "World Cup 2026: Who will Argentina face in Round of 32? - The Indian Express",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVk1RkVpdDN1dHZ2OEc5UEQ4LXJ0QW9wME1IRFlsSWloQXhUVnYyWWZGMTJSWTdNU3FKYldzeTh3UFVNOVFFUUx3bW1uelMwOXVJM3ZSamtKYVFNYkJWRmJVSGt4ZDhLMUY0Vjk3Vlg4dkQ5aDllZ2p5bFFjNWU4Szl6S1p6MHVIdGpXclhrRDVfeThXQktNbHVhQWtrRHJMLTUzY0FIS1J1YkdVZGFMZEgtX1MyNXowVFZKQm5UTGtRYUXSAcoBQVVfeXFMT2tyRnlqVGdQeHhVZkkxX1UtZU1xY2lFeFFRVHlvZml3bllNZ01GT0RKSEFIZmpQdHgwTGNLV3Q5RDhWQTREaHJrYTVFd0tJbW1xb3lQX0ZpXzFuT2NZS2M4X1htM1F1cGRaZFA1WGtmdmJwZERjX1J3SlhNZ0dGSExCU1ctSGhYRjlySlNiclNGZDJaNWs2UUN0eGkxb3FKcE9wcjRYbHE2QnpnSzkzbUNOdWtWY0Y0cDVxMnRDekN5RXpjdjRBRlJaQQ?oc=5",
           "draft": true
         }
       ]
@@ -1671,7 +1679,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 251,
+      "chapterCount": 254,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3680,6 +3688,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzJnOUlCTWVYR1VMV1lPWkpNN3RlWGpRTWFzUDdudzJLSlRrZ01ScnZreWhWU0ZCb3poOThKLUVJSXJrQmMwaHNQMlNxdzRnbmNhMFRkZjF3cGhZTjFlM1lBbWN5dEJKbzNuTUN5NTJqa1g0Y0xTVW1iZE8yNlBXaXBkQ0ZYaTN3R1BEQ2VUaUFUSXRKUndzdlkySlJzc0dpZHg1R2VnRjlQZ1YwWDczbHdLdVQwcnFqODVCU01jeFNudFk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782493248550",
+          "date": "2026-06-26",
+          "title": "Which teams are eliminated from World Cup? Updated bracket ahead of Round of 32 - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlZiVHcyM3dhWFhEUkNBV21lU3A2QnZ4dzItNXR2NVFmZ2poX2JRSUNFNTQtal8zWFF0YW9CWS1DUml0aVBPRWtmUENiUmR4M2pTbndmSmV1R1BLZS1TYWlYQ3ROVkFSSEVoTkFwRk1OOFU0ZktZVjdmMVo2Y2h4RmRuVnNxU3R0LUZsNDkyT2NVU0paeEhWaXpHa0xsZnk0RVM0MUZ3NTIzbUx0U1FwTzczQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782493248550",
+          "date": "2026-06-26",
+          "title": "FIFA World Cup: Live updates, TV schedule, results, standings and highlights - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUZuOElDUDdQbTRaTjdhTFM1X20xVzExUThzR3RyWmR4TklueUcxWUg2LTM1VEpvcm9XLWZIdzVrRC1tQ1FDaEd6NW5zdUZnLWttdVpPaTY0ZGhUUGhrOXRhcXN4VEM2LS1yQS14RHpMc0J0MDR6Sl84RXBWV21fWE9WNVJSOHcxQno1b0pWLTFrR05fVGlOdkVGNV9GOUVNWThKYmd0NDBMYlhWcGM4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782493248550",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: US interested in hosting 2038 tournament, says Andrew Giuliani - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NU0FhcVBadVFPSEhzbUNhOXp5RU9yZW5LV3kzZ3BGazhIdDYyeGdiVTBBZzJFWU9vUWMyNm43QWVDRVRCOEJDXzlhaHlDem54Q01IY3lWdUU0dGJqRi1aLVAyckZ0eEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3698,7 +3730,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 247,
+      "chapterCount": 248,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5675,6 +5707,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782493249141",
+          "date": "2026-06-26",
+          "title": "Brazil demand referee is banished as FA lodges FIFA complaint over Vinicius Jr's disallowed goal against Scotland - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUxiVHJVTXFJQlhZeXZTc2E1RUlGcWpvVmJST0RSTm1ab0pJWUNwdzRkaHhWSHQ2T3FXZlZKb1lYS1g5ZUxUTWxhdGtUOEpFQzc5V0VMa290QjJzSnAwYlBnTlY2OUhXMUhKV3M5dFV0Ym13cFNVUTlqNnVtajB4ZlNaQzVzMmtsN1lEazU4ZVFPUXV5bHJtV1o4VjIwZl8yWjZmNUMycHdWNWdPckVQdHhOaDAzejlXMGU1ckhSS2VMQVhVT3R3X1F0RQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5840,7 +5880,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 268,
+      "chapterCount": 270,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7984,6 +8024,22 @@
           "title": "World Cup scouting report: the lowdown on England’s next opponents Panama - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjJsVDk2ZC1uUXBPLVkwcG1LV2xfa05YdjNtWHFjR0NTMjZOaW0wcWZMcGswQmpsWTM5N2t2bDRmNnZ1ZlZ1RWxMMnFYUUZvRzU2V0tqM25HRHIzMjRTYlpmY196ZHRQdWphcXlUczdJQS1aVUgzUzVQXy1GU0g5Zm95THpVV0VTYnMwTk1NQk5ZS0VONFhTVWl2b3hRT3NrUzJUU01RZV9Vdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782493249834",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: Declan Rice back in England training but Reece James out - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuV1B1NmZmcW1uNndNNUNxTnFBbTZWNXdYSFhzX1I4ZTdVS1JvYzFrQjJlcTVpc1ZFUFd3dWRTM1BZZFR1NzE5SjdfSXYxR2F2UHJNVmNUQkN1TGdLamZ1d3ZQVFRtMEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782493249834",
+          "date": "2026-06-26",
+          "title": "England's route to the World Cup Final: Bracket scenarios, fixtures, Round of 16 & more information - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQm9jOVFkV1VQWEVGN3hmdnNaMTQzUzBuZW40RlpSdktpcTc4V3FaMzJOQUUxRDI3SFUzd0V2VjhEeXdyTktLejltd1hzeWpkT21tZUFTbWRFX3pDZVc3YS1CSDBWd25hbmxLV0plTGNsSjUxX2toMDBzMkdLckdwWUlvQnFMTGNn?oc=5",
           "draft": true
         }
       ]
