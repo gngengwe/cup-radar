@@ -1,6 +1,6 @@
 {
   "_note": "Knockout bracket. Update home/away team fields as teams advance. Dates approximate — verify with FIFA.",
-  "lastUpdated": "2026-06-26T21:13:18.902Z",
+  "lastUpdated": "2026-06-26T22:13:10.319Z",
   "rounds": [
     {
       "id": "r32",
@@ -135,8 +135,8 @@
           "id": "r32-12",
           "home": "Runner-up Group H",
           "homeFlag": "🏳️",
-          "away": "Runner-up Group I",
-          "awayFlag": "🏳️",
+          "away": "Norway",
+          "awayFlag": "🇳🇴",
           "date": "2026-07-07",
           "city": "TBD",
           "status": "upcoming",
@@ -144,8 +144,8 @@
         },
         {
           "id": "r32-13",
-          "home": "Winner Group I",
-          "homeFlag": "🏳️",
+          "home": "France",
+          "homeFlag": "🇫🇷",
           "away": "Runner-up Group J",
           "awayFlag": "🏳️",
           "date": "2026-07-07",

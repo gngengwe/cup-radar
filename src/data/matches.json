@@ -2590,10 +2590,43 @@
       "group": "I",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
+      "status": "finished",
       "homeScore": 1,
-      "awayScore": 3,
-      "notes": "France vs Norway — Group I"
+      "awayScore": 4,
+      "notes": "France vs Norway — Group I",
+      "goals": [
+        {
+          "minute": 7,
+          "team": "away",
+          "player": "Ousmane Dembélé"
+        },
+        {
+          "minute": 20,
+          "team": "away",
+          "player": "Ousmane Dembélé"
+        },
+        {
+          "minute": 21,
+          "team": "home",
+          "player": "Thelo Aasgaard"
+        },
+        {
+          "minute": 32,
+          "team": "away",
+          "player": "Ousmane Dembélé"
+        },
+        {
+          "minute": 50,
+          "team": "home",
+          "player": "Jørgen Strand Larsen",
+          "note": "pen"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Désiré Doué"
+        }
+      ]
     },
     {
       "id": "wc26-I2",
@@ -2612,10 +2645,37 @@
       "group": "I",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": 1,
+      "status": "finished",
+      "homeScore": 5,
       "awayScore": 0,
-      "notes": "Senegal vs Iraq — Group I"
+      "notes": "Senegal vs Iraq — Group I",
+      "goals": [
+        {
+          "minute": 4,
+          "team": "home",
+          "player": "Habib Diarra"
+        },
+        {
+          "minute": 56,
+          "team": "home",
+          "player": "Ismaïla Sarr"
+        },
+        {
+          "minute": 59,
+          "team": "home",
+          "player": "Pape Gueye"
+        },
+        {
+          "minute": 71,
+          "team": "home",
+          "player": "Pape Gueye"
+        },
+        {
+          "minute": 82,
+          "team": "home",
+          "player": "Iliman Ndiaye"
+        }
+      ]
     },
     {
       "id": "wc26-K5",
@@ -2935,5 +2995,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-26T20:29:57.102Z"
+  "lastUpdated": "2026-06-26T22:13:13.467Z"
 }

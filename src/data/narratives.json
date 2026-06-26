@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T19:48:11.743Z",
+  "lastUpdated": "2026-06-26T22:13:12.913Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 101,
+      "chapterCount": 102,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -826,6 +826,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVk1RkVpdDN1dHZ2OEc5UEQ4LXJ0QW9wME1IRFlsSWloQXhUVnYyWWZGMTJSWTdNU3FKYldzeTh3UFVNOVFFUUx3bW1uelMwOXVJM3ZSamtKYVFNYkJWRmJVSGt4ZDhLMUY0Vjk3Vlg4dkQ5aDllZ2p5bFFjNWU4Szl6S1p6MHVIdGpXclhrRDVfeThXQktNbHVhQWtrRHJMLTUzY0FIS1J1YkdVZGFMZEgtX1MyNXowVFZKQm5UTGtRYUXSAcoBQVVfeXFMT2tyRnlqVGdQeHhVZkkxX1UtZU1xY2lFeFFRVHlvZml3bllNZ01GT0RKSEFIZmpQdHgwTGNLV3Q5RDhWQTREaHJrYTVFd0tJbW1xb3lQX0ZpXzFuT2NZS2M4X1htM1F1cGRaZFA1WGtmdmJwZERjX1J3SlhNZ0dGSExCU1ctSGhYRjlySlNiclNGZDJaNWs2UUN0eGkxb3FKcE9wcjRYbHE2QnpnSzkzbUNOdWtWY0Y0cDVxMnRDekN5RXpjdjRBRlJaQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782511990737",
+          "date": "2026-06-25",
+          "title": "Lionel Messi, Rest or Minutes Against Jordan? Argentina Already Qualified for the FIFA World Cup 2026 - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObGEteFF6b0xvWHoydHVpZjRRS2FvbGlqZWFkWmlKekRYNHljbXBPaVhSenNrMl9RMWRDRTRjd20xdTI4MmpCWkx5ZFpwdjNaaHJpaVdmNE5iS1ZZMFU2dDFvQTlmTWNNRDRJY1k3dnhXeV9aTnhpTUsxNUlEejNwaUVvTEhLU1pnSTljSVdLNGVPbHd0akkxZF9xblJlN3pzcC1BcFdqSGk2dXVYYVRpY1l3TVRaaEtVeWNuODlDWWZmZGl2NEZXRFFPZDRYRDZLNmw2VE9KNG5ZSEtlS1E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -844,7 +852,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 103,
+      "chapterCount": 104,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1669,6 +1677,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWxkZG1remo5eGtIaG1uT05qck1kVTd6OTJ4SFEwM3FBZlhsZFFJdWdkUGlNTlI1cXZidVI5WmxHdldWV1RRczM4SnpXb3JQSll5dkNoSEgyYnQ1V2FTeTlaaXNuSTdnc2EyZjdJWE5PR3ozQ3pQUFBmOXVfSEtQU3F3QnV2YVZsc01nMTZzZFVBU2dhR3lpWjJwUUh2UGtjQ1RHVHlwaEJ5MnhiUGJfeXZaSm81U1VVX2FuRHVqdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-I1",
+          "date": "2026-06-26",
+          "title": "France beat Norway 4-1 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
         }
       ]
     },
@@ -1687,7 +1703,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 257,
+      "chapterCount": 260,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3744,6 +3760,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFFqSkV3SEFiZlBvRTY1cTNPVXcwendEbVBZd1RlVlVWbnd5aTZWbnJMQnNaYi1HWHM5V1RfaFo0VlVKUkpBbGd4empxdHl0RDBTVmRlUVVxdHFSNkJsUHV4M3JMOTgyWTBYNFUzTm5IVWhHd254ZmMtSlpwajZoaWYzM1VjSGV3ZkdNanlOclhONjB4SEU4cURrcjVaWWM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782511991719",
+          "date": "2026-06-26",
+          "title": "World Cup 2026 Round of 32 tracker: Who’s qualified, who’s eliminated and who’s still alive - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdFFQQjdURmhyUXZFRWxqXy0tMnhtcEY3OTBlb1htQ0pfXzliRk9wY09YaXd5Y1c4UHlCLWpCN0dBZV9mRDZZU2dncE96RlFEOXJYQ052ZUVOQ29fblhGNXNVVjJBYUZNNGNmeGdjNEVxbUFIczBZREZ5XzV4V2xnSTFDVjJ5ckc2OVNOX2FqUzU0X2RLZ2t0SmVhNEZVY3JobVlqSk12YUJ5UWFpZ3RIRnhsSDlHX3M0WGxIWVhNaUpJMk1WRTQ3RHFqclJ2YUFVYW1qcm54YmM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782511991719",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: Early odds, picks for USA-Bosnia and Herzegovina, plus every set Round of 32 matchup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSFdHdmItaldtLWRrYjNicXZGa0pkUk1ORXJ5NExTSjBqRTQ0UE1sZld0VU8wcGcyM1pqX1Y2YXVZNlBJSmtsYkluMy1GQnhyV053cFJrcWxUS3ZTZGd3V1FWamRUWmRKN3ZWcUxmTmtWNVdkRjl0UGZ2dTJiYUpqbmtNekxHNWN0MXZwdUF3VmtwSEk3dWZvdkFJemZrZ2tGRlRzTWlnSzhBZ0JNMTNncW8wN1MzTVFnRGFDTldLQ2FTTmRBNmhOSXpDMWEyWTctWUgwckVxNTBjYzdtbG5ZeVhURXotcmtYc1FOX0g0UUI3UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782511991719",
+          "date": "2026-06-26",
+          "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFkwd2JrdHdOWkxVWGRzR0Y4aW9zdGhaRnVuWXk0QnJHeEFDcFpPc01vMnNydzN0SDNTc0hrRFZ2N2ZoTllTWGJuQVpsUm1CLUt0TTh4cDk2RVRxWFZtWHRZX3ZDRm5qbTYzNmt1VDZtYWllLXBLMENjVXVVRVBEdEZ4TEZhVkd5WEpiTDJhaVBSbG52NUZjMEYyTHJZZ1E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3762,7 +3802,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 249,
+      "chapterCount": 250,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5755,6 +5795,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkMxajhvMzh5Tm9iM3BlVmNXYndweFJRd1J5VnlzMFdBY3JjbE90OHRFSWZfczg1bWl6NDEzcWhETko2N3dxeFVuQnVXLWF3cmtsdy1jUUg3UVpaMTlSZDlQSk8zUXBiNllSbTc0OG03YlVZLUhVc2RoWEdiRF9XSlpWTDlBUXdJMnhtVVoxaHl0U1NaZS1nMHdqRGRRbnh4UkYwcENwYmRuTjNHNUFYNGk4N09RWkw4SUZSNDR4eVVWMUlkbzAxb1JLNXA5TzU4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782511992270",
+          "date": "2026-06-26",
+          "title": "Japan book Brazil World Cup clash as Sweden also advance - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmlnZ2djWWNkT2xhLW9WaFVEUXFtOUZpVTJEUHRDdFB1THJ1RmlWMW9OUkFfRDJOYU1sSVpLSXVDZUxVQnJBZ1gxcmdERER6c2pkRE1LYUozOEgtSEk0MlhfUmhmUWlxbXlVOVJUVG5rOVNlMlhRZ25jME1nWmVwdmlJUmtZNE9VMUpDbElhc2RBamE3cjcxR2IweDJlVVpJb0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5920,7 +5968,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 272,
+      "chapterCount": 274,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8097,6 +8145,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGZuR2lZTTlmMGhKWmhXbGMzV1IyTm1hM282cndMcHdMbE9ZUnV2bDVHVVphMEFvVV9iSVFPMzE0VnI4S1F2TVc4NDhPS0NMQkI2cThaSmJFdzUzcUpxR3FHWWlvZXZ0ZzNMZTljZ1VxcUZUY0pjZmxqTUlpU1NnQnBWMnRoODFFcDktMzZqUVBfcEZpMUtwd1VGa05xb0QtejZFN3JSbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782511992913",
+          "date": "2026-06-26",
+          "title": "England’s Reece James ruled out for at least two games with hamstring injury - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjhIYVpjM1BtdFg5b1ktWTNFcUZiTl91WUVsM09wYU53R28xVW5zQWpYaDA3bzVaSS1RLV9TVHpHLUxLRWItRkRKWWJyanpsY3ItMm9ZdFUxamMwMEZ6VXRrc1F1akZBOENlME11TjlDMldFd2lhVmhteGVnU29NTVJ2S3BvM0xSa2xrSlprQXJtU3hlRTFUcnl3MHlydGNpYzlwMjV5RWFMbmRHMVFPVXRNSnRkbHZFc1FNZ3AyNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782511992913",
+          "date": "2026-06-26",
+          "title": "Reece James out of Panama clash and first knockout game as injury woes resurface - thesun.co.uk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlfSTJkM3o4el80YnhwWFZNMkFVcFhxeGJjRlJFM1E3RU8tZEhSTVBNTkszQk9NOE9NRUxGenJkZERES21DUW9zUXhmalRkemx1T05FbFRWQ2N3MnFEN2lmWG5XYUk5Z2pMUHFGaHY5QWU5cVl0ODVtUVlKQjhpVVJpVTNtNmUxank3X0VBYURhcmVGdXZONDhod2ZtZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8174,7 +8238,7 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 2,
+      "chapterCount": 3,
       "chapters": [
         {
           "id": "ch-result-wc26-015",
@@ -8188,6 +8252,14 @@
           "id": "ch-result-wc26-018",
           "date": "2026-06-22",
           "title": "Norway beat Senegal 3-2 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-I1",
+          "date": "2026-06-26",
+          "title": "France beat Norway 4-1 at Gillette Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false
