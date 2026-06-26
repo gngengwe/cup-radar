@@ -324,6 +324,15 @@ td .flag-img { margin-right: 4px; }
   transition: color 0.15s;
 }
 .navbar__hiw-link:hover { color: var(--text); }
+.navbar__feature-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.navbar__feature-link:hover { color: var(--text); }
 .navbar__cta {
   padding: 8px 18px;
   font-size: 13px;
@@ -1141,6 +1150,7 @@ main > section.lp-today:first-child {
   :root { --section-py: 60px; }
 
   .navbar__tag { display: none; }
+  .navbar__feature-link { display: inline-flex; } /* Live Pulse / Goal Radar stay visible — core features, not info pages */
 
   .hero {
     min-height: auto;
@@ -5618,6 +5628,9 @@ a.wcp-source-chip:hover { color: var(--text); }
   .navbar__wordmark { font-size: 15px; }
   .navbar__cta { padding: 7px 14px; font-size: 12px; }
   .navbar__hiw-link { display: none; } /* hide on small screens — it's in footer */
+  .navbar__actions { gap: 8px; }
+  .navbar__feature-link { font-size: 16px; gap: 0; }
+  .navbar__feature-link-label { display: none; } /* icon-only at phone width to avoid overflow */
 
   /* ── Landing: CitiesHero single column ─────────────────── */
   .cities-hero__grid { grid-template-columns: 1fr; gap: 14px; margin-top: 24px; }
