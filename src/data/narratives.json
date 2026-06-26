@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T09:27:20.672Z",
+  "lastUpdated": "2026-06-26T14:24:49.883Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1671,7 +1671,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 247,
+      "chapterCount": 251,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3648,6 +3648,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13TmhDNmVXOVBXMEVGVWsweXdDZU9jN2N3aGo4aXRsQlhGcGxTZExkZ1Y0QUhNYWo3STFLUWhGWlJzVGdDc0tGZTkxdGROaWlNUFBtczMtNUptR2l3XzNzNTZ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782483888648",
+          "date": "2026-06-26",
+          "title": "USA lost to Turkey: Is USMNT out of World Cup? What to know about standings - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHFEeTZlZXV4aTBaOWdvY3RSbVVDSWxmWXVuUmlBN1VMWUpncHJBbE9jSGZ0X2Ita3JuSExiTEdOQWN2Tm05VFRrNlUxbWJBNmdLNGZrRVJsVGtkOFR6eUFYdzZRamdESnZtbnNnd24yVFlMdTJrTDNOdUJtVnhEaWFjY1lpcURHcGNMMWpfT2ZJVUFOVy1zdmtLal9ER0R1dy1ENURTTjNoSFBPdURpeVJDWXZvdGxQZGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782483888648",
+          "date": "2026-06-26",
+          "title": "Does Ecuador’s shock knock Germany down? Re-ranking the 48 World Cup teams after day 15 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3FKa3lYcndLaFgxRnhHZjVDMG5WcnBPMjg3OHdZLTVlbkE5UlRHNWs0dHRGNWtkbzVLLWEzN1d2WDk2X0U1a1Fmc0haME9ldGh5dGpna0V3QXhVMEgxZ2tFVFhNYUgwRVdqZlhhZlEwN3hvWG1DQjBjRHBDRTJjWkZkVzBZak0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782483888648",
+          "date": "2026-06-26",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for France, Norway, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTFrYmh0TUFocUpfNDNnNVdTMWR3ZG5SUG0wNUJsTXZWcDRZY2NoMkJBWC1XSUpnRzhQRGJsZjY3LXoyWFB4TjV1UmoyRGsySkJjMi1STG15T2h2MVN5bEotWFIzd09nYXhwQW1lOUV2RF8zQzRKS0NRS2dYTFpQalI2Y3BNYkI5c21MMW9kbS1rSGNueXZjUXJBMi1pcmlGZkM0dV9NRkplak9wUHZIOVR0Yw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782483888648",
+          "date": "2026-06-26",
+          "title": "USA shifts all focus to Bosnia and Herzegovina in round of 32: 'We'll be ready' - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzJnOUlCTWVYR1VMV1lPWkpNN3RlWGpRTWFzUDdudzJLSlRrZ01ScnZreWhWU0ZCb3poOThKLUVJSXJrQmMwaHNQMlNxdzRnbmNhMFRkZjF3cGhZTjFlM1lBbWN5dEJKbzNuTUN5NTJqa1g0Y0xTVW1iZE8yNlBXaXBkQ0ZYaTN3R1BEQ2VUaUFUSXRKUndzdlkySlJzc0dpZHg1R2VnRjlQZ1YwWDczbHdLdVQwcnFqODVCU01jeFNudFk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3666,7 +3698,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 244,
+      "chapterCount": 247,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5619,6 +5651,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTlyeVFUQ2NTWWtndjRvQ2dLWlUtN1k5LThQWEVqYmhuVTJhckROUDE4Z19lLVI3WndOM3gzeVVpR2ppdlVpN3JWT01xSF9LeUNmRUFVbGpGY2QtNTdLNU93YTRaLVNTa2dZbXZPZThqNDQzY29LTDN5UW5xSkdaeVBvUGQ4T0dZYWwtc0FkQ2tWbUhOcHI0WTl6WlU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782483889353",
+          "date": "2026-06-26",
+          "title": "Does Ecuador’s shock knock Germany down? Re-ranking the 48 World Cup teams after day 15 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3FKa3lYcndLaFgxRnhHZjVDMG5WcnBPMjg3OHdZLTVlbkE5UlRHNWs0dHRGNWtkbzVLLWEzN1d2WDk2X0U1a1Fmc0haME9ldGh5dGpna0V3QXhVMEgxZ2tFVFhNYUgwRVdqZlhhZlEwN3hvWG1DQjBjRHBDRTJjWkZkVzBZak0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782483889353",
+          "date": "2026-06-26",
+          "title": "'Wise guy' Carlo Ancelotti still experimenting with Brazil tactics as Eder Militao believes Selecao have 'corrected' weaknesses at World Cup - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVNYemVLSXl5LTZZeXAtTWVNZXdpMzNYTUM4amVuLWVMS1c5R1k1dnplSllHOG95YzdDN3ZQS0hVLVVpaXJmajNBS3NqZ3h1NWRqeGh5clVkR25PbkJKX0xHS1N5TkU5ajFpeXljeTVtWUw0U09HWldoTXhOaE1CZ0RyRFoxY3RxOXh6Q3pHZWZMRGdFRjZsU2wyWGhkVWczLWpDNTY5ZURWcVd5MkNUWlZsa3poVWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782483889353",
+          "date": "2026-06-26",
+          "title": "Every Confirmed Round of 32 Match at the 2026 World Cup - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5784,7 +5840,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 265,
+      "chapterCount": 268,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7904,6 +7960,30 @@
           "title": "World Cup 2026: What is SkyJo? The card game being played in the England camp - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSFhUNnMyLVl2bHJJT24wa2tBYlNfbE5FLXpWSHhMR1ZwUnZ4bTM3Z3V0eF9NR3JRRVd1eXdjYXRUaFNCLWVzYWxZMHJHSWY0RXdUNUZUNkxSNVFsOVZmVnRpNll2eFk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782483889883",
+          "date": "2026-06-26",
+          "title": "Does Ecuador’s shock knock Germany down? Re-ranking the 48 World Cup teams after day 15 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb3FKa3lYcndLaFgxRnhHZjVDMG5WcnBPMjg3OHdZLTVlbkE5UlRHNWs0dHRGNWtkbzVLLWEzN1d2WDk2X0U1a1Fmc0haME9ldGh5dGpna0V3QXhVMEgxZ2tFVFhNYUgwRVdqZlhhZlEwN3hvWG1DQjBjRHBDRTJjWkZkVzBZak0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782483889883",
+          "date": "2026-06-26",
+          "title": "Has VAR become a lottery at the World Cup? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxbUQ2aFhHN0VzQmxJcWZnOWNTc0d1WE5IR3UxU2RlUjFxeUV5U3lfNGdua3F1TzMzM25Lb1JGaDVjMkRRcnQ0UlpwSV9BQTFvMDNobEZhWTV6Z09fMzZpUnd5VmtTNTg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782483889883",
+          "date": "2026-06-26",
+          "title": "World Cup scouting report: the lowdown on England’s next opponents Panama - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjJsVDk2ZC1uUXBPLVkwcG1LV2xfa05YdjNtWHFjR0NTMjZOaW0wcWZMcGswQmpsWTM5N2t2bDRmNnZ1ZlZ1RWxMMnFYUUZvRzU2V0tqM25HRHIzMjRTYlpmY196ZHRQdWphcXlUczdJQS1aVUgzUzVQXy1GU0g5Zm95THpVV0VTYnMwTk1NQk5ZS0VONFhTVWl2b3hRT3NrUzJUU01RZV9Vdw?oc=5",
           "draft": true
         }
       ]
