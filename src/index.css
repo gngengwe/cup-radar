@@ -2139,6 +2139,10 @@ main > section.lp-today:first-child {
   .dash-sidebar__close { display: block; }
   .dash-menu-btn { display: flex; }
   .dash-overlay  { display: block; }
+  /* Drawer variant must stay above the overlay (z-index 199) even at this breakpoint —
+     without this, the generic .dash-sidebar z-index:99 above wins the cascade and the
+     overlay intercepts every tap on a nav link. */
+  .dash-sidebar--drawer { z-index: 200; }
   .dash-topbar   { padding: 11px 16px; }
   .dash-content  { padding: 20px 16px; }
 
