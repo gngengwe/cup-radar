@@ -139,7 +139,7 @@ function ResultCard({ match, espn, summary }) {
 }
 
 // ─── Upcoming Card ─────────────────────────────────────────────────────────
-function UpcomingCard({ match }) {
+export function UpcomingCard({ match }) {
   return (
     <div className="lp-upcoming-card">
       <div className="lp-upcoming-card__time">

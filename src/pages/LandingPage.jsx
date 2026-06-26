@@ -1,6 +1,7 @@
 import Navbar from '../components/Navbar';
 import Hero from '../components/Hero';
 import TodayMatchHub from '../components/TodayMatchHub';
+import TomorrowMatchHub from '../components/TomorrowMatchHub';
 import GoalMontage from '../components/GoalMontage';
 import CitiesHero from '../components/CitiesHero';
 import WhatWeTrack from '../components/WhatWeTrack';
@@ -16,6 +17,7 @@ export default function LandingPage() {
       <Navbar />
       <main id="main-content">
         <TodayMatchHub />
+        <TomorrowMatchHub />
         <Hero />
         <div className="divider" />
         <GoalMontage />
