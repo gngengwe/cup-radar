@@ -487,9 +487,9 @@
       "group": "F",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": true,
       "notes": "Tunisia vs Netherlands — Group F at Kansas City Stadium"
@@ -941,9 +941,9 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "laMatch": true,
@@ -966,9 +966,9 @@
       "group": "D",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group D simultaneous"
@@ -1884,9 +1884,9 @@
       "group": "F",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
       "notes": "Japan vs Sweden — Group F"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-25T22:21:11.950Z"
+  "lastUpdated": "2026-06-26T03:41:49.887Z"
 }

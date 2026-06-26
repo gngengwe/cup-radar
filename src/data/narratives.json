@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-25T22:21:17.041Z",
+  "lastUpdated": "2026-06-26T03:41:55.363Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -828,7 +828,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 99,
+      "chapterCount": 101,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1621,6 +1621,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzJxcE9pYkRURTQ3Qzk3Sk5zTTY2Q2NoYnZ2VFVpRU5SWDkzV3kzaFZ1RE9zYVVVbXk0YlpReXhRVnU2Ymkxd2dCZEt3WHB0YmtWVjJlWmloYTNaRmJBR2V2cnctay1oMEJPNXhHeDExcndxTHlnbWtFOGllVkNjZUQyZUd0VkJLeWNZQkdybnFyalFqYUJOOU5sUDNVVldsSnhwd3NERHVmYVJCVGg1Szh1Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782445313709",
+          "date": "2026-06-23",
+          "title": "France 3-0 Iraq (Jun 22, 2026) Game Analysis - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ibmNNbHBSbzc3NEl1QzNLakxFNTljcjNKbFFOUkhJeUhKaHU2VTdGamx3TzhQNjBUR3YzZWxkUjJXenhNR0NTeW53dDlqLU41TDBfdkhDYm5FU3o1Rzhj?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782445313709",
+          "date": "2026-06-23",
+          "title": "Two-hour storm break fails to stop France as Mbappé and Dembélé prove too good for Iraq - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXc5ZGdETHRjT200Z3QyQ3U5UjFfM3QwOW1xYWdfVzgxaXRhSFpCck9lRHVNRHlhdUNIbU82THdOMUVCbzRnbmJDM0FfS3MzYjllNFByUFFKanhFQzIzZnc2YVJFTDhtX0dIb0phZC04U1JQbWozQTJUUWo1R2pFWUl1d3h3T0xRazJVdm5nLU9PWlVhUXc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1639,7 +1655,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 240,
+      "chapterCount": 244,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3560,6 +3576,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMW9USTZ4VU1CVlF3X3o5d2ZJNVowLW5sb0lkSC1jMGJQV0NQc1cxLWhYdjJRMVJqUnp2QlNGczdCZnktaGM4Z3JOT1lQT1dnWHVueTFkYWZNbU5ia1FSbGM3LXEzbjRCWkZnOXNkcHlBdWkyd0gxenU4TUpRVk1sRFBtMmJiWTVpX2xXNlczOHdhd9IBkgFBVV95cUxOOHRUOU5oZkJhVVFjdFN0Yy1VTnVZNmtrQ0hSTVNoRnk0SHRkMHhFa09BQmx4U25zMnFMTTZUVHRIR3kwdjhFYklLS2JpMHoxM3Y0VkdHaWF3cE43eHRuVjVDeE9BNkViMjIwNC1oUTB1M3lVV1BhZkJ5ZWlmZVFaaUZUaDFfNTFsb2U0Y1dKWXYwZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782445314297",
+          "date": "2026-06-26",
+          "title": "(1) Turkey v USA: World Cup 2026 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3hSSVdsSFd2aURXcVZvdndwRkxmYnZLQ2gyVldvNU05dGZOV0xoZ0pPVUtfdmxtVG02ZnBGT2hXd3Rjcm5jY1Z4SzF4ekwtRW5OR0lqblY0eWhNVFIwV25TTW15ZzExeXNjTzNrQmtpWUJtTEp4VDlKYW5xZWNDSEhsT2VxS1pRdk9oYjd4UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782445314297",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: USMNT set to face Bosnia and Herzegovina in Round of 32 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnlHVTNRZThLdG1GT0p0TENZM1JjSkdqVV9SNmU5MDBDVTlhcWwtX1BrNGhLc1ptTzZabWtWX1dGYzRNZHRzeTJJSko0eFJJY0N6UzM2akR4ckdNOFZiTEx4d1BUeUJ1UFJialhlSFdpcWF5N0lyZUR3TFU5cFUtakd0UVp0czRFRHZIbzJOZFBYYktjMHh4YXdqYnRwYV9UTmNtNmlIeHBnQUxBRGF6YzVISlFjRUljcGFwb215TGRndUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782445314297",
+          "date": "2026-06-26",
+          "title": "Starting XI & Lineup Notes: USMNT vs. Türkiye - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzJjWjBDc09WaHRCVnpCbW9jMVhxMV93bW5QZjVLTDF3QXJCLXRNYk1wY2RTbnp3YjZJQVphZnFHM3FDeUIwSDNnV0k0ZHFFZXctMnp0cjd0b3NDdlhEbWdQZjJNTzVNVUFFU3otU3FTYnQtNGQzOHoyQmg2WUE0NmJQZTlKMm9tc0dSVmhnM3I3dkJYdVhZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782445314297",
+          "date": "2026-06-25",
+          "title": "When the US Men’s Soccer Team Plays Next in the World Cup and How to Watch - TODAY.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yM0FtZmtOQ1RGLThHQ2xYNXlzVktUWnJwMHIzaWJ1TjR3NHlDNnlwMXRPODlHeFJaMWdUZnpheU1WTl9nZFV5Z1JuTm1xdnloSG1MNWprc1dVdzE5TXhPOGVkNDBjNm9Rek1HQjhubk1WNnhhS1ZEaDVkbw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3578,7 +3626,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 240,
+      "chapterCount": 243,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5499,6 +5547,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUX2ViTzlkRndCUVppX2VKdjFLTk9tUlhjUlFtQ1g5eGVRNXBsaFZJNVVpdzNaa2ZTcENkajQ5MTA4Vi0tZGotUnZlbExFc3JyMlNYTjNYTjRKa2pPVVhZdE5JNjE0TEo3TUVyd3FiTnF0aE5NYmNySUxR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782445314861",
+          "date": "2026-06-26",
+          "title": "If Japan are dreaming of winning the World Cup, Brazil will be the greatest test - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUpRdUJkZkVYVmRFb2ROVVRLc1JXSWpQRUR0X0lCM25pYy00XzhuZnRqejg1YW9La1lWd3BUYVJKY2lLa1VEYmVNdXVYSmRBZnBibUVjendRaUh1UnVRbERqOTZ6TjdEeHNxelJVYXBSY3ViYUo5enVNWk42U0pKZ2lFOUpLQm5DSW9XMW0tblBmVGZfNEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782445314861",
+          "date": "2026-06-26",
+          "title": "Japan to face Brazil, Sweden through to World Cup round of 32 after entertaining draw - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0NGMDZQSzFGUEhWOEhncjE3ZXJKS2liSDdSaGhfemlhTzB5RjBJRC1WS1R5RGZIT21Jby1ZYk1PRGt5bWp6STVvT0FXaVpUSl93R2pWOVpQaGVLY21QTlVfQk50Z01aaG12OUhuRFRqTnJyX1lMdmU3Znh0WXQyd01PYnRyNVVIemRYakpFTU9Hdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782445314861",
+          "date": "2026-06-26",
+          "title": "GROUP F REACTION🚨 Netherlands wins group, faces Morocco, Japan-Brazil in Round of 32 ⚽️ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KdldKWktINE9LSzNFQ0FDV1NJUEpORWFBQ3JDYWZYRy1qTWFlU2tuMW80U2pFU3BQQXBpNE9vdEpXVmV0V183bmxxYzBJT1BqVF93b3B1TnVKMl9NTEdobFZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5664,7 +5736,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 260,
+      "chapterCount": 261,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7744,6 +7816,14 @@
           "title": "Harry Kane turns attention to Panama with England focused on bigger picture - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjRFV1BMSnMzYk9PbkhnRVdHOFh6WG1tVFFwdk15Z0pjMlN6UlZoc19ZWFlxRHhwMmUtWDA2MmFvZ2V0dVZuM2pjY1VMMmRUejItMV9OVzVOdWt4bGdEX05aNEtFSGk3WTM4Tk9PN3VEODdqM3RRWTRkWEZRYW85X1ZyMm5IdmMxTDlCWXFIOXNhSDltazNUODcxVDJPQXlBUFBFLWJMTm51SW84YlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782445315363",
+          "date": "2026-06-26",
+          "title": "Manchester City Set To Sign England's FIFA World Cup Star Elliot Anderson For 'British Record' Fee - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLXlyaW85NFJPNDRrTmxRanotcFp3NjRPUTJYTFExWHpjX284Z1B4ZE44VXVjSXREd1VqUUpzX3gtVEppelNwN0F5YXBJMDFPUFpDT21rbUY3UWVaaHpodkxPc2FaZ29LQUluaWhqYkw4V004MDR6YUJTWGY5ejlnZ3FPYXVDdGFyVE0zWmxIb18yMjl5VE9fNmFZQmRUZGpxdlZZSXhJQ08zbkFiYXdpWGlGSEJEZzlsWVMxb3pZVjJxOGFwNFdSUkppQVFRWHQtTUQtN1hqai1fSkE3MjF2Vg?oc=5",
           "draft": true
         }
       ]
