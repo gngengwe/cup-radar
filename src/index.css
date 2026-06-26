@@ -300,6 +300,20 @@ td .flag-img { margin-right: 4px; }
   align-items: center;
   justify-content: space-between;
 }
+.navbar__left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.navbar__menu-btn {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px 4px;
+  flex-shrink: 0;
+}
+.navbar__menu-btn span { display: block; width: 18px; height: 2px; background: var(--text-muted); border-radius: 2px; transition: background 0.15s; }
+.navbar__menu-btn:hover span { background: var(--text); }
 .navbar__wordmark {
   font-size: 17px;
   font-weight: 900;
@@ -1357,6 +1371,20 @@ main > section.lp-today:first-child {
   background: rgba(0,0,0,0.6);
   z-index: 98;
 }
+
+/* ── Nav drawer variant — always off-canvas, any width, any page ── */
+.dash-sidebar--drawer {
+  position: fixed;
+  left: -240px;
+  top: 0;
+  height: 100%;
+  width: 240px;
+  z-index: 200;
+  transition: left 0.25s ease;
+}
+.dash-sidebar--drawer.open { left: 0; }
+.dash-sidebar--drawer .dash-sidebar__close { display: block; }
+.dash-overlay--drawer { display: block; z-index: 199; }
 
 /* ── Section utilities ── */
 .dash-section-loading {

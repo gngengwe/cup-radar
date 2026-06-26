@@ -1,7 +1,10 @@
-import { useParams, NavLink, Link, Navigate, useNavigate } from 'react-router-dom';
+import { useParams, Link, Navigate, useNavigate } from 'react-router-dom';
 import { useState, lazy, Suspense, useEffect, useRef } from 'react';
 import ErrorBoundary from '../components/ErrorBoundary';
 import IntroBanner from '../components/IntroBanner';
+import DashSidebar from '../components/DashSidebar';
+import { CITY_META, buildNav } from '../data/cityNav';
+import { setLastCity } from '../utils/lastCity';
 
 // City-specific sections (lazy-loaded per city)
 const SeattleHQ          = lazy(() => import('../dashboard/SeattleHQ'));
@@ -34,101 +37,15 @@ const AllTeams           = lazy(() => import('../dashboard/AllTeams'));
 const AllGames           = lazy(() => import('../dashboard/AllGames'));
 
 const CITY_CONFIG = {
-  seattle: {
-    label:        'Seattle HQ',
-    short:        'Seattle',
-    icon:         '🏟️',
-    matchCount:   6,
-    hqSection:    SeattleHQ,
-    watchSection: SeattleWatchGuide,
-    accentVar:    'var(--accent)',
-  },
-  kansascity: {
-    label:        'Kansas City HQ',
-    short:        'Kansas City',
-    icon:         '🏈',
-    matchCount:   6,
-    hqSection:    KansasCityHQ,
-    watchSection: KCWatchGuide,
-    accentVar:    '#c084fc',
-  },
-  miami: {
-    label:        'Miami HQ',
-    short:        'Miami',
-    icon:         '🌴',
-    matchCount:   7,
-    hqSection:    MiamiHQ,
-    watchSection: MiamiWatchGuide,
-    accentVar:    '#f43f5e',
-  },
-  newyork: {
-    label:        'New York HQ',
-    short:        'New York',
-    icon:         '🗽',
-    matchCount:   9,
-    hqSection:    NewYorkHQ,
-    watchSection: NewYorkWatchGuide,
-    accentVar:    '#3b82f6',
-  },
-  philly: {
-    label:        'Philadelphia HQ',
-    short:        'Philly',
-    icon:         '🦅',
-    matchCount:   6,
-    hqSection:    PhillyHQ,
-    watchSection: PhillyWatchGuide,
-    accentVar:    '#10b981',
-  },
-  atlanta: {
-    label:        'Atlanta HQ',
-    short:        'Atlanta',
-    icon:         '🍑',
-    matchCount:   8,
-    hqSection:    AtlantaHQ,
-    watchSection: AtlantaWatchGuide,
-    accentVar:    '#fb923c',
-  },
-  vancouver: {
-    label:        'Vancouver HQ',
-    short:        'Vancouver',
-    icon:         '🍁',
-    matchCount:   7,
-    hqSection:    VancouverHQ,
-    watchSection: VancouverWatchGuide,
-    accentVar:    '#22d3ee',
-  },
-  losangeles: {
-    label:        'Los Angeles HQ',
-    short:        'Los Angeles',
-    icon:         '🎬',
-    matchCount:   8,
-    hqSection:    LAHQ,
-    watchSection: LAWatchGuide,
-    accentVar:    '#facc15',
-  },
+  seattle:    { ...CITY_META.seattle,    hqSection: SeattleHQ,    watchSection: SeattleWatchGuide },
+  kansascity: { ...CITY_META.kansascity, hqSection: KansasCityHQ, watchSection: KCWatchGuide },
+  miami:      { ...CITY_META.miami,      hqSection: MiamiHQ,      watchSection: MiamiWatchGuide },
+  newyork:    { ...CITY_META.newyork,    hqSection: NewYorkHQ,    watchSection: NewYorkWatchGuide },
+  philly:     { ...CITY_META.philly,     hqSection: PhillyHQ,     watchSection: PhillyWatchGuide },
+  atlanta:    { ...CITY_META.atlanta,    hqSection: AtlantaHQ,    watchSection: AtlantaWatchGuide },
+  vancouver:  { ...CITY_META.vancouver,  hqSection: VancouverHQ,  watchSection: VancouverWatchGuide },
+  losangeles: { ...CITY_META.losangeles, hqSection: LAHQ,         watchSection: LAWatchGuide },
 };
-
-// Nav ordered by day-to-day relevance — HQ + Team IQ front, then action, then intel
-function buildNav(city) {
-  const cfg = CITY_CONFIG[city];
-  return [
-    { id: 'hq',         label: cfg.label,           icon: cfg.icon,  desc: `${cfg.matchCount} matches` },
-    { id: 'primer',     label: 'New to Soccer?',    icon: '🎓',      desc: 'World Cup guide', external: true, to: '/world-cup-primer' },
-    { id: '__divider-1__', divider: true },
-    { id: 'allgames',   label: 'All Games',         icon: '📅',       desc: 'Search every match'   },
-    { id: 'allteams',   label: 'All 48 Teams',      icon: '🌍',       desc: 'Squads & status'      },
-    { id: 'teamiq',     label: 'Country · Team IQ', icon: '🧠',      desc: 'Know every team'      },
-    { id: 'matches',    label: 'Match Tracker',      icon: '⚽',      desc: 'City view'            },
-    { id: 'watch',      label: 'Watch Guide',        icon: '🍺',      desc: 'Bars & neighborhoods' },
-    { id: 'tickets',    label: 'Ticket Pulse',       icon: '🎫',      desc: 'Market read'          },
-    { id: '__divider-2__', divider: true },
-    { id: 'groups',     label: 'Group Tracker',      icon: '📊',      desc: '12 groups'            },
-    { id: 'bracket',    label: 'Bracket',            icon: '🏆',      desc: 'Knockout rounds'      },
-    { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
-    { id: 'narratives', label: 'Narratives',         icon: '📖',      desc: 'Tournament stories'   },
-    { id: 'news',       label: 'Newsroom',           icon: '📰',      desc: 'Latest stories'       },
-  ];
-}
 
 function getSectionComponent(city, section) {
   const cfg = CITY_CONFIG[city];
@@ -175,92 +92,19 @@ export default function Dashboard() {
   // Scroll to top when section changes
   useEffect(() => { window.scrollTo(0, 0); }, [section]);
 
-  // Focus trap + Escape for mobile sidebar
-  useEffect(() => {
-    if (!menuOpen) return;
-    const sidebar = document.getElementById('dash-sidebar');
-    const FOCUSABLE = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
-    const focusable = sidebar ? Array.from(sidebar.querySelectorAll(FOCUSABLE)) : [];
-    if (focusable.length) focusable[0].focus();
-    const onKey = e => {
-      if (e.key === 'Escape') { setMenuOpen(false); menuBtnRef.current?.focus(); return; }
-      if (e.key !== 'Tab' || !focusable.length) return;
-      const first = focusable[0], last = focusable[focusable.length - 1];
-      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
-      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
-    };
-    document.addEventListener('keydown', onKey);
-    return () => document.removeEventListener('keydown', onKey);
-  }, [menuOpen]);
+  // Remember this city so the landing-page nav drawer defaults to it
+  useEffect(() => { setLastCity(city); }, [city]);
 
   return (
     <div className="dashboard">
       <a href="#dash-content" className="skip-link">Skip to content</a>
-      {/* ── Sidebar ── */}
-      <aside id="dash-sidebar" className={`dash-sidebar${menuOpen ? ' open' : ''}`} aria-label="Dashboard navigation">
-        <div className="dash-sidebar__header">
-          <Link to="/" className="dash-logo">Cup<span>Radar</span></Link>
-          <button className="dash-sidebar__close" onClick={() => setMenuOpen(false)} aria-label="Close menu">✕</button>
-        </div>
-
-        {/* City switcher */}
-        <div className="dash-city-switcher">
-          {Object.entries(CITY_CONFIG).map(([id, cfg]) => (
-            <button
-              key={id}
-              className={`dash-city-pill${city === id ? ' active' : ''}`}
-              onClick={() => switchCity(id)}
-              aria-pressed={city === id}
-              style={city === id ? { '--pill-accent': cfg.accentVar } : {}}
-            >
-              {cfg.icon} {cfg.short}
-            </button>
-          ))}
-        </div>
-
-        <nav className="dash-nav">
-          {nav.map(n => n.divider
-            ? <div key={n.id} className="dash-nav__divider" aria-hidden="true" />
-            : n.external
-              ? (
-                <Link
-                  key={n.id}
-                  to={n.to}
-                  className="dash-nav__item dash-nav__item--external"
-                  onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
-                >
-                  <span className="dash-nav__icon">{n.icon}</span>
-                  <div className="dash-nav__text">
-                    <span className="dash-nav__label">{n.label}</span>
-                    <span className="dash-nav__desc">{n.desc}</span>
-                  </div>
-                </Link>
-              )
-              : (
-                <NavLink
-                  key={n.id}
-                  to={`/${city}/${n.id}`}
-                  className={({ isActive }) => `dash-nav__item${isActive ? ' active' : ''}`}
-                  onClick={() => { setMenuOpen(false); menuBtnRef.current?.focus(); }}
-                >
-                  <span className="dash-nav__icon">{n.icon}</span>
-                  <div className="dash-nav__text">
-                    <span className="dash-nav__label">{n.label}</span>
-                    <span className="dash-nav__desc">{n.desc}</span>
-                  </div>
-                </NavLink>
-              )
-          )}
-        </nav>
-
-        <div className="dash-sidebar__footer">
-          <Link to="/" className="dash-back" title="Return to city selection">← Choose city</Link>
-          <Link to="/how-it-works" className="dash-back" style={{ marginTop: 6, opacity: 0.6 }}>How it works</Link>
-        </div>
-      </aside>
-
-      {/* ── Mobile overlay ── */}
-      {menuOpen && <div className="dash-overlay" onClick={() => setMenuOpen(false)} />}
+      <DashSidebar
+        city={city}
+        open={menuOpen}
+        onClose={() => setMenuOpen(false)}
+        onSelectCity={switchCity}
+        triggerRef={menuBtnRef}
+      />
 
       {/* ── Main ── */}
       <div className="dash-main">
