@@ -1907,8 +1907,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 3,
       "notes": "France vs Norway — Group I"
     },
     {
@@ -1929,8 +1929,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "notes": "Senegal vs Iraq — Group I"
     },
     {
@@ -2180,5 +2180,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-26T09:27:15.193Z"
+  "lastUpdated": "2026-06-26T19:48:06.121Z"
 }

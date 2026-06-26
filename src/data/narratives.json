@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T17:00:49.834Z",
+  "lastUpdated": "2026-06-26T19:48:11.743Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -844,7 +844,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 102,
+      "chapterCount": 103,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1661,6 +1661,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2J2NVdGY2duUXFPdTllVDlrRVNsM3YwdGlrUzBmTHJscEFleUdmMU5XNXdBZFJIN1J5dW85dUJLVG5HT0p0V3ZNSXBpZGxrVzR5bXpORjRtVnBNXzNjVTlUQmlEZFFyVXdpSEJjQVRyWkpSaWk0SUJBd1NHb2I2TGdfLXNKZ0hWak1EeTlNVjRXck0yQTd1c1lOU0RQLUlYeFlQQWtsVGM2V1BtUzhJTGJVTjlIbm05SEpwbGJB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782503290111",
+          "date": "2026-06-26",
+          "title": "World Cup schedule, live updates: Kylian Mbappé, France take on Erling Haaland, Norway to kick off slate - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWxkZG1remo5eGtIaG1uT05qck1kVTd6OTJ4SFEwM3FBZlhsZFFJdWdkUGlNTlI1cXZidVI5WmxHdldWV1RRczM4SnpXb3JQSll5dkNoSEgyYnQ1V2FTeTlaaXNuSTdnc2EyZjdJWE5PR3ozQ3pQUFBmOXVfSEtQU3F3QnV2YVZsc01nMTZzZFVBU2dhR3lpWjJwUUh2UGtjQ1RHVHlwaEJ5MnhiUGJfeXZaSm81U1VVX2FuRHVqdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1679,7 +1687,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 254,
+      "chapterCount": 257,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3712,6 +3720,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NU0FhcVBadVFPSEhzbUNhOXp5RU9yZW5LV3kzZ3BGazhIdDYyeGdiVTBBZzJFWU9vUWMyNm43QWVDRVRCOEJDXzlhaHlDem54Q01IY3lWdUU0dGJqRi1aLVAyckZ0eEE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782503290627",
+          "date": "2026-06-26",
+          "title": "World Cup projected round of 32 matchups, live bracket for knockout stage - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDd3SjZzbzRxS3RubFR1ZGJ4Wl8yUkZ5XzUxa0Z3TzJJM282VTdOUXQxdzhOYkZxQUZHcWFCUVdUclBBY292VDQ3YS0zWm5JaldWUFVOaFlKVzlEcW50NlM3WjVnVkdZdU4yWlJjV0hEb3dNMmhUNEZCZU5VTXJycXUtZk1BVnludWdRT1NUSXVpRzA4YzJZQ3FubEJKa29HUkF1VHBmUjlSSUNzZDZMQzBkc0tpcnNLNW12a3pORWVPSVZZaVU2UHAwTTRmRGsyRVdwUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782503290627",
+          "date": "2026-06-26",
+          "title": "Mauricio Pochettino offered contract extension to lead USMNT for second World Cup cycle - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzlkVjBRWTBobjVDdlpMTkd4SXZzX2NFVGx5SVVyX1NteGtBd055QVNLY05wMXgweHF1RUo2UjFsVXdGMC1lU1lvTUw4cW1FTG5CeEYzSGxJMmQ5SDluUjh4bEQxVmpaVWRhMG1fYW51bkVPUTh4UEd5WFNzaXZSa3hsa0lSdGo4RVBRdWx3QUVpdWtPZGxNVg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782503290627",
+          "date": "2026-06-26",
+          "title": "USMNT to face Bosnia-Herzegovina in World Cup round of 32 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFFqSkV3SEFiZlBvRTY1cTNPVXcwendEbVBZd1RlVlVWbnd5aTZWbnJMQnNaYi1HWHM5V1RfaFo0VlVKUkpBbGd4empxdHl0RDBTVmRlUVVxdHFSNkJsUHV4M3JMOTgyWTBYNFUzTm5IVWhHd254ZmMtSlpwajZoaWYzM1VjSGV3ZkdNanlOclhONjB4SEU4cURrcjVaWWM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3730,7 +3762,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 248,
+      "chapterCount": 249,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5715,6 +5747,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUxiVHJVTXFJQlhZeXZTc2E1RUlGcWpvVmJST0RSTm1ab0pJWUNwdzRkaHhWSHQ2T3FXZlZKb1lYS1g5ZUxUTWxhdGtUOEpFQzc5V0VMa290QjJzSnAwYlBnTlY2OUhXMUhKV3M5dFV0Ym13cFNVUTlqNnVtajB4ZlNaQzVzMmtsN1lEazU4ZVFPUXV5bHJtV1o4VjIwZl8yWjZmNUMycHdWNWdPckVQdHhOaDAzejlXMGU1ckhSS2VMQVhVT3R3X1F0RQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782503291188",
+          "date": "2026-06-26",
+          "title": "Brazil Want FIFA World Cup 2026 Referee Sacked, Reason Has A Vinicius Jr Connection - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkMxajhvMzh5Tm9iM3BlVmNXYndweFJRd1J5VnlzMFdBY3JjbE90OHRFSWZfczg1bWl6NDEzcWhETko2N3dxeFVuQnVXLWF3cmtsdy1jUUg3UVpaMTlSZDlQSk8zUXBiNllSbTc0OG03YlVZLUhVc2RoWEdiRF9XSlpWTDlBUXdJMnhtVVoxaHl0U1NaZS1nMHdqRGRRbnh4UkYwcENwYmRuTjNHNUFYNGk4N09RWkw4SUZSNDR4eVVWMUlkbzAxb1JLNXA5TzU4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5880,7 +5920,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 270,
+      "chapterCount": 272,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8040,6 +8080,22 @@
           "title": "England's route to the World Cup Final: Bracket scenarios, fixtures, Round of 16 & more information - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQm9jOVFkV1VQWEVGN3hmdnNaMTQzUzBuZW40RlpSdktpcTc4V3FaMzJOQUUxRDI3SFUzd0V2VjhEeXdyTktLejltd1hzeWpkT21tZUFTbWRFX3pDZVc3YS1CSDBWd25hbmxLV0plTGNsSjUxX2toMDBzMkdLckdwWUlvQnFMTGNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782503291743",
+          "date": "2026-06-26",
+          "title": "Get your Panama vs England tickets for the 2026 World Cup on Tickets MARCA - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHZtWXRQT3R4Zkp6V3VhVGRfSWtqbG04RndvU196cGpieHExZEcxYm1ZdFhEQUoycldoc1VSd2tCN3RRNXRxa09JQTZ1WkQ4TThFbXVxUm5iZXUwcnFYMThZbkMwUTZKUGJER1hWTGkxam5EenhlRXJROU4wLWxQcW5zajhMdnh3SG5sbl8yU1lJYi16OG90OXFWZWNwWWFLNWRvbzFlVUNXRm9MZkk1S1N3RGp5Mk9wVFZFLWsxZ3M2bjTSAcMBQVVfeXFMT2U1VUQ1NTUwQ3otMWlfQ2xIQVpIeGJsTmMyTzBCZXNXVG9CZEVmYWNoLUFZbFNQcUwxTVd2QXJHZ1NvRk5wTFBudWl4cHFaNkpHdWJqZlNla0hpX0otVHNVbDBrb25nVjdFWGlGWGllNkhTRlE3Y3lseVIxLXJTWE4tRzF2MDNhWmRFWnVvZ1BwX1FYVGM1X2Z1c25Ic0sxTzEtVXE5blhVZFZUaHFmTFVYOGNTWEJYcWpXOXQzNzdOeThr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782503291743",
+          "date": "2026-06-26",
+          "title": "Ivan Toney: I am not at World Cup just to take a penalty - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGZuR2lZTTlmMGhKWmhXbGMzV1IyTm1hM282cndMcHdMbE9ZUnV2bDVHVVphMEFvVV9iSVFPMzE0VnI4S1F2TVc4NDhPS0NMQkI2cThaSmJFdzUzcUpxR3FHWWlvZXZ0ZzNMZTljZ1VxcUZUY0pjZmxqTUlpU1NnQnBWMnRoODFFcDktMzZqUVBfcEZpMUtwd1VGa05xb0QtejZFN3JSbw?oc=5",
           "draft": true
         }
       ]
