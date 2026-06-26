@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T03:41:55.363Z",
+  "lastUpdated": "2026-06-26T09:27:20.672Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 99,
+      "chapterCount": 100,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -810,6 +810,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOVRuRkQ2RTJGZS1KUm9seFFUcGZwWHAwNDY3VVJkSWszTkxub0JCRmdHZUdYbl9lUUJPV09nWlJTbnFXUVppT0ZXTWtXSVA0alhMUkd4LUFQcVRQX1M2QWZ4TllIVjREeXhtWi1WWWhmTnNkMGhBQzVFMDg4TXVqb0ZNc0dEeDc4cEhfZmVMXzVIaDI3QWFycW93V0E2M19QVE9RalY1RlhXdHUzb2c2ZXpIeHB0Sm5BS2txNkpXZVNxN3FITkNQSnpzanJJSC1hVzRNRnlUNnpUamxQS3JlOGRDbVFlaWlROHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782466038422",
+          "date": "2026-06-22",
+          "title": "Fifa World Cup 2026: Argentina vs Austria - all the angles of Lionel Messi opening goal - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzT1p1VXFkbjY3R2JQbk9QcW4xR2NPRWJ0cjF4T2VMY0hRZU4weUM4N2V2WmlOMFdIM1k2VU5iWnZ3YVlrMERoYnlrcE1YYW0xLTlFZW9tMEVhc04yQTBjenRhZ1g?oc=5",
+          "draft": true
         }
       ]
     },
@@ -828,7 +836,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 101,
+      "chapterCount": 102,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1637,6 +1645,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXc5ZGdETHRjT200Z3QyQ3U5UjFfM3QwOW1xYWdfVzgxaXRhSFpCck9lRHVNRHlhdUNIbU82THdOMUVCbzRnbmJDM0FfS3MzYjllNFByUFFKanhFQzIzZnc2YVJFTDhtX0dIb0phZC04U1JQbWozQTJUUWo1R2pFWUl1d3h3T0xRazJVdm5nLU9PWlVhUXc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782466038950",
+          "date": "2026-06-25",
+          "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2J2NVdGY2duUXFPdTllVDlrRVNsM3YwdGlrUzBmTHJscEFleUdmMU5XNXdBZFJIN1J5dW85dUJLVG5HT0p0V3ZNSXBpZGxrVzR5bXpORjRtVnBNXzNjVTlUQmlEZFFyVXdpSEJjQVRyWkpSaWk0SUJBd1NHb2I2TGdfLXNKZ0hWak1EeTlNVjRXck0yQTd1c1lOU0RQLUlYeFlQQWtsVGM2V1BtUzhJTGJVTjlIbm05SEpwbGJB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1655,7 +1671,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 244,
+      "chapterCount": 247,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3608,6 +3624,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yM0FtZmtOQ1RGLThHQ2xYNXlzVktUWnJwMHIzaWJ1TjR3NHlDNnlwMXRPODlHeFJaMWdUZnpheU1WTl9nZFV5Z1JuTm1xdnloSG1MNWprc1dVdzE5TXhPOGVkNDBjNm9Rek1HQjhubk1WNnhhS1ZEaDVkbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-D5",
+          "date": "2026-06-25",
+          "title": "Türkiye beat USA 3-2 at SoFi Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-003-1782466039513",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: USMNT stunned by Türkiye in stoppage time, losing perfect group stage run - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVRIYk42ejVVZTAwampoS0JKYkU4Z190S1NSdTd5ZHRfSTFLV3BjdWw4TUlodVREZ2pJVGUxcm05NEpvaTJ5VVhYeFdETThjUUFFTU4wWml4RXhpZEh5MGgzWWpYVi0tTnc1LXJYZ0tleHhZbUp5UHI4cEJuSTVreEdydVhRR01aaDFyNXpscnpkRGNSVXhLd2xyR2hueEZLY3g4bkV1aUp1UEswaHRWNF9fdHF0MUJVM3JUa3ZDa2NhV2o5aV9DZG5FV2lCQ0NIZjc2aDNB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782466039513",
+          "date": "2026-06-26",
+          "title": "Sweden, Ecuador Late Drama & Türkiye Stuns USA Matchday 15 ⭐️ 2026 FIFA World Cup™ Best Moments - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13TmhDNmVXOVBXMEVGVWsweXdDZU9jN2N3aGo4aXRsQlhGcGxTZExkZ1Y0QUhNYWo3STFLUWhGWlJzVGdDc0tGZTkxdGROaWlNUFBtczMtNUptR2l3XzNzNTZ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3626,7 +3666,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 243,
+      "chapterCount": 244,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5571,6 +5611,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KdldKWktINE9LSzNFQ0FDV1NJUEpORWFBQ3JDYWZYRy1qTWFlU2tuMW80U2pFU3BQQXBpNE9vdEpXVmV0V183bmxxYzBJT1BqVF93b3B1TnVKMl9NTEdobFZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782466040191",
+          "date": "2026-06-26",
+          "title": "If Japan are dreaming of winning the World Cup, Brazil will be the greatest test - ESPN Global",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTlyeVFUQ2NTWWtndjRvQ2dLWlUtN1k5LThQWEVqYmhuVTJhckROUDE4Z19lLVI3WndOM3gzeVVpR2ppdlVpN3JWT01xSF9LeUNmRUFVbGpGY2QtNTdLNU93YTRaLVNTa2dZbXZPZThqNDQzY29LTDN5UW5xSkdaeVBvUGQ4T0dZYWwtc0FkQ2tWbUhOcHI0WTl6WlU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5736,7 +5784,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 261,
+      "chapterCount": 265,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -7824,6 +7872,38 @@
           "title": "Manchester City Set To Sign England's FIFA World Cup Star Elliot Anderson For 'British Record' Fee - NDTV Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLXlyaW85NFJPNDRrTmxRanotcFp3NjRPUTJYTFExWHpjX284Z1B4ZE44VXVjSXREd1VqUUpzX3gtVEppelNwN0F5YXBJMDFPUFpDT21rbUY3UWVaaHpodkxPc2FaZ29LQUluaWhqYkw4V004MDR6YUJTWGY5ejlnZ3FPYXVDdGFyVE0zWmxIb18yMjl5VE9fNmFZQmRUZGpxdlZZSXhJQ08zbkFiYXdpWGlGSEJEZzlsWVMxb3pZVjJxOGFwNFdSUkppQVFRWHQtTUQtN1hqai1fSkE3MjF2Vg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782466040671",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: England's current last 32 opponents, Declan Rice, Reece James update & Eze quotes - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBaUVZbm0tQ0NRUWdrY3g5RzlhT3dXOWU0YjlJZDVJTWt3d0RvRDI3R0dIdGRybnpRLWp0R1YxMVhENXRUZFkyZHFZMEJFSk51MUpjRFREQUNWTHllcmQ3T0ln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782466040671",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: Why are the underdogs doing so well? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc3BTUHg0amZNcEdZTUFTWlFKSUxrTUtXSHZFdnJFZExKTlF5clkxb3VVOGhTeXhiSVhkRGxUMy1xOGFyYlN1U1RwbFJROXMyUFdqVVpUYUxJNE1yU2ZLNkhJTy1RTlZkRHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782466040671",
+          "date": "2026-06-26",
+          "title": "Panama scouting report: What can England expect from the World Cup minnows? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUJuMHVoSk0yQW9WZ0hyY1U4NHJiQjNWMjQwcm9BWm1aTFJUeDJpOXRxM29tLVk1MFp2V0pVZW1YVVZlZUxrY2lQMDJ2a2dVdEdFQUVTbEVBNldKa2hSamdiSG1IaWFlTEJRdlMzYXZqSHFwZTdITTJUSVZTQWh3b1dNRmZNUXkwUnhoUFBVcThXdmdGNkc3X1JILWtLMm03X1FqNnZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782466040671",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: What is SkyJo? The card game being played in the England camp - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QSFhUNnMyLVl2bHJJT24wa2tBYlNfbE5FLXpWSHhMR1ZwUnZ4bTM3Z3V0eF9NR3JRRVd1eXdjYXRUaFNCLWVzYWxZMHJHSWY0RXdUNUZUNkxSNVFsOVZmVnRpNll2eFk?oc=5",
           "draft": true
         }
       ]
