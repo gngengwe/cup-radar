@@ -15,6 +15,7 @@ on:
           - upsets
           - bracket
           - narratives
+          - goals
   schedule:
     # Every 3 hours — keeps live scores, upsets, and bracket fresh during the tournament.
     - cron: '0 */3 * * *'

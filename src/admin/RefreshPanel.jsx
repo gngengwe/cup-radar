@@ -7,6 +7,7 @@ const VERTICALS = [
   { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Auto-resolve upsets based on finished matches' },
   { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Sync knockout results from match data' },
   { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Add draft chapters from player/team news search' },
+  { id: 'goals',      icon: '🥅', label: 'Goals',      desc: 'Backfill scorer/minute data from ESPN summaries' },
   { id: 'all',        icon: '🔄', label: 'All',        desc: 'Run every refresh in sequence' },
 ];
 
@@ -145,8 +146,9 @@ export default function RefreshPanel({ token }) {
           </li>
           <li>
             <strong>Auto-applied, no review needed</strong> — Scores sync from football-data.org,
-            Upsets resolve to "happened" / "didn't happen", and Bracket slots fill in from
-            finished matches. These commit and deploy straight away.
+            Upsets resolve to "happened" / "didn't happen", Bracket slots fill in from
+            finished matches, and Goals backfills scorer/minute data from ESPN summaries for
+            Goal Radar. These commit and deploy straight away.
           </li>
           <li>
             <strong>Lands as drafts for you to review</strong> — New News articles and Narrative

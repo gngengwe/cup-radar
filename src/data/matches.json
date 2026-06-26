@@ -109,7 +109,20 @@
       "homeScore": 1,
       "awayScore": 1,
       "seattleMatch": true,
-      "notes": "Belgium vs Egypt — Group G at Lumen Field"
+      "notes": "Belgium vs Egypt — Group G at Lumen Field",
+      "goals": [
+        {
+          "minute": 20,
+          "team": "away",
+          "player": "Emam Ashour"
+        },
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Mohamed Hany",
+          "note": "og"
+        }
+      ]
     },
     {
       "id": "wc26-sea-02",
@@ -132,7 +145,20 @@
       "homeScore": 2,
       "awayScore": 0,
       "seattleMatch": true,
-      "notes": "USA vs Australia — Group D at Lumen Field"
+      "notes": "USA vs Australia — Group D at Lumen Field",
+      "goals": [
+        {
+          "minute": 11,
+          "team": "home",
+          "player": "Cameron Burgess",
+          "note": "og"
+        },
+        {
+          "minute": 43,
+          "team": "home",
+          "player": "Alex Freeman"
+        }
+      ]
     },
     {
       "id": "wc26-sea-03",
@@ -155,7 +181,30 @@
       "homeScore": 3,
       "awayScore": 1,
       "seattleMatch": true,
-      "notes": "Bosnia-Herzegovina vs Qatar — Group B at Lumen Field"
+      "notes": "Bosnia-Herzegovina vs Qatar — Group B at Lumen Field",
+      "goals": [
+        {
+          "minute": 29,
+          "team": "home",
+          "player": "Kerim Alajbegovic"
+        },
+        {
+          "minute": 34,
+          "team": "home",
+          "player": "Mahmoud Abunada",
+          "note": "og"
+        },
+        {
+          "minute": 42,
+          "team": "away",
+          "player": "Hassan Al-Haydos"
+        },
+        {
+          "minute": 80,
+          "team": "home",
+          "player": "Ermin Mahmic"
+        }
+      ]
     },
     {
       "id": "wc26-sea-04",
@@ -251,7 +300,29 @@
       "nyMatch": true,
       "kcMatch": false,
       "miamiMatch": false,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 82,
+          "team": "home",
+          "player": "Bradley Barcola"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Ibrahim Mbaye"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        }
+      ]
     },
     {
       "id": "wc26-011",
@@ -301,7 +372,19 @@
       "miamiMatch": true,
       "kcMatch": false,
       "nyMatch": false,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 41,
+          "team": "home",
+          "player": "Abdulelah Al-Amri"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "player": "Maxi Araújo"
+        }
+      ]
     },
     {
       "id": "wc26-013",
@@ -324,7 +407,40 @@
       "homeScore": 4,
       "awayScore": 2,
       "seattleMatch": false,
-      "notes": "England vs Croatia — Group L"
+      "notes": "England vs Croatia — Group L",
+      "goals": [
+        {
+          "minute": 12,
+          "team": "home",
+          "player": "Harry Kane",
+          "note": "pen"
+        },
+        {
+          "minute": 36,
+          "team": "away",
+          "player": "Martin Baturina"
+        },
+        {
+          "minute": 42,
+          "team": "home",
+          "player": "Harry Kane"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "player": "Petar Musa"
+        },
+        {
+          "minute": 47,
+          "team": "home",
+          "player": "Jude Bellingham"
+        },
+        {
+          "minute": 85,
+          "team": "home",
+          "player": "Marcus Rashford"
+        }
+      ]
     },
     {
       "id": "wc26-014",
@@ -370,7 +486,35 @@
       "homeScore": 1,
       "awayScore": 4,
       "seattleMatch": false,
-      "notes": "Norway vs Iraq — Group I"
+      "notes": "Norway vs Iraq — Group I",
+      "goals": [
+        {
+          "minute": 29,
+          "team": "away",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 39,
+          "team": "home",
+          "player": "Aymen Hussein"
+        },
+        {
+          "minute": 43,
+          "team": "away",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 76,
+          "team": "away",
+          "player": "Leo Østigard"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Aymen Hussein",
+          "note": "og"
+        }
+      ]
     },
     {
       "id": "wc26-017",
@@ -393,7 +537,19 @@
       "homeScore": 1,
       "awayScore": 1,
       "seattleMatch": false,
-      "notes": "Portugal vs DR Congo — Group K"
+      "notes": "Portugal vs DR Congo — Group K",
+      "goals": [
+        {
+          "minute": 6,
+          "team": "home",
+          "player": "João Neves"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "player": "Yoane Wissa"
+        }
+      ]
     },
     {
       "id": "wc26-018",
@@ -420,7 +576,34 @@
       "nyMatch": true,
       "kcMatch": false,
       "miamiMatch": false,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 43,
+          "team": "home",
+          "player": "Marcus Holmgren Pedersen"
+        },
+        {
+          "minute": 48,
+          "team": "home",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 53,
+          "team": "away",
+          "player": "Ismaïla Sarr"
+        },
+        {
+          "minute": 58,
+          "team": "home",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Ismaïla Sarr"
+        }
+      ]
     },
     {
       "id": "wc26-kc-01",
@@ -444,7 +627,24 @@
       "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": true,
-      "notes": "Argentina vs Algeria — Group J at Kansas City Stadium"
+      "notes": "Argentina vs Algeria — Group J at Kansas City Stadium",
+      "goals": [
+        {
+          "minute": 17,
+          "team": "home",
+          "player": "Lionel Messi"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "player": "Lionel Messi"
+        },
+        {
+          "minute": 76,
+          "team": "home",
+          "player": "Lionel Messi"
+        }
+      ]
     },
     {
       "id": "wc26-kc-02",
@@ -492,7 +692,30 @@
       "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": true,
-      "notes": "Tunisia vs Netherlands — Group F at Kansas City Stadium"
+      "notes": "Tunisia vs Netherlands — Group F at Kansas City Stadium",
+      "goals": [
+        {
+          "minute": 3,
+          "team": "away",
+          "player": "Ellyes Skhiri",
+          "note": "og"
+        },
+        {
+          "minute": 7,
+          "team": "away",
+          "player": "Brian Brobbey"
+        },
+        {
+          "minute": 54,
+          "team": "home",
+          "player": "Hazem Mastouri"
+        },
+        {
+          "minute": 62,
+          "team": "away",
+          "player": "Jan Paul van Hecke"
+        }
+      ]
     },
     {
       "id": "wc26-kc-04",
@@ -629,7 +852,14 @@
       "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": ""
+      "notes": "",
+      "goals": [
+        {
+          "minute": 50,
+          "team": "home",
+          "player": "Luis Romo"
+        }
+      ]
     },
     {
       "id": "wc26-A5",
@@ -653,7 +883,24 @@
       "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": ""
+      "notes": "",
+      "goals": [
+        {
+          "minute": 55,
+          "team": "away",
+          "player": "Mateo Chávez"
+        },
+        {
+          "minute": 61,
+          "team": "away",
+          "player": "Julián Quiñones"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Álvaro Fidalgo"
+        }
+      ]
     },
     {
       "id": "wc26-A6",
@@ -677,7 +924,14 @@
       "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": "Group A simultaneous"
+      "notes": "Group A simultaneous",
+      "goals": [
+        {
+          "minute": 63,
+          "team": "home",
+          "player": "Thapelo Maseko"
+        }
+      ]
     },
     {
       "id": "wc26-B4",
@@ -704,7 +958,14 @@
       "notes": "Group E Matchday 1",
       "phillyMatch": true,
       "nyMatch": false,
-      "miamiMatch": false
+      "miamiMatch": false,
+      "goals": [
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Amad Diallo"
+        }
+      ]
     },
     {
       "id": "wc26-B6",
@@ -873,7 +1134,24 @@
       "kcMatch": false,
       "notes": "Group C Matchday 2",
       "nyMatch": false,
-      "phillyMatch": true
+      "phillyMatch": true,
+      "goals": [
+        {
+          "minute": 23,
+          "team": "home",
+          "player": "Matheus Cunha"
+        },
+        {
+          "minute": 36,
+          "team": "home",
+          "player": "Matheus Cunha"
+        },
+        {
+          "minute": 45,
+          "team": "home",
+          "player": "Vinícius Júnior"
+        }
+      ]
     },
     {
       "id": "wc26-C6",
@@ -898,7 +1176,24 @@
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group C Matchday 3",
-      "miamiMatch": true
+      "miamiMatch": true,
+      "goals": [
+        {
+          "minute": 7,
+          "team": "away",
+          "player": "Vinícius Júnior"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "player": "Vinícius Júnior"
+        },
+        {
+          "minute": 60,
+          "team": "away",
+          "player": "Matheus Cunha"
+        }
+      ]
     },
     {
       "id": "wc26-D4",
@@ -922,7 +1217,14 @@
       "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": ""
+      "notes": "",
+      "goals": [
+        {
+          "minute": 2,
+          "team": "away",
+          "player": "Matías Galarza"
+        }
+      ]
     },
     {
       "id": "wc26-D5",
@@ -947,7 +1249,34 @@
       "seattleMatch": false,
       "kcMatch": false,
       "laMatch": true,
-      "notes": "USA vs Turkey — must watch Group D finale"
+      "notes": "USA vs Turkey — must watch Group D finale",
+      "goals": [
+        {
+          "minute": 3,
+          "team": "away",
+          "player": "Auston Trusty"
+        },
+        {
+          "minute": 10,
+          "team": "home",
+          "player": "Arda Güler"
+        },
+        {
+          "minute": 31,
+          "team": "home",
+          "player": "Baris Alper Yilmaz"
+        },
+        {
+          "minute": 49,
+          "team": "away",
+          "player": "Sebastian Berhalter"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Kaan Ayhan"
+        }
+      ]
     },
     {
       "id": "wc26-D6",
@@ -995,7 +1324,24 @@
       "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": "Germany's redemption arc begins"
+      "notes": "Germany's redemption arc begins",
+      "goals": [
+        {
+          "minute": 30,
+          "team": "away",
+          "player": "Franck Kessié"
+        },
+        {
+          "minute": 68,
+          "team": "home",
+          "player": "Deniz Undav"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Deniz Undav"
+        }
+      ]
     },
     {
       "id": "wc26-E5",
@@ -1089,7 +1435,24 @@
       "notes": "Group I Matchday 2",
       "phillyMatch": true,
       "nyMatch": false,
-      "miamiMatch": false
+      "miamiMatch": false,
+      "goals": [
+        {
+          "minute": 14,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 54,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Ousmane Dembélé"
+        }
+      ]
     },
     {
       "id": "wc26-F2",
@@ -1187,7 +1550,29 @@
       "notes": "Group H Matchday 2",
       "miamiMatch": true,
       "nyMatch": false,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 21,
+          "team": "away",
+          "player": "Kevin Pina"
+        },
+        {
+          "minute": 44,
+          "team": "home",
+          "player": "Maxi Araújo"
+        },
+        {
+          "minute": 45,
+          "team": "home",
+          "player": "Agustín Canobbio"
+        },
+        {
+          "minute": 61,
+          "team": "away",
+          "player": "Hélio Varela"
+        }
+      ]
     },
     {
       "id": "wc26-F5",
@@ -1214,7 +1599,19 @@
       "notes": "Group E Matchday 3",
       "phillyMatch": true,
       "nyMatch": false,
-      "miamiMatch": false
+      "miamiMatch": false,
+      "goals": [
+        {
+          "minute": 7,
+          "team": "away",
+          "player": "Nicolas Pépé"
+        },
+        {
+          "minute": 64,
+          "team": "away",
+          "player": "Nicolas Pépé"
+        }
+      ]
     },
     {
       "id": "wc26-F6",
@@ -1266,7 +1663,29 @@
       "seattleMatch": false,
       "kcMatch": false,
       "laMatch": true,
-      "notes": "Group G simultaneous"
+      "notes": "Group G simultaneous",
+      "goals": [
+        {
+          "minute": 7,
+          "team": "away",
+          "player": "Elijah Just"
+        },
+        {
+          "minute": 32,
+          "team": "home",
+          "player": "Ramin Rezaeian"
+        },
+        {
+          "minute": 54,
+          "team": "away",
+          "player": "Elijah Just"
+        },
+        {
+          "minute": 64,
+          "team": "home",
+          "player": "Mohammad Mohebbi"
+        }
+      ]
     },
     {
       "id": "wc26-J1",
@@ -1314,7 +1733,19 @@
       "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": ""
+      "notes": "",
+      "goals": [
+        {
+          "minute": 38,
+          "team": "home",
+          "player": "Lionel Messi"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Lionel Messi"
+        }
+      ]
     },
     {
       "id": "wc26-J4",
@@ -1338,7 +1769,24 @@
       "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": "Group J simultaneous"
+      "notes": "Group J simultaneous",
+      "goals": [
+        {
+          "minute": 36,
+          "team": "home",
+          "player": "Nizar Al-Rashdan"
+        },
+        {
+          "minute": 69,
+          "team": "away",
+          "player": "Nadhir Benbouali"
+        },
+        {
+          "minute": 82,
+          "team": "away",
+          "player": "Amine Gouiri"
+        }
+      ]
     },
     {
       "id": "wc26-K4",
@@ -1392,7 +1840,24 @@
       "kcMatch": false,
       "miamiMatch": false,
       "nyMatch": true,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 2,
+          "team": "away",
+          "player": "Leroy Sané"
+        },
+        {
+          "minute": 9,
+          "team": "home",
+          "player": "Nilson Angulo"
+        },
+        {
+          "minute": 77,
+          "team": "home",
+          "player": "Gonzalo Plata"
+        }
+      ]
     },
     {
       "id": "wc26-L3",
@@ -1465,7 +1930,20 @@
       "homeScore": 1,
       "awayScore": 1,
       "atlantaMatch": true,
-      "notes": "Czechia vs South Africa — Group A at Mercedes-Benz Stadium"
+      "notes": "Czechia vs South Africa — Group A at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 6,
+          "team": "home",
+          "player": "Michal Sadílek"
+        },
+        {
+          "minute": 83,
+          "team": "away",
+          "player": "Teboho Mokoena",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-atl-03",
@@ -1488,7 +1966,30 @@
       "homeScore": 4,
       "awayScore": 0,
       "atlantaMatch": true,
-      "notes": "Spain vs Saudi Arabia — Group H at Mercedes-Benz Stadium"
+      "notes": "Spain vs Saudi Arabia — Group H at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 10,
+          "team": "home",
+          "player": "Lamine Yamal"
+        },
+        {
+          "minute": 21,
+          "team": "home",
+          "player": "Mikel Oyarzabal"
+        },
+        {
+          "minute": 24,
+          "team": "home",
+          "player": "Mikel Oyarzabal"
+        },
+        {
+          "minute": 49,
+          "team": "home",
+          "player": "Hassan Al-Tambakti",
+          "note": "og"
+        }
+      ]
     },
     {
       "id": "wc26-atl-04",
@@ -1661,7 +2162,40 @@
       "homeScore": 6,
       "awayScore": 0,
       "vancouverMatch": true,
-      "notes": "Canada vs Qatar — Group B at BC Place"
+      "notes": "Canada vs Qatar — Group B at BC Place",
+      "goals": [
+        {
+          "minute": 16,
+          "team": "home",
+          "player": "Cyle Larin"
+        },
+        {
+          "minute": 29,
+          "team": "home",
+          "player": "Jonathan David"
+        },
+        {
+          "minute": 45,
+          "team": "home",
+          "player": "Jonathan David"
+        },
+        {
+          "minute": 64,
+          "team": "home",
+          "player": "Nathan Saliba"
+        },
+        {
+          "minute": 75,
+          "team": "home",
+          "player": "Mohamed Manai",
+          "note": "og"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Jonathan David"
+        }
+      ]
     },
     {
       "id": "wc26-van-03",
@@ -1684,7 +2218,29 @@
       "homeScore": 1,
       "awayScore": 3,
       "vancouverMatch": true,
-      "notes": "New Zealand vs Egypt — Group G at BC Place"
+      "notes": "New Zealand vs Egypt — Group G at BC Place",
+      "goals": [
+        {
+          "minute": 15,
+          "team": "home",
+          "player": "Finn Surman"
+        },
+        {
+          "minute": 58,
+          "team": "away",
+          "player": "Mostafa Zico"
+        },
+        {
+          "minute": 67,
+          "team": "away",
+          "player": "Mohamed Salah"
+        },
+        {
+          "minute": 82,
+          "team": "away",
+          "player": "Trézéguet"
+        }
+      ]
     },
     {
       "id": "wc26-van-04",
@@ -1707,7 +2263,24 @@
       "homeScore": 2,
       "awayScore": 1,
       "vancouverMatch": true,
-      "notes": "Switzerland vs Canada — Group B at BC Place"
+      "notes": "Switzerland vs Canada — Group B at BC Place",
+      "goals": [
+        {
+          "minute": 46,
+          "team": "home",
+          "player": "Rubén Vargas"
+        },
+        {
+          "minute": 57,
+          "team": "home",
+          "player": "Johan Manzambi"
+        },
+        {
+          "minute": 76,
+          "team": "away",
+          "player": "Promise David"
+        }
+      ]
     },
     {
       "id": "wc26-van-05",
@@ -1799,7 +2372,35 @@
       "homeScore": 4,
       "awayScore": 1,
       "laMatch": true,
-      "notes": "Switzerland vs Bosnia-Herzegovina — Group B"
+      "notes": "Switzerland vs Bosnia-Herzegovina — Group B",
+      "goals": [
+        {
+          "minute": 74,
+          "team": "home",
+          "player": "Johan Manzambi"
+        },
+        {
+          "minute": 84,
+          "team": "home",
+          "player": "Rubén Vargas"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Johan Manzambi"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Ermin Mahmic"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Granit Xhaka",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-C7",
@@ -1821,7 +2422,14 @@
       "status": "finished",
       "homeScore": 0,
       "awayScore": 1,
-      "notes": "Morocco vs Scotland — Group C"
+      "notes": "Morocco vs Scotland — Group C",
+      "goals": [
+        {
+          "minute": 2,
+          "team": "away",
+          "player": "Ismael Saibari"
+        }
+      ]
     },
     {
       "id": "wc26-F7",
@@ -1843,7 +2451,39 @@
       "status": "finished",
       "homeScore": 5,
       "awayScore": 1,
-      "notes": "Sweden vs Netherlands — Group F"
+      "notes": "Sweden vs Netherlands — Group F",
+      "goals": [
+        {
+          "minute": 5,
+          "team": "home",
+          "player": "Brian Brobbey"
+        },
+        {
+          "minute": 17,
+          "team": "home",
+          "player": "Brian Brobbey"
+        },
+        {
+          "minute": 47,
+          "team": "home",
+          "player": "Cody Gakpo"
+        },
+        {
+          "minute": 54,
+          "team": "home",
+          "player": "Cody Gakpo"
+        },
+        {
+          "minute": 59,
+          "team": "away",
+          "player": "Anthony Elanga"
+        },
+        {
+          "minute": 89,
+          "team": "home",
+          "player": "Crysencio Summerville"
+        }
+      ]
     },
     {
       "id": "wc26-F8",
@@ -1865,7 +2505,39 @@
       "status": "finished",
       "homeScore": 5,
       "awayScore": 1,
-      "notes": "Sweden vs Tunisia — Group F"
+      "notes": "Sweden vs Tunisia — Group F",
+      "goals": [
+        {
+          "minute": 7,
+          "team": "home",
+          "player": "Yasin Ayari"
+        },
+        {
+          "minute": 30,
+          "team": "home",
+          "player": "Alexander Isak"
+        },
+        {
+          "minute": 43,
+          "team": "away",
+          "player": "Omar Rekik"
+        },
+        {
+          "minute": 59,
+          "team": "home",
+          "player": "Viktor Gyökeres"
+        },
+        {
+          "minute": 84,
+          "team": "home",
+          "player": "Mattias Svanberg"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Yasin Ayari"
+        }
+      ]
     },
     {
       "id": "wc26-F9",
@@ -1887,7 +2559,19 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
-      "notes": "Japan vs Sweden — Group F"
+      "notes": "Japan vs Sweden — Group F",
+      "goals": [
+        {
+          "minute": 56,
+          "team": "home",
+          "player": "Daizen Maeda"
+        },
+        {
+          "minute": 62,
+          "team": "away",
+          "player": "Anthony Elanga"
+        }
+      ]
     },
     {
       "id": "wc26-I1",
@@ -1953,7 +2637,14 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 0,
-      "notes": "Colombia vs DR Congo — Group K"
+      "notes": "Colombia vs DR Congo — Group K",
+      "goals": [
+        {
+          "minute": 76,
+          "team": "home",
+          "player": "Daniel Muñoz"
+        }
+      ]
     },
     {
       "id": "wc26-K6",
@@ -1975,7 +2666,29 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 3,
-      "notes": "Colombia vs Uzbekistan — Group K"
+      "notes": "Colombia vs Uzbekistan — Group K",
+      "goals": [
+        {
+          "minute": 40,
+          "team": "away",
+          "player": "Daniel Muñoz"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "player": "Abbosbek Fayzullaev"
+        },
+        {
+          "minute": 65,
+          "team": "away",
+          "player": "Luis Díaz"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Jáminton Campaz"
+        }
+      ]
     },
     {
       "id": "wc26-K7",
@@ -1997,7 +2710,35 @@
       "status": "finished",
       "homeScore": 5,
       "awayScore": 0,
-      "notes": "Portugal vs Uzbekistan — Group K"
+      "notes": "Portugal vs Uzbekistan — Group K",
+      "goals": [
+        {
+          "minute": 6,
+          "team": "home",
+          "player": "Cristiano Ronaldo"
+        },
+        {
+          "minute": 17,
+          "team": "home",
+          "player": "Nuno Mendes"
+        },
+        {
+          "minute": 39,
+          "team": "home",
+          "player": "Cristiano Ronaldo"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "player": "Abduvohid Nematov",
+          "note": "og"
+        },
+        {
+          "minute": 87,
+          "team": "home",
+          "player": "Rafael Leão"
+        }
+      ]
     },
     {
       "id": "wc26-L4",
@@ -2019,7 +2760,14 @@
       "status": "finished",
       "homeScore": 0,
       "awayScore": 1,
-      "notes": "Panama vs Croatia — Group L"
+      "notes": "Panama vs Croatia — Group L",
+      "goals": [
+        {
+          "minute": 54,
+          "team": "away",
+          "player": "Ante Budimir"
+        }
+      ]
     },
     {
       "id": "wc26-L5",
@@ -2041,7 +2789,14 @@
       "status": "finished",
       "homeScore": 1,
       "awayScore": 0,
-      "notes": "Panama vs Ghana — Group L"
+      "notes": "Panama vs Ghana — Group L",
+      "goals": [
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Caleb Yirenkyi"
+        }
+      ]
     },
     {
       "id": "wc26-L6",
@@ -2180,5 +2935,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-26T19:48:06.121Z"
+  "lastUpdated": "2026-06-26T20:29:57.102Z"
 }

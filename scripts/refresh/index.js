@@ -5,11 +5,12 @@ import { refreshNews }       from './news.js';
 import { refreshUpsets }     from './upsets.js';
 import { refreshBracket }    from './bracket.js';
 import { refreshNarratives } from './narratives.js';
+import { refreshGoals }      from './goals.js';
 import { buildDigest }       from './digest.js';
 
 const vertical = (process.env.VERTICAL || 'all').toLowerCase();
 
-const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshNarratives];
+const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshNarratives, refreshGoals];
 
 const MAP = {
   scores:     [refreshScores],
@@ -17,6 +18,7 @@ const MAP = {
   upsets:     [refreshUpsets],
   bracket:    [refreshBracket],
   narratives: [refreshNarratives],
+  goals:      [refreshGoals],
   all:        ALL,
 };
 
