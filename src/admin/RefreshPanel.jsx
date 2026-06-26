@@ -6,6 +6,7 @@ const VERTICALS = [
   { id: 'news',       icon: '📰', label: 'News',       desc: 'Latest WC2026 articles from Google News RSS' },
   { id: 'upsets',     icon: '🚨', label: 'Upsets',     desc: 'Auto-resolve upsets based on finished matches' },
   { id: 'bracket',    icon: '🏆', label: 'Bracket',    desc: 'Sync knockout results from match data' },
+  { id: 'qualifiers', icon: '🎟️', label: 'Qualifiers', desc: 'Resolve Winner/Runner-up/3rd-place bracket slots' },
   { id: 'narratives', icon: '📖', label: 'Narratives', desc: 'Add draft chapters from player/team news search' },
   { id: 'goals',      icon: '🥅', label: 'Goals',      desc: 'Backfill scorer/minute data from ESPN summaries' },
   { id: 'all',        icon: '🔄', label: 'All',        desc: 'Run every refresh in sequence' },
@@ -147,7 +148,8 @@ export default function RefreshPanel({ token }) {
           <li>
             <strong>Auto-applied, no review needed</strong> — Scores sync from football-data.org,
             Upsets resolve to "happened" / "didn't happen", Bracket slots fill in from
-            finished matches, and Goals backfills scorer/minute data from ESPN summaries for
+            finished matches, Qualifiers resolves "Winner Group A" etc. into real teams as
+            groups finish, and Goals backfills scorer/minute data from ESPN summaries for
             Goal Radar. These commit and deploy straight away.
           </li>
           <li>

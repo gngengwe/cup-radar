@@ -14,6 +14,7 @@ on:
           - news
           - upsets
           - bracket
+          - qualifiers
           - narratives
           - goals
   schedule:

@@ -4,22 +4,24 @@ import { refreshScores }     from './scores.js';
 import { refreshNews }       from './news.js';
 import { refreshUpsets }     from './upsets.js';
 import { refreshBracket }    from './bracket.js';
+import { refreshQualifiers } from './qualifiers.js';
 import { refreshNarratives } from './narratives.js';
 import { refreshGoals }      from './goals.js';
 import { buildDigest }       from './digest.js';
 
 const vertical = (process.env.VERTICAL || 'all').toLowerCase();
 
-const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshNarratives, refreshGoals];
+const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshQualifiers, refreshNarratives, refreshGoals];
 
 const MAP = {
-  scores:     [refreshScores],
-  news:       [refreshNews],
-  upsets:     [refreshUpsets],
-  bracket:    [refreshBracket],
-  narratives: [refreshNarratives],
-  goals:      [refreshGoals],
-  all:        ALL,
+  scores:      [refreshScores],
+  news:        [refreshNews],
+  upsets:      [refreshUpsets],
+  bracket:     [refreshBracket],
+  qualifiers:  [refreshQualifiers],
+  narratives:  [refreshNarratives],
+  goals:       [refreshGoals],
+  all:         ALL,
 };
 
 const tasks = MAP[vertical] || ALL;
