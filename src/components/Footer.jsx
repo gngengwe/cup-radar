@@ -17,6 +17,8 @@ export default function Footer() {
               <Link to="/philly/hq"     className="footer__link">🦅 Philadelphia</Link>
               <Link to="/world-cup-primer" className="footer__link">New to soccer?</Link>
               <Link to="/how-it-works"  className="footer__link">How it works</Link>
+              <Link to="/live-pulse"    className="footer__link">Live Pulse</Link>
+              <Link to="/goal-radar"    className="footer__link">Goal Radar</Link>
             </nav>
           </div>
 
