@@ -1,6 +1,6 @@
 {
   "_note": "Upset radar based on actual December 5, 2025 draw. Risk score 1–5. Update status/result as matches play out.",
-  "lastUpdated": "2026-06-25T22:21:14.482Z",
+  "lastUpdated": "2026-06-27T08:35:42.364Z",
   "upsets": [
     {
       "id": "ups-001",
@@ -173,8 +173,8 @@
       "stage": "Group Stage",
       "date": "2026-06-26",
       "riskScore": 3,
-      "status": "upcoming",
-      "result": null,
+      "status": "happened",
+      "result": "Egypt 1–1 Iran (draw — upset partially materialised)",
       "reasoning": "This is one of the most geopolitically charged matches in World Cup history, played at Lumen Field on a Friday night at 8pm. Iran are disciplined and hard to beat. A draw could send Iran through at Egypt's expense, ending Mo Salah's tournament in the group stage.",
       "keyFactors": [
         "Night kickoff, sold-out Lumen Field — electric atmosphere",

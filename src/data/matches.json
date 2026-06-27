@@ -223,11 +223,29 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
       "awayScore": 1,
       "seattleMatch": true,
-      "notes": "Egypt vs Iran — Group G at Lumen Field (night kickoff)"
+      "notes": "Egypt vs Iran — Group G at Lumen Field (night kickoff)",
+      "goals": [
+        {
+          "minute": 5,
+          "team": "home",
+          "player": "Mahmoud Saber"
+        },
+        {
+          "minute": 11,
+          "team": "away",
+          "player": "Mehdi Taremi",
+          "note": "pen"
+        },
+        {
+          "minute": 14,
+          "team": "away",
+          "player": "Ramin Rezaeian"
+        }
+      ]
     },
     {
       "id": "wc26-sea-05",
@@ -2306,11 +2324,43 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 5,
       "vancouverMatch": true,
-      "notes": "New Zealand vs Belgium — Group G at BC Place"
+      "notes": "New Zealand vs Belgium — Group G at BC Place",
+      "goals": [
+        {
+          "minute": 28,
+          "team": "away",
+          "player": "Leandro Trossard"
+        },
+        {
+          "minute": 50,
+          "team": "away",
+          "player": "Leandro Trossard"
+        },
+        {
+          "minute": 66,
+          "team": "away",
+          "player": "Kevin De Bruyne"
+        },
+        {
+          "minute": 84,
+          "team": "home",
+          "player": "Elijah Just"
+        },
+        {
+          "minute": 86,
+          "team": "away",
+          "player": "Romelu Lukaku"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Alexis Saelemaekers"
+        }
+      ]
     },
     {
       "id": "wc26-van-06",
@@ -3002,5 +3052,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-27T03:28:25.740Z"
+  "lastUpdated": "2026-06-27T08:35:45.312Z"
 }

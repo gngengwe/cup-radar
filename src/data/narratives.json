@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-27T03:28:25.321Z",
+  "lastUpdated": "2026-06-27T08:35:44.818Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 103,
+      "chapterCount": 104,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -841,6 +841,14 @@
           "title": "World Cup 2026: Lionel Messi will start on bench vs. Jordan, Argentina coach confirms - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVF9OQVNFckplcXQ0MXlIUy1zOXE0VGNWMmo0TXQ3bEtLaTJDT0xObDdBSUNxUTBQVGtiZkFHcW56S0xCUk9mSGFNODBtU2RXYmtXSnlHRzhTRHA5S0pUOEZCOTBldW9GRTZlM0FsZGhsOWZNT0xkV1dHY1hXX3BILWNrX3FaWlJZa1BkU0F0d0xCaGJYVEVVQTQyLVduazI4RFJhT1VRZXpuUmRVSDNqMzdfQl9RUzNid0t4Wkt6b2ZPRXlHcElDN002eERwQWNnaHZV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782549342838",
+          "date": "2026-06-26",
+          "title": "MATCH PREVIEW: Messi and De Paul Close Out FIFA World Cup 2026™ Group Stage Action With Argentina - Inter Miami CF",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHNkZUwxSWNubDBXWm9zMlpUUWpMVGZsVjVsZ0pIeWtBbGMtRHFTLVJzSGFhaDFDNWZTR3Zac1AzcjBKcHBObVdacXo3NHM0eTRJVDUyS3AtalZQeER6UUdpUEozWDFncy1ZNDlicEozV0RJdGZ5Vzh1ZjFCTVN2VWoxazg5blVGYkRxVnd1bFd5Tmc3Nkp6enpTUE5zLUtTbEdlbHo1cDhaWkZQMmRDOGlCS29QMElsZEZieVlVQndXY2h3Y1lKMFV5bw?oc=5",
           "draft": true
         }
       ]
@@ -1711,7 +1719,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 261,
+      "chapterCount": 265,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3799,6 +3807,38 @@
           "title": "When does Team USA play next? See the schedule for the knockout round - cbs8.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlN0WW1uUjNaTEJiUlpYWHQxeHpsR3dPZ2xLWVVrM1VERmhGUmtTZ3ZZZ2NpUXZnUzRJRXRPdnd2cWV3d3ZHVW1tQ2VRSWstY3A2M0hVc3E1ODN6NUVjMmVJUWJ2YnJxRXQ2cnBkV2FMMjdSZVRwMnNNYjlBbm90QUlxNUFJMTUzU2hEOEJzZGVKbGg1NWxpUGRDZmttTFp4OXB3ZEVHcGNmRjdMRmgxNWgxN0xkWmNyZjZXQUhzVXhMOC1KaEdZal82SGxZYzhXQ0RxY21QUDk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782549343745",
+          "date": "2026-06-27",
+          "title": "Outside Iran vs. Egypt, the World Cup was almost beside the point - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVNRNkk1Nkp2NHdEdkFTaVhrNXdCNjV1Q1c2T0k5eVdmXzRKZFpZRXgtMkVZQ1hteEx1MHlRQ3pNdGdXRk8xaGFQUFdUbG5UdVZrbUdDdFNHV0JGdzdJc3I4Mk9RcHB6dlB5VzVJRnlQc0dwMF9GTUhMUWRYQnFoY3VTSjNGdTZlR0c1Qzh4OVBCWmx0clZOd1B0X3JXN0FPWElFZHc2dXdTMnp1bldSTl9pZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782549343745",
+          "date": "2026-06-27",
+          "title": "USMNT’s path to the 2026 World Cup final: The knockout road as the bracket becomes clear - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFFCNlZGcW41WUZBOHUtOGkwQ3g2Tm1GbC1sSWctejB1NXJac05GTWlLVlg3am5GNm5aVkpHbzlNVjBLSDZibFBJX09FcXRuem9hZllRaExLYWJ4OWhJbUMxRmxQZ3hTNTQ4eEszRXJsUGlESVBabWMzVWMxclNJd3R3VEdqWFNoclJkNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782549343745",
+          "date": "2026-06-27",
+          "title": "Former USMNT player DaMarcus Beasley has no words for Lionel Messi's greatness - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejNENEhuOXhDbnlrczVGTEw1czdSRzVDeWxiZ0ktamRzXzU5TGZac0h4VUpiUWdBUUx6X1JlX2F2d2h3dHloeEk3RnQzZ1JEVGQzUHJfemVkYzB1X19wRERlT19ObGJrUjljUVdSNWNEQzNJTXFYREVTakxWMFlLMkZMbGNCYzlUd3V0MlV0SzlqRm50b1pOV2xWYUh5NVV0TjV0Mnc0VWRfLXhiaWppUjlfR245TlNuSTA3dC14V2FfUV9tR01LNkJn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782549343745",
+          "date": "2026-06-26",
+          "title": "Why has Trump stayed away from the World Cup? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2RXJjT2xCMklPOUpqTE5OZC1fOUphVDNqX1dfTktEQUc3LUpMOWt6RDFBbUdhejFBMWROLXkzRGRSYktsMkRZMldhai1tYUdFMENmXzh2dXhWcEVSTGlvTHpRR2FOQUU?oc=5",
           "draft": true
         }
       ]
@@ -5992,7 +6032,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 278,
+      "chapterCount": 281,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8216,6 +8256,30 @@
           "title": "Reece James to miss England vs Panama with injury, Declan Rice, Elliot Anderson fit - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2Y5NjdOb1lTUXJOQmJqRW10RGY5czdBY3FLYTZQUXc0ZU0zRlJ4ZXJWU0FodmlraF84SUxNN1F4R1RVZ3BKcEZiaGoybDQyZVZzLTh2dzVGUW5LaVE2ZURqNmtianhCWGJVNmdEekRQbzFGenhtamdvOW5NbG9xa2ZVSWhNNk9SV19vZkUwaHFEY1VKV1dkQmktVW5CVC1Ca253dXhzNlAwaTI5bUhxbml5X0VRQVEyWFRwYWtPVk9kdjlyNVNwaUFBbGlDV29kSWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782549344818",
+          "date": "2026-06-27",
+          "title": "World Cup 2026: The England team you've never heard of - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yTGJSUkk2RW1CN2VlcTFhQmlkb2dMYUJRWVhTc2FGU2NCeTlPZjZxWDhQUWNpQmJ3MndFZzN2SGZvbmw0SEp4ZHV5dUZNS3RsdTg4VWRia3NWbU5FOXF0bmJBMHFVNWFVd0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782549344818",
+          "date": "2026-06-27",
+          "title": "World Cup 2026 today: Live updates, latest news as Cape Verde make history, Uruguay crash out - June 27 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHhzSjlxWW5mV0NHSmlYaFZiMV90RlpEaTJqdGhLcXZhYjVEOUYtQkN6R3M3M1JXUXh5WFhxdzRVekZwc1FHc01Ea3BNN3RhTkk1aTB5dzE4TlhxOFdqQU9DbXdrMmJYTHZONWgzbFlrY29oQXZwTXBZVm9rd3hKdU9QZGZCTnI4VUZEM29YaEphYjFHanNkUnF4RDRCcWw5TldKRXhsZjd4a2U3VGJIbmNrZ3VTaU9udTFoU05iUThyaEJUVXZuVjV1NXo2SEhLMjc0LU8wMXNQRUFpVjYtTVp4djNiUGR3SUhR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782549344818",
+          "date": "2026-06-27",
+          "title": "Thomas Tuchel’s baffling reaction to Reece James’s injury highlights England’s needless risk - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGdaS2hPNjlxbEN2eHJ3TXZsRW4yeUkwdXhYSkNhUUpRRWVTZFZEejBLRkVFeGNUVjJJS05aUmpNdlNONTJ0dGhFWjVHRHdMRFd3YkhLRk9LTUZGMGZ2WkdzZVZQVXlOZ0hZQmRyUTFMQjhZbmxGWXVRc2dZTWREOFlCNTZPcTZoUW5zdHdkeDV1R2oxSVJFYzl3aTlKRThySFBZdlZzZ2tBTDFQSUJDamlzemQ?oc=5",
           "draft": true
         }
       ]
