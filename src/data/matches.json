@@ -1655,9 +1655,9 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group L Matchday 3",
@@ -1902,9 +1902,9 @@
       "stage": "Group Stage",
       "matchday": 3,
       "notes": "Group L Matchday 3",
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "miamiMatch": false,
@@ -3052,5 +3052,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-27T08:35:45.312Z"
+  "lastUpdated": "2026-06-27T22:02:14.312Z"
 }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-27T19:20:55.832Z",
+  "lastUpdated": "2026-06-27T22:02:20.078Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1767,7 +1767,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 275,
+      "chapterCount": 278,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3968,6 +3968,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcml6eDFWY0paRDFzWUxFRGM2aTF6bDVWcUdlN2l6SEU1c21mWElQMDBmTGhySUtMbUpzSUEwTEdJdTBQU053WHFiamhvRjF1VnllN0ExV1V0Z3NlTkg2ekZPdXQya1BJWG9oeXR5dEdqT2hNY1JndkRsMzdLbmNsbFozbzNNc2NQbkxMb09Bbm11SlpLcVFpQ0pBWlF3RkFf?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782597738888",
+          "date": "2026-06-27",
+          "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHFiQkFieFZ0YUFsNDVCcnlDSTF5b3ZPZG11djhQanBLLXV0OGt0eEg5NzBWR0d0cGQwRWo1cUxZU2NwblphanJVZ1dZd2dBZ24wc181OVpINmdBbWZzbVlyRG1ob0dIRUh4bDUtdTdHeG5NOVBaQ2w4M3hLdWpZZ2Y4ckNtMWJWSHhXaGpPRFN1cnVDV3NLUUhZQkw2UlQ4bko4WDB6ZmJVUXRPSGR1WmpRZnbSAboBQVVfeXFMT3hMUFU2OTF4eU9ZUHJiUl80MUlaNTMxQmhxelUtM3NMenY2OWQwMG5MbU9rdndURE1CckZIbm1pODFfQXZrMkxkQWVjUFBLZFYzWm9UZndIZ1JFTFBia1Vab0hfZGE0VU42Z3VMZGw2RnBzUEZETlBoTFAya0dycTg2U3prWDZtVERDUy1FMGRsWXNNTTNEYjVodllVa0FkY3lwbnA2QUNBcERDZlhibmduVGRFNmpncnZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782597738889",
+          "date": "2026-06-27",
+          "title": "World Cup 2026: A look at the USMNT's path to the final as the knockout round gets set to begin - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlhGOGJpN3FjbENvSjlxaU9MWVVURTBQa0FzUk5zOC11QzYyWGRET3RrNmlnQWQ0X1liN1pXelpaUW94ckM4NXQ1cXFid0RhQU1jZFRVWHdiTDhjbVRqeV9vVVFwSEJVZHdHTEdlYXVOT25SazBmdEtKWWVGUUxDb192ZjR4N0JSaWdHdV9FczJfQVY4NmJzZUNJSGVaTmN3UDdVLTJFVkVrUWNmWXZqS3hib3VzZy1ocExxeG5UWDlUY3pCTk1yTTRxUUtLWFd3RHNKRVJxQWRGUGtSREZsRk13?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782597738889",
+          "date": "2026-06-27",
+          "title": "USMNT's Path To World Cup Final Is Now Incredibly Brutal - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYW1vcGRaTDgyY0xXTFNneWlGUFZfVU5XVWlPT2RTY2psRzhLQVFYY3hQSmZwUDI0OUFBUkpNaktGeF80ZjJjMUJfQjVYbWhXempNVjBSN0tKS1daVmJNM1FsbHVSUlhQbDVIWkNET19WR19qR3UwMzM1ZVVHU1BhTXNn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3986,7 +4010,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 255,
+      "chapterCount": 258,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6027,6 +6051,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMk5lUkhaRURJOWZEQzhzdzRQXzZPMGVzZXJiZ09MS29tbGFYd0hSb3BoXzRLVDRILVNvVnNSNmtxLTJVeG9vT1R0NTJ2aXFlN2tjZjZhaENNVzBBbnVyWC1WbnlxUjNHcUhNWG5udTJMT2RYdFRtNnoxZ29TeGRXalRRVQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782597739584",
+          "date": "2026-06-27",
+          "title": "World Cup final day of group play will set the field for the round of 32 - PBS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3lqbERiRGUwcHpOTHVFdU5YVl9nMkp6bG0ySFg2cWZLc1BwcHpKbTV0ajJ1bnlOalVpVVN4WTRabHdEam9aSkdfX2w2clBPcFB1WlV2YWd1NjA3SlRSNk9xT19nakxpX0M5MmlsNHhVLVluZ0dRR1hOMGdXMDhOZHNVX2VwcXQyUEpRTHBmX0xDbkUxS1JNWE8wLTgzNVVocGMzUFNIME8xNW_SAbABQVVfeXFMTUgzcm1heE1CaUI4dFNkeVVBaDdDa2liRjNtSERLUGx4Y1dKTUwyaTlKbmhRbnA0b3FKcUJzWWtOVzh0M243UjF1V2ZBTkFEXzJPZWpzUldDRUU4R193ekN3dEVvT2QtNGVpUl95YTBORGRIckpkeHFzQ1VKYUE3alRXaVNnTVc3cnRlUVFZbWNxV2szUm9PaGlMYzJWTkdzVC1GRWVOVDR4LUtFWXlVZ1Y?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782597739584",
+          "date": "2026-06-27",
+          "title": "India Skipper Shubman Gill Meets Brazil Football Legend Ronaldinho In US - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHphR0FidlF0d3I2MnNmdlFTNnlsTWFIZlZGMVAyVmdZY0h5RHhockFSaV9NdmVobnZwYzh6Ri03YjRIc3BKeG9Yd3dmOFNzT0dSemF5dFRmZ043TXlSSFhIN0tmM0VkbEpMSC05ZU9tbGNld1BTVU0zTU44Rml0NlRMMF83ZmRGME5nR3VDMkhXWlhQTFY2U1JVQ1BNUU5UYUtZbkxGQUEzLUN6Z1R5VDdtdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782597739584",
+          "date": "2026-06-27",
+          "title": "Who has qualified for World Cup’s last-32 and who has been eliminated? - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzRGQ3BTMmJHV2hWY2ZPTHl6NWc5X3k1NmlRckx2dG1GdDd6RHlqdUpKYXhLZ2RieFZ3UG9tQ3pxVS1OaGJlSFNEeFZ3QmR1VjJhS19oZ0U2anctX2N2TlJFTFZTMU5lVHNaQndnS1V2b3hqOWVhWWF5elpjMER3eWdRTnZpdDJwWi1OYTVFTWIxMVVJckI5UDBPWU5oODVDU3JQbkthS3lzNHJrM3FaNw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6192,7 +6240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 291,
+      "chapterCount": 294,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8520,6 +8568,30 @@
           "title": "World Cup schedule, live updates: England, Portugal and Argentina back in action as group play ends - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYy1iX0RDWGg0WS1BaVVKNzcyZENIYUVLejFPeFdKa0VKbVZiWjdaQWJzZkZzNjZkVmE3dWxaZ2twVGwtbmdxdnM2Vm5rUlRiTVQxZzR6VWpHZE5KV3ptUWhiMTBPbFdTN1lNYlg0TTdnSlBybHpjZTZ3cEtQbEhaQndXNGRPSFRxR254WDJ6NTcweFJYaGVueExoemJvQW5BbTZIc2FHRkRLQlprQ0xHWXVzT0ZpSHBHcGVtcUdCYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782597740077",
+          "date": "2026-06-27",
+          "title": "Panama v England: World Cup 2026 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJrYXMxR21PMm1iMDd2MEVtUXRtWDBxdG5GWURXenJQeGJsSVFnUkNrcVBqdVVYY3pXemNycmxnSmFLWFY3dTNKZlpCemNVbzc2cEdYWHlPNFNsb3lVeGU0ZUpMamNrM3k3eFVBdFY5b3d5aGo1MXdTaVNWVnIxWlVUSzNpeTZnUnJ3SlVqbzYzdTRFWktNdXRMOGVKUlk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782597740077",
+          "date": "2026-06-27",
+          "title": "2026 World Cup Group L Scenarios, Standings: What England, Ghana, Croatia, Panama Need To Advance - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQektrajZxZkRNdG9wbzhxX0tnMzJUalNrSXZJajJoTWczQnFTMXBSNkVJd1ZPUEdaNHhDZmlubnNqRnlKdEpnM0JkamZ3WHVpYkRsUjQ1Z0U3WUF2ekJQVjhvUXdyOTRBNl9QWUZHdW4zVmtkVXFqZmdwbEdGTE82bG1FMGNIQXRaSTZiV1RYM3BjVkI3YlhzYWI5WlFXYkVma05RbjFoeG11YlZSWncyRGk4dFFXci1sLVQ5dHpIV2g1c3JsOS0xTkd3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782597740077",
+          "date": "2026-06-27",
+          "title": "How to watch Panama-England for free in World Cup 2026: Time, livestream - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWNGZzBvejhXdkZLWlZWczdTekEtTmdjXzk3OWRJTnk1ZTM1VXVudVNKeG1Td3o1V3lQUmYzczE4MklhUHp4VzdTQ3puMTc0S2lkN3FqN0hIZjE0Y1hra1FSTlluX0cxWW5qa3VkWndfcFB1MDdsck91Nk8yRzlBbldEZExGQmUtV3NybWxjMjJKTXNyX0lSMnJ3WQ?oc=5",
           "draft": true
         }
       ]
