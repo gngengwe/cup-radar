@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-27T10:57:37.797Z",
+  "lastUpdated": "2026-06-27T13:43:06.693Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 104,
+      "chapterCount": 106,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -850,6 +850,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHNkZUwxSWNubDBXWm9zMlpUUWpMVGZsVjVsZ0pIeWtBbGMtRHFTLVJzSGFhaDFDNWZTR3Zac1AzcjBKcHBObVdacXo3NHM0eTRJVDUyS3AtalZQeER6UUdpUEozWDFncy1ZNDlicEozV0RJdGZ5Vzh1ZjFCTVN2VWoxazg5blVGYkRxVnd1bFd5Tmc3Nkp6enpTUE5zLUtTbEdlbHo1cDhaWkZQMmRDOGlCS29QMElsZEZieVlVQndXY2h3Y1lKMFV5bw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782567784806",
+          "date": "2026-06-27",
+          "title": "World Cup 2026: Lionel Messi to start final group game on bench - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtLVlMUjBuZ2IyMlI0QTZSc3dvOUJEWmdoVTNWbHNQQU5wbW0xWHdUXzM3M0o4MDhEaHRFa1ctSzJyMi1veV9YeXkzdnVrTXBxSXROdXhIVDZ4SzZITTRJT1U4TUJqRVU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782567784807",
+          "date": "2026-06-27",
+          "title": "2026 FIFA World Cup Title Pie: Is Messi's Argentina Or Mbappé's France The Favorite? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWs2bWVXWVFtZXE0Rl91WUJodDNnSEluam05LWczNGV6WkxiQzg2RFVsbWpjSG1sMGRxaUVTemlDN3dpMzYzLWhnV1I4dExfcUJvZUlOODFzUW1SaTQ3VUx0SkVLMXhJSzdtX0sxXzU3M2lKMzg2Nm1TSVpOQXRuUkdFa2FsY00tQ3hKRWxIQkduaXhiMWRlcGVNaVlNekhYN2wzQlVQUGJyaU4zcjc5VdIBsAFBVV95cUxQTUI3TWZyRl96dzMxRFUyQWVOaFkwaGJuX2dPNkZIZWpfTUlaWWw5TWphOG4wa0NDX25EUXhwSDVScDdQeTBCYmFnWjZpajg4d0EwTWdWaFZHeHg5RzZGY3pyUXYxVG1ZeFJtS2VaaWNqUWhLdHFSd0lTdWVBVWJwMFlpRUJKdmRHcGl4bTV4bF81VmtkakhpWWkzNjRiV0hxYVlqZkxWaVh6RXFyeTI5Qg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -868,7 +884,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 104,
+      "chapterCount": 105,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1701,6 +1717,14 @@
           "body": "",
           "sourceLink": "",
           "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1782567785303",
+          "date": "2026-06-27",
+          "title": "2026 FIFA World Cup Title Pie: Is Messi's Argentina Or Mbappé's France The Favorite? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWs2bWVXWVFtZXE0Rl91WUJodDNnSEluam05LWczNGV6WkxiQzg2RFVsbWpjSG1sMGRxaUVTemlDN3dpMzYzLWhnV1I4dExfcUJvZUlOODFzUW1SaTQ3VUx0SkVLMXhJSzdtX0sxXzU3M2lKMzg2Nm1TSVpOQXRuUkdFa2FsY00tQ3hKRWxIQkduaXhiMWRlcGVNaVlNekhYN2wzQlVQUGJyaU4zcjc5VdIBsAFBVV95cUxQTUI3TWZyRl96dzMxRFUyQWVOaFkwaGJuX2dPNkZIZWpfTUlaWWw5TWphOG4wa0NDX25EUXhwSDVScDdQeTBCYmFnWjZpajg4d0EwTWdWaFZHeHg5RzZGY3pyUXYxVG1ZeFJtS2VaaWNqUWhLdHFSd0lTdWVBVWJwMFlpRUJKdmRHcGl4bTV4bF81VmtkakhpWWkzNjRiV0hxYVlqZkxWaVh6RXFyeTI5Qg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1719,7 +1743,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 269,
+      "chapterCount": 271,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3871,6 +3895,22 @@
           "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team - NPR",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEYwZlZ3d3dnNFRQbVNpR1lITkJ0RnRLTm5ZU0c5NDZmOV82YWRCRHB4N1lERjhTaWEwT2NmTVZFNlN5WW5Qa2kxbEhHUjhYOWZQV09yMF9CYl9jN3BEb21yMmFfdmlIam5NNmJjUGFLWHpoR0NKMnhwMWk3Wmh3UWMyb3VNckRQazhkbnluVklkZVNYdWc2MXg2bWk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782567785743",
+          "date": "2026-06-27",
+          "title": "USMNT World Cup squad analysis: Who can turn group form into knockout round impact - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWG1KQW15NXYtV2hvcmp1UEFJVDRkRGVjODJzenBkaVY3c0dTQmF1S0lLNDhCTE1TdFkwd1dQMDU1Q0Jwd3d2RXczdEptS3FaSXF5bUR5dFdlNHNnMjdGZGtsamJiaElIeG1Hd2lmN2o1d1hfRnVKRldhM3B1N3NCSXc3SHowUU52aGREMko2M2w5TTB2ZmZqOEUtRm42ZkpvVER0eA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782567785743",
+          "date": "2026-06-26",
+          "title": "USA fans rage at Kamala Harris after World Cup stunner, Natalie Decker hits the pool & more Caitlin Clark - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSElZN005MFN3T3BXSnZoS2Yzamc1cHFGWEpLRGxEdmxWX19iSWNORkIxSmM1STB0NFhocjVWdzB4bHlxd256VEpvXzRjWlh3YlI0cDhBVUNXbzFBOWtXb3JxMmVEcHIzM3kxQTlBcjQ5bjhXUUZLX21ZZGRqM2c5cG1QSkJSUmV1QU9wdjFQVUhyd2lRLWlydkhna3pQMV8xamJYOHI4bmE4eHlkTjhmbmhteGlPWktFdXlESmRNdHo?oc=5",
           "draft": true
         }
       ]
@@ -6080,7 +6120,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 285,
+      "chapterCount": 288,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8360,6 +8400,30 @@
           "title": "World Cup predictions: Panama vs England, Colombia vs Portugal and rest of matchday 17 - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWlwWXZHQzZ6MXN2TlN1VmpFbG5oZHExelJUYUYtTl9lckVOZjZTakZoMzBSSE1qT0tWWW1yM0pwVlhUQ2RNcUtYTG9pUjAxYmpMWHFWd3VSZVF5RUpQc3ZZdVU3NTJiOFRYOWFTcXNDdHRQR2d3TTREbkwzU0w0VDFoVTBuTUpFQldZRHc0Yw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782567786693",
+          "date": "2026-06-27",
+          "title": "Are favourites France getting stronger still? Re-ranking the 48 World Cup teams after day 16 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEd6SERmMkZXNTltcllFQ2d4ZXZMam9ObGQzVXQzZVI1Sk80c0dvU0I4UEwwUjJMQWdtNUh4X2ZZcExiVkJrbVIxandZcDVuM1RJR1VXQ1RIN1c0VWRmMGhvT3lzYnBxRE1sVzFyS1FZMXg0MUgyTktYR183Nk1pellxRHhKT0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782567786693",
+          "date": "2026-06-27",
+          "title": "World Cup schedule, live updates: England, Portugal and Argentina back in action as group play ends - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWxkZG1remo5eGtIaG1uT05qck1kVTd6OTJ4SFEwM3FBZlhsZFFJdWdkUGlNTlI1cXZidVI5WmxHdldWV1RRczM4SnpXb3JQSll5dkNoSEgyYnQ1V2FTeTlaaXNuSTdnc2EyZjdJWE5PR3ozQ3pQUFBmOXVfSEtQU3F3QnV2YVZsc01nMTZzZFVBU2dhR3lpWjJwUUh2UGtjQ1RHVHlwaEJ5MnhiUGJfeXZaSm81U1VVX2FuRHVqdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782567786693",
+          "date": "2026-06-27",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, England, Portugal, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaGp3aDgxVGVGVmVZZDVoNU9ZalU5OXFfdUZIR0Q5YjdhMEV3SUVrckRRSE1KQ29GSV9hM2E5d1dIWm5EMlppUk9HUW4tel9nVDVBdXlyaktWMjRMQWduTWdHRkVSejR2SWhlTmlHdHB0aE83ci1PRWFIb3lkQ2pLdm5yZEhyTElJNjZYU2doVUc0b2xFaE0yamZxN0t4bk1Na2VmVzNHREluQXg3VW1XclRzRnR3OEhRVWZzbGtpWC05ZF9h?oc=5",
           "draft": true
         }
       ]
