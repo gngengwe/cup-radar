@@ -5,13 +5,9 @@ import { useEffect, useMemo, useState } from 'react';
 import GoalRadarMap from './GoalRadarMap';
 import FlagImg from './FlagImg';
 import { getGoalFeed, getCityGoalCounts } from '../utils/goalFeed';
+import { formatGoalDate } from '../utils/goalRadarStory';
 
 const CYCLE_MS = 3800;
-
-function formatDateLabel(dateStr) {
-  const [y, mo, d] = dateStr.split('-').map(Number);
-  return new Date(y, mo - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-}
 
 export default function GoalMontage() {
   const feed   = useMemo(() => getGoalFeed(), []);
@@ -36,6 +32,7 @@ export default function GoalMontage() {
   if (!feed.length) return null;
 
   const current = recent[i];
+  const previous = recent[(i - 1 + recent.length) % recent.length];
 
   return (
     <section className="section goal-montage-section">
@@ -59,7 +56,7 @@ export default function GoalMontage() {
                     <span className="goal-montage__ticker-minute">{current.minute}&apos;</span>
                   </div>
                   <div className="goal-montage__ticker-meta">
-                    {current.team} vs {current.opponent} · {current.city} · {formatDateLabel(current.date)}
+                    {current.team} vs {current.opponent} · {current.city} · {formatGoalDate(current.date, { month: 'short', day: 'numeric' })}
                   </div>
                 </div>
               </>
@@ -72,7 +69,12 @@ export default function GoalMontage() {
         </div>
 
         <div className="goal-montage__map">
-          <GoalRadarMap cityCounts={counts} activeCity={current?.venueKey} />
+          <GoalRadarMap
+            cityCounts={counts}
+            activeCity={current?.venueKey}
+            previousCity={previous?.venueKey}
+            burstKey={current?.id || i}
+          />
         </div>
       </div>
     </section>

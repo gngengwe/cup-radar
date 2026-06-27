@@ -7586,3 +7586,715 @@ a.wcp-source-chip:hover { color: var(--text); }
   .goal-radar-page__map-col { position: static; }
   .goal-radar-page__feed { max-height: none; }
 }
+
+/* Goal Radar 2.0 overrides */
+.goal-radar {
+  background:
+    radial-gradient(circle at 50% 42%, rgba(255,255,255,0.07), transparent 24%),
+    radial-gradient(circle at 50% 50%, rgba(0,230,118,0.14), rgba(9,22,40,0.36) 44%, var(--bg) 76%);
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,0.03),
+    0 18px 48px rgba(0,0,0,0.34),
+    var(--accent-glow),
+    inset 0 0 72px rgba(0,230,118,0.06);
+  isolation: isolate;
+}
+.goal-radar--live {
+  box-shadow:
+    0 0 0 1px rgba(255,255,255,0.04),
+    0 24px 56px rgba(0,0,0,0.38),
+    0 0 38px rgba(0,230,118,0.16),
+    inset 0 0 92px rgba(0,230,118,0.08);
+}
+.goal-radar__travel {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+.goal-radar__trail {
+  fill: none;
+  stroke: rgba(255,255,255,0.84);
+  stroke-width: 0.85;
+  stroke-linecap: round;
+  stroke-dasharray: 1.8 1.8;
+  opacity: 0;
+  animation: goal-radar-trail 0.92s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.goal-radar__trail--glow {
+  stroke: rgba(0,230,118,0.42);
+  stroke-width: 2.3;
+  stroke-dasharray: none;
+  filter: blur(2.4px);
+}
+@keyframes goal-radar-trail {
+  0%   { opacity: 0; stroke-dashoffset: 26; }
+  18%  { opacity: 0.9; }
+  100% { opacity: 0; stroke-dashoffset: 0; }
+}
+.goal-radar__rings { z-index: 2; }
+.goal-radar__flash,
+.goal-radar__impact-wash {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+}
+.goal-radar__flash {
+  inset: -10%;
+  background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.2), rgba(0,230,118,0.14) 28%, transparent 62%);
+  mix-blend-mode: screen;
+  animation: goal-radar-flash 0.8s ease-out both;
+}
+.goal-radar__impact-wash {
+  inset: 0;
+  background: radial-gradient(circle at 50% 50%, transparent 0 46%, rgba(0,230,118,0.12) 62%, transparent 78%);
+  animation: goal-radar-wash 0.94s ease-out both;
+}
+@keyframes goal-radar-flash {
+  0%   { opacity: 0; transform: scale(0.92); }
+  28%  { opacity: 1; }
+  100% { opacity: 0; transform: scale(1.08); }
+}
+@keyframes goal-radar-wash {
+  0%   { opacity: 0; transform: scale(0.88); }
+  30%  { opacity: 0.68; }
+  100% { opacity: 0; transform: scale(1.16); }
+}
+.goal-radar__sweep { z-index: 3; }
+.goal-radar__blip { z-index: 4; }
+.goal-radar__impact,
+.goal-radar__flare {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  border-radius: 50%;
+}
+.goal-radar__impact {
+  width: 22px;
+  height: 22px;
+  border: 2px solid rgba(255,255,255,0.82);
+  animation: goal-radar-impact 0.92s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.goal-radar__impact--late {
+  border-color: rgba(0,230,118,0.54);
+  animation-delay: 0.12s;
+}
+.goal-radar__flare {
+  width: 84px;
+  height: 84px;
+  background: radial-gradient(circle, rgba(255,255,255,0.34), rgba(0,230,118,0.22) 42%, transparent 74%);
+  animation: goal-radar-flare 0.68s ease-out both;
+}
+@keyframes goal-radar-impact {
+  0%   { opacity: 0.92; transform: translate(-50%, -50%) scale(0.5); }
+  100% { opacity: 0; transform: translate(-50%, -50%) scale(4.7); }
+}
+@keyframes goal-radar-flare {
+  0%   { opacity: 0.85; transform: translate(-50%, -50%) scale(0.45); }
+  100% { opacity: 0; transform: translate(-50%, -50%) scale(1.6); }
+}
+.goal-radar__ball {
+  transition: left 0.82s cubic-bezier(0.22, 1, 0.36, 1), top 0.82s cubic-bezier(0.22, 1, 0.36, 1);
+  font-size: 18px;
+  filter: drop-shadow(0 0 8px rgba(0,230,118,0.7)) drop-shadow(0 4px 12px rgba(0,0,0,0.34));
+}
+.goal-radar__ball-trail {
+  position: absolute;
+  left: -20px;
+  top: 50%;
+  width: 34px;
+  height: 12px;
+  transform: translateY(-50%);
+  background: linear-gradient(90deg, rgba(255,255,255,0), rgba(0,230,118,0.3));
+  filter: blur(6px);
+  opacity: 0.72;
+}
+
+.goal-radar-page {
+  padding-bottom: 96px;
+}
+.goal-radar-page__head {
+  padding: 32px 0 18px;
+  max-width: 760px;
+}
+.goal-radar-page__experience {
+  display: grid;
+  gap: 24px;
+}
+.goal-radar-page__stage {
+  display: grid;
+  grid-template-columns: minmax(320px, 420px) minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+.goal-radar-page__map-panel {
+  position: sticky;
+  top: 92px;
+  display: grid;
+  gap: 18px;
+}
+.goal-radar-page__map-shell,
+.goal-radar-page__leaderboard,
+.goal-radar-page__feed-panel,
+.goal-radar-page__story {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 28px;
+  background:
+    linear-gradient(160deg, rgba(15,29,20,0.96), rgba(9,22,40,0.82)),
+    radial-gradient(circle at top left, rgba(0,230,118,0.08), transparent 44%);
+  box-shadow: 0 28px 80px rgba(0,0,0,0.26), inset 0 1px 0 rgba(255,255,255,0.04);
+}
+.goal-radar-page__map-shell,
+.goal-radar-page__leaderboard,
+.goal-radar-page__feed-panel {
+  padding: 20px;
+}
+.goal-radar-page__story {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 100%;
+  padding: clamp(20px, 4vw, 30px);
+  border-color: rgba(0,230,118,0.14);
+  outline: none;
+}
+.goal-radar-page--share-mode .goal-radar-page__story {
+  border-color: rgba(77,142,255,0.24);
+}
+.goal-radar-page__map-shell::before,
+.goal-radar-page__leaderboard::before,
+.goal-radar-page__feed-panel::before,
+.goal-radar-page__story::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
+  background-size: 28px 28px;
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,0.35), transparent 90%);
+  pointer-events: none;
+}
+.goal-radar-page__map-caption {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+.goal-radar-page__map-caption strong {
+  display: block;
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+.goal-radar-page__map-caption span:last-child {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+.goal-radar-page__map-kicker {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.goal-radar-page__stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.goal-radar-page__stat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 112px;
+  padding: 16px 15px;
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 20px;
+  background: rgba(255,255,255,0.03);
+}
+.goal-radar-page__stat-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.goal-radar-page__stat-card strong {
+  font-size: clamp(24px, 4vw, 34px);
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--text);
+}
+.goal-radar-page__stat-note {
+  margin-top: auto;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+.goal-radar-page__panel-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.goal-radar-page__panel-kicker {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.goal-radar-page__panel-head h2 {
+  font-size: clamp(22px, 3vw, 28px);
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+.goal-radar-page__panel-badge {
+  flex-shrink: 0;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.04);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+.goal-radar-page__leaderboard-list {
+  display: grid;
+  gap: 10px;
+}
+.goal-radar-page__leaderboard-item {
+  display: grid;
+  grid-template-columns: minmax(100px, 1fr) 1.2fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.05);
+  text-align: left;
+  transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+}
+.goal-radar-page__leaderboard-item:hover {
+  border-color: rgba(0,230,118,0.22);
+  transform: translateY(-1px);
+}
+.goal-radar-page__leaderboard-item.is-active {
+  border-color: var(--accent);
+  background: rgba(0,230,118,0.08);
+}
+.goal-radar-page__leaderboard-city {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text);
+}
+.goal-radar-page__leaderboard-bar {
+  position: relative;
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.08);
+  overflow: hidden;
+}
+.goal-radar-page__leaderboard-bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), #4d8eff);
+  transition: width 0.36s ease;
+}
+.goal-radar-page__leaderboard-count {
+  font-size: 14px;
+  font-weight: 900;
+  color: var(--accent);
+  min-width: 24px;
+  text-align: right;
+}
+.goal-radar-page__story-top {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.goal-radar-page__story-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.goal-radar-page__story-hint {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+.goal-radar-page__story-progress {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.07);
+  overflow: hidden;
+}
+.goal-radar-page__story-progress-fill {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), #4d8eff);
+  transition: width 0.32s ease;
+}
+.goal-radar-page__story-minute-row {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+}
+.goal-radar-page__story-minute {
+  font-size: clamp(70px, 11vw, 118px);
+  font-weight: 900;
+  line-height: 0.88;
+  letter-spacing: -0.06em;
+  color: var(--accent);
+  text-shadow: 0 0 24px rgba(0,230,118,0.18);
+}
+.goal-radar-page__story-sequence {
+  padding-bottom: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.goal-radar-page__story-player {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.goal-radar-page__story-player-copy {
+  min-width: 0;
+}
+.goal-radar-page__story-player-name {
+  font-size: clamp(30px, 5vw, 54px);
+  font-weight: 900;
+  line-height: 1.02;
+  letter-spacing: -0.05em;
+}
+.goal-radar-page__story-matchup {
+  margin-top: 8px;
+  font-size: 16px;
+  color: var(--text-muted);
+}
+.goal-radar-page__story-scoreboard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  width: min(100%, 460px);
+  padding: 18px 20px;
+  border-radius: 22px;
+  background: rgba(7,16,10,0.48);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.goal-radar-page__story-team {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: clamp(36px, 6vw, 54px);
+  font-weight: 900;
+  line-height: 1;
+  color: var(--text);
+}
+.goal-radar-page__story-team.is-scoring {
+  color: #ffffff;
+  text-shadow: 0 0 22px rgba(255,255,255,0.14);
+}
+.goal-radar-page__story-team-code {
+  font-size: clamp(13px, 2vw, 16px);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.goal-radar-page__story-score-divider {
+  font-size: 28px;
+  font-weight: 300;
+  color: var(--text-dim);
+}
+.goal-radar-page__story-headline {
+  font-size: clamp(22px, 3vw, 32px);
+  font-weight: 800;
+  line-height: 1.3;
+  letter-spacing: -0.03em;
+  max-width: 18ch;
+}
+.goal-radar-page__story-subhead {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text-muted);
+  max-width: 56ch;
+}
+.goal-radar-page__story-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.goal-radar-page__story-tag {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.03);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.goal-radar-page__actions {
+  display: grid;
+  gap: 12px;
+  margin-top: auto;
+}
+.goal-radar-page__action-group {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.goal-radar-page__control {
+  min-height: 46px;
+  padding: 12px 18px;
+}
+.goal-radar-page__control--play {
+  min-width: 120px;
+}
+.goal-radar-page__story-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding-top: 18px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+.goal-radar-page__story-footer-copy {
+  flex: 1;
+  min-width: 0;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+.goal-radar-page__deep-link {
+  flex-shrink: 0;
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--accent);
+}
+.goal-radar-page__feed-panel {
+  padding: 20px;
+}
+.goal-radar-page__feed {
+  display: grid;
+  gap: 10px;
+  max-height: 72vh;
+  overflow: auto;
+  padding-right: 4px;
+}
+.goal-radar-page__empty {
+  color: var(--text-muted);
+  padding: 24px 0;
+}
+.goal-radar-page__item {
+  display: grid;
+  grid-template-columns: auto auto auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  text-align: left;
+  padding: 14px 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 18px;
+  transition: border-color 0.18s ease, background 0.18s ease, transform 0.18s ease;
+}
+.goal-radar-page__item:hover {
+  border-color: rgba(0,230,118,0.22);
+  transform: translateY(-1px);
+}
+.goal-radar-page__item.is-active {
+  border-color: var(--accent);
+  background: rgba(0,230,118,0.08);
+  box-shadow: var(--accent-glow);
+}
+.goal-radar-page__item-sequence {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.goal-radar-page__item-minute {
+  font-weight: 900;
+  color: var(--accent);
+  min-width: 36px;
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+}
+.goal-radar-page__item-body {
+  min-width: 0;
+}
+.goal-radar-page__item-player {
+  font-weight: 800;
+  font-size: 15px;
+}
+.goal-radar-page__item-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+.goal-radar-page__item-score {
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.05);
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+@media (max-width: 1080px) {
+  .goal-radar-page__stage {
+    grid-template-columns: 1fr;
+  }
+  .goal-radar-page__map-panel {
+    position: static;
+  }
+}
+
+@media (max-width: 880px) {
+  .goal-radar {
+    max-width: 340px;
+  }
+  .goal-radar-page__stage {
+    gap: 18px;
+  }
+  .goal-radar-page__story {
+    order: 1;
+  }
+  .goal-radar-page__map-panel {
+    order: 2;
+  }
+  .goal-radar-page__stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .goal-radar-page__stats-grid .goal-radar-page__stat-card:last-child {
+    grid-column: 1 / -1;
+  }
+  .goal-radar-page__story-minute-row,
+  .goal-radar-page__story-top,
+  .goal-radar-page__map-caption,
+  .goal-radar-page__story-footer {
+    align-items: start;
+    flex-direction: column;
+  }
+  .goal-radar-page__story-scoreboard {
+    width: 100%;
+  }
+  .goal-radar-page__story-headline {
+    max-width: none;
+  }
+  .goal-radar-page__feed {
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(270px, 82vw);
+    overflow-x: auto;
+    overflow-y: hidden;
+    max-height: none;
+    scroll-snap-type: x proximity;
+    padding-bottom: 4px;
+  }
+  .goal-radar-page__item {
+    height: 100%;
+    scroll-snap-align: start;
+    grid-template-columns: auto auto minmax(0, 1fr);
+    grid-template-areas:
+      'seq minute score'
+      'flag body body';
+    align-items: start;
+    row-gap: 10px;
+  }
+  .goal-radar-page__item-sequence { grid-area: seq; }
+  .goal-radar-page__item-minute { grid-area: minute; }
+  .goal-radar-page__item .flag-img,
+  .goal-radar-page__item > span:nth-child(3) { grid-area: flag; }
+  .goal-radar-page__item-body { grid-area: body; }
+  .goal-radar-page__item-score {
+    grid-area: score;
+    justify-self: end;
+  }
+}
+
+@media (max-width: 520px) {
+  .goal-radar-page__head {
+    padding-top: 24px;
+  }
+  .goal-radar-page__map-shell,
+  .goal-radar-page__leaderboard,
+  .goal-radar-page__feed-panel,
+  .goal-radar-page__story {
+    border-radius: 24px;
+  }
+  .goal-radar-page__map-shell,
+  .goal-radar-page__leaderboard,
+  .goal-radar-page__feed-panel {
+    padding: 16px;
+  }
+  .goal-radar-page__story {
+    padding: 18px;
+  }
+  .goal-radar-page__story-player {
+    align-items: start;
+  }
+  .goal-radar-page__story-team {
+    gap: 8px;
+  }
+  .goal-radar-page__leaderboard-item {
+    grid-template-columns: minmax(90px, 1fr) 1fr auto;
+    padding: 11px 12px;
+  }
+  .goal-radar-page__actions {
+    gap: 10px;
+  }
+  .goal-radar-page__action-group {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .goal-radar-page__control {
+    width: 100%;
+    min-width: 0;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .goal-radar__sweep,
+  .goal-radar__trail,
+  .goal-radar__impact,
+  .goal-radar__flare,
+  .goal-radar__flash,
+  .goal-radar__impact-wash,
+  .goal-radar__blip-dot,
+  .goal-radar__ball-spin,
+  .goal-radar-page__story-progress-fill {
+    animation: none !important;
+    transition: none !important;
+  }
+}

@@ -42,6 +42,7 @@ export default function App() {
           <Route path="/world-cup-primer" element={<WorldCupPrimer />} />
           <Route path="/live-pulse" element={<LivePulse />} />
           <Route path="/goal-radar" element={<GoalMontagePage />} />
+          <Route path="/goal-radar/g/:goalId" element={<GoalMontagePage />} />
           <Route path="/admin" element={
             <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading admin…</div>}>
               <AdminPanel />
