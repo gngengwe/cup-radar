@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-26T22:13:12.913Z",
+  "lastUpdated": "2026-06-27T03:28:25.321Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 102,
+      "chapterCount": 103,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -833,6 +833,14 @@
           "title": "Lionel Messi, Rest or Minutes Against Jordan? Argentina Already Qualified for the FIFA World Cup 2026 - beIN SPORTS",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObGEteFF6b0xvWHoydHVpZjRRS2FvbGlqZWFkWmlKekRYNHljbXBPaVhSenNrMl9RMWRDRTRjd20xdTI4MmpCWkx5ZFpwdjNaaHJpaVdmNE5iS1ZZMFU2dDFvQTlmTWNNRDRJY1k3dnhXeV9aTnhpTUsxNUlEejNwaUVvTEhLU1pnSTljSVdLNGVPbHd0akkxZF9xblJlN3pzcC1BcFdqSGk2dXVYYVRpY1l3TVRaaEtVeWNuODlDWWZmZGl2NEZXRFFPZDRYRDZLNmw2VE9KNG5ZSEtlS1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782530903198",
+          "date": "2026-06-27",
+          "title": "World Cup 2026: Lionel Messi will start on bench vs. Jordan, Argentina coach confirms - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVF9OQVNFckplcXQ0MXlIUy1zOXE0VGNWMmo0TXQ3bEtLaTJDT0xObDdBSUNxUTBQVGtiZkFHcW56S0xCUk9mSGFNODBtU2RXYmtXSnlHRzhTRHA5S0pUOEZCOTBldW9GRTZlM0FsZGhsOWZNT0xkV1dHY1hXX3BILWNrX3FaWlJZa1BkU0F0d0xCaGJYVEVVQTQyLVduazI4RFJhT1VRZXpuUmRVSDNqMzdfQl9RUzNid0t4Wkt6b2ZPRXlHcElDN002eERwQWNnaHZV?oc=5",
           "draft": true
         }
       ]
@@ -1703,7 +1711,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 260,
+      "chapterCount": 261,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -3784,6 +3792,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFkwd2JrdHdOWkxVWGRzR0Y4aW9zdGhaRnVuWXk0QnJHeEFDcFpPc01vMnNydzN0SDNTc0hrRFZ2N2ZoTllTWGJuQVpsUm1CLUt0TTh4cDk2RVRxWFZtWHRZX3ZDRm5qbTYzNmt1VDZtYWllLXBLMENjVXVVRVBEdEZ4TEZhVkd5WEpiTDJhaVBSbG52NUZjMEYyTHJZZ1E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782530904108",
+          "date": "2026-06-26",
+          "title": "When does Team USA play next? See the schedule for the knockout round - cbs8.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlN0WW1uUjNaTEJiUlpYWHQxeHpsR3dPZ2xLWVVrM1VERmhGUmtTZ3ZZZ2NpUXZnUzRJRXRPdnd2cWV3d3ZHVW1tQ2VRSWstY3A2M0hVc3E1ODN6NUVjMmVJUWJ2YnJxRXQ2cnBkV2FMMjdSZVRwMnNNYjlBbm90QUlxNUFJMTUzU2hEOEJzZGVKbGg1NWxpUGRDZmttTFp4OXB3ZEVHcGNmRjdMRmgxNWgxN0xkWmNyZjZXQUhzVXhMOC1KaEdZal82SGxZYzhXQ0RxY21QUDk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3802,7 +3818,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 250,
+      "chapterCount": 251,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -5803,6 +5819,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmlnZ2djWWNkT2xhLW9WaFVEUXFtOUZpVTJEUHRDdFB1THJ1RmlWMW9OUkFfRDJOYU1sSVpLSXVDZUxVQnJBZ1gxcmdERER6c2pkRE1LYUozOEgtSEk0MlhfUmhmUWlxbXlVOVJUVG5rOVNlMlhRZ25jME1nWmVwdmlJUmtZNE9VMUpDbElhc2RBamE3cjcxR2IweDJlVVpJb0E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782530904610",
+          "date": "2026-06-26",
+          "title": "It's not just Cape Verde: African soccer is having a World Cup moment - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnhZQW40ZzlSeDVpSmFYZWpLdWQ0cjdmNWZLVXB6NmthcEZsaVp2bndNWkFwQWNhMjYzbFFqbzlHQ1ZiM2tob1JqSEV4YWotVGc5V3d4d3FSVl8yWGQzYXdnQWVlb0tXbGZmNHpHaFFhQk5wUDJqeHBaSThobzc2Ql85aE8wcnltR01PQV9wenpiSU5jRzFWcXZ0LUxiTTBYVmxnQl93aw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5968,7 +5992,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 274,
+      "chapterCount": 278,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8160,6 +8184,38 @@
           "title": "Reece James out of Panama clash and first knockout game as injury woes resurface - thesun.co.uk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlfSTJkM3o4el80YnhwWFZNMkFVcFhxeGJjRlJFM1E3RU8tZEhSTVBNTkszQk9NOE9NRUxGenJkZERES21DUW9zUXhmalRkemx1T05FbFRWQ2N3MnFEN2lmWG5XYUk5Z2pMUHFGaHY5QWU5cVl0ODVtUVlKQjhpVVJpVTNtNmUxank3X0VBYURhcmVGdXZONDhod2ZtZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782530905321",
+          "date": "2026-06-27",
+          "title": "World Cup 2026: England through to last 32 - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdVN2cFBPdUIzTENSOUNHZUxIVHBUZ1RUQ1BxUDNOMGNIMHNULWxESHp0QTk0d3BNSlZNUG9TUDY0bjhoMi1UYXlrdEZST3pjT09qRUs3ZTh1RF9YR1dSc1Y3THB4dk0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782530905321",
+          "date": "2026-06-27",
+          "title": "England through to last 32 of the World Cup after Uruguay exit against Spain - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1F3cXktRVBCa3E3U01VZXNzdW5rSThnb0VycE8tbVF5MDdFSEctbmdsQW5sOThnY25KUGJLX0xhYjNvRjdQSlgwN3kyQ2xJTjdtNGE1UjhTOGZ4Nk1JUzl5cWZGNG5mSUVaVHJZdUpyOVZPTjBheU9YRlNGc0hqbHRLZkdxQnF1MTllMFRmcVpwa1ZvdzdicGRwUEtGQTc2RUZpVjgxdzdzMDRqUURBdmthc1V3eF90Qi1hdE1qdnVCeEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782530905321",
+          "date": "2026-06-26",
+          "title": "World Cup 2026: Thomas Tuchel defends full-back selection after Reece James injury - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwODR2RFNkVnhFQkZuM2ZGV2ZxYWpXdkE1RkdhTld1X1VCSm5xaC1CeExYWnBTVzI2QWVmY2VfX0xGUlg5aE9HazBmdmd0Rm8xZk5VYll6YkowLUJxM0dQZ0l2cmpSalU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782530905321",
+          "date": "2026-06-26",
+          "title": "Reece James to miss England vs Panama with injury, Declan Rice, Elliot Anderson fit - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2Y5NjdOb1lTUXJOQmJqRW10RGY5czdBY3FLYTZQUXc0ZU0zRlJ4ZXJWU0FodmlraF84SUxNN1F4R1RVZ3BKcEZiaGoybDQyZVZzLTh2dzVGUW5LaVE2ZURqNmtianhCWGJVNmdEekRQbzFGenhtamdvOW5NbG9xa2ZVSWhNNk9SV19vZkUwaHFEY1VKV1dkQmktVW5CVC1Ca253dXhzNlAwaTI5bUhxbml5X0VRQVEyWFRwYWtPVk9kdjlyNVNwaUFBbGlDV29kSWc?oc=5",
           "draft": true
         }
       ]

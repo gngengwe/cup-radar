@@ -223,9 +223,9 @@
       "group": "G",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 1,
       "seattleMatch": true,
       "notes": "Egypt vs Iran — Group G at Lumen Field (night kickoff)"
     },
@@ -459,11 +459,18 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
       "seattleMatch": false,
-      "notes": "Spain vs Uruguay — Group H"
+      "notes": "Spain vs Uruguay — Group H",
+      "goals": [
+        {
+          "minute": 42,
+          "team": "away",
+          "player": "Álex Baena"
+        }
+      ]
     },
     {
       "id": "wc26-015",
@@ -2300,8 +2307,8 @@
       "stage": "Group Stage",
       "matchday": 3,
       "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "vancouverMatch": true,
       "notes": "New Zealand vs Belgium — Group G at BC Place"
     },
@@ -2920,9 +2927,9 @@
       "group": "H",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
       "notes": "Saudi Arabia vs Cape Verde — Group H"
     },
     {
@@ -2995,5 +3002,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-26T22:13:13.467Z"
+  "lastUpdated": "2026-06-27T03:28:25.740Z"
 }
