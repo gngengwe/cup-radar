@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-28T08:51:41.897Z",
+  "lastUpdated": "2026-06-28T11:07:16.773Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1839,7 +1839,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 282,
+      "chapterCount": 283,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4096,6 +4096,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa21XaHdZa3ZKNmlNc2NidnFzZUNMTHdnMkpMd0FlY1BLZ1lxVmZ5dlQ4bi1PVlFiMXZwN3RNeHR2YjZ1NFhnbHh1TDdITmxUTVJOQ0xOdEdjSk1nQnQ0WXB2ZERucHlyVlktdm4ydExhN3J2NEU1WE14ZXVRM0RvaEFpZHFCSkRtenhMQmloUUx5LUFIdXNhSTNOYk8tNk41aGtLMGcxWmFEMktqSnV0eXF0Z3haWFlyUHBMYVZWdHNRX202WV9FU2RNbENGQ2I5TDMw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782644835924",
+          "date": "2026-06-26",
+          "title": "World Cup live updates: Türkiye beats USMNT with last-gasp winner - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk41NnJXblExbGljNnJoY184RUZvNzNDSU55N2dtU2tNRktuY0NzSlFVeEpzMkRTUzNfQ0UxREJab25iUl9oejBrcVpVTk5wRE9GbmNvMHBfbU5rTWt1ckVhT3k1RmVyUUxscV9UU3NqUFFXSzZHSkIwTTdrRl9kTUI3c0g3ODMwY21qcENaempHUGdNcEpmQWI3VQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4114,7 +4122,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 263,
+      "chapterCount": 264,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6219,6 +6227,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0RmdE9nYTV5WmZVaVh2ZTI4VUI5UmVsWTRFSW56aHRZRmc2VHdXSFhkNnV4VEtrZGplWHNFUzMtR1pOckFtc3lCYTZIdFBBZ2ZGNV9YRlF5Q0FWcTNQV1A1VmpVRkpRX1htbVlQRDF1YVJONndMVWJ4Vlp3VEZlN0wxcTZjZktjNWxKWEVGYnJ1RzEwVkY2Q0E2bFF6M2lHZy1TaGcxUjFKUzB1UEQzVHdOcjBnOTdGeGYtTUZUano3Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782644836322",
+          "date": "2026-06-28",
+          "title": "World Cup predictions round of 32: Brazil vs Japan, Netherlands vs Morocco and rest of matchday 18 and 19 - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVdrZVVkNE01al9VTXZjcWRHWEJQVGI2TW5LbTNycnBTM0hxUnkwMFdxMFZoeEIyZUhOUUg0RWJhdmlNZmwteXVMOGF2TWktanJtSzljQ25CazB4R081UnRGSGw1bEhiVloyN05wNmJoY3dHUmZ4Vk5XcXVGT0pLTV9xUTl3cl9WVy15am5ZRXN4ejJjT1N2Uw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6384,7 +6400,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 302,
+      "chapterCount": 305,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8800,6 +8816,30 @@
           "title": "FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40 - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi11bmJTR3BxMVJ4Z2x6Q1dET1U0Y09iTkdqOU5Ba0trLVU3Q1ZBZWI4NVRNd0dpZkl3RXVRRW1iUVl6endtVnh0UFJfbTNjdEFBOFJycTZFNGF4X3R2NDktWlhQWFdqOV95Zmtn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782644836773",
+          "date": "2026-06-28",
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGtYTlVVNDUzTnRnZnBmMEdvUjA1MHF3Mjc4NTlKVF9INlFCc0MzZjlVYUgtNVBZT3RKOWZYcERRQzJBWTRXelZVaDBQN1RCTTB5UVo2OHZWeWh6M2RWaG81SlhzYVowbVg1MXhpdTQ1Z0s2eXhmcjRCOWVIX0hOeFprMU9qMjFoYWl0bmo5OC1yOGUwTEJGbzEwSnhkd2Fad2hYZ0RFYjdsVFhpNU5XVUZ4bW1kYVdsYTNOV0Y5MUdWUHJqSjQwaFZtbnZzWFFf?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782644836773",
+          "date": "2026-06-27",
+          "title": "England vs Panama live updates: World Cup 2026 game latest news and buildup - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWROX1FGWllFYkd4TFJxY2tpcFRickdxS1RZZFNiYmhIZUlHTVZYcFdnNXhQYjdyeHg4aFVEU0JTUzcyRzhPb2NRZ3hIMUM0bmFpbWU2YnJuVlMxbjZIcXRDOGVKMGJlTWNCY0NHNlZXRV80ZWNjMXlIVTd4Q0tmb1BxVHFyS19vM1RheVY1bDV4eUZCZVdSVXpUclBqS2psWXVjMzRLWnJubHVtVS1NYnFZRmYySWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782644836773",
+          "date": "2026-06-28",
+          "title": "Who would England play in round of 16? Potential World Cup opponents - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTgyUjVQZHJOQTl4Rks2MERPa05iZWhiTW94SkVvVnViOFFCYlZVRXZMU2hhanlPRDV1RE1pZ05xTHRLTGhSajVfbU5sRF8xeTQtRUxqTmpmdWJxSmpDemZ6VlczcFozYjFxTzZhXzV2Z0NmVy1fOFBVbjJpY3hKeGhvdWZkWlE1U2JVY0Z3TDMza2FjVGZkbGZqUmlpNmFjRzdBRmVjMkYxUFh1TW5SNm5EQTdiYnNsbTVsdU9zVTEtZ3FIU2c?oc=5",
           "draft": true
         }
       ]
