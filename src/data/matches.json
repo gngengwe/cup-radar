@@ -359,11 +359,34 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
       "awayScore": 3,
       "seattleMatch": false,
-      "notes": "Argentina vs Jordan — Group J"
+      "notes": "Argentina vs Jordan — Group J",
+      "goals": [
+        {
+          "minute": 19,
+          "team": "away",
+          "player": "Giovani Lo Celso"
+        },
+        {
+          "minute": 31,
+          "team": "away",
+          "player": "Lautaro Martínez",
+          "note": "pen"
+        },
+        {
+          "minute": 55,
+          "team": "home",
+          "player": "Mousa Al-Tamari"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "player": "Lionel Messi"
+        }
+      ]
     },
     {
       "id": "wc26-012",
@@ -759,12 +782,44 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "live",
-      "homeScore": 2,
-      "awayScore": 2,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 3,
       "seattleMatch": false,
       "kcMatch": true,
-      "notes": "Algeria vs Austria — Group J at Kansas City Stadium"
+      "notes": "Algeria vs Austria — Group J at Kansas City Stadium",
+      "goals": [
+        {
+          "minute": 28,
+          "team": "away",
+          "player": "Marko Arnautovic"
+        },
+        {
+          "minute": 45,
+          "team": "home",
+          "player": "Rafik Belghali"
+        },
+        {
+          "minute": 55,
+          "team": "away",
+          "player": "Marcel Sabitzer"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "player": "Riyad Mahrez"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Riyad Mahrez"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Sasa Kalajdzic"
+        }
+      ]
     },
     {
       "id": "wc26-kc-05",
@@ -3104,5 +3159,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-28T03:51:45.471Z"
+  "lastUpdated": "2026-06-28T08:51:42.123Z"
 }

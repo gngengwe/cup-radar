@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-28T03:51:45.195Z",
+  "lastUpdated": "2026-06-28T08:51:41.897Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 109,
+      "chapterCount": 115,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -889,6 +889,54 @@
           "title": "Argentina starting lineup vs Jordan: Will Messi start group play finale? - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnZQaXZKX0Vmdl8wVHpYQVcwSm9UMkx2Q1dRSDVZRm5aejNHVGtEdnhWM0FWaHo3QWtiWURvek4zVWVUVDRjQ3BBRlBHcHJLbTNOUkNORE9fQW5nc1ZJNUdBYjFNUWlwSzhHZUlFT2pNeHJFR2xfcUd5WDkybldKVVluYnpZSHBIejJKRllXQ2Radjc4ZGRTb0ZReHd2N1FsNm9ZWmktelNheDI5WGZ3Tw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-011",
+          "date": "2026-06-27",
+          "title": "Argentina beat Jordan 3-1 at AT&T Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-001-1782636699996",
+          "date": "2026-06-28",
+          "title": "Jordan 1-3 Argentina: World Cup 2026 – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWhkNnBhUURWU3ROY2syWlBsdEJzZUIxY0Uxa1ROUzV0MmV4N2d0aV9NRTA5eWdWU1NGVkRCQ2M5SWpPYlB4OEVkbVlpZXUtNnJiQ2lfSzVHdXpFUVlVTS1vel95Y0F5bXhSbjVWMm1Mb0FpbGY0SGdnWWxKS3pxS2pkb2o2TEhSNGFCZmlBUVVhSGYzczRBZlZ6UlNiM2s0OUNWQ0ZRek4wcDZjTXFNWlFyTmprME9KcGFXTndadDg2VkROekplcWtDU082WlhDbFk2M0NBeHpNTWM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782636699996",
+          "date": "2026-06-28",
+          "title": "World Cup: Messi sends Argentina top, England to face DR Congo, Iran out - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanJ2NUJhUktMOEVISjR4WVlhbU9LNndad1BkaDF4ZWZMTVRtLUJtR3RvejlBMjdiUVFYQ1ZDc0tLT01DM3ZWN3Y4UG1tWUpXb2hCdTQ1ZjY5ZnBfREtCeVJHc1YzZEN6XzI0X1hYQ3YxeHEtV1YtNi1BSzNGUFhQWTJRMEdJc3FiOFQ4SzllaU44U25CRVo5a0VESlY1OGdfZjRzS0doNG4yaklqWXfSAbMBQVVfeXFMTWxrNVMwLVgxNG5IWEk4XzlGMVkyOHYyOWhOeDBVRWtYYUUtb1I1NjJlWXdTRHNUVWp5N0wybG1lamNQaU42dGxnbFlhcnpsXzd3dnRRWmFOd1FRZnFfTWlyXzZ5d3RoTmRfTEdMRVpWOUQzdERxUG15LWdBdUpaLVlTbmZodFphY05kUHZPWDFHMmxTcktEUjZVbWFwdG8xNmRKNFkyWHlYTDktU0NxYzR1Um8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782636699996",
+          "date": "2026-06-28",
+          "title": "Who Will Lionel Messi And Argentina Play In The World Cup Round Of 32? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEZVamc0bmZPRjhpUzFrSXQ1Y1JGRDdlV0hMWWswNlY1akJfNWhQLXFPNUhwUGVHZnl4NndXV2IxOGo0cGF0WG93ZWFjVFNQaHh4VnRKS0R4NTNtRm5GYmU2ZFkydXNpNy0wS0tTeUNiX1JWeFdJZnFGOU9pSDFRN1A2cGtWQU5mZlVTQWI5ZWZmUWJFRk1zQTl6OXBfd9IBngFBVV95cUxQWUZJdFNkYkUxN25FMG9pMWVJT0pfc2lyZFRnWWlmLTdLRVVCa0FLQ1JPUTY0ODFpQ1owWU5FdEVFc0ItMC1FbmtRaXVVZ2w3RmtFc1dlMkE1UXFzSnVRYmxWSEpYUW9MRlRsaHBhbHZtaW5MaFM4aHdia0FOcXh1TFpqX3BhZlhzZHhJb2VqdTZnaldMNUdDR2RGX0dUdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782636699996",
+          "date": "2026-06-28",
+          "title": "Messi becomes first player to score in seven consecutive World Cup matches - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmFvcHFEQ2ljMVBTa2ZzVTdTT1dwWGVIY3ZrSjJRYy1qaUFZZGdMc2VJNTJuWUtQdUZvaVlKblAwRzJLNzdXRHZRakpwcFgySzl1NUtfdTFlQlVfSXBQTVEzaVJJSl85OWZiZW9faXNNd3NUa21qb244YTlxb3ZQdk5adktCeGFoZ283WTNYbGUxdlFBYUE0X0RuREVndTJsYkZrUGZsYk1ua3ExVnZfc0V6dnAwdVVRc3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782636699996",
+          "date": "2026-06-28",
+          "title": "FIFA World Cup 2026: Lionel Messi strikes again, this time a free kick off the bench for tournament-leading sixth goal - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTc3YjZYbDdzMGxXQlNhZFk3ellFdnUxQ0lJSlBTRGJuMXJ6cExheUxTMzk4U0tPODNLRGMxeG5JM2x3cmhmZUlXLVk5aHp5bEFSMlk4clpOYmtjN1BDdDBzU2EzSmN0cXhzeDc4QWxzZHMwMG5GY1B1WXZPLUtvRQ?oc=5",
           "draft": true
         }
       ]
@@ -1791,7 +1839,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 279,
+      "chapterCount": 282,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4024,6 +4072,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEZxT0ZaMG03LTlrYjhGZUZ5LTNmajVyRk1Dd0k4bXNyX3lOaUM0dnR1c3RqNkZGeFlSVDl1eVNSVURhWkZiYzQxaGpJVmtJblpfb1FXQS12R2JKam03cXdVZFJxRHpGN3BsOFN5eGoydy1mbGhjMjBhdlh4N21OT3l1QXBFV0tyRWNYdU1BMnBYb25RS3gxa2xhYm1qaFZ3aDN4RFJxazR2SjlnSlNieEhn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782636700989",
+          "date": "2026-06-28",
+          "title": "Shameful treatment of Iran at World Cup sets terrible precedent | Opinion - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU5FVGVCdVQxQXBJaW5sbmVMaTJsaXMtMjlSUG1nNUhIRDgzRnFYd2VudkZCc05kQk1FSkw2NFVQckE4eG44WnlZTm9qU2VrSVJacmFRa1hYVWFyYi1NVnhuMjVjQ3dTSnBMVTh5Mm1jLXZhN19GNDRMLXdRQ0xTdGVVZVd2RnBEWVdLWVpNT0dYMWZLaDFCcDJsVGlZRml2elBFemU2cXNyQjl0UEhlNW43dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782636700989",
+          "date": "2026-06-28",
+          "title": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21wbWlDcy00dlNjM1NzaW44TmZEdVBTaTJWTnFTU3FMUzl2azBmcHdSSWJDLTBHcUp4ZmU3NVRwbF9SN3Jmb1FvWGZwMEJ6Y1RtTDlMbHBlcUlkcG1BNTlfdGZXQ210ZmpaSTNUODRZMHd4R1l5ajJQaU41b2tsYW9CLWhSVk8tR2hwbk93?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782636700989",
+          "date": "2026-06-28",
+          "title": "Judging overreactions to World Cup bracket: How far could USMNT go? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa21XaHdZa3ZKNmlNc2NidnFzZUNMTHdnMkpMd0FlY1BLZ1lxVmZ5dlQ4bi1PVlFiMXZwN3RNeHR2YjZ1NFhnbHh1TDdITmxUTVJOQ0xOdEdjSk1nQnQ0WXB2ZERucHlyVlktdm4ydExhN3J2NEU1WE14ZXVRM0RvaEFpZHFCSkRtenhMQmloUUx5LUFIdXNhSTNOYk8tNk41aGtLMGcxWmFEMktqSnV0eXF0Z3haWFlyUHBMYVZWdHNRX202WV9FU2RNbENGQ2I5TDMw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4042,7 +4114,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 260,
+      "chapterCount": 263,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6123,6 +6195,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXFqUWt4LVlyRmhSbFl2WlduZWlPYWl4eTY4cDhOZEQxYkhWYjF6VUZEZTNBS0ZTN3hDLVItS0pWdjZpQzQ4dVRIMHJhZVdnaVJlTEJwaVFjUmtNb0ZPZWFjZXphdzNLRHhlUUVwajBvbDlVXzlKbko0Tk4xOVpIaTJtQlFyNWdaV1lYdzFrNFMtOVFWY2swY19KcG44MU9BNm9jOFlmbWdNcm9udnJPb200SkNwcEM1b240cjJoZVI5YWtxV0Nv?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782636701424",
+          "date": "2026-06-28",
+          "title": "Messi makes even more World Cup history - Football365",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmNwTlZ1czRoTUlhMElWWHpjeDIzeWxJZnhhRzkwX255MC01LVViU2hicm1Vb2tmOFA4MFdpTXZXZllHN19GZ2dMUm5jZUhJVlRtZ25ueTVhbUtMclAxenA4bWFVUHExd0F5Z2o0UXZzTTc4TGJqalU2WGZRTVV1XzdPQ0d1RFlVaEdWUXNMQlFvdlVsVkRR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782636701424",
+          "date": "2026-06-28",
+          "title": "2026 World Cup Round of 32: Confirmed schedule, predictions for knockout round - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT01DbXB4TkFGQUUxU2ZCcjBCc3JibjJyUGdDX3Z4T01nZkxaSUN0SE02bmZ1UE02ZkxWS0FwQWtlSmtFZU5LVmlTeC1aUUQ1NkJvcF9hU0lPd0hZaXJ3b0VBc0JMTzJ2aGhfVkR5NUxlU1lWdjZTTEZtaDJLaUNWTUZ1RDhQYmZQdE9BVzlVRWhkcGFRMXdrZmh6ck42VDBxSmdNQzh4RFhYcmxsaVNLOFRkcFk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782636701424",
+          "date": "2026-06-27",
+          "title": "Preview: Brazil vs Japan - prediction, team news, lineups - Sports Mole",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0RmdE9nYTV5WmZVaVh2ZTI4VUI5UmVsWTRFSW56aHRZRmc2VHdXSFhkNnV4VEtrZGplWHNFUzMtR1pOckFtc3lCYTZIdFBBZ2ZGNV9YRlF5Q0FWcTNQV1A1VmpVRkpRX1htbVlQRDF1YVJONndMVWJ4Vlp3VEZlN0wxcTZjZktjNWxKWEVGYnJ1RzEwVkY2Q0E2bFF6M2lHZy1TaGcxUjFKUzB1UEQzVHdOcjBnOTdGeGYtTUZUano3Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6288,7 +6384,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 298,
+      "chapterCount": 302,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8672,6 +8768,38 @@
           "title": "2026 World Cup group stage table, full standings for all 12 groups - NBC Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1dhWjZfR2NmdmMydzEzV0J2YUlmX19OV0FtTU5TVVRkdTQxWmZ1S1M3WVZvZjQ0Q0IzOG1VV1Jwa2l4ZnROOEVmdHJyRTA5TDhfdU1EZzNSTDlqQXQ1Q0pBWkY0ZXc4T0ZrbTdEbVdTMWdJVmx0MnVEY1VwT1htMVFfQ1Y1SElXTm5qS0taMTRJeTRva3lqV29UZ3FaTkFzOVFtUnBR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782636701897",
+          "date": "2026-06-27",
+          "title": "Bellingham and Kane strike as England seal top spot with World Cup win over Panama - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNi0zNlByYmNEdXN6eXlRT1BfOEJ4Q3ZhU2FYclZBY2hqeGVibXQyNDNFanFlYlBYTE1wbGltdkhVSE9WbmFpYXg5NWp0bnVyS19mMXYxaW9iV3lKTEZySzhJT2VLdEc4d2FqUDVYc0ZWWURZTm95amtJU1BFZDFZd0doeGRMZ3VDNjg2em1rMXJMaUZPb25QWnh3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782636701897",
+          "date": "2026-06-28",
+          "title": "World Cup 2026: England progress as Scotland crash out and Messi scores - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGcEYxZDk2U0Z0d0Q1ejFaX2tjN3UwVE0xZEt4SVFSTVMtR2NmUlZHaVJOalJDMHVuOU16MlZYem1vMGRXY0VhOWZkYXNpdk9nenA0VmFVQ191RktQRGVnRW5B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782636701897",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 knockout rounds predictor! Have your say and plot England's route to the final - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOW9VR252VlI2YUg1aTBfS0Jma2ppMUVOZk0tSzVLWFZrWFhjTHBSTDNmRlhuSlVobFJLQUs5VU1DSzlJNWxWNUs5M25JN2xsdm5EQ1hsWGtBX2NSMXNjS1dkaVFSM0ZoRzdMTVk4MDZ2bXd0SXRkdGM2b29TQ29fU3U2YjRZS2cxMHdRejB5YlNOMU5IR1ZwcEVmY0dURm14SElWNjNYckg4MmNRdkRaMWMyYjdPTUI4WHMtTGxiQW04bWY5SEFkbWtjdVpYZTI3VVd6bUU2ejJKUUVGWm1Z?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782636701897",
+          "date": "2026-06-28",
+          "title": "FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi11bmJTR3BxMVJ4Z2x6Q1dET1U0Y09iTkdqOU5Ba0trLVU3Q1ZBZWI4NVRNd0dpZkl3RXVRRW1iUVl6endtVnh0UFJfbTNjdEFBOFJycTZFNGF4X3R2NDktWlhQWFdqOV95Zmtn?oc=5",
           "draft": true
         }
       ]
