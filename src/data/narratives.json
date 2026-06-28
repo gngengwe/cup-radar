@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-28T11:07:16.773Z",
+  "lastUpdated": "2026-06-28T13:46:08.105Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1839,7 +1839,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 283,
+      "chapterCount": 284,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4104,6 +4104,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk41NnJXblExbGljNnJoY184RUZvNzNDSU55N2dtU2tNRktuY0NzSlFVeEpzMkRTUzNfQ0UxREJab25iUl9oejBrcVpVTk5wRE9GbmNvMHBfbU5rTWt1ckVhT3k1RmVyUUxscV9UU3NqUFFXSzZHSkIwTTdrRl9kTUI3c0g3ODMwY21qcENaempHUGdNcEpmQWI3VQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782654367016",
+          "date": "2026-06-28",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Canada vs South Africa - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1k0Vk9QeU04N3psMjlyY21PWjlJcHZzRkxCUmtCNHZjenJSdU02WWpQUXZXV1c5aERBQU0tS24zYUs5NTJ1RHdoVGNNNGJoV191MTc5WFhoVVRHb0FrbkZYT3lsLUpzcmN1M3RyMHNCc2tGZTFYbWFXbmlsXzZQWExNTHY0UWp2Y2Z0NHdxWFcwMnBQVmhnOS01QlRUMlM5SGg4TjROcHc0NkFFMnJZZ1E3Z0t5ZnZW?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4122,7 +4130,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 264,
+      "chapterCount": 266,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6235,6 +6243,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVdrZVVkNE01al9VTXZjcWRHWEJQVGI2TW5LbTNycnBTM0hxUnkwMFdxMFZoeEIyZUhOUUg0RWJhdmlNZmwteXVMOGF2TWktanJtSzljQ25CazB4R081UnRGSGw1bEhiVloyN05wNmJoY3dHUmZ4Vk5XcXVGT0pLTV9xUTl3cl9WVy15am5ZRXN4ejJjT1N2Uw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782654367573",
+          "date": "2026-06-28",
+          "title": "First 2026 World Cup Round of 32 Kit Matchups Revealed - Footy Headlines",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDJvZEVRTjFSdE03NnV1ZkRTVmZfdWRLalZHOWFkZEZaNlB5Mm9UeTNwVTFzamE1NVlYMXRVSDQzNFVmZTdvODhOb2wtU0JrY2FOOHg2ZUdVUHpreThYS3lhV1Rmc0lZUWdkcW5pTjlMd1VkTVpXWDlGRUQ0U0R4M25RTXBLdTVTMUNIc1V1YURwaFBhaDR3bXdsQXNhQk9BNXJN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782654367573",
+          "date": "2026-06-28",
+          "title": "Lionel Messi scripts history, breaks Brazil legend's FIFA World Cup record to become ... - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQjY5NVEzR05XMXdZWDNmT0pRQ0FFT0t4MUFPWUdtR3puRXVpZlp1a2xkOU91eVBVWUR3SHo2aEhKVkRRSUVMVEJjV283aHR2aGhVV1I4VVdmNjRyd3NQYUhVamdEb2FaMlBNaTRDa3lRenlxaEFtd1I0TTVfVmlIUjZ1SUU1MkRDdGxuOEhZcFJJckR2dTBJS0Z5SnVJRHVyTVB1RzVSX0NRNXJ5WDB2UWx1Q0V6T2tFRkFoTmFscDQ4QlFWcGw5N25rb0k1MzlqYWpCRWpZOG1oU0JCbURkX1BrV1hrcFNickdFVmVTUFh0Q3RUdi1seEQzMXpaNVBoWDYybVRPTWVrM2NnREVJOGVtSzl3ODh6b3FzdDdfWEYzR2lHUFBJY1NIUGUzWENTS19Pb0tBZmh0RXZtcFJrVE9HR0NhQ0ttQWpmS2lCSnA1Z1dJNTlWeGdQUdIB4AJBVV95cUxPclpaWU9YamZQRU5xQThNRmtrYlRkQnRJZ3pxQ3lOZm1NbDhQdWtEYlgxNXh6aGVOYkZNUmdBM0o4TDlOUlVvdFNINXlWR08tNGhDZU1FSDdEQ0FQSFhpcmxjZlFsbFdNN2RYbVBOM0MwSFdfNXN5WW1CMVNhQmdQR3dqNHNFX2NrWTBjZGVodHRTOGljclpDWTE2cDJ3N1huNk0wNXhleFBaR2ZZUmp3dkdKNzZkQ1ZWWHcwb2pBNVhsTzZEdC04bmpUdlU0cjY5U2N6THliemFSMzI3VDk4Y1ZQZmVieTZ3clRKNkUzbVhwSDJoeF9EMWRTOWd5V0JETk9GQ08yMXg2TEc4SlcyeGNBV3VSelQ3aE9OalVrQnctRXJnQkN5Rml1T3EwY0F1ZE9iLXpvSWF6RkpzMlB3UjFJbFUzVEN5LW15MWxwaFE1RnA2c0QtaHA1U1BQVUdo?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6400,7 +6424,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 305,
+      "chapterCount": 308,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8840,6 +8864,30 @@
           "title": "Who would England play in round of 16? Potential World Cup opponents - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTgyUjVQZHJOQTl4Rks2MERPa05iZWhiTW94SkVvVnViOFFCYlZVRXZMU2hhanlPRDV1RE1pZ05xTHRLTGhSajVfbU5sRF8xeTQtRUxqTmpmdWJxSmpDemZ6VlczcFozYjFxTzZhXzV2Z0NmVy1fOFBVbjJpY3hKeGhvdWZkWlE1U2JVY0Z3TDMza2FjVGZkbGZqUmlpNmFjRzdBRmVjMkYxUFh1TW5SNm5EQTdiYnNsbTVsdU9zVTEtZ3FIU2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782654368105",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 knockouts: England's path to the final explained after topping Group L - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcEFENlVEZDBSZG9lQUV5WU00cWgtcGVhUnJfNThiVHRUcW0xMTVORzM0cUtyak9uY2trQkF3TVVzMVNjV04wQ05xeU5aOV9XajRoM3BablkxSWYwUTJ4LXFUeXpUMTg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782654368105",
+          "date": "2026-06-28",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Canada vs South Africa - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1k0Vk9QeU04N3psMjlyY21PWjlJcHZzRkxCUmtCNHZjenJSdU02WWpQUXZXV1c5aERBQU0tS24zYUs5NTJ1RHdoVGNNNGJoV191MTc5WFhoVVRHb0FrbkZYT3lsLUpzcmN1M3RyMHNCc2tGZTFYbWFXbmlsXzZQWExNTHY0UWp2Y2Z0NHdxWFcwMnBQVmhnOS01QlRUMlM5SGg4TjROcHc0NkFFMnJZZ1E3Z0t5ZnZW?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782654368105",
+          "date": "2026-06-28",
+          "title": "World Cup 2026: Most controversial VAR officiating decisions in group stage - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUVUcHA2THBZUkNYay13SXNxdjdKWTFMOTlGUm5Jd1RIbC03YVRGczNCWFZPNW15a0V3cFlkT0hWT3lsR3lTeDVCaHRqZnRLOEhyZkxKR0VwSEJoZzNIUUZVc1Z0VVBmWURpR0lWMzhVM3hQdXlJVFJBQndSampWeGNYamU2R3ZXc01TNXgtODVpRzI5M0ticjlOUjZXSHE2blVUZnZ6cWRXbXpkN1ctZ1hhRUxqUUl60gG-AUFVX3lxTE5DYWNsOXc1aUhfRE9TM1VpbnR3R0hMcFRjSEZBZGlaLWlPZi0yTlFUT21JdnNnQ2pBakZ3MHZldU9VN1FQaGxpUjJzanJGNzNMRkM2d1JuVVpzbTk0Zm1KRnZmSzRyNWsyZERoREd3VVFTY2JmejctM3U0aGw3ZlQtM2Fkd3dGZU0wYUdxN2V1cURUbTM0ekVkMk9mSWE2aDFkQ1lKWlJ2UGp2RENPdHFneVpyR25BaVc5ZFBkWlE?oc=5",
           "draft": true
         }
       ]
