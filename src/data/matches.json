@@ -359,9 +359,9 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 1,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 3,
       "seattleMatch": false,
       "notes": "Argentina vs Jordan — Group J"
     },
@@ -759,9 +759,9 @@
       "group": "J",
       "stage": "Group Stage",
       "matchday": 2,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": true,
       "notes": "Algeria vs Austria — Group J at Kansas City Stadium"
@@ -1655,15 +1655,27 @@
       "group": "L",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "Group L Matchday 3",
       "nyMatch": true,
       "miamiMatch": false,
-      "phillyMatch": false
+      "phillyMatch": false,
+      "goals": [
+        {
+          "minute": 62,
+          "team": "away",
+          "player": "Jude Bellingham"
+        },
+        {
+          "minute": 67,
+          "team": "away",
+          "player": "Harry Kane"
+        }
+      ]
     },
     {
       "id": "wc26-G3",
@@ -1831,9 +1843,9 @@
       "stage": "Group Stage",
       "matchday": 3,
       "notes": "Group K Matchday 3",
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": false,
       "miamiMatch": true,
@@ -1902,14 +1914,31 @@
       "stage": "Group Stage",
       "matchday": 3,
       "notes": "Group L Matchday 3",
-      "status": "live",
-      "homeScore": 1,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
       "miamiMatch": false,
       "nyMatch": false,
-      "phillyMatch": true
+      "phillyMatch": true,
+      "goals": [
+        {
+          "minute": 31,
+          "team": "home",
+          "player": "Petar Sucic"
+        },
+        {
+          "minute": 73,
+          "team": "away",
+          "player": "Derrick Luckassen"
+        },
+        {
+          "minute": 83,
+          "team": "home",
+          "player": "Nikola Vlasic"
+        }
+      ]
     },
     {
       "id": "wc26-atl-01",
@@ -2056,11 +2085,34 @@
       "group": "K",
       "stage": "Group Stage",
       "matchday": 3,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 1,
       "atlantaMatch": true,
-      "notes": "DR Congo vs Uzbekistan — Group K at Mercedes-Benz Stadium"
+      "notes": "DR Congo vs Uzbekistan — Group K at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 10,
+          "team": "away",
+          "player": "Eldor Shomurodov"
+        },
+        {
+          "minute": 68,
+          "team": "home",
+          "player": "Yoane Wissa",
+          "note": "pen"
+        },
+        {
+          "minute": 78,
+          "team": "home",
+          "player": "Fiston Mayele"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Yoane Wissa"
+        }
+      ]
     },
     {
       "id": "wc26-atl-06",
@@ -3052,5 +3104,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-27T22:02:14.312Z"
+  "lastUpdated": "2026-06-28T03:51:45.471Z"
 }
