@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-28T13:46:05.512Z",
+  "lastUpdated": "2026-06-28T16:10:50.484Z",
   "articles": [
+    {
+      "id": "news-auto-south-africa-vs-canada-live-fifa-world-c-2026-06-28",
+      "headline": "South Africa vs Canada LIVE: FIFA World Cup 2026 - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkFBZ3FiMTF3UGVZaG50Rm51MWhOSWk4bXNXeHkxclhvbVVTejM4NzFCMlZIVzdmeXUyQzdnbU1seVFUSzJQNnpvSTFfaC13enhYNFlIUEpybWVUVmZMR0hXRWNmQ1JhNkt1NnY3bjFoRENMUklYODU0dVdkYjZScmpWRlQ1dHh5ejdsUW5kRF9JTDk0eml1YmRSWnFqeGo40gGmAUFVX3l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkFBZ3FiMTF3UGVZaG50Rm51MWhOSWk4bXNXeHkxclhvbVVTejM4NzFCMlZIVzdmeXUyQzdnbU1seVFUSzJQNnpvSTFfaC13enhYNFlIUEpybWVUVmZMR0hXRWNmQ1JhNkt1NnY3bjFoRENMUklYODU0dVdkYjZScmpWRlQ1dHh5ejdsUW5kRF9JTDk0eml1YmRSWnFqeGo40gGmAUFVX3lxTE9rLTVwU1Bvd2ZJMUM3aUNnUFJJZXZ3QlJPNnNRdHlVamttUi1fNzZzbWJCcHkxZFJTQjktWDJyTy10Q09KUFFvY1dPZ3gxbUFtc0xKQm12TjdadHZVMzNnNFM2dVZhcElYV3g1Qll5M2VmM2xYcVFuSGlNN3Rvd05Wd3lLamRERHB1ODFMWmVFU1YwTV9jLS0wTEdCbXkxVmVKUXpYWkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-jesse-marsch-on-way-to-be-2026-06-28",
+      "headline": "World Cup 2026: Jesse Marsch on way to becoming Canadian hero with historic run - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oT09XRVNoTzBWeU9NQkNUeENkWFEyVUhsam53Y1UzTXBCSDBJN1lTWjJUN2pYTXBpVUdhTGNZN2hpV1BuTk9CSms4Y090cHdkWUs3SzRRYnc5WFhQUUNBazNJNDQ0N2c?oc=5\" target=\"_blank\"&gt;World Cup 2026: Jesse Marsch on way to becoming Canadian hero ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oT09XRVNoTzBWeU9NQkNUeENkWFEyVUhsam53Y1UzTXBCSDBJN1lTWjJUN2pYTXBpVUdhTGNZN2hpV1BuTk9CSms4Y090cHdkWUs3SzRRYnc5WFhQUUNBazNJNDQ0N2c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-power-rankings-after-grou-2026-06-28",
+      "headline": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1R",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-2026-power-rankings-crist-2026-06-28",
+      "headline": "FIFA World Cup 2026 Power Rankings: Cristiano Ronaldo, Portugal fail to convince; USMNT closing in on top 10 - CBS Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGszWnJhbF9WSlJXMlRFbDA0ckR5VWl2RGNLLVZZX0NlZDN6MjViRWFoeW1fWEx4M0xwYllLb2xGNDkybVp5UmNLOXdySXE0WDBCU0VLbkhoSThGYjdORUN1OVg5dHhFSFBqaVAwLU9VRFl3QUh1TDloNHUzTElVX0h6U0htTXFNU1JGRXR5ZElsanZ5emJFZkxuc0Q4TGExdmxmWC1CQnA",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGszWnJhbF9WSlJXMlRFbDA0ckR5VWl2RGNLLVZZX0NlZDN6MjViRWFoeW1fWEx4M0xwYllLb2xGNDkybVp5UmNLOXdySXE0WDBCU0VLbkhoSThGYjdORUN1OVg5dHhFSFBqaVAwLU9VRFl3QUh1TDloNHUzTElVX0h6U0htTXFNU1JGRXR5ZElsanZ5emJFZkxuc0Q4TGExdmxmWC1CQnA0dw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-are-england-s-key-players-finding-form-r-2026-06-28",
+      "headline": "Are England’s key players finding form? Re-ranking the 48 World Cup teams after day 17 - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5\" target=\"_blank\"&gt;Are England’s key ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-2026-stats-messi-sets-ano-2026-06-28",
+      "headline": "FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40 - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHo",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZVpEd216b3VOU0tQbVZOUFFpQnVRRkZwVGN6RERydS1vUjl2WHZNS2NSTVlWMjFuWTVscW1nQ0tzMzlmeUdmc0N1cXI5dU1pLXJYMEo0YmdMWFplSi0xS0MyanczaGU3S0E5aGpvSjBhWHh5clg5SW4wM08zVmllYXU4bFFIaFozeG5iTl9vcUNyRHYtZF82bkdMMDloTXZhdEMzd2tBcHoxZzBfbkR2VUg3UW82YkJ5Mi11bmJTR3BxMVJ4Z2x6Q1dET1U0Y09iTkdqOU5Ba0trLVU3Q1ZBZWI4NVRNd0dpZkl3RXVRRW1iUVl6endtVnh0UFJfbTNjdEFBOFJycTZFNGF4X3R2NDktWlhQWFdqOV95Zmtn?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-south-korea-s-utterly-baffled-president--2026-06-28",
       "headline": "South Korea's 'utterly baffled' president lets rip after early World Cup exit - Reuters",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-27",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HMjFQc0VyLW1WNHByTnZNUzJEV2tkMzdJQmFCUmtWUXloWDlBX1JaLUNPU0JiZHUxaU9TUEdwaGhzMVZpZS1OSG45dk55aVJsbExWRVVhTWkzWDNPWDlibjBn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-vs-saudi-arabia-highlights-20-2026-06-27",
-      "headline": "Cape Verde vs Saudi Arabia Highlights | 2026 FIFA World Cup™ - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuajg4Zy1sek1fQzhtUGlXcFpxR1UxaGh0NFB6ZVJhOGVUblNZX1ZwZWptYUN2b0hhZmNhUkZxOW1RWHFLTGtBRV9NamtVanBBLTVBTVRDajB4ZkVWSDBFTm53?oc=5\" target=\"_blank\"&gt;Cape Verde vs Saudi Arabia Highlights | 2026 FIFA World Cup™&lt;/a&gt",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuajg4Zy1sek1fQzhtUGlXcFpxR1UxaGh0NFB6ZVJhOGVUblNZX1ZwZWptYUN2b0hhZmNhUkZxOW1RWHFLTGtBRV9NamtVanBBLTVBTVRDajB4ZkVWSDBFTm53?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-s-vozinha-makes-save-to-keep--2026-06-27",
-      "headline": "Cape Verde's Vozinha makes save to keep score level vs Saudi Arabia | 2026 FIFA World Cup - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wcDU4Vks4dUJQVnlZTE5mQU1PMUhfSjQzVmZTMmdPTEpfUjhPM1pkT3VpZThMSWQxNmUwaEJtTjRoQWJranZMbGtaTC1YLWFaWlR4OUtyQTdjOXNydk9oNDJ3?oc=5\" target=\"_blank\"&gt;Cape Verde's Vozinha makes save to keep score level vs Saudi Arabia |",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wcDU4Vks4dUJQVnlZTE5mQU1PMUhfSjQzVmZTMmdPTEpfUjhPM1pkT3VpZThMSWQxNmUwaEJtTjRoQWJranZMbGtaTC1YLWFaWlR4OUtyQTdjOXNydk9oNDJ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-how-cape-verde-made-histo-2026-06-27",
-      "headline": "World Cup 2026: How Cape Verde made history on their tournament debut - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVUdCVXVNRWpMbVlsNElKRDRWMmtlUm8zZFNSa0xIS05XTGxaVnUwV0FSV0tycTFwUFZMZDNiWkhDMHotMnZTY0tfRm1tTzV5UzN5VEV6aHhEb3laQlN2M3BQV3VxSHM?oc=5\" target=\"_blank\"&gt;World Cup 2026: How Cape Verde made history on their tournamen",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVUdCVXVNRWpMbVlsNElKRDRWMmtlUm8zZFNSa0xIS05XTGxaVnUwV0FSV0tycTFwUFZMZDNiWkhDMHotMnZTY0tfRm1tTzV5UzN5VEV6aHhEb3laQlN2M3BQV3VxSHM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-through-to-last-32-of-the-world--2026-06-27",
-      "headline": "England through to last 32 of the World Cup after Uruguay exit against Spain - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1F3cXktRVBCa3E3U01VZXNzdW5rSThnb0VycE8tbVF5MDdFSEctbmdsQW5sOThnY25KUGJLX0xhYjNvRjdQSlgwN3kyQ2xJTjdtNGE1UjhTOGZ4Nk1JUzl5cWZGNG5mSUVaVHJZdUpyOVZPTjBheU9YRlNGc0hqbHRLZkdxQnF1MTllMFRmcVpwa1ZvdzdicGRwUEtGQTc2RUZpVjgxdzd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1F3cXktRVBCa3E3U01VZXNzdW5rSThnb0VycE8tbVF5MDdFSEctbmdsQW5sOThnY25KUGJLX0xhYjNvRjdQSlgwN3kyQ2xJTjdtNGE1UjhTOGZ4Nk1JUzl5cWZGNG5mSUVaVHJZdUpyOVZPTjBheU9YRlNGc0hqbHRLZkdxQnF1MTllMFRmcVpwa1ZvdzdicGRwUEtGQTc2RUZpVjgxdzdzMDRqUURBdmthc1V3eF90Qi1hdE1qdnVCeEU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-photos-pride-match-day-at-seattle-s-egyp-2026-06-27",
-      "headline": "PHOTOS: Pride Match Day at Seattle's Egypt-Iran World Cup game - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxObDRnMEJrQ0Ziand3NUw1dVdvbXZ4bmtmNjVUaEtmdzh5SnBNZHFKS2dqcGRQb09HcUotVHB3ckFJdnM0OUtDVF9tZWF3Z3lXanhOLTd5TFJ1ajZPTVpTOU1OSUdMM1dUT1hmNUdjZnJILVFwTHdka1V4d0RJckZldXdfQWV5cXpsNTJUSkpqMzA4ZTFVTTU2TENqUW1ZRkdfT184Z0xpYkd",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObDRnMEJrQ0Ziand3NUw1dVdvbXZ4bmtmNjVUaEtmdzh5SnBNZHFKS2dqcGRQb09HcUotVHB3ckFJdnM0OUtDVF9tZWF3Z3lXanhOLTd5TFJ1ajZPTVpTOU1OSUdMM1dUT1hmNUdjZnJILVFwTHdka1V4d0RJckZldXdfQWV5cXpsNTJUSkpqMzA4ZTFVTTU2TENqUW1ZRkdfT184Z0xpYkdnYzItQ0RZV2pmY0FrdkdlbWViSnNrRk4wcjNBWmEzZXJ0VFBSVE54QXhkUDh0VDNPSWEwSVpreDcyVmtMdENLcEhvUmc3YnE1TEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-world-cup-egypt-iran-finish-in-d-2026-06-26",
-      "headline": "Seattle World Cup: Egypt, Iran finish in draw after go-ahead goal is overturned - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFF5XzNkd2xpZERhZHEyUGNPeUxyejFnTTEyV0pHbGRlZkhSd3NJdzVaRTY4WV82SWwxa0xoUklOV0d3enZSa0NnRkowNlJZazF1OUJsMFd5RE43eUtFbzdtVF9NaXlVZHlHSUVpZjZPZHdnMjZaeGUtOUlncEp4OFpmOW8zUEloOWgzOF9tMlZ2YlhPNWdBOFlFUHV4RXhnR0psYUJJSU8",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-26",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFF5XzNkd2xpZERhZHEyUGNPeUxyejFnTTEyV0pHbGRlZkhSd3NJdzVaRTY4WV82SWwxa0xoUklOV0d3enZSa0NnRkowNlJZazF1OUJsMFd5RE43eUtFbzdtVF9NaXlVZHlHSUVpZjZPZHdnMjZaeGUtOUlncEp4OFpmOW8zUEloOWgzOF9tMlZ2YlhPNWdBOFlFUHV4RXhnR0psYUJJSU8wbnBPbXNmUHFQQ0pQZVc0anc?oc=5",
       "featured": false,
       "draft": true
     }

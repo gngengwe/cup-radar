@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-28T13:46:08.105Z",
+  "lastUpdated": "2026-06-28T16:10:52.927Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1839,7 +1839,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 284,
+      "chapterCount": 286,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4112,6 +4112,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1k0Vk9QeU04N3psMjlyY21PWjlJcHZzRkxCUmtCNHZjenJSdU02WWpQUXZXV1c5aERBQU0tS24zYUs5NTJ1RHdoVGNNNGJoV191MTc5WFhoVVRHb0FrbkZYT3lsLUpzcmN1M3RyMHNCc2tGZTFYbWFXbmlsXzZQWExNTHY0UWp2Y2Z0NHdxWFcwMnBQVmhnOS01QlRUMlM5SGg4TjROcHc0NkFFMnJZZ1E3Z0t5ZnZW?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782663051973",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 knockout schedule: How to watch the round of 32 in the U.S. - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTlrZjU5V3FFd1hCYlpfYU9RckxRd3ByZzBNcnJIZVJ5ZVR4UVZHOUV2NFo5cUFzcnVTYXRycWZmMnlVNHVMN0NVNWdiNVN2dkNrbWV1a1FPbEo0SE1wcXFWUUpQYkZacnkzN1l0UEFtNUx4YXNTaVdmNGFzVVlGRlg5dnI1dFJZX0NTQWlKWHdURUhMQk8zNW5LYmN6U0Js?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782663051974",
+          "date": "2026-06-28",
+          "title": "FIFA World Cup 2026 Power Rankings: Cristiano Ronaldo, Portugal fail to convince; USMNT closing in on top 10 - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGszWnJhbF9WSlJXMlRFbDA0ckR5VWl2RGNLLVZZX0NlZDN6MjViRWFoeW1fWEx4M0xwYllLb2xGNDkybVp5UmNLOXdySXE0WDBCU0VLbkhoSThGYjdORUN1OVg5dHhFSFBqaVAwLU9VRFl3QUh1TDloNHUzTElVX0h6U0htTXFNU1JGRXR5ZElsanZ5emJFZkxuc0Q4TGExdmxmWC1CQnA0dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4130,7 +4146,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 266,
+      "chapterCount": 270,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6259,6 +6275,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNQjY5NVEzR05XMXdZWDNmT0pRQ0FFT0t4MUFPWUdtR3puRXVpZlp1a2xkOU91eVBVWUR3SHo2aEhKVkRRSUVMVEJjV283aHR2aGhVV1I4VVdmNjRyd3NQYUhVamdEb2FaMlBNaTRDa3lRenlxaEFtd1I0TTVfVmlIUjZ1SUU1MkRDdGxuOEhZcFJJckR2dTBJS0Z5SnVJRHVyTVB1RzVSX0NRNXJ5WDB2UWx1Q0V6T2tFRkFoTmFscDQ4QlFWcGw5N25rb0k1MzlqYWpCRWpZOG1oU0JCbURkX1BrV1hrcFNickdFVmVTUFh0Q3RUdi1seEQzMXpaNVBoWDYybVRPTWVrM2NnREVJOGVtSzl3ODh6b3FzdDdfWEYzR2lHUFBJY1NIUGUzWENTS19Pb0tBZmh0RXZtcFJrVE9HR0NhQ0ttQWpmS2lCSnA1Z1dJNTlWeGdQUdIB4AJBVV95cUxPclpaWU9YamZQRU5xQThNRmtrYlRkQnRJZ3pxQ3lOZm1NbDhQdWtEYlgxNXh6aGVOYkZNUmdBM0o4TDlOUlVvdFNINXlWR08tNGhDZU1FSDdEQ0FQSFhpcmxjZlFsbFdNN2RYbVBOM0MwSFdfNXN5WW1CMVNhQmdQR3dqNHNFX2NrWTBjZGVodHRTOGljclpDWTE2cDJ3N1huNk0wNXhleFBaR2ZZUmp3dkdKNzZkQ1ZWWHcwb2pBNVhsTzZEdC04bmpUdlU0cjY5U2N6THliemFSMzI3VDk4Y1ZQZmVieTZ3clRKNkUzbVhwSDJoeF9EMWRTOWd5V0JETk9GQ08yMXg2TEc4SlcyeGNBV3VSelQ3aE9OalVrQnctRXJnQkN5Rml1T3EwY0F1ZE9iLXpvSWF6RkpzMlB3UjFJbFUzVEN5LW15MWxwaFE1RnA2c0QtaHA1U1BQVUdo?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782663052467",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782663052467",
+          "date": "2026-06-28",
+          "title": "Are England’s key players finding form? Re-ranking the 48 World Cup teams after day 17 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782663052467",
+          "date": "2026-06-28",
+          "title": "Round of 32 predictions: Experts pick who will advance in World Cup bracket - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNGV0OVJVdy1ZVURreFViWTJsc2FPZmk4UEJlN2pRXzlfek5zb1JmWFlmeTB4ZmJDYUl6ME1QNndxY3FNRFFReUY4NnFycktROGpYd015aUdLQkFVZ0VZOC1OWFItcEVrSU4xbXNLeU5LYkhsY1RUQXBDVHNlNzlMdW9YNWQ1OGVpSURyRXpyQWw2OGNpWlY1QVJSUmFQN1VnZWNyUmNkOWxtTkxIVVhvSFFHYzl6NDhycGlpQ3RQdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782663052467",
+          "date": "2026-06-28",
+          "title": "Brazil vs. Japan at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFQyYjh6UXBGYUJjVGJBWUk5N0hkbGtoTVgxNU1GX1VpZ293SUR2VHBvUm41d0V5dlBUNDBsendVQ3RKTEEtZkpzSlpDMTRkZHM1NXRXMDVUUjdDWFdmb1FDbzN5bjdZemIyWXc0ZWJmXzdmVWRpNGhnbHR1M2c5WVdHUHVNNkpsV2c3OHpqSFJPcGFQYjAyWGdTTEwxNVN0Tk1VeU9BZm45R0k5TVRQeGIwM1ZxRk9qMTZDc2owMmFBOGhIVGpVeVoxQ2hGWk1wZ0p4UnY1SlJWYjhNMVh0eQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6424,7 +6472,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 308,
+      "chapterCount": 311,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -8888,6 +8936,30 @@
           "title": "World Cup 2026: Most controversial VAR officiating decisions in group stage - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUVUcHA2THBZUkNYay13SXNxdjdKWTFMOTlGUm5Jd1RIbC03YVRGczNCWFZPNW15a0V3cFlkT0hWT3lsR3lTeDVCaHRqZnRLOEhyZkxKR0VwSEJoZzNIUUZVc1Z0VVBmWURpR0lWMzhVM3hQdXlJVFJBQndSampWeGNYamU2R3ZXc01TNXgtODVpRzI5M0ticjlOUjZXSHE2blVUZnZ6cWRXbXpkN1ctZ1hhRUxqUUl60gG-AUFVX3lxTE5DYWNsOXc1aUhfRE9TM1VpbnR3R0hMcFRjSEZBZGlaLWlPZi0yTlFUT21JdnNnQ2pBakZ3MHZldU9VN1FQaGxpUjJzanJGNzNMRkM2d1JuVVpzbTk0Zm1KRnZmSzRyNWsyZERoREd3VVFTY2JmejctM3U0aGw3ZlQtM2Fkd3dGZU0wYUdxN2V1cURUbTM0ekVkMk9mSWE2aDFkQ1lKWlJ2UGp2RENPdHFneVpyR25BaVc5ZFBkWlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782663052927",
+          "date": "2026-06-28",
+          "title": "Are England’s key players finding form? Re-ranking the 48 World Cup teams after day 17 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782663052927",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782663052927",
+          "date": "2026-06-28",
+          "title": "Supercomputer Predicts 2026 World Cup Winner After Group Stage Concludes - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2xUYldoRElobzBZeWJCRjljV3lieWVuWjJOOGRzS3B6enAyYnhnX3VjS0t1ejJJdWp3ZVVPNHZUMTVPNnIzMFF1ellmWlNMYjFaZzJrcGtoT3M1LVZUQV9CcDM5b0VGbHJKMlFDVXFPODhWaHZQSVhmcU1nVC0zRTJ1a0VjTFhHU1puNWFYdGtQN3F0V1prUGFWcEZMNW8?oc=5",
           "draft": true
         }
       ]
