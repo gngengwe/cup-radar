@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-29T11:00:09.780Z",
+  "lastUpdated": "2026-06-29T15:47:23.095Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1879,7 +1879,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 296,
+      "chapterCount": 300,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4248,6 +4248,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORENFQUtVN0Rfamo5QjFTMFJ0Ym1NWTRobEdLNU5KUk1tZEtWMFkwdVg3TGhXU3RZMG4ybXg5VVFnMXlZVGRJOFpGcTZnVFR5NExDUFFKeHItaVdTeU0wVkUzREZQR2h4b29IdWdpdFM4SE9zWTlsa25JSTJqTlZPdXpFbExTX181R21oOWRKZUs0eXpSZXFxbklPU0FBZUxT?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782748041871",
+          "date": "2026-06-29",
+          "title": "The 10 best penalty stoppers at the 2026 World Cup (and why USMNT should beware) - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQl96cVIwY3NtTVdOY1hoQWxCQUd3cXltbjZqVG9NTGItZEpLcVBnZ2hEQ1lLMkgzZHFZbkhYQzAzdFN5N3dMTHNlSmE1TTJYQW5NWm5QY25lbEZzS0pSRFpVZ1VpTzJTZnBCV1dleXRsQWhneGxoTnlsbkg4SUJUM3lzWWdkM0xrQmJNM1puUU1KVVhrMTFFMnpremo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782748041871",
+          "date": "2026-06-29",
+          "title": "'Boring' Bay Area confounds World Cup doubters - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWdOMExtZVpYbzBBUDE0WmFILV9zNGh4V1lOTEhOS2ZSWWUwNHZMUUhuYnlnd3JBeUZRNFpQWktGMFY4N2FRSUk4UGo0WjB3SzZVYVNaZm1lM0U1NC1OMWlTVVVOWVM5Y3Qxa2ZCYWRwUnZqUmxTekt0V0lRVnJ5UWhSOVdMcW5RNUljZFB4TzdXS3p1YXZaeDRHRy05Ui03UWt2XzhDc01TRlo5NjRNNzFvYVhNQWljcGRmekE4M2ZpWFJ5cWsySXZXeVBYcFJ4T3NqR2VFcV94V1I2c1Rj?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782748041871",
+          "date": "2026-06-29",
+          "title": "FIFA World Cup: Live updates, TV schedule, results and highlights - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0pXaWd4djlnUXRFVGVDaUdRcnNKN0t6c3F4UHk0c182cWRwWU5RNTNIS1BIdkZXdGVEckl3ZGFnNDBUd1VKNDA0VDZ6MWtKaHhIWFI1WWdELWhVR0xtOUZNRUVRUHdqS3ZNZGxic0MwRTI0SWcyVXdaMnBRSjRKODRMczA4VURhQVFlQjZHYlRXRkxhR0lxNE9IdHlHU2ZzanhOVkpxSERHMWFLdjdZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782748041871",
+          "date": "2026-06-29",
+          "title": "Landon Donovan believes the USA can win the World Cup. They just need a lot of good breaks - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZcEFiOUQ4b2ZtRC0wc0hQZmVOS29Gbkw2LVQ2OGo5aTZ1R2szR1U2emVtbUNXdk9GdUVmQzlFZWFLUVVLS1JuUHRsZTktamJpZ3I3OVBCbTVUQWNvTGZyeS1yZEVwa1JIeEpmWW1ocEdKUUE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4266,7 +4298,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 283,
+      "chapterCount": 288,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6531,6 +6563,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPXzhDSTJDbWtMaUVMZnlZcFg0bFg1NWJqb0dlcUdVTlNmTl9iZzRiYUFXdW42Z1dzWkkzUzVQSXlzbzRSRTZibHFxbEd2X1pNVEJVenRsUDJORU9lYTE0U3BwQXk4YTY3UmxUQ2xSbTRKX2pFS3NSbVBrbVlMSlFXVmo0aExSVFJ4VnNYTjlWSHJCanU1QmhGeklrMlB5NUVEZVlUU0ZxRDh1bGpYUVZHRDBYdGk5TVluOU1oMW5QV2hZWDlodzJjbUtuMDZWRkRrX21Ob1gwaGNKZ9IB2gFBVV95cUxQOWxPVjR3QUVTZ2dMVldPRllxTmtqNTBLNHNFMk1HX19USy1FOXBJUTUxbC05bS1qTUdWWWtZcUhIWlF1UENJeDNIUmdlOUw5d0xXTU9PWlRKM2otSkhHV0hxeGZkVldSTmFnbVRqTHlheG5uSV90ekVGcjN0cTlueWVPTEtWQmlINmpSUXB6c3FZQV80VUxQeXZ4VmJTbm42WEw3OVNTOTlJekhRRkJKOUZwbUpZTzdxTXNlM2pPcHNtczVBazBQeEU4TlhMVTFlV0RUWTB0VXM2QQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782748042476",
+          "date": "2026-06-29",
+          "title": "Brazil v Japan: World Cup 2026 last 32 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJNZnNCczZvN2daZ3ZqX2x3VGo1b3RpOTZjbzR3YkhzM25QdEo0cGYxdmxrZHpFMERjZF9JdkhTMFlSSGM4TEJmRk85c1FkU2YtalZZV1hhTDY5bTM3R3N2WnQzRVpwU05taDhZMXRFSFN5V2xaT0FQSjZ3ZVNPZnBIdFJsMHhtekU5c1hCUktOVEdEenlGSUozUFA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782748042477",
+          "date": "2026-06-29",
+          "title": "The first Round of 32 in World Cup history is here. There’s a real debate over whether it will be good for the tournament - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QX2Fxb3BoNFA3UUlUbUtvU1RMZC1fMWlBZDlFNjhXcVBQTFV1R2pxRnlrNUQ2dkxtdWxJSU13U3NYYjlqZUdPYXdMc09Yc2VkZjVWbzB6S2NzdEpMS2Rvb1N2MXBrWkRyZUVPQWxnN0M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782748042477",
+          "date": "2026-06-29",
+          "title": "World Cup 2026: How the new Brazil is taking shape and why Matheus Cunha is key - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JTVNiRjctWHhDZDlnRERMX1FFOE5PUmpSb1hVOXhXMWpaYU4tTGx3eTB5aFRGYUZweVU4TUtTVm85X0VuYmJtWlJPemhEcHlaRlV5UmttWEx0OGlQaFh6ZEFYVm5yenM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782748042477",
+          "date": "2026-06-29",
+          "title": "From The Sports Desk: Jesse Marsch calls Canada ‘heroes’ after historic World Cup knockout victory - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGttY2lzRlVtZEZYU3FCQ1lpTUhLdkc3dUN5OTBaa0w2YlRUQ3BvVV9KYVI2UFdaYlI5UDNGU2pWWGRibXA2ejhTU3JMUzc5MG5ncWU3cTlzTUZzOEFVRzdHdGM0MF9lekVjc09oV0ZZamZQMGVEYzExQUFtM1cyVnhoNDRZNmluaER2d3pHZUNaXzV0LVNwRG9sM3VmbjdKQllIV1I1d1pQTTE0S2NKS2lLZ1U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782748042477",
+          "date": "2026-06-28",
+          "title": "Paraguay coach says after beating Brazil and Argentina, why not Germany? - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWg1MzFpSkN2dE9lUHVseEZlMkdzdzJjRi1vWkluV3RmR1dRM2pmaFlnY1lWOXFnTWRldE81T2k4UG54U2hmS0tKVHd0UGZya3htdE9sdmt3eDkzVTE0Q1Fmb2ZmendUNS1fay13OVBGWkhPT0F1ZU5ET0VvUmU2M3FvSFdvZWwzYzg2ZnpzTFBuazJza295NF9PX053Mm4tdE9peGwtWEt0SVZfZmRUbE95dFlHWms?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6696,7 +6768,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 320,
+      "chapterCount": 323,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -9256,6 +9328,30 @@
           "title": "How link between Bellingham and Kane has unlocked England’s stodgy attack - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbmVweTBoNXpkTThDSUV5WnhRZ1VxYjVvSTFkNEJCMHh3bE03bjBEd1JvS19nYXBmdEd0OWRBaFAyTFVxc1NOX1g1OW1lQmdWWlpBNDNfSEpXWjNpQzA1ak1jYkhzZl9nNFVteElnc0cwUzl1QTRKVTB2MURPSi1BbVo3cTBzUDg2NERSQUtGRTRvanhKN0tfQXJxcl9Zc2hqcHBwaVkzLWU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782748043095",
+          "date": "2026-06-29",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Netherlands, More - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWpsMVZaV3dPamV1ZlQ4LW1COVgzbDVoaEk0YjBpeFd2SnFpZzN2S1R6WkItT05VX3IyVnA5S2dPVE9aSzREekxSTm9JS2RVQ3VQcFA0MzEwS0p3OXJxMFBwWnRja2xKejlqMmZrSVJXQTlEYlNCLUtENkpSbEhjTWxYWUhQbFVNWEh5dlpycGp4OHhIVU1LcGVlOHRrR3doM1RaaC1sMEozdEU5X1dTei1QVE45Q2dsOEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782748043095",
+          "date": "2026-06-29",
+          "title": "Empty seats fear for England vs Congo as thousands of tickets on sale - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1Q1bWNwMXpPVFZZclRrQko4THFzRDNTdDNPVzZRR3RCWTRDVndRZXVxdERJUGg4RFJGZXRTOVJPRFBvVUlPYW50Q0tLRGtBMUI5MzVDcGYxbVROQVBfem9kUU1iS3N5SzJ6ZWpxM1dUY1poU3NGUldtR3pualBDZUhlOUJOWUxYOXFaU0NsZWxXOW5neU10LXBfMWhWMWZIazZZU0F6ako?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782748043095",
+          "date": "2026-06-29",
+          "title": "England vs Congo DR at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeC16TVNyMzJfLUs0dE96WFFHQ1ZQVFJtSGFiVVp2a1ZtZkVWWllhQk5pV1d0VmFBcHRuV0lXV1RxRnRnU1pjcXJjU0NQYnJ5aG5SN0pmN2ppa2VQSlRxREV6dnZ5QkZLVzlJMGFCeHFYT1pPR2NUYUdMWi1uU3g0T0RsbEpyX2g1WG1iRFJyQnJ6T3lIMjctUnpPbTdVOGcxb1c0NkIwbERqYnpwWmhIN2ZpUmV1c284dHpGZU9RNHYzMU45Zmt6Z0hhMkFCTG9HNmdBRUc4aTRua2dGT3pIVWJ5amM1b3owQ2c?oc=5",
           "draft": true
         }
       ]
