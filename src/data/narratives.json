@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-29T15:47:23.095Z",
+  "lastUpdated": "2026-06-29T19:57:55.171Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 118,
+      "chapterCount": 119,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -961,6 +961,14 @@
           "title": "Lionel Messi to start on bench for Argentina group finale - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzVEV0UzX0l4TUpTODI5ZUhCUVRHQ2dIT2pVSEdmNENzd1BjelhmcFJ2a05aLUFlYWVSTGEtcXdpU2RWRkJTX0pLX2JUOU5kTENxZnp2VnlZNXZwNmZrUXV3M05NeWxNMm1CcmE4dUdIOWttSjBGLXpwanliWXptcm9jN25qa3lLR2hTRi1XZGh6LXN6c21KLU1WN2Jsd21MeGZNWVVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782763072951",
+          "date": "2026-06-28",
+          "title": "Why Lionel Messi Is Not Playing For Argentina In FIFA World Cup 2026 Clash Against Jordan - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQangzeW95ZzNReVA1X3hzWmxkT2Q3YWhCWXlDNVh6TGw1eXJFSmw5ajNiaVVnVGRQbm9Qb0lBUTR3NDVPTUNQUGFGUml4WmYydG42dkR4eVdVZUpYWVVjbDdPZUlBNTJxLTRIdG5Sc0k4VTY4c0Q2WUJZZ3dZbVNfRnNHTnA2WTJVWS1xU1RSZmNlYmNtanVISWR3YURXU2o4SUR5R3R1QkRiMmZMTV9aX25pN2xuM1RNOXI2TFhscXhEcEFLME1ZcVBrM0xBNW9lbnFYRE5lcVVmUQ?oc=5",
           "draft": true
         }
       ]
@@ -4298,7 +4306,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 288,
+      "chapterCount": 291,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6603,6 +6611,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWg1MzFpSkN2dE9lUHVseEZlMkdzdzJjRi1vWkluV3RmR1dRM2pmaFlnY1lWOXFnTWRldE81T2k4UG54U2hmS0tKVHd0UGZya3htdE9sdmt3eDkzVTE0Q1Fmb2ZmendUNS1fay13OVBGWkhPT0F1ZU5ET0VvUmU2M3FvSFdvZWwzYzg2ZnpzTFBuazJza295NF9PX053Mm4tdE9peGwtWEt0SVZfZmRUbE95dFlHWms?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782763074743",
+          "date": "2026-06-29",
+          "title": "Brazil vs. Japan score: 2026 FIFA World Cup live updates as Vinicius Junior's knockout round begins - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2NHcmNQSUgwWXpXWmUwQjdneFFLbzZPZXRWbWp3RjBfNWVXXzVtUVhna0lIWktvTml0WHh0YWZSYjZjTGpRRmxVUS16T05fbXNhOGRDaWdqOWNMZUZ1MHV6ZU5fdzNxTWpad0xJTmhmU0gzWXdYYmlRUGNTMVIySlNJUGFONlhkQnZ2QUZZV3ozX0Z2X1BkZVItbGd4ZWpQeWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782763074743",
+          "date": "2026-06-29",
+          "title": "Why Is Raphinha Not Playing Today for Brazil vs. Japan In the Round of 32 of the World Cup? - Athlon Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2Zja1VmeldYN19QTUp6aUZxOUlwSmVGamF3aWNhdGFZY3c3UTYydDk2dXIyRDJCaVV6NDlHY1k2bTNUcXNHb0Z6NWdyQVhqUkxYS2NKZTk4TGplbWhjZ2VhTlFJT05iMmpfcER1Y1Ffc0FYUmFlUU5VR0xTcy1HUURwSFVaVnpneC1qaEFuWjNNQVY0TXFZajI4dnU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782763074743",
+          "date": "2026-06-29",
+          "title": "Brazil stuns Japan, how to buy Brazil round of 16 World Cup tickets - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXR5aU9PbUp6YThPUzEwTmRHLVY1QXRHVWQ1ODJVTGZJdnpfaGswWVhGd2J0U3dCUjYyMm9HWG0waHpOZmIwWlhuWlByUjNVV1FzQ0ZhZEdnLW9OdDRDRTd5WG1pOWFnQmpyd1VzZ0xBUmR1U1BabktILUhZRnBGaXk0dU83aThvSDJPZmxtcDlTRFZ4LWl4T2FQWnNlX2l5Z0lBUW14MS16WUhnNGJfN3JDbHFDZlNqVlZjbnRTQkwwcUdDeDF3RlVyQmphYm9DQmE1cWlB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6768,7 +6800,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 323,
+      "chapterCount": 324,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -9352,6 +9384,14 @@
           "title": "England vs Congo DR at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeC16TVNyMzJfLUs0dE96WFFHQ1ZQVFJtSGFiVVp2a1ZtZkVWWllhQk5pV1d0VmFBcHRuV0lXV1RxRnRnU1pjcXJjU0NQYnJ5aG5SN0pmN2ppa2VQSlRxREV6dnZ5QkZLVzlJMGFCeHFYT1pPR2NUYUdMWi1uU3g0T0RsbEpyX2g1WG1iRFJyQnJ6T3lIMjctUnpPbTdVOGcxb1c0NkIwbERqYnpwWmhIN2ZpUmV1c284dHpGZU9RNHYzMU45Zmt6Z0hhMkFCTG9HNmdBRUc4aTRua2dGT3pIVWJ5amM1b3owQ2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782763075171",
+          "date": "2026-06-29",
+          "title": "England have disrespected the full-back position - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcjBJcUpySUg0cWFNRkt5Sk5sbzVnZmEyZnJUWlhaVl84MkdnM0RfVkxHTXRyLS15WTltZ25XeTVvOEVYaDlLVzNXTzVRWXduU3JoZXdmVGFIclJHWVJYVzRDUEYyMEkwZEJNTjVvV1VCRWFWYzJCVVdfcGtTY0hhSHp4cjdOVXZYbk5xVV9HWGNfM1I3eEplNXA0N3VvcXB0cUo3ak93NUFFbUFkYnRCZ2kxUTNIUGtUcFBSVko5TWE4cFl3OFFsZGZUTkNOVElXR3FsXzFwNmY1cnZtMXZ1Z3hIOVM2UzFUMF9oc0xSd3pYd1JFMVRHVG03YUpfOERrZTk1YzNyX194cXc?oc=5",
           "draft": true
         }
       ]
