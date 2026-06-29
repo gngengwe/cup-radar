@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-29T19:57:55.171Z",
+  "lastUpdated": "2026-06-29T22:08:16.592Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -988,7 +988,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 110,
+      "chapterCount": 114,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -1868,6 +1868,38 @@
           "title": "FIFA World Cup 2026: Ousmane Dembélé scores first-half hat-trick as France beat Norway 4-1 - as it happened! - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHlPTWczYmpxclhrNmtsWHZKWE1FMmhIaG0tb0tkNlUzNS1iTkxTemYwbzdxUU1xMW42Q3FHR3otWGtXREdraVp4ckNMak9CQjNxVDhDRGNpYmpvVS16eDlyY1VmMmU2VmJnOWgxT3lnNlhHNUxzODZGRjdpRDA2YTBkZENYeG41WDRQQmU4ZWFUVlZmVGJEZElIVHl3UmVLdi1GcG9kU0lhMGs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782770895094",
+          "date": "2026-06-29",
+          "title": "Which World Cup front-runner needs its superstar more? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeEFLUHJuYmYtaEgwS1RHN3JMYzRpTlc5YjkyelVYYXN1dlhVRTVqNFlUQlZtbjE1S01yaFhVcGRJMXkzbUN1UTNtRzBRNnZ0ekYycmxlaURnQXVEUDRJbk40RFNoU2doR3dwMTVyMjFma3NqSEpRWFl1NG9mQWhBQmlwVzNCak5qUTJsMzEtWHlkUzFvbVpYQVZLMkV0TFN5a3M5LTN0VzNPaVpfa1NQZGoyZnlTRkpyNFQ1aHFSQ3VLNFlMdG1FTmFTQTM3VF92UzJZbzNGaVBRUzVINmltckJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782770895094",
+          "date": "2026-06-28",
+          "title": "World Cup goal leaders: Lionel Messi adds to Golden Boot lead with late goal in group stage - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTZrV2ZlV0x5dGZNM3pDcmRhZ0NNOVcxcFN2X0FEN0hDR2JwN1VHRTdUM1FtUVNGNnZhQTdOZG1KMjFEeUU5S0lXZzA0TGJNR1Ria1Z5OUVhUWJLUHNTdnZYTDR4eW5qMmY2dVVSaFhfWUs5Q3VNeVJEMXFxWTNYX0hqWFB3NjFWN3NtOEdjMzRqLV83eS1xYU5Cb280amE3TW4xT19qUUJKX3djSDZvRl9hSVhBZk5XZ215akhEX3lXVGJPNUZ4alFJQ2VCdHc0bkxaT2Z4QnJYTDhTaVR3WV9CdFRLX054WnBodksyQ2xnZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782770895094",
+          "date": "2026-06-28",
+          "title": "Ranking the top 50 players at the 2026 World Cup: Who were the winners and losers from the group stage? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1QtRE1WMUVxbE5pbG9OdlRDRDlUMFl5a3JjOTNGTTdkTm56SnZPMG5wOEM4SU1TVDlGUDJad29hZlVfMGRZT1pEWXlJS1ZoTEd5cWRlaU1Gak11eVNVVkg1NGplc3ItOVVZVGVINHR3RzBTbzU5TzF6ZkdIY2RRTWZKcnp3NFBzSEVGdVgwSFd0dDFaWkN6RFIwN004bktlelFGMjZINEFVVlN6VUJUZFd2dmRfZGNBb0lNWHhaUzB6VVAwNXR2RGI3N1hOM01HcXVHRkRYRXlNS1dPVm5DaEg4MnB5WXItV3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782770895094",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places? - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE9rU05Db3pkM29iNzV0RXlLcFA3RFJtRVpiWHliTEZhQ2dTMkRnZFpaQkJkOGttX0tGT250ZDBjY2dPZVpzekpMMHdJaVNsRlVySk9nWnBzaGJCODFnX3JlSDBXVWJkRElYRzhYbzFCS0Q3ZWEzbERORVQ5a1VCX2N4ZjdyRXV2aGh4NFh4Z3dJSE5Ra3pwMWFFcmFVQmFsT2F3bHZOTDUySFFPa1VYRm93?oc=5",
           "draft": true
         }
       ]
@@ -4306,7 +4338,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 291,
+      "chapterCount": 295,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6635,6 +6667,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXR5aU9PbUp6YThPUzEwTmRHLVY1QXRHVWQ1ODJVTGZJdnpfaGswWVhGd2J0U3dCUjYyMm9HWG0waHpOZmIwWlhuWlByUjNVV1FzQ0ZhZEdnLW9OdDRDRTd5WG1pOWFnQmpyd1VzZ0xBUmR1U1BabktILUhZRnBGaXk0dU83aThvSDJPZmxtcDlTRFZ4LWl4T2FQWnNlX2l5Z0lBUW14MS16WUhnNGJfN3JDbHFDZlNqVlZjbnRTQkwwcUdDeDF3RlVyQmphYm9DQmE1cWlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782770896165",
+          "date": "2026-06-29",
+          "title": "Brazil vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round of 32 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZEhEd25qdE9ZVklmSm1tSzU5YlVfTTZUS3h5ckNRZkFjbmM3U0ZZbVkxR0RaNUlKSU9sTE0temxUaVpxblM5MXJCcUZfcWpkVzh6T3N3Q2J5LVJuNXptdGdB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782770896165",
+          "date": "2026-06-29",
+          "title": "Paraguay SHOCKS Germany 😱 Julio Enciso Converts Header To Take Lead vs Germany - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hMUpieHBwT1dSbDZvZEo4QlEtWWdpN3ZzU1dFY1ZETmNrTm5UZl9obGNfMTVVUFFjdFlybkcxOUdLOG1wcmhaVFNsWTE4YmU5Q3IyYm5ldnZtWDZKTmJzcWx3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782770896165",
+          "date": "2026-06-29",
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGtyRE5BV29HUkxQUno3Nl9YM0lkNGVKbUJDRDNsWjJESzRpeFB3aTJ0aXRYMVl2WUhXdG5mTlpwSUdkanJVcUFqNlVpOUJDQ0dTdzNzeWFhQmpaNERNM2J3ZDZmdVhKNzBTU1RXTkJsVE94UjFjOEZJeWNKcHUxcXNiOFRfd1B5cldnWjZldGVzSERKdXA4SnFZMkQ4VHJJemc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782770896165",
+          "date": "2026-06-29",
+          "title": "World Cup 2026 live updates: Paraguay leads Germany 1-0, Brazil defeats Japan - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnY4MEthZUEybVoxeDFuMUxiNEY1azFWRU84dl9HZ09mS3B3MzBUQjhQUDQza1BKMGZZZVI3cTdLX1lhYWFhNl9tRTExUlJhbHM3REp3NXJBT3dxZ19IZTJLTEJvM0ctaXVub2RNU3RDVjdZNndPSVg4X21jYmhkeDlUTTVuQjlETzlEdzB3MGs4ckUyU1VoOWdzdjNHWmM0cU9fX09yNW0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6800,7 +6864,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 324,
+      "chapterCount": 326,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -9392,6 +9456,22 @@
           "title": "England have disrespected the full-back position - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcjBJcUpySUg0cWFNRkt5Sk5sbzVnZmEyZnJUWlhaVl84MkdnM0RfVkxHTXRyLS15WTltZ25XeTVvOEVYaDlLVzNXTzVRWXduU3JoZXdmVGFIclJHWVJYVzRDUEYyMEkwZEJNTjVvV1VCRWFWYzJCVVdfcGtTY0hhSHp4cjdOVXZYbk5xVV9HWGNfM1I3eEplNXA0N3VvcXB0cUo3ak93NUFFbUFkYnRCZ2kxUTNIUGtUcFBSVko5TWE4cFl3OFFsZGZUTkNOVElXR3FsXzFwNmY1cnZtMXZ1Z3hIOVM2UzFUMF9oc0xSd3pYd1JFMVRHVG03YUpfOERrZTk1YzNyX194cXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782770896592",
+          "date": "2026-06-29",
+          "title": "Noni Madueke: England taking penalty practice 'extremely seriously' ahead of Congo DR knockout clash - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUp6V3R2NGg0WmIzUUNEUVVPMEtDYmYxLWdHbF9YQ2puVnh1ZGxPYXJUTngxSjJibUJrRFZsbThBSGRKdXl3QXl3Y0prd3F3UU9rQVBObVBtcjlpR1plNC1OekdQcjRmZkdma3dhUk01V01MTWVJWktJM1FmQjh4ZnNkbEtYd3Y5em5hWXlUU1hoOEllQVVKSnpfZTZ5WEVRQ1lodExodUpnZEs3RXJUYVVRcFdvVFIyeDlLRFVNNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782770896592",
+          "date": "2026-06-29",
+          "title": "Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDFMNV9xd2l3eHJCZy1tOXpTOXNCSmJpYUUxN3ZnNkxoQnk2Uy14NmR6U0lOLU5Wdk5aaFc2UkFycDNwclBLQnpEQVhHNndOdTViYlM4MnROQk51ajVxOFc3Rk5OblVqRDFTUjM0NjBHQVQ5MFlqb0h3MEU3YjRocWVTaXZwLW5QNm1zMXBnbjFObmRTWXpybkpYUFNSSXVpM3BGdk1EODdPTGl6TlFz?oc=5",
           "draft": true
         }
       ]
