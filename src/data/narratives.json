@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-28T22:02:15.748Z",
+  "lastUpdated": "2026-06-29T03:56:21.313Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 116,
+      "chapterCount": 117,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -946,6 +946,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUC03d19zUjNVaExxX29NOFVrSTQ0YVZSb21VcFNDd0tqNWxwNmFYaDZRNDBTczFtLUVQUWFrZjF6RV9jaS1YVm5zTGFFeXlleHdNRG9nY28xUUFFOGdQXzhEblQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1782705379019",
+          "date": "2026-06-28",
+          "title": "World Cup goal leaders: Lionel Messi adds to Golden Boot lead with late goal in group stage - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTZrV2ZlV0x5dGZNM3pDcmRhZ0NNOVcxcFN2X0FEN0hDR2JwN1VHRTdUM1FtUVNGNnZhQTdOZG1KMjFEeUU5S0lXZzA0TGJNR1Ria1Z5OUVhUWJLUHNTdnZYTDR4eW5qMmY2dVVSaFhfWUs5Q3VNeVJEMXFxWTNYX0hqWFB3NjFWN3NtOEdjMzRqLV83eS1xYU5Cb280amE3TW4xT19qUUJKX3djSDZvRl9hSVhBZk5XZ215akhEX3lXVGJPNUZ4alFJQ2VCdHc0bkxaT2Z4QnJYTDhTaVR3WV9CdFRLX054WnBodksyQ2xnZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1855,7 +1863,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 291,
+      "chapterCount": 294,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4184,6 +4192,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW45cy1zbjZWQU1QdWhub25Vek5Mek1fZzcwVHZ0dFRUVmc5WTNpLTNldW02Vnk2N2hfeERNYlBZVW9KcE53RzdFZC1VaEsweElUdlpET0QyTkdBVVVUWGZFYXppTDVlSHN2bWYyRjVkYi04V0EzVW1sblJ5cXdZbTRad2RybmFZTFQ3S1NVRmFvcHd1dlgzd3FFOHY5dkdSTk43T3dIM1E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782705380160",
+          "date": "2026-06-28",
+          "title": "USA's Path To 2026 World Cup Final: Latest Projected Opponents For Round Of 16 And On - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXJtSkRWZDVFUGJpLWZEa21scE5aTVJ5MWl6c2Nmb0piZmpLZ0lySnotbXFzYU40ZjFwbVJGVUkwZHVSMkdaV0lhY2phWWY4T3VSOTVoWk02dnVhN0kzdjByUV94VGQ4Mkc5T21JZXp3MTBjWi1zSlUxR3JJWk8tVjQ5SU1wQTRSYzZzemF3b3JUbVkycHFIQzdpWkFsUmdWeDMyS2toNEhtUdIBqgFBVV95cUxOVGFSZlBBYl9LVl9Nc1hWUW9CTTFpdkpaeDc0RmhwVjdzajNZOTVCd3M4VEN1M2hua09YelYwcHZNV1FzY2lMc2MwUndqTkhUZWZVNHl1c2FLUkh2TEVscGZHRW1lbDdqSUVGejBMOVhHWGRZdUpZbEstMXA0alJXLVpOcXRVTUEwSURBQjVud3JtSUtBdU5kamRuUS1EbXRkVEVVdmNuaUR0Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782705380160",
+          "date": "2026-06-28",
+          "title": "Jesse Marsch 'Doesn't Care' If USA Joins Canada In World Cup Round of 16 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1FObDREb2NCZnNHTHhHdy1rMW1UU3FFY3pYZUJ5eEt2MWREemxUeGNxTWlUT3BsY0lNMUtmY3Iza09iaVhkUkU2VnhQN0d5M3NDd3J4VnJ4d2d3WXU0X0tPNWFFaXFpWHFIYmRyckhhWWFFU25IS2lsVFE1eU4ydGNqOEt0X3hTZHB3cG5wdEZDTnB1OFI5dnVSblA4NFE3WkZJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782705380160",
+          "date": "2026-06-28",
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4202,7 +4234,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 274,
+      "chapterCount": 278,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -6395,6 +6427,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXhadlZsb1BYcmhmeFBTbXZqS2FUOHFXMDN0MjN2WWVoZHdJdXZSZ0ExajJzblJBSm93SEZyMndUV1pNLVNjYVNvVHJxdmVpZWprYzFpSHN1Z2FOZ2t4RnZJTnNCYjJrMmNOUlI0cS1iS255MHVDSDBValpMekNyY3pVWG02TkRReUtVMzVfcktwQ2hxMGE2X0ZsLVRaUy10VG1FSlRBaG9SMlhoZ2R5aHN3MmVrYzlHY1E4RXA3d3dOQW45aXBsUEZQRUtVUEtPd2gzdFI4WQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782705380880",
+          "date": "2026-06-28",
+          "title": "Brazil vs. Japan odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 31-13 run - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnBUT0h2OEdrUmUwNGlIRGY3MjJhUHJOS2JPU1ltWk9PQzVYQjZ3VHV4cE1mVDFabllPc09qdTlEcmNka0NaRjdjZ3h1LXU3cWp2RXVZMzVyakNfalBQNmtTcUFzNHFVUTFLYm5fUnAyaEJnRFBTVHNacGU2QWJway1JRm1JVHB0clZkR0Jxd1kwQUdWaXpUYmpZamxqTTdvUXY0aw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782705380880",
+          "date": "2026-06-19",
+          "title": "Brazil vs. Haiti Highlights: Vinícius Dazzles In Win 3-0 For Brazil - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEtzZUlyZnF3N3E5S1FseUlPcmNwbTluWFdiZFZLNmk0MjZJcUVxemJrLWNnUjl1eFVMb2xEa1hUdVVRMXlPai0tLXhnSUtTTmxYREZ0TnFFZjdqaE9CVi1CUHFnUnBkOFRVWTU5NDhMZGJLaWU0Y1B0RUZsN2s1QkVqTVpxV3ZyZkJ1c0tLd0dQYjdjaVNlbExfeWdROVhnY1pkdU1lT2g?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782705380880",
+          "date": "2026-06-29",
+          "title": "Lionel Messi Achieves Stunning FIFA World Cup Record After Group Stage, Overtakes Brazil Icon - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlA5RlZEcGY2V2pCU2FMS2ZvY2NocHZucVoxdks1ZVFOUmViTjI0UndJelItbnpxTDEzYzlpOEZDTVNodk1ZeWdxM3Z4REVGdTRNMWVaRm50U1pZTHVBUGY4ZUlxMTQ1X0YwOWoza3RHOWFJcjhUT1paTTZTZU9FejZFLVVob1BKaHUyWjhHVFI2NzhLNExmOGxlaGJsTHg2UTFMeXU2YTlwY3U2cWVyX0ZOOFdEbWZuN2JmenlYanYyTWV0blFvOFhtZjlSWk15VUpBWm1iY21meU55Ync?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782705380880",
+          "date": "2026-06-28",
+          "title": "Supercomputer Predicts 2026 World Cup Winner After Group Stage Concludes - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2xUYldoRElobzBZeWJCRjljV3lieWVuWjJOOGRzS3B6enAyYnhnX3VjS0t1ejJJdWp3ZVVPNHZUMTVPNnIzMFF1ellmWlNMYjFaZzJrcGtoT3M1LVZUQV9CcDM5b0VGbHJKMlFDVXFPODhWaHZQSVhmcU1nVC0zRTJ1a0VjTFhHU1puNWFYdGtQN3F0V1prUGFWcEZMNW8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6560,7 +6624,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 316,
+      "chapterCount": 317,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -9088,6 +9152,14 @@
           "title": "England face 24 hours of air travel if they reach World Cup final - The Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOXzIyN3dnajBSd2tKNE1teGNsNGh0UElLSEZpMXpRS0tPMXUwQ2tnQl9KR1l3REdHdlVfLXZxdnFYam5OQ195V0hLOTd0YlY0X3RmZ2E5TlZ5RU5mOUxINERiT2QwSnBrNG1qdGVOTUhBbzR1VnFNX2U4MDgyZGZ3WmtzUS04QjNUeWVBaVpTZzMxMXkyelFraUdfRS1uTE9GNkVCZGNOeTI2aTJFaE1vaVRB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782705381313",
+          "date": "2026-06-27",
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
           "draft": true
         }
       ]
