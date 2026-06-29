@@ -1557,7 +1557,29 @@
       "seattleMatch": false,
       "kcMatch": false,
       "notes": "",
-      "nyMatch": false
+      "nyMatch": false,
+      "goals": [
+        {
+          "minute": 4,
+          "team": "away",
+          "player": "Daichi Kamada"
+        },
+        {
+          "minute": 31,
+          "team": "away",
+          "player": "Ayase Ueda"
+        },
+        {
+          "minute": 69,
+          "team": "away",
+          "player": "Junya Ito"
+        },
+        {
+          "minute": 83,
+          "team": "away",
+          "player": "Ayase Ueda"
+        }
+      ]
     },
     {
       "id": "wc26-F3",
@@ -1801,7 +1823,31 @@
       "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": false,
-      "notes": ""
+      "notes": "",
+      "goals": [
+        {
+          "minute": 21,
+          "team": "home",
+          "player": "Romano Schmid"
+        },
+        {
+          "minute": 50,
+          "team": "away",
+          "player": "Ali Olwan"
+        },
+        {
+          "minute": 76,
+          "team": "home",
+          "player": "Yazan Al-Arab",
+          "note": "og"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Marko Arnautovic",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-J3",
@@ -2109,7 +2155,7 @@
       "homeCode": "MAR",
       "homeFlag": "🇲🇦",
       "awayTeam": "Haiti",
-      "awayCode": "HTI",
+      "awayCode": "HAI",
       "awayFlag": "🇭🇹",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -2121,7 +2167,40 @@
       "homeScore": 4,
       "awayScore": 2,
       "atlantaMatch": true,
-      "notes": "Morocco vs Haiti — Group C at Mercedes-Benz Stadium"
+      "notes": "Morocco vs Haiti — Group C at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 10,
+          "team": "away",
+          "player": "Yassine Bounou",
+          "note": "og"
+        },
+        {
+          "minute": 39,
+          "team": "home",
+          "player": "Achraf Hakimi"
+        },
+        {
+          "minute": 43,
+          "team": "away",
+          "player": "Wilson Isidor"
+        },
+        {
+          "minute": 45,
+          "team": "home",
+          "player": "Ismael Saibari"
+        },
+        {
+          "minute": 78,
+          "team": "home",
+          "player": "Soufiane Rahimi"
+        },
+        {
+          "minute": 89,
+          "team": "home",
+          "player": "Gessime Yassine"
+        }
+      ]
     },
     {
       "id": "wc26-atl-05",
@@ -3159,5 +3238,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-28T08:51:42.123Z"
+  "lastUpdated": "2026-06-29T21:56:39.985Z"
 }

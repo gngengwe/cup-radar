@@ -6,6 +6,7 @@ import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { fetchEspnScoreboard, matchEspnEventId } from '../../src/api/espnScoreboard.js';
 import { normalizeEspnSoccerSummary } from '../../src/utils/normalizeEspnSoccerSummary.js';
+import { matchKickoffISO } from '../../src/utils/time.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA = join(__dirname, '../../src/data');
@@ -38,10 +39,14 @@ export async function refreshGoals() {
   for (const match of missing) {
     const label = `${match.homeTeam} ${match.homeScore}–${match.awayScore} ${match.awayTeam} (${match.date})`;
     try {
-      let events = scoreboardByDate.get(match.date);
+      // ESPN's scoreboard buckets events by UTC calendar day, not the match's
+      // local date — a late local kickoff (e.g. 22:00 CT, 21:00 PT) can land
+      // on the next UTC day, so querying by match.date alone misses it.
+      const espnDateStr = matchKickoffISO(match).slice(0, 10);
+      let events = scoreboardByDate.get(espnDateStr);
       if (!events) {
-        events = await fetchEspnScoreboard(match.date);
-        scoreboardByDate.set(match.date, events);
+        events = await fetchEspnScoreboard(espnDateStr);
+        scoreboardByDate.set(espnDateStr, events);
       }
 
       const eventId = matchEspnEventId(events, match);
