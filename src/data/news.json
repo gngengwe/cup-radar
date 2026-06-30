@@ -1,7 +1,106 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-06-30T09:35:57.896Z",
+  "lastUpdated": "2026-06-30T14:18:37.187Z",
   "articles": [
+    {
+      "id": "news-auto-the-u-s-move-into-the-top-10-for-the-fir-2026-06-30",
+      "headline": "The U.S. move into the top 10 for the first time. Re-ranking the 48 World Cup teams after day 19 - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5\" target=\"_blank\"&gt;The U.S. move into",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-motorola-razr-fifa-world-cup-26-edition--2026-06-30",
+      "headline": "Motorola Razr FIFA World Cup 26 Edition Drops Again to a Record Low, With No Another Edition Until 2030 - Gizmodo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNazNyMV9ZeG85Z2dVTjQzWGd6VktoTXd0R215UkdzNzE4REN2YmRrQmwwdWJ4eUs1VTRQUi0wNnJ3SzA5dExrUTdHclcwWG9RdDZGVktwY0JycnNBZC1jOHFxRWZSNFFCZGlJNmUyUm9zYS1YS2xPcW9uQ293M0VvajJoa2FUWlpTa2lFOTVXREthTGlTZ25VMHloZWdERHl5cXZXWFV2VUR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNazNyMV9ZeG85Z2dVTjQzWGd6VktoTXd0R215UkdzNzE4REN2YmRrQmwwdWJ4eUs1VTRQUi0wNnJ3SzA5dExrUTdHclcwWG9RdDZGVktwY0JycnNBZC1jOHFxRWZSNFFCZGlJNmUyUm9zYS1YS2xPcW9uQ293M0VvajJoa2FUWlpTa2lFOTVXREthTGlTZ25VMHloZWdERHl5cXZXWFV2VURQQ294Rnl4UTY5OW5qbTIyY2Q0TFIwTXZfdFROVmR0clhoUEZYQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-bay-area-s-usmnt-world-cup-match-ticket--2026-06-30",
+      "headline": "Bay Area's USMNT World Cup match ticket prices take sharp drop - SFGATE",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaGxPSVFpOHQ0Q3U5V3M2eUtNRGJFc0FUSU9FaGRfZ1pVV1pRN1VVeC1jZm9NVGdfWUtGX0NETGVIQnYtMXN4WC05ZWlpSlFrRjZUeVNKdFRFbER6eEhjR0xZNE1EQXdLY1Rqanhxd2ttU19nRWJsci1mRXdFUWh1NGh3?oc=5\" target=\"_blank\"&gt;Bay Area's USMNT World Cu",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaGxPSVFpOHQ0Q3U5V3M2eUtNRGJFc0FUSU9FaGRfZ1pVV1pRN1VVeC1jZm9NVGdfWUtGX0NETGVIQnYtMXN4WC05ZWlpSlFrRjZUeVNKdFRFbER6eEhjR0xZNE1EQXdLY1Rqanhxd2ttU19nRWJsci1mRXdFUWh1NGh3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-germany-fans-in-need-of-h-2026-06-30",
+      "headline": "World Cup 2026: Germany fans in need of hope after exit as Jurgen Klopp looms - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TnluQ3hBWGt2aV9jZU5DcFZCSjE2TElRVTctOEF3Z1dtd3lMSEV2NnZPTHg1eHV2ZkFITVFXaFRzSHd2VXZfYjJCNzdrdVY2UndFUEZIamlrdFhLNlo0UDJaekJJZ2c?oc=5\" target=\"_blank\"&gt;World Cup 2026: Germany fans in need of hope after exit as Jur",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TnluQ3hBWGt2aV9jZU5DcFZCSjE2TElRVTctOEF3Z1dtd3lMSEV2NnZPTHg1eHV2ZkFITVFXaFRzSHd2VXZfYjJCNzdrdVY2UndFUEZIamlrdFhLNlo0UDJaekJJZ2c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-klopp-plays-down-germany--2026-06-30",
+      "headline": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTdpSjItb0xUV25NSndZbHR4NGR3OFpPb01XYzVtZTZOZEljQ3VObnlHajJxSjlTVjJ0Z3NXdUhnSmV0V285VWV1eVdTX0ptbzNqcEU2NHJiQVprTDEydy1PYkxhQU1FMi1xYWFVVlprb3N3UXY5STA4R2tPNURTSXNsMzVsRnRPd0xZdVEwakxUUE1HMVFNSmoyWS1FMlZkRlJiNEszMUp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTdpSjItb0xUV25NSndZbHR4NGR3OFpPb01XYzVtZTZOZEljQ3VObnlHajJxSjlTVjJ0Z3NXdUhnSmV0V285VWV1eVdTX0ptbzNqcEU2NHJiQVprTDEydy1PYkxhQU1FMi1xYWFVVlprb3N3UXY5STA4R2tPNURTSXNsMzVsRnRPd0xZdVEwakxUUE1HMVFNSmoyWS1FMlZkRlJiNEszMUpZNzV0c2FHenRhMkRWdWFPM3l0RUZjRkZuZVc3REt2aHJ6Q0FpN3BhVHplVFFWM3cyZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--seattle-news-weekly-seattle-s-fifa-worl-2026-06-30",
+      "headline": "'Seattle News Weekly': Seattle's FIFA World Cup 2026 buzz - AOL.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UHg1YV9PWFZ6dDZiYm1KLXZBMWZ6eDkyME9IamZUR1dBMUFRV2ZMUjd1clFTVmtwQkNTMGpqTDN6VV91c2FQNFVhWE5jeWtNUktBclRlQlE5RVZjX1c4RUU3UHJSRTdHLVdQX1JiaXZZY3h4RzlRSFlKNVd2QQ?oc=5\" target=\"_blank\"&gt;'Seattle News Weekly': Seattle'",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UHg1YV9PWFZ6dDZiYm1KLXZBMWZ6eDkyME9IamZUR1dBMUFRV2ZMUjd1clFTVmtwQkNTMGpqTDN6VV91c2FQNFVhWE5jeWtNUktBclRlQlE5RVZjX1c4RUU3UHJSRTdHLVdQX1JiaXZZY3h4RzlRSFlKNVd2QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-players-visit-kansas-city-s-lo-2026-06-30",
+      "headline": "Argentina players visit Kansas City's Los Hornos restaurant during World Cup - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk0wa3ZHeW5xNlQ0X2VuYldFd0F5RjRnc09pbkl0bnU5YlFMa0U5Z1hJSFpLN0xYekhiM3NFQnhSNk5iYl9GbjZmZ2FpMnU3RTQyUHhZaWg1MnByTjF4MGpacC1qSERyekVRclBYTWY5SE9PTDNWX2xSUTVmc293UGk0ekUtZDhHZ1hmQUVVRDBwLWhOYVQ3azJOcHp6UWdiRUIyRDZ4LWN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk0wa3ZHeW5xNlQ0X2VuYldFd0F5RjRnc09pbkl0bnU5YlFMa0U5Z1hJSFpLN0xYekhiM3NFQnhSNk5iYl9GbjZmZ2FpMnU3RTQyUHhZaWg1MnByTjF4MGpacC1qSERyekVRclBYTWY5SE9PTDNWX2xSUTVmc293UGk0ekUtZDhHZ1hmQUVVRDBwLWhOYVQ3azJOcHp6UWdiRUIyRDZ4LWNaSkVjanFvdWVJcw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fans-flying-iran-flags-outside-lumen-fie-2026-06-27",
+      "headline": "Fans flying Iran flags outside Lumen Field before Seattle World Cup game vs. Egypt (Video) - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkdaTjRCNTBGUUxjX3RmOWdONjIxdW9BWk05VE1VMm4zdHVucElUUVE5RXEtY3FXUnJGd0dyQ21nc19xWTFZX2RLZnBhY3pQUHJLMWhXdE52c0xRZzhKRG8zN3U5TFZxOGhkMy1CSDU3UDI0WGs4QUxzbml3cTJJUmRIZHVmcGdU?oc=5\" target=\"_blank\"&gt;Fans flying Iran ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-27",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkdaTjRCNTBGUUxjX3RmOWdONjIxdW9BWk05VE1VMm4zdHVucElUUVE5RXEtY3FXUnJGd0dyQ21nc19xWTFZX2RLZnBhY3pQUHJLMWhXdE52c0xRZzhKRG8zN3U5TFZxOGhkMy1CSDU3UDI0WGs4QUxzbml3cTJJUmRIZHVmcGdU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-collides-with-religion-politic-2026-06-27",
+      "headline": "World Cup collides with religion, politics in Seattle - Cascadia Daily News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWc0MnpUTE1HaTVyZ3VIRmVUVm1oQ1AtV2NTWVN3bWxwdE14Ym1vdzJ0ck1hSTVRRWdmOVZaZGQzT0s1RXJxQVFvTDFTZkZjWWtSY2dxek42VDJ3NjdsVk9fVExwVUhwZ3d1eGVndnAwTTlmbmgyVzFMc2FwMUV0aVdOQTV4LW1rNTdVdHh4TDdETWZhUndpdEFXZw?oc=5\" target=\"_b",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-27",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWc0MnpUTE1HaTVyZ3VIRmVUVm1oQ1AtV2NTWVN3bWxwdE14Ym1vdzJ0ck1hSTVRRWdmOVZaZGQzT0s1RXJxQVFvTDFTZkZjWWtSY2dxek42VDJ3NjdsVk9fVExwVUhwZ3d1eGVndnAwTTlmbmgyVzFMc2FwMUV0aVdOQTV4LW1rNTdVdHh4TDdETWZhUndpdEFXZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-video-world-cup-day-19-morocco-beats-net-2026-06-30",
       "headline": "VIDEO: World Cup Day 19: Morocco beats Netherlands; Germany crashes out - Al Jazeera",
@@ -1000,105 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-28",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWV84RlVuRXczMkVDTUFBVjlreDFxUFRqc2hRVjZLbGdQdTNyN2V1MmNqbm5CR2hySW8xM21yY2kyRG9IbGFwUExrOEt0TXRCR3FUcklKRS11SWRpNkNXZG1sNlhlbFBIeFgzYklKMXRIMlFDTV9tX1lRdW5IaWhFOVhITHQ3cjNGdnFic25XSDlVaDBlU1FrUjFR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-south-africa-vs-canada-live-updates-worl-2026-06-28",
-      "headline": "South Africa vs Canada live updates: World Cup 2026 knockouts begin today with round of 32 clash - The New York Times",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOck1aQm9zdk5ya3dFem1KRjUydkpIY2NrdEhPcTBPS3VyaXUxR1dSMGU3ejFxbmZyOFIwTXBtQUlJTURrYW42SU4tSWtER0JFX0FPNFNQUnkzX3NtUm5jOGt5X2dWdDFINmhmTjA5eWxmMlBtX3NuWWZsdlBEdFUwZWZnQy1yMHlqZ0Vaa09lQVZvM0dXNHZFYXB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOck1aQm9zdk5ya3dFem1KRjUydkpIY2NrdEhPcTBPS3VyaXUxR1dSMGU3ejFxbmZyOFIwTXBtQUlJTURrYW42SU4tSWtER0JFX0FPNFNQUnkzX3NtUm5jOGt5X2dWdDFINmhmTjA5eWxmMlBtX3NuWWZsdlBEdFUwZWZnQy1yMHlqZ0Vaa09lQVZvM0dXNHZFYXBqWUUxaXdOUURJSXBHX1J1d0xvVzlTOHR1SG9MWF8xcDQ2R1Bn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-knockouts-england-s-path--2026-06-28",
-      "headline": "World Cup 2026 knockouts: England's path to the final explained after topping Group L - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcEFENlVEZDBSZG9lQUV5WU00cWgtcGVhUnJfNThiVHRUcW0xMTVORzM0cUtyak9uY2trQkF3TVVzMVNjV04wQ05xeU5aOV9XajRoM3BablkxSWYwUTJ4LXFUeXpUMTg?oc=5\" target=\"_blank\"&gt;World Cup 2026 knockouts: England's path to the final explaine",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcEFENlVEZDBSZG9lQUV5WU00cWgtcGVhUnJfNThiVHRUcW0xMTVORzM0cUtyak9uY2trQkF3TVVzMVNjV04wQ05xeU5aOV9XajRoM3BablkxSWYwUTJ4LXFUeXpUMTg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-canada-faces-an-unprecedented-world-cup--2026-06-28",
-      "headline": "Canada faces an unprecedented World Cup situation as the knockout rounds begin - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91aE9samhKLXBSd2lYb3ZVT3BEeUZwbFo5c1JmZXFpQ1BJOWdvWERDTDI2MVBtUjA2dUJiUVE2cnZabnNmbDZORmNoM1didlFOT2p3bGF4eU5UTk1xYXQ4c3hVUGdiQlpjbzVvNmRRVlo?oc=5\" target=\"_blank\"&gt;Canada faces an unprecedented World Cup situation ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91aE9samhKLXBSd2lYb3ZVT3BEeUZwbFo5c1JmZXFpQ1BJOWdvWERDTDI2MVBtUjA2dUJiUVE2cnZabnNmbDZORmNoM1didlFOT2p3bGF4eU5UTk1xYXQ4c3hVUGdiQlpjbzVvNmRRVlo?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-photos-pride-match-day-at-seattle-s-egyp-2026-06-27",
-      "headline": "PHOTOS: Pride Match Day at Seattle's Egypt-Iran World Cup game - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxObDRnMEJrQ0Ziand3NUw1dVdvbXZ4bmtmNjVUaEtmdzh5SnBNZHFKS2dqcGRQb09HcUotVHB3ckFJdnM0OUtDVF9tZWF3Z3lXanhOLTd5TFJ1ajZPTVpTOU1OSUdMM1dUT1hmNUdjZnJILVFwTHdka1V4d0RJckZldXdfQWV5cXpsNTJUSkpqMzA4ZTFVTTU2TENqUW1ZRkdfT184Z0xpYkd",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObDRnMEJrQ0Ziand3NUw1dVdvbXZ4bmtmNjVUaEtmdzh5SnBNZHFKS2dqcGRQb09HcUotVHB3ckFJdnM0OUtDVF9tZWF3Z3lXanhOLTd5TFJ1ajZPTVpTOU1OSUdMM1dUT1hmNUdjZnJILVFwTHdka1V4d0RJckZldXdfQWV5cXpsNTJUSkpqMzA4ZTFVTTU2TENqUW1ZRkdfT184Z0xpYkdnYzItQ0RZV2pmY0FrdkdlbWViSnNrRk4wcjNBWmEzZXJ0VFBSVE54QXhkUDh0VDNPSWEwSVpreDcyVmtMdENLcEhvUmc3YnE1TEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-before-world-cup-kci-worried-about-conce-2026-06-28",
-      "headline": "Before World Cup, KCI worried about concession sales. What do the numbers say? - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1VWmVvdUhjTzlyazhwa25ZVWpUcjNoMndrSlBwSC1BOW5ERzNDUnVNNk9hWThCdF9TLU5oNUJaT3kwZDdib1RWVXlHMnlrcjVZSDVLRWlhNXZMekQ5U0JpYmhEdWhuaWhCUkhBQmpkV3pNTENUTVdzRElR0gF6QVVfeXFMTkJvbWZWTTJXSWFSYU5DWmthVDN3WUw3cHB5QlljekdwbFYwRnN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VWmVvdUhjTzlyazhwa25ZVWpUcjNoMndrSlBwSC1BOW5ERzNDUnVNNk9hWThCdF9TLU5oNUJaT3kwZDdib1RWVXlHMnlrcjVZSDVLRWlhNXZMekQ5U0JpYmhEdWhuaWhCUkhBQmpkV3pNTENUTVdzRElR0gF6QVVfeXFMTkJvbWZWTTJXSWFSYU5DWmthVDN3WUw3cHB5QlljekdwbFYwRnNMYi1vMUtyRmhCV1VpWURsY0FIa0hlVWhheEJEbDZ4dDNLOVBZZmNwMTVGZ1diNk1JU0xkS0toN3p3RlJXMG85UDZjTU5xdTNqUm5CV2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-algeria-extends-world-cup-stay-with-draw-2026-06-28",
-      "headline": "Algeria extends World Cup stay with draw at Kansas City Stadium. 'We're gonna party all night' - KCUR",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2N0dk1sZHhkVHpTR2hFb25PcWh6LV9zTldXd3hFS1BsN293RXNBdXZTMS10dnZNVlppQmVlcDNmcHA0WHRVZVFpVTRQQlE0YjgzdTU3YmU5Z19fMXJYalduQXpIT0Fvb25BUlBqNjZvdGhGdDEtR3NPb3FpZFVjQ2wwcVVMXzBfYm9QalhERjlfdTlDemU5WWh",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2N0dk1sZHhkVHpTR2hFb25PcWh6LV9zTldXd3hFS1BsN293RXNBdXZTMS10dnZNVlppQmVlcDNmcHA0WHRVZVFpVTRQQlE0YjgzdTU3YmU5Z19fMXJYalduQXpIT0Fvb25BUlBqNjZvdGhGdDEtR3NPb3FpZFVjQ2wwcVVMXzBfYm9QalhERjlfdTlDemU5WWhXc3dGUXpDcUFlTl85WFpCYWRvLXFRWkJDbWdHU1hVN0hRNThLTFhlT2ZNcWdSZA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-shows-it-s-increasingly-diffic-2026-06-27",
-      "headline": "World Cup shows ‘it’s increasingly difficult to doubt Kansas City.’ Here’s why - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2RBWmo2UmhCLUw4ZDBvaXNmNWdMUU5FYWVMTnBWMFIxUEJtMHhiemlTWHBTX2VSRmQ2dkhXU3Y4VWtNdzV6ZnM1ZjFUUV9RN2RtUl9ja3BCdlFYbjVVLXhJSWUxUDhhbDZ3emtuYkhiR3VNeUtzZlltbW1oWHF4NXE2Z3UyX3ZtTFhMVnVtZlZlQQ?oc=5\" target=\"_blank\"&gt;Wor",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2RBWmo2UmhCLUw4ZDBvaXNmNWdMUU5FYWVMTnBWMFIxUEJtMHhiemlTWHBTX2VSRmQ2dkhXU3Y4VWtNdzV6ZnM1ZjFUUV9RN2RtUl9ja3BCdlFYbjVVLXhJSWUxUDhhbDZ3emtuYkhiR3VNeUtzZlltbW1oWHF4NXE2Z3UyX3ZtTFhMVnVtZlZlQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-with-4-soccer-games-down-seattle-shines--2026-06-28",
-      "headline": "With 4 soccer games down, Seattle shines as a World Cup host city - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUM1anA2aGl3X0ZFaEJMc0tnRlF6VlJ6US1NVHExSUdGbnFZdmdZTDI0OERDVVh4Vi16amluMjJqSFZmU180dDRIdUYtWUxyeVd5QU9Ucm9zaWFSM09KWkxJUWt5Ny0xZ3RUdGxXbnpJbGUtVFJHZ2FVbFdFZGl1NzAxSUxYY01fNS1TaEhVdXNkcEJNdjlwUUg1VGxCWDlmelBuRjgtbWt",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-28",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUM1anA2aGl3X0ZFaEJMc0tnRlF6VlJ6US1NVHExSUdGbnFZdmdZTDI0OERDVVh4Vi16amluMjJqSFZmU180dDRIdUYtWUxyeVd5QU9Ucm9zaWFSM09KWkxJUWt5Ny0xZ3RUdGxXbnpJbGUtVFJHZ2FVbFdFZGl1NzAxSUxYY01fNS1TaEhVdXNkcEJNdjlwUUg1VGxCWDlmelBuRjgtbWtKYVZWcHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-world-cup-match-brings-fans-prid-2026-06-27",
-      "headline": "Seattle World Cup match brings fans, Pride weekend, and global politics together - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOWtaLXN1UXlkRUVEUGJFVEw4Y25ERnZVOWxSbG5pTTB6cFhnaTFyUHhJak00aFZCa3RTYWxjVVFKS3F6RWI2ZEM3Y3F6ME92LU05eEJzU19lMVV3NGE5aFJSNzJNbTRvTjV1anRQVkpiM3NNLXY0NTBDODEwUlR2dkNwODBmN1lUZkp5RUVOcF9Na2VBejVTRHMwbTl2RENvbXFGeVJGZWQ",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOWtaLXN1UXlkRUVEUGJFVEw4Y25ERnZVOWxSbG5pTTB6cFhnaTFyUHhJak00aFZCa3RTYWxjVVFKS3F6RWI2ZEM3Y3F6ME92LU05eEJzU19lMVV3NGE5aFJSNzJNbTRvTjV1anRQVkpiM3NNLXY0NTBDODEwUlR2dkNwODBmN1lUZkp5RUVOcF9Na2VBejVTRHMwbTl2RENvbXFGeVJGZWQ2Wkd0QzhpcjBCSWtuOUJvRkdMb0ZyQlp0b2dybzBqY2QyVWg0VDhLNmF0UnNqN1FmdjlOcnIyWXNYbndKNDBfSFhoTzV3ajlLdkd0R3ZVcC14TnVqbTRkejVzQ0ZVXy1NUHBHc05fLWNtRGFNeWZnYVFsbVFLYlRjdXBWVXROU3RJMA?oc=5",
       "featured": false,
       "draft": true
     }
