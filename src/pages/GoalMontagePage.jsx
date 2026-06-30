@@ -6,7 +6,7 @@ import FlagImg from '../components/FlagImg';
 import GoalRadarMap from '../components/GoalRadarMap';
 import usePrefersReducedMotion from '../hooks/usePrefersReducedMotion';
 import { VENUE_COORDS } from '../data/venueCoords';
-import { getGoalFeed, getCityGoalCounts } from '../utils/goalFeed';
+import { getGoalFeed, getCityGoalCounts, getTopScorers } from '../utils/goalFeed';
 import { createGoalShareCardFile } from '../utils/goalShareCard';
 import { formatGoalDate, getCityHeadline, getGoalMomentCopy, getShareText, getTopCities } from '../utils/goalRadarStory';
 
@@ -141,6 +141,7 @@ export default function GoalMontagePage() {
     return getCityGoalCounts(feed.slice(0, active + 1));
   }, [active, feed]);
   const topCities = useMemo(() => getTopCities(liveCounts, 5), [liveCounts]);
+  const liveScorers = useMemo(() => getTopScorers(feed.slice(0, active + 1)), [active, feed]);
   const activeCityCount = activeGoal ? (liveCounts[activeGoal.venueKey] || 0) : 0;
   const citiesLit = Object.keys(liveCounts).length;
   const sharePath = getGoalSharePath(activeGoal);
@@ -152,6 +153,11 @@ export default function GoalMontagePage() {
       .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
       .findIndex(([key]) => key === activeGoal.venueKey) + 1
     : 0;
+  const activeBootRank = useMemo(() => {
+    if (!activeGoal || activeGoal.isOwnGoal) return 0;
+    const idx = liveScorers.findIndex(s => s.player === activeGoal.player);
+    return idx === -1 ? 0 : idx + 1;
+  }, [activeGoal, liveScorers]);
 
   function selectGoal(nextIndex, { stopPlaying = true } = {}) {
     if (!feed.length) return;
@@ -442,6 +448,70 @@ export default function GoalMontagePage() {
                   </div>
                 </article>
               </section>
+
+              {liveScorers.length > 0 && (
+                <section className="goal-radar-page__golden-boot">
+                  <div className="goal-radar-page__panel-head">
+                    <div>
+                      <span className="goal-radar-page__panel-kicker">Live Race</span>
+                      <h2>Golden Boot Race</h2>
+                    </div>
+                    <span className="goal-radar-page__panel-badge">
+                      {liveScorers[0]
+                        ? `${liveScorers[0].player} leads · ${liveScorers[0].count} goal${liveScorers[0].count === 1 ? '' : 's'}`
+                        : 'Race on'}
+                    </span>
+                  </div>
+
+                  <div className="goal-radar-page__gb-list">
+                    {liveScorers.map((scorer) => {
+                      const isScoring = !activeGoal.isOwnGoal && scorer.player === activeGoal.player;
+                      const barPct = (scorer.count / (liveScorers[0]?.count || 1)) * 100;
+                      const barColor = scorer.rank === 1
+                        ? 'linear-gradient(90deg,#FFD700,#FFA500)'
+                        : scorer.rank === 2
+                          ? 'linear-gradient(90deg,#C0C0C0,#9ba3af)'
+                          : scorer.rank === 3
+                            ? 'linear-gradient(90deg,#cd7f32,#b5651d)'
+                            : 'linear-gradient(90deg,var(--accent),#4d8eff)';
+                      const medal = scorer.rank === 1 ? '🥇' : scorer.rank === 2 ? '🥈' : scorer.rank === 3 ? '🥉' : scorer.rank;
+                      return (
+                        <div
+                          key={isScoring ? `${scorer.player}-${active}` : scorer.player}
+                          className={`goal-radar-page__gb-row${isScoring ? ' is-scoring' : ''}`}
+                        >
+                          <span className="goal-radar-page__gb-medal">{medal}</span>
+                          <FlagImg emoji={scorer.flag} size={18} />
+                          <div className="goal-radar-page__gb-identity">
+                            <span className="goal-radar-page__gb-name">{scorer.player}</span>
+                            <span className="goal-radar-page__gb-team">{scorer.code}</span>
+                          </div>
+                          <div className="goal-radar-page__gb-bar">
+                            <span
+                              className="goal-radar-page__gb-bar-fill"
+                              style={{ width: `${barPct}%`, background: barColor }}
+                            />
+                          </div>
+                          <strong className="goal-radar-page__gb-count">
+                            {scorer.count}
+                            {isScoring && <span className="goal-radar-page__gb-just-scored" aria-hidden="true">▲</span>}
+                          </strong>
+                        </div>
+                      );
+                    })}
+                    {activeGoal && !activeGoal.isOwnGoal && activeBootRank === 0 && liveScorers.length > 0 && (
+                      <p className="goal-radar-page__gb-offpodium">
+                        {activeGoal.player} is outside the top {liveScorers.length} at this point in the race.
+                      </p>
+                    )}
+                    {activeGoal?.isOwnGoal && (
+                      <p className="goal-radar-page__gb-offpodium">
+                        Own goals don&apos;t count toward the Golden Boot.
+                      </p>
+                    )}
+                  </div>
+                </section>
+              )}
 
               <section className="goal-radar-page__feed-panel">
                 <div className="goal-radar-page__panel-head">

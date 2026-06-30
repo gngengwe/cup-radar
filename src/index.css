@@ -7795,6 +7795,7 @@ a.wcp-source-chip:hover { color: var(--text); }
 .goal-radar-page__map-shell,
 .goal-radar-page__leaderboard,
 .goal-radar-page__feed-panel,
+.goal-radar-page__golden-boot,
 .goal-radar-page__story {
   position: relative;
   overflow: hidden;
@@ -7807,7 +7808,8 @@ a.wcp-source-chip:hover { color: var(--text); }
 }
 .goal-radar-page__map-shell,
 .goal-radar-page__leaderboard,
-.goal-radar-page__feed-panel {
+.goal-radar-page__feed-panel,
+.goal-radar-page__golden-boot {
   padding: 20px;
 }
 .goal-radar-page__story {
@@ -7825,6 +7827,7 @@ a.wcp-source-chip:hover { color: var(--text); }
 .goal-radar-page__map-shell::before,
 .goal-radar-page__leaderboard::before,
 .goal-radar-page__feed-panel::before,
+.goal-radar-page__golden-boot::before,
 .goal-radar-page__story::before {
   content: '';
   position: absolute;
@@ -8156,6 +8159,104 @@ a.wcp-source-chip:hover { color: var(--text); }
   font-weight: 800;
   color: var(--accent);
 }
+.goal-radar-page__gb-list {
+  display: grid;
+  gap: 8px;
+}
+.goal-radar-page__gb-row {
+  display: grid;
+  grid-template-columns: 28px 22px 1fr 3fr auto;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: 16px;
+  border: 1px solid transparent;
+  background: rgba(255,255,255,0.025);
+  transition: border-color 0.22s ease, background 0.22s ease;
+}
+.goal-radar-page__gb-row:hover {
+  border-color: rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.04);
+}
+.goal-radar-page__gb-row.is-scoring {
+  border-color: #FFD700;
+  background: rgba(255,215,0,0.08);
+  animation: gb-pulse 0.55s ease-out forwards;
+}
+@keyframes gb-pulse {
+  0%  { box-shadow: 0 0 0 0 rgba(255,215,0,0.55); }
+  100%{ box-shadow: 0 0 0 14px rgba(255,215,0,0); }
+}
+.goal-radar-page__gb-medal {
+  font-size: 15px;
+  text-align: center;
+  line-height: 1;
+  font-weight: 900;
+  color: var(--text-dim);
+}
+.goal-radar-page__gb-identity {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.goal-radar-page__gb-name {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.goal-radar-page__gb-team {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+}
+.goal-radar-page__gb-bar {
+  position: relative;
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.07);
+  overflow: hidden;
+}
+.goal-radar-page__gb-bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  transition: width 0.36s ease;
+}
+.goal-radar-page__gb-count {
+  font-size: 16px;
+  font-weight: 900;
+  color: var(--text);
+  text-align: right;
+  min-width: 18px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  justify-content: flex-end;
+}
+.goal-radar-page__gb-just-scored {
+  font-size: 10px;
+  font-weight: 900;
+  color: #FFD700;
+  animation: gb-arrow 0.4s ease-out forwards;
+}
+@keyframes gb-arrow {
+  from { transform: translateY(5px); opacity: 0; }
+  to   { transform: translateY(0);   opacity: 1; }
+}
+.goal-radar-page__gb-offpodium {
+  margin-top: 8px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px dashed rgba(255,255,255,0.1);
+  font-size: 12px;
+  color: var(--text-dim);
+  text-align: center;
+}
 .goal-radar-page__feed-panel {
   padding: 20px;
 }
@@ -8305,13 +8406,23 @@ a.wcp-source-chip:hover { color: var(--text); }
   .goal-radar-page__map-shell,
   .goal-radar-page__leaderboard,
   .goal-radar-page__feed-panel,
+  .goal-radar-page__golden-boot,
   .goal-radar-page__story {
     border-radius: 24px;
   }
   .goal-radar-page__map-shell,
   .goal-radar-page__leaderboard,
-  .goal-radar-page__feed-panel {
+  .goal-radar-page__feed-panel,
+  .goal-radar-page__golden-boot {
     padding: 16px;
+  }
+  .goal-radar-page__gb-row {
+    grid-template-columns: 24px 20px 1fr 2fr auto;
+    padding: 9px 12px;
+    gap: 8px;
+  }
+  .goal-radar-page__gb-name {
+    font-size: 13px;
   }
   .goal-radar-page__story {
     padding: 18px;
@@ -8350,7 +8461,9 @@ a.wcp-source-chip:hover { color: var(--text); }
   .goal-radar__impact-wash,
   .goal-radar__blip-dot,
   .goal-radar__ball-spin,
-  .goal-radar-page__story-progress-fill {
+  .goal-radar-page__story-progress-fill,
+  .goal-radar-page__gb-row,
+  .goal-radar-page__gb-just-scored {
     animation: none !important;
     transition: none !important;
   }

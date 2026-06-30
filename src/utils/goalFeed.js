@@ -75,3 +75,21 @@ export function getCityGoalCounts(feed) {
   for (const g of feed) counts[g.venueKey] = (counts[g.venueKey] || 0) + 1;
   return counts;
 }
+
+// Returns top scorers up to maxCount, ranked by goals. OGs excluded; in-match
+// penalties count. Tiebreak: player who reached the tied count first (latestSeq).
+export function getTopScorers(feed, maxCount = 8) {
+  const map = {};
+  for (const g of feed) {
+    if (g.isOwnGoal) continue;
+    if (!map[g.player]) {
+      map[g.player] = { player: g.player, team: g.team, flag: g.flag, code: g.code, count: 0, latestSeq: 0 };
+    }
+    map[g.player].count += 1;
+    if ((g.sequence || 0) > map[g.player].latestSeq) map[g.player].latestSeq = g.sequence || 0;
+  }
+  return Object.values(map)
+    .sort((a, b) => b.count - a.count || a.latestSeq - b.latestSeq)
+    .slice(0, maxCount)
+    .map((s, i) => ({ ...s, rank: i + 1 }));
+}
