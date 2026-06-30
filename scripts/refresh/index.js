@@ -1,27 +1,33 @@
 // Entry point — routes to the right script based on $VERTICAL env var
 import { writeFileSync, appendFileSync } from 'fs';
-import { refreshScores }     from './scores.js';
-import { refreshNews }       from './news.js';
-import { refreshUpsets }     from './upsets.js';
-import { refreshBracket }    from './bracket.js';
-import { refreshQualifiers } from './qualifiers.js';
-import { refreshNarratives } from './narratives.js';
-import { refreshGoals }      from './goals.js';
-import { buildDigest }       from './digest.js';
+import { refreshScores }       from './scores.js';
+import { refreshNews }         from './news.js';
+import { refreshUpsets }       from './upsets.js';
+import { refreshBracket }      from './bracket.js';
+import { refreshQualifiers }   from './qualifiers.js';
+import { refreshKnockoutSync } from './knockoutSync.js';
+import { refreshNarratives }   from './narratives.js';
+import { refreshGoals }        from './goals.js';
+import { buildDigest }         from './digest.js';
 
 const vertical = (process.env.VERTICAL || 'all').toLowerCase();
 
-const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshQualifiers, refreshNarratives, refreshGoals];
+// Order matters: scores → bracket (promotes scores into bracket) →
+// qualifiers (resolves group-stage placeholders into bracket) →
+// knockoutSync (pushes resolved bracket names back down into matches.json)
+// → narratives/goals (consume the now-accurate matches.json data).
+const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshQualifiers, refreshKnockoutSync, refreshNarratives, refreshGoals];
 
 const MAP = {
-  scores:      [refreshScores],
-  news:        [refreshNews],
-  upsets:      [refreshUpsets],
-  bracket:     [refreshBracket],
-  qualifiers:  [refreshQualifiers],
-  narratives:  [refreshNarratives],
-  goals:       [refreshGoals],
-  all:         ALL,
+  scores:        [refreshScores],
+  news:          [refreshNews],
+  upsets:        [refreshUpsets],
+  bracket:       [refreshBracket],
+  qualifiers:    [refreshQualifiers],
+  knockoutsync:  [refreshKnockoutSync],
+  narratives:    [refreshNarratives],
+  goals:         [refreshGoals],
+  all:           ALL,
 };
 
 const tasks = MAP[vertical] || ALL;

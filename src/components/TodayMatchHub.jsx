@@ -225,7 +225,36 @@ export default function TodayMatchHub() {
     return () => { cancelled = true; clearInterval(id); };
   }, [todayStr, todayMatches]);
 
-  if (!todayMatches.length) return null;
+  if (!todayMatches.length) {
+    // No matches today — find the next scheduled match day and preview it.
+    const upcoming = matches
+      .filter(m => m.date > todayStr && m.status !== 'finished')
+      .sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
+    if (!upcoming.length) return null;
+
+    const nextDate   = upcoming[0].date;
+    const nextBatch  = upcoming.filter(m => m.date === nextDate);
+    const nextLabel  = new Date(nextDate + 'T12:00:00').toLocaleDateString('en-US', {
+      weekday: 'long', month: 'long', day: 'numeric',
+    });
+
+    return (
+      <section className="lp-today">
+        <div className="container">
+          <div className="lp-today__header">
+            <span className="section-label">Match Day</span>
+            <h2 className="lp-today__heading">No Match Today</h2>
+            <p className="lp-today__date">Next up — {nextLabel}</p>
+          </div>
+          <div className="lp-today__block">
+            <div className="lp-today__upcoming-grid">
+              {nextBatch.map(m => <UpcomingCard key={m.id} match={m} />)}
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
 
   const liveMatches = todayMatches.filter(m => {
     const s = espnByMatchId[m.id]?.state;

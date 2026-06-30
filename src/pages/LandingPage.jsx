@@ -3,6 +3,7 @@ import Hero from '../components/Hero';
 import TodayMatchHub from '../components/TodayMatchHub';
 import TomorrowMatchHub from '../components/TomorrowMatchHub';
 import GoalMontage from '../components/GoalMontage';
+import KnockoutWidget from '../components/KnockoutWidget';
 import CitiesHero from '../components/CitiesHero';
 import WhatWeTrack from '../components/WhatWeTrack';
 import TicketRadar from '../components/TicketRadar';
@@ -18,6 +19,7 @@ export default function LandingPage() {
       <main id="main-content">
         <TodayMatchHub />
         <TomorrowMatchHub />
+        <KnockoutWidget />
         <Hero />
         <div className="divider" />
         <GoalMontage />

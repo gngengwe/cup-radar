@@ -15,6 +15,7 @@ on:
           - upsets
           - bracket
           - qualifiers
+          - knockoutsync
           - narratives
           - goals
   schedule:
