@@ -3185,11 +3185,18 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 1,
       "laMatch": true,
-      "notes": "Runner-up Group A vs Runner-up Group B — Round of 32 at SoFi Stadium"
+      "notes": "Runner-up Group A vs Runner-up Group B — Round of 32 at SoFi Stadium",
+      "goals": [
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Stephen Eustáquio"
+        }
+      ]
     },
     {
       "id": "wc26-la-02",
@@ -3238,5 +3245,5 @@
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     }
   ],
-  "lastUpdated": "2026-06-30T00:30:15.195Z"
+  "lastUpdated": "2026-06-30T03:39:32.950Z"
 }
