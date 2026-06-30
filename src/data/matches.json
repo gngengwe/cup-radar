@@ -3458,9 +3458,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 2,
+      "awayScore": 0,
       "nyMatch": true,
       "notes": "Winner Group I vs 3rd-place (Group F) — Round of 32"
     },
@@ -3801,5 +3801,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-06-30T19:59:27.092Z"
+  "lastUpdated": "2026-06-30T22:14:50.536Z"
 }
