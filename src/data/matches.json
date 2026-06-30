@@ -3302,8 +3302,8 @@
       "stage": "Round of 32",
       "matchday": null,
       "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 4,
+      "awayScore": 5,
       "notes": "Winner Group E vs 3rd-place (Group D) — Round of 32",
       "winner": "away",
       "goals": [
@@ -3397,8 +3397,8 @@
       "stage": "Round of 32",
       "matchday": null,
       "status": "finished",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 4,
       "notes": "Winner Group F vs Runner-up Group C — Round of 32",
       "winner": "away"
     },
@@ -3419,9 +3419,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "notes": "Runner-up Group E vs Runner-up Group I — Round of 32"
     },
     {
@@ -3784,5 +3784,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-06-30T16:10:08.873Z"
+  "lastUpdated": "2026-06-30T17:07:01.838Z"
 }
