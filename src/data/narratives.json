@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-30T17:07:07.174Z",
+  "lastUpdated": "2026-06-30T19:59:27.045Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -9958,7 +9958,7 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 3,
+      "chapterCount": 4,
       "chapters": [
         {
           "id": "ch-result-wc26-015",
@@ -9980,6 +9980,14 @@
           "id": "ch-result-wc26-I1",
           "date": "2026-06-26",
           "title": "France beat Norway 4-1 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-dal-01",
+          "date": "2026-06-30",
+          "title": "Norway beat Ivory Coast 2-1 at AT&T Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false

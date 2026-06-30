@@ -3419,10 +3419,27 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
-      "notes": "Runner-up Group E vs Runner-up Group I — Round of 32"
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 2,
+      "notes": "Runner-up Group E vs Runner-up Group I — Round of 32",
+      "goals": [
+        {
+          "minute": 39,
+          "team": "away",
+          "player": "Antonio Nusa"
+        },
+        {
+          "minute": 74,
+          "team": "home",
+          "player": "Amad Diallo"
+        },
+        {
+          "minute": 86,
+          "team": "away",
+          "player": "Erling Haaland"
+        }
+      ]
     },
     {
       "id": "wc26-nyc-01",
@@ -3608,12 +3625,12 @@
       "date": "2026-07-05",
       "time": "16:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Brazil",
+      "homeCode": "BRA",
+      "homeFlag": "🇧🇷",
+      "awayTeam": "Norway",
+      "awayCode": "NOR",
+      "awayFlag": "🇳🇴",
       "venue": "MetLife Stadium, East Rutherford, NJ",
       "city": "New York",
       "cityCode": "NYC",
@@ -3784,5 +3801,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-06-30T17:07:01.838Z"
+  "lastUpdated": "2026-06-30T19:59:27.092Z"
 }
