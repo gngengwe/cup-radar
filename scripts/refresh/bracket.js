@@ -31,11 +31,13 @@ export async function refreshBracket() {
   let updated = 0;
 
   for (const match of knockout) {
-    // Find corresponding bracket slot by date + city approximation
+    // Find the corresponding bracket slot by date + city — date alone isn't
+    // unique once multiple knockout matches share a day (e.g. three R32
+    // games can all fall on the same date in different cities).
     for (const round of bracket.rounds) {
       for (const slot of round.matches) {
         if (slot.status === 'finished') continue;
-        if (slot.date !== match.date) continue;
+        if (slot.date !== match.date || slot.city !== match.city) continue;
 
         // If the slot still has placeholder names, fill it in
         const homeKnown = !slot.home.startsWith('Winner') && !slot.home.startsWith('Runner') && slot.home !== 'TBD';
@@ -50,6 +52,9 @@ export async function refreshBracket() {
           slot.homeScore = match.homeScore;
           slot.awayScore = match.awayScore;
           slot.status    = 'finished';
+          // Knockout draws go to penalties — carry the shootout winner
+          // across since the scoreline alone can't tell us who advances.
+          if (match.winner) slot.winner = match.winner;
           updated++;
           summary.applied.push(`${round.name || round.id}: ${slot.home} ${match.homeScore}–${match.awayScore} ${slot.away}`);
         }
@@ -72,9 +77,15 @@ export async function refreshBracket() {
         if (!m) continue;
         const [, kind, refId] = m;
         const ref = byId[refId];
-        if (!ref || ref.status !== 'finished' || ref.homeScore === ref.awayScore) continue;
+        if (!ref || ref.status !== 'finished') continue;
 
-        const homeWon = ref.homeScore > ref.awayScore;
+        // Prefer the explicit shootout winner (set when a knockout match is
+        // level after 90/120 min); fall back to comparing scores otherwise.
+        let homeWon;
+        if (ref.winner) homeWon = ref.winner === 'home';
+        else if (ref.homeScore !== ref.awayScore) homeWon = ref.homeScore > ref.awayScore;
+        else continue; // drawn with no recorded shootout winner — can't resolve yet
+
         const result = (kind === 'Winner') === homeWon
           ? { name: ref.home, flag: ref.homeFlag }
           : { name: ref.away, flag: ref.awayFlag };

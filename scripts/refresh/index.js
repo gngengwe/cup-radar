@@ -1,6 +1,7 @@
 // Entry point — routes to the right script based on $VERTICAL env var
 import { writeFileSync, appendFileSync } from 'fs';
 import { refreshScores }       from './scores.js';
+import { refreshEspnScores }   from './espnScores.js';
 import { refreshNews }         from './news.js';
 import { refreshUpsets }       from './upsets.js';
 import { refreshBracket }      from './bracket.js';
@@ -12,14 +13,17 @@ import { buildDigest }         from './digest.js';
 
 const vertical = (process.env.VERTICAL || 'all').toLowerCase();
 
-// Order matters: scores → bracket (promotes scores into bracket) →
-// qualifiers (resolves group-stage placeholders into bracket) →
-// knockoutSync (pushes resolved bracket names back down into matches.json)
-// → narratives/goals (consume the now-accurate matches.json data).
-const ALL = [refreshScores, refreshNews, refreshUpsets, refreshBracket, refreshQualifiers, refreshKnockoutSync, refreshNarratives, refreshGoals];
+// Order matters: scores (football-data.org, group stage) → espnScores
+// (ESPN public scoreboard, fills in knockout results scores.js misses) →
+// bracket (promotes finished matches into bracket.json) → qualifiers
+// (resolves group-stage placeholders into bracket) → knockoutSync (pushes
+// resolved bracket names back down into matches.json) → narratives/goals
+// (consume the now-accurate matches.json data).
+const ALL = [refreshScores, refreshEspnScores, refreshNews, refreshUpsets, refreshBracket, refreshQualifiers, refreshKnockoutSync, refreshNarratives, refreshGoals];
 
 const MAP = {
   scores:        [refreshScores],
+  espnscores:    [refreshEspnScores],
   news:          [refreshNews],
   upsets:        [refreshUpsets],
   bracket:       [refreshBracket],

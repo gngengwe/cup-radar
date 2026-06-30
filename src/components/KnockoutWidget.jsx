@@ -12,6 +12,11 @@ function KnockoutCard({ match }) {
   const isDone = match.status === 'finished';
   const isLive = match.status === 'live';
 
+  // Penalty shootouts leave the scoreline level — prefer the explicit
+  // winner flag (set by espnScores.js) over comparing scores.
+  const homeWon = isDone && (match.winner ? match.winner === 'home' : match.homeScore > match.awayScore);
+  const awayWon = isDone && (match.winner ? match.winner === 'away' : match.awayScore > match.homeScore);
+
   const dateLabel = match.date
     ? new Date(match.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
     : '';
@@ -22,7 +27,7 @@ function KnockoutCard({ match }) {
 
       <div className="bracket-match__row">
         <FlagImg emoji={match.homeFlag} size={16} />
-        <span className={`bracket-match__team${isDone && match.homeScore > match.awayScore ? ' winner' : ''}`}>
+        <span className={`bracket-match__team${homeWon ? ' winner' : ''}`}>
           {match.home}
         </span>
         {(isDone || isLive) && (
@@ -32,7 +37,7 @@ function KnockoutCard({ match }) {
 
       <div className="bracket-match__row">
         <FlagImg emoji={match.awayFlag} size={16} />
-        <span className={`bracket-match__team${isDone && match.awayScore > match.homeScore ? ' winner' : ''}`}>
+        <span className={`bracket-match__team${awayWon ? ' winner' : ''}`}>
           {match.away}
         </span>
         {(isDone || isLive) && (

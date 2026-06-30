@@ -3261,10 +3261,28 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Winner Group C vs Runner-up Group F — Round of 32"
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
+      "notes": "Winner Group C vs Runner-up Group F — Round of 32",
+      "winner": "home",
+      "goals": [
+        {
+          "minute": 29,
+          "team": "away",
+          "player": "Kaishu Sano"
+        },
+        {
+          "minute": 56,
+          "team": "home",
+          "player": "Casemiro"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Gabriel Martinelli"
+        }
+      ]
     },
     {
       "id": "wc26-bos-01",
@@ -3283,10 +3301,83 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Winner Group E vs 3rd-place (Group D) — Round of 32"
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "notes": "Winner Group E vs 3rd-place (Group D) — Round of 32",
+      "winner": "away",
+      "goals": [
+        {
+          "minute": 42,
+          "team": "away",
+          "player": "Julio Enciso"
+        },
+        {
+          "minute": 54,
+          "team": "home",
+          "player": "Kai Havertz"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Kai Havertz",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Maurício",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Joshua Kimmich",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Gustavo Gómez",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Jamal Musiala",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Matías Galarza",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Nick Woltemade",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Nadiem Amiri",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Fabián Balbuena",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "José Canale",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-mty-01",
@@ -3305,10 +3396,11 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Winner Group F vs Runner-up Group C — Round of 32"
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 1,
+      "notes": "Winner Group F vs Runner-up Group C — Round of 32",
+      "winner": "away"
     },
     {
       "id": "wc26-dal-01",
@@ -3471,12 +3563,12 @@
       "date": "2026-07-04",
       "time": "12:00",
       "timezone": "CT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Canada",
+      "homeCode": "CAN",
+      "homeFlag": "🇨🇦",
+      "awayTeam": "Morocco",
+      "awayCode": "MAR",
+      "awayFlag": "🇲🇦",
       "venue": "NRG Stadium",
       "city": "Houston",
       "cityCode": "HOU",
@@ -3692,5 +3784,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-06-30T03:39:32.950Z"
+  "lastUpdated": "2026-06-30T16:10:08.873Z"
 }

@@ -1,6 +1,6 @@
 {
   "_note": "Knockout bracket. Round of 32 matchups are final (all 12 groups complete as of 2026-06-27). R16+ use \"Winner <matchId>\" / \"Loser <matchId>\" placeholders resolved by scripts/refresh/bracket.js as earlier rounds finish. Dates verified against FIFA official 2026 schedule.",
-  "lastUpdated": "2026-06-30T03:39:30.025Z",
+  "lastUpdated": "2026-06-30T16:10:06.030Z",
   "rounds": [
     {
       "id": "r32",
@@ -30,8 +30,11 @@
           "awayFlag": "🇯🇵",
           "date": "2026-06-29",
           "city": "Houston",
-          "status": "upcoming",
-          "round": "Round of 32"
+          "status": "finished",
+          "round": "Round of 32",
+          "homeScore": 2,
+          "awayScore": 1,
+          "winner": "home"
         },
         {
           "id": "r32-03",
@@ -41,8 +44,11 @@
           "awayFlag": "🇵🇾",
           "date": "2026-06-29",
           "city": "Boston",
-          "status": "upcoming",
-          "round": "Round of 32"
+          "status": "finished",
+          "round": "Round of 32",
+          "homeScore": 1,
+          "awayScore": 1,
+          "winner": "away"
         },
         {
           "id": "r32-04",
@@ -52,8 +58,11 @@
           "awayFlag": "🇲🇦",
           "date": "2026-06-29",
           "city": "Monterrey",
-          "status": "upcoming",
-          "round": "Round of 32"
+          "status": "finished",
+          "round": "Round of 32",
+          "homeScore": 1,
+          "awayScore": 1,
+          "winner": "away"
         },
         {
           "id": "r32-05",
@@ -205,8 +214,8 @@
           "id": "r16-01",
           "home": "Canada",
           "homeFlag": "🇨🇦",
-          "away": "Winner r32-04",
-          "awayFlag": "🏳️",
+          "away": "Morocco",
+          "awayFlag": "🇲🇦",
           "date": "2026-07-04",
           "city": "Houston",
           "status": "upcoming",
@@ -214,8 +223,8 @@
         },
         {
           "id": "r16-02",
-          "home": "Winner r32-03",
-          "homeFlag": "🏳️",
+          "home": "Paraguay",
+          "homeFlag": "🇵🇾",
           "away": "Winner r32-06",
           "awayFlag": "🏳️",
           "date": "2026-07-04",
@@ -225,8 +234,8 @@
         },
         {
           "id": "r16-03",
-          "home": "Winner r32-02",
-          "homeFlag": "🏳️",
+          "home": "Brazil",
+          "homeFlag": "🇧🇷",
           "away": "Winner r32-05",
           "awayFlag": "🏳️",
           "date": "2026-07-05",

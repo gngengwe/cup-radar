@@ -30,13 +30,18 @@ function BracketMatch({ match, city }) {
   const isHome   = BRACKET_CITY_NAMES[match.city] === city;
   const cityMeta = getCityMeta(city);
 
+  // Penalty shootouts leave the scoreline level — prefer the explicit
+  // winner flag (set by espnScores.js) over comparing scores.
+  const homeWon = isDone && (match.winner ? match.winner === 'home' : match.homeScore > match.awayScore);
+  const awayWon = isDone && (match.winner ? match.winner === 'away' : match.awayScore > match.homeScore);
+
   return (
     <div className={`bracket-match${isHome ? ` ${city}` : ''}${isLive ? ' live' : ''}${isTbd ? ' tbd' : ''}`}>
       {match.label && <div className="bracket-match__label">{match.label}</div>}
 
       <div className="bracket-match__row">
         <FlagImg emoji={match.homeFlag} size={16} />
-        <span className={`bracket-match__team${isDone && match.homeScore > match.awayScore ? ' winner' : ''}`}>
+        <span className={`bracket-match__team${homeWon ? ' winner' : ''}`}>
           {match.home}
         </span>
         {(isDone || isLive) && (
@@ -46,7 +51,7 @@ function BracketMatch({ match, city }) {
 
       <div className="bracket-match__row">
         <FlagImg emoji={match.awayFlag} size={16} />
-        <span className={`bracket-match__team${isDone && match.awayScore > match.homeScore ? ' winner' : ''}`}>
+        <span className={`bracket-match__team${awayWon ? ' winner' : ''}`}>
           {match.away}
         </span>
         {(isDone || isLive) && (
