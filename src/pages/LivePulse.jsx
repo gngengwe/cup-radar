@@ -205,19 +205,28 @@ function generateSnapshot(match, espn, summary, ex) {
 // What the current scoreline means for group advancement. Appended to the
 // 60/70/80-minute milestone cards to give casual fans real stakes context.
 
-function getStakesLine(match, hs, as_) {
+function getStakesLine(match, hs, as_, chosenCode) {
   if (!match.group) return null;
   const home = match.homeTeam, away = match.awayTeam;
+  const yours = chosenCode ? (chosenCode === match.homeCode ? home : away) : null;
   const group = `Group ${match.group}`;
 
   if (hs === as_) {
-    return `Both teams take 1 point in ${group} if this stands. Draws rarely win groups — both sides need wins from here.`;
+    const base = `Both teams take 1 point in ${group} if this stands. Draws rarely win groups — both sides need wins from here.`;
+    return yours ? `${base} Your ${yours} stay in the race, but the next game is must-win.` : base;
   }
 
   const leader  = hs > as_ ? home : away;
   const trailer = hs > as_ ? away : home;
+  const lScore  = Math.max(hs, as_), tScore = Math.min(hs, as_);
 
-  return `If this holds: ${leader} earn 3 points in ${group}. ${trailer} need wins from their remaining group games just to stay in contention.`;
+  if (!yours) {
+    return `If this holds: ${leader} earn 3 points in ${group}. ${trailer} need wins from their remaining group games just to stay in contention.`;
+  }
+  if (yours === leader) {
+    return `Your ${yours} lead ${lScore}–${tScore} — if this holds that's 3 big points in ${group}, a major step toward the knockout rounds.`;
+  }
+  return `Your ${yours} trail ${tScore}–${lScore} in ${group}. One goal flips the story — comebacks happen at the World Cup.`;
 }
 
 // ─── Clock milestone cards ─────────────────────────────────────────────────────
@@ -482,6 +491,16 @@ const RETRO_MILESTONE_BODIES = {
     `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Twenty minutes left in a World Cup game means maximum pressure. Every set piece and transition is a potential match-winner. Tired defenders make mistakes.`,
   80: (match, hs, as_) =>
     `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Ten minutes of normal time plus 4–6 minutes of injury time — this game does not end at 90. In World Cup football, the final stretch is where nerves and tired legs write the story.`,
+  95: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Level after 90 minutes sent this to extra time — 30 more minutes, with the first goal carrying enormous psychological weight.`,
+  100: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. By 100 minutes, fatigue was deciding more than tactics — defensive lines stretch and one clean transition can settle a knockout match.`,
+  105: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. The second period of extra time began with the shootout looming — both sides knew one mistake here could end the night.`,
+  110: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. The closing minutes of extra time are survival football — exhausted players, open spaces, and a penalty shootout just out of reach.`,
+  120: (match, hs, as_) =>
+    `Final: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}. Still level after 120 minutes — settled by a penalty shootout, the most psychologically intense 15 minutes in team sports.`,
 };
 
 // ─── Post-game story reconstruction ──────────────────────────────────────────
@@ -610,10 +629,14 @@ function buildPostGameStory(match, espn, summary, guard) {
     });
   }
 
-  // Clock check-ins — retroactive milestones at each key interval.
-  // Use final score for context but honest that these are looking back.
+  // Clock check-ins — retroactive milestones at each key interval. Only
+  // include the 95-120' (extra time) marks if this match actually went
+  // there — otherwise a normal 90-minute match would get a misleading
+  // "extra time" card in its replay deck.
+  const wentToExtraTime = (espn?.period ?? 1) >= 3;
   for (const [t, cfg] of Object.entries(MILESTONES)) {
     const min = Number(t);
+    if (min > 90 && !wentToExtraTime) continue;
     const bodyFn = RETRO_MILESTONE_BODIES[min];
     if (!bodyFn) continue;
     out.push({
@@ -732,6 +755,22 @@ function buildGoalCard(match, espn, summary, guard, chosenCode, currentMinute) {
     subtext   = `An open-play goal built through passing, movement, and timing. This type of goal requires multiple players to read the same moment simultaneously — the run, the pass weight, the finish. Defenders must track the ball or the runner, rarely both at once. This is what winning the tactical battle looks like in real time.`;
   }
 
+  if (chosenCode) {
+    const yourTeam   = chosenCode === match.homeCode ? home : away;
+    const yourScore  = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    const youScored  = benefitTeam === yourTeam;
+    if (youScored && yourScore > theirScore) {
+      subtext += ` Your ${yourTeam} lead now.`;
+    } else if (youScored && yourScore === theirScore) {
+      subtext += ` Your ${yourTeam} have levelled it.`;
+    } else if (!youScored && theirScore > yourScore) {
+      subtext += ` Your ${yourTeam} are now trailing — a response is needed.`;
+    } else if (!youScored && theirScore === yourScore) {
+      subtext += ` They've pegged ${yourTeam} back — level again.`;
+    }
+  }
+
   return {
     id:            `${match.id}-goal-${hs}-${as_}`,
     type:          'goal',
@@ -760,8 +799,40 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
   const resultWho = hs > as_ ? match.homeTeam : (as_ > hs ? match.awayTeam : null);
   const synthLines = [];
 
+  // Knockout matches level after 90/120 minutes go to penalties — the
+  // scoreline stays tied, so ESPN's explicit winner flag (and its own
+  // human-readable note, e.g. "Paraguay advance 4-3 on penalties") is the
+  // only way to know who actually advances.
+  const decidedOnPK = hs === as_ && !!espn?.winner;
+  const pkWinnerTeam = decidedOnPK
+    ? (espn.winner === 'home' ? match.homeTeam : match.awayTeam)
+    : null;
+  const pkNote = decidedOnPK
+    ? (espn.shootoutNote ?? `${pkWinnerTeam} win on penalties after ${hs}–${as_} after extra time.`)
+    : null;
+
   // Result
-  if (hs === as_) {
+  if (decidedOnPK) {
+    if (chosenCode) {
+      const yourTeam = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      synthLines.push(yourTeam === pkWinnerTeam
+        ? `Your ${yourTeam} win on penalties! ${pkNote}`
+        : `Heartbreak — ${pkNote} Your ${yourTeam} are out.`);
+    } else {
+      synthLines.push(`${pkNote}. The score finished ${hs}–${as_} after 120 minutes — settled by the shootout.`);
+    }
+  } else if (chosenCode) {
+    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+    const yourScore  = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    if (yourScore > theirScore) {
+      synthLines.push(`Your ${yourTeam} win ${yourScore}–${theirScore}. A brilliant result.`);
+    } else if (yourScore < theirScore) {
+      synthLines.push(`Your ${yourTeam} lose ${yourScore}–${theirScore}. A tough night.`);
+    } else {
+      synthLines.push(`Your ${yourTeam} draw ${yourScore}–${theirScore} — one point each.`);
+    }
+  } else if (hs === as_) {
     synthLines.push(`${match.homeTeam} ${hs}–${as_} ${match.awayTeam} — a draw, both teams take 1 point.`);
   } else {
     synthLines.push(`${resultWho} win ${Math.max(hs,as_)}–${Math.min(hs,as_)}.`);
@@ -795,12 +866,32 @@ function buildFTCard(match, espn, summary, guard, chosenCode) {
       : `One point each in Group ${match.group}. Useful, but neither team wins the group purely on draws.`);
   }
 
-  const ftTitle = `Full time: ${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+  const ftTitle = (() => {
+    const score = `${match.homeTeam} ${hs}–${as_} ${match.awayTeam}`;
+    if (decidedOnPK) {
+      if (!chosenCode) return `Full time (pens): ${score} — ${pkWinnerTeam} advance`;
+      const yourTeam = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      return yourTeam === pkWinnerTeam
+        ? `Your ${yourTeam} win on penalties! ${score}`
+        : `${yourTeam} out on penalties — ${score}`;
+    }
+    if (!chosenCode) return `Full time: ${score}`;
+    const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+    const yourScore  = chosenCode === match.homeCode ? hs : as_;
+    const theirScore = chosenCode === match.homeCode ? as_ : hs;
+    if (yourScore > theirScore) return `Your ${yourTeam} win! ${score}`;
+    if (yourScore < theirScore) return `${yourTeam} lose — ${score}`;
+    return `${yourTeam} draw — ${score}`;
+  })();
+
+  // Sort after the 120' milestone/penalties cards for matches that went to
+  // extra time, instead of slotting back in at the 90' mark.
+  const wentToExtraTime = (espn?.period ?? 1) >= 3;
 
   return {
-    id: `${match.id}-post`, type: 'post', priority: 5, icon: '🏁',
+    id: `${match.id}-post`, type: 'post', priority: 5, icon: decidedOnPK ? '🥅' : '🏁',
     title: ftTitle, subtext: synthLines.join(' '),
-    match, firedAt: Date.now(), matchMinute: 90,
+    match, firedAt: Date.now(), matchMinute: wentToExtraTime ? 121 : 90,
   };
 }
 
@@ -961,7 +1052,21 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
     const homeB = TEAM_BRIEF[match.homeCode] ?? null;
     const awayB = TEAM_BRIEF[match.awayCode] ?? null;
     let styleBlurb;
-    if (homeB && awayB) {
+    if (chosenCode) {
+      const yourCode  = chosenCode;
+      const theirCode = chosenCode === match.homeCode ? match.awayCode : match.homeCode;
+      const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const theirTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
+      const yourB  = TEAM_BRIEF[yourCode]  ?? null;
+      const theirB = TEAM_BRIEF[theirCode] ?? null;
+      if (yourB && theirB) {
+        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Key thing to watch: ${yourB.watchFor}. The challenge from ${theirTeam}: ${theirB.watchFor}.`;
+      } else if (yourB) {
+        styleBlurb = `Your ${yourTeam} play ${yourB.style}. Watch for: ${yourB.watchFor}.`;
+      } else {
+        styleBlurb = `Watch who controls the ball in the first 10 minutes — the team that sets the tempo early often dictates the whole match.`;
+      }
+    } else if (homeB && awayB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. ${match.awayTeam} lean ${awayB.style}. First thing to watch: ${homeB.watchFor}. And from ${match.awayTeam}: ${awayB.watchFor}.`;
     } else if (homeB) {
       styleBlurb = `${match.homeTeam} play ${homeB.style}. Watch for: ${homeB.watchFor}.`;
@@ -991,9 +1096,23 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
         ? `${who} had ${val}% possession and there were ${totalShots} shots. `
         : `${totalShots} shots in the first half. `;
     }
-    const scoreCtx = hs === as_
-      ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
-      : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
+    let scoreCtx;
+    if (chosenCode) {
+      const yourTeam   = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+      const yourScore  = chosenCode === match.homeCode ? hs : as_;
+      const theirScore = chosenCode === match.homeCode ? as_ : hs;
+      if (yourScore > theirScore) {
+        scoreCtx = `Your ${yourTeam} lead ${yourScore}–${theirScore}. 45 minutes to protect it — second-half leads get tested hard. Stay organized.`;
+      } else if (yourScore < theirScore) {
+        scoreCtx = `Your ${yourTeam} trail ${yourScore}–${theirScore}. 45 minutes to turn it around. Comebacks at the World Cup are rare but they happen — and they start with the next goal.`;
+      } else {
+        scoreCtx = `Still ${hs}–${as_} — your ${yourTeam} have 45 minutes to make the difference.`;
+      }
+    } else {
+      scoreCtx = hs === as_
+        ? `Still ${hs}–${as_} — 45 minutes to break the deadlock.`
+        : `${hs > as_ ? match.homeTeam : match.awayTeam} lead ${Math.max(hs,as_)}–${Math.min(hs,as_)}. The trailing team will now push forward and leave space at the back.`;
+    }
     out.push({
       id: `${match.id}-second-half`, type: 'beat', priority: 3, icon: '🔄',
       title: `Second half — here's the story so far`,
@@ -1198,7 +1317,7 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
         guard.firedStatKeys.add(`milestone-${t}`);
         const firingLate = currentMinute > t + 5;
         const baseBody   = cfg.body(match, espn, stats, firingLate);
-        const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_) : null;
+        const stakesLine = (t >= 60) ? getStakesLine(match, hs, as_, chosenCode) : null;
         out.push({
           id: `${match.id}-milestone-${t}`, type: 'milestone', priority: 1,
           icon: cfg.icon, title: cfg.title,
@@ -1265,7 +1384,20 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
       const who   = homePoss >= awayPoss ? match.homeTeam : match.awayTeam;
       const other = homePoss >= awayPoss ? match.awayTeam : match.homeTeam;
       const val   = Math.max(homePoss, awayPoss);
-      const possSubtext = `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`;
+      let possSubtext;
+      if (chosenCode) {
+        const yourTeam  = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+        const yourPoss  = chosenCode === match.homeCode ? homePoss : awayPoss;
+        const theirPoss = chosenCode === match.homeCode ? awayPoss : homePoss;
+        const otherTeam = chosenCode === match.homeCode ? match.awayTeam : match.homeTeam;
+        if (yourPoss > theirPoss) {
+          possSubtext = `Your ${yourTeam} have ${yourPoss}% possession — dictating the tempo. High possession means finding space to play through; watch if it translates into shots on goal.`;
+        } else {
+          possSubtext = `Your ${yourTeam} have ${yourPoss}% — ${otherTeam} are controlling the ball at ${theirPoss}%. Your team is sitting deeper. This is either tactical (waiting to counter) or a sign of pressure. The shot count will tell you which.`;
+        }
+      } else {
+        possSubtext = `Possession = how much of the time each team has had the ball. High possession can mean control — or ${other} is sitting deep and waiting to counter-attack. Watch the shots column to see which story this becomes.`;
+      }
       out.push({
         id: `${match.id}-possession-intro`, type: 'explain', priority: 2, icon: '📊',
         title: `${who} with ${val}% possession`,
@@ -1390,7 +1522,15 @@ function deriveNotifs(match, espn, summary, ex, guard, chosenCode = null) {
           const counterRef = guard.firedStatKeys.has('counter-attack')
             ? ` The counter-attack pattern we identified is now under maximum pressure.`
             : '';
-          return `${ctx}${counterRef} Clock pressure, attacking patterns, and score situation are all elevated.`;
+          const perspRef = chosenCode
+            ? ` ${(() => {
+              const yours = chosenCode === match.homeCode ? hs : as_;
+              const theirs = chosenCode === match.homeCode ? as_ : hs;
+              const team = chosenCode === match.homeCode ? match.homeTeam : match.awayTeam;
+              return yours >= theirs ? `Hold strong, ${team}.` : `Push now, ${team}.`;
+            })()}`
+            : '';
+          return `${ctx}${counterRef} Clock pressure, attacking patterns, and score situation are all elevated.${perspRef}`;
         },
       },
       {
@@ -1609,7 +1749,12 @@ export default function LivePulse() {
         if (cancelled) return;
         const summary = normalizeEspnSoccerSummary(raw, match);
 
-        const fakeEspn = {
+        // Prefer the real scoreboard status (carries period, winner, and
+        // shootout note for matches decided on penalties) — only fall back
+        // to a synthetic one built from matches.json if ESPN no longer
+        // serves that date's scoreboard.
+        const realEspn = matchEspnStatus(espnEvents, match);
+        const fakeEspn = realEspn ?? {
           state: 'post', period: 2,
           homeScore: match.homeScore ?? 0,
           awayScore: match.awayScore ?? 0,
@@ -2028,6 +2173,33 @@ export default function LivePulse() {
               <span>{selectedMatch.awayTeam}</span>
               <FlagImg emoji={selectedMatch.awayFlag} size={22} />
             </div>
+          </div>
+
+          {/* Team picker — pick a side or stay neutral */}
+          <div className="pulse-team-picker">
+            <span className="pulse-team-picker__label">View as</span>
+            <button
+              className={`pulse-team-picker__btn${!chosenTeams[selectedMatchId] ? ' active' : ''}`}
+              onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: null }))}
+            >
+              ⚖️ Neutral
+            </button>
+            {[
+              { code: selectedMatch.homeCode, name: selectedMatch.homeTeam, flag: selectedMatch.homeFlag },
+              { code: selectedMatch.awayCode, name: selectedMatch.awayTeam, flag: selectedMatch.awayFlag },
+            ].map(t => (
+              <button
+                key={t.code}
+                className={`pulse-team-picker__btn${chosenTeams[selectedMatchId] === t.code ? ' active' : ''}`}
+                onClick={() => setChosenTeams(prev => ({ ...prev, [selectedMatchId]: t.code }))}
+              >
+                <FlagImg emoji={t.flag} size={14} />
+                {t.name}
+              </button>
+            ))}
+            {(!selectedEspn || selectedEspn.state === 'pre') && (
+              <span className="pulse-team-picker__note">Pick your team before kickoff for a personalized feed</span>
+            )}
           </div>
 
 

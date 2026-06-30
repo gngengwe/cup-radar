@@ -34,8 +34,13 @@ export async function fetchEspnScoreboard(dateStr) {
 
 /**
  * Finds a match's live status within a scoreboard `events` array by team codes.
- * Returns { state: 'pre'|'in'|'post', clock, homeScore, awayScore } or null
- * if the match isn't found in this scoreboard.
+ * Returns { state: 'pre'|'in'|'post', clock, period, homeScore, awayScore,
+ * winner, statusDetail, shootoutNote } or null if the match isn't found.
+ *
+ * `winner` ('home'|'away'|null) and `shootoutNote` matter for knockout matches
+ * decided on penalties — the scoreline alone stays level (e.g. 1-1), so the
+ * scoreboard's own winner flag and the human-readable note ("Paraguay advance
+ * 4-3 on penalties") are the only signals that say who actually advances.
  */
 export function matchEspnStatus(events, match) {
   for (const event of events) {
@@ -49,12 +54,17 @@ export function matchEspnStatus(events, match) {
       || normalizeEspnCode(away?.team?.abbreviation) !== match.awayCode
     ) continue;
 
+    const winner = home.winner ? 'home' : away.winner ? 'away' : null;
+
     return {
-      state:     comp.status.type.state, // 'pre' | 'in' | 'post'
-      clock:     comp.status.displayClock,
-      period:    comp.status.period,
-      homeScore: Number(home.score),
-      awayScore: Number(away.score),
+      state:         comp.status.type.state, // 'pre' | 'in' | 'post'
+      clock:         comp.status.displayClock,
+      period:        comp.status.period,
+      homeScore:     Number(home.score),
+      awayScore:     Number(away.score),
+      winner,
+      statusDetail:  comp.status.type.shortDetail ?? comp.status.type.detail ?? null, // e.g. "FT-Pens"
+      shootoutNote:  comp.notes?.find(n => n.type === 'event')?.text ?? null,
     };
   }
 
@@ -111,8 +121,11 @@ export async function fetchEspnSummary(eventId) {
 export async function fetchCachedSummary(eventId) {
   try {
     const res = await fetch(`/api/summary?eventId=${eventId}`);
-    if (res.ok) return res.json();
-  } catch { /* network error — fall through to ESPN */ }
+    // Await the parse inside the try — a non-JSON 200 (e.g. no /api/summary
+    // route in local dev, which falls through to the SPA's index.html)
+    // must also fall back to ESPN, not throw past this function.
+    if (res.ok) return await res.json();
+  } catch { /* network error or bad JSON — fall through to ESPN */ }
   return fetchEspnSummary(eventId);
 }
 
