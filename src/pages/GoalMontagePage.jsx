@@ -72,6 +72,7 @@ export default function GoalMontagePage() {
   const [shareStatus, setShareStatus] = useState('');
   const [transitionState, setTransitionState] = useState({ fromCity: null, burstKey: 0 });
   const itemRefs = useRef({});
+  const feedRef = useRef(null);
   const touchStartRef = useRef(null);
   const previousActiveRef = useRef(resolveGoalIndex(feed, goalId));
   const skipInitialScroll = useRef(true);
@@ -109,12 +110,21 @@ export default function GoalMontagePage() {
       return;
     }
 
+    // Scroll only the feed rail itself, never an ancestor — native
+    // scrollIntoView() walks the whole scrollable-ancestor chain (including
+    // the page), so on mobile, where the feed rail sits below the fold
+    // while the user swipes through the story card, every goal change was
+    // yanking the entire page down toward the rail. scrollTo() on the
+    // rail's own container can't escape its bounds.
     const node = itemRefs.current[active];
-    if (node) {
-      node.scrollIntoView({
+    const container = feedRef.current;
+    if (node && container) {
+      const left = node.offsetLeft - (container.clientWidth - node.clientWidth) / 2;
+      const top  = node.offsetTop - (container.clientHeight - node.clientHeight) / 2;
+      container.scrollTo({
+        left: Math.max(0, left),
+        top: Math.max(0, top),
         behavior: reducedMotion ? 'auto' : 'smooth',
-        block: 'nearest',
-        inline: 'center',
       });
     }
   }, [active, feed, reducedMotion]);
@@ -442,7 +452,7 @@ export default function GoalMontagePage() {
                   <span className="goal-radar-page__panel-badge">{feed.length} tracked</span>
                 </div>
 
-                <div className="goal-radar-page__feed">
+                <div className="goal-radar-page__feed" ref={feedRef}>
                   {feed.map((goal, index) => (
                     <button
                       key={goal.id}
