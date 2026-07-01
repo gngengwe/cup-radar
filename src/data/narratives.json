@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-01T17:13:34.142Z",
+  "lastUpdated": "2026-07-01T19:55:58.737Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1036,7 +1036,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 139,
+      "chapterCount": 140,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2149,6 +2149,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb010RGRRc2lZR2ZkMHV6dWl0dnlxTkxTT2pQa1RfM0haT2o2MHQ0dmRndHVyX3p2Uk1fYjRTWjg4djdyWjg0d093cWxpNVp1V01UUGQzUU5oMWRLdm94ZmFjT2JTRkVFUXJBOTdReThydXdDZGdWRjM5cEhCWTlIYko3VE93WmtzSjl2ZHZCeWUyU3E3QUIzb25mN2I0cE54UV9nWWdJaUJZcmlGSWViZlhxUUdYV2ZoeThSbGJFd19Zd3puekE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782935757247",
+          "date": "2026-07-01",
+          "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Matches Messi; Haaland Lurking - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVtVV96RjVPR1Z5aGw3S3B5RGxKZW95TmsyQzR6bk51ZUVoeW9CYU5WYmdlZU81Y3dSTm4zX3QwOTFXeEdXdVFvZWFZdFZuakF2N3BvMU42cVNrOGN6TFlyVm5jUEdLOWNMbVpUbkJWZmdsZ3NZbVZZODljMWM0RnJoYUtETjDSAYcBQVVfeXFMTlYwcUNGcHItYWR1dEF4WGxwT1hoTG9HZ21BWDFSY3lVNllzaVhVb2NzR1BPaXA2MGJhaHJsMWs4Z0VQUXpYbW9FeWtETXgwdjZ4c1U0ZDFMQkVOTE5VZlhXRVVZZDBCeUNkYXNfMXRyN0p4b3c1MmhERENVQXJLdjc1OTI4ZHlv?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2167,7 +2175,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 328,
+      "chapterCount": 330,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4792,6 +4800,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG05QnI0Y09zWXIwc0wySE9nTkk0QnFhTTFxcHlxS3dRM0lvRmlsLUVGZGNvYWZUMnZseHI4VEZrR2pjMG5MOHZjRjhBeS1Kay15RDA1TzBRekZrdndmX3d4Rno0aHZNM2F4YldMbGpSZ3Z4bTZXUm84YXBNTGtIN2tfSVhIXzhZRnlkUG5TR3dtUjJibUlWejRpOXg1SFBlY19QRGFGSDZVZFhUaXZBOFhEdEFKYnNYZjk1bVpUTG56QQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782935757728",
+          "date": "2026-07-01",
+          "title": "'Texas Fight' featured in hilarious USMNT World Cup video - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmkzbFVSVjdnaG5veHFGd2hmMElRbTloTHhvYkxXMW02RkRIN2lTeTdCV0lpRkgzd3hDY1cwd3NoVVlvdGtZQlAwV1NJVERLcF8wb0lzSVJsMEREd3hwclpweUduT0RZWk5OZS01emYzLVk2VmktdHpmVnFnYlk4VUlaT1poWFJ5RDFUaXVB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782935757728",
+          "date": "2026-07-01",
+          "title": "World Cup Daily live: Kane rescues England in comeback win over Congo DR - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHVZSjBIQ2JKQWExNWdSY0kxQWwwSlR5RHJWQTJPcFFSdTB6a2Z3dnhsOXNLWmxIYlplRTBxbnJ6dkhBTlJGZ2lPRjVSSmd3Mmp4ZGJTdXR5SVhZR1JKX1NlbF8zVVY2cl9GQ3FqVVUtajJhYmF5QWZQamlVX250WVNYX2hCZi1wOGp5YUMzYzZ6TEl1TWxrS3gtM1hkSkJSSTlqV2VKZzExYXhtMWpqNjd0Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4810,7 +4834,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 318,
+      "chapterCount": 322,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7355,6 +7379,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjJ2bXZwRnFzMGxwb1l1WFBmRmxvcmtqdE9QVkxnaUZfTW4ySTAzdlpWblBia3pOZnJjQ1ZyRExpUGpJWG80a0lsdF9qbmtxZWdFYUZXckw1OE1EUEhsZ21WZ1FNVzgzZXlzSmp5dzU1d0pvWVNyUlV3SlNKekJRRVo4UGFCb1REcFdFbG5TN2Y2eWF1Z3RybFM5NDhpakF0a1FnNERaZjRpSDFFTXBIVw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782935758241",
+          "date": "2026-06-29",
+          "title": "World Cup 2026: Brazil v Japan among games to come as last 32 continues - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PNXB4cDVfSjBWaXk3b3dxVG5fNTVPR3J4ekNDMTNldkZWOW1ScjctRkhVVFN4RUxFcS1xSDJ6N2RKcEtrM2VGLVRCQUtKcXVKOVB3eS1SOUFIcGpnSndfOFR3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782935758241",
+          "date": "2026-07-01",
+          "title": "Brazil vs Norway World Cup round of 16 prediction, odds, preview - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTRVTUFtd0N0LUd6RUtqSmFPaXU1ZjBHLWxZY1Z2T2F4bDZBazVic1dEaVZjdklvVWUyZWRaR3NSS1ZtcWg4WUctaGtEbWZTcDNQME9aNThTRTdhN2JNeTd3cU5LbVp4V1dOUElfUkNlc1dfQ2FsSk12bm9YZ3l1NUM3OUlSZmZBdEt1NmJ0MmV3dXBJVnRlWGR2LVRnVVRlVlhHblMxSF9idUcwX0o3U1BERzFCYW1PU01ZV09fdjFjbFFF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782935758241",
+          "date": "2026-07-01",
+          "title": "Who Is England's Next World Cup Opponent? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXlvOEIxbVI4ZS1KeW9Fa3kzcnBZc1UxY01ueE00V0t1WXVvek96Z0N1Yk9GNkIyQTFieHRVcmxqcDlLWnI3V2Nwc0RXNmxkbHowWGxDU3QzeGVxU3JPSUt3cHQtaVF6eGFValpack96Rjcxdjh4WVgtSUZwcXdPaXpB0gGCAUFVX3lxTE92Q1k5UGQ0Wi1DUzdOc053Umh2LVdpdjVZWDNRa2R3eTBtdlNYckk5VUkzM2pOajI0bU45cjlwNkFOMmlRSWFMeUZlNTVkZnZqNDYtRG1WeU9DaEpyZ0NCUnF4MjAtcGhTRzRGWUthZTdmSmNDSkhETTRtVmswY245b2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782935758241",
+          "date": "2026-07-01",
+          "title": "Brazil's Lucas Paquetá to undergo intensive treatment on hamstring injury in bid to play at World Cup again - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTBVMm4ySGZuQk1zSDBKWThZamR6N25LZjJXYUdkUHE5Q3pUaGlXRmNBZWUySDBObTRteHR6VGgxSHlvcWpnYldSa1V4SXYwZmdJNFNGc1hZMUFDVkhRdTVjRzRfOHlRSDlwWlo4Sm5Eem5rM01IN0FDNWpvRFZvd01odG9zRi1Vc0thWDJkeGxrcy00TmxUWUg2T3BHV3I2?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7552,7 +7608,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 350,
+      "chapterCount": 352,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -10352,6 +10408,22 @@
           "title": "England's World Cup 2026 fixtures, schedule and tournament route to final - how Three Lions could lift trophy on July 19 - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeVV3eWRvTHg3QzlrQmxxOTQwaDB2OS1nd05NQlVSeS0zZWZaWTBpODIzY3pXV3Q1LXdpbEdVS2NYMC1nc0pEVGVuLXI1ZW5HSEw2RUhkOHBpVHNzdWdERkJDek5Xd1dpQ2lkQ2czRTRIWFJ2ODZma0dMZGFNOG1jZldoaFA5QkJVSGswS3cxOC1ydDFBYThwbEgweHVNeS1IWUhOUEVpaXNSQ0NWNHg2OEdzY0FtRGl6UEdRSGlDcFA3dGhpRHJrSHNfVWhrNGJpLVVXUGdkWEh4TEpxVVh0OHJIOVU3dzJOUDctVWhiMS1iMUNvLUtpZUFnVmFOQU9T?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-atl-06",
+          "date": "2026-07-01",
+          "title": "England beat DR Congo 2-1 at Mercedes-Benz Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-008-1782935758737",
+          "date": "2026-07-01",
+          "title": "Mexico into the top six: Re-ranking the 48 World Cup teams after day 20 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVvWWlYZURjWm91RmNiUkpZUUtPWnV2aXhQMENGQzhaOGFIcDFzbmNfaWRINWNMd2oyTGhKSTJfWVFhT2NwdkVfZWVwVUN4NHVZSC1Gb3JIQy1XWFZFaDd4T3RkRm4ycGgwbnZ2aDU5cHdUdFBQU3lJWEMwd2VvZ0tUVkhtQ00?oc=5",
           "draft": true
         }
       ]
