@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-06-30T22:14:55.818Z",
+  "lastUpdated": "2026-07-01T03:54:50.134Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1028,7 +1028,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 129,
+      "chapterCount": 134,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2061,6 +2061,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSm9mYzVTTkc0UFp2c2stUzRkdXEzd3htZVZtSUh1UnRFT1A5SVRmVUZNVVNWWVBwQzJiV3FmaGVjUGZWam9EaGg2Ukl2MFM3dnJETVNUZmlqdWVoRXJOWkpMXzBXOVBfN3pxNURqbjYwUlBUM3plWUpiRERhLUpOWElNc29faG4tcmFUUWRYbVZZYW1FVUlRbHY4VDJoWHZXV0Rxc295czY3UG43Tjk0MUZCUWdvMVhRLTgzRw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-nyc-01",
+          "date": "2026-06-30",
+          "title": "France beat Sweden 3-0 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1782878088551",
+          "date": "2026-07-01",
+          "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX19TU1lOUGNUaGdLZE9NaVVDc192VVFadFF2WW1ZZ1ZQUjAySHNYWEJTeFROWDRjWmFwTUsyVUMwZ25oaUlURXFNT2JDOHljV3l6Um9oNFV5RktNZEt0cE93Qm01c2tOWFRPTEZJVzZWQ0hya0p6LVR5UVA5S0lNYUNJVXJoVEFkT0t0NjQyOHZKYnEzZmNSSHA0QVlIT1ltbUYtZ253UjFIMlNIakdfWtIBtgFBVV95cUxNdnJSS1hwVmdFdXBmdzNkLTNNMmZTT05KZkh6czVDX3gzSTUyS2ZYVDJHVzZQMVJBRC1CQkk3eWZZN2U2Yzd4VmJWcjFEVW9jaVktSUpMc3hHdDhJM1diTzBMdW1BaDRUUUd4aHBNdE5qZWQzSjU5aUFsY19Gelk0U0tBT1IxUk5CTFZRVzFPZjJBMVBCVDFhb21ZbU9la1RzWEJaSTBrSHlPWGZGY0JObkN0V1NLZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782878088551",
+          "date": "2026-06-30",
+          "title": "Kylian Mbappé finishes brilliant Michael Olise assist to extend France's lead against Sweden | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mSDVpU1pXalZ4LXZVMWxwRDdMWmdwZHRtWWRKMlBqa01acGpTdFYtNGtIZUpTbVlWWmZOVmcwYWtfRmtHSmY3OS16LWcxd21VVnJ6X3VvM3JITXBVcHExbW13?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782878088551",
+          "date": "2026-07-01",
+          "title": "France beat Sweden as Mbappe draws level with Messi in World Cup goal chart - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM016Zk5BakxXUTVadzdfc1QzSkxkMWp5MC0wLW5WNXVTTzZWMDV3SDNRZDJKODYzZjVnNmtXZndrWW84bUhISk5udEludVFsb0hDX2JuM181N3RpTWJJYlFxZlZFQVlZRmJiRG9LSEVmb215anZJMF9RSkFfT0hCcXBCRGY0cldUZHd2MGpuWEtNTUw5X2lJX09WMll0bFVWX2k1VldFRGFzd0JPUGZueDltRzI0RG5n0gG-AUFVX3lxTE1YTjVzRTNLV3hJYUhMbnJpWUZ4VnFIV3QxM3IwWXBvalV1YU8xRFpDQVdIZnVkLTYzY1U0THYwRkdCb2szZFlGcmpVM3BVdlNRNWFUSnJqbS1udXNmemcxYzdteTFoVnZBOXRuMDVYY0FfYldZXzZkWjByVGJfdk5oY1pibmxJRWZvU2tlVU1PS2piZGx1X3FyTXBOLWFmaF90aEphbngxWjJXT2NLRE40b2tTWl9mcnJWSTk3U1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782878088551",
+          "date": "2026-06-30",
+          "title": "Mbappé sets World Cup knockout record as France oust Sweden - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZV96aUl0V3NaT2V5aWZuWDFhaTI3LWtwOHIxLXR5Uld0c0RibWNLbWdVMC1aWll2Yl9oblRXcl9ObkxLQW93blBmcnNXcjdUR2R1bXhCQUJ0dVZFdnNYNUxHWlZfNS1aMm5EUkY1NHJjRGhMT1RDSFFJVVdpT2x2R2lHR3M4eEVxMHVzVGxBNnM1akg4dXNOa2V5cEhmQ09wYlQ1Tm5VdnhxWWhwdE1ZUw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2079,7 +2119,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 314,
+      "chapterCount": 318,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4592,6 +4632,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEhUR2JDaVFlRlEtTERnU3p4T05mN3ZrZWVxNUZFQzJHOHhROUt2QkpOYXV0ZzJqMXc5LWE5bHg3TUw2OWdqZ1BIX3p1ZzRqdTVWMEVWeTlsVTZiUnZWMGh0bXBYXzltT0lUSERpcFhSRW9IQUtCTklOdkc4a09KR1h6b2dpVE0wSVV6c256QWI2SVdSZ1YwQVp2eUU1YklrSDNSR1hIX196aW0zMVV6UFJB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782878089075",
+          "date": "2026-06-30",
+          "title": "USA vs. Bosnia And Herzegovina: Storylines, Projected Lineup, Predictions - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODFsajR3aW0zSGxfeUEzRzRndVdicHJRem15alZIb1JJTjhEMXNSbXFvUHJBOHF0TkI1TzBrWlJwNFR3a090RFRRdDNBUzZGVDB4WTlvWm9nVUIxdENzQUtsOWkwaV8xOXQ5bWFHbkIzQ0llVFNZSjRfQkw2SktqYUZhMjdXbDZ0SmVHLUMtVTJmbWhnSkdBLVV6eTBETEZLbi1tN0RldHdmeTdvUXl5QzdTSVN6NGxXRTVWdWg2U3h5cktEQnc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782878089075",
+          "date": "2026-07-01",
+          "title": "2026 World Cup Odds: 'USA Winning On Penalties Would Be Best Outcome' - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalF2eXFxT1c5QmRNdlJSX0Y5YUc2UWJubUFvd2lZdktmQVhEWHpZNFBBeUszbTlFQ3RQLUREVVU1NDJHb0thZUx4R1BoT2FuNU1qbXMwX0lqeFJNTXVjMGtTNHVoTjd5enRwOWI0Y1ozdFRBdUZ3UGZtVHVnNXF3M0lVVFVlTjRpdmZ5b0Y2Wk9Qb0FHd3hhVWpvM3dKNjBTbGfSAaIBQVVfeXFMTkNYZFJ6UG1ySEZSYm1uaDZJbTR6WnZ6Zmt3TVNrZF84SjRNZGxDZkFkZGpFdGxhZExyOGlHcnpoSTl3N091bjRfUWZGakNLYzFQeFp1Z1BDd01ENTVzQkkxVVJFa3Z0cUVHZjVGd3oxSm1tTWxJWklVUjVXbks4d3VKRFpsVG9wR1BQOVBQU093SlBMZGI2NUtDekd3QzhST1Z3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782878089075",
+          "date": "2026-06-30",
+          "title": "2026 World Cup: How to watch all of today's games, Tuesday, June 30 match schedule, free streaming info, and more - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNVBLYnVUSUFkMkRINkIwbndkZHdTdy0wTy1XZmhSTTExZWxDTzJfcVJhak1lYVhQd2pLMnE2RkVCa2hkUXVBSXVyTHVDQjQxdVpGNmN5aEw5bzVaTjZoaVlhZkxMN3lNZ3ExSVozVXY2bXNmZlpPb3RuYWdwX3JQY2QzZjZWYlVnaG1QQXlnTFVPRm1VNGxySjV1bEE3VXp2UEI4VFlzeFJpU2lxc2JvTGtqNE50TDJST1FpY0k0bTZCWWlXZHBFNUpzWjlwanlhd0R1TVJBR3FNZUV1RWVGNW91d0xfTzFGalhlaDRaSHpyNWxy?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782878089075",
+          "date": "2026-06-30",
+          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2Rg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4610,7 +4682,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 311,
+      "chapterCount": 313,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7099,6 +7171,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUtpVk5SS3ZfMjg4eWF0NjVCTnlsdnpjLVlFYVNHOWlYZGN1LXZFd1FoTlk2V0xvSi1sWUdVTDJScXI3ZkhLUE1zXzRzbnNtR1Rwbmt6TG5JcGpfYkZqa210d3MtY3VHZVhCTGlZVTlBdTNzYmw5Qk1iOFZmR3I2SWRQNkRTTFkwZkhyZFBpSXZQaUgtUHRTZ1RNMXRnLXpjUmo0dFFTaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782878089609",
+          "date": "2026-07-01",
+          "title": "Jameis Winston's NFL Trick Helps Him Lead Brazil's Iconic Soccer Chant 🇧🇷 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nSFVzRjZ2djIyYzgyU0ZCUVZRTlpCQVhZbE5UZzhhWWh4RE5abng3QzNLYzBrU2h6WFRWbnBTWGs1UVlscTFJYVRLRnhYTlhBcXV1RXBxb0FTb1VHZVhXZFdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782878089609",
+          "date": "2026-07-01",
+          "title": "World Cup 2026: Ivory Coast 1-2 Norway - Erling Haaland scores dramatic winner to set up last-16 clash with Brazil - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbllFSGxRQVJPZnNKa3ZGUERpM2F3ZWhUTDd4SGM0dElHaVk5cVZvVVJVVUhfVVlEREtFQ3V4a2haMW1wVGJWTWNpb3FnU1oydGlkM0QxQ253WWpzakdnZkpzd0lEbHhyZm1Wc05FMG41R1dWY2xtVmN5Z1AxVEtQaU8xNHp2MUY3d0ZBZUY5a1pneEtKOUtFek8tdlI0cEJfc1RwYlFqM2VuaUp6VHB3dC1sU1QwZUhfbWM1ekhYTU1mMkFVRjhGdTJtcXdhRWV5M1hLbHN0Wm9zRHlTRFNfQmpGNDZOMXNHNV9lbmwxZXZqUDRnSWpCdXhR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7280,7 +7368,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 336,
+      "chapterCount": 337,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -9968,6 +10056,14 @@
           "title": "World Cup 2026: Last 16 for Paraguay, Morocco & Brazil as Germany, Netherlands and Japan go out - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SQlBYNWFrbXNNUGVfRmEyQmFfbm5PYzVVZEZwOUVlTTNzOU1oMmNUUHR0d29oa25MbFpIWXVqYm9XbjFjOHQ2RTEwTi1SYnZQLUdjcnVya0R0bU1xODJoa3dPcjI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782878090134",
+          "date": "2026-07-01",
+          "title": "World Cup 2026: Thomas Tuchel says England will stick to Southgate penalty plan - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QV25uQzN4T1liWkRVTXJ5bzVZeVkyaTRwcHh5bnlhODBPbFROcDBVUU9YemhTR3NCdVBDS1ZnTXRoVTdxbmFiSDRCWkdqYXUyVXhsaURkcC03cHpLTjRKdkh3eU9iZ1E?oc=5",
           "draft": true
         }
       ]
