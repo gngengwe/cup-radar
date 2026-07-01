@@ -3498,7 +3498,7 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 2,
       "awayScore": 0,
       "notes": "Winner Group A vs 3rd-place (Group E) — Round of 32"
@@ -3818,5 +3818,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-01T03:54:50.194Z"
+  "lastUpdated": "2026-07-01T09:46:43.019Z"
 }
