@@ -2265,9 +2265,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "atlantaMatch": true,
       "notes": "Winner Group L vs 3rd Group E/H/I/J/K — Round of 32 at Mercedes-Benz Stadium"
     },
@@ -3818,5 +3818,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-01T09:46:43.019Z"
+  "lastUpdated": "2026-07-01T17:13:28.420Z"
 }
