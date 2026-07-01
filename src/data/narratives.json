@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-01T19:55:58.737Z",
+  "lastUpdated": "2026-07-01T22:17:22.070Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1036,7 +1036,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 140,
+      "chapterCount": 141,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2156,6 +2156,14 @@
           "title": "2026 FIFA World Cup Golden Boot Race Tracker: Mbappé Matches Messi; Haaland Lurking - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnVtVV96RjVPR1Z5aGw3S3B5RGxKZW95TmsyQzR6bk51ZUVoeW9CYU5WYmdlZU81Y3dSTm4zX3QwOTFXeEdXdVFvZWFZdFZuakF2N3BvMU42cVNrOGN6TFlyVm5jUEdLOWNMbVpUbkJWZmdsZ3NZbVZZODljMWM0RnJoYUtETjDSAYcBQVVfeXFMTlYwcUNGcHItYWR1dEF4WGxwT1hoTG9HZ21BWDFSY3lVNllzaVhVb2NzR1BPaXA2MGJhaHJsMWs4Z0VQUXpYbW9FeWtETXgwdjZ4c1U0ZDFMQkVOTE5VZlhXRVVZZDBCeUNkYXNfMXRyN0p4b3c1MmhERENVQXJLdjc1OTI4ZHlv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782944240209",
+          "date": "2026-06-30",
+          "title": "Kylian Mbappé Scores Brace vs Sweden 🇫🇷 His Third in 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QcVZ2ZDRjTFBzYy1kZzA5VVlvU01Jak5yckxkdnRnRFRkVG9FUXBPRlRlZm44Y0hxVHBlZkdLanl1Tnd0RTNPNDUyeW1RTjNleDhCVFdVUkRwV0ZpQU01SmF3?oc=5",
           "draft": true
         }
       ]
@@ -4834,7 +4842,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 322,
+      "chapterCount": 325,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7411,6 +7419,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTBVMm4ySGZuQk1zSDBKWThZamR6N25LZjJXYUdkUHE5Q3pUaGlXRmNBZWUySDBObTRteHR6VGgxSHlvcWpnYldSa1V4SXYwZmdJNFNGc1hZMUFDVkhRdTVjRzRfOHlRSDlwWlo4Sm5Eem5rM01IN0FDNWpvRFZvd01odG9zRi1Vc0thWDJkeGxrcy00TmxUWUg2T3BHV3I2?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782944241316",
+          "date": "2026-07-01",
+          "title": "World Cup Round of 16 picks, predictions: Best bets for every match, including Brazil-Norway - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZUZCZWE0TF9IM0NXeVVTdFBLdWdHc0VjZ0Nvc3A4ZjFuMFJpN0xRMW1qdEFQRTV0VWE3QXdINDZ4M0hQaEpuSklpUDhlX190M2RTMHhrVHl4Q2syWFJwQnNBODUyWWJsZ1pBNHh3VVN0eWJ6RzhRbzMzdlVnaTRjYm5QVUlQRk00MEY1c0x4Q1hzX21IemJjeWV5azBlREJISGFJNHdHa3hhRTBEZ2c3TmN6TWtTRGZoYllFbTVFTTVJQmprQko1UFBFOXJQdXU0XzhQaXZqVnNFR3ZCMks3MlVDWXl1NlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782944241316",
+          "date": "2026-07-01",
+          "title": "Brazil star 'practically out of the whole World Cup' after injury against Japan - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmFFNzV2cFhtQzlxTWNVY3czaFRPTUtCa25GM3VLSWNDd2ZEUFpkLWVoT1RrS3RLVUY4bnhtaF9PYTJVdVpZTFp0anQ1N0NfTlJjUFRhb001SWRNZkhjSUJtcWFLYlppN1o1VUU0dkdLM0RHVkRacWQyVlROczRiZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782944241316",
+          "date": "2026-07-01",
+          "title": "Brazil Midfielder Lucas Paquetá Ruled Out For Round Of 16 vs. Norway - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWDM4SGkzZllTbXJELUUtS1pmSXQwcXkxOG5hYkNhY0RBbV83OFBXbUhNb1VVVHZFYllZMTQyMFZiaVZNMkJPeE4zaDdwR0JmcVZqbTBmUmROcHdmUDhwNnFESHZnWlRFT2Y3Mlk0b3FrM2xZQklkZ3F0QzBnTWtVcDBiWjlKU2xWa2s5elVjY29zTmZldVhXdTJ2TUg3VWFON2MtTXk2NzA3bWZVVEJZS2JURmE5NUhQUFZ4MGYtSWpiRFZSWUtpX3l4eWxHVHNIUXBR0gHTAUFVX3lxTFBSRXBDdEtaT3EyR0F5T053M3NqdmZjOFg0WFkweFNIRURDZ2hIa1ZDaThjNlA1WlhIX05oVk1MaGFIT0hmb2FteFFRRllNVUJSb1hwbFBxMXlXaDIyTmVabVUxUDFrOUZ3dEozM3dQTVVZM0ZETnJvRHRVaW43aHFfNFJkOVVGcmU5aUhlVWU3Zktja05WNlVUNUxKSWtyTktnM0FEWk9Id1BxQkR2WWJlaUgyWmp0NllzeVcxeDJPR2xzTmc1RWtBQl9TQzBuUVk5cEk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7608,7 +7640,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 352,
+      "chapterCount": 353,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -10424,6 +10456,14 @@
           "title": "Mexico into the top six: Re-ranking the 48 World Cup teams after day 20 - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVvWWlYZURjWm91RmNiUkpZUUtPWnV2aXhQMENGQzhaOGFIcDFzbmNfaWRINWNMd2oyTGhKSTJfWVFhT2NwdkVfZWVwVUN4NHVZSC1Gb3JIQy1XWFZFaDd4T3RkRm4ycGgwbnZ2aDU5cHdUdFBQU3lJWEMwd2VvZ0tUVkhtQ00?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782944242070",
+          "date": "2026-07-01",
+          "title": "Belgium v Senegal: World Cup last 32 – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzI1eGM1ZDNjWGFIcUhuMzk1UjRaMlc0WTdOWFNuZF9mSEpXLUdBRnc1eERKQmx0ZHVEdG51VFJVSEpWWGNJdXl2NTlPa1RZUm5HdnFjNXJBdHJxaVN0Z1NHVHZQc2R1UmtBRFJpVVh4ZmdBOE11d0FPcm5jM3FOUFRIN3NEaGI2RnAzUWR5OTUwZWRqeUZLQjZ3?oc=5",
           "draft": true
         }
       ]

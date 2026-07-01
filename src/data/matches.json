@@ -264,9 +264,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 2,
+      "awayScore": 2,
       "seattleMatch": true,
       "notes": "Group G Winner vs best 3rd-place (A/E/H/I/J) — Round of 32"
     },
@@ -3835,5 +3835,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-01T19:55:58.872Z"
+  "lastUpdated": "2026-07-01T22:17:16.323Z"
 }
