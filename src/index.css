@@ -8468,3 +8468,536 @@ a.wcp-source-chip:hover { color: var(--text); }
     transition: none !important;
   }
 }
+
+/* ── World Cup by the Numbers ────────────────────────────────────────── */
+
+.stats-page {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  min-height: 100vh;
+}
+.stats-page__back {
+  display: inline-block;
+  font-size: 13px;
+  color: var(--text-muted);
+  text-decoration: none;
+  margin-bottom: 32px;
+  margin-top: 8px;
+  transition: color 0.15s ease;
+}
+.stats-page__back:hover { color: var(--accent); }
+.stats-page__hero {
+  padding-bottom: 56px;
+}
+.stats-page__hero-title {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin: 8px 0 12px;
+}
+.stats-page__stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 32px;
+}
+.stats-page__stat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 20px 22px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 20px;
+}
+.stats-page__stat-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.stats-page__stat-value {
+  font-size: 2.4rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  line-height: 1;
+}
+.stats-page__stat-value--accent {
+  color: var(--accent);
+}
+.stats-page__stat-note {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.stats-page__section {
+  padding-top: 56px;
+  padding-bottom: 8px;
+}
+.stats-page__section h2 {
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  margin: 6px 0 8px;
+}
+.stats-page__bar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 24px;
+}
+.stats-page__bar-row {
+  display: grid;
+  grid-template-columns: 90px 1fr 40px 50px;
+  align-items: center;
+  gap: 12px;
+}
+.stats-page__bar-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+.stats-page__bar-track {
+  height: 8px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.stats-page__bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), #4d8eff);
+  border-radius: 999px;
+  transition: width 0.4s ease;
+}
+.stats-page__bar-count {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--text);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.stats-page__bar-pct {
+  font-size: 11px;
+  color: var(--text-dim);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.stats-page__pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+.stats-page__pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 999px;
+  font-size: 13px;
+}
+.stats-page__pill--accent {
+  border-color: rgba(0,230,118,0.25);
+  background: rgba(0,230,118,0.07);
+}
+.stats-page__pill-label {
+  color: var(--text-muted);
+}
+.stats-page__pill strong {
+  color: var(--text);
+  font-weight: 800;
+}
+.stats-page__empty {
+  color: var(--text-muted);
+  padding: 20px 0;
+  font-size: 14px;
+}
+.stats-page__comeback-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 4px;
+}
+.stats-page__comeback-item {
+  padding: 14px 18px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.stats-page__comeback-matchup {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  flex-wrap: wrap;
+}
+.stats-page__comeback-team {
+  color: var(--text);
+}
+.stats-page__comeback-score {
+  font-weight: 900;
+  color: var(--accent);
+  padding: 2px 10px;
+  background: rgba(0,230,118,0.1);
+  border-radius: 999px;
+  font-size: 13px;
+}
+.stats-page__comeback-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.stats-page__comeback-chip {
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.07);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text);
+}
+.stats-page__comeback-chip--multi {
+  background: rgba(0,230,118,0.15);
+  color: var(--accent);
+}
+.stats-page__comeback-date {
+  color: var(--text-dim);
+  font-size: 11px;
+}
+.stats-page__late-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
+.stats-page__late-item {
+  display: grid;
+  grid-template-columns: 44px 22px 1fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+}
+.stats-page__late-minute {
+  font-size: 13px;
+  font-weight: 900;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+.stats-page__late-body {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.stats-page__late-player {
+  font-weight: 800;
+  font-size: 14px;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.stats-page__late-context {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.stats-page__late-impact {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.stats-page__table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.07);
+  margin-top: 20px;
+}
+.stats-page__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 700px;
+}
+.stats-page__table thead {
+  background: rgba(255,255,255,0.04);
+}
+.stats-page__table-th {
+  padding: 10px 12px;
+  text-align: right;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  white-space: nowrap;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.stats-page__table-th:nth-child(1),
+.stats-page__table-th:nth-child(2),
+.stats-page__table-th:nth-child(3) {
+  text-align: left;
+}
+.stats-page__table-th.is-sorted {
+  color: var(--accent);
+}
+.stats-page__table-td {
+  padding: 10px 12px;
+  text-align: right;
+  color: var(--text);
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  font-variant-numeric: tabular-nums;
+}
+.stats-page__table-td--dim { color: var(--text-dim); }
+.stats-page__table-td--name { text-align: left; font-weight: 700; white-space: nowrap; }
+.stats-page__table-td--pos { color: var(--accent); }
+.stats-page__table-td--neg { color: #ff5252; }
+.stats-page__table-td--pts { font-weight: 900; color: var(--text); }
+.stats-page__table-td--stage {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-align: left;
+  white-space: nowrap;
+}
+.stats-page__table-row:nth-child(even) {
+  background: rgba(255,255,255,0.015);
+}
+.stats-page__table-row--advanced {
+  background: rgba(0,230,118,0.04);
+}
+.stats-page__table-row--advanced:nth-child(even) {
+  background: rgba(0,230,118,0.06);
+}
+.stats-page__gb-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 16px;
+}
+.stats-page__gb-row {
+  display: grid;
+  grid-template-columns: 28px 22px 1fr 2fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+}
+.stats-page__gb-medal {
+  font-size: 16px;
+  text-align: center;
+}
+.stats-page__gb-identity {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.stats-page__gb-name {
+  font-weight: 800;
+  font-size: 14px;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.stats-page__gb-team {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.stats-page__gb-bar-wrap {
+  height: 6px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.stats-page__gb-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  transition: width 0.5s ease;
+}
+.stats-page__gb-count {
+  font-size: 18px;
+  font-weight: 900;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+  min-width: 20px;
+  text-align: right;
+}
+.stats-page__sub-heading {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 32px 0 14px;
+}
+.stats-page__sub-heading--muted {
+  color: var(--text-dim);
+}
+.stats-page__analytics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.stats-page__analytics-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+}
+.stats-page__analytics-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.stats-page__analytics-value {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: var(--accent);
+}
+.stats-page__pending-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.stats-page__pending-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 16px;
+  background: rgba(255,255,255,0.015);
+  border: 1px solid rgba(255,255,255,0.04);
+  border-radius: 14px;
+  opacity: 0.7;
+}
+.stats-page__pending-chip {
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  color: var(--text-dim);
+  background: rgba(255,255,255,0.06);
+  padding: 2px 6px;
+  border-radius: 4px;
+  align-self: flex-start;
+}
+.stats-page__pending-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+.stats-page__pending-note {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+.stats-page__coming-soon {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 24px;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid rgba(255,255,255,0.05);
+  border-radius: 16px;
+  margin-top: 16px;
+}
+.stats-page__coming-soon-icon {
+  font-size: 28px;
+  flex-shrink: 0;
+}
+.stats-page__coming-soon-text {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+.stats-page__footer {
+  padding-top: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  margin-top: 40px;
+}
+.stats-page__footer p {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+@media (max-width: 880px) {
+  .stats-page__stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .stats-page__analytics-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .stats-page__pending-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .stats-page__gb-row {
+    grid-template-columns: 24px 20px 1fr 1.5fr auto;
+    gap: 8px;
+  }
+  .stats-page__late-item {
+    grid-template-columns: 36px 20px 1fr auto;
+    gap: 8px;
+  }
+}
+
+@media (max-width: 520px) {
+  .stats-page__stat-grid {
+    grid-template-columns: 1fr;
+  }
+  .stats-page__analytics-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .stats-page__pending-grid {
+    grid-template-columns: 1fr;
+  }
+  .stats-page__bar-row {
+    grid-template-columns: 80px 1fr 36px 42px;
+    gap: 8px;
+  }
+  .stats-page__gb-row {
+    grid-template-columns: 22px 18px 1fr auto;
+    grid-template-areas:
+      'medal flag name count'
+      '. . bar bar';
+  }
+  .stats-page__gb-identity { grid-area: name; }
+  .stats-page__gb-medal { grid-area: medal; }
+  .stats-page__gb-bar-wrap { grid-area: bar; }
+  .stats-page__gb-count { grid-area: count; }
+  .stats-page__late-impact {
+    display: none;
+  }
+  .stats-page__late-item {
+    grid-template-columns: 36px 20px 1fr;
+  }
+}

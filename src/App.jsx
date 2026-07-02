@@ -10,6 +10,7 @@ import ErrorBoundary from './components/ErrorBoundary';
 
 // Admin panel is lazy-loaded — it's never on the critical path and adds ~50KB
 const AdminPanel = lazy(() => import('./pages/AdminPanel'));
+const WorldCupStats = lazy(() => import('./pages/WorldCupStats'));
 
 // Redirect old /dashboard/:section URLs to /seattle/:section
 function LegacyDashboardRedirect() {
@@ -43,6 +44,11 @@ export default function App() {
           <Route path="/live-pulse" element={<LivePulse />} />
           <Route path="/goal-radar" element={<GoalMontagePage />} />
           <Route path="/goal-radar/g/:goalId" element={<GoalMontagePage />} />
+          <Route path="/stats" element={
+            <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading stats…</div>}>
+              <WorldCupStats />
+            </Suspense>
+          } />
           <Route path="/admin" element={
             <Suspense fallback={<div style={{ padding: 40, color: '#7a9085' }}>Loading admin…</div>}>
               <AdminPanel />
