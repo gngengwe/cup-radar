@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-02T03:35:48.304Z",
+  "lastUpdated": "2026-07-02T08:56:18.679Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2191,7 +2191,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 336,
+      "chapterCount": 340,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4880,6 +4880,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFkzR3hTUkxSeWhTcklVbDdHY3dGT1h1b0J1THlJQm1oVjBrZWZkdDRQc0lLQWN3eXYzdnNUcHU0WWhaeGoyeFVOMjFaVUh5Y3JaUHA5OFFieDJwU0NUSTc1SkRaelN2RzBZeUpBNG91M2dOYUZ3eFlYMTN0OTNwdg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782982577618",
+          "date": "2026-07-02",
+          "title": "World Cup recap: 10-man U.S. defeat Bosnia-Herzegovina to advance to last 16 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGc2dk5nYklMUTFvZk5OVV9jdnpBSmtyZm5mQlFaTTVHMnBkWUY1OV9kb3ctTGI0ODVwMHM1M0hCQmYxdEhqRll2WFBDMjJPLXB5SFNhXzZHcXNyaXRrMUY4cVNXY0dKSlR6aWJwNDNHelc4NjExVkN5YkVDVkJlR2pyeDBoR3ZYRHF4N1ZEd2tXdThRWHdLclRiR3NLRC0tTDl0N004NHZXQlJLUEFEMmdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782982577618",
+          "date": "2026-07-02",
+          "title": "2026 World Cup: Team USA earns Round of 16 game vs. Belgium in Seattle - The Seattle Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUk3VjJHLWl2ZXlMcURQWHFUV3ZUR0I5czlzWmJUb2JEMU5HM1hMemV0SmZaQXBoaUMzdVZhMHVFY1Nmd1Bwa1FSdFlYN29CQV81VXR6QjZjSlYtVnNvZHdJLTU1ZzdjQ3hXVTF4SmItdWxYeDM0YmlSN3JpbWFtZFh6T1BIUzZfWFFRRmo3UHd3amJoTXd3LUo3cTRNYVlHTHdFT3p1WmMxVTE0UHJLajVJMmxnUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782982577618",
+          "date": "2026-07-02",
+          "title": "How USMNT can replace banned Folarin Balogun vs. Belgium after World Cup red card - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbm1kY3JwSjlqQkJqb0Fxb2s0RHNJM3hIbFNrd0UxSENhajQyektsM0hQZW96X0VDYUNXd3haa25ZbHJZVTdmcE1CU1NDZFA5b2FiUDJxbkRYUmdxMnVza3RWMmFKRnlJSnE3aFNjREo1UFpfWWJVN0tBUndhOGR6akR1WDlmbk1VNThnekZmTXRvR1R3WlcwbTdXMkJqZnRMdG13T3BOT3dTeld3a20wWTlkWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782982577618",
+          "date": "2026-07-02",
+          "title": "World Cup 2026: England to play Mexico as Belgium & USA progress to last 16 - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hXzdmTmhVajcxQ0xsbEg3WVVjVm9zS0k3Ymk0MVZqLU5XeEFuVU5XbGwyOEM1NmNlTENsLUhEQW5XT19rOWFlXzFacXpLRnF5cDNkY1E0NWlFSEJJdG96TFpn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4898,7 +4930,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 327,
+      "chapterCount": 328,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7515,6 +7547,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTFZd0taeDRvQ2J4MWtkZlRTSUFqc3YxbWJpc01VSnFScnRsNTZHUnAxWlhoR1hMak5xamFsem93SU9QMjN3bC1sdjBKUWZlb0ZGcTNJZWRLSlkzZ1Q2SXNCY29KZFVtRUM2STRyNmdDOEViWG1IMkRrczNwNmF6Vk85S2htNXFtYkpfdlQzc0g4cnMyelE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782982578212",
+          "date": "2026-06-30",
+          "title": "Japan Fan's Meltdown Goes Viral at 2026 World Cup - Complex",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGdncmtwWkcwajNEYkhtaXlmOXRGMjFtRUFWYkhsVS1OVVdGTjZsS0FPSVMwanNPREY3LTFCbjJ5VzhGXzdNUmpOeXh1MDRmNWlJTkd1V2hob0pUajdCSGppUGNiUFlUWUh5SWlpVTM3S0lHb1ZEOGZaWDc1dXdTTy14UGRkYTZpV0psVG1JTWZiR1c4THQ3S2VFMXg5dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7712,7 +7752,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 354,
+      "chapterCount": 357,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -10544,6 +10584,30 @@
           "title": "World Cup Day 21 recap: England, Belgium and U.S. advance to round of 16 - Los Angeles Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3RFMktIWGFFNzNzTTB0Z2NEd0RBMDVDTWhyb0NVUWR1aWFlR2otNkJGemU2X0pObW4wZU54RmZTVEdIeGlzbTJhUXdGeURSNm9CTXpsUzFvaDFfMVdCMVFySUhfUVpmSUlTNjRsWDdJdWpNUExFR0tGMGJ5QkF5NzhCSGwySm5ZaXNUcmhfWGR4Tk5wekJzdlV3blh1dnU1LXVTc3hFWnA3WnVvRnlB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782982578679",
+          "date": "2026-07-02",
+          "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3ktcUJtNDFLQjFCdXBNc0dXa2t3Qjd0aW1sVEFJdXJXWWw0a0NNckJ6blRiM2JwdldqTm5HVEdlQUc5eFk1ZnJXdDUzaXQxYkEzVm1PNTFQOXpmTHVQZV9sNFJzZXJab2IxMVhJdWlUN0U3bVo3UmlxaWh1QU5nTmVBc3U5Ynp2aXcwSFo3THpNelRqeG1McjY0NEFWbzZpT3EtMnZNd0FmU0haVzd2WFMyUWtNQnI1YnZlcmcyak52UW1QaF9LNmZ6UXIyS0ZYSHZn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782982578679",
+          "date": "2026-07-01",
+          "title": "World Cup 2026: England boss Thomas Tuchel urges parents to let kids stay up for Mexico game - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95MW5XeHNaNF82Sk9tdF9zdjhaNzBpQTdvdUJWMzRDMDJWWjhKWlVDSHBKc19DTXRTZ0xfVzJLZzFqTjlOSnU1ZTBEUWhTWDRhdm1IcGdaLVduVlhLbFRjM2ttWE9MbDA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782982578679",
+          "date": "2026-07-01",
+          "title": "DR Congo's Lionel Mpasi makes incredible save preventing England's Jude Bellingham from converting header | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PcTlvVGhOdExDVmNwVjFiMHd6bXZBa09vUWpWRGpyQlpPelpMZXhxVldOMVRBbEpKVmpFZkRjeml5U2I0dmVaUlNvWmdpaWVKS0dyeVg2Nm82Vzl3N3lyWnZObjZUdmV0dThwX29R?oc=5",
           "draft": true
         }
       ]
