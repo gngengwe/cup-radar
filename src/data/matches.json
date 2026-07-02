@@ -3260,11 +3260,28 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
+      "status": "finished",
+      "homeScore": 3,
       "awayScore": 0,
       "laMatch": true,
-      "notes": "Winner Group H vs Runner-up Group J — Round of 32 at SoFi Stadium"
+      "notes": "Winner Group H vs Runner-up Group J — Round of 32 at SoFi Stadium",
+      "goals": [
+        {
+          "minute": 36,
+          "team": "home",
+          "player": "Mikel Oyarzabal"
+        },
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Pedro Porro"
+        },
+        {
+          "minute": 89,
+          "team": "home",
+          "player": "Mikel Oyarzabal"
+        }
+      ]
     },
     {
       "id": "wc26-la-03",
@@ -3863,5 +3880,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-02T19:27:29.212Z"
+  "lastUpdated": "2026-07-02T22:06:08.280Z"
 }
