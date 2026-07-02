@@ -264,23 +264,51 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
-      "homeScore": 2,
+      "status": "finished",
+      "homeScore": 3,
       "awayScore": 2,
       "seattleMatch": true,
-      "notes": "Group G Winner vs best 3rd-place (A/E/H/I/J) — Round of 32"
+      "notes": "Group G Winner vs best 3rd-place (A/E/H/I/J) — Round of 32",
+      "goals": [
+        {
+          "minute": 24,
+          "team": "away",
+          "player": "Habib Diarra"
+        },
+        {
+          "minute": 51,
+          "team": "away",
+          "player": "Ismaïla Sarr"
+        },
+        {
+          "minute": 86,
+          "team": "home",
+          "player": "Romelu Lukaku"
+        },
+        {
+          "minute": 89,
+          "team": "home",
+          "player": "Youri Tielemans"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Youri Tielemans",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-sea-06",
       "date": "2026-07-06",
       "time": "17:00",
       "timezone": "PT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "USA",
+      "homeCode": "USA",
+      "homeFlag": "🇺🇸",
+      "awayTeam": "Belgium",
+      "awayCode": "BEL",
+      "awayFlag": "🇧🇪",
       "venue": "Lumen Field",
       "city": "Seattle",
       "cityCode": "SEA",
@@ -3537,9 +3565,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
       "notes": "Winner Group D vs 3rd-place (Group B) — Round of 32"
     },
     {
@@ -3835,5 +3863,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-01T22:17:16.323Z"
+  "lastUpdated": "2026-07-02T03:35:48.526Z"
 }

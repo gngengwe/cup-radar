@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-01T22:17:22.070Z",
+  "lastUpdated": "2026-07-02T03:35:48.304Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1036,7 +1036,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 141,
+      "chapterCount": 142,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2165,6 +2165,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QcVZ2ZDRjTFBzYy1kZzA5VVlvU01Jak5yckxkdnRnRFRkVG9FUXBPRlRlZm44Y0hxVHBlZkdLanl1Tnd0RTNPNDUyeW1RTjNleDhCVFdVUkRwV0ZpQU01SmF3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1782963346427",
+          "date": "2026-07-01",
+          "title": "World Cup 2026: Mbappe, France continue to look unbeatable; USA to face Bosnia in Round of 32 - WGN-TV",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0JxdlU3Qlk1Y1pVcmlVVHUxNEJSanZEbzAyeE8tdFQtX3pldFRyVHRLakJnTjd0UWg3SHgzbVpsWDZjaktzaTYyby1OR2Vza3I1dkZoSkJJakFMZUI3eDVZR1ExczFVTWtncDgwekRnbEZqRHBaSHF4QmRXSXdBbmVWWlQ5VjEzMTNRRzRrU1oxNFM4MjljcDQtUWl4RW1JVjNCTjdiM3dhVXNCSVVCMm1zemRaTVRFSU9NYUhZRXZDZ1RnVG9SYUR1d9IB0AFBVV95cUxPT0ltMWpOT2JwMHJwdnN0UWtWbEpuN0Ruc09KZ0twTzUzMVdXSktfVnVOMS1PbVotZ3EybktIZm5UNzdRb2dORWxWUFNsa3pWSVZZY1lfWE5xMWxESFBseXY1bUd3d1QxMHo0Q3RucGYwN3R2Wnh1UkI3M0dsU3VHSmYxaGgyWkIzMlkwS205Q25rNm9wY3djYzhHM1hoX2RWTVBDU1k2dnFyZTRwbE5zNGUzVFFFekpmQmxTWVVEZFQ5MFRCdFc5cV9oc3pOU1lW?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2183,7 +2191,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 330,
+      "chapterCount": 336,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4824,6 +4832,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHVZSjBIQ2JKQWExNWdSY0kxQWwwSlR5RHJWQTJPcFFSdTB6a2Z3dnhsOXNLWmxIYlplRTBxbnJ6dkhBTlJGZ2lPRjVSSmd3Mmp4ZGJTdXR5SVhZR1JKX1NlbF8zVVY2cl9GQ3FqVVUtajJhYmF5QWZQamlVX250WVNYX2hCZi1wOGp5YUMzYzZ6TEl1TWxrS3gtM1hkSkJSSTlqV2VKZzExYXhtMWpqNjd0Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-sf-01",
+          "date": "2026-07-01",
+          "title": "USA beat Bosnia-Herzegovina 2-0 at Levi's Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-003-1782963346974",
+          "date": "2026-07-02",
+          "title": "World Cup Round of 32 live updates: USA holds off Bosnia and Herzegovina; England, Belgium survive - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlpsZV8yaVZwR1NTUTI1bUthM3lpa0xkSENULVJsa2lXcXd4MFhlRGpRUG9xRF9JRUNQUkpKUEpQV1NHQ1FkWmd4cllzV3ItQkhqS2Q1RklLcC1nelBzb0Jnc3FCNzREZDJsX3VVQXVScUYyS2Fpc2JlRUczMERfdElZbmxjQ3pHT3h5bkNENG9ibmVwVG0zbWdySWJuaUZSV3Rsakl3YmdWeFlId21mNU5Idmcxdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782963346974",
+          "date": "2026-07-02",
+          "title": "USMNT survives controversial Balogun red to beat Bosnia at World Cup: Live updates and reaction - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWxDaXZrcVFwUmF6MlRkSjZxYjNvdVNxeXpuYVJLTlJkNlRlSnFKQkRKVmZ6dld2LWQxWEZKakxpc0lJQjhIdkNRWUowdkx2LUxnRVVhSEk3a2xVSnVKSXNIcmV3aWdYaTRxSHBfU3BNQ0pRazlGY3drNldBZWZuRlJYWWlRM1BXYTFUREctRGpIVVNUU08yeXlMNkl6Nk43YV95azVmcmpoUjA2Uno4SkhNZVZJSzVGSlN0Q1BpX2N1VnU1eHZEazhB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782963346974",
+          "date": "2026-07-02",
+          "title": "World Cup VAR review: Misapplied protocols leave Balogun wrongly red carded - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcy1xbEZzNmJYVi1mZnZuRlNXVU1CblFDQWNPdUlheWlQampMYnJqNmJxWFZrc3BjQWJpelB0c2FqeUdZWWo5ZkFjbk4zbV95eTZ4ei1JODZNMFRydEMwWjRfaXJ5QXhvRVhGSm1Mbklua2xmZnF3XzBZRkEwSy0tVUdSUjdCcGRDTVpWZUh4LVZOSEdPUktxMlpjdEt3MjlBSUtaMHdzSFBYaWJodFduelNwV1ZqbWMyQnF6eXRvX2VncW1QZnA2YnRHak5EX2g4VEczRUgtUllZYzgxN0NLS2ltUlpBWXd3bEw2S3FjeVRFLUtBemRzand1QnQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782963346974",
+          "date": "2026-07-02",
+          "title": "Will Folarin Balogun be suspended? USMNT star's status vs Belgium after red card - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVBBRXUxbTFEYThtOEg3QU1OV0FBQW1HY0pjaTNmU1gwRjlrZUNTai0yMlBDUnFWdG1vWnplb1VsY0FISUc3WUVNUjdtaWZLV2NlMUlWdVZuQXhwM2RjNGNvOEJFTmhqdFpQMTZrTUlLSFZrQllSWnpaVnRwTzVsQzNtd0lyRThlWEg4VFVVbks2cmpqeVlSSHFXSGFjQXEyTmc2TVJPMGNRNFVjdHRMTHY4YnU3ckdGdWF5WGxzZXAxdEdoZnRHUEtfaFVJUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1782963346974",
+          "date": "2026-07-02",
+          "title": "USMNT vs Belgium in the World Cup. All you need to know about round of 16 opponents - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFkzR3hTUkxSeWhTcklVbDdHY3dGT1h1b0J1THlJQm1oVjBrZWZkdDRQc0lLQWN3eXYzdnNUcHU0WWhaeGoyeFVOMjFaVUh5Y3JaUHA5OFFieDJwU0NUSTc1SkRaelN2RzBZeUpBNG91M2dOYUZ3eFlYMTN0OTNwdg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4842,7 +4898,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 325,
+      "chapterCount": 327,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7443,6 +7499,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWDM4SGkzZllTbXJELUUtS1pmSXQwcXkxOG5hYkNhY0RBbV83OFBXbUhNb1VVVHZFYllZMTQyMFZiaVZNMkJPeE4zaDdwR0JmcVZqbTBmUmROcHdmUDhwNnFESHZnWlRFT2Y3Mlk0b3FrM2xZQklkZ3F0QzBnTWtVcDBiWjlKU2xWa2s5elVjY29zTmZldVhXdTJ2TUg3VWFON2MtTXk2NzA3bWZVVEJZS2JURmE5NUhQUFZ4MGYtSWpiRFZSWUtpX3l4eWxHVHNIUXBR0gHTAUFVX3lxTFBSRXBDdEtaT3EyR0F5T053M3NqdmZjOFg0WFkweFNIRURDZ2hIa1ZDaThjNlA1WlhIX05oVk1MaGFIT0hmb2FteFFRRllNVUJSb1hwbFBxMXlXaDIyTmVabVUxUDFrOUZ3dEozM3dQTVVZM0ZETnJvRHRVaW43aHFfNFJkOVVGcmU5aUhlVWU3Zktja05WNlVUNUxKSWtyTktnM0FEWk9Id1BxQkR2WWJlaUgyWmp0NllzeVcxeDJPR2xzTmc1RWtBQl9TQzBuUVk5cEk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782963347725",
+          "date": "2026-07-01",
+          "title": "2026 World Cup Bracket: Live Look At The Round Of 16 Matchups - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlNqX29fU2tjdXJZNVhmeTd6MC1wYlpKODhPZlYzSllKd0dsTFhCV1VMZjI3WjlTV3FrbjlZX0p3eTNkcHp3NGY0SDVYR1lEZFIxeWw2Ty0yaV9sSWx3WmFRMm9nSWpmclZOSFpOYUFLZ3NQanByaDFDUG1FRlViWmNnYjAzQjk50gGIAUFVX3lxTE40aHpCVW1BbEJhSjRnaVNQaFp1WVFmOGktczgyYnJUVTRhck9UUnhBZVp4SnB4clIyLXhkOFhhSGxmeW5ycVU1VVNoRnJkOGd0TkNWUEZSMW5pSWFpbk4tOVRjR0FRcHlWNEhUU2p4cXBKRmtlOURsM1o2T1RDVC1MTjl2eXh2STM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1782963347725",
+          "date": "2026-06-29",
+          "title": "FIFA World Cup 2026 – Every match result on Monday 29 June – Live scores - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTFZd0taeDRvQ2J4MWtkZlRTSUFqc3YxbWJpc01VSnFScnRsNTZHUnAxWlhoR1hMak5xamFsem93SU9QMjN3bC1sdjBKUWZlb0ZGcTNJZWRLSlkzZ1Q2SXNCY29KZFVtRUM2STRyNmdDOEViWG1IMkRrczNwNmF6Vk85S2htNXFtYkpfdlQzc0g4cnMyelE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7640,7 +7712,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 353,
+      "chapterCount": 354,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -10465,6 +10537,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzI1eGM1ZDNjWGFIcUhuMzk1UjRaMlc0WTdOWFNuZF9mSEpXLUdBRnc1eERKQmx0ZHVEdG51VFJVSEpWWGNJdXl2NTlPa1RZUm5HdnFjNXJBdHJxaVN0Z1NHVHZQc2R1UmtBRFJpVVh4ZmdBOE11d0FPcm5jM3FOUFRIN3NEaGI2RnAzUWR5OTUwZWRqeUZLQjZ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1782963348304",
+          "date": "2026-07-02",
+          "title": "World Cup Day 21 recap: England, Belgium and U.S. advance to round of 16 - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3RFMktIWGFFNzNzTTB0Z2NEd0RBMDVDTWhyb0NVUWR1aWFlR2otNkJGemU2X0pObW4wZU54RmZTVEdIeGlzbTJhUXdGeURSNm9CTXpsUzFvaDFfMVdCMVFySUhfUVpmSUlTNjRsWDdJdWpNUExFR0tGMGJ5QkF5NzhCSGwySm5ZaXNUcmhfWGR4Tk5wekJzdlV3blh1dnU1LXVTc3hFWnA3WnVvRnlB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10601,7 +10681,7 @@
       "emotionalStake": 5,
       "summary": "Bosnia-Herzegovina are playing their first World Cup since 2014, and they opened their campaign with a 1-1 draw against co-host Canada at BMO Field — a hard-earned point on the road, in front of a Toronto crowd that wasn't on their side. A nation that only declared independence in 1992 is back on the world's biggest stage, with two more group games still to come.",
       "watchFor": "After a strong start in Toronto, Bosnia-Herzegovina face Switzerland in Los Angeles before closing the group against Qatar at Lumen Field in Seattle on June 24 — a match the Bosnian diaspora in the Pacific Northwest has been counting down to. Can they turn that opening point into a first-ever World Cup knockout appearance?",
-      "chapterCount": 3,
+      "chapterCount": 4,
       "chapters": [
         {
           "id": "ch-result-wc26-B6",
@@ -10623,6 +10703,14 @@
           "id": "ch-result-wc26-sea-03",
           "date": "2026-06-24",
           "title": "Bosnia-Herzegovina beat Qatar 3-1 at Lumen Field.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-sf-01",
+          "date": "2026-07-01",
+          "title": "USA beat Bosnia-Herzegovina 2-0 at Levi's Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false
