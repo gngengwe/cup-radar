@@ -3260,9 +3260,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "laMatch": true,
       "notes": "Winner Group H vs Runner-up Group J — Round of 32 at SoFi Stadium"
     },
@@ -3863,5 +3863,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-02T03:35:48.526Z"
+  "lastUpdated": "2026-07-02T19:27:29.212Z"
 }
