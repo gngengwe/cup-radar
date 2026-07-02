@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-02T14:04:22.129Z",
+  "lastUpdated": "2026-07-02T16:49:21.327Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2223,7 +2223,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 343,
+      "chapterCount": 346,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -4968,6 +4968,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWJfN01LMF9zMVN6Z2hTUll2aFNmRUxFcVhmLVV1UXdIenc4NDF6ZjZLdWVBRkNkMkxzLURoLU5WWVM0T2J1b2pEVDU1MktQdDY3WFllN3dfVFZUQTRrd0h0RjJZcGlXeVlhak04Vjhhdm52bENIdXhzMzdoTTBpemdvUGdEdDdNVjVxT0VEc3Z6MFZ5MVN3ZnlIVnU4R0xuOWFNckZQZnRBb2NQdlVz?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783010959666",
+          "date": "2026-07-02",
+          "title": "The USA’s red card controversy explained and why the decision won’t be overturned - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzTmRYNWpaOW9qZGgycVJvTGNYcnJHbVlsQmRqQnlad3g0QkFiS2VQYTd3T05fTXFINGJYcUxvMG1vdklMN04wcVpSaU1pQ1IxY2pmYkJFb3gzcFZNMmhvczl2WVdTb1pUV0N2S3ZLbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783010959666",
+          "date": "2026-07-02",
+          "title": "World Cup Round of 32 bracket, schedule, live updates: Spain, Portugal return for Thursday's slate of action - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3ZQRGlqS1RQUzhwcGpBMndUSzdidUExVy1tNHBCRjBWZUVtQjBVUnhMU3ZndzVCcXJ5My1SNENUQmlPN3M0SHVMa1p5YnJnZUVodUNDcnY0ODQ2aUQzQVJ3YjZHaDZBZi1CUl93QWJqa2FKTXdhanh3ay03NXlQUWFNekFFZHdFLWlBbXVpYW9zUVB4NGxEZVNOLWR0aTJOdHJzcmJTRzZfNUdPZ1R5dHpfaTFVM3ZURlNSallNUjQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783010959666",
+          "date": "2026-07-02",
+          "title": "World Cup Daily live: Balogun celly in USMNT win gets LeBron seal of approval - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXhxNGVHUzdSOFFpRjlDYTAydjhwXzgxYUhkVF9BRFVCYXdfcVdfbldfODZQLVlHczc4Yk1XRS1RU2hud0lMVE0xbUNTRndobk5MTmtMYXBhaG5ZSzgydVZVWXFDd2tIaGZnLXhWV283bjVBaHZGUW5SYVlrVjRFSkJEV3RKdm16NmVic0FBU1VEZWJsYTg4dThRWWU1cjBwZmc0UEptQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4986,7 +5010,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 329,
+      "chapterCount": 330,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -7619,6 +7643,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUxVdGVqOExSQVVlYWNUMVRnNUNDTjdQcmFPSHpzSVkzM21pNzZ4SU5uR1hxSDRYMHBXT1VIcnpKWkE2QjBWTXlHVUk4dGk1U3BXX1RPYzFOS2JXckFwc01walRzMVQwaG5ycFpKQkRVb3FRZFJaX1EzYU1iNWRmMVc4ZURUU1dqd3E3SEdYTzJiN2xpVGl3R29LeVdWTHE2dEdvbXc2LU1yWFBySXB4Mll3dXVtdkNXc3NwQU5UQmlaQTFHb3JaTmJ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783010960191",
+          "date": "2026-06-29",
+          "title": "World Cup 2026 Round of 32: How to watch Brazil vs. Japan for free - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclZlVmRfM21CU1ZaSjM3LXNVYU8tQWlDazhUdDkxbklJYU9OT2wtcWlwUm5XQ0cwU2piXzJla2txb29CS0RKZ0tJT1UxeHllMVBCNUE3bEdYVUhYdlR6enZYRm1HZzdMdVR6X2NlSlo3RDM5RTF3X3h2N1ZyTFZ1c2pXWW95akhhWWNxNDVnRk5TUVNQb29RSU95ekM5WnBGNEE0TUhoVHE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7816,7 +7848,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 362,
+      "chapterCount": 364,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -10712,6 +10744,22 @@
           "title": "World Cup 2026 today: Live updates, news as Kane rescues England to set up Mexico tie - July 2 - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXhqVDVUY0JnX052Q2trVk9fSDhnalM2YmxSRDZRS2JfeEM5OG1KckZOMDBlUjZ0R3JDUnBLUTZ2bTF2RTVGcWpvZ0FEZnJwTENYd2hLWlgyNlcwUk9VODZxSHozQU1GNGpwV2VNcFg5VDBObzl1QWhGRWpISnJKbElBZHFMVHg5cFVuTC0xSEZwamVlRmpCR00xdm9xZTdtTG1vRGFzSmtqNDNV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783010961327",
+          "date": "2026-07-02",
+          "title": "World Cup 2026 today: Live updates, news as Spain prep for Austria knockout clash - July 2 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHJuZnJCWXptX3ZRTzkweGgxWHZIWVNLSExaT2Q1SnZ3TGVRY0IxSkpJRXVrRGJhbjJabzVwVmQzVEF4eUlTQVgxSDlad1d4ZHZrc0Myck1qSklqbmxRMk9ibEdCSmM1NFNIN3phakJrVUxJdmpxdTFBU1JjSTFEcnloeGxIWWhlM29GeUprTHozdkdDWTJPV3FkajZNZ0FjdDVyYXpFSmhSdVlWMUY0czVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783010961327",
+          "date": "2026-07-02",
+          "title": "Mexico vs England: Will there be a bank holiday to allow fans to watch Three Lions' World Cup last-16 tie? - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGFmWGZ3V25jQVpPbDg5bmVCMnBrV1V0U3VZLVZySGJ4eXlxOGMxVEVvdC0wekhQdE5CeEsxbXFBTVJBUUFBamh2Q3p3WTVOZ0lnU0EzME1zM2lkWUFITXc0TmktSkRoYWJpTHlIOGlBd1FUcWZoenpXZ2tTNDNiRw?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-02T14:04:19.263Z",
+  "lastUpdated": "2026-07-02T16:49:18.195Z",
   "articles": [
+    {
+      "id": "news-auto-trump-is-avoiding-the-world-cup-because--2026-07-02",
+      "headline": "Trump is avoiding the World Cup because it’s packed with good things he doesn’t like | Barney Ronay - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3JqQkZEYlk0TDJwVHg1TU15bWI4VHV0TXZNRVFEV2RqX0dNdE1UX0JvM19uTmVmNDlndi1MT0JJR0xYYlV5RjF3NElCcEJScENwUlFXREk4ZjVJVEZIV2NhamRNd1RJakxvVGtzemFILUY0ZC1xUW05WWtOVFpjdTlB?oc=5\" target=\"_blank\"&gt;Trump is avoiding the Wor",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3JqQkZEYlk0TDJwVHg1TU15bWI4VHV0TXZNRVFEV2RqX0dNdE1UX0JvM19uTmVmNDlndi1MT0JJR0xYYlV5RjF3NElCcEJScENwUlFXREk4ZjVJVEZIV2NhamRNd1RJakxvVGtzemFILUY0ZC1xUW05WWtOVFpjdTlB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-will-spain-and-portugal-s-2026-07-02",
+      "headline": "World Cup 2026: Will Spain and Portugal set up last-16 tie? - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hXzdmTmhVajcxQ0xsbEg3WVVjVm9zS0k3Ymk0MVZqLU5XeEFuVU5XbGwyOEM1NmNlTENsLUhEQW5XT19rOWFlXzFacXpLRnF5cDNkY1E0NWlFSEJJdG96TFpn?oc=5\" target=\"_blank\"&gt;World Cup 2026: Will Spain and Portugal set up last-16 tie?&lt;/a&gt;",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hXzdmTmhVajcxQ0xsbEg3WVVjVm9zS0k3Ymk0MVZqLU5XeEFuVU5XbGwyOEM1NmNlTENsLUhEQW5XT19rOWFlXzFacXpLRnF5cDNkY1E0NWlFSEJJdG96TFpn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--we-want-to-win-world-cup-for-him-portug-2026-07-02",
+      "headline": "'We want to win World Cup for him' - Portugal carry Jota's memory - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUy1MYnc3aTBRZGE2WENCVFUxYzVHWnVYTUJfVWJrc3FkMkpVZFB5alNYMzgyelRfVE82OU83RUd5NGJ2S24tbXNVQkpRRFpTeF9Hc2toRHBXRzQ1U1dUaW4zNlRrVkk?oc=5\" target=\"_blank\"&gt;'We want to win World Cup for him' - Portugal carry Jota's mem",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUy1MYnc3aTBRZGE2WENCVFUxYzVHWnVYTUJfVWJrc3FkMkpVZFB5alNYMzgyelRfVE82OU83RUd5NGJ2S24tbXNVQkpRRFpTeF9Hc2toRHBXRzQ1U1dUaW4zNlRrVkk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-kansas-city-s-thriving-2026-world-cu-2026-07-02",
+      "headline": "How Kansas City’s thriving 2026 World Cup sets stage for potential 2031 encore - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXBvcFNER2dlU0RVM2tNakpCWHAzQ2hCTU1EdGdRVzN5RkR0ZEZrS2FURlpoazdBWmswajBROGoxUG00SDdaODV1YTFHaHJPT25oTnA5SWtYRDlhckNna1Y4c0JaQTIyM3N3WEc2b25qdUN2a1NPWGFOWll4VUlKalJ4MUNpZ1Vsal9HN0JMVFRwQdIBkgFBVV95cUxQaTFTMEVPOThiVlZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXBvcFNER2dlU0RVM2tNakpCWHAzQ2hCTU1EdGdRVzN5RkR0ZEZrS2FURlpoazdBWmswajBROGoxUG00SDdaODV1YTFHaHJPT25oTnA5SWtYRDlhckNna1Y4c0JaQTIyM3N3WEc2b25qdUN2a1NPWGFOWll4VUlKalJ4MUNpZ1Vsal9HN0JMVFRwQdIBkgFBVV95cUxQaTFTMEVPOThiVlZTRnRwb0xUMTFoaDg5UDVTQ2sxWndwUXRzYlBkTGFDQWFlZVpZNzZkcF84elZKV0pCWWQ2aG1WY0ljNV9MNEZ4dVAwU0dnc3hMVi1mWWFXMURUdlc3TkRPSnc4eE1GOUl6VFlfb3NLR0M3S2pQdTF6Y2t5c2k4MlVyaFk3RmxfQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-black-stars-depart-for-ka-2026-07-01",
+      "headline": "World Cup 2026: Black Stars depart for Kansas City ahead of Colombia Round of 32 clash - GhanaSoccernet",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnRLOFJjQWh2c2VDcVVybzdmUXBtb2l5T1V0TFExM0NZUm1EUDFKUEJBME5ydWFCWWtpNks4YnJuVUFoWGdXQUZzc2JDSjdLM28ydW5kVlVjUEhNamVwMW1TT0RWTC1HWEtreXl3Z2JtUnl1dlE0ak1TRzNHWTZUQm5OWnhVMEpPMDZlSE1wRXRRSFd5Y1JKVWw0LXpqRGU2U2VLQ21kZHR",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnRLOFJjQWh2c2VDcVVybzdmUXBtb2l5T1V0TFExM0NZUm1EUDFKUEJBME5ydWFCWWtpNks4YnJuVUFoWGdXQUZzc2JDSjdLM28ydW5kVlVjUEhNamVwMW1TT0RWTC1HWEtreXl3Z2JtUnl1dlE0ak1TRzNHWTZUQm5OWnhVMEpPMDZlSE1wRXRRSFd5Y1JKVWw0LXpqRGU2U2VLQ21kZHRweXEwdjFjR3Fn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-where-is-usa-vs-belgium-world-cup-game-r-2026-07-02",
+      "headline": "Where is USA vs Belgium World Cup game? Round of 16 location, schedule - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUtCb091emp3dko1UW1ISVc2cU5zUkFjcnBBVk1xcno3dTNDeXpsNWFobGJRNUNOZ3NETU52QjlfcVpaOHZWdGFoZTB0eThMVXEyNEpXUkcxbEtVZm9QcTlhZEtrZnNXUk0yTUFoZ1dYalZpckMyb2oxV2RWSHU1T1ZBQkVSVEk2V0p3N3FFRjlIYk1WN1RlekZ2ZEkxcndDVk9Wa1RGM2V",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUtCb091emp3dko1UW1ISVc2cU5zUkFjcnBBVk1xcno3dTNDeXpsNWFobGJRNUNOZ3NETU52QjlfcVpaOHZWdGFoZTB0eThMVXEyNEpXUkcxbEtVZm9QcTlhZEtrZnNXUk0yTUFoZ1dYalZpckMyb2oxV2RWSHU1T1ZBQkVSVEk2V0p3N3FFRjlIYk1WN1RlekZ2ZEkxcndDVk9Wa1RGM2VpUUJXLWtSMUZ2aUo4WmhkRktyY3A2U2V1M2E2VDFEaA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-to-watch-the-world-cup-today-schedul-2026-07-02",
       "headline": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Portugal, More - FOX Sports",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-01",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTEFROXREcmRoaXE5N1F1LXRteWtBUFdjbURuVm9LWnFKVWhwLXBORHhJT2F0RHFHV2Nvamx5VzlTOHZUZ2lMMHRIZ0JOUk9DZEFKMGtfTm5majdBdzRJTWhGcnp1WHljbVB6TTVua3QxVDktckNWLWpHdFFEbWxlQ3ByS0ZCYlU2b0RTQzBWcVZSQVdqZWhRZ3IzbHlDSmYzT1pxSVlWYTZfbjd3eXFTUVNtNG1oS2FmdUFyaGlLRWI3YVFFb3lKZlF3LTRISjk3TmR1eHFzQnA2VUhzSldST2U2M0J1eDdNMVgwWm52T2RKNmdYVEhpU3M3UDFfY3lxRFFjSEpmX1Bsd2h6UXNIOF84VjBRMmttNmtB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--our-friendship-will-last-forever-kansas-2026-06-30",
-      "headline": "'Our friendship will last forever': Kansas City says goodbye to Dutch World Cup team - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnRFUnBMWHN4NTZQYnQtNE44ZkFHckNLZE4tVDZ5SVVQNi13cEhnTE5BM3h4VDRjUzUxSktFX1VpR3N5MjdGYXI2T1hnd3phYkt0ek5mUjg0SzlvRDVxNXdlUnlBbTB4MDJTMkExd0gtLWRwWHpmZ1FRTXhuQmJOLVJKeVRHdDFLTGQtczZGTGxNdU5TWkt0MXNFUVJwUTN3NW5xeUNRMVk",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnRFUnBMWHN4NTZQYnQtNE44ZkFHckNLZE4tVDZ5SVVQNi13cEhnTE5BM3h4VDRjUzUxSktFX1VpR3N5MjdGYXI2T1hnd3phYkt0ek5mUjg0SzlvRDVxNXdlUnlBbTB4MDJTMkExd0gtLWRwWHpmZ1FRTXhuQmJOLVJKeVRHdDFLTGQtczZGTGxNdU5TWkt0MXNFUVJwUTN3NW5xeUNRMVkwYVhwdks2WUVERkpFbE5DMzFv?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-starred-during-world-cup-gro-2026-06-30",
-      "headline": "Kansas City starred during World Cup group stage. On to the knockouts & more drama - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUhiYmk2emNZc3pOT3NfUl9wOThGS3cwanQ0Mlk1U3Bib2g2VGtxTkZ3QjQxVWVqX0kxd25Gc1JkVkpuN1FocURVd3NqRE82djQxWjF2SUttcHZibkloeXdvcHQ3dW9TOE9VTVJ4dFlkOWNHSURCNmJfTzZocXd5SmdnNWRCN1pj?oc=5\" target=\"_blank\"&gt;Kansas City starr",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUhiYmk2emNZc3pOT3NfUl9wOThGS3cwanQ0Mlk1U3Bib2g2VGtxTkZ3QjQxVWVqX0kxd25Gc1JkVkpuN1FocURVd3NqRE82djQxWjF2SUttcHZibkloeXdvcHQ3dW9TOE9VTVJ4dFlkOWNHSURCNmJfTzZocXd5SmdnNWRCN1pj?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-30",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Wenatchee World",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUMxcTB6Mmh5b2kxanFNcFQzcFlfTlg2SjlTbi1JYU5vZUliZmtGRWJKOFV0WFEyX2kyU2JtUkdTV211M0lXYUpIUVVpTFJ5SmJYdzc4cDAyeXJRWDNNUmxyWXJZdGZYeGVXOU1GaXBJbFdTTkptSG9CUk9pckNraFpjcnZHUGZjejVDQTRMTDhsN0Vzc25HU0VpNzg0Y3lMTnVhMmh2b1V",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUMxcTB6Mmh5b2kxanFNcFQzcFlfTlg2SjlTbi1JYU5vZUliZmtGRWJKOFV0WFEyX2kyU2JtUkdTV211M0lXYUpIUVVpTFJ5SmJYdzc4cDAyeXJRWDNNUmxyWXJZdGZYeGVXOU1GaXBJbFdTTkptSG9CUk9pckNraFpjcnZHUGZjejVDQTRMTDhsN0Vzc25HU0VpNzg0Y3lMTnVhMmh2b1VjTDJ6YS0xR2UxU2dzNENVamliUmlyN0dMWUxBWnRHWFVXc1hjS2tPYkdwbVE1LTFkblJYOTVWMmsxUVVFdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-07-01",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG96Q3J3SXZoU3ZTcl9UNWt2ZXlYbGZEbEVFQm40NkptUmx0MjFtYmVLT3dxdVc1SW1JVjJrdTFkTXA0bkFGQWNoQ3JGTWYzT1B4V0p6SXB3X3kyaV9HQy1iYk1TYmEtaFE2UnlhbWo5c2U1cExyLXNURXEzNHFjV2VHMmtmcldV0gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG96Q3J3SXZoU3ZTcl9UNWt2ZXlYbGZEbEVFQm40NkptUmx0MjFtYmVLT3dxdVc1SW1JVjJrdTFkTXA0bkFGQWNoQ3JGTWYzT1B4V0p6SXB3X3kyaV9HQy1iYk1TYmEtaFE2UnlhbWo5c2U1cExyLXNURXEzNHFjV2VHMmtmcldV0gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-kc-chiefs-came-to-host-a-world-c-2026-06-30",
-      "headline": "How the KC Chiefs came to host a World Cup at Arrowhead (oops) Kansas City Stadium - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE90LU5HQXpER2xjakpUZWRxcVU1SlEzaWQ5M1cwS0JCS3FCVHo1cV9NbS1VODMtQkE0X28zS1RkejhIWGdzM05iRGk4a21Db0F3Wk8zS1JpbHBBa3hLTTdvajVYYmV2cXB5dHBHVlVEMzVWVENzQWZEbkh30gF6QVVfeXFMT19qXzNWeVNncnRUUFJRNGZ5TWhRcjVqYVNDYnJUeXZDNm1pMW5",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90LU5HQXpER2xjakpUZWRxcVU1SlEzaWQ5M1cwS0JCS3FCVHo1cV9NbS1VODMtQkE0X28zS1RkejhIWGdzM05iRGk4a21Db0F3Wk8zS1JpbHBBa3hLTTdvajVYYmV2cXB5dHBHVlVEMzVWVENzQWZEbkh30gF6QVVfeXFMT19qXzNWeVNncnRUUFJRNGZ5TWhRcjVqYVNDYnJUeXZDNm1pMW5VVUxfZUw4SHM2VWpXNV9ha3dIX3FOd3pwUzAzNl8tNE9nTFVST2Q2RmJ0YkM0ZUpWV0ctRHZHX00ya251WjJhYXJWTF9jem1QY3RYdXc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-drum-academy-performs-on-wor-2026-06-27",
-      "headline": "Kansas City Drum Academy performs on World Cup stage - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEhHWExoR0hTRC1USk13NGdVZHNackROa3ZaSU83UjRvcUJRSHNfMUljaTJIQ0diMXEtZnJ5S2taSFZLY0VEdUx6R2FKX0htUjkxWEZ4SmdIdXMtVmVsNnlCQUpLS0ZBcVZlUVN2VFBSZHk3UC1EblNpZ1cxdDdjX3l3Uk9aMDhOUkY40gGfAUFVX3lxTE5nZWdZVUt2T1k0NmYxUmlOTWx",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-27",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEhHWExoR0hTRC1USk13NGdVZHNackROa3ZaSU83UjRvcUJRSHNfMUljaTJIQ0diMXEtZnJ5S2taSFZLY0VEdUx6R2FKX0htUjkxWEZ4SmdIdXMtVmVsNnlCQUpLS0ZBcVZlUVN2VFBSZHk3UC1EblNpZ1cxdDdjX3l3Uk9aMDhOUkY40gGfAUFVX3lxTE5nZWdZVUt2T1k0NmYxUmlOTWxsdXdoLWg4YlB6dFY4YWtQTVpNQ2NDRGx0R2xEYVRuSmxUcUF2X2NEeVZoYTg1RTN6Zl9LSlFQZi1sLVFDZ3ZRb0ZubjZ4NHhVSGI3SS1zXzJUV1ZqVlNIdU0tYUFNTFhHQ3dLYWhhLVk0T3Y5enBhRmNsa1d5NUhMdHl2R3ktcy1oSm1nNA?oc=5",
       "featured": false,
       "draft": true
     }
