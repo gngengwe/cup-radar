@@ -3644,10 +3644,59 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
-      "homeScore": 1,
-      "awayScore": 1,
-      "notes": "Runner-up Group D vs Runner-up Group G — Round of 32"
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 5,
+      "notes": "Runner-up Group D vs Runner-up Group G — Round of 32",
+      "goals": [
+        {
+          "minute": 13,
+          "team": "away",
+          "player": "Emam Ashour"
+        },
+        {
+          "minute": 55,
+          "team": "home",
+          "player": "Mohamed Hany",
+          "note": "og"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Mahmoud Saber",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Jackson Irvine",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Ramy Rabia",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Awer Mabil",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Mohamed Salah",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Hossam Abdelmaguid",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-mia-01",
@@ -3666,9 +3715,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "miamiMatch": true,
       "notes": "Winner Group J vs Runner-up Group H — Round of 32"
     },
@@ -3898,5 +3947,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-03T19:22:23.976Z"
+  "lastUpdated": "2026-07-03T22:04:16.995Z"
 }
