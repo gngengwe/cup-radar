@@ -2610,9 +2610,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
       "vancouverMatch": true,
       "notes": "Winner Group B vs 3rd Group E/F/G/I/J — Round of 32 at BC Place"
     },
@@ -3898,5 +3898,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-03T02:58:39.729Z"
+  "lastUpdated": "2026-07-03T06:38:13.821Z"
 }
