@@ -3604,10 +3604,28 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Runner-up Group K vs Runner-up Group L — Round of 32"
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
+      "notes": "Runner-up Group K vs Runner-up Group L — Round of 32",
+      "goals": [
+        {
+          "minute": 53,
+          "team": "away",
+          "player": "Ivan Perisic"
+        },
+        {
+          "minute": 68,
+          "team": "home",
+          "player": "Cristiano Ronaldo",
+          "note": "pen"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Gonçalo Ramos"
+        }
+      ]
     },
     {
       "id": "wc26-dal-02",
@@ -3749,12 +3767,12 @@
       "date": "2026-07-06",
       "time": "14:00",
       "timezone": "CT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Portugal",
+      "homeCode": "POR",
+      "homeFlag": "🇵🇹",
+      "awayTeam": "Spain",
+      "awayCode": "ESP",
+      "awayFlag": "🇪🇸",
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "cityCode": "DAL",
@@ -3880,5 +3898,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-02T22:06:08.280Z"
+  "lastUpdated": "2026-07-03T02:58:39.729Z"
 }
