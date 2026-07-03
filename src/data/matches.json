@@ -3644,9 +3644,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 1,
       "notes": "Runner-up Group D vs Runner-up Group G — Round of 32"
     },
     {
@@ -3898,5 +3898,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-03T06:38:13.821Z"
+  "lastUpdated": "2026-07-03T19:22:23.976Z"
 }
