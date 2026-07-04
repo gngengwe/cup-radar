@@ -866,9 +866,9 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "seattleMatch": false,
       "kcMatch": true,
       "notes": "Round of 32 at Kansas City Stadium"
@@ -2321,12 +2321,12 @@
       "date": "2026-07-07",
       "time": "12:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Argentina",
+      "homeCode": "ARG",
+      "homeFlag": "🇦🇷",
+      "awayTeam": "Egypt",
+      "awayCode": "EGY",
+      "awayFlag": "🇪🇬",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "cityCode": "ATL",
@@ -3715,11 +3715,39 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 2,
       "miamiMatch": true,
-      "notes": "Winner Group J vs Runner-up Group H — Round of 32"
+      "notes": "Winner Group J vs Runner-up Group H — Round of 32",
+      "goals": [
+        {
+          "minute": 29,
+          "team": "home",
+          "player": "Lionel Messi"
+        },
+        {
+          "minute": 59,
+          "team": "away",
+          "player": "Deroy Duarte"
+        },
+        {
+          "minute": 92,
+          "team": "home",
+          "player": "Lisandro Martínez"
+        },
+        {
+          "minute": 103,
+          "team": "away",
+          "player": "Sidny Lopes Cabral"
+        },
+        {
+          "minute": 111,
+          "team": "home",
+          "player": "Diney Borges",
+          "note": "og"
+        }
+      ]
     },
     {
       "id": "wc26-hou-02",
@@ -3947,5 +3975,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-03T22:04:16.995Z"
+  "lastUpdated": "2026-07-04T02:55:00.155Z"
 }
