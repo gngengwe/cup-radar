@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-04T10:54:00.191Z",
+  "lastUpdated": "2026-07-04T13:25:42.122Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 150,
+      "chapterCount": 151,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1217,6 +1217,14 @@
           "title": "Key takeaways from Round of 32 stage at World Cup 2026 - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1ZWUENUUHZ0dVpBaXNLbXVVVGF6RUZXYU1BMXFmQlRvR2p2VEpCazJmbUtfbnFCT3ZuS0NuVDJrd0Y0UHY4V2JVZ084a1NiVlFWTVZPVGR1ZU9maGItYzBBSk84NlIzdzZyYzk0NTNwTGZCamUtSzBBVkNubEFmQUk2Q05UckFWM1FRbkxvNGNQWUN6UU5xcWxQVkjSAaIBQVVfeXFMTXhUTmxIMzloNGtSejZ4Ung3ZEVCZGlyQXo1RjlaZ3JsM2tqaEg0VTZOOTR1UWdUVXlmSGZhQXVWNFVNT00yQnIyOGoyekpJMWJWczYySG9FaFdhOWc1QS1HaEdiUDM2S3lXQ2NrbFBYWkdzY19iTHU0LVZVYVA3QUt3a0R5NVo2Q2hxZWMwYUZFOUd5djYwZUFZT2lWVEY1S3p3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783171540064",
+          "date": "2026-07-04",
+          "title": "World Cup 2026: Lionel Messi has broken more records after Argentina's 3-2 win against Cape Verde - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91dDVwdTBkeGZwVUxxSzBGTlQxdWRQVlpNTTc3S1FxVXZXZEZmcjNHNnRtTTB4a1dpMktOdmNNZllneFF0dmRfejE2VWU5TGxTMkhEUW1zT0dzZVRIbnFXVFFBUm94VWs?oc=5",
           "draft": true
         }
       ]
@@ -5474,7 +5482,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 345,
+      "chapterCount": 346,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -8235,6 +8243,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INk9jaThxVHRtUHhseGF1NlpnQmxILXVJcUxSYUo3bjRNY1otRzFkNEU3WXJEMDZrOGRHVDFsS0YweGRWT01Ldlp3MjFRZFZ2ZU11NDhPcHNxdFBPdFBmMHZtQ0FXb2M?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783171541465",
+          "date": "2026-07-03",
+          "title": "FIFA World Cup 2026 - Brazil vs Norway: Famed forwards Erling Haaland and Vini Jr. battle it out for a place in last eight - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM01OUUhBa1dGaUtMSENRckxoY0tHR1ZDMkJjMmhVbGRIYkdOeWgxOUtsWUVQQzdXWVloRXpaeWRScXV0S2VXUmsyV1otdGdlcjdDdVpnd0hIaFZiZEhQT213VXVGQTFYYi02SlFTeW5YMXQxUmY3Vkl0MnFVSkh4TC15YW1XOWJoVERlWmJfbV82Um9TMExKa29vZkhFdHl6M2w5b3Baelc1M0JibVBfWlBiX3hnTlE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8432,7 +8448,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 396,
+      "chapterCount": 400,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -11600,6 +11616,38 @@
           "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdCSU1vTFh4TkpQaHRJNnlTTndsckVGMXBKNkNRVllfQTdKTGhmaDBITWRSS3FxXzdDZ3hrR2lYakFhbEVadjQzcGxDT3R2OHlRcnFnWmxSZWRwelB5RjIyM1NDaHBaQVFqZUR1U3EyWEx6RVlwdWxsU21xZnlCejd1RDZ0c1ZfYVVZVUJSbEowR1NuU0x6Wmk2QVFoRW9EN0pGYndEUDPSAa4BQVVfeXFMT3U2TWIzaGRCTHFHbXRQTS1na0wtbzhUSGJPVjBZUXpLU1pjR3E4eUlibWlSQUNUTktoNFJEZURzRHc0OXRhTlpZbmd4TFo3dEk4QzFzTlBQZDRsUTZOVldwY28wal9oeVlEYnZPcU9KYVVZdVhlMVlPRzhqbGtWMnFTel9NUGpoVk5ybXRielEwTzFKQ1c2VV9mbUVIYlBMSzhqc0cxakdSS3FmMzJR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783171542122",
+          "date": "2026-07-03",
+          "title": "Sources: Mexico vs. England World Cup kickoff time unchanged after talks - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWltQk55TzZkMUU3UkJ2eDdSZjJncl91elNxR2liWERNNUpPUTVYZF83ZWpHbHJSMmtleHJZbEdJVTF4Ym5LaHNFTFZzT0tDTHQyRkxsMEdHSEZoNTEzTFBMNklNRlZJTnBpV1dDbEFicjRLSlJrQlFiQXd4NTNxOHZXWjV4ZDdOcURkbWVCT3NnbjJYYlFYU0xEanJtMFI0N0J1RUR4LUZ4ZTRRaWdCMm5jSXNhdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783171542122",
+          "date": "2026-07-04",
+          "title": "World Cup 2026: Brazil going out? Chris Sutton's score predictions for last-16 ties - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INk9jaThxVHRtUHhseGF1NlpnQmxILXVJcUxSYUo3bjRNY1otRzFkNEU3WXJEMDZrOGRHVDFsS0YweGRWT01Ldlp3MjFRZFZ2ZU11NDhPcHNxdFBPdFBmMHZtQ0FXb2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783171542122",
+          "date": "2026-07-04",
+          "title": "Gary Neville gives honest verdict on England's World Cup right-back issues & Declan Rice playing out of position - Yahoo Sports Australia",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYjFXSzJKSDRuam9NUTdmcnFtbVdUVUtVN05rQWJadWFBRWN2YjF1YWVCeEtLVjJ1R0FnOHI0NHZYOFd4el9jQ1hmdFJPTkxqQXNjbDBjbm1IcFBZdzVybkgzYlBjdHE1SXlzcktFV3AxUzkwVktLbC1IOWFibTZXNVln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783171542122",
+          "date": "2026-07-04",
+          "title": "Huge World Cup clash could be cancelled as experts predict heat of up to 46C - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM243MDdEN2VTMHZBNk1NNXRXeDdmb05NTkFUeFhmLXRzU3dfUi0zalZhOHp1cWhBUnhKTEpiTU9GSHVBWHRXTU1lY3F6c0JWaTQtaHhSWTlyWWFSVmpfRG5qQjJra1lfQzJLdkFpNXJraWFncTl3eU9Tb1NmMHJnUWRXdkVQOVQ1cGQzNFhTYTdPSWhUMTRveks2eXY0aGRWeHc?oc=5",
           "draft": true
         }
       ]
