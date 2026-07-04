@@ -3766,10 +3766,27 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Winner R32-01 vs Winner R32-04 — Round of 16"
+      "status": "finished",
+      "homeScore": 0,
+      "awayScore": 3,
+      "notes": "Winner R32-01 vs Winner R32-04 — Round of 16",
+      "goals": [
+        {
+          "minute": 50,
+          "team": "away",
+          "player": "Azzedine Ounahi"
+        },
+        {
+          "minute": 82,
+          "team": "away",
+          "player": "Azzedine Ounahi"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Soufiane Rahimi"
+        }
+      ]
     },
     {
       "id": "wc26-phi-01",
@@ -3975,5 +3992,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-04T06:20:58.807Z"
+  "lastUpdated": "2026-07-04T19:13:21.528Z"
 }
