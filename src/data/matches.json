@@ -866,7 +866,7 @@
       "group": null,
       "stage": "Round of 32",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
       "awayScore": 0,
       "seattleMatch": false,
@@ -2621,12 +2621,12 @@
       "date": "2026-07-07",
       "time": "13:00",
       "timezone": "PT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Switzerland",
+      "homeCode": "SUI",
+      "homeFlag": "🇨🇭",
+      "awayTeam": "Colombia",
+      "awayCode": "COL",
+      "awayFlag": "🇨🇴",
       "venue": "BC Place",
       "city": "Vancouver",
       "cityCode": "VAN",
@@ -3975,5 +3975,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-04T02:55:00.155Z"
+  "lastUpdated": "2026-07-04T06:20:58.807Z"
 }
