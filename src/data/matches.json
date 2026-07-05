@@ -3805,11 +3805,19 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "phillyMatch": true,
-      "notes": "Winner R32-03 vs Winner R32-06 — Round of 16"
+      "notes": "Winner R32-03 vs Winner R32-06 — Round of 16",
+      "goals": [
+        {
+          "minute": 70,
+          "team": "away",
+          "player": "Kylian Mbappé",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-nyc-02",
@@ -3883,12 +3891,12 @@
       "date": "2026-07-09",
       "time": "16:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "France",
+      "homeCode": "FRA",
+      "homeFlag": "🇫🇷",
+      "awayTeam": "Morocco",
+      "awayCode": "MAR",
+      "awayFlag": "🇲🇦",
       "venue": "Gillette Stadium",
       "city": "Boston",
       "cityCode": "BOS",
@@ -3992,5 +4000,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-04T21:58:20.194Z"
+  "lastUpdated": "2026-07-05T03:24:47.471Z"
 }
