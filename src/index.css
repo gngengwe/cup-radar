@@ -8690,7 +8690,26 @@ a.wcp-source-chip:hover { color: var(--text); }
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.06);
   border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
 }
+.stats-page__late-item--link {
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.stats-page__late-item--link:hover {
+  background: rgba(255,255,255,0.07);
+  border-color: rgba(0,230,118,0.25);
+}
+.stats-page__goal-link {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+.stats-page__goal-link:hover { opacity: 1; }
 .stats-page__late-minute {
   font-size: 13px;
   font-weight: 900;

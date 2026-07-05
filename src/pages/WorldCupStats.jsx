@@ -245,6 +245,7 @@ export default function WorldCupStats() {
                       {cb.multiGoal && <span className="stats-page__comeback-chip stats-page__comeback-chip--multi">Multi-goal</span>}
                       <span className="stats-page__comeback-chip">{cb.type === 'win' ? 'Win' : 'Draw'}</span>
                       <span className="stats-page__comeback-date">{formatDate(cb.date)} · {cb.stage}</span>
+                      <Link to="/goal-radar" className="stats-page__goal-link" title="Browse goals from this match">⚽ Goals</Link>
                     </div>
                   </div>
                 );
@@ -262,24 +263,31 @@ export default function WorldCupStats() {
             <p className="stats-page__empty">No late goals in the current dataset.</p>
           ) : (
             <div className="stats-page__late-list">
-              {lateGoals.slice(0, 30).map((g, i) => (
-                <div key={`${g.matchId}-${i}`} className="stats-page__late-item">
-                  <span className="stats-page__late-minute">{g.minute}'</span>
-                  <FlagImg emoji={g.flag} size={20} />
-                  <div className="stats-page__late-body">
-                    <span className="stats-page__late-player">{g.player}</span>
-                    <span className="stats-page__late-context">
-                      {g.team} vs {g.opponent} · {g.scoreBefore} → {g.scoreAfter} · {formatDate(g.date)}
-                    </span>
-                  </div>
-                  <span
-                    className="stats-page__late-impact"
-                    style={{ color: IMPACT_COLOR[g.impact] }}
+              {lateGoals.slice(0, 30).map((g, i) => {
+                const goalId = `${g.matchId}-${g.minute}-${g.player}`;
+                return (
+                  <Link
+                    key={`${g.matchId}-${i}`}
+                    to={`/goal-radar/g/${encodeURIComponent(goalId)}`}
+                    className="stats-page__late-item stats-page__late-item--link"
                   >
-                    {IMPACT_LABEL[g.impact]}
-                  </span>
-                </div>
-              ))}
+                    <span className="stats-page__late-minute">{g.minute}'</span>
+                    <FlagImg emoji={g.flag} size={20} />
+                    <div className="stats-page__late-body">
+                      <span className="stats-page__late-player">{g.player}</span>
+                      <span className="stats-page__late-context">
+                        {g.team} vs {g.opponent} · {g.scoreBefore} → {g.scoreAfter} · {formatDate(g.date)}
+                      </span>
+                    </div>
+                    <span
+                      className="stats-page__late-impact"
+                      style={{ color: IMPACT_COLOR[g.impact] }}
+                    >
+                      {IMPACT_LABEL[g.impact]}
+                    </span>
+                  </Link>
+                );
+              })}
             </div>
           )}
         </section>

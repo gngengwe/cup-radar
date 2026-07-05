@@ -31,5 +31,9 @@ export function buildNav(city) {
     { id: 'upsets',     label: 'Upset Radar',        icon: '🚨',      desc: 'Chaos potential'      },
     { id: 'narratives', label: 'Narratives',         icon: '📖',      desc: 'Tournament stories'   },
     { id: 'news',       label: 'Newsroom',           icon: '📰',      desc: 'Latest stories'       },
+    { id: '__divider-3__', divider: true },
+    { id: 'live-pulse',  label: 'Live Pulse',        icon: '📡',      desc: 'Match cards, live',     external: true, to: '/live-pulse'  },
+    { id: 'goal-radar',  label: 'Goal Radar',        icon: '🎯',      desc: 'Every goal, every match', external: true, to: '/goal-radar' },
+    { id: 'stats',       label: 'By the Numbers',    icon: '📈',      desc: 'Stats & deep dives',    external: true, to: '/stats'       },
   ];
 }
