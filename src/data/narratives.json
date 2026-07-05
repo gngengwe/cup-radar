@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-05T11:03:54.514Z",
+  "lastUpdated": "2026-07-05T13:39:06.181Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 156,
+      "chapterCount": 157,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1266,6 +1266,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0VDZnhTYVVpeC1XVXlWN3g0VmwwbXJSVERINXRkQVgzSjROTnNVUU5HVlFLcDNtNXRlc2I2WVFHUWlvZ3RiU0hGeEtMcWlBX1Vtbkh4R3M1Snp3TjVfMGhteUJfa0ZTVE9qWlN1ZWRFVGFtQXh5UFFvNW1tVTUwbmUxZTlLZm5hbVdFaXVKWEJNejA4SlBHbFREOXZEb2xYQlFTOWc3WVhFajlCeHF5b0JweWF0RTZ4RTVrOXlMeG1yZllydDBxT3llRXR1aERNMGRlME96UnBqYmphU1E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783258744164",
+          "date": "2026-07-04",
+          "title": "World Cup 2026: Argentina vs Cape Verde - Lionel Messi scores against Cape Verde - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EbEFMdXdfRkZveDhFTjFweXRZZTI0WW94WHc5VWE0eGJETmVnUF9VTHlIeEZGVlEwVkRQVXg4cUpqbTRpTXJwTVQ1OEk4XzBOMk1MdHFpNGZYRVJ5UDY3QVBaWW0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1284,7 +1292,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 169,
+      "chapterCount": 170,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2637,6 +2645,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmlTb2NBWWRzMUJJWEE3OThsdW52UEF5c3JYMWY5bXJja3FhRHVodXctSkNFUk1aWEp2R2IzX1JHSkw2VENKM1FiUmNKMGdxd0VHX2dIcVl3eXpTQWxLR1ZvZ09KdWhxYzN2bnU2aFdDTnVVZFpLbG55UjltU3R3UmxicW5YUVBVaDFPam1ncTNvQ1NSRkd0cWV0Zk95LWJ1dkIyRFl1OUxncFozdXdzd0dud3hrV2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783258744690",
+          "date": "2026-07-05",
+          "title": "France ready for ‘war’ at World Cup after winning the ‘disgrace’ of Philadelphia - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXVJdTJNaGppaGtlVkR5Yk5IN2VrWWlqMXRPR0ZkM1RMUUdJNWRFRVY4elpDRTB0MjJ1Yk94ZkpGTjBRdjh4a1NFUTFyWmFMNVpSMTJYMjN2N2tRMm5qWHJDem9QUWFOUjl5ak1HeWNUeDJzNjEtS196VFpRQmhpREp3d1M4cE9MTVVEWEJ6STBWSmtjNGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2655,7 +2671,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 383,
+      "chapterCount": 385,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -5720,6 +5736,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeldHMnFmdm5xN0lmR1hUTHhmUXQ1REszem1CazhScXIyR2JaYTNIbk1TUE9EZ3dtQ3d6aU0yMC1tenZ3bGRYU1JmaDYzdnZBWHJ4TDQtMF9oekYzbTNCT1ZXalI0amU0cTBlM0hkbFVVNzdVU3FYaWQ4TlN4YWY4aDdFZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783258745199",
+          "date": "2026-07-05",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Norway, Mexico, England - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXdtbXcwNVpBREN2TnhaQmd4VTJKeG9oQ1Bnbi15ZnhHM2dVMGxtZGkzVEhMcmktNnJ6UzdkSmV1ZUhoV1RKdkp1aWJyM2prTTV5OEhQSFhNTXllaW5GZ2REd0ZVNXVYNU9aSzVUSjJWbnpQLWxTeW9mejZscUFEQnZJRFRYWVpGMVhHVFhkM0xVQmI2T1VzejN3MTl6VEltbUhmdUJwMVNYU2VlOEZtZnBlU1dHcVEyVEhYM25YQjFnRWZld280?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783258745199",
+          "date": "2026-07-05",
+          "title": "Team USA succeeding at World Cup, but soccer structure in U.S. needs work - The Seattle Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGJabWQ4Q1hUYnVXVVBrdklfNGdnaGhMUEdZdFRRYlNQSTlNZkxjQlFlc05BeFpudklQbjlZNFFlaXVqZHpkQVBONmlIZE5VQnVyN0I1dGo5WWVibEpueUlkS0NqMkh3Zmo1VDVUMEdXOXpZZ3JTb3hPUTZwTnJIeEowTFdLMjFYRGZYMUxqVTU2MFR3dTJhOFh3MzhucTlGUS1KN2tDc1VKNTdqLUpfQkdfcS0xUjN2Qk82MnQ4b3NESHNnR1RTOEFKY3dWelk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5738,7 +5770,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 356,
+      "chapterCount": 358,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -8587,6 +8619,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG9CWmVDOEVQVks4dng5eVdxa1VoVzcwajJHU3NvT0tMd0FSQ1U1VmtHUmZvT2MybGlWZmZ0Q2dnYnl2NzVLcXltcWk0NG1GOVFtSFA0VjhUYWlEVjh1QndYR2FDc3VHSlk0MUlLaDJoeGFRZVRWSzhyRkN0RE85SdIBhgFBVV95cUxOb1AxVkhyWl96OGJMbG5acWQ5UU9KWHFtelpwRDEwVXVwakhxcktsaGhUTUU2MmJBZTNoSFlxOTFVQWdtTHAtOHJqV1QwYmlvVjBBRjA3dU5KWFpZT0xHVUFKaUs2ekh3S0x4c2d2ZHRmaHdrR2tsa3N4LVExNGJ1Vmo1N1V2Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783258745656",
+          "date": "2026-07-05",
+          "title": "Brazil vs. Norway. Mexico vs. England. A World Cup Slate For The Ages. - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnRNVzlPVmVUNmNQZ01IaUlwZDJOeEx3dFB1dENDaFhseGgzbmgxc3NGMHRvakxodXpYVmN5bGRodmNncG81dTRvVlNzOUZUdjFYSUFOZ2NTb1YtYUtfNGI4dklYWXRheXhlNEQ4aGRQbWc3Y3VUX0VHNDRuNW0xdkNSbDhPTENSamc2aUpQcEZaMzNUdXVtaTJqUjJIZlFpQVlwNXduQTBqd9IBqgFBVV95cUxON2JKdHMtbDlSQUdlUk1DNzNZR1F4NG9YWTRLTUIzdDhvYm9fNER4dU1naExTNXB4SkdpY0ltTkc0eUt2bENQMkhCY09vWDJqTlRHT05LR1hicWpONG05eE1pMndZNGRkYjlFU0Y0UEN0bVZnU2s1YlFQcHJ5ZmN2ZHp6STlDYW4yNDZzejhQNGxvZS0xWlZLLWQ4aTQxc250MVIzTzJNc3luQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783258745656",
+          "date": "2026-07-02",
+          "title": "World Cup 2026 Round of 16 Match 3 Prediction & Best Bets - Total Football Analysis",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmR5Q016dTRnd3pjMFJuMWYtS1h3ay13NXJTd2VMckdsRXAwLVRGTlZ6NVpEZ09pRXNNN2ZFUU5lRXNIbEdUM24zQ1Q4NUhSQ1E5WTlWVS16dktMX3Y3OHpKQmJOdUR1Qlh3ZkQya0M0SmNJRnpCYkgtaHRTQ05mWmxlR3ZUU2xyOFN1Y05vY0tncU5mcFZpX1UzRWw4dW5NU0xoVS1JZUR1azhy?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8792,7 +8840,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 418,
+      "chapterCount": 419,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -12136,6 +12184,14 @@
           "title": "Mexico vs. England World Cup mega-preview: Predictions, form guide, key players and more - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU8tSXpFelJ2dWpUSkNTT2RFTWViZDl3ekpULUQ1UkZqM3BTNllCWmI5RGpJVkZHRzY4eDdONXJuaTNGRU5aNFd2UC00R2xyUkhQd3dNclZ4NEhERWpjQkFBRmtWWGdvTVY3NlViRUpfZnJDamxzR3ZWQWQwMldNUk42QVZpd1hpOGlNLVNIMzJJSDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783258746181",
+          "date": "2026-07-05",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Brazil, Norway, Mexico, England - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXdtbXcwNVpBREN2TnhaQmd4VTJKeG9oQ1Bnbi15ZnhHM2dVMGxtZGkzVEhMcmktNnJ6UzdkSmV1ZUhoV1RKdkp1aWJyM2prTTV5OEhQSFhNTXllaW5GZ2REd0ZVNXVYNU9aSzVUSjJWbnpQLWxTeW9mejZscUFEQnZJRFRYWVpGMVhHVFhkM0xVQmI2T1VzejN3MTl6VEltbUhmdUJwMVNYU2VlOEZtZnBlU1dHcVEyVEhYM25YQjFnRWZld280?oc=5",
           "draft": true
         }
       ]
