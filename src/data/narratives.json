@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-05T19:17:48.533Z",
+  "lastUpdated": "2026-07-05T22:01:50.134Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 158,
+      "chapterCount": 159,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1282,6 +1282,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObHJKa21vQ0JkTi1MTGtlYlczYTkzOV9zbmI0T2JDdGt3UHJrMmRpMVRrVXRBZHFWcU1QcGhBTzFhNV9LWExnVXJpNm9rbU1SVFc0cjZjb2h6eGFpbTNocWlJa2xhdFZGYkZpaDZkdURMckNPRVBISWpWSUVyYmFETGtzTU9mWmRTc0lVNlJzTGVLTER2VDN3TTgteVVNYjh1S3FkNnhfSkVkOGpqYzRCOVY5R3kzY2JFTmxHTlhJNjRtVS10eUNreWdJc0otT3pyTFExOTJIRjBDVDlHNmNtMU9XbHA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783288907776",
+          "date": "2026-07-05",
+          "title": "Battle-hardened Argentina, Egypt set for last-16 clash - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1pLTDl2a2R1OUdZUzFpTllidmZqZ0pUM0g5Y0JpSmJlRWhCbEVoWkIxMmxISUgyMTlIemxJZHRubUpVRm1Gc1ZvNFhnSlY2bmJkSEswSjNjUmdFTWV1Z0lJaVNQVnpxeWpUdXk3ZFBmR2xMTVBIdTV2SVlOWFFqZHdHSjFERjFRV0xGWFV2dWZHZDdVU1lRM2ltMTZjQTl5?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1300,7 +1308,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 174,
+      "chapterCount": 175,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2693,6 +2701,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUpNVURDQk9zTXVhLVlJUmlJU1FiNmh1TmZlZkxwb2RPMXdmSDZCSlVBRWtGWVItdlN4Vm9fSUFPX2JUY1pFQVJZZDVoMERDWkxBZ3hZcW9KMGlNM0RWLXlNbUR6WjMwaWxqbFRPYnBhVVhocHdIOFUtUGc2QTVYUzllNDFuNlRkbmp1TXdlLWRDNUx3WjZlSHM2VTlOdDd1aWhpbFdCZzQ3bjVySVBIM19qN2UxaHIxSFIyVjd3c3RBRVMyWldYNE5pMUd6ZzgyOFk3ZTNUSQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783288908274",
+          "date": "2026-07-05",
+          "title": "Paraguay showed France can be stifled – Morocco will have taken note | Paul MacInnes - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUtrN19UdDVRakhQdHc2NlN2R19SWTJmWTM4R0FSN1k3dnJZRFhELVNpQy1ldDRfMGZ0Z1ZSWUdDMjltSEFYTTk3ZkV2bVVRQmVibVhrQzZwZzNtYjAxN3hkalRZRzhWbVFBekhMbWFod2dqdWkzQWpwakRiOGIyR1IybldtbjdSc29VY3JmbjI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2711,7 +2727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 390,
+      "chapterCount": 394,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -5832,6 +5848,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjhIcDE3YksyQUFnVEotY2E4U0ZtS2FtNmd1RFp1RGxIOE9CU3NnMkhwbkdjM2gyejlsUmpHN3pqeWdKTGxTaDhsQmdmdm5nZG9GYU9UY19Ea1JIQWhiclpZb2wyWU9IMEhfLTQyQ1ZWN053TFNNemFMeGdVci1CVXNCdm1BOHo4Rkg3dWIweEwxZldSbzAyM1RfUzdZTnJpdFlsRjdDYl8tbENNVDlKQjlXb1FKUklUeXcwT25uN3k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783288908886",
+          "date": "2026-07-05",
+          "title": "2026 World Cup: USMNT striker Folarin Balogun available vs. Belgium after red-card ban suspended following President Trump's reported call to FIFA - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPM25oX0l3TEdoTG1iVVA5WWlOVldpa01hOG5Uc3JVcXhPa0lVRmh3SkV2aUYxTW81dXg4dmRNa1pieXQtclVWaWdKbnZOTzBKOWNIdTBRcGljSnNJc3ZueFp5cUhCYnB1VjEwYkxDbks5OWIyVTFmRGZhNkhYcnJZRXdUT2p1Q1dLS3NTdXNCTGE0bThheVU3SFVWWUVpaHhqVUhIQ201c3BjaFhmVGNXTnpkOG1YS1h3eENFRUJPYk1rRi1CNUFhLW00Rmd5VlphYThQT2FkZUVMRko5RkJPTklLamxNWW9kWDJJV0FtZ2lTLVRUbWRWM1YzODUzYzVKZ096WlEzdDZSdFFsdDR4MUNJa3dyN1E4bXBmTDBSTUEwbEZo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783288908886",
+          "date": "2026-07-04",
+          "title": "When does USA Soccer play next? 2026 USMNT World Cup schedule, how to watch, odds vs Belgium - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHBzaVVZZk03ZV9lMDU1WnE3bmJsZjEweHp1M2pyNjVTdktDZ2Z5UXVmTFEtUl96NTh5ZVNEQnVVRHpNZVdfSEMtVlJPYzc4ekw5WEZyS2FURDIyeGU4Y014cGlsak1WR09VZmUzd1BNOV9FLS02dExZdFJMWXNkYXpCTlV5dEZma0sxWTVqYmd6Z1pzeHh5VnpWdXVvRE5EM09Nd2s0czNhMktlcHdWTTQ3ckYzcHg3c25fT1hOc1NINWkwSHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783288908886",
+          "date": "2026-07-05",
+          "title": "Folarin Balogun available for USMNT vs. Belgium as red card ban suspended - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXEtVEJUeG91V3BKUGVIc25HYno1dkk3OHFtblpHZ1k4bldfRXZ0UWNoLWJNWm1aV3c4Vmg3bUVZRE5lZEFrc3ZvSkpyN3drTHQxSWJVV05uX1JTSE1jdGJhNTJvaWNDSVVsaXRZazVqam1FeVhFVmdBeGRLSy1tUHV2c25hMGVKMWl2T1B4T21EOVhyeFo2Rw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783288908886",
+          "date": "2026-07-05",
+          "title": "World Cup 2026: USMNT reacts after FIFA's stunning Folarin Balogun reversal — 'A lot of us thought it was AI' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVWZmMGtqUzlEaVRiM0ZHckx4M1ZQUy02Ulk4UXdKNENPWG9WUFZrbUNHd1gtYlhyNTcxek9tc3g2bFZIUXdkNHRXbVZzdERVNDJyZTZxZ2VNbWk2c3NndmJxTy1YU3pNYWtGbDhOdXBMMVlUbmg0U1loTjY1VlVwZ1A5UENhaXhSOU9VeVU5bHRzRzB2VVRZTUdxVng0MThNV25OMEU3ekZicWtrdFlHbWM0YXBIY3J5dVdsbVMteVlOZmdQdW96Y0xXWE5EclZLWVc2bmcxSWFqWGhQei1DLXc5N3F2amFEU090OTk2STg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5850,7 +5898,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 364,
+      "chapterCount": 369,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -8763,6 +8811,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWhXdDlDTzM1VjZLRVF1UVVJQ2hiQWlja0gzMlYyOE5xNHBxODJCNko4RXJkVTZTYnJaZ3FUb19EVnFDdUJBQ3BnWi1uQ0lpU21heU56NVQzMm91c19pRjhrTEJla2gwNUVxUWJZSXl3MWwyTG5SbHY4VjB2dVFPMjgyanAyS0Z4NXB3OEl3aXp0WGJIZ2xIWE1jOGpfZ2J2RnVnQlZMNUgyTms?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783288909416",
+          "date": "2026-07-05",
+          "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWw3emdxLUFnV1lUMzdMaEpCcWpKdTZjQXdBUmtNRkxxQU52YkI0ZlpJTlVtdkpHUkc2VUhvUWFMLWF3MkVHQmRWUy1ZZHotdG95eE9SMVJOVUg0UHpiaFhTMlZwcXR6SlpHR21jZmZCUlhlWlhpT3ZKZTBXT2l1NmljRzNWeVUzYzhRQ09YdHNWcm1welhUdVBjb3FzYkJnckHSAacBQVVfeXFMT2E3ZlpUOUI5Q2FFWTl2SXhUeS10NlNRaHRjWW1NVVUxVlExcWt0eXRoVEg5cTQ5aGlBVVY1ZUFTdUxRNHJybmZSaDhmUTlBdFplTnNMMXIzN2RvbGQ2WHRta2o0bVNOT19udzJKaVMtVk55ZW80YUZXMzYyeVBETnlrSDI3VDNDcUh6QnQ1S2stS3NhR2Q2ZjZpX0RTWnV6SmtpR1ZKSmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783288909416",
+          "date": "2026-07-05",
+          "title": "When Brazil’s World Cup winners took over Los Gatos in 1994: ‘They lit this town on fire’ - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXhIajJzU3F0eGFtSDhmLWFXUUs5WXB5Vk82NXdwbzBCc1RMWlNnZ0NQOFlVSjJrZlZyaElycDFCWGg0Nm1XQTBIclB2SWFOSXI1LWJaeGZIaklESzgta1hHVTBzTkpRRnlVeFpzTGJaUzB4S2ZZeUx4TWZGWGhnUERPVGxmVF9VWkpYag?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783288909416",
+          "date": "2026-07-05",
+          "title": "Where to Watch Brazil vs. Norway in the 2026 FIFA World Cup for Free - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOW1LUnM0TXlwYmhYZkZpaEVDOVFreHVPbk84aUg2WjlsZHdCUWcyLS1VRktCWEhfZDN4QW9FSFVpb2lwVUpLWlhwUjNxV2JQaWF2RlBNa19qNTNIS0NQVWdqRWVtVjR3emhTdnRKLVZYZ0RwWTY1Zjc0bkhTVmVmbm1KNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783288909416",
+          "date": "2026-07-05",
+          "title": "FIFA World Cup 2026: Brazil vs Norway Round of 16 – Score, lineups and live updates - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckMtemRELV8zVTBwZTBCQ1c5a0hiN29SZVAwTG9RZG9HWlYzQ1k4N2IwTGpJNHVnLWNnYkVsTXhIMldtX2FlVXRJVFYzc1JEcmFDQmw4XzA1aHFPbDBITG1qakc4OTNHdnJINl9OWC1MU0dYR0lWRkU4ZnM2TW01eVc3bmQtQl9DVkVPUV8wYkFhVlBCOHNVNVFOb1pxcWNSc19CQklrNnU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783288909416",
+          "date": "2026-07-05",
+          "title": "Brazil vs. Norway: Stream FIFA World Cup 2026 Match Live for Free - CNET",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXFveldWX0RzSTBUMXlQOUd1dFdLXzdGd3lPX3JnZUI2RUtnUExqVE9PS1FwMXk5ZV9jSnozZHJYNUE4TmxvZTR6cGJHZmZjaHdhOG1jbWJ3MUQ3TlJoaDBTTElRUDEteVVES1FKc21VYmxUOTEzX1VzcXRqdy1URTBmd2FteU81M2VGaWlXVkxPX3hHVnVoV3ZZWFk1TDFDRkZFejhNTktRazVZTndOXzlB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8968,7 +9056,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 424,
+      "chapterCount": 427,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -12360,6 +12448,30 @@
           "title": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkg2UkVSNVFIOVplZjlIMXI2WGQ5WkI4NkRrZjVFODEzQUJGaF9mRmVEUFdoYTJFejRoZ1NxTVFVQ08tZ1o3Y29mR0VkeEVnWjVMTUpIZ1lZUjdhM1dPdUwwNERrTU5GLWlNY3dOSVFMUElQTjVXRHUwb3hEWDFQd1lrSTgxWHFkcjhjNFl3NkExeU9HNjM5LWdnakJENWhIbHBrT0FhcDJkZXRrV3ZpSXRTLVNhMTAxeWYyaVhjU1NsVUVkM2p3ZtIBzgFBVV95cUxQZ0VOVTI0dHVUbE8zaVpmNVVJMFhxWjEydDFaZ2lIM0xBQ2FzRFRpUVNvUDJESkhHdU5UUXQzTzBuWkl5dllnaEFZNTA3cFlqSVJzRlhBNGVjXzRxZ0NXWm1mZUlUb255QWFwYlUyNUhMXzN6ZUJBUUZub2dCVTVKRkl2ak1WN1hwY0JWbFNMRWpzdDVHVWpzNnNkYkxNeDBWa2VyempRTEpZNnBoNGFCLXVfQjhNZGhYSk85dVQzdVNpdmJpSEk4dkNfVTRTQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783288910134",
+          "date": "2026-07-05",
+          "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWw3emdxLUFnV1lUMzdMaEpCcWpKdTZjQXdBUmtNRkxxQU52YkI0ZlpJTlVtdkpHUkc2VUhvUWFMLWF3MkVHQmRWUy1ZZHotdG95eE9SMVJOVUg0UHpiaFhTMlZwcXR6SlpHR21jZmZCUlhlWlhpT3ZKZTBXT2l1NmljRzNWeVUzYzhRQ09YdHNWcm1welhUdVBjb3FzYkJnckHSAacBQVVfeXFMT2E3ZlpUOUI5Q2FFWTl2SXhUeS10NlNRaHRjWW1NVVUxVlExcWt0eXRoVEg5cTQ5aGlBVVY1ZUFTdUxRNHJybmZSaDhmUTlBdFplTnNMMXIzN2RvbGQ2WHRta2o0bVNOT19udzJKaVMtVk55ZW80YUZXMzYyeVBETnlrSDI3VDNDcUh6QnQ1S2stS3NhR2Q2ZjZpX0RTWnV6SmtpR1ZKSmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783288910134",
+          "date": "2026-07-05",
+          "title": "Mexico vs England: England's Djed Spence complains of muscle issue before last-16 World Cup tie - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOd0VQYkxDaXIzd2lIVlZvQ2xzNUh3NEU2SHpBZnY2ZjM2bEtXS1FOcnJqUlhOaDRwZTktTlpfZkFkU0luc1F4UVZ1Ym1NM1JPd3hhYlBITk1WaWZZNnpnTEh0ekdDVWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783288910134",
+          "date": "2026-07-05",
+          "title": "Mexico vs England: Azteca Stadium issues shelter-in-place order because of severe weather - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMktXWUNVdFZBalN6V3hCLV9SZEd6X3Q2QWxpWTBtYk4zLUhDcVdsN1BULXdZVkJMUldlOUM4dzlORkRBSm1paGlEWDQ0aWMtaE1jWHZ4bDBCT1FnZmJYcWRoeWZZV3h6VUE?oc=5",
           "draft": true
         }
       ]
