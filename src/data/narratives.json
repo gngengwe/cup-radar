@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-05T22:01:50.134Z",
+  "lastUpdated": "2026-07-06T03:32:53.863Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2727,7 +2727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 394,
+      "chapterCount": 396,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -5880,6 +5880,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVWZmMGtqUzlEaVRiM0ZHckx4M1ZQUy02Ulk4UXdKNENPWG9WUFZrbUNHd1gtYlhyNTcxek9tc3g2bFZIUXdkNHRXbVZzdERVNDJyZTZxZ2VNbWk2c3NndmJxTy1YU3pNYWtGbDhOdXBMMVlUbmg0U1loTjY1VlVwZ1A5UENhaXhSOU9VeVU5bHRzRzB2VVRZTUdxVng0MThNV25OMEU3ekZicWtrdFlHbWM0YXBIY3J5dVdsbVMteVlOZmdQdW96Y0xXWE5EclZLWVc2bmcxSWFqWGhQei1DLXc5N3F2amFEU090OTk2STg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783308772879",
+          "date": "2026-07-05",
+          "title": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play. - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95N3hpdksyZGZXQkhzenEwaTFWelNPa0tUYzMydk0yNVR1d1hPLV9YS1M4MlQ1LV9RdzNTQnMyTFR3RGZXdTcxTHBJMkxLeVFpdWVQZHA2QTVra3A1QTJKZC1YcTBZLU1oQmVtU3ozcDZGZUQ1ZkJCUjhLaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783308772880",
+          "date": "2026-07-05",
+          "title": "USMNT's Folarin Balogun Available for Selection Against Belgium on Monday - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbnhDZ1lTeDlqZmJRMVJ3M1NpbEdCZDhCVW95MGpVa0p0QWRSM0NDcG1DRU9KQ1FWa3NJal8zWGZVRTNYeGRPMDJBRGRNSXdWVDhRcjEtdjRaT2hYQzg4RWZfZ3NlUGNWRjJZUnZtNXE5eENDZVM3MGNycWhqQVVTNEFTR2J2b2VjYnd4SlVXelVramdaMldtVmRjZ0NBZFNqM1J1cTRBbWJJdUVsS2FmTjU0bnBMQWln?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5898,7 +5914,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 369,
+      "chapterCount": 375,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -8851,6 +8867,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXFveldWX0RzSTBUMXlQOUd1dFdLXzdGd3lPX3JnZUI2RUtnUExqVE9PS1FwMXk5ZV9jSnozZHJYNUE4TmxvZTR6cGJHZmZjaHdhOG1jbWJ3MUQ3TlJoaDBTTElRUDEteVVES1FKc21VYmxUOTEzX1VzcXRqdy1URTBmd2FteU81M2VGaWlXVkxPX3hHVnVoV3ZZWFk1TDFDRkZFejhNTktRazVZTndOXzlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-nyc-02",
+          "date": "2026-07-05",
+          "title": "Norway beat Brazil 2-1 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-004-1783308773408",
+          "date": "2026-07-06",
+          "title": "Neymar quits international football after Brazil’s World Cup knockout loss - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdVVIUGozWS1qY0YyUF9mam5yMjVPcVZzZFVNeE9kM0xmbjlNNUUwTlJBVTVCODg2bUxLdF9NX2NrTU1yVngwMXQwdW5jbk91cVZxRW54bk1HSzExVmVaUFRaeDFMVDZ1X2hEZ2lQZ1ZpSFVTUzVRdmxDdzRlbWRkNkhZeG9wcXg3ZU5fazRPTHBKNWlxRmJCWjFqYWJmZ1c3TXhKd1llWlVqS0FUQXlmVzBhNUJwQdIBuwFBVV95cUxOaDdLTXBkQUZnRFJKWUNHcm8zempKX2QwaHBiZXpkblNNZVFKR2xyLUF4V2dUc2ExMlBjbW50dlFDMlpCZHZ6NU11LUZzVVRBcE5neWFEYlE4Y2U1aUxsVTdEMTFtcjFCdlpTNFhlc0lZTWpSRVhTOHNKMklnYmhwaEhZTHJSYzVzNm1WUS1CeUhvRVpBRW11cXhrV2ZrZXNNRzU3dG1haEN1VW5Gc3pId0ZGelBhWFFTSy1N?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783308773408",
+          "date": "2026-07-06",
+          "title": "World Cup 2026: Erling Haaland scores twice and Norway shocks Brazil 2-1 to advance to quarterfinals - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMWhldGwwVER2RVBsNm1BVmlISTB6d2dWNGd3dnhoZTRLVnBURTBoSGtSLVl6S3ZSRE5lcjdVZ3J6ZHRMa0R4UFdZekZGbG1yQWV6R3dnZ1c2dmcxNDBzZFYxVGctZExKNEtyVU1DRF90UFp0d3VkREtYcEVBdncxY21sRk1UTlJ5ZFlDVkYxSGdNU0hack1jOHdrMWpSa2FHR1NaMldfNkNUMXF6Ym1SbmVJaGRqUkpHMzlqY180THFEZHFlMWVRbkVld1FkM0t5WTA0aE1ZakJMUVlsWmxGQjNvRTBGTjNnYlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783308773408",
+          "date": "2026-07-05",
+          "title": "Ancelotti gamble leaves Brazil mired in World Cup quicksand - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVNsOFUwajhnUU9MUHMtR1AxdEJveEp5TUlfLXdDbmdFMzN3QjBJOXRnN3BKeVdBUHdqMHpkMUVQRTBTVURIRS1MdVY5Z1o0YS15WDNmUnhVcEJJWTZ6Z1hDSl9odjZRY29IQjlSTXFDQUgzREhkaUxpdU5NSXNjcHpTTGlEUlM2OU5obmJCeXRVLU9ncUdvMGI4TlEyUC1mQnVIZFNhY3Z3Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783308773408",
+          "date": "2026-07-06",
+          "title": "Neymar Retires from Brazil After Norway Eliminates the Seleção at World Cup 2026 - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnBuMzVqZHhGTG5hSDlqUnFIeWhScHN5Z3RuZEFuZ05zSmhGNTluZnZNQUZJNHJtNklnNFRWbzM5SFBUTWV5Um5zXzNtX01GMVpzVV9qb0h0WE1nYmVYd2tEeWJYajg1VUZwbXFwUW9VUTFEZXFBRk1rZThndFlaYW1sekRXT3BRcTJhUTd5dTBxTjMyTENlczN5MEVqT3ZjLWdORmZ3QV9JNDFSVE1rSVQwdTdFWGFhODQ0b0I3LTV0VTE5ZW8xdEhSeElzaUdEQ25nbzBSUVdpWnhGMFRpZVlmcHF4UDJUUl9uNw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783308773408",
+          "date": "2026-07-05",
+          "title": "Norway’s Ørjan Nyland stops penalty kick from Bruno Guimarães to keep score level vs Brazil | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FNm9HV3RIUzhyRDFiTWJfcVc1SzhRWW95UC1rWWhDcUxfQnVoeE9mYjVSUzNBUkc4UlVqR0ozXzdzQTdaVkw5VlZWZkFKeTJLMnhFLXd5N2ZMemtOMVh3dXZ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8869,7 +8933,7 @@
       "emotionalStake": 4,
       "summary": "Mexico has been eliminated in the Round of 16 in every World Cup from 1994 to 2018 — eight straight times. As co-hosts, they opened the entire tournament at the sacred Estadio Azteca and delivered, beating South Africa 2-0 in front of a roaring home crowd — exactly the start co-hosts dream of, and the most emotionally charged chance in decades to finally break through.",
       "watchFor": "Two more group games — South Korea and Czechia — stand between Mexico and a Round of 16 they haven't escaped in 32 years. The Azteca crowd showed up loud for the opener. Can this new generation carry that weight all the way through?",
-      "chapterCount": 4,
+      "chapterCount": 5,
       "chapters": [
         {
           "id": "ch-result-wc26-001",
@@ -8902,6 +8966,14 @@
           "body": "",
           "sourceLink": "",
           "draft": false
+        },
+        {
+          "id": "ch-result-wc26-mex-02",
+          "date": "2026-07-05",
+          "title": "England beat Mexico 3-2 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
         }
       ]
     },
@@ -8922,7 +8994,7 @@
       "emotionalStake": 4,
       "summary": "South Africa was handed the toughest possible opening match: Mexico at the Azteca, on opening day, with the host nation roaring. The shock didn't come — Mexico won 2-0. But South Africa's 2010 home World Cup showed what belief and occasion can do, and two more group games, against Czechia and South Korea, are still very much up for grabs.",
       "watchFor": "Can South Africa regroup and find a result against Czechia or South Korea? A win in either match would keep their group-stage hopes alive — and would be one of the best moments of the tournament for a team written off after the Azteca.",
-      "chapterCount": 7,
+      "chapterCount": 8,
       "chapters": [
         {
           "id": "ch-result-wc26-001",
@@ -8976,6 +9048,14 @@
           "id": "ch-result-wc26-mex-01",
           "date": "2026-06-30",
           "title": "Mexico beat Ecuador 2-0 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-mex-02",
+          "date": "2026-07-05",
+          "title": "England beat Mexico 3-2 at Estadio Azteca.",
           "body": "",
           "sourceLink": "",
           "draft": false
@@ -9056,7 +9136,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 427,
+      "chapterCount": 433,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -12473,6 +12553,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMktXWUNVdFZBalN6V3hCLV9SZEd6X3Q2QWxpWTBtYk4zLUhDcVdsN1BULXdZVkJMUldlOUM4dzlORkRBSm1paGlEWDQ0aWMtaE1jWHZ4bDBCT1FnZmJYcWRoeWZZV3h6VUE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-mex-02",
+          "date": "2026-07-05",
+          "title": "England beat Mexico 3-2 at Estadio Azteca.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-008-1783308773863",
+          "date": "2026-07-05",
+          "title": "Mexico 2-3 England: World Cup 2026 last 16 updates – live reaction - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjJwWll1YmNjOVdWenA1aXZmYWh3TzlHVnY3TFB2bTB2Y1lMTGRFNUZwaTBiLThMUWlpZnU5WGJqSWFqemFncmF3UFlmVWxNZTlodnZfdnJWWmlSYkQ3eUFUQ0ItTFktdXlLMks1WFQ2UmJUWUFFRDFOV0NlRWZ3amtwVHJFdUxoTXJscEctVWthNXhRekZxU29DYjN1QW8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783308773863",
+          "date": "2026-07-05",
+          "title": "England attempt to spoil Mexico’s World Cup party in Azteca cauldron: Live updates - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVNTWjVXMWtlRktVWDg3WHVhQ1FTS0Q4clJ2SGF3cnd0T2JOTmwyUkZYakk4VnBOeUhRUlVFME5oTnhQM0oyMVVoMGVVSm9BS3E1X21ReEZZS0Z2WFBTVW9pNXJvSG94UXQya18wdE5rb1RHcmx3SEZDRUVyX0MxU2RUT1BIWUI4NWctbkpkUUQ1ZjVoc0NZZ2VfdWNUNmdoMkwweWVlMTR5cTJPM1Jtdk9IRUhLUXM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783308773863",
+          "date": "2026-07-05",
+          "title": "Mexico vs. England - Live Score - July 05, 2026 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFRmMFNVT2FZYWc1OGJCTm40TnlucHdEVUMzTmtNby13Z1A1YWJEZGVEbUZtS3Mwa0lEZEw3bUg3VjJnZHdCaHAxZkJ1ckZvell4ZTdTeXAzWkZXNEJxVWtfaThHSHduYmlYQ2dFV2VfT3FuSFVkMDl3ZndaRFVMbHp1QUk1MEJXNVJJaU84TDdOalQ5cEQ1Vzh0X0pMMHktam9POQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783308773863",
+          "date": "2026-07-05",
+          "title": "World Cup 2026: Balogun decision leaves red card system in disarray - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84V3pfaW5Xb3ZrbVM1Y2hVTzVCV2tSdVdETGtYa0xXeVpRNmkxRVg3NXZoWlFhbnZUa3pLOXF5M0k0VWRTdFdyUGJZRXNHc0ZqZ0dydWVpMU9oaXB6WjZXYllfTTVMWU0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783308773863",
+          "date": "2026-07-06",
+          "title": "World Cup co-host Mexico falls to England in chaotic match at home in Estadio Azteca - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1pOVlBpUjVKWWowMVdla3g2cUxMa0w3STJuUVAxWHo4elVTV2VTRVFZV3NhNkxFaXdEMl93UWMwbklaN0NadlRLMmc5NUpTb0ZmSUVPQWhwNTlBMjZqMzk2TTBtVjcxMFJWQldWWmx6aXNUblNkd19ySFpORzU0azg2R3VHX2JqckhGRGNmSkVLeXJ0WFlCQnFkb1dEYlR5a3Y2bEdDckF6Zm55N0Q5RnV3Mnlnd0tEUnZPd1ZWNEJvcFR0amU0NkdVT0hhRlFqTXdDSTJtNVFLNVRfZkE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12566,7 +12694,7 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 4,
+      "chapterCount": 5,
       "chapters": [
         {
           "id": "ch-result-wc26-015",
@@ -12596,6 +12724,14 @@
           "id": "ch-result-wc26-dal-01",
           "date": "2026-06-30",
           "title": "Norway beat Ivory Coast 2-1 at AT&T Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-nyc-02",
+          "date": "2026-07-05",
+          "title": "Norway beat Brazil 2-1 at MetLife Stadium, East Rutherford, NJ.",
           "body": "",
           "sourceLink": "",
           "draft": false

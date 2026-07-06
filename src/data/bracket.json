@@ -1,6 +1,6 @@
 {
   "_note": "Knockout bracket. Round of 32 matchups are final (all 12 groups complete as of 2026-06-27). R16+ use \"Winner <matchId>\" / \"Loser <matchId>\" placeholders resolved by scripts/refresh/bracket.js as earlier rounds finish. Dates verified against FIFA official 2026 schedule.",
-  "lastUpdated": "2026-07-05T03:24:44.592Z",
+  "lastUpdated": "2026-07-06T03:32:51.355Z",
   "rounds": [
     {
       "id": "r32",
@@ -268,8 +268,10 @@
           "awayFlag": "🇳🇴",
           "date": "2026-07-05",
           "city": "New York",
-          "status": "upcoming",
-          "round": "Round of 16"
+          "status": "finished",
+          "round": "Round of 16",
+          "homeScore": 1,
+          "awayScore": 2
         },
         {
           "id": "r16-04",
@@ -279,8 +281,10 @@
           "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "date": "2026-07-05",
           "city": "Mexico City",
-          "status": "upcoming",
-          "round": "Round of 16"
+          "status": "finished",
+          "round": "Round of 16",
+          "homeScore": 2,
+          "awayScore": 3
         },
         {
           "id": "r16-05",
@@ -362,10 +366,10 @@
         },
         {
           "id": "qf-03",
-          "home": "Winner r16-03",
-          "homeFlag": "🏳️",
-          "away": "Winner r16-04",
-          "awayFlag": "🏳️",
+          "home": "Norway",
+          "homeFlag": "🇳🇴",
+          "away": "England",
+          "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "date": "2026-07-11",
           "city": "Miami",
           "status": "upcoming",

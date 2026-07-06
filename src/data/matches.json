@@ -3836,11 +3836,35 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
+      "status": "finished",
+      "homeScore": 1,
       "awayScore": 2,
       "nyMatch": true,
-      "notes": "Winner R32-02 vs Winner R32-05 — Round of 16"
+      "notes": "Winner R32-02 vs Winner R32-05 — Round of 16",
+      "goals": [
+        {
+          "minute": 14,
+          "team": "home",
+          "player": "Bruno Guimarães",
+          "note": "pen"
+        },
+        {
+          "minute": 79,
+          "team": "away",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Erling Haaland"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Neymar",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-mex-02",
@@ -3859,9 +3883,9 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 3,
       "notes": "Winner R32-07 vs Winner R32-08 — Round of 16"
     },
     {
@@ -3913,12 +3937,12 @@
       "date": "2026-07-11",
       "time": "17:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Norway",
+      "homeCode": "NOR",
+      "homeFlag": "🇳🇴",
+      "awayTeam": "England",
+      "awayCode": "ENG",
+      "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "venue": "Hard Rock Stadium, Miami Gardens, FL",
       "city": "Miami",
       "cityCode": "MIA",
@@ -4000,5 +4024,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-05T22:01:44.622Z"
+  "lastUpdated": "2026-07-06T03:32:54.345Z"
 }
