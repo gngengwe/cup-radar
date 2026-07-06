@@ -3905,10 +3905,17 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 0,
-      "notes": "Winner R32-12 vs Winner R32-11 — Round of 16"
+      "awayScore": 1,
+      "notes": "Winner R32-12 vs Winner R32-11 — Round of 16",
+      "goals": [
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Mikel Merino"
+        }
+      ]
     },
     {
       "id": "wc26-bos-02",
@@ -4024,5 +4031,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-06T19:57:07.622Z"
+  "lastUpdated": "2026-07-06T22:13:29.058Z"
 }
