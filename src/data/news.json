@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-06T15:32:43.342Z",
+  "lastUpdated": "2026-07-06T19:57:10.377Z",
   "articles": [
+    {
+      "id": "news-auto-portugal-vs-spain-live-fifa-world-cup-20-2026-07-06",
+      "headline": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16 - Al Jazeera",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi1iZlczSlRMbm11T2w2QVU1Ty1QNnlWcWlHazNHWnRwNGY2SnFZZVRoc3pNT1lGX2MwUWhqNS1GVTFrVjdzLVAxaFlCRl9QSUV6OUZJdzBpRU96cG94RUFQWWZ4Z2RrR3Myb0RnRnBNWUt2WmotX3l5Q1dSZnRDWnBETGxmVHFLaHR0dGQzMEpXbGptV0JLdmk",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQi1iZlczSlRMbm11T2w2QVU1Ty1QNnlWcWlHazNHWnRwNGY2SnFZZVRoc3pNT1lGX2MwUWhqNS1GVTFrVjdzLVAxaFlCRl9QSUV6OUZJdzBpRU96cG94RUFQWWZ4Z2RrR3Myb0RnRnBNWUt2WmotX3l5Q1dSZnRDWnBETGxmVHFLaHR0dGQzMEpXbGptV0JLdmkxYkFJZEtrcFRLSS1pQkTSAa4BQVVfeXFMTlJrRzZKVlp1aGltOXVMOXRxcGNjZEc1RnpqcWNGTGhOSDF1enJFYlhZcmVQbkNfZHVubFdoVVgydFhQS1YtT0tHdGJ5TnU4ZjVhdHVoWnBZSDBWSG1jY3Z2MWZtbGhkeU5GZTBWaUpKN1hkRnctZVRSTHN1a2o2Q08zbnJGbW1KSElqbEJrX09wVnhKYzBoSV9tVEMtR1VTckw1U0gwbXFkaTc0ZFl3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-it-was-like-to-attend-my-first-worl-2026-07-06",
+      "headline": "What It Was Like to Attend My First World Cup Game - Town & Country Magazine",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjRTWnRvR1pIaTNIVFg4aU5maU5pMk5SOVdibmU5c1Y2c3pXM2lxdWQyYXBocHpNOEZlZm1kMXBLLUN1UFEyVzJrVTQ1XzkwQnRhTFY3RFB0dXRjRXEzRlAydUxHX0tsdkR1MUhrdEdzRTVLYU5IdUpLcnhuQUswZm56RnBJMzdyVUVRbkQxNGtoLU56aVFFOWY4Y3VkSU84NG5JVw?oc=5",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjRTWnRvR1pIaTNIVFg4aU5maU5pMk5SOVdibmU5c1Y2c3pXM2lxdWQyYXBocHpNOEZlZm1kMXBLLUN1UFEyVzJrVTQ1XzkwQnRhTFY3RFB0dXRjRXEzRlAydUxHX0tsdkR1MUhrdEdzRTVLYU5IdUpLcnhuQUswZm56RnBJMzdyVUVRbkQxNGtoLU56aVFFOWY4Y3VkSU84NG5JVw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-usa-vs-belgium-live-updates-usmnt-score--2026-07-06",
+      "headline": "USA vs. Belgium live updates: USMNT score, news and highlights from World Cup 2026 - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTRScnRSMWxsbkJ4T2llQ1lGYkh3ZC03TzB5UVZ1Tm1UVEtvWW9UOWsyY3RxdzF0Z1hpLW84MHM4UE9tZ1BDa09ZOGQ4WDRIM1Z2Z19Lb08zMUJfZnVUNFZ5X0hHd19zQlhXV2w3WVQzZEVDb1Fsb0wzLUMycjY3VEdpU1RVVXYtOHdraGFQVWNSS2kwc2dSbEx4UnR1djhaSVZMaV81Y0U",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTRScnRSMWxsbkJ4T2llQ1lGYkh3ZC03TzB5UVZ1Tm1UVEtvWW9UOWsyY3RxdzF0Z1hpLW84MHM4UE9tZ1BDa09ZOGQ4WDRIM1Z2Z19Lb08zMUJfZnVUNFZ5X0hHd19zQlhXV2w3WVQzZEVDb1Fsb0wzLUMycjY3VEdpU1RVVXYtOHdraGFQVWNSS2kwc2dSbEx4UnR1djhaSVZMaV81Y0UwYW9sa0YzVlZn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-usa-vs-belgium-prediction-odds-picks-for-2026-07-06",
+      "headline": "USA vs. Belgium Prediction, Odds, Picks For World Cup Match - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVFHSGQ1MDlUTE12WTAyNHV2UHdwZUtVUGhES1ZSanV1SHQ5MDVpXzRrN1h3YnVEVDkzSjYybFgyVXJ4bU9GZ1ZJVFM5UHdLUFNNX2JIYXF6eEotc19wNUxZdWtoeDFfNmFsQzJDSU53dV9RQ0RkTkNQQTI2bTZPRW4yNTZZb1JuWFZsSjFpanBBVjFQdkFTYtIBmAFBVV95cUxPOHVzUlV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVFHSGQ1MDlUTE12WTAyNHV2UHdwZUtVUGhES1ZSanV1SHQ5MDVpXzRrN1h3YnVEVDkzSjYybFgyVXJ4bU9GZ1ZJVFM5UHdLUFNNX2JIYXF6eEotc19wNUxZdWtoeDFfNmFsQzJDSU53dV9RQ0RkTkNQQTI2bTZPRW4yNTZZb1JuWFZsSjFpanBBVjFQdkFTYtIBmAFBVV95cUxPOHVzUlVnblIxLV9tTVl1WWpOUG8xME1HVnhreDV5MHdnbUN2Z09BTjEteVpNY281Z201a3Q2RlVvQi1KR0xHRHB1MmZ2dW8zLUJyQVJpU28zbjZpS2c0NnV0enNwS0dKRjAxSDFRUnI0d19hQWhHcVg0RHBoYkxkMy1LaFFpSGxWT0JsT3VZQl9oeHBNenFjYg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ticket-prices-continue-to-fall-for-usa-b-2026-07-06",
+      "headline": "Ticket prices continue to fall for USA-Belgium World Cup last-16 clash - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkcwUXpfQ1BhaFdoWUJhbTlvd3BiQjNQR3lLSUx1TzVYUFRJMkxmU3hlLUh4T2N2ZDh1Nk9HZGk0UXQxSnZOcVZ4NnlXRE5BTVItOTZkZ3VGeGNIUmxBLU1uLUh6YTNTbk1sWEp4WWd6TDhMWFA0M05HZ0dBVlVzVFFfbElNd3VGQ1FWdDZtVTQyU0NXTkNXYXVvUVotakF5QVprb0VYQjN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkcwUXpfQ1BhaFdoWUJhbTlvd3BiQjNQR3lLSUx1TzVYUFRJMkxmU3hlLUh4T2N2ZDh1Nk9HZGk0UXQxSnZOcVZ4NnlXRE5BTVItOTZkZ3VGeGNIUmxBLU1uLUh6YTNTbk1sWEp4WWd6TDhMWFA0M05HZ0dBVlVzVFFfbElNd3VGQ1FWdDZtVTQyU0NXTkNXYXVvUVotakF5QVprb0VYQjNxNVVkZnFmY3dn0gG3AUFVX3lxTE8tSktRNEJXWW9CM3VHR1ZiZnlueXhTc2xmRmYzMkd6WDZSekx0QW95Umgzam9SM3diX1lQalRENy1pOUhNajQ2MEZkSlI4RF83a2Vrd1FEdklVeGp4Nnk2ZktjMF9wMGNKM0x5bktiZmJtMktOa3FGa1poOFhFZjRpQS1pbnU1NDJzT25ENENmSDExdzZQMUNaeUhZeUJQWWRXS2pjUkdidC05eURfQ2lfT01KVGRxRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-watch-parties-monday-july-6th-seattle-fi-2026-07-02",
+      "headline": "Watch Parties, Monday July 6th - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1zRUN6R3NyWk90aTZJdjRnTHVKTGhZbkF1MnNaUklrcjNWNWprNng1WkdEU1N2UmRsOFFHLXJjMWpFWlFCN2hIc0M5bWxGZlFMdHJpWDlobDRUOGhibnFvOWpJX21aR3dIdldDdm9iZks?oc=5\" target=\"_blank\"&gt;Watch Parties, Monday July 6th&lt;/a&gt;&amp;nbsp;",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-02",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zRUN6R3NyWk90aTZJdjRnTHVKTGhZbkF1MnNaUklrcjNWNWprNng1WkdEU1N2UmRsOFFHLXJjMWpFWlFCN2hIc0M5bWxGZlFMdHJpWDlobDRUOGhibnFvOWpJX21aR3dIdldDdm9iZks?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-weather-a-beautiful-day-in-sea-2026-07-06",
+      "headline": "World Cup weather: A beautiful day in Seattle for USA’s last-16 tie with Belgium - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMEduc0s1blVXeHlKbW9kQl93X3VmWGtjMmJEV0c4Wnc4N1gtWHJpbEpLTG80WjJjM2ZNYjhYcmJHZWEzY05tMEFWUWxoMmYwcHNpQTFvajcyeUJGWENXOXlDbzZFa1pYbnh0cnBBWG1IS2l2TnNZUHN6Y29QYUNKQ0diOXVNYnpraXFVMUJ0UFZHOE5iTXNKNGtUcW5HQQ?oc=5\" target",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEduc0s1blVXeHlKbW9kQl93X3VmWGtjMmJEV0c4Wnc4N1gtWHJpbEpLTG80WjJjM2ZNYjhYcmJHZWEzY05tMEFWUWxoMmYwcHNpQTFvajcyeUJGWENXOXlDbzZFa1pYbnh0cnBBWG1IS2l2TnNZUHN6Y29QYUNKQ0diOXVNYnpraXFVMUJ0UFZHOE5iTXNKNGtUcW5HQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-uefa-says-fifa-crossed-li-2026-07-06",
       "headline": "World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live - The Guardian",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-02",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekNTQ1FzczdwNHJOV0NUUW1FcF9XbTgyTHFqdmJ4YlR6dmFndDkzYzgxOGNuNnp2bFZpSE9tc1Z5TzBDM2JBaVFkZ3g1ZkFWNjUzOG5uMGl6dVpONS11bGw1Z0dEM0pMV2Z3ZXZFUFVvUkJndXRnblBuNGJNRTRBUUtqOGw5b2p1cXBlOXdnbUlsY2FDOHVaQjRrTUZYcThTWTNPWVpFenpRNm9HUGVZT1ZPaG4zelJjU2NEQ29HenQwc0MyVlp5eFhmQUhKZ3RRMVB4aTNLaUY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-action-returns-to-kansas-city--2026-07-03",
-      "headline": "World Cup action returns to Kansas City for Colombia-Ghana. Here’s what you need to know - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDNtVU56Vlg2NFFiZkpsLU9rT3hwNFJMOWlLOTdYVDhJQlNWWGxFa0ZrSnhmVUEtUlpnU3NrTURHektMSFJ2V0F5OXZTb3pVeHhocUFvMVJJTFZ6bk56VEk1VGY2Uk9Ham9wWjhySDA3Z3JMeEtNRS1Kc0todW9XMXNVSnQ4SGcwRklIQlhwVVVuMW9RMmNWUk1keW5zc2xkalRzdm5tUzZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDNtVU56Vlg2NFFiZkpsLU9rT3hwNFJMOWlLOTdYVDhJQlNWWGxFa0ZrSnhmVUEtUlpnU3NrTURHektMSFJ2V0F5OXZTb3pVeHhocUFvMVJJTFZ6bk56VEk1VGY2Uk9Ham9wWjhySDA3Z3JMeEtNRS1Kc0todW9XMXNVSnQ4SGcwRklIQlhwVVVuMW9RMmNWUk1keW5zc2xkalRzdm5tUzZNZTZPSUZ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-day-24-fourth-of-july-and-fifa-2026-07-04",
-      "headline": "World Cup Day 24 | Fourth of July and FIFA World Cup collide - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXIyczB2b1pxY01wYVQ2SnBPUVIxcmJ3ZGxCOGladWU5eU9nTV9HbE15RmwwRDJ5SEJDS2NGWFFvbGoxQXpVMUVaWE5rQzdqZW5nWGZ3Q25CYmR3ckhOd0hqdEJLYmVqd2ZId0xDUDRkc2gwbEFUUXBhaUFNMXpyNGNzZ2ZTOVltWnRSMDFYbEJiai1vY2ljSHp4eHU?oc=5\" target=\"_",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-04",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXIyczB2b1pxY01wYVQ2SnBPUVIxcmJ3ZGxCOGladWU5eU9nTV9HbE15RmwwRDJ5SEJDS2NGWFFvbGoxQXpVMUVaWE5rQzdqZW5nWGZ3Q25CYmR3ckhOd0hqdEJLYmVqd2ZId0xDUDRkc2gwbEFUUXBhaUFNMXpyNGNzZ2ZTOVltWnRSMDFYbEJiai1vY2ljSHp4eHU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-expect-to-sweat-in-kansas-city-s-worst-h-2026-07-03",
-      "headline": "Expect to sweat in Kansas City’s worst heat yet for the World Cup and Fan Festival - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNTZQclRQTUhZblNtX3NsajVSRG1hd09UaGVJWXNnbWp4REZkLUhqWUFXYXkzNmlRTjNqU3RoR0twUUdDUlp1bzY0TUVuTTJBb3B6cEdvQXpIdTVYbkIyVWg3UUhDdGQxVU02V2lZVHhxcG9sUWkwMmkzOHZNUVlMRHg1X2NWQnMxbGcxZmhXM0h4UFFnd3VBV0NCMEtHS3hqejlWc290dUk",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNTZQclRQTUhZblNtX3NsajVSRG1hd09UaGVJWXNnbWp4REZkLUhqWUFXYXkzNmlRTjNqU3RoR0twUUdDUlp1bzY0TUVuTTJBb3B6cEdvQXpIdTVYbkIyVWg3UUhDdGQxVU02V2lZVHhxcG9sUWkwMmkzOHZNUVlMRHg1X2NWQnMxbGcxZmhXM0h4UFFnd3VBV0NCMEtHS3hqejlWc290dUk2RXhzRUl3RHlyRW10UDlsMzJF?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usa-vs-belgium-world-cup-last-16-rematch-2026-07-05",
-      "headline": "USA vs Belgium: World Cup Last-16 Rematch Ignites at Lumen Field - International Federation of Football History & Statistics",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMlE0dEFBQ1ppYWUxUFFlZG9lb1ktb0RYNXVJMXAwQ3lrZFRUVUJVb21iTFNGZWZaN0VuU1VodTlCcFhIT1VjemxhQXhDRHd5ZHYwblFvVG5WRjdJRjROM2dmMzNaU1BFT0lVeklBSkVzUXdqRHNaQ2I3Z09mNW9mVENpVVdDbDhKeXotaEtGcmJNSzFsMlE?oc=5\" target=\"_blank\"&g",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMlE0dEFBQ1ppYWUxUFFlZG9lb1ktb0RYNXVJMXAwQ3lrZFRUVUJVb21iTFNGZWZaN0VuU1VodTlCcFhIT1VjemxhQXhDRHd5ZHYwblFvVG5WRjdJRjROM2dmMzNaU1BFT0lVeklBSkVzUXdqRHNaQ2I3Z09mNW9mVENpVVdDbDhKeXotaEtGcmJNSzFsMlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-get-usa-vs-belgium-tickets-world--2026-07-05",
-      "headline": "How to get USA vs Belgium tickets: World Cup prices, Round of 16 fixture information, last-minute sales & more - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1JDTjJaMDJqNm1vS0RjUzk3TGZQZUZWTTdoSTFRVlRZd3FhWktQb1U4eUFyZGRuTDZINFUzV1ZzVzVEVHR3QnU3NkVjaXF0UHAzeHE0c1JkYnNLQ2hmOXRzUzAwZkthbl9TSWhycDJodzN1ZHEycnl5aVRfR1hUOXM3ZlB5eXJlSG9aS2tRN0JGYThX?oc=5\" target=\"_blank\"&gt;H",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1JDTjJaMDJqNm1vS0RjUzk3TGZQZUZWTTdoSTFRVlRZd3FhWktQb1U4eUFyZGRuTDZINFUzV1ZzVzVEVHR3QnU3NkVjaXF0UHAzeHE0c1JkYnNLQ2hmOXRzUzAwZkthbl9TSWhycDJodzN1ZHEycnl5aVRfR1hUOXM3ZlB5eXJlSG9aS2tRN0JGYThX?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ex-chiefs-db-justin-reid-attended-world--2026-07-05",
-      "headline": "Ex-Chiefs DB Justin Reid attended World Cup tilt at Arrowhead Stadium - Chiefs Wire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWWthNVNWM3VvM0gyaGFqWml5R3BpUnZ6N1dBZ0NDQzJUQlB6aDR4cUQ5UjVBbXBYTzFtV1dYMW9xMzBVUHRCRVo1NUF5X0dzOFBzRm9BR05fMXE3Nm9oMlI3bFAxTmRIdExvS2JzTDJ6TkwzSXMwdm9JSFljRkIzZmdpdmVwRzhMdDdWOXFXRGZZVEdXU1g1dG5pQmc5d2dSNm0yV2k2QXJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWWthNVNWM3VvM0gyaGFqWml5R3BpUnZ6N1dBZ0NDQzJUQlB6aDR4cUQ5UjVBbXBYTzFtV1dYMW9xMzBVUHRCRVo1NUF5X0dzOFBzRm9BR05fMXE3Nm9oMlI3bFAxTmRIdExvS2JzTDJ6TkwzSXMwdm9JSFljRkIzZmdpdmVwRzhMdDdWOXFXRGZZVEdXU1g1dG5pQmc5d2dSNm0yV2k2QXJOWWYzN2NBUmVhb1kyUnJNR1VtSHp3cXRKSkZYVktGVEZ1RVBoVVdocngxV25rT0dTUkRDbGpsejB4bjdRSldNV2luZ1BvcXpGQkNOWGNlZXRVdnNBVGE2a2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-on-fox4-games-programming-2026-07-03",
-      "headline": "2026 World Cup on FOX4: Games, programming on Friday, July 3 - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVhiV28wRlNnNEpmZXFobG1kdVlRR3hPTllpMmRnU1FPRjhOekM2bjlnLU0wVDRqWmk4U1hWYXJjelh6bGZ0SnduRUROanJJYlY5NW9KeHR4UnQ2aFRqcHBGVS1CY3F6MFVsZEJtbzFhTWhzVzJwMTV5QV9hNVNZQ3Y5c25UZ2oxbXlBT2NuaVlDVFFlTXF1N2xYY3F1V2Ft0gGmAUFVX3l",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVhiV28wRlNnNEpmZXFobG1kdVlRR3hPTllpMmRnU1FPRjhOekM2bjlnLU0wVDRqWmk4U1hWYXJjelh6bGZ0SnduRUROanJJYlY5NW9KeHR4UnQ2aFRqcHBGVS1CY3F6MFVsZEJtbzFhTWhzVzJwMTV5QV9hNVNZQ3Y5c25UZ2oxbXlBT2NuaVlDVFFlTXF1N2xYY3F1V2Ft0gGmAUFVX3lxTE9tS2VqcDc0R09MWWJJUHcwSmhpclBxSVhXZXk1Q3FycWQ0X1ZDcXJkbU5heXFsblhWUW5vSk1mMFRpb2w1NW9UUms5QWVMRmJnQnQ5RHNlaDRRMGMwV1pmWHJQMm9xSWRGOGpMbUtpRl9jUFhkX2ZsaUlPZXBuSWhlbXJibkc2UDZ0UElNazNCbEZ5MTJkMC1vemQ5Tm85RFFCVTlETnc?oc=5",
       "featured": false,
       "draft": true
     }

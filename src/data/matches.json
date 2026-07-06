@@ -3905,9 +3905,9 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "notes": "Winner R32-12 vs Winner R32-11 — Round of 16"
     },
     {
@@ -4024,5 +4024,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-06T03:32:54.345Z"
+  "lastUpdated": "2026-07-06T19:57:07.622Z"
 }

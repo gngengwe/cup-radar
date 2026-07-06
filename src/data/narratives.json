@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-06T15:32:46.240Z",
+  "lastUpdated": "2026-07-06T19:57:12.962Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 161,
+      "chapterCount": 163,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1306,6 +1306,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFN2MEYzX1RLSjBvNEZqZzB3SVRnNUZ5eWY0MWFaak16bWY2WldGSnluazlIX1hyUlRFeExPWjgzek9OVEhEUFppZmVjSER4UDZyc1MwalNVTEczTkpET2FlaF9JRUlBdW1wc1pLTHdrdml4c2x1eEZwSW5uYllhVi1nVHRzUm5DeWZkTmtjNWxibldzZHdGUDdKdDVZQjBSNkg5R3V1MG5ubFV2RnRqRWJqbXcwRXFYWk1hUDRzMlJ1dHVNR2V4WDNQc2M?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783367830866",
+          "date": "2026-07-04",
+          "title": "Argentina 3-2 Cape Verde: FIFA World Cup 2026 – as it happened - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1NxYkdrdy01M1Nmd0RRdDRHbGVmVUdWYjNkSDgyRC1Wd1loNHQ1aXIycmVyZFNKOXB4aEdsc1hmVnlqVW1ucWQ0Q1FTc0VBaGMtYy1GUlNyMmZaRkZ2bEpENlJCTVNOLXRUNWI0TkJpaTJVeURtdHFoRkF4VTZVNW9vMktnck5BY0hUR1c3ZFJfS2JZY0g0UU5QMFU1aUxU0gGmAUFVX3lxTE1Pc1U3Z1BNYl9NcnRaRUtkeGZ3eW85MmYtbTEwYmZCM05ySmlLbG9zaENxWU9lTW9helNlZENyYjJaYmJKeUdGWURQX0RpOUVSNVJFb3dSX3psa2tHMTRDSEtsZXVNaERsTTQybThtREx2YVhyeENXMS0tZnhHMXlUbW9BZVpXdHZ4UHZrNkdjNDM0NDlPYmhHWm93dmFlT3czSVhMaFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783367830866",
+          "date": "2026-07-06",
+          "title": "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGFwYnA5aWxRc0g4ZlBqaGZLclF1d1RBWWY4em1qd0hISGpBN3ZHMmpyNUR0R1RYUWEzQTFaRHJPcmlzMjlfWkt3RWVTVWlkcUZWbzRMQ0VMUmFSS3pzMkhOMWhUd25XdVFzUTdZN19vVU81RW5hZkt1MnB4dUdVOEZmeVhKakEwYUtMVVB0TkNFSnJpektEcFFCQ1dxS3dXVEhQazJPbnl2NmcxVnUtS1NvaXNWSE030gG-AUFVX3lxTE1IQ0J4bWhHRi10Y2NERVM0XzZjYU9yMWpFYTh0LU9vNEczOGVyWllZWnQ4N3JOUzY1S0I5ODM0ZVVHYVdwTngxNGNsbWt2S2dfZjQ3a2RMLVlBWHpMb2hzN0QzNzQtMjRoR1BpWkpTalBBM0VVaEJTVFNWb1ZzNmVwQmhhQzdBd2JqYTQ3TGp5RGxrNFg3SjVIbG9NOTN6LTVDN0IxNWRIdVBRa3ZjYjZLeEhOQjJaekVOSmFwVWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1324,7 +1340,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 176,
+      "chapterCount": 177,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2733,6 +2749,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTdGOXFKSjZXWTBxeV9fZU1seXUwRm9GVXJaV0IzM3AzMlEzUXd4dEpoanhVUS02QzRrWjlwR3B5MkJET01LVzdmeGUyYnZPX1Yzd1FBeFdLb042MmxRczhCZGdKQnF1amxUVFZsZlUtVFVjeTBVbkFHd1NGZXBYbjVTcjltTUt3YkZPSlJ4aWhzWFhxTEs1ZUtSMm5IY1JadjVKS2xBMmpjOEtqTjVJTdIBtgFBVV95cUxNS3BkSzlyWXpJSnpDMDlUQzU2NUZucUlLeTNPUUpsdk5tUmloVjBwRGJZdHRBZWVoYzhUMHVuUGxnNHc2ZlVibVBpbEhmbEVRU3ZiTGQwcHRKSkdRejEzM0NKNGpFbC14NVF0MzZvbFhzQjR3dU42Z1B2X3YzNGFOVHBXMEY4bzRkcnBwaXVWTzFlMC1mc25SUlA3YTRqMjJpeTJCNXc5MFNwVnFKRVVPTWpaemZaUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783367831418",
+          "date": "2026-07-06",
+          "title": "World Cup 2026: France's Kylian Mbappé responds to racist attack by Paraguyan senator, condemning her as 'despicable' and 'unworthy' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVHYyWGxVQVVmbEJvOGpuVzhMLXBJV091U1lha2FSeWtkUnMyNGZkSWZPa1dlYy13dEhSeXdscGJ4TVlmOXh6SmsteURwWG5aMmk1ZzI1ZUVNYXVUUFl4QmtLWEUwUnc0WHZDQXdfd2hWYUtiWVB1R2hhdWZXMThVcDQ1RnRVM280MFBLNlItLWViall2NTJ1M2owdU01QWFkQ1ViVmdjd2V1WHo1VUM2b1I4dVpUaXBSQ2FPOUhDLXlLTmwzVUk4NlJTVlowUFlPOWpxbXk5eVlrb0FONWtELWZDcVA1ejNPZjBlbDZBbW1hSG1wNEdaMng0Y1RLOVk4T0NxaXN0U0Y4Uk9O?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2751,7 +2775,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 401,
+      "chapterCount": 406,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -5960,6 +5984,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEJyMVhVSkdGUEFwYm1icVZXM25RR0lkQW9XcU5xMmJiQmJLWEwwRktsNzhGRTdaWGFrNTNmNC0zZ1BIWTltLWxTcFdGR2pCQXF1R0xDZWpHbHdTLXM4blljZEtmZ1pPdThoaUt1TnExeFp6Q0dUdWNMYUk5aHQtQ3ZCQnZSWnBMcG5fRWJCWGR1Nk1JS2pPVGF5TEptVGxuX3pCSm1RQTBZeWdiQ1NidDlFaXA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783367831954",
+          "date": "2026-07-06",
+          "title": "2026 World Cup: Folarin Balogun available for U.S. Monday night as Belgium's red card suspension appeal is dismissed - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeEtNdFNpdWNhY3pUZHNrUW1LY2ZNenZhbUhKVnpLTmtsNWdKM1YwWjZfbF9vaTZaekdrNnhQTjlpd0tJNGFrVkZfNmVRNC10dGxLdThXVV9XbVFibjlwT3dFbXI3NmJNLTBvRWdwQkJTcVhDLXo1dGdGaHBhT0tvN2lLZzBneDYtT2o5V3YwTzYtMXZGXzk5a3UtZWloTDNib3hNNlVvVkpXcUtBdFhTWThYSkdPVjdiUi1HMVZoUFVWQWZaLTNYS19MRUcyWFNGZGM2d2dZcnZjZHRaYzhfV0NsRU83Y0lZMXZDYlRGXzlLWm95a2ctTUF5a295eUxrNDgyY09PWTcxaUcyVXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783367831954",
+          "date": "2026-07-06",
+          "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for USA, Portugal, Spain, Belgium - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2JjbUh5cFdlZnFQMEkyR3dIV2pBRm1qUXMwdFJIaHphcUJKa2FvcVR3dzVnTFRmNk4xYzFtU2xNTmhkSkdobWNtR1NiMG9GRV9OYzBudUdqVkFZbXo2b2d5dmlmSFRVNFZwYWJiRXNIbS1JYkt2Sl9qUnVydjQzdHRMWWJiMUR0MW9zenRZQ05icWVFZ196SU1OdDBxQ1BLaW1LN2QxMEFJME1IRmpWWW12SmhpV0JaeFhVMHRB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783367831954",
+          "date": "2026-07-06",
+          "title": "FIFA dismisses Belgium appeal over Folarin Balogun ban decision: So, will he play? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1dHODBxWEdXanZmUWhEck00WjdlcmUxaWEzMUlvMy16M04wNnRyaTZsNWtGU3FoZzB2ZzFfUUdlNTVabmpyaHdIQm4zSFJhSlF3emdFWWxLV3A4NUJqR0xPVHpiTUVMcVE2VjhJaVhOOG9fbFA2Znl3elRaM0tjdy1HLTA4OVpiM21qaktna25yRFZwMlQw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783367831954",
+          "date": "2026-07-06",
+          "title": "USMNT to Face Belgium in Round of 16 at FIFA World Cup 2026 - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOendLNFJNMWlUcXJMbjNaa0dJUHd4T2JWSDhBMFpETEJqSDlCSjh6NXBiSmFMcTA3OW1vbXdkN0thcENwMkU4YmxPQVcyRGd5bXdHZXJ0NEJnS2cxNXp6aGZSQ1gwazRES2tpYlhrbDFuYXhNRzlGOHRENEdUUWVzMlRTNkpJZjdjd0M1eHdPb25WLTU2endvczkxUXhQQmdHajFJMEhvbmk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783367831954",
+          "date": "2026-07-06",
+          "title": "2026 World Cup: How to watch all of today's games, Monday, July 6 match schedule, free streaming info, and more - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjRjYUtmVkhzZjJFUGF6bkJlMFFkRVZhdTNiT1dfNHJpd0RKV0RKU3g2b0kwSEE3MEphUWJldm9yMWVvQS1oU1ZnSFE5cjZIYTdkSU12ZGVPWm9ocWJRbzM3Nmh1cWpYRnBOcnh1ajhLVUxGNDJzVHpPMzRlTjFlYTgzNW9RenNQbURPclFVLVJhRGhvRDQ0cmQ4SVhWTVpRRkZmSl91V0tOVEl6blY2bDhmRTRkUnNRbzV6dmNqNm5WUzN1VUg3STRaNmt1T1VkSThfczJXaFdFZEVRVG5DYXpnX2czYXJET1A5S3EzeEpzZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5978,7 +6042,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 382,
+      "chapterCount": 384,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9035,6 +9099,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG02RHBVdXM3YTdMN0U0Z2dYdXd1Sm4zd01qbGotQmFoUnpWMnYzNmhnTml1T1pwM2NlMTctZGlpdVlEX1RQOVQ4ZXNWOE94NWtsWVJodWswQ2Z1elpka05rS09RMEdSYXhYMnNwWmpaNEV2RGtPYWRMOTlkM3JnTFFIT2RDcmVmUnU4N1IzSFdVd20ya1FlZVcxNWlPamlHTUVoenhUZFR2bWlMLXhOMTB4QU8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783367832421",
+          "date": "2026-07-06",
+          "title": "What's next for Brazil after another painful World Cup exit? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcmxrTjZLY3dlcWJ5VW1aODJYOTJVTV9tQzFyX2pham5NZGhEUUswTlRFRlgySHFqOWVrTV9STTZUclFEc3A0ZW9XOHRVOFBKMG9HUm1xbUdUajAyU2gxRFB2eU1TcExMT0VjVkxySzlNSmlHTzBqUXBRUFpGOXAzYjNMX19IS29PZFkyUVcxQXJWdURx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783367832421",
+          "date": "2026-07-05",
+          "title": "England sees off an immense challenge from Mexico in what may be the best game of the 2026 World Cup - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGSW9KMl91MzFtY1BKS2FYWmczY083VkswVnBrdWx4cW9aVldPdmdQcFF2cVlQWk5vT01ZTGlKTDljQnVTYWdmUUhrdU96MWlfY0FVRXMyUjlSQnpRbkNZVnNKZWxOZ3hXRlJhWkZLTkh1el9Gcm92YQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9256,7 +9336,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 440,
+      "chapterCount": 442,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -12776,6 +12856,22 @@
           "title": "World Cup 2026: Balogun available for USA v Belgium after Spain play Portugal - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc29TTEFPTFgxaFU0Ykszel9lRDlybFM5ckJGVXQ1WjdKMzFUZlJFeGlRc1hkcU56cW5zZHZTX2VUM0IwMUZCYUE1eU93ZkZwZ0p4RzhmM1pIUUZEMFZxZUZn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783367832962",
+          "date": "2026-07-06",
+          "title": "Catch Up with Highlights - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yOXhFMTAyWXEzTWUxVjAtY3pqVklVa0NoQjFuZTdrdk1lZ0w1eW5YWmVQekdqajlsVW9wWnZRMUlHV0dFemJyTGFxMjlwRGlPLUJLaThuQll3R3B5UHBwM21n?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783367832962",
+          "date": "2026-07-06",
+          "title": "Mark Kelly proudly backs Team Mexico in World Cup after barely mentioning U.S. men's team - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0pJdndrQ2dGQ1UwbnNESHhqUW5pZDdrQi1WQXZhMG1nM3FPU19KUklDMzFuSnBSeGltclNGaFowYlNKNmR6MjN3TW92QUxUMXRkR2F6T2M3aTRGSkVCS2hodUo3RVhWVGF5MGRPMkQtdDBVemtfN3g2TU9fUUl1cEpnelVJSzVvbWlkTXlzVUR6VEdtZ2VnY09QbWFBVlQyZGpqU0ZhakpJQ0ZK?oc=5",
           "draft": true
         }
       ]
