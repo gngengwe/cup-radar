@@ -2333,9 +2333,9 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 1,
       "atlantaMatch": true,
       "notes": "Winner Match 86 vs Winner Match 88 — Round of 16 at Mercedes-Benz Stadium"
     },
@@ -4031,5 +4031,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-07T03:23:23.020Z"
+  "lastUpdated": "2026-07-07T17:13:35.479Z"
 }
