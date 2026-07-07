@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-07T09:41:09.129Z",
+  "lastUpdated": "2026-07-07T14:33:40.859Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 165,
+      "chapterCount": 167,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1337,6 +1337,22 @@
           "title": "MATCH PREVIEW: Messi and De Paul's Argentina Takes On Egypt in the Round of 16 of the FIFA World Cup 2026 - Inter Miami CF",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUS04SEhxU2F1WUp6bGRnRjAzTUJkaDZETzNBMldGOVVid2tlb2ZQOTZ1TnJ4SGFsS1RRUE16V2xDampteUpyN1l2UUVyWENxY1lZdVV6eUh0M0R0VHZob0xXUnVxNHZqN0VXMGdsYnJ1bl9neDJKZE5GWXduYWkySEdTXzM2QmZ5Q0dHSVFKVmhiS3RCUGxGUDJoa0tNTTF6ZEpyejhXdEZBSUlnZkNsYWNKTWNoSm5uTmxkSVZ0OHp2V2V2RGVtTTF4eFZKdzg4RUZzU25FWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783434818141",
+          "date": "2026-07-07",
+          "title": "World Cup 2026: How Lionel Messi and Mohamed Salah have become national icons - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wM1ZMNENIVWxDTHdOQjc1LVZNLXpwNlhybFZYODRXUk1ZeUtTTktUZElWWVlzS3NJbjBIeXJJZVdsc1RfVFVaeUJQdjQwMDRyUmtiNHNJMUttWUo0Mk5GRG5MMHZWV2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783434818141",
+          "date": "2026-07-07",
+          "title": "Argentina vs Egypt: Messi, Salah fit start World Cup 2026 Round of 16 match - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Pb2RTRlZPSXpwblp6ZDRvZTFQMjh1cnNXeTZ4ZEdLVWltMkxtdHRpVHpUN3JCZXBlVlFsS0NpenpXaU9rTm1FSGZyNFVqc25nYkc1MDdDZkk0cUUw0gFiQVVfeXFMT1BDRUhCUEFOTlB3b0NLeV9yY3ZPVWF4aGtISXlJa3I1TG1oM2tLZW5vdzMxdXBGbTdpZ1U4WkxkMy1yVkVpNVd0UXRTR2pKZGxPSnZEb3o4SW93SnlyYVl2dEE?oc=5",
           "draft": true
         }
       ]
@@ -2807,7 +2823,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 418,
+      "chapterCount": 421,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6152,6 +6168,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVNVUHRvbDBtTWV4SnkyM1hNMHFFZmlPYnRVclh4c1ZMWW5lMTBLVVBkaFRNLVVxaUpQYXpiV182ZlRVcTFwVm9aeUZNT2lXekFjWDN5RGlvNUJEWFdHWUtmNEw4Y3ViS2ZIZmdhY2dHbzFGdU9YeklCVjhwVkJhONIBgAFBVV95cUxPYWZZVDdUeWo3SFU3Mko2d3phSkRsV083LVBSZEF2UVFxd0dwbDhzNjl4NUJsM3I1S3BZRXVvT3BWMlBZdXhKeVY5XzFFb1ZaUlRkbElSZVVNZWFHUmNTR2FhR1k3em9jaWItUGVIWDFhMEhBVDVkclVCZmkweExGdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783434819421",
+          "date": "2026-07-07",
+          "title": "USMNT’s World Cup ends vs. Belgium with sloppy last-16 showing; Balogun non-factor after controversy - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnZST3lFUktCVjNZLVJ3aDE2WnJjNkZUSkI1WWpqdHZpdHY0dVVIVDQ0NXJyMDE0TkNuRG5iNVlmTjdqS2FQcGlVeDZZdjkxUkJhT2lCN1I2RnlGYlctdzE4V05SQTk0ckkwcG1BSTdINk9sU25EUlViVkpyUGVHeGUxLV9GTS1lX3VlM1o0X1JwajlPQVBSZjRVbFl4Y2dSMUV0N3hyT3VzS0tadG01U0JQaDkxTnVoTlhFeTQwZVZNeE12?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783434819421",
+          "date": "2026-07-07",
+          "title": "World Cup 2026 live updates: Argentina vs. Egypt, Switzerland vs. Colombia last round of 16 matches - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelV0djBQeExsSExEN2w1SHVvbHpYVXF6Tzh3UFdTcmRrZlNIWTFTY0ZDanRJaUI3WllUcTloamp1Tk03aXhRb01xcnFKQlBpajQ0S3kyNDE4NGNQWk5TQjladDBONG44OVR2SmFWdnNhWXhHRFRGY1pLalk3UEtCRGR5ekYtNnNMOHB0SjR2M3NQWFNoSnFxOUhPV3RCc1cwbUJIaTdwVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783434819421",
+          "date": "2026-07-07",
+          "title": "Will USMNT ever be a serious World Cup contender? Will we miss Ronaldo? Day 26 recap - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGcwUHU2Y3RfZTVPX1dqSWplM25FaGI0QXlNWGxGTk5GbG12a213SzRlbzVDLTNBNl9fWklPLXJicXVTcXFyVG1xUXEwRk43b1hucXc3em5SeWM2SllBRXl1MmRBNTRPQmJ1U0h4V3JOWGgzQVFkNTQ5NFFTN3pXU0ZxOGVWUTdWeFZPUG53?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6170,7 +6210,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 384,
+      "chapterCount": 388,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9243,6 +9283,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGSW9KMl91MzFtY1BKS2FYWmczY083VkswVnBrdWx4cW9aVldPdmdQcFF2cVlQWk5vT01ZTGlKTDljQnVTYWdmUUhrdU96MWlfY0FVRXMyUjlSQnpRbkNZVnNKZWxOZ3hXRlJhWkZLTkh1el9Gcm92YQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783434820202",
+          "date": "2026-07-05",
+          "title": "Haaland, Norway condemn Brazil to earliest World Cup exit since 1990 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczFnejZyNkxscTVsc3MtWG9IdVY5MTFZVWZaX2c3Nk1mclhqOGxmdDNkazlfS21IZVhwNDk4WVVGWE5WRHFzY3RJTlZmczM2bWhJcUQ3a29ieUxpX2RfUWlGNGdZaGlNZnU1NFpNUHlTalVibTZlWjYxZk1LZm1aWUhzUUttLTNxclNuWWs3TERydXRIMkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783434820202",
+          "date": "2026-07-07",
+          "title": "Cristiano Ronaldo's World Cup run and cult of personality is over - The Jerusalem Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DR2Rxc0FpRUw3SnJJZF90NHI3a0xVWHdudnVPazhUX01vcDRUOXI3RkVWTFgwQ2NjUWJjNlo4MmZqSy16Sk5QT3JpcEstZHo2SExndTNBTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783434820202",
+          "date": "2026-07-07",
+          "title": "FIFA urged to reverse 2002 World Cup decision after Folarin Balogun call - hitc.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTUtYU1FUzBkSzQwRjZmZWxJWHl3YlhyQ3lnWVpkdnBZQ2NiOTJPV0FURVdBMVVpYS1ibngtdjJ1dTM1Y2xHbHFobnA3QzIxMFZBT195S1k1c3pKVHZ4NUoxNEpUc1FUbnFVUnBoblY4QUphNU1UYUQ2NERoZi1tb3Bva0NVVHNsNzBJN1Q5TE8wX1ZqTVc4T0NB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783434820202",
+          "date": "2026-07-07",
+          "title": "Erling Haaland’s Norway hit by illness threats before England FIFA World Cup 2026 clash in aftermath of w - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNTmhoMS1TQXV3amRpVlJtNUE5aTE1cFlaWFN3b1kyTU9fdDFOQVd0allNaDdhQUZCdmp1MHVLdGJPUjQ5WjNiVmhrRFhNSDBhcDVUaVVhOXZiOU45SHFjWTBzUUdNZ29NdDYwREN6aDEtaVpqUDA0aHptZUZIeE03blQ5R2xTLThHOXZkT0VQcHhNV3BTTnNVWERtTWFYZEFsbjIzSHpwYTFlV1pMbDZRb25NeGVvaEpkdTFMQnVudkd1R0ZmYmJaS3VrWWNyVmg5WFlfRkxrSmh6bUlXNFdiUUNyRnQwZ00xX2twODRmMUNpRlIzLS1PeE1CQU54cC13M0MtVjhnRzRzb3RlQ2RCVm1EakRqTnNKQVR6ZHVFZEhYVHR1Mld0V1ZCMkYwUW51QlhUVlcyYUVxaF9tSmRtWGtGbGtOZDJQcWc1TUhEc9IB1AJBVV95cUxQQWdIR0taN0JfUk5nUzN6OGVnTFhfTlBGbmR5X2lFbEYzeEdPQ09QVGNoeDJtY0ZQcG9MaWhxYi1CUkFwaUl2NkNNYjlUXzliNl9VSzJXdmp3YzBEWFcxX3U4eWhnLVNCM3VTQW1mYnBncFZDSFJPeDIzM044SXlkOUdLZ1lHMlM4eGFXUUFheFZ5R2NDUS1XVzRfQkUyMWx2aGVFMVZ1aVl0VmVaWGUxc1pvTXppc2hjNGY0eVpqYTZwQm14bUktOVo1TnhOekgyZ1NjVWhkd2FkUEt1ZEtjMGc3Y2dBYjhGOTZYeGtuTTd6NlRzMGdrS0VkUWlNLXNOazI0ZmpzZTZ1Vkw4U0JDdHZkVHU0V3EwRzBiYTBqSlZqbHA3YTBxanJ5RFBaVDdxa2hNc3BDb2lSSXZRUnRnR0JFakc1T1l3cWV3MS1mMmtyaDc1?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9464,7 +9536,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 450,
+      "chapterCount": 453,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13064,6 +13136,30 @@
           "title": "How FIFA came to its controversial decision on Folarin Balogun - CNN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiaHpRUDNQX0JMR2ptbmRmN2FqVFZZSzdudkk3V1F4VWNmQ25ZRUprSHJVRXliWFJaTDI2dkFCRkNkdy1OTUtEaTYtbDRYR0Fqd0hWMGk3T2pIR1JtakVKQWVsb3VZLThjYjQxa0xMZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783434820859",
+          "date": "2026-07-07",
+          "title": "World Cup 2026: England's Bellingham and Kane double act are the nation's Wonderwall - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45aWFfR3Q4clprWlF6ZkczT2pjM0Y3OUdHQTBhU1plX0w2dzZFVk1Zc08ta2R5TjU1OWVjRUFLRjdPcXpvWm9fczlnYUJjNWRCbGVIVmNNenhldGNzSXVIZEdHeFQ2Zm8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783434820859",
+          "date": "2026-07-07",
+          "title": "Norway team hit by sickness with players 'coughing and rasping' days ahead of World Cup quarter-final vs England - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGpTbnpHMDdFTUltOVU2U3E1MUowUUFiZ0xfQlgwcDc0d2xNNi1pLVItUTBTZmphcG1USlZVaVo2emM2VWdPSC1abUx4VDg3VDQwd2NCcTRrWUdEMEtpY1RMM05vS09zVF9FaFBYX2hvQmtpbEk0SEl5a2JQUlduYUFjc29OcGRQUEJj?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783434820859",
+          "date": "2026-07-07",
+          "title": "Jude Bellingham, Declan Rice & the five England players at risk of World Cup semi-final ban ahead of Norway clash - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnZrZlhFRHpKSEJUOU9RS0Z3WlRqbFc4S2IyS1FOelVhX1RzOC1McXRCM1pBWmtPQUNFOXd1RUlRVVVyWjgwanV1cVpFWm5HNUpfaG1kbnVJZzRNVVpLSFppV1ZRNzI4MHZHQkV0RTZqQ0l0NnI3YkNESmpTcjg2OUZHRWw0LXlBb0FYY0FEZEs4QVV1M0pvWVZsUWhiNmFhSE5jS2Vpeld0VEVTSVY3SzR6ZFJoTHVEWWFrcA?oc=5",
           "draft": true
         }
       ]
