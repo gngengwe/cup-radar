@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-07T17:13:41.329Z",
+  "lastUpdated": "2026-07-07T19:55:10.245Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 172,
+      "chapterCount": 177,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1393,6 +1393,46 @@
           "title": "World Cup 2026: How to watch Lionel Messi + Argentina vs. Mo Salah + Egypt; Switzerland vs. Colombia in Round of 16 - Scarves and Spikes",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3pyV3Nqd3FHTTRDZWVCS19CWWZwQVJBMG43d01NN0lUallNd0tvRlRvS3VKR1p5TTZqTm9uM3I2V2JxbzktUFp0bEg3ZEV2ZExsM0hic2pPcGxFelEzbUpFTTkyWHZ3dzU2SUxwOXNMZ0tIMWJqNjVSM2k1akRRVXdMVzFSTW1VUnhmQWd0bkVJMHNoQnZJSVI4c1ZlZzFvb1VtUmxvMkltMGRQcktZWWJ3OVFINnhEdGYwdHk4dXo0cU8yaU1jU0dRSjhSRzdaaDB4cTRB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-atl-07",
+          "date": "2026-07-07",
+          "title": "Argentina beat Egypt 3-2 at Mercedes-Benz Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-001-1783454108055",
+          "date": "2026-07-07",
+          "title": "Lionel Messi's Penalty Saved by Egypt's Mostafa Shobeir as Argentina Trail in the First Half | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TN3c5UUlJOC1jakZ2NzB4WFJXQUxxSkQ2Ui1zMTk1d3BydlU2Q1hQWkRPRTFtMlVIcE1uWURWalRRQk9nOHI1UUlTQWJuVTJ0NnJwU1E3ajhmUFdCeld1RjVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783454108056",
+          "date": "2026-07-07",
+          "title": "Lionel Messi Argentina World Cup jerseys are almost sold out, here's where to buy - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDAxWS12U3p3YnMtWDJQS2VtM3h2Q2tkLTgzXzlWU1dudFd2RTFXNUV3VHR6eUJvelNhOWRiRVhBTm8xV1NFX3lRbVpNMGZNMHJXMEp4YnIyQWRSaUNveDQ4S3FJSGdtQVotRzI4ZWlXN2Z5Wmc3RG8tVlRpZlU0WlhhVVBtQk5DWEw2QjJyWVlQM0c2NkFFaHBPTmF0M0IzQW5tdmVJbnJvUjdJd3otZHpjN1o?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783454108056",
+          "date": "2026-07-07",
+          "title": "Cristian Romero Heads in Messi Cross to Pull Argentina Closer vs Egypt | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50dXVEN2hlUFM0MTRGc2lBR3BRUTJWTXB2bWtiTXc2cEoxWGdHT21SV1RWWU8wWGpYUEYxQnR6NnZZamZ2VHk5UWJYenluRHU0LXViMVlTVFRISFFIRDV6emxB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783454108056",
+          "date": "2026-07-07",
+          "title": "Lionel Messi spurs EPIC Argentina World Cup comeback - MLSsoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXRMZUFqSjg3ZlQwcFFlV0lYSEN4RWFkSVE1ZG5hNDRJQjlWZGttazFKUXJSQ3VtX0FnVDJ1VEhqdlFZR3lYY0U4RXBnT204MUozcGdVZXA3aWFzVUROVWdBUGM5OFBTYUI5d1dTdnJKUGJHRFk0SGdscUFETW52OUNoaUpXa2pjNnNSajlscjAwZWNIdmpzRHo3OUZzS0ZnTVdZd0hkOEJIcWZmX0tfcQ?oc=5",
           "draft": true
         }
       ]
@@ -6282,7 +6322,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 391,
+      "chapterCount": 393,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9411,6 +9451,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNWWUUzanE4THU5RmJCTzBEWmpyTlMzbHhqbEg5OTAtdjFuRFJzeGNfNFA4TExxdG05R0huNjVHMmhidXVEZ3BBOUJlYUltN0JsdmMyaHZEb3pTZFRqTDNJc2U0QkpjWnNsSlZlU1hMNUg1Y0FYaG4yVDRVc21fd3ZqQXRnOGpfamlLUDVuZVg0MHB0NXZpZmdTeDlDWnpqVzB6VEZBVDExTWRZWGZNWVJFZjFPQnJFbjNBY2ZrNG5zcmpXRm9NVjNoSTJNeUFRaTk3ZTkwdlBUc0tnSWFzWWtJRmg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783454109646",
+          "date": "2026-07-07",
+          "title": "England Through, Brazil Out & Balogun Back! - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LTzdCZXRGWDJfdVZUMk9hYy1DYng5SG9QcEpJamFIT2FPTF9Wb1h3QUJkTVV5ZU14WC1raTdWU0JGZ3ZnTGRIS0hCd3BPVXB3Z3pTX2FtVUsyb3QyV3FvamN3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783454109646",
+          "date": "2026-07-06",
+          "title": "Every Team Eliminated From the 2026 World Cup - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVaF9HS3VTTWpVa2pVb1ZvVXJNYTUyZzJXZUQzbFdFOXVoSk1CUkVWY3p0czdDbDN3R3NjSEJJY2dmZzJMM0dwNmdvYU51dktNZEVSdjFWcUdCVE9zV1ljaVRCU3l6Nm85UG1RWkJ2cEUydHg3aVh6c25raw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9632,7 +9688,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 456,
+      "chapterCount": 459,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13280,6 +13336,30 @@
           "title": "World Cup LIVE: Egypt lead Lionel Messi's Argentina as sickness bugs hits England opponents - The Mirror",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM09qU0Joa1ZyajRVcU9SV2RzT1A1cTU5amJOQ1Q0RDVkZEJERGpqQWNPa0pvVkhnMWhld3V4b1ZlSHJobUhXQ2FuelFTQ1JDWUZmRE1WZm04MlpvTHFGRTd3ZmloTFRjN015bVhPbVRGRjZMbzctRnEyUldWM2UyNGl5bkRaWm01V0VR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783454110245",
+          "date": "2026-07-07",
+          "title": "World Cup 2026: Jordan Henderson injury to prompt hoarding advice for England players - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12eU5Kcnl0NENZRGZYSnBYaTJXbzBkMjBic1NrcVREck9uTm5ibFdKeVFUVlJmUzFRMUxwRG5PLWMtNkRYUHRYX25iWng1VGJPczE5VUZ3TlB2OWJoSFFkR0FpcF9pTXM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783454110245",
+          "date": "2026-07-07",
+          "title": "Jordan Henderson breaks silence after freak England injury at World Cup - The Mirror",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1lZcVZlcVlJNFQ3dDMyR0ROM1M0Z1RIcDB0Qjg5WFJfRUFJZV9tRkpyZEwyOV9PM0tWcEFEZ0k1Y2IzZ2lScnRqd1ZsR0VIWUZTMWItM3NnWnlZbURYbVVuN21MNmhVbW5MbndFVk9acWhzNms0SEVhSDV1amZCRWhoT2M4azFJeUhuVHlaOEVxc1dJSnVn0gGcAUFVX3lxTE1aUzNPdmdpRzhsRXJPM2xOZ0F4RThJd3ZWTVFrSkRsdHVqcVE5TFczWTVRTXdKS3hjMVBXcUNVVklsQ1pFTnJwZVZBcXROYkszYkpRNEZyak5Iczl6dzA3SDdKeUZqbE45NHR6aXJyOGJsbl9Mb2djWTVIVUZmUXc1UldSaWxXUWpqaG5aUmNVZU9Vd01hNVAwVy1FdA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783454110245",
+          "date": "2026-07-06",
+          "title": "Jordan Henderson out of World Cup with broken wrist sustained in post-match celebrations - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEU2SF9LLW1ocjR5TjNILVhTekwwWFVZUHppZm9XS3VTb2d6R1ltUUZGajNfSGZZanVNMmVwWHU1VmhudnBzaUx5eVgtQXMwenNreW5BS0d6NXR6eVlKSTM5Qk5uWWJpWXdoa2lfTUpySElBWFJkczZzOEdSVVR0R0t6NmpSR0VkQXRYbk8xanRiZThzRHVKam9RaGRKMzNIeXZxVDBn?oc=5",
           "draft": true
         }
       ]

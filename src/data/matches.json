@@ -2333,11 +2333,44 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 1,
+      "status": "finished",
+      "homeScore": 3,
+      "awayScore": 2,
       "atlantaMatch": true,
-      "notes": "Winner Match 86 vs Winner Match 88 — Round of 16 at Mercedes-Benz Stadium"
+      "notes": "Winner Match 86 vs Winner Match 88 — Round of 16 at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 15,
+          "team": "away",
+          "player": "Yasser Ibrahim"
+        },
+        {
+          "minute": 21,
+          "team": "home",
+          "player": "Lionel Messi",
+          "note": "pen"
+        },
+        {
+          "minute": 67,
+          "team": "away",
+          "player": "Mostafa Zico"
+        },
+        {
+          "minute": 79,
+          "team": "home",
+          "player": "Cristian Romero"
+        },
+        {
+          "minute": 83,
+          "team": "home",
+          "player": "Lionel Messi"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Enzo Fernández"
+        }
+      ]
     },
     {
       "id": "wc26-atl-08",
@@ -4031,5 +4064,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-07T17:13:35.479Z"
+  "lastUpdated": "2026-07-07T19:55:10.562Z"
 }
