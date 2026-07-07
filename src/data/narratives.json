@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-07T19:55:10.245Z",
+  "lastUpdated": "2026-07-07T22:10:51.942Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 177,
+      "chapterCount": 179,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1434,6 +1434,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXRMZUFqSjg3ZlQwcFFlV0lYSEN4RWFkSVE1ZG5hNDRJQjlWZGttazFKUXJSQ3VtX0FnVDJ1VEhqdlFZR3lYY0U4RXBnT204MUozcGdVZXA3aWFzVUROVWdBUGM5OFBTYUI5d1dTdnJKUGJHRFk0SGdscUFETW52OUNoaUpXa2pjNnNSajlscjAwZWNIdmpzRHo3OUZzS0ZnTVdZd0hkOEJIcWZmX0tfcQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783462249742",
+          "date": "2026-07-07",
+          "title": "World Cup 2026 live updates: Switzerland, Colombia scoreless at halftime; Argentina storms back to beat Egypt 3-2 - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelV0djBQeExsSExEN2w1SHVvbHpYVXF6Tzh3UFdTcmRrZlNIWTFTY0ZDanRJaUI3WllUcTloamp1Tk03aXhRb01xcnFKQlBpajQ0S3kyNDE4NGNQWk5TQjladDBONG44OVR2SmFWdnNhWXhHRFRGY1pLalk3UEtCRGR5ekYtNnNMOHB0SjR2M3NQWFNoSnFxOUhPV3RCc1cwbUJIaTdwVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783462249742",
+          "date": "2026-07-07",
+          "title": "Lionel Messi Equalizes for Argentina with Superb Finish vs Egypt | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWnVxcnJLWkFMTlZqaHFiTmtTZGd0N21IMFpqNmpJcjZDc0psa1BjOEN6RTNqcndfdk4zc1Z2clI3SWFYQXVGUmRHeVEzVnJ5QUMtNmlxMEc3Yjc1TlR4cVVn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1452,7 +1468,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 179,
+      "chapterCount": 180,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -2885,6 +2901,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONy1QV1VXSTlMeWlSakxaVDRGX0YteWk0NlFJSDh5cHA0ODZFSWZVOTZwUHp2UFFnTDZ5SzA3OFRlWjU4aE9mak1fYzNwUkp1VmpNLXlBdUh6ZjJSWnYtWFoxR3EwWWY0blJSQXZVbVE5MWc0OHRQNlZWbEhQTWtYVkxmYV9OS2FPdDVUYllpX0hnNmc0MFRvUTNoZHdkLWs?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783462250229",
+          "date": "2026-07-04",
+          "title": "Paraguay 0-1 France: World Cup 2026 reaction as Mbappe penalty sends French into quarterfinals - as it happened - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTW94WldWSDlwRGU4anRLU3BuQlBpNW5ZUkNLYlhha1J0ZUF3dHdqRXc3MTdsNUItUlAxRkxrNXFlWDYxTmpYUmxoUHFOcmRlY2ZHQVdvWTFzbzhFeFl2Y1VtbkIzRlJRN1ZTVkwtSTFYb01BOGN2UTlDZzNCcXhnbkJ6LWxZSFdGX3RtbVBEaF9uRElwaW9EMGdqTW9CV3dOSWl5Rm1Ga3pYRG5rVS1oRWFtdWdJRlVJT05pcjBTd2xwSExH?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2903,7 +2927,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 425,
+      "chapterCount": 429,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6304,6 +6328,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2hzVXB5ZHJFT2w5YXBlQjl4SWxSb2Fmb3JIM3RoOWNOY1pkVFpHeXFyWEJnRU5KdG9qR2YtSnlEODAxWS1IdWlKN3JWcFZaSjdRRGttM3F3S3RSdV8tMm5XRW9KTUxOeC05WjAzTTAxTWNxVGQtM3oxcmU5NjFhRG1KM3huandEQ09PbzZvMjl2Qm5FYm5hbklWOFpiN3RzZjhUNENR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783462250809",
+          "date": "2026-07-07",
+          "title": "USA's World Cup dream ends in 4-1 Belgium rout after embarrassing defensive mistakes - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTUZ4dmhTNmI0ckFfdjVvVDhWTDNVeWRhOFlvVXBUQ2NHSjRMZWJRYlllcFZsWHBVUl9CZTVpYVk3cjdWVzZkMVk0QXY0cW83RTZLYzVQeTI0aldoR2sxeGtpYWdmaUVmTEVzS1gtc1hZZklXOFJ1dk1iWHRHbElrYkE4NlpnVjR2Z0xoVEo4blRrVGNoS252VHMtTzc2UElQVG5XSTM5N1dkVmNvc1lyREExT09oX3gtMkpFXzFGTzA0anJPOG4xWnBjMnFFTDRS?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783462250809",
+          "date": "2026-07-07",
+          "title": "World Cup live updates: Colombia, Switzerland battle for final quarterfinal spot after dramatic Argentina finish - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3NLeTRyV282dWNObDNTdHBHRVhXNGh5OXpEdjN2Sm9YOENYaElHRTQtYzhNZUcxNGQ4LWpUTk1uaWo4N0pRRFY5MFVQTnc4UG9mQ2lKX0pDSWpyX2xmSHJMdEx1R201T001MlpUSDdXUEF0cndhVkY1N2FPZUJxUDdaTzRRdDdlenhDdjZZZG9HY2E0b0E5VW1QdTg3MUFsZTlMZkV1bC1HcG45eXk4NnVnZTJrVlFMckg4MTVtQUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783462250809",
+          "date": "2026-07-07",
+          "title": "2030 World Cup: Breaking Down USA Roster Options For The Next World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUlpV3FUSGU4dXVENUpTQkVzM25Kc0NpQlNidTdDOGEyaktaTXFWaEI0b3paazVhRDRMU0ZHYU9Hamd2djNHM0pNOVFBRXRIeXc5OE1tdHBCcXEtNjhlWG1qZVJyQklFU00zWlBFekNiX0R6a05pSng3eGtVMmxidWV5OFBsOG82dFp5dGFqeEZaZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783462250809",
+          "date": "2026-07-07",
+          "title": "Fans slam FIFA’s cooling breaks. Why the U.S. World Cup team doctor disagrees - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakR2OVNpMWNBME1LQTNKdnpTeGt5dnZkaFVfa2JjcWUzSkZVaHpFdkhBME94UEcyeFlUUDlaMnRmYTBXRWZHNTB2MDIxSFdUQy1oNGtLLTEzR2Rfdnl3M2s1RkRLOFI2Tm9GQVZtbmJxQ0RoOXZHRXlNbEdwYUhyR1lxM2Rqd1ZweGlWTUdtdGxlTFNqLWV6QlZ6RDFFR0VTMDV5VGY4NS1WN2x4QWhRcnlMX1Y1MHEyOXEwUjhpR216Y2pIek4yOWp5UHgwMHc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6322,7 +6378,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 393,
+      "chapterCount": 396,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9467,6 +9523,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVaF9HS3VTTWpVa2pVb1ZvVXJNYTUyZzJXZUQzbFdFOXVoSk1CUkVWY3p0czdDbDN3R3NjSEJJY2dmZzJMM0dwNmdvYU51dktNZEVSdjFWcUdCVE9zV1ljaVRCU3l6Nm85UG1RWkJ2cEUydHg3aVh6c25raw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783462251403",
+          "date": "2026-07-07",
+          "title": "‘Make sure it doesn’t happen again’ - How Endrick reacted to costly miss for Brazil as Real Madrid wonderkid vows to bounce back stronger at 2030 World Cup - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanREMzlRNXQ3Wk9YYjhMaUJyODRJTE0tcnVFWTBNNEVKeGdEelNCWjR1ZlV5MXk4UXNqZUdWRDduTzh6YXBXLVl3VnBrbjlmR01oZ1NwOXJHNjhrODkwSmJ3WEZ4YnFJaVh0ZWQ5ckFENWdTSjBGbzJrNm1XZm9QNUxLdjRVYkUzTWhESXJWdnI4QTd6R3d4NWFVcDYzbl9PYTdKTFRTc3AySWVIa2VYazdPWmdSZ3R4cURNa1h3LS1OZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783462251403",
+          "date": "2026-07-07",
+          "title": "How does the U.S. exit affect the top 10? Re-ranking the 48 World Cup teams after day 26 - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTB1cDJvWXB2UExFNjAxb3V5Mjk2NzUwRzJ1cVBUekFvTXhFaTM4Y3RHMS0zdExpX2l0X0lEbFZ2eFc3a3ZPUFpDTjFvZktKTUJVVW1JX3NWUWliUG0yTmRySWFObmxqRFA1S3ZiMk1CU2owQmhUbUNMcTJscEZiMEtsMHZZUU9xUG9j?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783462251403",
+          "date": "2026-07-06",
+          "title": "Who's Left in the 2026 World Cup? Who's Been Eliminated? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlpHUXlzUnhaVURvdkhUaVhBbTF5ZDFaeGR5a0VTYnktS0pKa2FNWnJOR3JoakRLT2RwT3h5WERKNXNYb3gtTWx0cnVNTmJuS3hzTUFTWXp4VlRWdHFfcGxueEhpS2g5cndLdWlvZEhjamppOU1jejVxQlFSU2ZOQWtYV0xqVVVfTFFJOGNZcw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9688,7 +9768,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 459,
+      "chapterCount": 461,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13360,6 +13440,22 @@
           "title": "Jordan Henderson out of World Cup with broken wrist sustained in post-match celebrations - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEU2SF9LLW1ocjR5TjNILVhTekwwWFVZUHppZm9XS3VTb2d6R1ltUUZGajNfSGZZanVNMmVwWHU1VmhudnBzaUx5eVgtQXMwenNreW5BS0d6NXR6eVlKSTM5Qk5uWWJpWXdoa2lfTUpySElBWFJkczZzOEdSVVR0R0t6NmpSR0VkQXRYbk8xanRiZThzRHVKam9RaGRKMzNIeXZxVDBn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783462251942",
+          "date": "2026-07-06",
+          "title": "World Cup 2026 tactics: How England beat Mexico in five mini games - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHUW5FbkdzTTFNUjNsMnpuMFk4TkVJVWthZU1CM1ZYZHU1UWVLdk9yb3htellGbGlyclBHXzBKdkZoS3ZfSk5GNTJPem1LUG5IUkVrekI2Rm5PbEFkRnBDUndNMGxvd3M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783462251942",
+          "date": "2026-07-07",
+          "title": "World Cup 2026: England's Jordan Henderson out of tournament after freak injury against Mexico - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSlRwSVlyVjM1bVNvY3pRLW9VNEV6c3UzUFJ3X2ZfNTBfRmlRenE2eGRISU1KYkdWeWFuYzdJNURrUEp4YTJydThFcEpsckcwNmxMMEUxNkVsSGVMcEF4WHF6OGdrSkJWU0ZiWUkwZjVPQjI0aHpuRkpZTFlnYUJYR2FaUko5SGpRWS1rYXpmaTNSSExoN2RZWms1YVU5S2pJNHgwYXFLNjJYRDh4QXAtd2FDQXpzRk8xVndqQklnbjBHRDk0V3JxNXZKVVFuX2t0NFdsVURncnU2ZFctbzV2Zw?oc=5",
           "draft": true
         }
       ]

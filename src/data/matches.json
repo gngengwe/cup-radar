@@ -2666,9 +2666,9 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "vancouverMatch": true,
       "notes": "Winner Match 85 vs Winner Match 87 — Round of 16 at BC Place"
     },
@@ -4064,5 +4064,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-07T19:55:10.562Z"
+  "lastUpdated": "2026-07-07T22:10:45.967Z"
 }
