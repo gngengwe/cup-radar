@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-06T22:13:28.497Z",
+  "lastUpdated": "2026-07-07T03:23:25.758Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2783,7 +2783,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 410,
+      "chapterCount": 414,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6063,6 +6063,38 @@
           "title": "USMNT vs. Belgium World Cup mega-preview: Predictions, odds, must-reads and more - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVRrUThhbWZIQjNoU283MnZtMFZyTUliU0k3azlVaEQ4bXJ1RXV0WWk2ekZKR0o2Y1NNcFdjeVVabkdfMGk5UFQ0TlAyNkh2aVdKS3RiZ0swNzVWR1lQSHlRVkRNNzBpeWNJQm9vS21pNXhHM1RQcmIyd3paTGhqbVRLWDM4MnZqaUlNRmVrSTVfazhOTkd5TkI1SFpBd05LeGprcVhfLVpldkFyZFVLa0pHY2ExSGVVU1pvcUtYdkJITThoS0R3bg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-sea-06",
+          "date": "2026-07-06",
+          "title": "Belgium beat USA 4-1 at Lumen Field.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-003-1783394604674",
+          "date": "2026-07-07",
+          "title": "World Cup 2026 live updates: U.S. outclassed by Belgium in 4-1 elimination loss - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZid3VFaHZFNjA0aU9GeU9GZjNZa2huVVprLUZiVTcwRXdXeXpHVEozS2xUVGs4LTl3VXZFUjdhREJHOFl5aXRSWmxXWEQ2ellYb1Vlb084ZWt6dnJMeXhKTzkxdmhTQThyQ1BGcGh5SXJNYlhRVERxYklTWTJta2czcmhwSGUyWnhrdk1XZ1BUN2hNY1Q4bTRmN1ZJbGt3QzR0Rg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783394604674",
+          "date": "2026-07-07",
+          "title": "Pochettino On USA’s Loss To Belgium: 'We didn't connect with the game' | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQXhISGZITGxyRDRrenBlRmpNVWxJQzRPUVB0TkJFUFFYTmNJZ3RrYmFIbGxzeUUwV0xRbVRJZ0pHUXdpZE91dVlEeUZ3RjVkZkxsR1pQbWhJUFFiOTB0Nmxn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783394604674",
+          "date": "2026-07-06",
+          "title": "Can USMNT World Cup run ‘change American soccer forever’ as special Seattle return looms? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblF3NUZmV190UldENnVzODdtV25jWEpaNHNubkVRSnQzSkJSeXdLa1VVLWxPNkpPOG9leTBzUkpNSzhvVnZxTV9zUk1KZ0dPdlNHVGx2ZmppSlcwNDYwOEFCeGNRb0hrU2EyRHEwMmI3OTdzNFkxNVZVdzdYRXRzMkxxRmNmcGhXSFJzbU9aaExMWjJWRERZOFFlbzVWTGQ1TXdDM05sVi0zeXNDNVNv?oc=5",
           "draft": true
         }
       ]
@@ -9376,7 +9408,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 446,
+      "chapterCount": 448,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -12944,6 +12976,22 @@
           "title": "World Cup Delivers Huge Viewership and Pop Culture Sizzle for Fox, Telemundo and Peacock - Variety",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXlGdE1BV3ZjY0pGVHctWDFzRi1EWXVCci1KeFkxcWRCT3NMZGRRcjFTSnNzT0R2VlVaYmlidEJyV1h2NGY5czJva0lLSmNhU2dHRkpDNE9uZ3JQb3I5SFRWaVVzbDJ1NVBIVGl4UjBQQU9RODhranNpX0RFc012QmktWGRUZkpQNDZRZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783394605758",
+          "date": "2026-07-07",
+          "title": "England's Jordan Henderson officially ruled out after freak fall causes fracture, opts for surgery - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG55UXRSNzZUV2lkRHRjNkVVMGhLX1owZDlLazBqczhDQmZldjFVQXJ6ZHpJakc3VElGVnUzVHVUa0JqU1BDcGNMRFBMN2NZdTJVT2RpV3ZHR0VTZ3UxSVo0WEh5ZTRIbTZ5aGZLSEx1aXpSYWVqTkVQNWg5dkVhalNoSmZWWkpsRFdWM21NeU45WFJDRlR6V2pyekY4ZjZ1Y09IcFJJVk1XZlN3MGU1aTdPbV9ndExY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783394605758",
+          "date": "2026-07-07",
+          "title": "Catch Up with Highlights - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UdnZuUFZWSy04Y09aSUZVd1JINjBZREZJTDhNbEFMRFAzdnMtdEJQaFNmOGlwRGptUmU2X2xIM05mYjZKTVp1Y1BSSThLWmoyZ21xcWkzTHN2X1ZCUXg3QUh3?oc=5",
           "draft": true
         }
       ]

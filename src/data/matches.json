@@ -315,9 +315,9 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 4,
       "seattleMatch": true,
       "notes": "TBD — Round of 16 at Lumen Field"
     },
@@ -3288,12 +3288,12 @@
       "date": "2026-07-10",
       "time": "12:00",
       "timezone": "PT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Spain",
+      "homeCode": "ESP",
+      "homeFlag": "🇪🇸",
+      "awayTeam": "Belgium",
+      "awayCode": "BEL",
+      "awayFlag": "🇧🇪",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
       "cityCode": "LA",
@@ -4031,5 +4031,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-06T22:13:29.058Z"
+  "lastUpdated": "2026-07-07T03:23:23.020Z"
 }
