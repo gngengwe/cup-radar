@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-08T08:27:52.998Z",
+  "lastUpdated": "2026-07-08T11:04:20.883Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 183,
+      "chapterCount": 186,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1481,6 +1481,30 @@
           "title": "'Game for the ages': Messi, Argentina stage comeback against Egypt in World Cup thriller - ABC News - Breaking News, Latest News and Videos",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTczZ194ZUxLTjFScmNSaXFXOGpFb2R5MlBLbFJmamlhRXBjS0l6NzFBNExLZlBMakFMTnRtbURpM1p3RkxNbEVmVm1DUGZOVnpwbkJITEdNSUdzbDlsN3dGNkJkdkFQTDNybUxpRWNFZ0loRHViMElhZWpEa2JQVG1nX2dvVmlmck10RWtfZGwzLVdleUlxQzViTlZESlRFTlHSAacBQVVfeXFMTUVWUkpDMS05TE5Fa3dwX082Smx2ZUV2THdhQUM4b293NnlMNDJJRG01OHVhYV9NSUhCRFpYQXFBUlQwVmUxZlNqejFDWHRJaHg5eWw0czhuR0lsbGhtejFBc3VTbllRSGdQb1ZjdmZqUy1RZV9mVW9la1gzV2hMUHl3dVVUd2lLbWFXV0RnOHpPMVFDNUg5Z09tSmlaVF9FQ3JnX0N4NVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783508658673",
+          "date": "2026-07-08",
+          "title": "World Cup 2026 LIVE: Egypt accuse Fifa of ‘fix’ after Messi inspires Argentina comeback - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTd4UkFpMkJJQi1zSFNHRUZ5Y3JTUWVCVzZxaHRhOG5kWkV4U3lKN3hCOVlBb1VIZl9UNXJfZTdZQk05VldJcVUycVdHY3F5aE5xMk92LTJEMDJjbTZGUTY4UmFjLWgzV1hpc08yem9OTmowWDYwZ215Qmc3VzY0V3h1OW9jNHlVbm5oazVPSUxqdFI1WXBLcm9iQl8zRWl2cVMxRWJGQ0s3M3I0MktQcEpsSVhyUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783508658673",
+          "date": "2026-07-07",
+          "title": "Argentina's Lionel Messi sets record with second missed PK in 2026 World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWDd6VEVIM3cxdkYtSVdKa1NlRDZlY1V0cmNrN284aHg0NjNhU0RERGQtajduVlF1V3FlMmlscG1feGpuUldDd01pUHlMREVCSHFRdlZ1NkpRY2gzNTZJbEFfcUhULTFJazRaRDBrYXdXTFAydzBuQlNCTjhQbjhfTVByQUd4X0ZKUTZaQVdsYUFyUUV5S01tMF9GOENDR2MxazJPeFRsZXRWNEJPTjVZOWVrWEEwU19sUzBidXFWOGxseXZMb1RwbktfT1lpbnZ5OVpYYmZPQVhnbFFo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783508658673",
+          "date": "2026-07-07",
+          "title": "Lionel Messi, Gianni Infantino and FIFA bias claims: Why Argentina’s win over Egypt sparked fresh debate - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQb3NIZGc0T2Fsdl9MdDc3MmlTTEFvN09QQ1I1Z24tOVRxVXgxRFVCUnpKdGl0Tlltc0swbWhFYW45dkxWZkdPRUxrOVJBLW4zenJpY2o2RXNaUmlJM1FrOVJmb2U0WUhNQkNFeGF0ejNmdURRUXpuMlFDVUx2OHdCUlVtTzhKRGIzeG13UzRKNVRjbWxtTFB5M2NkeVk4RXhrNDBORHFiWnZ3QmNxM3BIT1lmcXZObEJPczdRLVpwRVRySWVDdXQ1UFJKbTRZaDFBX21zWTRNNFJTbFFWMUVTUkVuWmtleXBVdzNrMEk3TDJCNjNWSUFMZThUSkUzNDRicTluSmgxbE5sZEgxN1J4ZWNCZlloa2VMQ1BiTmRSWE0ydHBkNWRtdU01cmRCdF9mWG16RmQwbzFzZWVY0gHCAkFVX3lxTFA0M0F0Y3lUVU9GWDhUMlpzRWJYUDl3VEk1cXFUcHhtdFBySm5TOF90bFRBSzQzNnc3NmFKdVJBR2x1V0JDZk9Qb09MdEZMSWNXMEZsbE9CVTdsNUxQTDNhVkFsaktzNXhfRG5zWjFDV0ZLSFdPLU5CTHpkSmJiTG9jT0lxN21PNlFXR1kxbXY1LTJhVVB1S21Qa2xxNFV5T2cxRzJjWlBXNTA2LUNvSExzV2VYYjlwT0xRSUhfSnlHbDFOYVA1RUIxN1FBaTBURURjOXQxXzJWY0M1MHFYaDJ3REFMUld0SjVtT01PbG1MWVJTbEloLVVwQkp3b051ajh6QmhkejJlV2labHNoZHBHRDhaNmUtOC15YkdiOW9VWGVWMHB5dW95c3ltZXFDUThGaFF3d2N6VnBRSFdsZnZSVlE?oc=5",
           "draft": true
         }
       ]
@@ -2975,7 +2999,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 436,
+      "chapterCount": 438,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6464,6 +6488,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU0pOME9hSXFzVXhHT25DS2lqV2QyRVdWanlQZTdrSXRCakMwMHB4Q3FWT1FpeExSdWdublA5R3FFSTZGZUsxQVMwenRPdzNXTFZ2SnR0MExLOGFjcW9yYUpBQjI5VG1wTFNHX184cENBMWR0ZHJRSWxnQms3dVpsZVZlY3BGTkRKblNPdi1iemNYcm9Ma0xFN05xWVhSMTYzWkgwaGVsS2pUNWVtRG13Z25aSWxFaDdrQjB6b1RCX0VueTBHYlFUd2hPMHJBVTZ5MExIR0RFNnZoNEh1TmN3dTRBMmkzU1RG?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783508659799",
+          "date": "2026-07-08",
+          "title": "USMNT failed at the World Cup because of the players -- no coach could save them - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNDc1VF9yYjNTUVJIT01Ka0pEc1pUOUJoeEhiaXJPN2ZIRWQ5WTdfUWM2RmhhUlJOdmFpaVlsZnlvQk5lOFo2OEtCemY4bEcyOFhLaEw3MGxJUlZlVzJ4OEJqeGVweEVENU9MU3ducUJrTThNNEswaHZHMlY5NDdVR2JoR3hEWFdORVloOXNTc0p2eFZ5M1dxX2VOdmFIdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783508659799",
+          "date": "2026-07-08",
+          "title": "USMNT World Cup player ratings: high marks for McKennie and Tillman, but Pulisic and Dest fall short - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2VObzhSSUlvaUNTOEZzR0pwREVjeDhrOHRlZTVjVXJjZElYLVJmVkVDaTUweTUzVmRXbm9Qd0dHMkktTU56Vy01T0w1aTNQUENwMmxXN3RjcmxDbmUxbEhtVUlreGZQNzNUU0tTd0F2Vmc3QkVxSWNTaUZPcWU0WGZJNTk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6482,7 +6522,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 402,
+      "chapterCount": 403,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9699,6 +9739,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVk4eUozc3FJMTQ4SDVDSnp5RjNuUG9EUWxCZ3RQXzhCb1FkbXFiQk1abXlzdnJHS3JKT0VqRWNGZ19ROE1aVEFBSGVhRnFZX2x3UVRGc29NYWo3dVhKM1NnOUNQTzA4NHhiekY4TDlNa2lacEx5Z3dzdWtWTUZ3TnlMNENtRHhQSjlrdzc1YlR2a0VqV1I3MVBuZDRicGk2MVAtQjE5aUFDZVZSOUItRFZIcWJBNWJscTZGVHRjN3hkdkNUR25LdkM5OElIZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783508660412",
+          "date": "2026-07-08",
+          "title": "The Neymar paradox: Brazil's greatest scorer leaves without the prize that defines football immortality - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQ2c1b1VheHdueVhac2x5Nm5rMFBEWFdkbjhTSnhtWmpLenBuZXlvYW1fNHF4SVN4OFh1dk9RalJPeFNDcFRDaVZxakFtU0R3ZTdWSGxnVUhMbUVHM3JENDU1Qm5iNkhfN0g5blZqZnRzVWw5WmFEckxCZ1lYbXFSNnFzcnRyeEJYSUEtMFZSMV9FaVBXbXMtUHdVWkdvQnQteHlhVlJDRzluV1RJOWtlb3A0VzB5VHNONDJyNkFkdXpzdTBNZ29zWjZOZGtWWldWVGhKUTVWTnZxRVlVNlc1WkJZY0xvZmtzbkxZclJXWVBOUUxJNm1WeGc1YklmaEdScHNuWmZiLXFYZjZhTUQtRUs3cXQxR2ZnMGVpTkJuRdIBpAJBVV95cUxNZW1YZzJZaE1KNUJucThMSEJ3ZlJnVFFZSzdvSThSOHBGNlVrODVrekZ4UVBOeENEZzVZeTNHOVF3TEZGQXZBZnYzYlNfbkZXV0t1a255c0xFdkhoQ2NRVjFlNmNKOUl1ejJGZDNwSXJpVk9kVVNDN3p3ZUg0TXEwMDM4WjZ6bGJ2bzN0bG1CSUVuXzhrME54RlZteFlNR2F2NWx1RkNwcEJFSE9naXNSUjlzMUo3UlZzV2h5VllLQ2VZd1FEN0ZGeWRUaGRnb05YZnVaTWxENlJXczdKQXpJb0lHZ3dacjhNNVVRVVlDNG1ZRDFLZW1kUWc1a0hGdk9PLWxETV82T0x6WmNzc3ZxVWRjTkJzRUlscmtoWHhsbWFhZEFP?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9920,7 +9968,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 468,
+      "chapterCount": 470,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13664,6 +13712,22 @@
           "title": "Norway struggling with sickness ahead of England clash in World Cup quarterfinals - New York Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMExMaS1Jamhqa2tCZEszTGJNRDZ1YTVheFJPUVRQWGF5T281eHlqM3o0aDRpOE9BZ3BjMmxxLXVXemgxaVZrbUxySXpmcDBQQ0ROQmZyTEhLZFlJU1dxX01EakI4ODRSeHBPSlRVSFozbm1nNnZvdTMxYndYT3JiVEJZSW5PTTVOMEZDam03Z0xxR0pNQjdqRkRELTRobDRmVWRhRjlScjY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783508660883",
+          "date": "2026-07-08",
+          "title": "The World Cup stars who could have played for England - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wUzY3cE43SXVqVEtDZUhRVzh6WVd6M0stTElLTTJ1VndRZnRkUldwa1VVai1LaTRSeVpVam50RXFGaGYza3kyN0lndW5pbUcyd3kzYkRuZ2JGT1NDU3dzTzdPZzFaXzg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783508660883",
+          "date": "2026-07-08",
+          "title": "World Cup quarterfinals: How we got here, predictions, odds - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYXZZZ2dFUnZkN2NxV184SmRmcTFvb0xhVU9oa3JxV0lvTlo0RXQ5OTFuZklzZXgxMEdxMVowOUVfVUV3eTRfZGpwZURnTDRSaTBYbmhGVnh4NVdkQ3A1Zk9ic3EwaEltc0oxenUybVVPRjdNcmh5QlpfSzZvSDRkYjVTLUdKbTh2THQ4aDV0ZHBXRlFJSWtLVUJtRXJHRUdYR3UzNHcyWWdGMlBPMEdOYy1hUHN1dHZLYS05VDJqekphVVJpU2ROZ3VWdE9WY053Yl9SdW92R3BXXzk5QnVuZ2llSHJfLWVDOGQzS1pnV0UtbGlWNEMzakx3?oc=5",
           "draft": true
         }
       ]
