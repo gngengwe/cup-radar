@@ -878,12 +878,12 @@
       "date": "2026-07-11",
       "time": "20:00",
       "timezone": "CT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Argentina",
+      "homeCode": "ARG",
+      "homeFlag": "🇦🇷",
+      "awayTeam": "Switzerland",
+      "awayCode": "SUI",
+      "awayFlag": "🇨🇭",
       "venue": "Kansas City Stadium",
       "city": "Kansas City",
       "cityCode": "KC",
@@ -2666,11 +2666,61 @@
       "group": null,
       "stage": "Round of 16",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 3,
       "vancouverMatch": true,
-      "notes": "Winner Match 85 vs Winner Match 87 — Round of 16 at BC Place"
+      "notes": "Winner Match 85 vs Winner Match 87 — Round of 16 at BC Place",
+      "goals": [
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Juan Fernando Quintero",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Granit Xhaka",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Zeki Amdouni",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Jáminton Campaz",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Cucho Hernández",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Cedric Itten",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "away",
+          "player": "Luis Díaz",
+          "note": "pen"
+        },
+        {
+          "minute": 120,
+          "team": "home",
+          "player": "Rubén Vargas",
+          "note": "pen"
+        }
+      ]
     },
     {
       "id": "wc26-B8",
@@ -4064,5 +4114,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-07T22:10:45.967Z"
+  "lastUpdated": "2026-07-08T02:40:57.916Z"
 }

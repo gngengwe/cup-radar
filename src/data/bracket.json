@@ -1,6 +1,6 @@
 {
   "_note": "Knockout bracket. Round of 32 matchups are final (all 12 groups complete as of 2026-06-27). R16+ use \"Winner <matchId>\" / \"Loser <matchId>\" placeholders resolved by scripts/refresh/bracket.js as earlier rounds finish. Dates verified against FIFA official 2026 schedule.",
-  "lastUpdated": "2026-07-07T19:55:07.559Z",
+  "lastUpdated": "2026-07-08T02:40:54.160Z",
   "rounds": [
     {
       "id": "r32",
@@ -335,9 +335,11 @@
           "awayFlag": "🇨🇴",
           "date": "2026-07-07",
           "city": "Vancouver",
-          "status": "upcoming",
+          "status": "finished",
           "vancouverMatch": true,
-          "round": "Round of 16"
+          "round": "Round of 16",
+          "homeScore": 4,
+          "awayScore": 3
         }
       ]
     },
@@ -386,8 +388,8 @@
           "id": "qf-04",
           "home": "Argentina",
           "homeFlag": "🇦🇷",
-          "away": "Winner r16-08",
-          "awayFlag": "🏳️",
+          "away": "Switzerland",
+          "awayFlag": "🇨🇭",
           "date": "2026-07-11",
           "city": "Kansas City",
           "status": "upcoming",
