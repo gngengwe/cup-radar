@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-08T02:40:57.344Z",
+  "lastUpdated": "2026-07-08T05:51:24.354Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2967,7 +2967,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 432,
+      "chapterCount": 435,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6424,6 +6424,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa0d3Ry1XRHFOVTdHNkVpTTI5Q2tiSWFOcVN5bGxwR1JMcWE1QzhCSmcyS1hSaDVYTW55ZDV1c3hOdkVMTGloVkhsakJTdTJDNURjTXlVQ3ZHanNPdVhEeFY2Qm9JaWN5bTdOYVRzNERUZEJYS0ZxNkNkVVBEZHNGd2lWV0tCTFplcVpIYVlYOEpuaE1nYUlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783489883214",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: Ranking the 4 quarterfinal games from best to worst - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3dwOEN0QV95NXA3NHlaSWpsX3ZlSXR2ZjZOQnBya19Hb1ZucFJySTVDYURLam5ZZkxPeGlnSktnRXRra3hEQ0xkZndYNzRBNS1pZmd3eUg3QUtsOFBYdENaMTBMSzJMaHYzb1VnelJXT0Q4SXVPTG93T3ljTkVuWk1oUm1ZNFh3V0V2ekhFYVc4THBrdDB3OERUUVpNbFFFX1Btc1RHNkxVY3lpdkZEdjRsaU5tU2FCbHk0NDZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783489883214",
+          "date": "2026-07-08",
+          "title": "2026 World Cup Round Of 16 Power Rankings - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjRFLTVDZVdYWWlRZ2JEcTF3MDRQaGdFWlA5ZHJJQWJnbXA0bDNleF9NYzJtenpQSnVHOHZGRHlXdVVua3QtUThveFFSOGdhb08wZ2VuNzRaNGhzZk9mUFVGOWU3djc3aHllNkJtTUVlRVFZOS1lVzMxb2lveTh4VU43b2FuUdIBhgFBVV95cUxNWkEzdEtSaG1rb08tRXpab2FXQjRfZ0N0cFRUVFJld2tjb3hTOEVQY05RNlY0WTVzeVMwcHRqSGYyMWlJOU9LdHpCMXNCRmp6LURaeS1iOThzVzJaaTA5XzgzeTZadmpTQUdHelZLV19tS1R2ODhlUHdSQV9BQi05Z3loaVNOQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783489883214",
+          "date": "2026-07-07",
+          "title": "Two US soccer team staff members suspended by FIFA for Belgium World Cup game - AP News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzNweFBRaHNCOXdwX3ZSdXVXQmtsQ0lzZEJjbjNNSnhZaVpFaXlLVjVZbmNKUEZhZ1JCcUFyZjJYU0pQVl81ODFETzg0Z2IwMU15UW5RWVpCWDBnbjlHUUx0a0VvNzJtTWZ1Y0wxaTJDZmd0RWw0RUZqLTJBSzE3TzAzc1djbnE4bnZ0dzRhM0Q4OUJDX1FvWmw4VC1Pdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6442,7 +6466,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 398,
+      "chapterCount": 400,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9627,6 +9651,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjV2RWkxTWh5djhTSzNubXViTmdySlJIbEdjeUVCejFRZmtpcThnaExEWEVCcW1rQTJ4aWRnRWpmN1pqbFIzQTUzSU5SOV9CUW9UOXp1VGIxWmcxbEViZHBhNG9uNkFXLXN2QW5rTS1CVmpLcTd4c3pXTUlUWTFRX2RFelRXSFk1TzB6VnNhYjd2MTZQbkhUU09DeDVZclU5cGNCU0tB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783489883804",
+          "date": "2026-07-08",
+          "title": "Cancelled bans, rigged draws and CIA plots: How the World Cup breeds conspiracy theories - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDh4eklNdUFqa0UwWmdUNTBVMUxKb2pXM3FVTlltY1ppUWh2R2Nhd3VBdURHYmhYeFNKU2JVb196NHNvR0Y0WW9DSks5UEgwbGhCVDVSdGxKZFFLQzRLVEw3c0dxWE9GUWY2eldzUHczTFdYSGpjaTNldXlsRDZnWjh1cTcwbDFsN3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783489883804",
+          "date": "2026-07-07",
+          "title": "Brazil's World Cup nightmare: Neymar, injuries & why it all went so wrong for the Selecao & Carlo Ancelotti - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjlod214aUs0RmhoekFxZFUteHRsRnF2bjlXUkVCQmh5TDY0Z3Y5ZktyUERCZER0N1B5V3hNUDQ0Rk9rOE5uOG96ZW9xN054T2JJWXFXYXRxUGs3SE11b1lZTVd6ZGU3Tkp6S1FGS0Y4bUo2aWRlUnNFYTFVN0hJdHFRanZ0NFVJM011QzFtQ2hNR3VyV2VZbDVjNUxtbnlmbXgwRkZMQTBhSDFuZ20tWGI0MnhPRUROTUFr?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9848,7 +9888,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 464,
+      "chapterCount": 466,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13560,6 +13600,22 @@
           "title": "World Cup winners (England) and losers (FIFA) from the round of 16 - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNVhnbnZuZ19NR0E2SnRZT04xdVN1NEFmMHNFMWU3ZVowcWZ6SXNZYmJDM19XNjd0OFphZmU3Z01tbzBZcXNfQldFamREbDZhZ1RUcDlHeHdjSUI0bl9KRi0zdDlvUG93Y2RkOGRiMzVsd00waXBzeDdEMkE1MzBzaFpaZE5VMnNfUGN4cEZ6OTRkb09KenM1NGdKdktObDhJZ0FwLUhkbjVkcnljaGRmRHBzaHo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783489884354",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: Why are European teams doing so well? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVy1vQjI5M3ZfVFgtcHpJSFVhV3k1VzlnTmRhejI5VVRQVElEVVhQVXR5MXZJNk1tU0JfcXRDaERsMU5NRldaR3g3ZzJ2eEhmUWlnRlhQTVpBYVlxZTRzc19TclFfYWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783489884354",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: Harry Kane mural painted in Peterborough - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wcndUNHk3WVRHLUZidFJWRkVydjhHVmVsbHJ1Zkw1VVhkd1dBR01tNWZCN1NtbE9BLTNMOW1jLTdGWXgyMVV6M3hSRG56UW5zMl9CS2JlV0RtbU04LWV3ejgyVUw?oc=5",
           "draft": true
         }
       ]
