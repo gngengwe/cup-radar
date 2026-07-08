@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-08T19:25:12.802Z",
+  "lastUpdated": "2026-07-08T22:05:19.510Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 191,
+      "chapterCount": 193,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1546,6 +1546,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcFNuOE82THhnZnh3b1lGUGUyV0RPdlZrRFM4R2d5aGNmRTRlV1kxcHFZRExrZlpSQWdGVDhxclZWUzBOR3RCbHFjeW1Ud2F2cVVyTTBiQkdQODhSSUlNZTFTLUtoUGtwUTdtU2pzcHU4NG42R2doNVhrQ2oza0gxNENialJnTHBIQjdrZW5uSGlKYnFMQVhDMHppSkZaWDlrQ3Z4elRWcHN0TXE5dDM2ekVhSEtEZ3BGN2x2LVdUQUVHVFRmQ2paLUh0XzhQQzNXR3NmRko5dkwyakVSQ0N4anVnX2ZlQU5ONUtJbExkU2VoSVc5bFhKNHZQN2t4V2ZsSVVtQzBRN1dKenpwQ1dtSVVOcjMyM29oZEZjeklMcjhzelhQalZaWGtQWdIBsAJBVV95cUxOdDdGY2V2ck9JcnZVeUYzczR4Vl8tcEhxQVk5OEJQZmNHTXhfT0YtOElTdGZNUG93TTdaeVdDM1NRWE9OSUVRUTZqazlqSFA5eHFpY0duV29Xc3hweTB1eXNLelVFWDNzYURCZ2VTdlZyN2c0Wk5wXzB6WGdoSkdiZURwM29Fcmpwak5lRWhFdVM5bTBZc3ROR1NOQ3hGdDJ3NXBXNllBTlpZanNJczdUSzgwM2JTc0JORk5JRFd0VVdrRlpyN293WjZqQmwyQjc2YXhyU2ZESXVPNGU4RkZpbkR6MjlzLTlZdzdVN25qc3htODlNaUpoTjE0Z3d1ZERLV1JvRHlrYjVkTVplaEpnbHZaUzA4M2RsMF92NmpqdWRqek13dThQTWRkeUVPQnda?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783548317108",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: Are claims Argentina are being treated favourably at World Cup fair? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqR2w5SUs3RmVMM2R3TFpveW9hcnl3X0ZsdE9RQUZOOEJtUGFmV1ZoWXBQTGMwZmZkTGpsTFl4RGJfb2RBdHBqSzhWdE8zTGYxWnZrcnhxemxVZmhzcmE0VTAwaWtubzQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783548317108",
+          "date": "2026-07-08",
+          "title": "Fifa accused of World Cup ‘fix’ after Egypt beaten by Argentina – latest - the-independent.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa09EWU56bnhzV1hoZER1dFZ6YXhVWWRaZ0NnVi1JRmZSOHFTYkZFbTRwclNGZGJqeGxCSWhPc2Z3bTRtSXVCdDlGdmRER0NkVjhjME1nMTU3d3B4NXNFLTlaSzgtbDlyeTFDOWh1VmdhM2JTWEZVbncwazhTVmw0X3FvOWRSVDJqN2ZQVVUtazdlMEdVak5vajR3SS1YaHR0Ull2Rm1paUtsTFNDMS1yMGRzbHZ3blRZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3047,7 +3063,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 442,
+      "chapterCount": 445,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6584,6 +6600,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFI5UzkxT1llY3ZUVll0eDNPSmprSDIwYWYwMG5tVl9Lb2lhUEVKS2dpSkhVMU9XbVQwRERrWTA1WXNydXJib0Y2bmhpcVZSekh1V3FQUi1ZcFV1TGs2akRGMUlzYzNhTlE1SUdjekFMMUtLY25NTVlGMjVTSHRfcW5xMFh2SUxpMnpIQ2NPYTQ4N2ZwODFIblN0dWFnc0Q1dWk0anloeDFRdTVRVklad3F1all1WnF6VXY5N1pWSDZ0OWd1X2RLTWVla2xYRmlP?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783548318281",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: 30 million people watched USMNT-Belgium, making it the most-watched soccer match in U.S. history - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeHNrQzFRcXBDOUlUSEtfVGFUb1dTMnpNd2Y3dmNOSW56VEp1aEVPSFdLRGstN2I1VFhNWWFxQUdCQjdRVk4yaEJxcnpSRDUwREQxc09HM3p2MWw1VHVDVjFPXzFPMjVQTlBVYXhxeE1pb2ZwbGlsS1VaOTJlVVJoYmxFTWlERTRjdy0zS09EWTJXWUJZTjRSLVJQaEVHOWdLbUJVa1g2Y1NkVnFXTzBLMkdfZU84bjBKUFhKUzBZN1NYc2c1UG52V0d3bmxQWlNBM3Y1RWhmX05pQmNkcVpLWnpBN3dad2JOLVpfNnRzV2pxdVJSRm5JNzdYdEpwcHRWV1ZrY3dGWTY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783548318281",
+          "date": "2026-07-08",
+          "title": "America's second-favorite team: Who to root for now that the USMNT is out of the World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUZESmNndWFMVENuNzhEbHJfQXFHYUZuUUJpcGd3QUtjOHd4R3c0cEs0cFJrNmtxYUNLVmlZTWhOYW9HYXBwdWNKZGJZR0xEOV9zMk1zVFY5clFzdnN5TWljQzA5T0xBbXF3cXV3SWpPMEIxenZHbm1LOFRnY29Tbl84SU10MWZXbV9uZHFsREpjMDhiZ25zd2tOVlM3bUhWd1UycGJxZnlJSmpONHNLWE1VX1V6bG81dGRSWXRjTHEwSmxLVFBaQ056WG9nSXk1NDZWaUxoRXlOM2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783548318281",
+          "date": "2026-07-08",
+          "title": "USMNT’s World Cup $12.8M payout will be shared with women’s team after equal pay CBA - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44dGpsM3VzaGZSVGlRNDdDYzFRZmtsVU94aTVudTZfWEdjUkh0S1NzeW1vVHhJVTExN0taTzhmTlJFQVVxRF95NXc2RDVmSmM4OG9DLTk3VmQ5b1VONnZNdXJLMjY5bDJ3QzMwVzVsUFFFUmRsc1VGVlpn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6602,7 +6642,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 406,
+      "chapterCount": 408,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9851,6 +9891,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOW1OaXV5MERTWHlUX2F3eDVvT0tGMUVuQlFMSWFjR3ZrU0RkQUw2Wi1yTWZlNG5neU9JYW9oRXVOX1Rod2tfcG1LaWxLMUozbXZOQmJJR0FHNzFWNjk1dE1YRWhnZTY3Z3JQbDhuSTQ4U0tfMlNYOUxCbFIweTRfWDZDV1hGUktNRDNSZThIRVFSTFBlX09oZ0tJTXFUR3ZqN295QjE1Vjk2S1NKR1FPTzlPMXZ0RlZ1ejVXNDVFOV9JUGE1YTExSGRJRUNISFRFay1VX3B5ckN2T1hzMlQ4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783548318972",
+          "date": "2026-07-08",
+          "title": "No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY1JPWEVXOXFMNlFXazlkY29fT1MwYnMyUFFGOFVvZE1vQ1NFZEZFaTZUa2w0ZlBtaXNNSG54cFZLUE5zZVRwMTNYQWZMWENvR3liUXFGQWkzbG9RdEVzZm5MekVHWWEtMzZqaWlPSk9yMmNENkpwVXZqMXRYNnZqMGduTndiUU1DZ29WblZaNi0zNExieGUxUVk4UloxNGcta1E3WXNIbVlGcGZZUWFvN29UbWF3eTdFSnY1UTd3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783548318972",
+          "date": "2026-07-07",
+          "title": "Brazil's World Cup nightmare: Neymar, injuries & why it all went so wrong for the Selecao & Carlo Ancelotti - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmxUYXRXUm9KZGg3SjQ0QVdmcDVJdHVZS3pBbFBQZGtIRlB3Z25IVzlUUFZ3UmVQX1dIYWpIUnNVcnIwVnFfaElwS0NqcXJOaUxza2RKMlVIZGpQRldjV2RGckZhN2hUUkFRVDZrNEVjZTc4UkdsczBOcDhwdG1QUWFhd1c4aXJEMFJPMTkxQUpNT2RkeXQtbU4wb2t1MFNuV19CRVQ1Rm8yS2hQWV8zRHZvcElPMkk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10072,7 +10128,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 476,
+      "chapterCount": 479,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -13880,6 +13936,30 @@
           "title": "World Cup Power Rankings: Norway surging behind Erling Haaland; USMNT fall after ugly display, England jump - CBS Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTU1LTlPVEpmUk44bldVOE5BWERhaGZ5anF5ZFM2enJjcUktYXdmYjEydVl4d1lwYnJ3N3JOd2w2LU1yYldOaUN4M2FScm1vQU1JakJUSUotb3h0TEVlVU96NlVVYndXczkzZGFJOHdNRTBCZU5FNy16RTFLWDlicEhBQnZ2UlBFRlgwTDQ4ZmhlNmdmVEhmMzZrdnNJOWw0U2hFaTYzZTFPbHFsekE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783548319510",
+          "date": "2026-07-08",
+          "title": "England’s Jordan Henderson can only think about Norway after surgery for shocking World Cup injury - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnNPTmJLYjJIel83NWZiMFpqejVJekg1NnBqVXNlVFpPQXdRbnA1MTJHa0wwSG91NU5xZFNvdzZ3M291RDJvdi1lMGZyM2oxRkJ5ZUVLd0NHMVRXQm9vUTdwNzc3X21qTjViU2prdVh4S1pxVE1aQlZ2cGVkeHZwVVQ0NmtfYmpQMUtuTWZMMjVPaWJyWVlzUzZ6OXN4WElmT1JsVGdIWkc5bWlsbEpyVlZR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783548319510",
+          "date": "2026-07-08",
+          "title": "World Cup 2026: Jordan Henderson not ruled out of finals after surgery on broken arm - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vSmoyRDBiaC1reWgwQjc2VlpLMHgzVi1BYTZmOFJpUXRvSjVTODd5ZDA1dXFhUWt1LWhPdjU2VGd6SWZ6UmNEWHI3UWRPaDVrVjdxZWM3TjdzWktXOTdyRmtsZ2NraGs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783548319510",
+          "date": "2026-07-07",
+          "title": "England’s 10 men hang on after Kane penalty to beat Mexico in World Cup thriller - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTC1lM2l0dzRhdEdtWmVKZjFxTjFnZHdlS3VyUWhIYUVpTmFsZmsyTTh5SkJ5YTNBRlJ5M2ktdW9lR2s3WDJpbzd2MFVJQ2lVSnBGaDZ6NnY0V2xQMm9qYmVGaFVVdlJ5LUI1MmJCSHI1bkFqY0dDdERxMFd2cC1QTG51ZzdPX0hSdktsWEh0bUVHdlRIbDNtd19QbEVhTFNaWllSbWNLLXhIaDBqUkUwWWFqQQ?oc=5",
           "draft": true
         }
       ]
