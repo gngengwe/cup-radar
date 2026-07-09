@@ -4017,10 +4017,28 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "notes": "Winner R16-02 vs Winner R16-01 — Quarterfinal"
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 0,
+      "notes": "Winner R16-02 vs Winner R16-01 — Quarterfinal",
+      "goals": [
+        {
+          "minute": 28,
+          "team": "home",
+          "player": "Kylian Mbappé",
+          "note": "pen"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Ousmane Dembélé"
+        }
+      ]
     },
     {
       "id": "wc26-mia-02",
@@ -4114,5 +4132,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-08T02:40:57.916Z"
+  "lastUpdated": "2026-07-09T22:27:18.387Z"
 }

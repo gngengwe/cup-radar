@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-09T19:46:16.624Z",
+  "lastUpdated": "2026-07-09T22:27:17.839Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 195,
+      "chapterCount": 196,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1578,6 +1578,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14aTJ2M0JjWWxyWllNQmxnb2NsM0ZPWm9FUk1NWU9Nc1NVVDdibC1fQ1Q4NkowcVppNUsxSmg1aUJmT2hyaGpRRUR6MnZxSW5UN2N4UUZmMEJ0dEpkTW5ZbDdsYUppRDQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783636035548",
+          "date": "2026-07-08",
+          "title": "FIFA World Cup 2026 stats: Messi passes Mbappe, beats Maradona, sets multiple records; Switzerland's 72 longest-ever in history - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQd05Vemt1eG1RcTNZWGU5bkFrMV9nck5MOE1SQWNBanlqRmZib3VjTUltV1o0d2hRSjZUYnUyaTMzOVplR2FwYXhEdXFsUDdGaWYtZHdlZlJDN3JiTmZ0SG5yTTljZktXczhHNmdnZ19CRjFCWVE2LWtoM2xBM2hCWUw1RHB0ajJaSF9oaGlvcl8xVEZzTWZRM0g5cG5iX3VubGtRT0NwS0xSVW9EZG9QSTVzTktycENyVVgwc0x3Rm5Ra0xfS2tpU2pyaUFoRUs5a2JPWkUxbU9paHFqZWpCREViV0xPVVZocUJrdmlkTXpUanRxeGQ5aVB1ZWRXWmpzTHQtMkxXZ1J0X2kyMzYtaTNRTk81UHh1WjZOaHptT1U5YU42ZUZleDdCWms0dE0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1596,7 +1604,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 190,
+      "chapterCount": 195,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3117,6 +3125,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQRk5YVFBwY2FlemlMQWYwbEt0enhISi1iRXlhWjk5SHVYc0JTMUVqWjV6SXhPV1c2c0hyWHhSSVBUTkNudmpVcmR3ZGROVkJPT3kyd3hRS3FKeFdHRFNLSzh1bERPWWhPS3BtWnhLYVhUdkNHZnB2aDF6MzJXVkVzYi1nMWxFZEhrTk1Ka3lwX1lhdnE1SllfQS1ZWjlxNVgyT1NCZHVwbTAwWjladW53alRseDZhcW5ZYmRVcUFyWFVVR0Y2dmE2MEw0Qjl2cVplbl9oNkNXX1BDdmVIV3llMXZqTDBvcEpLbERYYlhZMUI5M1p3V29GUmttdW9BRWlZRV9iRFlkU0taU3l1bHBFTXRiOGpsVkRBd0htZFAxSDZRYm41Q3drWE9uc0h3RVhFX09kN0RtZXpKMEE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-bos-02",
+          "date": "2026-07-09",
+          "title": "France beat Morocco 2-0 at Gillette Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1783636036017",
+          "date": "2026-07-09",
+          "title": "Mbappe and Dembele strike as France lead Morocco at World Cup: Live updates - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnZ4SlVwZTFWN0M5b296VTFUQXRPZ3dKeW9PN1B6T2lFRHl2RHQyVDRHV1NWM1RLUlgzVkdNZlNxRUhtMUJiWEdwSFlKU1pPZ0xOdXpBbEUtVDVsaUVJT28tbFBLVXpkMjJrN2VhZ3Y4UXlSazd1cW84ZmVjV0dVQ1ZKVHhLa3NmVnd3bWlFNEdsNkZFX1FwS0dSYWNGcHVBbWZiOG5vTmlFVktNS3gySDFmdlROSGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783636036017",
+          "date": "2026-07-09",
+          "title": "KYLIAN MBAPPE! He scored his eighth goal of the World Cup to give FRANCE the lead over MOROCCO. - facebook.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1ctQ1pfVW9ZMjFLUl9SSzhvUXprWmVERjRpN1BHblpWQjQtUGFXaWF1b0s4NVN3OW4ybEZqdUY1SERyY2tlbWxRaEU5LXptSHZON3IwUEpiT1lTRTk3MXhHa3BRaUJQXzk3WEZpaDVZMkRIVmU2Y3NCT0g1QWFlMXo4dmJNVl9LT0xtOVo3cVFUVU5CRGh4NGg1V0VuczVtdGtwNWJBV1pKLWduV1ZIdWRHYUR3bTZKZWp6ZGJaVS10LTlpQTZoMm00cWxsSUoxTVUtU1ZHVmV6QQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783636036017",
+          "date": "2026-07-09",
+          "title": "France vs Morocco World Cup quarterfinal tips the scales toward Kylian Mbappe and a low-scoring affair - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaU0tYUJYWkdQb21KM2F4cTlMQ25kV2w0VlBfWlVhc3FwY3NNcWlCV2VQMjhLZUFOSG9nWW03VDdxNTFRUFBsaWZUUHg2aUpIb2NCeWlLNWNwS1BKSGpEcmpSVHRpMTlnNE5UYjR4di16TWpnSVozTnN6NTZaX3h5XzRud0ZNN1BDR0lmSzdYNXQ2NzExaWo3bWZDU3Zzb2NMWVF3VUpzM2J5ZjcwdUxxS2NWa2h6cW5nTk9tNVpEWXpZdjkxMjUzWjlCbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783636036017",
+          "date": "2026-07-09",
+          "title": "Mbappe leads France to comfortable 2-0 win over Morocco - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQxckEzYndFZjluM1NJVDZjN0l6QVdqQ0xLX0JwQ0E5bmVkY0J2UGZMWWd2Q2JYUllPUk4tUUpFeFZFUEx0VlU2TUlyUU9la3JfREZoRDh5NEFGLVdRVjRFQmZIT0ZaYmZmdUZ6NndvTG5MM0VNRnhhb0VRcW1ITG5Rd2pmM0lSNWw1Y1J5Tk9OZFA5aDZ3WmdaaEhRVFN1LURLMg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3135,7 +3183,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 453,
+      "chapterCount": 457,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6760,6 +6808,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT2t2c0VzUVhENlB3ZV9CX3pZTjNrYXh6eUdYeVdtdVVYRWl3bnRGYUlqc0NQU0VvWk9STXRHRXdmSjFYUUlEbDJPQ2hJWkZmWFBVR1NCXzRhUGgzU3BjLTFuczBZYUYzanVnOVQwek1FdkZTMnB0T3Rzd0JYRVNOUmtwTjAtaDhlZ2dIZ2hIem5vbGtSOVJObm5FM2JpcFZINXJQSzBaYVRJbHpHVUQyanhmcjlKOGZHc19FNXNPTTJiaFpXcXoySTFZYS1JcURV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783636036605",
+          "date": "2026-07-07",
+          "title": "How USA was eliminated from World Cup 2026 after timid defeat by Belgium at Lumen Field - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTk1LSXpYQXl2MUJJX1FxTmp2OWFxZlc1TWNQcXBCX0tYUEV6M1RUWVR5dmZ5QllBVjNMRzNHQkk5ZWd2cHF6WVk1Q1dZbEJhOG4xZzJmWHpBSU5FZVlYbE4tdDRyWEZEd2lpQjdjcjFBaV9ud2ZaRG9jWDJWYk45d3N1TDVaOWo2STBPYWVWRmlZQ3BKNF9Zck9Ubll1eFJINGM2MEZkQ2ttR0hFdHZNNnVfTmVXeTM3eEFYRjhseGw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783636036605",
+          "date": "2026-07-09",
+          "title": "Kylian Mbappé Puts France in Front with Clinical Finish vs Morocco | 2026 FIFA World Cup™ - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNOG51eHZqdEttS08xc3kyMmUzZTFuT3N0UGFpOHNSNGFfRGd0RmhPMHhBeTZ1Q2RwX1RrakgxUUhldVpUSmtZU1d2Wm0xWVJZWE1GeDRiVmtPdU5IS3NzZDNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783636036605",
+          "date": "2026-07-09",
+          "title": "World Cup 2026: US confirm Christian Pulisic leg fracture in defeat to Belgium - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hOHEzM19TdnFRMm5nNGtJTjhETTZiWTdNa2EtNWUtaThLQWNHaml6U0k2enhhRkhqNDl1MmtRSGZXdzFhRmxMRFlJdi00d242YzlwcWwtWXE0WlBDREFKejVpZ0RxTG8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783636036605",
+          "date": "2026-07-09",
+          "title": "France vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYnM2MHVTd0ZreTR6VHBNYWJUNUx1OFhVT1NtLTVfN2JvRDJJY2ZMMjR3SEVDdU9VQlFSVEFqMjZVbEd3YWk3MmlxV3RFcGotcTFHdkk0TlB0dTQwQ2pnMGJR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6778,7 +6858,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 418,
+      "chapterCount": 420,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10123,6 +10203,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzFvdk11MEFVUlNuUUxKVWxuNHpVXzF0cDFzQXAyczk2dUNsdWNlOVdiRUNQQzN1OU1WOUhzYWdSQWYwVHhiUFdPTVBCcUh6REltUTNoY295UnlTblk2bi1VMlE4czdsQUFhMThtQlU4MkRCRk9lNlIwNjBWOXNCMDhMZG5RV2Y5MGd1elhJWUROelVJVmNKT2h4RW14ZE9BZGlFVXlqbm1OMzlzX19lbk5WZ0FzTVhuXzBBRkJJWTdVbWVVTVVR0gHHAUFVX3lxTFBVUHVhSTB0dlFxYnNKa1ZIV2xHMkxadEsxcVNlVHNlWTNNMXpBanNMMXBzd19mSmxWYU84WklHSlNnMWxhWWtrb3pCNjVvWHBaVHdUMVZuVHVuQ1RaZDRlZ1hCUmhoWHExQXpjRHI5S1QtYmdlaUZWZGZuak9kblBud3h5anpzbDliRktHSFRxMWNZRXRSZGFaUTdiRkpsMXI4eC1XcTl0bWI1N3JiRHhQaE4tM2VlRHpFdE1KYWhIWmxuaG9xd0E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783636037201",
+          "date": "2026-07-09",
+          "title": "Romário goes after Ancelotti and calls for his immediate dismissal: \"Go to hell\" - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzFvdk11MEFVUlNuUUxKVWxuNHpVXzF0cDFzQXAyczk2dUNsdWNlOVdiRUNQQzN1OU1WOUhzYWdSQWYwVHhiUFdPTVBCcUh6REltUTNoY295UnlTblk2bi1VMlE4czdsQUFhMThtQlU4MkRCRk9lNlIwNjBWOXNCMDhMZG5RV2Y5MGd1elhJWUROelVJVmNKT2h4RW14ZE9BZGlFVXlqbm1OMzlzX19lbk5WZ0FzTVhuXzBBRkJJWTdVbWVVTVVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783636037201",
+          "date": "2026-07-09",
+          "title": "Erling Haaland Reveals His Surprising Plans Between World Cup Matches - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0FYNWFIRFhYR1hnQl9ybXJjdkRQbUg1WTJaNlBMU1d1QlpBS1RmQ0w2WGZKdEljQUlnYlo2MFlIemg3MnBweWpFZVdHT3B3MG9aLUVWc25ldEFfaE02TlYwbDdudG82VG54NmkyNTFVMXlJN1FIMTFBUEJuejNGWVBvbmVXajhmQkNRc2w2U1FLbWVGTnVmaUhxZEVMUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10285,7 +10381,7 @@
       "emotionalStake": 4,
       "summary": "Morocco reached the World Cup semifinal in 2022 — the first African nation ever to do so. Their run electrified the continent and changed what people believe African teams can achieve. In 2026, they return as genuine contenders, not underdogs.",
       "watchFor": "Can they go further? Can they win it? And does their success inspire a generation of players from Africa and the Arab world to believe bigger?",
-      "chapterCount": 5,
+      "chapterCount": 6,
       "chapters": [
         {
           "id": "ch-result-wc26-C1",
@@ -10323,6 +10419,14 @@
           "id": "ch-result-wc26-hou-02",
           "date": "2026-07-04",
           "title": "Morocco beat Canada 3-0 at NRG Stadium.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-bos-02",
+          "date": "2026-07-09",
+          "title": "France beat Morocco 2-0 at Gillette Stadium.",
           "body": "",
           "sourceLink": "",
           "draft": false
