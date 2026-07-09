@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-09T09:39:12.375Z",
+  "lastUpdated": "2026-07-09T14:58:35.225Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 194,
+      "chapterCount": 195,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1570,6 +1570,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekw5enRXNHNPSnNoQklzb0N3WGhmTHpaNXRmSFVRbzNfd3hQQVpDZDdGa0p3MHlxYWtEZ3VjWm9ZRmhQSTBoZktObVF6LTViQ0t3azRnNFN2VGFpd1BnVmM2SVZGUjd0Q2ZVbDlGS3oxUnBxb0ZvMzBKVFB4S1Jib2prSXJQUlNZVmt0ZHFCbWNUM004SzRoLXZNS2J2OF9QUFJKYkp6OG1fREXSAbABQVVfeXFMTzB5bDNFRVRlbXdhNHRsQ3pTYWJfY0E5elU5bEVXRzluX3d5eGVZWmhjaTNiRk43cVlVakF4T21PT1dEZVVVY2ZiNkJjM1Z3TlNXRm1vTWVDZGozQ0VqdU9zODZvSEJwUHNWamdqM1duSG5pS0IyWlZyRFhDSUlsTmoySXRRTGZYWFBWT3NId3BRVG1JMFBCQ2Nfa01xcTdiOF90UEVQZzFFcHEzT2FuMnI?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783609112958",
+          "date": "2026-07-07",
+          "title": "World Cup 2026: Lionel Messi's tears of relief after Argentina comeback - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14aTJ2M0JjWWxyWllNQmxnb2NsM0ZPWm9FUk1NWU9Nc1NVVDdibC1fQ1Q4NkowcVppNUsxSmg1aUJmT2hyaGpRRUR6MnZxSW5UN2N4UUZmMEJ0dEpkTW5ZbDdsYUppRDQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1588,7 +1596,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 187,
+      "chapterCount": 189,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3085,6 +3093,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGo2ZGFKMURoOTlyaE9Pc2ZzZTZtcTFZbUQ5OTYxQVNFU0ZCZmZ2X2tSdUxXLU0xNTVzQ2VHR1daWS1XSFNRbTZ3X096dm5fSTYyM0F3UXRONllWaTRYa2N6MFBfVDR2M1VPV2FJSG5fWkFRQVVUVFJ0ZlAzMURQQ09LVVhlei1fN0ZVcnBHaGdTb0VZXzZnTFExdmFoNkV5QzBxTG45NG9Ga2ViWHhVRFpqSFhNcTZZTm0zdXNn0gHDAUFVX3lxTE1PLS1BZ2JUb3dPbHVocWFhZ000MXh2N3M0ajg4M1B1LUxmdkdZZzAxTEVpR3RabFFubUhQN1pxUVVHWGNIODh3M1VBdzk1QVNmbW9GSFVyX2g1YjMwV2RHR0VnRzY1MkZxd1d2R2NmVFpxSFRnMDF1U0N0M0xDSkVOZldaSVM4SW1zeW5GZ1NvbEV2MUZmV2s5bDFBR1lySDdONUZBY196MV9VY05WVEpqb1BocXNWY3RyakNtUGtxWS00VQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783609113410",
+          "date": "2026-07-09",
+          "title": "World Cup: France vs Morocco prediction, schedule, Hakimi vs Mbappe rivalry - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHVMbTBiVElvbXgydWNLekN0aWhaQkJSZFNIcHhZcFItTGZpa28zZllKR0NnYjN6Yko0YmN4NGxGb2lldUxtcU11RDZzWGpVaWdXcG9fVkM2TmNLTV9NeTR1MWpNLXdSV0hSU3AyQWNPUnpsZ2JnMFFyOUFzV3JFNVZRbWRncjlRSzJFYzI3RlZkSzBmd1BhRURsTEFkVTg1dEZEUUdUWHBNYnFSRTZLLW5R0gG3AUFVX3lxTE44M1BwOWtOal8tWk1NY2k0b25hVVdVbmxrbDA1M09YMm9yUi1iM0pjZllBOEhQU1FoU0M0N0o5V0FmMW1feHQ2Umo5UU90LXZDb012VXFweVJuR2hhZFBQX0tsajZxVzBlQWhDVXBhV2Npei1pVDg1NUQzaG95c1NTaHgyNFJmZUoxdk5ncTAzUm94aVZQT3Vkc2NHckFGdXVoVWVuV1E1WlMwSm5ocktGRGlyVkpzaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783609113410",
+          "date": "2026-07-09",
+          "title": "How to Watch France and Mbappe vs. Morocco: TV Channel, Live Stream, Time - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmlFeWZ1YUtrZlVIQkVMSWFCV3FvYS1LTVVPLXNXdGZiNXZJVEM2SkdTWUJfRTlWcE9laldpS2NLUlE2YzhoYkY5elZyVXRiY2tHNDBoTGRQbTREeEdXclZHeFotVWIyX1Z5MkY3b0syRjVianNBRDh5cmxBY2hwNlJ4Y0JvZ3NIVU9BQUNnVEZOWFhqS2ZKOW1SQzl2ZFBZWWVURTJBMEF3OHBkR21vY0lOcndNNXczTXhqNDhqendtUFdKQ0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3103,7 +3127,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 447,
+      "chapterCount": 449,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6680,6 +6704,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYk51eENGUW9RUUlXVlZsYk9TVEplTGN1OUJfSjBSaFlOWXNpNU5DNGF0cEFrU3MxR052NkgwZFQxTEZNNzRwa1FBNy1CblU0RC0zX1pHbEZ1b3ZFay1aSXI5Yk1vcmNRc3MxcmFNelpBWXNZM2ZEcVhaM2NRWkl6eV9IT0xfY29zYnJWbWp0dmFxRFo4YXlOSkY4VFc3QUdVdGF1SnNhdk5FclNoQThIZ3Nn0gG3AUFVX3lxTE9QS2NscFhMamdkZ0pNYXFqMEJGN2xYQjJjTy05OGFVWWVwaGR3WkU3LU1peHF1am1wZTE4al9XQWZHaGc4azNZTFRkWlVVSi1wQ21wNjd3dG1jaEh5N3NGS294TFAtUF82ZElkeHMwYkZCUUlRQXdENHk4REF1X1hkN2F0eUdIR2VKZUM1QXF1ckI3blBqeERmTzFRWURFemNudkswR295dnBqWTVTbU01b1UzVzczNA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783609113908",
+          "date": "2026-07-09",
+          "title": "US in talks with Fifa over capitalising on World Cup success with 2029 Club World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelRYelEyRjJwVTFaWGVsVzVLM0wyVnhhbkV1bnpuV2xPUnVXdWNCN04wTjZwSWZkYlJpdUJ4OWdhNWcxNXFXNUtCbG5MN0dhOF9aMTR3THJHalF4b2UwX1dyRWstbTE2R1BhNXNuR2EwT0RBNWxPYWN3M01RTlRpU2hoVmJVQWJ6akZudW9GUHhqUUky?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783609113908",
+          "date": "2026-07-08",
+          "title": "World Cup Power Rankings: Norway surging behind Erling Haaland; USMNT fall after ugly display, England jump - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTU1LTlPVEpmUk44bldVOE5BWERhaGZ5anF5ZFM2enJjcUktYXdmYjEydVl4d1lwYnJ3N3JOd2w2LU1yYldOaUN4M2FScm1vQU1JakJUSUotb3h0TEVlVU96NlVVYndXczkzZGFJOHdNRTBCZU5FNy16RTFLWDlicEhBQnZ2UlBFRlgwTDQ4ZmhlNmdmVEhmMzZrdnNJOWw0U2hFaTYzZTFPbHFsekE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6698,7 +6738,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 412,
+      "chapterCount": 413,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -9995,6 +10035,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlhnb1czM2ZJU0NSZ3pWa3cwZ1pjS2d5N2c3M2t3Y0YwbmdpZ0hWd0w0MHlmS0cyVTV4TlpKLUNlSHdWYzFKTm1kX2VuWmFPTlNKMGEwYlBKdzFfb25EUVU0d0NlSXljaF83ZFlrcGtiNW44czliclpZLWY4RnpUbTVYRW82U3N6Z0RZQjhR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783609114371",
+          "date": "2026-07-09",
+          "title": "'F*ck that, he has to score!' - Brazil legend brutally slams Vinicius Jr and Endrick for Norway defeat and says Carlo Ancelotti's contract must be ripped up after World Cup exit - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXV4X1pqRUY2Z0lRV1NjU0NlNTVDNW5fdjRXRXR3a2J3M0ZZTnJoRG1zTHNlWlFVeE1LVlB4M2ZMZ3ZVUVdJMXhETlFTajEwWVRFY21UN3NlcUpPMXVlRWtDN3Ryb0plaXVUeWRqMl9yVlA1alUxQnRfWnA5S2M0SkxTbTFSN3NrbVhkTWlyS1dwN3RudWxrdXd3eGhaRE1uQWx1U3hfeXcyR09PQXdJZm80Y2dtR25QektBdWRWSFlwS2M?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10216,7 +10264,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 483,
+      "chapterCount": 485,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14080,6 +14128,22 @@
           "title": "David Squires on … England’s World Cup classic in Mexico and a Trump novelty - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVZlVGpJVVFXSG02czdVdWFTWWwzT2lxZ0ZfQlY2Xy1DaU1jcmFmS1VidVNsQ1ZZRnl2SjRSNGx6UFU2WFFnaHNVanFRcTVEajdQSWNuWVRETm1uMTZpMEl5SHI1SzNMSkhKVVFudG8xUU9ZLW9JMFg2SG5zanZGcVVoTlZ1c1J5TGo2Y01aZXY5dWtPTzZBVGJremZDd2NLbjE5aEY0MzN4U09oLUQ4UmtDZDZnU0RkOFdnVHpmeGp2MFVfblVMeFRWbjVFT1VGVUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783609115225",
+          "date": "2026-07-09",
+          "title": "England Soccer Star Who Suffered ‘Serious Injury’ While Celebrating World Cup Win Undergoes Surgery - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQktaQWs4ZGplWkJGSGFTelFBUkxoREx1NnpPOWxoM2JQWTVFMVNLek51bTgtb05VdEhoUHVVRG5wSEhRenB1R0NyRGJUeEpGS1FKVUx3QmhpaVdCc0J6OGR3djhjdjVDNXBncXIzbndDU09SdWRzOEpkck1tWmd2Mjk2c24zZTFuQmtzSEh4RGxHQzFGVFdHZWJCZk5LSUcwY0stb1RsV0tyeDBJUVd1OTJSTlljY0lieGNPNmlRbnpYV3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783609115225",
+          "date": "2026-07-09",
+          "title": "World Cup 2026: England have shown us why they can be champions - Alan Shearer - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oYnJqNUpfQldKd0JRc2FGRWN1OFFLbU0tNDJVeThQM2tPdHdiTEUtOW5kSW4taEF3Yk5WMFJzYks1S2U2LUZkQ2ZGeXA3TThGTUw4eVN5bVQzR29sQkd5ck1ST1BYdWc?oc=5",
           "draft": true
         }
       ]
