@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-09T14:58:35.225Z",
+  "lastUpdated": "2026-07-09T17:24:31.463Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3127,7 +3127,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 449,
+      "chapterCount": 450,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6720,6 +6720,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTU1LTlPVEpmUk44bldVOE5BWERhaGZ5anF5ZFM2enJjcUktYXdmYjEydVl4d1lwYnJ3N3JOd2w2LU1yYldOaUN4M2FScm1vQU1JakJUSUotb3h0TEVlVU96NlVVYndXczkzZGFJOHdNRTBCZU5FNy16RTFLWDlicEhBQnZ2UlBFRlgwTDQ4ZmhlNmdmVEhmMzZrdnNJOWw0U2hFaTYzZTFPbHFsekE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783617870245",
+          "date": "2026-07-09",
+          "title": "Full extent of Christian Pulisic injury revealed after USMNT World Cup furor - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlVmSVNiMWF4c0hoeXBqRUU3U0VuMmtCcUd6bU1ZS09OMWdablZocGNqZjhjZjhmN2ZuM0UtYXd1YWxTYXRaOW8zMkxTZHFzWkJwVzl1WkFJRWMwM2ZIVU1seE1wenlJVDRITWwzbmRRMzVZaks3Y3NHT3hqSnhwbnBmTmxLc2wzVllqd0FmUE5JaGFId2M3TzNadS1WbFNqTGVwdFRzdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6738,7 +6746,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 413,
+      "chapterCount": 416,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10043,6 +10051,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXV4X1pqRUY2Z0lRV1NjU0NlNTVDNW5fdjRXRXR3a2J3M0ZZTnJoRG1zTHNlWlFVeE1LVlB4M2ZMZ3ZVUVdJMXhETlFTajEwWVRFY21UN3NlcUpPMXVlRWtDN3Ryb0plaXVUeWRqMl9yVlA1alUxQnRfWnA5S2M0SkxTbTFSN3NrbVhkTWlyS1dwN3RudWxrdXd3eGhaRE1uQWx1U3hfeXcyR09PQXdJZm80Y2dtR25QektBdWRWSFlwS2M?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783617870818",
+          "date": "2026-07-09",
+          "title": "\"Wayne Rooney, I Expect You To Go Out On Rowing Trip\": Erling Haaland As Norway Eliminate Brazil From FIFA WC - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbzdoT0N3NWNYQTJrd2dyakFod3pZd2dmRXh6aWhVMFBIWExfVE1OZVdNLUE3Y0tMUGx3QmtPakdSUW5qY1UwRWRIcndtS2VoaXpDai1HcWNPbWd0dWJseXczckQ4eFdnanNWeV8yVzR1aWxKS1hVOUFNY3BFc3ZySGhGMWs1Qnh1UTJWZHNsNmhUWFBsY2RlSk55b2J0bnplWlZwTTlKb2w0U2xjUXpHVFQxUnI3SVZ3VEJrSURMZkNnUTZKb25pXzM4dG9vbVVDUzRjN05CNHdHQTRaS1FScUhXdXk5aUhLTHRZeHFSZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783617870818",
+          "date": "2026-07-09",
+          "title": "FIFA World Cup 2026: What happened to the beautiful game? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0sybnQ0eDJZVmlSUFZwOXZ3eVFFSUNaN0syOUc5QnBxV1JRZzVmN2xwbDBFNTdWVGdRd1FtT1dGNlFWMEdsS09KRHV3eWwxTEtXblRXR0FEZnZpU1dGY0F1d0FkX1Mzb0EwNHo5V09EckMtbnREQmxnSkh2MEZad2ZGUVBQYnEyNDhHRVA1cE45T0p1MEdvdVEzbXVIZ9IBowFBVV95cUxPRjNkQTJnQ2thOThnckNUMktXU1BBSGdaMDlPYUZqVk1sVnhueVIxZjRtRHE5UGtVTXdobmZuSjBLYWVudWI3X2cwY2tSZVNNczZLZmg2aGFqYUhKMmZ6R3R2d19scFRVc2VsdjVMaGxwcHhzMnV1bk5oM2c0UUNlamZtdlo4NWQ5amZQNDl3cW9tS2Z1X2xxQjhuS0FhOG15Z0pR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783617870818",
+          "date": "2026-07-09",
+          "title": "'Embarrassment' - Brazil legend calls for Carlo Ancelotti to be SACKED after World Cup exit 'fiasco' despite new deal - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZvTVhRUnJEQUluSUVZNl9JQzdMRXJlZGJNWmt5aU1yUzlQN3B2VFVjaXhOYVJxOW9CNkFNejhyeWJQRW02dG1XQWViTDJWR3NQOWF6ckZCcjhfanFWX2szcG1NOHJrS3A3TEhzYy1PV3daeDJKN3dvTXJZaWI0bDdrVDgwTFBhSlhaTnhFbXhNOVdYOThj?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10264,7 +10296,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 485,
+      "chapterCount": 488,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14144,6 +14176,30 @@
           "title": "World Cup 2026: England have shown us why they can be champions - Alan Shearer - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oYnJqNUpfQldKd0JRc2FGRWN1OFFLbU0tNDJVeThQM2tPdHdiTEUtOW5kSW4taEF3Yk5WMFJzYks1S2U2LUZkQ2ZGeXA3TThGTUw4eVN5bVQzR29sQkd5ck1ST1BYdWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783617871463",
+          "date": "2026-07-09",
+          "title": "World Cup 2026: England defender Jarell Quansah banned for two games after Mexico red card, Fifa says - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuWlVQN1pCLURBbU11anc1VUhIc251ZHRTeWZpRkthQ2ZwWV80T2dSYXNDRUUybFBEMVJueWdJMTVlTG4yQjBTRW5YOW9yTWZiZ3lQdEUyNHVEM1NoaUR5VW5NYk1JdHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783617871463",
+          "date": "2026-07-09",
+          "title": "World Cup 2026: England set to get bank holiday IF Three Lions win World Cup - Paper Talk - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQkpPanFFWVVuWTVtSTFyRlcyWkwzUjIxcmJrVmNhNUEwY09EcEZCVE9UQjY3dE5hcDBLREJTbzJwaTRRNmI0VEtfdzVsV05kUzZ3TG83ZHdOQ29Fd3FZRXpuNXBfem5fRjRBMTVZMVBZNnVndm1qYk9iblo5M1hySm9hdWRDUmw1Nk5jRTlzTFAteHdicUNlRm9oSWlZY2FSTktDZE02RnJQa1AxUkJTM2V3WEVZSWpNVVRwb2dfWWdPZHVQaE9fbVZpY2p2T0laUGtlTDRYeEsyQ0VLd1JDSDFIWUY0YnBLMWc0Vw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783617871463",
+          "date": "2026-07-09",
+          "title": "FIFA gives Jarell Quansah two-game ban for red card, would miss England’s World Cup semi-final - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamdDVU5ZcUs0bkY5b0lHSGFHbTM5b3hkZzlQcnVGS0Y0S0pWMlctaVFsUFoweUxKcFdYTG5tRkhjUmVDZVZIUnpHbEFrODZpN3p3UmFMVWRMYlIxOC1kV25WZTZOb09VSHlEb21jc09mX0dJWDFLcVJMSE5BWGdEMHdxUGY4cUdMRjVseUlyQnMzNG8?oc=5",
           "draft": true
         }
       ]
