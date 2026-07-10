@@ -3383,11 +3383,28 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 2,
+      "awayScore": 1,
       "laMatch": true,
-      "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
+      "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium",
+      "goals": [
+        {
+          "minute": 30,
+          "team": "home",
+          "player": "Fabián Ruiz"
+        },
+        {
+          "minute": 41,
+          "team": "away",
+          "player": "Charles De Ketelaere"
+        },
+        {
+          "minute": 88,
+          "team": "home",
+          "player": "Mikel Merino"
+        }
+      ]
     },
     {
       "id": "wc26-hou-01",
@@ -4068,12 +4085,12 @@
       "date": "2026-07-14",
       "time": "14:00",
       "timezone": "CT",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "France",
+      "homeCode": "FRA",
+      "homeFlag": "🇫🇷",
+      "awayTeam": "Spain",
+      "awayCode": "ESP",
+      "awayFlag": "🇪🇸",
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "cityCode": "DAL",
@@ -4132,5 +4149,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-10T19:27:00.723Z"
+  "lastUpdated": "2026-07-10T22:02:38.066Z"
 }
