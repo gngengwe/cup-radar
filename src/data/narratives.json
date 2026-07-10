@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-10T14:26:20.065Z",
+  "lastUpdated": "2026-07-10T16:56:07.879Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1604,7 +1604,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 203,
+      "chapterCount": 204,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3229,6 +3229,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcHFMT2lCTEpQSm95STJ3U084OUE1X295RHRfcGo4RWZDZnlXNnBsa3pRQjByUkswQ2tHUWREdnU5VlY4N3phRkU0bFBiS0hmUktMN1hHQ2ZwV0RZSVlRTUhwdEFFZmNETnpaaDB6b29zTmpjZllDRldZQ1pjWGY2Nld3dDhNOWdqd29kSlptRXJqRVFlN1BjYTZZbjlqb3MzVzBISjFQeGVISkVQc3l1TGoyWC1fMEdmd1hvazBYUkd6cENySE9rZF9Yd2JqTVZ3R3ZSNg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783702566172",
+          "date": "2026-07-10",
+          "title": "France advance to World Cup semifinals. Get tickets to see Mbappe in Dallas - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWRuU1h3ZWc2blBDLVA1aC1Qckp4QnRwVENRNlZ5ZnhuVWt0TXJmT3dSTS05elVnZFRiMWxYdW5QTzBiT0xtVjNqa29uYXpfQ3lsQWxKZVA4anUyTExMN1ZWMnhYSGp6ZVhpamZiakE0Q09hTlNHRnFKLUJoWnF6clcxQUd5Qm9lNVI5eVEzYTZmS0hQa3dDZVBvWFdseFBJVjBtVk0wYVY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3247,7 +3255,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 463,
+      "chapterCount": 465,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6952,6 +6960,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0JqSUhjT1JjZ294VE1uYTVfMVliT0VHWThOcUxMT2o1ak05QzBqMjZlRU9FdE9iM1FyR0xybWRzWUhWR2ZGSkc5Q09fT1hHMFl5bElUQVlfUVFaQ2draHhhSndBS21WRVVlZ1JzZ21wb1hVeUlCQmt0MFp4dzR0VVBOYjdFT1QwLWdlam1Ic05TVWdTUTB5RFlaTlhtUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783702566669",
+          "date": "2026-07-10",
+          "title": "The US and Mexico are out of the World Cup. Ticket prices are plunging - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjNyOUZiU1U3NWVuN1hHNTJpTE5Dakp2Ti02cXZDWGkwc1EtVWVmN2pPTTJtazRQQ3JxWmJtOXNqUFU2UWMwbFJuZHBEYU5nOVdpV3RWS1dqZVVSVVFhLTBYX0hDUjJVdm9XXzkzY2JDYTRQYVFJUGh4dnlRQjA3bWx4dW5yZ194?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783702566669",
+          "date": "2026-07-08",
+          "title": "USMNT’s World Cup $12.8M payout will be shared with women’s team after equal pay CBA - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNVJ1OG5FTnhZV2RTczNrdnFGa3p4MHRwOVV6TFZCbjNadnVSMmtETF9FcDVhaTgtRDdyY2FxLUkzVDhJM1B6YlhqakpRSDFfQWhZNmNlemFmVmdJMW5NakpQSk9ldkZheHhoMlZBNm9sbkt2SGJLMHJhRlRWZW5pQS1Wd2RBVkF6NTVGeWhUQnhxWVRsakJrTGFlNWtMUDBOZlVlMkZFUDhKVVEtTUJuRGtn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6970,7 +6994,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 427,
+      "chapterCount": 429,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10386,6 +10410,22 @@
           "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNng3OFQyN1VCWGtCVlBKdFVRSEIybW4zUF9QajdVbE1CNEdtUzY1Um9ySnlic0ItdklVQThadGVtc3ZFM1BLMVQyZUZjWnlhOTQ2eGk2blduQUo3VHA0U2JjUlpaSVJLbFVsMVR6dllJYUJ1ZllwWndvdklzSTJuYjFVU3VjdTNDNnRCZUpvMEVVVThPOEM5NmtyanA0UEtJLWJZMkZvTjcwMHZxa0HSAbMBQVVfeXFMTlFqdEJhUGJQUFNIZ29TQVJVYTRwdHJCTnZWRHpZbEFUNnBhVXFtbHdTYXlaU3hjTFZBY05YMUc0ZExuXzdaR3gzdXBhOGFjZ19OekszbjVqUXNVSWFuMk93WDBZOXNOXzZqVFo5dFFLZkR6THFYX1JNaklrbFNfeU9uUUR1TXdoUzhGTG1lSlZvd1pjZkxSUmdMOU1aUnoxQnRZa292UFZhMjJwNUJ3ak55Sjg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783702567280",
+          "date": "2026-07-10",
+          "title": "Real Madrid ace Vinicius apologises after Brazil World Cup exit: ‘The feeling of frustration is overwhelming’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnVkdW4xZDhoS0tlcTc1TlVQSXdFY1ItMy1QVUxwdmlaRzZJQkhZd2lnVHY1SzM2RVdCRENUQ1BjUnZZYUlIN0Z5WlZ5d3h3ck1mX1J1V1FGT0d2NktyX3dFdXBBREVnSEhvNGpyTkZ0NDF1S0hIemRkbVBEbk5qVUo2NFZGVzBQYTd1Yg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783702567280",
+          "date": "2026-07-10",
+          "title": "No, thank you! Erling Haaland Is Tired of Speaking at Press Conferences in the 2026 FIFA World Cup - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYUZEOFVOenpXVFN6MnlJRC1PSV95RmVadDdFUEk3OFJuYloxVmx3U0s2S3Vrc0R4S0QydGNIOGRVYkE0clFfOE5nbFd2alRZa0Z3QzdKaGxzY3pjOVpKVFpPSHd0aG5KYlp5NVN4OXN5amp4eXNWWmZpMUNxZjN2UllIc01WVHlfM3NtZzlDUllyemNLU25kVkhRVlV2dWNQN3UtWXFJdGVYUHFlYVdwYVBvc0xCN2hNV0k0SXRGUVBtdHNkY1VhUFh0a3kyN0kyajBzZHhuRXhja1JkRnB1dFV0RQ?oc=5",
           "draft": true
         }
       ]
