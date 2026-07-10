@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-10T09:34:55.165Z",
+  "lastUpdated": "2026-07-10T14:26:20.065Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3247,7 +3247,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 459,
+      "chapterCount": 463,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -6920,6 +6920,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObUJ1cC03em1mUjdDSFZZVFRqSXVwVzYxUVV5S2lYWjNabVgxbEk2djF2LUp6UGVUT0lmdmlibjYtejkyd0tGMjFWM0phakpGVWFJWUd5dWJCNE5HUnhabUZUdnpMdkRsY2g2dHpCckx2MW56a3BoeUN6Z2h6UHZGV0htSDc2UHpFblBxWF95Si1DUDVvUTZ6QkNJYWktZlZQSEs0R29sVm9idFdEZmM2X182RFdVM1dESG85SEc5UDRjWllmQXlDMVdhNkk0T25naFh4dlhBQ3JLS2YwZXhRdE1lMDlJTzEyalZYdjVFclRZYkdSWVFpdEZjVW1Tak90?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783693579005",
+          "date": "2026-07-09",
+          "title": "U.S. World Cup Loss to Belgium Averages 33.1 Million Viewers, the Most-Watched Soccer Telecast in U.S. History - Variety",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcms3WjdycjVSRjRtU2llVF94eUZrTWs4TVk2aUpudnlrZ2JTb0ZjSmJucGFwNUJlUUVaYUhnX1V1WnFlbU5qem1ESFNxeXkzQ1BJRU92Zlg0Uk1iOEQyTGpCMU1Hc3BHb2FXeVYzWWFhN2hFeUdjMTBoOGVQTWRnUEdEY1JTczFJZWRVeFhRcjNub2Y5cGxrWWE5X3ZXY3dzYXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783693579006",
+          "date": "2026-07-09",
+          "title": "The US delivered their best modern World Cup performance – and also let themselves down - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTU1mUWVhMUY5SGk0elhtV21wQUR5aXhFUkZhN0FEeFd1amx4OF9RVUg2SEJOalZjX2d5Z3B1d0RyQmVZMHI5azVNdzFCSmNTUlJFOU1lWlpoR1ZsTTAxOU9FMnJlaWM3eWp5dXFRSzdHcFpnbmJ0bmVXTy1WYlB1UTQ3YUtEZVN1dHFlelBsYU1pS0l2cDZFN2xOUUhsZlZaZXBMVklDc1lBRGM4M0FBT0xsNnZtQ01UT1FhSzVYYXE4dzU2ZkJKNFJLYlJWTEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783693579006",
+          "date": "2026-07-10",
+          "title": "How to Watch Spain vs. Belgium: TV Channel, Live Stream, Live - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnd3Wk93dGxocnhCZXR3S01qbUE1S2MzaU5PLWRUQ1pSQV9hQTlKeWs1LW5VWHJ1ekpRTk5Ub3pSS1c2clVXYi1Za1JGT0Q2emdseHdTS3o4bGFLTUY1QmszY0IwTlF3S3NfSG1RUlY3dENuc0RWZmV0ZUIzNHJYRVVGaXkySnhrN1lrblkwekdyWl9sWDdJRU95cjFmT3hmbi1VRWJsRkFGd0F5VGZSRzVQcWlndnFDcWpJa3VHdFh6R2E5?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783693579006",
+          "date": "2026-07-10",
+          "title": "Time marches on: what the next three years will bring for the USMNT - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0JqSUhjT1JjZ294VE1uYTVfMVliT0VHWThOcUxMT2o1ak05QzBqMjZlRU9FdE9iM1FyR0xybWRzWUhWR2ZGSkc5Q09fT1hHMFl5bElUQVlfUVFaQ2draHhhSndBS21WRVVlZ1JzZ21wb1hVeUlCQmt0MFp4dzR0VVBOYjdFT1QwLWdlam1Ic05TVWdTUTB5RFlaTlhtUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6938,7 +6970,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 425,
+      "chapterCount": 427,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10339,6 +10371,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnhEZzd1aU53T1NJMGgxY0N4cVBRcUxib0NBZ3hVY1lWTlpSeFJzSUdfNmlLQmNZcVkwblFEbmd4VUxkcmRrNlc2TDdHUEN1WS1HQ042VjR4NmxoS2JEa0NNN1VPMWdTQmJ6N0dlbXhUR2Z2U3pmN3hfTVM5NG1Kc3c5UHdnRzZTanlScUtIWW1hcjJiaEM1eXN2bnozVUplMVNYbnRn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783693579524",
+          "date": "2026-07-10",
+          "title": "How the World Cup Made Me Norwegian - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdFlBTmtSd1RZdnRnWlVkdnEzZmtJQllHX3F1SnB3R1RsS2FEN1BOSkQwRGxUTTJNRjQ5RkowZjFJTVpWZ3hEbGVaaUNSUUs1S2RnYnJDYy1oOTBodVdmd0xBcGdoRmFETHBqWFpsb2RoTEpZYjBVN2lpOVJEWFZ5RkxrankxbHZvVDZR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783693579524",
+          "date": "2026-07-10",
+          "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNng3OFQyN1VCWGtCVlBKdFVRSEIybW4zUF9QajdVbE1CNEdtUzY1Um9ySnlic0ItdklVQThadGVtc3ZFM1BLMVQyZUZjWnlhOTQ2eGk2blduQUo3VHA0U2JjUlpaSVJLbFVsMVR6dllJYUJ1ZllwWndvdklzSTJuYjFVU3VjdTNDNnRCZUpvMEVVVThPOEM5NmtyanA0UEtJLWJZMkZvTjcwMHZxa0HSAbMBQVVfeXFMTlFqdEJhUGJQUFNIZ29TQVJVYTRwdHJCTnZWRHpZbEFUNnBhVXFtbHdTYXlaU3hjTFZBY05YMUc0ZExuXzdaR3gzdXBhOGFjZ19OekszbjVqUXNVSWFuMk93WDBZOXNOXzZqVFo5dFFLZkR6THFYX1JNaklrbFNfeU9uUUR1TXdoUzhGTG1lSlZvd1pjZkxSUmdMOU1aUnoxQnRZa292UFZhMjJwNUJ3ak55Sjg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10568,7 +10616,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 496,
+      "chapterCount": 498,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14536,6 +14584,22 @@
           "title": "World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRVdTc1FVa0VqNHdRZ21FYks3bFU3My14bjBBVXNISDVqTVhJelVWdXN1Rm5ncWhzSlRwLWtnMTRaNndYdWRhSDNUTHZKb1hvalJtalhybF9ocmhNandydUpRM0Nzd0NidTdBXzRhaUpYbHN5Q1hhZmFEZHF2V1BSTjNTeW5DSWY4NGV2MFNES3FGWGNFRmFMalBfckpPLXp6RnJwWFgyd2JtNXhxVFBSSkU1OTNGWHRmZHh6djdrekM0TzFNbC15VHV2aVR0aHphUV9xX3hONEU4SzhvUkRiNnFpUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783693580065",
+          "date": "2026-07-10",
+          "title": "World Cup 2026 today: Live updates, latest news as Spain prepare for Belgium, England face injury concerns - July 10 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQczFsRktRWHFxa2ZpNU1KbHQ3RXU3RHUxV1I5MTNib3NyS3JkQ1NfZ1gwLXVaYmlxOW9kVDZ2Rm5SSjVfeXJZbV9qWGJaNklEX0dvZ19TRmFGaXlnYm5hN1diR2gzaFR1aUxoRmZZbldEd0pkZFJNZnhrbEowMDM0QUlYaVdMR3RWZGxubE9URmEyeWpwbkhjbTRya0FkcFFVYXpia1RvazlYSFdlTndUOV9BZFhDODVySEVPemtHOXh3T09zSUNBcTd1bXBkRmgxMkdNUWRsTGFRZmNrQkFSVl9jdWRTbC13d0VLVWhtc1NmaEk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783693580065",
+          "date": "2026-07-09",
+          "title": "World Cup 2026: Norway's Erling Haaland says pressure is all on England before quarter-final - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMWt6aVpnSVRmR3hnUEh3TmVpSGNwVkZ4eUZfUkpLbUwtYi1jZzk3d3piQmZvS1Rjcnp5UUhjSGFjbm1SQ04xUFNYZXpJVGxXeG0wQ3N1VkhCZ1pCQ21zVktiVDJMRU0?oc=5",
           "draft": true
         }
       ]
