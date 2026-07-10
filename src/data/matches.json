@@ -3383,9 +3383,9 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "laMatch": true,
       "notes": "Winner Match 93 vs Winner Match 94 — Quarterfinal at SoFi Stadium"
     },
@@ -4132,5 +4132,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-09T22:27:18.387Z"
+  "lastUpdated": "2026-07-10T19:27:00.723Z"
 }
