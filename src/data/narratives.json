@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-10T03:19:13.395Z",
+  "lastUpdated": "2026-07-10T09:34:55.165Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1604,7 +1604,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 199,
+      "chapterCount": 203,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3196,6 +3196,38 @@
           "title": "Didier Deschamps hails ‘exemplary’ Kylian Mbappé as France reach World Cup semi-finals - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG1qN3dERmw2VDQwbHdhaV8wYzJPQVREZmYwNjJiMy10NDZwQk5oS1duVVRoYk80RUJub1VaREJfWW5HSzJ6ZTJCcjFZS3J2TV9SV2pWZ0tORXpsclh5M0FuYlUzb1Y4Vm5ZYU55Y1VZOHlVeWZXTDN4WjNaRkdwaEJxM2NBT3JfQUpJU0FERndtNWV0andDOHZkZ2VDb2RoNS1MYVY2OXY0Q0VaUG8yV0FXMHlsakJUU0dWdkFoQ2k0N09Say14cHI5QUItQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783676093734",
+          "date": "2026-07-10",
+          "title": "Which records has France’s Kylian Mbappe broken at FIFA World Cup 2026? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3JGR0ZUWmRLUGZwdFB6ekRUMldMdVpCRTd3NFB3dEZSS0tYUnBCZm9QS01Uck9XeXZlcjB2amtNR2FuVDFoOUNfY2ZyU2h0ckRpQjJXUjVCS1ZuQW1oQ0lHNnQwazQtMURZV2kzTV9nZ25aczMyLVpDZmdUYy1fY3NXaUl1MmY4WC1qa3lhNm84WnMxMlV4T2IyN1NHVEpKZGc5djZUb3VZSXpIZDRCam5n0gG3AUFVX3lxTE5NUmFIVzljY3dNUlNOeWptT3I4b2RMYVVmWHYxTThKY0hSUDdaUEIwaXhGbjFHTkxhQTBqYWxla295VkFzVmg4TEhLeEU3SklWSFR4bHRsNEtVXzQ0SmhhWC1WQ3p1NVhJaU84WkpNRzB1ZGVYODQxdHFmQmpYSi1wblFfWlY1dlB6eG13YmtXdU8zUFhva25yYUJQeV9GVG1FNDV2WWVvSGxtOWhoV1BiVFJXSnBTTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783676093734",
+          "date": "2026-07-10",
+          "title": "2026 World Cup Odds: Just How Dominant Has France, Mbappé Been? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFNWbWo1aDFkNmdWRDY4NnFTVFZFNGZuaU42XzhWV29WekRzUnhycVViaVNNNEk3Nm9SR1NVRnVrTEVBaDl4LTJlT2dVWkZybmd1WWswbEp1cFd2dFZWOGNnTnpreWRyazJxdVdybUtxbndpbWZxaDZzWVdySy1RdzB6b2hwUWRod1l4UTZqVlFTUUpJS1pSWVB30gGaAUFVX3lxTE9DNlRhTTgwQkhiWTN3N0hPOGJnc29rc0U5TWFXTjUwX0dzZ3E1S1hWR1dWUVRSeFhvWEhCRXExcVc3bVVQWnJJaElKVUtHdHZodThidjdxNFA1R19BMWFQMUdRMzBxaUVwN2VPYW5odDZqOEtmQUtSLWNISG5YOWtCcnpvR3FRX3ZsbktlbWVqdmZhRlduQi1MOWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783676093734",
+          "date": "2026-07-09",
+          "title": "Mbappé, France lethal vs. Morocco in reaching World Cup semifinals - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnphY2RfMHNuRmRZdFE0TFlnOVY5LWFlQ2lwNFVKa2lVajNSNk43Sm5rZl8zd0hqaVlGektRelpYSlBzYk1yRFVlZzJGMFpzSFBVQmZvQlA3ckJ1bzBMbGRMdUlYSGNEQ2N4Ynhtams2cnEzQUdmcEJwOWw5Y2FucjBaSkl4MlRhb25aVGk3ajhYNThWM19BdGtobXZEbHpSVkN4X0ZsUFJObzVGc2VTdnU3VG0ySmJlR1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783676093734",
+          "date": "2026-07-10",
+          "title": "Mbappé plays down injury fear after France beat Morocco to reach World Cup semis - RFI",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcHFMT2lCTEpQSm95STJ3U084OUE1X295RHRfcGo4RWZDZnlXNnBsa3pRQjByUkswQ2tHUWREdnU5VlY4N3phRkU0bFBiS0hmUktMN1hHQ2ZwV0RZSVlRTUhwdEFFZmNETnpaaDB6b29zTmpjZllDRldZQ1pjWGY2Nld3dDhNOWdqd29kSlptRXJqRVFlN1BjYTZZbjlqb3MzVzBISjFQeGVISkVQc3l1TGoyWC1fMEdmd1hvazBYUkd6cENySE9rZF9Yd2JqTVZ3R3ZSNg?oc=5",
           "draft": true
         }
       ]
@@ -6906,7 +6938,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 423,
+      "chapterCount": 425,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10291,6 +10323,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTkZPMlZhSzBXcDdyU2dDV3ppaGVWMUVnb0NDMUJ5MEExX2lCWVc2YjF4c05Ocmczd1JIQUVXMy1JZDlmV01WbGxyVS1ZWFZkUm16MFBza2tEeTJpRnBMSEp1V0dTUmJndTMtLTRackRZblFRWEdFOGs0OHNndGlyT0FwVDJfSjktbkVncHg0SXdTaW9XY1FCY1dBdWY3VWdGRVRXNzhjVlBIWk9aR1Q3SmU0dFpyTk5HREFkcHlkQUg4SGpKSW9UbU13aWdGZF9MbGpSYg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783676094696",
+          "date": "2026-07-09",
+          "title": "FIFA World Cup 2026: France join Germany and Brazil in elite club as they become third nation ever to rea - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNjFrS05KdVdZdndwcnAya3FJb0pwdjRkc2dFWXJDUEFDQWRQYTQ0RWFTSFAyWVNvbzdwa1BVbGFYNkE3ZFFHMThuOXg2NmpMVXkzRVhzTEZsUXQtUnlqaGloQ3dUd0F5UjRaN2x5TEgyQm8tN0NBdzFsMEFmT2NHTGs2a3NFSWNVemJZaGowRWpNSEMtdEdaa0FFRDc2cHYtNkN0QW9PSWNMZHpZQnBDc2pNQjZjOW0tWW5qSTlWWjNXQUI0cTNTX0RXTnNNYkxnWElZTFZNVGJ1THJ3WktlTzA4cHBINFgtb3FZSmVHUG43cG1CRjIwNjYxd0hKTVZaczhWZGMzdUVTdTNWUmZLVHYzeWlQcWpzVFdQbnBKeDlrWi1UX2dhRnNNb3N2dU1SVHZSaHpfM3Z4ZnBLYnkzcnl1VdIByAJBVV95cUxPcTJLRWwzX1ZraWpXN0RCV25HQ3NiRkxBRFpRWlNiUmhFSnFTdHFRMmJiQ1JkM09pa29kUzhrSTRYRC1XR3BDci1VQXltLXhDOXpLVGxDOTVhLV9PTFVRRFI5cWp1YkVFVW9kc1JVSnpCSldzbzJZQ3Q4YlZUZXQ4LVphTkc0REZmT1F2eFFUSjI1Q3djVnVnemVQN2FaYjZCTXpTcTE2blF3cnRGQzFfQUlEeS1zbUIzLUZSRHNrNDAydnJ0VXBrelNLNG9PeVd4cVpXUWpyUVhNREVPZS1pQ3ZYUWtKbjRscTRsbl9kWlNYMG94MjRUakxZUGVoWnpuUWcwZ3h2eDljcUV1a0pmY1NOeVNwSzlhMzdTckFTOHZ4YVJLRG5PUTdzalhEQVFhRUdJYkpvSUUyeFlpWVdFc3pQWGNBNXgt?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783676094696",
+          "date": "2026-07-09",
+          "title": "Brazil's football system is broken, says Pele's daughter - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnhEZzd1aU53T1NJMGgxY0N4cVBRcUxib0NBZ3hVY1lWTlpSeFJzSUdfNmlLQmNZcVkwblFEbmd4VUxkcmRrNlc2TDdHUEN1WS1HQ042VjR4NmxoS2JEa0NNN1VPMWdTQmJ6N0dlbXhUR2Z2U3pmN3hfTVM5NG1Kc3c5UHdnRzZTanlScUtIWW1hcjJiaEM1eXN2bnozVUplMVNYbnRn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10520,7 +10568,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 493,
+      "chapterCount": 496,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14464,6 +14512,30 @@
           "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlVYeUZGMy1QbHIxTl9jcnlhb0gyRklsRzdPR2V6VWxyVEJJdHIweVQzNmtPcVdsaS02eEkyVlpiVVdLQXlSZExESm4wZlZ2SWZJYkpJN1RfTEp0YW9mZGRJUEF6YjNxdDhyd193WU9zTDluVlpTaV9hc3AySElGTU9LT2gtVEtqbFBzdGlQX21ZXy1QZFZ2LTRmVUF3ZHB3eFVLcUozSDhadkVrczlXRzJiTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783676095165",
+          "date": "2026-07-10",
+          "title": "World Cup 2026: England v Norway - Guehi injury, team news & Haaland on pressure - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nVkJLTmRQSDFLS3lGcFhpY2k2dTJheERiMExyMm8xV2JaZGVxLVhPMWVHc3FFdnpYSW95N1RzbFNpeEV4elhsMVJydmxJb25XdXhlb0NKelVGU1NtaktYdFZn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783676095165",
+          "date": "2026-07-10",
+          "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzNvZGNVeTU0TkI3b2c3bk1RTTdkUWZyZ09DcjJtWldnUW5QMzRvWUFWNXRHMWdEYkdQY240eVRzNndFR2l6T185c2RiaXJMY3ZBaEFRQTQ4eTU2bkd5c3pWTFdrYThldEFOX3ZNeDZ4U21nMkxJcmI0eXRRcDc3eGlHWkotcXJzZzAtdjBmVEEtLUQ1U2xCODRVNExrWXQ4d0FJZXVnWnphXzN4TWFFOTA0eF9TWEc5NGh6YjNnaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783676095165",
+          "date": "2026-07-10",
+          "title": "World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRVdTc1FVa0VqNHdRZ21FYks3bFU3My14bjBBVXNISDVqTVhJelVWdXN1Rm5ncWhzSlRwLWtnMTRaNndYdWRhSDNUTHZKb1hvalJtalhybF9ocmhNandydUpRM0Nzd0NidTdBXzRhaUpYbHN5Q1hhZmFEZHF2V1BSTjNTeW5DSWY4NGV2MFNES3FGWGNFRmFMalBfckpPLXp6RnJwWFgyd2JtNXhxVFBSSkU1OTNGWHRmZHh6djdrekM0TzFNbC15VHV2aVR0aHphUV9xX3hONEU4SzhvUkRiNnFpUQ?oc=5",
           "draft": true
         }
       ]
