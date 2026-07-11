@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-10T22:02:37.525Z",
+  "lastUpdated": "2026-07-11T02:37:55.011Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 196,
+      "chapterCount": 197,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1585,6 +1585,14 @@
           "title": "FIFA World Cup 2026 stats: Messi passes Mbappe, beats Maradona, sets multiple records; Switzerland's 72 longest-ever in history - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQd05Vemt1eG1RcTNZWGU5bkFrMV9nck5MOE1SQWNBanlqRmZib3VjTUltV1o0d2hRSjZUYnUyaTMzOVplR2FwYXhEdXFsUDdGaWYtZHdlZlJDN3JiTmZ0SG5yTTljZktXczhHNmdnZ19CRjFCWVE2LWtoM2xBM2hCWUw1RHB0ajJaSF9oaGlvcl8xVEZzTWZRM0g5cG5iX3VubGtRT0NwS0xSVW9EZG9QSTVzTktycENyVVgwc0x3Rm5Ra0xfS2tpU2pyaUFoRUs5a2JPWkUxbU9paHFqZWpCREViV0xPVVZocUJrdmlkTXpUanRxeGQ5aVB1ZWRXWmpzTHQtMkxXZ1J0X2kyMzYtaTNRTk81UHh1WjZOaHptT1U5YU42ZUZleDdCWms0dE0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783737473101",
+          "date": "2026-07-10",
+          "title": "Argentina continue to show ‘heart’ but flaws are apparent before Switzerland clash - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGVXMldab1RKcnFIY3BsRmJLV25xZE04c3ZubkxJSmM5Q3BHZlFiY1hhOGM5eVZydHloMmc0amxHWHVjaW8xN0hMbl9Wd253MW1NTzRSZjFRVnd2UURwYW5qVktodnhWaUprNmh0NzFNTjhLZWl4U2dlSzRCdFJ1azBLNjFsZElHczZHS2NaYTB2eEM4RGRjSFVucll0SXZYVmRaY1QwdGszMmo0WDFMeEpXbUhPQjRxVjlj?oc=5",
           "draft": true
         }
       ]
@@ -3287,7 +3295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 471,
+      "chapterCount": 473,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7056,6 +7064,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjM4S1JPcmQtS1JfMld4Vl9xNkh4T3g2QjFnUDczNlpUNVpIOGhUVFNxRVVKRUN1RVlJaVdUbjljT3BRdWt3dWE3Rjk2c2JVNjhQajl6bDRCTWFUWDZpaVJMTU12MmRiQ05Ka3FBLWc1M0QwTUZXU0tkSXAtRVVCaktvaW1CSVRhakhKRUxSZkIwYmtzVUlqMURCLWdRNi1sTndRb1F4dmNFcFlLeXlSTw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783737474009",
+          "date": "2026-07-10",
+          "title": "The Summer Of Erling Haaland: Norway's Star Striker Enjoying All Of The USA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWNpZ2NzYm1HbmQ3NHdaendva05yb0tMM3NJb3MxendrU1FPNnRsZnJmdWtUelZId1ZZOVJxVHhVSC1sMEVrYl9ZSFZxakhqbzRicVA3SHVuRndWRUVkdmJxNk9BdThGanVndVY2RGFOYmx3cHRlN0Z0Mk82NEpKTkt2Y2pXMnVPanl6a3g1VTV3MnF5OW5heFFvRnNiWmxmUHfSAaIBQVVfeXFMUHF2cmlxXzVTdzI3dG8tWEF1c2VhdXRVZE11OUxmd0t5SC1FTDlORVlKTmRUUXJsTVRMZWt1QjZFOUZldnBONHFlU0dnb09scTRLYzRmREZLRTRiSkxTSTBTNC1wbHE3UG14ZDdkcGJzTFEwR3dVOWtwcW9JSlZHanBEZlZiRkMtbEtma1czNHppajExWGhqWmZCOGZtMDlBZnVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783737474009",
+          "date": "2026-07-10",
+          "title": "Belgium eliminated from World Cup after mocking Donald Trump, dominating United States - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHFtbnJQYVFrN1djQ0dzeVhaNjlNa2RiUWMzcGFVQkVrdnE0M094UFlrd0huUU9NM1dyNkJmUzhQcmtSdmpvc0Nsd29iMXhBNEVxRjdiRjBobll1RHZSekpTR2d0RDI0NWpFMUdrN3BmTWF3SXZjM05XZGVHVUoxaEszaThCazI5dThQUGxB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10760,7 +10784,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 503,
+      "chapterCount": 504,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14784,6 +14808,14 @@
           "title": "World Cup 2026: England favourites to reach semi-finals - Norway boss - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yN0VpVDJvOFltUXRJWThEZEtiZG16dzNXbkdJcFRBWlZMRDc0ekdkRXZPZWhLMFlBcXRReW5PcXBxbC1QMWR2c08xbjhrYzVqRWZwX3NwbFlWOVEtSmRGdk8ya010aUU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783737475011",
+          "date": "2026-07-10",
+          "title": "Henderson spotted with arm in cast as he rejoins England squad after injury - the-sun.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2s3UkJ4T0xVWm00Z1c4ZC1Eblhhbzk0Y3NxRmdWZzNFVVNRdExPTHJxUG1SMi1SY0szd0FLX3dERzdGeWtRTzlnbmlqUFdTT3FVQXhNNFhVYTE3YnVjZERaVDh3azA5TGVkUDRBbk9JeWswaU9Vdk41bmhqSXJ3OTBfd2Y3bmdpeEJ4M3FtRml0Yk1rRGRv?oc=5",
           "draft": true
         }
       ]
