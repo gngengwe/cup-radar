@@ -3986,7 +3986,8 @@
       "status": "finished",
       "homeScore": 2,
       "awayScore": 3,
-      "notes": "Winner R32-07 vs Winner R32-08 — Round of 16"
+      "notes": "Winner R32-07 vs Winner R32-08 — Round of 16",
+      "winner": "away"
     },
     {
       "id": "wc26-dal-03",
@@ -4074,9 +4075,9 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 1,
       "miamiMatch": true,
       "notes": "Winner R16-03 vs Winner R16-04 — Quarterfinal"
     },
@@ -4149,5 +4150,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-10T22:02:38.066Z"
+  "lastUpdated": "2026-07-11T21:49:53.523Z"
 }

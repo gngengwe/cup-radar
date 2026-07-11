@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-11T19:02:59.407Z",
+  "lastUpdated": "2026-07-11T21:49:59.246Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 200,
+      "chapterCount": 202,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1617,6 +1617,22 @@
           "title": "Lionel Messi could risk MLS ban again if Argentina reaches 2026 World Cup Final - bolavip.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFBSQ2x3TUJfX3BjV3lQdnI5bTBvUTBZOEZxUEh6TDZoRFh5SlR2U2ZNTXcwbm93OVNuTVluSVhWSE5WN0VjR1VkM0U0S0M3ZDhSbGhwR3FTSFZQUHZ2YmM4ZHdaVzhWM2U3RnJ2TDdmV1B2Y1RsWnl2T2NYbHNiZlJIYW9leW1uUG1CMVFyLXZMYnhSVlNoOXZsUU1FaVI5Mms1MUY2b29rNmPSAbABQVVfeXFMTkFlNV80cWdkYl93M0NPU1BYRmFkamtBV3lpeUZKX2MtR3lvRU5xdEkzN200MkJ2SzBMY0VMV3YyS1Mxek1TVVV2dXJab0QxRndldFMwT3oxTFFxYUppbXNuYmtJZFF2dW9MQjdrM1h1NzFhSDFZOW1JeWxtMkNQVGs0X1NXZ2hXRG1PcHJzUGpXWG9SdEo2dEhOdDF3Q0RubWd1WF9SN2daTUppOTVNcHM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783806596779",
+          "date": "2026-07-11",
+          "title": "Messi set to start as Argentina’s World Cup defence continues against Switzerland: Live updates - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkpGcTBmN1h3b2tPYkttMXNSRXZxaDZyeVFJM3pOelkyTXBWdGNMc2lrcGp1WV9tRkRuRHpKNWpVa1d1ZGxPcUY0TlozeHo4X3g4NzlqY19tejd3YjFrZVk1c3lhemMwdVZWcVdiNHhOVG9PSHVSdXJWLWpEVlU4VXhTcjBvelYwQS11M25iMG5fOUlaTXBxVGN2akMtMGZjNmdXTWFtd2c4QmJDQTIxRFFvOU1GdDByb0JvZEx1MVVBZW8wQmNlQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783806596779",
+          "date": "2026-07-10",
+          "title": "Argentina vs Switzerland football, FIFA World Cup 2026: Know ARG vs SUI match time and watch live streaming and telecast in India - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmZaRHpwQ2p3QVhTdHh4WmJEQk4wYzRWOWFOZmtkVVZpRW5YZloyeUN1SGpIX0Rtc3dOZi1QVnB1eV81WUQ2Y0tua1JfaDQySHV1WHRaN09WMy1rdEoyUzBnUjRhOGZUTXNCcnhJQ21XZll5WjlBRV9IWjBWYUFORGxiM0kteGZfcUwyaUwzbklOOEpUSUtybVhfcjY4Qnhkc1VrWVk1U05RblU?oc=5",
           "draft": true
         }
       ]
@@ -3343,7 +3359,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 478,
+      "chapterCount": 479,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7168,6 +7184,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZWxjcHdSUjFzMnpEaDFqM2huSk5DUzRHYW82MG1fcWhKaVRWMTdMTk5OU3BEYTVPNEhGc05VaUtKZEZybjBna2dBRkhTUDZNekU4MzNYSm1SdEowZF9GMVhyVGlfWVE1MlctVkhDTWpQWkE5XzJMczlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783806597766",
+          "date": "2026-07-11",
+          "title": "The World Cup has upended the old world order – and despite Trump and Infantino, it still inspires | Simon Tisdall - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDhhcVdOSkdoaW52VmNMYy1sQ3R0TVoya25LOGstT1pOT251QV9TYkhoUGZpT2NDR3VsX0JuUjFUd0FqaTJsbUpOODhlVHc1NXcwcE5ZRl9VUTlxUllaLVdGVW9FWmR0Vk5ZMGpfSHVFUXAwMXZPQ3ptc3g3TUd0WnJqWjYxY1UzTHBheHNaQ0lJYWNUeUE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7186,7 +7210,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 439,
+      "chapterCount": 440,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10699,6 +10723,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnJoYVVKd2tYdFNueGJaSFV0Tm1UbGFpdVo1d21JNDBfOFBXSURNUjhSTkZYbS1Na0J4Q2hQM3NnT2RqcnRsakswWVpUM0xERFVBN01yVUN3OEpFWW9wWEwyZ2lHbkVrekJPQlRCbm9pY3BZR1d1WmtDX2llVEdabjNENVd0c3ktTEl6YTNaU09vRVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783806598522",
+          "date": "2026-07-11",
+          "title": "Norway vs England | Latest - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXdOSDlrWWhDMEk2Zk40TjdzTml1WXRpVm9oRDRCeEF6TzNHMzFnb1MzeHFwb1JySUJVSWVMWHhILXAtS2YwYUJjZ3ByeVdfbmxmRllYMElyN0Z2X1hibkR0cGRXT19UOVZrTFRWR1VaSGk5YTVOVGZUVklqUHRyeXVBTnIyZ0dMcU8xZm9wR19KNnp6ZzFCUEtPeDZDWkh1Z1V4aWs4ZnpxSHlhX2NpSzZnbUw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10928,7 +10960,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 519,
+      "chapterCount": 524,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15080,6 +15112,46 @@
           "title": "Ballard's Norwegian pride on display with Norway in World Cup quarterfinals - The Seattle Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVo4b2wzTlJ6bmNFU3NZd1BtYUlMVVBMem9TVVdYUV9sVVlzZk1KNExyb0pqVFJEVWpKNUFWaVJiUnJGM1NqWWcyeTNvSGF3enpJX0U5RDVHT2Q0QWFJNW5yTG5GV1NKbnJhNVg3Y21ldG1uenRSX1JJSXVKeU5WaHN4MG9HZXl6MmEyYURwUE4xRmpwcHZ3NlRzNFl4LWt0c3NlT2hpd3lkUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783806599246",
+          "date": "2026-07-11",
+          "title": "Norway vs. England LIVE: World Cup 2026 updates as Harry Kane and Erling Haaland face off - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0hWUC1CcFZwVEVCTW5Bdmo5MTJjbngyRUxXaENZXy0yd00yemNMYXFsSXB1bHdXZ0JKZ0xpSVh3LTZ1cGJtRTB3LWU4S3VtZ0NIWUpHX19iU3lfUW5WY29OOUs1bFpiUHgxc1ZqaE5MN0R5MW1UV0IyODN2dFJ1RjhmdW03dFppZDdhbDFZQWFuQTFrUDU4NjFXQndlU0g4R2xQMC1lRzBxejYwTjRFeTRqUG5Cd2JiR19DTFRBcWU0R2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783806599246",
+          "date": "2026-07-11",
+          "title": "Norway vs. England (11 Jul, 2026) Live Score - ESPN (UK) - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tTGtNZ0h1S3IzbEVlMmp4SVJjdGY3WVZXcEg0RXBnbkNKUnJwNWZFZmtQRGlvcWxpd09KdEFnQXNVaUVIWk9Ba0YwdktRSVhYYTJoaXl6cm1aY1R5S3d4TENNMA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783806599246",
+          "date": "2026-07-11",
+          "title": "Norway vs. England: Stream FIFA World Cup 2026 Match Live for Free - CNET",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamxySXFmbDJwRS1fUXNTV3NDYWtVZExPVHRvUjNBZHdKa2pTRDNEWnFfODBHeTVJNURqTURyZFBVbXR5OTdYUkJ2MDRUUDNrY0R5R29ac3I3eDJuTk9fSUhnX1owakxpS0FaYnAzRUVBVGFTZDM5YkhHc1Y2Z1ctdHVnSm1xc1hmNWgzY0hMNF9fS1FCaGF3dWxUTFYtZ2xtZzJtQ2ozUDA5QlAwX21MRHYxUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783806599246",
+          "date": "2026-07-11",
+          "title": "$%$#@![fREE@Ｓｔｒｅａｍs] England vs. Norway Live Free FIFA World Cup 2026 Football 12 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPdzJXbG1nX1FfSWpxeWJZanBUNkdjRVJUSHRzaGVXX1o4bmwyaHlycUthdkFRR3BJRjJYOHJVQUdLQnJSNGFvMC1uVVgxZG52VGs2S1p4elZWVlFFQ0JhUjdZODhBenFXTTlOYXhkMHJOYjVibnFnb29rZWFSMER6MUlHS1l4XzFaTktPQVRuS2VLNDA4VFVYeEc3aHJteXVxa3U0alFKeVVxdHc0SlpFcnpGOUJQZENfYnM5cTJLMk8zYlVQZUdSWmhJOVp6RUxVUmVqenZPLVZ3bF9fVWhMajlnRTRuTGE0dzJpMV9TWi1aRThZdDdtUm9qcGk4bW51ck1KeF9DemNianV1OU5iZUl5UHJtT2ZqcnlCZUplTEV0Q3MxckdySGRZeW5rUkRBbjQ4UzcxUnF1Z2lKZHpxSmNoVF9Xb1gxUzZoLXNBWHFXQW9kMFhfYk5jMW9EZndMemkwakYyQXZUUHNJSzh4cjFWM1NES0lqUUt2SW9SX05jZ0xiZi1vYmRtY0ZudG9PM2loTm1RX2w3SWRWTE5QZG5yOVZxT3MwQm10d3pIeHhENkNiVkZEbU8ybVo0bnJncjRNdXZuTl8wVzk3UEJHR18tUk5HOExBd3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783806599246",
+          "date": "2026-07-11",
+          "title": "Norway vs. England - Live Score - July 11, 2026 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzZZNWhaRVFzUkNMZFJ5eTRNb1V2NUFqOHVUWTl3QzUzTlJzVHdWS0RjUTRVcC1uRlBwelBXTUppZnF2dGpUdV9UVWkyMVppWGFPZ1lraFlCdEZuN1BoU2xMWHFxMm1JSjdSa1NNRGxNYVpMMlNCdEpCcWVIYW5mdkhVTm8xY1FFZzFRUlRxWW9ib0RCbzk2UUttY0hnOXdRN2I0aQ?oc=5",
           "draft": true
         }
       ]
