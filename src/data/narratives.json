@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-11T02:37:55.011Z",
+  "lastUpdated": "2026-07-11T05:40:59.170Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3295,7 +3295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 473,
+      "chapterCount": 474,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7080,6 +7080,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHFtbnJQYVFrN1djQ0dzeVhaNjlNa2RiUWMzcGFVQkVrdnE0M094UFlrd0huUU9NM1dyNkJmUzhQcmtSdmpvc0Nsd29iMXhBNEVxRjdiRjBobll1RHZSekpTR2d0RDI0NWpFMUdrN3BmTWF3SXZjM05XZGVHVUoxaEszaThCazI5dThQUGxB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783748457857",
+          "date": "2026-07-10",
+          "title": "U.S. soccer’s ‘pay-to-play’ problem: The lightning-rod issue explained in a World Cup context - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0loWHNvaVNNay0tYk5KTVpnamxDVHZrWDBxNnNUODl1SDRsQUt1OExMeFFxT1FOYXluZjJvc0xhX3JFblBUaVp5T05CT0cxNUtLZnY0YkYtY3R1V3NmdnE3LUVnMlRsZGd4RWhuYl90WU5NVlVuc1FNTWxSQkFTalpCQ3hQeXdmcDM2TGpXWTM3Y2oyVGdMd3EzNjc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7098,7 +7106,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 432,
+      "chapterCount": 433,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10555,6 +10563,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYy11b1p2YTdCSEh2a0xsM090VXRoWHJrQy1HNk8wR3VxMzBaXzFZMXpQSzVmUi1ySjdPcTZ2Rm50Nko2ZThvZDVCV3AzN1JLNkZoemNqVUM3N3k4eHQ1TlZTZE1BUWxITTk0Z1BTTWdtMWhRN09VdDg5THZTR2tTRmZYUmNhekdSR1hVY0Q2V2s0OFRydGl0bDhpc29FeDdCY0w1X3NabG9fcVJRYkdzbTAzdmM2aV9NazFDZFI1M1hmNmFQZmdGRGZWMWFYVG5ILTFmdzUtQVNENjdNZUJBTWFvMXljNVhrTGtTX1l5Nk1laXBlS0s2Q2ttZUdLRk1nUHBLMHg1d1ZQZGs?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783748458511",
+          "date": "2026-07-11",
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 10 - Mashable",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT284U3BtVFJuSWxfQk1TQnNkbGs3TV85WjJ6cDJWQmw3VkVQbmdrSHZJZEZtQm93RDBNYmJPZjB3ZnZkUmhIQV82RmZIbW9ZSzZIdnc0ZEhKM2lHS2FUQ2I3dWh6VDZQWmFTZzgteWpUdTRMbkk0czNPRWxjaENhVDJ1Nl9WSXl1VVRvR3EtRGp0T25SZWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10784,7 +10800,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 504,
+      "chapterCount": 506,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -14816,6 +14832,22 @@
           "title": "Henderson spotted with arm in cast as he rejoins England squad after injury - the-sun.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2s3UkJ4T0xVWm00Z1c4ZC1Eblhhbzk0Y3NxRmdWZzNFVVNRdExPTHJxUG1SMi1SY0szd0FLX3dERzdGeWtRTzlnbmlqUFdTT3FVQXhNNFhVYTE3YnVjZERaVDh3azA5TGVkUDRBbk9JeWswaU9Vdk41bmhqSXJ3OTBfd2Y3bmdpeEJ4M3FtRml0Yk1rRGRv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783748459170",
+          "date": "2026-07-11",
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 10 - Mashable",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT284U3BtVFJuSWxfQk1TQnNkbGs3TV85WjJ6cDJWQmw3VkVQbmdrSHZJZEZtQm93RDBNYmJPZjB3ZnZkUmhIQV82RmZIbW9ZSzZIdnc0ZEhKM2lHS2FUQ2I3dWh6VDZQWmFTZzgteWpUdTRMbkk0czNPRWxjaENhVDJ1Nl9WSXl1VVRvR3EtRGp0T25SZWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783748459170",
+          "date": "2026-07-11",
+          "title": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHpfdi11U3RwNFJ4d0Jmdk1GSXNOdzhFOVRRVnRwNW9PY1BVM09QNy1saHFua3pkaXZEUjFxZUw4Yy1BQlhkblRkbDFYbGw5bmtQYTNuenJ4czFDdVVjb015ak1kWXNqRzh0V295LU5YMUt2MVFMQU5QWGVtMW9FRXg5bVBjV2UwSFZJSzRZOF9RUl9aUmc2d2lBanJTUklFbW14UlBjOTY1SDNKaHF4Tzh3R1bSAboBQVVfeXFMT1VpMGR5T3d4RTdPX3ZGR19IUWQ0eThCYXBQZWdrdGZmcVg3bUFwd2czMEZ3cElBT3IzRDRkX0RHZ1VJRUFZdjBVLUZ0d1lpQXdlUmpQQjdtbmJNZE91QTdxNEhoU2dUQmY0UWxhTy1waUkwc2p2eXRQR3BwdFNEMXloTC02REtKZVlNaG16MlVyZlNqQURBVG1LRi0wYTBzRTVyYXJsQlF4eFpVMGZUblpCRV9xei1JQ3dn?oc=5",
           "draft": true
         }
       ]
