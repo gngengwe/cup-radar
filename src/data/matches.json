@@ -890,8 +890,8 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "live",
-      "homeScore": 1,
+      "status": "finished",
+      "homeScore": 3,
       "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": true,
@@ -2377,12 +2377,12 @@
       "date": "2026-07-15",
       "time": "15:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "England",
+      "homeCode": "ENG",
+      "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "awayTeam": "Argentina",
+      "awayCode": "ARG",
+      "awayFlag": "🇦🇷",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "cityCode": "ATL",
@@ -4167,5 +4167,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-12T02:45:29.747Z"
+  "lastUpdated": "2026-07-12T05:58:38.678Z"
 }
