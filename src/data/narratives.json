@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-12T19:05:37.346Z",
+  "lastUpdated": "2026-07-12T21:50:29.681Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7450,7 +7450,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 449,
+      "chapterCount": 450,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -11043,6 +11043,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjdSejdZdHRRM1QwSm5nNHVraWF2T2dkaGMxSGJ0RUUyUEUyLUVrNmp0OENOZW81Q3ZOZHc1Q1FBUktWXy1IZkRmdmtkSFNfUF9DRmFrMEM5QW5UTjNfbGxvZnFrYllpMUFZUVhOTVU4RzV3QTNVeHpWdWx3dllwb2tB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783893029155",
+          "date": "2026-07-12",
+          "title": "VIDEO: Was Neymar ever fit enough for 2026 World Cup duty? Brazil’s all-time leading goalscorer spotted riding mobility scooter around Universal Orlando theme park - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWjdmMmhETmJnMEJZRDZRejZPWjhBZTc2THF5ZTUwUDNNS3NPN1NHM1RpLWtXb1o4R3l5amhuUFY2NThITXRKTkhGdGk2VnRJbVoyOWE3QmxoWjVrWWZyMVFxRnpsaE5CSGZiMjRtRUNodkRPdUM0QWcwbVNtSlZaQXI0VDJtXzJqY3VfMzMxN3ZqQkpLRlVwb3hRNm5YeXd6TW94eHllNk9pUTB1bFBwNHY1RDVyRWNseGxyVUFOTzdlV2h0Sl9lTUxiS0RwUUZkTjQ2YkwtSWlNQjIya0l2YVdnT0tFd1VfU3ZTel96TkN4SzhCc2lQRnJwMnAtakJyYUpoMXd1c2gtU1VTVFVxYm1oSzRTZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11272,7 +11280,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 545,
+      "chapterCount": 547,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15632,6 +15640,22 @@
           "title": "Do England or Argentina have enough to challenge in final? Re-ranking the World Cup teams with four games left - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWEydlZLbHFkaGRsMXdQZXpiZ0FoSXNhVGs4NlNnekg2WUE0RzNtb3ZhSS0xenJCLTZkZVRnYnRZbnh6V19hM0hRVkRmVm5yRmJYb0d5WXZISE9LN2MxbHBlczljaWNFWWV1QUd5aUNOLXB5a3lKSmJXUmpEenlaa2xXcndRaUdoNFl3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783893029681",
+          "date": "2026-07-12",
+          "title": "World Cup semifinals: What you need to know, predictions, odds - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnl4dWIzMmR4bkdyeWZyWXVGdjlpMFpfdzBsQllOc3g4anVIbS1oQ0oxa2o2bjNZb0FLUUlDSVFKMHB5TjQ2Ql9rc0Vqc3FSYW1lWlB1TkxOYU1TUy1zelRndlZGazhnMVNyZklqMFFjY2VHSS1kdEktdnJfNF92SGVRUlRjMFNyWFg2S2tOMU9GUmdjWUNsVFFQRVlSRGcwZTJ0Z3hGREZ4QXZVQVhWZkV2bW0yS3RaMlJnMDYtdzkwRHhZWTVn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783893029681",
+          "date": "2026-07-12",
+          "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5",
           "draft": true
         }
       ]
