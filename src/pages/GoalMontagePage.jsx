@@ -349,6 +349,7 @@ export default function GoalMontagePage() {
                       <span className="badge badge--accent">{shareMode ? 'Shared Goal' : 'Goal Story'}</span>
                       <span className="badge">{getStageChip(activeGoal)}</span>
                       {activeGoal.isOwnGoal && <span className="badge">Own Goal</span>}
+                      {activeGoal.note === 'pen' && <span className="badge">Penalty</span>}
                     </div>
                     <span className="goal-radar-page__story-hint">
                       {reducedMotion ? 'Tap the reel below to jump around.' : 'Swipe left or right, or let the montage run.'}

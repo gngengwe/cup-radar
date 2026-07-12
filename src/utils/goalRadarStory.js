@@ -19,6 +19,7 @@ export function getTopCities(cityCounts, limit = 5) {
 export function getGoalMomentCopy(goal) {
   if (!goal) return '';
 
+  const isPen = goal.note === 'pen';
   const beforeLevel = goal.homeScoreBefore === goal.awayScoreBefore;
   const afterLevel = goal.homeScoreAfter === goal.awayScoreAfter;
   const scoringSide = goal.team === goal.homeTeam ? 'home' : 'away';
@@ -26,19 +27,30 @@ export function getGoalMomentCopy(goal) {
     ? goal.homeScoreBefore < goal.awayScoreBefore
     : goal.awayScoreBefore < goal.homeScoreBefore;
 
+  const verb = isPen ? 'converts from the spot to level' : 'levels';
+  const putAhead = isPen ? 'steps up and converts from 12 yards' : `puts ${goal.team} ahead`;
+
   if (afterLevel) {
-    return `${goal.player} levels it at ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
+    return isPen
+      ? `${goal.player} converts from the spot — ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`
+      : `${goal.player} levels it at ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
   }
 
   if (beforeLevel) {
-    return `${goal.player} puts ${goal.team} ahead ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
+    return isPen
+      ? `${goal.player} steps up and converts — ${goal.team} lead ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`
+      : `${goal.player} puts ${goal.team} ahead ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
   }
 
   if (wasTrailing) {
-    return `${goal.player} pulls ${goal.team} back into it at ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
+    return isPen
+      ? `${goal.player} pulls ${goal.team} back into it from the spot — ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`
+      : `${goal.player} pulls ${goal.team} back into it at ${goal.homeScoreAfter}-${goal.awayScoreAfter}.`;
   }
 
-  return `${goal.player} makes it ${goal.homeScoreAfter}-${goal.awayScoreAfter} for ${goal.team}.`;
+  return isPen
+    ? `${goal.player} adds a penalty — ${goal.homeScoreAfter}-${goal.awayScoreAfter} for ${goal.team}.`
+    : `${goal.player} makes it ${goal.homeScoreAfter}-${goal.awayScoreAfter} for ${goal.team}.`;
 }
 
 export function getCityHeadline(goal, cityCounts) {
@@ -52,6 +64,6 @@ export function getCityHeadline(goal, cityCounts) {
 
 export function getShareText(goal) {
   if (!goal) return '';
-  const note = goal.isOwnGoal ? ' (own goal)' : '';
+  const note = goal.isOwnGoal ? ' (own goal)' : goal.note === 'pen' ? ' (pen)' : '';
   return `${goal.player}${note} ${goal.minute}' - ${goal.homeTeam} ${goal.homeScoreAfter}-${goal.awayScoreAfter} ${goal.awayTeam} in ${goal.city}`;
 }
