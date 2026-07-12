@@ -890,9 +890,9 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 1,
       "seattleMatch": false,
       "kcMatch": true,
       "notes": "Quarterfinal at Kansas City Stadium — Elite 8 of the World Cup"
@@ -4075,11 +4075,28 @@
       "group": null,
       "stage": "Quarterfinal",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "miamiMatch": true,
-      "notes": "Winner R16-03 vs Winner R16-04 — Quarterfinal"
+      "notes": "Winner R16-03 vs Winner R16-04 — Quarterfinal",
+      "goals": [
+        {
+          "minute": 36,
+          "team": "home",
+          "player": "Andreas Schjelderup"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "player": "Jude Bellingham"
+        },
+        {
+          "minute": 93,
+          "team": "away",
+          "player": "Jude Bellingham"
+        }
+      ]
     },
     {
       "id": "wc26-dal-04",
@@ -4150,5 +4167,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-11T21:49:53.523Z"
+  "lastUpdated": "2026-07-12T02:45:29.747Z"
 }

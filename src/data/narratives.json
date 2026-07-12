@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-11T21:49:59.246Z",
+  "lastUpdated": "2026-07-12T02:45:29.381Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 202,
+      "chapterCount": 205,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1633,6 +1633,30 @@
           "title": "Argentina vs Switzerland football, FIFA World Cup 2026: Know ARG vs SUI match time and watch live streaming and telecast in India - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmZaRHpwQ2p3QVhTdHh4WmJEQk4wYzRWOWFOZmtkVVZpRW5YZloyeUN1SGpIX0Rtc3dOZi1QVnB1eV81WUQ2Y0tua1JfaDQySHV1WHRaN09WMy1rdEoyUzBnUjRhOGZUTXNCcnhJQ21XZll5WjlBRV9IWjBWYUFORGxiM0kteGZfcUwyaUwzbklOOEpUSUtybVhfcjY4Qnhkc1VrWVk1U05RblU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783824327224",
+          "date": "2026-07-12",
+          "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1B4LVZvZ3lTNlFjc0ItQXNsMXFscEluNUc0TVJmZ1phQkZzZkNPQ1V6ZGMwbmxPRXdxWDdpZnBGbEZKVTJ6SklfbGN5RmtvNElDZ0p5UHBNdnFfemZiSEt2NFNHeWhOUUNjeWE0VGYtSzdSWHduYTZxYS05OW1ZZ05KNElkS05DME5JQmRXSGtFTllNUmRqTzZlTUNhLTdqM3Rz0gGoAUFVX3lxTE5IRm1yQUotclhTNGdRb3ZWVE1QdW9HR1g0UDZSUW1OeWtlTTBjQjU2b2ZSblBhZGFtMEd3WExPdHUtYm83QmhGeGQ1cTIzUVBmWW13cEg1NnBQQm5tWV9fTTN5YWhqM1ExNVBIajZzRmVUbHhTaW5saFNLT2w1Mk53M0FQRldlS3ZtSldxZ2dMUHk1ZW9PTTRwalY3ZUR2eXZUemxOSTNVcQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783824327224",
+          "date": "2026-07-11",
+          "title": "Argentina vs. Switzerland LIVE: World Cup 2026 updates as Messi and co. aim for semifinals - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU082NHpBY3NZd05wcnd2SDM2VXNrSmdaZFFMMFhTY2tRdXJmd2pSSFdnWVZrazdaXzUzVkRxck9WbnBQVUpKTTZZeXFVWWJ4UkVsS2hVSmE3c0Jnc21laXdRdVU4UnhTUTd6aWR4ekFoRU9HSF96dTB3b1R0NlFjTEt4TU50VFdFMGxrSXBhZXZ5MXVjdkY4VnRmbnpCOVgxTzh4NE1MQ29QRzVySVd3ZUdsazZ6Tkp2N3doSGtMajg0dWctdDNOX2M3MVNaRVdKbktuZ0pMTjQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783824327224",
+          "date": "2026-07-11",
+          "title": "Argentina vs Switzerland: Confirmed lineups with Lionel Messi for 2026 World Cup QF - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTl9iYUZJS3R1QkNwcHNFT3RkVVRwbTNjWWpCdnliM29XQXl5SEpnU3B4Z2xoQkIzc3BrVElrcG5JMEZqSjNuRkxNR29faWwtQkR2NEFUWHdqbFU4dUlfMUVuZ3dITDRVNTVrdjBPdW5LUkNIY005S2FSOHloVGpNalBWSENmZjVFUjJwLTM3VEROVzVBTnpFODVJOEVmX2FkZ0tDSFgxYzFtUHYtbjRSUVJrVGVLZ9IBuwFBVV95cUxON2x5MGIwNFZJeGdRWFR2WkN5MGt4UV9pOTJfSDc5dzRLeU9TamRKWHktRm9BX3FrRUY1QlF0LW1oTW1IdkxCeEpiTnVESmxROGxtbHV1N2ZMNU1Rb216a2JQZXhXcl9WRk5qZGxfLTFLdlJlN1I5ZlZwZFViNFNFd2FfN19HUThBc0h1VVFlQ3ZvSWVhcVF4V3pFNHBIbHpUNmlDQ2NnWF94RzRKbldmemE5VElfZ1hoakpV?oc=5",
           "draft": true
         }
       ]
@@ -3359,7 +3383,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 479,
+      "chapterCount": 480,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7192,6 +7216,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDhhcVdOSkdoaW52VmNMYy1sQ3R0TVoya25LOGstT1pOT251QV9TYkhoUGZpT2NDR3VsX0JuUjFUd0FqaTJsbUpOODhlVHc1NXcwcE5ZRl9VUTlxUllaLVdGVW9FWmR0Vk5ZMGpfSHVFUXAwMXZPQ3ptc3g3TUd0WnJqWjYxY1UzTHBheHNaQ0lJYWNUeUE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783824328315",
+          "date": "2026-07-12",
+          "title": "How to stream World Cup free today, Argentina vs. Switzerland free stream - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVNpMEZ5YnJRNUkzRk9ZdnVyeThjckxCb09ZYkZxSmxuNGduSXRMcVJZZGdnS19kalY2c0FvM25mRGlYWmZ4bWF3UENKb1ZycC1kaDZHUWFqZEhXaFRhbjNDYlNIb3Y4aFg3emV5bm9QUjFxQktqNnNKRG1nb2FIRWZOTTMzNzV2cHBRVkVxbGhob09RM1NmY2VtZFBHc3lhbXU0ckhQSTloa0tQVzZ2MUhvV2dtV25jUHdlNHdpc2dKTTNPbEh3U0R3d0VnREx0RmRmWURYMlZabnc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7210,7 +7242,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 440,
+      "chapterCount": 442,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -10731,6 +10763,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXdOSDlrWWhDMEk2Zk40TjdzTml1WXRpVm9oRDRCeEF6TzNHMzFnb1MzeHFwb1JySUJVSWVMWHhILXAtS2YwYUJjZ3ByeVdfbmxmRllYMElyN0Z2X1hibkR0cGRXT19UOVZrTFRWR1VaSGk5YTVOVGZUVklqUHRyeXVBTnIyZ0dMcU8xZm9wR19KNnp6ZzFCUEtPeDZDWkh1Z1V4aWs4ZnpxSHlhX2NpSzZnbUw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783824328826",
+          "date": "2026-07-12",
+          "title": "Neymar Jr. Enters 2026 World Series of Poker After Brazil's 2026 World Cup Exit - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0VkUHJqcUlQcGh2YVJyVEE0RkpYbzcwVnk3WkxZcEJnYU5kdU9oS1BKRS0tdl9BX0x1dFNrS1pFR3lrMkVDY0pDaXFXLTdCSlpwT2dsbUVKRUhpV3VzbHJwOGxmNHpnalV3dDc5MDdYZTFWUTR6QkE3dFdLMGZGWmZxSC0xYl83UTR1SjZWTW92S1pqaEY1cXFBT09FUzg0TDljYVo2bHllSGlmR3gzTE1mYlBuSjZmNC1B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783824328826",
+          "date": "2026-07-05",
+          "title": "Brazil 1-2 Norway: World Cup 2026 last 16 – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXJ3UkRZVlpaa0tpTUloMlpMQmY2bzlsTFBSODAxdEgzWWctbUlYNFE3bU1WOXJEOGhDYk9TbjlicC1lWGx1S2Npd3NqX0tnWUZaVEgzOFFUWElJV2M4N0dINkFmUkRVbGphVkQ4SDRfWkpuRkpHbU5vak9IdmJ3VUlhdlRpUE5QYW1GYWJNdFkzUUlrakowUU1uMWhPQ3JLZ2lkSzdtQW5PbFdsa2dDXzhEOVpmTWhxQUZLWUkxaHJkOHZFcmYzS3p1Wk1HdV95dzJYQi0wNA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10960,7 +11008,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 524,
+      "chapterCount": 528,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15153,6 +15201,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzZZNWhaRVFzUkNMZFJ5eTRNb1V2NUFqOHVUWTl3QzUzTlJzVHdWS0RjUTRVcC1uRlBwelBXTUppZnF2dGpUdV9UVWkyMVppWGFPZ1lraFlCdEZuN1BoU2xMWHFxMm1JSjdSa1NNRGxNYVpMMlNCdEpCcWVIYW5mdkhVTm8xY1FFZzFRUlRxWW9ib0RCbzk2UUttY0hnOXdRN2I0aQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-mia-02",
+          "date": "2026-07-11",
+          "title": "England beat Norway 2-1 at Hard Rock Stadium, Miami Gardens, FL.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-008-1783824329381",
+          "date": "2026-07-11",
+          "title": "Norway vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VjVLc25FNk1TenByc2lEa0QzYV9EUHl2M05YWnRaWEdKTjdwTnN2MnNRSWFJVk9TSFVTcS16dVpGMnAwbUNaV3N3Y3U2X2x2RXJqYV9HSzlTQlgxQS1raGNB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783824329381",
+          "date": "2026-07-12",
+          "title": "World Cup 2026 live updates: England beats Norway 2-1 in extra time; Argentina takes early lead against Switzerland - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYklLMFdxQnQ4aG5ZRHJ5OXhqdXIwenc5UERvUklPN0hiR1JlUEp5YTJYNlpVbWl4c2dnaXpaWGMzZC1Xbm5BNkZWT0lETG9kNDRuaWdab0lKVDh6cnZ3S2VybFU5dG93UkhvaVU1S0hwY2hGNnBNNUhOZXNwb1h5MWQ0Z3NWR2J4Z1loTXB4R0hRNEJEN2ZWQ2ZxTHpWVjFTOHBmcWtUQzc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783824329381",
+          "date": "2026-07-11",
+          "title": "Norway vs. England LIVE: World Cup 2026 updates as Harry Kane and Erling Haaland face off - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjNWcVVDdFNPcnliNTQ3YzUyM2N6WmN6bk5aUnpnZGJsQ3dyZUZVZl83OWdZWm42aG8xZG1xeXdRbDR1WC1JTVE1Nkg2bC13Q3pmNlRCOERHT3VpSUctcWZocm42MElhQWZpYWJMMGNYQXpaLWI5dmhKVjlRY0VWY1FvQnk0LXpEcEVjYzE4UlR0WGtLVmlpQkNlTmF6N2hJYlhoZVk1ZHQyQlJQRU05MEhYbmFDVzlJNFdnUHVn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15246,7 +15326,7 @@
       "emotionalStake": 5,
       "summary": "Erling Haaland is 25 years old, the best striker on the planet, and this is his first senior World Cup. Norway are in Group I alongside France. The defining image of the 2026 tournament may be Haaland scoring against the defending runners-up. This is what everyone is waiting for.",
       "watchFor": "Does Haaland finally get to show the world what he can do in a World Cup? Can Norway — a nation that has never reached a World Cup final — use him as a launching pad to go further than anyone expects?",
-      "chapterCount": 5,
+      "chapterCount": 6,
       "chapters": [
         {
           "id": "ch-result-wc26-015",
@@ -15284,6 +15364,14 @@
           "id": "ch-result-wc26-nyc-02",
           "date": "2026-07-05",
           "title": "Norway beat Brazil 2-1 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-result-wc26-mia-02",
+          "date": "2026-07-11",
+          "title": "England beat Norway 2-1 at Hard Rock Stadium, Miami Gardens, FL.",
           "body": "",
           "sourceLink": "",
           "draft": false
