@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-12T10:28:01.234Z",
+  "lastUpdated": "2026-07-12T13:18:52.113Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-semifinals-what-you-need-to-kn-2026-07-12",
+      "headline": "World Cup semifinals: What you need to know, predictions, odds - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnl4dWIzMmR4bkdyeWZyWXVGdjlpMFpfdzBsQllOc3g4anVIbS1oQ0oxa2o2bjNZb0FLUUlDSVFKMHB5TjQ2Ql9rc0Vqc3FSYW1lWlB1TkxOYU1TUy1zelRndlZGazhnMVNyZklqMFFjY2VHSS1kdEktdnJfNF92SGVRUlRjMFNyWFg2S2tOMU9GUmdjWUNsVFFQRVlSRGcwZTJ0Z3hGREZ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnl4dWIzMmR4bkdyeWZyWXVGdjlpMFpfdzBsQllOc3g4anVIbS1oQ0oxa2o2bjNZb0FLUUlDSVFKMHB5TjQ2Ql9rc0Vqc3FSYW1lWlB1TkxOYU1TUy1zelRndlZGazhnMVNyZklqMFFjY2VHSS1kdEktdnJfNF92SGVRUlRjMFNyWFg2S2tOMU9GUmdjWUNsVFFQRVlSRGcwZTJ0Z3hGREZ4QXZVQVhWZkV2bW0yS3RaMlJnMDYtdzkwRHhZWTVn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-to-examine-64-team-world-cup-expans-2026-07-12",
+      "headline": "FIFA to examine 64-team World Cup expansion before 2030 tournament – Gianni Infantino - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXgtTFZZV3BzcHhJdm52SzJ1NUY1Y1dGajhoMlZFVUloRzNVaEVuR2tXNk9lQTF2eVpkOHZ3aGVpQlAtSThZV1hqYVVuc0NYdHpYa1NyOV9qeG5oTzR5QU9rUGRRVFp5RTFKd2VwUFhXY3ZQMmRyWUFrZ0RVaVdEMG42TTFiRE5TUGN5Q3FlVlRjWnNHSXZzdkJxMGQ?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXgtTFZZV3BzcHhJdm52SzJ1NUY1Y1dGajhoMlZFVUloRzNVaEVuR2tXNk9lQTF2eVpkOHZ3aGVpQlAtSThZV1hqYVVuc0NYdHpYa1NyOV9qeG5oTzR5QU9rUGRRVFp5RTFKd2VwUFhXY3ZQMmRyWUFrZ0RVaVdEMG42TTFiRE5TUGN5Q3FlVlRjWnNHSXZzdkJxMGQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-3-1-switzerland-aet-world-cup--2026-07-12",
+      "headline": "Argentina 3-1 Switzerland (aet): World Cup 2026 quarter-final – as it happened - The Guardian",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHFXWVVUUEp3aDBSMGVsSFlSRDFwRnFwNUdYS00xYVN0Z0Zjc0oyTy1nVU1UblFudHpjdEMtYXF5VWtHM3Z5VEVMM2hNd1Y3SEctMDdWaHV4OElXc2EtaDg1UEJYQ0VRb0lqZEpBRmMxdHNWOTh5aGtxT1VyNjRETTVRbzVPaXR6am1LYXIyWmNuamVCV0ZjYm9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHFXWVVUUEp3aDBSMGVsSFlSRDFwRnFwNUdYS00xYVN0Z0Zjc0oyTy1nVU1UblFudHpjdEMtYXF5VWtHM3Z5VEVMM2hNd1Y3SEctMDdWaHV4OElXc2EtaDg1UEJYQ0VRb0lqZEpBRmMxdHNWOTh5aGtxT1VyNjRETTVRbzVPaXR6am1LYXIyWmNuamVCV0ZjYm9QY2F2Nzh0NE1jLWo3Rk9KRlNBN3p0NQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
+      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-to-watch-usmnt-vs-belgium-in-the-fif-2026-07-09",
+      "headline": "How to Watch: USMNT vs. Belgium in the FIFA World Cup on Monday, July 6 in Seattle - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmdZZjBkdXZhcEh4MmFCdHdBZHpOYldxM3REOG1QOTNYUGk0ckR1cGFrVTQ0aEpxZzdrVkctdlozVjh1OXFnSDdNanFfMHRhTWVPOEdDeXVWdVdfYXpERWY3VjZGeTZpSzI0dXVNVVhXQlRqN2huWUt2Rlg4MjBUdWRBR2F6Nm9ram9SMmdZa3JSY09haWFBUnRraHBmakZtb2hUcF91YWR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-09",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmdZZjBkdXZhcEh4MmFCdHdBZHpOYldxM3REOG1QOTNYUGk0ckR1cGFrVTQ0aEpxZzdrVkctdlozVjh1OXFnSDdNanFfMHRhTWVPOEdDeXVWdVdfYXpERWY3VjZGeTZpSzI0dXVNVVhXQlRqN2huWUt2Rlg4MjBUdWRBR2F6Nm9ram9SMmdZa3JSY09haWFBUnRraHBmakZtb2hUcF91YWRobmQwci1z?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-basketball-star-turned-top-s-2026-07-10",
+      "headline": "Kansas City basketball star turned top soccer doctor helps city shine in World Cup role - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1JsaVUtdXJSUkV1TnNIYWpZOXVFc2NmcFlMNEFOcUJPYWZGNjE0ZnNGWWp0RUliUzItX2NORG1RNWhQNDRzZDVjU2Q5T3lKLXBwNFA2cUYzV0hHbTUwZXdLM0Z5ZGEyT01sTE1uTWxTSGhFZnpPd2NfejliS1pWeTV6Zk4yVjNkenF5aDJCbUk1S3d3NWZDazVLMWFLTzEwRlFWV3JId09",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1JsaVUtdXJSUkV1TnNIYWpZOXVFc2NmcFlMNEFOcUJPYWZGNjE0ZnNGWWp0RUliUzItX2NORG1RNWhQNDRzZDVjU2Q5T3lKLXBwNFA2cUYzV0hHbTUwZXdLM0Z5ZGEyT01sTE1uTWxTSGhFZnpPd2NfejliS1pWeTV6Zk4yVjNkenF5aDJCbUk1S3d3NWZDazVLMWFLTzEwRlFWV3JId09aU0pvei1qeF9SczVzQ21zVkVLZHBMVTkxOTA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-with-the-world-cup-over-lumen-field-gets-2026-07-07",
+      "headline": "With the World Cup over, Lumen Field gets its name back - Seahawks Wire",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXdhNXZocUVuYVpMTUFBRHVEXzV2a1lESHRKSVJUcmVELW9rN25QcVVfdGZpazdFZnBhTnl3dDhSTUZkMTQ3Q2c2SEMzRE15VjZ6TjJtYi0yVHpObU1oMmtGdVExYTZFWklyT2RxYll6QWZ4YTduOVo4ZEd4ckpoeWtySEljZU1LQXdPUEJWcWx4TUZTMlNReXQyVm9KZGRVaEdlZnFtcTR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXdhNXZocUVuYVpMTUFBRHVEXzV2a1lESHRKSVJUcmVELW9rN25QcVVfdGZpazdFZnBhTnl3dDhSTUZkMTQ3Q2c2SEMzRE15VjZ6TjJtYi0yVHpObU1oMmtGdVExYTZFWklyT2RxYll6QWZ4YTduOVo4ZEd4ckpoeWtySEljZU1LQXdPUEJWcWx4TUZTMlNReXQyVm9KZGRVaEdlZnFtcTREZldZUE9ieUp3bklvRzJZQ3lfbG1NbnkybjZJeDlJcXlMbk5FWTE5eXE4NVNLOVNCV1FTRVZ5Rkt5Rk0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-to-stream-argentina-vs-switzerland-w-2026-07-11",
+      "headline": "How to stream Argentina vs. Switzerland World Cup match free in Spanish - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk9oTk1yMUhhOUM5VkI4Y190MTZtdnpwVDI0WXIzYlByaHVIN05ZMFZrb2c1U2NHRFVfWjUwUHByaWZBZjItUlY3ajVMTWpIdFpYdGxaS0ZuWnBTbUFpb1hMTlhROGxIZGhnOGZpZGVETVQ3b2REOTBDQU0tVGMwNTc3eXF6ekNXdWRUaUdNeW5EMXR0X3FnMnZkZnI3M3ZKcldqNG5TREg",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk9oTk1yMUhhOUM5VkI4Y190MTZtdnpwVDI0WXIzYlByaHVIN05ZMFZrb2c1U2NHRFVfWjUwUHByaWZBZjItUlY3ajVMTWpIdFpYdGxaS0ZuWnBTbUFpb1hMTlhROGxIZGhnOGZpZGVETVQ3b2REOTBDQU0tVGMwNTc3eXF6ekNXdWRUaUdNeW5EMXR0X3FnMnZkZnI3M3ZKcldqNG5TREg5cHlOTUlPMjlvVXZYaFdwa3JNOFhRQTg1dHVWMnV0eW9XaTA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-united-states-2026-fifa-world-cup-mini-m-2026-07-12",
       "headline": "United States 2026 FIFA World Cup™ Mini-Movie 🎥 🇺🇸 Why Not Us? - FOX Sports",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-06",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUkwTmhlMXpRZW1waXppemhNOExXRlZSckRWM2lnYzUtM0g3cXhkVlc2bVN5V1kxUnZrOXcyekxvelJpUlF0UXlNdDZWS3hfdDlSb1RTejY2X2pGODBkNEtmSXdnU29ibGZDNmc1MUUzb1NrcnhoVHlPcUhvRE1ZVTAtVnNtbk9pTjZXbFI1dXBWVHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-scaloni-not-surprised-by-messi-s-world-c-2026-07-11",
-      "headline": "Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’ - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTBPSlRBeEZsWERUT2llemZwUF9jQUNaWHF4ZDNUTE03NHc5R0lJUzgyaG1CN3hSSk1VVnVXcnB0akw2YmNsYlBOQjh0ejZnT2k2Um90Z2szS2Q3QVI4TFpQYm8zSXZoSDBWQ0dVVnhBRDJ2WEthUlFjeDZKWmgtdXBLTGNwQzh3U3lub3RCQWdIZFU0OFFKb2hWNV9tbmcyMTQ3VnVjcDJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTBPSlRBeEZsWERUT2llemZwUF9jQUNaWHF4ZDNUTE03NHc5R0lJUzgyaG1CN3hSSk1VVnVXcnB0akw2YmNsYlBOQjh0ejZnT2k2Um90Z2szS2Q3QVI4TFpQYm8zSXZoSDBWQ0dVVnhBRDJ2WEthUlFjeDZKWmgtdXBLTGNwQzh3U3lub3RCQWdIZFU0OFFKb2hWNV9tbmcyMTQ3VnVjcDJOc1ZhUWE4Z1lsQUnSAboBQVVfeXFMUGxhTE5XcjNKQTZfcG1UQnlPaEJjUjBGajM3VWRiWXhyZU5rci1IbmdqNmRpZmo1N0RWLXhOU1A2S0Q0T01JOUtoVllreVhyTEJCMXZJd1R6TWtaS2lWU2JjandFQXVqTENmYWxpYXNLWV84SWM1VjhRell5azZZRkhHX0pIMms4NjBqNE1nRDh3Zm9JWTZqVE0xSk9kS2JZalBhSDQ2OE9EYnAyYi1kTWxQZlpVeWtqRzB3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-brad-pitt-and-ines-de-ramon-have-a-fifa--2026-07-11",
-      "headline": "Brad Pitt and Ines de Ramon Have a FIFA World Cup Date at Los Angeles Stadium - People.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFd4aF9sclUtbURBS2pFWHVnbUU0MXo1Tmk5V2pRWmxmMUxwOWtUUDZ5Q25sWTZDR01yN2szUm8yYjhFTmZuRVRIYTdpUWdEVktzNmR6bUlPaVVJcVpZNEdMUU0xOWFwLVRMYkp6TlZqcWh6WTVHZE1Qc1RBSTYxcTVMeEwyTXk5Y0wxcHJDc2NtR000NlB2OFR0bWZHMVRVRkY0eFhBNXY",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFd4aF9sclUtbURBS2pFWHVnbUU0MXo1Tmk5V2pRWmxmMUxwOWtUUDZ5Q25sWTZDR01yN2szUm8yYjhFTmZuRVRIYTdpUWdEVktzNmR6bUlPaVVJcVpZNEdMUU0xOWFwLVRMYkp6TlZqcWh6WTVHZE1Qc1RBSTYxcTVMeEwyTXk5Y0wxcHJDc2NtR000NlB2OFR0bWZHMVRVRkY0eFhBNXY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-england-set-for-the-open--2026-07-11",
-      "headline": "World Cup 2026: England set for the open-air Miami heat - or do Norway hold the edge? - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEOEdxaWlxZzhSTFJFX3NZblNuY0ZwUmtKMlZCa3ZmY0w4eFVPQzNWR3VHel9vV2plUUZYdnRYMm1maWZlY2EtbjhZU19YRmt5NkFOUDJPcXA1Y3NCTjdXOE5UTUUxbmc?oc=5\" target=\"_blank\"&gt;World Cup 2026: England set for the open-air Miami heat - or d",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEOEdxaWlxZzhSTFJFX3NZblNuY0ZwUmtKMlZCa3ZmY0w4eFVPQzNWR3VHel9vV2plUUZYdnRYMm1maWZlY2EtbjhZU19YRmt5NkFOUDJPcXA1Y3NCTjdXOE5UTUUxbmc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spain-vs-belgium-highlights-2026-fifa-wo-2026-07-10",
-      "headline": "Spain vs Belgium Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals - FOX Sports",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tQTlNUEZteC1ZN1p1ckRWX3FnZTg0N040WG90VDJzV1lTeHFfR1pKSjZfYkhfVVdselBFTWFkSzU4LTF4cUtuSTNwZjFoeDdoWkN1b3c5dDUtMFNhMkp2ajl3?oc=5\" target=\"_blank\"&gt;Spain vs Belgium Highlights 🌎🏆 2026 FIFA World ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tQTlNUEZteC1ZN1p1ckRWX3FnZTg0N040WG90VDJzV1lTeHFfR1pKSjZfYkhfVVdselBFTWFkSzU4LTF4cUtuSTNwZjFoeDdoWkN1b3c5dDUtMFNhMkp2ajl3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-selling-2026-world-cup-final-pitch--2026-07-10",
-      "headline": "FIFA selling 2026 World Cup final pitch in $450 pieces - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVF6ZmlMMW13amhFTW0zQk1nNThCNXM2U3Bfd2YxWlI5Nkszb25nSlhFaFRFSEZieEFPVU9VWjVHSDA4cFE0ZkR2clZNd1pORDlNVXYySDlvWF9PVW52Y2dWOThJdlRsNkpvSXUyVU1nNHVMTVhLRU1nUnpRN3RWMkhaNTY1M1RvZkJhVkloVjRMSGhr?oc=5\" target=\"_blank\"&gt;F",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVF6ZmlMMW13amhFTW0zQk1nNThCNXM2U3Bfd2YxWlI5Nkszb25nSlhFaFRFSEZieEFPVU9VWjVHSDA4cFE0ZkR2clZNd1pORDlNVXYySDlvWF9PVW52Y2dWOThJdlRsNkpvSXUyVU1nNHVMTVhLRU1nUnpRN3RWMkhaNTY1M1RvZkJhVkloVjRMSGhr?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
-      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-06",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-seahawks-go-all-out-to-su-2026-07-07",
-      "headline": "World Cup 2026: Seahawks go all out to support USA, who leave Seattle with humiliating loss - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklHZjdmN29iekJPWWxWNzVxZkNSZHFqenhLZG5RQUFGUU82SjNZX3I1NUZsU05wMUFNRWQteXhtdm1yckxOMkhCc29haDNWX29PYUhab3dTaGV5TnZWQXhZcFRlaGsxTmRMSGhhNUNPS0cyZEU0MUhFNEplTThiVzdORndPMlU?oc=5\" target=\"_blank\"&gt;World Cup 2026: Se",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklHZjdmN29iekJPWWxWNzVxZkNSZHFqenhLZG5RQUFGUU82SjNZX3I1NUZsU05wMUFNRWQteXhtdm1yckxOMkhCc29haDNWX29PYUhab3dTaGV5TnZWQXhZcFRlaGsxTmRMSGhhNUNPS0cyZEU0MUhFNEplTThiVzdORndPMlU?oc=5",
       "featured": false,
       "draft": true
     }

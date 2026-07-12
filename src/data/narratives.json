@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-12T10:28:03.948Z",
+  "lastUpdated": "2026-07-12T13:18:54.719Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1748,7 +1748,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 215,
+      "chapterCount": 216,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3469,6 +3469,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2pkT0xhOXdNY2hhYmRfeHdhOTJSendRQlJTbUZiVlJjOVprYjBXTkQ4bHJCc3RRUDlQLTdMY2tOUTlzWnd3ODRQRjJ4b2x1UUltQURHSE0xYTVpaHNlREF4Z1BIcXB3OTd5VnByM3FQbG5fcWw1WFRBR2w0X2FnaTBsLVRSNzFidWVxZEhPZHZseWdBeExvempDRlpIc3I2VHE3U2dOV21Eakh4NHBHdUNhN05tdVJy0gG-AUFVX3lxTE5HMWMtZS1FMVJvMlV2alRpU2w0R0g3bURQcnZDbEV3Ni02YkEtc2RINGs1SVViS2ZBM1N2OU5SU0VxMG5idml5ZUpydk1Yc2FSczFQelhTU2V2LWFlZWJxbThMQVU2eXUyVWpPZ1FRRUJuRjZ3blJfbUVrMzZjUG5SdGMtR3VNUlVBTlcxbWZPSGdEcXE4T3pRRlJqVm83UWMxemZsTll1elBZblpka3lFVWlKMG16VlozT29yWVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783862333207",
+          "date": "2026-07-09",
+          "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUEwdWZhZ3NmejYzSC1ndXFWa2llWlBlWXY0LWVqMkhrMFN2Z19Sdl8zeWtqQWdHLW8wNnZwQ2NRNkJVbXhuZGp5V1NzRG56bEl4dFAzemdVQWhYUk52MzNqakpsWDlkVXl3ME9LVFByMF8zOGExM2hYaFpPUkgxalhncDFYazZkQkg3MHdob1pVT1kwTlhOeUlVd25tTkNvSnJDT2E3eTh2a1h2M1VuVWZoc1VjSDDSAbwBQVVfeXFMUEdGZjhIRnVnOG9nVnBKVFdSU0FkTVhiZ1FqSGloWlVaY3owN003MmdiMjEtdUJtTVU3SjZhMWIxaWJQc1VrOHZsQ1I4UlN2VnpId0s2YlNBQzBGU3BUWHlQSHJYS2VaUVJzTWoyVGpCLXJ4QnRUSHM4bndRb0hlNjRva21hUzJ2NHh1aFNOSHo3OXlPdS1OcDhTWUN0aTNqR1B6X3ZaZTBOX2dKZnM0d0ZkQTVkYzFVdm0zSko?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3487,7 +3495,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 486,
+      "chapterCount": 487,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7376,6 +7384,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RT2xIUS13OEh5RDVvQ0xZT05MWF9FX3JYY0NBbDRwX054MjF1MGljdUlCYVBmdTZlX0hzUC1QY2xZLVVXdTI5YkVjRno4V0RVbUgtRWJIRkwxam1Kcm1qdFZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783862333691",
+          "date": "2026-07-12",
+          "title": "News Analysis: Seven reasons why U.S. men’s soccer keeps crashing out of the World Cup - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGo4VURqa3kyUkpRajM3REdZVkplMHUtS1hkemNIWkgwaTlJWDItcTNZYUpRUG1BSFV5OGtmMTJ2YU5CNm5OZGNrNVc2dnA1WHN1bVZGSlRuTUFJckxYRVhFckpjY2ZHdXJ0enk1UnBaUERoS25aTEtuUjdlSS0zS25yempLbUhuOTdiMnFMbFIzc1I1d18zRVZFcG11Rm1ISnp1aGtPeG8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11200,7 +11216,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 538,
+      "chapterCount": 541,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15504,6 +15520,30 @@
           "title": "World Cup 2026: England to face Argentina in semi-finals - will Three Lions reach the final? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53SlNpcFRpenVSaktoMzliV1RTeU1rNjZmODlwQlFfcFVkNlowSkxBVU9ha1hjVV9TSnJLaS1FUENXVkJoYl9wS1czcTlyUndoeXF3dlpqcmZEb3ZMUUdLSDcxdEk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783862334719",
+          "date": "2026-07-12",
+          "title": "'We should all be excited' - Messi set for first England meeting - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CREl5RjFKTVNzOEZLU0k4b0l0dW9Pc3VvRWs1TWFHbTkxRmE1bFhacnFOQUVCT2Njd0s1Nmt2d3FMRGtBNmRxd2pzbDRGdDVOUktVc2hlb1JReWR1cno4ckdzWDFCTWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783862334719",
+          "date": "2026-07-12",
+          "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObmFYNEt5WlRfc3JsbUN3dmFqa1dXVWJkZEZBSHZLNGtRMnRjZXQxTXgwYUpSbXZVajdtYVptbVhuS0hISUlHOEJyMXc3dUhQX3dnMlAyU2tOV0FNWDNZR016dm41djlxSkxvWnRJMHUxRHV3cnNNeWVyMXEyX0RpR2UxRnVQbjJ3S2tFSWdDRmlmLXNFR2hFT2VNRW85aDB6bmc3Q1VBcFZoSUxOR1htS3lSblNSWFBheTlEeFNFczNHRWU2OG95LWw3SDdjSzUzcG9yMm9oT3dobXBNS196NjhVOVE5cmRxcWVRanJrMUg5djQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783862334719",
+          "date": "2026-07-12",
+          "title": "World Cup semi-finals bracket predictions: Picking the winners and key players for final four - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUZ6MzBaS1FqU3hIbHRlWDFvaFBOMl93ODZreVBjVGR6NDFHZ1VqcF9DUEF3dW1ZYlhab21jaU5Ra1A5LWZod0dicEU0Q1ZMS2hIbzZFS3pIb21iYmVOWTF2ZFNKUHhFSkJMVTdodEhNYmk5Zk04VnBBUWttRmVEVnl1TVdGYjF3S1NuVndIYUpkdkp5R04zaQ?oc=5",
           "draft": true
         }
       ]
