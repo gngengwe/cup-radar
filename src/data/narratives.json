@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-13T06:18:55.668Z",
+  "lastUpdated": "2026-07-13T12:05:56.452Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 218,
+      "chapterCount": 220,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1762,6 +1762,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHhFRUIzRUNMWHpkN25UN1FVR3AwVVhSLWxHdHZKNExHUjluWWU3R1RaR0NQbkc4Q2ZaV29ZQk5RQzhYX241aHBVX3duTmVJMU1DcmhSRlRVQ2owclR4MTZfSzhmZkxMZG9MeXJMX05ZLWo3V01aQi1QOUxBNjBDVXNtYkZ5cnpfdTZmOS1Mb0RTbF93aldHNXJOSUtsTDZTUjBqVHFMakFpSFZrZGVValZR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783944354628",
+          "date": "2026-07-12",
+          "title": "MATCH RECAP: Messi and De Paul's Argentina Advances to the Semifinals of the FIFA World Cup 2026 - Inter Miami CF",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUE0zNmtIV2lMTEdwU3A0VGx3VVYzb2FTcmVORjA1TGY2c0tINmZFei13MUJHMVY2MGdiSWtNM2tRMXZZeXBkUENacGk5N1pDTWpHaENrd1dGUGNDeFk2Z1JXX3JRRkltS2ZSTEFnRHpELXhaeEtMenhFbXIybzJlT2hKYUxaMXJ2dm11NFlhOHNuVkJJQzFQM2FiWTYtS2dJUHRFWUJPeTJWcWpfZnRrOE94dHNzTUtieklOV09nQ1Z3SDZiM3Zmb2pEcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783944354629",
+          "date": "2026-07-13",
+          "title": "Is 2026 World Cup Rigged? What VAR Data Actually Says About Lionel Messi's Argentina - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWgzMjBlcEFqWTduNV92Ui1wOWdOdTZfR3pldExlWVZ0RFZDcWw0Y1lseEVjNnlUV3k1QThDeTY4TlM2OTBmWjZIT2JkNUgwSEl2aC1HTEE4V1hJczVodGhGb1lwYmtUcmRmUHRNdUhFVDJVSGRyQVpYZVhVcnQxam9NOTJ3Y2kwMEtsNXlZR1ZzQ2lydGZYX0xZdktURDFWV2xYZ05RNEliQ25pOXlJalRIMEx1T0U4eGxDZkVfeEE5LUx0V29zQzdn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1780,7 +1796,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 217,
+      "chapterCount": 218,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3517,6 +3533,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2JacUYwMkFaaFU0dThBNjBOanY4anZubS1POC1DU3ZtekktbWZwN3RpS19wQm9IckFJZ2lsSlpTOGZpWUR5NHRvZjVVY3p3SktZbUlfNEE0Z0ZjWjFiTHNvY2hnTnlkaThNVGNURjUxdWVIMkZIbU5lTTdJakZnbkI2d1ZLd2t4VHZv?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1783944355105",
+          "date": "2026-07-13",
+          "title": "FIFA World Cup: Is France, Spain, Argentina and England best semifinals? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcC0tYWp3UW5zbGNDN1ZzNm9ZcG5jQ3JWUnRhd05vN1FJcmRwREc4eV85d1MtNE4tX0xSeUgycmtmNnU5c3hOSnUxMXR5VjlwNGpmRENJWkgwakxISVR2c2x3dGJtQVNscDBvX2pVaUREVGlJR2ZRV2R6WEI3bTJzN19Bb0hjMkQtYlZhMDNhaEk4RmhnX3JNaUZ1UXljLVpkdWFpMk12N0RDcHVXSGZ4SjNZcXczZ9IBuwFBVV95cUxNNjR6bE1XWmh0ZE5HMTBlNFcyakp0cnR1dE9OVEZKbHdYcDVvM0w4cmVGYkNBcE84SFJXMmRBeGY0bHBGNlRPa1g3bk9Tbjd2N09CZ05OdWhJUHJTOG1fa3lTOXVNckw1Rm1lM05yOUx1d1V6dkhoSXFkNVI1blg2TE1MRnFMNVItZG5CaEk2RmVfbGp3bVVuQkM3ODVqMFUzcGdJa0VLdXBJYnA1bW5qMFFXbzFLREU5bTVn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3535,7 +3559,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 490,
+      "chapterCount": 491,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7456,6 +7480,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0R9IBtAJBVV95cUxPQzBJdGNBV3ZfSVB1RTJBZl9EYUl6aWg4UHZRSmhwWmNmd19NT0tIVnBWX0dlNkNULUIyeWdCa3ZqdnFtbkZ1QkVoNi01WEF2T0l3M2liTHFFakNCclZKcHppdVpYYkpueFpUb0VDZ0p6UnBDMzUydC0zQWxPSFhjRXJTUVZFMXdRbTRTaF9OWXpuRzlBY3JpX1U3T2pDS3lQSVgtNVcwS3R1QXJPbEhRbTJ0SUpGN0RfYV9KNGJDMXhQZUdNT3NBVHQwUml6OE1aODJCajFfMVg1V3Bxby0tMTF5b09RQU1VY2xOT0l1bEh5dGwwTnQxcjM1UVNxSThZMlFESk45bDF0RkJGQWdkZ2tIMnYwVXhwX21mR0FSZUhtOXM0clZRWHdaQjlHOThlTmx0Rw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783944355532",
+          "date": "2026-07-13",
+          "title": "Projecting the USMNT 2030 World Cup roster: 30 players to rep the U.S. in four years - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3VSV3R5eS11SFRTMGZZbnl0RWdvRlY5VW9IWDBFRDlYQlBZdlFla3FSYzZnNWdTWXB5YnlXRk9JVDZUMXRfb3dtNjFUV2tJa1dZWTlzOG5MQWotbThOT0p0ZC0zb3BMVVhYdzRGbFNQM0RFMlBPSmwyQTVRODdMRGdzX0xHc0NUWnlVOU1nazc5cWpZOFduaHpSbGQwWUhZN2xBYl9BVHIweUllN09zWlJfZWJ1QQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7474,7 +7506,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 451,
+      "chapterCount": 452,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -11083,6 +11115,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0J5eXlUcDQ4M3ZsVGZyZUp1NjRIbHFLTk85RVpKOWluVGtlV3F2LV9VaS0xenBMdm9NVnh5MTZkWFY4dU0wOF9STVlXZFVoR1pfYkFBQWlackV6b2NvNVdEN3MxcFJTYm1maTVXSjZLUEVEUmpheXliRlZWWUtJR1V2bjdRMVpnVzM1X09jajkxaEx0LUVabFd1M3dmZ1FYMHlkWkZNZVNOUDRmRnpoYkhidw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783944355938",
+          "date": "2026-07-13",
+          "title": "Neymar participates in World Series of Poker tournament in Las Vegas after Brazil's early exit from 2026 World Cup - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTVRSmJHbzhqNHEzbUJGTVM1OHJnZng1UFRvSTlheWpZQ2pxZktjWk5kRUFPUFowdTR6Z09td1JJdUEtbDVzdkg3WHdzZFFiUUhkVHltSTNPdGFqVlY3QV9RU1U5WU55dXZMaDk4a3FNQ2x6RjNIb0Q3S29oV3VFYUNRb19CZWlINlI2cWF0LUpjZVp0ck1UMm5yQUJHSkd5d1lnWFJ4MHdWRnBVY2dpd1liaVZydWxJSVE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11312,7 +11352,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 551,
+      "chapterCount": 554,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15720,6 +15760,30 @@
           "title": "World Cup 2026: England have 'another level we can reach', says Harry Kane - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eFZqcVczaExEeG1Ob2p6bHJaMERCRTRRXzVNS3hDZ1VPSHpxMXR1Wm1ocHREVGJzZGdraGNUa1FyN2pZUm1OaVVsS2l1MGZwOW9UdlRjVHRNY2tLT0I5cjdUcC0xTkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783944356452",
+          "date": "2026-07-13",
+          "title": "World Cup 2026: England’s James ready for semi-final, Infantino hints at 64-team expansion – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSzROX29mVU1OWmFldUxzc0pRNG11QXlsWDExNllaRkM4M05aVjVhSF9jQkpsalJmYnVCM1ZWSjVJM0lMMG93R0llU28za2F1TWVvNG50QXYtWnZCZGVQanQxRC0tZnFFVUVYYUpELVd5eUdHS3V2bmRGRzVSYmc3MDVyMXROT2NKTF9fLTRkdWJQcWdka1N5R2N2SXM0d29CWDc1cmhfdjllQ3lhVmlldm5ST0xQYVdDRDYwUkpZZ3hpMjhJYTRsQW5ld09yTWRoSWxhQXhsanJCbld4cHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783944356452",
+          "date": "2026-07-13",
+          "title": "World Cup 2026: France, Spain, England & Argentina statistical analysis - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyZjRjN0IzMk5vUndVM2tsWWVvVE5FZElUM05uNFVOV3drcFJQV1I1UVlLeXdGc283dGt1TDlKUEtiTDR6dDBrNTVvX1c5c0l5Y052Y2NQSnpCeGcwUEZqZTkxM0x2dG8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783944356452",
+          "date": "2026-07-12",
+          "title": "World Cup 2026: England boss Thomas Tuchel 'not happy with the performance' - but why are they winning? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ySVBWTXA4akZWWFdHVWtjbDQtMTlxMmVGUGozOUlTZ0xnQ3lla1JfWWlZX2Vib0xTZU1NVC10Z010bGVfLUNZa193QXhPY3VRa0JVUVk5NFBNX0FDRlRQY050TThoTkk?oc=5",
           "draft": true
         }
       ]
