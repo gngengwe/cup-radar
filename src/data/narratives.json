@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-12T21:50:29.681Z",
+  "lastUpdated": "2026-07-13T02:47:10.505Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 217,
+      "chapterCount": 218,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1753,6 +1753,14 @@
           "title": "World Cup guide: Lionel Messi, Argentina take on Switzerland in final Kansas City match - KCTV",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXo5bnZrRGFRWTloSnEtT3VKSmhBQjN2aWxDTllpcDRmVzhubXFJcU1mQVE2aTZ1TDJNSXp0bGNFelhkemlMdWV0VVZXblFLdC1ZYkFiNjlsWnNvcE1FbW43bTFRSXlGc0d0cmlsanlUVmZQUDRkQ0F5WmlSOTUtWHNJckZEWTUtMG5lWDNGY0h1ZF9wc1I2RlhDWDhkcnVjRGYwd19HSG0yeGJrRnNuNzBFVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1783910828339",
+          "date": "2026-07-13",
+          "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHhFRUIzRUNMWHpkN25UN1FVR3AwVVhSLWxHdHZKNExHUjluWWU3R1RaR0NQbkc4Q2ZaV29ZQk5RQzhYX241aHBVX3duTmVJMU1DcmhSRlRVQ2owclR4MTZfSzhmZkxMZG9MeXJMX05ZLWo3V01aQi1QOUxBNjBDVXNtYkZ5cnpfdTZmOS1Mb0RTbF93aldHNXJOSUtsTDZTUjBqVHFMakFpSFZrZGVValZR?oc=5",
           "draft": true
         }
       ]
@@ -3527,7 +3535,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 488,
+      "chapterCount": 489,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7432,6 +7440,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15R05JNFdEZXd5dTh4VXVDdXZFY0tQNEVKeDRYT09hNS1HYVBsZk1VaElEOUdjSEZ5all4UnJ2S21vdGh3STNXQjcyeE5HbDhwOERnVkU2RFU0bXJIYnVRU3BwbHk1QlJCbjR0VUxaLTJrZEJSMlhHTw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1783910829343",
+          "date": "2026-07-03",
+          "title": "World Cup 2026: U.S. Secures Round of 16 Spot After Latest Win - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaaUlNVkQ0VlV6QW1UZndPZkFweTVnMFFqRjlZYUNmdGdUdVp0ZHJsSFpwU0V3ZzB5a2pmSVFjNF9xYklTYTE5RGtvR2NRZEw1bXBud3FRM0dsbV9NQ082NU1oSThHUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7450,7 +7466,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 450,
+      "chapterCount": 451,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -11051,6 +11067,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWjdmMmhETmJnMEJZRDZRejZPWjhBZTc2THF5ZTUwUDNNS3NPN1NHM1RpLWtXb1o4R3l5amhuUFY2NThITXRKTkhGdGk2VnRJbVoyOWE3QmxoWjVrWWZyMVFxRnpsaE5CSGZiMjRtRUNodkRPdUM0QWcwbVNtSlZaQXI0VDJtXzJqY3VfMzMxN3ZqQkpLRlVwb3hRNm5YeXd6TW94eHllNk9pUTB1bFBwNHY1RDVyRWNseGxyVUFOTzdlV2h0Sl9lTUxiS0RwUUZkTjQ2YkwtSWlNQjIya0l2YVdnT0tFd1VfU3ZTel96TkN4SzhCc2lQRnJwMnAtakJyYUpoMXd1c2gtU1VTVFVxYm1oSzRTZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1783910829990",
+          "date": "2026-07-12",
+          "title": "Messi set for long-awaited first England clash in World Cup semi-final - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0J5eXlUcDQ4M3ZsVGZyZUp1NjRIbHFLTk85RVpKOWluVGtlV3F2LV9VaS0xenBMdm9NVnh5MTZkWFY4dU0wOF9STVlXZFVoR1pfYkFBQWlackV6b2NvNVdEN3MxcFJTYm1maTVXSjZLUEVEUmpheXliRlZWWUtJR1V2bjdRMVpnVzM1X09jajkxaEx0LUVabFd1M3dmZ1FYMHlkWkZNZVNOUDRmRnpoYkhidw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11280,7 +11304,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 547,
+      "chapterCount": 549,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15656,6 +15680,22 @@
           "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783910830505",
+          "date": "2026-07-12",
+          "title": "2026 World Cup: What we've learned about Argentina, England, France and Spain ahead of the semifinals - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbmpXZlozaHlmdDBtdGhlN2FBcVJwRlBVUkFBbU1OLVR4VWtkaEhEYzFGQl9JX1BHdmF2MHYwbFpBaUZkLXBSSnQtbDZDX2Y2SXNCdUM3bDJWQjJNMngwWmZneEhzU0o2VUlMVzNySDZfMWxxYloxSnh5ZWw1Y0ZydW44c2x6a3JJY3FGaU8xeHdvRlNWWEdNTG9lMEVFTGZjRXplSXRGTzJCSDhQV0hkcnF3cmtheHY3Vk9aUDZ2Q2pqdnIzRE1iMEpFMTkwWi1kTEpJRllZUEQyUFVTdVJEdTFFaDdLZTg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1783910830505",
+          "date": "2026-07-12",
+          "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGo3TkRzUFktRm9HTjVHZU0ySUNNQW1RekxFNE85aTNYX2wtMWRvb0pyMFNNQTQ4MVRjbWZzWWx3S2lkZnhUdFVBY21fQXQ1VXFjOFk3VWx1dFRhZ0V3YkJMZkdxTjhQcUY2eWFRWGZHV29USHA3WENKZTlWMEc5YmtmZkpQNjdIc3dvWlVsNWo5TGg2TGNrSGFVekdOMzdHcDdxQ0ZyV3J4UU1iY28ycHY0ZDhuMjFnVUttWDFxSdIBxAFBVV95cUxNZ0dlV2Z6Yk9sSzBCdVp0Z2J6YUlDTzhlTEhRTkVkUkFtS2t0dTNWV3U1UHRkS3hFSjVrRER6SFU3Y2V1dWUzYVBxMmFPU2hJa0R3S0xxWDdab3lRUm1aSjQ1UWdMUm5nenRwZ2dJWUh2ZVl0eFBQU2w1dHdWZGlnMGpsRm5jSy11d2pFaGRFenU0NTdZbzItQmRxU2hNMEdyV0FlcUxWWU9wM0lKTWRUa19mbFRQbVlyc2NEVndyVDRuR2Jf?oc=5",
           "draft": true
         }
       ]
