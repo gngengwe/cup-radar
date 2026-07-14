@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-14T10:46:15.187Z",
+  "lastUpdated": "2026-07-14T13:42:43.415Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 222,
+      "chapterCount": 223,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1794,6 +1794,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVNuWEhYS0gtU3BJQU9vem4wTHpySkN3N0dLYWI5NEU5TFh2aFBNbEdTbk9qeXA2eVlLY2c0dFpXUGZFZjNaOE9qQVlDNjJqQU1VRzZpN0MtbTBmX0VIaldnUi00WXFad09fY0tSZ0V6MzJSa3BGVzc4RGMzemVBMGNaRFE2TExHTDlWNG9GQjNKM2sxRDNzbjlwc1VzNml4WWxrOUhYbHBPd1lFaVo2ekROZ9IBuAFBVV95cUxOR2pKTW5CdWZraFdwcDlPQkhhWWx2UlRtNllMNzZLZGxUOTYwbW8tNDkta183ZVJoYkh5b0NvcThmaDRFMklHRmJGZm5nd1RnS0FlUTFTZ3N3LWE3TEdBNWVDejB4Uml0U2RjNUJiN2NkVzRYbDR6dTRaTGVDOW53TVN5MTd4akxkWXNXMWd4TWo4RC1YR2tjQmZVWi15TktmNXNvVVpmWFp0RUNhaTNiZ0UwM1VaeGlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784036561204",
+          "date": "2026-07-14",
+          "title": "Walked for 47% of the World Cup - the evolution of Messi - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nMnU2cjgyU2hKcXBsR0pVN0FlWEdjUTNSSi01NzVVMkhVMkdlR0tSQnNhcmZsQ0RpQk9JdEV4V1NGSnBaaFhIRjlCanhsZ0wtYWZDdWU0b29DbENwOGJjYlF4MC13Vmc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1812,7 +1820,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 222,
+      "chapterCount": 224,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3588,6 +3596,22 @@
           "title": "FIFA World Cup 2026: Kylian, forgive us - How Mbappé and France turned doubt into devotion - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeExyc1ZiemtqaFRzV04zUXpnSWxWVTloU2pxZkFtNHR3eTk2bWNITVZFQUV5ZTViSXpfYWRsSkoydEJCbG1lVUp1ZU85ak84VTFpSHQ0bGk5c1R5dHV6VHpoanZ1bnBjekdjTUFkMjBZMXhWVGZjS3gtUlgzQldPek9HdkI0TGJWZ1FLVi1rOENqUTliVkZtLUdMei1VUXB0NV9uTTJGSTRUR092?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784036561665",
+          "date": "2026-07-14",
+          "title": "World Cup: France, Spain unbeaten before semis, but only one can make final - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGs1Y2lxMjZock5tajhTT2JBNER0RWU5NGx6UXEyRnhSUzI1RHZBejgtbkxyOTFTVmJiNVlGUE1Kbk1WbUZoRU42aGc4T3FUMlAtMWp2U0lJNVEtYlU5b0xnai03d1BGODRmZTZidUt3cUZWTzJQc3RtQ0s4c1VVdGl1bnF3eWlRcUZGaHZIelM2MFJtc1FPdHl4N1dmUzdkYU1HVkp5SWxrZ2JEekdHODFqQ0I0UDQtY3RfaG5LYUFxcDdkNWxZeFFPaFfSAdIBQVVfeXFMTnpmS0xwQU1GYnVXRGx4dnBSMVBhNHNTaTI0R3RYYl9vS05tVzRsRzZPdVNmX3N3cDFHdzhPQzE2LUJOZ2thc0dkRVpJdmUyMDM4R3IxYWQxMl9BcVBRQThwTUpBWEdFbFNrajUzTUZtMG16N2NzZnd3eVJ2VEZQUDZrbVFWd2Z4ZlJLX2ZkQU1GdUVpVWc4bXpSVmswT25hV1VHQkpwcXlFelpQOHpqczNEWFFwc0c5RmZHajdINUV4bGZHZVAyb3FBNWV0TnFYVzNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784036561665",
+          "date": "2026-07-14",
+          "title": "World Cup 2026: Time for Lamine Yamal to ignite? Or another Mbappe World Cup masterclass? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vcHZFdTdwZzlza2h5QUFTcXRPbGVMUVd6OFhPLUZBaWd1Q1hxQWpiTDdYZ1UyM3VULTQyWXBNOTlpT05rUE1iYmxYQThTaC1MQ3RaYnlVU3JnV2dWZXhVVG16NUp4Vmc?oc=5",
           "draft": true
         }
       ]
@@ -11496,7 +11520,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 566,
+      "chapterCount": 568,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16024,6 +16048,22 @@
           "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWo4ZjhtNFVDMF9laWdHelFYMk5KWko0c19pZHNXNjNTSko5Mk1VcFFfb3o5Y29ialVGUERjRFg0RUR3SnMwNzYzVlI2VGF1c25BejIyRUdNSDA4UlJ2NEZ2U0VxQ1YzQm5NWFlFRVVOdnkwWkluamhOcFk0cUxWUmQtdXV0Sm5SLU5JM0tnM3JHaEprQjlvTnVFc2NQZFFlX3fSAacBQVVfeXFMTUJtUTZvQkFOZFJrY2Ricm1WS3FOWGxWRlBOc1B3QjdTcDc2S0ZITllrQy1BWjkyLWVfMzAwWUQwRkpwaEl1QkZneFNjZFRaME9OWTk4RGZ2dWoyRkMzMXdEeU1ja0FzTmY3TW91SkNob043Rm9EazNmaUxEenRvOVQwWHY2YWowOHJkVHU2TDBPWUJXRzdfX1VTZFhfUDVRaDhnN2hPaDg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784036563415",
+          "date": "2026-07-14",
+          "title": "Your cheat sheet to the teams headed to the World Cup semi-finals - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzR6X3lHR3ZkbjhITFVYZGw4RFlQdDlCTGtocmNqRXZ5QU9UeG10VDIzbGJ1VzFqMHBXMzdJU0NJdXdGZElYT1lRc0lkdmhJcDU1RjNoUWN1c0R4bWhmdnBPUHFwTFdvYjBOekJHTWdMVHpJUXZYWDYyRG00TlJoTnQ1Vng4S045dnF3RzVxdlJ4MDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784036563415",
+          "date": "2026-07-14",
+          "title": "World Cup predictions, semifinals: France vs Spain and England vs Argentina - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1lLN3EzdWJIenQ0MW5uclVyTXlBZ09OcFV2aFRNRlNhelI3WDBrRHZwUmNrV2c3QWRuWnJXSDlsbzd0WWhMUmZhT1RKSU9vbW5CMlc2amYzRXVxeTg0TFJIMTdkbTg3dFp1dlZ6VldlU2FDdWRVS0k0T2ZVc1JrcDA2UERkYVQ4LXMybXJ5Rk5NWVp2OUdHNzhKVlVuOUFDeElNY2UtV0w?oc=5",
           "draft": true
         }
       ]
