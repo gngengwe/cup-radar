@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-14T13:42:43.415Z",
+  "lastUpdated": "2026-07-14T16:14:41.824Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1820,7 +1820,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 224,
+      "chapterCount": 226,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3612,6 +3612,22 @@
           "title": "World Cup 2026: Time for Lamine Yamal to ignite? Or another Mbappe World Cup masterclass? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vcHZFdTdwZzlza2h5QUFTcXRPbGVMUVd6OFhPLUZBaWd1Q1hxQWpiTDdYZ1UyM3VULTQyWXBNOTlpT05rUE1iYmxYQThTaC1MQ3RaYnlVU3JnV2dWZXhVVG16NUp4Vmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784045679847",
+          "date": "2026-07-14",
+          "title": "France World Cup jerseys are nearly sold out. See what's still available - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFNOOFhhbTVYdW53TnJCeHFucGZlb2d4OS1qbTdmcmV6Qkt1NEx3TWN5ZTR2N2Q3eFZidlROamtGTlh6ZHBIR0N2OE55NmRWdGlJTk1TVGpmb1gyWTZiT2NJMW1NU1RmSXd2WU1RUHhKdklFb3pTY0taY2NWdzdGakpPYjFMTU1RZlVCNkRTQkw0Wk1JTTRoRnFnb1hTTTdCWUZUNzNxWkF2RmpDNGZOWHd3T0xNVDdnYkdablpkMGh3UGQ0bURpMWFjYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784045679847",
+          "date": "2026-07-14",
+          "title": "Kylian Mbappe ‘100%’ fit for World Cup semi-final, says France head coach Didier Deschamps - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnhvMXl3UHI5M0x3LWN6V3BiYVNQQkRWSmE1RW9Iek5LcHU1SXNmYU1PT2JpNUdvX2tyU1lvWGxRRklXTEMtMGZHYlFSSXlpRDFRR1dqMGItekJmQXE3Zmo2OWNyZkl2VG5fOFdFbmFYbVlZQTdEdUlEVXR6MWNsaXRfZmk4RlFXcTZiSWFJMG1BVzRaY3V1Rmw4emQ?oc=5",
           "draft": true
         }
       ]
@@ -7650,7 +7666,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 455,
+      "chapterCount": 456,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -11291,6 +11307,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784045681190",
+          "date": "2026-07-13",
+          "title": "Neymar Hints at 2030 World Cup Return Days After Announcing Brazil Retirement - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbl9YdURoUEVxSVA4MDFuS0sxanR0dXQyVDJPRjU1R2NqbXg5ZmRGRkxMMkx1THBGVU9kd0lvNHZXLXNrbHVYYTNyMjUxVE9HampjbHRUeW5JUXIybXpHTlVoUEw2amY5QWNpR2xOMjlJY2ZXMmN2N2VyMjBPeDNUMHRR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11520,7 +11544,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 568,
+      "chapterCount": 569,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16064,6 +16088,14 @@
           "title": "World Cup predictions, semifinals: France vs Spain and England vs Argentina - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1lLN3EzdWJIenQ0MW5uclVyTXlBZ09OcFV2aFRNRlNhelI3WDBrRHZwUmNrV2c3QWRuWnJXSDlsbzd0WWhMUmZhT1RKSU9vbW5CMlc2amYzRXVxeTg0TFJIMTdkbTg3dFp1dlZ6VldlU2FDdWRVS0k0T2ZVc1JrcDA2UERkYVQ4LXMybXJ5Rk5NWVp2OUdHNzhKVlVuOUFDeElNY2UtV0w?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784045681824",
+          "date": "2026-07-14",
+          "title": "World Cup 2026 today: Live updates, latest news as Kane backs England, France and Spain prep for semifinal - July 14 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXk2WjFYVm92TUFEZ2RLUnpWZzg3bkNuRGRvd29vazdWM25xZWZVd2s0Nm5lQS05bjAzVk9BcEY3c09wY3ZPSVdFSzVRcmJGRkVsU3IyZHRpYlVEaGRVME1ERjlrQ1NwbjFGbXE5NlhNeHJQdHhqcjA3bUFVTGtkNXZ1M3NHLXlJaWo3ckh0NHJURlEyRFdTcDd1anNNWDhDa0Jyd28tbDNDdVpxbEhtdk5ZQnZEd1JpVE5yZVd3M3d0N3NGUFd1SHBfSVBmd0czOEVGdnJZWERRaWFrN1FoMlZqcw?oc=5",
           "draft": true
         }
       ]
