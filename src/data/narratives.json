@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-14T08:04:34.540Z",
+  "lastUpdated": "2026-07-14T10:46:15.187Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -1812,7 +1812,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 221,
+      "chapterCount": 222,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3580,6 +3580,14 @@
           "title": "FIFA World Cup: Key players to watch as France play Spain in semifinal - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9CV3JmNl9KYXVIMzZEUHpNUHo1d1ZXR0lsay0zZ0lmNF9RRWRiMHR4d3J2X09ydHdjbmNXaFltLUxFMExpS0JidFREaDBVNTZLMFVkS3lXNzhfbGk2SVVOeWFqWkdhc09zRC1kYzVrSWVsbF9kN2dnQVV5SDY2WkZXYkpzWEZKQThsWF9FTGdVck4wZUMwMl80TUlqS2ViZ3JKU3E3MVBEQnBLc2NGU2VNaWc2M0RJcGZTRdIBwgFBVV95cUxPN0k1QkU0OHdoekxObjlhQVFDRjRKSUhBTUhMR2M2LWFsanl4SXIxZXNkalgteW10RGdyVFhueFRRSG9KUUNOX2hDTDk5MXVoTmRsNGptTU9ibGx0N0gtWkRVbHdJODE1OUx2dGRRdkpYbl9ueW5BZEhfUURicXlKWTNFcEpFTGJhTDhNMU1YQmtKWHhvSDk5VmllZlB1c1RIeG5YbjBZYTljRmRaNEs0REY0NmM4LXJYVzl6Vk1femJQdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784025973637",
+          "date": "2026-07-13",
+          "title": "FIFA World Cup 2026: Kylian, forgive us - How Mbappé and France turned doubt into devotion - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeExyc1ZiemtqaFRzV04zUXpnSWxWVTloU2pxZkFtNHR3eTk2bWNITVZFQUV5ZTViSXpfYWRsSkoydEJCbG1lVUp1ZU85ak84VTFpSHQ0bGk5c1R5dHV6VHpoanZ1bnBjekdjTUFkMjBZMXhWVGZjS3gtUlgzQldPek9HdkI0TGJWZ1FLVi1rOENqUTliVkZtLUdMei1VUXB0NV9uTTJGSTRUR092?oc=5",
           "draft": true
         }
       ]
@@ -7618,7 +7626,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 454,
+      "chapterCount": 455,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -11251,6 +11259,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzNSNDZ5TWpvNHFxQ3hQMlh4djJfd2FNTzNBWk1BcldwVGtRZkt5X001SVBhN0xIUktuWnp4TFJVbjhlb2E0blFZcDJKTktjb2dwREFfMmZhZW1NcXZtenh2U3FCUzlrSDd0QWZ0SlUtSFVkVS1FZEgwSE5WbDVjT3U0eEc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784025974719",
+          "date": "2026-07-10",
+          "title": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11480,7 +11496,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 564,
+      "chapterCount": 566,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -15992,6 +16008,22 @@
           "title": "World Cup 2026 today as it happened: Updates and news as heavyweights prep for semifinals - July 13 - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVVRiNGR4djBXRWdZaEFIaTRNbUhQU3dzdXowbmVYdml0Y3RqMEZCQXVKdXh1XzIyOThVRFpUdWZpMUtpc3lkZG14eEFqcTFpMWxxVFlFaFMzRDAxaTd6bTV6X1lXcGpHal9LbTY5Z2lJX0I4VFhiWkxxNXFzLVlWM3N4T1N0aFRVMEtFU1FOeGthbTVnU0VXcVBaRG5QWGFaLXdoRk5XQ2RUTjNDWkQ0WVJDQUVyd3MwSWszUHhMSklvdnMxQTg2VXkyQVBpcDl5UFBXLUU5ai1rRjNmendZd1RndldHcnlQUjF0b2I1OXI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784025975187",
+          "date": "2026-07-14",
+          "title": "World Cup 2026: Why has England midfielder Kobbie Mainoo failed to play a single minute for Thomas Tuchel's side this summer? - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQckZ2bTNodThIaTFrX18zcWh5TTJySncycHFWdVN0eURwb2xxdGpKZTFfMGtWRzhoa1RQMi1zcE1zMXlRSUpBME9FZURKVXcyOGl6Q1hLRHlib0Fha3JhTF9xYU9pX2tteTg4T18wYVkzdXpENk9fTEV2UFRYYVhOeDczZ2txd1h0NFpfeUJhalc3T0Vrd1BCemwyaGd0U1ZSTUZpRXJ0OGhabDlHMGRCUkJBZHhCcEZjd09sLXV0empVcFdWa3pUaGtoeENJT2RhVk02THNkQndNaG5haU5NYzVTU3NGQUpvS3QyYlR5N0NsNUJNUkNPRjk1Z2hPUU05MXF1bzdaZVo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784025975187",
+          "date": "2026-07-14",
+          "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWo4ZjhtNFVDMF9laWdHelFYMk5KWko0c19pZHNXNjNTSko5Mk1VcFFfb3o5Y29ialVGUERjRFg0RUR3SnMwNzYzVlI2VGF1c25BejIyRUdNSDA4UlJ2NEZ2U0VxQ1YzQm5NWFlFRVVOdnkwWkluamhOcFk0cUxWUmQtdXV0Sm5SLU5JM0tnM3JHaEprQjlvTnVFc2NQZFFlX3fSAacBQVVfeXFMTUJtUTZvQkFOZFJrY2Ricm1WS3FOWGxWRlBOc1B3QjdTcDc2S0ZITllrQy1BWjkyLWVfMzAwWUQwRkpwaEl1QkZneFNjZFRaME9OWTk4RGZ2dWoyRkMzMXdEeU1ja0FzTmY3TW91SkNob043Rm9EazNmaUxEenRvOVQwWHY2YWowOHJkVHU2TDBPWUJXRzdfX1VTZFhfUDVRaDhnN2hPaDg?oc=5",
           "draft": true
         }
       ]
