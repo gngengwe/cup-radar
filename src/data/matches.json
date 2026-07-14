@@ -4115,9 +4115,9 @@
       "group": null,
       "stage": "Semifinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "notes": "Winner QF-01 vs Winner QF-02 — Semifinal"
     },
     {
@@ -4167,5 +4167,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-12T05:58:38.678Z"
+  "lastUpdated": "2026-07-14T19:19:38.651Z"
 }
