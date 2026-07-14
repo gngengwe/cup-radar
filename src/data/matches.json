@@ -4115,10 +4115,23 @@
       "group": null,
       "stage": "Semifinal",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 0,
-      "awayScore": 0,
-      "notes": "Winner QF-01 vs Winner QF-02 — Semifinal"
+      "awayScore": 2,
+      "notes": "Winner QF-01 vs Winner QF-02 — Semifinal",
+      "goals": [
+        {
+          "minute": 22,
+          "team": "away",
+          "player": "Mikel Oyarzabal",
+          "note": "pen"
+        },
+        {
+          "minute": 58,
+          "team": "away",
+          "player": "Pedro Porro"
+        }
+      ]
     },
     {
       "id": "wc26-mia-03",
@@ -4167,5 +4180,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-14T19:19:38.651Z"
+  "lastUpdated": "2026-07-14T21:57:49.371Z"
 }
