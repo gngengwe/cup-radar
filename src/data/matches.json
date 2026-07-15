@@ -2389,9 +2389,9 @@
       "group": null,
       "stage": "Semifinal",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 0,
       "atlantaMatch": true,
       "notes": "Winner Match 99 vs Winner Match 100 — Semifinal at Mercedes-Benz Stadium"
     },
@@ -4180,5 +4180,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-14T21:57:49.371Z"
+  "lastUpdated": "2026-07-15T19:10:37.465Z"
 }
