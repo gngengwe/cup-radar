@@ -2389,11 +2389,28 @@
       "group": null,
       "stage": "Semifinal",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 0,
+      "status": "finished",
+      "homeScore": 1,
+      "awayScore": 2,
       "atlantaMatch": true,
-      "notes": "Winner Match 99 vs Winner Match 100 — Semifinal at Mercedes-Benz Stadium"
+      "notes": "Winner Match 99 vs Winner Match 100 — Semifinal at Mercedes-Benz Stadium",
+      "goals": [
+        {
+          "minute": 55,
+          "team": "home",
+          "player": "Anthony Gordon"
+        },
+        {
+          "minute": 85,
+          "team": "away",
+          "player": "Enzo Fernández"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Lautaro Martínez"
+        }
+      ]
     },
     {
       "id": "wc26-van-01",
@@ -4138,12 +4155,12 @@
       "date": "2026-07-18",
       "time": "17:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "France",
+      "homeCode": "FRA",
+      "homeFlag": "🇫🇷",
+      "awayTeam": "England",
+      "awayCode": "ENG",
+      "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "venue": "Hard Rock Stadium, Miami Gardens, FL",
       "city": "Miami",
       "cityCode": "MIA",
@@ -4161,12 +4178,12 @@
       "date": "2026-07-19",
       "time": "15:00",
       "timezone": "ET",
-      "homeTeam": "TBD",
-      "homeCode": "TBD",
-      "homeFlag": "🏳️",
-      "awayTeam": "TBD",
-      "awayCode": "TBD",
-      "awayFlag": "🏳️",
+      "homeTeam": "Spain",
+      "homeCode": "ESP",
+      "homeFlag": "🇪🇸",
+      "awayTeam": "Argentina",
+      "awayCode": "ARG",
+      "awayFlag": "🇦🇷",
       "venue": "MetLife Stadium, East Rutherford, NJ",
       "city": "New York / New Jersey",
       "cityCode": "NYC",
@@ -4180,5 +4197,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-15T19:10:37.465Z"
+  "lastUpdated": "2026-07-15T22:00:29.882Z"
 }
