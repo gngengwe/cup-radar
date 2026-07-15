@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-15T10:49:24.913Z",
+  "lastUpdated": "2026-07-15T13:42:51.524Z",
   "articles": [
+    {
+      "id": "news-auto-england-face-argentina-in-second-2026-wo-2026-07-15",
+      "headline": "England face Argentina in second 2026 World Cup semifinal: Live updates - The New York Times",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXo3aWM4M1Y2b1FlNmNGekE5Wml6OEVzUjhmNmd4OFRSM1ZVX3NLMGdtenlMMFM2bEtvT0toYXlSQVVmV1N6U3VSeW9rRkRiWUwydGUwVGJzS1E1Qkh1c3BPRGRyZURsUm5wSE9XanNOSi1rU0J1TkhpcktTMEtDRUE5SUJ1dklib1Y4NUFVeWUyQUllbWJFUUV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXo3aWM4M1Y2b1FlNmNGekE5Wml6OEVzUjhmNmd4OFRSM1ZVX3NLMGdtenlMMFM2bEtvT0toYXlSQVVmV1N6U3VSeW9rRkRiWUwydGUwVGJzS1E1Qkh1c3BPRGRyZURsUm5wSE9XanNOSi1rU0J1TkhpcktTMEtDRUE5SUJ1dklib1Y4NUFVeWUyQUllbWJFUUVKaUFjNEFIaDVOSXRQbXVWOE5NX2s5enNjSTUtVzFkVzVXWnVSSzhtVnM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-england-v-argentina-build-2026-07-15",
+      "headline": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREZiemNPS2lvUEptd0FxS21ZeEMyeGFwbG96WWoxN1RURExXM2VCZEtFYU41WFo5WVJ3Mm9JZzYzOHlZYTltWmFFbzZKLTZST2w5Zl9LTnF5a1NURUI1N0RwS1BCNlhnSXNNTVlQZmhPYjUxNDdzaHJmMUxjQkl4RzY0NkxOeEdhWk5UcGlnNUZ6QkV1blVTVjJoNko4SGtYN1RZU19qbDZ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQREZiemNPS2lvUEptd0FxS21ZeEMyeGFwbG96WWoxN1RURExXM2VCZEtFYU41WFo5WVJ3Mm9JZzYzOHlZYTltWmFFbzZKLTZST2w5Zl9LTnF5a1NURUI1N0RwS1BCNlhnSXNNTVlQZmhPYjUxNDdzaHJmMUxjQkl4RzY0NkxOeEdhWk5UcGlnNUZ6QkV1blVTVjJoNko4SGtYN1RZU19qbDZya3ktTzNhZlVpbnNEdWV5QjBsYjc3c0JCZFZWQjNqdFBNNjFmUF81XzZscXhpRG52UHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-final-half-time-to-last-up-to--2026-07-14",
+      "headline": "World Cup final half-time to last up to 25 minutes - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eHlncnVEZXdqOTh5ZFFVaWRrMWxTTzY5VDctUU5lRzdrTnJYeHZLVXUwMkh6c0d0ZTJpNDU2VDM3M3c0MFBKVFdpSUk2UjIzRkdnUGhCaUktV3NrQ1hOM21USVF6U00?oc=5\" target=\"_blank\"&gt;World Cup final half-time to last up to 25 minutes&lt;/a&gt;&a",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eHlncnVEZXdqOTh5ZFFVaWRrMWxTTzY5VDctUU5lRzdrTnJYeHZLVXUwMkh6c0d0ZTJpNDU2VDM3M3c0MFBKVFdpSUk2UjIzRkdnUGhCaUktV3NrQ1hOM21USVF6U00?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-news-and-live-updates-usa-2026-07-15",
+      "headline": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ice-arrested-at-least-30-kansas-city-res-2026-07-13",
+      "headline": "ICE arrested at least 30 Kansas City residents during the World Cup in deportation push - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYTJTeUVTS3FXSThkSkhmQ19mcHdKNDFKaE5mbk1nVnpweTllOTV3LXloV0VDeDM5dVB2akctVkQtZnlYYTZIWlB2eWpkTG93bW4ya21remY5ZS1pcGN4Tmo3akstaHdKUi1OVUV5U2g5NWRfUkE0Z2Z0bkhBRlRPYjU2SVlOVXhJMC1hLUh4d2hjemQtNVRXZGxJazhrMkdzcXUtUE1Bb0d",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYTJTeUVTS3FXSThkSkhmQ19mcHdKNDFKaE5mbk1nVnpweTllOTV3LXloV0VDeDM5dVB2akctVkQtZnlYYTZIWlB2eWpkTG93bW4ya21remY5ZS1pcGN4Tmo3akstaHdKUi1OVUV5U2g5NWRfUkE0Z2Z0bkhBRlRPYjU2SVlOVXhJMC1hLUh4d2hjemQtNVRXZGxJazhrMkdzcXUtUE1Bb0doczB2RWJiQllsS3JvcENSa0hCSW1lSDZiQ1J1Ti0xVWxhczlXbEt5bDg2Nll1RHFIZzUyWlh2aE1ueXh3ZDhU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--everyone-in-the-city-should-be-proud-ka-2026-07-13",
+      "headline": "‘Everyone in the city should be proud’: Kansas City comes out on top as World Cup host city - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXlzY2NJTHVleTdMQXZta05nSHRXVjA0akQzWGhwQVlGSnVVZ19TdDNNbGZfNUZSbGlfb0FBMFd6dzlKeWNrdkV5enZUNS0yWUtmc3dhUUppWF9maGVDemVJbGp4Yms3ZXBJb0JVU01qaGN3R1JKdzRydl9GMHFrdldLMVl1czR4LUdYN2VfQUVsMUFvVnhyVldWX2dLZ2QyWHNod0U1V2F",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXlzY2NJTHVleTdMQXZta05nSHRXVjA0akQzWGhwQVlGSnVVZ19TdDNNbGZfNUZSbGlfb0FBMFd6dzlKeWNrdkV5enZUNS0yWUtmc3dhUUppWF9maGVDemVJbGp4Yms3ZXBJb0JVU01qaGN3R1JKdzRydl9GMHFrdldLMVl1czR4LUdYN2VfQUVsMUFvVnhyVldWX2dLZ2QyWHNod0U1V2FNQVRUNzh1UWpHaTc3V3ZORGU0MzlnV1AzRGxMZkZ6V2RB0gHPAUFVX3lxTE9ockVSdklEcEEwWThrTVV0SlBlaHMyMVI1N0xiRWZENzU4eTJjd0dRbTVHZ1kxeWJ4UUZBT2pkUVctQWdGM3FFYkhoRWVGM0JQQUNxMDdtTHAtU3F0ZHNRd2xhWWNPUF83ZzdSZjlDT0g2aGNvVlBGcjJtRWU1U0J6RHl3SDZEUXROMVJvSFBQc0NYZ0JvazdUZF9HTzFUSVlhYUhiUlkxUVh5b2dRc0E5dVNyaks5WjlvTnJCdmlNSklxUjF3UllpeHVTYml5SQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-cleanup-begins-across-kansas-c-2026-07-13",
+      "headline": "World Cup cleanup begins across Kansas City - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE94MHhoSzJyTjlKdDQwVHNXWFQ2MXJ5a3pSUThZUGVCVXktbEs2UVRZRGZ2bnJBbkphTzJoUW1ncmNIRVUwaFN6WVc3aHM4RXhqa1QyUXNjOS0weF9HZE01TlBVdEZhcmVvTDVHWXJtWGNrVTNWM3JESmZB0gF_QVVfeXFMUDJYSzNQYUxmdG85SUpxWFpEeVNXd3hHRm5zWGZ3VklOd2JtWXV",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MHhoSzJyTjlKdDQwVHNXWFQ2MXJ5a3pSUThZUGVCVXktbEs2UVRZRGZ2bnJBbkphTzJoUW1ncmNIRVUwaFN6WVc3aHM4RXhqa1QyUXNjOS0weF9HZE01TlBVdEZhcmVvTDVHWXJtWGNrVTNWM3JESmZB0gF_QVVfeXFMUDJYSzNQYUxmdG85SUpxWFpEeVNXd3hHRm5zWGZ3VklOd2JtWXV5cERqM3NDdWM2bndXRlRVMURocU92SWo1X3Bjbk1lQnFiUEk1cnJabnpadVZXN1FyTU9vMjIwNlluaG5rOE9BdDB6M0puV3lsVGJ3RGdFWUYxMA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-fans-turn-stadiums-into-platfo-2026-07-15",
+      "headline": "World Cup fans turn stadiums into platform for solidarity with Palestine - Middle East Monitor",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1A5dW93MHdHVC1aWWlxYjNYT3JfZ18tamQwdlkxSmo5T0tNeHc4c0wzdjFjbkV6SEJ0aXloUUU3SFIxUWhMTm9zS1VXWTBSUlcwd251OVpoNldiUE84aldzQ1NtWGpram1SSi1DNkQ2d2M4LWJldTFXSVZkazhpSkduQjMzTVljVXpSeW1UT3R4T3VMS3MzUzljNjFDUmpndEV3S01EREt",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1A5dW93MHdHVC1aWWlxYjNYT3JfZ18tamQwdlkxSmo5T0tNeHc4c0wzdjFjbkV6SEJ0aXloUUU3SFIxUWhMTm9zS1VXWTBSUlcwd251OVpoNldiUE84aldzQ1NtWGpram1SSi1DNkQ2d2M4LWJldTFXSVZkazhpSkduQjMzTVljVXpSeW1UT3R4T3VMS3MzUzljNjFDUmpndEV3S01EREt3V0x2V0o3YjVKYjZKd0XSAbwBQVVfeXFMT3lNckVhWWFsbEhCOUt0VGd2YWxoNFk4UWp3OEN5M0RpTkhPZ3QyS2wtbXp3M3RWbl94dHA1UUsxMXRnNEcyQ21Xb3p0a0s0UzVabWxyRXFlY2YtTl9iRnVBNG9BUkFfWWlkSy1tU0JWUGJoVXB2VmdtaDFoSkJvNm16a0NaNUUwQTg1MVRac191ZkFLTVlQWFJWWXA1OEdrYUdPRVczRTRqNmxSUWJkQnZKTWpibGl4a1I1a1o?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-07-15",
       "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 15 - Mashable",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-14",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PT1VJcUpFMzFnY1ptYTF4c196VG5LbE8yNnhmNEEzUUlLVmhiYWp2bWgzcmdmOGhqczFtc1hhdnlneWhQdzN1YTdQN3VDMXNLU1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-win-is-most-watched-world-cup-qu-2026-07-13",
-      "headline": "England win is most-watched World Cup quarterfinal in U.S. English-language TV history - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2ZWaGM4VUhvOEF5WVlwMFQ0S2hxR0I4NnU0UERHU0I5ZUtMRlJWRTRDVVhnWWlGaG55MGxZMGo5cTZkcHdDOElhWU5pb05uUm1nX2hMWkszSmEzUFNNeVBhaUhadkNKZUc1TllOLTNseHRadWU4clNBMk9hZlVQdGMxSTFySmgwOW02d0NsNDduSi1jaHdLOUVMQ0dWRDZl?oc=5\" targ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2ZWaGM4VUhvOEF5WVlwMFQ0S2hxR0I4NnU0UERHU0I5ZUtMRlJWRTRDVVhnWWlGaG55MGxZMGo5cTZkcHdDOElhWU5pb05uUm1nX2hMWkszSmEzUFNNeVBhaUhadkNKZUc1TllOLTNseHRadWU4clNBMk9hZlVQdGMxSTFySmgwOW02d0NsNDduSi1jaHdLOUVMQ0dWRDZl?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-pioneer-square-businesses-eye--2026-07-13",
-      "headline": "Seattle's Pioneer Square businesses eye future after FIFA World Cup 2026 - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlF4VWlGdHdGclZsVXd5YnU5RlVtZ0x6ajdQdmtCWjAwNllYdVRqYTloUUJKcTRzbXgyeWpObkJ1ajF0UmR6a0dlMzdFRkJJbjRZU1ZOSmhac3g2R3ZRZFNuSTA0VDZsZFlPVXkwNW52X202YzgtNg?oc=5\" target=\"_blank\"&gt;Seattle's Pioneer Square businesses eye",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlF4VWlGdHdGclZsVXd5YnU5RlVtZ0x6ajdQdmtCWjAwNllYdVRqYTloUUJKcTRzbXgyeWpObkJ1ajF0UmR6a0dlMzdFRkJJbjRZU1ZOSmhac3g2R3ZRZFNuSTA0VDZsZFlPVXkwNW52X202YzgtNg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0pMUGtCTHhzTTlKV2V1TkZIZFJPUmlaTTdPeW94MUdGTGJLU09FZTFpbUI1blBDQkdmT3NYMlgyWTZKSTNSU0h3LVNXNjQzVlBSQnQwQkFBWlJ4R2RDa0JnQlVoYkJ6UEFmdkd1Mm5RbEZ6OUhPeENkZmVFYTJlTEtjUWxoQ2pZWHNYQTlIUHByUi02bFBzNUVOVzNMWEQ0ZC1YYVI5Tjl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0pMUGtCTHhzTTlKV2V1TkZIZFJPUmlaTTdPeW94MUdGTGJLU09FZTFpbUI1blBDQkdmT3NYMlgyWTZKSTNSU0h3LVNXNjQzVlBSQnQwQkFBWlJ4R2RDa0JnQlVoYkJ6UEFmdkd1Mm5RbEZ6OUhPeENkZmVFYTJlTEtjUWxoQ2pZWHNYQTlIUHByUi02bFBzNUVOVzNMWEQ0ZC1YYVI5TjlvYlVSaU9icVkzQ3NhS003Qmtwc0szOVNlMy0zdDhMUzl3T09oLWFtb0lveGV1SlBPUkZDMV9GemQyQTh2YzhYQVBiYnphMA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-pens-short-goodbye-to-kansa-2026-07-14",
-      "headline": "Lionel Messi pens short goodbye to Kansas City ahead of World Cup semifinal - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5DZXZ1eFJTUEFCRkhUUHYxLUoya3dVblBwcks4bnpkLUY5d2Y5cExsS1NjU2JhWW1jd2ljTnBYUzNyZEpFNGNRY0VPanRSaVhWUFNfenB6QmtrN3lKMk1zSUI2TjF5alR1Zi02cFBDeU03THp1T29iV2hR0gF6QVVfeXFMT1RJY1F0UEVyd1hfZVhELS1yZmNyRVBjU3FZdnlzT3ZhcXBrM0N",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DZXZ1eFJTUEFCRkhUUHYxLUoya3dVblBwcks4bnpkLUY5d2Y5cExsS1NjU2JhWW1jd2ljTnBYUzNyZEpFNGNRY0VPanRSaVhWUFNfenB6QmtrN3lKMk1zSUI2TjF5alR1Zi02cFBDeU03THp1T29iV2hR0gF6QVVfeXFMT1RJY1F0UEVyd1hfZVhELS1yZmNyRVBjU3FZdnlzT3ZhcXBrM0NqUzR3eWVlWXRaaElqVWhoSnk5dko1akIzREJGOTljUU9tVW55VmREYl91ZzJBQmFJclF1RFdpU1dyZEtYLWk1ZXhWc3dvZW1MazV0SEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-and-argentina-departing-kansas-c-2026-07-13",
-      "headline": "England and Argentina departing Kansas City for World Cup semifinals in Atlanta - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnhrWERkaXgzNGlIV3haRDVObmJEelFwcC1IZk9ScE56SU1acTdLY1BIQl9ZWVh6dlYyMkJkYnhKVkRzUlpKaVFucGJrbk5hYU5TcjVRU3VkcGI5WGw5LTJMUVpEdFZwZTA1UUd0Nk9iSVkyaFY5aUZWUzVpNEJxNUdLeEhSZXFVcmFIMGFQZVZRbFdfRG9IRUNBZ3loOTAzX1VDZkhRc9I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnhrWERkaXgzNGlIV3haRDVObmJEelFwcC1IZk9ScE56SU1acTdLY1BIQl9ZWVh6dlYyMkJkYnhKVkRzUlpKaVFucGJrbk5hYU5TcjVRU3VkcGI5WGw5LTJMUVpEdFZwZTA1UUd0Nk9iSVkyaFY5aUZWUzVpNEJxNUdLeEhSZXFVcmFIMGFQZVZRbFdfRG9IRUNBZ3loOTAzX1VDZkhRc9IBrAFBVV95cUxPU0tVRDMxaUhyQzlldGRNMzI2X1pOZ0hvbkltX0h1VUFaYXBWZWthWkQ3VXY0QXFHSWh6ZVBSTDhYTXZLZmRsbHFkTXZpam1DSmZmdmd1cERWdS1YbHI1WFpNTDFBeHRaU3ZxOVZ4MHlsMHpFSEhFREVsSlJYdVNubnFTRmtSOVhGZWRzbE5QQnhvWGFHQmlVcDl3WE41TTZfbkZkSFZwekZ2ejNu?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-look-ahead-at-what-s-possible-for-kansas-2026-07-13",
-      "headline": "Look ahead at what’s possible for Kansas City after World Cup - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObmxJUTB6TXVhdmtkMF9EMk1URGpiYXJ2OGxTckMtWEROekpWNjRJazBSOHRBRkJaSVdlVm43MlN5c3FiS3NabkRHc2t3dHJETW5XQUtzcG9YQXA2YmhIU09XRXo1Mm9UeDlGUTNMejEtd3I1NHJDLTYwT1hrZHNQaTdzV1h0bjdGTEE5TlQ3X1RGNzd1NndaS2JMU1FOckpoUnF0eUZMUXN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmxJUTB6TXVhdmtkMF9EMk1URGpiYXJ2OGxTckMtWEROekpWNjRJazBSOHRBRkJaSVdlVm43MlN5c3FiS3NabkRHc2t3dHJETW5XQUtzcG9YQXA2YmhIU09XRXo1Mm9UeDlGUTNMejEtd3I1NHJDLTYwT1hrZHNQaTdzV1h0bjdGTEE5TlQ3X1RGNzd1NndaS2JMU1FOckpoUnF0eUZMUXNXekdzRmxheS0xY3E1QVZPX2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-huge-crowds-at-fifa-fan-festival-s-final-2026-07-11",
-      "headline": "Huge crowds at FIFA Fan Festival’s final day in Kansas City - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQekhkdmd4Y0NPaHAwTTB1RC0wQzFvYVFpb2wxeGhodEU0VnRYaVZLUW5GLW5qeEZxQnJldVNjUWtHRE1FV1d6NTF0Yy0wRkNuQmVUbHktRGZsTzR0bTdNNlFjMnRJMUtzOTlnck1qWWtRQjBSa2dmOHFTY29iQmNVMmYzQ2tFdHE5NEdMWUl6Q1FNZTN5YnZNYU9TdWE5Mm5GcUHSAacBQVV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekhkdmd4Y0NPaHAwTTB1RC0wQzFvYVFpb2wxeGhodEU0VnRYaVZLUW5GLW5qeEZxQnJldVNjUWtHRE1FV1d6NTF0Yy0wRkNuQmVUbHktRGZsTzR0bTdNNlFjMnRJMUtzOTlnck1qWWtRQjBSa2dmOHFTY29iQmNVMmYzQ2tFdHE5NEdMWUl6Q1FNZTN5YnZNYU9TdWE5Mm5GcUHSAacBQVVfeXFMTkNscEtwanBDQ1JjMGF2cERIUFF4OHozTzNwQUxPckdZZ2piNHJtSEFldGFGMXRGazJqRFBoZnczWjBOdU1aSHBIZ3premp5S0dFek5TcGEzVE1fLXAyeU1TNVMtVHlNSDE4UWhnZFJTanZRUHJjQkYxNk1ISmhjWFBEV3Z6c2Q0c2FSRy04aTFaQktNNW9pRnNxVHRSZ1F6TTRjbHBRZEk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-viral-german-soccer-fan-who-captivated-a-2026-07-13",
-      "headline": "Viral German soccer fan who captivated America during World Cup trip makes dramatic return to social media - Fox News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHUzNG4zekVtOW8xVHBlME0yWVd5NVl3Y0QtdkE1d29nZDZyZW5SZnFENGxmSTh0b2JYUDNiZWNXbkZySnU4R2J2NGFFMUFNZVk2UkVtSU1BbXdpSUpXUDJjejM5ekFlWW5VcHFxYUlCaUh5X0JRZkhTM2lLTFdzcC01VnZxYzNVVUxrYnk1ZkhoZkhYYXN4aXRTOGptbVpRN0ZDWTIya2t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdHUzNG4zekVtOW8xVHBlME0yWVd5NVl3Y0QtdkE1d29nZDZyZW5SZnFENGxmSTh0b2JYUDNiZWNXbkZySnU4R2J2NGFFMUFNZVk2UkVtSU1BbXdpSUpXUDJjejM5ekFlWW5VcHFxYUlCaUh5X0JRZkhTM2lLTFdzcC01VnZxYzNVVUxrYnk1ZkhoZkhYYXN4aXRTOGptbVpRN0ZDWTIya2tSUWdzU3N5ZGF4eVlSeE8wdGx5RGJyM1I5MGZSd2ZHX2RPUQ?oc=5",
       "featured": false,
       "draft": true
     }

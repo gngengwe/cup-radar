@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-15T10:49:27.610Z",
+  "lastUpdated": "2026-07-15T13:42:54.310Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 229,
+      "chapterCount": 230,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1850,6 +1850,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzNOeU1TWEJMWnlVblFIZ0VzZDh5eXp6dG9NTEVSbGFMbVl4MlkxSmYwVWNqNmJSQlprZ093dHU5b21tendkMGVLVGJTUlo2Z2tPNGZiQnFJdkpxUy1sNndfQTczSXQ5OXloRTJTN1VoSWs4aG1qc0pteDhwejVtVDBRYnpMUi1JMUNtdDQwQTg4NWdpQnJNTHB6ME5CamhTVzhQeVd1YmhBTknSAbABQVVfeXFMTlhYaFV0ekN3LXFUUElTMjR3MUZqSFdzSENoQ05mVEtkTHdhRlJ4bnhoZzZpbGNxS01QZG1CX21GODlwMklOQ3ByVXJNbzFiOEt6WTdoUXZoMEgzUFY0enpPN2tfSGJRTTRLblgtZUpENEwzZ08tZzhzV05RZmJpakYwem5tYlA4TGl0LXByRXUyTjNsXzhzLWNRRFJmMzJuVTlPQUxIQ3djbVZNV1AzV1g?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784122972054",
+          "date": "2026-07-15",
+          "title": "England face Argentina in second 2026 World Cup semifinal: Live updates - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXo3aWM4M1Y2b1FlNmNGekE5Wml6OEVzUjhmNmd4OFRSM1ZVX3NLMGdtenlMMFM2bEtvT0toYXlSQVVmV1N6U3VSeW9rRkRiWUwydGUwVGJzS1E1Qkh1c3BPRGRyZURsUm5wSE9XanNOSi1rU0J1TkhpcktTMEtDRUE5SUJ1dklib1Y4NUFVeWUyQUllbWJFUUVKaUFjNEFIaDVOSXRQbXVWOE5NX2s5enNjSTUtVzFkVzVXWnVSSzhtVnM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1868,7 +1876,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 238,
+      "chapterCount": 239,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3773,6 +3781,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQS1icmhGRFNnaEZ5WDNRdE85NDk4bUZYUnY2Y1VuRC1NSVNyekI1VFZXNENkOE8tb0lWdmMybGhmRVJVaEdqSjdBZWhZaWtrRWNtOXI3SHROZ1dlcXJXMk9veHYtRHB1REZkdGJ2Ynh5cnozWGgySVBpcm8wYXlrc2hKRzc5cDUtYk5hTFJ4OEZXaWs4aG1lajlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784122972606",
+          "date": "2026-07-15",
+          "title": "FIFA World Cup 2026: 'We were too sloppy technically', says Mbappe after France's semi-final defeat to Spa - The Economic Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdHl0Z2RnTjQtMkZNbkZHSFppWkFQYTFrZWxCVGhqZjZycVE4YzFfREstZUM4U0E3ZEpyeUp5VHUzTnN1bXNwd2R4WFlpZFNVcWIxd3g4aFF0Q192czh2OGp2MjlOOEUtN2FUOW5waXFQQXgxMHRHUlFGakN4SFQtdzhueFlRVEJ6VUNsMXZ5XzNSbGZoMnpZQk9nMVBpNEhQQWNDakpJUkEwRm9fNkd3eGk5SjJBNC1NdkxtamF4RGNHRW1sUFd0bFNYa2psY2FGMXRzSGRPMlp1NUdEVU1tdG0tODBmd0FGMkVXTm50cGZTcW9QRTBWUFR2M2Z3djdmRElBa0JVZUExUdIBjwJBVV95cUxPTEljWDRja1NiQWt6NVA0Q0QtZGxFaXByUmtaNjI1ZTRHRmFFOFpicEM4eDRUVjJieDl0Uk5rUTZHX1NuRzRmYWFCaUtTc0hKSmFTR2FOZVc5Tjl6NGdJY3Awcm02TVh1QkFrdnB4eHlnTHpENXZMRG9QLW1tenhWVHNqYjhURlQxN0N2TlozVjMwYmhQZFl4VV82SWtDMkhjaEl2SkJUdGd5QnhDVmU4TEdmZDRjRENBNm83ZThVbkNQbWFvM3dVZl9ZYWVCTzdZYzBJMDU3ZndiUnRxWG5SUE9SLWJ4ZklnTERrQl9FNVp1MV9QNmMxb1U1VVh4OFlVRDFtWGdaLXVFRGJTZkJZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3791,7 +3807,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 507,
+      "chapterCount": 508,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7848,6 +7864,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUNVZkNDWUhOcmlFNnRXYVRtUVRrTXVobmFOc01BdTJidThsS1B6V3FBUUlELWFyRzFESTZla3lTUHFtanBtYk90d3NBdEh4Q2pEcnU5bnVOQ1BoVWJ4WktwQnZyWkpTOHJSejlQbGVkQmhubU5xVmttNUdyOEZHQUtpY2Y3X2JLV1c1ZnRPb1paLW5odDVhc3RhVGdDYm8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784122973108",
+          "date": "2026-07-14",
+          "title": "2026 World Cup: How to watch all of today's games, Saturday, July 11 match schedule, free streaming info, and more - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaWpJYmpxdWdiMENYZ0lRQ05vcHU1WnQ0M3lJVVFBM2VyTy1hUXRRX28tVF9ia0ZjZlhObDBDMjEtV1Vlc1B3OHJfYnlpS2doaUVMQk0tRXNZUDctcUpRZXhvLUdDUVU2S3k2TzkzSzdkWkQ1RHA0WlZtQ3Y0NjV6Z3ppWFFCWTJyMThUNU1KVUk1M2pIQ1ltX0N4a0VqLUJuMEF5WnFpS2JWQ1FSSnZYU1N3UzR3MXhEWnFsRUh2Q0VOU0VBYU9qa1A5Wk5aSFkwQWFhWXZMTjloXy1LS1kyLUt1eVRXcFZHSmxmYk9HLVhSUnZT?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11752,7 +11776,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 583,
+      "chapterCount": 585,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16416,6 +16440,22 @@
           "title": "Are Spain the best team at the World Cup? Can England stop Lionel Messi? Day 34 recap - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVlIdjM4SFlZQ2RqcUtsQVBSRl9WR2dfNGp6WHV2R1pMZGJPUHZpZlhJS3BhM21kRmg1clBGa055RkRjOEl2Y2VKb3JkR2J1cEQzNmdQaENQRlZyOHd4VU83c05MN1RNOXFZbjNhOUhIYzRraF9XOHgwU2dFcjVOdmh1WUlSekw4cWJINTJSWko?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784122974310",
+          "date": "2026-07-15",
+          "title": "World Cup England vs. Argentina semifinal reignites painful historic rivalry tinged by war and cheating - CBS News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRETUVRa3dPb3hWbExVc3kzNGY2a2t5S3pKR3JhWnFYRmN2NmRPMTlNZjR2bXQwckI5Mm9vcFpwcUtYVGZrd19Kc2oxV1BBaURkU0ZsVEtTVmxGWUZmbjRIVG1jX20taFR0ZU5XNmpGUjJtRTNpRTJoajBEU2dEUXJhLVY0RUkwa2NvV3BFY0RrWW5vUTVtQ3ZWYmFVNVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784122974310",
+          "date": "2026-07-15",
+          "title": "World Cup: Djed Spence, England’s first Muslim player, lifts hopes - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnZWM0o1TVlCNm9TZG1CWjlxU0VSc2wzXzh6d0F1cWozYjNCQzYxWlZCMEZNbm1Rb0NhOWt6RmJvcElGdlZUOGhRbjRfNGNIcUxUdHlYVTFKOUhVWl9OckVkemZkUENBYktZMUFsTF9xZ0MyQUtJWXJwYWtyY0xxWFdMYUZKT1BBZjFfcG9aWDV3b285VFE1V2w5c0t6Qkl4V0tuMGxuQkfSAa4BQVVfeXFMTUUtVlZDTTFUeXYwOXlWRjNoMjNKX21wSnVyN29EMmlMSWwwOUY1VTd4akRVZ2hqeXhWTERWNllYN1EwVUFkX1p6U2t6cGVtOHpXOU5TQk82Qmx0cEx5WnFiOWRiVjRjVFJwY04tMHMyRlFmUDJnX1J6LUZlUl9ZcURWOU9rZGpHYWNTLV8wdjJUYkZ4MklXY1NQanF2b3lEb292X3BUdUVodVZnaDNR?oc=5",
           "draft": true
         }
       ]
