@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-15T22:00:27.439Z",
+  "lastUpdated": "2026-07-16T05:40:52.925Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 234,
+      "chapterCount": 239,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1890,6 +1890,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjJldmVWNmFyZkkxcnVXeDJEWXUwQXoyTS1wOVZxMkk4WURLbVNDNEs0RFF4WWpUclRYT2dON2lQX0N1bk1nMW1FYzZFdVZwSkNhcHhubW5ZUEozUlhhWWM5SkphR0dVb3BpVXJ4ZnFhRFcyM3hYcVQtRmo0WmoyX0kxQXVuS09uOXdSUmVaSkZxZmdja2RsUmJmUUTSAZwBQVVfeXFMT045RzdaWjk4RjQ3LXZGOFpLcXZuQkd2TlFZRXFOQTJpQzVSeGF0RF81X3JsdHFRRGNGYkJETDlmNnVCUEE4bmppcUd3R0d4Y1RmdU1pQlppbWctZ190R2ZGNE1MVkpDWk1JTEdIbVRyZ1FvMndZdVZuRUlBYXQ1MTFrZjFZUnZzZ3pGQnV3bUZFaWhXUkpNZ2JPMWl6?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784180451066",
+          "date": "2026-07-15",
+          "title": "'That's why he's the king' - Messi sets up third World Cup final - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YOXhJc1FYTHN3ekZEZ24zWkdidDY4dDZnUUdsRVA4WjA3VnNiODNXVXZnUmhxdkg1ZHA0UDltZnpuVEZ5cXo2MlhmdnY4WVdPSy1rVlEtZlZjanhWbDEtZmJpMHlfVUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784180451066",
+          "date": "2026-07-15",
+          "title": "Lionel Messi fuels Argentina’s stunning late rally past England into World Cup final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJiVkQ4amMtZ2thVFpPZlNfOUg5eXdfSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784180451066",
+          "date": "2026-07-15",
+          "title": "World Cup 2026 Early Guide for Messi, Argentina vs. Spain Final in Bracket - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDRsYVBhYXBrUDhyRE9LbTM2WjRBTWhZRGlVbl9tdHFuUXJPMzNmY1pjdjUxYnFJcXhJd3doQ09Cb0JmZlAzSE1heVJwaUpUcDd3RzBZeUc1dGR1NEwzNW1DZ3lLTWY2TU91QUVIZ1BVeVBWajg5N3lmSksxWkdMSEVkckJLdU5NS2gzdVVMcE1LbFR4dGZaT01PYnBiNy1oN1YxRzVpTU1ybk0tdDFJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784180451066",
+          "date": "2026-07-15",
+          "title": "2026 World Cup Final: Spain is favored against Lionel Messi's Argentina - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFZCak5zMF9wVmIyN0RUWFpTdEVlZjljaU9yRzU4QXNtQnlrZjVtRzJJWW5Rc2VwMEtBOGh4aVp1SHJZbXdhY09MVXFkNDJjR3NPVWRoVk9VMXFTSVdvNmtPWDJNZmhpV0tsTmdkMkYta0JpdHBrZEppeEYzVVZMTUZrUkxEZkF5RDNSdUl5WDVueTVfcU9mTnM5NjRZZUxHX2pxUmUxZWJJaEROTFd2bXRnTVFidnV4UmZOcDJYV1BOalVXbkNidU9sZng?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784180451066",
+          "date": "2026-07-15",
+          "title": "Messi, Argentina Beat England, Final Match Stats, Highlights from World Cup 2026 Bracket - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTg0WGlsZ1ZTaXlKRUpjQUZsUTZHa1lnWldJQW5EY1dSNF82LW94Qkt4dFdxdDNYZ0ZzdmVvc2E4Q1VNUUxyMUZEVnN1Ty1PMlBRWjlEcmYxajV3VUt4b1lDRVhEeXpKX3k0enZNdjhUZlRBblREWHJxcVJxMXJFYnpuV0JOZjhoUkpUR2NkZ2pXbEsyUlBOSkVKaHBEUk5zOWF0d1R6OFZYd3FMQ3BsbExQQ3ZBTGdJSTZyUlVtclBqR0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -1908,7 +1948,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 240,
+      "chapterCount": 241,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3829,6 +3869,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2RKbkl1S2NKWEhLQWgzTGtHVVdjYnZwb0VqTjhUZDJVQlJHeWpMQkFQUzE2clZwWWFGb0lTWm50ZFJldzVzSjdxRzBrMk94ZnJhR0VsOWY3WDZnMnE5dkUzZVd5QVVYcFZNVnNicE5tQ0xlOERsZUhKLWV0T3NTM3JrcjUtTW8yU1hGVmdyX2RoUklybVI3aElR0gGaAUFVX3lxTFBmUHFpbEthblFydDdHMEl5dnlCNU80RUZDa0RBdTlvMWpNQlVXN2YtZHdwcWRxR056eW42UjFaalF2UHBBcnJnRGFsQUh4UjZXNHZ2Q0FUdnpIaklzOFRKZFQ1cHNqYzlXNDJmRHl0VmxITjkyX3NwNTBRN2ttbm41QnRQMmtsR253dWh5SV9IYVhkSW9SZmN6dlE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784180451500",
+          "date": "2026-07-15",
+          "title": "Kylian Mbappé feels sands of time shifting as France suffer fresh World Cup angst - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTZoVVZPakY1SzFlNFZmdDRZUmJ6al9ZNlFxRjlPc3kxLWU1QzgtS3NXWVZfcXBneW1lSHdaZ01sUDFfTVdKT1RVT1JheDF4cXNGZDB4QkhGeHVWRGYxR3BKbXd4cXVOaFVxT09LdGpCMnNsTGJvS0dmSy16NmR6enVzdVBkczhCbFBlT3Q3SDhKOWtXQWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3847,7 +3895,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 512,
+      "chapterCount": 514,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -7944,6 +7992,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU05FcVAza1R4dnJSMmgyVXZ3VzFwd0s2V3NWVHNXSmhsUy1HX2Vaek5WR3VmMlg2NkJsX1JQQUpGZUM2d1BPMWVCY0c0Qm1GTjNsYThQWW5xYUF4dG5ENm5WWXhyVHFQdnN4VEpFZk5GSDRYUmFzWHFyZEM1eURyVXRPZ2FVT3VvT2dUZ1lQMFM3YUVqVV9IUnpyS0NKM2lyNlNWMm45akFhWVBDTUVOV1lNbnZvZWZWdFgzd2pPZ0lueXMx?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784180451942",
+          "date": "2026-07-14",
+          "title": "World Cup 2026: Folarin Balogun describes how red-card controversy affected USMNT — 'A lot of outside noise, and that's hard to avoid' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcmU2ekxCQTgyTnRJYkJaODRObGFHc1FwRnd6LXduRE9tS2RiY2xQbElLUVR0OGpqYmxfck9lLUw1OWhEYnpJWllkam9TbU5WSnkycXVUTmxSaTVXNG1MMDhVMXMxRGhXaHo2VnVDUFQxeURvTHZCOV81aWNPTjVzZXBGQkxpb1ZYV1dfR0g5V0xkRzQ3bG4tdkptUGxDMlo0ZmpIclZCeUNfcUp5azNLQ1JXdDJCeGVNRHNqZ2pERzlOOFV0UUtVUzE4WmdfWnJPLXpFRExLT294TXBvemxCVmZCdm1YVzhIQ1ZkdkQwdlhNSVAyNjcyM0ZtUGlpdUplVjYyR0hlSEdRVEVFZHViag?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784180451942",
+          "date": "2026-07-15",
+          "title": "How To Watch Argentina Vs. Spain In World Cup Final, Including Closing Ceremony & Halftime Show - Deadline",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnNlbjM2c3hJcWo2TGhORzVzRC1rZWJLck9YX2JsM042bjJ3U0t5MDNPRTlxeWNkb3ZSVDJVZmJic0pOQXNkMTFNYlMtWEU2VHE1WXdIWXR3djkzbDRHQm5yU0QwanZNeGhxRDh5b09ySUtkWFFqak9KMVdNSm5XUE15SmVobXhWaUI0Rm5vZWlVZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11864,7 +11928,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 595,
+      "chapterCount": 597,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16624,6 +16688,22 @@
           "title": "Argentina stun England with late comeback to reach World Cup final: Live updates - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXo3aWM4M1Y2b1FlNmNGekE5Wml6OEVzUjhmNmd4OFRSM1ZVX3NLMGdtenlMMFM2bEtvT0toYXlSQVVmV1N6U3VSeW9rRkRiWUwydGUwVGJzS1E1Qkh1c3BPRGRyZURsUm5wSE9XanNOSi1rU0J1TkhpcktTMEtDRUE5SUJ1dklib1Y4NUFVeWUyQUllbWJFUUVKaUFjNEFIaDVOSXRQbXVWOE5NX2s5enNjSTUtVzFkVzVXWnVSSzhtVnM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784180452925",
+          "date": "2026-07-16",
+          "title": "World Cup 2026: England beaten in semi-finals by Argentina - reaction - Yahoo Sports Australia",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04X2FzbkR3QlpORktqMWZBbG9ENjFnaEo2NVZOdDRUZk5MNk5jcnY2S015Tkc1d3lGVkNmM3FoSFp4QTJmbl9TcjFUY3hyOVR2Slp2ZTZwbUNGWHJrOEZ4ZTljby1xQmp2NWVzMGVxWHlJOUZnSHBRQU82NHY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784180452925",
+          "date": "2026-07-16",
+          "title": "FIFA World Cup: Jude Bellingham Slaps Argentina's Valentin Barco In Heated Post-Match Scuffle - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXVraXFNcTYwcGdlMmJDS2Mwdlo5TjRKWjIzQkd2T05zRGhpZ3JCRkdyenFWQW42N3hhanU5V3c5OXJlMm5KVmt0WjJiakh5YkkzNXdqRk9jMjRZWFN1UWNXZU9tVkxIbDlyLUh1NVZkZGRZZGRyc05hbHhzWHh4M29WZENnNDlzWlRPSC1XVnlhSTFhVHZQZ0xQdXdJM3pNMi1DYm1JS2pZQWJoMkFsc0hRQzREcHlQV2NxYlNMSU9KbzhvN2VzWENQbU1QdlAtMklBTDdJUFlNUFNNN0luY0VIYW1sSEw4ZE5j?oc=5",
           "draft": true
         }
       ]
