@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-16T13:49:56.095Z",
+  "lastUpdated": "2026-07-16T16:17:04.983Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 244,
+      "chapterCount": 245,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1969,6 +1969,14 @@
           "title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzVycktNdjduZG5sN01RVi1uUl9mVFc0bGJSTTNJY2J2MER5S1IxbVNPYTVzdFZTMlhzZDJIQkxMaWxHQ1lzdV9ESVZIVG41ZjFRY0U1d0VhYTk1TmFKVjhTVFRrLW5GSjhrcFNYdVFMcERQZi1FQmFvQVJkZEV6MDhtWFVpRzJveFNSM3B5a1JzME9Pc0h0ZTcta0tHNV9pU0Y5U2tTMVhfR2p6U3paRFZSQ2vSAboBQVVfeXFMTnlMcjZsRG14ZDRfVEdDbzlYaVF3dXV2LUo1RDFSelVfQlh2VXRGMHpGcUZCeGRJVzJrTWpseThxZWRNeDhjQ2RFd2ViQTk3ZmlNRDdIcHhIWU1sd213MU5zS0prN2tUZ29faWU1Qy1LOXBQQ2kwZ3ctbmxuY0FjVElwYUZiZUEzdVVuS1ExV3lwOWtJZGQ3clNkYmJKT2tSSGhMWkN1ZU1xMmRoMDRQeElKVGdGRW5uYjVB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784218622613",
+          "date": "2026-07-16",
+          "title": "FIFA World Cup 2026 stats: Messi 33-25 Mbappé, Messi 10-4 Pelé, Messi 99-71 Maradona - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3RZcWtkSmtoMmNjZkpCdzlvU0pERkdxOEU5YkFhRUJwRUh5eWF6MHV3VEJrcnpMcElRakRuWndkeTVPVUY1aE0tMDB2dVdIT3Rubjk0cWJ6dUZMRGNWOXozbGUwa1F1ZEp0MnE0a1laYXVzYk82dWxvU21CR0FwUjNQMjBUbW1xcGtQRVBFcWhKNWVDRlBHQ01QMXo1Wk5fb1E1RmFzVDJFUkVzSS1uNjlwT1lJMnVrUXRxTlBuRTlqYnowcGJSRXRnNUhQOFdtYzNiOVA4YlE5VEluQWJzckk0dkFSbEktT0p6VFBxUm5DZXBu?oc=5",
           "draft": true
         }
       ]
@@ -12008,7 +12016,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 604,
+      "chapterCount": 606,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16840,6 +16848,22 @@
           "title": "World Cup 2026: David and Victoria Beckham watch England's defeat - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TME15clFibXo0T1hDb0JIWGxjZVdmMG5mTXpKWGhOeUJrU0dxU3NCdHZmcTJVblpEc25FcDF2MFZaYVloMGtuVVhRdWNabWpUQXJEQ3lMWHZaNjFIV1U5MDBFaDA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784218624983",
+          "date": "2026-07-16",
+          "title": "FIFA Is Facing Calls To Cancel Third Place Game on Saturday - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3B1M0dSVGRuSzItcmphX1JTSER6Zlh1T2xUX0g2WFdub1U3Rnk4MXNaQ0E1NUVaaWppT2xXYzdUdUFBQ29xWXFsRS1xX2RVcVY3bV9GV3BwcGw3Rm5jYVl3ZmxaQTFWUXowenNtSnpyRGpCZUxYdnlkaXo1SnJNUmJhTW9wdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784218624983",
+          "date": "2026-07-16",
+          "title": "Why you should care about World Cup third-place play-off - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5alFEaEFMWlNwcS00LThMMVRKUUhNaEtwLTRRaVpCbDlkeHNtZjZKSDJtaHlzN1RXNENBaDFSNzBfemZDSzNxOHdhQzdkQ2d6UGlLd0tneHBVUjB2ei1NNjYyNUtMOVU?oc=5",
           "draft": true
         }
       ]
