@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-16T05:40:50.619Z",
+  "lastUpdated": "2026-07-16T08:13:03.617Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-top-scorer-how-will-messi-mbap-2026-07-16",
+      "headline": "World Cup top scorer: How will Messi, Mbappe, Kane Golden Boot race be decided? - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUlfbUhwNGp0ZVRsTFM0WjNuUFJUN3ZqVHJmQWs2YU1lb1Z3d0Fpb0gwV2hLbUFjckY2TEdnRXF3SEpINTk4Q1NPTk9CaVJWTUhmUUlVX3g0d0J4bzFlRHJKSnBLek13Y0JlTUc2VW9qcG1XYmtYZzJsY0x0SlNoUm9LVDJOeWhuT29yc2xhU3IwMmxv?oc=5\" target=\"_blank\"&gt;W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUlfbUhwNGp0ZVRsTFM0WjNuUFJUN3ZqVHJmQWs2YU1lb1Z3d0Fpb0gwV2hLbUFjckY2TEdnRXF3SEpINTk4Q1NPTk9CaVJWTUhmUUlVX3g0d0J4bzFlRHJKSnBLek13Y0JlTUc2VW9qcG1XYmtYZzJsY0x0SlNoUm9LVDJOeWhuT29yc2xhU3IwMmxv?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-tuchel-latest-after-engla-2026-07-16",
+      "headline": "World Cup 2026: Tuchel latest after England exit; Argentina players criticised for banner – live - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmFPUFlMQ09QemNJdXZnYUVBM20taHFETjR0TWp0U3hRajQ5eXFZMDg0bDNYTWtWUi14bmE2SEhfb041OWtjY1ZjUEIwT0JzMl9PVFBDYVd6VUFxdGhxUmp3NG5wMkRGamp6LTZObURERzU3QVk3YTJRMGdodzI2VkhIM1FHR0FMek9jZkR2VjJsaXd5VzQwQzFVZUt2M25OOWtHRlllVVJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmFPUFlMQ09QemNJdXZnYUVBM20taHFETjR0TWp0U3hRajQ5eXFZMDg0bDNYTWtWUi14bmE2SEhfb041OWtjY1ZjUEIwT0JzMl9PVFBDYVd6VUFxdGhxUmp3NG5wMkRGamp6LTZObURERzU3QVk3YTJRMGdodzI2VkhIM1FHR0FMek9jZkR2VjJsaXd5VzQwQzFVZUt2M25OOWtHRlllVVJQclpDV2RZMjN5NHZtNWN5Rkh1dkMzMkkzWm9rWmNwYnNyOWltTFU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-watch-fifa-world-cup-spain-defeats-franc-2026-07-16",
       "headline": "Watch FIFA World Cup: Spain defeats France to reach final - Al Jazeera",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-13",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTdDOEUxYWRmb3NSWnFIU1ozcUtxajd1TElvc1l4QjJnVFNZSFhLWHZiOTFzWGJSYWNyUFo2TGFVbnp1bXZ1a2V6R3JlVnAwY2wxeXZQWlVkQWNEY3BpMllVUjhkNF9PR1M5TV9kcjVfTTZ5ZndaS0ltQmRTaDRpN0hFQ3hCOV93b192dXhEdDV5Zw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-schedule-2026-complete-ma-2026-07-14",
-      "headline": "FIFA World Cup schedule 2026: Complete match dates, times, team fixtures for soccer tournament - sportingnews.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGJyS2hOOW1NRUJXc3NpSnN1UUtocU85eGxkMUJWRUtEV3h6dGJEYVZpQkZaQkVaWnJRUWVLR3ZqNU81S2hOUTZ0Vk51Szl5MXdoY280NDlVUmhER1B5cTZ2Z0NMY1RSWDBUbWlGVENRMHZnc1RyUjRrdktuVmlPU3puTUZONzlLZXlkbXFvOThuNlNvVXJWOXN1TzJtOTlSNDlr?oc=5\" ",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGJyS2hOOW1NRUJXc3NpSnN1UUtocU85eGxkMUJWRUtEV3h6dGJEYVZpQkZaQkVaWnJRUWVLR3ZqNU81S2hOUTZ0Vk51Szl5MXdoY280NDlVUmhER1B5cTZ2Z0NMY1RSWDBUbWlGVENRMHZnc1RyUjRrdktuVmlPU3puTUZONzlLZXlkbXFvOThuNlNvVXJWOXN1TzJtOTlSNDlr?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-reflecting-on-north-texas-success-with-t-2026-07-14",
-      "headline": "Reflecting on North Texas' success with the 2026 FIFA World Cup - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVdmNjBwb2NoWFB2Z1F4Z1JHbHFhc2pxbnFFZ0JNcmdCSV9kWHVWVHVTVy1QMXFnTEpGNlB5Qmh0Qkk4SFpNNzJiYkNRaVBsWWZuaHk0WUpMcFd3enpxd1gyOVpaMWVLYk8xRmU1QmJsazhOM2FQX2x0VXZpOWF3ZDVHQ2k2TFZiWE4wdHIzTm5vUl9obGR5Nk8xdE1hVzVa?oc=5\" targ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVdmNjBwb2NoWFB2Z1F4Z1JHbHFhc2pxbnFFZ0JNcmdCSV9kWHVWVHVTVy1QMXFnTEpGNlB5Qmh0Qkk4SFpNNzJiYkNRaVBsWWZuaHk0WUpMcFd3enpxd1gyOVpaMWVLYk8xRmU1QmJsazhOM2FQX2x0VXZpOWF3ZDVHQ2k2TFZiWE4wdHIzTm5vUl9obGR5Nk8xdE1hVzVa?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-daily-live-haaland-latest-star-2026-07-14",
-      "headline": "World Cup Daily live: Haaland latest star to inspire baby name boom - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXBKclFGby1kTkx3UENxRlBVUWx1czVUU3NqaFJGR2N2WnQ3bWxTbk40X3ZkX3hLbm9MSDIybEY5anJfMmdJNlZpbE1MblNjUDU3OHY5eFhZeURKTlJhWm5ER09RbkJTb0JSdVlhd1dkSFlDdEYtZzJJVkRNd2dRQ2JvX05nblFVWnV1Nlhudm9kWXdzUFg5Ri1aSHdqOFY0TWtYMXVHbm5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXBKclFGby1kTkx3UENxRlBVUWx1czVUU3NqaFJGR2N2WnQ3bWxTbk40X3ZkX3hLbm9MSDIybEY5anJfMmdJNlZpbE1MblNjUDU3OHY5eFhZeURKTlJhWm5ER09RbkJTb0JSdVlhd1dkSFlDdEYtZzJJVkRNd2dRQ2JvX05nblFVWnV1Nlhudm9kWXdzUFg5Ri1aSHdqOFY0TWtYMXVHbm56VlZLXzFlTlZNTWphNTh6Um81WUdpUnhNVVk?oc=5",
       "featured": false,
       "draft": true
     }
