@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-16T16:17:04.983Z",
+  "lastUpdated": "2026-07-16T19:10:21.172Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 245,
+      "chapterCount": 247,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1977,6 +1977,22 @@
           "title": "FIFA World Cup 2026 stats: Messi 33-25 Mbappé, Messi 10-4 Pelé, Messi 99-71 Maradona - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3RZcWtkSmtoMmNjZkpCdzlvU0pERkdxOEU5YkFhRUJwRUh5eWF6MHV3VEJrcnpMcElRakRuWndkeTVPVUY1aE0tMDB2dVdIT3Rubjk0cWJ6dUZMRGNWOXozbGUwa1F1ZEp0MnE0a1laYXVzYk82dWxvU21CR0FwUjNQMjBUbW1xcGtQRVBFcWhKNWVDRlBHQ01QMXo1Wk5fb1E1RmFzVDJFUkVzSS1uNjlwT1lJMnVrUXRxTlBuRTlqYnowcGJSRXRnNUhQOFdtYzNiOVA4YlE5VEluQWJzckk0dkFSbEktT0p6VFBxUm5DZXBu?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784229018821",
+          "date": "2026-07-16",
+          "title": "How can Argentina and Messi beat Spain and Yamal to defend World Cup? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3RfMkFxdEpfTWcxS0JVdGhFTDJidGRKY2tGZlFBdm9mWmQ5czczZEJiN3hTd2c0ZmdKMlZfS0pvWVU1dnM5ZHFOdWJsZDlTT3pxVUZibGRma0lsU1NUUlNwUHRFWGlYS2g3X0lxdWZYdDlnb2FVRld3eGgza3BFZmZjb045YzYwa1Z3dW1rQVJIOXVWTTBDQkNWc0JKSzQzc01GdDQwSkFXT3lvUGVSSFRYd9IBuAFBVV95cUxNYWJhUDZydWpwNkg1YnFkZnJLVXNoUDR3aEQ2OHU4MkVRbzUzcmMtUnQ0TFZxME9qU1lIVEVPZTctTEtnMDBjQUxCVmtJNjhXQUlJRmFzUXJEeUJCRnlEM3BxU3hrMDl1SnEtT1hFV3F6cGRKSGNqYjUzM2p1RXl2Y0x3YkF0d2ZfcGhlellyM2NyRVNERUFXazM0SXZ1LUc0VWlpVElkazAzdnUxYWRXYS1CbWVobm1v?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784229018822",
+          "date": "2026-07-16",
+          "title": "Lionel Messi & Argentina's incredible road to 2026 World Cup final - MLSsoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVV5a19uTHdobXhQQXRrcGNpTGFIVXFDVG50T1JqUGppSnV3WThzaEJBLXhzMjFoQkxNQ0RBT0ZIaTl0SWgyczhhei03Wk1xU3dHdkdlNHVNY3VpdG94VXVoSm1CalFoYWloazJMcE11X0xGd2hsVjUybGtEQ1BrMVU5X3BxeGdKeGctR1JVVmFMRDhPbzZpYW1hTmRfWW1MdThIbFpXbDEtSjNTVFFYaW1QX3BEV1FpaFFhRTRPYVE?oc=5",
           "draft": true
         }
       ]
@@ -3951,7 +3967,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 517,
+      "chapterCount": 519,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8088,6 +8104,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY09kNGVWN1VITVI0RU4xTUlUWDM0YzZsdUZ4eWdEUmlNX0s2X25YbFJodnZFek9Bd2dwdUZzNE01OV9pZS1LXzEwWFFYTU9pSkhINjlDYjdrdHU1MDZBNDJ4VURfbnZrNzllQ0N1LVNUcHdYOThLbElkZWxVVEJESmhVMzVkbWNsaHhOYmFoTVluTHpG?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784229019821",
+          "date": "2026-07-16",
+          "title": "2026 World Cup final tickets are not cheap—Here’s what they cost - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVc2dmNNR3M0RXNJNDlJTlk5RVVkRDdUV0hfREtrY0xyUFQ3Zlgtb0gwamhkbUtwemlPNnhzNFczdlFpbDlzdEZpaXJ0RE5EcWhxeGpzVExnSXh1dmtqUlVGalVMWHVKQTNmSEtLMlYyNHptc2YtZXlzU3ZWcHQyRVZ0QjF4QjhXNzd3a19UdW9aWVo5c2tVU1ZqVUprVDRPaWZqLVItZnN1aHBUMmUtNXlCRmNpdDkwZFBmU1RyMG96cUJy?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784229019821",
+          "date": "2026-07-16",
+          "title": "The 2026 World Cup, in data, in four charts - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFRTaWloM3VEX3dvVzFWQm5abWp1TXphSG9MYnZMdmlOLTB2X1l3QURmT254MjZzY2REem1DdmdHa0hVOGZuNWJNWXBHQU83S09neVZCLWRwYXhKTXNXTTdEc3Y0cUMyX016NHR2V0RlbGVqQzRfOHdRdGxNRmo5U0RDSTJCQTQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12016,7 +12048,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 606,
+      "chapterCount": 610,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16864,6 +16896,38 @@
           "title": "Why you should care about World Cup third-place play-off - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5alFEaEFMWlNwcS00LThMMVRKUUhNaEtwLTRRaVpCbDlkeHNtZjZKSDJtaHlzN1RXNENBaDFSNzBfemZDSzNxOHdhQzdkQ2d6UGlLd0tneHBVUjB2ei1NNjYyNUtMOVU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784229021172",
+          "date": "2026-07-15",
+          "title": "Argentina stun England with late rally to reach World Cup final - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2pENkVHRm5IcXJUeVIwZGEyZnBzUXRhTTEzSmRXNE0wbUhhZC1DMXFxWE96NFJCLXFzd2hlMWhTY0pGVlFOaDRhU2laWlppYzNpNUVHdHBiTW5SdUx5WTBhaXVhSEltRE1SY3IwTEJYMmhZa2VPYXpURXYyS2JTdjdLcnljMzRJWkpOaGRvMTU0WENmLU5yMnhzMEFCSnNCSXVz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784229021172",
+          "date": "2026-07-16",
+          "title": "France vs. England World Cup ticket prices drop below $1,000 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXRPdkdSM3BVeFpsUjgwTHM2NXVyMkxUUVdJa2JmSGdRR3p3RnpleXVYVmdBSnpKbWtNTlVCUGt5SmgzT1VJLVFpOHdNamdmOVRMTVdjeHByQVhyejB0VHR2cU1jZ01NVXQ5SndVSV9Mck5PYlczajFlSUdTSjhHbGl3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784229021172",
+          "date": "2026-07-16",
+          "title": "What next for England? How does Tuchel fix key problems for Euro 2028? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMEVScFpyejFYWDdZd1gyQmtMMVNKVS11Nm1lUE9fUlZSdXhlYTZjbFBDei1YQVJDQ0VrNS1yY1JNUEp4RDdxX0tDYldkbzVtWjkyWUhoMkFiWm1UYlNxYmxjM2h5LXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784229021172",
+          "date": "2026-07-16",
+          "title": "England’s Jude Bellingham Slaps Argentina Player Over Goal Celebration After World Cup Collapse - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN29yaGctT05jVE41d0E1Um9GdXpLR1B0WXVKSGJubzB3S2ZiRXZFMWEycmNfekRlRzh2bGQzNWJ5STF2MktLX3pHbkJMTy13bUhNaW5kYm0ydGE5WXdjeWFJMzN1QnlIR3hWaTNPaUVyb3N6Wm1pbXk1VlM4VWZyd0g2S3lEeDMwaWRpVXVMY0s4ZTQ1Sjh6UHlkZUJuQTBi?oc=5",
           "draft": true
         }
       ]
