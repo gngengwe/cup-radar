@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-16T19:10:21.172Z",
+  "lastUpdated": "2026-07-16T22:03:37.687Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 247,
+      "chapterCount": 248,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -1994,6 +1994,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVV5a19uTHdobXhQQXRrcGNpTGFIVXFDVG50T1JqUGppSnV3WThzaEJBLXhzMjFoQkxNQ0RBT0ZIaTl0SWgyczhhei03Wk1xU3dHdkdlNHVNY3VpdG94VXVoSm1CalFoYWloazJMcE11X0xGd2hsVjUybGtEQ1BrMVU5X3BxeGdKeGctR1JVVmFMRDhPbzZpYW1hTmRfWW1MdThIbFpXbDEtSjNTVFFYaW1QX3BEV1FpaFFhRTRPYVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784239415538",
+          "date": "2026-07-16",
+          "title": "Spain versus Argentina: Team brilliance versus individual star power - Northeastern Global News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONzlsTXhsZUpvcWQxaTVibjBkUERhTlhXMWZ4emNRMURhSmxsSUkxR1NVZV81TkJGVUlOMVZ1VnFBSVBYeDBEMUFKMmhnOFZZaVJpTDNSV3NOc2NkcUJYM0otdm5wNXNUcVhDMjdqaUhLLUdjN0l3TkJnOGR0WEdOSUZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3967,7 +3975,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 519,
+      "chapterCount": 520,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8120,6 +8128,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFRTaWloM3VEX3dvVzFWQm5abWp1TXphSG9MYnZMdmlOLTB2X1l3QURmT254MjZzY2REem1DdmdHa0hVOGZuNWJNWXBHQU83S09neVZCLWRwYXhKTXNXTTdEc3Y0cUMyX016NHR2V0RlbGVqQzRfOHdRdGxNRmo5U0RDSTJCQTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784239416504",
+          "date": "2026-07-16",
+          "title": "Tim Ream: USMNT was in 'shock' at poor showing in World Cup exit - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGNadk9VTjYzQWFQcVp4bDRCTlBSbTBjTldETlZIWm1YRGVXM2hzNzJZdEJ2S2dCVDVYT0VKNXZjeDdYeEltQmJjMGRZczg5akFoS1d1VWlJdW9Nblh2VjZFb1k0bnByMkdJR2tjeGJxelNEaTRrUlI2R1N2VjVIbnBDUkVOUnBRSVBZN3VOLTZyVE9R?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12048,7 +12064,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 610,
+      "chapterCount": 612,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16928,6 +16944,22 @@
           "title": "England’s Jude Bellingham Slaps Argentina Player Over Goal Celebration After World Cup Collapse - People.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN29yaGctT05jVE41d0E1Um9GdXpLR1B0WXVKSGJubzB3S2ZiRXZFMWEycmNfekRlRzh2bGQzNWJ5STF2MktLX3pHbkJMTy13bUhNaW5kYm0ydGE5WXdjeWFJMzN1QnlIR3hWaTNPaUVyb3N6Wm1pbXk1VlM4VWZyd0g2S3lEeDMwaWRpVXVMY0s4ZTQ1Sjh6UHlkZUJuQTBi?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784239417687",
+          "date": "2026-07-16",
+          "title": "Ticket prices drop fast for France-England World Cup third place match - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDFyNUw5V0I3bnNmUWVxOWwxd1A0SGNtMDVtb2VpTXZKWGN1YkVKUFlGd1dhNnF5N0RELWNjUE15UVFxX1hXazlFblQ5MDQyYTI0dDl3dGc0X3JUMWRMdEFzRjhaeXNrZ0o0cmFYRzJ0dzlzR0VDajktSDQ0M0I5VFRfTEEtUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784239417687",
+          "date": "2026-07-16",
+          "title": "Alexi Lalas has mixed feelings after England’s loss in the FIFA World Cup Semifinals 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93aTFsajlwRG5ka0N2Ynp2em91dUg4dENtbzFLQUc1UWlDQUZobXFJQnN5WWZJaTVUdy0ydWlaS2YwOE1OOWNfNHF3TlZkd2VLek4xbzBMWjJzNm9LNjFGTjJPMWlDeHFiM1BNLVJ3?oc=5",
           "draft": true
         }
       ]
