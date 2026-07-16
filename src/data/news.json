@@ -1,7 +1,128 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-16T10:59:56.513Z",
+  "lastUpdated": "2026-07-16T13:49:53.352Z",
   "articles": [
+    {
+      "id": "news-auto-what-college-football-playoff-expansion--2026-07-16",
+      "headline": "What College Football Playoff expansion could learn from the 2026 World Cup - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkNMZnhPX1M3eEJqR3VHTU9VWGlRUGNSeTVwQ1o1MHZaX2wxR1ktNEdXWFJfc2FCeFVyOHpqdldzOWQ3WlN0Q3o1TTdOQUZPNlpoaHNtTTZqN2liU0tGRWpzZnBacjFHUUhoVlV1ZjVvMzhDenlXOWhHRUtEVGhzNXIxSGJXVlkzMWZEOFhWSXIwd0lHTjllblFmVVFPYnRwRjRNY1RNU2V",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkNMZnhPX1M3eEJqR3VHTU9VWGlRUGNSeTVwQ1o1MHZaX2wxR1ktNEdXWFJfc2FCeFVyOHpqdldzOWQ3WlN0Q3o1TTdOQUZPNlpoaHNtTTZqN2liU0tGRWpzZnBacjFHUUhoVlV1ZjVvMzhDenlXOWhHRUtEVGhzNXIxSGJXVlkzMWZEOFhWSXIwd0lHTjllblFmVVFPYnRwRjRNY1RNU2VUeUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-final-could-be-the-bigges-2026-07-16",
+      "headline": "FIFA World Cup final could be the biggest event in ‘human history,’ CEO says - Yahoo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3JaLTI1MWttOG55YXY3RDNvRE1fNW9ab3M3UVlSbHZLN21MZWRVcGx5bnR4NU5RemZOLWl1c294WEhSb0p4MTRFTXhuamlYczEwQTRzYXUtUlh4YkhWUXBVSUtwMjJfcWMtX2oxa2VZUGdOUHlBVkhqZHJTWS02bw?oc=5\" target=\"_blank\"&gt;FIFA World Cup final could ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3JaLTI1MWttOG55YXY3RDNvRE1fNW9ab3M3UVlSbHZLN21MZWRVcGx5bnR4NU5RemZOLWl1c294WEhSb0p4MTRFTXhuamlYczEwQTRzYXUtUlh4YkhWUXBVSUtwMjJfcWMtX2oxa2VZUGdOUHlBVkhqZHJTWS02bw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lionel-messi-fuels-argentina-s-stunning--2026-07-15",
+      "headline": "Lionel Messi fuels Argentina’s stunning late rally past England into World Cup final - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJiVkQ4amMtZ2thVFpPZlNfOUg5eXdfSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-england-1-2-argentina-world-cup-2026-sem-2026-07-15",
+      "headline": "England 1-2 Argentina: World Cup 2026 semi-final – as it happened - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-thomas-tuchel-is-guilty-of-orchestrating-2026-07-16",
+      "headline": "Thomas Tuchel is guilty of orchestrating England’s craven World Cup demise - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnZrVDRKVGFSS05GX0JaVURDck83dlV0QUlsZ0hkd0FMeEotam13dXZzRHl4eXBWQ2Vlak45NUR0MUZOekZuendoMzFMZ1BLYkctbFhtWHVsbDc2RVpITlNsQmpLekg1YTk2Rmk5dkZsdHQ3ZV9SUUI4UnIwb3hJU2pqRXJxWHdZQ3dlRTFXeUZPaWFuZUprQzB3?oc=5\" target=\"_bla",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnZrVDRKVGFSS05GX0JaVURDck83dlV0QUlsZ0hkd0FMeEotam13dXZzRHl4eXBWQ2Vlak45NUR0MUZOekZuendoMzFMZ1BLYkctbFhtWHVsbDc2RVpITlNsQmpLekg1YTk2Rmk5dkZsdHQ3ZV9SUUI4UnIwb3hJU2pqRXJxWHdZQ3dlRTFXeUZPaWFuZUprQzB3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-news-latest-no-10-has-say-on-f-2026-07-16",
+      "headline": "World Cup news latest: No 10 has say on Falklands banner row - as Argentina player explains why they did it - Sky News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2ZraDl6Q1B6MVAtVVFDRFVobkVZVDN2RTNhaWYxY09yVGtBbl9acC1Fc3k2MHBraXZkZnBlTzVpbXROb3dFU2Fmam5VSE5rN0oyV1B5a0c0cmI0TXV1YmVoT1ZCNUFxb1Q3UFhlN1VZNFJtWmdzZTd3R3JfaEZoYzhZTVA0WUtvc3BGSmMwLUxZZ0JhSTZIRUxSYzltdGpZVEE?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2ZraDl6Q1B6MVAtVVFDRFVobkVZVDN2RTNhaWYxY09yVGtBbl9acC1Fc3k2MHBraXZkZnBlTzVpbXROb3dFU2Fmam5VSE5rN0oyV1B5a0c0cmI0TXV1YmVoT1ZCNUFxb1Q3UFhlN1VZNFJtWmdzZTd3R3JfaEZoYzhZTVA0WUtvc3BGSmMwLUxZZ0JhSTZIRUxSYzltdGpZVEE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-seattle-s-urban-stadium-brought-worl-2026-07-14",
+      "headline": "How Seattle’s Urban Stadium Brought World Cup Success, While Others Floundered - The Urbanist",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUk3dk1BeUltYTZMZnJrNDJNMExwY3d3SXZGMDN1Y1llS1ZmTUo3aWFjbTNRd0p1U19MZ0FFOXpfZTdaVHRqb3NDQ0ZpNmJHUXZnQ0JDT3NRMkxxbUE4aGs2U3hjMlhEVkh2NEQ0WVItaGo0OU9sYnF0ZE9yMHB6M3JBd0VLeGVK?oc=5\" target=\"_blank\"&gt;How Seattle’s Urb",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUk3dk1BeUltYTZMZnJrNDJNMExwY3d3SXZGMDN1Y1llS1ZmTUo3aWFjbTNRd0p1U19MZ0FFOXpfZTdaVHRqb3NDQ0ZpNmJHUXZnQ0JDT3NRMkxxbUE4aGs2U3hjMlhEVkh2NEQ0WVItaGo0OU9sYnF0ZE9yMHB6M3JBd0VLeGVK?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-world-cup-left-kansas-city-but-these-2026-07-15",
+      "headline": "The World Cup left Kansas City, but these moments of joy and connection are sticking with us - KCUR",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTFRQ1FxWDI5RGtzQjAwOTIyM0VZUGJMb1hneHdBWjh6c2RHUC11UWtJRFZRTHhDWEJEbXVCdENWazc1b1NFMS1lbXJLV3o3ZVZrc1V0WGRoNGRwN0gtNkpwNTRMMVFoVDN1cFhyVjUtZzEyUGRobWRQSVpJX3k3SjQ5dndNUGxy?oc=5\" target=\"_blank\"&",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTFRQ1FxWDI5RGtzQjAwOTIyM0VZUGJMb1hneHdBWjh6c2RHUC11UWtJRFZRTHhDWEJEbXVCdENWazc1b1NFMS1lbXJLV3o3ZVZrc1V0WGRoNGRwN0gtNkpwNTRMMVFoVDN1cFhyVjUtZzEyUGRobWRQSVpJX3k3SjQ5dndNUGxy?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-says-thank-you-to-kansas-city-aft-2026-07-14",
+      "headline": "KC2026 says ‘thank you’ to Kansas City after local 2026 FIFA World Cup matches come to an end - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWE3TWEyclk3UkhDbGNHTXJsbkRyWWZhNURYVWF3aEtBWWlkRGJ3VndQVTFvNDRvblhOSUlRS1ZXdW96M3FkN2dfWE5vaGdWTHpWQjF3TUU2eG1yVDNzeVItNm1rcDFwQTZqMFZTRVlmWmFkX0IxaVhXX25DMXh6czF6ZHk?oc=5\" target=\"_blank\"&gt;KC2026 says ‘thank you",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWE3TWEyclk3UkhDbGNHTXJsbkRyWWZhNURYVWF3aEtBWWlkRGJ3VndQVTFvNDRvblhOSUlRS1ZXdW96M3FkN2dfWE5vaGdWTHpWQjF3TUU2eG1yVDNzeVItNm1rcDFwQTZqMFZTRVlmWmFkX0IxaVhXX25DMXh6czF6ZHk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-watch-parties-in-northland-spa-2026-07-15",
+      "headline": "World Cup watch parties in Northland spark lasting economic boost for local businesses - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTRHZU9URUVpZ0JRN1JOVTZlSzNGRWJVWVBZalc0cUowY3FqcGRNaGxReE1sUlZsc2NoaTFXaXNWeXIwblV2YXU0dGFvYW5GMkdwSmZ3VzR0aHg0T2ViUHlDcHdncFFzeVhqVlhNY25GNnpEVnA0bXdsUmhVU0FfT19Ya3dwdWNoYVRoM2tHbnZGUmt2V19iVU0zR0ttcU5YMTE5ODQ1aHB",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTRHZU9URUVpZ0JRN1JOVTZlSzNGRWJVWVBZalc0cUowY3FqcGRNaGxReE1sUlZsc2NoaTFXaXNWeXIwblV2YXU0dGFvYW5GMkdwSmZ3VzR0aHg0T2ViUHlDcHdncFFzeVhqVlhNY25GNnpEVnA0bXdsUmhVU0FfT19Ya3dwdWNoYVRoM2tHbnZGUmt2V19iVU0zR0ttcU5YMTE5ODQ1aHB6NnVPMERHLUkyV0ZLbmNQLVFMUkxueGpyUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-cristian-romero-labels-ga-2026-07-16",
       "headline": "World Cup 2026: Cristian Romero labels Gary Neville 'stupid' over criticism - BBC",
@@ -978,127 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-14",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Fano5NW1WMEl0NjVtQXp3bU9Md1ZocnU2UzRhTDBiQ1ZhMkZaSUtocDgxdlRkemoxR2xTUFM3d0p3VXdMc0IwNGVVQ0xuNGtUZktBTVRDcVF6aUp3RW5MMU9n?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spain-advances-to-2026-world-cup-final-w-2026-07-14",
-      "headline": "Spain Advances To 2026 World Cup Final With Win Over France - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFR",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEVOSmhsVWJRWFpxUG9UN0VqeFBNSUtkd1o1cVJRNjQ3X1l0NVRhYTNBZDFQM1dtNkxPNjJtTU1MMUhKUEVqSlZSbHM4bnJGR21oWThGS05tUHRfR2hVekdGTG9IcjdCa3hTMEpNV19HRWN4UkJXY1ZQaE1mcVAwLVZXLTRhbjE4MDJvRVNuUm9VZFIzb05N0gGXAUFVX3lxTE1XMjBHSFRVVk1QczJQbF9aNUxtaTlrMlhjNVVMdnB0MjNPMms1RzUyQjdkRnJmNGZiNUZZcDVkb05CQkpDMjFiYXhXS28tTTFxWThiRG1aOTJLTTlOanhsVVRwUTVJRVExekdaS0FLdHNWNFh5NnNWcllWVVJzZkRKOVR4MXhpMjZ0T3hxZ3BoUzJNT3JBOUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-when-is-the-fifa-world-cup-2026-final-ya-2026-07-14",
-      "headline": "When is the Fifa World Cup 2026 final? - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5QT2JocGhUWHlvWUdOQkg1THNVQVZlSVdOYjk4N00xU3JXUnZuMnQ1bHRYcHFncnhZTlpuRmJGRWo1TGNtdmRkemNPd1ZKNFlpVWRCaFU1UnotVk5JY3RQNTRheG9JLW1HeHVLTDRqSUxyOGZNQWxrM3BDTzlsWDA?oc=5\" target=\"_blank\"&gt;When is the Fifa World Cup 202",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QT2JocGhUWHlvWUdOQkg1THNVQVZlSVdOYjk4N00xU3JXUnZuMnQ1bHRYcHFncnhZTlpuRmJGRWo1TGNtdmRkemNPd1ZKNFlpVWRCaFU1UnotVk5JY3RQNTRheG9JLW1HeHVLTDRqSUxyOGZNQWxrM3BDTzlsWDA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-france-and-spain-have-dominated-this-wor-2026-07-14",
-      "headline": "France and Spain have dominated this World Cup, but only one can reach the final - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPakIwZElBNE1EVzJoQWdKZkRFX0VkWlpvM3FXVTFGeVVYX3VtdTVyWkt2a3BBNHVlbnVxTG1xV3dDUTZUWjB6QkIwb01OYk5NWUZ0Z24wWDNIbVgwS09IU3c3UDJyeE5vVTVqek5vN2dNS1VRNUdKaG5TVTdta290RWVmVGphdi1nYzJmdjZtT2VoX2RCSjFqdUxZajBrSkJvTWFRbm5jY25",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakIwZElBNE1EVzJoQWdKZkRFX0VkWlpvM3FXVTFGeVVYX3VtdTVyWkt2a3BBNHVlbnVxTG1xV3dDUTZUWjB6QkIwb01OYk5NWUZ0Z24wWDNIbVgwS09IU3c3UDJyeE5vVTVqek5vN2dNS1VRNUdKaG5TVTdta290RWVmVGphdi1nYzJmdjZtT2VoX2RCSjFqdUxZajBrSkJvTWFRbm5jY25XVkdOQno0eEVJZGtXUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-07-14",
-      "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 14 - Mashable",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1pVTG5ETVd2TExNYTZpempobms4QnlSTnhfUHRhX0IxU1NLdHB2MG9FY083eVR6dU1FdlZzckl0QlZSVFZXMnlaUmhWeW1POTBXR2hveUl4dzVGVDdDaGw5VjAteUw0N2ctRmFjY1AwZ3JqQ1o5UHpPU0FpT2VfZmZoYmV3OGNJVlBWOUFJSjJLOW1JR1E?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1pVTG5ETVd2TExNYTZpempobms4QnlSTnhfUHRhX0IxU1NLdHB2MG9FY083eVR6dU1FdlZzckl0QlZSVFZXMnlaUmhWeW1POTBXR2hveUl4dzVGVDdDaGw5VjAteUw0N2ctRmFjY1AwZ3JqQ1o5UHpPU0FpT2VfZmZoYmV3OGNJVlBWOUFJSjJLOW1JR1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-zlatan-updates-his-king-of-the-jungle-ah-2026-07-14",
-      "headline": "Zlatan Updates his King of the Jungle ahead of FIFA World Cup™ Semifinals - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1VTNTTjV2X0VYUHRzempzN3RVakhkQmtVR2UxdHNUWGVodVcycDJDNXdqeGFWUTdmWm9sR0o5VmZUTk9zZDJ2cHoxOWUzXzQwMUlTMFVPbXVZUU5ZWU5WS0RB?oc=5\" target=\"_blank\"&gt;Zlatan Updates his King of the Jungle ahead of FIFA World Cup™ Semifi",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1VTNTTjV2X0VYUHRzempzN3RVakhkQmtVR2UxdHNUWGVodVcycDJDNXdqeGFWUTdmWm9sR0o5VmZUTk9zZDJ2cHoxOWUzXzQwMUlTMFVPbXVZUU5ZWU5WS0RB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-the-2026-world-cup-semifina-2026-07-14",
-      "headline": "How to Watch the 2026 World Cup Semifinals and Finals - WIRED",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGpocl9ZektGeE9meDU1cHowMEZPOUZFc3lTaWdnOS1iX0dxUS1mLXl0RGxLMUxqNW0zcTEtdU56Z3pGdDdTemJDS0UwT3kwOTdpbXVGY1BEaFFuc1c3ZXdzMUlxblRqUzd6QnE5WjludGxhd1RfakZqQmdnSlZfa2xB?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGpocl9ZektGeE9meDU1cHowMEZPOUZFc3lTaWdnOS1iX0dxUS1mLXl0RGxLMUxqNW0zcTEtdU56Z3pGdDdTemJDS0UwT3kwOTdpbXVGY1BEaFFuc1c3ZXdzMUlxblRqUzd6QnE5WjludGxhd1RfakZqQmdnSlZfa2xB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-today-s-fifa-world-cup-2026-games-listen-2026-07-14",
-      "headline": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vaEVuUVpocnJqZTNicnc1azB4aktiUTRIRkxhbG41UFFrNFBHamRUOUpPVElmdDFmVnk1N2prU29JTmptQXBzNUFfRzZPU1VjMW5WZk9EQ3hvZjJXaHdid1NqUFZSUQ?oc=5\" target=\"_blank\"&gt;Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM&lt;",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vaEVuUVpocnJqZTNicnc1azB4aktiUTRIRkxhbG41UFFrNFBHamRUOUpPVElmdDFmVnk1N2prU29JTmptQXBzNUFfRzZPU1VjMW5WZk9EQ3hvZjJXaHdid1NqUFZSUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-the-2026-world-cup-for-free-2026-07-14",
-      "headline": "How to watch the 2026 World Cup for free: Where to stream every semifinals match for $0 - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkQ4N3c0YzhTaTdsVGZMWDg3eFBlUFdGOUxqbjZpa1FKN3dJUzd2N1FvTDIwLUtsUEJjU1BaWTQ3SDd0NlJacm1UaUJacWFzTjJxQTNrQV9tZWRsY2c3WkhYcFVHWWNQZXBSLUpTbkN5NFpWWEcwcHpXXy03YWpMYXNkaHA2VkhFVG9RVHV6ZGFlRFFSQmhFcmV5enQxVHpJOGE2VTBUSEF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkQ4N3c0YzhTaTdsVGZMWDg3eFBlUFdGOUxqbjZpa1FKN3dJUzd2N1FvTDIwLUtsUEJjU1BaWTQ3SDd0NlJacm1UaUJacWFzTjJxQTNrQV9tZWRsY2c3WkhYcFVHWWNQZXBSLUpTbkN5NFpWWEcwcHpXXy03YWpMYXNkaHA2VkhFVG9RVHV6ZGFlRFFSQmhFcmV5enQxVHpJOGE2VTBUSEFQNlQyb05OajYzSUQ0VVhQWkR5bGRmb0RodENPcmlQTWRLcGk0dzVfTU9fYUNRYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-spain-vs-france-semi-2026-07-14",
-      "headline": "FIFA World Cup 2026 – Spain vs France, semi-final: Score, lineups and live updates - olympics.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJDdnlXM1NyeV9fc1k1VkxkYnpza0FGc2hKWWV1bFB5M0Nibi1GUWZ4WFdVeDlXcmpJUUw1dFNwbmhzWnhEWFJiOWhoZDZkNUJGWnQ5NlF2dlZNNGU5bDI1SjI0WFoxbGl3dXlRNWJHWkdzUVc2bWRJeTJaM05VS2t2c003LWp6T2JyeUFvRFJTR1ZQWDdvQ0pZVmxONndYdTVGWUF2Mm5idw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-experience-the-fifa-world-cup-2026-semif-2026-07-14",
-      "headline": "EXPERIENCE THE FIFA WORLD CUP 2026 SEMIFINALS LIVE IN SPANISH ON TELEMUNDO AND PEACOCK BEGINNING JULY 14 - NBC Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOXlyRmxLOElwckdwQXNvQzl6T0lKU3pHNExSUk9Nb3lVUnllQjVMLTZGUDlIZ3c0TlJnUVRlVUs5SU45TzF6Y1pNb3lyNW5CSENaZ0hDUExkRFpzTGh1aElwTUxkZ2xHTHpMMExKdTBTdGRIMmVKTEF0RVl1RVZOdEplQ1UtdldxZFk0dElUTjRkdkkwT3FTUXBTN3dadU84SEhFcFdQYjB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOXlyRmxLOElwckdwQXNvQzl6T0lKU3pHNExSUk9Nb3lVUnllQjVMLTZGUDlIZ3c0TlJnUVRlVUs5SU45TzF6Y1pNb3lyNW5CSENaZ0hDUExkRFpzTGh1aElwTUxkZ2xHTHpMMExKdTBTdGRIMmVKTEF0RVl1RVZOdEplQ1UtdldxZFk0dElUTjRkdkkwT3FTUXBTN3dadU84SEhFcFdQYjBrV1JBaTJtYjZSVndDVnZrSENKRzJnWlNDaWtiMXZkY0FqR3oxTnIyTFVtT2JOZ2FUcy0xZjZVdWsyLWE2ZW5wSHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
       "featured": false,
       "draft": true
     }
