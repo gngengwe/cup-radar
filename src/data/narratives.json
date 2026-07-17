@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-17T13:27:54.751Z",
+  "lastUpdated": "2026-07-17T16:15:14.415Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4039,7 +4039,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 523,
+      "chapterCount": 524,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8224,6 +8224,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDl6WHl3emUwUmhKajNYZFZfRkZ3NGNJd21XR25JWXJpdDE4MEFVNUdreVhzTXFMZ1IyOHoxak9sMF9wU1lkME9iS01LUk1kSnMzQlpwOHVnV2ZtbGkxclVEM3JWSllIU3BkQzJJSVhNQUhoanZjU1FEMmpPTk8xS3lEWGNOaF9qUElWSjJBZW9ERV95RC05SVVUUUdyQ3R2blZqMlZaUjVJUms?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784304913109",
+          "date": "2026-07-16",
+          "title": "'Crisis' in youth sports comes into focus after early US World Cup exit - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3Z4anpUS1Ruenl5TnNuS09UaWRUOG51V1Jid0VUY2k2WDdSckhwUURPLWtUeXJUak1rX29WYkRtRndWZ2czalVOcThMSDUtOGg5SE5UX1VIbnZaWFpTUVMyUWF4d0U0cXpsamN3RjB6bXRmeXRDRHhocnc0X0dRNTlnWnFrUDREUDFJdlluNUg5Z2JyOGhWUUFLenhEbG4xd1hKTDJ4MU1uRHZUQkxqdEJqcGx3WUk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12152,7 +12160,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 624,
+      "chapterCount": 629,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17144,6 +17152,46 @@
           "title": "Are There Any World Cup Games Today? Schedule France vs England, Spain vs Argentina - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUpiQlBuY3UxRnR6M2JYa2ctUGxweUVReGoyX3pCWmxsNVdqajVvRXZ1NjMza3pjak9SbGFPSHQ1dXNYTUVjN0dqcHV1TmlBV2hIU1RkcUNCTy1rdURwMUs3bTd5NndLSldWQ3pMNFYtM3duM1BuNFNnclNvV2tpSHRQZlFPNERyUTJyZElPejVlc2VUN2dLVnRPdl8xTzJ5Z1hzZFdLVVpZS2FTcGkwb05R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784304914415",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – live - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFFzMmVySDN5UjdVZlNKcWVtQ2FQaXhYWWdFMWtWVUNXYTQ4Z2Rzd0dQWG9IY21kSzZCUnlvYzNfbmxtQUhLUmw4ZF9iNnc3Y3p6bU1YRkxUeUp3bUVVZ2JORTZPLXp0eVJ3Y2tzamtMYjVHaGFtTTA5eGdoTnl1OTBZUUQ2eHpPSjM5MVM3UDAzX29JWTF5RS1xZnZELTJvcmctSDFXdzhETG9Ga25ROHNzdVJMY25sVFZVTnlmR3FLZUZhdDdKeGVHZWhWaGdJZHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784304914415",
+          "date": "2026-07-17",
+          "title": "France vs England – World Cup third-place playoff: Prediction, kickoff - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmtMUzVaZEY0SWhUSFlnY1Blckl0Z0hKU0VwdTlLZGFzaDNJOEhHNjh1NVlSSnBHdkpDOUtJa2hnQW5DX0Uxdy1QVExBeUVqa1VzU1ozeldjc19rcmUxSnR6YWx1UUE2VlBHYmlqakc5WnRSYmhVWE9KZVpMclc3TVVGdl9XMnBzdHFNeXp1czJodm0zVlhoVGJYbWFvNXBKd0d1Y01BQVhMeHptNkd1OEFn0gG3AUFVX3lxTE5IUVJvNEc4aWs0Tl9EbWpwVGFYVWFfeTN0S093SVI5Wmt5MldiTXc5TlZGSjdTYVJjYXZ5dVB6SVJoVUVha0dDanhiUFRwbGFCaUhWaThQcWNndzAzUGRDRU9DR1ByTU9LcHYyM01EWW95VEdyN2lsenBtdDJtdE85R3pmaF9ZZjJGd1hJamhqLTRNTjF2YXYzdzNrOFNSUXd1V2RHTHFjVml2TGl1Sno1dEVkV0pySQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784304914415",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: Five positives for England from the tournament - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EeDlEWGZlMWl2U3dOZ1pHSm5pc2JadG11ME5TQUZNeEpBSlNTS1ZoeVY5bU1uUWNaVTQ1OUVZSGFKUi1Bei12em1JcUwwVVlXa3U4T1RCdktKV3FLWTZHRmR5cl8xbnc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784304914415",
+          "date": "2026-07-17",
+          "title": "Get your France vs England tickets for the World Cup 2026 on Tickets MARCA - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTJkazhBdVdtS1pwOEZZLTdRZWxqLXJmVW1rQzQzbUNrTVlEa0JsMDdqTEJ4N0ROZVJhYzNIVHFRcGRFSWx3d1JDN25GeThGTk5ueE16eU1yZlhYb05qaUFfaFRPU3Uta2RHRkZLSkFSekxnUlB6dXpJUHRSeHJUZWZnNUpiRzJvMTNHVERqeUJpdUVaRVhmX3QxeG54a2tMTUhfYVpFOWNib2tYT2JqbDd4cVJtTnlDU1ZldElfcWYzVjjSAcMBQVVfeXFMTjcwMUI0amtkc0Y5WnVMazlLSFRoaHhWLXBfbS1yeWREVEhXV2dkYTBHcjJ3eTljNjNtU1ZWVjJNd3FzYjl6b1lVTDV1OUQ5RXQwZjhoSXVpRUk0TGNNOWs4a1VKRzAtek9UNl9fZFh2aVFWaXQzblJhakFRcnFsT0N0cmY2dkJKekR2dkZmRnY4Q0xGdER3cVlaTVdhZ3hzZjRldnhYT0ZvMlBza3RQTTFIcnpmQ0lKb1RTQ3pKaTI0Y18w?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784304914415",
+          "date": "2026-07-17",
+          "title": "England vs. France odds, predictions: 2026 World Cup Third Place picks from proven soccer expert - SportsLine",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDh6Nm5KbW52M0tZVmVpZ2tkX0RrRUZCbkpHMDlWMEM4MG9uQThPN1N5WnNJWnpCdm1OaXY2TGdqeldsRHluWHdiLVNub0tZWHc0eGYyQ3VPZmJjZVVfYUtRVlQ0Yjd5SmV4MzBuLVpISGt2WENWekVvWGt2UW1lY0NCbFg0MjZJOWFqb3dKLVVfb3FXZktpcEpzQy02VkRqMElGSDZ0ZFhEQXFLQklyOWMzMU15SXV6WjlXM3hmSGJYTVdOVmYtRXJB?oc=5",
           "draft": true
         }
       ]
