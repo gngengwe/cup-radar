@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-16T22:03:37.687Z",
+  "lastUpdated": "2026-07-17T02:37:15.430Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 248,
+      "chapterCount": 250,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2002,6 +2002,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONzlsTXhsZUpvcWQxaTVibjBkUERhTlhXMWZ4emNRMURhSmxsSUkxR1NVZV81TkJGVUlOMVZ1VnFBSVBYeDBEMUFKMmhnOFZZaVJpTDNSV3NOc2NkcUJYM0otdm5wNXNUcVhDMjdqaUhLLUdjN0l3TkJnOGR0WEdOSUZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784255833135",
+          "date": "2026-07-16",
+          "title": "Lionel Messi: EVERY TOUCH in Argentina's THRILLING Win Over England 🇦🇷 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ScEhjYUNlcE9Fd1QtWnhSd2V5NW9sUVdUbm01LWhpdEFWcWhmQmRCQnFRNk5TS2p6WURiNm5VejBLQXk2NmdsaHptME5QdDdlV0FWTTA2Q3VaMk1ZRFRoT3ZB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784255833135",
+          "date": "2026-07-16",
+          "title": "World Cup: Tuchel, Messi and why Argentina beat England in semifinal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmNheGJSSXdHY2VvV3FRN094OHNhR3ZQMkhrWUh1cVNrVExZQzVMaTItRlZaR2F0UFdra0ktR3ZxdFo3bUxjRXZZdl9leWJNQzA0TkVXMl9oWU9XNEFpM3hlOFZ5VXlxb1E2eHRxTnBVelZFNnZ0LU5tenI3QlAwelRCNklFWjF2LXFoaW1rUnh6ZmpVWlk0MGhUSGZra2tOTXJocTM2MlU2SmQ2Yk9xWm1SYlY4R3lPV2lLVXJ3YlRtbmlI0gHKAUFVX3lxTFBlNDlNRVpPUkdLX3l0VXhUQXg2X3c4dXB1VGdEUDVEeUxZN2tOZ2wxQmFCT2dDWGQzcXlEbjM2eV9lVVphUnRQOER5dmZfY1g5Y0hKV0dTVUNfRlRPbnZGQ0RhdkpudjYtLXZqeE1ocTU0dmx4azItZjFwQ2VQWUtzZTZDZGpxQW41Tzd5b3RZTWs4VHdWTkc4YWdMT0RUdml2MlNiS1pqNDJWaC1NRWd4ZUJxM0hhT2hBaHlKd1JLSjV1T0t4a3d6aHc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2020,7 +2036,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 242,
+      "chapterCount": 243,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3956,6 +3972,14 @@
           "title": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVZ6QWdMNkZCZ2ZqOHotb0tST2U1S0lOUjFLR3lHaFdVUHNTcTZET2xWSXZGUkNEbWNhUWxHT2YyVC1mUXZrS0Fva2JYSFltTEZGSS1RaTZ1Y3hPNmkxdEV2TUlFTjJ3dHowQkR0REd0UEhsM19yS2R3bjg2TWlrQlk5Wkdva2lzaEtHRHlRYVRkbm5BWFY0M2Z4VHVFaVNJT1V5Y3dMMHRkR25v0gGyAUFVX3lxTFA2VWVtMmVMVnY4a1RqanV1MFRsRFJ4WVJYVjdSWnRfVWI4OGlTelo0d3psVHFpWnVNRWtldldjc05sXzdqdHpNazdoMEdsRmhZLUsxX3VlajJEM29BSUZfUXVjVGpjSnZ1QXlDX0xNNTE0U0VJMzhXWWxQMEtublhvY1FRc3hRMk9WWkJ3c24yMzh1RG9rcjhlcjd0Q3RmNHJ3QVZZYWdQTnIwbjZ1SDhtYlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784255833615",
+          "date": "2026-07-15",
+          "title": "France will walk away from the World Cup with at least $27 million—Kylian Mbappé hasn't kept a cent - Fortune",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFhRUy0wRU9JQVJTZ0hkS2pZcFp3RnR0Y0FTSXVWWlhjR3FXRmVZem4wcUJ6RlI4cnJ6SUVZenpjdG14WXRfQ2NrZDhJc1ZVVmc1OGVjUkJnNUJUb28zc1pTVTVpMy1PN1NETTRXVjY2Q1lYZW5nc1prcnNrb2tfZXJ2ckpVbzhPeldrMmMweGZPN21lVHFrNVcyYWJSTUlWX0FzZTJpQndWSy1mR0RJZF8tdmpORVV1N2lKbnhzYUZlN2FiclVpZg?oc=5",
           "draft": true
         }
       ]
@@ -12064,7 +12088,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 612,
+      "chapterCount": 614,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -16960,6 +16984,22 @@
           "title": "Alexi Lalas has mixed feelings after England’s loss in the FIFA World Cup Semifinals 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93aTFsajlwRG5ka0N2Ynp2em91dUg4dENtbzFLQUc1UWlDQUZobXFJQnN5WWZJaTVUdy0ydWlaS2YwOE1OOWNfNHF3TlZkd2VLek4xbzBMWjJzNm9LNjFGTjJPMWlDeHFiM1BNLVJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784255835430",
+          "date": "2026-07-16",
+          "title": "Will Kylian Mbappé Play vs. England? France Star's Status For Bronze Medal Match - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRDLXlCNEE1WG9MWk1mYThKbnJ2Mmo0REFQN1hRaDRqdVZTaGgtNnlvcEt6T1pWR1lYZTFYS1U4RnNCa3dwT29TbjdNemdBTFowem5DaC1FWHRadkI5bjBNU0JReWxsWDZWU3B4c1ZNTFVRRTFSYjhNcVNaZGFBalB1dTM1cEhLRGlKekNiY3hRWkItOEFEd3dHV2dPZ3AtWks5SXcybEpYd3VOMXFyRXZrYkXSAbQBQVVfeXFMT0tfeXoxcFR3cmx6LTIxTmd5QWxnaHRhQUUtc2ZTQzRGd0VzZXlWZXhzOUlhc2dILVlBMmhSYXEtT3I0M1F4LWpmdzRtejJlYk8xemZzTEhjZ09iQUdtaWlqTGdpT3NjLW1kMFVXS2tseHhtbXpMblhMbHRMWlRoUEI4UUFoLTRSSjNmVEMyTzNmZEhsRTZKUGVnY2JSV1QtbTRHT3gxYnljaEZhd21XNlBDSS1u?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784255835430",
+          "date": "2026-07-17",
+          "title": "What caused Jude Bellingham’s confrontation with Lionel Messi - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1Q2OW9lT3VwTjl1cHJ4T2dhaUZpdmY2Wm9zd1NZcWNLT3ctc2J6V3o3bFRIRHFvLVMwQlR0cmh0Z2owNmRLbWlGRm9LZUx0c1lKQkVwWEZrRzdoc1lnUUpBVm5rdHlGWGpRbjZYMzJ1dEh5aV9WMmIwaXNxbTFHR2ZzdkpwbXFrRXZnR1FCNHdiRmlObk5FRzIxV1puaDA?oc=5",
           "draft": true
         }
       ]
