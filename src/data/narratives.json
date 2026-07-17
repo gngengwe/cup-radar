@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-17T05:42:36.267Z",
+  "lastUpdated": "2026-07-17T08:09:24.772Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 252,
+      "chapterCount": 253,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2034,6 +2034,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeWhHN1BjT0ROOWxOVFdZZzVqZFdRX1RTdkMxNHY5TndNcEh1VlF4SXJmUi00bUlGYlhHeHI5eks1cmRHS3hfUDVWUHM1UlpXNXU2NUh5cWxnbzlqVThUa1JSUUxjekgybkljdFcwaVVWS1dVNGY1cFhRM3BpdEMxWFJCelVlR2RrcDBhOEotLW9YZXE0YXBIMVlzNjdSa1NJb3VzZlBNbjZ3UE9sQ1VYNldoR1dXTHBBVHczS3JLS0dsT29XaHk0ejFGNGVSX21WQUt5MlVqOWlfM0Z4cXp1Y0tn0gHmAUFVX3lxTE50N3RRUzA5WWk5ajNoTmxWS0MzRkMtWEtHTk5iVm5lZjhDUEFrN3FuaGo1WHFXV01hclR3d2NGMkNzSWdsdjlHWnZWTTNUdXA0VUpTOXk0eWZkamZ1VWNpMkdueksxQlpRZV9aQ3lFM0JoZGZGWU9ReU1GOEM5UnJtOTRCeG1nOGs3elRjWVFXdGRuY0hXdko5XzNXQkRhZzVrX0ZLYXByVXlSQVRGaGJ2dHYxd3Z6S1dhQmFjRDVNT1RQT29XbGNma2hlUk0tSlJhMmRWM0ZjNEQyS3pPUDZHMEZyZ0pB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784275762724",
+          "date": "2026-07-16",
+          "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2052,7 +2060,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 243,
+      "chapterCount": 244,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -3996,6 +4004,14 @@
           "title": "France will walk away from the World Cup with at least $27 million—Kylian Mbappé hasn't kept a cent - Fortune",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFhRUy0wRU9JQVJTZ0hkS2pZcFp3RnR0Y0FTSXVWWlhjR3FXRmVZem4wcUJ6RlI4cnJ6SUVZenpjdG14WXRfQ2NrZDhJc1ZVVmc1OGVjUkJnNUJUb28zc1pTVTVpMy1PN1NETTRXVjY2Q1lYZW5nc1prcnNrb2tfZXJ2ckpVbzhPeldrMmMweGZPN21lVHFrNVcyYWJSTUlWX0FzZTJpQndWSy1mR0RJZF8tdmpORVV1N2lKbnhzYUZlN2FiclVpZg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784275763193",
+          "date": "2026-07-16",
+          "title": "Will Kylian Mbappé Play vs. England? France Star's Status For Bronze Medal Match - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRDLXlCNEE1WG9MWk1mYThKbnJ2Mmo0REFQN1hRaDRqdVZTaGgtNnlvcEt6T1pWR1lYZTFYS1U4RnNCa3dwT29TbjdNemdBTFowem5DaC1FWHRadkI5bjBNU0JReWxsWDZWU3B4c1ZNTFVRRTFSYjhNcVNaZGFBalB1dTM1cEhLRGlKekNiY3hRWkItOEFEd3dHV2dPZ3AtWks5SXcybEpYd3VOMXFyRXZrYkXSAbQBQVVfeXFMT0tfeXoxcFR3cmx6LTIxTmd5QWxnaHRhQUUtc2ZTQzRGd0VzZXlWZXhzOUlhc2dILVlBMmhSYXEtT3I0M1F4LWpmdzRtejJlYk8xemZzTEhjZ09iQUdtaWlqTGdpT3NjLW1kMFVXS2tseHhtbXpMblhMbHRMWlRoUEI4UUFoLTRSSjNmVEMyTzNmZEhsRTZKUGVnY2JSV1QtbTRHT3gxYnljaEZhd21XNlBDSS1u?oc=5",
           "draft": true
         }
       ]
@@ -12104,7 +12120,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 618,
+      "chapterCount": 620,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17048,6 +17064,22 @@
           "title": "France vs. England (Jul 18, 2026) Live Score - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE85czY1R1FaNXJyejQ3YkZHekFPMGtKTE9tcGNfb21wTVV2cnczOXc5VlRhYmk0anBwanAxbTd0VHRYQXlhcDBSSklyVkdOTzAxcUpvMFI5LVRXX3M1RVZIbUREaHh5QzlYUW5BbjRiWE43QQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784275764772",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: Nine stars who could move in summer transfers - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02UTRFdER4STdVYkxfSnZncDNfZkJOLXkzMmhsQzdNSTY1TGctaURUUkI0b21QWUkyWEtzSFMzMlBnamRwZnJSZVVnWFJlZWdKYll5c0VUZldlMUpmOFNjLWNPcTlZcGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784275764772",
+          "date": "2026-07-17",
+          "title": "World Cup 2026 today: Live updates, news as England prep for third-place playoff against France - July 17 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0hqTHNPbGlYSHBMb3NNZ3pFUEpNXzY4aFJheE9XUzl0NnJYVGRwWEdXc2d0NDZlWEhySmdQUmd0Rng3ZzRXY3NtVE1vZFVqZEFCV25FZjdsVmU3Sk1IOFp4eFo0Y0xUOW5KSEZteFBnLXlpUnJEdnE0OVB5RW1OS3dhNnpZLTgtSFpxY1Q1aU9ETjFwZVB4SHVKR1RWc3JSbVpsRV9PTnFWZnBLek5VSTlqeFM2eWZ5em9mcVJvcG9hOFhYSEhBMlh3?oc=5",
           "draft": true
         }
       ]

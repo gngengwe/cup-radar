@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-17T05:42:33.775Z",
+  "lastUpdated": "2026-07-17T08:09:22.277Z",
   "articles": [
+    {
+      "id": "news-auto-white-house-issue-update-on-donald-trump-2026-07-17",
+      "headline": "White House issue update on Donald Trump attending the 2026 World Cup final - Yahoo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmRyQnctaEpTMDFGdkZZdjRlREs0ZXdBc3p5RmowSDV4U2VDdzVPejFtWWpwWkZ2VFc1Umh3THR1TndQQ3R3Y1VHZ0pDNU1RdXdmbjZFdWRxdGlJcU1za19FMHVRN2cyOWVsaFVPQU1IUVo2ZUhISGtLY1oxV25Cb3NOM3plTHQtQ0xHbXVxSjlBTVlh?oc=5\" target=\"_blank\"&gt;W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmRyQnctaEpTMDFGdkZZdjRlREs0ZXdBc3p5RmowSDV4U2VDdzVPejFtWWpwWkZ2VFc1Umh3THR1TndQQ3R3Y1VHZ0pDNU1RdXdmbjZFdWRxdGlJcU1za19FMHVRN2cyOWVsaFVPQU1IUVo2ZUhISGtLY1oxV25Cb3NOM3plTHQtQ0xHbXVxSjlBTVlh?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-england-s-world-cup-tuchel-clause-2026-07-17",
+      "headline": "Inside England’s World Cup: Tuchel clauses, ‘tattoo’ plans and a happy camp clouded by one big regret - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGJSYVVEM1U3U2VTV3FSVURYaXJtMUFEZEd3YU50VlFhcnhJMVd6X3llQlZkc1pheWVJdENLaHl0bXIzX3M3dldMX2s4Si1jMUVoT01xSDlxRXBMYTRoTU9pY3B4NVd3SzFhMnRUbl9UaEhDVmJlMGQ4eFc5a3c0U2JUR3lfVkFYQnIw?oc=5\" target=\"_blank\"&gt;Inside Englan",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGJSYVVEM1U3U2VTV3FSVURYaXJtMUFEZEd3YU50VlFhcnhJMVd6X3llQlZkc1pheWVJdENLaHl0bXIzX3M3dldMX2s4Si1jMUVoT01xSDlxRXBMYTRoTU9pY3B4NVd3SzFhMnRUbl9UaEhDVmJlMGQ4eFc5a3c0U2JUR3lfVkFYQnIw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-final-argentina-vs-spain-what--2026-07-16",
+      "headline": "World Cup final: Argentina vs. Spain - What you need to know, predictions, odds - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1M4Q2tnSU9RVTF1b1hKQVdPUTNDQzJGcTZ1TUVpLTNuVzdwcFI4M0xjZlBoVlZJRDctSExaSzc1Sks4UVVwY2Nuem5FSkhTVUtCWTNhSXhVa291U0d6ZzJvWkM2R2VDejFSMEVqcDBYWUtESGx6RVotOXRlNkdSRjhwSlNLQTRLclBOelZfdnljNGV3RkMwN2MyNjF5eFIwbkV6RVFsX1p",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1M4Q2tnSU9RVTF1b1hKQVdPUTNDQzJGcTZ1TUVpLTNuVzdwcFI4M0xjZlBoVlZJRDctSExaSzc1Sks4UVVwY2Nuem5FSkhTVUtCWTNhSXhVa291U0d6ZzJvWkM2R2VDejFSMEVqcDBYWUtESGx6RVotOXRlNkdSRjhwSlNLQTRLclBOelZfdnljNGV3RkMwN2MyNjF5eFIwbkV6RVFsX1pqUzJzMXd6MjZTUW4?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-sounders-fc-vs-portland-timbers--2026-07-16",
+      "headline": "Seattle Sounders FC vs Portland Timbers: How to watch, Live Stream, TV Channel and Time in a 2026 MLS match... - bolavip.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeWp2UGYyT2hRZ1VNQzZnTnpxaVlyaW14Z0lCdTg0ZFZZenpSTXpfZV94MzVsOThRQ3hvY3VTLVlRb1F0ZTVpTDVrbzh2RGkyWHQtVy1PWGg5VFM3Z2Zkejd3MzhhVVNFX1dfS3N1d19yWnNxUDFkcjB4aVhWUl84QlZKUDdPZW9RYTE1dGpWY19oVlR4TUpGc3JTSVprczMtX1B1RjFqOWY",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeWp2UGYyT2hRZ1VNQzZnTnpxaVlyaW14Z0lCdTg0ZFZZenpSTXpfZV94MzVsOThRQ3hvY3VTLVlRb1F0ZTVpTDVrbzh2RGkyWHQtVy1PWGg5VFM3Z2Zkejd3MzhhVVNFX1dfS3N1d19yWnNxUDFkcjB4aVhWUl84QlZKUDdPZW9RYTE1dGpWY19oVlR4TUpGc3JTSVprczMtX1B1RjFqOWYwSW1ETzA5QnVkcnJncDRNbzVZckNoT0h0T1JQUXU5YkE4eXprVUhPNHVaOWdHc0RpNU9Gcm9Tb0xEOFTSAeoBQVVfeXFMTUpxU1BCQ0xqV09LT1RVN3JxOUY0WmVEU0U3cGZTcFZNMlE4cTZPNUg0OXliRnp2enc4QnVvMjhrV2VJUnJkSHl4VUZXWlJheWVkaHpNV1ZBam1GZmpwVHlobHJiQWRNN3VoNlJJT215cVBMZzRSWDBTVk1XOWFGLWJSbFZ4dHhkbzlWSkJrdjJQbWRaS2tFN3lYSG0ybEpvcEdRMkk2QjN6elZVZ1ZEOGZ5djQwOGFodnY0UFJRVWx5MEZIZ3NtVmVBSU9zRXhiWTM2WEtvY2l2SnJOeDVpTnFyLXNZUkpDUkV3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-meet-fifa-world-cup-2026-final-referee-s-2026-07-17",
       "headline": "Meet FIFA World Cup 2026 Final Referee Slavko Vincic. What Is His History With Argentina? - NDTV Sports",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-29",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0pMUGtCTHhzTTlKV2V1TkZIZFJPUmlaTTdPeW94MUdGTGJLU09FZTFpbUI1blBDQkdmT3NYMlgyWTZKSTNSU0h3LVNXNjQzVlBSQnQwQkFBWlJ4R2RDa0JnQlVoYkJ6UEFmdkd1Mm5RbEZ6OUhPeENkZmVFYTJlTEtjUWxoQ2pZWHNYQTlIUHByUi02bFBzNUVOVzNMWEQ0ZC1YYVI5TjlvYlVSaU9icVkzQ3NhS003Qmtwc0szOVNlMy0zdDhMUzl3T09oLWFtb0lveGV1SlBPUkZDMV9GemQyQTh2YzhYQVBiYnphMA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-pioneer-square-businesses-eye--2026-07-13",
-      "headline": "Seattle's Pioneer Square businesses eye future after FIFA World Cup 2026 - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlF4VWlGdHdGclZsVXd5YnU5RlVtZ0x6ajdQdmtCWjAwNllYdVRqYTloUUJKcTRzbXgyeWpObkJ1ajF0UmR6a0dlMzdFRkJJbjRZU1ZOSmhac3g2R3ZRZFNuSTA0VDZsZFlPVXkwNW52X202YzgtNg?oc=5\" target=\"_blank\"&gt;Seattle's Pioneer Square businesses eye",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlF4VWlGdHdGclZsVXd5YnU5RlVtZ0x6ajdQdmtCWjAwNllYdVRqYTloUUJKcTRzbXgyeWpObkJ1ajF0UmR6a0dlMzdFRkJJbjRZU1ZOSmhac3g2R3ZRZFNuSTA0VDZsZFlPVXkwNW52X202YzgtNg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-wild-success-as-host-durin-2026-07-15",
-      "headline": "Kansas City's wild success as host during FIFA World Cup 26 could attract another worldwide tournament - KSHB 41 Kansas City",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSU14VG9wTGFNSFYwYTZ1N1BLWFg4Z2o4MV9fMl9JSUdMYUxKN3VhVTlQWThRSkxIZThsMnlsNG9GV2hreDZvT3RHMTRkWl9wQ1lGN01VWnRXTExXNFNYc05fMFl1VkNtU0VTQk81Y2ZSdGhVTVQ1c3hxMXdNeXZHWGl6c0JzTVRmcG9QamdySk1YT2JnVHEtNi1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSU14VG9wTGFNSFYwYTZ1N1BLWFg4Z2o4MV9fMl9JSUdMYUxKN3VhVTlQWThRSkxIZThsMnlsNG9GV2hreDZvT3RHMTRkWl9wQ1lGN01VWnRXTExXNFNYc05fMFl1VkNtU0VTQk81Y2ZSdGhVTVQ1c3hxMXdNeXZHWGl6c0JzTVRmcG9QamdySk1YT2JnVHEtNi13N3B6SFdwUEtubDktektZdG8xMXRJaWlJd3Y5cksyQ0pzXy1LY3N2eUJMcnBYYlFzVFdjX1llcUpxblVR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-pens-short-goodbye-to-kansa-2026-07-14",
-      "headline": "Lionel Messi pens short goodbye to Kansas City ahead of World Cup semifinal - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5DZXZ1eFJTUEFCRkhUUHYxLUoya3dVblBwcks4bnpkLUY5d2Y5cExsS1NjU2JhWW1jd2ljTnBYUzNyZEpFNGNRY0VPanRSaVhWUFNfenB6QmtrN3lKMk1zSUI2TjF5alR1Zi02cFBDeU03THp1T29iV2hR0gF6QVVfeXFMT1RJY1F0UEVyd1hfZVhELS1yZmNyRVBjU3FZdnlzT3ZhcXBrM0N",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DZXZ1eFJTUEFCRkhUUHYxLUoya3dVblBwcks4bnpkLUY5d2Y5cExsS1NjU2JhWW1jd2ljTnBYUzNyZEpFNGNRY0VPanRSaVhWUFNfenB6QmtrN3lKMk1zSUI2TjF5alR1Zi02cFBDeU03THp1T29iV2hR0gF6QVVfeXFMT1RJY1F0UEVyd1hfZVhELS1yZmNyRVBjU3FZdnlzT3ZhcXBrM0NqUzR3eWVlWXRaaElqVWhoSnk5dko1akIzREJGOTljUU9tVW55VmREYl91ZzJBQmFJclF1RFdpU1dyZEtYLWk1ZXhWc3dvZW1MazV0SEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-crews-hard-at-work-monday-as-kansas-city-2026-07-14",
-      "headline": "Crews hard at work Monday as Kansas City cleans up World Cup locations - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWZBWWtaNVBtZjc4ZlF4WDdGQlFYUmM4Q0EzRmh0WTU2dGMwd3VCSTVOVlY3Uzk5TGI2Z1EwLVB5Q0xMV3daOF9xZGJrTkJKQmZENEdjWF9qbXdyZlRXQ2pnSmNybUZmdHNnNThGaUZ2RWdmS01meWFRWlplZVNOVDVqRnBUcGFLZGZEWGJxeE1WQXRyRnhGRklxRUNfT2VYMnFob1FZNUg",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWZBWWtaNVBtZjc4ZlF4WDdGQlFYUmM4Q0EzRmh0WTU2dGMwd3VCSTVOVlY3Uzk5TGI2Z1EwLVB5Q0xMV3daOF9xZGJrTkJKQmZENEdjWF9qbXdyZlRXQ2pnSmNybUZmdHNnNThGaUZ2RWdmS01meWFRWlplZVNOVDVqRnBUcGFLZGZEWGJxeE1WQXRyRnhGRklxRUNfT2VYMnFob1FZNUgzbDVW?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-world-cup-day-34-france-spai-2026-07-14",
-      "headline": "Kansas City World Cup Day 34 | France, Spain semifinal; England, Argentina prep - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXVERjRTRENzT1BFZ053c0RtMDRzS3FjbFV5Yi13UnE5X1U5UmdUZmppM2N6cGVWZUF3bkZBUzJ3d0NLcnh3S0VlcFR3X1l1NC1nWW5UQlgxUUVNVjZySDlHeUVHRERWV0p1dWdtUGY5SkpxU2dJalE0TUJWa3BvY3djZDBIZlV2STRJdTZpc2I3Q2ttbzZCQllWX1A2WlpnTVBHYWdRWkZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXVERjRTRENzT1BFZ053c0RtMDRzS3FjbFV5Yi13UnE5X1U5UmdUZmppM2N6cGVWZUF3bkZBUzJ3d0NLcnh3S0VlcFR3X1l1NC1nWW5UQlgxUUVNVjZySDlHeUVHRERWV0p1dWdtUGY5SkpxU2dJalE0TUJWa3BvY3djZDBIZlV2STRJdTZpc2I3Q2ttbzZCQllWX1A2WlpnTVBHYWdRWkZZUkNTYnJiaUFR?oc=5",
       "featured": false,
       "draft": true
     }
