@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-18T05:26:06.273Z",
+  "lastUpdated": "2026-07-18T07:49:24.734Z",
   "articles": [
+    {
+      "id": "news-auto-how-much-does-a-world-cup-referee-make-s-2026-07-18",
+      "headline": "How much does a World Cup referee make? Salary details and more for 2026 FIFA final officials - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUtmaUpYYkRRLVdzSnV0UTE4OFNVbXBlTUdhQUhwZjM1X3o5QU51QVV4QjlCVFFqU01KeFRROVd4dWdEWF9hdXNuZUdZQTZvcVBsYkNPNjduUEJfcUlYMUFFN3NJX3pSRklvbG95eE9ic0xaRnhrQ2lDZlRucVNYRWF3?oc=5\" target=\"_blank\"&gt;How much does a World Cup",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUtmaUpYYkRRLVdzSnV0UTE4OFNVbXBlTUdhQUhwZjM1X3o5QU51QVV4QjlCVFFqU01KeFRROVd4dWdEWF9hdXNuZUdZQTZvcVBsYkNPNjduUEJfcUlYMUFFN3NJX3pSRklvbG95eE9ic0xaRnhrQ2lDZlRucVNYRWF3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-semifinals-bracket-full-schedu-2026-07-14",
+      "headline": "World Cup semifinals bracket: Full schedule, matchups and path to the final - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-how-do-spain-and-argentin-2026-07-18",
+      "headline": "World Cup 2026: How do Spain and Argentina compare before the final? - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hclk2cS13OUgyVWdZMzZtcVo4UUwya05pRTdybUQ2Qk9UNmx4ZDdaUlhZN2hjNEJIZjM5X0tkcVVpeW00NFhKSjlVT2hEY2k4a2xWX3pRZTBrUFR6UDU4U24yMUUwR3c?oc=5\" target=\"_blank\"&gt;World Cup 2026: How do Spain and Argentina compare before the ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hclk2cS13OUgyVWdZMzZtcVo4UUwya05pRTdybUQ2Qk9UNmx4ZDdaUlhZN2hjNEJIZjM5X0tkcVVpeW00NFhKSjlVT2hEY2k4a2xWX3pRZTBrUFR6UDU4U24yMUUwR3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-cure-s-robert-smith-takes-aim-at-fif-2026-07-18",
       "headline": "The Cure’s Robert Smith Takes Aim at FIFA’s World Cup Final Half-Time Show: ‘Just F- - - Off’ - People.com",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-16",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYV9LRUFUbEQ3QnhIT2E1ZWtmMDgzZVB6Q2twdGVSNHQ2Mmw2cm9pZGRtMmJ3bmpQVGlJQ2MwZnQwNjRyTnF3RERJeWVxOWtlN2NkU0hldjVjbXdVR000WWhJVWJwSVFiUVJaTmE4Vm9qQVh1RjhhX0VpLW4xSVpMS3dVVkdyRjZvd0Fr?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-when-the-world-cup-came-to-kansas-city-l-2026-07-16",
-      "headline": "When the World Cup came to Kansas City, local journalists stayed local - Poynter",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEZ1cUt0cTJjaVcxSGJuaTQ2dHBsbnc1YVZYWkFkd1h1U240VmxuaFp5THQxT0JhM1hFUS1uQzg2SGlFS2U1cHVTTmgtWnFWY3lucEx0V0VhQTRNTTZrMk10bUxUVDB3UW1sRF9CeWFSLW1DSWQ2aks3Q1IyeTNUSjBKZ0RTeVBWSDhRa01CSDRac0U?oc=5\" target=\"_blank\"&gt;Wh",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWEZ1cUt0cTJjaVcxSGJuaTQ2dHBsbnc1YVZYWkFkd1h1U240VmxuaFp5THQxT0JhM1hFUS1uQzg2SGlFS2U1cHVTTmgtWnFWY3lucEx0V0VhQTRNTTZrMk10bUxUVDB3UW1sRF9CeWFSLW1DSWQ2aks3Q1IyeTNUSjBKZ0RTeVBWSDhRa01CSDRac0U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-with-the-world-cup-over-lumen-field-gets-2026-07-07",
-      "headline": "With the World Cup over, Lumen Field gets its name back - Seahawks Wire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXdhNXZocUVuYVpMTUFBRHVEXzV2a1lESHRKSVJUcmVELW9rN25QcVVfdGZpazdFZnBhTnl3dDhSTUZkMTQ3Q2c2SEMzRE15VjZ6TjJtYi0yVHpObU1oMmtGdVExYTZFWklyT2RxYll6QWZ4YTduOVo4ZEd4ckpoeWtySEljZU1LQXdPUEJWcWx4TUZTMlNReXQyVm9KZGRVaEdlZnFtcTR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXdhNXZocUVuYVpMTUFBRHVEXzV2a1lESHRKSVJUcmVELW9rN25QcVVfdGZpazdFZnBhTnl3dDhSTUZkMTQ3Q2c2SEMzRE15VjZ6TjJtYi0yVHpObU1oMmtGdVExYTZFWklyT2RxYll6QWZ4YTduOVo4ZEd4ckpoeWtySEljZU1LQXdPUEJWcWx4TUZTMlNReXQyVm9KZGRVaEdlZnFtcTREZldZUE9ieUp3bklvRzJZQ3lfbG1NbnkybjZJeDlJcXlMbk5FWTE5eXE4NVNLOVNCV1FTRVZ5Rkt5Rk0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-07-16",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - AOL.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1KS2h6X2Y3ekxCV3Z5c2E1YThScVNGY0JERmxZc0p6X0lDUVlfOUNjZWRNdHBaaC1OTjU3WmV2TWMwTnpMTnBVTE9JTXdRNC1RZDhPY2JUVS16enFPaDBkc2pva0h3azVyQ3dHNTR4RWhOUV9taDNCWHZOZjJSZw?oc=5\" target=\"_blank\"&gt;World Cup match day at Arrowhea",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KS2h6X2Y3ekxCV3Z5c2E1YThScVNGY0JERmxZc0p6X0lDUVlfOUNjZWRNdHBaaC1OTjU3WmV2TWMwTnpMTnBVTE9JTXdRNC1RZDhPY2JUVS16enFPaDBkc2pva0h3azVyQ3dHNTR4RWhOUV9taDNCWHZOZjJSZw?oc=5",
       "featured": false,
       "draft": true
     }

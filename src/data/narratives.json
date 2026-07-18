@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-18T05:26:08.662Z",
+  "lastUpdated": "2026-07-18T07:49:27.349Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2060,7 +2060,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 246,
+      "chapterCount": 247,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4028,6 +4028,14 @@
           "title": "Star-Studded Bronze Match: Mbappé, Bellingham Lead France-England Third-Place Game - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk9FclVYdkc4djF2SmVqcVJLdE1NdklOcUtLeHB2SWxJU1hBcGVyenVqczJqdkd1cm14dE56d20ySnNfaE1YcWM1bjd2Nzl0eDZVcHpQeE1kWmpTRmdzUGhaVDFWM0NEb1RUbWZUbXFYblJ1Q3NPazEwa3JOMEdNWEp2djQ1YlVDQ0RUQjItTW9rVXdPRV9LdDNCYllxRG0xbWx5YURQSHUzdjjSAasBQVVfeXFMUG1DRm1vamVYMzlOak9CNURHQ2NFWXRodm9vN2FuS1hBdnBhQTJKMk1Wd3FGWEQweXVIQ0dZR2RJaFpnVHB6a3Z0RE9hODNqVE9oVkdiMnNMbXJrNlhXS1ZYQWZRcFFSanZRM21jeUhhcnFWNEdkTExxeTdTRW5iSzZ6RF9FS00xaEl6amRWRkxnVXpPS3lfNElsYzIyUW1majRRRzRpandlaGZZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784360965618",
+          "date": "2026-07-15",
+          "title": "Kylian Mbappe knows ‘s–t’ is coming after France’s World Cup flameout - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM21wQlZwTXAzTWNLMW5idjF2TEItcndNV1NMdXNDUmNueXVHd0hldWFWQjhsZUNzYXJQZTVxVFRwVzhqMG92Q01aZkloWTRBbDk4aHUwWHNLc1diRkZIT2JBZlhVNnRDc0VjZTFIVmlGeDFjdGU3b3dUTTdwVGJKbU5JRTNKYWVEQ1BpM1U3VnNJZnk4Uk01QjhMWUJyZy1RQUFydEFVdw?oc=5",
           "draft": true
         }
       ]
@@ -12240,7 +12248,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 641,
+      "chapterCount": 644,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17368,6 +17376,30 @@
           "title": "FOX Sports Unveils Coverage For Historic FIFA World Cup 2026™ Final on FOX - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDZxWUtYVTlvN1d2WFpGWEJwRWV3QkxZb215a1o2UE14dEpfanhJYnpkQ253M0JmZWE2Y19fNEczMW14YnBtX2drRUlMVFdUc212Mk9VbzdsX05lS2Z1U0Z0bXdaWDg1TmFiMUlNZ1hZWmNoZ196WTNPdFpUS2FsaVNpLWhuTDB4WkhMczg2RFIwLTJyNEU2VUJvX09mN1B4Q0RneVpfRlgxNldFaTNr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784360967349",
+          "date": "2026-07-18",
+          "title": "World Cup 2026: England coach Thomas Tuchel defends semi-final tactics in Argentina loss - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xZFZ1ejc0ZzVLWWhtUW5rS2E3UURpdkVHVURsWW9pVjMzZjRSWm81TkFFanQ1SWpPeUlKZUM1VGMwREZTSDFUcU9iQTJFZVVwOXJlaVJzWDJ6M2NLQl8tUjhxZ1V0RVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784360967349",
+          "date": "2026-07-18",
+          "title": "World Cup 2026 latest: buildup to France v England third-place playoff and Spain v Argentina final - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEJTTFdPQVRTU2NFeWxHNTlob0NpcnpoSHl0N1k5UkFnNVV4THZDenZxTkZUS0dQVmNEZ0pOX2F6eldtT1dFS0o5M0hJT19hWG1Fa2psUlRQM0JUUlFHaFlrektfSDZWcWFuVzdTZHJ6andQUXBhRmtpblJTdGt5alNTYjVYRlFwUmppVy1QNzRPaTlpdGh6NFNYZ0RkQnFkOXF5X3FvX3M1bWJVaVVVZFdlRkNQaDZaX19rd1lB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784360967349",
+          "date": "2026-07-18",
+          "title": "My journey down the rabbit hole at the Conspiracy World Cup - Financial Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dCOXdGT2ZzeWZXS2dLOGpJcm1iWl9BeFkzaWZFUXI2V0pVRHRkQk05b2NKU2Nhb1g3dFkxeF9FTDBNLUZ3dkxqY09kMnYtS3p5c2xqU2JPa3BJRFdPZHVqSGNtVnNZUkxrd3FBSndBM3JuQTlrc2oySVBsQ2Flajl0YkM?oc=5",
           "draft": true
         }
       ]
