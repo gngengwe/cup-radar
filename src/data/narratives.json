@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-18T13:14:35.007Z",
+  "lastUpdated": "2026-07-18T15:56:51.199Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2060,7 +2060,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 248,
+      "chapterCount": 249,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4045,6 +4045,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSDhMQ0pYWW1YR2g1OTR5ejlJT09udGxGR3AzU0szUWh4YjZSdWFobldWOUduMWhGOXlTNmZYUU9JSHJOeVJUdWxJM25FdjdCN2N4S29XZk5YY1FZTHRQeHl2RE5Wc0tTdG1jVjdlUTVzWnFTb2Ezd1BnaHYtU2JkZ3hlNmZoeW1fdzBiNW1QNndhTHBGUDh0YkJ0S3BSWUgta3BRZTNoVEh2MkNlc0Jtd2R0czg5VkdXNVROcExPS20zMTE3M1RUcUIxczFEZUVabWhKX09fWS1FdnV0Tkc0TzF5T3dmZlRPUVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784390209756",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: Kylian Mbappe and Harry Kane eye Golden Boot in consolation play-off - thenationalnews.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEUzYUE5UlRmSWtPUWFIZl9sV016LTU2SEtDRFBwWDltb1B5VUFvbjQtUFF4ampnY3BzNnVRVm5jV0M1Mk5DMTRXM2N0LUFBQ2lFX085aWxWUTVvaXZ3VklvUkJKalNPTmNuZGVEeXFCRmxEd2cxVTkxdmpoTWZKSGRCMjRndkJDV09TY0ZnSXR2VlU5RGtVVEh5eXlnQk53UWoxNWZyNmw5QnFleWZlOEotMmRVby1ub0hzTENNMklseThhcm5lV1JfTFZjN3ZKanlGWFlucHdqdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4063,7 +4071,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 535,
+      "chapterCount": 539,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8344,6 +8352,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaENFV0hHbjBWVXN4SnY0N1N5RkpHbFdMVzN2SThtYzBaSGpkWW5SbWIwazlBekhLdDV4VHdzYjRuRno1TlpWeFZIbHozV2tzbGFHd29GaWxKTWo0VTB4dVdBNy1uMTVYZXUxMFRQcklMdF83QWMyWFN1VHBtU2xVSHZSZkhKX1Bfc2ZtZ3hJbTdIdGZob3BkOXp3R1d2b2xVbVJ1QjczU1NTZEs4aWtoZ0E0VEZxNGVVbFl3aW1EZXVqR2gyTHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784390210276",
+          "date": "2026-07-18",
+          "title": "Trump interrupts FIFA President to make bitter USMNT World Cup comment - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYnFabkJVdWFvTHRIb1NjRklSRUxNUGdYRXh0NUxyMHdRSG45MzM0TTM0Z0RZSlpkRFR1WUNVcFdycV9IUVN1YWd3ci0tbFQxYnFta1ZrT21PMnNwR21Cd181Q2R1WHlGdVJMSzl4YWh0djFTdF9yanR4clRmTFJKQ3JKVzdudExBemFuZ0s3bmE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784390210276",
+          "date": "2026-07-18",
+          "title": "Mauricio Pochettino to make a decision about USMNT future 'next week' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGF0N3RMUjVZMGVOOXlEdHZQR1cxZ29WWW9QMkN3T1B6R05hNzBPX0ZfZVdWQzJYTzZtYndkbUFUQmdHbEpDTXVzUmtMalVTamJ4UXVWSHZwakQ4a0hTUld6OW0zTFkyd2Rjc2ZfTklXajNKVjJvVWhwQ2JCRVhwNXlSNGt2eG43ZUViNmplT1YyNTNoLTRRaHl4S1FCX1I5RkpDS2pTTGlyQm9KUnBaRl9OZFhiVUExbTJ4eUdhVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784390210276",
+          "date": "2026-07-18",
+          "title": "How the U.S. Lost the World Cup—and Won Over the World - WSJ",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWHVxUHJ1QUlMNmROVXU2Nm4yWnktclNUaE1UWUtLM1ZIaTU4ZGJ3SkQwX1oxQnU4QnYzWk00X2sxOF9JZzNaNnNnVlRDOUlFdXpmeXJKQl8wemdPYXBid3dUSHkzOVFZOUtxNnpMR1dpV3FGWVd5eC13?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784390210276",
+          "date": "2026-07-17",
+          "title": "How to Watch the 2026 World Cup Final This Sunday - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1FiQ3VwMENnMHpiOGhjVldvYzc3MGExZl9aUnRkVl9uak5DNlR0ZnNzWFo3dG52c3hnQUJadmJDa1RoMERTZnRPd3kxNWFfdjhWa2c3MmJKREd2MDR2NVhYQmZBRkVOTVB2ZnRQdlR2M3BBNXU4N2djNE55a2FnVXNrODY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12272,7 +12312,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 650,
+      "chapterCount": 653,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17472,6 +17512,30 @@
           "title": "Beckham’s big haul, the end of the GOAT debate — and America’s fast-food superiority: The World Cup’s other winners & losers - New York Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NbWwxVk1NSWVhRXh1cjF2ekpHMFFxWWxzdzNDTEJ5TDI0MmdTZ2VxdkxJQnBfXzZyMFZ4Z0gybVVtcll3N182aGtDdTE5cTFBUVpaenhBRDVLeHJNSEcxWTdpQjdDSzNFU0FjR1BsMkJaX0hZQklaaHpJLTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784390211199",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: Thomas Tuchel did not deliver for England, but his time is not up - Alan Shearer - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83ZGR0QnRFMl9aM0MwOXJid1VBWXk5YkRIbElfdUtueHBUbHZCN1U2YXJYcVhXSTNMWWZVZ0t0M2FvVW5KRWpOZUZ5RWR5ZnVuM1ZUSXN2MmMyVXpjUm9JeTh3MzlqeVU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784390211199",
+          "date": "2026-07-18",
+          "title": "England coach Thomas Tuchel fires back at President Trump after World Cup criticism - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkNJWWVoSEZWSzZCcDU3STFaNlFxVGx4bUNLYndZdGdDMi1iZFFPb0ZMQm1pUnVRRFZ2UXZWWF9WTk1nbWVjeDZDeDV0N3RTOTYwM3lZZkhTUHhza3dlVzRDMW5rdlFXUmwyX1dyUkdleGFrZXdhWUpTSHJQTEU3Skk2UmtWTU5OQ0ItejkzbGczMm1ZV1FKbzlmTWszN2JtTmtFcEUxVk9ON2JCV1czNHA3NzN0a1daVFk4ZmhB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784390211199",
+          "date": "2026-07-18",
+          "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakZId29yYjI3R1FEZEF2b3hPWUxMLTc4Q3ZUYlprZEFGdTBnTlpjbTU4YkR0LWJ3WmRqV1NVMHZmcy1BVzhtQjhVdGFzNVFMNG9YbS1lcEtYU1dOUC1CZy1RbmFTWUd0UkxyQUI0Tl9ZVklVQm9qTl9QdTM5cWE5LV9IamVnb2RhejJnWXNfY015Zw?oc=5",
           "draft": true
         }
       ]
