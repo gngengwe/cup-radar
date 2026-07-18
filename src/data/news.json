@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-18T02:28:38.965Z",
+  "lastUpdated": "2026-07-18T05:26:06.273Z",
   "articles": [
+    {
+      "id": "news-auto-the-cure-s-robert-smith-takes-aim-at-fif-2026-07-18",
+      "headline": "The Cure’s Robert Smith Takes Aim at FIFA’s World Cup Final Half-Time Show: ‘Just F- - - Off’ - People.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnNlTVIxb2FMRVp2NFQzaVk4V2p3WGs4Q051UHhwY3pQUEt0R2NPaWtOWDVkZzdpNUNjNnZPOVBSMGMxdmJVMWNmUUhPaDRpdUFOZXR4a0FOR1cxVmI2dkJvaDg3ZnFiSlk0RUV0QjdWeGI3ODRERnZMSUZNUXIyM1RLQlJSS1pud1VxRFV4TXQxVnlBZGFTREt3UGtUZ2JJM2lqYUpzUlp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnNlTVIxb2FMRVp2NFQzaVk4V2p3WGs4Q051UHhwY3pQUEt0R2NPaWtOWDVkZzdpNUNjNnZPOVBSMGMxdmJVMWNmUUhPaDRpdUFOZXR4a0FOR1cxVmI2dkJvaDg3ZnFiSlk0RUV0QjdWeGI3ODRERnZMSUZNUXIyM1RLQlJSS1pud1VxRFV4TXQxVnlBZGFTREt3UGtUZ2JJM2lqYUpzUlpIc0lDbUh4WF9JUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-seattle-s-urban-stadium-brought-worl-2026-07-14",
+      "headline": "How Seattle’s Urban Stadium Brought World Cup Success, While Others Floundered - The Urbanist",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUk3dk1BeUltYTZMZnJrNDJNMExwY3d3SXZGMDN1Y1llS1ZmTUo3aWFjbTNRd0p1U19MZ0FFOXpfZTdaVHRqb3NDQ0ZpNmJHUXZnQ0JDT3NRMkxxbUE4aGs2U3hjMlhEVkh2NEQ0WVItaGo0OU9sYnF0ZE9yMHB6M3JBd0VLeGVK?oc=5\" target=\"_blank\"&gt;How Seattle’s Urb",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUk3dk1BeUltYTZMZnJrNDJNMExwY3d3SXZGMDN1Y1llS1ZmTUo3aWFjbTNRd0p1U19MZ0FFOXpfZTdaVHRqb3NDQ0ZpNmJHUXZnQ0JDT3NRMkxxbUE4aGs2U3hjMlhEVkh2NEQ0WVItaGo0OU9sYnF0ZE9yMHB6M3JBd0VLeGVK?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-examining-how-much-of-your-tax-dollars-p-2026-07-18",
+      "headline": "Examining how much of your tax dollars paid for the World Cup in Kansas City - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5MY3NrOWM3RXh5d2M?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - Seattle.gov",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-set-to-break-own-laws-for-second-ti-2026-07-17",
       "headline": "Fifa set to break OWN LAWS for second time at 2026 World Cup with glitzy half-time show chaos during final - the-sun.com",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-16",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KS2h6X2Y3ekxCV3Z5c2E1YThScVNGY0JERmxZc0p6X0lDUVlfOUNjZWRNdHBaaC1OTjU3WmV2TWMwTnpMTnBVTE9JTXdRNC1RZDhPY2JUVS16enFPaDBkc2pva0h3azVyQ3dHNTR4RWhOUV9taDNCWHZOZjJSZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-college-football-playoff-expansion--2026-07-16",
-      "headline": "What College Football Playoff expansion could learn from the 2026 World Cup - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkNMZnhPX1M3eEJqR3VHTU9VWGlRUGNSeTVwQ1o1MHZaX2wxR1ktNEdXWFJfc2FCeFVyOHpqdldzOWQ3WlN0Q3o1TTdOQUZPNlpoaHNtTTZqN2liU0tGRWpzZnBacjFHUUhoVlV1ZjVvMzhDenlXOWhHRUtEVGhzNXIxSGJXVlkzMWZEOFhWSXIwd0lHTjllblFmVVFPYnRwRjRNY1RNU2V",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkNMZnhPX1M3eEJqR3VHTU9VWGlRUGNSeTVwQ1o1MHZaX2wxR1ktNEdXWFJfc2FCeFVyOHpqdldzOWQ3WlN0Q3o1TTdOQUZPNlpoaHNtTTZqN2liU0tGRWpzZnBacjFHUUhoVlV1ZjVvMzhDenlXOWhHRUtEVGhzNXIxSGJXVlkzMWZEOFhWSXIwd0lHTjllblFmVVFPYnRwRjRNY1RNU2VUeUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-final-could-be-the-bigges-2026-07-16",
-      "headline": "FIFA World Cup final could be the biggest event in ‘human history,’ CEO says - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3JaLTI1MWttOG55YXY3RDNvRE1fNW9ab3M3UVlSbHZLN21MZWRVcGx5bnR4NU5RemZOLWl1c294WEhSb0p4MTRFTXhuamlYczEwQTRzYXUtUlh4YkhWUXBVSUtwMjJfcWMtX2oxa2VZUGdOUHlBVkhqZHJTWS02bw?oc=5\" target=\"_blank\"&gt;FIFA World Cup final could ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3JaLTI1MWttOG55YXY3RDNvRE1fNW9ab3M3UVlSbHZLN21MZWRVcGx5bnR4NU5RemZOLWl1c294WEhSb0p4MTRFTXhuamlYczEwQTRzYXUtUlh4YkhWUXBVSUtwMjJfcWMtX2oxa2VZUGdOUHlBVkhqZHJTWS02bw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-fuels-argentina-s-stunning--2026-07-15",
-      "headline": "Lionel Messi fuels Argentina’s stunning late rally past England into World Cup final - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHRYbHROVW9uM1R6aUYwYloxdzZfemhSdWRaWXljajBKdFRyMnhidFRRMG5xLV96Wk5uLW51NkR6VE5TT1RJVTFiZkNVVm95R0t6MDN5UndCdlNoeDByTGpLZjgwOVpIZEdSUjJlczRMOVBhWkpaVlNCeTRRNjd5cFJFNmRjVEkzemJmSlFVQTdIUDlaeWhuNXdHYk9GLUNOdFVVVGhlZkJiVkQ4amMtZ2thVFpPZlNfOUg5eXdfSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-1-2-argentina-world-cup-2026-sem-2026-07-15",
-      "headline": "England 1-2 Argentina: World Cup 2026 semi-final – as it happened - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUpNMjJwcXFacVFaZndVMHdxOFU3TnhZcjRPcDIwY0tzS2hSQjVnN2VLakhmcUlyVGhCb2pKdERaSEJoak5YYnVvc3dsSDdCZlVfanRmMkwyTDVMREhEUWhsbFhZOEFGSWpEeFFBMjJESHJxXzFWLU5pd0FRQlE1ZlpKV2VzQmdSNVFIN3BiSzdqRWZZQzJwTEZJYjlaSm14SlFFdXU4dw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-thomas-tuchel-is-guilty-of-orchestrating-2026-07-16",
-      "headline": "Thomas Tuchel is guilty of orchestrating England’s craven World Cup demise - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnZrVDRKVGFSS05GX0JaVURDck83dlV0QUlsZ0hkd0FMeEotam13dXZzRHl4eXBWQ2Vlak45NUR0MUZOekZuendoMzFMZ1BLYkctbFhtWHVsbDc2RVpITlNsQmpLekg1YTk2Rmk5dkZsdHQ3ZV9SUUI4UnIwb3hJU2pqRXJxWHdZQ3dlRTFXeUZPaWFuZUprQzB3?oc=5\" target=\"_bla",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnZrVDRKVGFSS05GX0JaVURDck83dlV0QUlsZ0hkd0FMeEotam13dXZzRHl4eXBWQ2Vlak45NUR0MUZOekZuendoMzFMZ1BLYkctbFhtWHVsbDc2RVpITlNsQmpLekg1YTk2Rmk5dkZsdHQ3ZV9SUUI4UnIwb3hJU2pqRXJxWHdZQ3dlRTFXeUZPaWFuZUprQzB3?oc=5",
       "featured": false,
       "draft": true
     }

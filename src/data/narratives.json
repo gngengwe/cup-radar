@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-18T02:28:41.532Z",
+  "lastUpdated": "2026-07-18T05:26:08.662Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2060,7 +2060,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 245,
+      "chapterCount": 246,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4021,6 +4021,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmtJLXF3X3p3a1FCN3lFaGVaeDRlWkhka2lrSWlLWUpHdjVKalg3TWdaWUxySTU3cEZSRXc3TnMwcGlMN0VfNmctclhyeFRHOVhvVFBweXQ2N25kNDBQOEpoSm03MGxuUUJ4V1pKajhsOTFxUW1OTllnejJmNjRfSy01VnJwaFdWTHdaSVNfVEdubDVxYlNQZ1lVRUZWRl92NGlzYlc3QmpfU3hqbV9tRkpR0gG3AUFVX3lxTFB1T2FuUW9hcVNhOF9uakdISllwaTl4NjFNMTVOR3NNYmxIX0pCdGJPblhTTTNSQ2FzdG1EQ0xESEFlQWJscjQ0NllfMnpKSTI1UVdrTVlYWFphbmhQODh3ajZzdTZXLU1EVXBvczJSeVZETVNkMEM4NTczN1VSMTFlVGtMSkkySk5IallITUdXRWUyalFOS3JlNVd5QnBWd0xWV1ItYzZ3WWhnZ20ybEo3RlpvVVVaWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784352367182",
+          "date": "2026-07-17",
+          "title": "Star-Studded Bronze Match: Mbappé, Bellingham Lead France-England Third-Place Game - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYk9FclVYdkc4djF2SmVqcVJLdE1NdklOcUtLeHB2SWxJU1hBcGVyenVqczJqdkd1cm14dE56d20ySnNfaE1YcWM1bjd2Nzl0eDZVcHpQeE1kWmpTRmdzUGhaVDFWM0NEb1RUbWZUbXFYblJ1Q3NPazEwa3JOMEdNWEp2djQ1YlVDQ0RUQjItTW9rVXdPRV9LdDNCYllxRG0xbWx5YURQSHUzdjjSAasBQVVfeXFMUG1DRm1vamVYMzlOak9CNURHQ2NFWXRodm9vN2FuS1hBdnBhQTJKMk1Wd3FGWEQweXVIQ0dZR2RJaFpnVHB6a3Z0RE9hODNqVE9oVkdiMnNMbXJrNlhXS1ZYQWZRcFFSanZRM21jeUhhcnFWNEdkTExxeTdTRW5iSzZ6RF9FS00xaEl6amRWRkxnVXpPS3lfNElsYzIyUW1majRRRzRpandlaGZZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4039,7 +4047,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 531,
+      "chapterCount": 533,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8288,6 +8296,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVNneC1zYVVqazdmV2pTMC13Vkx3QnpBeG9fbFpaQnIxRlhhbjUxWm5VZE5KYXZpRkpWcjNSeV82aDIxRHJlbUhibndueEc5Q0c1UjRRTi1wV2VqaUQyV21VS1dzc0l1M3RyZjB1b3FsRnUtNTZvWEw2TXZvd0VGQlB3aFZpSm00aV9GZlJiYkhqb0E3Y0ZMSTRoWFVFcm9WQTlvOVNGYXl0MjJGck1KX3FVQ1FSZDh2QjY3OTFWeHI?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784352367637",
+          "date": "2026-07-18",
+          "title": "2026 World Cup final: U.S. President Donald Trump to attend; FIFA will present championship rings - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcERnd3lOZDBqc1lMdXpxYmZ6alBiUzhhQ1N0ODE0RkZCYVBnVHhqY3JHdTRibml6RG5mVlNxVEdIRjRBdzljNXg1LV9QRWFZM3hCeFhRc2w2SHRMYkUxd0VvQ21tRk05cE05VWQyS1o1M0ZiX0xsNk1xNzhMTTNkUjg3cWtQVnVTTFgyQkpiWkl2VFNlRnlTcDRfSDJWZDVjTkh4RHJDSFZrOUJ1c0wzeUpmblMxeG1NeklZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784352367637",
+          "date": "2026-07-17",
+          "title": "‘USA should never host a World Cup again’: FIFA’s new ‘ridiculous’ decision sparks outrage - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uNW1tNlpjRFhkY0NES0RZZElUaFNsWXRDZVZ2VVdxb3RQZmNPbGtXMHJhNFFXYTBUOHZVb2NBbFpxSC1CVW5kX2xYdGtpWUFhTmNjZHVzSVllNGNVTUVDb241UG5GN2xrSTlxb2RGTzlWZ01iUmk3LVJXMzV4UQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12216,7 +12240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 639,
+      "chapterCount": 641,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17328,6 +17352,22 @@
           "title": "Fifa set to break OWN LAWS for second time at 2026 World Cup with glitzy half-time show chaos during final - the-sun.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHNVVTlKOUl6eFZodXFEYThaMXEydTZmTVRQdFo5VzNqX3VmZFhwUU5YSkUzSHBqNlRFcTNTT0ZpZmZzbTNXR2o5Y0JFWTRCZlk3ZFpLdkVhc2hwUUhFWjliOUE1bXBNT3VEUmtxUDZob0NwdVBkOW14alhrT3JNeGtMOVZQbV9RWWV1c2VyckxJR2Qx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784352368662",
+          "date": "2026-07-18",
+          "title": "Trump praises Infantino for ‘great decision’ over Balogun, criticizes England’s use of Kane - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2FJWjJPSE9fb1V3VXZ1TWw0emhKNi1GdWFjR25OMW9MNmNoTjZiLUVTUlBsY1lMVnB4RmtQOWhUejZaSnBqZG1uMGlBZVgzTy03eFBIemZWTEVoR1ZoOFAyaUx0aWs2bjJ5TlFQWXJKZ0dXaUxwdVppS29icHJEUmt1T2twY2tDUFc3UzhKbkpORHBMMU96WWJXT21PN05Gb1pF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784352368662",
+          "date": "2026-07-17",
+          "title": "FOX Sports Unveils Coverage For Historic FIFA World Cup 2026™ Final on FOX - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDZxWUtYVTlvN1d2WFpGWEJwRWV3QkxZb215a1o2UE14dEpfanhJYnpkQ253M0JmZWE2Y19fNEczMW14YnBtX2drRUlMVFdUc212Mk9VbzdsX05lS2Z1U0Z0bXdaWDg1TmFiMUlNZ1hZWmNoZ196WTNPdFpUS2FsaVNpLWhuTDB4WkhMczg2RFIwLTJyNEU2VUJvX09mN1B4Q0RneVpfRlgxNldFaTNr?oc=5",
           "draft": true
         }
       ]
