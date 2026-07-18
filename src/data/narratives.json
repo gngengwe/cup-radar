@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-17T21:53:58.518Z",
+  "lastUpdated": "2026-07-18T02:28:41.532Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4039,7 +4039,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 529,
+      "chapterCount": 531,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8272,6 +8272,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZEx4RzJ4ZnZUV1JWODQ0b3FkRHZlLXpvZkN5SXlkbFF3a2xza0RQRXRfcnJleXJhWVJoMWM1Z3k3eFQ2eDh2QWFpSTZtNXZoTXRHMTUxcGZwajgtSmRhemJGT3FZbjZvQnZBdnBwa2Fwd3FnbGVlRWtQRU9PYUJqUVQ2S0xPdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784341720541",
+          "date": "2026-07-17",
+          "title": "Top Goals & Games of the FIFA World Cup, What was USMNT’s best moment of the tournament? | FTF OTees - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mRDY0bjF5d0lQdmtCS01QYWJTc1BHdGZneVdZdHNfajh1eFRYdHlEb2FDT0xGQ2pJbVdfOTAyNEp1OHdfTGJNTXdYUnpLdVNlekhmQ0k5SWhQenJsbTR4TUJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784341720541",
+          "date": "2026-07-17",
+          "title": "What time is the World Cup final on Sunday? Full game details - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVNneC1zYVVqazdmV2pTMC13Vkx3QnpBeG9fbFpaQnIxRlhhbjUxWm5VZE5KYXZpRkpWcjNSeV82aDIxRHJlbUhibndueEc5Q0c1UjRRTi1wV2VqaUQyV21VS1dzc0l1M3RyZjB1b3FsRnUtNTZvWEw2TXZvd0VGQlB3aFZpSm00aV9GZlJiYkhqb0E3Y0ZMSTRoWFVFcm9WQTlvOVNGYXl0MjJGck1KX3FVQ1FSZDh2QjY3OTFWeHI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12200,7 +12216,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 635,
+      "chapterCount": 639,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17280,6 +17296,38 @@
           "title": "World Cup LIVE: White House stance on Falklands banner row as FIFA react to ban calls - The Mirror",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZno5WXpZd2NCbTQwSHllVExHcWgtc1RuVmZwQ3JiZmt1VEJzc0pZejdmQkxGZ0JYU1BVZ29GSUlaRkxMWXc0TmFyVlFoZGdmZ3ZFMm8xZUROMEo1N2s4c1VWRnd1d21rbGswTlBtM3dabjNtcEJDaFZDMjdGb1BxZWg0TVczSHlZZ01V?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784341721532",
+          "date": "2026-07-17",
+          "title": "World Cup 2026: England coach Thomas Tuchel delivers message to players - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4OGFOYUs3S2xlMUpPTV9xckJCSFJkQy1LWDBNTHRIODBYbG42X0Z6UXlMNVRzOVJqbXdKb0cyRlV6THJIWjlXN2FiazdEbllBMzcydXhCelYxdGgwWGEwV2pNWkFpSG8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784341721532",
+          "date": "2026-07-17",
+          "title": "What time is France vs England tomorrow? World Cup third-place game details - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVVjeEk1RUNrT0VlOTBCU1RJN3ZpUGZXRHAyZHRybFBfYlo2Z2tsUUUzZ2ZDdW1qN0pBZjZ0OE56X0dkWlN5aklqTU1lOU5QYko3NnREN3Q1N1R3bzEycU1NcTJTaDl1TWxManY3NzBXWGF0XzJrWDYwLWlSeHRyRWdjUGpWUkFGOTNYMFJFbk9XN3pHd05nLVhKMmdXaHJpRGNPbTl1akhsbGZWZDRBcVk4WVV5XzlYTEY2cm5SNXk1VFI0T2pnSU44NlBUZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784341721532",
+          "date": "2026-07-18",
+          "title": "World Cup 2026: President Donald Trump questions Harry Kane's defensive role for England - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNVQ4Ny13bE5NUHRLdk42N0IyRktScnVPYVd6UGswNHYxX1lQd0RkUF8ySTFLNEl2Y1RKam1ZQWFmbTRDdTlMR2NsaFk5YjJtNUFQaFVhVVA4Tkw1QWtSNTFjTWpMM2FkcEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784341721532",
+          "date": "2026-07-17",
+          "title": "Fifa set to break OWN LAWS for second time at 2026 World Cup with glitzy half-time show chaos during final - the-sun.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHNVVTlKOUl6eFZodXFEYThaMXEydTZmTVRQdFo5VzNqX3VmZFhwUU5YSkUzSHBqNlRFcTNTT0ZpZmZzbTNXR2o5Y0JFWTRCZlk3ZFpLdkVhc2hwUUhFWjliOUE1bXBNT3VEUmtxUDZob0NwdVBkOW14alhrT3JNeGtMOVZQbV9RWWV1c2VyckxJR2Qx?oc=5",
           "draft": true
         }
       ]
