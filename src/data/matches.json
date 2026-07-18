@@ -4167,9 +4167,9 @@
       "group": null,
       "stage": "3rd Place Play-off",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 0,
+      "awayScore": 4,
       "miamiMatch": true,
       "notes": "Loser SF-01 vs Loser SF-02 — 3rd Place Play-off"
     },
@@ -4197,5 +4197,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-15T22:00:29.882Z"
+  "lastUpdated": "2026-07-18T21:51:04.474Z"
 }
