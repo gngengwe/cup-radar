@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T10:27:57.178Z",
+  "lastUpdated": "2026-07-19T13:17:10.410Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 254,
+      "chapterCount": 259,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2050,6 +2050,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGpGNU5Xc3R1bHFBdmYzRE5wMzBHb0RjekN3SG83TnVFSkRCVF9fM1htNEpoRl9Pcm1BMnFaT1dsMDZDUFBxZTZ1R01RV2NWaEE0QWM4Skc0czUwbUtjNjZGbXpVdlpib2lqQlF1cTJZZG8yYWk3R2hRdlBON1pQbEZwTWRmVEdqM1gzcExkSXVCa3lNT2UwTlQyd25WRnlQZi1VQVR1UVVhOXVBWkNWcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784467028154",
+          "date": "2026-07-19",
+          "title": "Messi’s Argentina face Spain in today’s 2026 World Cup final: Live updates - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOThGWjk4MFZFVlFKeUR5M0xmQ2hTTGk2V1NNQ2RXUEt4LUFBQzF2ejlvbGxGTnVId1k1S21BdUtnR19wVHNjZXBFMk95TGZNTTl5UlByNVgybEx5cm0yMF9QTEx5QXJQLVVzcmM2X09aZ3M5RGZkN0hCcDYxWDk0bVI5RElNREZ6amtZT1hxYkkxNENjWFZkZDN6cl9tcWY2TFhHNkFkRm9DTS1kZW1qdEVCRXU1aS10ZENGYXpTZ2g?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784467028154",
+          "date": "2026-07-19",
+          "title": "Spain vs Argentina: World Cup final predictions, schedule, Messi news - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaEFhZGtiRHgwQ2lKaFdYLXB2YU9Yd1hkWVdqNDluYVRpeVFUNmhDbk9pcVdCbTQ3RHFEc3BPTkoxZTZhdVo4cmNwZ0FTbUpKWU94b0FPN1RFOUFSbm5OaTFObm1zWGhWMHAzYlA2TmMtRlVYQ2FORnlYTW9lSVNGOEN6X0UxSjBSWGxJUGF3eWY4SW9aZmJGXzZnbDFoOVZidHA1Y2tkb9IBrAFBVV95cUxQU09Cd01FbmY2bDVseTljUms4Mm93MEpYTnRPRjROMTZSMXptWWdlSXVGTTNfU3lPU1BsVWhpbnBQR2d4elJrV2hBWVpMUXZOa1czRjNldlgxaVlPd29JbmxqRmNudVVJcHc4ejhJMmRKYm5ab0QwV05nWmRKWFB2ZWJlRVlKbjRjR05LZ0JZSGhaeHlMMDFBekxSUDg4bzUxYnUzOHRJcGN0eGMy?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784467028154",
+          "date": "2026-07-19",
+          "title": "Get on the bandwagon, shop your Argentina World Cup jersey before it's too late - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGJkeHJzR3BCWFlxYlNtV0Q4a3ZiSVdZaEM0ck5HSkptOXc4N1dwZGFQb0d6NWNPOEY1Ny1VT2tJbTZmRnh1aGhDQzVsalhfR05KMF8xa25hblI3TEtQdVp6VWRfNDY1dzFYX1F3WmR1VEhYNlF1OHBQNHVXOFJGWDY5c1Q3RFhBUmdYRUlMS29lVWc0clZBMlFKaGd1aUxvYjhveGxSLVdZZndUX2prZzQ2TjRWOWxKT0FFclVzcC1jbjBxeFNV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784467028154",
+          "date": "2026-07-17",
+          "title": "Lionel Messi's, Argentina's World Cup Final History Ahead Of Sunday's Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSy1qNl9mUm90Zm1CdmwyRGFHVEhRQUM4cTBYZTBYNmZpeWN6Y2w2Mm4zT2RSaU1JdmNnNmloMGtBXzBvdW1YQ2NIV2JRRURIWG91alZYOWEwaG1IWHhDdGk2N2hORElLYXNwaXFrRVdpbmdQZ3I3R1FjanRDOExWODhsMVZabEI3a25GVEVmYkhmUjVvR09HWnBweVVDamstU09vVTZLaEYwWDBqWHfSAa4BQVVfeXFMTU1oQ1hZRGw0S3VYMjFwb3ZxZzRSNkNJWTUyV2YyLWplVkkwbTlSbUhiLVd3RzZudkpLcE0wazJOcVlCVG9hbTlQQWgyRmphd2NsdmZRYm9FX2gyWVJFaEVjaFR4dlRYbU5jYkRXN0VIb01lMnQ2NmxnS3BLeDFlR1RaSTU1R285ZTRhbW00bWFRZ1JuVHUwOHhNTF9xcHpOY3RDSV8wWFBKdGRWUTNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784467028154",
+          "date": "2026-07-19",
+          "title": "How many comeback wins have Lionel Messi, Argentina completed at the 2026 World Cup? - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkZrbTF1eFlMcHdmcjRuRzF1ZnJ6YlVBOUpBRFVOU1FQa0k0UXpSenJ1YnZlZ3o0RGVWeEhtNFc0QnhtZDFQbFNsNnYzcFl6WjhPckZCdy1GWXY2dHF1dEx5WjlrdzZVQUlITmliZVJzdjgxSXZ1bWVhX3lpNHpjZHZ6RUw4aVB0bkxvbVR3blMxSkdOUFpjMTZNTXRORXZ4YkZZMno0N0xxQTdLTnk2Z2wyZGhMd9IBuwFBVV95cUxNUk9WcEkyLXRNNWdPaWRnd2dEWmZFeG5UV2VkQmFDejBQRmhhd0RJelZrS0hHakl3TXh2NWYtRXd4OXZYbk8zb0hVeGE0cDdjdkZwRHV0b3JEbWxxOEdSWDJCVnRZR29GOWpLNXlkbzJRQXExQXl6T3E4VDBFVkVOZmJsRzU0YUEzRi10aHpfdE1DSkFua3JRQmhOVlY1UHI3UkpvbGllOGZSMnYzVUFkUHJaMHliVFBEbE9R?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2068,7 +2108,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 256,
+      "chapterCount": 259,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4117,6 +4157,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784467028640",
+          "date": "2026-07-18",
+          "title": "France's Kylian Mbappé scores brace vs England to pass Lionel Messi for most goals in FIFA World Cup™ history - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwWW5HTXU4XzJWU3hITmk1b0JPUW04V1lNRTNjMUw2NnJGWGRtTWpoakYwYXVYaWNleEo4c3lzTllDYUhNclpGRk1aZ1JBNUphWnNrT2Q5a0hWQWxsd3Y2X2ZB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784467028640",
+          "date": "2026-07-18",
+          "title": "France's Mbappe sets World Cup scoring record with 22 goals - DW.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeU8ybkFuRzNWZVRNWHE0MHc2MGY0RTVISndxWThTN1hIb1BfRzJha3Vsa25TRWxCVWFfa0pZaENVc2ZRc0FZSDZxTjZlLTJzRE1UNXdTNVB3dkpYaUhDbHczTmFfaUJPb2trUUl5cEZUSXB0TmpSNDFPR0d0Y0ZRc2JndTZ0M1ZLcTBudDlPMjdnc19zX2fSAZYBQVVfeXFMT1FMRkhqWG1jWDk5NHp1Uzd2bGtYb2Q1SXFrX1ZNbFRmR0lJOWFNd2ZJUXJISjFoVktkZ2ItQmZfdW9RSFJ1cFhGS0hGWkg4UzZMZWVyVzRJMHdGUGNGelMwalhqbXlEUC1vLS1aTUVyZ2l5VGRld1FKaklUbEF0anp1Ymh4VUREMERELVpudnBsbWhyZlF3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784467028640",
+          "date": "2026-07-18",
+          "title": "Kylian Mbappe says France 'failed' Didier Deschamps with World Cup exit as captain issues rallying call for winning send-off vs England - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUdUOE1tU0V4UkdrcjhrSEoxalJYeFlwampOTTFybk5FTElpWGdoT3BOMkllRWdUQ1pmOUhMM3JJbWxtOHI3Tm41Rjl6dEE0VENHeUpodnJSSlRuUmVadGQ2QmM5cjZPY2hPQU1Td21hSTYyZjV1M3FvNEFtbHU2dGg2cWNEcmlMWnZiX2JUd1hEOWhWRkJfdEpuVmF3VF9aNmVTbkpPdXhaQU9yVkVMZGtrdWxnWlhqclVwWS12STJ0eWM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4135,7 +4199,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 545,
+      "chapterCount": 547,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8496,6 +8560,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHRlNlhPNHJUSFFDWUJxQmEyS1NtY0hLSmpfcDU5b3VtRVc0bzlLbU5rRjdXQU16aEJYNWlDNm5mY3NmZ0ZlUmdjbm9FcGZsM0JsVktFMWNZbzVaT0M1VXJ3RzVWUE1ZelJQQXlhZ1FoakptYWd1SUo3YU50aC1QTXVtN1FkOTh5N3poNnZILVg1MDgtMnBwckN1encxTExaLVBGNnl0dnkzX0psaFpmNzdSVQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784467029157",
+          "date": "2026-07-19",
+          "title": "Spain vs. Argentina, 2026 World Cup Final: Match thread and discussion - Stars and Stripes FC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjhkY2V3N0w4XzIteEVmOEN0ak40ZXJhU0g0dzBkc3FEaDlrakhRdy10Mm5BclFMTEF4RmpYZWZEeDU5TF9aSzVJbWVEdEVUeDhQLWYwSUtBOHZlSGpiSDJPdlJnaGVSejluYkNnVGppRHJvNGE0TDhvUzE5ZVA1cGhjVmFDQ0gyWjV2X0ZxZGJNajVZWTFKNXVIVmFrYW9TcHQwV0FHWWJPQXl4RUFYNTVzWEhoVHh0a1RuTHl1M2EtR2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784467029157",
+          "date": "2026-07-19",
+          "title": "Pico Rivera’s Nathan Negrete’s brush with World Cup stars made a lasting impact - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWl0QmRkNTJIeVZVTzE5VUh3NlJXYjR1UkZzUEpybG5TY1FEZE54TDVoTnVySkJkUUhGbUNMcUJOa3FUUUFuQnU5RmI4azVydzBXVk1TN2hyWkw4bURGeW1Tcl9KMm0xUkNCOG1vY09RNjBzemJ4LW4zMU9TZjhtdTNody1uUW5PTFYwaUlZN3RycG0zWm05QVIyX2JkcFNzaWJXZFhDM3QwX1BueXJEUXZaTUdzODA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8514,7 +8594,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 461,
+      "chapterCount": 462,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -12203,6 +12283,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHpERTY5R0FMQmh5R0FEcG1vUGpGRDBycC1HN2dLTzdqX2xnWDFnTGN1Q1BacmFNbTdMWmxLVTQ5VFh1dHQwaWh4ZWNjWkRjbG82eXF5SXVjSnpNalNzbFRWd0RYMDZKVjFNS3VNMUdEQkZDS1YtOVJKUGU3VWxXOHU4TC1iOEFOTUlfbzhza1A5eG1mNzJz?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784467029675",
+          "date": "2026-07-18",
+          "title": "Latin America unites to cheer against Argentina in FIFA World Cup final - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDNSY01aTWx0Yzd6aHhMSUVHN2doREJ0ejhqeF9ZX3h4QU55dWtjMHJSZF9NZzJqVDNaUzU3cFNxQV9HcXNjRlB4cVF3cTA2aXZYcEExVVRJZU1CbGpLZlVYQkJ0ZFk2VFBScHZqUjVDbU9rTnUtTXZQVU9KanRyczhSVEVTYlByZk1Xemp1ZG1jeVozT2FTUDNQLVJpYkEzRW1SUk92RDFydl9ZRW5jZVRUTkXSAboBQVVfeXFMTWl1cTJ4ZDVWMUtGRUJPNjEtYXdRSzU4UkpxRVBMTGRqZ1NQNHV0bmtBOTdJZmpZYTZXMzRxOE1MQzFZTkpCY2NySkZNajNLQTZwNjVNTG1lcllWRk16UHlkeHlncUx2QjZPZWFpaVl6RmpjMXFRc1ZudzBJdklvSTBCLUNGSTBPRDFHRjJwT200UWtGWHgwTXFUTWRNb0dYbEd5bGlKNUtSNGoxNFp6a0gya09kSXBpMmV3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12432,7 +12520,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 671,
+      "chapterCount": 676,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17800,6 +17888,46 @@
           "title": "France's Mbappe becomes World Cup's all-time top scorer - Reuters",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784467030410",
+          "date": "2026-07-19",
+          "title": "Spain v Argentina in the World Cup final - who will win? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWDdhLVo3WndxclRldnVEWndlV0huSldCOUI0TjR1ZkpGSEhzZTEyMnZGUzlRdWhfOHdjZkNyWTRvQ1VZaFZiR1N4QUVRR0oyaEFjdHNzNlR1RXRCZWQ2REpn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784467030410",
+          "date": "2026-07-19",
+          "title": "England 2026 World Cup squad: player-by-player ratings - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHNEUU1sVnV0c0ZaNWZyNDZRTnE1aEZtZ0VoOWdmcmpHZTFkaHFOanE4UDNHSmhGdF9KVF9ud1YzdDhFeUFndVh3NlFWRlZ4dU1DWUZNSllTUDhSWkk0dWhYdTc5dW80TDFNcW1hdDJvZXBIYnU5QUxwV2R0T1dSX0VXV09RSFJkcGJGV2pUd3R5T0hVNDBocHlVbFFKb25CSVpnOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784467030410",
+          "date": "2026-07-19",
+          "title": "France vs England LIVE! World Cup 2026 third-place playoff, fixture, score, live updates and team news - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1dBS0dKUEV1clpGNTBwdkJiRzlSMjcxUnBBbjNFV25oblNycHhBalNTZWRHN2p0cWYtMmJrNkRaeUJTOU50dHJPbm5vdzB4NTdFUWotRkxsaG5FRGwxTVgxNGEtTl9PMzhIYUVWYWN6ZkhBQjJscHpneW1mREprVWN2MHpvNFRzZjVBaWR3VEN5XzVFYS1MOGdaakl5bk02NXRhelZaeXNtQ3FqR1E1enBFc29PUGdIZE11SGgxTFpzNW5hYVpLX3lXOXlpVUhQSmVmdjB1Tnpra0FCS2xUQ3Y5OFA2Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784467030410",
+          "date": "2026-07-19",
+          "title": "England beats France in instant classic to earn third place at 2026 FIFA World Cup - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTZCWDZKZlVPME9BbUlDME5Bc080QWw5d1VCakthZVAzeU9WX2drbEdZNUE4Z0FGWkV1M2kzc3ZBTEk0WnV2Y2lFS25WQVc1d1dWXzRFSHdmYVFlZkxweDdsNTNKWjRYQnV2NDJZdm5fTmZXa0Eza2E5QVU2SC1pSHFOeDVjTGtIdFdwQlh0WEduX3JkZ2hQNlQ3dlnSAaIBQVVfeXFMTzZyWFdJQUlETTU0VkJMZ3ZOWW11SkJfY09WQ3RIRk51UjRwWFRSeWZVT016dm4yVnR6WmRiUGFMSjlqalQzaFJzbGNjbFRyUWlzeEdOY3kzZU1pTDhzMENBZWFOZWF6MzdBZ0prc0VKcU9IY202QkM5YjJGa1dqR0lVdHEtY0p0eURMQmYtVmV4ckxReVQ5d2lDNEdXVWk4RUtB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784467030410",
+          "date": "2026-07-19",
+          "title": "VIDEO: David Beckham shocked as crowd boos England legend for World Cup final prediction - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXNsTURqX0NzaWlzZVFYeUJzbS0ydFcwbURscmpYWUNabWxTRXFuSndCVUMzckVjUnNXM0dRNWtXWWlEWHY1SXFzY3N1WUZFd25pLXRPWlZiazh3TEdweEo5TW5ORmZ6OEdiQTJtNVo0ZG9HcFVNVy03aHQxek1jdmtBbVF0U0JqazNmd2g2UWhJc1FJRXQ1Y05JNFF4YUE?oc=5",
           "draft": true
         }
       ]
