@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-18T21:51:09.878Z",
+  "lastUpdated": "2026-07-19T02:42:19.787Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2060,7 +2060,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 251,
+      "chapterCount": 255,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4068,6 +4068,38 @@
           "title": "Mbappe starts for France vs. England in World Cup third-place clash: Live updates - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOW5rXzRGaERMczJJSjJDai1IYzN1YnlqRGF4TmUtclp1Q0JGMWRoeVFSSW5kZUp4QUJna2JIX2NpcnNIbFBtVTBGUlQ2TWlZckdQT09nVVhiSWphcWIzWUVPek1FYXVoSFRKdVBTZklXUy1qWGtBLTdsZGhvMlVxYWNZaFh4czZYM0ZjUF9TTGdOb3U2dWl4b2dRRjJ0VUdOSVNqX3ZaU2ZoSFh5cjJqR01YNVkzV2s?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-mia-03",
+          "date": "2026-07-18",
+          "title": "England beat France 6-4 at Hard Rock Stadium, Miami Gardens, FL.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-002-1784428938088",
+          "date": "2026-07-18",
+          "title": "Kylian Mbappé scores his 21st FIFA World Cup™ Goal to trim France’s deficit vs England | 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xNzR5bDkwcmJxT1phS3JjYzBIZ0NGeUdjN0Vsb2Z5RGE4cWFUS1BLTTVnbFFiRGlpcmhsYWdocmZyNXI5Q0hBSV9tZ2I4TzdwNG5aSFNfZV81TWt2X3o4ZGFB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784428938088",
+          "date": "2026-07-19",
+          "title": "Craziest World Cup game ever? England wins 10-goal thriller, Mbappe sets record - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmctRjNvaWNYbEp1MUxSY1NyY1Y5aXlXeng3a1RmbllyS0FCN2Fha0owUktOeHJCaG1QSTlwZDEyZEtxS1ViV0tJWDE1NGhyUDMzbDU2cjlCcTFfb3FqRk5rZ09OYTZlSXFlZldnQmxRMVBhR19DR0RYclBjcEx5TDNCUzRJVjZHdlc1VV9aTV9ERjBYSkRoNExmaHlqSmVvd09WZndwY3RGajJ3YkZOSlNXLTJaZ0ZBMWJhV29CbkVrVUw5WGh5cVRTZlVMcmtHOEEwa0EyQVZCaUFPWWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784428938088",
+          "date": "2026-07-18",
+          "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0xEaUtGTzVJNVBudTgwNVJSeXhqbWtmeDAtb1cwWVNTaU9hd3o4SlVkNlRkSi1IeGd0OENzNHFGUTRjRHY0OTZDNEJ1OTlUU1poUkVpdmtVWDZsOEp1R0R2eGd5WmUzNVpkUm5PWFI1eUpnUlRrV3FVc0xBcTFTR2thTm9OV1MtOEdtMTBDNGUwckptQ0I1REp0VEpuWTRraWxIdjFNOFltR3prWG4xUjRB0gG3AUFVX3lxTE9za0ltcXJVdnJkR0lnck85eE94NHpIMDA3ZkNFd09uMFg0YmZlLUxxNlFVdHdzcHJsZ2NTc2lwN0RyS0V6WlFQVEtHMHJ6S3JTNFZ4NnNaUGFZeE9MeGhKazYwdVhqUVNCODN2ZXNET3Y3VFhBQjZPaC1BTTVHeVhZTHNSd2d6Q0lfaWROSXBkYjNNcXl1MnU0Um9hclF4Qmdvdk12NUM1dlJ2OUs1RFVoOW5TSGRjRQ?oc=5",
           "draft": true
         }
       ]
@@ -8450,7 +8482,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 460,
+      "chapterCount": 461,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -12131,6 +12163,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWS00STB3UXZIR0lEQTZqQTNJaERuaEMzNE84RFRqSWpoTGpRQm03VFB4Z3dHY3ZaODFlZlpqZG1tdy1melNFd3NCcENMSVpoa2I0NnF1VldCc29EQUpXdkVLREhHNnIwZ2R6OG9Ub2FvZHh5eUE0bVh3T1RwMThZRWhybzhTdTJDZncxV19R?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784428939306",
+          "date": "2026-07-18",
+          "title": "The 2026 World Cup Was the Worst (And Not Because of Brazil) - MiscelAna",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHpERTY5R0FMQmh5R0FEcG1vUGpGRDBycC1HN2dLTzdqX2xnWDFnTGN1Q1BacmFNbTdMWmxLVTQ5VFh1dHQwaWh4ZWNjWkRjbG82eXF5SXVjSnpNalNzbFRWd0RYMDZKVjFNS3VNMUdEQkZDS1YtOVJKUGU3VWxXOHU4TC1iOEFOTUlfbzhza1A5eG1mNzJz?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12360,7 +12400,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 658,
+      "chapterCount": 663,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17624,6 +17664,46 @@
           "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQWc5dFE1VVg1S1BSem14cXFUc0lGNl85YXlKTkNzRXFHVENLd0JxNUozeTQ0RXZoalY5Z0xoNjVIN3ZZTVhRM21sUS1VLVdoaG1OYUNqZTdqY1hZVVhJaFNsN0tmdFU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-result-wc26-mia-03",
+          "date": "2026-07-18",
+          "title": "England beat France 6-4 at Hard Rock Stadium, Miami Gardens, FL.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-008-1784428939787",
+          "date": "2026-07-19",
+          "title": "Craziest World Cup game ever? England wins 10-goal thriller, Mbappe sets record - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmctRjNvaWNYbEp1MUxSY1NyY1Y5aXlXeng3a1RmbllyS0FCN2Fha0owUktOeHJCaG1QSTlwZDEyZEtxS1ViV0tJWDE1NGhyUDMzbDU2cjlCcTFfb3FqRk5rZ09OYTZlSXFlZldnQmxRMVBhR19DR0RYclBjcEx5TDNCUzRJVjZHdlc1VV9aTV9ERjBYSkRoNExmaHlqSmVvd09WZndwY3RGajJ3YkZOSlNXLTJaZ0ZBMWJhV29CbkVrVUw5WGh5cVRTZlVMcmtHOEEwa0EyQVZCaUFPWWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784428939787",
+          "date": "2026-07-18",
+          "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final – as it happened - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVFkd0kteEMwb0ozXzFoTEprZjF5S0FWLWZvXzBuaVFOWUFBN2U0R2kwT0o1akxFa1l1RktFOV9ZbmRpa1JUSnhHY3gxdFJsUmhhMEM4MWc2U0F6Wk1Xd3FWUXByR3djMTg1WE8tbmdLWHZVa3k3Mmg2TGJ3cU43TGxoNzVnRE1BVnFRNWpSZFNZcFlGWThycXRXM3M3SHFBLW5KbGRhVnZEY3BBOE1DNnI2S0pHaG10RVVEeUkxaXppY3JabmdWNThuRXY3STRnSThPMEpJZGdrTHVFOUFxZFZfdjlnd3dhWFJnNVhUa1RmVWprTjNN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784428939787",
+          "date": "2026-07-19",
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18 - Mashable",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784428939787",
+          "date": "2026-07-19",
+          "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lZ3pSbGlidkd3a0hjUGd5RkxRa2lfZURGLWF6aVRWRmViZU00aDl6NDE0NzVlc2lTUGFHdXcxSFFnaGdsQ0o0dVh2Qm80WE5ad2c5STBHTUJyOElfU3UzSm1ta2VLMlY1Nm5vTC1aWWdZU0d1RE9rM1hYdTA1Z9IBgwFBVV95cUxPUTlaN0hXUEFzOVZPaDhsVng4MTNFcTFxeWdiZ1NSZVJJUUxPNHNZNnBaUjgtMmtlQmV0d0I5TFpuSDBzaGVoRmVtcm5IODd0aHBMRGFBVDAxNEhxa05fWUlUMmJtZHpFZS01Nzg0cDE0MkJUWWxTTGp5SEZkZ2FIdVNTaw?oc=5",
           "draft": true
         }
       ]

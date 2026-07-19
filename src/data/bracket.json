@@ -1,6 +1,6 @@
 {
   "_note": "Knockout bracket. Round of 32 matchups are final (all 12 groups complete as of 2026-06-27). R16+ use \"Winner <matchId>\" / \"Loser <matchId>\" placeholders resolved by scripts/refresh/bracket.js as earlier rounds finish. Dates verified against FIFA official 2026 schedule.",
-  "lastUpdated": "2026-07-15T22:00:24.760Z",
+  "lastUpdated": "2026-07-19T02:42:17.194Z",
   "rounds": [
     {
       "id": "r32",
@@ -455,10 +455,12 @@
           "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
           "date": "2026-07-18",
           "city": "Miami",
-          "status": "upcoming",
+          "status": "finished",
           "miamiMatch": true,
           "label": "3rd Place Play-off",
-          "round": "Final"
+          "round": "Final",
+          "homeScore": 4,
+          "awayScore": 6
         },
         {
           "id": "final-01",

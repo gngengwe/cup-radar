@@ -4167,11 +4167,64 @@
       "group": null,
       "stage": "3rd Place Play-off",
       "matchday": null,
-      "status": "live",
-      "homeScore": 0,
-      "awayScore": 4,
+      "status": "finished",
+      "homeScore": 4,
+      "awayScore": 6,
       "miamiMatch": true,
-      "notes": "Loser SF-01 vs Loser SF-02 — 3rd Place Play-off"
+      "notes": "Loser SF-01 vs Loser SF-02 — 3rd Place Play-off",
+      "goals": [
+        {
+          "minute": 3,
+          "team": "away",
+          "player": "Declan Rice"
+        },
+        {
+          "minute": 18,
+          "team": "away",
+          "player": "Ezri Konsa"
+        },
+        {
+          "minute": 37,
+          "team": "away",
+          "player": "Bukayo Saka"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "player": "Bukayo Saka"
+        },
+        {
+          "minute": 48,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 54,
+          "team": "home",
+          "player": "Bradley Barcola"
+        },
+        {
+          "minute": 66,
+          "team": "home",
+          "player": "Kylian Mbappé"
+        },
+        {
+          "minute": 87,
+          "team": "away",
+          "player": "Bukayo Saka",
+          "note": "pen"
+        },
+        {
+          "minute": 90,
+          "team": "home",
+          "player": "Ousmane Dembélé"
+        },
+        {
+          "minute": 90,
+          "team": "away",
+          "player": "Jude Bellingham"
+        }
+      ]
     },
     {
       "id": "wc26-final",
@@ -4197,5 +4250,5 @@
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-18T21:51:04.474Z"
+  "lastUpdated": "2026-07-19T02:42:20.356Z"
 }
