@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T19:05:35.445Z",
+  "lastUpdated": "2026-07-19T21:52:27.554Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 261,
+      "chapterCount": 262,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2106,6 +2106,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVVvZ3VTakRMQ0M5ejJqeUFRR0U2OG94Zm9YSmZuRGRITHMxaEIwUkR6Y0NUX0xCalhQR2NhSzY2aVJMcy10bktyMDVsM2dZbVZHYm1IMFZkY2RKOWpwTHViRm5XSjFobTBHbkwwNk5NTGlSeF91c2xkYWpxVTRQcFE0SGVxX2g2ZjRfWXRaYTlwRnVnVWRiQVVLa2JtUW5SZzlsZGZwMk5Zakd2djNzbDlxd1M1bTNTYjM1djFn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784497945232",
+          "date": "2026-07-19",
+          "title": "FIFA World Cup final 2026 live updates: Spain, Argentina scoreless early in second half - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGk4a2dsQVVhbFZRa3ZpeEZ4QXNSYzBPZ21WN1VKa1NKcngxNEt2azVPNEtRcXdGVkl2emtweEpjd3BuUTBNVUZiUGppdXgxMGsyR2lYZlJaa19GbW1ObU5kTjZLeFE3azlaTkxGVzlQOGQ5NEZudHpMb0NUUE1GX1BiaTBoYjA3MjJ3VGU2S1VtYjVOX0tkT1NnXzV0M3BBUy1RUGcwU0lsZ0gzakRRUzVzbTVETmp4cWNPc21IU1NPalE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2124,7 +2132,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 259,
+      "chapterCount": 260,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4197,6 +4205,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUdUOE1tU0V4UkdrcjhrSEoxalJYeFlwampOTTFybk5FTElpWGdoT3BOMkllRWdUQ1pmOUhMM3JJbWxtOHI3Tm41Rjl6dEE0VENHeUpodnJSSlRuUmVadGQ2QmM5cjZPY2hPQU1Td21hSTYyZjV1M3FvNEFtbHU2dGg2cWNEcmlMWnZiX2JUd1hEOWhWRkJfdEpuVmF3VF9aNmVTbkpPdXhaQU9yVkVMZGtrdWxnWlhqclVwWS12STJ0eWM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784497945745",
+          "date": "2026-07-19",
+          "title": "England beats France 6-4 for 3rd place in World Cup, but Mbappe makes history - ABC News - Breaking News, Latest News and Videos",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExkQkpVbWRvYXRNNVZVS0NvZEEtYUF3VWN4ZXZRQk1DcjlEQldiUF8tOFktOWZpSEdFV1BlZkZPdDA5Nk0wX1NRekUtZnJwdFpoQmVhalBES1BHeEFIWGFWRWNQSVViLWhSTUQ2S3BReEJWZU1sWlFnN253dmNSX3Q1NVd2T3RueC1vRlN0ZnfSAZYBQVVfeXFMTS05VFd0RnptLU5RcGZiYlR2cnA2Zk9MQ0tUbUJaSmM2RDBEOWpGMEZVNFhwcEhfUWpubmVfTWxiUlpuWFFHeGFIbjd4aFI4Zm5PaHVmbUwtQVVkaWlZTXpDeWplNUpwQWVZb2lLV0drak1TbkZiOEhoY0c2aUxIYWJrTUx2SVNyLVBpanh0UEFZa2Y2aUJB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4215,7 +4231,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 550,
+      "chapterCount": 552,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8616,6 +8632,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTl2Y0FfMVZPdDJuc0JjMW1tNmtuR1VxbHpEdlNSQlVNN3REWWxxLXd3V19YdHNoem5WY2lFQmRvMExQZWhMdWlJY0hWV2ROZ2FzOU9JTXZqS1R4dXlfZ1FyeWhsYTNpSUhEc3FGRFN5QUR3UXRjR2o0NzZRV3lLVEZNc2J4NWxfN29ub2M2QTdwSmZ5anNCWnh5aW9aVHpR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784497946283",
+          "date": "2026-07-19",
+          "title": "Trump demands another World Cup in United States ‘immediately’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS1ZzWlhoRlk4OTUzOVpxRjNpbTA5SmNuSDRNUG1VdTNJQjVKOVAzSlNQMlYzWDR6OEVmZEd5ampWa0stWFJPUmlZWExVaW9Xc1phaWRvWjB6M2hUQzJKSUp3QTlOVXdXTDNack5rNGtwY2twWDRBTGFSa2xwb3dMWUtrM1dHaUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784497946283",
+          "date": "2026-07-19",
+          "title": "Trump butts in (again) to tarnish U.S. shine at wonderful World Cup final | Opinion - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjNmb2FQeWlweWVWOHoyVXRMTVo1djg2LU1jTFBqdnRiakFpT0FrOFZwOGwybWl5OHQtOTF5U1BvNndVSEhzdVBleGpoQVpPb0VLNmxJVk00WUhnSHhNNjg1WnlqRUJWT3o1UjhwWGlHdkdyZl9DWmdyQUo1NjlyUHM4SHN0SEpaVHhJR1RJNWJva3gyQ0w2UGRrWXliWEpZcWZJWkFCSElGZEN6R3RwbVR2VlpfZ3VoSFZpSHJRa2QzOXZHemRYUg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8634,7 +8666,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 462,
+      "chapterCount": 463,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -12331,6 +12363,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDNSY01aTWx0Yzd6aHhMSUVHN2doREJ0ejhqeF9ZX3h4QU55dWtjMHJSZF9NZzJqVDNaUzU3cFNxQV9HcXNjRlB4cVF3cTA2aXZYcEExVVRJZU1CbGpLZlVYQkJ0ZFk2VFBScHZqUjVDbU9rTnUtTXZQVU9KanRyczhSVEVTYlByZk1Xemp1ZG1jeVozT2FTUDNQLVJpYkEzRW1SUk92RDFydl9ZRW5jZVRUTkXSAboBQVVfeXFMTWl1cTJ4ZDVWMUtGRUJPNjEtYXdRSzU4UkpxRVBMTGRqZ1NQNHV0bmtBOTdJZmpZYTZXMzRxOE1MQzFZTkpCY2NySkZNajNLQTZwNjVNTG1lcllWRk16UHlkeHlncUx2QjZPZWFpaVl6RmpjMXFRc1ZudzBJdklvSTBCLUNGSTBPRDFHRjJwT200UWtGWHgwTXFUTWRNb0dYbEd5bGlKNUtSNGoxNFp6a0gya09kSXBpMmV3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784497946856",
+          "date": "2026-07-19",
+          "title": "When is next World Cup? FIFA Women's World Cup returns next year - The Coloradoan",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGY1MjlWU3BfenpmejRiQVU5OGVESHpWV1VsX2FvUGh3U1BYOGlyNmppbXF5VmJwQWVwOWc3eHhOYlJ5WXVDeG1TdGE3aEM0dmVHN21QemtfR0l0LVZMLVp2MEhmdnY3eHB1bWlDcGNKSXB5eFJFaHc4N2xyOGVpMUZPWThpS0drTjgxamFQaWtpbmRWUkg5a1dLZF9wMG1SMUNlUzU1aUdUZEN4MmRuaWs0ZUlkdXpoSkdoUEJWSkRJN196MFN6bg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12560,7 +12600,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 681,
+      "chapterCount": 683,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18008,6 +18048,22 @@
           "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa3Bud0ZYRC1iTWxGZ2NRSkRSQ2JEanlZNXQyOUlXV3p3VHFINzMwT29scHhqMGVsRmc0eWJGUFFKYTNKa2Q3VTRNbkwzNTFESC1WYXk2RGJIaDZYc3kwTkh0UnZ2LVF5T01RVWRoekJMNG1pN3RGdkZmSV9MNGozT1VzVWZEcV9QeWs5TkEwVzFUbGQxOVhJRFBlZGp5cV9ackJZN2Z1MV9jcXZSdnpTUVhQbEFidTQ1T1JsTEN5NWZpR3JVQ3FCTW1jbVB2V3pkRGhPN0JOemRjUzZ5UW00SkRyVkJ4cVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784497947554",
+          "date": "2026-07-19",
+          "title": "Spain vs. Argentina: Where to watch the 2026 World Cup final right now, TV channel, free streaming info, and more - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTkJZZ2JEWW5CWDNkeF9leGlxUkI4aVJFNVFvUml1UHAxalRGREJpYkZQLTZNTVcyTXZCbG9RUGZiQ1dhMThsZGd6TWNPN3c3VXJCZDQwa2lhdXFyaWhzUG50NmZTUXdfY21ldGpIXzZraVlPbnlZNlBMUndiZ0diVXRiU3JjUkt6QzRkbDgwa2s1VVRIWGJZZ294WEF4bTVobVJXdllseHlmbHU1c29iSl9NVnRDQkJhUjN4N2Q3bXlRRmNHSW9HNExyQVVYam93Q3FNVEo5RDFTRUtKaTRBcXFpT2szXzJucXZuUVNFVGg2a3JaLXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784497947554",
+          "date": "2026-07-19",
+          "title": "What was Tom Cruise’s role in the 2026 FIFA World Cup Final closing ceremony? - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzdkTjlKNy1LdFBIWThKcDk2aFNxbS1OUXdZN2VtZk9OTFFyN1FxMEplLVFqX29Yc1U0anRhZm43TGhybVVIUGxhR1RySEo2MXJWdzVWNjN4ZEpvVWxWNVMzYVVEMEZkMDRKeUxGVHk4Sm1IZXRLOEx5UW5BWmhMQ0xzUkJKRnd5TzhZVEV5QzV1RG1FWVpFUDJPcmVueFpSQ1h5NHJpT1Z5ZC110gGyAUFVX3lxTE5fdEQwMFZGN1lQTWlzbUwxWEFiejRuMjljV2FRbWZwcmJRdnJKNGhFZE1QMnQtbjZoa3pFanJwNFZXWDVRZHMyYzBCa0NjUEJPVGE1bm9BMUNJOEVFeGFCQ3FrcVdKYnNLcW9Cc2xMTVVCQzZ0a1dGRTNtUDRqM2VFMTFaYjlUNFVVekIwdWdUZnpOdEVsdUdUcUlzZmdWTUtqYnlZdmd6RG53Qk5Xdl8tUEE?oc=5",
           "draft": true
         }
       ]

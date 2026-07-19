@@ -4243,12 +4243,12 @@
       "group": null,
       "stage": "Final",
       "matchday": null,
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "live",
+      "homeScore": 1,
+      "awayScore": 0,
       "nyMatch": true,
       "notes": "🏆 World Cup Final"
     }
   ],
-  "lastUpdated": "2026-07-19T02:42:20.356Z"
+  "lastUpdated": "2026-07-19T21:52:22.294Z"
 }
