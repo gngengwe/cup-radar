@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T13:17:10.410Z",
+  "lastUpdated": "2026-07-19T15:57:46.649Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 259,
+      "chapterCount": 260,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2089,6 +2089,14 @@
           "title": "How many comeback wins have Lionel Messi, Argentina completed at the 2026 World Cup? - bolavip.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkZrbTF1eFlMcHdmcjRuRzF1ZnJ6YlVBOUpBRFVOU1FQa0k0UXpSenJ1YnZlZ3o0RGVWeEhtNFc0QnhtZDFQbFNsNnYzcFl6WjhPckZCdy1GWXY2dHF1dEx5WjlrdzZVQUlITmliZVJzdjgxSXZ1bWVhX3lpNHpjZHZ6RUw4aVB0bkxvbVR3blMxSkdOUFpjMTZNTXRORXZ4YkZZMno0N0xxQTdLTnk2Z2wyZGhMd9IBuwFBVV95cUxNUk9WcEkyLXRNNWdPaWRnd2dEWmZFeG5UV2VkQmFDejBQRmhhd0RJelZrS0hHakl3TXh2NWYtRXd4OXZYbk8zb0hVeGE0cDdjdkZwRHV0b3JEbWxxOEdSWDJCVnRZR29GOWpLNXlkbzJRQXExQXl6T3E4VDBFVkVOZmJsRzU0YUEzRi10aHpfdE1DSkFua3JRQmhOVlY1UHI3UkpvbGllOGZSMnYzVUFkUHJaMHliVFBEbE9R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784476664361",
+          "date": "2026-07-19",
+          "title": "World Cup final 2026: Is this the last time we'll see Argentina's Lionel Messi? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QlFxWUprMF9iSURGdzdxTHFaSWRGNHd0d3hsU1dvNEtRZWE0NmE1Zk5OdG5UVDdVTUNTVGhCUGF5VWhGRWFRaGVkcTFENFYtbGg0R0RMcW1YVi1aaFNCa1o0V3hTYUk?oc=5",
           "draft": true
         }
       ]
@@ -4199,7 +4207,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 547,
+      "chapterCount": 548,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8576,6 +8584,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWl0QmRkNTJIeVZVTzE5VUh3NlJXYjR1UkZzUEpybG5TY1FEZE54TDVoTnVySkJkUUhGbUNMcUJOa3FUUUFuQnU5RmI4azVydzBXVk1TN2hyWkw4bURGeW1Tcl9KMm0xUkNCOG1vY09RNjBzemJ4LW4zMU9TZjhtdTNody1uUW5PTFYwaUlZN3RycG0zWm05QVIyX2JkcFNzaWJXZFhDM3QwX1BueXJEUXZaTUdzODA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784476665421",
+          "date": "2026-07-19",
+          "title": "2026 World Cup: How to watch all of today's games, Sunday, July 19 match schedule, free streaming info, and more - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPalZGeDJPUWJkeHFVdGYtMDJBMVhRVk5CVVd5UkJoakN1NU9xRE5JcXh2V2NFblg5T3M5S1B2WFd0ZjdkcUMzOElOVTg1elB5aWE0OGlkcE1nNlBOX0Y1TGFCZXZNdDRkeW5aTlBGZGRUd2NrY0F2YmxuR3hWZVlpSWRxeVJNTnY3eXlKYThxSjI3Ulhqbk9EeFZ0M1NVRkFMb19IcW1NamY5Q01kTWREZFZTMW9PQnhFekxyb3dzQmtBQTJrVWRsX0NQUFo4dVotNjd1ZGhnVllIRjV2QjJ0cUZKQXYwd0F5YS1ESFJyOE42dnM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12520,7 +12536,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 676,
+      "chapterCount": 679,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17928,6 +17944,30 @@
           "title": "VIDEO: David Beckham shocked as crowd boos England legend for World Cup final prediction - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXNsTURqX0NzaWlzZVFYeUJzbS0ydFcwbURscmpYWUNabWxTRXFuSndCVUMzckVjUnNXM0dRNWtXWWlEWHY1SXFzY3N1WUZFd25pLXRPWlZiazh3TEdweEo5TW5ORmZ6OEdiQTJtNVo0ZG9HcFVNVy03aHQxek1jdmtBbVF0U0JqazNmd2g2UWhJc1FJRXQ1Y05JNFF4YUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784476666649",
+          "date": "2026-07-18",
+          "title": "France vs England Highlights 🌎🏆 2026 FIFA World Cup™ | Bronze Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50SnlMVno3R2F3VWpuWjRZRHVxYWJ1SkdmalZ0NGhCV19WUEtOTmROZVB0c2R6emc4eHpLenlkT2IxMUQ0MzNiWUVTTndaNU5pX3hhTnlvNlJ0OW1NZEJQR09R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784476666649",
+          "date": "2026-07-19",
+          "title": "France's Mbappe sets World Cup scoring record with 22 goals - dw.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeU8ybkFuRzNWZVRNWHE0MHc2MGY0RTVISndxWThTN1hIb1BfRzJha3Vsa25TRWxCVWFfa0pZaENVc2ZRc0FZSDZxTjZlLTJzRE1UNXdTNVB3dkpYaUhDbHczTmFfaUJPb2trUUl5cEZUSXB0TmpSNDFPR0d0Y0ZRc2JndTZ0M1ZLcTBudDlPMjdnc19zX2fSAZYBQVVfeXFMT1FMRkhqWG1jWDk5NHp1Uzd2bGtYb2Q1SXFrX1ZNbFRmR0lJOWFNd2ZJUXJISjFoVktkZ2ItQmZfdW9RSFJ1cFhGS0hGWkg4UzZMZWVyVzRJMHdGUGNGelMwalhqbXlEUC1vLS1aTUVyZ2l5VGRld1FKaklUbEF0anp1Ymh4VUREMERELVpudnBsbWhyZlF3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784476666649",
+          "date": "2026-07-19",
+          "title": "World Cup 2026: Has Bukayo Saka proved he is undroppable? - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYi1kWUE3dkRTMm5TeFVVNmdQM19BU19mWjN4WWFkWDRfUTdzT3FqRUhIOGNsZjgzOV94RVpNTTU4azBscU0wcTVDWjBGd0dEZFJRaDBuVW43cHA2eGxmWVJSclNQa3M?oc=5",
           "draft": true
         }
       ]
