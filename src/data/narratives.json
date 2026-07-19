@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T02:42:19.787Z",
+  "lastUpdated": "2026-07-19T05:53:05.158Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 253,
+      "chapterCount": 254,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2041,6 +2041,14 @@
           "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784440382924",
+          "date": "2026-07-18",
+          "title": "2026 World Cup final predictions, expert picks: Will Lionel Messi and Argentina crack Spain's elite defense? - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGpGNU5Xc3R1bHFBdmYzRE5wMzBHb0RjekN3SG83TnVFSkRCVF9fM1htNEpoRl9Pcm1BMnFaT1dsMDZDUFBxZTZ1R01RV2NWaEE0QWM4Skc0czUwbUtjNjZGbXpVdlpib2lqQlF1cTJZZG8yYWk3R2hRdlBON1pQbEZwTWRmVEdqM1gzcExkSXVCa3lNT2UwTlQyd25WRnlQZi1VQVR1UVVhOXVBWkNWcw?oc=5",
           "draft": true
         }
       ]
@@ -4119,7 +4127,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 543,
+      "chapterCount": 544,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8464,6 +8472,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxeXpIUDJwcExjSkVlYUQtc1d2VjUzcHd3Y0JNQVlpMjcydTZvWXFQbEJxQTJ2YnpVUXJYcWFlQy10VE5vd1dKQmdQSkd0Z2xCeU0wb0tJNDVOWVdJVXlRc1NwTmZ2YkU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784440383964",
+          "date": "2026-07-17",
+          "title": "The 2026 World Cup Final Is Set. What to Know About Sunday’s Match | National News | U.S. News - U.S. News & World Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1dYZGVSUVE1M3ZMalJIRGFjMDRqUnBfTWZrSUY1N1N5ZjJQNHVUM21iRVg2QWllMUdRRGN4N1FXOWJGVkdQX3VUYTFsYmVGOVJ4NnA3SFlweXdkSGFmTDZ3bnV1NFgyNEVfajRGTmFuU0FFRFMtMUtyZkMxdDJvVFc5eGlDRmxYemVpalNGV3VYOFk3bm5YcUdUN0ExM2tKbmg2TUt4ZTY2VDJ2ZXVtWWxxUkZZbVhhZi1JVF94eW9MWUhX?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12400,7 +12416,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 663,
+      "chapterCount": 666,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17704,6 +17720,30 @@
           "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lZ3pSbGlidkd3a0hjUGd5RkxRa2lfZURGLWF6aVRWRmViZU00aDl6NDE0NzVlc2lTUGFHdXcxSFFnaGdsQ0o0dVh2Qm80WE5ad2c5STBHTUJyOElfU3UzSm1ta2VLMlY1Nm5vTC1aWWdZU0d1RE9rM1hYdTA1Z9IBgwFBVV95cUxPUTlaN0hXUEFzOVZPaDhsVng4MTNFcTFxeWdiZ1NSZVJJUUxPNHNZNnBaUjgtMmtlQmV0d0I5TFpuSDBzaGVoRmVtcm5IODd0aHBMRGFBVDAxNEhxa05fWUlUMmJtZHpFZS01Nzg0cDE0MkJUWWxTTGp5SEZkZ2FIdVNTaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784440385158",
+          "date": "2026-07-19",
+          "title": "World Cup 2026: England team is best for a long time - Declan Rice - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKXzRqcDd1MEF0SDJyNVJuOTZGbHpYTkNoNTNnVlNCT21uZ2hWb2VzZkZKZ3NyT1o4N2diUUJZSjlES0pEZTZlS1cwZWpOZHo0MFA4LVg5bU1oMW1FdFV5Qks4c3ZFZFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784440385158",
+          "date": "2026-07-18",
+          "title": "France vs England Extended Highlights 🌎🏆 2026 FIFA World Cup™ | Bronze Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zeWVmWU50bnhXWjB0YjlHYTZ3OXRzaElta0tZY09kSzFnRE9QZGhUeUFKbndVcmpCdUp0U2x1RHNEbDNGS003a1BaQ1BpeHh0YWlHX2JTdW90Qk9LSjJvYldB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784440385158",
+          "date": "2026-07-18",
+          "title": "England win vs France has just piled even more pressure on Thomas Tuchel after boos - Daily Express",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG1nb1MtMExYT1g3QmNsRmJ4bENuNGEzdnM3M0Y3cmpYTUdwbTdDNDRBQnZTUUJYZURYaHh0V2l6ajFUa1dOaVlTbTdtVkRFRHhFbjNpVlhYYmk2cExRdWdyVmQ1VVEtckRtV20wcmV0NnFIZWV2ckVfT1pIMnRzWmU4b3pKNzQyT2xfTnRUUS1hNHBmQlc0UUVIQdIBoAFBVV95cUxOU0xXUDBaS2ZoMUdHMkpBV0MwYXdvY25BV05zZVQ3a3FfMzNpNU5JTEV3VGpONncwUUpUaC1Ld3hfQkN5M3ZCWTV2RHUxTjVsMkdwQmN5enZLNTVkZHEwQXdjWjlsN05ENFZ3SDZjTnZPQmpKbFpXWkFZanNQQlhoMC1IMk1BWkxwQllPU1psSmFrTDZ6MFpiS3ltb0Z6M1ZV?oc=5",
           "draft": true
         }
       ]
