@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T15:57:46.649Z",
+  "lastUpdated": "2026-07-19T19:05:35.445Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 260,
+      "chapterCount": 261,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2097,6 +2097,14 @@
           "title": "World Cup final 2026: Is this the last time we'll see Argentina's Lionel Messi? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QlFxWUprMF9iSURGdzdxTHFaSWRGNHd0d3hsU1dvNEtRZWE0NmE1Zk5OdG5UVDdVTUNTVGhCUGF5VWhGRWFRaGVkcTFENFYtbGg0R0RMcW1YVi1aaFNCa1o0V3hTYUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784487933159",
+          "date": "2026-07-19",
+          "title": "Argentina World Cup roster 2026: Full 26-man squad going for repeat - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVVvZ3VTakRMQ0M5ejJqeUFRR0U2OG94Zm9YSmZuRGRITHMxaEIwUkR6Y0NUX0xCalhQR2NhSzY2aVJMcy10bktyMDVsM2dZbVZHYm1IMFZkY2RKOWpwTHViRm5XSjFobTBHbkwwNk5NTGlSeF91c2xkYWpxVTRQcFE0SGVxX2g2ZjRfWXRaYTlwRnVnVWRiQVVLa2JtUW5SZzlsZGZwMk5Zakd2djNzbDlxd1M1bTNTYjM1djFn?oc=5",
           "draft": true
         }
       ]
@@ -4207,7 +4215,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 548,
+      "chapterCount": 550,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8592,6 +8600,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPalZGeDJPUWJkeHFVdGYtMDJBMVhRVk5CVVd5UkJoakN1NU9xRE5JcXh2V2NFblg5T3M5S1B2WFd0ZjdkcUMzOElOVTg1elB5aWE0OGlkcE1nNlBOX0Y1TGFCZXZNdDRkeW5aTlBGZGRUd2NrY0F2YmxuR3hWZVlpSWRxeVJNTnY3eXlKYThxSjI3Ulhqbk9EeFZ0M1NVRkFMb19IcW1NamY5Q01kTWREZFZTMW9PQnhFekxyb3dzQmtBQTJrVWRsX0NQUFo4dVotNjd1ZGhnVllIRjV2QjJ0cUZKQXYwd0F5YS1ESFJyOE42dnM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784487934183",
+          "date": "2026-07-19",
+          "title": "Trump claims US World Cup a success, despite controversies, ahead of final - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnNRN0lVS3o5akxTZG9pUUd4bWpYN2tKSks3ZnJfLVhUNS1EWFhYZnRRc1JvYnhNMmtiVWl0MkFoaFc1UDJDeEV2WDdaQkFUUU9XYlR1T2pfNzg2TnBWZkRmamM0X3NWZ3Etcm1pMEk2V3k4d2l3b1VNckRNUUxtT0xqeVVtbVpSSlBKeGtCcDcwTGdHS0N0bS1lU0treHdQSHcySnM2VEJWT3VNSVE4bkRUNlpCaFlTVWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784487934183",
+          "date": "2026-07-19",
+          "title": "World Cup final 2026: What U.S. viewers need to know to watch Spain vs. Argentina - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTl2Y0FfMVZPdDJuc0JjMW1tNmtuR1VxbHpEdlNSQlVNN3REWWxxLXd3V19YdHNoem5WY2lFQmRvMExQZWhMdWlJY0hWV2ROZ2FzOU9JTXZqS1R4dXlfZ1FyeWhsYTNpSUhEc3FGRFN5QUR3UXRjR2o0NzZRV3lLVEZNc2J4NWxfN29ub2M2QTdwSmZ5anNCWnh5aW9aVHpR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12536,7 +12560,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 679,
+      "chapterCount": 681,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -17968,6 +17992,22 @@
           "title": "World Cup 2026: Has Bukayo Saka proved he is undroppable? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYi1kWUE3dkRTMm5TeFVVNmdQM19BU19mWjN4WWFkWDRfUTdzT3FqRUhIOGNsZjgzOV94RVpNTTU4azBscU0wcTVDWjBGd0dEZFJRaDBuVW43cHA2eGxmWVJSclNQa3M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784487935445",
+          "date": "2026-07-19",
+          "title": "Brad Pitt, Tom Cruise, David Beckham lead star-studded celebrity sightings at 2026 FIFA World Cup - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0RHMnBGNjl6c25xN3R1SUk4bDFhTjIyanpaS0ZlWkhkYXpKZGlGQ0VkTTl5eEtGTDh5T3RBcUZmckdfYlpKZDdiSEVvM1d0WVdIZGZKTWZGc0ZTLTgySmp4bUJEeXhraHVYN3JkOThfR1dVcE5CaGEtczFybUhhdUwzaVVpb2hTRmJnTEdxT1djQjN4U3kybGhqT2I2akhNVkVpUmJLUVptb1FocUVJUmJuWG5xRGMwS0h5SkpMZ3ZYUHE1Vm14ZHp30gHPAUFVX3lxTE91ZHpwWnlqTldWOF9RcUp1UnFkck5GbnhUQm5ZWFhJOTBCOUpyMmRUUmJJMGhrd2NqZG9nZ0hrQ280R1lGb3htTndnUFlDcEZfXzdtSDh0OEpsYVVjNGZMWGxNRVU4TW9PVTJhU0o3MVdyRVdic1hFNnRtMUJRMXQ4SHJPajhpSWU0SEJmcGQ2OWQzTWh0TlVBd0hJam1zOVkyQXdtWTBicVByZUhvZGNrUzhOTjI2Y3I0dFpsVUIwYVBTOW1mZkE5UC01Nm1fRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784487935445",
+          "date": "2026-07-19",
+          "title": "World Cup prize money: England’s third-place payout and the full list of team earnings - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa3Bud0ZYRC1iTWxGZ2NRSkRSQ2JEanlZNXQyOUlXV3p3VHFINzMwT29scHhqMGVsRmc0eWJGUFFKYTNKa2Q3VTRNbkwzNTFESC1WYXk2RGJIaDZYc3kwTkh0UnZ2LVF5T01RVWRoekJMNG1pN3RGdkZmSV9MNGozT1VzVWZEcV9QeWs5TkEwVzFUbGQxOVhJRFBlZGp5cV9ackJZN2Z1MV9jcXZSdnpTUVhQbEFidTQ1T1JsTEN5NWZpR3JVQ3FCTW1jbVB2V3pkRGhPN0JOemRjUzZ5UW00SkRyVkJ4cVk?oc=5",
           "draft": true
         }
       ]
