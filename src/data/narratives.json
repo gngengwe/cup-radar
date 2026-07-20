@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T16:23:50.312Z",
+  "lastUpdated": "2026-07-20T19:43:23.602Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 275,
+      "chapterCount": 277,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2218,6 +2218,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZLXNmaENHY1pDWER2Wk9JakFEUUVGZ2ZaN0RPUW9CWmpya0M0QVRJemxiYXhfWHd0ME5hMzlJb2ZIWUFnN1dMWXg2UDNXWmdqdk43Yk96eGE5LWRvYkJycmNVR2dkQkNEOXd1bmdB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784576601152",
+          "date": "2026-07-20",
+          "title": "Not even Messi's magic could will Argentina to back-to-back World Cups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHk0b3JPY3hSMkd6NDRPNGM3YUtkZjhFbWRtVEFPOVBMZkpSWFFZZkRxbXNkYkcxZWZIQlVaRzdsamU1b2RQQlV2SnVpbWtGV3JkMDE3dmdIVUdZaUpyZDF6Nm53TTMtQ0hxWndtNUNscFNLbTBEYV9aTUNpMlB6NEcwOThEQ3o5RVUyY3VuOXpoUFhnbGY4Q1JBanZYbTBuSnR3NXE1amQ5MFFMYWVN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784576601152",
+          "date": "2026-07-20",
+          "title": "World Cup 2026: Lionel Messi makes first comment since loss to Spain, says it will 'take time for this wound to heal' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX0YzMGhld3gySzc3cVBKbnFmVWpKTVRGQlhGT1plenRsclpmNkVNS0NhMURwVGR5M1ZBZTNRZGhUVVJmcjlYSXVZRzNYTWZrdTZSQWlfb1ZlOGxRQ0JqNS1OSEk0X1oybDM1a3BlaUZ1ZWt1VTYwQXJzY0o5a2RCNlcxWmNBY29TVFU5VmNDbzU3ZmZOZlFkeDM3ZDdvWHpmWlAwNnJJdGdKa3Q5QXYyTnY5UlZhbVZ5MXpjTG9oZ1JHYXVWTnlDSVBvRm9RZzJYbWRwcE84RllPOW95OVpQZzA0aTFLeXJGbG4tYXYwX3pKM2xNZWxLYzJVeHY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2236,7 +2252,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 265,
+      "chapterCount": 269,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4357,6 +4373,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZG1nNHo1N2twbGt6dDF6dTZya2ozaXhGWnR6R3dBc2hLbnNFWTNzQ1pOVExKRHJlNzNNaW5QRDJzU3ZUcXpTdnNieDNZYjRnSzA1THpXTjdaQnRaUGRFcFdRTnFycW5HNDV6ajJCZWd3ZUttVzFDRGtETnc4N1dPZHJEaXpBdVNWNlVIQlVHWHZoUUpxVUw2QXBIbDVMelB6YlgtTkFZZ29NRHAyOEdOVTJleThmbGZmS2ZOWGdVV2VlelNkVjdmMzd0cUwxZVo2ZFh2dlZEMA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784576601660",
+          "date": "2026-07-19",
+          "title": "Kylian Mbappé wins Golden Boot at 2026 World Cup after Lionel Messi's goalless final - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYng4RlhBdmtzVjNMQUQtVXA0QWFaUlIwU3Uza1g0SWNhVTVqaUFBVzd1N0JoV1FjTXcxM0txc0p5UmpTQUkxay1VMHBfYUNkR2tOaVpTNEZMRUpDYWxGaVRqZUxnNmtYU0ZmWHhGNUNLbjBETkhBWDBYWXBjMDkxMldGNlJmU19xcTF1OGNZdVE2Y0lxMTh4ZU5pN29lNG9pa180QmJqS1F5V3FrcXRJUmtSblUyamd2aklaQVZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784576601660",
+          "date": "2026-07-20",
+          "title": "World Cup Golden Boot: Kylian Mbappé wins after Lionel Messi is held scoreless in final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenJjS1J6bkRSaWNaNmtiZU1PbWU0U3J3amdXNmN3N0tGYm9pdlVHa0M2VUNEOWZIWkxoNkoxSXRQQlpxZHZDdlZlU2JhaTV5RVdpMk9qd2lOQmRvOFhFZG5zb2c4ekdMbFNfT18ydXlXNGRQaXR2RERoRE1KQ01uRnNGQ2FsdmtHTGlLemlYQnBRMGQ5a09DQlZPOWVQeEl4Q21CcjZ3NU5wVTdLSkkwbTNiR0hWTk5qc2VXaHRxZmw5SzVPNXJhNjduVUpTNEZCajBRTm1XVDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784576601660",
+          "date": "2026-07-20",
+          "title": "France skipper Mbappé claims place in World Cup legend with second 'golden boot' - RFI",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzdrR2daT1AwNnhEblNTQ0tSeVhXLU9KVEJaQWxBLWRqT3h5R3EyWFZXOFBrbHczUnVVZkpxZVJySGdKRzRRbS1kYlhCbXVnMEdNajJCOHF3VE1ieXh5LS1QcmFSQU0xb1ZIakpDcHNBb01PREcxMlBKdWFDa2ZBQnpaLWtXQXlfdC1mdkUyUC1zN1Z0S0VKQ2xYOWI5MGhpNmdsck9OcmZCQk1Pemh5UnRrSDNLcHYtbXE2c19ZMm9oUDVTVEJPN2c0TC1TTmFBYmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784576601660",
+          "date": "2026-07-20",
+          "title": "The French National Team at Bentley: A Look Back - Bentley University",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pajRxcU9wVWxUZDZKdnRPTUdCTi13bktRZ0NlTnBtd3Rhem9YSWh3cTRhOFpDTlA5MGxETDhBOGtqSHN2MXJkNnZtZ0hybXQyOWt5dzdTZ1VRdS05OWpFaWtiY2V0OU5CQk1QVjlILXUxOW80U0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4375,7 +4423,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 566,
+      "chapterCount": 568,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8904,6 +8952,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3FLSVNwVDRBRG9YYVd4Zzh5SHJ1dWQ5R0l3UXZCOEtyM0NmcV9DaEFBMHNqa25EZFJHeWdZS2hNd0Z5UVRpYnVFRWxqcEZEX25GSEhNV21UaUc2OUtFR29CRHBpLXBWWTJWU0s4cC13NUJTMTQwcndqTUpXRE9DR2cxUGtHSG10eFN5TkFLT1NwSzlMUGZDSEVITjlvWGhZbkHSAbYBQVVfeXFMT1BsTk1CR09pdGY2ekZTaUZ2SXpfcnlSZ21xekNLUGlveVIwNkM1cWp6WkhWZF9qVFZzZm9oOFp0aWFrU3Vyb2dEaXl0LWxrclo5YUllVFV1a1dSRGw4aURoQXFRU1FlSVlZQU5DT0lzNGNzRU9ULWk5OGxjVGRSaGZ2czJPejE5LWQ5RGM1WmozRVAwREJQaHVHNzA2OTJfQVM4NzhCNG1lMG9rSXlnVDhSTThjRkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784576602186",
+          "date": "2026-07-20",
+          "title": "The World Cup was the joyful summer party America needed - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNWhBdmdYWFdleTNxNFV2azluZTc5T0lzZ1FfTjNiQUFONmpnMzQ5NEVDc0JsY2RPTElrVjVLWVUzOE1TV1lzUncyMTZKRFJwdEdPX0hWZHRHeTR2MVM1VmhVRUtSMXVLdk1mVA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784576602186",
+          "date": "2026-07-20",
+          "title": "Donald Trump wants World Cup back in U.S. 'immediately' - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE1wQnBmQjIzbGo1Z3hmbEl4cVhxMkV5RXJhZWRNN2U4Z1hQN05VZnMtTnpnWlRZSC1YdkF1a2l4Q1pFMEtzRU9Na3VzRWZ0bk15Y3NkbmNhTy1LUmVQSUlueUdxbmxiU3hRTV9iSll2Y2pWZ3JNVFZ4NVN5SElwYklyeVVMTVc0NktMUmN4V29sRHRIUXczQ1VtUTNSNHVsd3dpTndNb1V5SE1wMW9GbkNiOUpYcFIwSkljWQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12856,7 +12920,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 693,
+      "chapterCount": 695,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18400,6 +18464,22 @@
           "title": "England’s World Cup team shared nine photos it took of fans in Prairie Village - Kansas City Star",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDVuTUlFN2tkakdTcjlmbUNmeWwxTUJ1QXpIQWtJSC1rZjFHcUNURmVYblByOE0zZzBvWlRWYnQ3T1hiSVdKTTlNZTA3OHV4cGhwUHlfald3ejVwUXN2SXFzQ3V1Z1dtWnBaNVFvbDUwODBRVFptX0N2WGxrRHhDQVR1QTBjTjluTGJjbExPVjJGd9IBkgFBVV95cUxNUWMxX25IRnBnSUFNVkZiRnhZMFNGbjl4R0syS0E3QTgyRmxtNUdSeFBWRXNaZmpzcmNoY3g1QU9aME00bXVyRUxqLTZSMHAyWHU4MmFoM2EwQzFydl9EX05sTUFlSk1BTWxEUXRSbHctWHNMMkxCblpyZnZYR1h0SC1XbFM2YnZ6WTdMVW9ud1EtZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784576603602",
+          "date": "2026-07-20",
+          "title": "World Cup Final Ratings Skyrocket Across Europe, Despite England and France Losses - Variety",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXg5MlI3MGk2azZLYlVOVUlYaXhxODVoMTZIV1ZRWlRjOE5CbFVSc3laYWpabENRTUpIMjB6RmN5cUo0dHBqeWM3NEd4aU9KN1R3NEFMcXUxRTBnYnFUYTNaRHVjclBJa0N3blR1VnRoTGFsZ0FscEpWbDhfYzYyOVY2SkE3YmVsZ211cmpSS0FzRjZTdDEtN3lyVHZyYlc1V3dmWg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784576603602",
+          "date": "2026-07-20",
+          "title": "2026 World Cup team of the tournament: Harry Kane omitted and six Spain stars named in Gabby Agbonlahor's XI - talkSPORT",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEg1NHpHZDJneUJBYkxQeVMyQnNkTEJIMWNQczhZRjkzTFREZWszTTJoT3RteWg1YV82VHR4eTRyTzByTWk2OHJPRU5VNjMyRjNsYVJGNzhmNlh2NlQ5Y01uY3FSMkc5cmxZSm9EZ3Roa29ob243N3ZvNVp0OUtTYUphUWdsVUtwaWVLX0JuTFVuSW54M1BPa1FpRFJUbVhJTXFR?oc=5",
           "draft": true
         }
       ]
