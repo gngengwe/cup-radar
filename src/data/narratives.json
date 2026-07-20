@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-19T21:52:27.554Z",
+  "lastUpdated": "2026-07-20T02:56:37.079Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 262,
+      "chapterCount": 268,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2114,6 +2114,54 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGk4a2dsQVVhbFZRa3ZpeEZ4QXNSYzBPZ21WN1VKa1NKcngxNEt2azVPNEtRcXdGVkl2emtweEpjd3BuUTBNVUZiUGppdXgxMGsyR2lYZlJaa19GbW1ObU5kTjZLeFE3azlaTkxGVzlQOGQ5NEZudHpMb0NUUE1GX1BiaTBoYjA3MjJ3VGU2S1VtYjVOX0tkT1NnXzV0M3BBUy1RUGcwU0lsZ0gzakRRUzVzbTVETmp4cWNPc21IU1NPalE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-result-wc26-final",
+          "date": "2026-07-19",
+          "title": "Spain beat Argentina 1-0 at MetLife Stadium, East Rutherford, NJ.",
+          "body": "",
+          "sourceLink": "",
+          "draft": false
+        },
+        {
+          "id": "ch-auto-nar-001-1784516195200",
+          "date": "2026-07-19",
+          "title": "Spain's persistence pays off to win 2026 World Cup as Messi, Argentina exit quietly - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTB5eURmRnlsZHpLNUVIMXJrTXNrZUlIUzR2a3czOHZWaF9VT2lvOW5mYnR5UW11VnV5M2wyUkJwVmZBWndvN2RHTllsTlpaWktuRXBmdVZPWnpvRzdac3R5Sll2YjdXMWpjX1lySV83OW5aWWgyR0VmVXctdkdrb0pCMWVkQWRSYWNCRVY5dE1lRjE4aU5ZYlNHLXBWcFdrYmFrQ2ZNMUhya3ViVDEwajQtLVNzT3p2YXVRTjdJQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784516195200",
+          "date": "2026-07-20",
+          "title": "EVERY Lionel Messi touch against Spain in 2026 FIFA World Cup™ Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41aGJnRGQ0Y0N2aDAyOEdXVjlNQ3NvQXlRU1U5amF4amh1Y2ZONFN4MWhDVFROOVY0cnJsd2EyeFRGY1d0R0ptVE5Nend2M3U5TG9TLTZhaC1xVzdYeldFVF9B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784516195200",
+          "date": "2026-07-19",
+          "title": "Spain tops Lionel Messi, Argentina 1-0 to win 2026 World Cup - NBC New York",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1lhQlJRbTZJeVJYZ28wbnA3TmRUNHZaZ2piZ2NsZHBWMFB3YkJtYUNaX0hmQlV1Q2xpakhXVVBlSGlQcUlVZlQyVXdlZDlrUmJIM21ySjlKcF81NS1TcXBTNmIxamFRdTVFLVp1WFpueURTQWZUTGpCZVBNOEIzRm93MkhGQVNIX3hqTWtR0gGWAUFVX3lxTE8yV1ByYTg2MG5nb3AyNjQ2VmhKTFV1bTc2QTNPM05PSjVsbFBzd2xmTlIzOHhBNzFrZjdMYkJfY1UxcDlyaUJuMHViaFMwUHVwRXZHVmFyS05QMFZPRjBRV3NEa19COFFNNEdNcGFVb1p6X2kwbzR4X081eXF2ZUZiOUJIa1NhanlaZXdFWkd0U0pPa0JyZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784516195200",
+          "date": "2026-07-19",
+          "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title - Georgia Public Broadcasting",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDV1SUNOdnRVWm54LUJlZjQ3M3Z6aGp6UHQyQTB2ckY1c1FpclhERlhZM0xHdXJxZ3ZGQmtYbmpmcmpadjRvMVBWN1pjZXJXaVRZRFNWamp0Nl81ZEk0eXZKRlNITWdadWo2WjRqUWgwVXpGMmFlM055dVNWSUZuSmlsRW1SdXZfODgzclV6bVpDcy1YUzlyMzBFMFdNanYtbXRtOTFKd21sajBHQTF2YVFFTW5aZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784516195200",
+          "date": "2026-07-19",
+          "title": "4 Takeaways After Spain Beats Argentina In Extra Time To Win 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhcWoxRmdWN2RLREwtaVBWM3lpenpqZWRiN29uU2xUeHFxUVp5b19wMWtZQkRsa2FSM0NNbTB3Z2sxVE1wZ0lMSmtDamtRQ1B4Q1R3bEhxQWVaMk9SNlphVEpYRWVyRUNZVGM3a1hrMGhpRFZrVXl0b3VEdjV1b0VZYk1HWUJINkV2V1RFVlg3eDFMby0xbWxvaVdVbUcyeTNndUtJLXNtTEp0M2hDd2JIV2dBUdIBtgFBVV95cUxOcjN0RmlpX3M0ZjlWNTlJdVUyVXpoU2I5MXBtV1lMTVE4MUIxV1V1SGxFVnpHU2dGR2pUaThFTHMtSUd5QWN0ZzVxMUFKTDA0OVJZVlJzZ04xdEJCMzlNdDRNN2k4YmhJeDZWN3h5c1F3MlVrOElmQU9qMm40cnhiak1CX1ozbFBTUHVmM3R2dUlRTzBwcDM4UWtvMFlGZGtza01ETXNsTXgtbC1qNExJemtiQVdBZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2132,7 +2180,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 260,
+      "chapterCount": 263,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4213,6 +4261,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdExkQkpVbWRvYXRNNVZVS0NvZEEtYUF3VWN4ZXZRQk1DcjlEQldiUF8tOFktOWZpSEdFV1BlZkZPdDA5Nk0wX1NRekUtZnJwdFpoQmVhalBES1BHeEFIWGFWRWNQSVViLWhSTUQ2S3BReEJWZU1sWlFnN253dmNSX3Q1NVd2T3RueC1vRlN0ZnfSAZYBQVVfeXFMTS05VFd0RnptLU5RcGZiYlR2cnA2Zk9MQ0tUbUJaSmM2RDBEOWpGMEZVNFhwcEhfUWpubmVfTWxiUlpuWFFHeGFIbjd4aFI4Zm5PaHVmbUwtQVVkaWlZTXpDeWplNUpwQWVZb2lLV0drak1TbkZiOEhoY0c2aUxIYWJrTUx2SVNyLVBpanh0UEFZa2Y2aUJB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784516195645",
+          "date": "2026-07-19",
+          "title": "France's Kylian Mbappé Wins Golden Boot As World Cup's Top Goalscorer - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdJdnBZd3VhSGZYNHAxQTBqbm5RZkhrNEVTWE5VT1kyN3Q4N0Rsd1FQOGthS2x6MFNaMG5fcGxwcTFUVGl6TEpQWjBEcS1BNGoycTBvUWxYRll5NGNfWlJiYVlTN283U3ZPY29LVTBSV0J3TmpHWHlIalhZNVhwOUgzZzdYbmZJSWtzeHFvTEdIVUxVQUJiNlJtTkp2R0FmNE5JTFo0LVjSAagBQVVfeXFMTzJZN19SZUhkS1F1MWJQZGs1cEJHUEhNbzRlQXU4V2M1TUxQX29uUWpsRm5tV3lybVptUnZ1dnVNS2hIc0ZUQ0ZGM2NSTG5wQ0x0T0k0Wm1WZWI2VmFWbWpMdVE1Q1g5TjB1OXlCdndMUHBkb214dzhCNW55VTV5N1AwUWJ3bUJld19wMTM1V0R5a3dXbEM2Sk1GSTJqLW5yUGpjdi11c0wt?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784516195645",
+          "date": "2026-07-20",
+          "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEw4T1lhdTl1VlBnSDVPZmhXS0dRYThYcW1TcE1aY215dFVDSzV5WFFlYU4xVFdXcUdkR1NJMUJlLUU1U3kzWDJRRG83RTFOWTFZSVhndjFWc3RkMTNkaEZGWVhOMnAzOE5EN0FTT1NROXgzQnZ2ejYybjRURmhRX3dnQzlWYktxZHlXYXhVRmZoLWI0MHRxMllxVUZCd2ZWNGR4dlpVdVhCaldUcUHSAbMBQVVfeXFMTlV4TGNVbWs3NFBaaW5rb1lKSFpfTW0xX2hhS1BSYVVTV2dBbmdmLVhwZU54UjN3YUM0eEN1TW9ESnYzemUtbjB4b1MyZjRlMVNhWXNlMGJ5V3k1N0JMUlNSUUNFdXNXc0dqSVJLZHp4NWV4RFhGVy1fcnB4Z2stb3J4ajJlQ2l5dDFLcGluU3V3Rnd3RmVlT0ZrMmVxbjNBZ1pVRmtFdzRleGh3czYwVFlQWGM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784516195645",
+          "date": "2026-07-20",
+          "title": "2026 FIFA World Cup Awards: Spain's Rodri, Cubarsí, Unai Simón; France's Mbappé - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHBBX3hQV0NRZWN1ZzU1MkNhR2dGZHFWYkJYM1JzakVzR1BXY0xqaTh3ZVZEdTNWb2dJTVRrYndkQVFYMS1fZS1MX2h0Q3lnNGxBV2NwVV9yWm5XZ1QwYTZPY3N1RnBjUXlwNTBIM1EwV09ady1wMlBtN0NnYW1nei1aT2wtaXNqNEhaaTItOV9ZNjhv0gGUAUFVX3lxTE1WS0swSTJPMkQ0VzRralhIZlZvSmxpOWt2ci1QSzBTejI0Q3RPRC1NODZER3kxRWVmWDJlQzFwc0QycTFGY3U5clVXUEFaY2pDZjBIS2dJSGZpTjdwMHRqQjluejNvbk9Fb2xOT3BpRjJ2Q3owdlgxdnoweXhqYS1pYzVXUnUyMmNrRGZ5eXpRQlJmNDM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4231,7 +4303,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 552,
+      "chapterCount": 556,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8647,6 +8719,38 @@
           "title": "Trump butts in (again) to tarnish U.S. shine at wonderful World Cup final | Opinion - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjNmb2FQeWlweWVWOHoyVXRMTVo1djg2LU1jTFBqdnRiakFpT0FrOFZwOGwybWl5OHQtOTF5U1BvNndVSEhzdVBleGpoQVpPb0VLNmxJVk00WUhnSHhNNjg1WnlqRUJWT3o1UjhwWGlHdkdyZl9DWmdyQUo1NjlyUHM4SHN0SEpaVHhJR1RJNWJva3gyQ0w2UGRrWXliWEpZcWZJWkFCSElGZEN6R3RwbVR2VlpfZ3VoSFZpSHJRa2QzOXZHemRYUg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784516196153",
+          "date": "2026-07-20",
+          "title": "2026 World Cup final: President Trump, Timothée Chalamet headline celebrities in attendance - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3FGdWRncXNqdG40N0UzQTFBaWJZLWthZjIyQ21PR25tY2VUNkZyNkxwRks0SFp4LTF5MjFTNUozY0FvSEM2bV9DVzF2NElNeFZmbDBjNTFNdmRoNzcxRkc2dkFmckRLMHdTQlY5dXNMam04OUp5eDF0YV95UzR4akxfcUJpQk9URWpya2FTOHhrTVQ2al9iTXRqN1ZLQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784516196153",
+          "date": "2026-07-19",
+          "title": "U.S. Soccer Official Furious With President Trump's World Cup Appearance Sunday - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa1VEaWVMdWhQdXQ4SGNPRDFXVjUzZzk1REJBa1pKNHVUVUprMGFlU2lSbEtaOGVEOUVQY0xCQ3htWlNyOXZGdWx1SVFvZVUtMjI0cEJaNlAxaWtGUHExSVdWMWVwYTdQanF3VFdxZUQ4aU1iaFVyQ3BlR2NERDdzVm5Qakh4anZzcmVTOQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784516196153",
+          "date": "2026-07-19",
+          "title": "The U.S. Braced For the World Cup. It Fell in Love Instead. - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN05UYVFHRTZsenRQMlpPWW1ram9Md1pUaGExelNMOWRRbGY3dWJRRlV4YVV4OVktbTR4SXNQYUFkTnV2ZDFVbG1FZzlLZmFGemJJcHNjUHFyNFh4azJxeWRFUXFZdnpqRzlRNXZTb1Z3Um1QOGNfMVJWcnRFcVRLZWNYZmN0SEdWa1N4ZVpR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784516196153",
+          "date": "2026-07-19",
+          "title": "Spain vs Argentina: Jennifer Hudson Performs U.S. National Anthem before 2026 FIFA World Cup™ Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXTGxuUWpVWHg4Y1ZBeHphM3FYSmF5UllMQ1ZzeGZoQ0hGdmZSakxjQnFDMnQzN1hvdUJETVFaSFFIaFpGSmxLdUVOazQxYlB3MXFGbGJhUGFHcy1PbXJ3Wl9n?oc=5",
           "draft": true
         }
       ]

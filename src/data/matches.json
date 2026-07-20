@@ -4243,12 +4243,19 @@
       "group": null,
       "stage": "Final",
       "matchday": null,
-      "status": "live",
+      "status": "finished",
       "homeScore": 1,
       "awayScore": 0,
       "nyMatch": true,
-      "notes": "🏆 World Cup Final"
+      "notes": "🏆 World Cup Final",
+      "goals": [
+        {
+          "minute": 106,
+          "team": "home",
+          "player": "Ferran Torres"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-19T21:52:22.294Z"
+  "lastUpdated": "2026-07-20T02:56:38.176Z"
 }
