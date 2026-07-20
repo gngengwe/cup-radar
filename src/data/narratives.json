@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T14:05:14.709Z",
+  "lastUpdated": "2026-07-20T16:23:50.312Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 274,
+      "chapterCount": 275,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2210,6 +2210,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ySmg3Wk5hYUo0d1VSWU1pallqOV9RQjhUeVZ5aDJSbzFkVW96b2Nvd1B0anBuYWVOYkRQWm5hREdONWlmSzFXczlMSzdiRjAxMzdSZXRhSUJXR1M2ZTZMdkNuSXAydTRVOGllXzRSb3plRktjcEhLNGoxdngtZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784564628358",
+          "date": "2026-07-20",
+          "title": "Messi and Argentina finish the 2026 FIFA World Cup as runners-up to Spain - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZLXNmaENHY1pDWER2Wk9JakFEUUVGZ2ZaN0RPUW9CWmpya0M0QVRJemxiYXhfWHd0ME5hMzlJb2ZIWUFnN1dMWXg2UDNXWmdqdk43Yk96eGE5LWRvYkJycmNVR2dkQkNEOXd1bmdB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4367,7 +4375,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 565,
+      "chapterCount": 566,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8888,6 +8896,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEtOT29hdG9NSmIzWUFLNlpxT3lqY3d2NDdPZGVVYU5SRGpaT1lPN1dibzkwSmdYX0xGREtZdjFsbU9LMk9BUkMwOURyMjhRTWNJUkdxRkk1ODcwcXNDb2lkUExLQ1hHaHdZUm5Pb0dVMDBBamNxc184aDd2b01jWW1KYmVvamNCTTN4b19rRC1yWUoybEdVUkFJTHRHd21zSTVWSVV5TGdMaTlXY0hkdDljRUFvQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784564629330",
+          "date": "2026-07-20",
+          "title": "2031 Women’s World Cup: Cleveland is part of U.S. Soccer bid - Cleveland.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3FLSVNwVDRBRG9YYVd4Zzh5SHJ1dWQ5R0l3UXZCOEtyM0NmcV9DaEFBMHNqa25EZFJHeWdZS2hNd0Z5UVRpYnVFRWxqcEZEX25GSEhNV21UaUc2OUtFR29CRHBpLXBWWTJWU0s4cC13NUJTMTQwcndqTUpXRE9DR2cxUGtHSG10eFN5TkFLT1NwSzlMUGZDSEVITjlvWGhZbkHSAbYBQVVfeXFMT1BsTk1CR09pdGY2ekZTaUZ2SXpfcnlSZ21xekNLUGlveVIwNkM1cWp6WkhWZF9qVFZzZm9oOFp0aWFrU3Vyb2dEaXl0LWxrclo5YUllVFV1a1dSRGw4aURoQXFRU1FlSVlZQU5DT0lzNGNzRU9ULWk5OGxjVGRSaGZ2czJPejE5LWQ5RGM1WmozRVAwREJQaHVHNzA2OTJfQVM4NzhCNG1lMG9rSXlnVDhSTThjRkE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12840,7 +12856,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 691,
+      "chapterCount": 693,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18368,6 +18384,22 @@
           "title": "Wayne Rooney Delivers Brutal Verdict On FIFA World Cup 2026 Final Half-Time Show That Had BTS, Shakira, Justin Bieber - NDTV Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWtJNmllVXFEcUtnZmdFN1AtbkNaT096V3JHR2xnS2duOFVQenJ0VGV5ZFI5ZmFhalIxSVZuRko3Z2Fwdm9KR3VucDg5YkpSc3g2UXRvd21RWHo3bEZSN2Ixb2VGZ2VXcDRxbm53UU1oSTMxc2trb3FVUm9Mbk9FZGM0ZFo5Z1E3ZEpvdFFsWkxJTVdIb2x3Z2N0TzFiU09WOXp1T2JEZTlnb3UyQjdYVTMxYTN4T21UTXYzZm1PUjUtSS12dGdDb1Z0V0hucGdrUTFXYzc4RGItYkk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784564630312",
+          "date": "2026-07-20",
+          "title": "What's Next for England After 2026 World Cup? Stream of Soccer - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkRJNzhTdlZsVXRRTDJjMDgzazVVQ0dyNzI0M3N1QlEyMG9FQVAzQzZxazBpX2UtcUlBRGpfcTFqeGVMc3RkWWJmOXVPQk1yREt0TkMxcTdBOHVWaWRsVkJUaWNBTE5Ud3J5OGdqLTMxMEZDbk1Id3FtUVdwZE9MaVdXczkzUzRIc2FaMDZvdEJvZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784564630312",
+          "date": "2026-07-20",
+          "title": "England’s World Cup team shared nine photos it took of fans in Prairie Village - Kansas City Star",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDVuTUlFN2tkakdTcjlmbUNmeWwxTUJ1QXpIQWtJSC1rZjFHcUNURmVYblByOE0zZzBvWlRWYnQ3T1hiSVdKTTlNZTA3OHV4cGhwUHlfald3ejVwUXN2SXFzQ3V1Z1dtWnBaNVFvbDUwODBRVFptX0N2WGxrRHhDQVR1QTBjTjluTGJjbExPVjJGd9IBkgFBVV95cUxNUWMxX25IRnBnSUFNVkZiRnhZMFNGbjl4R0syS0E3QTgyRmxtNUdSeFBWRXNaZmpzcmNoY3g1QU9aME00bXVyRUxqLTZSMHAyWHU4MmFoM2EwQzFydl9EX05sTUFlSk1BTWxEUXRSbHctWHNMMkxCblpyZnZYR1h0SC1XbFM2YnZ6WTdMVW9ud1EtZw?oc=5",
           "draft": true
         }
       ]
