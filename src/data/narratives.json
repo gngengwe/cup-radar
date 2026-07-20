@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T11:44:56.012Z",
+  "lastUpdated": "2026-07-20T14:05:14.709Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 272,
+      "chapterCount": 274,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2194,6 +2194,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlpyMGtRRllvOExXNlFIUVBFeUVDTUFiUmg4eGY4TkNOWUJ5aVh5ZXNudExYX1pua2c0S0l0N08tTF81b2VEb0tXdjRKUmhZc2FfNDFueDNGRXBFWS1fOFRfLW9ZUFVjM2ZWbHQtSzlBYVc2RlFpV2VqVF82ZUU5elpXU3I4d2FGSC1sdDNKb1JqelJ5VmNKVGdpdVBvY1k4QThKUzVGeVBZQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784556312646",
+          "date": "2026-07-19",
+          "title": "Spain Wins 2026 World Cup Final 1-0, Dominating Lionel Messi’s Argentina - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQTHljVWJWdW12UmdRWm55RDIzMGw5ZE1WMjdHZF9TNGIxeEZCM1FYY2JLRVJsZlNRU1ZpNjBrMUlfWS1pSVdDOFlQdFdTNVd3VkVqYmdMYmZkdS1BTzhMeXF0aExucXlCZlVmRXVKNzRrQ1JtbzJLTjZSRDJYckU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784556312646",
+          "date": "2026-07-19",
+          "title": "Spain Silences Lionel Messi, Argentina to Win 2026 World Cup - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ySmg3Wk5hYUo0d1VSWU1pallqOV9RQjhUeVZ5aDJSbzFkVW96b2Nvd1B0anBuYWVOYkRQWm5hREdONWlmSzFXczlMSzdiRjAxMzdSZXRhSUJXR1M2ZTZMdkNuSXAydTRVOGllXzRSb3plRktjcEhLNGoxdngtZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2212,7 +2228,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 264,
+      "chapterCount": 265,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4325,6 +4341,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlQ2RFp3X0RKbnR1Wkc3UENhRTZ1d2dRd3lLNEJCdWlmbVJtUFlfMFNFdWVKR1pTQXBjOHBjb2lpRXlhQ1Y5dndKQ0RRandHRUtyOV9YZGNRelFnNE9VcElsdUlLZkNfNFQ2OEc2cGRULWhQT2FmZm1LaDF1UG0xYkMzNW9DOXQwTzVjV1V6RlY2SlcwX2pMQlhOak1zUWZQV1dVYUpHMXphWGlPbld4T2MyMEV0OUU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784556313078",
+          "date": "2026-07-19",
+          "title": "France's Kylian Mbappe earns Golden Boot as 2026 World Cup top scorer - Bergen Record",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZG1nNHo1N2twbGt6dDF6dTZya2ozaXhGWnR6R3dBc2hLbnNFWTNzQ1pOVExKRHJlNzNNaW5QRDJzU3ZUcXpTdnNieDNZYjRnSzA1THpXTjdaQnRaUGRFcFdRTnFycW5HNDV6ajJCZWd3ZUttVzFDRGtETnc4N1dPZHJEaXpBdVNWNlVIQlVHWHZoUUpxVUw2QXBIbDVMelB6YlgtTkFZZ29NRHAyOEdOVTJleThmbGZmS2ZOWGdVV2VlelNkVjdmMzd0cUwxZVo2ZFh2dlZEMA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4343,7 +4367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 563,
+      "chapterCount": 565,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8848,6 +8872,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RS2hUSVd1NWRmM085b0ltV1hZdk42RWQ3NG9VYkxrOU0xSXUycGllQTE3eHcxSzllRU9IZUNaSzJUcEVNaU5DOHBDMkh6NVhzUnJWUzBJRlpydjhIWkdRbE9XZlhJSzlQclVhV3RlVFFoUXRLZktJcEdsOWRHcW8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784556313519",
+          "date": "2026-07-20",
+          "title": "The 1994 World Cup influenced a generation of Americans. What will 2026’s impact be? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlBER1loNmZtX3UxNWJ0M0pmM2F4eDFJdVpnQWZZbXByYkhTU2pnNnNxMWVGX21PNFAxMzhoOU44dkhQWU9qVWtLbDF2WlY4QklGYkdNeDBfYjdmMnRTWVJQOTdwSmlQTkVrYS0xc3V6dFJVWmJHR01tUXRRcDRmejdSNEwxQXl6eGhRMTJJMU4tdUk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784556313519",
+          "date": "2026-07-20",
+          "title": "Despite some irritating flaws, 2026 World Cup a rousing success for FIFA, U.S. and fans - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEtOT29hdG9NSmIzWUFLNlpxT3lqY3d2NDdPZGVVYU5SRGpaT1lPN1dibzkwSmdYX0xGREtZdjFsbU9LMk9BUkMwOURyMjhRTWNJUkdxRkk1ODcwcXNDb2lkUExLQ1hHaHdZUm5Pb0dVMDBBamNxc184aDd2b01jWW1KYmVvamNCTTN4b19rRC1yWUoybEdVUkFJTHRHd21zSTVWSVV5TGdMaTlXY0hkdDljRUFvQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12800,7 +12840,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 689,
+      "chapterCount": 691,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18312,6 +18352,22 @@
           "title": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXkzWjdNQzUxdGQtMXRYdWNUS0Q4SFpoX1ZRallRd2VLQkR4TmsxM19JOV8tLWFNS0ZMYWJHc3QzRUUwT2pZM2R4VWdJTHdKY2tYd3RVenBzZHFhdEhROWZvdHNJRlIwOUh0Q0hRblVYTnRpSmxRcnM3UUViMHdOQ2ZQSGNUbjNOVXRRZ2M0MWJubFVhVlNzNi1ZNE1zdkd1VlY4SWFwQVhLNHFsa29mcWlpcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784556314709",
+          "date": "2026-07-20",
+          "title": "29 Reasons We Loved the 2026 World Cup - The Ringer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNW5Nc3puUnBxYllzSWt4UUJaYVNOMmhGZFM1TlQ4VXFvMU5idHhLeHFmRnF2QUNpcTJNNjZYTlN0SndCOG1mUzNlMUNFbU55bV9qRU81Sm5NRHlsa2NVSnJpcDZWNjN0Z21xUlByS2R0blotc2NKSEpYYkh0VU5IaEkxcGEzYmZDQ1E2eWhxZHBySFJBR3dCRnFKbk1vR2VibEItOXhZLTFqZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784556314709",
+          "date": "2026-07-20",
+          "title": "Wayne Rooney Delivers Brutal Verdict On FIFA World Cup 2026 Final Half-Time Show That Had BTS, Shakira, Justin Bieber - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWtJNmllVXFEcUtnZmdFN1AtbkNaT096V3JHR2xnS2duOFVQenJ0VGV5ZFI5ZmFhalIxSVZuRko3Z2Fwdm9KR3VucDg5YkpSc3g2UXRvd21RWHo3bEZSN2Ixb2VGZ2VXcDRxbm53UU1oSTMxc2trb3FVUm9Mbk9FZGM0ZFo5Z1E3ZEpvdFFsWkxJTVdIb2x3Z2N0TzFiU09WOXp1T2JEZTlnb3UyQjdYVTMxYTN4T21UTXYzZm1PUjUtSS12dGdDb1Z0V0hucGdrUTFXYzc4RGItYkk?oc=5",
           "draft": true
         }
       ]
