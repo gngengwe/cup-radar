@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T06:19:47.827Z",
+  "lastUpdated": "2026-07-20T11:44:56.012Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 271,
+      "chapterCount": 272,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2186,6 +2186,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdi05WFJOUFE3aU1Pb2R5eUxMTTZjTVN0ck5CM2c1QXAwcnVoUS00S1NjTTdMYTdDRk5QbDhQdEJiVk85ajRkUGtTQ1dFRzd3STB4dndwSUpmTEV5QWlvNjVxVV93U3JkOVk5Wm50OEljZFRjcjQzcmVoVFk4eko1ZUUwNkVrUjFiVldMelJmSGhoV3I4Mm1LR0hmR0RSWVhZRXZNUWtZVndXT3fSAbABQVVfeXFMUGZCY2FzSU1TQUpGWVo4cC1SQ3JOUTRWNXFmbVo1QS1uZElxWmJ4Q01iZF85X0s1UGhLTWV1SkNfOFhvQ2kyNFZxc1ZBdXBRbmxzM3k5ZHdNZ1hLYmFFVmVGVTZIbFV4cGtFaU5zZGtjRGw4c0NoSkptQVRGNWRFNWFWTDNaVDNGVlRkRGhCTXUyUlJhVmlLRndEaEQtVUJKWUNmaHpMSEN2WmN6ek9SZ28?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784547894139",
+          "date": "2026-07-20",
+          "title": "Why Argentina and Lionel Messi went nearly two hours without mustering a World Cup final shot - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlpyMGtRRllvOExXNlFIUVBFeUVDTUFiUmg4eGY4TkNOWUJ5aVh5ZXNudExYX1pua2c0S0l0N08tTF81b2VEb0tXdjRKUmhZc2FfNDFueDNGRXBFWS1fOFRfLW9ZUFVjM2ZWbHQtSzlBYVc2RlFpV2VqVF82ZUU5elpXU3I4d2FGSC1sdDNKb1JqelJ5VmNKVGdpdVBvY1k4QThKUzVGeVBZQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4335,7 +4343,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 559,
+      "chapterCount": 563,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8808,6 +8816,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFo1aURmMnRIdTNsQnBxVDA4NHEzR0JRUi1CcXV3R21ndjFkeW9SV2hCYWtFdlV6WndORmp0cUpzYkU4LVc3UlVBMnpOVXpPbGxOb0piVjh3Mnl3c0ppVXllUGNSUXhEaEdfNFN0ZTBQTHRBQl91WmFvbm1Da3c2SDJ1MWFGcUxIRmVYeFE4QWY4clZGZFlKWkZXQlpBTkM3VVI0ckZUQ2VqZFBtVi1iVTZpcXlucFJONGhpQkdyUkQ3Q2JEUHNORXZrR0Rmd25wcUc0MEczSWswdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784547895113",
+          "date": "2026-07-19",
+          "title": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeEhSLUY2bG9CRmFJRXlSQkVnMWl0cmx0NktXemI1eUVEX0l3X1NsYmZZN3ppbTQwV200ckFsRkk4a1lvbTkzelM0YnhhUzFzY1NwMFhRVlBjOGJYQmhsMlRVdGtzTFF6aXlYQWZFUFpBSU5CR0J1ZWVvNzdNVzJkU1lndw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784547895113",
+          "date": "2026-07-20",
+          "title": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784547895113",
+          "date": "2026-07-20",
+          "title": "World Cup review: American makeover leaves soccer facing a battle for its soul - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmRKMjlFNVQ0TTBLMW1CbDNZWWoySnQ4SFJQdGpKYW9ZM09WQkRpM3pRZ0NhckNkOXN3ekU5Q09GRmRnQmY0R2txSDIxTFE5dzBiZG1WTWRtUEtKb3A1TkIxRU9Ja3UyVFpIbVlTVDhoTnAzMFlDdGJqMlNPODlJWlZUcUR4elVKSGMxRXhOeGdYWGVoZElRNHV0UGhBYThfWEd2REV4RUdldkFDRUplTkxSUUx6UGNrbXNmajNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784547895113",
+          "date": "2026-07-20",
+          "title": "Trump says World Cup made US a 'soccer country' as he presents trophy to Spain - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RS2hUSVd1NWRmM085b0ltV1hZdk42RWQ3NG9VYkxrOU0xSXUycGllQTE3eHcxSzllRU9IZUNaSzJUcEVNaU5DOHBDMkh6NVhzUnJWUzBJRlpydjhIWkdRbE9XZlhJSzlQclVhV3RlVFFoUXRLZktJcEdsOWRHcW8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12760,7 +12800,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 686,
+      "chapterCount": 689,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18248,6 +18288,30 @@
           "title": "World Cup 2026: US President Donald Trump claims tournament was 'greatest ever' - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44NWJ6WFJTYmZXZlJ6SlA3N18zeV9FNHMzZHlpWmNLRXEybzE4aFF3YmFETTZNNzRFZV90Y1FtMHFRdXlvV0N0bHRHZGt3YUFMbURjR2c0TDFvT09UbWg4RWVpWWNUU2s?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784547896012",
+          "date": "2026-07-20",
+          "title": "Why Beckham was face of World Cup in the US - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03Y1hWTmZuWG5qM1BaaDRwd0w1QjdxcHlnU2E4UmY4bzJ5cVpRRGFEMmFybmpNRnJPWUxOck0xZHBTbERRbF9mZ3d0U1gwcFBfbUJ3UkxxaFhSRDgybnBkOFdVNndJUVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784547896012",
+          "date": "2026-07-20",
+          "title": "Winners and losers from the 2026 FIFA World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFJCcmJaeFluRXo3WGsweU1DYXNpaU5tOE5pLWkxVkRlZjNmY21uOE96NWJ5eUlxbTE1YzVGNW01RnNTS2ZxVEQ3VnJ0N2lpMjlxaFZfRVlQWk5GYlVSV0UyMURFS0FBcXJyN2Y5Yy1VdUd2d2d2RjIzc1JVMGNjUEo3WTZzdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784547896012",
+          "date": "2026-07-20",
+          "title": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXkzWjdNQzUxdGQtMXRYdWNUS0Q4SFpoX1ZRallRd2VLQkR4TmsxM19JOV8tLWFNS0ZMYWJHc3QzRUUwT2pZM2R4VWdJTHdKY2tYd3RVenBzZHFhdEhROWZvdHNJRlIwOUh0Q0hRblVYTnRpSmxRcnM3UUViMHdOQ2ZQSGNUbjNOVXRRZ2M0MWJubFVhVlNzNi1ZNE1zdkd1VlY4SWFwQVhLNHFsa29mcWlpcw?oc=5",
           "draft": true
         }
       ]
