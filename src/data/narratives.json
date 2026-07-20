@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T19:43:23.602Z",
+  "lastUpdated": "2026-07-20T21:59:42.674Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 277,
+      "chapterCount": 279,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2234,6 +2234,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX0YzMGhld3gySzc3cVBKbnFmVWpKTVRGQlhGT1plenRsclpmNkVNS0NhMURwVGR5M1ZBZTNRZGhUVVJmcjlYSXVZRzNYTWZrdTZSQWlfb1ZlOGxRQ0JqNS1OSEk0X1oybDM1a3BlaUZ1ZWt1VTYwQXJzY0o5a2RCNlcxWmNBY29TVFU5VmNDbzU3ZmZOZlFkeDM3ZDdvWHpmWlAwNnJJdGdKa3Q5QXYyTnY5UlZhbVZ5MXpjTG9oZ1JHYXVWTnlDSVBvRm9RZzJYbWRwcE84RllPOW95OVpQZzA0aTFLeXJGbG4tYXYwX3pKM2xNZWxLYzJVeHY?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784584780066",
+          "date": "2026-07-20",
+          "title": "😢Lionel Messi breaks his silence after the 2026 World Cup final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlFORzlESGc5aTNoaEVGeUc5N2ZwdUh6dWRnbUtQcEhuUXJtZmJ1ZmFVTVczdHhrcldYb3ZMUVJUUXM1SVFjUFNsbGJTNHRLaWl4dUJCNVdmZ2hnZ2ozdmJtTW55RTVJSjh4WC0yYVl5MW92M3ZmMmNQTDFLNzBKYlZOWEtXRFVG?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784584780067",
+          "date": "2026-07-20",
+          "title": "Lionel Messi pens heartfelt letter to Argentina fans after World Cup defeat - NBC 6 South Florida",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWxLbG8weHJQZFhuZzNxQVVSLTA4ZmZ6YVFOR2Z2ZjVhUDN1SkhzbHJFSHpDSVBLcmwzYlJLb0l5TGtuWHVsM0tCbndCOWJkY2tsUFc4MG5yeDhKZnZDRk1VaDd6ZWRVcnhIeW00ckppWkRQNzktdTBaM3RQek1KOHZZNzJyMlZGX2tMTmJOY9IBlwFBVV95cUxOYldnX1dEb2RnVTI5YWdyZkVWZThRVDMtaE1vWG50NThUNEQwclVoSDFvaVhrTm1YTnloSENsRnVRdXpmQ2tvbC1sRGt2ZzhLdGxFekZVcEs5Sno3OXE2aTM1Q0pVWDRlelNFcGRvVE0zTG1vZTQ5YklzSlpNOGNNS2VERHZiWHdnN3d0Z0haTGttZWpWVURj?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4423,7 +4439,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 568,
+      "chapterCount": 569,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8968,6 +8984,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE1wQnBmQjIzbGo1Z3hmbEl4cVhxMkV5RXJhZWRNN2U4Z1hQN05VZnMtTnpnWlRZSC1YdkF1a2l4Q1pFMEtzRU9Na3VzRWZ0bk15Y3NkbmNhTy1LUmVQSUlueUdxbmxiU3hRTV9iSll2Y2pWZ3JNVFZ4NVN5SElwYklyeVVMTVc0NktMUmN4V29sRHRIUXczQ1VtUTNSNHVsd3dpTndNb1V5SE1wMW9GbkNiOUpYcFIwSkljWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784584781235",
+          "date": "2026-07-20",
+          "title": "10 things that wowed us at the 2026 World Cup - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8986,7 +9010,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 463,
+      "chapterCount": 464,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -12691,6 +12715,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGY1MjlWU3BfenpmejRiQVU5OGVESHpWV1VsX2FvUGh3U1BYOGlyNmppbXF5VmJwQWVwOWc3eHhOYlJ5WXVDeG1TdGE3aEM0dmVHN21QemtfR0l0LVZMLVp2MEhmdnY3eHB1bWlDcGNKSXB5eFJFaHc4N2xyOGVpMUZPWThpS0drTjgxamFQaWtpbmRWUkg5a1dLZF9wMG1SMUNlUzU1aUdUZEN4MmRuaWs0ZUlkdXpoSkdoUEJWSkRJN196MFN6bg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784584781937",
+          "date": "2026-07-20",
+          "title": "📅 Football calendar in Brazil and worldwide after the 2026 World Cup - OneFootball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTJYREd5UmdaQV95UkZJUXVRTW5ZV1lvSW5VUnJ6Yzhta2Z1T3RscDhYRmwyeERfNnp5OVRGV2c3cDExM0I3ak1BdU5XajY0TEhPdndpWE5na2JlYWpMTDRyUkNfQWFxTVhJZHBZVkV5M0FOUC10RFlURHF4VkZYaWprZDRCUHRjUHhMak1GYVpScExZRzlDR2s5cXRmeFJOZVpWQ3c1blhfWEtDVnh5Uw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12920,7 +12952,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 695,
+      "chapterCount": 698,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18480,6 +18512,30 @@
           "title": "2026 World Cup team of the tournament: Harry Kane omitted and six Spain stars named in Gabby Agbonlahor's XI - talkSPORT",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEg1NHpHZDJneUJBYkxQeVMyQnNkTEJIMWNQczhZRjkzTFREZWszTTJoT3RteWg1YV82VHR4eTRyTzByTWk2OHJPRU5VNjMyRjNsYVJGNzhmNlh2NlQ5Y01uY3FSMkc5cmxZSm9EZ3Roa29ob243N3ZvNVp0OUtTYUphUWdsVUtwaWVLX0JuTFVuSW54M1BPa1FpRFJUbVhJTXFR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784584782674",
+          "date": "2026-07-20",
+          "title": "Did World Cup help or hinder your Premier League team? How tournament affected each club - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOTlkWTZJV0Z1eDRpOFhmTk9tSTBGSTJPM0FicXdBNklUZ3dDTUJNR1JTd3ZTMmgwSkstVF92elkxRDNhbnNhbk5vQXRxSDVXUms0U1c0NW1nT0ZJU2xBb2d3Vk90SXd6YnpjSVhiVkNGQ1Z1NkgzZG54Ym9NbDM2MkRwX1poaHZtd1B4ak1VUXQxNC13LVRIZjl4ckVIREJhT1h5bFdBMWtSY3FLa2doVjdtVjk4dHplRm9fN3d3RUQtOFhlYnZHSzBEVWZEcTlFbENpWnMyQ01YeXJ6VVZVdWFBa3JLZ0drYVFkTXA5cG94UTd2VEd0V2hWZF92MFJ3NGxobElwUkVodw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784584782674",
+          "date": "2026-07-20",
+          "title": "Best of 2026 FIFA World Cup at Gillette photos - MassLive",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YcGJXUmxPSFVjTkVmZnR6MVcxWHBiNnh4YWFCVTRQRGt2OWRmanlUMlVOVHVDTlhzazFTal8tTW5jT2p2V3FpdUNPcGc4Z2RVS3JyQXdiMGNFZDIwazZ2NDJmSGZWNXc0MDFuX2V2TQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784584782674",
+          "date": "2026-07-20",
+          "title": "England World Cup ratings: Bellingham silences doubters with elite performances - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG1LTFBnQUp0eVNwRnZXay04UEFJeTNDOGVlUGoyMTd1U0VIUVlJT0E1RFRoalhrSGhfOExGY2tlLTVqNTRxTzJpckc4cHhrZ1ZnWnhQN0ZlckZ5b1dVUkhDTmNmSEtrYnZyVEZpLW4wMDlFdS1SX1NUcFhsZkhyOHZtTng1REROOVR1UzUycGVqWFU5SlM1R21SY1c?oc=5",
           "draft": true
         }
       ]

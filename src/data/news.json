@@ -1,7 +1,106 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-20T19:43:20.661Z",
+  "lastUpdated": "2026-07-20T21:59:39.543Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-will-investigate-argentina-for-braw-2026-07-20",
+      "headline": "FIFA will investigate Argentina for brawl after World Cup final loss to Spain - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEVTMUdmTUJKN1N4THZ1WEFFOGNua1piX0RmZmNOaFc0UW1vSXlHRkVHMjZWaWJZTnJxNkZXME1IQUhDbVg0Z0RxOHR4cU1kZlo5Q25EWllpWVpXM05Ud3Z5eEY3TVZXaUpQak5Jb1N5NHhtTFNyY3Uxa0oxa3hudzlqLUZ5VzFhSWx1QUdxZVJDbU1EUXVTb0lqTDZiT29TLUM2VDZkd25",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEVTMUdmTUJKN1N4THZ1WEFFOGNua1piX0RmZmNOaFc0UW1vSXlHRkVHMjZWaWJZTnJxNkZXME1IQUhDbVg0Z0RxOHR4cU1kZlo5Q25EWllpWVpXM05Ud3Z5eEY3TVZXaUpQak5Jb1N5NHhtTFNyY3Uxa0oxa3hudzlqLUZ5VzFhSWx1QUdxZVJDbU1EUXVTb0lqTDZiT29TLUM2VDZkd250ckxxT1V0RWZUM3NDaUx4Q01yaElDT1I5NG5hLTNZNVMxU1k?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-robbie-williams-sets-the-record-straight-2026-07-20",
+      "headline": "Robbie Williams Sets the Record Straight After Fans Think He Did Cocaine at World Cup in Viral Video - People.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1ZvSDJnVTFKUnd0T2d6cE5pNWI1NWJ2OVQ1RXJsd3V5NVNZYUFEajdSMng0ZFV1OEY1WVBWVTlSaGhsXzN3UjdBZEJkd0FIN0k4RFNmOUJZdEwtaFltWnpGbHcxUVYwM3pWdEVKbVYyU1hscE9JTmJzN2pLbXZhelNVWE1GdlZoakxiU01Ed2NKTFhUdzdhTFdFbzFRb1l3LUhyeTNqeFV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1ZvSDJnVTFKUnd0T2d6cE5pNWI1NWJ2OVQ1RXJsd3V5NVNZYUFEajdSMng0ZFV1OEY1WVBWVTlSaGhsXzN3UjdBZEJkd0FIN0k4RFNmOUJZdEwtaFltWnpGbHcxUVYwM3pWdEVKbVYyU1hscE9JTmJzN2pLbXZhelNVWE1GdlZoakxiU01Ed2NKTFhUdzdhTFdFbzFRb1l3LUhyeTNqeFVYaXZLZHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-messi-says-pain-is-immense-after-losing--2026-07-20",
+      "headline": "Messi says 'pain is immense' after losing World Cup final - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJV1FiV2g2UzFNZDhRZC1QeXRGNTdYS0c0RGFoWkc2amdGck9tX0JGR3QwcWhBdXEza2M3QXBESXpmVFBhLWNadEMydVVkS01fS2IxdzJSWVVmSFVpV1Z2dWtaWnk1MlE?oc=5\" target=\"_blank\"&gt;Messi says 'pain is immense' after losing World Cup final&lt;/",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJV1FiV2g2UzFNZDhRZC1QeXRGNTdYS0c0RGFoWkc2amdGck9tX0JGR3QwcWhBdXEza2M3QXBESXpmVFBhLWNadEMydVVkS01fS2IxdzJSWVVmSFVpV1Z2dWtaWnk1MlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-verdicts-best-and-worst-teams--2026-07-20",
+      "headline": "World Cup verdicts: Best and worst teams, favourite moments and who will win in 2030? - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1dSZ2s5VkRFaVZDbkN4ZkxkdEdnckV4LVhNZFV5VV9pcUN1R2ZJZG9FcG4zR29uR1hsNTVXekpEckU2eDh1M3hzWGlZVmJZSW5tOF9na2xUOE11TjFBN0hFZk1lYlJ3cnUwcjFJUFl1Z0pieldRYWlqMFhPYWlaREJkV29EVkpHLUZOYUpDVll3NUh3?oc=5\" target=\"_blank\"&gt;W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1dSZ2s5VkRFaVZDbkN4ZkxkdEdnckV4LVhNZFV5VV9pcUN1R2ZJZG9FcG4zR29uR1hsNTVXekpEckU2eDh1M3hzWGlZVmJZSW5tOF9na2xUOE11TjFBN0hFZk1lYlJ3cnUwcjFJUFl1Z0pieldRYWlqMFhPYWlaREJkV29EVkpHLUZOYUpDVll3NUh3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-06",
+      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-hands-us-economy-20b-boost-wit-2026-07-20",
+      "headline": "World Cup hands US economy $20B boost -- with host cities like Kansas City, Philly cashing in big, BofA says - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWppVC1KU0N6ZkZycUhpSkFTRXNCWHM0dzJWSjd3UFdYSXRUZ1NBODFkdEpnMHA2Tko0Zw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fans-packed-downtown-kansas-city-for-one-2026-07-20",
+      "headline": "Fans packed downtown Kansas City for one final World Cup watch party - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR09PT2FXZ29LV09ncEJwRmJ6alRIUjJ0V204VG93ck45WERMY290QkRfblg5Z1ZzMzhOSXRWU19Zbk5WNHdTM3YxTjhSTW9mSVdFZ2ZUX3NYR2tBbVN3SDJnUzVfRmlpbkRMUGVuaVlXbF81ZGFweF9BY3pmSjR6dHpRTDVwdWpIWkxJX0xWQlNOa2l3VmRzZ0FoeTRTUGPSAbMBQVVfeXF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR09PT2FXZ29LV09ncEJwRmJ6alRIUjJ0V204VG93ck45WERMY290QkRfblg5Z1ZzMzhOSXRWU19Zbk5WNHdTM3YxTjhSTW9mSVdFZ2ZUX3NYR2tBbVN3SDJnUzVfRmlpbkRMUGVuaVlXbF81ZGFweF9BY3pmSjR6dHpRTDVwdWpIWkxJX0xWQlNOa2l3VmRzZ0FoeTRTUGPSAbMBQVVfeXFMUGZSeHlGR2xxUjRDQmxFckJlUVZ4QVFfYmhTT1J1UTdkaFFxX1FsVDBhOWkxZFVEM0R5TURURVJ6NnE1bWdNdkIwbU95OWU2Q3dBZ1JqaDdvWTFDX19BUjB4ZXVRdk51ekU4WEpicnJaeFBXcDdWWkFBUWFtelZMazZOTjdYa2U5U2hlNEJRSTFKU2xGeVMxXzZoSjR5NzlUMnhjNVVJaHBCWk5wRTliTm1LV3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-five-things-presented-by-compass-mineral-2026-07-20",
+      "headline": "Five Things presented by Compass Minerals: Sporting returns to Sporting Park to face Minnesota | July 22, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHdtcHFqT2tqSmRyZl9ZWmZKVllqaXZrQVBZbm82bXh0aGluWEVSc2ZJU3czWnNTN25IRlh1cmJBa1BvUXJWdW1XQXpKaHluclc1akpkdXRYT05GbVU3aVl4WGtLNDFxSl9RTFhVSmh5a1hzQmFhU21GN0FtSlNVMlZKUm9xSlVNRWtuVDE5dkRKTDB6Z2pkb0pCNFk5M2wyc0xMZ0lONVA",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHdtcHFqT2tqSmRyZl9ZWmZKVllqaXZrQVBZbm82bXh0aGluWEVSc2ZJU3czWnNTN25IRlh1cmJBa1BvUXJWdW1XQXpKaHluclc1akpkdXRYT05GbVU3aVl4WGtLNDFxSl9RTFhVSmh5a1hzQmFhU21GN0FtSlNVMlZKUm9xSlVNRWtuVDE5dkRKTDB6Z2pkb0pCNFk5M2wyc0xMZ0lONVAxWVgzeW9zZEVfSG5aeUFFNUZiWktDR3IweHNYeWdGOTJwdG90b25wRThNTw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-crops-trump-out-of-world-cup-photo--2026-07-20",
       "headline": "FIFA Crops Trump Out Of World Cup Photo—White House Adds Him Back In - Forbes",
@@ -1000,105 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-17",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Pc1RvLWZQTHd4M2JpSUUtU2s2RTBYck9RdnBaLWZEc3VSNWZXS2RQd2JpSWlRbHV2V0plV3lPRW9oTm1HVGl4TTlqUXNHQ0poMFV6aW5VUEw3X3NDQTE2OFdiaUk5YjM5ZF9NUUh4THlBSlk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-takes-fifa-world-cup-invento-2026-07-16",
-      "headline": "Kansas City takes FIFA World Cup inventory. So how many visitors did we welcome? - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZsZWdNTlJsdkprTlo5ZG8zajBxVGpxRXFudFRFQTRueEJ5akJ0NzZlMmZkVlhwVngtY0JNSVNBZ2N5d3pubTZYZTl5Qi1kTFVLNUIyMkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cid-advocates-rally-at-seattle-stadium-d-2026-07-07",
-      "headline": "CID advocates rally at Seattle Stadium, demand World Cup economic parity - Northwest Asian Weekly",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1ZZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-revives-america-s-drinking-cul-2026-07-19",
-      "headline": "World Cup revives America's drinking culture - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NTGlxc2NCRGJFVjR2Y2ZleHVVdjBNVEZPRXZJLWduM3pCc1R5alZXcWRSMTh6Q0dIbWw3dFpFZ3pNY3NmeEF2UnJNVHlwelpnVEprVzR4QVhOU09ReGxZbGowSlFzWWYtYUY0NXJJaEx6TU42UWc?oc=5\" target=\"_blank\"&gt;World Cup revives America's drinking cultu",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NTGlxc2NCRGJFVjR2Y2ZleHVVdjBNVEZPRXZJLWduM3pCc1R5alZXcWRSMTh6Q0dIbWw3dFpFZ3pNY3NmeEF2UnJNVHlwelpnVEprVzR4QVhOU09ReGxZbGowSlFzWWYtYUY0NXJJaEx6TU42UWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-world-cup-final-today-argen-2026-07-19",
-      "headline": "How to watch World Cup final today: Argentina and Spain in New Jersey - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzcyUnI3dGUyMEFyak1aUjl2WHJQaW1qVmJCdmxaNzlUako2dUt2ZnE1aDgzNXR1cGFIa2VzbzlrVWZEZi1IQ2s2cHcyMnFwaE5EVGVzN05sX0pGWEhLai1yRkV5eGFYNWI3bjhJTDI1S214TGdWTzFhdDVBOXNfSWZn?oc=5\" target=\"_blank\"&gt;How to watch World Cup fi",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzcyUnI3dGUyMEFyak1aUjl2WHJQaW1qVmJCdmxaNzlUako2dUt2ZnE1aDgzNXR1cGFIa2VzbzlrVWZEZi1IQ2s2cHcyMnFwaE5EVGVzN05sX0pGWEhLai1yRkV5eGFYNWI3bjhJTDI1S214TGdWTzFhdDVBOXNfSWZn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-beat-france-to-finish-third-at-w-2026-07-19",
-      "headline": "England beat France to finish third at World Cup - success or missed opportunity? - BBC",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWDdhLVo3WndxclRldnVEWndlV0huSldCOUI0TjR1ZkpGSEhzZTEyMnZGUzlRdWhfOHdjZkNyWTRvQ1VZaFZiR1N4QUVRR0oyaEFjdHNzNlR1RXRCZWQ2REpn?oc=5\" target=\"_blank\"&gt;England beat France to finish third at World Cup ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWDdhLVo3WndxclRldnVEWndlV0huSldCOUI0TjR1ZkpGSEhzZTEyMnZGUzlRdWhfOHdjZkNyWTRvQ1VZaFZiR1N4QUVRR0oyaEFjdHNzNlR1RXRCZWQ2REpn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-spain-v-argentina-final-b-2026-07-19",
-      "headline": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live - The Guardian",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTE9FS3pmMFQzVWhvVl9fUVBsZ1NhaTRJcnQ0QlR1N1poOVNOSXg3Zi1DQmtQWHJCOXR3WmhlRmRwYVg3Z0xnN1NtWVVOSjhtYTZ1UWhuZUlHQTktN0ZPQUZEWXBOM19tSlg3XzhJZTBQZWxiU0dhRlFqX0JPdlc2MWp3eXdadUpHVVotUllKLVFUeURBcm1HWGc",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTE9FS3pmMFQzVWhvVl9fUVBsZ1NhaTRJcnQ0QlR1N1poOVNOSXg3Zi1DQmtQWHJCOXR3WmhlRmRwYVg3Z0xnN1NtWVVOSjhtYTZ1UWhuZUlHQTktN0ZPQUZEWXBOM19tSlg3XzhJZTBQZWxiU0dhRlFqX0JPdlc2MWp3eXdadUpHVVotUllKLVFUeURBcm1HWGc1UWxKNnQ3V3pITURKMVBPekhrcXgzMEp4cS1pUldCMVJyOUNUR3BjU3VheWtWMGpPRWs0bDQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-6-4-france-fifa-world-cup-2026-a-2026-07-19",
-      "headline": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2d",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-s-declan-rice-nets-goal-to-take--2026-07-18",
-      "headline": "England’s Declan Rice nets goal to take lead vs France | 2026 FIFA World Cup™ - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNWtxaEQ2UF9SR2g0S1dPazlyZjVHQnZXVExXdGNHMWJhTmM3S0RMRi1yNUdRcjRaVEZqMlBxamVQV1NPb0liMVpJTldtRnVORUVNZTYxdXBNM056dXNzazVn?oc=5\" target=\"_blank\"&gt;England’s Declan Rice nets goal to take lead vs France | 2026 FIFA Wo",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNWtxaEQ2UF9SR2g0S1dPazlyZjVHQnZXVExXdGNHMWJhTmM3S0RMRi1yNUdRcjRaVEZqMlBxamVQV1NPb0liMVpJTldtRnVORUVNZTYxdXBNM056dXNzazVn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-hydration-breaks-did-not-impact-world-cu-2026-07-18",
-      "headline": "Hydration breaks did not impact World Cup results but future undecided, says FIFA's Wenger - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2NzNm04ZmtFWVhWMWNlUTZHNDkzRFJLZkR4bWUzdlVfUGVXX1UtU0JMTFlGa1hIazZLUElEcUpldURHeWl6d0gyVF90R0dHVXJ0b292ZmF4SXF0M2dNcHdEXzlUWnNBS3JXQ0NpSU9sNDZfcTA3TEJ4Vm1uSEJrWW02LTVGaG5VcGhWQW43Vk5QTUo1OXh4U0FOVjNJWHZxQ19hazUxRUp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2NzNm04ZmtFWVhWMWNlUTZHNDkzRFJLZkR4bWUzdlVfUGVXX1UtU0JMTFlGa1hIazZLUElEcUpldURHeWl6d0gyVF90R0dHVXJ0b292ZmF4SXF0M2dNcHdEXzlUWnNBS3JXQ0NpSU9sNDZfcTA3TEJ4Vm1uSEJrWW02LTVGaG5VcGhWQW43Vk5QTUo1OXh4U0FOVjNJWHZxQ19hazUxRUppUnF3UU1RTk5tbjNkZkpWbmJkUV81QmNESWE0b1E?oc=5",
       "featured": false,
       "draft": true
     }
