@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T02:56:37.079Z",
+  "lastUpdated": "2026-07-20T06:19:47.827Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 268,
+      "chapterCount": 271,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2162,6 +2162,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhcWoxRmdWN2RLREwtaVBWM3lpenpqZWRiN29uU2xUeHFxUVp5b19wMWtZQkRsa2FSM0NNbTB3Z2sxVE1wZ0lMSmtDamtRQ1B4Q1R3bEhxQWVaMk9SNlphVEpYRWVyRUNZVGM3a1hrMGhpRFZrVXl0b3VEdjV1b0VZYk1HWUJINkV2V1RFVlg3eDFMby0xbWxvaVdVbUcyeTNndUtJLXNtTEp0M2hDd2JIV2dBUdIBtgFBVV95cUxOcjN0RmlpX3M0ZjlWNTlJdVUyVXpoU2I5MXBtV1lMTVE4MUIxV1V1SGxFVnpHU2dGR2pUaThFTHMtSUd5QWN0ZzVxMUFKTDA0OVJZVlJzZ04xdEJCMzlNdDRNN2k4YmhJeDZWN3h5c1F3MlVrOElmQU9qMm40cnhiak1CX1ozbFBTUHVmM3R2dUlRTzBwcDM4UWtvMFlGZGtza01ETXNsTXgtbC1qNExJemtiQVdBZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784528385505",
+          "date": "2026-07-19",
+          "title": "Spain Wins 2026 FIFA World Cup Over Lionel Messi, Argentina - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFAwZElidjVUX1BXNVBvNGlsQ2VxcktieXRsbWlvNW1NdVRDY183SnduNWhNaks0NlZrZjZtWEtETWh3bGRVclVWekNjVjM5U1VvMVIyaWdZbDRBQkd1cXBBa1kyWG5yNlNKY2dWSVhURFQtX0RHV0dGalc4dXgxdXQ4RDZXVVFvSHFTOWVwbTJqbnFEWEdfMWxLRE9hZ9IBngFBVV95cUxQQ2NlTWx4OG9ucTZOeGotZ0JJU25XYXNjN1ZSZVMyNlFCeldjeU9od3RTZ2pqU1VhaHFEWnJLeEtCT1ZBLURrb1hiQnZaaWkwcl9JQzd2djl5VUgzQXpReG9tWTM0UkdRSl8zZHhxVFFKMjlqNV95cVJQWkRlWnBHTjgxOVdhTkNMendxZF9oa1l4NVJVVzQzdzlyR2ZMUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784528385506",
+          "date": "2026-07-20",
+          "title": "How Spain Defeated Argentina, Messi In The FIFA World Cup Final - Forbes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjZHWDhma0s4bzVMUHVRaWJKV1hva2VZelp1Nk9QbVdjMjVPWk5Ta19pOEF2SmtJYnpEU1BKb056SWhhN2RDSG12QXpyc09fRzJ4MEVqZWljZXlXVUg4aWhhR2NmQjFMazQyMUVpaUlyUWRvbEliVGIta2FyeWJ4cFpXQVd6bkpnN2FlSFprT1JXUVpOTVk1dlNDdkZoYXlvV2dqNkZxWkFlTkZhT0U4Y2IxU3lxa2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784528385506",
+          "date": "2026-07-20",
+          "title": "How a young and cohesive Spain took down Lionel Messi’s Argentina - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdi05WFJOUFE3aU1Pb2R5eUxMTTZjTVN0ck5CM2c1QXAwcnVoUS00S1NjTTdMYTdDRk5QbDhQdEJiVk85ajRkUGtTQ1dFRzd3STB4dndwSUpmTEV5QWlvNjVxVV93U3JkOVk5Wm50OEljZFRjcjQzcmVoVFk4eko1ZUUwNkVrUjFiVldMelJmSGhoV3I4Mm1LR0hmR0RSWVhZRXZNUWtZVndXT3fSAbABQVVfeXFMUGZCY2FzSU1TQUpGWVo4cC1SQ3JOUTRWNXFmbVo1QS1uZElxWmJ4Q01iZF85X0s1UGhLTWV1SkNfOFhvQ2kyNFZxc1ZBdXBRbmxzM3k5ZHdNZ1hLYmFFVmVGVTZIbFV4cGtFaU5zZGtjRGw4c0NoSkptQVRGNWRFNWFWTDNaVDNGVlRkRGhCTXUyUlJhVmlLRndEaEQtVUJKWUNmaHpMSEN2WmN6ek9SZ28?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2180,7 +2204,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 263,
+      "chapterCount": 264,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4285,6 +4309,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHBBX3hQV0NRZWN1ZzU1MkNhR2dGZHFWYkJYM1JzakVzR1BXY0xqaTh3ZVZEdTNWb2dJTVRrYndkQVFYMS1fZS1MX2h0Q3lnNGxBV2NwVV9yWm5XZ1QwYTZPY3N1RnBjUXlwNTBIM1EwV09ady1wMlBtN0NnYW1nei1aT2wtaXNqNEhaaTItOV9ZNjhv0gGUAUFVX3lxTE1WS0swSTJPMkQ0VzRralhIZlZvSmxpOWt2ci1QSzBTejI0Q3RPRC1NODZER3kxRWVmWDJlQzFwc0QycTFGY3U5clVXUEFaY2pDZjBIS2dJSGZpTjdwMHRqQjluejNvbk9Fb2xOT3BpRjJ2Q3owdlgxdnoweXhqYS1pYzVXUnUyMmNrRGZ5eXpRQlJmNDM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784528385978",
+          "date": "2026-07-19",
+          "title": "England defeats France in 10-goal World Cup thriller; Kylian Mbappé sets goals record - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlQ2RFp3X0RKbnR1Wkc3UENhRTZ1d2dRd3lLNEJCdWlmbVJtUFlfMFNFdWVKR1pTQXBjOHBjb2lpRXlhQ1Y5dndKQ0RRandHRUtyOV9YZGNRelFnNE9VcElsdUlLZkNfNFQ2OEc2cGRULWhQT2FmZm1LaDF1UG0xYkMzNW9DOXQwTzVjV1V6RlY2SlcwX2pMQlhOak1zUWZQV1dVYUpHMXphWGlPbld4T2MyMEV0OUU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4303,7 +4335,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 556,
+      "chapterCount": 559,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8752,6 +8784,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXTGxuUWpVWHg4Y1ZBeHphM3FYSmF5UllMQ1ZzeGZoQ0hGdmZSakxjQnFDMnQzN1hvdUJETVFaSFFIaFpGSmxLdUVOazQxYlB3MXFGbGJhUGFHcy1PbXJ3Wl9n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784528386457",
+          "date": "2026-07-20",
+          "title": "World Cup 2030 odds: Spain open as favorites to repeat as champions, USMNT long shots - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZsb1VSQVNKRFkyVXJFa1l2YnMxUHhSUDRFRU5vaW1QYUtvR2ZHN0t1ckxJV2FmMjRrMXI3VlVRSlFBQWsycThyOF9Lb0ExY0NvZ01wUGc4MjhCVE8xMHVNemJod29haGxyNGZreFplQk56eUtrN20zM3pxVERrdzR5Q3dvSkpFXzFRcHkwaWR2bklGSmpCbWg3Z1M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784528386457",
+          "date": "2026-07-20",
+          "title": "Relive 'America's World Cup' with our commemorative book, page prints - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUY2ZzM2R1JORUIyaDdONTREdy0zUWhzb2I1MGJxaWc0OHJFNEJfSGJKVzU5cUZkSDJoTjZzZW5vM3dqMTlwX1FNaTc5UUtqX3dNbVpLX1ZOMXhsYXVUdTZPZVdUNzJ5enl6aTNZb0JXZFl3WkdyYzBrTEw4NGRObkNSaE9tLXY1cnE3WUNDLW1HR0NMajRNaFQzTGVEU016RnlMUC15a1dCODIxempQNDhZWWx1ZXg4SGRjQW93UEpBZW5XZWlsck1vQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784528386457",
+          "date": "2026-07-20",
+          "title": "Spain World Cup champions framed page print, how to buy Spain wall art - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFo1aURmMnRIdTNsQnBxVDA4NHEzR0JRUi1CcXV3R21ndjFkeW9SV2hCYWtFdlV6WndORmp0cUpzYkU4LVc3UlVBMnpOVXpPbGxOb0piVjh3Mnl3c0ppVXllUGNSUXhEaEdfNFN0ZTBQTHRBQl91WmFvbm1Da3c2SDJ1MWFGcUxIRmVYeFE4QWY4clZGZFlKWkZXQlpBTkM3VVI0ckZUQ2VqZFBtVi1iVTZpcXlucFJONGhpQkdyUkQ3Q2JEUHNORXZrR0Rmd25wcUc0MEczSWswdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12704,7 +12760,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 683,
+      "chapterCount": 686,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18168,6 +18224,30 @@
           "title": "What was Tom Cruise’s role in the 2026 FIFA World Cup Final closing ceremony? - bolavip.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzdkTjlKNy1LdFBIWThKcDk2aFNxbS1OUXdZN2VtZk9OTFFyN1FxMEplLVFqX29Yc1U0anRhZm43TGhybVVIUGxhR1RySEo2MXJWdzVWNjN4ZEpvVWxWNVMzYVVEMEZkMDRKeUxGVHk4Sm1IZXRLOEx5UW5BWmhMQ0xzUkJKRnd5TzhZVEV5QzV1RG1FWVpFUDJPcmVueFpSQ1h5NHJpT1Z5ZC110gGyAUFVX3lxTE5fdEQwMFZGN1lQTWlzbUwxWEFiejRuMjljV2FRbWZwcmJRdnJKNGhFZE1QMnQtbjZoa3pFanJwNFZXWDVRZHMyYzBCa0NjUEJPVGE1bm9BMUNJOEVFeGFCQ3FrcVdKYnNLcW9Cc2xMTVVCQzZ0a1dGRTNtUDRqM2VFMTFaYjlUNFVVekIwdWdUZnpOdEVsdUdUcUlzZmdWTUtqYnlZdmd6RG53Qk5Xdl8tUEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784528387827",
+          "date": "2026-07-20",
+          "title": "And The Best Players Of The 2026 World Cup Were... - Yahoo Sports UK",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRUlROTlHQVZzRG9WNlRmQVR1cFVubHduQXFxaDBWWmR6T0haa1hMM2JUcmVXNi1CNzNWZEduOFFnaFZsbkNLNV9sMUJhYUlEcFNJWFF0R3hWbFF3cWFTZGxjVlVLTUJFTWpYT1I5dGJLeXJ6SXI1eUlHbU9kNnhpUA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784528387827",
+          "date": "2026-07-20",
+          "title": "Prince Harry Duke of Sussex has some ideas on what England football needs to do to get to a FIFA World Cup Final - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0RiZWV2elkySE1ZeW1Gb191ZnRxdE1YMVliTG16SlJGdUtoS3JwZnd3aTE4NFRBVmJHYmg5dmRFSmxnQnRycmwtcEhoSHFwTWs2U1d3a00tUW5iY3NiblVtZFJ6dWpaYWp2Mlpn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784528387827",
+          "date": "2026-07-20",
+          "title": "World Cup 2026: US President Donald Trump claims tournament was 'greatest ever' - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44NWJ6WFJTYmZXZlJ6SlA3N18zeV9FNHMzZHlpWmNLRXEybzE4aFF3YmFETTZNNzRFZV90Y1FtMHFRdXlvV0N0bHRHZGt3YUFMbURjR2c0TDFvT09UbWg4RWVpWWNUU2s?oc=5",
           "draft": true
         }
       ]
