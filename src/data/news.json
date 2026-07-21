@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-21T02:40:06.720Z",
+  "lastUpdated": "2026-07-21T05:50:40.191Z",
   "articles": [
+    {
+      "id": "news-auto-10-things-that-wowed-us-at-the-2026-worl-2026-07-20",
+      "headline": "10 things that wowed us at the 2026 World Cup - NPR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-s-premier-league-trio-could-ha-2026-07-21",
+      "headline": "Argentina's Premier League Trio Could Have UK Visas Revoked Over World Cup Controversy: Report - NDTV Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU2UtdllwcU5xbmpZazJ1Q3FUZ3FyWWU2RDlOTjhUQjZWMWJGMng5eTR0SV9aZGpDS04zRTU2c0VYZzU3eEFFUmFHRDVsNGlIWUlpdUhYaWl0M0kzTG1iNTNiRHpQaFFOc1BxODZheFBfWmVJb1U1UWxGYTRwWGlYTG9Ncmp1aDFTSmtMSVhacFN5SjIzc09XYnRYN1c5bEpGZWxaZWFTX0Z",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-21",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU2UtdllwcU5xbmpZazJ1Q3FUZ3FyWWU2RDlOTjhUQjZWMWJGMng5eTR0SV9aZGpDS04zRTU2c0VYZzU3eEFFUmFHRDVsNGlIWUlpdUhYaWl0M0kzTG1iNTNiRHpQaFFOc1BxODZheFBfWmVJb1U1UWxGYTRwWGlYTG9Ncmp1aDFTSmtMSVhacFN5SjIzc09XYnRYN1c5bEpGZWxaZWFTX0ZvRjFlcF9zZnlhTER6Mm92MTlBRmZfMTJuNHl3VVJuUVhFVEpzZ0JlNG9RZ01tOVFaQXc1RlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-zlatan-s-greatest-moments-at-the-2026-fi-2026-07-21",
+      "headline": "Zlatan’s GREATEST Moments at the 2026 FIFA World Cup™ 🦁 - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hZjUzUHlWMFpkREFFR0Y0MlJfNXBNc1pJbUMzYzFYYnhRNll0SVBHMy1JQ1FWQ1hmSEhXajZhNGVZclctQTV4NXFFaHB2RGJhY3FMX0Z5eFhBTnJ5TkE4YXRR?oc=5\" target=\"_blank\"&gt;Zlatan’s GREATEST Moments at the 2026 FIFA World Cup™ 🦁&lt;/a&gt;&am",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-21",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hZjUzUHlWMFpkREFFR0Y0MlJfNXBNc1pJbUMzYzFYYnhRNll0SVBHMy1JQ1FWQ1hmSEhXajZhNGVZclctQTV4NXFFaHB2RGJhY3FMX0Z5eFhBTnJ5TkE4YXRR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-2026-world-cup-won-over-america-and--2026-07-20",
       "headline": "The 2026 World Cup won over America and proved the planet wrong - Yahoo Sports",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-where-to-go-for-world-cup-watch-parties--2026-07-18",
-      "headline": "Where to go for World Cup watch parties on championship weekend - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamNoS1RyS2VlQ0FmWWJNZFRxUUZrQ3VWRFhFY1gyUTIxRDZnZGxYM29ZX1M0aDNJRkdpTW1HYTU4UllDbDNrb01FdTZDeEpiYWVuM08xZ3lUa21LaS1qYlB6dU84cnRvT2hQbi13Yy1TQXhoRDNvUlJNdkFOWkF1bnlXZnhtMTRHYWJjaG9jM1hndjF1Q1lSVDRwbnNqa3JBcjBEY1dRVEv",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamNoS1RyS2VlQ0FmWWJNZFRxUUZrQ3VWRFhFY1gyUTIxRDZnZGxYM29ZX1M0aDNJRkdpTW1HYTU4UllDbDNrb01FdTZDeEpiYWVuM08xZ3lUa21LaS1qYlB6dU84cnRvT2hQbi13Yy1TQXhoRDNvUlJNdkFOWkF1bnlXZnhtMTRHYWJjaG9jM1hndjF1Q1lSVDRwbnNqa3JBcjBEY1dRVEvSAa4BQVVfeXFMTnJ6WW9GUjRVdV9CR3JVbWtodDhEYWM5YjNnRUxZNExyUDlQTTBQc3pfS1B4OTJ4VXIzVTNTRl9KWDJ5UnFRbnY1ZjNnVE5wSEhDak9JWHdZVEdhUzU0aVJnN1JzVGNoT1pkOGs1cklxUlV2bVpMazNEZGxMRnZuU2RkUUMwWWhNczVXQ2ZUbGRzZU9jaG5QbTlLVHhPd2ViWFdaNE95aW1WejdDaDlR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-in-kc-officially-ende-2026-07-17",
-      "headline": "The 2026 World Cup in KC officially ended Friday with one final England activity - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LRmxNQjJ2d2tudC1XMjk4elVwLVg4b0E1clZwb1RobEdSeVdhb0l6ZEhQamRoTk4tV25WbHN2VkNxZGdybTRzTDlFcndSaWxRbFVsTkx1cE9MSVhsNlI1WVhEdUJ5Vl9Ld2NpX3dJZF91Z05mNDRidU9R0gF6QVVfeXFMTUp4MFBqeFBwOTlJY3FPN1ZyX04ySW5kOE1ieWNTV1pMQW4zSEN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LRmxNQjJ2d2tudC1XMjk4elVwLVg4b0E1clZwb1RobEdSeVdhb0l6ZEhQamRoTk4tV25WbHN2VkNxZGdybTRzTDlFcndSaWxRbFVsTkx1cE9MSVhsNlI1WVhEdUJ5Vl9Ld2NpX3dJZF91Z05mNDRidU9R0gF6QVVfeXFMTUp4MFBqeFBwOTlJY3FPN1ZyX04ySW5kOE1ieWNTV1pMQW4zSENFdFQ4dDFqZTFIclN5d3NVcmVsVkpFbGlnZ2RZSmN4d3pDbWpfenpGaVNhclBtcWRzWExRaHMwQm9IbkUtRks3WFlTVmhtQWlWdFViOEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
-      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
       "featured": false,
       "draft": true
     }

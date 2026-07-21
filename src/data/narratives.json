@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-21T02:40:09.250Z",
+  "lastUpdated": "2026-07-21T05:50:42.867Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 280,
+      "chapterCount": 282,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2258,6 +2258,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTR2ME95czR4c19TM3Y4LUNnd3ZrbnRDLVRSQk9yZjdxY2Z3UEhSS2t6THdFRnZmT2tQS3ZUdXRPdEVzMkVmYUpmZUh2RFphdjkzemlkWGctM1BBQzU2Zi1STGE0b2N2Wml5Rm9NOEx3MnVzOHlfanRpcGktbmpyVG1KWVJGOXllYVZHeTNzVEo1WW9mZUFKRVJvVkp1SHhoRlRjallxX3VjT1ZmLWfSAbMBQVVfeXFMTnllb3V0cWo4ZjBTVmJsV0oxZ3o1Q2NobUNGMVRlS0xQamd3TjVhSVZJdHVYWnhFU1doLW1tN2sybTNkNGJYVW1oVnFacFB3RlFQNUpjY1lMdmFvbTVueDliY1c0bVlQcTg0Qk5LcWkwd3RseDlTT2F5OHVxTllLd012ZEJXVGxZckczRGprUjl4blZCLXFHVVRiY2REZW40Wk5kUzJhX3A5V0U5dWRWQm5LVzQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784613040641",
+          "date": "2026-07-21",
+          "title": "World Cup Golden Boot: Kylian Mbappé wins after Lionel Messi is held scoreless in final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenJjS1J6bkRSaWNaNmtiZU1PbWU0U3J3amdXNmN3N0tGYm9pdlVHa0M2VUNEOWZIWkxoNkoxSXRQQlpxZHZDdlZlU2JhaTV5RVdpMk9qd2lOQmRvOFhFZG5zb2c4ekdMbFNfT18ydXlXNGRQaXR2RERoRE1KQ01uRnNGQ2FsdmtHTGlLemlYQnBRMGQ5a09DQlZPOWVQeEl4Q21CcjZ3NU5wVTdLSkkwbTNiR0hWTk5qc2VXaHRxZmw5SzVPNXJhNjduVUpTNEZCajBRTm1XVDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784613040641",
+          "date": "2026-07-21",
+          "title": "Lionel Messi, Argentina and the challenge of moving on from a GOAT - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzg4cXRiMDNLdmZUaDlxZFBYZFhSQ3c1d1hmczFLMzMyWS0wcHJhZ0Z2SkZFaS16WktFU2ZfMnF6VzlVU0RxMW5peDlTRmkzZTE4X0xZR3U4WGlsaGJxdUR4YVB0WXJuZWNoZndzWk1yRTlvT2xVdVBZRmNZN05manEteTZuN2pleGRv?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4447,7 +4463,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 571,
+      "chapterCount": 572,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9016,6 +9032,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McWY3MTdjcUwwY0xTMkwxZmVCTDd4aWRCUUUtS3B6THJaZGRObVVTR1h4dHJuU1UzNnRRdXRyeHRLcl9kaTIxQjd2ZjZld1VNdmluc1V1algxcVJrUVpxamJaaVNWTkFXbHQ0QlpZX2RaSGhm?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784613041699",
+          "date": "2026-07-21",
+          "title": "Why USMNT fans paid thousands for a 'once-in-a-lifetime' World Cup experience - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtuUWRKcDE5YXBpSmdWVE9PdEp0MEtya1hyMEt2dkNfVGpCbVBuQjVpV0M3YUpHQVMwYXZBcFlJRk5EU3BOeTV6YklEbnJaS1oxZHVLRUhpR3VyUXdzWjl0bC1PdGJQZkcwSmtzd0tMZXhEZE1mSFFDX1NjSGg2cXZQaFBQVzEwcmZOWnA5cU01dUM4V1R5WkFfQkpHTTZLWlZJaG40NnlWZThBNE9IRnFLaWNDTEdIU3pzS0EwTGQ2eHQ3MjFmS2RB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12984,7 +13008,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 701,
+      "chapterCount": 702,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18592,6 +18616,14 @@
           "title": "Winners, losers from thrilling World Cup that silenced all of its doubts - New York Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDg3ODBkZVhobVBpcElVVkYwUXg5VklnWEptM0RaOHVEWHVKNEJkc0hKVktxc0ZDWDlyckR6YnRPVTU4bkhVNFNrT1JjaWNYaVZfMTlLZUotMFZSR3lBX0tYWmdZb1VJa3J4OFFRV0FScWtTRDdxV1o2eXN6UUxtV1Z5WWVqdGU3MUF4U2pHV3BDQXQ5SEQycW9YOUVfZnBUSDFMcTQwTXNURnR4Q0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784613042867",
+          "date": "2026-07-20",
+          "title": "World Cup 2026: Fifa opens investigation into Argentina post-final trouble - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OHJUWFh4MldHMEIxWE04MmZBREFDeDN5RzZDUmp5TVhiSHNGOUEzU3FWLUlyenBqRFJFRTRCdlF0Qy11S2hLMWJabHk3RUpRQVhmdjNjNFNHUFRaOVpWNnRYWl9sa00?oc=5",
           "draft": true
         }
       ]
