@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-21T05:50:42.867Z",
+  "lastUpdated": "2026-07-21T08:28:25.471Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 282,
+      "chapterCount": 283,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2274,6 +2274,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzg4cXRiMDNLdmZUaDlxZFBYZFhSQ3c1d1hmczFLMzMyWS0wcHJhZ0Z2SkZFaS16WktFU2ZfMnF6VzlVU0RxMW5peDlTRmkzZTE4X0xZR3U4WGlsaGJxdUR4YVB0WXJuZWNoZndzWk1yRTlvT2xVdVBZRmNZN05manEteTZuN2pleGRv?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784622503303",
+          "date": "2026-07-21",
+          "title": "Lionel Messi thanks Argentina fans: ‘Wound will take time to heal’ - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlFsaDlna1dqV1dmQW8tcWVsSWJNUVFvY3hwVm5Cano3NmpzR1Vmak9qb25fUFVmQVNvczVZU0l6NlA3TmlBMmlLODhnZF94VFZaYUpmX2k4MWh0NFBYQXozQktlRmI4eTVYc0JIY0MwTWo3VTVzcFR2SW5VcmtPYV95OTYtZHI3N3R6Rm04OHB1SnhwY0ZWQUtfamU4dE5lWGVEaHdGc09ZQXZ1X3c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4463,7 +4471,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 572,
+      "chapterCount": 573,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9040,6 +9048,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtuUWRKcDE5YXBpSmdWVE9PdEp0MEtya1hyMEt2dkNfVGpCbVBuQjVpV0M3YUpHQVMwYXZBcFlJRk5EU3BOeTV6YklEbnJaS1oxZHVLRUhpR3VyUXdzWjl0bC1PdGJQZkcwSmtzd0tMZXhEZE1mSFFDX1NjSGg2cXZQaFBQVzEwcmZOWnA5cU01dUM4V1R5WkFfQkpHTTZLWlZJaG40NnlWZThBNE9IRnFLaWNDTEdIU3pzS0EwTGQ2eHQ3MjFmS2RB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784622504173",
+          "date": "2026-07-21",
+          "title": "Grading the 2026 World Cup from Spain's A to Infantino's F - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13008,7 +13024,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 702,
+      "chapterCount": 705,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18624,6 +18640,30 @@
           "title": "World Cup 2026: Fifa opens investigation into Argentina post-final trouble - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94OHJUWFh4MldHMEIxWE04MmZBREFDeDN5RzZDUmp5TVhiSHNGOUEzU3FWLUlyenBqRFJFRTRCdlF0Qy11S2hLMWJabHk3RUpRQVhmdjNjNFNHUFRaOVpWNnRYWl9sa00?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784622505471",
+          "date": "2026-07-15",
+          "title": "England 1-2 Argentina: FIFA World Cup 2026 semifinal – as it happened - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVFDYTVacHdvWk5MaFVmc3pyUVZ2elJvbFU4SlJnR0NUQTdTVWJ6MjVXVi1Pd2EwWTRDLXFUWmh2SDFNQTYwUE0tc1JFRU5tLTFJYTRub2c4OWk5OHAycm5oNHZvX3g0ZjVidGVHZGkzTzRhX0dUQ1NBLVpqaHQtLWFkcmNaMlBvUjZLRUxyeUxMUk9ISUVwaGFLTUFDdDVZdzZpbjNxTmRmTnfSAbABQVVfeXFMUDVDaGJCd1ZfZzFsc1o5dW9mN0hWY2xSWlY2Yk55SkNOOGhUTVJsczcxdzlfMXpWNHpuQlhXQnE3cjlsazhxZWstVXdPbmg5Z096Ml9Wd3FiUGNuZ2YxVWdiMkxyaUJDYlZDcENJU24tSnhCaXp1S3M1QnlXb051eG45V19RU2p6bmJ3TXp0cnctZVdnRnlCSEttLVlzbnZwMDZIWUlLZV8tc1BidVBMV1I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784622505471",
+          "date": "2026-07-21",
+          "title": "The big World Cup 2026 quiz - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2tPdDRUNDRvSTlsdzRaWjB4cmRaSGNFQ1Y4M1JTcncyczFLbnZGOGZYNXFnX2ZONEs5REdITU5RZzh0ejdtNEFCNERtQXhyVlFGU1BXbG9OOVNrOWZoeUQxWktwZ2FRaHBWRUlWclZtRnZ1bjJXR2FEcXRra01TU0Nn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784622505471",
+          "date": "2026-07-20",
+          "title": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
           "draft": true
         }
       ]
