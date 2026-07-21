@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-21T16:22:35.411Z",
+  "lastUpdated": "2026-07-21T19:21:30.283Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 286,
+      "chapterCount": 288,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2306,6 +2306,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDRQZ2tMR1lyRlFiVjVMMjBlaV9nbWtQZHRUSmxSRHEtMU5uMi1ScGNiR3Vtd0Q4LTBkVDRfMFdzMmhtQmo2bUN4NkF0elpKSVVVUDQwcEJfeFplNko1UVptUzdFU2pmVWQxQTZiOS0wWm44STBzTEtXWXlwUGhFaDZKOVdTT2JTSTBidk0xUXlGajlfN3k5OGxMT3hubUZWbUJQRjNwbkl1Rlc2?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784661687957",
+          "date": "2026-07-20",
+          "title": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelQ4NTVqV1RwRDFwa09TX2theVRKUVZERzhUM042Tkk1dXZSQzBWZkhTT0FuN1FLSmVIRlVSRVNhcS1zYnJPUDF0ZWthblBhdUM3eXU4T3dHS2hLYk5EaGlmN19hUXRrQjAwZFhEeDIxRWNZN0FSLTFId2RmNWNDVnhDSnQzT0RkcGNDLU5RNW5pWnB2dTJMUGM3VTlOeHRHcExLVTlkbkk3d3hkaGdFUzloMUpkajZwWWY1WDlVUEd2NGZKeWxF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784661687957",
+          "date": "2026-07-20",
+          "title": "Lionel Messi Breaks Silence on Argentina’s Painful Finish in 2026 World Cup After Loss to Spain - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeklBZWpUbUx4Q00ydExsdHZVdHBMVnlKT2VaQjgyQVJVblhkRm1jR3I2NzA3QS11bXpvR3JrZFd6YW9zTmRWRndGSjQzNUpQS0Z5SmdsYWRVSHhhMjZWYVYwLVh0WGVRaDdCSnA1bDZmZWFpQ3ltX2s5T2w0R2ktV2lmdGZQSmw0MUJfTkoyWE5oOG14MDRaSUVHOVFmQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2324,7 +2340,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 271,
+      "chapterCount": 273,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4493,6 +4509,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPal9rd2duTFBOdVBpdWFhYkZBVDZtODlkSm9GdmlZS000SzZMeTdHelQwbXVkU1NJNDVkUTdiU29ZT05scUliZkNSWWhYNjJSTXlFVlhhXzVxNTRhU3V2ZHYwRFVfRmp5SjNPeWNMZkhTcTYxZnpwaF9ZdVNnNHRORFlOcUVkWGU3ck11UmE1d04tQzE1RW5TUnZB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784661688420",
+          "date": "2026-07-21",
+          "title": "El Paso boy walks out with Kylian Mbappé at 2026 World Cup - KTSM 9 News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbl9paFJxNGg1LVRoam9qVWJpUFRWem50RlNybGdmSzdVZU1qZUt5eXIzSUwzSGM0VGZLSFp3OWowSmtOVDBaZXZJVWdXSk5vaEYyX2tKeUVZZjFjbDRGLUQtNG96Ykd2WXc1R3d5S2liei1iVnd4dGVuOF9DUldXa2NjV2RtZm40SzE5MVpB0gGTAUFVX3lxTFBKamhCbWFMdVZpZjl1Y28wN1doQjdzWC1xRG5IZEc3UjRDdTlUWGxGQy1wcTVXa3hlX2h3TWRSbVV0ZVpZdVEtNkFQcGJ5ZUNGMUtwT19DUS1RZ2FVRTJRTjVwNzlKNUJHLW1EeGFOekI0UTFlTFM5SUJoMTBuZl9DQTZqVm92eHVwQWdJUEhaWTkyZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784661688420",
+          "date": "2026-07-21",
+          "title": "Kylian Mbappe Revealed as FC 27 Ultimate Edition Cover Star After Winning World Cup Golden Boot - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQW5abkstN01nMzZSSEJSU3lLYzFzZkY3MVROQkgydGdFZFhnZzlIQktUdEZER1JWQ3ctWW91aDZPQ180QUo0cUZaZUQ1MEdZeTM3R0pTQmpsb2xGUnF6TzVzZWJwOTROLXhjUlVlVHdpRTJHc3lDVzNvZ3pUeVZhVGZhVVBBbzVSdDZsUzcxUTRjMkJua1RlcElYSjlpckhqcm9GMmxoSUVqcElDLWN0TkdDN1VGdVBfS0FOcnpkMmZhSWFDM2RCdThETEpLMHp6R21B?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4511,7 +4543,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 577,
+      "chapterCount": 579,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9128,6 +9160,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWVGb01NVTQ1cVRKY0tCNHl1dUtOTVFXVHJtdHVUaTZ1Vl9SaUdhbVM3TDdlSHdZX2VzSkQzX1g0dm5YRlBGV2dWLWFUY1RpMVNkeTUxZFB4aGowbTVBRHpQa1laUExuQURvTThLM3MzWl9QaVFONzdKOFFVQUJvdGRVWFZmTmhRQ0I2aGcwS0g5dHhUanBMNy12U29WeG5Nb29fbDUtTHhiVm5YR2JMeWR4TllSSHZ2WktBaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784661688941",
+          "date": "2026-07-21",
+          "title": "In the US, the 2026 World Cup’s legacy will be an invitation to do it all again | Leander Schaerlaeckens - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd09mWFlFVnhmV05WMXI2ZE4zR0UtQnVYZktZQ0NBSXNSS3N1WElNbFFLeHVmbUFaVmVHTGVZLW5FSnI2TzZKMGJHSlYxUmxYQlJHalZ6X2FKUmpKLUJvMm1HVERDbUYyMzRqOWtrY2Q2QVh5NkxDbHV4dmlnQ182Z0QxM0NFRUpnZWFCTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784661688941",
+          "date": "2026-07-21",
+          "title": "2026 World Cup winners and losers: Spain dominated, while the U.S. crashed out in controversy - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXpPS2hFZlZnVmhCTWtHNFB6SmRpVE1CMDhEM2hFUXhrcXpZNkdadV93aDljYWhJVjhmUTVBRkZyMm1xWmZBMW50QnF5cjhKRWMwVUk4WUVmZVlobTlMVloza3IwT1YxQWFsNkZSTmg1QmphYlhoZXZYN1dBYmhmdEl2QkpZSXFEMmxnZWxRYmN4eXhuREFXY05OZ0NNR0N2ZlUtOTZWZ3AyZ3pNdVRpZ3VUTGlReWJmV1p4OWpYb1FtU0QxSGQycVRuUF9aT3dLajJjMjFOMTVPMUtB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13104,7 +13152,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 711,
+      "chapterCount": 712,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18792,6 +18840,14 @@
           "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics) - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHZFQ1h3NWFhdjgzdUlVUkpYdUJ6STFLaU1CdUxLRWs2Tnlrak5IWmwxU1lnSGxRazctbnJyb1FNOTBNV2h0UTN4VGsyUDJ0ajVaX2FBV2NuOFhKaFVUbmNLam9CRXFlb3NFSDEtN3BFWUpxVUoxd2NPclIzRFFBT29uR1F1QQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784661690283",
+          "date": "2026-07-20",
+          "title": "Bukayo Saka’s fiancée Tolami Benson turns heads in stunning World Cup photos - Yahoo",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUdMWjRoLVhqdHhDWVU5NDJRX2paQjVNQ2drR2ZHbzFRcWpKblVRcFpSWjlVUW5NV25rb3hYckJiWnNpVnhEZnE1Q1ItemdRSk1CVE5MZmh5M2F2MC1sRENrQ0Q1MnFYMUdfTXFRVzdBcnRNTXVKVEZnX1JOUTM1NFVuLTVma28yRnZLcU1BZFpNT3FocF9oVnFmaTI?oc=5",
           "draft": true
         }
       ]
