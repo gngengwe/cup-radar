@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-20T21:59:42.674Z",
+  "lastUpdated": "2026-07-21T02:40:09.250Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 279,
+      "chapterCount": 280,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2250,6 +2250,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWxLbG8weHJQZFhuZzNxQVVSLTA4ZmZ6YVFOR2Z2ZjVhUDN1SkhzbHJFSHpDSVBLcmwzYlJLb0l5TGtuWHVsM0tCbndCOWJkY2tsUFc4MG5yeDhKZnZDRk1VaDd6ZWRVcnhIeW00ckppWkRQNzktdTBaM3RQek1KOHZZNzJyMlZGX2tMTmJOY9IBlwFBVV95cUxOYldnX1dEb2RnVTI5YWdyZkVWZThRVDMtaE1vWG50NThUNEQwclVoSDFvaVhrTm1YTnloSENsRnVRdXpmQ2tvbC1sRGt2ZzhLdGxFekZVcEs5Sno3OXE2aTM1Q0pVWDRlelNFcGRvVE0zTG1vZTQ5YklzSlpNOGNNS2VERHZiWHdnN3d0Z0haTGttZWpWVURj?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784601607254",
+          "date": "2026-07-20",
+          "title": "Argentina, minus Messi, return home after World Cup final heartbreak - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTR2ME95czR4c19TM3Y4LUNnd3ZrbnRDLVRSQk9yZjdxY2Z3UEhSS2t6THdFRnZmT2tQS3ZUdXRPdEVzMkVmYUpmZUh2RFphdjkzemlkWGctM1BBQzU2Zi1STGE0b2N2Wml5Rm9NOEx3MnVzOHlfanRpcGktbmpyVG1KWVJGOXllYVZHeTNzVEo1WW9mZUFKRVJvVkp1SHhoRlRjallxX3VjT1ZmLWfSAbMBQVVfeXFMTnllb3V0cWo4ZjBTVmJsV0oxZ3o1Q2NobUNGMVRlS0xQamd3TjVhSVZJdHVYWnhFU1doLW1tN2sybTNkNGJYVW1oVnFacFB3RlFQNUpjY1lMdmFvbTVueDliY1c0bVlQcTg0Qk5LcWkwd3RseDlTT2F5OHVxTllLd012ZEJXVGxZckczRGprUjl4blZCLXFHVVRiY2REZW40Wk5kUzJhX3A5V0U5dWRWQm5LVzQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4439,7 +4447,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 569,
+      "chapterCount": 571,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -8992,6 +9000,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajdYdEJoUjNoWUJJTWY3Y0dIaVN3blZVLVJncVVZV3pGRlI1WFd3T0pONHQ1czRzQnZmTm40SWs0OXhGaXF1ZWNJeU9paEgyV1NjTDNXRmFsWGVwV2NvanA5VDNkRWQ4ZGdOcmRyaUxyRGZGVjBSRTZIN1FycGYyb0l0b0FkamRyMEZubGdfTTQzVDR6emc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784601608291",
+          "date": "2026-07-20",
+          "title": "The 2026 World Cup won over America and proved the planet wrong - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGU3VVh1N2l4Vm15Wl9hbks2WVlNZWxIRDZnZDJNdG56TGFUVXAySHFxcWw1Ulk1N3UzVUFzSXAwU053UFBvLUhhWWY0VE0yekRHYjc4dERfRk5sTlpqSUg1anRWV1ZIWGwwd0MxWndPUjNBVFNtcU5kOUJMR3NTelpocEtOdXpDM3lNRnJDdlFzZkY1ZE1FTU5PNnU3VHVsV1B3XzNNTlRTYWVXLUtibjZ0bTc1MzcxcHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784601608291",
+          "date": "2026-07-20",
+          "title": "Was the World Cup worth it? - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McWY3MTdjcUwwY0xTMkwxZmVCTDd4aWRCUUUtS3B6THJaZGRObVVTR1h4dHJuU1UzNnRRdXRyeHRLcl9kaTIxQjd2ZjZld1VNdmluc1V1algxcVJrUVpxamJaaVNWTkFXbHQ0QlpZX2RaSGhm?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9010,7 +9034,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 464,
+      "chapterCount": 465,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -12723,6 +12747,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTJYREd5UmdaQV95UkZJUXVRTW5ZV1lvSW5VUnJ6Yzhta2Z1T3RscDhYRmwyeERfNnp5OVRGV2c3cDExM0I3ak1BdU5XajY0TEhPdndpWE5na2JlYWpMTDRyUkNfQWFxTVhJZHBZVkV5M0FOUC10RFlURHF4VkZYaWprZDRCUHRjUHhMak1GYVpScExZRzlDR2s5cXRmeFJOZVpWQ3c1blhfWEtDVnh5Uw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1784601608739",
+          "date": "2026-07-20",
+          "title": "📅 Football calendar in Brazil and worldwide after the 2026 World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk5YWlJOeGtxdUJmUFlSYmQ1QTRBd3NuNG1JVWlRcG5Nb1cwc1Bubjk5aXpMemdnUHlUZG5YQ29RWFFlV3VDMFV6eE1Kcm1QckJJSlNfeWxhcEwwel9EV0NuNUtOSEpPSEcwcEstNUNIek9wcGtadkpvRGhSUjJMbG1Jd0JLdEFvc2xpS3dvSkZiQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12952,7 +12984,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 698,
+      "chapterCount": 701,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18536,6 +18568,30 @@
           "title": "England World Cup ratings: Bellingham silences doubters with elite performances - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG1LTFBnQUp0eVNwRnZXay04UEFJeTNDOGVlUGoyMTd1U0VIUVlJT0E1RFRoalhrSGhfOExGY2tlLTVqNTRxTzJpckc4cHhrZ1ZnWnhQN0ZlckZ5b1dVUkhDTmNmSEtrYnZyVEZpLW4wMDlFdS1SX1NUcFhsZkhyOHZtTng1REROOVR1UzUycGVqWFU5SlM1R21SY1c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784601609250",
+          "date": "2026-07-18",
+          "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYVh3MVh1TFEyX2xmczJKWVowR0o3QUxrZzByWFZsMUhQVzFVVUc2cUx2M0J5YUtnRkNpblhCMF9sOUdOWGozcHFZXzBQeW01d25DS2c4MXhFTWpsQ3BBQ3NqNlRHSXBYOU1SNk14UE9JczVnU0xTdWtIMk10R0dTbFA4aFRENGFSQTVsTDVTWFNHM0VZb3liT3RRdVE0WEZNOUVEZk9EQmlIUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784601609250",
+          "date": "2026-07-19",
+          "title": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784601609250",
+          "date": "2026-07-21",
+          "title": "Winners, losers from thrilling World Cup that silenced all of its doubts - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDg3ODBkZVhobVBpcElVVkYwUXg5VklnWEptM0RaOHVEWHVKNEJkc0hKVktxc0ZDWDlyckR6YnRPVTU4bkhVNFNrT1JjaWNYaVZfMTlLZUotMFZSR3lBX0tYWmdZb1VJa3J4OFFRV0FScWtTRDdxV1o2eXN6UUxtV1Z5WWVqdGU3MUF4U2pHV3BDQXQ5SEQycW9YOUVfZnBUSDFMcTQwTXNURnR4Q0E?oc=5",
           "draft": true
         }
       ]
