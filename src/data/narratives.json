@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-21T11:07:58.732Z",
+  "lastUpdated": "2026-07-21T13:49:14.381Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 284,
+      "chapterCount": 285,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2290,6 +2290,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlFsaDlna1dqV1dmQW8tcWVsSWJNUVFvY3hwVm5Cano3NmpzR1Vmak9qb25fUFVmQVNvczVZU0l6NlA3TmlBMmlLODhnZF94VFZaYUpmX2k4MWh0NFBYQXozQktlRmI4eTVYc0JIY0MwTWo3VTVzcFR2SW5VcmtPYV95OTYtZHI3N3R6Rm04OHB1SnhwY0ZWQUtfamU4dE5lWGVEaHdGc09ZQXZ1X3fSAbMBQVVfeXFMUHNMdnhSMXZLWmdRdlFZTE95VnV6c1A1ZkI2am91YjNpYmduVmhoT0RpQ29USVJFaGFDeW1HYWtPQUtoMVlPWnlIVE5Zb3dOVDllVl9VVUY0b3o1bFhjTXFuaGQ5dGZnWW5LVV9vV0Z5R0xGUXM4QnJwLXVxVTNiQklnUTVXeThjWk1uUmxWQVgzbE5WWHF1aHBNejJjcHprcXFxS0Y1cjhwdUpZSGgzM0hSbjg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784641752311",
+          "date": "2026-07-20",
+          "title": "Lessons from Argentina’s World Cup Run: News Article - Independent Institute",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXZwNkNnMDRLVlFtNkNjdkFBRTJUVVRIYm02TEh3bVB1QVBFQVYxdWtRekNwMWRDdUxlOExMNHRwMmQxdmNBOWtKTXVuZ0hMNmE1ZzhXM3czS0JxU3VZdy1VdVotSmpUNVBQbVF4Ykp5dktEZVZTVU55VGRxNGoza3lRWjlZWlhIcnVuVV9n?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2308,7 +2316,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 270,
+      "chapterCount": 271,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4469,6 +4477,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFRPVlFhVjk2U1NCeXVzWnR6WWNBdlBDUWxjd2hmMDk2ZEF3aEJqRzFFMW80ZE4yN05BT3FtUHA2NTRnU3hlcHFrZWJfQ1ZPdXUweTFac0FxS0NmekVWaFRGZUFVenFXVTIweDV4TWxZWUdVUUMxV0puTnNlT1lxN3Y2eDZhQjUzdmtKVkllTWF4YnZFaXp2UVFYejRobXVJOUE2SmlpdTN3YUhHZEw4bi1yVTZ2anU3YjBmYmhEc3pvLVZ4SzYxTU5oNDJ4UdIB0wFBVV95cUxQSjNjLVo0dC01R3VKS0FoS004TXU3NHF1SHB3elVqbDhaZlIxQ2xrQWg0SkN3ZV9XMjJ1ZS1PcDY0OVFnbTF5UXpBME5YZWVQS2E1cVNuU1BhLW15MmZ0UW1xM0F1UGxCMHBVQ0NWcmI5ZElVWTlONXowMmtSQVFoUi1nTlluYnhMallYdnFydUQ4Um5CY1FScV9YRW1VV29HVzdrXzZQcmhxRk92aVRnS2EwTWhjTG1PUW9qMDlTRVZ1WG5CNi1rTWQySmxVaG9BSzIw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784641752841",
+          "date": "2026-07-18",
+          "title": "Kylian Mbappé leads Golden Boot race and is now all-time FIFA World Cup top scorer, but France lose 6-4 to England in third-place play-off thriller - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPal9rd2duTFBOdVBpdWFhYkZBVDZtODlkSm9GdmlZS000SzZMeTdHelQwbXVkU1NJNDVkUTdiU29ZT05scUliZkNSWWhYNjJSTXlFVlhhXzVxNTRhU3V2ZHYwRFVfRmp5SjNPeWNMZkhTcTYxZnpwaF9ZdVNnNHRORFlOcUVkWGU3ck11UmE1d04tQzE1RW5TUnZB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4487,7 +4503,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 573,
+      "chapterCount": 575,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9072,6 +9088,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784641753342",
+          "date": "2026-07-20",
+          "title": "Ranking the 2026 World Cup's best viral moments, from Merlin the Duck to the Viking Row - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXkzWjdNQzUxdGQtMXRYdWNUS0Q4SFpoX1ZRallRd2VLQkR4TmsxM19JOV8tLWFNS0ZMYWJHc3QzRUUwT2pZM2R4VWdJTHdKY2tYd3RVenBzZHFhdEhROWZvdHNJRlIwOUh0Q0hRblVYTnRpSmxRcnM3UUViMHdOQ2ZQSGNUbjNOVXRRZ2M0MWJubFVhVlNzNi1ZNE1zdkd1VlY4SWFwQVhLNHFsa29mcWlpcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784641753342",
+          "date": "2026-07-20",
+          "title": "Why Beckham was face of World Cup in the US - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03Y1hWTmZuWG5qM1BaaDRwd0w1QjdxcHlnU2E4UmY4bzJ5cVpRRGFEMmFybmpNRnJPWUxOck0xZHBTbERRbF9mZ3d0U1gwcFBfbUJ3UkxxaFhSRDgybnBkOFdVNndJUVk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13040,7 +13072,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 707,
+      "chapterCount": 709,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18696,6 +18728,22 @@
           "title": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards? - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZFRPVlFhVjk2U1NCeXVzWnR6WWNBdlBDUWxjd2hmMDk2ZEF3aEJqRzFFMW80ZE4yN05BT3FtUHA2NTRnU3hlcHFrZWJfQ1ZPdXUweTFac0FxS0NmekVWaFRGZUFVenFXVTIweDV4TWxZWUdVUUMxV0puTnNlT1lxN3Y2eDZhQjUzdmtKVkllTWF4YnZFaXp2UVFYejRobXVJOUE2SmlpdTN3YUhHZEw4bi1yVTZ2anU3YjBmYmhEc3pvLVZ4SzYxTU5oNDJ4UdIB0wFBVV95cUxQSjNjLVo0dC01R3VKS0FoS004TXU3NHF1SHB3elVqbDhaZlIxQ2xrQWg0SkN3ZV9XMjJ1ZS1PcDY0OVFnbTF5UXpBME5YZWVQS2E1cVNuU1BhLW15MmZ0UW1xM0F1UGxCMHBVQ0NWcmI5ZElVWTlONXowMmtSQVFoUi1nTlluYnhMallYdnFydUQ4Um5CY1FScV9YRW1VV29HVzdrXzZQcmhxRk92aVRnS2EwTWhjTG1PUW9qMDlTRVZ1WG5CNi1rTWQySmxVaG9BSzIw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784641754381",
+          "date": "2026-07-21",
+          "title": "The Americanisation of football is complete — and there’s no going back - The Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0syNThxMmFjai1WdXIxOFcxbzBmUzVDSVh0b0pwLUh0RjZsWmxCb1FLTm5FWlZ0a3k1NFZwSjlQUHBvb3NTV2FVOGFtc0dMUHIwVWFVMkhKRkhmM2ZSQy1mVnFzYmp1Vjk3QjZMaEFjSWNXcUhZQVA0V29aVEFQbXdPNEJIZHphSHF3aHlUS3VBLWJ3V0dRNmdPUGU5Q0U4VFdIVmM3bnRtNklxdEo4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784641754381",
+          "date": "2026-07-21",
+          "title": "Who is favourite to win the Ballon d’Or? Top 10 favourites for 2026 award - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWEdjQ2VZSnA2c29Kd3poSFExNkhaMGY0T3FYamFuREthdHlCbkliXzZ0ZldsUVdaUnh4NEczOG5IUUpNSG44V2phcEdmRVBoYUNNRzVlVUVleW1xc0ZsTEk0VmVOZVJyRllNc1duYjg5ZGpWZzdtRkhqZ1ZVT1RiTDZucnlSTUpLdzJMMkQzeU5OaWhkc0hMeWdPZFVZV1pJV0JOdjgtRDFsVXVVYVJCMmJSNWNwbFdpYkhTVDlZV1dzQm1zWkZ6T3BoVV8?oc=5",
           "draft": true
         }
       ]
