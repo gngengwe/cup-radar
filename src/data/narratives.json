@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-22T08:28:57.228Z",
+  "lastUpdated": "2026-07-22T11:09:41.464Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 289,
+      "chapterCount": 290,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2330,6 +2330,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xNEtpV2U4R0FHX2tQaW1MYkpVcGhqamJqbkxfNDZlbjN3TDZ4eXRvWmhjTmtROWoxcHE2VUN6MW1zZEx6bFRqOVJZZDFJX3JpQWhzY3Z5cm42S0Y5b25BZ0psV2sxanM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784718579602",
+          "date": "2026-07-20",
+          "title": "Lionel Messi Reacts to Argentina's 2026 FIFA World Cup Final Loss to Spain - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjVULWR1X1hVNzZDR3g0eUtTODlSWERaT0FWYm9TRXJBNmtNT0xVMm1QQUtieVlaWEtwOC1FR2lFSkZxUDJSTUl1Z2xSUnZ5dnNGeGpyTTdEdHdmTXBvdWJYbnFUajREb1kwZXlmRDUtR3JYV1V2RFZ1TmdnY2otbVlRcmFXRVRCeklSV2FQcnVidWdhYkxqZV93b2pLVlI3YzZQMUlsNGpDWUJ4QTZORkVn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2348,7 +2356,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 273,
+      "chapterCount": 275,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4533,6 +4541,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQW5abkstN01nMzZSSEJSU3lLYzFzZkY3MVROQkgydGdFZFhnZzlIQktUdEZER1JWQ3ctWW91aDZPQ180QUo0cUZaZUQ1MEdZeTM3R0pTQmpsb2xGUnF6TzVzZWJwOTROLXhjUlVlVHdpRTJHc3lDVzNvZ3pUeVZhVGZhVVBBbzVSdDZsUzcxUTRjMkJua1RlcElYSjlpckhqcm9GMmxoSUVqcElDLWN0TkdDN1VGdVBfS0FOcnpkMmZhSWFDM2RCdThETEpLMHp6R21B?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784718580071",
+          "date": "2026-07-19",
+          "title": "World Cup 2026: France's Mbappé becomes all-time tournament goalscorer - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmNRV1lXLVlRWFBuUFdiMjhaUGt4cFdlZEUxRkxQVU90YVhWT1dsRnVCWDhma0taR1hoLTNYbG1LSFU4R29TZV9janVmZkF6Sl9wWkM4Y1NVV1ZyUS11d2RiUnV5RE1fLXk2cUdobXJPemVxb0ZvbUdDRzFjQmdiejA2MWJITlBKWjdoRXhpUFJ3bUpITl9vYjN4ZmU0bGpIeFdVZnNYMTkzZ3ZpQnR4N2U0cmg1T1I1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784718580071",
+          "date": "2026-07-19",
+          "title": "FIFA World Cup 2026 | France star Kylian Mbappe breaks World Cup career goals mark - Deccan Herald",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGxQcVhQTkdrUXBtU0Y3eV9aUDJLWm9nRnhXYXhEbTNyUkRtcnF1NE9kMzFUbjhIaVJUY3NSbHZZVjV1RmdlZ1N3bUdnRlFSZVRMd3Jtc2FnNmw2Y0FlZHZQUnI3eTVrZWlTUV9tbXJGRW1OM0dHSi10UUFRQ0w1QzZuV21qTzBHbzNiWVRxV2xocVNWTzRNZEFtcUFBVEFvekprOGkzMmRxUlFNMFBUeVp0S0lEQTdaTUh4aFNaclR0NzNmNDR1NGNEOHlBQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4551,7 +4575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 583,
+      "chapterCount": 584,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9216,6 +9240,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUFVWVl0RzczZXEtR3lrbDF4M3NMTXVIRUEyY1ZVbDJsR05iN1pYdE1tWUxldWxPaGxyYV9IQ3UwcUhNcVlQYjRYZk9ya25icFRKY3h5LW1tcUlSRlRuRTdKNnF2Q2g4S1BJSWRvN2twQzJJNzhmMFlBckVPTmZOSWs4ODJJUmk3ajIxOGRITndaRHczOW9xN1U3LXQzTkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784718580526",
+          "date": "2026-07-21",
+          "title": "The USMNT made a positive impact on soccer in the US at this 2026 FIFA World Cup 🇺🇸 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Q1lHZTBwUXA3Rk5SMDd2MDNLQmtzUXRKbzlJMEtKQm5rR0w2OFA3SEVxcW9uNmdTRDNua0xJeGQ5QjVUaDFXQk5Ec0Jpdmtpb2Zxd1Q0TUdqT1otN0hKVl9JVnM2MFJSUnBwNVlR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13192,7 +13224,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 715,
+      "chapterCount": 716,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18912,6 +18944,14 @@
           "title": "World Cup musings: Argentina let down Messi; England have regressed - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpWN040b3dSY2J1YlhQZmVaSTV1MENwdHRDTmVTN1RmVmF1SXE0bXpLVURYRm1wREwyY0xMWXozc3pjN0xIOGhaYkV2YmlxcnZucDJwaU5LY2VaYU1DVTRhaEJ2OWZBRy14aWpINGx2eHBDUmc1NENwZkhTcmxFdHVSdGk0aUIzbG1UUlFrSVhZQTVxdTNSNUJCSlBJMFVfX2ZsSnpB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784718581464",
+          "date": "2026-07-22",
+          "title": "Revealed: How much David Beckham earned from 2026 World Cup - with Man Utd & England legend enhancing billion-pound net worth - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWVSTXhqdUhPYU5ZVVAyUWJZWFR1bWxFX290ZDJ4eWZWa3ljbS1ESVlsei01RERfaDUwRnhzR2xjNFFIeTg4b01TTGdtUjRER0gyTWo5azRza08zdF8wTWctY0RhWTZLdzhybURkaUgtZFRVTXR4LTdNdEYyQi1MNjBGMDF2N2FtMnVV?oc=5",
           "draft": true
         }
       ]
