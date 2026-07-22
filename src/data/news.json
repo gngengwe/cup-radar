@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-22T19:18:50.910Z",
+  "lastUpdated": "2026-07-22T22:03:02.827Z",
   "articles": [
+    {
+      "id": "news-auto-over-23-million-petition-demands-argenti-2026-07-22",
+      "headline": "Over 23 million... Petition demands Argentina's lifetime expulsion from the World Cup - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTJmN3hIcVNraFZCMERRZzJObm92b0hpUUFMU3Rmd1d3QTB3SjhNM20xTnhmUk1nQVhZU2I0dDRJVk9nQWlRUlh0VGVmbjgtZ25WSy1QY1RDY2k4WXU0U01fb24zVVVYNVNKZEFSTTd2c3ZnSE1qRXdyME1Ba1pRQmQxOWRtLVFtbjBPZFNPUWRRU2x5NGh4Y3haT3pTYXBOc1ZpbFlPYi0",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTJmN3hIcVNraFZCMERRZzJObm92b0hpUUFMU3Rmd1d3QTB3SjhNM20xTnhmUk1nQVhZU2I0dDRJVk9nQWlRUlh0VGVmbjgtZ25WSy1QY1RDY2k4WXU0U01fb24zVVVYNVNKZEFSTTd2c3ZnSE1qRXdyME1Ba1pRQmQxOWRtLVFtbjBPZFNPUWRRU2x5NGh4Y3haT3pTYXBOc1ZpbFlPYi05bHRnSnJVejQ1bzRKN19vZ3lFX01VTWc4MzJmU2x2X1RsZ1JhcnczUkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-by-the-record-breakin-2026-07-22",
+      "headline": "The 2026 World Cup by the Record-Breaking TV Numbers - The Hollywood Reporter",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFtQW9QbnB6dTB3bzhSQUVrZjBkZHp6Q3ZGd0VQY2p1QmdBYzJoTVlFR1BzWmNtTDktZ19ER3lnTHlTTmdJYnRtYlR1OUpLbUlzT3I0TWVkZjFoV1VCWHdIb0lQMnJXSTRoc09tUllNNG1KSGxfWGZ1UDB3UERKbndlM3BES0UtekFmS3VUU3dFVGhTNWFZ?oc=5\" target=\"_blank\"&",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjFtQW9QbnB6dTB3bzhSQUVrZjBkZHp6Q3ZGd0VQY2p1QmdBYzJoTVlFR1BzWmNtTDktZ19ER3lnTHlTTmdJYnRtYlR1OUpLbUlzT3I0TWVkZjFoV1VCWHdIb0lQMnJXSTRoc09tUllNNG1KSGxfWGZ1UDB3UERKbndlM3BES0UtekFmS3VUU3dFVGhTNWFZ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-schedule-groups-host-citi-2026-06-11",
+      "headline": "World Cup 2026: Schedule, groups, host cities and more - ABC News - Breaking News, Latest News and Videos",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3EwcVFNanVzeDh0b2szQ3NJUUNHeUlMWEc2M0JaS2I0ZFFZTmw4cDRvcHBDTnBwam51WkRiOEFBeDN4Y2dGNG1zLUJodHk4VkJheVN5U0t6ZkV5MnFGZGpRNm9ScklVT3c5U09yazN3UVREb3BXRzduU0hzck5BdVN0TEJrOUlCYVZjU2taRlVFS2RzSFHSAZsBQVVfeXFMTzlCVDhVVVF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3EwcVFNanVzeDh0b2szQ3NJUUNHeUlMWEc2M0JaS2I0ZFFZTmw4cDRvcHBDTnBwam51WkRiOEFBeDN4Y2dGNG1zLUJodHk4VkJheVN5U0t6ZkV5MnFGZGpRNm9ScklVT3c5U09yazN3UVREb3BXRzduU0hzck5BdVN0TEJrOUlCYVZjU2taRlVFS2RzSFHSAZsBQVVfeXFMTzlCVDhVVVFBNWZwUGI1MVVXVU82ZGV4UmlhY1JKaXptMzVOdDNxZU1WWHg4MFNXbXBWUi1rNU9TX2tyemlQd2tpSjJNQnl2bmIzRk90RXRPZ3dsekc0Yjc0RE5laTBfNURyd0tXOGdLUTFXMng3VWRUWlk1MnAtU0NQN0h2R3VkVzlTMFZWT0tHNzJ1eS1kQ05XX2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-world-cup-final-soccer-ball-delivere-2026-07-22",
       "headline": "The World Cup Final Soccer Ball Delivered by Timothée Chalamet Is Now Available to Buy Online - Rolling Stone",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1ZvSDJnVTFKUnd0T2d6cE5pNWI1NWJ2OVQ1RXJsd3V5NVNZYUFEajdSMng0ZFV1OEY1WVBWVTlSaGhsXzN3UjdBZEJkd0FIN0k4RFNmOUJZdEwtaFltWnpGbHcxUVYwM3pWdEVKbVYyU1hscE9JTmJzN2pLbXZhelNVWE1GdlZoakxiU01Ed2NKTFhUdzdhTFdFbzFRb1l3LUhyeTNqeFVYaXZLZHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-messi-says-pain-is-immense-after-losing--2026-07-20",
-      "headline": "Messi says 'pain is immense' after losing World Cup final - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJV1FiV2g2UzFNZDhRZC1QeXRGNTdYS0c0RGFoWkc2amdGck9tX0JGR3QwcWhBdXEza2M3QXBESXpmVFBhLWNadEMydVVkS01fS2IxdzJSWVVmSFVpV1Z2dWtaWnk1MlE?oc=5\" target=\"_blank\"&gt;Messi says 'pain is immense' after losing World Cup final&lt;/",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJV1FiV2g2UzFNZDhRZC1QeXRGNTdYS0c0RGFoWkc2amdGck9tX0JGR3QwcWhBdXEza2M3QXBESXpmVFBhLWNadEMydVVkS01fS2IxdzJSWVVmSFVpV1Z2dWtaWnk1MlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-verdicts-best-and-worst-teams--2026-07-20",
-      "headline": "World Cup verdicts: Best and worst teams, favourite moments and who will win in 2030? - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1dSZ2s5VkRFaVZDbkN4ZkxkdEdnckV4LVhNZFV5VV9pcUN1R2ZJZG9FcG4zR29uR1hsNTVXekpEckU2eDh1M3hzWGlZVmJZSW5tOF9na2xUOE11TjFBN0hFZk1lYlJ3cnUwcjFJUFl1Z0pieldRYWlqMFhPYWlaREJkV29EVkpHLUZOYUpDVll3NUh3?oc=5\" target=\"_blank\"&gt;W",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1dSZ2s5VkRFaVZDbkN4ZkxkdEdnckV4LVhNZFV5VV9pcUN1R2ZJZG9FcG4zR29uR1hsNTVXekpEckU2eDh1M3hzWGlZVmJZSW5tOF9na2xUOE11TjFBN0hFZk1lYlJ3cnUwcjFJUFl1Z0pieldRYWlqMFhPYWlaREJkV29EVkpHLUZOYUpDVll3NUh3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-06",
-      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-hands-us-economy-20b-boost-wit-2026-07-20",
-      "headline": "World Cup hands US economy $20B boost -- with host cities like Kansas City, Philly cashing in big, BofA says - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWppVC1KU0N6ZkZycUhpSkFTRXNCWHM0dzJWSjd3UFdYSXRUZ1NBODFkdEpnMHA2Tko0Zw?oc=5",
       "featured": false,
       "draft": true
     }
