@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-22T11:09:41.464Z",
+  "lastUpdated": "2026-07-22T13:52:53.042Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 290,
+      "chapterCount": 291,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2338,6 +2338,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjVULWR1X1hVNzZDR3g0eUtTODlSWERaT0FWYm9TRXJBNmtNT0xVMm1QQUtieVlaWEtwOC1FR2lFSkZxUDJSTUl1Z2xSUnZ5dnNGeGpyTTdEdHdmTXBvdWJYbnFUajREb1kwZXlmRDUtR3JYV1V2RFZ1TmdnY2otbVlRcmFXRVRCeklSV2FQcnVidWdhYkxqZV93b2pLVlI3YzZQMUlsNGpDWUJ4QTZORkVn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784728370676",
+          "date": "2026-07-20",
+          "title": "Spain suffocates Lionel Messi and Argentina, wins World Cup on Ferran Torres' extra-time winner - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlI1d25HRmdzTWxzcm04ZUFMamxXTWJ4RmFwcEs2LUJtSG5QRVRsaWpiM3FmMnNVNFZ4cUNfczlfcVI3NTU4MnhvbmowdjhWNmZpYmFkNGJ6SDRGd2ZMOFVDSEx2RlEwWXVTc24zYTZYM3QycnZyR25tZ1BOMy0yaVBhUXJGb2JuU0gwWTloQURPci1SZnRQM1RIMDNZVl9rb0wtNUR0QmRJODgzbTNxRml2MHg5TEQ1?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4575,7 +4583,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 584,
+      "chapterCount": 585,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9248,6 +9256,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Q1lHZTBwUXA3Rk5SMDd2MDNLQmtzUXRKbzlJMEtKQm5rR0w2OFA3SEVxcW9uNmdTRDNua0xJeGQ5QjVUaDFXQk5Ec0Jpdmtpb2Zxd1Q0TUdqT1otN0hKVl9JVnM2MFJSUnBwNVlR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784728371615",
+          "date": "2026-07-22",
+          "title": "World Cup final draws record 62.8M U.S. viewers - Axios",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pQ21aOGZpU2VGNE9LMnFmTzQtRDZNa0FERWxpYU1fVERCLVFJMTdyaWF3bFdLOWdkRWZSSl8xUDNqMmVlcFhHX1RvVkRFQlIxQUdtalo3UmhiU0JGeTN4MG9GTzBveFluRm1yVVRfQy03QkhP?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13224,7 +13240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 716,
+      "chapterCount": 717,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18952,6 +18968,14 @@
           "title": "Revealed: How much David Beckham earned from 2026 World Cup - with Man Utd & England legend enhancing billion-pound net worth - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWVSTXhqdUhPYU5ZVVAyUWJZWFR1bWxFX290ZDJ4eWZWa3ljbS1ESVlsei01RERfaDUwRnhzR2xjNFFIeTg4b01TTGdtUjRER0gyTWo5azRza08zdF8wTWctY0RhWTZLdzhybURkaUgtZFRVTXR4LTdNdEYyQi1MNjBGMDF2N2FtMnVV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784728373042",
+          "date": "2026-07-22",
+          "title": "Revealed: How much David Beckham earned from 2026 World Cup - with Man Utd & England legend enhancing billion-pound net worth - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckFnRDNQSTZScmlvLVZjRmgzQXFrbVpoR1RTNV93T09mV1RuWnVnQXAyREFHanROd1dveTZYVXBEY0xYOXdnVW9WQTJfSjlndHJQWUN6cWE0MDhzeE8zMHZTSndWWm1hZHUzU0R4ak96TlJPMktvVlg1NEdjMlF0TmJLVmI5LWhLYjdIY0VVVXBjZWlYRlFENy02T2x5NUVFYVhpZ1FKRnJQX3o4RXhDZ0N3Q3hKWTRPaVZqN0xEVlc?oc=5",
           "draft": true
         }
       ]
