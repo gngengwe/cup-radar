@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-22T05:50:22.049Z",
+  "lastUpdated": "2026-07-22T08:28:57.228Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13192,7 +13192,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 714,
+      "chapterCount": 715,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -18904,6 +18904,14 @@
           "title": "World Cup 2026: Spain v Argentina final buildup, security stepped up with Trump attendance – as it happened - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdnBYNGlONnJiTnp5TnJPWHVEQWlKMjNMSjA4aUc2dUZfa3RZeExJMFgzWGlKbnJHWWdDUGZEbC1EMVJuTDV6R3BFQkowMXpFMXhkemJ3cFpJQnl5ZlVURTBxNUxhck5tZ1VMSUR6d0FabWtFbVVkajZZWXZ2XzhzRW9ULXVkMlZkVTdIdkxkeHZ4YUZGU1lLU3dUM2R1QmpvNzZ0dDVxdEJPQ1BmQ2FwbENjeE8xSFJpem9iU09TbmlBWXFEQ3oxMmhCblFfakNGclhMRzhPX3VhVkJDZUI4Z2RibzNCRVprZExJcWZSZHY3anh0WmxjX04wVzI3SVloRDhNb1dtVV8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784708937228",
+          "date": "2026-07-22",
+          "title": "World Cup musings: Argentina let down Messi; England have regressed - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpWN040b3dSY2J1YlhQZmVaSTV1MENwdHRDTmVTN1RmVmF1SXE0bXpLVURYRm1wREwyY0xMWXozc3pjN0xIOGhaYkV2YmlxcnZucDJwaU5LY2VaYU1DVTRhaEJ2OWZBRy14aWpINGx2eHBDUmc1NENwZkhTcmxFdHVSdGk0aUIzbG1UUlFrSVhZQTVxdTNSNUJCSlBJMFVfX2ZsSnpB?oc=5",
           "draft": true
         }
       ]
