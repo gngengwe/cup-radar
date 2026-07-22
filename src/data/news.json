@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-22T13:52:50.183Z",
+  "lastUpdated": "2026-07-22T16:19:31.235Z",
   "articles": [
+    {
+      "id": "news-auto-gayle-king-brushes-off-style-critics-of--2026-07-22",
+      "headline": "Gayle King brushes off style critics of her ‘frumpy’ and ‘boring’ World Cup 2026 outfit - Page Six",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZllzSjBNeDVIRml4WlFvLXBxVUhRREZicUEyeFJkZFp1QldrbzVvNk9jdGFSaHVGcFVmUHFBNkhlZkZBUmYySTZMWXRkVmNPcVYxQ1Q5OXAwRENna1pkcmpfaDFDLXliT0tScDFYZmRJTEJYS2x6TTB0ek5JMHdSVFE2XzJ2WlJVam1jMHBjOVpZZFQwc0JucE9PcXZrUEg4RGZqckxHejE",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZllzSjBNeDVIRml4WlFvLXBxVUhRREZicUEyeFJkZFp1QldrbzVvNk9jdGFSaHVGcFVmUHFBNkhlZkZBUmYySTZMWXRkVmNPcVYxQ1Q5OXAwRENna1pkcmpfaDFDLXliT0tScDFYZmRJTEJYS2x6TTB0ek5JMHdSVFE2XzJ2WlJVam1jMHBjOVpZZFQwc0JucE9PcXZrUEg4RGZqckxHejE2UmVzNGN1OTcxUFNQdUMxU21DYmZR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-stock-up-stock-down-for-stars-at-the-202-2026-07-22",
+      "headline": "Stock Up, Stock Down for Stars at the 2026 World Cup - Bleacher Report",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGh6NGhBSjJLd1BSU1lPWmtXZHJxTlFUbEVlbGJyRVdZOTRFUnhZTEFUWkhBTElMVHBVZTVtYmpuVVJwX0pVQkhfSjZyY1plbXZoLTN4bTV6NEpQMFJhQTBoMElzalVwbVB4aGk0V1VWOGZwS2k1RS14emdwTEk4MnZJU1FrN3dGUVE?oc=5\" target=\"_blank\"&gt;Stock Up, Stoc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGh6NGhBSjJLd1BSU1lPWmtXZHJxTlFUbEVlbGJyRVdZOTRFUnhZTEFUWkhBTElMVHBVZTVtYmpuVVJwX0pVQkhfSjZyY1plbXZoLTN4bTV6NEpQMFJhQTBoMElzalVwbVB4aGk0V1VWOGZwS2k1RS14emdwTEk4MnZJU1FrN3dGUVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-winners-and-losers-from-the-2026-fifa-wo-2026-07-20",
+      "headline": "Winners and losers from the 2026 FIFA World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDlaUFUtckczX2IwQ2NhMzE0dzVBX1VuWmdHWE9XczdsUThRMVZiVDRKMnVyOElUR2JsZVVULXVnUFJmWi0yeTZIUUlPZ21zNnpnVVpIWFlzVExKUHV3QTRPQVY4eTVKWmVHRUo0RlZlaV9abjZuMnlFakpOQXJNOWFNMHNhaVR6ZFJ5S0V4VXFaNkhlTmtiTkQ4bEY?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDlaUFUtckczX2IwQ2NhMzE0dzVBX1VuWmdHWE9XczdsUThRMVZiVDRKMnVyOElUR2JsZVVULXVnUFJmWi0yeTZIUUlPZ21zNnpnVVpIWFlzVExKUHV3QTRPQVY4eTVKWmVHRUo0RlZlaV9abjZuMnlFakpOQXJNOWFNMHNhaVR6ZFJ5S0V4VXFaNkhlTmtiTkQ4bEY?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-final-peaks-at-60m-viewers-in--2026-07-22",
+      "headline": "World Cup final peaks at 60M viewers in North America - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWhucjN4OERVVXFoSkhWTkY5bWVzYlh4Q3ozbHBlV0oxNnNYZExWaUQ3ZEdFakhFdndFT21leVZqeVpSNHlIdG9xekxqOFpKYi1NOWRSZ0ZwemlfcGRoNHB6MkdybGNRVVVlbXlaMXBJb19iTW00clo4bDJ3a211T2ZMbUdCTUs0aTh3S3dnTW9XNmRsakVjT2ZjYw?oc=5\" target=\"_b",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWhucjN4OERVVXFoSkhWTkY5bWVzYlh4Q3ozbHBlV0oxNnNYZExWaUQ3ZEdFakhFdndFT21leVZqeVpSNHlIdG9xekxqOFpKYi1NOWRSZ0ZwemlfcGRoNHB6MkdybGNRVVVlbXlaMXBJb19iTW00clo4bDJ3a211T2ZMbUdCTUs0aTh3S3dnTW9XNmRsakVjT2ZjYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-take-a-look-at-the-work-being-done-at-ar-2026-07-22",
+      "headline": "Take a look at the work being done at Arrowhead Stadium following the World Cup - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVNzdHZUblNUMlZwOWd0U1JBY2pQQy15NTBXQkJIT3FYTW9sZFd4aGdfZUQ2WUlBMl9HSFVZSzdhamlGdnJqRlZtU1ZrU0JoMUVyb2JBcTQ2UUVMRi1rTXBSb1EwaTFrMXJiNXhQZzZEWGd6TVdubmFDb0U1N3I4TzlxcFNXX1ZtRWtrOU1pcmxYd9IBkgFBVV95cUxNb0hZZ1doRjhmMF9",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVNzdHZUblNUMlZwOWd0U1JBY2pQQy15NTBXQkJIT3FYTW9sZFd4aGdfZUQ2WUlBMl9HSFVZSzdhamlGdnJqRlZtU1ZrU0JoMUVyb2JBcTQ2UUVMRi1rTXBSb1EwaTFrMXJiNXhQZzZEWGd6TVdubmFDb0U1N3I4TzlxcFNXX1ZtRWtrOU1pcmxYd9IBkgFBVV95cUxNb0hZZ1doRjhmMF9wQk16S19uQVhpMUNmZUhTaEV4UnduaGQ0YkFlUmdjeU1wOUplMVdwbm9EUkg4YXNZNmItMTRfeDFRbzVzZ1JDVGNPdEM2RFZvUzhmRllIM0lNcTlNTXItUVgxYWh5VEFjcFZnTnREeEozVFVJei1HdzRraTRRWVE2OThaejJRQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-spain-midfielder-says-arg-2026-07-22",
       "headline": "World Cup 2026: Spain midfielder says Argentina players should not be punished by FIFA after post-match scuffle - Yahoo Sports",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW1ELVMzaGU3V01rckd1TmJwU2I0bVJvRXBqUUplTENYOU5renQxT1hsQzMtRmV0eU9XT0tOY0FOMWJBR2lWelFvM09YQnRyaURoakJmS0RSYmlxYkR6dnMyQnl6UTRZX2Fpc2lGS3dtRTRHWTc5TXhXLTdYb2IyeHl4WXBlRkUxVnhQanZERWN0NzVBekZPN0E4ZVF5U0Vxclc0eVVidXF0eDdVTndoZUZ2NEk0NGJ2UmgtSGxLMlZGZk12T0E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-brawl-sees-argentina-player-pu-2026-07-20",
-      "headline": "World Cup brawl sees Argentina player putting hand on throat of Spain opponent after match - Fox News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VRSmVpVDdYYU9GS2c4ZmU3bm1VemU5dGloaXFEbm15blhJQk1ScWdKVWR2WGJXOGF1SERHYmdENWxSN1RsZFMtclJTZkhuc1RWQnhIajFLRm9zZTFwY2pEdjZ0SVgxbzUyUGFFOVFHMXVTNHlfVDJ6eVhkcmdnVmJucVZjQlhVd0NyRVNuelY0ZHlyY0YxRmhfOWNHbnQ4dXIwTUN0dHN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VRSmVpVDdYYU9GS2c4ZmU3bm1VemU5dGloaXFEbm15blhJQk1ScWdKVWR2WGJXOGF1SERHYmdENWxSN1RsZFMtclJTZkhuc1RWQnhIajFLRm9zZTFwY2pEdjZ0SVgxbzUyUGFFOVFHMXVTNHlfVDJ6eVhkcmdnVmJucVZjQlhVd0NyRVNuelY0ZHlyY0YxRmhfOWNHbnQ4dXIwTUN0dHN3bk03Q3hj0gG0AUFVX3lxTE5PMW94djRVbUpWREVjcnFTMVU3cUEyYXFubE5meFVTYXJsSG5ybnpWd0cwZnE1NnZFOWVscHNWR0RkSWllV0gwX0ptdWlrek1zaDBmdWVKQjM5NHNoUWhtTm9uaDB0empvWDZVZ3ZYYUR4TTAxc0p4NmJSbHdFSWZCZTAwaXZackxWZW51YkY2bVk0cV91bmpLMENueEtsX0cwSEY4NEZBR0J0d043V1htRXh2cQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-disgraced-themselves-and-the-w-2026-07-20",
-      "headline": "Argentina disgraced themselves, and the World Cup final, with their charmless petulance - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTZlTzZrTnpuM01mVUY0VWNPOVByLUhHbkFqb3NXeVZBWEsxLW8taWNIMG43bnpCOE5ndlZOUmJoc2hqbWVJZDhIeFFaa1NmYllST0NLbTd6R3dhRVZpcExOaGN5RTdCUzZKeUFWMDBNTW5oVHV1clh5cHlYVFRuLTlDNmt0RE9sbk5HS3U4R2c?oc=5\" target=\"_blank\"&gt;Argent",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTZlTzZrTnpuM01mVUY0VWNPOVByLUhHbkFqb3NXeVZBWEsxLW8taWNIMG43bnpCOE5ndlZOUmJoc2hqbWVJZDhIeFFaa1NmYllST0NLbTd6R3dhRVZpcExOaGN5RTdCUzZKeUFWMDBNTW5oVHV1clh5cHlYVFRuLTlDNmt0RE9sbk5HS3U4R2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-crowd-celebrates-spain-s-win-love-for-2026-07-20",
-      "headline": "KC crowd celebrates Spain’s win & love for soccer in final World Cup watch party - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWWpJRkZrR0tnSDJGWW5ETG5iQzhRMTFCdU1UZ1o2WDd4Yjc2TEJ6cFl1UE5CRmFaVWc1aTdtbXY4X0JCcDdxdWRvTTAxZVc2QVR4R2VONVlOZFRvTnYxMFJiNzdDTzdpWXNr0gFrQVVfeXFMTWFEYWpNaEJOTzhyWEJpNF8xV3YyVFJDMElMdXhOclVpaG1DQzBtN2tTRmJrTER0N2p6YnN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZWWpJRkZrR0tnSDJGWW5ETG5iQzhRMTFCdU1UZ1o2WDd4Yjc2TEJ6cFl1UE5CRmFaVWc1aTdtbXY4X0JCcDdxdWRvTTAxZVc2QVR4R2VONVlOZFRvTnYxMFJiNzdDTzdpWXNr0gFrQVVfeXFMTWFEYWpNaEJOTzhyWEJpNF8xV3YyVFJDMElMdXhOclVpaG1DQzBtN2tTRmJrTER0N2p6YnN0SUVzd09LRTJnUUNBM19BSHNVVUNqelh0Q0YtUGhsTGdaNXRHRWRkQWRKODE4NW8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-examining-how-much-of-your-tax-dollars-p-2026-07-18",
-      "headline": "Examining how much of your tax dollars paid for the World Cup in Kansas City - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5MY3NrOWM3RXh5d2M?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-kansas-city-tickets-guide-2026-07-07",
-      "headline": "World Cup 2026 Kansas City Tickets Guide: Norway vs England, fixture schedule, Quarter-final fixture & more - Yahoo Sports Australia",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2o5djdxUU5kU0lMVUJvNUpCNHN1OVZVbzcxSXdKaG1oV1U0YkRVUWg4aWFHQkVqNlgzRng0dVRVdmFvaFlzTVdyeDl4R1c4bEpfR2pUWDkwRk1ZWXpQemMxa0xrSUZtRTh1SlZPZVBJMTU0NkpWaDE3blppNFJqekYzQQ?oc=5\" target=\"_blank\"&gt;World Cup 2026 Kansas C",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2o5djdxUU5kU0lMVUJvNUpCNHN1OVZVbzcxSXdKaG1oV1U0YkRVUWg4aWFHQkVqNlgzRng0dVRVdmFvaFlzTVdyeDl4R1c4bEpfR2pUWDkwRk1ZWXpQemMxa0xrSUZtRTh1SlZPZVBJMTU0NkpWaDE3blppNFJqekYzQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-tom-cruise-felt-humiliated-at-the-fifa-w-2026-07-20",
-      "headline": "Tom Cruise Felt ‘Humiliated’ at the FIFA World Cup Final 2026 — Source - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHJJWHNobS1aZFNoc0R6bFFCYktsNnZCOHQwWW5IV0NsLTZXeE1oYUtIVDJJOVpDRkoxVXRDS1ZFSFZBb2QwRU4tWjF6dmU2eFZEaV9tWUhRTjVrTE9KVW9leHZBTnNJamc4cVh2bkx5WkFNVTBseE51LVFhc2ZjdEVONlJYRDBiSXluRmxZVk5WU1RnYW5lbjdld0c3Q0hJTHEw?oc=5\" ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHJJWHNobS1aZFNoc0R6bFFCYktsNnZCOHQwWW5IV0NsLTZXeE1oYUtIVDJJOVpDRkoxVXRDS1ZFSFZBb2QwRU4tWjF6dmU2eFZEaV9tWUhRTjVrTE9KVW9leHZBTnNJamc4cVh2bkx5WkFNVTBseE51LVFhc2ZjdEVONlJYRDBiSXluRmxZVk5WU1RnYW5lbjdld0c3Q0hJTHEw?oc=5",
       "featured": false,
       "draft": true
     }
