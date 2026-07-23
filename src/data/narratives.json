@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-23T13:58:52.340Z",
+  "lastUpdated": "2026-07-23T16:25:54.976Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4615,7 +4615,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 588,
+      "chapterCount": 589,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9320,6 +9320,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUFESHlQTTJOa2hOVnk4VnlxeWpxTEZ3dndPTTI2QnNhUllHZGs1S1B4MnV6RkcyUVE3Sjg1Qy1oVlJXYU1WNEpPLUhXczd4NWVFSWxrV0lXaDZhNDFKbENmd29pQnBYanBlaDJNY04wcEc1TWVYdHZzZnZpdkpXSzc1dzRZdUpyYUc2SkNJVW9xNE9XZTJpbVZoUnFsUjdOLWNB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784823953835",
+          "date": "2026-07-23",
+          "title": "USMNT’s Folarin Balogun recaps eventful World Cup - amNewYork",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeC04bU05eENRbm9uSnNSTERCbmlkWXBCYTdVMW02Ull6OU5EOEZzbkEwVVE4ajY0YWRsUkd6TktfeGtlLV9OY0I4X05HVXNqTzU5RWhHNWZ6a3pad1VOWno1YkduVTV3MXZkUUp3T2dpSFdIVDRwaXJUb0RIbFdhTll5dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13320,7 +13328,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 726,
+      "chapterCount": 728,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19128,6 +19136,22 @@
           "title": "FIFA Reveals Team Of World Cup 2026. Harry Kane Misses Out, Cape Verde Finds A Spot - NDTV Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakJJMzdFYk5XQy1uMmxBbVNfSm0yV01HOG9LM0pYbTU2a0hJaC13TDVVM1NlalF5eTJ3bFFLOTRCaF96TlNBLXphZGM3c1JGUkNKb0hteW9pdHQtSWljM09LWFRMTG9KQThCLXJ2cnBmUzJxdDNYV0JtYkFSZ3RuZ2F6TmJmZ3dlbUlYYzU1QlZDdUd2TndnaHR4YTBrTUxqWXJYd0FSVlI2b3c5NnFGZDVqd09RX0NDdUh4dWluZlRuYTNvS2tPcWJrLUVmb2s?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784823954976",
+          "date": "2026-07-22",
+          "title": "Heroics and heartache: looking back at the World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkNQNlBpZWJIZ25fZjZEOFdQb01GRUNyaFBJTWxfRVVGUXBQYWUxVy1pVkl6SHQ2QlFVZExsMlg3UWROQVVOLWtWVUhoUHVnM003Y01EbXFiVEJqMjVqWUlLbEN1WXhzekpHTUJ4ci1DNXEtZnpkMExRc2ktVl8zUDRBUW9XQTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784823954976",
+          "date": "2026-07-23",
+          "title": "Two England Players and Cristiano Ronaldo Named in 'Most Disappointing World Cup 11' - GiveMeSport",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckFISzhsY3F2OFhXWHFHa3daYjZFYkMyVnlRTk00anl1dGhjQV9nc3NBWmRjV2NIQVo4REpTVV8yb3VaU3JIcnpzWHFTUWdIRVBNeUpVZDJ5aW1wMEZCQlY4ZFFMYVVoa3Q0RGl5RFI3QjJES0dJbzFGbUUzRmdpaVBudnJhSlRHcU4tekVqb2w4TnBFZ1d5ZFdXbw?oc=5",
           "draft": true
         }
       ]
