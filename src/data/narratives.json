@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-23T16:25:54.976Z",
+  "lastUpdated": "2026-07-23T19:17:05.365Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 293,
+      "chapterCount": 294,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2362,6 +2362,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYS1nVTU3LUF4Z0NGdFowX1lBTFljdHdIdU1MUjFiVXBxMnlfeUZ4S0dJNG1RRHVabHFmM0pNQXNjczRtTXV2ajR6T05fQmVRVWUzTGpqR21ldHdldFpBYnZqMDNVMEtLMWR2dG1Ed0JmaVNzTXRPdmppZlBnT2VwTUctY0pQSUNSckNuTjFqT0FqM1c0X2l0RjhvTnpjUlZyaUVxZHB0UGE5ZGpxUjl1TGtOV3J3dDNtVlctbldNYWlXTDZpVVpVeXc3X0w0NnpNOExoSGlRUjZnajZxeUVoWEhOOXVHNkhYNU1uc1EwQ21jZmZjQ1RNNGNtQdIBgAJBVV95cUxPVmJlRVFJeDJvR1ZBTUp3bUJ0ZU5TbUFjem1RMUxHNUZoclVZN1ZGRnE0NkdpOWtHcE1KNVUyTWczSmFVOUJoS0pZR3hiampJdkptTVVOQmhhUWkzd0ItX0Y3a0pSRGh4b0FvNlRlVXhEem4yQy1ZVFdnZ1J0TG5uUi14OUVjRU4xdEd1M3p2N2ZWR3JzbGVJWWhJdmQ4Z0dxR0hLVDVlTGY1WDJUcXpGX1RXOFZiWkh5WkhkM3FoczFZWTRPOEpWcE4zU0FDbUVuc3BZZl8wNm5yNktkemQ4dHhUbUxQc1pnaG1XQUw4QzdlSHJ3bWlMeXlKOEx4S2FP?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784834222861",
+          "date": "2026-07-20",
+          "title": "Did Argentina Let Lionel Messi Down in 2026 World Cup Final Defeat? - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92Y2FXOXRXYmFNMkVXRWhGaENMUzA3UlhkNTN2S3lENF90OGQxR1NJY19pazZMMVUwSnJZMS0tX0FHSk9DQUdkWFZaRmx3dVVQTTQtcmtnREtCeXg0T2pqVGR2Wk12QS00Rkhlcmk3dkMxWmtXS1l5bkFZbm5hQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2380,7 +2388,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 277,
+      "chapterCount": 278,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4597,6 +4605,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzByRF9La0wwSE9WSENQVUtubTJVMXNWUDdtb0NLZGVDcjZ0MjJIYkJmLXV3NERqMGVOak9OX0J1REl3WmpqNUVsSFZBdWF4NXkyRUd4U0tZZGUtNkNydzc3Q0ZiMjJEbGlBTVRzUW9aaUhXTGoyczNSTkFfNzhhMTBmNGdPbWFZTjZqUVpxazBlVjNMNXRwV0cxQzJ6OVdrQkpRc0lUcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1784834223368",
+          "date": "2026-07-18",
+          "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0xEaUtGTzVJNVBudTgwNVJSeXhqbWtmeDAtb1cwWVNTaU9hd3o4SlVkNlRkSi1IeGd0OENzNHFGUTRjRHY0OTZDNEJ1OTlUU1poUkVpdmtVWDZsOEp1R0R2eGd5WmUzNVpkUm5PWFI1eUpnUlRrV3FVc0xBcTFTR2thTm9OV1MtOEdtMTBDNGUwckptQ0I1REp0VEpuWTRraWxIdjFNOFltR3prWG4xUjRB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4615,7 +4631,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 589,
+      "chapterCount": 590,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9328,6 +9344,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeC04bU05eENRbm9uSnNSTERCbmlkWXBCYTdVMW02Ull6OU5EOEZzbkEwVVE4ajY0YWRsUkd6TktfeGtlLV9OY0I4X05HVXNqTzU5RWhHNWZ6a3pad1VOWno1YkduVTV3MXZkUUp3T2dpSFdIVDRwaXJUb0RIbFdhTll5dw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784834223899",
+          "date": "2026-07-22",
+          "title": "Why U.S. TV viewers fell in love with the 2026 World Cup - Los Angeles Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkVaQXhFbC1KVEhUdVBPYnpWNko0a3hscEh1SFRZSEo0bHgxbTRuRTVXVGtTUV95S1RUb1djTU9ZT3NVdjhHdDRaaDZXUmxyaXBHM21sRDV1ZldmNWdFbWxjQ0RnUnFVWHBnQjBsczJRTThZQUE5NVlveE9aRkZ4WXRIUTRYSnBIRmtDRUktblZzMG96bkNybVpneXNUcWNMb3F6UVlrejA5X3dGMkFDcWJxSjJxRWlnSlVXMDRNSUhzMExETUxwUWt3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13328,7 +13352,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 728,
+      "chapterCount": 730,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19152,6 +19176,22 @@
           "title": "Two England Players and Cristiano Ronaldo Named in 'Most Disappointing World Cup 11' - GiveMeSport",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckFISzhsY3F2OFhXWHFHa3daYjZFYkMyVnlRTk00anl1dGhjQV9nc3NBWmRjV2NIQVo4REpTVV8yb3VaU3JIcnpzWHFTUWdIRVBNeUpVZDJ5aW1wMEZCQlY4ZFFMYVVoa3Q0RGl5RFI3QjJES0dJbzFGbUUzRmdpaVBudnJhSlRHcU4tekVqb2w4TnBFZ1d5ZFdXbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784834225365",
+          "date": "2026-07-23",
+          "title": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown. - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUzREeDRFU1QtQ3k3S1dZT01WMkFKemY5cDFTMUJHX2FUU3hoUW1sTEc2UDhTbVFpdmFjb3pCZDl3ZkdxTUhybXJNS0Y3N2swNjJFZ3U0X3BSOHZNM253M0tqUUZQc1RUaktvdGxRa3R2WW8wdjBpaVo3Z0xTUzJMTzZDdjJLR0tiNDl1SWl4YlpfM1lJSjJOMTc4ZU84X0hSMXRLZ29LdXlKRDVJQU1hdWFpREVYeHA3UGkxMkxSTzBwN0xtZ1owN3JqMnR5YnV6TGNoSDJ4YVVzb2pXdUtfVW9QdlNMS2FrTHFrc0ZtNXVrUDVEeHhCdVlnYkVYX3g2OHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784834225365",
+          "date": "2026-07-23",
+          "title": "New ref cam footage shows Jude Bellingham's brutal dig after England World Cup defeat to Argentina - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemlLZDJ3ajYzcU4xWTBwWGtqNGszbnZHcmtNQ3U2WERlVGtpTElJQktCSWV6bGJJLUNSYkJEYWJDc3hhN1VFLW5OOFZJMUdiNG5JMzgwbnJQZ3JYVmhIRUE1Qko5TXB1bGVfN2k0QXU4WFlDTjlyV1ZwVXJXd0FPeHNVejdRVXo2Tm45LTdSLUgxcjJiVVYzMXlKNWs?oc=5",
           "draft": true
         }
       ]
