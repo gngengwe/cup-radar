@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-23T08:29:47.997Z",
+  "lastUpdated": "2026-07-23T11:09:27.411Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-let-usa-mexico-and-canada-show-2026-07-23",
+      "headline": "World Cup let USA, Mexico and Canada show their best. What will its legacy be? - Yahoo Sports Australia",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MdlNHeU8zSlNLdEFGUXR2RE1KR2lOMWh3SFNVUWVLbDUteDZTT0dXNC1DUHFUYTdIeksyR3lLTVlfYTFOMkxUU29OSkk1N3N4b1VMT2l1RFItMXFlSWRnSzZOYklTWUVRUkkzUi1GRGNKRHd6Mnc?oc=5\" target=\"_blank\"&gt;World Cup let USA, Mexico and Canada show ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MdlNHeU8zSlNLdEFGUXR2RE1KR2lOMWh3SFNVUWVLbDUteDZTT0dXNC1DUHFUYTdIeksyR3lLTVlfYTFOMkxUU29OSkk1N3N4b1VMT2l1RFItMXFlSWRnSzZOYklTWUVRUkkzUi1GRGNKRHd6Mnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-petition-to-replay-argentina-vs-spain-20-2026-07-22",
+      "headline": "Petition to replay Argentina vs Spain 2026 World Cup Final surpasses 61,000 signatures - beIN SPORTS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXF3aW5VelpKY050M3FnMko1bGl0N3E4Z1hLOEc3RGYyMndBU3hUa3NMV3BjeEhXUXpyaWtGdTJCOUU0M0FVRTBYM1BzYm1yOXlYZ1Boa3BGWW9mUG9tbUUtMloyZWs2clRVY1NuaVB6ODc4Sk1jTFc4c3h5elB3TWtjeWdDWFNocE5qcEkyaGdQdnRlQkV0V3ZBQm9CYTVWN29wcDluNkV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXF3aW5VelpKY050M3FnMko1bGl0N3E4Z1hLOEc3RGYyMndBU3hUa3NMV3BjeEhXUXpyaWtGdTJCOUU0M0FVRTBYM1BzYm1yOXlYZ1Boa3BGWW9mUG9tbUUtMloyZWs2clRVY1NuaVB6ODc4Sk1jTFc4c3h5elB3TWtjeWdDWFNocE5qcEkyaGdQdnRlQkV0V3ZBQm9CYTVWN29wcDluNkVoQnRxLS1KcVlQUzNVRlVGLW5GUHBPNDBuZXpWaHdWV2F5WVQyOW9GRlBGVUJ2dHQ0SU1iWmFFRTR5UW45enBZRUprTVd1Y0owUThFTzBudldEQjBnV1pq?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-fabian-ruiz-and-gavi-get--2026-07-23",
       "headline": "World Cup 2026: Fabian Ruiz and Gavi get weight in tomatoes for win - BBC",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmJLMkVLNnlOUDZ1Nm9BbjhCUTRMcUhGZjlHNERPV1JHNGZHSThScTNLb0NYSzJGb0d5cXRBTFZZWXM2ZGM3TEJfV194TzhxZUstaktKTldlR0gyTUJxSGY1NngzSDZsdTZfMWxpcVFBR3dlN3FQaTM0YUJGbC1mSWlETUQxMTRLODM4czdKWlExRUk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-turns-the-world-cup-into-a-brand-2026-07-20",
-      "headline": "Seattle Turns The World Cup Into A Brand Experience - BM Outdoor",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5ROTZNMWV2Zk1obzBkLUFJRzRCTGFPdG5DeHM1eFE2anBTXzBUZWZlc3pucDlQZVAtenYybjhoS0tucDJUWmpnRHpHQ251a0tvdGdfbjZBWkFDV3h3NUl2bXRaYWgtSC1YMzZBTGd3?oc=5\" target=\"_blank\"&gt;Seattle Turns The World Cup Into A Brand Experience&l",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ROTZNMWV2Zk1obzBkLUFJRzRCTGFPdG5DeHM1eFE2anBTXzBUZWZlc3pucDlQZVAtenYybjhoS0tucDJUWmpnRHpHQ251a0tvdGdfbjZBWkFDV3h3NUl2bXRaYWgtSC1YMzZBTGd3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
-      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
       "featured": false,
       "draft": true
     }
