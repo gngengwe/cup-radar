@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-24T05:50:09.299Z",
+  "lastUpdated": "2026-07-24T08:26:57.036Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 294,
+      "chapterCount": 295,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2370,6 +2370,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92Y2FXOXRXYmFNMkVXRWhGaENMUzA3UlhkNTN2S3lENF90OGQxR1NJY19pazZMMVUwSnJZMS0tX0FHSk9DQUdkWFZaRmx3dVVQTTQtcmtnREtCeXg0T2pqVGR2Wk12QS00Rkhlcmk3dkMxWmtXS1l5bkFZbm5hQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1784881615073",
+          "date": "2026-07-23",
+          "title": "Lionel Messi isn’t done with Argentina just yet despite 2026 World Cup heartbreak as new plan comes to light - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUDhtd2lXTlRycmQwRG9uSnZ0MjNTV0pHSkhJMUpUaEpyN0lSRndWZlBiaUlCSDVPMG51ZURFUS0xZGNYYzBkdGZyOWV4dHFjNVRGbzdjUUpjWkdqOXo3NGdLT2NoN0ItMFFYc0huV19iU052bnJncERZVjNPbUtBMldpN3AyekYtbG5YTlFScVY4dFdvQkx5U1NWWldLTUJpdGZTMDFKWVV0Y1oweFBpOGY5QmdNeGVKMTFVTElMUFNqYV8wRDJNZk1vaVk2a0VKRGFfV3dzZ1LSAdwBQVVfeXFMTWMyZmp3UFRzZHJWU1hWeVFRWW9qb0ZZcFY3MklVYVdud1pSYXN2Y0laUVp0NnpKTElZOW1qcUF4dGEyZUFPRGhncktWYXRVNFQ4MmRGZEJucUlxMGptZk80NDB6QXVNUEYxcU9nSDFkdWp6bkcxZGNmM0lENkJ1RTdjQVdnSDduTU45dldRbWdnNnBtWUtlWU1WUEcwX1AzYU90bkhYaWJMeWl6MkpsNGhTdUpWMW90cUNHRzdTaTZYRzdUb2xydmlsbW9fYV9PTkFHUkE3WUpUQUVXcA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4639,7 +4647,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 594,
+      "chapterCount": 595,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9391,6 +9399,14 @@
           "title": "USMNT's Tyler Adams aims to improve youth soccer accessibility, ride wave of 2026 World Cup - CBS Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWp1RFBTN01oaDNDbXBsSUN1N2RHM2I0cmpFeHpEU0VFbE9leEVybFNudEUtRGw3RmRta1VLeFBBWDZHazlZd2dPaElvei15ZWVwTTFpNGtsUWtVRmx4RWJuNHFxV2ZDSnl6c3Y0czNxVVREVHBaS2NFaTJoMlV3Y0lNdzh6TllmdERJUmdaX3lwTXJmV29GWEk4bDU4RDMx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784881616057",
+          "date": "2026-07-23",
+          "title": "FIFA World Cup fans shared their favorite thing about America 🇺🇸 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aeU5CQktyTHVKWnppU2lLc3B5SzUwVEd6MlB5aVo1aHZxZ2hPWTJ1NXQ1OHZFaEppRXFLdTFnNXg3bGVqcHZDRHdrejhCdGpGOFdmc1JZd2hfTlVKbHJEdjFiMXJFTURIN3MtOWRB?oc=5",
           "draft": true
         }
       ]
