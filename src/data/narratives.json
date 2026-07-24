@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-24T19:24:45.874Z",
+  "lastUpdated": "2026-07-24T22:04:08.602Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4647,7 +4647,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 596,
+      "chapterCount": 597,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9416,6 +9416,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXJQWk9jSzdCZGlFSDhMRkxIbThXQWpDT1pOckgwZzlFZkcxNnM5U1FrcFZ6a1hEZllrVmI1N2ZrQ01sQm5iTGJkSVJnaUpRMGwyaHNTVGM4N3dhNUgzclBHdURFVTJYQmhBQWJfYXhWMVhZbGQ0MXBSY0FvT3F4VmpWc2lMLVJ4RzF4TlJxcko0aVZmZjFCSEtqajVwcjJlYkxvWlRWX1ItQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784930647512",
+          "date": "2026-07-24",
+          "title": "World Cup 2026 official FIFA payouts: USMNT net $16 million while Spain lead with $51 million - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEJJTTNYYUhZX2R3RWVSLUJVWmZHbUpfMUxEM0NfWlU5Y3pIcnVHMDl3TFA2U0VLUU4yNkRYTUZMVmhDcmlTNjVDcmZXQ2t4ZzVzdzI3WHZWQXFFc29OMVA3VjRCRjdSUlpSMFNlMFRsU0tSOERUbWlEUUxQY19OaDBiaw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13416,7 +13424,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 734,
+      "chapterCount": 736,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19288,6 +19296,22 @@
           "title": "Di Maria: Argentina's World Cup ended against England, and this is what I wish for Messi - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcW1ZQUlTUXZTRWRUaGllalg4VGpPa2M5VW1iSHptRlZDNnplVXMycS1RTGZsUEd4d1RtTm56a0lOSERKNmM0d20zRzhQQWNMSV9rd2tra2xYTXJQTDdiOWRTc3NGSFJ3TnYwVHFTWEMtTVNON0tjVHhuNkhHSnVhM2pRMHVmSmxDMndsdjk5VXJYWFlMSlhUODhKUDJ4SHVMbVdHdGM0NnJzdGhRd1VYOUtkUEFKWC1kOW1KWlYwbXJsR2dJd3lxNWdSWk5RaG5R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784930648602",
+          "date": "2026-07-24",
+          "title": "Thomas Tuchel was right – England’s DNA doesn’t allow them to control matches - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkJVdDIwcFdCWUFUNTRvVGViN05vSVpjMHVra3UxZThaOGktSlFsQzlyZk8zZTYxZ2JncnpOUlVGT1ZnaV9Gdm5qNHZZLWRFNF96LXd3aG1pcVg0dExUQ21LLUZmLUFTRDl5UHV1dkJwMjBiV0F1cWkzcGI3ZTJQazdhOVQtS0VIQzdObVB3OVpSdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784930648602",
+          "date": "2026-07-23",
+          "title": "England and Wales see record 384 domestic abuse reports linked to World Cup - Yahoo",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMF9aZGJRaEtIYzdoVUFXVEh5cmIwMWItQkZwUGNGbVZ6MmU0ZzQzMmRfaFJuOXNwTHN1SmFNdmxHUGt4RGRuR3E3bTZON0dtWm5od3Vsd3NwMU9uVEtKNTB3Qnl1ZHU4UjZrbElkOU9PS2ozek5OSUp2SllJUU96R0gzYjJZcXZTNVZWSkl3?oc=5",
           "draft": true
         }
       ]
