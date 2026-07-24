@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-24T08:26:57.036Z",
+  "lastUpdated": "2026-07-24T16:42:05.582Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13408,7 +13408,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 733,
+      "chapterCount": 734,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19272,6 +19272,14 @@
           "title": "BEST Coach Cam Reactions at 2026 FIFA World Cup™ 🎥 Mexico, England, Argentina & More! - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6dkMxV0Jvd3EtUDktOE9CNDhEbXJOU1BXeDBKQmhESFlmRU1UYVV5NEpvZ0ZjNFl6a3VBM185QXpXUkNFMUVZTWhNYlE1MktiV1JMdm1HVGYwd2dJR2w0SE13?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784911325581",
+          "date": "2026-07-24",
+          "title": "Di Maria: Argentina's World Cup ended against England, and this is what I wish for Messi - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcW1ZQUlTUXZTRWRUaGllalg4VGpPa2M5VW1iSHptRlZDNnplVXMycS1RTGZsUEd4d1RtTm56a0lOSERKNmM0d20zRzhQQWNMSV9rd2tra2xYTXJQTDdiOWRTc3NGSFJ3TnYwVHFTWEMtTVNON0tjVHhuNkhHSnVhM2pRMHVmSmxDMndsdjk5VXJYWFlMSlhUODhKUDJ4SHVMbVdHdGM0NnJzdGhRd1VYOUtkUEFKWC1kOW1KWlYwbXJsR2dJd3lxNWdSWk5RaG5R?oc=5",
           "draft": true
         }
       ]
