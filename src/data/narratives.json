@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-25T08:05:56.376Z",
+  "lastUpdated": "2026-07-25T10:26:29.702Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4655,7 +4655,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 598,
+      "chapterCount": 599,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9440,6 +9440,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Rm5wZG1LM2k1TjM0M0FyTDFteW9sYS1kN0hSWURKaVNMU1M3cjlfaTIyTzJ0OTA5MV9zNnVyc1ZEckRreWxKR3lRZXJ3ZWc1Q2ZPVE9DNDhsUVUzNHNYSTVFN0s2S3ZMS1lRRTBR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1784975188803",
+          "date": "2026-07-23",
+          "title": "USMNT World Cup Star ‘Finalizing’ Major Move to England, Leaving MLS Behind - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTBTMXpMbkVSZFp4RHJUQUFXbUNmQThyRG5hT0kyMmUtOU4xUjl3aDl1ZTU5S1VuaXNYYTNsaERnQzg2R2lqeHJEbURxMk0tbnltWDZaT1lyaFBhVWFrdzdWX0dHcjBjdjFzWjRMRlR4UnUtZDRLcWxrclVjdU5jdkRFZ2RLLVl3eXBLQ3o4R1UySzd4X1dRd2VEUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13440,7 +13448,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 739,
+      "chapterCount": 741,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19352,6 +19360,22 @@
           "title": "Di María: \"For me, the World Cup ended with the victory over England\" - MARCA",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU294V1Y2ZjlCNnlVVEdFYUZ4Q1RtaEJhVk16d0dfY0VqdVJ0UTlaS3hUdnlCcVpGUUU3eUJhQXJFeTdMR0h3aVpZcDA0eVlndVdVcDhPT3JCMHZDZWJsSExMckd3MllLOXhhU1JpQkNnOHlTdmRvaVIyOV9oRURpZnNHczhFMXExZ1Z4SjN4TDVQNERtb1p6bFVGZldpSXRRMkRhUGVrTTJvaUNvRkNxZkRlaWllSGfSAbcBQVVfeXFMTTBmbDdaSGFLSEw5bGoyc1VYLVY3MkZxQ01lSHpJdXQteUhjR0R3NTRxQklqRUZMRi0tRVM0R2FDbUt3MGJFT0lONi1pZHRyal9Cekk4cTFMRUJ4TWRsM0FkVDE4U2o4N0ZybzJlVkc1ckdHOHl5elFWSlZieEkxUFhKdXo0NEVKM2JtV1ItN0pYUVlfU2JDX0NWc2lYaTFINVh0TlhPVHdtYkNyOEtBelNRS2RTUExF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784975189702",
+          "date": "2026-07-25",
+          "title": "The 2026 World Cup proved that planned mega-event expansion is unsustainable - Football365",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUNPSWUyWFJKS2MwVlB2bENXcG5NM3ZXUldkQVk1YURVYURBcllWMDJTVm94MFgySXdsSkV6ZnhBU085YWZ0N05DYUJKdllmQlRFMXhFNjNSanlieGw2ZzV1VEVaNGN2aG9mX0pWeE91cFZod2w1TVJWd3BpNS0wa25SbHdNMm9Zc2ZaNEJPckpSNm1jLTQxU3ZVT1JJaU9KWFh4dnVIek1PWXhlOTM5ZHVoTS1TdjZ1cTg4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1784975189702",
+          "date": "2026-07-23",
+          "title": "Record 384 World Cup-related domestic abuse incidents reported in England and Wales - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHpiVzBPVlpXUnBwU3BjN3R5OS1IcUptbUt6ekFkejh3cDliaElPNlhJNUllUUNNZUktVEVieV9Qcnpjb0UzblBqdENSOHJmLVhoN2dpRGQwMEJ6bWFEbnpPd3pUcHE5WF9iSjZSeWZPYXJ3NHdSUWc1ZGQtV3hsRi1qRWJLZTdLeUhGb0VB?oc=5",
           "draft": true
         }
       ]
