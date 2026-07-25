@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-25T05:42:40.360Z",
+  "lastUpdated": "2026-07-25T08:05:53.922Z",
   "articles": [
+    {
+      "id": "news-auto-argentina-president-javier-milei-breaks--2026-07-24",
+      "headline": "Argentina president Javier Milei breaks silence after 23 million sign petition demanding World Cup ban - The Times of India",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0sxbXp5X0I0OWNRZGRDeDZsek9FRURTWmx3ei1TdGFZSzJmNkU2Y3AyRTZOS25wdHE2VV9HNkxvempneTVjWHBPQ0JnbUQ5ZFAxd2pUY1FEaG1JUUJKNVB1eWhyUHlZSnBMYzFyZ0N3Zjk5RG53TW1peEk4U21udGJDem8tbjhGX0FtU3Nhd3p5QUFtM0RMSVVXVmI2NkNzNXdfUjQ2YVk",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0sxbXp5X0I0OWNRZGRDeDZsek9FRURTWmx3ei1TdGFZSzJmNkU2Y3AyRTZOS25wdHE2VV9HNkxvempneTVjWHBPQ0JnbUQ5ZFAxd2pUY1FEaG1JUUJKNVB1eWhyUHlZSnBMYzFyZ0N3Zjk5RG53TW1peEk4U21udGJDem8tbjhGX0FtU3Nhd3p5QUFtM0RMSVVXVmI2NkNzNXdfUjQ2YVk3dUJLbVdUdERPZzdXdnBxT3lNMUZMU2UwaWp4cVFRSWNkcVZ3QzFjdGJVenVUM3FST3ZvX3ZsaV9uMkREM0dPQlZYb0J4TDNwekVwM1Y0MEJlNWhXMHlNNUZNckJzdjlYM25DaUZXVm5qRnNyVVhrTm4tOG1pT2TSAaYCQVVfeXFMUDZEODhtbml1ajhudmtZLUFzWEVTaHA5cUxOMUFFVXZzYlZVYVZkV3UyTEc5aDJoT0paTzk1UlRUS2hiYlNqM3RxZnk1NGpuVGVoVDJ3V0NIWVJDM1IzZGZrQ1FDcWRBWUZMMWhHT0FLVW85bENQZlRWYnN0bncwVF95bmFocEM5MVFzU0FBSlREWWpxTjd2ZnJoZWVOendHY1ZyaWl4eGNESmhyTEdzVnZJR3psSm56a3BPSWh2UExSQVlwNTBsTTV3SWtLdHVVMkhmTVdKWjBKS0psVVY5amY3ckhWUGNpNGJaQk5VR0l1blBkNTdwNTFCb211WEpma0lBTS00aXl3LXhrcDUtRWhUZ2VMcGVPUlNiMVZTZktDZEVtTkxR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-president-breaks-silence-on-pe-2026-07-25",
+      "headline": "Argentina President Breaks Silence On Petition Calling For FIFA World Cup Ban - NDTV Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPclZnalB5by1kVTl3OUtCMERiR3NZS2ExclQ2ZFlYN0lWNTQxTHV4azBoT2hXRkNZMW94OVE2YmlVNkdnTEtBMkRTTldRN2FNeGJJN2IwVUZnSzdFdVc4V1ZKbUJIcHFhWjdpNU9rMG9jOVdaTXctY2EwSlFya19hQjQtOUZnY09FN0R1R3oyYkxBUjdGQk1BczBBVGtINUtjRURwVV9jZUF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclZnalB5by1kVTl3OUtCMERiR3NZS2ExclQ2ZFlYN0lWNTQxTHV4azBoT2hXRkNZMW94OVE2YmlVNkdnTEtBMkRTTldRN2FNeGJJN2IwVUZnSzdFdVc4V1ZKbUJIcHFhWjdpNU9rMG9jOVdaTXctY2EwSlFya19hQjQtOUZnY09FN0R1R3oyYkxBUjdGQk1BczBBVGtINUtjRURwVV9jZUFwb1RnTFk2VTBzSlhkWUp2aVJFMUp5S3hUSW5uVmoyTlZR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-23-million-people-signed-petition-demand-2026-07-24",
+      "headline": "23 million people signed petition demanding Argentina’s lifetime ban from the World Cup - talkSPORT",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzB1X01DVE9tMXF4UTVhN0FhYzF2SXl6QWJXYnNuYnBqRlhvNVZGTmkzbU9YazJra0dGSnhFWWFwWWkzRFdNbVlqWkVpd05BUFFiUHVOalV4dDFQeE16TmNYSGNZbU5XRjFUd0xpNUc3ZVdjUjl5dDZBSGlESHdzTThIaDBlMFpTcWxNUTI2WDRmQ2lNQTBLV1R6Z0I2TGxOMDhCTnlXTmx",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzB1X01DVE9tMXF4UTVhN0FhYzF2SXl6QWJXYnNuYnBqRlhvNVZGTmkzbU9YazJra0dGSnhFWWFwWWkzRFdNbVlqWkVpd05BUFFiUHVOalV4dDFQeE16TmNYSGNZbU5XRjFUd0xpNUc3ZVdjUjl5dDZBSGlESHdzTThIaDBlMFpTcWxNUTI2WDRmQ2lNQTBLV1R6Z0I2TGxOMDhCTnlXTmxnRVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-cape-verde-world-cup-star-vozinha-reache-2026-07-25",
       "headline": "Cape Verde World Cup Star Vozinha Reaches Agreement To Join Chilean Club Colo Colo - FOX Sports",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-22",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mUzhQV2p1bVUxSDkzRWxFUDQyRlA0bG1aTFlVemlCQ3Z3bGtZX29Cdl9NemJ3Ym1STFlXMjZibU5WSWF4TmJ1amlMZ0YzeThaSXJmalJPbk9lVl9ydkg0ZE1R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-biggest-world-cup-win-happened-2026-07-06",
-      "headline": "Seattle's biggest World Cup win happened off the pitch - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-hands-us-economy-20b-boost-wit-2026-07-20",
-      "headline": "World Cup hands US economy $20B boost -- with host cities like Kansas City, Philly cashing in big, BofA says - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU9od0o2c3BST3RIcEEzeUFFekc1ZWlTUkE5SGZTX2VGY2czeXVBcE5pZFlhYlBHbTBadDVqaS1Ka1NsWEVLTzFMUXdtTnVkcDhyVnNQRjJ5bXpKU25ONEo1dEZ4OUstU1BMNFAyelB4TlhSYUVucHdlQWpib2xYa2UycVRqclppdzk4WGpYalFkay13eGc2VkJYSmtWYzB6NjZZWkk4SWppVC1KU0N6ZkZycUhpSkFTRXNCWHM0dzJWSjd3UFdYSXRUZ1NBODFkdEpnMHA2Tko0Zw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
       "featured": false,
       "draft": true
     }
