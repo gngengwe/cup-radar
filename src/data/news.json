@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-26T10:44:12.205Z",
+  "lastUpdated": "2026-07-26T13:21:25.506Z",
   "articles": [
+    {
+      "id": "news-auto-video-lionel-messi-makes-first-public-ap-2026-07-26",
+      "headline": "VIDEO: Lionel Messi makes first public appearance since World Cup final - with Argentina superstar watching fourth tier match in his homeland - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUxqWjZMRnN1UTNfeENSRGF6LXFqMGI0SDRTWG94c3picG13ZmZGS29Cdm1uclFiVHhrcU52NmVKcWFNai1oLUQtaWpQVkt2NEFCUG1mQzVLNHBNSHB1b0xjSTJkZWFlZjNjYy1pT1VLeWJGcEg4R3MwXzFVb04xNHFheS1oSU52bzc4Sm8xQlpKQS1JMDEyamE0WUctcnh0emdRV3NLUjJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-26",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUxqWjZMRnN1UTNfeENSRGF6LXFqMGI0SDRTWG94c3picG13ZmZGS29Cdm1uclFiVHhrcU52NmVKcWFNai1oLUQtaWpQVkt2NEFCUG1mQzVLNHBNSHB1b0xjSTJkZWFlZjNjYy1pT1VLeWJGcEg4R3MwXzFVb04xNHFheS1oSU52bzc4Sm8xQlpKQS1JMDEyamE0WUctcnh0emdRV3NLUjJ6MHBfaDFYTDZEZFdiWmc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-gianni-infantino-letter-to-argentina-lea-2026-07-25",
+      "headline": "Gianni Infantino letter to Argentina 'leaked’ with astonishing claim on violent World Cup scenes - The Mirror",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTNDSjItSEdSTXZ6QUNfc0I5SGhMWFRteTFkaDdiWXg4eDV0cGdFb1doeGN6VVJFbWs1cEl3WmpXS1hhbDVRTG1iVE53eXAtWTJSckpkYjE5VmRBQnRRSS1NRU9DY2NiRkVQNDZXaEo5Z05odzN1eHBLYXdiLXhYR1NHaHUwSTBBZFBLUXBQRV9FaEZZ0gGaAUFVX3lxTE1haXhmS0JiN1J",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTNDSjItSEdSTXZ6QUNfc0I5SGhMWFRteTFkaDdiWXg4eDV0cGdFb1doeGN6VVJFbWs1cEl3WmpXS1hhbDVRTG1iVE53eXAtWTJSckpkYjE5VmRBQnRRSS1NRU9DY2NiRkVQNDZXaEo5Z05odzN1eHBLYXdiLXhYR1NHaHUwSTBBZFBLUXBQRV9FaEZZ0gGaAUFVX3lxTE1haXhmS0JiN1J0QUs4RnBmTDczUk52dmJRdFBES1ZVOWFmcjJrbDByVE9acGo1LXk4d0hDM3pSZm9kaUFHZFB5M3EtUlh2SFNYeVdFV3NaSjI4WVdIS1hWc1JLN2dLWS1LSTdYSW9OT1NiZWYzWWRPc2h6NmJnaDF2TGh2S3VXSWpVNXBXSjBxZUhCcUxlcW9SLXc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-handed-automatic-world-cup-203-2026-07-26",
+      "headline": "Argentina handed automatic World Cup 2030 spot as Gianni Infantino letter leaks - talkSPORT",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTNTOXkxVWhGVDJrTVFqZzVxNkJFeENOLVd6Q1VtbUIzQmxuSG5ucWN0WTZwX0J0MlhKSjN3TW5UVkxkcDhvakhZTzZmUnh3X2R0M0tQaDhtYzYxdEZ6YzAzTmJrVGtBY0kxVS10N1QtNGljeFd0N3lySFpCY25SX3BGMUtLUkVnNFlqSnFBTkVIaU1VRE5KYVZ0NHRndFNMWXFGTS1rNHh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-26",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTNTOXkxVWhGVDJrTVFqZzVxNkJFeENOLVd6Q1VtbUIzQmxuSG5ucWN0WTZwX0J0MlhKSjN3TW5UVkxkcDhvakhZTzZmUnh3X2R0M0tQaDhtYzYxdEZ6YzAzTmJrVGtBY0kxVS10N1QtNGljeFd0N3lySFpCY25SX3BGMUtLUkVnNFlqSnFBTkVIaU1VRE5KYVZ0NHRndFNMWXFGTS1rNHhwcGpOSmhRZ2Z1SVdUUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-gianni-infantino-praises-argentina-s-pro-2026-07-25",
+      "headline": "Gianni Infantino praises Argentina's 'proffesionalism' in World Cup as FIFA president's letter to FA emerges - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGhLRDVnM1dCajRSRjBocGc2bjU3NE1xMmpNd05DR2Y3OS1MRmtPbmdhWUp1NU9DSEF5Wk1zYUM4WUhEclFlUnZmdnhjdms1NHl0a2hMelQ2NDUxYmo3aWFfY0xieW1BWmNUNmlyYWJPTG53VXB0TGkxNGQ3Mlh3VkxYQXZZdWhqQS14WmFzVGd2QW5BendIM3hDSXFfUzg?oc=5\" targe",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-25",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGhLRDVnM1dCajRSRjBocGc2bjU3NE1xMmpNd05DR2Y3OS1MRmtPbmdhWUp1NU9DSEF5Wk1zYUM4WUhEclFlUnZmdnhjdms1NHl0a2hMelQ2NDUxYmo3aWFfY0xieW1BWmNUNmlyYWJPTG53VXB0TGkxNGQ3Mlh3VkxYQXZZdWhqQS14WmFzVGd2QW5BendIM3hDSXFfUzg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2026-world-cup-fifa-president-infantino--2026-07-25",
       "headline": "2026 World Cup: FIFA president, Infantino’s letter to Argentina after losing final leaked - Daily Post Nigeria",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-traffic-transit-trash-seattle-shows-what-2026-07-06",
-      "headline": "Traffic, transit, trash: Seattle shows what it can do during the World Cup - Oregon Public Broadcasting - OPB",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUkwTmhlMXpRZW1waXppemhNOExXRlZSckRWM2lnYzUtM0g3cXhkVlc2bVN5V1kxUnZrOXcyekxvelJpUlF0UXlNdDZWS3hfdDlSb1RTejY2X2pGODBkNEtmSXdnU29ibGZDNmc1MUUzb1NrcnhoVHlPcUhvRE1ZVTAtVnNtbk9pTjZXbFI1dXBWVHc?oc=5\" target=\"_blank\"&gt;Tr",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUkwTmhlMXpRZW1waXppemhNOExXRlZSckRWM2lnYzUtM0g3cXhkVlc2bVN5V1kxUnZrOXcyekxvelJpUlF0UXlNdDZWS3hfdDlSb1RTejY2X2pGODBkNEtmSXdnU29ibGZDNmc1MUUzb1NrcnhoVHlPcUhvRE1ZVTAtVnNtbk9pTjZXbFI1dXBWVHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-82-000-argentina-fans-sign-petition-call-2026-07-23",
-      "headline": "82,000 Argentina fans sign petition calling for World Cup Final replay over referee controversy - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUpRNXpPRzBPcGdNYWRaemR4anBJOXJWWWFMUEVKMm0wdVVzR0tsc2sxdEhSZ1ZmaWdDNmJGbXVOelR1VFg1MDFHeHNZZWNzUnUzNzQ5UUc4UkFrUmFTRV9LTlFGLTRKRi11eE8xSHB2d244YXBWRWYycTlPb0c0NA?oc=5\" target=\"_blank\"&gt;82,000 Argentina fans sign ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUpRNXpPRzBPcGdNYWRaemR4anBJOXJWWWFMUEVKMm0wdVVzR0tsc2sxdEhSZ1ZmaWdDNmJGbXVOelR1VFg1MDFHeHNZZWNzUnUzNzQ5UUc4UkFrUmFTRV9LTlFGLTRKRi11eE8xSHB2d244YXBWRWYycTlPb0c0NA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ferran-torres-dani-olmo-and-a-couple-of--2026-07-23",
-      "headline": "Ferran Torres, Dani Olmo and a couple of Spain players were biking around New York just days before becoming FIFA World Cup champions - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8tYm1ZOElyNExrQlRmakEydW9wNURkdFBFcTJ0NVYwU0xmRDU1akotQkZtN0NvOXNEcEk1SmltblhRTlRfWTY2MlZCMGNMRzBXS29QLXpzODJzblZvTlpwSU4yclRUTE9sbzI1djlB?oc=5\" target=\"_blank\"&gt;Ferran Torres, Dani Olmo and a couple of Spain player",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tYm1ZOElyNExrQlRmakEydW9wNURkdFBFcTJ0NVYwU0xmRDU1akotQkZtN0NvOXNEcEk1SmltblhRTlRfWTY2MlZCMGNMRzBXS29QLXpzODJzblZvTlpwSU4yclRUTE9sbzI1djlB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-announce-the-official-fan-voted-202-2026-07-23",
-      "headline": "FIFA announce the official fan-voted 2026 World Cup dream team - Flashscore.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFVaWGpKUFNjUU80MjREdkVEMW9Yc3FVaDlxcmlaQzVOaHdiX2M1enVaZDdieFBtMjhpSGkzRXoxRlFvUE9fd1ZMcDdGNmJvSnlUeGsxaTZRSmNVWEtQTUs3M3llNm9mM2ZURWhsaVE0QTRKc1J2b2txQkxBZzJzUUkzWDhIUWVmMDZzejVGWVY4Y2l1NkxDYTVIZnFQTjY5NUwxRHd4ekE",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFVaWGpKUFNjUU80MjREdkVEMW9Yc3FVaDlxcmlaQzVOaHdiX2M1enVaZDdieFBtMjhpSGkzRXoxRlFvUE9fd1ZMcDdGNmJvSnlUeGsxaTZRSmNVWEtQTUs3M3llNm9mM2ZURWhsaVE0QTRKc1J2b2txQkxBZzJzUUkzWDhIUWVmMDZzejVGWVY4Y2l1NkxDYTVIZnFQTjY5NUwxRHd4ekEtRUdFSUJEOEd2R0F0dkZIcjJja0hQZ2dSb2FCLVpsTktB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-domestic-abuse-reports-reached-record-hi-2026-07-23",
-      "headline": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown. - Sky Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPUzREeDRFU1QtQ3k3S1dZT01WMkFKemY5cDFTMUJHX2FUU3hoUW1sTEc2UDhTbVFpdmFjb3pCZDl3ZkdxTUhybXJNS0Y3N2swNjJFZ3U0X3BSOHZNM253M0tqUUZQc1RUaktvdGxRa3R2WW8wdjBpaVo3Z0xTUzJMTzZDdjJLR0tiNDl1SWl4YlpfM1lJSjJOMTc4ZU84X0hSMXRLZ29LdXl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUzREeDRFU1QtQ3k3S1dZT01WMkFKemY5cDFTMUJHX2FUU3hoUW1sTEc2UDhTbVFpdmFjb3pCZDl3ZkdxTUhybXJNS0Y3N2swNjJFZ3U0X3BSOHZNM253M0tqUUZQc1RUaktvdGxRa3R2WW8wdjBpaVo3Z0xTUzJMTzZDdjJLR0tiNDl1SWl4YlpfM1lJSjJOMTc4ZU84X0hSMXRLZ29LdXlKRDVJQU1hdWFpREVYeHA3UGkxMkxSTzBwN0xtZ1owN3JqMnR5YnV6TGNoSDJ4YVVzb2pXdUtfVW9QdlNMS2FrTHFrc0ZtNXVrUDVEeHhCdVlnYkVYX3g2OHc?oc=5",
       "featured": false,
       "draft": true
     }
