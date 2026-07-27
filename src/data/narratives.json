@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-27T16:56:53.227Z",
+  "lastUpdated": "2026-07-27T19:26:41.783Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4679,7 +4679,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 600,
+      "chapterCount": 601,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9479,6 +9479,14 @@
           "title": "World Cup 2026: Gianni Infantino slams critics who were 'spreading hate' during event - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWVtYWRlclAtblgyNnIzVkY5QjZ5MWJHM3ZlUVBtS3hGRlIxS2wzYmZsQWlMQUpoZ1Z6V2M4bllhN0pmZnlvam5aQzQ4U05tT2xuTUdvUkZSazlsbG9VRzQzZ2JjLVZmdzlodGJjeThLZEFIYjNDM3dFMUdLVkp4RTljWXdCeTlkQnNVV0w3dWk1SHRPWEZUVlFkS1BvdEJmUUJucWhKaFU3Tjd2WVlJT0pmRm9uU1A1bnRleDNuNmVTcUhJLVlOMmJrbVhDLWFRTGFJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785180400623",
+          "date": "2026-07-27",
+          "title": "Would the U.S. actually win the World Cup if its best athletes played soccer? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcW5ROWMzUUQtMzlmbGpnVWJFUkNPYWtuNE5kQWR2T01oZXJCQWItemU4R0NsbFgxendERXBkYkV1aWlPNnBEc2ZqVWtQeUNSSklTVWZzN1VnS2twNWxlMDdRSFFrYXB0a0pzU0t0RkJ6cjJPUzRZcjVGNG8xZ3dYeXMtMzhiblllOVRvdWtPbWNFRVU?oc=5",
           "draft": true
         }
       ]
