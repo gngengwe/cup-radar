@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-27T19:26:39.299Z",
+  "lastUpdated": "2026-07-27T22:07:11.039Z",
   "articles": [
+    {
+      "id": "news-auto-ranked-which-brands-gained-the-most-from-2026-07-27",
+      "headline": "Ranked: Which Brands Gained the Most From the FIFA World Cup? - Visual Capitalist",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFVTbTJWTzBNdTFNUDNIOW1xaVVCWmFmT1FEMndFdEEtT3ktZm1wekkzYVdnS1hFYlJWMDBGRWVxMkdvVjl2cTBYVFItRi1oQ2Y1dVpkdjVNakJlaFBCT1RwbWNMbXVmNUVhTE5iS2dNNjZSY1hRdGdkSzF2bXJDT1BpT2h0OWJ3bHAwVXVMV0Z4M3lLSXRqbQ?oc=5\" target=\"_blank",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-27",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFVTbTJWTzBNdTFNUDNIOW1xaVVCWmFmT1FEMndFdEEtT3ktZm1wekkzYVdnS1hFYlJWMDBGRWVxMkdvVjl2cTBYVFItRi1oQ2Y1dVpkdjVNakJlaFBCT1RwbWNMbXVmNUVhTE5iS2dNNjZSY1hRdGdkSzF2bXJDT1BpT2h0OWJ3bHAwVXVMV0Z4M3lLSXRqbQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--mistaken-identity-does-not-include-simu-2026-07-27",
+      "headline": "‘Mistaken identity’ does not include simulation despite World Cup decisions – lawmaker - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzgzdnNvXzFFbE9DWG0tNGVtQ2NrQXBScFNibDlDZ1p3Z01ydEJwNGZQblppemU4bnpDaENOM1ZyMFlEMFlMM04yTW15WGM0SzYtaXRSNXRDcmM1dlltaTg4cjJYdzhSUC1MY1RYVHl5d2RNOVNkMExkY1VnWGM1d3RKYUNxUjUtWFNPbkZuTk5HSWY3SWNTajJnQlIzTWE0?oc=5\" targ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-27",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzgzdnNvXzFFbE9DWG0tNGVtQ2NrQXBScFNibDlDZ1p3Z01ydEJwNGZQblppemU4bnpDaENOM1ZyMFlEMFlMM04yTW15WGM0SzYtaXRSNXRDcmM1dlltaTg4cjJYdzhSUC1MY1RYVHl5d2RNOVNkMExkY1VnWGM1d3RKYUNxUjUtWFNPbkZuTk5HSWY3SWNTajJnQlIzTWE0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-president-gianni-infantino-called-t-2026-07-27",
+      "headline": "Fifa president Gianni Infantino called to appear before Congress over Trump ties - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNmhuMFVtNVlkWFFfUDVrTWMtcDFPdXppS3oyclBkdWhCc1V6M3hpMDhobzZEZzNLeG52dE1mOHZfekpKT1dEaURQcDVYeV9MaWR6UUZ5MjMzWVp6dDdGSEozdFV5ckJuVEtDZFRRcC1KbjVxZC1KWXFBWEhvLWg1Sm5hTHhXUi1jbGZVVWV0NXRubjV2dkE?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-27",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNmhuMFVtNVlkWFFfUDVrTWMtcDFPdXppS3oyclBkdWhCc1V6M3hpMDhobzZEZzNLeG52dE1mOHZfekpKT1dEaURQcDVYeV9MaWR6UUZ5MjMzWVp6dDdGSEozdFV5ckJuVEtDZFRRcC1KbjVxZC1KWXFBWEhvLWg1Sm5hTHhXUi1jbGZVVWV0NXRubjV2dkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-south-kc-tech-company-helped-power-world-2026-07-24",
+      "headline": "South KC tech company helped power World Cup security across Kansas City, 6 major cities - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUZRWHBmZFZOY3o0NHkwTmM2TC1USVFESlJfSTVyNFdDbjJFU0UxbXRFTDZKREp5bFhzZWZ3Uk5vSENTSVBMRE1sZFdQcHBtNzJrNVZoZzhES2F3VkRMaG4tNHRXbW1uekhJMk9VdV9zVDBxTHkyenF5V3FybEw1OUI1alhQWExWYmlJRGlqNXRzcVUwUjlCc0pRNzBIQVBMQTN4MmJ6NFh",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUZRWHBmZFZOY3o0NHkwTmM2TC1USVFESlJfSTVyNFdDbjJFU0UxbXRFTDZKREp5bFhzZWZ3Uk5vSENTSVBMRE1sZFdQcHBtNzJrNVZoZzhES2F3VkRMaG4tNHRXbW1uekhJMk9VdV9zVDBxTHkyenF5V3FybEw1OUI1alhQWExWYmlJRGlqNXRzcVUwUjlCc0pRNzBIQVBMQTN4MmJ6NFhVZTgzR3BIZmxUU2tnZFhaS21lN1cyUjBDNlFRd08wQXBCS0E0RVJoVzRfamdHcWhsWWY1NGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-seattle-s-world-cup-visitors-had-to-2026-06-29",
+      "headline": "What Seattle's World Cup visitors had to say about Lumen Field - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Chiefs Wire",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGlTYTRTN0hIVWhPT0t2SU1JTDZuaWJlV29JUjRiYl9FTXJpOXpSbzdVeDJtUHJUd3RER00?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lopes-cabral-s-curling-goal-against-arge-2026-07-27",
       "headline": "Lopes Cabral's curling goal against Argentina voted FIFA World Cup's best goal - The Times of India",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Rm5wZG1LM2k1TjM0M0FyTDFteW9sYS1kN0hSWURKaVNMU1M3cjlfaTIyTzJ0OTA5MV9zNnVyc1ZEckRreWxKR3lRZXJ3ZWc1Q2ZPVE9DNDhsUVUzNHNYSTVFN0s2S3ZMS1lRRTBR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-thanks-kansas-city-for-its-historic-2026-07-24",
-      "headline": "FIFA thanks Kansas City for its historic role in the 2026 World Cup - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJGMnZQMFHSAbMBQVVfeXFMUHR6Tlc0SGJSRTdkdzg2eXQ4dXdfal9CUXdfa0JVVHNwbVlMVTV6S28wVzZxZ1ppSFBJZEU1WGRkNmxfU0lqNC0wVE5aaXBZcklVWmRhZENHRFZNU1NpcG9KeGxLUEw1ZUIycWloOVYwa2tIdTBpRkR6blpPRjBwSnRLSWNteldoOElBQUFubkdJTm5ZZ0dUZm5sS3NJMzdvN3o0MmJzTzJYS2c4U1JjdURHaUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spain-s-de-la-fuente-slams-argentina-s-w-2026-07-24",
-      "headline": "Spain’s De la Fuente slams Argentina’s World Cup conduct as ‘unacceptable’ - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObzczSGhFZlgzTTdMWXdSckU5c1ZNd1JXYTl6cG1jTnB3WVpNMW1CbHN4RGtNWTB3eVZ1X1JONWpZVzVrcExmbGRoZVdwNUc3blRTX2I0ZUMwWGRlRUtZQXpDbTBZNkprYjhKMFowVlBRTVhvdzhsNThqWHNnLXJpd05KZnJyMzA5dUlkZFpMbHl3ZjBMd2RNQUh5YkpKOUNIZ1FfOGkxVnF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzczSGhFZlgzTTdMWXdSckU5c1ZNd1JXYTl6cG1jTnB3WVpNMW1CbHN4RGtNWTB3eVZ1X1JONWpZVzVrcExmbGRoZVdwNUc3blRTX2I0ZUMwWGRlRUtZQXpDbTBZNkprYjhKMFowVlBRTVhvdzhsNThqWHNnLXJpd05KZnJyMzA5dUlkZFpMbHl3ZjBMd2RNQUh5YkpKOUNIZ1FfOGkxVnFmQ2lOdFBrTFFna9IBuAFBVV95cUxOZDZRSjA4UFRoOUZYM0VHdjhtbEROaHpqSDNOZ3UtcWlFdkpseDFsc0dXYmtQY253ZXlscGVUS0JpaFc2WFp3LTl5dGpPNW1lekRtcy1YckhqcUVUVmFzZ2h2QUZtVGNzWmpKSGRsaU9DOGprWTUtUmZqNGNRNUhkVTlmbHhzUk5Fa0tFdkJkQ2ctaUxoWUtqNUtwVU5PR2NVMTZQOHhZa3J5RlB1UV82Zi1yU3VpZ01n?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-watchdog-identifies-7-potential-world-cu-2026-07-24",
-      "headline": "Watchdog Identifies 7 Potential World Cup Betting Irregularities After FIFA Found None - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmQ0T2lnLXRBYXUzaDFpcElJX1NKd1AxM29TbzJNUjUyZ2ZMSko0VWhKc1ZLOG5lQlVWM3gyM0UxNWRZY2hxdW5UWEVKTjlwTTQ5TnhyT0VKZW5XUFllbk1tLU94eFVHVGNwaUtCWXFUMUM4WHlUVHlBUEtCQXBibVlBXy1PdF9pQi1IYV9POA?oc=5\" target=\"_blank\"&gt;Watchdo",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmQ0T2lnLXRBYXUzaDFpcElJX1NKd1AxM29TbzJNUjUyZ2ZMSko0VWhKc1ZLOG5lQlVWM3gyM0UxNWRZY2hxdW5UWEVKTjlwTTQ5TnhyT0VKZW5XUFllbk1tLU94eFVHVGNwaUtCWXFUMUM4WHlUVHlBUEtCQXBibVlBXy1PdF9pQi1IYV9POA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-soccer-fan-celebration-in-u-distri-2026-07-19",
-      "headline": "World Soccer Fan Celebration in U District - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5\" target=\"_blank\"&g",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-fifa-world-cup-volunteer-shares-ele-2026-07-18",
-      "headline": "2026 FIFA World Cup volunteer shares 'electric' experience inside Seattle Stadium - KING5.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSFQwaGo5endpSnlteEV1d3NiX0ZkMW9lZEF4VmszN1cwMlZBSEVvOV9qdjBaZzhjbkF1WmNlc2NYUzBMMDN1WElIRG0zOTd5emRqRzdEY2lLajc4Slp5T0YtLUlBYlJuMHRSeVFicmx4S1VubVI2dktWY2lzRm44bnZvbHhadVdMTXFaNjR4OVo3Z1pOd2dOdFBzay1BZ0E3SlUyVDZIMDd",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSFQwaGo5endpSnlteEV1d3NiX0ZkMW9lZEF4VmszN1cwMlZBSEVvOV9qdjBaZzhjbkF1WmNlc2NYUzBMMDN1WElIRG0zOTd5emRqRzdEY2lLajc4Slp5T0YtLUlBYlJuMHRSeVFicmx4S1VubVI2dktWY2lzRm44bnZvbHhadVdMTXFaNjR4OVo3Z1pOd2dOdFBzay1BZ0E3SlUyVDZIMDd6WlM5Um5lTi1wc2RhYlNKZmU0ZnR4MlB1aWlBVHpTREpORE04Sk5wd0o5Zjdmc0dUdEttVUpaRmp3Yl9YR2RzaHNUaDRWNngxUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-seeks-2031-fifa-women-s-worl-2026-07-24",
-      "headline": "Kansas City seeks 2031 FIFA Women’s World Cup, plus 2031 Men’s Rugby World Cup - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8zeDB5Y05uR0YtUlIwUlBIcV9xVGpkbU1TeE95SGdHc1I1Y2dtb3VsS1NiMjFNcmo5SEcyOUt5My01NWh1Nl9rQ0ZqU0tvWmY0TnQyekREUzBQSGtqT0NoZlhycXRxR2tRYzJV0gFrQVVfeXFMTnlJVk1FMkYtZzRHTTRyMmFNblZoUUJjNjEwajZLTDByV3BSc0F4YnRZcGNBaHh6ZzlDVmR",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zeDB5Y05uR0YtUlIwUlBIcV9xVGpkbU1TeE95SGdHc1I1Y2dtb3VsS1NiMjFNcmo5SEcyOUt5My01NWh1Nl9rQ0ZqU0tvWmY0TnQyekREUzBQSGtqT0NoZlhycXRxR2tRYzJV0gFrQVVfeXFMTnlJVk1FMkYtZzRHTTRyMmFNblZoUUJjNjEwajZLTDByV3BSc0F4YnRZcGNBaHh6ZzlDVmRKS3EyaFc5dDI3MWVsai1JaUh6dmZ6UkkyVmFiZ1l5d2RTMGh4OGRtZ3I0QmFQZHM?oc=5",
       "featured": false,
       "draft": true
     }

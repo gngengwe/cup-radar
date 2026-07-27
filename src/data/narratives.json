@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-27T19:26:41.783Z",
+  "lastUpdated": "2026-07-27T22:07:13.301Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13496,7 +13496,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 751,
+      "chapterCount": 752,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19504,6 +19504,14 @@
           "title": "‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORk9NT0hSck13VFBwWnY0Y3BaQlNLaEpBeEYzd2hMVTJ3N3BsaklLTXV6clVhS25CNlU1UUk2VjJWZy1BcmtRbzJYT2FjVG5TOHlDV1RtWk1pLWZFNTA5RnV6czNWTkxKZGVBbUhfdjUySWRPbll0ZlVfSk83R3NXVFVDTDB3bG9jLTlsTXp1ZVUxYTJSaFVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785190033300",
+          "date": "2026-07-27",
+          "title": "John Stones set for Inter move after shining for England at World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjlwaFRJLXB2N21BUDM4RHlsV28yLTUzREpEemgwZGZQRG5fNXRPbG1tcE1hb1hVclE0ejdDZy1aTFlUWWVud1NQZGpjZHFOc2J4Rkk1TFdWWWhFMmd4SGNKS2NIRE1EVXFzUUhhNmNuLUFNbzJidE50bFh6TlNvUHdJcE9PNWF6MUktYTlraDVnRWJTQmdVeXNZNmdJOEFIaFdoRVJ5U0ozVkpETmow?oc=5",
           "draft": true
         }
       ]
