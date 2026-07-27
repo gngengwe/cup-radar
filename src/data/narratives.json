@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-26T16:01:54.719Z",
+  "lastUpdated": "2026-07-27T02:54:29.363Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13456,7 +13456,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 746,
+      "chapterCount": 748,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19424,6 +19424,22 @@
           "title": "Thomas Tuchel accused of single-handedly 'f***ing up' World Cup campaign by England star's former boss - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEE0VTl6REd4cDVLVkVZSXoxUHF0czNmdTZiQzdQdlA5MVNNbEN5Y1d6UURVQmRSLXY3RnhYUlU4ZDlRRzZkQTN1dDctM0tKQ3B2MHBsclZzYWw0Qlc5QTE0UUFqbFBhSnBwdkpMSm5ReVlkc2xTZ1UxMkxzSnVfUnl5Y2hGNVVPRlJOdk92OA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785120869363",
+          "date": "2026-07-26",
+          "title": "England DENIED automatic Euro 2028 hosts spot as Argentina get World Cup place - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkV3eU9LbHNPNVY4X0NzbU9IeURNWV9ka0VhVGRYZFVLMk9oS3gwQmZKYVNGLXF0SUhyQ2x6SldENFRxSy1qN200UXl6MHRCMWJKWVp2TFdIQjQzczJ6T3ZhVGF1aVFSYlluOWQ1QmJDaEVHSkI2X3YtdmtVdUxQdGhudi1HaTJ5clhwRWNpRmM1dm5oMkw3ZkRn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785120869363",
+          "date": "2026-07-24",
+          "title": "'Criminal' funding crisis threatens England amputee team's World Cup trip to Mexico - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IWW1FT3hvSkg3QkZTNFdWSnFaNGRUR1RBSDFyNU45cDJwQ2lGWDJmbkFTcGJJNHN0MzRnN3IzbHJDNlJUU0E4WVJ6dUIzNXg4TUltV25yWkF2WTk3SXV2WDZ5Y1NPYk0?oc=5",
           "draft": true
         }
       ]
