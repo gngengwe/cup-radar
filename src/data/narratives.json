@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-28T02:31:17.432Z",
+  "lastUpdated": "2026-07-28T08:33:22.964Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2404,7 +2404,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 282,
+      "chapterCount": 283,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4660,6 +4660,14 @@
           "title": "Kylian Mbappe Writes Open Letter to French Fans After Finishing 4th at 2026 World Cup - Legit.ng",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3p0bEZQdGZwU0k5WjR1emFVc3NfRWtSV0xRSUJPU2ZKd2xJWDlqckx6dmVtM1o1Wms2X2twQnhxbE9tN0ZhaTRQV1FJeWhrQmtYdURTVHBaS1ktTU44QkJMaGVIRk5OVXNkUE10Qk5obGE2ZXBaaTU2N1JjU2F0d1huVHk3Z0VjSDFlYnh4OHJwTVpHcWRFZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785227601455",
+          "date": "2026-07-20",
+          "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards | World Cup 2026 News - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEw4T1lhdTl1VlBnSDVPZmhXS0dRYThYcW1TcE1aY215dFVDSzV5WFFlYU4xVFdXcUdkR1NJMUJlLUU1U3kzWDJRRG83RTFOWTFZSVhndjFWc3RkMTNkaEZGWVhOMnAzOE5EN0FTT1NROXgzQnZ2ejYybjRURmhRX3dnQzlWYktxZHlXYXhVRmZoLWI0MHRxMllxVUZCd2ZWNGR4dlpVdVhCaldUcUE?oc=5",
           "draft": true
         }
       ]
@@ -13504,7 +13512,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 753,
+      "chapterCount": 754,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19528,6 +19536,14 @@
           "title": "FIH Hockey World Cup 2026: Team Profile – England Women - Fédération Internationale de Hockey",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVpEMEItdUZKOUZ5R0tHZWxob041aUNveC1uWFNTMExwRFhVZXFqU293eThORzNtNmx5TWdZZ1lQZDJIQmdtRVZjQXZMd2FFVHNBanNDVkJJRjROTXVmYnNLeUUyVmJfVFotaVU1eVdqcWh6b252TDN3M3VEd0s5YnBLMDloT3lGZkdSREJxZnBlbWMxQl91V3lWRTZqQm9WMHlCcEtqMHBpdDRKMnk4N0o2QTNXVUdEaGh1SEp3alJFYWYtejB2YWZ6ZGo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785227602964",
+          "date": "2026-07-28",
+          "title": "Watch FIFA World Cup 2026™ Live & Free | SBS On Demand | Stream Free on SBS On Demand - SBS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqN0N1VklEUTYtYmNIQTNmTjYtLXpEalI1S1lReXZoOXlrVWZmUlpJRGdsTk5GUUF6ZS1wMkF5Rk5vM082N3owSGxGZVFIY1U4S252TVgxSFdPSHB6bHlnNA?oc=5",
           "draft": true
         }
       ]
