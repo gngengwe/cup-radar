@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-28T02:31:14.959Z",
+  "lastUpdated": "2026-07-28T05:46:11.857Z",
   "articles": [
+    {
+      "id": "news-auto-lionel-messi-kylian-mbappe-beaten-to-wor-2026-07-27",
+      "headline": "Lionel Messi & Kylian Mbappe beaten to World Cup Goal of the Tournament award as iconic strike vs Argentina takes the prize - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0dfYlVxcnpGc1kzZnRSU2RKQVJOM2pKQkhTb0hWenR5Q2llM3FlTGtHRU9WNjNpZTJROEZmREJDcHJtQkprRjhGWldlSkRGZmxHcHl3MXp4TFFJRllLR1BCMmUyVGg4MmluXy1CZldQUDZLaVQyRnkwSDg4WmtFMXg0X001aUpGMnp0QUFYS0kyVVRvRlFDMVJZVXliVmpYWVJfVlF1QVd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-27",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU0dfYlVxcnpGc1kzZnRSU2RKQVJOM2pKQkhTb0hWenR5Q2llM3FlTGtHRU9WNjNpZTJROEZmREJDcHJtQkprRjhGWldlSkRGZmxHcHl3MXp4TFFJRllLR1BCMmUyVGg4MmluXy1CZldQUDZLaVQyRnkwSDg4WmtFMXg0X001aUpGMnp0QUFYS0kyVVRvRlFDMVJZVXliVmpYWVJfVlF1QVdMdy1DZ20zOHlpdnBqdXZlMUtKc2JBOTJaSVNlVXd3N1l3M3hPMkNuRXJua2lFQ08?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-soccer-fan-celebration-in-u-distri-2026-07-19",
+      "headline": "World Soccer Fan Celebration in U District - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5\" target=\"_blank\"&g",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-jackson-county-leaders-hopef-2026-07-24",
+      "headline": "Kansas City, Jackson County leaders hopeful for future World Cup events - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FqM1VaVmpwTXlIdTJiNndlRTNGVHljQ3I3N1I5VzRFSUtYeklQOE45ZFhVNU5uUEhaZFdjM1g1djdCV0dDTWpWMTV6Zl96bmJBbGRvZDRtT2dOS2RHV1haQkoteHg2X0V6OUVkYmNPMWVpR2R6dUp2TGUwRml1WFZnckdycjlJNXNfYVVSZV81NTFYakFFdlliWS1IVXpqLWJzbWFZU2V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FqM1VaVmpwTXlIdTJiNndlRTNGVHljQ3I3N1I5VzRFSUtYeklQOE45ZFhVNU5uUEhaZFdjM1g1djdCV0dDTWpWMTV6Zl96bmJBbGRvZDRtT2dOS2RHV1haQkoteHg2X0V6OUVkYmNPMWVpR2R6dUp2TGUwRml1WFZnckdycjlJNXNfYVVSZV81NTFYakFFdlliWS1IVXpqLWJzbWFZU2VwdkpsWWR3SEdB0gG3AUFVX3lxTE5kUXhUei1WMC1tQ09OZWIwQzhDTFZQY05lVnE2Z0VjcVNfaXo0MHhVMHMxMkdDd1FOYzdndXRFMk1BZXpid29MSk5NTGVwdk5WTzJ5dWhhYU1oUlViRDJUS0JGbmgwTWYtRGpMMHJESnhudk9ham5TSjgydURRM2E3TE5XZWpaOHl6WXZsUEQydGNXLVBGT3kzX2pJdDloRVRuQXdPZVoxczRlRC1Gcl9jcF90T2ZrTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-world-cup-hotel-airbnb-numbe-2026-07-24",
+      "headline": "Kansas City World Cup hotel, Airbnb numbers show early economic gains - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjhfYjRVQlVkT2Y3RjVrcEFvWFlxVElYdUtlQlBfY3ZrTkt1SkJuMUVTdDRiekU0a0I5VVF1eEl4ZDhqOG1YeE40ZTNFTy1hNHNxTjF4eHJrMkdxUTRDTkJoVXBEcWN2azJjdWxjOG9ic2hzMVo4TTk5TkdvM1RCcjViTGhPeG1PMjY3N2gyemNnaE9xRU9jX251OHJrUXhFY3dJT9IBuAF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjhfYjRVQlVkT2Y3RjVrcEFvWFlxVElYdUtlQlBfY3ZrTkt1SkJuMUVTdDRiekU0a0I5VVF1eEl4ZDhqOG1YeE40ZTNFTy1hNHNxTjF4eHJrMkdxUTRDTkJoVXBEcWN2azJjdWxjOG9ic2hzMVo4TTk5TkdvM1RCcjViTGhPeG1PMjY3N2gyemNnaE9xRU9jX251OHJrUXhFY3dJT9IBuAFBVV95cUxQU0MxcFdaOVpLbm5mSDIwS0h3ODlGUGFNWnZsYTR0bXBKcHI2Q3JvRnpXVEJKRVpleGpFRVdHQjlZT1ZaeXFqR0RoZnFIdnJyckRuMVBNVFY4UVQ4RDVJNzhIcDZmTkRIdUEydUlFV3hGRzhwVktjc0FKZ2RZM2JnVTlVX0hGOUpVc050TXhRVXFQanZfSUhtdnM3cHFQSElvbENfWHd1TzN6ZVZrVXlQSVVJMVdubWdJ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-25-8m-kansas-city-world-cup-jail-tha-2026-06-09",
+      "headline": "The $25.8m Kansas City ‘World Cup jail’ that isn’t ready for the World Cup - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPalF1MHhVR24wTVdtLXRaV2YwQmRiTUxtU1BJcHVpTGtoS0JYSG1KaC1LcGdRRDJnQm84bWpvcll6SWtJaktLdUdaM2pacDVmeU41OU9FSVZ4MF9TZjhwRnN3bGw2QnBMLXl4akUwV056Q1p1R2s3YTlqZG1TQUR3Y3dhZnhSNEtyTDJDUkpzRVdNbm8?oc=5\" target=\"_blank\"&gt;Th",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalF1MHhVR24wTVdtLXRaV2YwQmRiTUxtU1BJcHVpTGtoS0JYSG1KaC1LcGdRRDJnQm84bWpvcll6SWtJaktLdUdaM2pacDVmeU41OU9FSVZ4MF9TZjhwRnN3bGw2QnBMLXl4akUwV056Q1p1R2s3YTlqZG1TQUR3Y3dhZnhSNEtyTDJDUkpzRVdNbm8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-take-a-look-at-the-work-being-done-at-ar-2026-07-22",
+      "headline": "Take a look at the work being done at Arrowhead Stadium following the World Cup - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVNzdHZUblNUMlZwOWd0U1JBY2pQQy15NTBXQkJIT3FYTW9sZFd4aGdfZUQ2WUlBMl9HSFVZSzdhamlGdnJqRlZtU1ZrU0JoMUVyb2JBcTQ2UUVMRi1rTXBSb1EwaTFrMXJiNXhQZzZEWGd6TVdubmFDb0U1N3I4TzlxcFNXX1ZtRWtrOU1pcmxYd9IBkgFBVV95cUxNb0hZZ1doRjhmMF9",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVNzdHZUblNUMlZwOWd0U1JBY2pQQy15NTBXQkJIT3FYTW9sZFd4aGdfZUQ2WUlBMl9HSFVZSzdhamlGdnJqRlZtU1ZrU0JoMUVyb2JBcTQ2UUVMRi1rTXBSb1EwaTFrMXJiNXhQZzZEWGd6TVdubmFDb0U1N3I4TzlxcFNXX1ZtRWtrOU1pcmxYd9IBkgFBVV95cUxNb0hZZ1doRjhmMF9wQk16S19uQVhpMUNmZUhTaEV4UnduaGQ0YkFlUmdjeU1wOUplMVdwbm9EUkg4YXNZNmItMTRfeDFRbzVzZ1JDVGNPdEM2RFZvUzhmRllIM0lNcTlNTXItUVgxYWh5VEFjcFZnTnREeEozVFVJei1HdzRraTRRWVE2OThaejJRQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--sidny-lopes-cabral-wins-fifa-world-cup--2026-07-27",
       "headline": "🚨🎥 Sidny Lopes Cabral wins FIFA World Cup Goal of the Tournament award - Yahoo Sports",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ0sxbXp5X0I0OWNRZGRDeDZsek9FRURTWmx3ei1TdGFZSzJmNkU2Y3AyRTZOS25wdHE2VV9HNkxvempneTVjWHBPQ0JnbUQ5ZFAxd2pUY1FEaG1JUUJKNVB1eWhyUHlZSnBMYzFyZ0N3Zjk5RG53TW1peEk4U21udGJDem8tbjhGX0FtU3Nhd3p5QUFtM0RMSVVXVmI2NkNzNXdfUjQ2YVk3dUJLbVdUdERPZzdXdnBxT3lNMUZMU2UwaWp4cVFRSWNkcVZ3QzFjdGJVenVUM3FST3ZvX3ZsaV9uMkREM0dPQlZYb0J4TDNwekVwM1Y0MEJlNWhXMHlNNUZNckJzdjlYM25DaUZXVm5qRnNyVVhrTm4tOG1pT2TSAaYCQVVfeXFMUDZEODhtbml1ajhudmtZLUFzWEVTaHA5cUxOMUFFVXZzYlZVYVZkV3UyTEc5aDJoT0paTzk1UlRUS2hiYlNqM3RxZnk1NGpuVGVoVDJ3V0NIWVJDM1IzZGZrQ1FDcWRBWUZMMWhHT0FLVW85bENQZlRWYnN0bncwVF95bmFocEM5MVFzU0FBSlREWWpxTjd2ZnJoZWVOendHY1ZyaWl4eGNESmhyTEdzVnZJR3psSm56a3BPSWh2UExSQVlwNTBsTTV3SWtLdHVVMkhmTVdKWjBKS0psVVY5amY3ckhWUGNpNGJaQk5VR0l1blBkNTdwNTFCb211WEpma0lBTS00aXl3LXhrcDUtRWhUZ2VMcGVPUlNiMVZTZktDZEVtTkxR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-president-breaks-silence-on-pe-2026-07-25",
-      "headline": "Argentina President Breaks Silence On Petition Calling For FIFA World Cup Ban - NDTV Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPclZnalB5by1kVTl3OUtCMERiR3NZS2ExclQ2ZFlYN0lWNTQxTHV4azBoT2hXRkNZMW94OVE2YmlVNkdnTEtBMkRTTldRN2FNeGJJN2IwVUZnSzdFdVc4V1ZKbUJIcHFhWjdpNU9rMG9jOVdaTXctY2EwSlFya19hQjQtOUZnY09FN0R1R3oyYkxBUjdGQk1BczBBVGtINUtjRURwVV9jZUF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-25",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclZnalB5by1kVTl3OUtCMERiR3NZS2ExclQ2ZFlYN0lWNTQxTHV4azBoT2hXRkNZMW94OVE2YmlVNkdnTEtBMkRTTldRN2FNeGJJN2IwVUZnSzdFdVc4V1ZKbUJIcHFhWjdpNU9rMG9jOVdaTXctY2EwSlFya19hQjQtOUZnY09FN0R1R3oyYkxBUjdGQk1BczBBVGtINUtjRURwVV9jZUFwb1RnTFk2VTBzSlhkWUp2aVJFMUp5S3hUSW5uVmoyTlZR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-23-million-people-signed-petition-demand-2026-07-24",
-      "headline": "23 million people signed petition demanding Argentina’s lifetime ban from the World Cup - talkSPORT",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzB1X01DVE9tMXF4UTVhN0FhYzF2SXl6QWJXYnNuYnBqRlhvNVZGTmkzbU9YazJra0dGSnhFWWFwWWkzRFdNbVlqWkVpd05BUFFiUHVOalV4dDFQeE16TmNYSGNZbU5XRjFUd0xpNUc3ZVdjUjl5dDZBSGlESHdzTThIaDBlMFpTcWxNUTI2WDRmQ2lNQTBLV1R6Z0I2TGxOMDhCTnlXTmx",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzB1X01DVE9tMXF4UTVhN0FhYzF2SXl6QWJXYnNuYnBqRlhvNVZGTmkzbU9YazJra0dGSnhFWWFwWWkzRFdNbVlqWkVpd05BUFFiUHVOalV4dDFQeE16TmNYSGNZbU5XRjFUd0xpNUc3ZVdjUjl5dDZBSGlESHdzTThIaDBlMFpTcWxNUTI2WDRmQ2lNQTBLV1R6Z0I2TGxOMDhCTnlXTmxnRVk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-world-cup-star-vozinha-reache-2026-07-25",
-      "headline": "Cape Verde World Cup Star Vozinha Reaches Agreement To Join Chilean Club Colo Colo - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQl9tcENrem52dHFoeUdxRUtkV1dybUI3S2RVaFhubml0Ni03SXVMUmc0eTBQV2d0WnFGSC1WODJLSFNnTTU3N0JNcUFvWE84ZUJCTi01cTB2R01XTnRqRVowYmtOc1NZdUlJTnVibUl4Q3lkNjRLaEpzcWNZZ2RFblNTZFJVX0pfdXlRU2xqSnVySDB2bjBNZTBTNmhtakN4aFRheWYxQ0t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-25",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQl9tcENrem52dHFoeUdxRUtkV1dybUI3S2RVaFhubml0Ni03SXVMUmc0eTBQV2d0WnFGSC1WODJLSFNnTTU3N0JNcUFvWE84ZUJCTi01cTB2R01XTnRqRVowYmtOc1NZdUlJTnVibUl4Q3lkNjRLaEpzcWNZZ2RFblNTZFJVX0pfdXlRU2xqSnVySDB2bjBNZTBTNmhtakN4aFRheWYxQ0tUd043Z0lZbWV3elE0VE1razdtUdIBvAFBVV95cUxOc0taU2g0RnI1NVdzaWdJYzNGZU1SdGRmNGtTZ3o0OGM0VC1WMzZQN2txWHhyTXRSaVgwMDBRSkJKOXZBUUdLbU5nd2NOYUJrNXpUckJwZDZ4c1dINklSczFvN0FlSGtaUVVmMXZUV1NBZEREYmlHQTE3b3NLcTFXVGFxc2MxUE42a1VuOVhmZHRNZ2JsbVdyWWlGd2dnVHJXOTlPdFF1TkFITTB5UDBIWG5jOTVHZUM5TjZuZg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-world-cup-hero-vozinha-agrees-2026-07-25",
-      "headline": "Cape Verde World Cup hero Vozinha agrees move to Chile's Colo Colo - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkI5c3JRaXBtakNzWkZURk9tdUw4YkxabHJubWR2eTVhWE9SRWJLWTJLUEd6STRDSzRyWk52NVNZOGVuaG5rbGN1YThIOXVULWVaTDY2a0lQWkZFazEwNmhBSHB5TnBFTnAxQ3JSSE0waUlmZG1Ob19QOHFLdnRYekFmRkJRNW82MFVXTFdSMWNvWjR6cC1YY3dwdzBwaWxUMVRncDV3WUV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-25",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkI5c3JRaXBtakNzWkZURk9tdUw4YkxabHJubWR2eTVhWE9SRWJLWTJLUEd6STRDSzRyWk52NVNZOGVuaG5rbGN1YThIOXVULWVaTDY2a0lQWkZFazEwNmhBSHB5TnBFTnAxQ3JSSE0waUlmZG1Ob19QOHFLdnRYekFmRkJRNW82MFVXTFdSMWNvWjR6cC1YY3dwdzBwaWxUMVRncDV3WUVMdzBjX0lqa1VR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-goalie-vozinha-earns-move-to--2026-07-25",
-      "headline": "Cape Verde goalie Vozinha earns move to new club after stealing show at 2026 World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORHZlTGZuVVc3QXRBcW10UGd2WHFhY3RvRnBOSmwtQ0VTNVprdE9WOTJITjlWdV9ZYU5tZTBLNkdYT0podldqcHhITW45TWlwN0JKOXdMSHZBS09PTnFQLXh6RTk5elpQa19MVUhZMjFWWlU5WWZ6VEYzQ3BJQWZpeDFKZFVIT28?oc=5\" target=\"_blank\"&gt;Cape Verde goalie ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-25",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHZlTGZuVVc3QXRBcW10UGd2WHFhY3RvRnBOSmwtQ0VTNVprdE9WOTJITjlWdV9ZYU5tZTBLNkdYT0podldqcHhITW45TWlwN0JKOXdMSHZBS09PTnFQLXh6RTk5elpQa19MVUhZMjFWWlU5WWZ6VEYzQ3BJQWZpeDFKZFVIT28?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
-      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-where-to-find-croatia-s-stars-after-the--2026-07-25",
-      "headline": "Where To Find Croatia's Stars After The 2026 FIFA World Cup - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2l0eGpubm04dU1YYUNFVWY2Q0FVdlB2ZW96Q0U3enVnVHNSbkxBeDVJR3ltakFDa1N4bkExbmY0dnpIZU40cTJXU3JoYzNxaC1tRFRDRFczbHdzckxoSi1nVEpuV2hjbWdzT3lDVEtzTks2bWVWaTF2OHAzcldQTmQ0WFFlanZCb19PS2FzdngxcUx1aUHSAZYBQVVfeXFMTTlCM3RvSzF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-25",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2l0eGpubm04dU1YYUNFVWY2Q0FVdlB2ZW96Q0U3enVnVHNSbkxBeDVJR3ltakFDa1N4bkExbmY0dnpIZU40cTJXU3JoYzNxaC1tRFRDRFczbHdzckxoSi1nVEpuV2hjbWdzT3lDVEtzTks2bWVWaTF2OHAzcldQTmQ0WFFlanZCb19PS2FzdngxcUx1aUHSAZYBQVVfeXFMTTlCM3RvSzFPTHJnRVNsRGhaYks0ak5uclJXc2xqRDdwYXM3WkduMTBHQS1KTWM1TjVqa1kzZGg1RERoRS12VHBxS2cxZ3NyUGt5dElfYjdxNXhDQjlLbFc1WUxoVnk5MEFadWlpV1dfcVZtNDh5b2NtMWV3QnBuNmc2RjNqT2duQVk4bDVyV2pZNmVPMVJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-which-matches-and-tournaments-can-footba-2026-07-24",
-      "headline": "Which matches and tournaments can football fans watch after the World Cup? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0pQVzh0VEZvNGpxMG5CLWc0UVp3Y0RHMUI0OVVUc2ZraVh6VDk0bHRiRk1XcXl3RWZ6UlpVUktqc2wteF81Zy1LTWNJNnlIOEJGUGxIZEdLbm5WSk5IZHdCMkxTMkZjdEFnVFgtOFRHcjZnUnhjLU9uQldEQ09iazZyclpZRW5obE1ON1hpMTZYT0NxMkM5MklUTXphVk81QTMtU1dlWnl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0pQVzh0VEZvNGpxMG5CLWc0UVp3Y0RHMUI0OVVUc2ZraVh6VDk0bHRiRk1XcXl3RWZ6UlpVUktqc2wteF81Zy1LTWNJNnlIOEJGUGxIZEdLbm5WSk5IZHdCMkxTMkZjdEFnVFgtOFRHcjZnUnhjLU9uQldEQ09iazZyclpZRW5obE1ON1hpMTZYT0NxMkM5MklUTXphVk81QTMtU1dlWnlKZWPSAbABQVVfeXFMUHotRFY1RDhTNHpQRzdUOXpvczJVOEp4MFVxVGxMUnRQYnpFN01GdUxPam9VSTgzY1luVFlyT0tGWG5DWlFYLUxFdkNDdGhBdGNUdUhBQzh3Y0h4ZTN6bjNBbzlOQkN6UzJaRVVLT3BwNlNjNktsZ0wyUXFQZldvUW1JQl8zb0dDWEcyU3ZkRWtJTUp4Q25mVUhRMG1yZ3NmNHFib0VuUE5Nd0dlNFpzOXU?oc=5",
       "featured": false,
       "draft": true
     }
