@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-28T14:06:05.735Z",
+  "lastUpdated": "2026-07-28T19:23:02.920Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2404,7 +2404,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 283,
+      "chapterCount": 284,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4669,6 +4669,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEw4T1lhdTl1VlBnSDVPZmhXS0dRYThYcW1TcE1aY215dFVDSzV5WFFlYU4xVFdXcUdkR1NJMUJlLUU1U3kzWDJRRG83RTFOWTFZSVhndjFWc3RkMTNkaEZGWVhOMnAzOE5EN0FTT1NROXgzQnZ2ejYybjRURmhRX3dnQzlWYktxZHlXYXhVRmZoLWI0MHRxMllxVUZCd2ZWNGR4dlpVdVhCaldUcUE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785266580813",
+          "date": "2026-07-27",
+          "title": "Mbappe: France's World Cup heartbreak will continue to hurt for a while - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU3hvLVNZa0tDTUd1Wm55ZmwzNG5DdTN0NUJ2NjZnaDJfaVMwS09uLWVVQWZ1bmRjZVU2S05iVlVQYU1MZW52cEJYeFBHY28xd2ZLdHFmRUZvcmZsa0p3V0RuOHBBRlhFRHRLNEtJeUtMRDlQM0x3MFRKdTFVa3liY2J6OWRscnU2QWwydkJ4ZHBtZVRCX3NoUFI0aFpUZjQtNTVuQk5vb2tXcXpkRWJYdHcyeEhOb1dKT2Iyb1lBMTlZcE1wdkFFbWZSbDNUem9vd0RQWmpwVmNORUsxbFFZS3pBbw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4687,7 +4695,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 602,
+      "chapterCount": 603,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9504,6 +9512,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEl0V3k1OWx3ZlRhWHppcWV1YTBGWGRMaG9McVU3bGNiLVROYzI0QTlyNW5ZUG94ME1oNnB2UTBtNVBXV1g3d2E4eWFobHVfX1QwcFB2RDFZNk81a2U1cnoyLUlsbzBfdlpDYjlhbUhIRGVOTkhPVzAwdHVzSi1BWkFCbG9tR3hqeXhiY3d3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785266581445",
+          "date": "2026-07-28",
+          "title": "US goalkeeper Matt Freese says he’ll never get over his team’s loss to Belgium in the World Cup - WTOP",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUl9DRGx4OFRJSE14SU9Rd21STENwOGhrQWVJbU8yM2JtakdnZXlDLVJqWWdic3pmaW9leDFnbG9jS0xyNFp4RVRyNXU1NjZadzNCQlRMOGp3UVZvb00xWWgyYkNHR25XQ0xWWmR2ZlYyQmFvQVdkclQtZ0czSXVGT2ZGWUpTVDlBVVNoUG1YTXRjSFhGa3RNLU0tN2lqZUplaUdHSWlBSkZIb0h5LWV2SVVlNGZiOTF1d01fenNRdlFxYjJN?oc=5",
+          "draft": true
         }
       ]
     },
@@ -9522,7 +9538,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 470,
+      "chapterCount": 471,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -13283,6 +13299,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnRzZi11SWF1QUJ3V01oeHRwOGFDdjZQTEN3Nmg4WXF6QVc4VWdZZ3FpUm1qcGJNV3JkRkhva0FhMy10dGpkZDgwTXF6YmVKVlcwQ2FyUmZ5NUxXOTd5NzZsY3VMUC1mTmNRdE41QnhIdHYzWUpUOEdlcTlZTmN3VHJhS3Y1UEFCYWUwRU9SRVhvQ2VvMWE1eHRtaTRUZ9IBngFBVV95cUxQLTB4WFVBa2lweXY2MFJ3NmNBd2Q4b2ZEbHBla1VZVUlsNjZtcV9YaC12ZlJfSUxEUWVLRlVqS0d5NE5KaGc4a3VsdjdlMmMxTm5qdWJRRGZtUlRMV29ZeFVPZ3RHbTlieEpBRVdOTGdsNy1KaDFUSHk5ZEQzUk15Z0R0ZkVmT0lpQjV1U21DaUZwalNIWFBBemtaM0pqUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1785266582223",
+          "date": "2026-07-28",
+          "title": "Where To Find Brazil's Stars After The 2026 FIFA World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkNmTkhaaWF3cWwxSm5UQzU3TFd4RDd1RVBLNFAyc3ZRVXhLT20yenFlRXl5aGlrNEJ0M2staTRjUC1MZDB4SmpjazlwU2N1TnVqVmFzSjB0MDRRcGQ0cXFyOTNhckVSRC13eGVSblFmME1EcjdXQzNYa21ZRUV4UEVqT0k2bncwSHgzaEx0OTNBeFFQTnJkWktmSQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13512,7 +13536,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 755,
+      "chapterCount": 756,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19552,6 +19576,14 @@
           "title": "England vs Norway 2-1 (aet): FIFA World Cup 2026 – as it happened - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlFhRTRDUlllMWpIME5qSFotN1V5S3ZlUkZrdElUMm9hTFJJeUJCVjViamJydGJCU05BZElRN1VNa3BQUzlvMTRhUGdxYTZTQjVQNEYycmJ3M09DVGRkZEFObEJOSjkzZjBXelptZE1xUXhnQi1MMDI1V3hiTFBJY0xCRGV5OWkzTEU5VTVjY19RdUJmUXFsUDBGYXFWZ1JpcW9XaWM4eUVkT1nSAbABQVVfeXFMUHNES1hmNUxwUkNUT05tVVdKOXVOd0NhS0Nqd3FoSmcyRG55WGRfZmFHRU1LQzNUUmxaZm5vYU0yelQ5N1RXZ2lubnBMQUtodEExUVZxN2dkeG82S3ljOHBDbndwTXpHQmo3Z3hRLVRHNHhnNFlWTUtwa3BIY3NVWVJWZ1k5b2t6bFVTdnotZlBNdkI4a3F2UTJ4MUhOSWlzc09tdWN0YW1MbWRCOFlXb1k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785266582920",
+          "date": "2026-07-28",
+          "title": "How To Watch DR Congo's Stars After The 2026 World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXNPY3B6Rl9iMTQ0SW9PT3pUZ1hVcWZWWkRtU0N2MVhfRFBaOHd4Rnd2MTUxZ2E1ZXo2WGhvdDMyY0FvQ3JacS1JOXE0V1pkUS1BelpiMFBZQkZ0MXR2b0lSM3RjZEFMZUc1MGM1R2hXMWwxVGpFTEtMbmZ5RTcwTWo1aURTbE8xanRxaFd3cUbSAZABQVVfeXFMT0VJRVdnci04R2VrejNpTUljaU1FcXg4c24zeHZoOUxTekRwVDQ3dVF5Ym5naVBxUGl0N3RILTNrTWI4d0w3cEFFb3N4clJvcFB1ZjY1T0E5VWw5WG9jNGEzNS16YjFGeDhoSzk1SHJCMjJjZjVZTno5VFhvTGxwM2p1QnlFOThNcmZfM19lZ0ct?oc=5",
           "draft": true
         }
       ]
