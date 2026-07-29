@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-29T08:40:04.233Z",
+  "lastUpdated": "2026-07-29T14:09:34.296Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4727,7 +4727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 607,
+      "chapterCount": 608,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9584,6 +9584,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHU4YkhpeXpFQlB0d0R6YVZhZjB6alBmU2p0T05JQTBISUlsVnAxMnpyNnkwRllCTWU0SkRqZ0d0RndKMVh0Ry1SSllCT2hmVUc0YUFSNEprd2FjR0xrd3M2akU5SmNDdEpIdXBmc2YtTlR6OHVzQm9tUXIyZDEyaHh1bHYydldla2ZlOWdxcXJXcmV2Z3BUd0x4NGxPMnE1ZjhvNWhFLTNIZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785334173195",
+          "date": "2026-07-29",
+          "title": "Mauricio Pochettino nearing deal to return as USMNT coach after World Cup run - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGpVOWFBZUU3MzFlV3g3cnZRcHJXVjl0MUpXckwxR1BNYlVsWDlKNVVzbWlRZmpxWWFkdzVZa25iQlFPOHB0RjNiTkFHYjdrcm94WGNoRnB4ajF0WXozQWdKTWQ3am5ZT1dLOEp1NG43TU9hNjQ1OVZNSEVEbEpUbEp2akxaTFJMeF9TdjB2VHAxZTdOUnd3dkZDcw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13608,7 +13616,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 760,
+      "chapterCount": 762,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19688,6 +19696,22 @@
           "title": "France vs England Match Results Today: FIFA World Cup Live Score, Updates, Stats - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnZ5bEZxYW1NWmNmODdVYkpkcUpZZ2UyWHFoMUNLNDFKSXBuN0JFRXFGQ0N5UVRtMTJIdm5NbS1KbHZvTnU4amVRdGRpQjJVNTNaQkFaVE9CbUVnakQ3M1lHdjlSUXVzYkpGNGF2RnhwaV9vanNvTHltWHlPMXNTN0xRc2huenM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785334174296",
+          "date": "2026-07-29",
+          "title": "World Cup 2030 way-too-early Power Rankings: Who is No. 1? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVUNxMnNHRUY5ZlZ0U2Ntd19iZWRPOFhWV084MVhNZC04M1pYOVVZNDBkT3Jwd0h6SFZEN0ZXM01XQlFtWk0tb1hTa3lwVVp6RHJyaEN3R202ZERRNUFudkhjTUs5NHVDZ1l0Vi05ZHNtdlc3azV1YVU0RElQQ0JzaFdZeDZtMGRQYmdqdzZDVzNYVFdzY25ES25YakNreEk2NlRmLUpRRndIZlc3bjRoQl96LTVseGtncU1pWVFLR18yb1VmRkhPVkxQeDZwZTZQTlIyRlJB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785334174296",
+          "date": "2026-07-29",
+          "title": "Why Thomas Tuchel's England fell short at the FIFA World Cup 2026 - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3JTQnR1V0dKaHRTODYyTURDQXBkYm1DVE50bkNUVXBPWEZ5NXluN190bzdNQU16cGZZUmp2c29sS0t4MDF1Q0RaeW9CRUhkM2lRSV94UnNONWw2WjJvUXdBRmp6cENXVS13WU9QNy0zSkNOLU1hQndTNUdlSFEtUGxGdWN0UTJyMXdmNDVMaEZTX29MM25HUlh4RTEzQ3c5WjlrV1hlYUlNTjZzQVdUT05xX2E?oc=5",
           "draft": true
         }
       ]
