@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-28T22:04:01.387Z",
+  "lastUpdated": "2026-07-29T02:35:57.919Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2404,7 +2404,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 284,
+      "chapterCount": 288,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4677,6 +4677,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU3hvLVNZa0tDTUd1Wm55ZmwzNG5DdTN0NUJ2NjZnaDJfaVMwS09uLWVVQWZ1bmRjZVU2S05iVlVQYU1MZW52cEJYeFBHY28xd2ZLdHFmRUZvcmZsa0p3V0RuOHBBRlhFRHRLNEtJeUtMRDlQM0x3MFRKdTFVa3liY2J6OWRscnU2QWwydkJ4ZHBtZVRCX3NoUFI0aFpUZjQtNTVuQk5vb2tXcXpkRWJYdHcyeEhOb1dKT2Iyb1lBMTlZcE1wdkFFbWZSbDNUem9vd0RQWmpwVmNORUsxbFFZS3pBbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785292555988",
+          "date": "2026-07-28",
+          "title": "Kylian Mbappé Speaks Out After France’s Disappointing World Cup Performance: ‘Will Hurt for a While’ - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGZqaWRyU2dDSVdvWWFzZV9hbnpzaG1QYW5fLVdSUGhPZ3VTVmt0QVpzdXlNSFZvOE9KdVREUDZKX1d2RU5taURTVndUbzA5aFktSDI5aC1FeHUzc181R0xpY2pXbmxlWm9oR0ttRXBFQnRGNXloc09RS3Z2a2J1eVV4X3BWTGNwRDFwN3B0VnVBazFYVTU5VFlaNXpfZ1VQQ2Nr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785292555988",
+          "date": "2026-07-27",
+          "title": "Kylian Mbappe breaks silence after 2026 World Cup exit – “It hurts and will continue to hurt” - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGZXUWlMX05UeWlJVkw2amxKZHppaUtZb2RQai1zaWtrYUxMel9YT19WR2xaRVhUWjRwVWpMbUFLY1liNER6d0haRkdvRl81QlBzQjBMcEJvQ3lGSXFpTlhqdTlXcElGTGxzeld2NnU2eXpieGoxcHMyTWNqaTFNZllUbk5jU2hScUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785292555988",
+          "date": "2026-07-27",
+          "title": "Mbappé launches 'thank you' campaign in open letter to French public after 2026 World Cup - Le Monde.fr",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYVowQkNZSzhLbnBSZko1cllkOW9BMWIyalh0T2NsUGhqRWJnQjR4Snh3dGJ3RDhUZ2dWTUxIejM1US1nQnhkRk85M0VHdDlQY3k4SklnamoweWhHS241Q0gtNUFqMDZDNW5ZX09OYTlHT1FCT2owS3Y5MlhKbWo1NHNCSU1ZT3VhSkZ5V2g1NkRpQkNTajN4dDJqYk1nTzJOWUozSkNFTUdIN0xIOUw5OGxaT3gyUFRqUExDWXpWV25Xc0VEOVlDdlJzaWhYejE1VXdQZHJUS2IzNEctMnJEWFNfOFdKNFNWbmIxbGg3bll5WXhFbWlUUg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785292555988",
+          "date": "2026-07-27",
+          "title": "After Les Bleus’ World Cup disappointment, Mbappé has sent a heartfelt message to France - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnRYTE45T2FPWElNREEzSVlrOEI2cG9MdjNMQV81VF8yTDZNaGtGM2VCbnlzdDhpckJUUG9nWmp3OUNNc2xOSTR2VXA5ai1TWUxnd2lIQXlYZjZTOW9ZdnVhMlhGc0dwbkZkSm11VEpCc2FoTzZET1hiZXBFeExMREl0bUlZaFB5bTRpUVpoQ3dqRHZzY1FLakcxSmU4cFJIU2wwOXBOQ1UwODl4YmEzeEhRTEdsMEh3VGtyQmZvbkNnNUdaYzg1YmVEOVPSAeABQVVfeXFMT0FveXZfSmQ1cWlxMEJwT2Q4bFFzaU03eGRZeUVqY2RRT0NWdGVZZVQyVVgzV3J2cl9iNGlUd0piTWhGVVN2WUkxSVdrMFlzQlNkUW9kWWpIZ0hLTzh2ay12aWdreHliZXdNSnhUc0VUQXItYi1pVDNzak5jaG5kZWJ0MzRoaHlKNWRiSGthZGtXMUR2SzA3MGFWRFV4Ul9IOHFVUDRfajYycGwxT3NDQzVwS0ZURExLZkk2MGVjMm5CMVFucFBCejdyT2ZmZGpiUjdPQWcyU3Y2eXJaTmR2R08?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4695,7 +4727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 603,
+      "chapterCount": 606,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9519,6 +9551,30 @@
           "title": "US goalkeeper Matt Freese says he’ll never get over his team’s loss to Belgium in the World Cup - WTOP",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUl9DRGx4OFRJSE14SU9Rd21STENwOGhrQWVJbU8yM2JtakdnZXlDLVJqWWdic3pmaW9leDFnbG9jS0xyNFp4RVRyNXU1NjZadzNCQlRMOGp3UVZvb00xWWgyYkNHR25XQ0xWWmR2ZlYyQmFvQVdkclQtZ0czSXVGT2ZGWUpTVDlBVVNoUG1YTXRjSFhGa3RNLU0tN2lqZUplaUdHSWlBSkZIb0h5LWV2SVVlNGZiOTF1d01fenNRdlFxYjJN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785292556544",
+          "date": "2026-07-28",
+          "title": "What's Next For USA After 2026 World Cup? Jozy Altidore, Clint Dempsey Weigh In - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemt1U25DdkdzUXduYzlWa0t4blMtS1p5MGtheDJJTjZaMVNidi1yOTcxSG9XMzNhUG5iSnpmS21zVmo1QXR5TDBFS18zY0dPNUFDMnNKVUg0RG1iTjBrakZRd3dqOFJHdkhmbEYyRUxXZHd3TzZacjM3NHBVUkk5b2FrS3dxNFBZSEJZZDdCWVdXdmZyMWloVzhqNWNNd9IBngFBVV95cUxOX3dyWUZUc01qSC1WaXdnZW5iQVhRamZ6MThlZW9fbER1SV9rOUliMmdyejZGbTJTRVN0YXFBaDlfak9EYTQyRkJwSm1EU3Vkc0d1bEIyMUZ6c0ozNVFic1AzT0NMY0FZUjcwRmtudzBCZ09IZks4ZjhmWVBRSUJjenA5aDRqLXRxbkNEN2I2SkpMRTZyWmtab2o1YldQUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785292556544",
+          "date": "2026-07-28",
+          "title": "MLS All-Star Tim Ream Reveals How Parenthood Influenced His Role as USMNT Team Captain for World Cup 2026 - E! News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm1obHhEOU5uclBEaVdvdTREWUt6aHV4RXBHMTNUTzd3ZEpubi16TkUySVRQMG1WSmptQy1xLW5rSzlqV1lMLUM4R3M2WXZWYkZKa3N3RGJYMWJERHBRTDF3ODdqYnNHTXgwYWtRUklCOEt1X0lUdVppLUpaQlZ4R2tJeXl6ZmYwc29PMmF3b2VUUXRJMlJGQUprbzNPMEl4UFpJcTlfbmVBUld1bWpTZQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785292556544",
+          "date": "2026-07-28",
+          "title": "US Goalkeeper Matt Freese Says He'll Never Get Over His Team's Loss to Belgium in the World Cup - U.S. News & World Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjVkLXd1ZUVTc0M2cVBKYXNvcXNTNmRXX0RGa0dlZUJiQkxJRlJPdnczbVpCXzdWWVhmd2s3UnZrb254bktGMFlEUkg4UW4yUHdXelpBcUNwbjZ5eF9URXRIOXZKdjF5UEEwVXNJVHcyR0F2YnZSNVZVYl9DbFRSak1oV0kyb2M2SGNLMlcyT1JrQ0dtN0dHX25FM21vX3VYVDFVNGYtLTJHdDhzMmlsaDNRUzFINzR3WERCcE8tSXlTMk1EeGlpSnNobFRKQkFFd01Rd0JVSXRzT2dpSVNvVG1B?oc=5",
           "draft": true
         }
       ]
