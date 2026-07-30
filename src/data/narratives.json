@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-29T22:01:06.227Z",
+  "lastUpdated": "2026-07-30T02:23:30.467Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 296,
+      "chapterCount": 298,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2386,6 +2386,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnVwa0pwOWRtYjlsemNiQ1FUekZWQUpUV0JqbzlYMW1oMTZzcVY4V3Exd2FlSFJUV1RVNFhNQmUtS3RYYTJJRmxmaWhvYUhQMk5oZWIzQU1uRmFXSU5RSWlnREdYb3VNYVdZVFVORThJa2kwVDRUd0t1NzVPcXFrME4xSWhmcjVlQjl3QmJZZFJZU2wwT0tBZGZHbjhOcGRKTDRRWHFpWDBySmctSUdNd3BYN1N3azZ6UElMeTNvTFljRkgwY2RKMNIBzgFBVV95cUxNMGxLbVJxV292UndLekNYYWE1SlFOVWViaUVCYW94bkNXNW4zVXJNTWo3bXc1MXVjZndSbncyVXVoSVRRLV9yR21pc1lLZXQ5b0g3YVZVWDQtSzhEVHVacldqZzVYWU9CREZ6WVprTm56SWFwWGJUbWdJLVdlLTN4OVJkeENFOVJmWlpyZzNaRlhEQlVHeC04OWx6cHJvUk9uTWpuMlMyemtRZXZRakd4QTdveGxlZ2RWZl9PMnBIamVfM19OdTZ6RVhTVnVuQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785378208233",
+          "date": "2026-07-27",
+          "title": "Lionel Messi surprises Argentina teammates with personalized World Cup gifts - sports.yahoo.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1R0VE9GZ3J4SUl6SmI1TDlFWEstdzdmNGl5MEZYdkNTUnZ1UkpEcy05SnYtVFFGek0yTDFEck9zaVJicFhPMDhya3pXMDItaHA0V05zNHN4UzMxYjlLMWpncFptcXlxQ3kyU3VleUpacXBmYW96NGk4M0ktSkVmdDFvWWZXdjliZUtmbjVpVUNYRmNTRUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785378208233",
+          "date": "2026-07-29",
+          "title": "Where To Find Lionel Messi And Argentina's Stars After The 2026 World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlFBQnl3VFRkMmgwcXBmUnFGdXA1MUo5QU1qM3UxamIxdkcyQWFVdnk2WTZ3UGEwR0k0MWxBcGtPUTZGS1JjR0N4WEZxbXRXcld6LWIwMmY5dGt5Y2d5eVNyUXlSMEhXQnNfcHh5cHBxdmZySkJiU253RHRySUlCa0Q4VDBWUDRWT0o3SUFMUXNWaEtRaE1UMUdUVHNGdlpYaHVkYdIBpAFBVV95cUxPbmh6LTNCMEw2R3h4ejlSUU8wZ3c1bEFBS0JtTVg1aE1yb3I5NC1VWVhjMUstazBvdkNCMHoyMXF3MnRBNkhpOXFSVDVwdDRPVG5HMTBHSUN5X1VOeXFldFBFeVMyZVJDQVBoSi0zVmJ6MTNDTU4tSXhMZHFvMmpQRG1RVW5DVHI4dU05SERvTzdBOWQxMFBSYTlScUlYNGxYamtQUA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4735,7 +4751,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 613,
+      "chapterCount": 614,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9640,6 +9656,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGtGNlpCcm0xZTZhc3czRDhmMHFVQlpCZVlEeTJGZUpLbFhOWDdPUERmTldBQWk1V1d4dlU4WVNjUGJBbFVsV3RJWUZaOUdyNHZEaUh3aUFLUTFJQzEwX3dmN0dKSkxuZUJ2WU5fT1lPa2o2TzVYbGk2c2k2SjBKMFJBcU5HNDRlYWJ6STgzazRwcVlOclhDY3BwQmZ5UEx2dmZwSFBkTjRIeTJBclphcU4yU2ZBbXkx?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785378209276",
+          "date": "2026-07-30",
+          "title": "Mauricio Pochettino nearing new deal to stay as United States manager through 2030 FIFA World Cup - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVczd3NITFVMTndCeTR3M0F0X213N1hxVlFya2NLMG5KSTgwak9qT082QlNud3NMUU5NR3lNaFRPQzkycU56eTBmMEFJbGM4N1RPa01aTVBUVGJhTmN2cU9tV1JOWmgzUDA5bEtwTWJiV2duZms0NnBuclNvbzdydVRDbE40T1hYZFV1LXpCT2hrcEdFUWhMcjZ0Y3dBUDFsX0xwYU4xWFBtTVNGb2ZRQWRwYVNxVVNoNmFjTWRZVGJHbVJIVG1sbl9n?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13680,7 +13704,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 765,
+      "chapterCount": 766,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19800,6 +19824,14 @@
           "title": "Where To Find England's Stars After The 2026 World Cup - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZDBxeC1uZHc1SmZGNGVhSVlXclhtZ3dwQXdjMWFNUGpwS01ma2FiWVBJNngySXV5bkdrWXdkOWJ0Y0NoYWhxQlZQYXJNT2hBY1Q3MC1jclVfcVVoZ2t3Sm9adm5jVU1GUHVJZDl5cGdhNnVMRERjXzlEVjY2M2E2WVdUSDZJUUJ0amV6Nnp0UljSAZABQVVfeXFMTjBJMjF4ZExiZVlVbjNIdDdmeWJSTHZIQTRpOFBXZV9HeS1uMlpNS05QM2Y2VW9KWkRqT3A4ck1rQURaV2lkZ3RCdHFKazBXSEFDZ3RxS21Db0g0dlU3ekpGMFI0emtJOVVjTUFvdUtSTUNfa0JFemhjRG5IUm0xSkIwQnBkdUo1cTMtRDVEOHB3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785378210467",
+          "date": "2026-07-29",
+          "title": "FIFA opens disciplinary case over Argentina Falklands banner at World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk04MXVMS1haRGlLWkFPU3U1SUVWZHA3N19sbXpRbFZyRGdqNkNuekFXb3lOOHIxS01JczEzVVFkdEFZbUFSbHZqc3MxbXVMRUc5bkd2RkQ5UGF4Zkpya3FVNDVhRTZMUnJVbkE3NG1XUWZUUEdxU3ZpaVhCcmEycEN2bjR4cFZQZm42VkhsYXo0ekpMRnZ0endUTmNPT3Z2clBwU0l0bEpEeHlfZWo4VTVUWXN4czFRZEJYWQ?oc=5",
           "draft": true
         }
       ]
