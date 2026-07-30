@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-30T05:40:49.400Z",
+  "lastUpdated": "2026-07-30T08:25:58.075Z",
   "articles": [
+    {
+      "id": "news-auto-argentina-trio-charged-with-assault-for--2026-07-29",
+      "headline": "Argentina trio charged with assault for post-World Cup final brawl - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ24ta25Lb2hzN0NHSXMzcjViSjVHOWI1Wkxyd2FQdmdiQ25mUWxaWnBPVWNyc21UN1N6dENqcHp3d2doSzBod1JYU1Q0eWd0MDZxS0JpMnB1Zi1HM0FTaGZYMnZoUWVGWGl3a2UzMUlyWGtwNGVub0pWVUptbV9YZV9vLXFnMUFZNGkzLTNZLVhRSlhQRW16ZzhxcFNzbnoyYVI1NnM2bkN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-29",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ24ta25Lb2hzN0NHSXMzcjViSjVHOWI1Wkxyd2FQdmdiQ25mUWxaWnBPVWNyc21UN1N6dENqcHp3d2doSzBod1JYU1Q0eWd0MDZxS0JpMnB1Zi1HM0FTaGZYMnZoUWVGWGl3a2UzMUlyWGtwNGVub0pWVUptbV9YZV9vLXFnMUFZNGkzLTNZLVhRSlhQRW16ZzhxcFNzbnoyYVI1NnM2bkNfN1hTNC1WX040Nk5SNVphU0szaFdETDRSTXRaekk1Mg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5\" target=\"_blank\"&gt;Arrowhe",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-takes-fifa-world-cup-invento-2026-07-16",
+      "headline": "Kansas City takes FIFA World Cup inventory. So how many visitors did we welcome? - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZsZWdNTlJsdkprTlo5ZG8zajBxVGpxRXFudFRFQTRueEJ5akJ0NzZlMmZkVlhwVngtY0JNSVNBZ2N5d3pubTZYZTl5Qi1kTFVLNUIyMkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-meets-wall-street-what-to-know-2026-07-29",
       "headline": "World Cup meets Wall Street? What to know about FIFA’s proposed World Cup rights selloff - CNN",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-27",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2szQVlHUTdJNnNKT2tOTnBFTnRMU1RIdFlROG01ajB4RUFWY0N1UHdKZDB2SS1oZWZocDl3SXFlR3BOMFVzLXJBOUtzZV80SjU2X1FoQU1BOU9qaWVaTm5RUmhwQmdNaXN3a0FqV1pwTHo3U1Z3UTBhWHNiYmoxZDg4VW1rMVphMXpZcFU0MEw5d9IBlwFBVV95cUxNWXBaZE5TNHFtM28tX2dHUUlzSUp4RUZ6Yk1KTHhfNld3blBWUUNUTmM1LTdBa0RmOExBdVRRM1JKeXU2X0syY1FfLW9rNUxwaXB6b3MxSW5mbFg5U1ZlaG5IR3pMcjhlZUxiM1RlcERXdnpfejhOOUhqUHgzaV9Xa1ZpeHR4bTlidUdLOWlnZFFyNmpLTFZV?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
-      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-gifts-did-lionel-messi-give-his-arg-2026-07-28",
-      "headline": "What gifts did Lionel Messi give his Argentina teammates after World Cup 2026? - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXE4OHFMcVhYVG1oT1U4UUVyRExfNjZ3elVpb1dMdlZPTlVoMnZYSHU1QnFRZHNPUGhNUEczRXNTR1d4anBuLW9QbEVhR3ZGX1FiNE1UY2RBcGoxUm5aYXpaNjVjU29LWWZRRHpEX1MwVmUydjNDa0JYNUhUMDVZc3lYUVhHR0VY?oc=5\" target=\"_blank\"&gt;What gifts did Li",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-28",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXE4OHFMcVhYVG1oT1U4UUVyRExfNjZ3elVpb1dMdlZPTlVoMnZYSHU1QnFRZHNPUGhNUEczRXNTR1d4anBuLW9QbEVhR3ZGX1FiNE1UY2RBcGoxUm5aYXpaNjVjU29LWWZRRHpEX1MwVmUydjNDa0JYNUhUMDVZc3lYUVhHR0VY?oc=5",
       "featured": false,
       "draft": true
     }
