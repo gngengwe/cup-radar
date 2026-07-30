@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-30T05:40:51.911Z",
+  "lastUpdated": "2026-07-30T11:07:44.127Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4751,7 +4751,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 615,
+      "chapterCount": 616,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9671,6 +9671,14 @@
           "title": "Preview: Mauricio Pochettino vs. the dreaded USMNT plateau - Stars and Stripes FC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0M3NWl1R0oyVDNXVWZwc0hxeU42RS0tQ21Haml4dmtaamcwNjZ4bUc2QksxaTExLTRSU2owR1pLZ2c3cFBJb0Z2ejg5SkFnOTJkRnMxU0dpendodEQwN1dhbi1FbmVpZWFic2R1OUVNMURtZ3VVZEM1WWx2cWFnQkphTEg1VjcyYWFQYVBsR1JLa1RjWnBkcWFJNGd0Vlp1TjJIREdScGFaQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785409663134",
+          "date": "2026-07-28",
+          "title": "What advanced stats say about every USMNT World Cup game since 1990 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmVfR0dzM0NOdFZWcTAteV81SGluM1lXT01jWUpiWURSOWVHeDY0SDlTcVgtRU4tdzljeG1mVVR2Rjl5NmViQTlqdkN0MlAwcXdYUWk3U1FfcThPNXE3NlpBYUpLZkVpc0pkMW9WYXE3NTR6NkhkY2k5YTZLci1CRFdYbkNlVU9nLUxIM2xfU3FodHZPb3lVZVdZWDFDeTJfcE9LaC1B?oc=5",
           "draft": true
         }
       ]
