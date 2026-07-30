@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-07-30T02:23:30.467Z",
+  "lastUpdated": "2026-07-30T05:40:51.911Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4751,7 +4751,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 614,
+      "chapterCount": 615,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9664,6 +9664,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVczd3NITFVMTndCeTR3M0F0X213N1hxVlFya2NLMG5KSTgwak9qT082QlNud3NMUU5NR3lNaFRPQzkycU56eTBmMEFJbGM4N1RPa01aTVBUVGJhTmN2cU9tV1JOWmgzUDA5bEtwTWJiV2duZms0NnBuclNvbzdydVRDbE40T1hYZFV1LXpCT2hrcEdFUWhMcjZ0Y3dBUDFsX0xwYU4xWFBtTVNGb2ZRQWRwYVNxVVNoNmFjTWRZVGJHbVJIVG1sbl9n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785390050888",
+          "date": "2026-07-29",
+          "title": "Preview: Mauricio Pochettino vs. the dreaded USMNT plateau - Stars and Stripes FC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0M3NWl1R0oyVDNXVWZwc0hxeU42RS0tQ21Haml4dmtaamcwNjZ4bUc2QksxaTExLTRSU2owR1pLZ2c3cFBJb0Z2ejg5SkFnOTJkRnMxU0dpendodEQwN1dhbi1FbmVpZWFic2R1OUVNMURtZ3VVZEM1WWx2cWFnQkphTEg1VjcyYWFQYVBsR1JLa1RjWnBkcWFJNGd0Vlp1TjJIREdScGFaQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13704,7 +13712,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 766,
+      "chapterCount": 768,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -19832,6 +19840,22 @@
           "title": "FIFA opens disciplinary case over Argentina Falklands banner at World Cup - Reuters",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk04MXVMS1haRGlLWkFPU3U1SUVWZHA3N19sbXpRbFZyRGdqNkNuekFXb3lOOHIxS01JczEzVVFkdEFZbUFSbHZqc3MxbXVMRUc5bkd2RkQ5UGF4Zkpya3FVNDVhRTZMUnJVbkE3NG1XUWZUUEdxU3ZpaVhCcmEycEN2bjR4cFZQZm42VkhsYXo0ekpMRnZ0endUTmNPT3Z2clBwU0l0bEpEeHlfZWo4VTVUWXN4czFRZEJYWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785390051911",
+          "date": "2026-07-29",
+          "title": "England fans lead calls for 3 Lions to boycott World Cup as fury grows at Fifa plan & emergency UEFA meeting planned - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTy0xNFEzdWRNdUllYUgwbnlpbk9zNWRoRlhLeTN1TmpPRjFsMHZVeWF5cnVTMDJFcTQ3SGNpdG9jd1dXZVFPWTNONmZDRHlNVzRwTTMwY21QWlFuMGlmTFhxZ2NQbjRTaThFNW50WE9BWE9UbTc5M3dNeW1sa3FwZWF5djVoM0kwX3ZrYU5BVmVPQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1785390051911",
+          "date": "2026-07-30",
+          "title": "FIFA announce investigation into World Cup final violence and England semi-final incident - Fox Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSGphWmVfanlXcW5CX2c4ZmpVN3NFcUFQMDVaNVJoUHhSVTBxN1ktOTlNZTJEUC1DX2drQVZUcVRnRDluU2o4aGkwSllFcHdOTXNibWNmV19aVHczdk5aeWNCc2V2Z3dpSW5hNlRYRG9CeWpwTmVta2hDSXJOc0dlTllvLU42QllJanBPbVY5TG1QZG9NV3Q5dG5sZnlHeDVHcGYweWNpMFMwMlpwZjhfWXYxVl85VG9wZ3Vjdzhpc3ROQllOZVhUaHNmS2g2VURNbGZMOXlFekY2dkRBTC1IYnJ6bXMwbC1FNHAzaFY4Nkk4WlNpaXoyazBQRXViLVI0VlpXTHZ2WDV1ZFp0ckVMYmN5SC03MkhWY3NrV1c3aXFFaU1rdklKUExQNnNLVi1JajVn0gGzAkFVX3lxTFBIamFaZV9qeVdxbkJfZzhmalU3c0VxQVAwNVo1UmhQeFJVMHE3WS05OU1lMkRQLUNfZ2tBVlRxVGdEOW5TajhoaTBKWUVwd05Nc2JtY2ZXX1pUdzN2Tlp5Y0JzZXZnd2lJbmE2VFhEb0J5anBOZW1raENJck5zR2VOWW8tTjZCWUlqcE9tVjlMbVBkb01XdDl0bmxmeUd4NUdwZjB5Y2kwUzAyWnBmOF9ZdjFWXzlUb3BndWN3OGlzdE5CWU5lWFRoc2ZLaDZVRE1sZkw5eUV6RjZ2REFMLUhicnptczBsLUU0cDNoVjg2SThaU2lpejJrMFBFdWItUjRWWldMdnZYNXVkWnRyRUxiY3lILTcySFZjc2tXVzdpcUVpTWt2SUpQTFA2c0tWLUlqNWc?oc=5",
           "draft": true
         }
       ]
