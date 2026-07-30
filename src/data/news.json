@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-07-30T11:07:41.579Z",
+  "lastUpdated": "2026-07-30T14:00:38.532Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-what-has-fifa-charged-argentin-2026-07-30",
+      "headline": "World Cup: What has FIFA charged Argentina with, what could punishment be? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm5rc0xoQVhQd2lESGFwcEIwcGJMY2hQckk2d2JZbzkwMlU0Z3k2djIzSlpJMTZXZnAyMWNOdkY4Q0V1SThUQmZpWkFTVUxnTUZNWjdOdC1wTUdSZVFwem1FOWZFZ2J1aEZDVXpmaGdmQWlhRUZHcERBMHk5aDVvdzBoakswLV9PN0J0U1QtWFJHWTRla3JXM2VINU5wTUlJMi0tUlFBdl9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm5rc0xoQVhQd2lESGFwcEIwcGJMY2hQckk2d2JZbzkwMlU0Z3k2djIzSlpJMTZXZnAyMWNOdkY4Q0V1SThUQmZpWkFTVUxnTUZNWjdOdC1wTUdSZVFwem1FOWZFZ2J1aEZDVXpmaGdmQWlhRUZHcERBMHk5aDVvdzBoakswLV9PN0J0U1QtWFJHWTRla3JXM2VINU5wTUlJMi0tUlFBdl91dHhyUTlnVkRhdi1JUdIBuwFBVV95cUxPTW15UFhvbDhzbGVnUDBEMnpRTTNjdEpqWWQxV2dhQ1Y1U1BUWHVIX1hncGU5VlBhUHhEWGo4RmRTeG1JbUYyLWNrbDE5anZMaU1GNGQ5Y3EwdC1RWU5XaW9kWFR5WEJva21VTHJhU3RHMXJLUzRMS1NOZ3M3N21BME1FWTVUOWotNXZJZTZ2X2xpV3h2NFVQMFJSdzh2UkNaUXllbGNxNHBuSmVvMjlhYUlBYnBTX2tCWXhz?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-for-sale-fifa-s-controversial--2026-07-29",
+      "headline": "World Cup for sale? FIFA's controversial plans explained - ESPN",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpWQlJqYTlzc0l1LXlTOEpSNTJsdUNWN1QwRklyWWNxOWtyNTVMMzc5ZkJLRVF5T2s3dV9qZjhaR3kzYmJlX01fNUJZTkRvLTVNN2hiaDhiRVpfSUxCRTVfY0oxQWVvLXEwcW5id21nSGVtREt3YnZRQWJOU2NrbGEtN1E0QjdRZ2dkRE9XRmFrUGdMSUlHZlV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-29",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpWQlJqYTlzc0l1LXlTOEpSNTJsdUNWN1QwRklyWWNxOWtyNTVMMzc5ZkJLRVF5T2s3dV9qZjhaR3kzYmJlX01fNUJZTkRvLTVNN2hiaDhiRVpfSUxCRTVfY0oxQWVvLXEwcW5id21nSGVtREt3YnZRQWJOU2NrbGEtN1E0QjdRZ2dkRE9XRmFrUGdMSUlHZlVfS2hhdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-s-sale-of-the-century-how-kushners--2026-07-30",
+      "headline": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BfYzFtLWRuWm5VbXBtbWhrSHd3UjF6aWxRQXFsdmpnNGxGYjdiOFRhQnY2VmJtbEtFRG9hNkY1T1RnaXVUWjZPam9WOXdUeFdoUGlEMkxhVERlVzRKUmxlRTZKRHBscmg5RmR6Wk1xbmR3Zk5sTGdaVE5aWEhlNFhqblp6TE1Oa0F5U1hSSjZlOFJwRnFjNURXUUhubVZjaXg2R0ExSWo",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BfYzFtLWRuWm5VbXBtbWhrSHd3UjF6aWxRQXFsdmpnNGxGYjdiOFRhQnY2VmJtbEtFRG9hNkY1T1RnaXVUWjZPam9WOXdUeFdoUGlEMkxhVERlVzRKUmxlRTZKRHBscmg5RmR6Wk1xbmR3Zk5sTGdaVE5aWEhlNFhqblp6TE1Oa0F5U1hSSjZlOFJwRnFjNURXUUhubVZjaXg2R0ExSWoyVEttTEJhTjVuZk5wTThjOUpob210d3B3WTg5V1JJ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-biggest-world-cup-win-happened-2026-07-06",
+      "headline": "Seattle's biggest World Cup win happened off the pitch - Axios",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-chiefs-super-bowl-and-final-four-bid-2026-07-30",
+      "headline": "How Chiefs’ Super Bowl And Final Four Bids Were Impacted By World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0QxUkliQWxYek95Y0twQUhyN0VSRlBuM2ZiNmhkRlpEYWxzNUlub0F0aEl1bDAydXAwUS12RDc0QzRncHRRN21fUUU3bGp1bHpBRzZTNll1cTJnNHg4OEpyai1rTGxPZjZvaks1RlpNS2ozTnc5VWpUVnRtaFZQVHBHbw?oc=5\" target=\"_blank\"&gt;How Chiefs’ Super Bowl ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0QxUkliQWxYek95Y0twQUhyN0VSRlBuM2ZiNmhkRlpEYWxzNUlub0F0aEl1bDAydXAwUS12RDc0QzRncHRRN21fUUU3bGp1bHpBRzZTNll1cTJnNHg4OEpyai1rTGxPZjZvaks1RlpNS2ozTnc5VWpUVnRtaFZQVHBHbw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-chiefs-super-bowl-and-final-four-bid-2026-07-30",
+      "headline": "How Chiefs’ Super Bowl And Final Four Bids Were Impacted By World Cup - Forbes",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGtyTDVXaXhfZDJiVkt6LUM3d3NZTzk3VTE4UkcxOWZWeFYwVVczTVBLRUVlYVVJUEw4SU1KSlpFRmhhZTJTV0REYlBzemh0Rk5RbFYyYTdvM2lGWUFYSU1TTmI2aXhyRk9KaFduUWpva0ExYjNhUUFVZzBZcExxOFJfSzVqZE92U0hsZm5sb3Z2aTQ5N0c3UUVVT1dKTmVsT00wRDNQcVd",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGtyTDVXaXhfZDJiVkt6LUM3d3NZTzk3VTE4UkcxOWZWeFYwVVczTVBLRUVlYVVJUEw4SU1KSlpFRmhhZTJTV0REYlBzemh0Rk5RbFYyYTdvM2lGWUFYSU1TTmI2aXhyRk9KaFduUWpva0ExYjNhUUFVZzBZcExxOFJfSzVqZE92U0hsZm5sb3Z2aTQ5N0c3UUVVT1dKTmVsT00wRDNQcVdBa2pBcGNUdjZ3M0hWTlJZQWs3YXp3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-have-world-cup-withdrawal-enjoy-the-grea-2026-07-30",
       "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history - ESPN",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-28",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGg5Mmd3ZEhsWDBEd3hZa2FUb1ZLeUYwWTg1WE13VUZLbF81eThEdzBHSXNISUlKc3dGb2tZWi1ZRjFFWXJ6eDRWckVyaXhjSEVSdGRFZlRqcldrUDB5Um5CTDFxeW1xeDdhbXhmMTRjaDRPMTA4SGd5bEc1aTl5WjVLbW8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-breel-embolo-s-second-yellow-at-world-cu-2026-07-28",
-      "headline": "Breel Embolo's second yellow at World Cup quarter-final against Argentina was wrong, IFAB says - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3pneGc2QzFSdGNPMEdZdE0tYVpSX1pzTmJMd0xzQkpoZnFOQXhDTFJ3Z1R6YzE1eFpKQkV5Q1NwQnN3VlZvdnlZdG1WNU1GNVR2cWFtUlJJaUZYRW1mZktvSnNlQ29FZ21hUHh4UHg5ZjA4aWpyM3RiZVlneEpxcUljNEphc19fbTVNN29VQXpVOWhXWExpV3A2eGtrOXZyNkVVNGFWZHJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-28",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3pneGc2QzFSdGNPMEdZdE0tYVpSX1pzTmJMd0xzQkpoZnFOQXhDTFJ3Z1R6YzE1eFpKQkV5Q1NwQnN3VlZvdnlZdG1WNU1GNVR2cWFtUlJJaUZYRW1mZktvSnNlQ29FZ21hUHh4UHg5ZjA4aWpyM3RiZVlneEpxcUljNEphc19fbTVNN29VQXpVOWhXWExpV3A2eGtrOXZyNkVVNGFWZHJSR2pPaXRZZW1sV2xxeklnR1dxdVYzcDhUX1Ra?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-verde-s-sidny-lopes-cabral-wins-wor-2026-07-27",
-      "headline": "Cape Verde’s Sidny Lopes Cabral wins World Cup Goal of the Tournament for strike vs. Argentina - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUwzV0lHbUNtQk40aHA5bmExcW9SZ3VpSlQxMUZSM3kwT3I1TmNZNUJ4TWw2cDE4VHZIekNvVklJend5d1Jnd1FNdWpzWU41UGhuLUlLUEh5UzBra2FTNFZfR0d2bTRTbFotWF9rZHNFWWJmNkdOc1VDaGJRU1pLUUh6a3hlN1NIQm81c2VHNjl3N0hjRXJTQS0tcUt6SjZq?oc=5\" targ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-27",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUwzV0lHbUNtQk40aHA5bmExcW9SZ3VpSlQxMUZSM3kwT3I1TmNZNUJ4TWw2cDE4VHZIekNvVklJend5d1Jnd1FNdWpzWU41UGhuLUlLUEh5UzBra2FTNFZfR0d2bTRTbFotWF9rZHNFWWJmNkdOc1VDaGJRU1pLUUh6a3hlN1NIQm81c2VHNjl3N0hjRXJTQS0tcUt6SjZq?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kci-had-busiest-june-in-new-terminal-dri-2026-07-27",
-      "headline": "KCI had busiest June in new terminal, driven by this type of flight during World Cup - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBzeVg2RjBHNGEzN1I0OUw3MExqaUFuVXh2U1dRTmZUNklSODRmZjdJa2tib1hoM2FULXBoR3ZMWS00WU1uSl9ZaHlNZjFHMGotMUtfd05yM2EtSm5vNVFtWXZRSW5VVk5NWXdEbkdpc3kxYkg1QlFVRzFR0gF6QVVfeXFMTnU5Z29qd0x0WEhjaE5SaHdmYXF4MHJWVVlqenVzNHJnZnBHOF9",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-27",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzeVg2RjBHNGEzN1I0OUw3MExqaUFuVXh2U1dRTmZUNklSODRmZjdJa2tib1hoM2FULXBoR3ZMWS00WU1uSl9ZaHlNZjFHMGotMUtfd05yM2EtSm5vNVFtWXZRSW5VVk5NWXdEbkdpc3kxYkg1QlFVRzFR0gF6QVVfeXFMTnU5Z29qd0x0WEhjaE5SaHdmYXF4MHJWVVlqenVzNHJnZnBHOF9yb1duWTYyRXZCS01fN1dmMUp3ZklqQmhMcWR0TmpId0RrZVM2cDhfb3dUdTJoZGZSRk9RTTJKb1NQekY4elhGQUtxbzkwU1FzanJ2V1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cid-advocates-rally-at-seattle-stadium-d-2026-07-07",
-      "headline": "CID advocates rally at Seattle Stadium, demand World Cup economic parity - Northwest Asian Weekly",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1ZZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
-      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-zinedine-zidane-named-as-france-head-coa-2026-07-28",
-      "headline": "Zinedine Zidane named as France head coach following World Cup 2026 - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVNtVVQ1X2d2LTN0MkdRRHRDOEFtZjlhelhmNWhCT015ekQwd3lJU3VmX05xMTcxVy1RSTEtcVdfZUZsUUZxVjJhbXJnSE5kLUtES2U3RXQwRTNfLURnVmlXa09Ncl9qNDRzZWtOdEtDU2ZGemRGR3lCTGJvcUZMZWUxZFRhMUI0TFhnd3B2T3RGb0s4MHpLemhpY0J5N2hZbWt3UDlB0gG",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-28",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVNtVVQ1X2d2LTN0MkdRRHRDOEFtZjlhelhmNWhCT015ekQwd3lJU3VmX05xMTcxVy1RSTEtcVdfZUZsUUZxVjJhbXJnSE5kLUtES2U3RXQwRTNfLURnVmlXa09Ncl9qNDRzZWtOdEtDU2ZGemRGR3lCTGJvcUZMZWUxZFRhMUI0TFhnd3B2T3RGb0s4MHpLemhpY0J5N2hZbWt3UDlB0gGrAUFVX3lxTE1Zc2FyMlpKMEFlVC1xWEVkVzJ2VG9EWk92Tjk3X0tjcHRGTGk1cF9RRzRHaDZrWm1RcTNHRHM5cE5OVmFOZHFQMURiWUlsNTl4NFBjU25KempkNE9nYzlWWkVnaUVrTlpzM2otdFJ6ZVRfNzA0b3I0NjFsX0IwMEt3a1gyeVU5OVY4S09RVXlpZ1ZVTjBuVmFGaTdQYVZOcnNOeXlBbXA3RTJmdw?oc=5",
       "featured": false,
       "draft": true
     }
