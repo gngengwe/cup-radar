@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T08:20:14.631Z",
+  "lastUpdated": "2026-08-01T10:39:32.075Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-chief-infantino-abandons-world-cup--2026-08-01",
+      "headline": "FIFA chief Infantino abandons World Cup sell-off plans - DW.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdSZ2ROWUJ0aWdZR2hCZVBLU1NxQS1sczJMZjRTTVF1Qks0dXdkaWpoOE1oaGV5RENPdnZiY0E5enVCR0dxUEJYNFZYNWNOX0hsZWN1ZUVLYkFjUXFkTlRkTEFqWWtpVmZaLVhqQ3kxLXk0Ym83Qm9WcVcwVFhWa3dxOTQwVXBraHRQSzJOZ1ozd2w1dTVNUnFRUDZwWE5PRVc4bdIBpAF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdSZ2ROWUJ0aWdZR2hCZVBLU1NxQS1sczJMZjRTTVF1Qks0dXdkaWpoOE1oaGV5RENPdnZiY0E5enVCR0dxUEJYNFZYNWNOX0hsZWN1ZUVLYkFjUXFkTlRkTEFqWWtpVmZaLVhqQ3kxLXk0Ym83Qm9WcVcwVFhWa3dxOTQwVXBraHRQSzJOZ1ozd2w1dTVNUnFRUDZwWE5PRVc4bdIBpAFBVV95cUxOOTFNXzZwb0x1X2lJalZEb2d2eERKSWVmcXpYNzVWQXl5M21fZmlmUFVobWxDZmpQU3RRQXNLUm9fUVdpZkY3TEQ1WlFxTWhXdG9sWHV1bThfN0RkenE0Y25aOVc0bnZvT1RsVl9yU3ZNNTFyYnJ1YnRid3pleUlWeG9iVzYzREN1dVQ2Zm5EUGdPU0xtTWk1YllubTRXYWVqWjh6OQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-scraps-world-cup-sell-off-plan-afte-2026-08-01",
+      "headline": "FIFA Scraps World Cup Sell-off Plan After Resistance From Members - GV Wire",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWhYb2N0ZHl4U29QcjBoU1pQVmFjOVNVVnNGbElBN2JHX2VybDFsX0hiWU5DZ19vakVLRUh2cFN4WkpJS2FtQmg4bTRHcXlqTVRJcGJfUzRPaGViblNERE5PM2Z6amhfRUZhUDJ5R0R4X1BfRU5tanJnVllJcmJxRnJkSG1LVkV2WE5vbnRXcU9UWlVUQk9xSFJXeDY?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWhYb2N0ZHl4U29QcjBoU1pQVmFjOVNVVnNGbElBN2JHX2VybDFsX0hiWU5DZ19vakVLRUh2cFN4WkpJS2FtQmg4bTRHcXlqTVRJcGJfUzRPaGViblNERE5PM2Z6amhfRUZhUDJ5R0R4X1BfRU5tanJnVllJcmJxRnJkSG1LVkV2WE5vbnRXcU9UWlVUQk9xSFJXeDY?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-brings-historic-numbers-busine-2026-07-07",
+      "headline": "World Cup brings historic numbers, business boom in Seattle - FOX 13 Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9kby16ZmNYZVVacUVBUVhvRWZxcHZyZm9hakNaUXdaeDNIQWJrdFk3RURhNHQyZW9YbVp3TE1Yekhua1FsRW5KVzFKVFkxcndjSWVDaDhjOE9wbW1Za3lVTDM5NFduakJFeDhrb0RXd25nUU9LTV9z0gF8QVVfeXFMTzRhX1NCVVh5djJlbi10Vk54TkZSMUJLeEtqQjgyR1J0MWtOdXk5SWV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kby16ZmNYZVVacUVBUVhvRWZxcHZyZm9hakNaUXdaeDNIQWJrdFk3RURhNHQyZW9YbVp3TE1Yekhua1FsRW5KVzFKVFkxcndjSWVDaDhjOE9wbW1Za3lVTDM5NFduakJFeDhrb0RXd25nUU9LTV9z0gF8QVVfeXFMTzRhX1NCVVh5djJlbi10Vk54TkZSMUJLeEtqQjgyR1J0MWtOdXk5SWVCM2tNN2diSVlESmZNLVBwaWhaYV85bVJCMUhIb1E4M1FuenduUlZqWHNBc1M4ZHVZRWRsdjdBY3BWZmN4R1RaWjFUaEZQbjAtaUxLNA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWZ5cDN4SDhEQjdZcGIzbm8yaVo3bTZaQVU4ZlkxQ1NrZWlWRmtINktQT0ZHWFBnakx2OW5tYkc4RGZweVE2bjZuVmltNWtTdWZuVXFlNW9yNWI5ZVFIalVnVVhuRFczRTZ6ZFdPVFdncUp2djBuMXNnNTBnbWtLMnhmZw?oc=5\" target=\"_blank\"&gt;Seattle’s final FIFA Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWZ5cDN4SDhEQjdZcGIzbm8yaVo3bTZaQVU4ZlkxQ1NrZWlWRmtINktQT0ZHWFBnakx2OW5tYkc4RGZweVE2bjZuVmltNWtTdWZuVXFlNW9yNWI5ZVFIalVnVVhuRFczRTZ6ZFdPVFdncUp2djBuMXNnNTBnbWtLMnhmZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5\" target=\"_blank\"&gt;Arrowhe",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-scraps-world-cup-private-investment-2026-08-01",
       "headline": "FIFA scraps World Cup private investment plans as Infantino fights for his future - The Athletic - The New York Times",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnVMZHl3c05mWnNtVkNYaHFNVWliTEgxVTVCTGtEc3M3Y3pXR3paYW9jdFVkZlYzbVpuMkROdWh5QjZGbk93SFhWNzc1d29uMWRueVNEZFVLcjFLMTlycU5YSkxWWU9UMlJscVUxaEpxUDk4eXpYa01PcjBNendmc3BWR1ltV2IxUEhVYmJ2SUNTV2ttMGxIdWw2LWl4dHVzUmdHQWltQVh1Y0YyVjhRSE5vMW1MLTk1SzJTYThaNm96dGpyNk81Y3lUOUdlY00tUW95S1ZLbDdzTDdkN0FxdzdR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--it-was-the-right-decision-carlo-ancelot-2026-07-30",
-      "headline": "'It was the right decision!' - Carlo Ancelotti defends Neymar World Cup call-up as Brazil legend officially retires from international football - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0lnSmZramRDUlc3MF93c1QwTWxYX214ejFSM09CZUJ2OGFlSHI3QWotTjdRVUlBdnVEZmNTLTh1dFBWUG9ycWsxX3pOeUhVRi1HMjFJWTFWbFNkckxSLXZLaUdIY0ZCWG81Y3BVeFpUS2JVU2hudVd6WWtfVXp2Q1VmR3dwbndKUFZGU2lvTVJPMXNqTzlmUVlwUF8?oc=5\" target=\"_",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0lnSmZramRDUlc3MF93c1QwTWxYX214ejFSM09CZUJ2OGFlSHI3QWotTjdRVUlBdnVEZmNTLTh1dFBWUG9ycWsxX3pOeUhVRi1HMjFJWTFWbFNkckxSLXZLaUdIY0ZCWG81Y3BVeFpUS2JVU2hudVd6WWtfVXp2Q1VmR3dwbndKUFZGU2lvTVJPMXNqTzlmUVlwUF8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-plans-uefa-to-hold-emerge-2026-07-30",
-      "headline": "Fifa World Cup plans: Uefa to hold emergency meeting on Thursday to discuss proposals - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UU0pHTXl1RG9WcXZNajlIYWhZUzRvSUx1YUVOeXZ1S2czWFdINWtJTkxMcUowWlJuTndJWnMwaFl5TUlwN2FvZkJicjFfWURjM2UxakRnbVhxQTdnOFBtR1NMR29veWs?oc=5\" target=\"_blank\"&gt;Fifa World Cup plans: Uefa to hold emergency meeting on Thursd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UU0pHTXl1RG9WcXZNajlIYWhZUzRvSUx1YUVOeXZ1S2czWFdINWtJTkxMcUowWlJuTndJWnMwaFl5TUlwN2FvZkJicjFfWURjM2UxakRnbVhxQTdnOFBtR1NMR29veWs?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
-      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-only-seven-world-cup-teams-remain-and-tw-2026-07-10",
-      "headline": "Only seven World Cup teams remain — and two of them call Kansas home - Kansas Reflector",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjdXTlU4TVFoRHRxYVBZYS1FZDQ3TXhOWWRLRTNVQk50VnpYb0RCc2l3N2FleDczejlZUkxuYU5lb1F5bExGcTNXNkw4TVJPV3A1eVlVVGg2Q3N4MWxkSWhVT19heXVKYXc4V3BQOXdHZVl1VElSSktRM091MFhQeHdJNTlpRjZJN0ZKRG4wekdvY05Pb1lPU3MxczZnNUFEczRQUE9FdXN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjdXTlU4TVFoRHRxYVBZYS1FZDQ3TXhOWWRLRTNVQk50VnpYb0RCc2l3N2FleDczejlZUkxuYU5lb1F5bExGcTNXNkw4TVJPV3A1eVlVVGg2Q3N4MWxkSWhVT19heXVKYXc4V3BQOXdHZVl1VElSSktRM091MFhQeHdJNTlpRjZJN0ZKRG4wekdvY05Pb1lPU3MxczZnNUFEczRQUE9FdXNwdw?oc=5",
       "featured": false,
       "draft": true
     }
