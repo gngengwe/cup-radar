@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T10:39:32.075Z",
+  "lastUpdated": "2026-08-01T13:19:45.179Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-boss-infantino-scraps-plan-to-sell--2026-08-01",
+      "headline": "Fifa boss Infantino scraps plan to sell off World Cup profits to private equity - RFI",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0stMXQ4d29YVnp3ck9NbVkyNE5NVU8xUU1yU2JfY0FsNnlNQ2tNYkRwMG5EQ25kYkwyVUdQZkxCOFFSV0xhanRvdEtDOXBsbnhRM0VOUjdLblNRcjZBYXU3NDVGMXgxZEtUYzdERmFjQnFKaGVuM0xueGs2aUhydVhYczlwS0NYZkJDY1ZFMDIydXpvck5tTm9xNmxIYnk0dXJicUMzMEd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0stMXQ4d29YVnp3ck9NbVkyNE5NVU8xUU1yU2JfY0FsNnlNQ2tNYkRwMG5EQ25kYkwyVUdQZkxCOFFSV0xhanRvdEtDOXBsbnhRM0VOUjdLblNRcjZBYXU3NDVGMXgxZEtUYzdERmFjQnFKaGVuM0xueGs2aUhydVhYczlwS0NYZkJDY1ZFMDIydXpvck5tTm9xNmxIYnk0dXJicUMzMEdJWU9OWXhGYld2YVZXTVJmS3hKTEh3OXpEaTBSckFxb3RzT2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-fallout-infantino-scraps--2026-08-01",
+      "headline": "FIFA World Cup fallout: Infantino scraps private investment plan - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3B",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3BTRE1jVjBRbmx30gG3AUFVX3lxTE5RUW5ZUzJMTHJiQ25vR0RLQ1Y2TUdCeGtoUWFIY0VIR2Z0Q3ZyUVlvZXJUYVFVeVIxUm9kckl5cThUMThTbTVaZWUzaV90WG9YRGV2Vk11anZsN2s5NUx2VXh6dlpualpJN2lXZlJlUzlQT1dJcGtMLVJtNU1BdzFjSmduVkxMbjZ2SkxSMl9peVBlTEJWUktjdnlOR3JMUFhXX1RKa3RER3MxY0FiX0dTN21GbmhFSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-chief-infantino-abandons-world-cup--2026-08-01",
       "headline": "FIFA chief Infantino abandons World Cup sell-off plans - DW.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0QxUkliQWxYek95Y0twQUhyN0VSRlBuM2ZiNmhkRlpEYWxzNUlub0F0aEl1bDAydXAwUS12RDc0QzRncHRRN21fUUU3bGp1bHpBRzZTNll1cTJnNHg4OEpyai1rTGxPZjZvaks1RlpNS2ozTnc5VWpUVnRtaFZQVHBHbw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-chiefs-super-bowl-and-final-four-bid-2026-07-30",
-      "headline": "How Chiefs’ Super Bowl And Final Four Bids Were Impacted By World Cup - Forbes",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGtyTDVXaXhfZDJiVkt6LUM3d3NZTzk3VTE4UkcxOWZWeFYwVVczTVBLRUVlYVVJUEw4SU1KSlpFRmhhZTJTV0REYlBzemh0Rk5RbFYyYTdvM2lGWUFYSU1TTmI2aXhyRk9KaFduUWpva0ExYjNhUUFVZzBZcExxOFJfSzVqZE92U0hsZm5sb3Z2aTQ5N0c3UUVVT1dKTmVsT00wRDNQcVd",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGtyTDVXaXhfZDJiVkt6LUM3d3NZTzk3VTE4UkcxOWZWeFYwVVczTVBLRUVlYVVJUEw4SU1KSlpFRmhhZTJTV0REYlBzemh0Rk5RbFYyYTdvM2lGWUFYSU1TTmI2aXhyRk9KaFduUWpva0ExYjNhUUFVZzBZcExxOFJfSzVqZE92U0hsZm5sb3Z2aTQ5N0c3UUVVT1dKTmVsT00wRDNQcVdBa2pBcGNUdjZ3M0hWTlJZQWs3YXp3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-have-world-cup-withdrawal-enjoy-the-grea-2026-07-30",
-      "headline": "Have World Cup withdrawal? Enjoy the greatest kits in the tournament's history - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnVMZHl3c05mWnNtVkNYaHFNVWliTEgxVTVCTGtEc3M3Y3pXR3paYW9jdFVkZlYzbVpuMkROdWh5QjZGbk93SFhWNzc1d29uMWRueVNEZFVLcjFLMTlycU5YSkxWWU9UMlJscVUxaEpxUDk4eXpYa01PcjBNendmc3BWR1ltV2IxUEhVYmJ2SUNTV2ttMGxIdWw2LWl4dHVzUmdHQWltQVh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnVMZHl3c05mWnNtVkNYaHFNVWliTEgxVTVCTGtEc3M3Y3pXR3paYW9jdFVkZlYzbVpuMkROdWh5QjZGbk93SFhWNzc1d29uMWRueVNEZFVLcjFLMTlycU5YSkxWWU9UMlJscVUxaEpxUDk4eXpYa01PcjBNendmc3BWR1ltV2IxUEhVYmJ2SUNTV2ttMGxIdWw2LWl4dHVzUmdHQWltQVh1Y0YyVjhRSE5vMW1MLTk1SzJTYThaNm96dGpyNk81Y3lUOUdlY00tUW95S1ZLbDdzTDdkN0FxdzdR?oc=5",
       "featured": false,
       "draft": true
     }
