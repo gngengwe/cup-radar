@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T19:07:07.821Z",
+  "lastUpdated": "2026-08-01T21:55:47.174Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-s-infantino-scraps-world-cup-invest-2026-08-01",
+      "headline": "FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late? - Time Magazine",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDloX2V2NnFfWVBma0ZkSEV2WnRKSV95eW5MNWtENW50NDZ3NlNvc3A0YXhvS09yS2ZjRnZpOXB1dzNKcU1ob0plN2V1b1duVi1taTh0eThIc2lTU0gxZ2N6bjcyS1dwOGlFSEZ6R1o5NDExaXhlNHN1cTgzaHRWd3B2cWdfNzV2Z0pmY0plUHhNWXQ1Y001dGNvWjJmSDBkbGszU216TEI",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDloX2V2NnFfWVBma0ZkSEV2WnRKSV95eW5MNWtENW50NDZ3NlNvc3A0YXhvS09yS2ZjRnZpOXB1dzNKcU1ob0plN2V1b1duVi1taTh0eThIc2lTU0gxZ2N6bjcyS1dwOGlFSEZ6R1o5NDExaXhlNHN1cTgzaHRWd3B2cWdfNzV2Z0pmY0plUHhNWXQ1Y001dGNvWjJmSDBkbGszU216TEI5S004cVZyNURMai1oZFM5?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-s-biggest-world-cup-win-happened-2026-07-06",
       "headline": "Seattle's biggest World Cup win happened off the pitch - Axios",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-03",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-what-has-fifa-charged-argentin-2026-07-30",
-      "headline": "World Cup: What has FIFA charged Argentina with, what could punishment be? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm5rc0xoQVhQd2lESGFwcEIwcGJMY2hQckk2d2JZbzkwMlU0Z3k2djIzSlpJMTZXZnAyMWNOdkY4Q0V1SThUQmZpWkFTVUxnTUZNWjdOdC1wTUdSZVFwem1FOWZFZ2J1aEZDVXpmaGdmQWlhRUZHcERBMHk5aDVvdzBoakswLV9PN0J0U1QtWFJHWTRla3JXM2VINU5wTUlJMi0tUlFBdl9",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm5rc0xoQVhQd2lESGFwcEIwcGJMY2hQckk2d2JZbzkwMlU0Z3k2djIzSlpJMTZXZnAyMWNOdkY4Q0V1SThUQmZpWkFTVUxnTUZNWjdOdC1wTUdSZVFwem1FOWZFZ2J1aEZDVXpmaGdmQWlhRUZHcERBMHk5aDVvdzBoakswLV9PN0J0U1QtWFJHWTRla3JXM2VINU5wTUlJMi0tUlFBdl91dHhyUTlnVkRhdi1JUdIBuwFBVV95cUxPTW15UFhvbDhzbGVnUDBEMnpRTTNjdEpqWWQxV2dhQ1Y1U1BUWHVIX1hncGU5VlBhUHhEWGo4RmRTeG1JbUYyLWNrbDE5anZMaU1GNGQ5Y3EwdC1RWU5XaW9kWFR5WEJva21VTHJhU3RHMXJLUzRMS1NOZ3M3N21BME1FWTVUOWotNXZJZTZ2X2xpV3h2NFVQMFJSdzh2UkNaUXllbGNxNHBuSmVvMjlhYUlBYnBTX2tCWXhz?oc=5",
       "featured": false,
       "draft": true
     }

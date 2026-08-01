@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-01T15:59:57.324Z",
+  "lastUpdated": "2026-08-01T21:55:49.896Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -9754,7 +9754,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 477,
+      "chapterCount": 478,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -13570,6 +13570,14 @@
           "title": "Ancelotti discloses what caused Brazil's early elimination at 2026 World Cup - Legit.ng",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbF85X0d1ZGsyM05iUWczRUJBd1RTRkdTY3FJX2Z3UXlXMGNKZVpVLWdiWjdvQzlmdkZoSDREeGU4MnpTRWdDN1h1QkxRMElVXzBRekhUd0Zra1huLXdoRHhkU29EdzBGd0t1dGd0MF93Wi12Ykh2SjFhOEI5cUg3UFlkVlhuai1LNHlNaTdoRUtUa3hiS1o3R2JnMkdtNDlqYWFMenNUZldpOFJfaXZzOHU4X000Mk1KMG5IenlyZFo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1785621349219",
+          "date": "2026-08-01",
+          "title": "Poll reveals who Brazil blames for its 2026 World Cup exit; Carlo Ancelotti isn't the main target - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMTlMOFJ4MlFHYVNYLU5tMHRlTDJ2bUNYaDlNeHl1SWlLWUhrcjF5Mm5mUjZXZ2hQbC13NmI2TEZqZXZXUkhXNDRKMXk4emE1QzctR0JTaUJBSmZ4b01lV0ZzQ3pSTzVGZGhKYVp0RnItRDExU1dHdEh5RU1aTjFRRlNYMXFkME5fVmdzQm1aRVUwcW00ZEZoQTcwT252cVpQa2QxWmo4dWF6UFVBSWE3Rm1EeU5oVEhoanJMMURVZ2NhVVZzZXZQSXZpSUdvcjRKbnBWaFF3b3pNV0dMenFoamZyVHRoNEswRDVfOFBXNzFnYWlLbEtsUUdxQ1NJSGd2cU5CRlp1T19HZ3h0X1FnMFVHZ3IwMDZsLXc?oc=5",
           "draft": true
         }
       ]
