@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T15:59:54.660Z",
+  "lastUpdated": "2026-08-01T19:07:07.821Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-s-biggest-world-cup-win-happened-2026-07-06",
+      "headline": "Seattle's biggest World Cup win happened off the pitch - Axios",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-reaction-to-fifa-scrapping-world-cup-sel-2026-08-01",
       "headline": "Reaction to FIFA scrapping World Cup sell-off plans - Reuters",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMm5rc0xoQVhQd2lESGFwcEIwcGJMY2hQckk2d2JZbzkwMlU0Z3k2djIzSlpJMTZXZnAyMWNOdkY4Q0V1SThUQmZpWkFTVUxnTUZNWjdOdC1wTUdSZVFwem1FOWZFZ2J1aEZDVXpmaGdmQWlhRUZHcERBMHk5aDVvdzBoakswLV9PN0J0U1QtWFJHWTRla3JXM2VINU5wTUlJMi0tUlFBdl91dHhyUTlnVkRhdi1JUdIBuwFBVV95cUxPTW15UFhvbDhzbGVnUDBEMnpRTTNjdEpqWWQxV2dhQ1Y1U1BUWHVIX1hncGU5VlBhUHhEWGo4RmRTeG1JbUYyLWNrbDE5anZMaU1GNGQ5Y3EwdC1RWU5XaW9kWFR5WEJva21VTHJhU3RHMXJLUzRMS1NOZ3M3N21BME1FWTVUOWotNXZJZTZ2X2xpV3h2NFVQMFJSdzh2UkNaUXllbGNxNHBuSmVvMjlhYUlBYnBTX2tCWXhz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-for-sale-fifa-s-controversial--2026-07-29",
-      "headline": "World Cup for sale? FIFA's controversial plans explained - ESPN",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpWQlJqYTlzc0l1LXlTOEpSNTJsdUNWN1QwRklyWWNxOWtyNTVMMzc5ZkJLRVF5T2s3dV9qZjhaR3kzYmJlX01fNUJZTkRvLTVNN2hiaDhiRVpfSUxCRTVfY0oxQWVvLXEwcW5id21nSGVtREt3YnZRQWJOU2NrbGEtN1E0QjdRZ2dkRE9XRmFrUGdMSUlHZlV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-29",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpWQlJqYTlzc0l1LXlTOEpSNTJsdUNWN1QwRklyWWNxOWtyNTVMMzc5ZkJLRVF5T2s3dV9qZjhaR3kzYmJlX01fNUJZTkRvLTVNN2hiaDhiRVpfSUxCRTVfY0oxQWVvLXEwcW5id21nSGVtREt3YnZRQWJOU2NrbGEtN1E0QjdRZ2dkRE9XRmFrUGdMSUlHZlVfS2hhdw?oc=5",
       "featured": false,
       "draft": true
     }
