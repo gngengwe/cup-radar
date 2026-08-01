@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T13:19:45.179Z",
+  "lastUpdated": "2026-08-01T15:59:54.660Z",
   "articles": [
+    {
+      "id": "news-auto-reaction-to-fifa-scrapping-world-cup-sel-2026-08-01",
+      "headline": "Reaction to FIFA scrapping World Cup sell-off plans - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTl91LWZoS1RZU2NBUk5VVXp5NHpuZHYxdGFyU1VKS0xJMkprQkgtZkk2RFc5WXdDc092N1lReWJpNnZrYXdHaEdGOEZZUlBadWdSaEtybjVOWnpISnp2d0RPVDlndlVFSmlLUmFCc3hSLXhoVnpLOWdFWUJPSEtqRXpYMmxJdVkyNnQzQU1jZWdRcFM4SXhjM3JGU2M0bU1RQTFj?oc=5\" ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTl91LWZoS1RZU2NBUk5VVXp5NHpuZHYxdGFyU1VKS0xJMkprQkgtZkk2RFc5WXdDc092N1lReWJpNnZrYXdHaEdGOEZZUlBadWdSaEtybjVOWnpISnp2d0RPVDlndlVFSmlLUmFCc3hSLXhoVnpLOWdFWUJPSEtqRXpYMmxJdVkyNnQzQU1jZWdRcFM4SXhjM3JGU2M0bU1RQTFj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
+      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-boss-infantino-scraps-plan-to-sell--2026-08-01",
       "headline": "Fifa boss Infantino scraps plan to sell off World Cup profits to private equity - RFI",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-29",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpWQlJqYTlzc0l1LXlTOEpSNTJsdUNWN1QwRklyWWNxOWtyNTVMMzc5ZkJLRVF5T2s3dV9qZjhaR3kzYmJlX01fNUJZTkRvLTVNN2hiaDhiRVpfSUxCRTVfY0oxQWVvLXEwcW5id21nSGVtREt3YnZRQWJOU2NrbGEtN1E0QjdRZ2dkRE9XRmFrUGdMSUlHZlVfS2hhdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-sale-of-the-century-how-kushners--2026-07-30",
-      "headline": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BfYzFtLWRuWm5VbXBtbWhrSHd3UjF6aWxRQXFsdmpnNGxGYjdiOFRhQnY2VmJtbEtFRG9hNkY1T1RnaXVUWjZPam9WOXdUeFdoUGlEMkxhVERlVzRKUmxlRTZKRHBscmg5RmR6Wk1xbmR3Zk5sTGdaVE5aWEhlNFhqblp6TE1Oa0F5U1hSSjZlOFJwRnFjNURXUUhubVZjaXg2R0ExSWo",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3BfYzFtLWRuWm5VbXBtbWhrSHd3UjF6aWxRQXFsdmpnNGxGYjdiOFRhQnY2VmJtbEtFRG9hNkY1T1RnaXVUWjZPam9WOXdUeFdoUGlEMkxhVERlVzRKUmxlRTZKRHBscmg5RmR6Wk1xbmR3Zk5sTGdaVE5aWEhlNFhqblp6TE1Oa0F5U1hSSjZlOFJwRnFjNURXUUhubVZjaXg2R0ExSWoyVEttTEJhTjVuZk5wTThjOUpob210d3B3WTg5V1JJ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-biggest-world-cup-win-happened-2026-07-06",
-      "headline": "Seattle's biggest World Cup win happened off the pitch - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWswbDRnLWlteUwzT01IY2tpanIwUDNQa0lZNkVFejlHcF9YVS1Sb1FpZlctNVA3bjJaM0hOV1NJZ2hzajFEOVJxMG5UMXhrRkFNM3NnWWpRNHdrY2Q4SGVaN3ZXUzJaSzBtcHM4UWhHOHdQRHMyV2hfaDhzTjB2MDdNZEdtYWlwbnk4alViUWpwMzlaVklNWFFnWndvSnNSRWtWNQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-chiefs-super-bowl-and-final-four-bid-2026-07-30",
-      "headline": "How Chiefs’ Super Bowl And Final Four Bids Were Impacted By World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0QxUkliQWxYek95Y0twQUhyN0VSRlBuM2ZiNmhkRlpEYWxzNUlub0F0aEl1bDAydXAwUS12RDc0QzRncHRRN21fUUU3bGp1bHpBRzZTNll1cTJnNHg4OEpyai1rTGxPZjZvaks1RlpNS2ozTnc5VWpUVnRtaFZQVHBHbw?oc=5\" target=\"_blank\"&gt;How Chiefs’ Super Bowl ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0QxUkliQWxYek95Y0twQUhyN0VSRlBuM2ZiNmhkRlpEYWxzNUlub0F0aEl1bDAydXAwUS12RDc0QzRncHRRN21fUUU3bGp1bHpBRzZTNll1cTJnNHg4OEpyai1rTGxPZjZvaks1RlpNS2ozTnc5VWpUVnRtaFZQVHBHbw?oc=5",
       "featured": false,
       "draft": true
     }
