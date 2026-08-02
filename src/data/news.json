@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-02T10:40:25.127Z",
+  "lastUpdated": "2026-08-02T13:19:52.274Z",
   "articles": [
+    {
+      "id": "news-auto-news-analysis-why-gianni-infantino-s-sec-2026-08-01",
+      "headline": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly - Los Angeles Times",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZtdmx4d0ZDZlcxY3FseldSX0VzenpfS1R1UXVneGpWV3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-benjamin-asare-speaks-on-his-future-afte-2026-08-02",
+      "headline": "Benjamin Asare speaks on his future after 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEYwbENQV1dJSjdtRzBtM1VMT29WWC1fSk5FdExaa0ZnWVREQi1URXMwaVdKLWpmd0htYjNzNGZ5cEtIWFdySWdtUGdVQ0UxWTN2R3pNdVkybDhwOTY1VWZ3OHFHa1UxOGZadUxnY2Jlb3lIOVVyd1lwLXA0MmpuZEo1MXN6bUs5c3dZNksxVS03WHljZmthczQyeDBWV2dROTJBTUtuaWt",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEYwbENQV1dJSjdtRzBtM1VMT29WWC1fSk5FdExaa0ZnWVREQi1URXMwaVdKLWpmd0htYjNzNGZ5cEtIWFdySWdtUGdVQ0UxWTN2R3pNdVkybDhwOTY1VWZ3OHFHa1UxOGZadUxnY2Jlb3lIOVVyd1lwLXA0MmpuZEo1MXN6bUs5c3dZNksxVS03WHljZmthczQyeDBWV2dROTJBTUtuaWtRRWROZkg0ekZkSEQwaXRP?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-businesses-saw-mixed-world-c-2026-07-30",
+      "headline": "Kansas City businesses saw mixed World Cup returns, leaders say more is on the way - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnV",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnVibGxL?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-businesses-saw-mixed-world-c-2026-07-30",
       "headline": "Kansas City businesses saw mixed World Cup returns, leaders say more is on the way - KCTV",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmpDa2hJeEk2OEp1WERUSXVVbTdYckNvNDJ1M3VBMmp1WkJwS1dxN0Q3NnQzVUE1aDNqLXgyS2tGbndQQ0ZOS2REdXlFUVRXWjNWSFBjQkYyTDA0RllGUGRZbWhRYlFEaEdjOVFPbWFiZThydjNmaHpGOWU3dEJzUFkyVjg1eDcxQVBnSlFrY3dmNThGT2d0RkVmR2xlRUxFeHJnckJYRld1SVVFMXpN?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-in-an-official-statement-embolo-s-s-2026-07-30",
-      "headline": "FIFA in an official statement: Embolo's sending-off was a correction of justice, and it met with the approval of the IFAB - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNlB1dTFQSC0yN1VqVThnRm9HZ3JYSGZMY253dDc3Skw4d2Nkb2RpQS1pU25KWmdzMVJ0eHo2d25Ua21pa1ZQZHlmUkFkN1AwZ3NTV3NfVm1sa1BnZG5SZzJmSjVfeV9zSTIwMXlmNzcyT05TcVJvUzZ4WUxzYnBKSUJzRFdQMUozaEktTXNPTS12R1Z4SWFaNUw4czdYeXFtOVJkSE5PZlp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNlB1dTFQSC0yN1VqVThnRm9HZ3JYSGZMY253dDc3Skw4d2Nkb2RpQS1pU25KWmdzMVJ0eHo2d25Ua21pa1ZQZHlmUkFkN1AwZ3NTV3NfVm1sa1BnZG5SZzJmSjVfeV9zSTIwMXlmNzcyT05TcVJvUzZ4WUxzYnBKSUJzRFdQMUozaEktTXNPTS12R1Z4SWFaNUw4czdYeXFtOVJkSE5PZlpqeUtUR2FhaTdYZ3VuaGRqZWhfS3EtaHlkMDdwX3ZqY0tnWHFKY3ZMcFBvdVZ3d3M2R0NrWXUwUXNaNTRlbl8xRi1FUWZvdm1yLTBSYlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-s-rare-english-chat-during--2026-07-29",
-      "headline": "Lionel Messi's Rare English Chat During FIFA World Cup 2026 Revealed By Cape Verde Star: \"Surprised\" - NDTV Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWlubVpWR3ZlT1laZGNEXy0xcFUxbHRpdWRSR0FGTkVkbHhJSEZwMm12OWtyaW0zenMySm5tZ2ZXRVFzVGpKS0Jhbk9iemxiUjJfZl9jT0lEZThqTDREY2kyakJ3dVlvVnpvalpWdWZYVURST3BSeGFwY3RIdTVKWEd6SHpldWVlYnNZcm1oaFNDYTZsc0h0bHB6cjFOSjJpZmRiejZnU1E",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-29",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWlubVpWR3ZlT1laZGNEXy0xcFUxbHRpdWRSR0FGTkVkbHhJSEZwMm12OWtyaW0zenMySm5tZ2ZXRVFzVGpKS0Jhbk9iemxiUjJfZl9jT0lEZThqTDREY2kyakJ3dVlvVnpvalpWdWZYVURST3BSeGFwY3RIdTVKWEd6SHpldWVlYnNZcm1oaFNDYTZsc0h0bHB6cjFOSjJpZmRiejZnU1E1eEZROER6NjF6VWNLR1hVR2hFbUlIcDJuaENuOWdHeGRnMWZfQTVpYUxXSA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-announces-disciplinary-proceedings--2026-07-29",
-      "headline": "FIFA announces disciplinary proceedings after World Cup brawl - Good Morning America",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEpiR0NYX2kyandiRGRWemFvTWxORHNlY1UxZDFTYVQ0Uy1RNGJjUFdzQ0V2ZW0xaEh2QWtpTDFSQjRUc1RrX0xQbXBXUkdfajM2dWQ3OGlNVk9fX0x0YVo1VkxSRmI4Z1BTNmhObWZVdkxXclg5ZEE2SXV2d3N6cC1GSVFaSE9IRVZ1N1FOM2lYNWpNNVUzV0pkdkxSYllEd09aRVdqVnF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-29",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEpiR0NYX2kyandiRGRWemFvTWxORHNlY1UxZDFTYVQ0Uy1RNGJjUFdzQ0V2ZW0xaEh2QWtpTDFSQjRUc1RrX0xQbXBXUkdfajM2dWQ3OGlNVk9fX0x0YVo1VkxSRmI4Z1BTNmhObWZVdkxXclg5ZEE2SXV2d3N6cC1GSVFaSE9IRVZ1N1FOM2lYNWpNNVUzV0pkdkxSYllEd09aRVdqVnF1UlI4N3BNZkRZbVkyVk52bGFrYg?oc=5",
       "featured": false,
       "draft": true
     }
