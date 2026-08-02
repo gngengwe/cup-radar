@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-01T21:55:47.174Z",
+  "lastUpdated": "2026-08-02T05:57:35.461Z",
   "articles": [
+    {
+      "id": "news-auto-no-go-for-infantino-how-fifa-s-world-cup-2026-08-01",
+      "headline": "No go for Infantino: How Fifa's World Cup private investment plan imploded - RFI",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTk15MXcxZVRkcTIwdVV6TWR0Y0Fpc052Sld0bFQyeDYyLWxYa1dLUDlsd21yNXJMb2J4dkFHalZGa0ZkUmZneEdwSUZ5VFEzOUNSNUo4NjVsdVhjaDI3NVVBT0JOTFN0V1FidEI4eVl5V3dhYzZhM3dwMHhQQWRJWnJ4S3hTYVhGS2FsOVEwLUZxZHJmNGdEczZ1MDhTQW0yMVdIX2lCVEp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTk15MXcxZVRkcTIwdVV6TWR0Y0Fpc052Sld0bFQyeDYyLWxYa1dLUDlsd21yNXJMb2J4dkFHalZGa0ZkUmZneEdwSUZ5VFEzOUNSNUo4NjVsdVhjaDI3NVVBT0JOTFN0V1FidEI4eVl5V3dhYzZhM3dwMHhQQWRJWnJ4S3hTYVhGS2FsOVEwLUZxZHJmNGdEczZ1MDhTQW0yMVdIX2lCVEppckRmY0x4LQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
+      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - facebook.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-s-infantino-scraps-world-cup-invest-2026-08-01",
       "headline": "FIFA’s Infantino Scraps World Cup Investment Plan. But Is It Too Little, Too Late? - Time Magazine",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-29",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWIwYVgzT0FfODZ4R3B5N2pWSW1qZ2t2aW15a1FpU1ZSYUNWQkFvT2R0WmJJSUxBTWxSSWR2ZklqMklES1hQeWJSSWlOd2hkc0h3N3p0bjVFTTRsdHFfNEhoakpkMGNMdV8wTGNja3hxTWpvZ2NZcklVbVF1R1E1akNjY29neUhpaG9xaDVVbGtSUWNzWm03THVKM0VRcEkwSE9KQ0RNdEVERFhSWjdqQkJCVW82Z2lVSFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inter-miami-cf-representatives-standout--2026-07-29",
-      "headline": "Inter Miami CF Representatives Standout at FIFA World Cup 2026™ - Inter Miami CF",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObHZwX094TkoyZkVhT0VqRXBIVkxnQThFVzhVa0dvc09MeVRlNDVWSDg2VU5FVzA2SkxVY2hSM1IwVHRxZTIwNi1IaFdxV1F6cGRlaEZVU0Y2RGpuYVd5WElGcXpuYTZITkVLUzkyWkJQS2loM3JfLWU1MkdQSHE0azkzTmZBM19vdjBVR0tRN242NFlKckVBdnRBZ0NQcTQ?oc=5\" targe",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-29",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHZwX094TkoyZkVhT0VqRXBIVkxnQThFVzhVa0dvc09MeVRlNDVWSDg2VU5FVzA2SkxVY2hSM1IwVHRxZTIwNi1IaFdxV1F6cGRlaEZVU0Y2RGpuYVd5WElGcXpuYTZITkVLUzkyWkJQS2loM3JfLWU1MkdQSHE0azkzTmZBM19vdjBVR0tRN242NFlKckVBdnRBZ0NQcTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-top-8-controversies-of-the-2026-world-cu-2026-07-30",
-      "headline": "Top 8 Controversies of the 2026 World Cup - Harvard Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1fV3JrY3NKTmdEcmhETkp3ZC1PYWxqYWVSeXplTU9WSE9mQ2t2aVlNbGVqOThQLUlsYkdTcmRJWnZ1RG9fZmJrUXhsNEJ3NGgxNkN2WHZ3bEQ5dDVBYV8zRnFkTGcxT2hXcVhjZS1uellMX25XeTJoVXN0YnRNQQ?oc=5\" target=\"_blank\"&gt;Top 8 Controversies of the 2026",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fV3JrY3NKTmdEcmhETkp3ZC1PYWxqYWVSeXplTU9WSE9mQ2t2aVlNbGVqOThQLUlsYkdTcmRJWnZ1RG9fZmJrUXhsNEJ3NGgxNkN2WHZ3bEQ5dDVBYV8zRnFkTGcxT2hXcVhjZS1uellMX25XeTJoVXN0YnRNQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
-      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
       "featured": false,
       "draft": true
     }
