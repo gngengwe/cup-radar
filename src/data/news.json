@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-02T08:31:53.070Z",
+  "lastUpdated": "2026-08-02T10:40:25.127Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-businesses-saw-mixed-world-c-2026-07-30",
+      "headline": "Kansas City businesses saw mixed World Cup returns, leaders say more is on the way - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnV",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnVibGxL0gHAAUFVX3lxTE5lM0I0UnNqejRkbUhRc3paVHI3bGJnTTV3c3ZrUjJIYTNQQ0dCOHh3ZkNrWmJQeWNmUEVIZ090dkhTcUtPb3l2T0Q3RUNWS09ncG5td1dGQTRmNFIzbUVmQ1FhWlEwTmI2RTdXSHhkcm1ld0tuWEFrUHRDNGJMRVVKYnJ0M1BKZS14YjlSaHIxTVRwa0FocVlFckhFNVlGZVhoaUV1NjlYbUpDZW0zVVN5RHg3M2dQcDlPWTdFaU5wUA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-chief-infantino-s-position-looks-un-2026-08-02",
       "headline": "FIFA chief Infantino's position looks unacceptable, head of European leagues says - Reuters",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-29",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEpiR0NYX2kyandiRGRWemFvTWxORHNlY1UxZDFTYVQ0Uy1RNGJjUFdzQ0V2ZW0xaEh2QWtpTDFSQjRUc1RrX0xQbXBXUkdfajM2dWQ3OGlNVk9fX0x0YVo1VkxSRmI4Z1BTNmhObWZVdkxXclg5ZEE2SXV2d3N6cC1GSVFaSE9IRVZ1N1FOM2lYNWpNNVUzV0pkdkxSYllEd09aRVdqVnF1UlI4N3BNZkRZbVkyVk52bGFrYg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-owner-clark-hunt-addresses-new-st-2026-07-30",
-      "headline": "Chiefs owner Clark Hunt addresses new stadium, World Cup and 2026 season at training camp - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1uRjktcFhJMjhPLXlMMUZBY2dmdnM3UjN4bWxLNTdJczRkdmFZX0NyZEJ0V1hScnlxUWhxSEpMQzhQdkctZzdvckRZRGllWVJhbjdWMG1ONi01X01sY3hFU0d3V2xZbFZxVHlXS2F3MjBxNU10S3FDdE84SFlUZjBlNUxza1pyUW80TE5XSUg5Vk85ajdoTE56ZDBNWVo2Q1gwdDRiQi1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1uRjktcFhJMjhPLXlMMUZBY2dmdnM3UjN4bWxLNTdJczRkdmFZX0NyZEJ0V1hScnlxUWhxSEpMQzhQdkctZzdvckRZRGllWVJhbjdWMG1ONi01X01sY3hFU0d3V2xZbFZxVHlXS2F3MjBxNU10S3FDdE84SFlUZjBlNUxza1pyUW80TE5XSUg5Vk85ajdoTE56ZDBNWVo2Q1gwdDRiQi1oZi1rMXVjMzg3eFpEd9IBygFBVV95cUxQdUJxUzBacU1BMVhWVVltSXRjVm10eXE1NkhhUVVFclFybzh4Y2FlNmpMNEN3Q2ZwSjlZQTJYMXkxbVJReXVockw4NzNEejlJemlIY29CbjJpTTVUOGJ3WWEwdUFYbThvaUh1TWZhRFctNS1FeWZ1TEJ2Mlc3SjAxQXpNTXVnRWl0NkxjOWFKNXh4ZVIxZHBGU2h1RXFqa3k4VVlRQXZLUDNvcXFkY3RIbGFNQUJtS216c3ZVT01tcGFFU1VQOEx1YUxB?oc=5",
       "featured": false,
       "draft": true
     }

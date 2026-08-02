@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-01T21:55:49.896Z",
+  "lastUpdated": "2026-08-02T10:40:27.763Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4775,7 +4775,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 620,
+      "chapterCount": 621,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9735,6 +9735,14 @@
           "title": "U.S. Gets Bad News On Future World Cups After President Trump's Plea - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fQWUzdlFaa3JpankxNGFNcHZvUHdIakVlZFV5bzBWQ2QtdU5DUTNpZzhwOU1kVFpBTEF3N3F0ZDkxX2c2VEJDOEJtcVpGX2FGUGYydW9xNXEzeEZBZ1NnNm9NYlNtdlNlRnNDMy1PWWJ3SDdYYTBpV0FyNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785667226624",
+          "date": "2026-07-19",
+          "title": "How to watch the 2026 World Cup final for free: Where to the last match for $0 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXdTN3EzUEdHVGRWbVJ1N1RzYkZKb284LUF4S2J4N3h6U012VVhDbkExMWpjbEUydEJoakU0MDZtNXVyczF3Q0h3bmQyRWRhWlFFWHgybURzUFRXWjVBbkRaSnI2NGNmTVhUeHlBNUZ4ZnYta0ZPOTR2UGtqYmtzbTF5bXh6V3BuTXZINUdBX2l1ZC1fZDZBVUpsbkI4WGpKZGoxSVV3LVVCazBYWTBwYm5JbmZWdG1TS1BtMzV4WkRkYVdlLUxodXU1dw?oc=5",
           "draft": true
         }
       ]
