@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-02T13:19:52.274Z",
+  "lastUpdated": "2026-08-02T16:00:10.849Z",
   "articles": [
+    {
+      "id": "news-auto-inside-the-week-that-shook-gianni-infant-2026-08-02",
+      "headline": "Inside the week that shook Gianni Infantino, FIFA and the football world - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ5RlB3SUJSWkhmQWVrZ3JLX0JhQ0FLbXd1RHM2Tmx3Ui1WYkxmbEFMVm5MMjhBZFBPVW5velhYN3NBYWdqTVNvb1dBZG9ycjR3UTFaeFQ4VWlEVEFsNm93eFN4SXZjN0xqRFE4TEpVY1UwMUN1b3NjTjdaQW1Hc19CTXlfVXlWWjJmQkxR?oc=5\" target=\"_blank\"&gt;Inside th",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ5RlB3SUJSWkhmQWVrZ3JLX0JhQ0FLbXd1RHM2Tmx3Ui1WYkxmbEFMVm5MMjhBZFBPVW5velhYN3NBYWdqTVNvb1dBZG9ycjR3UTFaeFQ4VWlEVEFsNm93eFN4SXZjN0xqRFE4TEpVY1UwMUN1b3NjTjdaQW1Hc19CTXlfVXlWWjJmQkxR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-cape-verde-s-sidny-lopes-cabral-wins-202-2026-08-02",
+      "headline": "Cape Verde's Sidny Lopes Cabral Wins 2026 World Cup Goal of the Tournament - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXpxZENId1F0M00yRGZ5T2pGeGZYWUR0amtBaDN1dlBja1BydTlmTmJwNm1qSnpoUFlqSzlUUFZ1S3JBQUlkTmJFNlREOTV4bi04ZGZPb3ViQUh5aGF4U2FTaWlnc2dYSlE3c1NFZmVYa1ZuOTIxSFBOYmptbmFiTlZZT1JMZw?oc=5\" target=\"_blank\"&gt;Cape Verde's Sidny ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXpxZENId1F0M00yRGZ5T2pGeGZYWUR0amtBaDN1dlBja1BydTlmTmJwNm1qSnpoUFlqSzlUUFZ1S3JBQUlkTmJFNlREOTV4bi04ZGZPb3ViQUh5aGF4U2FTaWlnc2dYSlE3c1NFZmVYa1ZuOTIxSFBOYmptbmFiTlZZT1JMZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-jorge-campos-won-over-the-fans-at-th-2026-08-02",
+      "headline": "How Jorge Campos won over the fans at the 2026 FIFA World Cup - Mexico News Daily",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1RcHFlRHprY3VnbEJSU1FBcW84cDdteWtuR0xjNXpZYldlUmFKa3d5MURGc3BhM1lULUxXZExQNjhLdy1aeGhiQ3pmbGFGaW16emtPcnhGU0VJN01HTHRpOHRybi0ycTczX0RBSWVWdldnY016MDl0OWtReEt5ZV9GOXJGQzZxRFdudTU1Q0FQODVKQUMxcHc1TGtJeS1Sc0E?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1RcHFlRHprY3VnbEJSU1FBcW84cDdteWtuR0xjNXpZYldlUmFKa3d5MURGc3BhM1lULUxXZExQNjhLdy1aeGhiQ3pmbGFGaW16emtPcnhGU0VJN01HTHRpOHRybi0ycTczX0RBSWVWdldnY016MDl0OWtReEt5ZV9GOXJGQzZxRFdudTU1Q0FQODVKQUMxcHc1TGtJeS1Sc0E?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-news-analysis-why-gianni-infantino-s-sec-2026-08-01",
       "headline": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly - Los Angeles Times",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalF1MHhVR24wTVdtLXRaV2YwQmRiTUxtU1BJcHVpTGtoS0JYSG1KaC1LcGdRRDJnQm84bWpvcll6SWtJaktLdUdaM2pacDVmeU41OU9FSVZ4MF9TZjhwRnN3bGw2QnBMLXl4akUwV056Q1p1R2s3YTlqZG1TQUR3Y3dhZnhSNEtyTDJDUkpzRVdNbm8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-new-york-stabbing-kansas-city-shooting-r-2026-06-08",
-      "headline": "New York stabbing, Kansas City shooting raise World Cup security concerns - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGxCNjFyMEhmbGp4Qk5JV0Jxb2g5N2pfOTA1SmlnQ1JnSVdvTDc5M3hhcHFFUlViTl85ZTZnQkp5WEhmSi03aW5Zb3RnU2hJdy0zek94X0F3bkhMRmZHQmUzSXVLRzZvNTFkZEEyZWJxcWo3TWZJYXZXV1JwRUpObjkzc1VyOXVyRWo0MXJ1aDZMWWxabGJ6b0RGazdjbkhmZlRDRHZ1OEh",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGxCNjFyMEhmbGp4Qk5JV0Jxb2g5N2pfOTA1SmlnQ1JnSVdvTDc5M3hhcHFFUlViTl85ZTZnQkp5WEhmSi03aW5Zb3RnU2hJdy0zek94X0F3bkhMRmZHQmUzSXVLRzZvNTFkZEEyZWJxcWo3TWZJYXZXV1JwRUpObjkzc1VyOXVyRWo0MXJ1aDZMWWxabGJ6b0RGazdjbkhmZlRDRHZ1OEhWMGszQ1JfbHVjQ1XSAboBQVVfeXFMTTJTQV9TejBGY2V3WGJHZ2NRajFvYmVWci1RRzBVaTZ2WDIxb01oQ000ajRwb3cxRnNLVG5qQjdwYVZEbWlFWHFVWTFQaGlVTk50Ty1ITVBSRmtzTWNCYlVYZXVYZzdBc3hCYldZclFjQnREYmlhS2dZQTMyd01FaU5Ebk12Y29hSFRpVU9CdWZ5bDlCWGxia3BsbWZMUDA5Wk1vZllyQmVpb0p3RkZMejJyM1Y4MnlBTnJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-hero-vozinha-in-bid-to-keep-na-2026-07-30",
-      "headline": "World Cup hero Vozinha in bid to keep name for new club career - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2l1TjFFWkJiZmtxa1BUcERNX3I2UHRPT25xSjltSmpLc1N1VlNVaVVRQ0F2MUtmYl9Na0poeTRTLTJ1RVV3NzF6Y2xXZUd3cjMxdklRWU4yMmZxaUJEbnpJNWl2dldXZnJ1dVNwLTNyRmpuMHQzcWpXYlF4U2lSRTl1Ujl5a3lHWVdrYndZTW80TjR1ODRKYkZqWWl1NnJ1bzhpbA?oc=5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2l1TjFFWkJiZmtxa1BUcERNX3I2UHRPT25xSjltSmpLc1N1VlNVaVVRQ0F2MUtmYl9Na0poeTRTLTJ1RVV3NzF6Y2xXZUd3cjMxdklRWU4yMmZxaUJEbnpJNWl2dldXZnJ1dVNwLTNyRmpuMHQzcWpXYlF4U2lSRTl1Ujl5a3lHWVdrYndZTW80TjR1ODRKYkZqWWl1NnJ1bzhpbA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-justin-bieber-fifa-world-cup-final-sneak-2026-07-30",
-      "headline": "Justin Bieber FIFA World Cup Final Sneakers Raise $30K For Charity - Billboard",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmpDa2hJeEk2OEp1WERUSXVVbTdYckNvNDJ1M3VBMmp1WkJwS1dxN0Q3NnQzVUE1aDNqLXgyS2tGbndQQ0ZOS2REdXlFUVRXWjNWSFBjQkYyTDA0RllGUGRZbWhRYlFEaEdjOVFPbWFiZThydjNmaHpGOWU3dEJzUFkyVjg1eDcxQVBnSlFrY3dmNThGT2d0RkVmR2xlRUxFeHJnckJYRld",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmpDa2hJeEk2OEp1WERUSXVVbTdYckNvNDJ1M3VBMmp1WkJwS1dxN0Q3NnQzVUE1aDNqLXgyS2tGbndQQ0ZOS2REdXlFUVRXWjNWSFBjQkYyTDA0RllGUGRZbWhRYlFEaEdjOVFPbWFiZThydjNmaHpGOWU3dEJzUFkyVjg1eDcxQVBnSlFrY3dmNThGT2d0RkVmR2xlRUxFeHJnckJYRld1SVVFMXpN?oc=5",
       "featured": false,
       "draft": true
     }
