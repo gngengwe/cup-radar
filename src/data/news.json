@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-03T02:46:43.504Z",
+  "lastUpdated": "2026-08-03T06:22:53.706Z",
   "articles": [
+    {
+      "id": "news-auto-why-infantino-s-plans-to-sell-off-world--2026-08-02",
+      "headline": "Why Infantino's plans to sell off World Cup made no sense - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONlJGWUUzUlRwajNOMGI2MUdmaHltMjlYYkg4SEt2WFhnRTNVNXo0d1JZa2JNZTFQd3VJNTFIRjFQS0c1TmFoT2Jaa2hpTXRIZXZ0c21IWElsT21zR0tucURBc2I2XzVxd1p3d1FERkhSYTNRUVJQbmNsUFRPYTg0LUJtblJ1WXRERHhjUTJTdTVxRUc4a2pGSS1GbjZXLXVRU21YQ19UOWZ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-02",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlJGWUUzUlRwajNOMGI2MUdmaHltMjlYYkg4SEt2WFhnRTNVNXo0d1JZa2JNZTFQd3VJNTFIRjFQS0c1TmFoT2Jaa2hpTXRIZXZ0c21IWElsT21zR0tucURBc2I2XzVxd1p3d1FERkhSYTNRUVJQbmNsUFRPYTg0LUJtblJ1WXRERHhjUTJTdTVxRUc4a2pGSS1GbjZXLXVRU21YQ19UOWZocVowUHFJMA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-faisal-islam-four-reasons-why-fifa-s-wor-2026-08-01",
+      "headline": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up - BBC",
+      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bWJoeUxpYlNaQldMWVp3dHd4eHJOOHZrQVdrbHJVbjIzeFZBeGNFaUtnUWNQOVpGblFQakh0bEtOYXY2TWtXNTBEWGF5YnZROHZJM0FKMHVrdw?oc=5\" target=\"_blank\"&gt;Faisal Islam: Four reasons why Fifa's World Cup plan never ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bWJoeUxpYlNaQldMWVp3dHd4eHJOOHZrQVdrbHJVbjIzeFZBeGNFaUtnUWNQOVpGblFQakh0bEtOYXY2TWtXNTBEWGF5YnZROHZJM0FKMHVrdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-spain-outlasts-argentina-1-0-in-extra-ti-2026-07-19",
       "headline": "Spain outlasts Argentina 1-0 in extra time to win second World Cup title - NBC News",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-18",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-traffic-transit-trash-seattle-shows-what-2026-07-06",
-      "headline": "Traffic, transit, trash: Seattle shows what it can do during the World Cup - Oregon Public Broadcasting - OPB",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUkwTmhlMXpRZW1waXppemhNOExXRlZSckRWM2lnYzUtM0g3cXhkVlc2bVN5V1kxUnZrOXcyekxvelJpUlF0UXlNdDZWS3hfdDlSb1RTejY2X2pGODBkNEtmSXdnU29ibGZDNmc1MUUzb1NrcnhoVHlPcUhvRE1ZVTAtVnNtbk9pTjZXbFI1dXBWVHc?oc=5\" target=\"_blank\"&gt;Tr",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUkwTmhlMXpRZW1waXppemhNOExXRlZSckRWM2lnYzUtM0g3cXhkVlc2bVN5V1kxUnZrOXcyekxvelJpUlF0UXlNdDZWS3hfdDlSb1RTejY2X2pGODBkNEtmSXdnU29ibGZDNmc1MUUzb1NrcnhoVHlPcUhvRE1ZVTAtVnNtbk9pTjZXbFI1dXBWVHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
-      "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - Oregon Public Broadcasting - OPB",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
       "featured": false,
       "draft": true
     }
