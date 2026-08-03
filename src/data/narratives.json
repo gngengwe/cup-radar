@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-03T02:46:46.241Z",
+  "lastUpdated": "2026-08-03T12:22:34.992Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 298,
+      "chapterCount": 301,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2402,6 +2402,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlFBQnl3VFRkMmgwcXBmUnFGdXA1MUo5QU1qM3UxamIxdkcyQWFVdnk2WTZ3UGEwR0k0MWxBcGtPUTZGS1JjR0N4WEZxbXRXcld6LWIwMmY5dGt5Y2d5eVNyUXlSMEhXQnNfcHh5cHBxdmZySkJiU253RHRySUlCa0Q4VDBWUDRWT0o3SUFMUXNWaEtRaE1UMUdUVHNGdlpYaHVkYdIBpAFBVV95cUxPbmh6LTNCMEw2R3h4ejlSUU8wZ3c1bEFBS0JtTVg1aE1yb3I5NC1VWVhjMUstazBvdkNCMHoyMXF3MnRBNkhpOXFSVDVwdDRPVG5HMTBHSUN5X1VOeXFldFBFeVMyZVJDQVBoSi0zVmJ6MTNDTU4tSXhMZHFvMmpQRG1RVW5DVHI4dU05SERvTzdBOWQxMFBSYTlScUlYNGxYamtQUA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785759752818",
+          "date": "2026-07-31",
+          "title": "No date yet set for Messi's return to Inter Miami action - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMll0NkgyVEx0M1lvWGZOb0FuUFh2blRLY1hIVkhmUWx1eUFOOHpmcVFLSWg4OFctSGVLSUhMYmpYbG91SGJ1NjhKUlBwdVJFaXRtRlE1eTg3VGFPZUFrMTlLUEFkZjZubm1ZcXlPaUhia0ZmTTB4bXlZRzBUY2Nmay1mR3A4cUd1MDdvXy1CdUVQb0pOeXJNcnBGa01mSmhlMmhCVA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785759752818",
+          "date": "2026-08-02",
+          "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzRNZlRjN1owQUVDeUdBdVhMcnFoX21Fb2RjOG9JRF9vQmlVbDZfTHY4X0Y3UG5hYTVYOVlpcU5xZzBLNGtyWlhKeXg3YnVJNEZXQ1dBMHE3aWxjMjh2U0NBcjhmanY2amJDbF9hNjNJY3huSDctN2t3Y3pGcFRRRnY5Ny0tQU5pVUE5Y1VJX1NlYVh4ZGdHeWlvVmpTZ21Ta1lZdG0tLVlLWVloZUFaTHN2cnrSAboBQVVfeXFMUHcta3QwbEUzdTdzTXlQR1RxQnRrZVJWaE9IcjdORG5kRVFKcHh3X0p6VmxhbTZzMFF2ajdoS0U0NEVuc1lXLUt5WmFsNlYzNXJaTG5MdThMYzBFcWVybVo1TkkxYy1MR3N1ajFZWjB3OU8wT1drWlp2RHdXSnJMZ1N5YzhZeEszYmxTdnFCYXdXRGM1T0tyYW5UVER6c0FaaWRLQzR2QzNjcFRpb3E1VXZGazdaMUZCWXlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785759752818",
+          "date": "2026-07-18",
+          "title": "MATCH PREVIEW: Messi and De Paul's Argentina to Fight for the Title Against Spain in the Final of the FIFA World Cup 2026 - Inter Miami CF",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTjZrZ2hqTm1vSDRMUmtiZk8yVWxlZGtESnlNQkNmSm9vMUI5b01iVG1TdGhFWlRmUEFaRTVocFNwZ1p5UzBsbVdUd3dfWjZKNUVkU2w5M0M0Tkd3bXkwRDg1SDkySHRVSnhFWTdmbG1PVThQaHFEbEgzc2lJSTlLdmN2X3NxQ1JySm02UlZEUWI4c2QxZ0lMcEpzT05lcHRrNXVFdG5CNm05cUp0QkYzUmZDaDgyQUpsRWpBRFJ5eVhHVWpXVlgxQ1NrVmE3VVFiRXNvQ01GRC1mQndHS1Rjd04xZFE4cmZPZzVHdg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4775,7 +4799,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 622,
+      "chapterCount": 623,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9751,6 +9775,14 @@
           "title": "‘They’d already moved on to Zidane’ - Didier Deschamps felt abandoned by French FA during World Cup 2026 - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjhCQW1TY3pQMlJCVnFlaDVjMHhfVXVqRDBDNTVaVzdCdFhjY3AySXg2Ny00LTA1ZlQ1XzRQWDc0Y3B1RjNwMkJfdy02LU44ajBFVVpaU1NWeXh6OHpxRi13TVEwbVRaRWxjM1pBS3JIRGQzcnY0NVhOVWVZX18taDE4S0QyNmtqcXA0OEEtamx2U3lVSTFkMTFyRTNMLXRY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785759753904",
+          "date": "2026-08-02",
+          "title": "USA's Gio Reyna Set to Join French Club Strasbourg On Permanent Deal - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2pvdzFmZ2dfaS1pVlhLYTRIZGhrV1pMQzBXVGg4Wm9zUG9DMkdmQXNteUJtSWNpeTBYaU56SURJdE8ydWl4c3BWT1Nrd01sU1ZaWXNLM0ZkWC05V0RJcmJfM0VuUXlkQk16VlhGb0xteDZ0a1haazhfTW54YlpKUHZ5cVNLT0t4cm41cWF6N0lJb1JmYm1aNmZERjTSAZwBQVVfeXFMT2VKc0VEWjVwMHVFTHVsdzRtaGtFSjJCaTYxUEZoTF90OGtzU1JfUmJoelBQV2Zybk1FUWpVRnNneDdlWnNhWTFBTEZNRlg2RmlyWFpfTGU1bmhNNk5DcU5LcElfWGxlR0pQTHczcEpMWUFXbEFxcENQVWVWM0FPUUF4UEdBd1FEV2dCNnhKVW56c1U0b2JqTE9HX2lk?oc=5",
           "draft": true
         }
       ]
