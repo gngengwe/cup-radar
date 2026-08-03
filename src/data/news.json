@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-03T12:22:32.350Z",
+  "lastUpdated": "2026-08-03T17:08:34.463Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-s-infantino-sought-trump-backing-af-2026-08-03",
+      "headline": "FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWZVWEE0WHlsdWs0Rk5fUEhydjZTcVgwTWNOaC1HNld2SUFfVW9tbUxZeHFGVUhOU3BzX3QwNkZCbHlrVHltS2xfbE5Pc0VTeWlvc0Y5QzNJUXJfMWFtWnBQeVVoMGdQSTVfSnJCOGd5NEVZOEpJQThpUHh0NzlzUmlINW5HMndVaUZQYVItTTZWSVUtUmZPREpsY0Nvbl9EeGE2TW1CcFd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWZVWEE0WHlsdWs0Rk5fUEhydjZTcVgwTWNOaC1HNld2SUFfVW9tbUxZeHFGVUhOU3BzX3QwNkZCbHlrVHltS2xfbE5Pc0VTeWlvc0Y5QzNJUXJfMWFtWnBQeVVoMGdQSTVfSnJCOGd5NEVZOEpJQThpUHh0NzlzUmlINW5HMndVaUZQYVItTTZWSVUtUmZPREpsY0Nvbl9EeGE2TW1CcFdVbGJEUWwyZ2JMNE9aOW9aV0EyYzV0NNIBxAFBVV95cUxPdGFxZDlYTWNaVTFwdFRfaXVFd29DbVFudUV2d2xoUk9jNXNwM0Vtc0pQV19oTWhibWg4VnljdHctUEZPcVFGT2xERVh2X3JVMnZTdEhmQ0lVVmU2cUZMOHRlamFfWlZHTWoyTVNFUlIwZXNveVByVmc4elNoZTEtdzlvZUVLYy1HUnRVMGJDUDltZUZiMmdMbGVnNV9vVWx0cTZhTlRjOEZpWDc4cDBVVXBrNVRaeW8weEx2bWlyeWtfazlv?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-spain-s-ferran-torres-on-world-cup-win-m-2026-08-03",
+      "headline": "Spain’s Ferran Torres on World Cup win, mental health and why he forgives Argentina - NBC News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm1pZFZrX01EcDdwS1hDV2lBX0FGNXJfV3g0V3NwWl9aMFJIcWw3SnJIdzdlV05yb2tld1pwcXhNMUlud3hwRGgwNFhZXzlEQ2xTdklMMXNER0ZCcDdMTUl0VC1UZ0lYTHVzSmxob2s4eG9iRDVGd2dwbG8tV2V3Zkl5TGpjRnp0VEJMVS03eG9XWGhLTkVYUmhncGFQdi1idnN3OTYxOUp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm1pZFZrX01EcDdwS1hDV2lBX0FGNXJfV3g0V3NwWl9aMFJIcWw3SnJIdzdlV05yb2tld1pwcXhNMUlud3hwRGgwNFhZXzlEQ2xTdklMMXNER0ZCcDdMTUl0VC1UZ0lYTHVzSmxob2s4eG9iRDVGd2dwbG8tV2V3Zkl5TGpjRnp0VEJMVS03eG9XWGhLTkVYUmhncGFQdi1idnN3OTYxOUpDSms5SF96d2k2OFZCTWJwRU5v?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-us-men-s-coach-pochettino-agrees-new-con-2026-08-03",
+      "headline": "US men’s coach Pochettino agrees new contract through 2030 World Cup - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHdwSmxRQlkxaFh1OFFaa0k3QkRueFhjRVFIeVAzT05VY3JXbHg3TS1VYldYZ3BGbnRES0NncTNOc2hGZHR3eDVaYnY1bTR6ZHJuRGFiWVNINk1wcFBCNUJLMThRQVhBZ21kV0FOanVzdkZ0bDVCdWRGUGhGRDNoSm5DUjJjWGZaY1NMb1lxZm9FejZOMmZ3Umt3ZGNzb0VrOVl6VEFNTnk",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHdwSmxRQlkxaFh1OFFaa0k3QkRueFhjRVFIeVAzT05VY3JXbHg3TS1VYldYZ3BGbnRES0NncTNOc2hGZHR3eDVaYnY1bTR6ZHJuRGFiWVNINk1wcFBCNUJLMThRQVhBZ21kV0FOanVzdkZ0bDVCdWRGUGhGRDNoSm5DUjJjWGZaY1NMb1lxZm9FejZOMmZ3Umt3ZGNzb0VrOVl6VEFNTnk2cXdTT2tsaXlNaHpzQkJf?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-backs-off-world-cup-private-equity--2026-08-03",
+      "headline": "FIFA backs off World Cup private equity pitch after global fury: 5 things to know - The Hill",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHlxZzJ0OGpvMDNVb2hrSEZUSG1DZkQwbHRUYkFfWDNERHpHb0FOTE0tNnkyZGlvWXJVRHhRck5aVkFpNFh4S2xrRjZ2VUdUUFI3UHR5RDJ1M1hJOTNvTC1ReXU2dHF6YThsb0JacXJpMGQ1V1JsUl9Jc3dFRmpHZlNjT2Z2dlQ0M3ktVQ?oc=5\" target=\"_blank\"&gt;FIFA backs ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHlxZzJ0OGpvMDNVb2hrSEZUSG1DZkQwbHRUYkFfWDNERHpHb0FOTE0tNnkyZGlvWXJVRHhRck5aVkFpNFh4S2xrRjZ2VUdUUFI3UHR5RDJ1M1hJOTNvTC1ReXU2dHF6YThsb0JacXJpMGQ1V1JsUl9Jc3dFRmpHZlNjT2Z2dlQ0M3ktVQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ku-goalkeepers-played-their-own-small-ro-2026-08-03",
+      "headline": "KU goalkeepers played their own small role in World Cup festivities - Lawrence Journal-World",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZW1XM256ZE5kUnZxbjhvUU1tdzRPRWNHMjBNYU5jQmlITzJwSlpVOUtuSndockhMTFpwV1Atd09lSExwTl9vUzNtampjRkVhb1ZpZFRKR2xKUXR2MHFrRFRhX0dIWFQ2UzFkUDZoSHJEbTBKeWhZTjJEejFOekd1Z2tCRTBfMjYxMG5CYTNzQXcwUTAtS282WExjaGgxX2ZhS21ZU2NucHh",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-03",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZW1XM256ZE5kUnZxbjhvUU1tdzRPRWNHMjBNYU5jQmlITzJwSlpVOUtuSndockhMTFpwV1Atd09lSExwTl9vUzNtampjRkVhb1ZpZFRKR2xKUXR2MHFrRFRhX0dIWFQ2UzFkUDZoSHJEbTBKeWhZTjJEejFOekd1Z2tCRTBfMjYxMG5CYTNzQXcwUTAtS282WExjaGgxX2ZhS21ZU2NucHhoaHo2cG5CQ2I3NzFNNGtTRldKOF94aw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-pursues-2031-fifa-women-s-wo-2026-07-23",
+      "headline": "Kansas City pursues 2031 FIFA Women’s World Cup, Men’s Rugby World Cup hosting bids - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzh0TFRnVVpQcE41U0hHY05tZ0JpdWF1ZTY0Zmg5aFNKbVM1bHlVcUo5cFk3U3dWU1JvNjFHSXhKMWhGVVEzNEwzUExBcmtLVGZrczNvb0xDR3pJRUgweWZZcklhd18xdXVEOEFWZ1FEc0tuZk9IcHA1ZkF3XzRtcDFYVGVaRy1obHc4QUlwVkJzTVdvMXlEZzZ5Qi00VFJNQmFqQUd2clc",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzh0TFRnVVpQcE41U0hHY05tZ0JpdWF1ZTY0Zmg5aFNKbVM1bHlVcUo5cFk3U3dWU1JvNjFHSXhKMWhGVVEzNEwzUExBcmtLVGZrczNvb0xDR3pJRUgweWZZcklhd18xdXVEOEFWZ1FEc0tuZk9IcHA1ZkF3XzRtcDFYVGVaRy1obHc4QUlwVkJzTVdvMXlEZzZ5Qi00VFJNQmFqQUd2clcxTng5bVdBR3M4anTSAcgBQVVfeXFMUEM3enc0NEpXNTBGVkRYeklKTS1vUlNGMjItQzI1N1dZd2xMUEFjVEFqRk4wel9lN2JEb1I0VXlRT19wdm1Fa0FKUkFVOHY1RWhFZnRJeTFCVGl0a2JtRWRkNTVBVk5RWXhHMUZVbDBLQ1d1Zmx1NGNXWW9Ta3V5X3l5N3RUZmFtcl9GNGhxZlV0SFg0aFEyNXhSZXJPNElMREZjUjlqQ1pxV1Z6d1c0bU16a0RtZjhZTl9YSTZXMWN0SXk2WTRVSmQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-small-nations-hold-big-cards-as-fifa-chi-2026-08-03",
       "headline": "Small nations hold big cards as FIFA chief Infantino scrambles for support - Reuters",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-17",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2TTA4TVlJdERGMlY1RmpWNzRuVWQ4Vjhsd0o1a2huODJZRnZJMHRUTl9OUUZ6SnNOUXFKdlNyZUNHMmxoVUVwUkw1Y0NKSVJZT081YXRXemEyUk1JcmdlNFcwRmE0aUc5MmUzV0ZyWHF5eHhySHNsNEN30gF6QVVfeXFMTjZ0ZkhrN3BhX2VJV0ZoQ3VDdVNET1FlNHRucXk5VEdSdW41ZWxjYWVXMFZzLUNVTEFtLXV0aW44TEJ6ZElmYVdtbk8tcnJHMTdmWFBNbkp0aE0xYUNlVDF6RXQxdjJqNzNTc0lZdUpRWW5DTDRmNnRRMHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
-      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-increasingly-embattled-after-s-2026-07-31",
-      "headline": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans - The Guardian",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjdmYWVPMTFwdTRselhuemxyNk5nRmd4SFBTVVVQY1BxVXFKRWZDbmpUMlBXc0xFM1NlRHFiV1FuNW9QYktpZ3ZSWVJXa2JfTFBISDFvMGVKRnlBWWNWWDNvV2I5bDAxMGNkZExaSHF4b1l3WHNSb0FDakhiM0JHaGtjdXNhbHV3WjUtOVp4QUpyZjlTWGRGVWN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjdmYWVPMTFwdTRselhuemxyNk5nRmd4SFBTVVVQY1BxVXFKRWZDbmpUMlBXc0xFM1NlRHFiV1FuNW9QYktpZ3ZSWVJXa2JfTFBISDFvMGVKRnlBWWNWWDNvV2I5bDAxMGNkZExaSHF4b1l3WHNSb0FDakhiM0JHaGtjdXNhbHV3WjUtOVp4QUpyZjlTWGRGVWNvSmFVdS0wT294b040SQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-the-premier-league-clubs--2026-07-31",
-      "headline": "World Cup 2026: The Premier League clubs fighting a World Cup hangover - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENXpXZnI5OGZpSlRmc2hBdUprRWY5UjdtOVFQc0R4Q0RCZGxEcTBhellQRUgtUUUyUGxZN2JBNVBQR3hDbGdiclRDa3ZTSjF4WUNJaUZpQ1BxcTJJV2JCRGRpQzFKWkE?oc=5\" target=\"_blank\"&gt;World Cup 2026: The Premier League clubs fighting a World Cup ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENXpXZnI5OGZpSlRmc2hBdUprRWY5UjdtOVFQc0R4Q0RCZGxEcTBhellQRUgtUUUyUGxZN2JBNVBQR3hDbGdiclRDa3ZTSjF4WUNJaUZpQ1BxcTJJV2JCRGRpQzFKWkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-uefa-nations-agree-to-boycott-world-cups-2026-07-31",
-      "headline": "UEFA nations agree to boycott World Cups over FIFA’s private investment plans - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUpXT2IzSlJ0Y3F2Rl9aRzVEMGwxWWhjRXpTN3hQbVA5LVd6ODBWOXByUE0yc2VQRkxXRmhuZU5mdEg5NVhvUlJFNG1ENFBZUTdOSnNiMXV4V1JIcDlENDFsUE9DNXFINGc4bEVqYlZzWWlrQ3Z5VkluSDZQZ3RSNi1UMl92dHJBQXctTG5n?oc=5\" target=\"_blank\"&gt;UEFA nati",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVUpXT2IzSlJ0Y3F2Rl9aRzVEMGwxWWhjRXpTN3hQbVA5LVd6ODBWOXByUE0yc2VQRkxXRmhuZU5mdEg5NVhvUlJFNG1ENFBZUTdOSnNiMXV4V1JIcDlENDFsUE9DNXFINGc4bEVqYlZzWWlrQ3Z5VkluSDZQZ3RSNi1UMl92dHJBQXctTG5n?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-afc-backs-uefa-and-concacaf-who-plan-boy-2026-07-31",
-      "headline": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlVQcDlVS0dYeFh1MFNhcGVIZHBGZWE1b1g1WkFjQ09JTXFkb1QzbHpLVkF4UnU3MmdBVlJaRVFSZVBKT2QxRXVnalgwTjh0SmVZSFhvdDRoSjdlOVJyZDRPRkw2TWpPN0ZNLUZnUGVxZ0F1ZWxaLU51NDE0UDN0SzVfM0E4dXYyYjdIX04wQ3VyVmdUazRLczNFNUVJRHhnRzhtek5WT2N",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlVQcDlVS0dYeFh1MFNhcGVIZHBGZWE1b1g1WkFjQ09JTXFkb1QzbHpLVkF4UnU3MmdBVlJaRVFSZVBKT2QxRXVnalgwTjh0SmVZSFhvdDRoSjdlOVJyZDRPRkw2TWpPN0ZNLUZnUGVxZ0F1ZWxaLU51NDE0UDN0SzVfM0E4dXYyYjdIX04wQ3VyVmdUazRLczNFNUVJRHhnRzhtek5WT2N4dVBOWFcxYmRIV3hTcjlF0gG-AUFVX3lxTE55dk0zeTU4dEZFbkFrSFRvekFlT1FYWEFybS1QaHFaeUNhc0s2QVRnbFU2dXVpNEJRMlVuUURuV0xLRE9mVjVQVzFYTTdGSnBXdVVRendGZXA4cFExZkxpb2ZWNEE3bHdlczJiczFhZjBTX0xmczlFbEJBaUg5T0ZxMTRCeEkzQzN6LWF3ZHJrZzBfRHAxb01KSkZYTzJBNV9WMlFMd3A5WWNQZW50UVBLeE4xb1NPMDhrTjFiU2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-boycott-tracker-updated-list-o-2026-07-31",
-      "headline": "World Cup boycott tracker: Updated list of nations taking action over Gianni Infantino and FIFA's sale plan - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVVJiVnB3YldfMTlSNUM3THZ1eVVfTzU4ODZsdFV1SmpjRUxGUXZGcTdFU1Z6dUxURXdJRkVnXzJuVkg0b0RjMzdHdFh3eU5yenEzQVhhclQ0ODNNRGRkUlJySHRLVVVoc2x1amotUVFjdXJjMU9kNEpWb1RiOXUxY0N6ZzRXSXE5eUE?oc=5\" target=\"_blank\"&gt;World Cup boyc",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVVJiVnB3YldfMTlSNUM3THZ1eVVfTzU4ODZsdFV1SmpjRUxGUXZGcTdFU1Z6dUxURXdJRkVnXzJuVkg0b0RjMzdHdFh3eU5yenEzQVhhclQ0ODNNRGRkUlJySHRLVVVoc2x1amotUVFjdXJjMU9kNEpWb1RiOXUxY0N6ZzRXSXE5eUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-73-of-britons-support-uefa-s-fifa-world--2026-07-31",
-      "headline": "73% of Britons support UEFA’s FIFA World Cup boycott - YouGov",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTlUbzJiRUdMSVpuUDNWWTdQa3hlMkVuT0NibDB4N2Y2Q0VWMENCclJwMjUtZWVGWk4yUHluZmFFLUNUZDVDam94cEZqazVsYm14MElzV2hGSmx3c1FzZ0pyaHZMTENGWGw2OGljYl9DVmJkR2RzeDdMeUVGakhrbjM5TVdEYXBBRU9TMEZDMzNIUFlW?oc=5\" target=\"_blank\"&gt;7",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTlUbzJiRUdMSVpuUDNWWTdQa3hlMkVuT0NibDB4N2Y2Q0VWMENCclJwMjUtZWVGWk4yUHluZmFFLUNUZDVDam94cEZqazVsYm14MElzV2hGSmx3c1FzZ0pyaHZMTENGWGw2OGljYl9DVmJkR2RzeDdMeUVGakhrbjM5TVdEYXBBRU9TMEZDMzNIUFlW?oc=5",
       "featured": false,
       "draft": true
     }

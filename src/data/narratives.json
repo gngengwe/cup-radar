@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-03T12:22:34.992Z",
+  "lastUpdated": "2026-08-03T17:08:37.239Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 301,
+      "chapterCount": 302,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2426,6 +2426,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTjZrZ2hqTm1vSDRMUmtiZk8yVWxlZGtESnlNQkNmSm9vMUI5b01iVG1TdGhFWlRmUEFaRTVocFNwZ1p5UzBsbVdUd3dfWjZKNUVkU2w5M0M0Tkd3bXkwRDg1SDkySHRVSnhFWTdmbG1PVThQaHFEbEgzc2lJSTlLdmN2X3NxQ1JySm02UlZEUWI4c2QxZ0lMcEpzT05lcHRrNXVFdG5CNm05cUp0QkYzUmZDaDgyQUpsRWpBRFJ5eVhHVWpXVlgxQ1NrVmE3VVFiRXNvQ01GRC1mQndHS1Rjd04xZFE4cmZPZzVHdg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785776914975",
+          "date": "2026-08-02",
+          "title": "Messi tracker: Goals, assists, key moments in 2026 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHg1X193a2RLelJXbDRCNm5Xc0xXYjM1bkcwck5FMUQxVzB6b1lfSnN5Mi1Kc3JVT1BTRVNqODhCcWU4b2ZqMmt3VFNYQmF4UW9CNGNHbHdkYUh3dzQ1UHkwbDVYLXRHaXVMQkhBdHA4VmFsSDBfb3djdmNDeTh6MEZtOV96VjBrMXRjLXBDX2FZRFFVUk41aWZRTmVMaktFRFJCX1Q3cXl2TkJKUXJKYUxZRE5teDFLeFZDXzdB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4799,7 +4807,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 623,
+      "chapterCount": 628,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9783,6 +9791,46 @@
           "title": "USA's Gio Reyna Set to Join French Club Strasbourg On Permanent Deal - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2pvdzFmZ2dfaS1pVlhLYTRIZGhrV1pMQzBXVGg4Wm9zUG9DMkdmQXNteUJtSWNpeTBYaU56SURJdE8ydWl4c3BWT1Nrd01sU1ZaWXNLM0ZkWC05V0RJcmJfM0VuUXlkQk16VlhGb0xteDZ0a1haazhfTW54YlpKUHZ5cVNLT0t4cm41cWF6N0lJb1JmYm1aNmZERjTSAZwBQVVfeXFMT2VKc0VEWjVwMHVFTHVsdzRtaGtFSjJCaTYxUEZoTF90OGtzU1JfUmJoelBQV2Zybk1FUWpVRnNneDdlWnNhWTFBTEZNRlg2RmlyWFpfTGU1bmhNNk5DcU5LcElfWGxlR0pQTHczcEpMWUFXbEFxcENQVWVWM0FPUUF4UEdBd1FEV2dCNnhKVW56c1U0b2JqTE9HX2lk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785776916112",
+          "date": "2026-08-03",
+          "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030 - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSU8yT2dQWHYwQk9JamlRdmx6NUhLOVYweXQ3RW9qRGhrU25naksyWHFmdHgwaHJ3QnFRQ1JXa3FSMGJYT3pjcTNscE9iQkE5bjNEMHpjTGRtdjdoZHNpT3BXWDZVQU1VbzJSYTVrdEloQXdQZ0lHdWx4bVM2SDJzeTd5UDhsa0NKN25tNXNTNnpNLVBYMlIwcVhHQXZfR0VSXzVJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785776916112",
+          "date": "2026-08-03",
+          "title": "Mauricio Pochettino makes call on USMNT future after turbulent World Cup - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjZOVUM1RkxIRFZoR2oyM0xLNzR6bC10cDVNejc1VG9oTW9xYnQtMmVraUlCaWI4MHVLSkZfaTFMRVV4Vmp6cDZUUE0ydk9vMk54QjYxZWNnNkZQNjF4WHN3V3d0UDByVkFDVG81NjRmOGFiOVNHZ1ZUemV5ZEFYZ0Q3dHR5TXdEQ0xCOWo4bndOOWRWQ2l5SEVTbjhOVXhwX3VYT3JIa1U4TUc4aEJxRnh4aw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785776916112",
+          "date": "2026-08-03",
+          "title": "US men’s coach Pochettino agrees new contract through 2030 World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHdwSmxRQlkxaFh1OFFaa0k3QkRueFhjRVFIeVAzT05VY3JXbHg3TS1VYldYZ3BGbnRES0NncTNOc2hGZHR3eDVaYnY1bTR6ZHJuRGFiWVNINk1wcFBCNUJLMThRQVhBZ21kV0FOanVzdkZ0bDVCdWRGUGhGRDNoSm5DUjJjWGZaY1NMb1lxZm9FejZOMmZ3Umt3ZGNzb0VrOVl6VEFNTnk2cXdTT2tsaXlNaHpzQkJf?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785776916112",
+          "date": "2026-08-03",
+          "title": "Mauricio Pochettino signs new contract with USMNT through 2030 — A good move for everyone? - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3YyUi1zckdaYWpGQ0M5aTR4V3hlRHc4ZWw1ZmVvQ0JtODA3VUMxX2NRQVVDMVFQSm1wek10MFdzLUJPN2VZNnJRWXdOVWtWODhaOVdGajRCbTBVVkFDRVpMdGJHMUFGTmNqak5IV1p6NHU4TmVLUW9SVldYMUNfNmZzekdnUkdEUEg4bEtUZWFveS1UM2kxRHJ4bw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785776916112",
+          "date": "2026-08-03",
+          "title": "Mauricio Pochettino stays as US coach, agrees to new 4-year contract through 2030 World Cup - The Denver Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDhxVzNtaGZHZWRrZkxrVGhadk9MbXdZczB3WHh4MUJsMG96WTV5MmtRa2FLcmxOWFhXcWdqSVlYSzhweHRmX29kY29kQURtTThvMEpLUnp3ZWc2WF9VU2s0MEJ4X2hHRks1RnRWMkFaMDJrTnVnNlg1d0lOMUIzY3gyMDlON3AzZEEzMXdTeXpZSmsxZmRR?oc=5",
           "draft": true
         }
       ]
