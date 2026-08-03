@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-02T21:55:55.233Z",
+  "lastUpdated": "2026-08-03T02:46:43.504Z",
   "articles": [
+    {
+      "id": "news-auto-spain-outlasts-argentina-1-0-in-extra-ti-2026-07-19",
+      "headline": "Spain outlasts Argentina 1-0 in extra time to win second World Cup title - NBC News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGk4a2dsQVVhbFZRa3ZpeEZ4QXNSYzBPZ21WN1VKa1NKcngxNEt2azVPNEtRcXdGVkl2emtweEpjd3BuUTBNVUZiUGppdXgxMGsyR2lYZlJaa19GbW1ObU5kTjZLeFE3azlaTkxGVzlQOGQ5NEZudHpMb0NUUE1GX1BiaTBoYjA3MjJ3VGU2S1VtYjVOX0tkT1NnXzV0M3BBUy1RUGcwU0l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGk4a2dsQVVhbFZRa3ZpeEZ4QXNSYzBPZ21WN1VKa1NKcngxNEt2azVPNEtRcXdGVkl2emtweEpjd3BuUTBNVUZiUGppdXgxMGsyR2lYZlJaa19GbW1ObU5kTjZLeFE3azlaTkxGVzlQOGQ5NEZudHpMb0NUUE1GX1BiaTBoYjA3MjJ3VGU2S1VtYjVOX0tkT1NnXzV0M3BBUy1RUGcwU0lsZ0gzakRRUzVzbTVETmp4cWNPc21IU1NPalE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - Seattle.gov",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-from-messi-to-mahomes-arrowhead-s-quick--2026-07-31",
+      "headline": "From Messi to Mahomes: Arrowhead's quick turnaround is underway following World Cup - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5\" target=\"_blank\"&gt;From Messi to Maho",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-31",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-trump-s-fifa-pal-in-trouble-as-plan-to-s-2026-08-02",
       "headline": "Trump’s FIFA pal in trouble as plan to sell off World Cup collapses - Salon.com",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-12",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-gets-bad-news-on-future-world-cups-a-2026-07-30",
-      "headline": "U.S. Gets Bad News On Future World Cups After President Trump's Plea - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5fQWUzdlFaa3JpankxNGFNcHZvUHdIakVlZFV5bzBWQ2QtdU5DUTNpZzhwOU1kVFpBTEF3N3F0ZDkxX2c2VEJDOEJtcVpGX2FGUGYydW9xNXEzeEZBZ1NnNm9NYlNtdlNlRnNDMy1PWWJ3SDdYYTBpV0FyNA?oc=5\" target=\"_blank\"&gt;U.S. Gets Bad News On Future World ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fQWUzdlFaa3JpankxNGFNcHZvUHdIakVlZFV5bzBWQ2QtdU5DUTNpZzhwOU1kVFpBTEF3N3F0ZDkxX2c2VEJDOEJtcVpGX2FGUGYydW9xNXEzeEZBZ1NnNm9NYlNtdlNlRnNDMy1PWWJ3SDdYYTBpV0FyNA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-20-billion-question-can-the-world-2026-07-30",
-      "headline": "FIFA’s $20 Billion Question: Can The World Cup Have Private Owners? - Forbes",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWlZYlFQeWdBYWxXT3ZxWHA4MHV4UXlYY0tIb1o2RFpYYS0wOFVDZVZnbk0zdHVVT2hZY3NlWU5vUkMyek4yaE93MHhvUXd3TERSX2RKcGhzQTFoeFY5X0Q5LTFiX0Q5MEJhUGFhMHRMMW1FN25vOUtUczNidGV0WWQ1TnIyakFLQkpsczVnaEU2bG8zNWt3dnN3akg5LU5ILTF1Q3JpZjM",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWlZYlFQeWdBYWxXT3ZxWHA4MHV4UXlYY0tIb1o2RFpYYS0wOFVDZVZnbk0zdHVVT2hZY3NlWU5vUkMyek4yaE93MHhvUXd3TERSX2RKcGhzQTFoeFY5X0Q5LTFiX0Q5MEJhUGFhMHRMMW1FN25vOUtUczNidGV0WWQ1TnIyakFLQkpsczVnaEU2bG8zNWt3dnN3akg5LU5ILTF1Q3JpZjM1RWk4MDB1N0ZzeVNvcFZXSlFZUFBR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-wake-forest-s-fifa-world-cup-success-hig-2026-07-30",
-      "headline": "Wake Forest’s FIFA World Cup success highlighted at ACC Emergency Managers Conference - Inside WFU",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBmQW5nUi1qSERPV1NyejktUGNtcUd0djRxamxIRnlhMF8zM2tqczQ3VW04Yy1qMGcxSGdiUldvWklHM2ZINFpObkFHei1XVy0ySnJvYzRPT2NaNnFSYl9aQ21ETi0yclU5X1hCbW9OMWtha18tOUVQLVRZa01rWVF5cy1LQ1FZVDZ3eWE3bFVTSnJXN3VUbDY1S21lNXhET3lVSFhBMkE",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBmQW5nUi1qSERPV1NyejktUGNtcUd0djRxamxIRnlhMF8zM2tqczQ3VW04Yy1qMGcxSGdiUldvWklHM2ZINFpObkFHei1XVy0ySnJvYzRPT2NaNnFSYl9aQ21ETi0yclU5X1hCbW9OMWtha18tOUVQLVRZa01rWVF5cy1LQ1FZVDZ3eWE3bFVTSnJXN3VUbDY1S21lNXhET3lVSFhBMkExTWdPMEVFUUNiT2ZLMW8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-uefa-to-boycott-world-cup-and-fifa-tourn-2026-07-30",
-      "headline": "UEFA to boycott World Cup and FIFA tournaments over stake sale plans - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM01FeUEyNXJMQThSNmIzNV9ZV01GeDJFTlRtZFdUUEFqcnVHZXY0OWp1UDRUdWpNa1VYa3U1OFRUUENKcWY3azllQmg0dHViLVVLak5HcmZOc0FzQWJOQWJFTVQtWHpvZW92ZGdfVzhFdTlJVVJpTHFYX0pDTVV0eERGbk5uSXpVLW9vREZaWllQd0tDY1hZUFlrWHBZQ1VibHdFNldiaTV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM01FeUEyNXJMQThSNmIzNV9ZV01GeDJFTlRtZFdUUEFqcnVHZXY0OWp1UDRUdWpNa1VYa3U1OFRUUENKcWY3azllQmg0dHViLVVLak5HcmZOc0FzQWJOQWJFTVQtWHpvZW92ZGdfVzhFdTlJVVJpTHFYX0pDTVV0eERGbk5uSXpVLW9vREZaWllQd0tDY1hZUFlrWHBZQ1VibHdFNldiaTViYWRrU2JvNnlwSXEyNGd5QnRmUTkyX3NzUQ?oc=5",
       "featured": false,
       "draft": true
     }
