@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-04T02:30:20.662Z",
+  "lastUpdated": "2026-08-04T05:46:10.488Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-has-a-new-plan-to-raise-billions-of-2026-07-28",
+      "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup - NPR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0dGZFFocTR6eUh4el9Md1ZXbDJ3QVpLVjZmbkxVSnN0RnJSb2J2U0NpSnVabXVxUEg0b21IUVZjS3pDdDRneS1OeDFjN1RCdXZZSk9WQjA2ZW10dG43TWFlQlpNMElzTjhMaE1ocVNQQnE5RENwZFh6N2ZxanFzOE5n?oc=5\" target=\"_blank\"&gt;FIFA has a new plan to ra",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-28",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0dGZFFocTR6eUh4el9Md1ZXbDJ3QVpLVjZmbkxVSnN0RnJSb2J2U0NpSnVabXVxUEg0b21IUVZjS3pDdDRneS1OeDFjN1RCdXZZSk9WQjA2ZW10dG43TWFlQlpNMElzTjhMaE1ocVNQQnE5RENwZFh6N2ZxanFzOE5n?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
+      "headline": "Inside Lumen Field's World Cup makeover - KNKX Public Radio",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-infantino-s-fifa-world-cup-crisis-who-co-2026-08-01",
       "headline": "Infantino’s FIFA World Cup crisis: Who could replace president? - Al Jazeera",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
-      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Chiefs Wire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-22",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGlTYTRTN0hIVWhPT0t2SU1JTDZuaWJlV29JUjRiYl9FTXJpOXpSbzdVeDJtUHJUd3RER00?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-studying-impact-of-expanding-men-s--2026-07-31",
-      "headline": "FIFA studying impact of expanding men’s World Cup to 64 teams for 2030 edition - cnn.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUpobU10Z3BrdWYtRmZhX2pWVXlJRTkwWGVBYl84YXlTUENvVWRCZUk2bGFENjZtZEFMcGpnSUdjTGRvTDVrRm5ZWU9TdGIwaHYtSTBla3VEYThJUGljUWVXUmRHd2ZmRjhDNzJkNHdzZnU3anE1V0x4VVVuOEJ0ZmUyekZXOUJGN0VLS3BXTU1rZw?oc=5\" target=\"_blank\"&gt;FIF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUpobU10Z3BrdWYtRmZhX2pWVXlJRTkwWGVBYl84YXlTUENvVWRCZUk2bGFENjZtZEFMcGpnSUdjTGRvTDVrRm5ZWU9TdGIwaHYtSTBla3VEYThJUGljUWVXUmRHd2ZmRjhDNzJkNHdzZnU3anE1V0x4VVVuOEJ0ZmUyekZXOUJGN0VLS3BXTU1rZw?oc=5",
       "featured": false,
       "draft": true
     }
