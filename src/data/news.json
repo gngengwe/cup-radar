@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-04T08:35:29.933Z",
+  "lastUpdated": "2026-08-04T11:22:29.414Z",
   "articles": [
+    {
+      "id": "news-auto-battle-lines-drawn-as-infantino-fights-t-2026-08-04",
+      "headline": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1h",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1hIWlM1WS13N0xZSXhYb2xYRG01NEZHUlpPcHU5REpOM1ln?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
+      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-13-19-2-2026-07-13",
+      "headline": "Sporting KC Weekly Schedule: July 13-19, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXFQb0FmM01oa1JCbzFpZTJKYkNWUFBjVWN2eUFXd0tTbEczZGtFWnk5bTNXRDRIR1pXMTVWTVBScnFDdGNRNk1TbWdDWDFNbzJEU3JZRW5CeFkzM2lQaktyM3l6TU5mU0FJX053aFJhbGpSUE5GWWlDXzhDcHhJRUtzaHI1Ymk5?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-13",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXFQb0FmM01oa1JCbzFpZTJKYkNWUFBjVWN2eUFXd0tTbEczZGtFWnk5bTNXRDRIR1pXMTVWTVBScnFDdGNRNk1TbWdDWDFNbzJEU3JZRW5CeFkzM2lQaktyM3l6TU5mU0FJX053aFJhbGpSUE5GWWlDXzhDcHhJRUtzaHI1Ymk5?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-possible-successors-for-embattled-fifa-p-2026-08-03",
       "headline": "Possible successors for embattled FIFA President Infantino - Reuters",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-31",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTFlS3J5LTg4Q3JXN2pEX1RCZlVBT1BMdXI3WlJxLTFycGhrTUZNTnFYZWlrN0JXR1JYelZZR19kbmhaOEdMbTNKOS1wUnRyZU9UY3RYN0ppMExMemFaU1d6QjBZOFdZQWtTWXZEb2ZuVTAxdm52SDJzbERUdlFKUkZDV2hJQ2tsb2RlcWotTjhyMklSNmpkWFBMdGkxSEY0bXJsQW1JeFhpVVI4bjhpT0JXSXhNQdIBuwFBVV95cUxQZi0wcVJvX1VSYXVHdm9KeVJWZ0MzWnpyZHJKZmhaZzg3eUxFZ3djcld6U0h6b0JJWlJpRXVreTZxQVhDUGV4Uy05U2g0NWpETGN1RXB6YVZFWmhPWmhxUXVERjI4ZVlzVUtuSVVvZXluQmR5UGtmTG1XWW53OGh6V2h1MUZ3dy14bmpJVzg0Ukd4WUFsamJRbTlwWklPTThfbmRtWklOTkZRSTF1Z1YycHpGeTJ3cWJfeTlv?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-a-love-affair-between-algeria-and-la-2026-06-13",
-      "headline": "How a love affair between Algeria and Lawrence became the story of ‘26 World Cup - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdTZWU1RoR3RDTWxaYWxKWENPVTQtdmxoVFRoM3dBZlYxWEdlWGdXdzhDV3ZiR0tPWk9fU25NbTZzNnhFTkk5Y09sMV9JSkRJMVhCT20zWVROdlhNbjAxM3NFYV92Y0xmS19uazVhR0g2WmJvbGdtSjRR0gF6QVVfeXFMTjhmLTJqYnNZS2NEYjB0dm5SajQ3RWZIaXZUY1BCN1ptOUkyV1p",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-13",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdTZWU1RoR3RDTWxaYWxKWENPVTQtdmxoVFRoM3dBZlYxWEdlWGdXdzhDV3ZiR0tPWk9fU25NbTZzNnhFTkk5Y09sMV9JSkRJMVhCT20zWVROdlhNbjAxM3NFYV92Y0xmS19uazVhR0g2WmJvbGdtSjRR0gF6QVVfeXFMTjhmLTJqYnNZS2NEYjB0dm5SajQ3RWZIaXZUY1BCN1ptOUkyV1pTSUl4SmpUcWRKcjlBak51RTJCYmZzbllPYlFFa09ReGVRMGM0dktSNVQ5RlVSZ1lqdDZPVXRmc2JtMEdSWm1pMzdPWWVQNl8xZHlYSnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-exclusive-fifa-has-scrapped-20b-world-cu-2026-07-31",
-      "headline": "Exclusive | FIFA has scrapped $20B World Cup sell-off plan following European boycott, global outrage: sources - New York Post",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjlLRjVZSzd0bXFKam9HancyNW5EVExlM0VETTFUazRRaU9wNjMycmctM1BSblBFS01XcWlWb21XbmNhMnhWb1VlMFlZRTMxZXJDWTdYS0xpNkJVX3g2TlQ1VUllQWhadW9KZHBDWlZWS012aGlKT29ZN29HMXBlSy0yX0ktSUF2eXlnZExhWWR0VjFsZUQ1ZDJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjlLRjVZSzd0bXFKam9HancyNW5EVExlM0VETTFUazRRaU9wNjMycmctM1BSblBFS01XcWlWb21XbmNhMnhWb1VlMFlZRTMxZXJDWTdYS0xpNkJVX3g2TlQ1VUllQWhadW9KZHBDWlZWS012aGlKT29ZN29HMXBlSy0yX0ktSUF2eXlnZExhWWR0VjFsZUQ1ZDJjaUh1RVpwUjFMdmNGWWszTWY5VXVuQ3M4eEpQeUNQcm11M0QxZGFLT2htTWlsb0ZORGJyally?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-from-fiu-to-fifa-world-cup-2026-florida--2026-07-31",
-      "headline": "From FIU to FIFA World Cup 2026 - Florida International University",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2hvMU1fWDVZMmhFbGRSNl9tM0w1VXVNUVZBaG0wWGw2WGlTUDdjUVBIVldrcTBTRElOcHE3T2k0dkJ5dHYxbmw5a1VRbE56VFdSVkVUX0JZMDNveTRIX28xbjloTEtjeHZkZmlNRmNlODZ1ZjMwVFJZR0RoV2FSZ3dvZ3NoQzBIVVRmZ1ZKZ2trT1g1Q3c?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2hvMU1fWDVZMmhFbGRSNl9tM0w1VXVNUVZBaG0wWGw2WGlTUDdjUVBIVldrcTBTRElOcHE3T2k0dkJ5dHYxbmw5a1VRbE56VFdSVkVUX0JZMDNveTRIX28xbjloTEtjeHZkZmlNRmNlODZ1ZjMwVFJZR0RoV2FSZ3dvZ3NoQzBIVVRmZ1ZKZ2trT1g1Q3c?oc=5",
       "featured": false,
       "draft": true
     }
