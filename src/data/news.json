@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-04T11:22:29.414Z",
+  "lastUpdated": "2026-08-04T14:09:59.823Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-cities-chasing-fifa-over-millions-of-2026-08-04",
+      "headline": "U.S. cities chasing FIFA over millions of dollars owed after hosting World Cup games - nytimes.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5\" target=\"_blank\"&gt;U.S. c",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-news-analysis-gianni-infantino-s-kushner-2026-08-04",
+      "headline": "News Analysis: Gianni Infantino's Kushner-linked World Cup scheme jeopardizes his FIFA reign - latimes.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG1FWW5pMGl1djJXbERYNTNnMl9kZURVOEQ3TXU3a1lUWVBRVnRFNTVJamVCREpYUkh2VTdQci1SUEhUSlJMeGgxMmoyNklycEJnMkNheHQ2VkVvdzd5M0tST0lvQkg5UVMyOUtuSUNJTlR6aHQ5WlktS2dQMy1Yd1JvTnRmLVh3eDlwaHplWV9DVU40ZXB4UWFHNlFkOGNzaG1GcXcycE5",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG1FWW5pMGl1djJXbERYNTNnMl9kZURVOEQ3TXU3a1lUWVBRVnRFNTVJamVCREpYUkh2VTdQci1SUEhUSlJMeGgxMmoyNklycEJnMkNheHQ2VkVvdzd5M0tST0lvQkg5UVMyOUtuSUNJTlR6aHQ5WlktS2dQMy1Yd1JvTnRmLVh3eDlwaHplWV9DVU40ZXB4UWFHNlFkOGNzaG1GcXcycE54Z3BwNUxNWA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-a-look-back-at-the-world-cup-in-new-jers-2026-08-04",
+      "headline": "A look back at the World Cup in New Jersey, by the numbers - Bergen Record",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0liU3FEVEZoZ24yZUJ6TXJSUy1zTzFMSnJXRHlVeFRKQ21IaXhZSzBvR0ItTllXZ2h5aVNsZWFZNE5TNGVEQS1GQVM4WUpRYmpuMTdsVGdqWk5XVDNoMnA2bVJFbFVjYmx2dWxVZ2l5VU1FREFKeXJjYnVuVXFEWmRkX0d1Z1JNMWdBOFRFRVp2SXNNc2dKVUVZMFhGaTJwZTJ1VGdGRUI",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0liU3FEVEZoZ24yZUJ6TXJSUy1zTzFMSnJXRHlVeFRKQ21IaXhZSzBvR0ItTllXZ2h5aVNsZWFZNE5TNGVEQS1GQVM4WUpRYmpuMTdsVGdqWk5XVDNoMnA2bVJFbFVjYmx2dWxVZ2l5VU1FREFKeXJjYnVuVXFEWmRkX0d1Z1JNMWdBOFRFRVp2SXNNc2dKVUVZMFhGaTJwZTJ1VGdGRUI?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc-chamber-honors-2-kc-leaders-with-2026-2026-08-04",
+      "headline": "KC Chamber honors 2 KC leaders with 2026 Athena Awards - The Business Journals",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkdIRVRjX0ZsZW5GM0VJRXBwT1o5R1RhZEU0Y0lEUTI5TTlrU3VGak9lRmw1LUdMOXJuZUVMR3Z6ZFpVZl8tbzB0amx1ZVRWdE83R1lqNlpjSXVfRUo3aDVPa1FwSENGeUkySnMyMkJhSDhaS2ZhdFV6UVQyVXQ4QXN3U1pmNXk0SEFkVjlhQk5JZw?oc=5\" target=\"_blank\"&gt;KC ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkdIRVRjX0ZsZW5GM0VJRXBwT1o5R1RhZEU0Y0lEUTI5TTlrU3VGak9lRmw1LUdMOXJuZUVMR3Z6ZFpVZl8tbzB0amx1ZVRWdE83R1lqNlpjSXVfRUo3aDVPa1FwSENGeUkySnMyMkJhSDhaS2ZhdFV6UVQyVXQ4QXN3U1pmNXk0SEFkVjlhQk5JZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-battle-lines-drawn-as-infantino-fights-t-2026-08-04",
       "headline": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco - Reuters",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-11",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-scraps-world-cup-sell-off-plan-afte-2026-07-31",
-      "headline": "FIFA scraps World Cup sell-off plan after resistance from members - reuters.com",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHV2NFBiNDJaZWFBMktGVnVoNFVrSlBYQ3l0LW1nS2U2aVoxTDZIR0J3Nk55dGlVeVVUdU16RnIzZzZOTkxfYmwxcjZKVUdUdlFRX1pJc0FOM0xESmIxVkZkeDB0ektpYlM3WEI4dlFsRUNqdzU5OUFpREh6RXpzNm0yN3ZTendFbFJVTkV1UldkOVRpOHB2MTh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHV2NFBiNDJaZWFBMktGVnVoNFVrSlBYQ3l0LW1nS2U2aVoxTDZIR0J3Nk55dGlVeVVUdU16RnIzZzZOTkxfYmwxcjZKVUdUdlFRX1pJc0FOM0xESmIxVkZkeDB0ektpYlM3WEI4dlFsRUNqdzU5OUFpREh6RXpzNm0yN3ZTendFbFJVTkV1UldkOVRpOHB2MThULWlPUDFWTWExNXl2YnVUZnZ3M0ZJ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-scraps-controversial-deal-to-sell-s-2026-08-01",
-      "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors - NPR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0hYVjhvTXVKbGkwaDhzcnlKeEtBVkp1Rk9PUnpRR0lPNmUtZHZTVUJPWklXcWpmWXltZWNCWTlPc185WjRSdU1VSzNRbXQ5clRWcXB5WVFJRUlXcVgwOHhleWp6Y3NyVmJoNWRZWndXME45TGJDSHNSODhTX1A4WHhR?oc=5\" target=\"_blank\"&gt;FIFA scraps controversial",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0hYVjhvTXVKbGkwaDhzcnlKeEtBVkp1Rk9PUnpRR0lPNmUtZHZTVUJPWklXcWpmWXltZWNCWTlPc185WjRSdU1VSzNRbXQ5clRWcXB5WVFJRUlXcVgwOHhleWp6Y3NyVmJoNWRZWndXME45TGJDSHNSODhTX1A4WHhR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-fifa-studying-impact-of-expand-2026-07-31",
-      "headline": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTFlS3J5LTg4Q3JXN2pEX1RCZlVBT1BMdXI3WlJxLTFycGhrTUZNTnFYZWlrN0JXR1JYelZZR19kbmhaOEdMbTNKOS1wUnRyZU9UY3RYN0ppMExMemFaU1d6QjBZOFdZQWtTWXZEb2ZuVTAxdm52SDJzbERUdlFKUkZDV2hJQ2tsb2RlcWotTjhyMklSNmpkWFBMdGkxSEY0bXJsQW1JeFh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTFlS3J5LTg4Q3JXN2pEX1RCZlVBT1BMdXI3WlJxLTFycGhrTUZNTnFYZWlrN0JXR1JYelZZR19kbmhaOEdMbTNKOS1wUnRyZU9UY3RYN0ppMExMemFaU1d6QjBZOFdZQWtTWXZEb2ZuVTAxdm52SDJzbERUdlFKUkZDV2hJQ2tsb2RlcWotTjhyMklSNmpkWFBMdGkxSEY0bXJsQW1JeFhpVVI4bjhpT0JXSXhNQdIBuwFBVV95cUxQZi0wcVJvX1VSYXVHdm9KeVJWZ0MzWnpyZHJKZmhaZzg3eUxFZ3djcld6U0h6b0JJWlJpRXVreTZxQVhDUGV4Uy05U2g0NWpETGN1RXB6YVZFWmhPWmhxUXVERjI4ZVlzVUtuSVVvZXluQmR5UGtmTG1XWW53OGh6V2h1MUZ3dy14bmpJVzg0Ukd4WUFsamJRbTlwWklPTThfbmRtWklOTkZRSTF1Z1YycHpGeTJ3cWJfeTlv?oc=5",
       "featured": false,
       "draft": true
     }
