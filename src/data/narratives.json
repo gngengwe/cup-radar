@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-04T16:50:31.361Z",
+  "lastUpdated": "2026-08-04T22:11:15.169Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2468,7 +2468,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 294,
+      "chapterCount": 295,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4821,6 +4821,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1FDclZISHNjOEdQdDVGd2c1MXBOSEo0M1JCMHFEVTNuMmU0NllrVVpPRmZJNkkySF9MZ3RORVpCdF9UZm1FN0htNTJFMHN2Q0Z6WTFTSFBiWFJjbmlmbmwyZFA0WkdhUVp0UWJfWXl4SHZrd1Q0Qm5jYXp3NWF4UHJoLW56TThKTzdtRDN2N1pwSGZBS2lHNHBzMTNZRmN6Z3pzRFl0SG9FRF9pN0FSeUxBVFNzQ3FKLV8wRk5xOS1GYUhQZV9NWkZaQzdack9pNHJXQw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785881473530",
+          "date": "2026-08-04",
+          "title": "Amid fierce criticism: Infantino sends a surprise message to Mbappé - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjFuWFU5VDlYWHFmbFp1Z1gtcFpRTGhOQTJ4NzVpcmU0VnlrOVZIcVNlMTFkY1VWRVZLdU9QcmtJX2VFWXBmTFVScDh6MHNwNWtGTU9mSkZhbFd0dWh3OWd1Y2ZoX2dab1VOWjJDZ3VQdDhHenFuTVFtTFRxMXphRUlUMG5MNFhzaXFyWms2aEFrTTA2QU8wNTVRUWp2S0s3U3NNaFMwMVlReklqQ1RDZUROcXRaUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4839,7 +4847,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 640,
+      "chapterCount": 642,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9959,6 +9967,22 @@
           "title": "USMNT schedule for September, October international break: Four-game slate confirmed for U.S. national team - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFJ6dUZOeGozSndOQjZ5d1M4VnJDbjdpQ2FVQjZURHN5MDI4c19KNlpXZ3FYb0VZZmJKbTlQUklOUGxPQnFwM3J5T0tiM1Fod0pRMDdyUGxYOUx3YVpZMHNoay1XdEFvbDJsZHFXbE1WT05JU3o0c05lU2xHcEFyTUREb2xITGRRWUdOYlAwSlE5M3FHanJVUnNnSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785881474073",
+          "date": "2026-08-04",
+          "title": "Four Fall Matches Set as U.S. Men's National Team Will Take On Peru, Chile, Mexico and Canada - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYVgyS0NmbzBlSERlcDJvSlZMWi1mZkpOcWtKLWUzbGFrQ1ZHTTJVLTcycmFxeTBpQVh2RTVDS1IwWHdHQ0N1czZ1bkVUMjBNdUM1SWczbHBtblhDa3BTWVUtU2stY3pCYU9GSmtrVkJsQktxYzhoc2RyOGdxNHp5WnI4eGJwRk9SdlNfY3VJR3gyOEQzWUhPNHppWVdERXpYenZMVDVkTzZBLXNiOUZ4NQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785881474073",
+          "date": "2026-08-04",
+          "title": "USMNT star Folarin Balogun linked with a surprise blockbuster transfer to Tottenham - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWGJHNXM2VXYwT1VUOWZQWUdiQjF3endQb2wwTkZxdTFzZENjYmpkVUM4TUZJSE5MWlhnQnZGTGhsLTNBNGc3ck90TDBVcHJQX3JXeWxEZ3dkVGZXRzRPWjNxZFV2LXhXZ251cjBhZVk5X1FEVXNyUTQ5Z3lMNUdwU1N0ZGhCT2N2Ml9LREhNNWxwSDdrTEFOSEJSMDlQZjJGV3FpZ1pDNGxUMzI1ZUo0ZG1zNXRRYTRja2RvemkwMXg0bTJkSDJyMXV5WFBVaTdjcTUxMWxQT0ZubTRybDdzRlc1UnpVZmwyQkxoQQ?oc=5",
           "draft": true
         }
       ]
