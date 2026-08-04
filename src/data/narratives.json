@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-03T22:08:19.411Z",
+  "lastUpdated": "2026-08-04T02:30:23.129Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 303,
+      "chapterCount": 304,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2442,6 +2442,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUWhuM3Fzc1FzbEhpQ1pYQS1GWERyc1JoRGFDMHpMWW1uYi1NMS1abkRTVHlWTWdvR1ROWWp1RE9TTlhQX1pCMkJPQnlUbGdPYjA0dHRvNks2U2FraXRtYzZTTkZaYy1FbzRXNWUtOTJHbHBtbThOQ0pYQnViNGNUWXZPN1B6djVHRHJPcGRrZXh1UXYzY0RmQU5sb0luVGswOWFYYVFHNWlDZnQ0Q1dSaVdoTzNmM05TeHNaT0JTVk9MUjVBczByaWRBb3k2VzBWODFHOEM3d2RMdWxTOTh6cE95NlE2VHPSAesBQVVfeXFMUEVBVm1wQTliVFZUdkQ5NDVpdGxITXdzNTlaemF5U1N0eVpYTjNXNE5TRzN6cWxJQl9QYWo3c1o3Z2F5ZjMzTXg2OG5IQ1BhOEFoaDVxcjV3bV9ON2FZVDljVWxfenZwb0Q0cGhEZVZsbzBIclU4OGN4ZWthbEFocEFVVnJqNjZ4N192Wk9rcXB2N3luR0UwMWVpNy1ONk80bV9TWTBCdG5vLU0xYnZqclhMRDl3VmZUNnJRN2tSOHhVa01EckZTMTZfV1ZZdnQ3b0g5TUlrSVlkQUpBMDJ1Rmo1NUQtazFDZG80MA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785810621302",
+          "date": "2026-08-03",
+          "title": "Fanatics Asks Messi To Stay - BM Outdoor",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RcFljVFpaSHc3Q2VpdGF4MDg4M3lzcnc4X25lYlFjUFJDb0tHbkdHSnVFeWRvaDR1N0o5U0xmd2N5ZGhvVkk4ZzZtV0VNZHFXV3ItX2JIeE93NG9salJmbGZxaVc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4823,7 +4831,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 631,
+      "chapterCount": 633,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9871,6 +9879,22 @@
           "title": "Pochettino agrees to new manager contract with US Soccer - aljazeera.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3hRcVdaSUlTSU5MZ2ZjQ203MUNGWHQ1VFJ3aG1ZcUFDOXhMc0ZEU0tsSno5MDh6a2FocEZVZEFMc2laOVRwYmVRWXJsYjRrdTFmdWhBNVRmQ1FCMzRFczVLb196bUFiZGxkNm5EbUdpRmRIY3RtYU1BZk1GejVwb0FqTW1aVTdHRTZQNlc5X3pyVHRMX2t3b3Q1aGpTWUhiYUwwaW5teVdmbW5tMkh5Z2wteWRtM2Vq0gG-AUFVX3lxTE5ScWpiTjQ0ODVjcTVFYUtHMTloZ0dhRFZheG1hNlp6S1c3QlNrNG1wbkx6R0NwS2pXOE5rM3pjSGxpb3gzbUZpeUJwMGFZNFVrUWp3bFJBX2ZBaUNtazdXYzU0SURhcG5OUVlwc2pMa29razBPa2RpZk9LeFhEamJrV3JuTi1weTY3cU1fOUdHSlRmS0EzdnVpMkRfdWllZGFWUWVPOVpESWRWLXJPX0tmVUU2cENaR0NRQlBnUmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785810622238",
+          "date": "2026-08-03",
+          "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUNIQk1xNl9ralY1MTEzbzIzVkYxRjFDMmc3QWtfRkV0V1BUaDhVMHNjSUlxdW0tU2xaVjd6UDZkV0xFcnRYU1o3S1JzR0pVU0RmZDhhbENfUzZpU0lvSUtUbnh0QmJnN3cyOEtRMnhJSE05U0NXOXczd25FTE04MTU5RENka2Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785810622238",
+          "date": "2026-08-03",
+          "title": "How World Cup Champs Celebrate (and What’s Clinking in Their Glasses) - Men's Health",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjduQTVuMHBhMlFuUjFReWtDMVlTMVYySWVXRW51RDNaOXdSY28wTnFDdmJod01NbEVhcXhPOUFISlVPeVdYOFFSYmxJZmpKRDREQWNnRVc0alRkWG9ROTBGOUludFVXRkNMQ0JEX2dobFlySm5tcEo2ZDV6OWlSdVRwMzhndE5iQnhLeQ?oc=5",
           "draft": true
         }
       ]
