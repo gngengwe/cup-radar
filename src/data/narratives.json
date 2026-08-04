@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-04T14:10:03.067Z",
+  "lastUpdated": "2026-08-04T16:50:31.361Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2468,7 +2468,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 293,
+      "chapterCount": 294,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4813,6 +4813,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcW9JdkhKWTZvOEJEYXBqVkpKdkc5TDE5aXpiNnhRWjNEdEt1bGRMSWJ3RC1VYlJyYWhkc243a1lmdk5YUFNOb1VoRUl6UnVzd0U1NmNtTFRTZUJrNE1tdGo5VWRWaE9iU05aQm0zdERHa2NXUFYxTTc4T3AzYmcwRTk5Z1NGUGhLekJV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785862229551",
+          "date": "2026-08-04",
+          "title": "'We were outnumbered' — Kylian Mbappé details the tactical flaws behind France's semi-final exit - independentonsaturday.co.za",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1FDclZISHNjOEdQdDVGd2c1MXBOSEo0M1JCMHFEVTNuMmU0NllrVVpPRmZJNkkySF9MZ3RORVpCdF9UZm1FN0htNTJFMHN2Q0Z6WTFTSFBiWFJjbmlmbmwyZFA0WkdhUVp0UWJfWXl4SHZrd1Q0Qm5jYXp3NWF4UHJoLW56TThKTzdtRDN2N1pwSGZBS2lHNHBzMTNZRmN6Z3pzRFl0SG9FRF9pN0FSeUxBVFNzQ3FKLV8wRk5xOS1GYUhQZV9NWkZaQzdack9pNHJXQw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4831,7 +4839,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 635,
+      "chapterCount": 640,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -9911,6 +9919,46 @@
           "title": "5 Things Mauricio Pochettino And The USA Must Do Ahead Of 2030 World Cup - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tTXFkX0MxRzBkdVNPWERuVU14MWdYd3cxZmpiUVNhZlhqMk9xY2owX2ZrcWJaQ0FaZ3E5YV83ZVJ4YVpXd2RXUjFBRUl1VlNncTYycThfcS0zcC1kS2Y5M3QwM0t6c0NPeG5hbUlzTFFlWWstb3E3akdiT23SAXxBVV95cUxOeERhSnpJVV9hTXhuRVJnWk9SNksyWGN4ZExrWlRLNmE5WGJiZjRaSHFNZkZzN21walRJTWZTQm1LT2o3Y0ZEWTR0SENOOU9aVl81alpHbkFtazB1dTdodlVlOVVEbDVmZmNnQ0ZUZk5jcnN2dFpGWUlXZkhq?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785862230122",
+          "date": "2026-08-04",
+          "title": "First USMNT fixtures after new Mauricio Pochettino deal revealed - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9GWmlZelh3TzlZM2Fzd1hvNWdsd1BQTGJlWXZFZFhOZUp0TWwtWFp2LUJPSWdZQ3FpRkFIQ0xlNGZlYUpnVmluV3E4RlJURWJXVlZqQnVMN0tmNU5KankyaXhRcWx1NGFpYzVJOENab05MUWE1eEgtZXpKeHNUVHN6bmpweU04Uk5lNHZmbm1HTWZZdE9OQmhraDZXbHFPQlVTbzZRWkw2dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785862230122",
+          "date": "2026-08-04",
+          "title": "US Men’s National Team Returns to Energizer Park on September 29 - St. Louis CITY SC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZy1xZEtwRlFzN0ttUEhDczNBUmNZUkxESjJYc3RJbmtzSERzS1lUeWJIaFJMcldJbmp2UnJ2Uk0yRDZBdE9uTGROVzlYTG1yQkM1dl9iUVg1TE1EQ1psXzRCNnhWazNhU0o1Zi0zeHQzYkp3Q0M4N0NkY3Jldkw1ZUVteFdHeUVGcVcyRVgxclZnV3ZkME9hVHVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785862230122",
+          "date": "2026-08-04",
+          "title": "USMNT to Face Canada at Allianz Field on October 6 - Minnesota United FC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakFMWHJ4azJqd0x0eVNwMFZuZ3VjUWFWMkNrVmVtWnFjXzliUTJMc3BjOFlDcDZJbFNKOGtnQlhFSjl3V0FybDRoMjN2cjB2cDR6Yno3WW85YldqVF9CWWxhWUdCa0ZKYTJoM2lxQVNlTEtITHJTWWZnVEs1dXVhQmQ5dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785862230122",
+          "date": "2026-08-04",
+          "title": "USMNT to face Mexico, Canada among first four post-World Cup matches - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzNPODVzQlktRk04dDNTNHNEWkQ2TndtYUw1Vl9RcHVRZ1J3UEdUcV9TVkx3NGtEb0hYVG5wS3h6T3c1dDcydFQ4UjBvMHkwVThrN2Zqclc5aGtRd05DbE9vbVJLWTEyR3Joc0ZxUGpvMHh4QjJYNEtmWjJWb0dyLWNBV3V1NVppY2dKRG0wMnJLLUJ1V05LTlh2VkFaM0RHcVFDaHJwd3R3VG40NHFsWmpsSk1wWXc3a3BxUXg4bnhLV3ZV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785862230122",
+          "date": "2026-08-04",
+          "title": "USMNT schedule for September, October international break: Four-game slate confirmed for U.S. national team - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFJ6dUZOeGozSndOQjZ5d1M4VnJDbjdpQ2FVQjZURHN5MDI4c19KNlpXZ3FYb0VZZmJKbTlQUklOUGxPQnFwM3J5T0tiM1Fod0pRMDdyUGxYOUx3YVpZMHNoay1XdEFvbDJsZHFXbE1WT05JU3o0c05lU2xHcEFyTUREb2xITGRRWUdOYlAwSlE5M3FHanJVUnNnSQ?oc=5",
           "draft": true
         }
       ]

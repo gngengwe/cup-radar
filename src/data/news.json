@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-04T14:09:59.823Z",
+  "lastUpdated": "2026-08-04T16:50:28.495Z",
   "articles": [
+    {
+      "id": "news-auto-ferr-n-torres-on-world-cup-winning-goal--2026-08-04",
+      "headline": "Ferrán Torres on World Cup-winning goal: ‘It was the best moment in my life’ - CNN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9IOF9SUm9mbFZ0RTBvaVJUcmZ0Ui1RTDJzUHRzNjFqZ3hyRWV3bC1ja2VwejF4ZkpFeV8xak5KejJtZmVnNVBnMVNCLThWTlRiemgyZUYxcTE3aWdxX3RvaFNITTVzSFhEb2w0dmpNRm9hX3ZiVTZackR1enU?oc=5\" target=\"_blank\"&gt;Ferrán Torres on World Cup-winning",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IOF9SUm9mbFZ0RTBvaVJUcmZ0Ui1RTDJzUHRzNjFqZ3hyRWV3bC1ja2VwejF4ZkpFeV8xak5KejJtZmVnNVBnMVNCLThWTlRiemgyZUYxcTE3aWdxX3RvaFNITTVzSFhEb2w0dmpNRm9hX3ZiVTZackR1enU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-cities-chasing-fifa-over-millions-of-2026-08-04",
       "headline": "U.S. cities chasing FIFA over millions of dollars owed after hosting World Cup games - nytimes.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-01",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWJwTU5fSnh2MHpsb21ud3BvSFY1Tk95U0o5Y01tNlEyTkpyWG1temZkV2w5aVRvYUpaa3NBVnVqQUVJTmFlUnNDRnpPMkw5TDRiS2xLZGFpMWtXY2hvUi1vRWQ4S1lVcUV0elBRbUh6bVdreW5mTkRHM09GTkRsSUdCRUxsclUyZEYtaWJUUEw3UGNldUhiQlVhQkZyMU4tc21wSFVUQUtpd3BGOWhEd185LURTc280R3QwVlpqR0M?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-stadium-neighborhood-liaisons-the-people-2026-07-31",
-      "headline": "Stadium Neighborhood Liaisons: The People Behind Seattle's World Cup - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnlpZ0pEVWlsUEM0NEpCUVpXQkh3MktzTFRET2pOZVVWRGwxSFkwT2Z1M0JtZUI2SDVvQnFQTTZIZFFqM2Nib1Nlb1JHN0tic05VZUZERXh5Q1lUY0YycG1BWFlmbjRWcjBMNC12d1k2YXBrYlBFcUVYVWFScTl1Q2JJT1lfZVdGd1MtSUxjaWVhLWwzZXBXZEkyT1VkY1ZFZHc?oc=5\" t",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnlpZ0pEVWlsUEM0NEpCUVpXQkh3MktzTFRET2pOZVVWRGwxSFkwT2Z1M0JtZUI2SDVvQnFQTTZIZFFqM2Nib1Nlb1JHN0tic05VZUZERXh5Q1lUY0YycG1BWFlmbjRWcjBMNC12d1k2YXBrYlBFcUVYVWFScTl1Q2JJT1lfZVdGd1MtSUxjaWVhLWwzZXBXZEkyT1VkY1ZFZHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
-      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
       "featured": false,
       "draft": true
     }
