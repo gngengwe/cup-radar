@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-05T14:08:13.914Z",
+  "lastUpdated": "2026-08-05T16:42:00.993Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2468,7 +2468,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 297,
+      "chapterCount": 298,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4845,6 +4845,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTIyN3lMWmF1UHhTYnRwTDg5WjBZdmE4Mmx4bDR4MmZEenFzd0Y3aFZQQVI0Z1AwLWgtU0VfMkdqeHJmdlBUSk10U0tDYWpsdzREdUVtRjctWm1QTVF5c1JGZkl0aU5DSVNiVzhSdHhvWTAtUDE5NzI5QlhqZ3VVa0haT2JmZ2dRS1hTZjRVdk5NdkZzVmtmTWNtcmFjRkM3eUdOVFNQdnVhUmc2b1hKWTVxamNHYTJlZk5PMGdnNDg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785948119430",
+          "date": "2026-08-05",
+          "title": "Kylian Mbappe expected to play in France’s World Cup 2026 semi-final against Spain - The News Mill",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk1YY1hPN1B0QU5OZkMzOWJSMDhjQUg2TnN0aWEtRlhfTWp4bjJMaTA4OTNWaFdTLXYwbjZoQlVXVGZUQ25rVk9BQnZkU3ZDZk5oN19lU1pWQkJ5dHpPbkM5RDUzUU9Vd0xWZmsxdkV0ZkJQRjYtS3ZWUnNHbzJXSUh6UktwRXVVODZDWGs0SkFJOGhieVNzdURBRVM5QkFNYnBVS0RVaEloLUpoQTdaUkhaMEI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4863,7 +4871,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 643,
+      "chapterCount": 644,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10007,6 +10015,14 @@
           "title": "U.S. cities chasing millions of dollars from FIFA after hosting World Cup games - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1785948119935",
+          "date": "2026-08-05",
+          "title": "Mauricio Pochettino’s Former Star Gives Cold Reality of Team USA’s Ceiling - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjktZGJucFFMWGJlekJoZUFfalROa0NXUnhQOEZWblljQm5iR3R2MlRlSVZzOU14REFaUzRtM0dLYmsxNFpGZXBoNnhiTldLR0ZMMFZ4X3JLZ0o3RXZWdGNqRHhTSlpoWWp1X0hQUlpERk5vU3JJeERFY0lTQ09BT3BqLUQ0QWw4ZW5SUGJSOA?oc=5",
           "draft": true
         }
       ]

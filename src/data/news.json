@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-05T14:08:11.426Z",
+  "lastUpdated": "2026-08-05T16:41:58.410Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-and-infantino-under-uefa-threat-of--2026-08-04",
+      "headline": "FIFA and Infantino under UEFA threat of legal action: What we know - aljazeera.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUENjVVZ6NG91UkZlT3Axb0tPbkszQnQ5MDliX2RIRzFMX00tMjlLY0NJNDVTRk03T3VxLTlXdWRRZUZ3bHAycGlZdTlxNGp5aU1sNms2LVRENU5KMmhuNXNyVGU0cldBbm4xdTdRWTZQS2x4VVRnOUZXM2xUUFA3bGQzVVdJR2J2eTdQYVlSZ0kydXBXZ1JfemU2T3F1TXVpUlk3NEZLeGl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUENjVVZ6NG91UkZlT3Axb0tPbkszQnQ5MDliX2RIRzFMX00tMjlLY0NJNDVTRk03T3VxLTlXdWRRZUZ3bHAycGlZdTlxNGp5aU1sNms2LVRENU5KMmhuNXNyVGU0cldBbm4xdTdRWTZQS2x4VVRnOUZXM2xUUFA3bGQzVVdJR2J2eTdQYVlSZ0kydXBXZ1JfemU2T3F1TXVpUlk3NEZLeGlXRnJzRUFMZNIBtgFBVV95cUxNMWFvR2dNOU95WDR5NjhyYnpaTUNxLUpKMG9jTnlBSERKQzVfMGFFWGFLbE1wbmphLUswRG8zcnQtX1NqQ0R2eVRDcS1kVmRLbWEtLVd5V1JUNFJRem5oNU1ZX0dKdElyRVdfT2NkNGJ2czlDQUlBTF9LSUZBa2NNMmQ3MWJPamVYUUVmMmNMcEVNNWJxRlRQdU1BRnBYR0NPNkZRNHU5dW5ySllGM2dNdEF2RFhTQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
+      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-host-cities-reportedly-chasing-2026-08-05",
       "headline": "World Cup host cities reportedly chasing down FIFA for 'legacy' payments - Toronto Sun",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-01",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZtdmx4d0ZDZlcxY3FseldSX0VzenpfS1R1UXVneGpWV3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-benjamin-asare-speaks-on-his-future-afte-2026-08-02",
-      "headline": "Benjamin Asare speaks on his future after 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEYwbENQV1dJSjdtRzBtM1VMT29WWC1fSk5FdExaa0ZnWVREQi1URXMwaVdKLWpmd0htYjNzNGZ5cEtIWFdySWdtUGdVQ0UxWTN2R3pNdVkybDhwOTY1VWZ3OHFHa1UxOGZadUxnY2Jlb3lIOVVyd1lwLXA0MmpuZEo1MXN6bUs5c3dZNksxVS03WHljZmthczQyeDBWV2dROTJBTUtuaWt",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEYwbENQV1dJSjdtRzBtM1VMT29WWC1fSk5FdExaa0ZnWVREQi1URXMwaVdKLWpmd0htYjNzNGZ5cEtIWFdySWdtUGdVQ0UxWTN2R3pNdVkybDhwOTY1VWZ3OHFHa1UxOGZadUxnY2Jlb3lIOVVyd1lwLXA0MmpuZEo1MXN6bUs5c3dZNksxVS03WHljZmthczQyeDBWV2dROTJBTUtuaWtRRWROZkg0ekZkSEQwaXRP?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-businesses-saw-mixed-world-c-2026-07-30",
-      "headline": "Kansas City businesses saw mixed World Cup returns, leaders say more is on the way - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnVibGxL?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-businesses-saw-mixed-world-c-2026-07-30",
-      "headline": "Kansas City businesses saw mixed World Cup returns, leaders say more is on the way - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdIYUFSN1ZzV2FCUkVULXd6dG1uV1hVSml0MVdiLUlqMF9NaXpyUUE5eVZDNUxLbUFQdkNicDRjTlZ5YzY2TTFCM3pHTWwzNFZ3TzN6cHBzazU1ejl1WTdmeHd6QVJWX2dDdzY3clFobm5Pc3EzWUREeDMtcEY4MWQxYjZocDNIcmU0RXd2LUNFVHF3cG9FdzVXXzRzZHBfcDlBQTBTSnVibGxL0gHAAUFVX3lxTE5lM0I0UnNqejRkbUhRc3paVHI3bGJnTTV3c3ZrUjJIYTNQQ0dCOHh3ZkNrWmJQeWNmUEVIZ090dkhTcUtPb3l2T0Q3RUNWS09ncG5td1dGQTRmNFIzbUVmQ1FhWlEwTmI2RTdXSHhkcm1ld0tuWEFrUHRDNGJMRVVKYnJ0M1BKZS14YjlSaHIxTVRwa0FocVlFckhFNVlGZVhoaUV1NjlYbUpDZW0zVVN5RHg3M2dQcDlPWTdFaU5wUA?oc=5",
       "featured": false,
       "draft": true
     }
