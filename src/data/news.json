@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-05T02:29:41.171Z",
+  "lastUpdated": "2026-08-05T05:46:06.206Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-president-gianni-infantino-hails-in-2026-08-04",
+      "headline": "FIFA president Gianni Infantino hails 'incredible' Kylian Mbappe after stunning World Cup 2026 campaign - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTIyN3lMWmF1UHhTYnRwTDg5WjBZdmE4Mmx4bDR4MmZEenFzd0Y3aFZQQVI0Z1AwLWgtU0VfMkdqeHJmdlBUSk10U0tDYWpsdzREdUVtRjctWm1QTVF5c1JGZkl0aU5DSVNiVzhSdHhvWTAtUDE5NzI5QlhqZ3VVa0haT2JmZ2dRS1hTZjRVdk5NdkZzVmtmTWNtcmFjRkM3eUdOVFNQdnV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTIyN3lMWmF1UHhTYnRwTDg5WjBZdmE4Mmx4bDR4MmZEenFzd0Y3aFZQQVI0Z1AwLWgtU0VfMkdqeHJmdlBUSk10U0tDYWpsdzREdUVtRjctWm1QTVF5c1JGZkl0aU5DSVNiVzhSdHhvWTAtUDE5NzI5QlhqZ3VVa0haT2JmZ2dRS1hTZjRVdk5NdkZzVmtmTWNtcmFjRkM3eUdOVFNQdnVhUmc2b1hKWTVxamNHYTJlZk5PMGdnNDg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-us-world-cup-host-cities-seek-millions-i-2026-08-04",
+      "headline": "US World Cup host cities seek millions in unpaid FIFA funding: report - France 24",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhWaXhZMFo5UnNFMmhNa0E3YUV2YTdIdG1oSXpWWDZ3LTJwNmdKeEpFSm5XQ2VGWFhlVkotRGNTa2ZtNnY4elQ3S1dTeC1qRWt4YVpDOHZudngtdmpCY1g1c012aFMzZzhnazJfbmtyd21XendpVDBlQWEyeldQYWtYalpQQVM3dGZQRVc3YTBvM2tOV00zaDhrSUdUbGd0dEhWbHpSaG9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhWaXhZMFo5UnNFMmhNa0E3YUV2YTdIdG1oSXpWWDZ3LTJwNmdKeEpFSm5XQ2VGWFhlVkotRGNTa2ZtNnY4elQ3S1dTeC1qRWt4YVpDOHZudngtdmpCY1g1c012aFMzZzhnazJfbmtyd21XendpVDBlQWEyeldQYWtYalpQQVM3dGZQRVc3YTBvM2tOV00zaDhrSUdUbGd0dEhWbHpSaG9QUjlENUhpOQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-us-host-cities-say-fifa-o-2026-08-04",
       "headline": "FIFA World Cup: US host cities say FIFA owes them $1 million each from promised legacy contribution - LiveNOW from FOX",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-15",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
-      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-boss-infantino-scraps-plan-to-sell--2026-08-01",
-      "headline": "Fifa boss Infantino scraps plan to sell off World Cup profits to private equity - RFI",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0stMXQ4d29YVnp3ck9NbVkyNE5NVU8xUU1yU2JfY0FsNnlNQ2tNYkRwMG5EQ25kYkwyVUdQZkxCOFFSV0xhanRvdEtDOXBsbnhRM0VOUjdLblNRcjZBYXU3NDVGMXgxZEtUYzdERmFjQnFKaGVuM0xueGs2aUhydVhYczlwS0NYZkJDY1ZFMDIydXpvck5tTm9xNmxIYnk0dXJicUMzMEd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0stMXQ4d29YVnp3ck9NbVkyNE5NVU8xUU1yU2JfY0FsNnlNQ2tNYkRwMG5EQ25kYkwyVUdQZkxCOFFSV0xhanRvdEtDOXBsbnhRM0VOUjdLblNRcjZBYXU3NDVGMXgxZEtUYzdERmFjQnFKaGVuM0xueGs2aUhydVhYczlwS0NYZkJDY1ZFMDIydXpvck5tTm9xNmxIYnk0dXJicUMzMEdJWU9OWXhGYld2YVZXTVJmS3hKTEh3OXpEaTBSckFxb3RzT2s?oc=5",
       "featured": false,
       "draft": true
     }

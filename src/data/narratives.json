@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-05T02:29:43.647Z",
+  "lastUpdated": "2026-08-05T05:46:08.601Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2468,7 +2468,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 296,
+      "chapterCount": 297,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4836,6 +4836,14 @@
           "title": "FIFA president Gianni Infantino hails 'incredible' Kylian Mbappe after stunning World Cup 2026 campaign - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXMxd091QjhZcGhxYzhadlVWZEZOZXN6bHRPbU5BRHZ0UzBPTWpCNlBFRW0zZHZhdTFlaThXZE93UlpuTmFmcmMtQXZpS0FmenJnVUFrc1NhMlFseU04ekNQcGh0MmhPUEQ2QUtySEJOYkFSWU1MSF9WU2dscHh4UWo1b0tnMEFwb2xkUXQ4NVdwVkd6clZYYndUeWw0LUJMMUtpVEVXMXNodVNKdG9hX2tMWGdSY1g5XzlrTHpRa1YwNUxP?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785908767135",
+          "date": "2026-08-04",
+          "title": "FIFA president Gianni Infantino hails 'incredible' Kylian Mbappe after stunning World Cup 2026 campaign - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTIyN3lMWmF1UHhTYnRwTDg5WjBZdmE4Mmx4bDR4MmZEenFzd0Y3aFZQQVI0Z1AwLWgtU0VfMkdqeHJmdlBUSk10U0tDYWpsdzREdUVtRjctWm1QTVF5c1JGZkl0aU5DSVNiVzhSdHhvWTAtUDE5NzI5QlhqZ3VVa0haT2JmZ2dRS1hTZjRVdk5NdkZzVmtmTWNtcmFjRkM3eUdOVFNQdnVhUmc2b1hKWTVxamNHYTJlZk5PMGdnNDg?oc=5",
           "draft": true
         }
       ]
