@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-05T16:41:58.410Z",
+  "lastUpdated": "2026-08-05T19:29:28.495Z",
   "articles": [
+    {
+      "id": "news-auto-usmnt-s-first-post-world-cup-opponents-r-2026-08-05",
+      "headline": "USMNT’s First Post-World Cup Opponents—Ranked - Sports Illustrated",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMEt4Z0J6MU5VNlFURTZUQmtZOHVadjYwYnNLUzhvc2dxSEJqUUtNd3d3cFFTWkVZSjNkcEJoYUN3cXpHMzZ4a3hEZ1I3UUJVSE5sQy1qUXJrbmVnY3lRUlE1OHl2T0ZlY3B2cEFXanNPaVljaFYtMQ?oc=5\" target=\"_blank\"&gt;USMNT’s First Post-World Cup Opponents—",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMEt4Z0J6MU5VNlFURTZUQmtZOHVadjYwYnNLUzhvc2dxSEJqUUtNd3d3cFFTWkVZSjNkcEJoYUN3cXpHMzZ4a3hEZ1I3UUJVSE5sQy1qUXJrbmVnY3lRUlE1OHl2T0ZlY3B2cEFXanNPaVljaFYtMQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-and-infantino-under-uefa-threat-of--2026-08-04",
       "headline": "FIFA and Infantino under UEFA threat of legal action: What we know - aljazeera.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-02",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1RcHFlRHprY3VnbEJSU1FBcW84cDdteWtuR0xjNXpZYldlUmFKa3d5MURGc3BhM1lULUxXZExQNjhLdy1aeGhiQ3pmbGFGaW16emtPcnhGU0VJN01HTHRpOHRybi0ycTczX0RBSWVWdldnY016MDl0OWtReEt5ZV9GOXJGQzZxRFdudTU1Q0FQODVKQUMxcHc1TGtJeS1Sc0E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-news-analysis-why-gianni-infantino-s-sec-2026-08-01",
-      "headline": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly - Los Angeles Times",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZtdmx4d0ZDZlcxY3FseldSX0VzenpfS1R1UXVneGpWV3c?oc=5",
       "featured": false,
       "draft": true
     }
