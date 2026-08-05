@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-05T19:29:28.495Z",
+  "lastUpdated": "2026-08-05T22:12:19.800Z",
   "articles": [
+    {
+      "id": "news-auto-algeria-s-president-invites-kc-mayor-and-2026-08-05",
+      "headline": "Algeria’s president invites KC mayor – and 100 tourists – to visit after World Cup - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE50V1FaYzZlcm9WUXJBY3BFbDBIVE1jdkF4bkNOSDcyVWgyNE9OdnB1dVdsa2NyUFROcGRqak9OcUYzX3V5RXdwQkpkTGQxNUxodEYxaV9Hck8xcjVKZVItSTQ5cVhqYXNTd1hPazlGY3lsOE9Sc29mY2RR?oc=5\" target=\"_blank\"&gt;Algeria’s president invites KC mayor ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50V1FaYzZlcm9WUXJBY3BFbDBIVE1jdkF4bkNOSDcyVWgyNE9OdnB1dVdsa2NyUFROcGRqak9OcUYzX3V5RXdwQkpkTGQxNUxodEYxaV9Hck8xcjVKZVItSTQ5cVhqYXNTd1hPazlGY3lsOE9Sc29mY2RR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-usmnt-s-first-post-world-cup-opponents-r-2026-08-05",
       "headline": "USMNT’s First Post-World Cup Opponents—Ranked - Sports Illustrated",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-02",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXpxZENId1F0M00yRGZ5T2pGeGZYWUR0amtBaDN1dlBja1BydTlmTmJwNm1qSnpoUFlqSzlUUFZ1S3JBQUlkTmJFNlREOTV4bi04ZGZPb3ViQUh5aGF4U2FTaWlnc2dYSlE3c1NFZmVYa1ZuOTIxSFBOYmptbmFiTlZZT1JMZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-jorge-campos-won-over-the-fans-at-th-2026-08-02",
-      "headline": "How Jorge Campos won over the fans at the 2026 FIFA World Cup - Mexico News Daily",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1RcHFlRHprY3VnbEJSU1FBcW84cDdteWtuR0xjNXpZYldlUmFKa3d5MURGc3BhM1lULUxXZExQNjhLdy1aeGhiQ3pmbGFGaW16emtPcnhGU0VJN01HTHRpOHRybi0ycTczX0RBSWVWdldnY016MDl0OWtReEt5ZV9GOXJGQzZxRFdudTU1Q0FQODVKQUMxcHc1TGtJeS1Sc0E?oc=5\" t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1RcHFlRHprY3VnbEJSU1FBcW84cDdteWtuR0xjNXpZYldlUmFKa3d5MURGc3BhM1lULUxXZExQNjhLdy1aeGhiQ3pmbGFGaW16emtPcnhGU0VJN01HTHRpOHRybi0ycTczX0RBSWVWdldnY016MDl0OWtReEt5ZV9GOXJGQzZxRFdudTU1Q0FQODVKQUMxcHc1TGtJeS1Sc0E?oc=5",
       "featured": false,
       "draft": true
     }

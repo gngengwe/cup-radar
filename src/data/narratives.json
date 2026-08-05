@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-05T19:29:31.449Z",
+  "lastUpdated": "2026-08-05T22:12:22.351Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 304,
+      "chapterCount": 305,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2450,6 +2450,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RcFljVFpaSHc3Q2VpdGF4MDg4M3lzcnc4X25lYlFjUFJDb0tHbkdHSnVFeWRvaDR1N0o5U0xmd2N5ZGhvVkk4ZzZtV0VNZHFXV3ItX2JIeE93NG9salJmbGZxaVc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785967940267",
+          "date": "2026-08-05",
+          "title": "GAMEDAY | World Cup 2026 final: Lionel Messi’s Argentina face silky Spain for ultimate glory in New Jersey - Cape Argus",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGNENU1KWjEya0NaenhNYUZBRHhsX05ybHJ6UEs0RkFRSFZiVTk0NE8yeGplX0U2dno0c29mV0wyaElRc1dYMGFWUmxfOGpaNW5HRUdYMVI3dFBXMUQ2Z0xmUUtra3dyTlNjZGJJak9STjM1OEhOQThWdzVQOTFtQlVzTzJvSjRTcWRpM2V1ZDZPbE5YLXI0NUNFM2twNmJ4T1F6QzJPTFBjVzU3REllcEhVbjRuMERJTTlQRERDMFFJNktYMS14UFhNRE54TEpsUk54Q0Rn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2468,7 +2476,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 298,
+      "chapterCount": 299,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4852,6 +4860,14 @@
           "title": "Kylian Mbappe expected to play in France’s World Cup 2026 semi-final against Spain - The News Mill",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk1YY1hPN1B0QU5OZkMzOWJSMDhjQUg2TnN0aWEtRlhfTWp4bjJMaTA4OTNWaFdTLXYwbjZoQlVXVGZUQ25rVk9BQnZkU3ZDZk5oN19lU1pWQkJ5dHpPbkM5RDUzUU9Vd0xWZmsxdkV0ZkJQRjYtS3ZWUnNHbzJXSUh6UktwRXVVODZDWGs0SkFJOGhieVNzdURBRVM5QkFNYnBVS0RVaEloLUpoQTdaUkhaMEI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785967940811",
+          "date": "2026-08-05",
+          "title": "'We were outnumbered' — Kylian Mbappé details the tactical flaws behind France's semi-final exit - Cape Argus",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZW1vZW9lSU9HbXZfbi1CaC1WeUlodTlqMGlPaTBIc3ZvUWw2WDdGRWU1UGFHZVFJQmRKT0RGeGg1cUd3WEtuMHVjMk9pN0p0Vy05M3lvNURNc1JHdVBrNm5LQ1VQbml1Z0xZQ1RxbUJkbm0wSVpXdG0zN1lIMHhPbGVOTGhoQWszWldwVVN4Z3JsQVZwdVhpSXRtcEJUaEdTNGVISV95VjZMR1NvYUVzWndzV2NlOEhJZU1QSVFlRUt4N2J3?oc=5",
           "draft": true
         }
       ]
