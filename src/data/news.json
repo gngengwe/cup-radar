@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-04T22:11:12.534Z",
+  "lastUpdated": "2026-08-05T02:29:41.171Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-us-host-cities-say-fifa-o-2026-08-04",
+      "headline": "FIFA World Cup: US host cities say FIFA owes them $1 million each from promised legacy contribution - LiveNOW from FOX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUs1V3AxZ2lRdElGQ0Z0VjQwSFluQmJwMHJobzdCTnNTanhPeDZaRFk3SVV2QmtKQkFUOTB1eGd0cGRUQnA5dkNUNFNHT19UNUQ1ckJSNGVyRWhkaURldW41NG5UUDJmbklSTk1lVklLREpyc25YU3JHS2RtS0IzZzlGMA?oc=5\" target=\"_blank\"&gt;FIFA World Cup: US host",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUs1V3AxZ2lRdElGQ0Z0VjQwSFluQmJwMHJobzdCTnNTanhPeDZaRFk3SVV2QmtKQkFUOTB1eGd0cGRUQnA5dkNUNFNHT19UNUQ1ckJSNGVyRWhkaURldW41NG5UUDJmbklSTk1lVklLREpyc25YU3JHS2RtS0IzZzlGMA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-drove-spending-in-toronto-2026-08-04",
+      "headline": "FIFA World Cup drove spending in Toronto, Vancouver - Yahoo! Finance Canada",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBLcTVFT1JrMmF1d1BoQTZDM3JNQjBQNVc1NlFVSzd5NXlnbGtmVXhOS3paUkJrNW42ZGFxR0pzTU9ucnlYbkJYMm1JWkszZEV1MmdHRXpsSzJnbGh6Zll6LUdjSjhmUEtsWmlQUlllT19vVFdZNGFaOGtZOG9WRV9MLWg?oc=5\" target=\"_blank\"&gt;FIFA World Cup drove s",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBLcTVFT1JrMmF1d1BoQTZDM3JNQjBQNVc1NlFVSzd5NXlnbGtmVXhOS3paUkJrNW42ZGFxR0pzTU9ucnlYbkJYMm1JWkszZEV1MmdHRXpsSzJnbGh6Zll6LUdjSjhmUEtsWmlQUlllT19vVFdZNGFaOGtZOG9WRV9MLWg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-in-review-kcrha-2026-08-04",
+      "headline": "World Cup in Review - KCRHA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DVmxqSlk0RXJjTmlnZ1RIaTNfQ2tQb0dEeTRqWWZBVUNPUnZlTDJGemREa2RQTGhNOV9kemhBVlpWWGZYbjhvYlJSc3dOVFc1UjBVc1Fn?oc=5\" target=\"_blank\"&gt;World Cup in Review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KCRHA&lt",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-08-04",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DVmxqSlk0RXJjTmlnZ1RIaTNfQ2tQb0dEeTRqWWZBVUNPUnZlTDJGemREa2RQTGhNOV9kemhBVlpWWGZYbjhvYlJSc3dOVFc1UjBVc1Fn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-jackson-county-leaders-hopef-2026-07-24",
+      "headline": "Kansas City, Jackson County leaders hopeful for future World Cup events - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FqM1VaVmpwTXlIdTJiNndlRTNGVHljQ3I3N1I5VzRFSUtYeklQOE45ZFhVNU5uUEhaZFdjM1g1djdCV0dDTWpWMTV6Zl96bmJBbGRvZDRtT2dOS2RHV1haQkoteHg2X0V6OUVkYmNPMWVpR2R6dUp2TGUwRml1WFZnckdycjlJNXNfYVVSZV81NTFYakFFdlliWS1IVXpqLWJzbWFZU2V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FqM1VaVmpwTXlIdTJiNndlRTNGVHljQ3I3N1I5VzRFSUtYeklQOE45ZFhVNU5uUEhaZFdjM1g1djdCV0dDTWpWMTV6Zl96bmJBbGRvZDRtT2dOS2RHV1haQkoteHg2X0V6OUVkYmNPMWVpR2R6dUp2TGUwRml1WFZnckdycjlJNXNfYVVSZV81NTFYakFFdlliWS1IVXpqLWJzbWFZU2VwdkpsWWR3SEdB0gG3AUFVX3lxTE5kUXhUei1WMC1tQ09OZWIwQzhDTFZQY05lVnE2Z0VjcVNfaXo0MHhVMHMxMkdDd1FOYzdndXRFMk1BZXpid29MSk5NTGVwdk5WTzJ5dWhhYU1oUlViRDJUS0JGbmgwTWYtRGpMMHJESnhudk9ham5TSjgydURRM2E3TE5XZWpaOHl6WXZsUEQydGNXLVBGT3kzX2pJdDloRVRuQXdPZVoxczRlRC1Gcl9jcF90T2ZrTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-us-world-cup-host-cities-seek-millions-i-2026-08-04",
       "headline": "US World Cup host cities seek millions in unpaid FIFA funding: report - Yahoo Sports UK",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-01",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0stMXQ4d29YVnp3ck9NbVkyNE5NVU8xUU1yU2JfY0FsNnlNQ2tNYkRwMG5EQ25kYkwyVUdQZkxCOFFSV0xhanRvdEtDOXBsbnhRM0VOUjdLblNRcjZBYXU3NDVGMXgxZEtUYzdERmFjQnFKaGVuM0xueGs2aUhydVhYczlwS0NYZkJDY1ZFMDIydXpvck5tTm9xNmxIYnk0dXJicUMzMEdJWU9OWXhGYld2YVZXTVJmS3hKTEh3OXpEaTBSckFxb3RzT2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-fallout-infantino-scraps--2026-08-01",
-      "headline": "FIFA World Cup fallout: Infantino scraps private investment plan - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3B",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3BTRE1jVjBRbmx30gG3AUFVX3lxTE5RUW5ZUzJMTHJiQ25vR0RLQ1Y2TUdCeGtoUWFIY0VIR2Z0Q3ZyUVlvZXJUYVFVeVIxUm9kckl5cThUMThTbTVaZWUzaV90WG9YRGV2Vk11anZsN2s5NUx2VXh6dlpualpJN2lXZlJlUzlQT1dJcGtMLVJtNU1BdzFjSmduVkxMbjZ2SkxSMl9peVBlTEJWUktjdnlOR3JMUFhXX1RKa3RER3MxY0FiX0dTN21GbmhFSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-chief-infantino-abandons-world-cup--2026-08-01",
-      "headline": "FIFA chief Infantino abandons World Cup sell-off plans - DW.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdSZ2ROWUJ0aWdZR2hCZVBLU1NxQS1sczJMZjRTTVF1Qks0dXdkaWpoOE1oaGV5RENPdnZiY0E5enVCR0dxUEJYNFZYNWNOX0hsZWN1ZUVLYkFjUXFkTlRkTEFqWWtpVmZaLVhqQ3kxLXk0Ym83Qm9WcVcwVFhWa3dxOTQwVXBraHRQSzJOZ1ozd2w1dTVNUnFRUDZwWE5PRVc4bdIBpAF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUdSZ2ROWUJ0aWdZR2hCZVBLU1NxQS1sczJMZjRTTVF1Qks0dXdkaWpoOE1oaGV5RENPdnZiY0E5enVCR0dxUEJYNFZYNWNOX0hsZWN1ZUVLYkFjUXFkTlRkTEFqWWtpVmZaLVhqQ3kxLXk0Ym83Qm9WcVcwVFhWa3dxOTQwVXBraHRQSzJOZ1ozd2w1dTVNUnFRUDZwWE5PRVc4bdIBpAFBVV95cUxOOTFNXzZwb0x1X2lJalZEb2d2eERKSWVmcXpYNzVWQXl5M21fZmlmUFVobWxDZmpQU3RRQXNLUm9fUVdpZkY3TEQ1WlFxTWhXdG9sWHV1bThfN0RkenE0Y25aOVc0bnZvT1RsVl9yU3ZNNTFyYnJ1YnRid3pleUlWeG9iVzYzREN1dVQ2Zm5EUGdPU0xtTWk1YllubTRXYWVqWjh6OQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-scraps-world-cup-sell-off-plan-afte-2026-08-01",
-      "headline": "FIFA Scraps World Cup Sell-off Plan After Resistance From Members - GV Wire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWhYb2N0ZHl4U29QcjBoU1pQVmFjOVNVVnNGbElBN2JHX2VybDFsX0hiWU5DZ19vakVLRUh2cFN4WkpJS2FtQmg4bTRHcXlqTVRJcGJfUzRPaGViblNERE5PM2Z6amhfRUZhUDJ5R0R4X1BfRU5tanJnVllJcmJxRnJkSG1LVkV2WE5vbnRXcU9UWlVUQk9xSFJXeDY?oc=5\" target=\"_",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWhYb2N0ZHl4U29QcjBoU1pQVmFjOVNVVnNGbElBN2JHX2VybDFsX0hiWU5DZ19vakVLRUh2cFN4WkpJS2FtQmg4bTRHcXlqTVRJcGJfUzRPaGViblNERE5PM2Z6amhfRUZhUDJ5R0R4X1BfRU5tanJnVllJcmJxRnJkSG1LVkV2WE5vbnRXcU9UWlVUQk9xSFJXeDY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-brings-historic-numbers-busine-2026-07-07",
-      "headline": "World Cup brings historic numbers, business boom in Seattle - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9kby16ZmNYZVVacUVBUVhvRWZxcHZyZm9hakNaUXdaeDNIQWJrdFk3RURhNHQyZW9YbVp3TE1Yekhua1FsRW5KVzFKVFkxcndjSWVDaDhjOE9wbW1Za3lVTDM5NFduakJFeDhrb0RXd25nUU9LTV9z0gF8QVVfeXFMTzRhX1NCVVh5djJlbi10Vk54TkZSMUJLeEtqQjgyR1J0MWtOdXk5SWV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kby16ZmNYZVVacUVBUVhvRWZxcHZyZm9hakNaUXdaeDNIQWJrdFk3RURhNHQyZW9YbVp3TE1Yekhua1FsRW5KVzFKVFkxcndjSWVDaDhjOE9wbW1Za3lVTDM5NFduakJFeDhrb0RXd25nUU9LTV9z0gF8QVVfeXFMTzRhX1NCVVh5djJlbi10Vk54TkZSMUJLeEtqQjgyR1J0MWtOdXk5SWVCM2tNN2diSVlESmZNLVBwaWhaYV85bVJCMUhIb1E4M1FuenduUlZqWHNBc1M4ZHVZRWRsdjdBY3BWZmN4R1RaWjFUaEZQbjAtaUxLNA?oc=5",
       "featured": false,
       "draft": true
     }
