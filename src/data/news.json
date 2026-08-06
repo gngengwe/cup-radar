@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-06T08:35:13.981Z",
+  "lastUpdated": "2026-08-06T11:22:33.172Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-argentina-mark-england-win-wit-2026-08-06",
+      "headline": "World Cup: Argentina mark England win with National Football Teams Day - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NeVFxbmFWQ0w2WC0zWDdINXdtMlVBMmlNRU00WDNkV1ZmMGJPTjhFUTdnUmt1ZW9xbHFXQ2VuUk9NMHlkMVByb3VleVMwRVlVakNpaVdfYkxTWlZ1WTRzRUZQN1doYjA?oc=5\" target=\"_blank\"&gt;World Cup: Argentina mark England win with National Football T",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NeVFxbmFWQ0w2WC0zWDdINXdtMlVBMmlNRU00WDNkV1ZmMGJPTjhFUTdnUmt1ZW9xbHFXQ2VuUk9NMHlkMVByb3VleVMwRVlVakNpaVdfYkxTWlZ1WTRzRUZQN1doYjA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-governance-debate-set-to-outlive-mo-2026-08-06",
+      "headline": "FIFA governance debate set to outlive Morocco truce despite backing for Infantino - reuters.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxONkVYVmdZWHppa0J0aVc4VVpuRWh5ZVFuTGMwbnVaMDFXRFhhZlduUjdCZVRONmNTck9ZMWRCa3pVZm9qZ0JSdXpSYmlaYzgyaWdhTGdaeGhxWXYtcXBCc1M1bVFhRy1YS01HVUMyLU1CdlhSVEc1eGs3Nk1XYzRNZXBHdnNDcmRqVUx0QzZiSHJQbzU0ckw2X1phVDFZay1feEVteFVVanF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONkVYVmdZWHppa0J0aVc4VVpuRWh5ZVFuTGMwbnVaMDFXRFhhZlduUjdCZVRONmNTck9ZMWRCa3pVZm9qZ0JSdXpSYmlaYzgyaWdhTGdaeGhxWXYtcXBCc1M1bVFhRy1YS01HVUMyLU1CdlhSVEc1eGs3Nk1XYzRNZXBHdnNDcmRqVUx0QzZiSHJQbzU0ckw2X1phVDFZay1feEVteFVVanFEX3N1UWZOUUhmam1xLTFIbTA3UHZlZDQxdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-loved-the-world-cup-here-s-your-guide-to-2026-08-05",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27 - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcGRHRThfck9QellyVDl4aW5uQ1RrTExsbUx0YlpyeGtJQjUyTXBHcnAyMmNlZDF6NTJsb19uN3VTOE9mOV92bi1KVTFLZFFnV2puSFhOc2x5SjdSTGtITzdpc2w5QmxKbV9HS01uUzVCVzVrMjdZRGI3MHU1MEhJTkdKVXpYWHNuZ1NzeVQzelpwbnJWODN0TW5Qa241Q1IyYmpST3VqZ2E",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcGRHRThfck9QellyVDl4aW5uQ1RrTExsbUx0YlpyeGtJQjUyTXBHcnAyMmNlZDF6NTJsb19uN3VTOE9mOV92bi1KVTFLZFFnV2puSFhOc2x5SjdSTGtITzdpc2w5QmxKbV9HS01uUzVCVzVrMjdZRGI3MHU1MEhJTkdKVXpYWHNuZ1NzeVQzelpwbnJWODN0TW5Qa241Q1IyYmpST3VqZ2E5c0VXRjZlWWhvNDAteTdvOF9CVmRyQlFrRDFqR1ZXNU42eV9HcWQwSEUySmgzRW9iV1pRM3Q5b1N6NnNGUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-gianni-infantino-gets-internal-support-a-2026-08-06",
+      "headline": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president - NPR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UFgySEVXT3FJQVdYelRQeW9UUGlxMWRSZkNrSWE1dUJNQkhpU0JMNG9mMWt1VU9jVHFrVFU4T3dlWkVMVkh5VC0yb0hfcU1ZWElLOGJQZ0NCSndsS3lENWpDWUJWVUQ4Sjg2M3ZFd1BmNVJvN1JhcUcwTWNPSHc?oc=5\" target=\"_blank\"&gt;Gianni Infantino gets internal",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UFgySEVXT3FJQVdYelRQeW9UUGlxMWRSZkNrSWE1dUJNQkhpU0JMNG9mMWt1VU9jVHFrVFU4T3dlWkVMVkh5VC0yb0hfcU1ZWElLOGJQZ0NCSndsS3lENWpDWUJWVUQ4Sjg2M3ZFd1BmNVJvN1JhcUcwTWNPSHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-exclusive-after-world-cup-run-tennessee--2026-08-06",
+      "headline": "Exclusive: After World Cup run, Tennessee turf experts plan for encore - Knoxville News Sentinel",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5ZMjR4VWpWb01rX0RrVG43U2xXYnE2V0lzdnp4S2xqdjk3SWlhSVJidDAxSDVCLXhENXVQU0ZuVU5oOHFyQkxnM0d1TmxqMWN0R0VkREFHQzBWYjhrbEF0MGtFTVgzMDZaWXdNSW9wS2FvdzJYMjFJODluazA0QmJGTXFMTURVM3JGUXZVcjhvZk9OclhwOC0xQmxLYmxJeUFFQVFyd3Y",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5ZMjR4VWpWb01rX0RrVG43U2xXYnE2V0lzdnp4S2xqdjk3SWlhSVJidDAxSDVCLXhENXVQU0ZuVU5oOHFyQkxnM0d1TmxqMWN0R0VkREFHQzBWYjhrbEF0MGtFTVgzMDZaWXdNSW9wS2FvdzJYMjFJODluazA0QmJGTXFMTURVM3JGUXZVcjhvZk9OclhwOC0xQmxLYmxJeUFFQVFyd3YxTmdXNjdDS2lVSEQ5VElXcmtnRmtsSTVHZE5UbUZyOXBHWWlZdGlLZGI2N1BHbEdlelU5MERyc2VHQzNQYk92a0c4?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-pledges-to-defend-infantino-after-w-2026-08-06",
       "headline": "FIFA pledges to defend Infantino after World Cup rights plan collapses - aljazeera.com",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-02",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjhCQW1TY3pQMlJCVnFlaDVjMHhfVXVqRDBDNTVaVzdCdFhjY3AySXg2Ny00LTA1ZlQ1XzRQWDc0Y3B1RjNwMkJfdy02LU44ajBFVVpaU1NWeXh6OHpxRi13TVEwbVRaRWxjM1pBS3JIRGQzcnY0NVhOVWVZX18taDE4S0QyNmtqcXA0OEEtamx2U3lVSTFkMTFyRTNMLXRY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--the-goat-mls-fans-all-say-the-same-thin-2026-08-02",
-      "headline": "'The GOAT' – MLS fans all say the same thing after Lionel Messi's first game since the World Cup - hitc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYURQUFR2UEhlTnpHcFQxdTZvS2c4aDgzcFlQV2tyWG1JQnZqM3FZWndrMURvOVhTVkdqdWVYdmNZQTZSank4bmpFYVFZTjZ3RDFyQlZKYldtMGx3RnBLWEY0aUJMTG41S3J1M01pYWY5dW9lM09sZE5SVnZnUGRfSFl1STFlM3oyR1U1NFQ2Rlo1ektFdE1wRHlGc0pGNGdDcDZ1R1UxdGV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYURQUFR2UEhlTnpHcFQxdTZvS2c4aDgzcFlQV2tyWG1JQnZqM3FZWndrMURvOVhTVkdqdWVYdmNZQTZSank4bmpFYVFZTjZ3RDFyQlZKYldtMGx3RnBLWEY0aUJMTG41S3J1M01pYWY5dW9lM09sZE5SVnZnUGRfSFl1STFlM3oyR1U1NFQ2Rlo1ektFdE1wRHlGc0pGNGdDcDZ1R1UxdGV0cDBlbk1EWHRRVQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-s-world-cup-boots-stolen-before--2026-06-13",
-      "headline": "England’s World Cup boots stolen before first training session in Kansas City - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeW4zbEZjZmFOdG5xc2hIRWZIS1o1N3cyMU9yak5oQTVnN1NFOEVVQzRjSzNkRldXOURFUHRhb055SkM4TEtxT0dVTTVuUTktbldFNGdQUDlrMXhDUXRUTmZWQWk2Q1FkbWx6U29VRFJVM0FRWVdiMTFLMVNiWUNkZll5WnJwa3Q5bFJqdUdvVjJhUnhWR2Yyam14bDBYajJqVmt0YTZDb1Z",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-13",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeW4zbEZjZmFOdG5xc2hIRWZIS1o1N3cyMU9yak5oQTVnN1NFOEVVQzRjSzNkRldXOURFUHRhb055SkM4TEtxT0dVTTVuUTktbldFNGdQUDlrMXhDUXRUTmZWQWk2Q1FkbWx6U29VRFJVM0FRWVdiMTFLMVNiWUNkZll5WnJwa3Q5bFJqdUdvVjJhUnhWR2Yyam14bDBYajJqVmt0YTZDb1ZDOE5aOXEzTUxWX3R2YmtTNjdpcThhaDg4UQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-schedule-groups-host-citi-2026-06-11",
-      "headline": "World Cup 2026: Schedule, groups, host cities and more - ABC News - Breaking News, Latest News and Videos",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3EwcVFNanVzeDh0b2szQ3NJUUNHeUlMWEc2M0JaS2I0ZFFZTmw4cDRvcHBDTnBwam51WkRiOEFBeDN4Y2dGNG1zLUJodHk4VkJheVN5U0t6ZkV5MnFGZGpRNm9ScklVT3c5U09yazN3UVREb3BXRzduU0hzck5BdVN0TEJrOUlCYVZjU2taRlVFS2RzSFHSAZsBQVVfeXFMTzlCVDhVVVF",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3EwcVFNanVzeDh0b2szQ3NJUUNHeUlMWEc2M0JaS2I0ZFFZTmw4cDRvcHBDTnBwam51WkRiOEFBeDN4Y2dGNG1zLUJodHk4VkJheVN5U0t6ZkV5MnFGZGpRNm9ScklVT3c5U09yazN3UVREb3BXRzduU0hzck5BdVN0TEJrOUlCYVZjU2taRlVFS2RzSFHSAZsBQVVfeXFMTzlCVDhVVVFBNWZwUGI1MVVXVU82ZGV4UmlhY1JKaXptMzVOdDNxZU1WWHg4MFNXbXBWUi1rNU9TX2tyemlQd2tpSjJNQnl2bmIzRk90RXRPZ3dsekc0Yjc0RE5laTBfNURyd0tXOGdLUTFXMng3VWRUWlk1MnAtU0NQN0h2R3VkVzlTMFZWT0tHNzJ1eS1kQ05XX2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-25-8m-kansas-city-world-cup-jail-tha-2026-06-09",
-      "headline": "The $25.8m Kansas City ‘World Cup jail’ that isn’t ready for the World Cup - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPalF1MHhVR24wTVdtLXRaV2YwQmRiTUxtU1BJcHVpTGtoS0JYSG1KaC1LcGdRRDJnQm84bWpvcll6SWtJaktLdUdaM2pacDVmeU41OU9FSVZ4MF9TZjhwRnN3bGw2QnBMLXl4akUwV056Q1p1R2s3YTlqZG1TQUR3Y3dhZnhSNEtyTDJDUkpzRVdNbm8?oc=5\" target=\"_blank\"&gt;Th",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalF1MHhVR24wTVdtLXRaV2YwQmRiTUxtU1BJcHVpTGtoS0JYSG1KaC1LcGdRRDJnQm84bWpvcll6SWtJaktLdUdaM2pacDVmeU41OU9FSVZ4MF9TZjhwRnN3bGw2QnBMLXl4akUwV056Q1p1R2s3YTlqZG1TQUR3Y3dhZnhSNEtyTDJDUkpzRVdNbm8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
-      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
       "featured": false,
       "draft": true
     }
