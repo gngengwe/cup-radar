@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-06T08:35:16.490Z",
+  "lastUpdated": "2026-08-06T14:08:22.941Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4935,7 +4935,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 647,
+      "chapterCount": 648,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10112,6 +10112,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3VZWTdsUzF1UXctTUIybEs2aDRWUG41anZBMy1wM3ctWU9kRHQ5WEEwb0FIZDQ2R1BWRG5QZFB0bU9kRTV2ZjlINEpJbGVCNDJySk1saWtwOG1KSS1wUUloUXlBdS13SnRrYUluUHF1OXUwQlhJMDE2eE5DenFVd1pXbG1aQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786025302033",
+          "date": "2026-08-06",
+          "title": "Mauricio Pochettino is back with the USMNT. These should be his top priorities - nytimes.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2RkNUg3MENSd0R0V2lWRGlsaXRYby1sOXJTS0cwaHB4alFlemZJd2VLaWhnUUh1YWlqd1d2MWZXbXMtZkp5MmtKeldENGdOU09oZ0FiRW05WkwtRE1Bbk9NMjNua09YSWdKMFFpdVVKTFRmSHU0bFZaUmxyeVcyaXJYbWpjZWJ4QVVsNjk0YXV6SEQtU2l5S3pWYlk1amdsMXc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14200,7 +14208,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 769,
+      "chapterCount": 771,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -20352,6 +20360,22 @@
           "title": "Watch highlights of England's World Cup win in 1966 - England Football | Home",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09ZX1Q3RDV6d0lnVFdxZTBUd3E4ZnRpc3E5UEVXYUxjVmIxWmFxVTJuSDByQ2t0eElRaHcxMWRCdV9QZkhHYk1wOEhxcDVnLU1DdGx2TEFmZHBUc2R1TWc1Nkx1TU56d3R4ZWFrRHNRNFkwUUpHM0VyVzBRSnRpREpVZzdXcU43ckd3eS0zQmtmZTZCdjA2UDV3QlBSZ2pTdk4yVG5fcnlNQnd5?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786025302941",
+          "date": "2026-08-06",
+          "title": "Argentina commemorate win against England at World Cup 2026 with special day - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGJyR2FLOGthVmpfVDdMVWVwTTE2NmdwYm82QWxmRTNBUjB4YUp6UW5GWS1vU1pKVmNJUUYyOWVrcVRnR1NxQzQ4VHdKZ2F3aU00SS1PQmxCZzJKY1dhNHpqX21CUDQ0TXdyU3hEWkhWazFRWHljd0tWeTBBY3RwYTBqXzlyblVEYkhZZEpmTDJnTjRJcEJlUWpMeGhkeWw5XzEyTFFidEthREE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786025302941",
+          "date": "2026-08-06",
+          "title": "Argentina taunt England with commemorative day to celebrate World Cup win - Metro.co.uk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnJLTmVJVi0tZ3dTRFZ6T3ZySkkyTWx6eGVvNjdocWpTVVZFVWY2d1E5QlZwRVkweFk0TG45bXZEM01oMUJjQVZTTUc1aG1pLXJiWlNScGlrUVNNT3RGeGJHU0JiU1Vfdk9SSDJVQUtZM045MTNEU3FmejEyYmpnbWhnc2NJbFVVVFdpNjAwOU44bl93STREYkpmUGpFRE04azBhUFdwc0dIUdIBrwFBVV95cUxQMXlVVkt1VkJzMzRNcHFveUtIUlZ3amJBLUI0QzNWalJuZUxkOFpLdk1HUU5mVlZvcnFsV3VqWGY1TWI5TUdHSWdKaDNjWEtGRDJ2QnByNlRDeEgtV29FZk5FbEhsbWlmZmJ5VEc0N1IxaEJDdTNDSUJ3Tjk2T2tyZjNTWjloM29rZ0p2N3ZLLTdzZFRFQVZKNDhxdzdtNTB0bmhOVnVzdUlncGNfMTBB?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-06T11:22:33.172Z",
+  "lastUpdated": "2026-08-06T14:08:20.522Z",
   "articles": [
+    {
+      "id": "news-auto-2026-fifa-world-cup-helps-fox-score-a-hu-2026-08-06",
+      "headline": "2026 FIFA World Cup Helps Fox Score a Huge Quarter - The Hollywood Reporter",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0pFa3pjcVhjczV2cEhGMXBmdW9wTlF4d2I5cG1DNzBDX28yM1ZYVHFyLUtDUVJxV2xkOXUxOVBUOUw0WEQ3RlprUklLNHhoblBhclJlWTM2T2p4X0s4dE9tOGh0cnpQUm9KaDkyc1BESWVhMTZfMmlfSlhIbjg1OU9BQkNGRkdCUkFUS0NVSnZOSWRFOEZSWmYxUFJHZlctTXFKcFJNM1l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0pFa3pjcVhjczV2cEhGMXBmdW9wTlF4d2I5cG1DNzBDX28yM1ZYVHFyLUtDUVJxV2xkOXUxOVBUOUw0WEQ3RlprUklLNHhoblBhclJlWTM2T2p4X0s4dE9tOGh0cnpQUm9KaDkyc1BESWVhMTZfMmlfSlhIbjg1OU9BQkNGRkdCUkFUS0NVSnZOSWRFOEZSWmYxUFJHZlctTXFKcFJNM1l3a2t5UkxEZA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-canada-pm-carney-says-he-does-not-have-c-2026-08-05",
+      "headline": "Canada PM Carney says he does not have confidence in FIFA's Infantino - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTVkSjNEaTRVclI3TWV5eDdLOUNHNG44UXJST2VPem9QMUhnWFFjM3djZkhZR3E0YTE1d1ExdHg0TVNkZ1loTHBQUllPZVhiSWhpZ21tSnFDZ2ZpcXcyM2dOQktDZHl5U0hzZjVKVVd4X1lYVmtfaHpRY0trOWZURE1qbEY5dnY5WDEyQ1l0VUFodmxLaFA4TkJmZ1ZsanV6WVlaM1g5VW9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTVkSjNEaTRVclI3TWV5eDdLOUNHNG44UXJST2VPem9QMUhnWFFjM3djZkhZR3E0YTE1d1ExdHg0TVNkZ1loTHBQUllPZVhiSWhpZ21tSnFDZ2ZpcXcyM2dOQktDZHl5U0hzZjVKVVd4X1lYVmtfaHpRY0trOWZURE1qbEY5dnY5WDEyQ1l0VUFodmxLaFA4TkJmZ1ZsanV6WVlaM1g5VW9kbTVZVGtqYUVaUU5qdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-soccer-fan-celebration-in-u-distri-2026-07-19",
+      "headline": "World Soccer Fan Celebration in U District - seattlefwc26.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5\" target=\"_blank\"&g",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEYwbTdXeUF0MWczWGZaN0IxbTkwTXhWcENyZEg3ejVtSzlpNS1wQ1FrWGtRLXpmS0ZsWjRidWJybVZxcHZWYXNFR3pndUpoX2o0ZHRpR0wtZVhYYjUyYlNaLVhzN0VmUFYxTk5IZnB4MkpXcFRsalpEOFJkd0g3eVZvV1dFck05OC1INmdvdDA0V2FKMUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-kicks-off-in-seattle-today-wha-2026-06-15",
+      "headline": "World Cup Kicks Off In Seattle Today: What Residents Need To Know - The Seattle Medium",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off In Seattle Today: What Residents Need To Kn",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-on-the-ball-world-cup-2026-final-score-b-2026-08-06",
+      "headline": "On the ball: World Cup 2026 final score - Bank of America Institute",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0dhUmdUZ0h2aVRoVC1xQlRfRnhkdFl0NjAyWVAxZXNsSlFEWGFsZ1FSWUMxSHFXOEt1aXhwdWpvd0pxZVNhUnY2aVlOZlJraGdQWVJ0Rld4Um55WU9RdFljdnNtOWxVSUJRakxYN2pLX0ZsR3dRanYzaUVNU2JJbkRjcENnNERsSEtZWTVYS0I?oc=5\" target=\"_blank\"&gt;On the",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0dhUmdUZ0h2aVRoVC1xQlRfRnhkdFl0NjAyWVAxZXNsSlFEWGFsZ1FSWUMxSHFXOEt1aXhwdWpvd0pxZVNhUnY2aVlOZlJraGdQWVJ0Rld4Um55WU9RdFljdnNtOWxVSUJRakxYN2pLX0ZsR3dRanYzaUVNU2JJbkRjcENnNERsSEtZWTVYS0I?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-argentina-mark-england-win-wit-2026-08-06",
       "headline": "World Cup: Argentina mark England win with National Football Teams Day - BBC",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGk4a2dsQVVhbFZRa3ZpeEZ4QXNSYzBPZ21WN1VKa1NKcngxNEt2azVPNEtRcXdGVkl2emtweEpjd3BuUTBNVUZiUGppdXgxMGsyR2lYZlJaa19GbW1ObU5kTjZLeFE3azlaTkxGVzlQOGQ5NEZudHpMb0NUUE1GX1BiaTBoYjA3MjJ3VGU2S1VtYjVOX0tkT1NnXzV0M3BBUy1RUGcwU0lsZ0gzakRRUzVzbTVETmp4cWNPc21IU1NPalE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
-      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - Seattle.gov",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-from-messi-to-mahomes-arrowhead-s-quick--2026-07-31",
-      "headline": "From Messi to Mahomes: Arrowhead's quick turnaround is underway following World Cup - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5\" target=\"_blank\"&gt;From Messi to Maho",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-trump-s-fifa-pal-in-trouble-as-plan-to-s-2026-08-02",
-      "headline": "Trump’s FIFA pal in trouble as plan to sell off World Cup collapses - Salon.com",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmRxYVIxMVVtVXJJZHdiR0RMRk9BZHRZMmlqdlJEZlExY2RuVmlpbkFkbFBEVFo3Y3Q5YkNYczlpdXFDRElCcFRHYkFVcjhsd1NiUzZrUTFRc3pIUUx6REh0cVVtVV9FUWtRdjY2cmMySHlNZFQtbTk0ajZkdnVlQU5jZDgzY1RiTFhGVmFURDBwXzVoTmhsNlB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmRxYVIxMVVtVXJJZHdiR0RMRk9BZHRZMmlqdlJEZlExY2RuVmlpbkFkbFBEVFo3Y3Q5YkNYczlpdXFDRElCcFRHYkFVcjhsd1NiUzZrUTFRc3pIUUx6REh0cVVtVV9FUWtRdjY2cmMySHlNZFQtbTk0ajZkdnVlQU5jZDgzY1RiTFhGVmFURDBwXzVoTmhsNlBXblpYWndjOUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--they-d-already-moved-on-to-zidane-didie-2026-08-02",
-      "headline": "‘They’d already moved on to Zidane’ - Didier Deschamps felt abandoned by French FA during World Cup 2026 - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONjhCQW1TY3pQMlJCVnFlaDVjMHhfVXVqRDBDNTVaVzdCdFhjY3AySXg2Ny00LTA1ZlQ1XzRQWDc0Y3B1RjNwMkJfdy02LU44ajBFVVpaU1NWeXh6OHpxRi13TVEwbVRaRWxjM1pBS3JIRGQzcnY0NVhOVWVZX18taDE4S0QyNmtqcXA0OEEtamx2U3lVSTFkMTFyRTNMLXRY?oc=5\" targ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjhCQW1TY3pQMlJCVnFlaDVjMHhfVXVqRDBDNTVaVzdCdFhjY3AySXg2Ny00LTA1ZlQ1XzRQWDc0Y3B1RjNwMkJfdy02LU44ajBFVVpaU1NWeXh6OHpxRi13TVEwbVRaRWxjM1pBS3JIRGQzcnY0NVhOVWVZX18taDE4S0QyNmtqcXA0OEEtamx2U3lVSTFkMTFyRTNMLXRY?oc=5",
       "featured": false,
       "draft": true
     }
