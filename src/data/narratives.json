@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-05T22:12:22.351Z",
+  "lastUpdated": "2026-08-06T02:32:09.455Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 305,
+      "chapterCount": 308,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2458,6 +2458,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGNENU1KWjEya0NaenhNYUZBRHhsX05ybHJ6UEs0RkFRSFZiVTk0NE8yeGplX0U2dno0c29mV0wyaElRc1dYMGFWUmxfOGpaNW5HRUdYMVI3dFBXMUQ2Z0xmUUtra3dyTlNjZGJJak9STjM1OEhOQThWdzVQOTFtQlVzTzJvSjRTcWRpM2V1ZDZPbE5YLXI0NUNFM2twNmJ4T1F6QzJPTFBjVzU3REllcEhVbjRuMERJTTlQRERDMFFJNktYMS14UFhNRE54TEpsUk54Q0Rn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785983527596",
+          "date": "2026-08-04",
+          "title": "How Lionel Messi's legend is driving tourism in his hometown - NPR",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTQ5MW1vVW9IMnY2ZXQ3T1hWcG8tWjRXSUxHRWRORUxMck5CWTBCVkJWcEhtTDNhTkcyZnRleHphbHJicjctTi1oV0tYMGV2a24wTnJhXzZOM1Q5WnhVa2FfWEhudks2dW9uSlZaU2tuR0psNHRkdm5HRjBYY2pPaWlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785983527597",
+          "date": "2026-08-06",
+          "title": "WATCH: Lionel Messi scores first Inter Miami goal since returning from Argentina's 2026 World Cup run - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdzFvT0NwZFVZVlhlRTlVWUFiVVJjdWZHamhpMFh6bXlEUzEtZWRGc3dZS3pCTlRJVjRaXzJza3hlYndlZXRaVk05ZGhoSXVMZkZaSDYyRFY2RlJSNTJnUTh6Ri1NUE1PcDRNaXFycGZ1LUNRaUcwS0tzbDhPbWlMTEFTeHd1Y2tueXBOSzdtNzF0SzBOcTZ2bFVPZnktRUlPdlotM0RhTnU5Wk92bWg0LWVjTUU0VTdhSlEyQkp1OXEtNFA2Y2toNzhxNW9qenVVUl9Hb1EzS2VkUDRNenAybWViaHhxc1JS?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1785983527597",
+          "date": "2026-08-05",
+          "title": "Antonela Roccuzzo shows off her toned abs as she embraces summer after Argentina's World Cup loss - HOLA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGgweENUeHhFZ3VYVUFFMGpsdzU1ajc1RXMtb3JaSTk2UU1oVmVmWmZNaUsxbE5GRzZFWUZNQk9HVFctY2c1THdzUHBSZUEtOVg5Qmh2cVhYSTNwT3FHYk9nTkVNNDdLMFdHRVgybGNPLVNodkR5V2FQRFdGOGtwSEtlVXZXQi0wY1lmcHdialB2bWd2TU9oUlVST2FqXy1mQzRZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2476,7 +2500,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 299,
+      "chapterCount": 300,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4868,6 +4892,14 @@
           "title": "'We were outnumbered' — Kylian Mbappé details the tactical flaws behind France's semi-final exit - Cape Argus",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZW1vZW9lSU9HbXZfbi1CaC1WeUlodTlqMGlPaTBIc3ZvUWw2WDdGRWU1UGFHZVFJQmRKT0RGeGg1cUd3WEtuMHVjMk9pN0p0Vy05M3lvNURNc1JHdVBrNm5LQ1VQbml1Z0xZQ1RxbUJkbm0wSVpXdG0zN1lIMHhPbGVOTGhoQWszWldwVVN4Z3JsQVZwdVhpSXRtcEJUaEdTNGVISV95VjZMR1NvYUVzWndzV2NlOEhJZU1QSVFlRUt4N2J3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1785983528066",
+          "date": "2026-08-05",
+          "title": "'We were outnumbered' — Kylian Mbappé details the tactical flaws behind France's semi-final exit - Sunday Tribune",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWxWVDM1T3JEd2R3OE5IWWtaTHQxOE5JMzZGRmRzVVgtbjI5UTFEMzFUMkdFZFhzUG5mVFlBRUZpV2dDU2lrak1qczhnZ3VZRi1wT3g5Wm8yZEZxVEctUVN4RmdSbEF3b1F5cUlEaGNKM3pNcmZ0SlEzbVZjRnk1ZUhBdTFMUTRVaVZYTHpkMHJoeG1mY2wzaExoR0hnanZ3ZDlfeEc5SlBCUlNuMkhlNklqV29oTWY3aDNjUFN6SmloZm9uemRoMGxn?oc=5",
           "draft": true
         }
       ]
