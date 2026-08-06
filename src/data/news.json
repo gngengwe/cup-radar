@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-06T02:32:07.140Z",
+  "lastUpdated": "2026-08-06T08:35:13.981Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-pledges-to-defend-infantino-after-w-2026-08-06",
+      "headline": "FIFA pledges to defend Infantino after World Cup rights plan collapses - aljazeera.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjFqbkV1elZzS1pvZTNfVGNWR3VyRjM3czAzNGtXemUwbjIyQTJJTWVXTkRUWnhxb2hpODQ3ZXFyd2N4Z082UkhackVaWXN0ZmxQS24xU051S1Z5cFNDTzE2NjlBV1VYXzU1UFJJUHBnbU96YzZBN0t4aUFKRVp0OTcwbXJaWmFUNUUwR2dwOWpQWUhJaHZVLVdvV1BMcllkZGNtNldiR1g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjFqbkV1elZzS1pvZTNfVGNWR3VyRjM3czAzNGtXemUwbjIyQTJJTWVXTkRUWnhxb2hpODQ3ZXFyd2N4Z082UkhackVaWXN0ZmxQS24xU051S1Z5cFNDTzE2NjlBV1VYXzU1UFJJUHBnbU96YzZBN0t4aUFKRVp0OTcwbXJaWmFUNUUwR2dwOWpQWUhJaHZVLVdvV1BMcllkZGNtNldiR1gzZW9oQTZra0VB0gG3AUFVX3lxTFA1UnNscUFfSnlUMm85SWNlZmxXZGx3Ui1QTjF3YlVJeVBjc2FXeGU1MXdxeE51R3hNb2pyWUdxcmdPVGxoQ3ZZUHVuVDUtdkZWaTVMaHZKNVNsT3pkb0tjekZTb1hnNGRqS3kzenJhNW1TRWRGVTFncUZWR0lqTUg4cUxGYm12OXFSOEhDMmlPaEJubkZFNDc2bERkSTkxbzFzUl9vLTQwT3NvM2xfZTFkRWVSNnNjWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-infantino-is-getting-his-karmic-kicking--2026-08-06",
+      "headline": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5\" target=\"_b",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-releases-statement-on-infantino-off-2026-08-05",
+      "headline": "FIFA releases statement on Infantino offering Morocco 2030 World Cup final - Daily Post Nigeria",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0JuY080TEVaT1pKcVRVTXZzYmlSelFUZFZSZGhzbGlaRWxWcGxYZExpTEg5R3BkZ1oyLUZVSjRmbS1JaFpkYk5hSEJzNE03U3FlbzdRLThub0NaQWhmTTQxZDZLdnY4WnVkVmYxM3RqdkhIemxMcy1PT0E5T2tlTllBUXVsRTFUSEE4WWZSYmxCZVFrWlJmcGlPZ1NwU1ctX091UzZQMWd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0JuY080TEVaT1pKcVRVTXZzYmlSelFUZFZSZGhzbGlaRWxWcGxYZExpTEg5R3BkZ1oyLUZVSjRmbS1JaFpkYk5hSEJzNE03U3FlbzdRLThub0NaQWhmTTQxZDZLdnY4WnVkVmYxM3RqdkhIemxMcy1PT0E5T2tlTllBUXVsRTFUSEE4WWZSYmxCZVFrWlJmcGlPZ1NwU1ctX091UzZQMWdVSkU?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-apologises-to-members-as-infantino--2026-08-05",
       "headline": "FIFA apologises to members as Infantino holds crisis meeting amid stake sale fallout - Reuters",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
-      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ex-chiefs-db-justin-reid-attended-world--2026-07-05",
-      "headline": "Ex-Chiefs DB Justin Reid attended World Cup tilt at Arrowhead Stadium - Chiefs Wire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWWthNVNWM3VvM0gyaGFqWml5R3BpUnZ6N1dBZ0NDQzJUQlB6aDR4cUQ5UjVBbXBYTzFtV1dYMW9xMzBVUHRCRVo1NUF5X0dzOFBzRm9BR05fMXE3Nm9oMlI3bFAxTmRIdExvS2JzTDJ6TkwzSXMwdm9JSFljRkIzZmdpdmVwRzhMdDdWOXFXRGZZVEdXU1g1dG5pQmc5d2dSNm0yV2k2QXJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWWthNVNWM3VvM0gyaGFqWml5R3BpUnZ6N1dBZ0NDQzJUQlB6aDR4cUQ5UjVBbXBYTzFtV1dYMW9xMzBVUHRCRVo1NUF5X0dzOFBzRm9BR05fMXE3Nm9oMlI3bFAxTmRIdExvS2JzTDJ6TkwzSXMwdm9JSFljRkIzZmdpdmVwRzhMdDdWOXFXRGZZVEdXU1g1dG5pQmc5d2dSNm0yV2k2QXJOWWYzN2NBUmVhb1kyUnJNR1VtSHp3cXRKSkZYVktGVEZ1RVBoVVdocngxV25rT0dTUkRDbGpsejB4bjdRSldNV2luZ1BvcXpGQkNOWGNlZXRVdnNBVGE2a2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--they-d-already-moved-on-to-zidane-didie-2026-08-02",
-      "headline": "‘They’d already moved on to Zidane’ - Didier Deschamps felt abandoned by French FA during World Cup 2026 - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQklfSm1mb3g3ODN0dVBXQTFLVmN0VW5pOUJGTzFJc2tsOUxxNlIwdWhqSkpPb2wtNWlZeTdydldKY0xfVHZrVTdQeU1wdGNXRk9OY3RTZXp0TkFfc1k2Y25IWVNoaHlsY244UndUWTh6Mkd1MUphYWxRd2tfMHQ4WHVRQUJlS3JwLUNpbG8wR0k3YVYzcDdjd2wyXy0?oc=5\" target=\"_",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQklfSm1mb3g3ODN0dVBXQTFLVmN0VW5pOUJGTzFJc2tsOUxxNlIwdWhqSkpPb2wtNWlZeTdydldKY0xfVHZrVTdQeU1wdGNXRk9OY3RTZXp0TkFfc1k2Y25IWVNoaHlsY244UndUWTh6Mkd1MUphYWxRd2tfMHQ4WHVRQUJlS3JwLUNpbG8wR0k3YVYzcDdjd2wyXy0?oc=5",
       "featured": false,
       "draft": true
     }

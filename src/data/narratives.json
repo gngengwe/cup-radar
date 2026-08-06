@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-06T05:48:26.177Z",
+  "lastUpdated": "2026-08-06T08:35:16.490Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 309,
+      "chapterCount": 310,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2489,6 +2489,14 @@
           "title": "WATCH: Lionel Messi scores first Inter Miami goal since returning from Argentina's 2026 World Cup run - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTlVJbDd6ZS1TVTU1OS1HZnNZTUtNaDllcndhMFgyTWdOeGd1TTBwNGJoM0ZRNmhpWU05U2hIMk0tVExLX0NDRGJLNUZjQ09ucllKbk5WRl9tMXJ6ejc3M2RmN1dUaVdiQmJSa2NiNG84QVNUaTdRdHlsUndhM3dnNWhhNExNdjgxRVZFT21KTGo0WkVfV0FDVnFER3lCb1k4VUl6N21fYlp0cmliTHE4b2MtY3h5V2NkVUZxNFJaV0dRWkNfaGwtRkJidkliU1JERTAwZEdTSjlBZ2xYUTA0UFZ5VHcxUTBk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786005314483",
+          "date": "2026-08-06",
+          "title": "WATCH: Lionel Messi scores first Inter Miami goal since returning from Argentina's 2026 World Cup run - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQVUwMGJ3bDl2WHhUZXpGd1pKajhrUWZYSlF3Qmp5d1ZlS19QMVh3bENVSVRjRjh6OGlEVWhHTTk0ZVotcVQ2M0VibzAwRHJBYU9lRDhKTzUtTnBrZjMteUpMc1FFSk1oSktBSG5wdnZVMWxFYWxtNHdmalZlVVFtUTdWakhvYnp3Uy1keDRXN3U4N3lUbkdkX0VOb3FQVWlvU3JZaUlZMUozdndBWS1jMEY2RjIzTmRSTW5nSGFCMFc3bWs3azJDaHFVWmNyTjd2TXg4eEJCLWlnaUVfYTVwdXR2Mks?oc=5",
           "draft": true
         }
       ]
