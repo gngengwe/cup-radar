@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-07T13:02:06.600Z",
+  "lastUpdated": "2026-08-07T15:55:11.006Z",
   "articles": [
+    {
+      "id": "news-auto-european-nations-say-world-cup-boycott-i-2026-08-06",
+      "headline": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5\" target=\"_blank\"&gt;European nations ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-england-6-4-france-fifa-world-cup-2026-a-2026-07-18",
+      "headline": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2d",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-where-to-watch-the-world-cup-final-in-se-2026-07-17",
+      "headline": "Where to watch the World Cup final in Seattle? We have lots of ideas - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2R",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2RxdVQzT2JpMmxMRGYtejRBaWJCMnk4c1hqMXFH?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5\" target=\"_blank\"&gt;Arrowhe",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-infantino-apologizes-for-mistakes-but-re-2026-08-05",
       "headline": "Infantino apologizes for ‘mistakes’ but retains FIFA’s backing at crisis meeting - CNN",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-03",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmpJWUNvYXo2cHJpbC15VEVvaEJVTmVYcmRkZjVLWktqeFVSaC1oeDZrYS1GcUtaNDVFc3JGR0FTeEpmbWZTSUpRRzBSc05zV2pSS21zTnVHN1BFMWNvODAzZWtjNWtrYzlCVnE0cWdCcE1oaDhldGhQUUNwb0kzcG1hQjIzaXJ2Z2R3amVGM0RyeWQtQWk0V0hOU2lhWERBS2hKWk9XWTdtTklhTlJRQjcxck0wb3V3eHNQNHBJNGE2ZHAyZ2xmSm1UZ1cxUWhnYWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-takes-fifa-world-cup-invento-2026-07-16",
-      "headline": "Kansas City takes FIFA World Cup inventory. So how many visitors did we welcome? - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5odzRyS2FKanRIWWtqUXFBYUJIckhFLVUtYWQtSXJxYktSbWlaOWQyUU5YSDdfYXpTVmVSaVUtX2ZRaWkzWTE5eXVDVmc0aW5kSnBaOTdoWWhBMEtaSDFDdHdHQkIxVnBRS2RsSWh0YkZoZGhwV3hfU2dn0gF6QVVfeXFMTlE1YmtqOEVMbTFMdXN2bGxkX05IQ2xseS0xYmsxdk1PaXEwRWZsZWdNTlJsdkprTlo5ZG8zajBxVGpxRXFudFRFQTRueEJ5akJ0NzZlMmZkVlhwVngtY0JNSVNBZ2N5d3pubTZYZTl5Qi1kTFVLNUIyMkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-huge-crowds-at-fifa-fan-festival-s-final-2026-07-11",
-      "headline": "Huge crowds at FIFA Fan Festival’s final day in Kansas City - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQekhkdmd4Y0NPaHAwTTB1RC0wQzFvYVFpb2wxeGhodEU0VnRYaVZLUW5GLW5qeEZxQnJldVNjUWtHRE1FV1d6NTF0Yy0wRkNuQmVUbHktRGZsTzR0bTdNNlFjMnRJMUtzOTlnck1qWWtRQjBSa2dmOHFTY29iQmNVMmYzQ2tFdHE5NEdMWUl6Q1FNZTN5YnZNYU9TdWE5Mm5GcUHSAacBQVV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekhkdmd4Y0NPaHAwTTB1RC0wQzFvYVFpb2wxeGhodEU0VnRYaVZLUW5GLW5qeEZxQnJldVNjUWtHRE1FV1d6NTF0Yy0wRkNuQmVUbHktRGZsTzR0bTdNNlFjMnRJMUtzOTlnck1qWWtRQjBSa2dmOHFTY29iQmNVMmYzQ2tFdHE5NEdMWUl6Q1FNZTN5YnZNYU9TdWE5Mm5GcUHSAacBQVVfeXFMTkNscEtwanBDQ1JjMGF2cERIUFF4OHozTzNwQUxPckdZZ2piNHJtSEFldGFGMXRGazJqRFBoZnczWjBOdU1aSHBIZ3premp5S0dFek5TcGEzVE1fLXAyeU1TNVMtVHlNSDE4UWhnZFJTanZRUHJjQkYxNk1ISmhjWFBEV3Z6c2Q0c2FSRy04aTFaQktNNW9pRnNxVHRSZ1F6TTRjbHBRZEk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-see-how-many-people-attended-world-cup-m-2026-07-16",
-      "headline": "See how many people attended World Cup matches at Arrowhead, visited Fan Fest - The Business Journals",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnhndnFFV1NxeG5ZUnlEZFEtR1NRbmRPUkI0VHVRdnhEdzhWWENnVWoxLWxpb2IwNjg2WkIwSlRzXzJOaG9ybzlyUElNN0l3X3MyOEhsVE5sSHcta05sMVJOQ09WamJNTy05UkRSR0xBX2o5RGRGX3RWbTIzN05UaEJncHVZaUk0Vk5PTmpWUWVKcThSNjMwdU1fc054dUNfUGJjTC1kVQ?",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnhndnFFV1NxeG5ZUnlEZFEtR1NRbmRPUkI0VHVRdnhEdzhWWENnVWoxLWxpb2IwNjg2WkIwSlRzXzJOaG9ybzlyUElNN0l3X3MyOEhsVE5sSHcta05sMVJOQ09WamJNTy05UkRSR0xBX2o5RGRGX3RWbTIzN05UaEJncHVZaUk0Vk5PTmpWUWVKcThSNjMwdU1fc054dUNfUGJjTC1kVQ?oc=5",
       "featured": false,
       "draft": true
     }
