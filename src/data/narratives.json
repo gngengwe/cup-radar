@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-07T10:01:06.640Z",
+  "lastUpdated": "2026-08-07T13:02:08.988Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 311,
+      "chapterCount": 312,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2505,6 +2505,14 @@
           "title": "Messi scores his first goals since World Cup as Inter Miami beat San Luis - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYi1pdGxHbmFqeWt0N21ja0xvUGFpdVlvR3gzc09ER2tjdGRjQ1lTa1RjVEtTSUtWU3hadXVDT0EtdlNla1RGanp3eWIxVnhDeC1YVlFsaTE5emZMUG5JdlFNcUdKZ1BkU0F3M2tUUktXUGFvMGEzblJHUXJrNWhsTnEycXhqVTNLMHpKX21EdnR2Y0lqdVBIYXYyWmt4emlNWmtIS3hXUlhIYk1CZWZBeDFNempzZ9IBuwFBVV95cUxPT3ZPUzNXT080SkFJb05palRmZFBsZWFwYlM3dl9nMVE5X0JLckllN2l3Zzk2YXgyTzhRcElqR3JiNk43Z0FaTll0blo4SXAtUzRuR2Z1UU4wX2FNQ29feHdOdmRSb2MxUkZrekVRVEd6THlHNVo0X0ZPTTBkLVdDbGctb1BNNTBNTmlvTW9TMmhURHNYeDY1ZGdTZjZTMlFXSGtHYUlHdk9EcmJKTFdtLTZHY1FpbmV2dVhJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786107727062",
+          "date": "2026-08-07",
+          "title": "Argentina not pressuring Messi to play in 2028 Copa America - beinsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHJNV3JiOVEybE91OHZRQncyUmk4ZDRGZ0h3Tmt0UW9xaFhiOWdJczctYjRUQzQ3S3dFdXF0Z2RKYzFlUktJSzVuQnV3RnZBWmJJbktqVEpGdDlxS3ZKYmlGaGtMMm5STjBobklkbHZPempBVUt5Y1J6bDFZbWVxMXdxOVF2ZXhQQ0UxdTdUN0c3NnNvMFNTQk8xSWx1ZHNlYzJ4XzFZOGZTLVJObG1oWTJSYmJENm1QZUMxNW9fZXBycVFBZ0tMWUFhSjVFUEdrTjFxNmdR?oc=5",
           "draft": true
         }
       ]
