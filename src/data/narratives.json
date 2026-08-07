@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-07T15:55:13.526Z",
+  "lastUpdated": "2026-08-07T18:55:48.557Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 314,
+      "chapterCount": 315,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2530,6 +2530,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanBDUGt5WU1ydXRaOXNkWlJ0RGU1bjJOcXJKejlFTmxuNm0zUWU2OE54c3VibzliN1dhN2JWQWtEWnN6cGZ4M2s5UDdWZE1QbmpndjJIbHp1M2lCX2Q0WC1xZFJKTU5tOVQ2d3ItYm1Yd1lxV05HYm9PbzZOV0FrdUNrZENsVkJHSlVSWnYxMDZYOHRaanJoVmZkTlRiYUVQWXl1dHJ0SQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786128946449",
+          "date": "2026-08-07",
+          "title": "Will Messi retire from Argentina? FA president says it's up to Inter Miami star - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDNIcmN2aDBnRktQd3hQOVVTQUVPc2tZRER6VzJyajZfeEs2Wi1wbklHUjB5LXZjS0l0UWZEcTlUSnJsME41bmdIVkIwS2JyeWNtT2EzWXM4SDZaekJyUWloNkljMHpjRTBWT19KNjk5ZTZIbEtjVFI2dkk4NDV3Rm43T3ZSa2RQOUE1ZUdQMU9WYlJGblJvWmI0TkdOSDVEelo1VldxMmNNWVBiTTBwVGtHR1F6Qnc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4975,7 +4983,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 648,
+      "chapterCount": 649,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10159,6 +10167,14 @@
           "title": "Mauricio Pochettino is back with the USMNT. These should be his top priorities - nytimes.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2RkNUg3MENSd0R0V2lWRGlsaXRYby1sOXJTS0cwaHB4alFlemZJd2VLaWhnUUh1YWlqd1d2MWZXbXMtZkp5MmtKeldENGdOU09oZ0FiRW05WkwtRE1Bbk9NMjNua09YSWdKMFFpdVVKTFRmSHU0bFZaUmxyeVcyaXJYbWpjZWJ4QVVsNjk0YXV6SEQtU2l5S3pWYlk1amdsMXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786128947426",
+          "date": "2026-08-06",
+          "title": "2026 USA Basketball Women’s National Team Announced - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmpPZHdDcUI5V3ZiR04xSTlVMnk4Y2JDcHc5VHcxOEZjS1FOVXBzcXp6cy1WUDUteTBSS3ZuYnR4VDJpTFd6MWFoWGQ5T1oyVV9BeW9JU2ZPR2RqTkprTzdnMFEwZjFCaW4ydGtOWGxVcnBvWmM3YkNTWDdWbW1PWVRUazQ4bEZLN1gwUA?oc=5",
           "draft": true
         }
       ]

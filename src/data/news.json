@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-07T15:55:11.006Z",
+  "lastUpdated": "2026-08-07T18:55:45.973Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-executives-were-given-ultimatum-to--2026-08-06",
+      "headline": "FIFA Executives Were Given Ultimatum to Approve World Cup Privatization Plan - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVMzOURjMXo0cFJmMmtlcGZhRE1UaV92R0t6REVuS2ZFWFlWT3JPbzB2VndhSGJOSk1EOTVtdGZ4NFdYYVZoQjhhVDFlbGFrV1MyMzNNUkVqRXgzWnFyRWoyNi0tQnZ3aEFBSkRXVkRSN0xZc2pvU3FRTGprWVE3emVZTQ?oc=5\" target=\"_blank\"&gt;FIFA Executives Were Gi",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVMzOURjMXo0cFJmMmtlcGZhRE1UaV92R0t6REVuS2ZFWFlWT3JPbzB2VndhSGJOSk1EOTVtdGZ4NFdYYVZoQjhhVDFlbGFrV1MyMzNNUkVqRXgzWnFyRWoyNi0tQnZ3aEFBSkRXVkRSN0xZc2pvU3FRTGprWVE3emVZTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-ad-income-boosts-fox-s-re-2026-08-06",
+      "headline": "Fifa World Cup ad income boosts Fox’s revenue to $4.21bn in fourth quarter - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkM1Zmc2RnlsVGU0eGtpZHpXTVpKWGUwYi15VUJzeW1nR0tEMHl1dmNMMXpRLWVWZ1lCX1BqOE90OTJlT2c1eEtZejhvakRZWDY5UTV0bm9lVGVyNDFFSE9IdmtTYVJRdnNUeXhsT1NVa2JiOXM5Znh0aDdCcVFwa3VXMHJiYXF4?oc=5\" target=\"_blank\"&gt;Fifa World Cup ad",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkM1Zmc2RnlsVGU0eGtpZHpXTVpKWGUwYi15VUJzeW1nR0tEMHl1dmNMMXpRLWVWZ1lCX1BqOE90OTJlT2c1eEtZejhvakRZWDY5UTV0bm9lVGVyNDFFSE9IdmtTYVJRdnNUeXhsT1NVa2JiOXM5Znh0aDdCcVFwa3VXMHJiYXF4?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-european-nations-say-world-cup-boycott-i-2026-08-06",
       "headline": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-12",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
-      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-s-fifa-world-cup-crisis-who-co-2026-08-01",
-      "headline": "Infantino’s FIFA World Cup crisis: Who could replace president? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbk9xcVlYMnM2aWFEUm5XeUhqMW9oY2p0RFFlQXpsT2xCSll6RG0tM2hub216cEozTThTUnp6SlRRME9kbllzeF8wVlcweDFVeDg1ckpBRzV4elhlTXQ3R2gyMmdYTUxmVlF0bU1TdXFIZHByZzAwY05GNDdIcHZLV2VTSVZmb3dUSVBaOUV1TW0tNWFXN0V0MGVZQ3RHOHMyMUZka3ZJNGt",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbk9xcVlYMnM2aWFEUm5XeUhqMW9oY2p0RFFlQXpsT2xCSll6RG0tM2hub216cEozTThTUnp6SlRRME9kbllzeF8wVlcweDFVeDg1ckpBRzV4elhlTXQ3R2gyMmdYTUxmVlF0bU1TdXFIZHByZzAwY05GNDdIcHZLV2VTSVZmb3dUSVBaOUV1TW0tNWFXN0V0MGVZQ3RHOHMyMUZka3ZJNGt2MUE2aWRuU2xDVy3SAboBQVVfeXFMTzhTZjRpdENDWE5nbVF4SXFoQ1hwSlROXzBlVEhCV3BMUXROQk1zQVFwMXNZcmwyTlMyRUxYUzgwb0ZEd2FudktKMVFGeGxfbk83Sm1SX28xVHVUdWNodE9WdTNacWlYeEQ4eXJUVVczUFRKNDUyczJVNl9jdE9hbl9lRVY5bmtCVUVNYlhIV01oZ2FtVnJyOUxyOHU1djh0anVtQ0ZkZXdsMi0yS2JWMnZNVllEVWdxdExR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ku-goalkeepers-played-their-own-small-ro-2026-08-03",
-      "headline": "KU goalkeepers played their own small role in World Cup festivities - KU Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmpJWUNvYXo2cHJpbC15VEVvaEJVTmVYcmRkZjVLWktqeFVSaC1oeDZrYS1GcUtaNDVFc3JGR0FTeEpmbWZTSUpRRzBSc05zV2pSS21zTnVHN1BFMWNvODAzZWtjNWtrYzlCVnE0cWdCcE1oaDhldGhQUUNwb0kzcG1hQjIzaXJ2Z2R3amVGM0RyeWQtQWk0V0hOU2lhWERBS2hKWk9XWTd",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-03",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmpJWUNvYXo2cHJpbC15VEVvaEJVTmVYcmRkZjVLWktqeFVSaC1oeDZrYS1GcUtaNDVFc3JGR0FTeEpmbWZTSUpRRzBSc05zV2pSS21zTnVHN1BFMWNvODAzZWtjNWtrYzlCVnE0cWdCcE1oaDhldGhQUUNwb0kzcG1hQjIzaXJ2Z2R3amVGM0RyeWQtQWk0V0hOU2lhWERBS2hKWk9XWTdtTklhTlJRQjcxck0wb3V3eHNQNHBJNGE2ZHAyZ2xmSm1UZ1cxUWhnYWc?oc=5",
       "featured": false,
       "draft": true
     }
