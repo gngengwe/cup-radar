@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-06T23:58:08.488Z",
+  "lastUpdated": "2026-08-07T07:14:27.737Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2516,7 +2516,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 300,
+      "chapterCount": 301,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -4916,6 +4916,14 @@
           "title": "'We were outnumbered' — Kylian Mbappé details the tactical flaws behind France's semi-final exit - Sunday Tribune",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWxWVDM1T3JEd2R3OE5IWWtaTHQxOE5JMzZGRmRzVVgtbjI5UTFEMzFUMkdFZFhzUG5mVFlBRUZpV2dDU2lrak1qczhnZ3VZRi1wT3g5Wm8yZEZxVEctUVN4RmdSbEF3b1F5cUlEaGNKM3pNcmZ0SlEzbVZjRnk1ZUhBdTFMUTRVaVZYTHpkMHJoeG1mY2wzaExoR0hnanZ3ZDlfeEc5SlBCUlNuMkhlNklqV29oTWY3aDNjUFN6SmloZm9uemRoMGxn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1786086866134",
+          "date": "2026-08-04",
+          "title": "FIFA president Gianni Infantino hails 'incredible' Kylian Mbappe after stunning World Cup 2026 campaign - goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWVhdTUtT3lwSmgxZHF4WFFIYktKcHZrOUFBWXM3MndBUjJIemtvRGVYcmJZd2FBdmJtdmNOV0ZyTF82VTZiSC1Fb3QzR0ZvTU53aW9zX2pJZUp1cllRSTBsTUdhSGxfU052MGJGMlVNYmw1bVRHaFVkRVk0eThFRDdaWjU5SXlFZXdwQkhJQUdSdGlyWTRjNjZVZmYxaGM1S01Pa1I5R0M1d0tud1lDcHBkWFlEemRaaUQ3elJUc0RzYURR?oc=5",
           "draft": true
         }
       ]
