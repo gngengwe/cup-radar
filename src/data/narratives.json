@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-08T18:36:21.179Z",
+  "lastUpdated": "2026-08-08T21:29:30.562Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 323,
+      "chapterCount": 325,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2601,6 +2601,22 @@
           "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - Sun Sentinel",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHAtdFRhNW1zeWhOdUNlWHpJNVdna25wLXdkMGthSkxONHg5WlhtVWF3UjhnRFN3Y3U1RC14bXNIbHhES1ZfcElmOGJsWlVVNDAxZlE4dHRNTnptbjFXQXdqUk9fRnZaWFRsMEZWbV9sMUlLdElZVDBuSDJOTVhiUlhUODBlT3BwMjB3X1JzbU1fRlVWOEMxbEFwMUhINDhrQTlEbGRB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786224568571",
+          "date": "2026-08-08",
+          "title": "Lionel Messi’s father dead at 68, his support marked with ‘vision, rigor, and affection’ - AL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNay1mNE1oajF3cXJQbUEtQmhiLTA0OGJDWVVwcXZXUWEta1lTZ3JGOWRZMGhmaWpkWHZvWnFUbG1PYVczNnl6bEJPT1h2UXdNVmpGaE5qY0QyMXQwSGZIS2dLbGk4NGVTNDRqSEZvV0F5UERIb1F0TnBKMVZXMzNZSGloVHNkZWhwWmphZE5KRHFuVVo5ZnVVNDB3TV9WM09qbE9HdHpjS29NNWh1YmFJOS1aZUlnV0lIWFU3aTlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786224568572",
+          "date": "2026-08-08",
+          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - FOX Carolina News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmpDWnhRM2hoczlUcnAwOHd5dVZNNFgzTE9HVmctRWs2TWI4aS1uT1kyZGh4OUhMYmJtNURGLVNFTVp0bnlTeFhqcS1KckNzZGFqVzlab0Jmc2RhUTdkOXlYTWlUVnUzc1JEY3h5RFlYQjlNT3hXU295dHdSUHgwR1hMQ1NBR1BaTXFMcm85T20tVVBqNjN3YnlnZ9IBrwFBVV95cUxQYjdGN3NSNC1RWFNFLU10a0pQR1BhUnE3R1JiNWlSTjhvcEg0WVhxTmw1M29YNWpmTHltQ3hReENTb3N3U1RzVU5hd3p5QjRkNmlCOGhZWU5LWFdjVml4Vzk2VC1kRnFsZUgyV3lKQ21VdTRPU09CX0xuYk5PRVJha3dJSTVKRmR6bTltS25QVFRSNnIwdm9LY044S0wxMWtJZ0dsUmgtTXN0VXlFVFB3?oc=5",
           "draft": true
         }
       ]

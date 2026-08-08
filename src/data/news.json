@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-08T18:36:18.260Z",
+  "lastUpdated": "2026-08-08T21:29:28.124Z",
   "articles": [
+    {
+      "id": "news-auto-lionel-messi-faced-chilling-death-threat-2026-08-08",
+      "headline": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News - Hindustan Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-08",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazhPc09peXR2ZElabmptZmR1YUw4TXUtY2pYelBSMXREWVA0WEdYTzQzMS1sS1M0czkzM2xyV1lQekNmX21IN3lKNlJSdDJRNDRqa1N5TlpSR2hrMkpER0tCTkpRbU9lVk0tYS1Vc2fSAZMCQVVfeXFMT3lKLUtmR3FIc1ZrWmZjVnNpTnFOWlBJUE03ZXJ6OThvcHdYMEZQcmJ4S1hwZVVfT3U4NVBMX2Z1Nk1FaUJwcW9pbjBGT1ZabWNVT19UaHktbm4zVzAzdTIzYjZnZXoyQUVJdmdPdlRhdHd0LXg2OEZyRVdNTFFoSUwtcllxMXNyaXhjcnZQclNaLVBQc1pHM0FWekVvM1BVUTFmT2xXTnlndGVtamVNcUE0cGdZenNUODZHakpjdE54VnB5NndoZFl2RTJBc0VJd2NlcVNwanhpWWgzRExseWM5a1NWM3ZYWHBaTjN6WTRXczd3TzJuUmNNSFppbUxKalRCSnpGbm1hZWNZbzhYaFpPbVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-police-report-reveals-man-wanted-to-murd-2026-08-08",
       "headline": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-04",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhWaXhZMFo5UnNFMmhNa0E3YUV2YTdIdG1oSXpWWDZ3LTJwNmdKeEpFSm5XQ2VGWFhlVkotRGNTa2ZtNnY4elQ3S1dTeC1qRWt4YVpDOHZudngtdmpCY1g1c012aFMzZzhnazJfbmtyd21XendpVDBlQWEyeldQYWtYalpQQVM3dGZQRVc3YTBvM2tOV00zaDhrSUdUbGd0dEhWbHpSaG9QUjlENUhpOQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-us-host-cities-say-fifa-o-2026-08-04",
-      "headline": "FIFA World Cup: US host cities say FIFA owes them $1 million each from promised legacy contribution - LiveNOW from FOX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUs1V3AxZ2lRdElGQ0Z0VjQwSFluQmJwMHJobzdCTnNTanhPeDZaRFk3SVV2QmtKQkFUOTB1eGd0cGRUQnA5dkNUNFNHT19UNUQ1ckJSNGVyRWhkaURldW41NG5UUDJmbklSTk1lVklLREpyc25YU3JHS2RtS0IzZzlGMA?oc=5\" target=\"_blank\"&gt;FIFA World Cup: US host",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUs1V3AxZ2lRdElGQ0Z0VjQwSFluQmJwMHJobzdCTnNTanhPeDZaRFk3SVV2QmtKQkFUOTB1eGd0cGRUQnA5dkNUNFNHT19UNUQ1ckJSNGVyRWhkaURldW41NG5UUDJmbklSTk1lVklLREpyc25YU3JHS2RtS0IzZzlGMA?oc=5",
       "featured": false,
       "draft": true
     }
