@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-08T01:37:54.250Z",
+  "lastUpdated": "2026-08-08T04:10:22.160Z",
   "articles": [
+    {
+      "id": "news-auto-a-look-at-l-a-metro-s-success-and-challe-2026-08-07",
+      "headline": "A look at L.A. Metro’s success and challenges during the 2026 FIFA World Cup - CBS News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORE9KdUZZbHIxRmZDeTNKZUtXXzhlUlJKejZpblZiMnVsZ0o4S053RmZNRTVpNUozc29xWDR2ajlfMEdpeWMzTVBobGdhRWZyMWE0V2h2NWp6X0QyaDBZYm9TS2FCcFA0dGpuemNXemx5NDNxMzZSa2x3aHRDN2E5aGdKZk41U1pNQUR4STluRlNOZ1JWX3I5UGZvbzFqT3NBSE5zR1FwTjV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-07",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE9KdUZZbHIxRmZDeTNKZUtXXzhlUlJKejZpblZiMnVsZ0o4S053RmZNRTVpNUozc29xWDR2ajlfMEdpeWMzTVBobGdhRWZyMWE0V2h2NWp6X0QyaDBZYm9TS2FCcFA0dGpuemNXemx5NDNxMzZSa2x3aHRDN2E5aGdKZk41U1pNQUR4STluRlNOZ1JWX3I5UGZvbzFqT3NBSE5zR1FwTjVaRWtmRXNIN0EydXFBOEE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lionel-messi-terror-plot-report-reveals--2026-08-08",
+      "headline": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026 - NDTV Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPcERuQ3QtMVZkY005cjR1OVY2TFExelFvU29kSjBOcG5oczFTS1hPQUhGRE9ramotN042YlhGMjdoOUg5LWExaW56N1l0LVIyLW1iMnk3N2hVT1JRRmFwN0paVGtpb0hCY2I1WWNMTEozV2tsMGlJQmIxU2ZEdVduRmVCWHBJcmMzeHdacWNUeXc5MVZjQnhEczBkTTVvdVdQTmhMYm1vdlh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-08",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcERuQ3QtMVZkY005cjR1OVY2TFExelFvU29kSjBOcG5oczFTS1hPQUhGRE9ramotN042YlhGMjdoOUg5LWExaW56N1l0LVIyLW1iMnk3N2hVT1JRRmFwN0paVGtpb0hCY2I1WWNMTEozV2tsMGlJQmIxU2ZEdVduRmVCWHBJcmMzeHdacWNUeXc5MVZjQnhEczBkTTVvdVdQTmhMYm1vdlhXWFZRTEVaTjBubC1zS0xzZGRTOE9NNA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
+      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-to-fix-fifa-what-can-be-done-to-salv-2026-08-06",
       "headline": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body? - The Guardian",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-04",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-news-analysis-gianni-infantino-s-kushner-2026-08-04",
-      "headline": "News Analysis: Gianni Infantino's Kushner-linked World Cup scheme jeopardizes his FIFA reign - latimes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG1FWW5pMGl1djJXbERYNTNnMl9kZURVOEQ3TXU3a1lUWVBRVnRFNTVJamVCREpYUkh2VTdQci1SUEhUSlJMeGgxMmoyNklycEJnMkNheHQ2VkVvdzd5M0tST0lvQkg5UVMyOUtuSUNJTlR6aHQ5WlktS2dQMy1Yd1JvTnRmLVh3eDlwaHplWV9DVU40ZXB4UWFHNlFkOGNzaG1GcXcycE5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG1FWW5pMGl1djJXbERYNTNnMl9kZURVOEQ3TXU3a1lUWVBRVnRFNTVJamVCREpYUkh2VTdQci1SUEhUSlJMeGgxMmoyNklycEJnMkNheHQ2VkVvdzd5M0tST0lvQkg5UVMyOUtuSUNJTlR6aHQ5WlktS2dQMy1Yd1JvTnRmLVh3eDlwaHplWV9DVU40ZXB4UWFHNlFkOGNzaG1GcXcycE54Z3BwNUxNWA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-look-back-at-the-world-cup-in-new-jers-2026-08-04",
-      "headline": "A look back at the World Cup in New Jersey, by the numbers - Bergen Record",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0liU3FEVEZoZ24yZUJ6TXJSUy1zTzFMSnJXRHlVeFRKQ21IaXhZSzBvR0ItTllXZ2h5aVNsZWFZNE5TNGVEQS1GQVM4WUpRYmpuMTdsVGdqWk5XVDNoMnA2bVJFbFVjYmx2dWxVZ2l5VU1FREFKeXJjYnVuVXFEWmRkX0d1Z1JNMWdBOFRFRVp2SXNNc2dKVUVZMFhGaTJwZTJ1VGdGRUI",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0liU3FEVEZoZ24yZUJ6TXJSUy1zTzFMSnJXRHlVeFRKQ21IaXhZSzBvR0ItTllXZ2h5aVNsZWFZNE5TNGVEQS1GQVM4WUpRYmpuMTdsVGdqWk5XVDNoMnA2bVJFbFVjYmx2dWxVZ2l5VU1FREFKeXJjYnVuVXFEWmRkX0d1Z1JNMWdBOFRFRVp2SXNNc2dKVUVZMFhGaTJwZTJ1VGdGRUI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-chamber-honors-2-kc-leaders-with-2026-2026-08-04",
-      "headline": "KC Chamber honors 2 KC leaders with 2026 Athena Awards - The Business Journals",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkdIRVRjX0ZsZW5GM0VJRXBwT1o5R1RhZEU0Y0lEUTI5TTlrU3VGak9lRmw1LUdMOXJuZUVMR3Z6ZFpVZl8tbzB0amx1ZVRWdE83R1lqNlpjSXVfRUo3aDVPa1FwSENGeUkySnMyMkJhSDhaS2ZhdFV6UVQyVXQ4QXN3U1pmNXk0SEFkVjlhQk5JZw?oc=5\" target=\"_blank\"&gt;KC ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkdIRVRjX0ZsZW5GM0VJRXBwT1o5R1RhZEU0Y0lEUTI5TTlrU3VGak9lRmw1LUdMOXJuZUVMR3Z6ZFpVZl8tbzB0amx1ZVRWdE83R1lqNlpjSXVfRUo3aDVPa1FwSENGeUkySnMyMkJhSDhaS2ZhdFV6UVQyVXQ4QXN3U1pmNXk0SEFkVjlhQk5JZw?oc=5",
       "featured": false,
       "draft": true
     }
