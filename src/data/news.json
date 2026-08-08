@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-08T04:10:22.160Z",
+  "lastUpdated": "2026-08-08T06:52:26.791Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-pledges-to-defend-infantino-after-w-2026-08-05",
+      "headline": "FIFA pledges to defend Infantino after World Cup rights plan collapses - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2FFVkpyOXg5dlBlMGJuV2YweTVZQzJfYnpuMThlTWowaVpWUU8xdDZyaXhsU194WGxBZlNfaWE0VU9aNDJKZ2dLMlc5WWhHM3dUVmlJZUsxelNMeXgyZ1B6aWY1b3VScGhxQmtOMy1jZUFyRlFTc0liTjRhSTJGbVp1RFJ3eUZfWXNpSEV2SENoeG50ZDNWaWF2T1RCYmxzRDFzYTJWdks",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ2FFVkpyOXg5dlBlMGJuV2YweTVZQzJfYnpuMThlTWowaVpWUU8xdDZyaXhsU194WGxBZlNfaWE0VU9aNDJKZ2dLMlc5WWhHM3dUVmlJZUsxelNMeXgyZ1B6aWY1b3VScGhxQmtOMy1jZUFyRlFTc0liTjRhSTJGbVp1RFJ3eUZfWXNpSEV2SENoeG50ZDNWaWF2T1RCYmxzRDFzYTJWdksxazhxa1BZ0gG3AUFVX3lxTFA1UnNscUFfSnlUMm85SWNlZmxXZGx3Ui1QTjF3YlVJeVBjc2FXeGU1MXdxeE51R3hNb2pyWUdxcmdPVGxoQ3ZZUHVuVDUtdkZWaTVMaHZKNVNsT3pkb0tjekZTb1hnNGRqS3kzenJhNW1TRWRGVTFncUZWR0lqTUg4cUxGYm12OXFSOEhDMmlPaEJubkZFNDc2bERkSTkxbzFzUl9vLTQwT3NvM2xfZTFkRWVSNnNjWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-embattled-fifa-boss-gianni-infantino-lin-2026-08-08",
+      "headline": "Embattled FIFA boss Gianni Infantino linked to alleged paid-off mistress as pressure to resign grows - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkNST28wS1ByV3E5ZzRvdHVJTEtYWjl5V2kyTG1HRUhhaXNFQUVkeUMyaUJUcWJiWGNxbzFiUXh3YlBYRnpkdUJHQ1RBNzdyNlppSDFreUExaW5CRjJyZ2FOZDRYdE5DeExabW1ZT2xYbF9acjlwS2s5bUxWMjFtVFV2T2o3dWNDTGNhc3l6UW9iQV9oVkxzTVU5MTZwT2ZDYmc?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkNST28wS1ByV3E5ZzRvdHVJTEtYWjl5V2kyTG1HRUhhaXNFQUVkeUMyaUJUcWJiWGNxbzFiUXh3YlBYRnpkdUJHQ1RBNzdyNlppSDFreUExaW5CRjJyZ2FOZDRYdE5DeExabW1ZT2xYbF9acjlwS2s5bUxWMjFtVFV2T2o3dWNDTGNhc3l6UW9iQV9oVkxzTVU5MTZwT2ZDYmc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-a-look-at-l-a-metro-s-success-and-challe-2026-08-07",
       "headline": "A look at L.A. Metro’s success and challenges during the 2026 FIFA World Cup - CBS News",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-22",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVNzdHZUblNUMlZwOWd0U1JBY2pQQy15NTBXQkJIT3FYTW9sZFd4aGdfZUQ2WUlBMl9HSFVZSzdhamlGdnJqRlZtU1ZrU0JoMUVyb2JBcTQ2UUVMRi1rTXBSb1EwaTFrMXJiNXhQZzZEWGd6TVdubmFDb0U1N3I4TzlxcFNXX1ZtRWtrOU1pcmxYd9IBkgFBVV95cUxNb0hZZ1doRjhmMF9wQk16S19uQVhpMUNmZUhTaEV4UnduaGQ0YkFlUmdjeU1wOUplMVdwbm9EUkg4YXNZNmItMTRfeDFRbzVzZ1JDVGNPdEM2RFZvUzhmRllIM0lNcTlNTXItUVgxYWh5VEFjcFZnTnREeEozVFVJei1HdzRraTRRWVE2OThaejJRQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ferr-n-torres-on-world-cup-winning-goal--2026-08-04",
-      "headline": "Ferrán Torres on World Cup-winning goal: ‘It was the best moment in my life’ - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9IOF9SUm9mbFZ0RTBvaVJUcmZ0Ui1RTDJzUHRzNjFqZ3hyRWV3bC1ja2VwejF4ZkpFeV8xak5KejJtZmVnNVBnMVNCLThWTlRiemgyZUYxcTE3aWdxX3RvaFNITTVzSFhEb2w0dmpNRm9hX3ZiVTZackR1enU?oc=5\" target=\"_blank\"&gt;Ferrán Torres on World Cup-winning",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IOF9SUm9mbFZ0RTBvaVJUcmZ0Ui1RTDJzUHRzNjFqZ3hyRWV3bC1ja2VwejF4ZkpFeV8xak5KejJtZmVnNVBnMVNCLThWTlRiemgyZUYxcTE3aWdxX3RvaFNITTVzSFhEb2w0dmpNRm9hX3ZiVTZackR1enU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-cities-chasing-fifa-over-millions-of-2026-08-04",
-      "headline": "U.S. cities chasing FIFA over millions of dollars owed after hosting World Cup games - nytimes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5\" target=\"_blank\"&gt;U.S. c",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5",
       "featured": false,
       "draft": true
     }
