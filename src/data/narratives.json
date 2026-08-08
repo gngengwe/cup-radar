@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-08T15:28:57.024Z",
+  "lastUpdated": "2026-08-08T18:36:21.179Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 321,
+      "chapterCount": 323,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2586,6 +2586,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSG9GNDBtZ21lV3l4eHg4ZEZFTkd1bktkLVVzakRPc3A0RjdjRXdsTmNRUW9RdjJqMEM4YWgxSHI2SUFfRWNuMlhFZEdpaWo3aWFERVVGUmM3WmNOdkxRZEhFLWo2TV9RR3RkcDkwSkpMb0FmaWx2aTVMX2dRLVlXOFptWlBDU1pOdjBiUlNQLUYzOS1rTWpiVFVhazhqOEMxbTlpcnR3NklxYlI0UkhLd2pMaWVPREFOa2tod01NSGUtdHl4RkFkWE1YWEU1eV9UaGlER1BMa3E3OTZqVU44WVlhLUJiQkEwOG5td3lBd0N3dF9jbkHSAfsBQVVfeXFMTlg5NzJfSXM5ZXQ1eE12b2NJUFU4czZMWlFEMUhvYjlYdFdidkRla2JRQmczVGRsVTE3cHJVSnBsQ2VlV3NJWnFLV2t6a0VXbmhZam85WGl3NUxmWFdjcVJTME1xZmd6YXpkTExDeTVWa3psa08tcmtvRy1FcW5DUlZnbnhpS1lxdzFXRzFxQy1RYWtJTGtOeGxxenpORVZvLVF6eHRqejg3SnVKbHIwX0xzckhJQk41X0hyU1Z4NVZQSGFDb3NKcWQzNDJsbUh0QWI2TGtSZFl5WmpQUlZ5R3Z3am5yeEYwbDk1aDNaeHdiWHdaakZyX0dGOE0?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786214178734",
+          "date": "2026-08-08",
+          "title": "Jorge Messi, father and agent of Argentina great, dies aged 68 - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFhOTDlJSmZsMHNqNHNWNHRZbWVpSUp3aXppQ3Y3OG55Z2JkT1pSXzF2aVQ0YUJNX0JqSkhCODNSdGxOVTUwX3R1NEhscUtKWTc0YlpNTldvZzd0M2hXRU43N1hsNTBXeTRoNlhxNXJwT1JjSHA1UG9yX2J5MDZCZjJHR1lhcjVUS19OUEtva2thRzBRQWhLRXNacXJ3LTZkV3A3NF9Hc0YzdHczelpyeENubw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786214178735",
+          "date": "2026-08-08",
+          "title": "Jorge Messi, Lionel Messi’s father and longtime agent, dies at 68 - Sun Sentinel",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHAtdFRhNW1zeWhOdUNlWHpJNVdna25wLXdkMGthSkxONHg5WlhtVWF3UjhnRFN3Y3U1RC14bXNIbHhES1ZfcElmOGJsWlVVNDAxZlE4dHRNTnptbjFXQXdqUk9fRnZaWFRsMEZWbV9sMUlLdElZVDBuSDJOTVhiUlhUODBlT3BwMjB3X1JzbU1fRlVWOEMxbEFwMUhINDhrQTlEbGRB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -2604,7 +2620,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 302,
+      "chapterCount": 303,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5020,6 +5036,14 @@
           "title": "FIFA president Gianni Infantino hails 'incredible' Kylian Mbappe after stunning World Cup 2026 campaign - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1hDWHN1alZPM0VvNmpzaTJzek1jcS1lc04ydmR3aTZRczZOeTNOaXhmOEEwd3V2bWpmeDY2blRIMUtIWmFsTlEyWFVma2d6a3R6WlNoYVU2b0I5VXNjTFBMMUpJVHEtZXhnZWhQbUUyM25Mb1VBUWJqaC1VbDNqRl9vLTVKN0pKeGQ0YkhHNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1786214179365",
+          "date": "2026-08-08",
+          "title": "Why Is Kylian Mbappe Not Playing Today for Real Madrid vs. Ferencvárosi? - Athlon Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEZ4M1prcXB2NGhEQ1ZVcGpqOTYxa29vcmtMMWNXbGpoVkxQZ2Q2eUE2OW9RMWlCNHZHa0hWSWo0aG5rUDBXQmNTVTM4cFBibHZJOWdIVTAyVDBJVmhweEphM3VTNUJvM3JqZGgzR3hLWmZNelVMTHQxdlM4TU5VX3l4OHVMZDFrOU5TVzZSSXNUNDg?oc=5",
           "draft": true
         }
       ]
@@ -10258,7 +10282,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 483,
+      "chapterCount": 484,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14122,6 +14146,14 @@
           "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSl9uZDRuR3VlcVhtekZFTHMtTG5XTGw1cXRfazVYaUlRQ00yeGhTX05jd1lMUW9OOW5Zc1dCb1Y2WHY2eVlyanFVR2RqcWwzY244UWJuQ2NhQWJSNXY4UTBsWHMyVWJ3aTFETWI5ci1vWTRzX2pWaGtydXQ0dFJwT2dwM0lyUjlpQ2IydTZvOHcwdlI5MWhaSEtYX0cyX0t5SXVIWmRBM0J3QdIBrwFBVV95cUxNZ05fcE81dk5rc3BJUkQ3Z2NsVjZyVHloSXNMb2VUU3ppNjlsQWV3SXdiZnpyS3NLUV95Yng4RG1JUzFUMW51a0NBTDY3UkktYkVYbFVIaUdaLWlEWGI0NnBmbHNsemhWN2EtZzhKQktUNGZkS0ZsLTdiM2dsVkhMbVBXUktsRGNyY0xXSnM5TW9Td292ZU14MFB6TnRrNEZOdHVfUmhLUW04ZEJJNC1N?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786214180757",
+          "date": "2026-08-08",
+          "title": "Bremer wants to play for Brazil at the 2030 World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnRqMjhrdXdDbHc1elBVT0pYb21oY1prajJHS2ljUUtsUnB0T1pXQkliaGhzZUxkeXlseF9YS0tJdXVpb0tkR2NLNHZjYkJxeERDeW1DalJOLWw5aUFWRDh5SE1KazloNndmYWw2SDlWejY5ejV6VVdUd3ZSREEtWFdEMDE?oc=5",
           "draft": true
         }
       ]
