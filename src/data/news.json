@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-08T12:46:43.225Z",
+  "lastUpdated": "2026-08-08T15:28:54.513Z",
   "articles": [
+    {
+      "id": "news-auto-us-police-uncover-chilling-plot-to-assas-2026-08-08",
+      "headline": "US Police uncover chilling plot to assassinate Messi at the 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1pSZVBIQThFdENTYUh2TnBTVTh2Y1F4SC1CYm05Ni1PN3k5cWYyMG9hMFVkYXVucUdLV3lxaloxS2hkUlRGd09SdDVNMDRxTkVXZGs2Z3lHOW9nU1ZPbE9SdVpqQ0pMd2RqREdMT0JjdVM1TUQ0bmlhSS12WGpUMUVIcmFxU04tUlBXNVA5TmpGUzVsX0VGa2xiWmx1eHR1NWc0RUV4THN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-08",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1pSZVBIQThFdENTYUh2TnBTVTh2Y1F4SC1CYm05Ni1PN3k5cWYyMG9hMFVkYXVucUdLV3lxaloxS2hkUlRGd09SdDVNMDRxTkVXZGs2Z3lHOW9nU1ZPbE9SdVpqQ0pMd2RqREdMT0JjdVM1TUQ0bmlhSS12WGpUMUVIcmFxU04tUlBXNVA5TmpGUzVsX0VGa2xiWmx1eHR1NWc0RUV4THN2bHZRQmktd0tBOXVKSjhPTDJBemF6RU1JVWNJa2xETzhZb3kwU0RE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-and-mexico-join-africa-in-back-2026-08-07",
+      "headline": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-07",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJHSE43allxQ3RFSklaZ9IBuwFBVV95cUxPODZWYzZZY1N0SXo4cTVNTlVQUExFempXNGtLMEpKcXJ6SnJfeUNnMlRRUUsxNUdXYUEyV2hwdnNiY2FHMllha09CR1lDbnpoR0FFcUhSZ2h4RXVaR24xOC14NVZfZjNLaTFUMEd0VlRlelB2YWhCeVhER0lvelV2blhXZzgyU2YtTXJLVE1mUDk0ZUlheEtQZEVxNjBXNkwxWWVQNjJ4UldDeEREQ0FuUnNET0pzUGJWdVpN?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-altcap-your-biz-put-one-of-world-cup-2026-08-08",
       "headline": "How AltCap Your Biz put one of World Cup’s biggest KC small biz winners in the driver’s seat - Startland News",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FqM1VaVmpwTXlIdTJiNndlRTNGVHljQ3I3N1I5VzRFSUtYeklQOE45ZFhVNU5uUEhaZFdjM1g1djdCV0dDTWpWMTV6Zl96bmJBbGRvZDRtT2dOS2RHV1haQkoteHg2X0V6OUVkYmNPMWVpR2R6dUp2TGUwRml1WFZnckdycjlJNXNfYVVSZV81NTFYakFFdlliWS1IVXpqLWJzbWFZU2VwdkpsWWR3SEdB0gG3AUFVX3lxTE5kUXhUei1WMC1tQ09OZWIwQzhDTFZQY05lVnE2Z0VjcVNfaXo0MHhVMHMxMkdDd1FOYzdndXRFMk1BZXpid29MSk5NTGVwdk5WTzJ5dWhhYU1oUlViRDJUS0JGbmgwTWYtRGpMMHJESnhudk9ham5TSjgydURRM2E3TE5XZWpaOHl6WXZsUEQydGNXLVBGT3kzX2pJdDloRVRuQXdPZVoxczRlRC1Gcl9jcF90T2ZrTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-us-world-cup-host-cities-seek-millions-i-2026-08-04",
-      "headline": "US World Cup host cities seek millions in unpaid FIFA funding: report - Yahoo Sports UK",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5LR0tXVXNHa3B0c3FCckw2RkNrMEY3d0Z0dWN3eWx6WktBTXJZdXNhdUlMNF9zWG9ja3ZMYW1TZk1GNkRZS00wYmFSZ01HLXlHY0hINjBhWnJMOFNTT093b3h3UV9Pa2c3cGdMeDNWZlZDY2lvTjVMLTVSdTk?oc=5\" target=\"_blank\"&gt;US World Cup host cities seek mill",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LR0tXVXNHa3B0c3FCckw2RkNrMEY3d0Z0dWN3eWx6WktBTXJZdXNhdUlMNF9zWG9ja3ZMYW1TZk1GNkRZS00wYmFSZ01HLXlHY0hINjBhWnJMOFNTT093b3h3UV9Pa2c3cGdMeDNWZlZDY2lvTjVMLTVSdTk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-eado-resident-says-neighborhood-greenspa-2026-08-04",
-      "headline": "EaDo resident says neighborhood greenspace was ruined by FIFA World Cup - Chron",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXZRRndqbFp2dGNaRzBhVGhWc0pyMk05YVpkSURzaEhjQlc0M3EyMDhiWEFMaG1wbnIxLVBhNmtRenJDbkdNY01DVm8xc1MwZ0h6ZFhoallUZTZXZXY5Mm91LWU4cmdQTUF1RVVQd3M2LWFMTVdDdFpJWWJjT3dxb1k2ZlBPcV9w?oc=5\" target=\"_blank\"&gt;EaDo resident say",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXZRRndqbFp2dGNaRzBhVGhWc0pyMk05YVpkSURzaEhjQlc0M3EyMDhiWEFMaG1wbnIxLVBhNmtRenJDbkdNY01DVm8xc1MwZ0h6ZFhoallUZTZXZXY5Mm91LWU4cmdQTUF1RVVQd3M2LWFMTVdDdFpJWWJjT3dxb1k2ZlBPcV9w?oc=5",
       "featured": false,
       "draft": true
     }
