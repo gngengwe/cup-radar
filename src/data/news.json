@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-07T21:38:26.861Z",
+  "lastUpdated": "2026-08-08T01:37:54.250Z",
   "articles": [
+    {
+      "id": "news-auto-how-to-fix-fifa-what-can-be-done-to-salv-2026-08-06",
+      "headline": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body? - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3RDbEFBUUJuMkR5VTRxb1R4QUYtakxDUm1jZ1dGWHNOZExEQTJibVRqMlpVcUgyZFlyeDYzSmpIdGh1dmlNNTVkR2tScmZ2cVBRSG1GWVZCOUtnWkxzSkkyTDlrQmdmcXgtVEE5Uy15eThCV2pfQnVfaHVWV0RLeE9fWUVOT0gwN3lVcTdicFM0Z19PSFE?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-06",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3RDbEFBUUJuMkR5VTRxb1R4QUYtakxDUm1jZ1dGWHNOZExEQTJibVRqMlpVcUgyZFlyeDYzSmpIdGh1dmlNNTVkR2tScmZ2cVBRSG1GWVZCOUtnWkxzSkkyTDlrQmdmcXgtVEE5Uy15eThCV2pfQnVfaHVWV0RLeE9fWUVOT0gwN3lVcTdicFM0Z19PSFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
+      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
+      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Chiefs Wire",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0VMaGV1VXZHSzJUTlNZLVR4ekRwc1JydGtHSWNnOXRzNVNZQURXQkd6azlJU1ZyMDN5VTRrQnN6eG9zeVZPRzNTM1IySHllRlR2WkdPX0xxVjRoZ1BpTXgtM0hrZDhVWW1Ca2M0V2ZBSTlYMWNzZXZDRHJQUE1ZbTNUSTZIa29OUjM3UDRvVTRza3k5MnRPWUViSW5KTVVqamtXMDRVOGlTYTRTN0hIVWhPT0t2SU1JTDZuaWJlV29JUjRiYl9FTXJpOXpSbzdVeDJtUHJUd3RER00?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-infantino-s-world-cup-sell-off-debacle-h-2026-08-07",
       "headline": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots - The Guardian",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-04",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkdIRVRjX0ZsZW5GM0VJRXBwT1o5R1RhZEU0Y0lEUTI5TTlrU3VGak9lRmw1LUdMOXJuZUVMR3Z6ZFpVZl8tbzB0amx1ZVRWdE83R1lqNlpjSXVfRUo3aDVPa1FwSENGeUkySnMyMkJhSDhaS2ZhdFV6UVQyVXQ4QXN3U1pmNXk0SEFkVjlhQk5JZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-battle-lines-drawn-as-infantino-fights-t-2026-08-04",
-      "headline": "Battle lines drawn as Infantino fights to hold onto power after FIFA stake sale fiasco - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1h",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1hIWlM1WS13N0xZSXhYb2xYRG01NEZHUlpPcHU5REpOM1ln?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-july-13-19-2-2026-07-13",
-      "headline": "Sporting KC Weekly Schedule: July 13-19, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXFQb0FmM01oa1JCbzFpZTJKYkNWUFBjVWN2eUFXd0tTbEczZGtFWnk5bTNXRDRIR1pXMTVWTVBScnFDdGNRNk1TbWdDWDFNbzJEU3JZRW5CeFkzM2lQaktyM3l6TU5mU0FJX053aFJhbGpSUE5GWWlDXzhDcHhJRUtzaHI1Ymk5?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-13",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXFQb0FmM01oa1JCbzFpZTJKYkNWUFBjVWN2eUFXd0tTbEczZGtFWnk5bTNXRDRIR1pXMTVWTVBScnFDdGNRNk1TbWdDWDFNbzJEU3JZRW5CeFkzM2lQaktyM3l6TU5mU0FJX053aFJhbGpSUE5GWWlDXzhDcHhJRUtzaHI1Ymk5?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-possible-successors-for-embattled-fifa-p-2026-08-03",
-      "headline": "Possible successors for embattled FIFA President Infantino - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNckpobEJFNGVBT1FlaWVxcDBKOVo5OWFINUs5VHV0S1RCV05IcjNyNmJUa3dUcGhadzdHRXVRWE1INlVQRXVtUXhSUGFPVksxTFYwUDUtdUt0cWJUeEE3cDRBX0hxM1c4d0xJb2dYWlVGSlNOUl93TGx4TXloNnFva1MxaVdmbnhleFpaV1hJNjhOeUNyWHpCSVYyai01NkllTEIzY0dFWQ?",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-03",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckpobEJFNGVBT1FlaWVxcDBKOVo5OWFINUs5VHV0S1RCV05IcjNyNmJUa3dUcGhadzdHRXVRWE1INlVQRXVtUXhSUGFPVksxTFYwUDUtdUt0cWJUeEE3cDRBX0hxM1c4d0xJb2dYWlVGSlNOUl93TGx4TXloNnFva1MxaVdmbnhleFpaV1hJNjhOeUNyWHpCSVYyai01NkllTEIzY0dFWQ?oc=5",
       "featured": false,
       "draft": true
     }

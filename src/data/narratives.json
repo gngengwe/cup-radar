@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-07T21:38:29.490Z",
+  "lastUpdated": "2026-08-08T01:37:56.607Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 315,
+      "chapterCount": 316,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2537,6 +2537,14 @@
           "title": "Will Messi retire from Argentina? FA president says it's up to Inter Miami star - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDNIcmN2aDBnRktQd3hQOVVTQUVPc2tZRER6VzJyajZfeEs2Wi1wbklHUjB5LXZjS0l0UWZEcTlUSnJsME41bmdIVkIwS2JyeWNtT2EzWXM4SDZaekJyUWloNkljMHpjRTBWT19KNjk5ZTZIbEtjVFI2dkk4NDV3Rm43T3ZSa2RQOUE1ZUdQMU9WYlJGblJvWmI0TkdOSDVEelo1VldxMmNNWVBiTTBwVGtHR1F6Qnc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786153074731",
+          "date": "2026-08-08",
+          "title": "Argentine football prez: Lionel Messi alone will decide when to retire - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVpwZWlRZUhnMGxkckc4dUExaHl2S2JLMmRST0MycjVWd3VxLXlhRTZjTDM3MXJvaXVNNktFZHczUldDWks3UzM0Z3hDREk4eGp6YTNrQ1lrMFlnQXpVckxPakVVZlRrSjY3eDd1Zl9icDJFTlFYZjBTN0RVQWZHSlFOejZRZ2dMekhPT1A4SWVlaThabGN0TmlUTzVCVk9JYUwtU0NfYWQ0am9EbzcxTDdlQUU2cXhZQjkyWHd3?oc=5",
           "draft": true
         }
       ]
@@ -10202,7 +10210,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 480,
+      "chapterCount": 482,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14042,6 +14050,22 @@
           "title": "2026 World Cup Round Of 16 Results - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QWs1QkxTc2ctdUZhWHVCWVZEd09pWFd0eUhUN29wMUZSU3hoaU13c1V3X3VjZ2VIcXk5X0hKMzhGZlU2RWQxLWlNc0diN2cxYUJQNzVDd0dtNF9uNC1NR2lHMlZOM3FBUXB6ekV0ak1rUGdBejFPQdIBeEFVX3lxTE44Qy1YT2NsakpwWUoyU2RqRzg5UUoyOExITDR1M3dRaDVZNHg3NW5qWURTbGVmdVNhZDg1MW9WU3VRWUZDa2NVU3JvdmFYMGFfekV2dWZmV0dhbXVudVRjZEYtZ203VjEwLVRTcFVZLW1YOFJ6anJoMw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786153076099",
+          "date": "2026-08-08",
+          "title": "Bayern Munich’s Maycon Cardozo targets dream 2030 World Cup appearance for Brazil - Bavarian Football Works",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmxPT2M1MVZsQ0pzTlhNV1REQ0JSb1RhUldmS1JUamllVEVEV1g0NXVIQzRLRHZCRGdiMVdpWTF0Q0xuSlBNQnNWMUtpaHhTdmxJTXFzaVllbzlJSlFSY2J2enF1QjNjT01UcGR3cEVNQzkxT1NVMzVJVU1ROHJ3blM4SE10dk1nOTI3SXo1YThjSVQyY3FtS293aHZhQXY5UXFVXzdheWJhX2k5SGsxbTBfb2FYdll2LXh2QmtBYWJNTWVrLVRzUU11djVLSUhsWmYtRnpRSkNwbGhWOGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786153076099",
+          "date": "2026-08-06",
+          "title": "Alex Morgan says Brazil World Cup will be most competitive yet - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3ZEWHcwMl9weVdWUUhGOUM3RVBLb3NwM1kyOFp6UWtRMWVLODYzYXF2SVlMMGZIbGVRQm9pRV8tVE5mZDZaMzdWb1M3MmVDWGY2LURzYTVkQjYwRnhjUmNvc1BiUmgwQlZoRlp5MkMzMGlqekZvQlZCZWxwME00ajZyV1NEY1NqMXZkZGwzTmxVS3pWeHRFX0txMnZScHl5SHpabFAtMnZCN2s?oc=5",
           "draft": true
         }
       ]
