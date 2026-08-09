@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-09T12:49:08.055Z",
+  "lastUpdated": "2026-08-09T15:31:14.287Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-morocco-algeria-reach-wafcon-semifinals--2026-08-09",
       "headline": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - Al Jazeera",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-17",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-gianni-infantino-holds-crisis-meeting-in-2026-08-05",
-      "headline": "Gianni Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcE9USW1WZ00yVG5SWnlzM1VkR3hnZmFSNWFEblB6OGRseWwyZmdOblREMDFkSG1MNjd1N0JLbVhXWmdRWWZCbHkxbVpUVlBvM3N6eFZQS2Z5a0lUVXQ2b1NBRU9iSGsxTzF2cUZtZUROYmo4RlQySkhSTk96Z0xQU1hManhFa0J5Qm9OS1p4SWF5ODhkM1pwU3R6cmZXY3djZ3dxOVd4Qmd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcE9USW1WZ00yVG5SWnlzM1VkR3hnZmFSNWFEblB6OGRseWwyZmdOblREMDFkSG1MNjd1N0JLbVhXWmdRWWZCbHkxbVpUVlBvM3N6eFZQS2Z5a0lUVXQ2b1NBRU9iSGsxTzF2cUZtZUROYmo4RlQySkhSTk96Z0xQU1hManhFa0J5Qm9OS1p4SWF5ODhkM1pwU3R6cmZXY3djZ3dxOVd4QmdvYzZsWGdYWnphVUxwdUVo?oc=5",
       "featured": false,
       "draft": true
     }
