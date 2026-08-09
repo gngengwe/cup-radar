@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-09T06:55:32.313Z",
+  "lastUpdated": "2026-08-09T09:38:30.504Z",
   "articles": [
+    {
+      "id": "news-auto--lionel-messi-bomb-threat-chilling-fifa--2026-08-08",
+      "headline": "'Lionel Messi Bomb Threat': Chilling FIFA World Cup Terror Plot Revealed, Cristiano Ronaldo Also Targeted - Republic World",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPei1DV3R0TUpuRDhlRm9lTFBieTlNYzhSU05Pbkh5RGVCOElQV2R4U0tMcTV3aDdYUmpGb1ZZanFvcnFwZThUM1R2Ujl2ZDkzU3BaanEwSUVNaDRTR1VOanFnelVSRTFCalpnOXlRSDFaMjh4Vkh1TkVyemFaVkxJUnNHU1ZyTXZyU2h6VlM2VWo1aE5ZYVh6ci00dUYxR25BUDJLYm5zVll",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-08",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPei1DV3R0TUpuRDhlRm9lTFBieTlNYzhSU05Pbkh5RGVCOElQV2R4U0tMcTV3aDdYUmpGb1ZZanFvcnFwZThUM1R2Ujl2ZDkzU3BaanEwSUVNaDRTR1VOanFnelVSRTFCalpnOXlRSDFaMjh4Vkh1TkVyemFaVkxJUnNHU1ZyTXZyU2h6VlM2VWo1aE5ZYVh6ci00dUYxR25BUDJLYm5zVlluUXljMG1ralRuaTdTUjdzQzg5eG1TcXJ4Q0I1eW0ta0d2YXpyNTdVNHN0QW1ZMkxBS0pFMW5XMXp6QVY4U2g1Sjg2bG5mamNnWTBFTjZVX9IB_gFBVV95cUxPZkJlY3NJYzRiZ1NsT08wOXdTNUtDZGNkNnFUNFFMQmNKRnpGeE5uZGVYOHpQVkdVaXEyQUUzR1pacDBTSGdkLUhYbnZhLVByRW9wRExQWGN6NzZDLWlGVlRJaFdqVEJqc3ZrbzhubU9SODVVajY3S1FnSmQ5YmtmZWlEQmNrMFc0SGUwLTZ3ZmloaFRhZEJ1bTZYWFFjb1NXNFkzMUpMckt6WkdDQTZSZFJmbmRfSWFXLXhpUXlIYTVfWlNReGdfR3dfY3gtZUhKNVpaZjM1SEFLR3FoSjBVUjZZR09pZ1pTUUcyX29VSlBlQ2FQRkVxSTFpVS1Zdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-america-s-greatest-stadiums-were-tra-2026-08-07",
       "headline": "How America's greatest stadiums were transformed for World Cup - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRE5nZnJBeDl5MUlKVEN3UG00ajdYQ3VrbndMUjRMSjkzXzA0dV9NTnpReEx1NTBzQWh0UWJxWTVkN1Ztc2I3LUl2R1ZHdEhWazNja2lvZGZwQTNIZ1FmSXVQaE9OVkY1dm9HdkV2UWp1dnM4dmdtUHdZTnhjY2ozVW1EbTZ3Rkl2RkNISlNSZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-loved-the-world-cup-here-s-your-guide-to-2026-08-05",
-      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27 - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F0bWt5ZEZGcWlQUmQ3cndzY3ExdldlajUwVWpMbjNuaVVSOGRIWnF5QWw0dFRNbUZTZlRqcWo4?oc=5",
       "featured": false,
       "draft": true
     }
