@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-09T01:42:48.020Z",
+  "lastUpdated": "2026-08-09T06:55:32.313Z",
   "articles": [
+    {
+      "id": "news-auto-how-america-s-greatest-stadiums-were-tra-2026-08-07",
+      "headline": "How America's greatest stadiums were transformed for World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5\" target=\"_blank\"&",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-07",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-surprise-over-algeria-s-world-cup-welcom-2026-07-24",
+      "headline": "Surprise over Algeria's World Cup welcome shows how media misunderstand Kansas and Lawrence - Kansas Reflector",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFQ0SEN4bDM2YWRJUEVnZTd1dkctZEluSy1WMXlfbnVHQmlIemtGZk5DVktnU1Boci1nVWJzVjFGelZlNjdPeHJHSzhMV1Z0V1ZsZzAwN0M3OWFEZjR0WURJclB4WmdtSC01cXZLVnFTZWF0eWM3czlpTlB2Tl84WFNQc0pwQnVnUUhrS3JWUUR6R052cUc2V3ZqRk5UN3JPTVNsU2ZIeHJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFQ0SEN4bDM2YWRJUEVnZTd1dkctZEluSy1WMXlfbnVHQmlIemtGZk5DVktnU1Boci1nVWJzVjFGelZlNjdPeHJHSzhMV1Z0V1ZsZzAwN0M3OWFEZjR0WURJclB4WmdtSC01cXZLVnFTZWF0eWM3czlpTlB2Tl84WFNQc0pwQnVnUUhrS3JWUUR6R052cUc2V3ZqRk5UN3JPTVNsU2ZIeHJSaWVXU2J3dzM4M1EzSzR3RDZGZ1paWUhhUWViUGl3d2dR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
+      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lionel-messi-was-the-target-of-chilling--2026-08-08",
       "headline": "Lionel Messi Was The Target Of Chilling World Cup Death Threats - Yahoo Sports",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F0bWt5ZEZGcWlQUmQ3cndzY3ExdldlajUwVWpMbjNuaVVSOGRIWnF5QWw0dFRNbUZTZlRqcWo4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-akme-boots-rm-wore-at-the-2026-world-2026-08-05",
-      "headline": "The AKME Boots RM Wore at the 2026 World Cup Finale Show Auctions for Almost $20,000 USD - Hypebeast",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNVUFnOWVoZk92dVBfTFhJYjFlTVY0SF9pZGhpclloV09pYXB1R0d5TW9tOVh2MzVYZDJwbGlYd1BSZjJBM24yNGFpaDg5WmdpY2tCN2NqQnlNZ3k1X2lwUjdQUURlQTNFdEN6QkFSMHRweGlKdkVxMkkyenhCZ3ZFMWhkblZIUlNPeUFGWER0aDZ6bnlvVzRaNG5ZVnEtb2dCNEN4SHJnTk9",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVUFnOWVoZk92dVBfTFhJYjFlTVY0SF9pZGhpclloV09pYXB1R0d5TW9tOVh2MzVYZDJwbGlYd1BSZjJBM24yNGFpaDg5WmdpY2tCN2NqQnlNZ3k1X2lwUjdQUURlQTNFdEN6QkFSMHRweGlKdkVxMkkyenhCZ3ZFMWhkblZIUlNPeUFGWER0aDZ6bnlvVzRaNG5ZVnEtb2dCNEN4SHJnTk9KZWlkUGR3aWdTRDAwRFhFeEMzaFJLRy1mNlJ5RGV6cEt6VFpBY21yV0tLNkpXRU5Wa3lqLVEzdVBMQXF1YnA0Vk9vcE9RR3VJY3ZtQ2ZGMElCQzNlSGRja1JsZ0V6aXA4T3hOVUt2MVltRWRMWFp3bFpDNHJHUDF1a1ZQc1Mxa2VveXdiUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-crisis-jordan-chief-accuses-infanti-2026-08-04",
-      "headline": "FIFA crisis: Jordan chief accuses Infantino of ‘blackmail’ over endorsement - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlhRVnd2YWhnVmFwVXJ3eE81TUkxMGh4UmtWZnVMdWV3T1JsQ2JWQVlKQzlzeXJVRVBBeW5GWV92QTVXVW5rOVZjR3BEdHVCcU41NWZTM2o5TUdqYnJhN0FCdG5tcXI1T29oWWU3NmNvenRWT2RsUGJSZ3A4czBYbUxiWTdJNHFoa1F1RWY3QjVkTThnbEdINkw1QW4ySUpqUkV6d1hHVnp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlhRVnd2YWhnVmFwVXJ3eE81TUkxMGh4UmtWZnVMdWV3T1JsQ2JWQVlKQzlzeXJVRVBBeW5GWV92QTVXVW5rOVZjR3BEdHVCcU41NWZTM2o5TUdqYnJhN0FCdG5tcXI1T29oWWU3NmNvenRWT2RsUGJSZ3A4czBYbUxiWTdJNHFoa1F1RWY3QjVkTThnbEdINkw1QW4ySUpqUkV6d1hHVnpWZ2x3dTRDUNIBtgFBVV95cUxQWldPNTBnQm1iaTJsMndTenJuZnpPUjV3SlI1TmFib0w2ZTU0RkhmM2M2T1VZZ015Nld0Vm8zVkR3Q0Q3YTJZdTJZN2ZuN0ZTcHItTXAtMGtMcWRJeTBVNkUyc2VLdDROOGhIeHNyYUk3ZjZ6MWtKRHoxd1R6a1hvZ3ZaT0J5bDMxMWNYVFcyUWRKdjZkc0VRSFNLdXNySXdac0w0T25HenhzSjg0N3BiT3lRWEV3dw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
-      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
       "featured": false,
       "draft": true
     }
