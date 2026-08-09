@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-09T18:39:40.925Z",
+  "lastUpdated": "2026-08-09T21:31:18.385Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 329,
+      "chapterCount": 331,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2649,6 +2649,22 @@
           "title": "US Stopped Multiple Plots to Assassinate Lionel Messi During the 2026 World Cup, Police Report Says - ColombiaOne.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fY0JIQXZFUXdjdVlobEtkZkxXYjdpNFF2dFItay11c00tLWduNTZtMWhGQWNvRlN6TVpoeDIyTG8yOTNqVEQyYzRrQ2VYaUh5SlBYVXVhTTNhNE1kTVJWQmdjX25aT00?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786311076334",
+          "date": "2026-08-09",
+          "title": "Argentina Messi - Idaho State Journal",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXFpRUpNblM0UTIyNWYyOGxuSjlsMUFHRGRBWm9yVVBUYjZpX185T3Jac19EUkVVU0RhSFpKUEVhODhkSjB4QW85dFFEUUk5YXdEcktPSGlzdnM5aUNOdGt0VmdEVDlUUmc4QXg4TzF5V3F2eEV0WFU0cnVQVFRVWEo3bXJEeUpIR1BndElNcmRlTVVlRHIyTzBhRFk4d3AtX0JYUkg2QTd2Rl92UWFCcEdTQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786311076335",
+          "date": "2026-08-09",
+          "title": "Argentina Messi - The Herald Journal",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYm54RXk0UTU4SnA3U1NLcTRpSFoxUENhM0FRZWM2WGE0NDNFaEhYdTdDUERpNEt6dmNEcWNnLTVIcEV1RUwtTFNzWDNUWVdGRjRCMktJRFhvcVc0blBLeFp5bC1KY0ZMeXlGUzdxZnAxM0x6TXVaSWtld2QzeXBaeHhGR3Q3djUydTV4d19jcG0ybjlVTmxxaUhHM1dSNGRRZ0E?oc=5",
           "draft": true
         }
       ]

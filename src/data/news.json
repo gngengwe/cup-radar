@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-09T15:31:14.287Z",
+  "lastUpdated": "2026-08-09T21:31:15.889Z",
   "articles": [
+    {
+      "id": "news-auto-the-world-cup-final-lost-by-lionel-messi-2026-08-09",
+      "headline": "The World Cup final lost by Lionel Messi becomes the best defense for Cristiano Ronaldo - MARCA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDBBeGRzelFtVWNaaDdKNW1OQnhJMWlZSzhObjhrMjdxbGZzRnZObDNsczN5RUVScm1yMWhmdi1Nd1RtRDNDRHJpSmlQS2p5M3hCU2g2aFVqVFljR29zdDVQaVJqbXVFMVVXeC14eV95UU8ybExKVUp1UnJBNXZ1TlEzalJPeGdhelA2eGdhNFhOQjcyelFGREhPd25QU1BiVVlDaU00TkV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-09",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDBBeGRzelFtVWNaaDdKNW1OQnhJMWlZSzhObjhrMjdxbGZzRnZObDNsczN5RUVScm1yMWhmdi1Nd1RtRDNDRHJpSmlQS2p5M3hCU2g2aFVqVFljR29zdDVQaVJqbXVFMVVXeC14eV95UU8ybExKVUp1UnJBNXZ1TlEzalJPeGdhelA2eGdhNFhOQjcyelFGREhPd25QU1BiVVlDaU00TkVFeGJsa2U2SmtlQV9yeVNhZVZoOG12VTdiSXFwajJxMzgyVFpsTWJVekdQRVFFaktSMDZNWUN4cHhZNmV5WFRrNlJ1TGhn0gHuAUFVX3lxTE9PQ3VQQy15ZlNhOFAtNjFTVGVJSER6cWM5UW1oYk94T2FJVGo5aGJidlNZcmxiaE9VNUJPY2dCN1llV1BzYjNaSkg1M0drcEVtNXZCZXpOTFNpQzQ5LUthajF2WXZVQzNKamdvbE9YbGh0VGlWQVNnZzdkenRQcU9QeDZ3TzJ3OGZ2YUw1MmxKQ1FUcV80c1ljb20tTFZ0cGhCZXZtTGEtWGxtcVNyaDNCV0FUd0pZcFR5LXQ2Y1hlV283TnRtNGFXeHZKbWxINW1lZkJLcmFpUGktZ3l5VTNQSmhmQUNoTHJZOW80T3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
       "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-19",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
       "featured": false,
       "draft": true
     }
