@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-10T10:15:49.278Z",
+  "lastUpdated": "2026-08-10T13:06:32.928Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 332,
+      "chapterCount": 333,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2673,6 +2673,14 @@
           "title": "Lionel Messi Attends Father's Funeral During League Cup Tournament - 95.7 WDAE",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHlfQl9zMzNsSXFwejZGTzdKRmkwWks3Y19iZHNqM2RGaWUwbHRVT3hxY0hCcHdEYXQ2cW5LWFV4aHF4SjlDVVhsUmpicldMNVI0dTBCX3JRMTlMVUtjbUxuaC1iZmRnTGhTUTdYOHVWR19rVlM1UzAtR3JGTWdhdE1OTnZuNEdyUnhzWGhFUUVIeXpfUnJXWGs2cmQ1eVlzSkJCNE5zbUs2NjdOdHlncEhR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786367190927",
+          "date": "2026-08-10",
+          "title": "Lionel Messi Attends Father's Funeral During League Cup Tournament - Newsradio WFLA Orlando",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRFdCN1ZDMkdjRTAydG1qbERyWWJxWjJHUmdNZ19aMGxBMmw0MXEyUXRfaXBvaFhFYU1VbUVBclhHXzJLWkxWRXQwOC10OEhXVlNudks0WVZ2Sklpb2x3V2VwN05LeVNmX1dIbkhGSi0tTW5OdUtVQzFMdng4MzlSRzYwQVpZSkRWZmI2RDIxa29HN09xV0JKbUd1SmhtdGE0MmZMVWtMN1dGLWJhNmxmT2ZmcVJnUnF3NTMzbF8xSzRJYUV5RVExbm96R0JPNmIwTGowcw?oc=5",
           "draft": true
         }
       ]
