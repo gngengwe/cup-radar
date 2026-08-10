@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-10T01:46:13.022Z",
+  "lastUpdated": "2026-08-10T04:37:28.780Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -10354,7 +10354,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 488,
+      "chapterCount": 490,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14258,6 +14258,22 @@
           "title": "Morocco, Algeria book World Cup 2027 spots with quarterfinal wins at WAFCON - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786336648252",
+          "date": "2026-08-09",
+          "title": "WAFCON 2026: Cameroon shocks Nigeria, Algeria and Malawi qualify for first Women’s World Cup - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWJwelRSY2JUbTh3cmFUUDhQMDExOTNySlNMZDcySWg1Q2prNzZ4dm9LOUFoYjRMejhGMkI2NXcwMzBuZVpQcmJTc3lRdGZTczNCSlpFVmdtWDJJYkQ0cVhYM3NCREFLQmdqRE55ekVaRmlqMktCbEZmLURNemtCd0wzMDZwSzQxSW0tSEVXY2RfajdLN01PNjR1UHI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786336648252",
+          "date": "2026-08-10",
+          "title": "Brazil | ALL GOALS | FIFA World Cup 2026™ Nintendo Direct (5e4T0ulA6t) - Mshale",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02d19DVXR0Zm9jTHlhQlZFMzZqZjZKZ0FwaHpEUVNpNzU4TUsxX1pqQkFheDNkbzRUNzFZWUlxbEZEUjZjWFV0SWJvSlJWdFA4bWpnRVhmcmVKZms?oc=5",
           "draft": true
         }
       ]

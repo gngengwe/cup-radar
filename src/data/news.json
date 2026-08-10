@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-10T01:46:10.446Z",
+  "lastUpdated": "2026-08-10T04:37:26.253Z",
   "articles": [
+    {
+      "id": "news-auto-half-a-month-out-and-england-was-a-world-2026-08-09",
+      "headline": "Half a month out, and England was a World Cup winner after all - The Japan Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNODNHZDNtcVdGSTE5LWwtN3hQQU9LcjVnLTZaUlhMTkZKNWJCbk56OThmdkJ1emsyYlZGbGZoVjMxLXdubzhoeElEX1BjWHZ6M2hoV0dhbmh6Sm1veW9uRjZOUThyUU92SVo2T1dlS1VwRU1KaDVWcU54R2dJZDBpU2JVYXVHcDk0clE?oc=5\" target=\"_blank\"&gt;Half a month o",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-09",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODNHZDNtcVdGSTE5LWwtN3hQQU9LcjVnLTZaUlhMTkZKNWJCbk56OThmdkJ1emsyYlZGbGZoVjMxLXdubzhoeElEX1BjWHZ6M2hoV0dhbmh6Sm1veW9uRjZOUThyUU92SVo2T1dlS1VwRU1KaDVWcU54R2dJZDBpU2JVYXVHcDk0clE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
+      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - facebook.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-morocco-algeria-book-world-cup-2027-spot-2026-08-09",
       "headline": "Morocco, Algeria book World Cup 2027 spots with quarterfinal wins at WAFCON - Al Jazeera",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50V1FaYzZlcm9WUXJBY3BFbDBIVE1jdkF4bkNOSDcyVWgyNE9OdnB1dVdsa2NyUFROcGRqak9OcUYzX3V5RXdwQkpkTGQxNUxodEYxaV9Hck8xcjVKZVItSTQ5cVhqYXNTd1hPazlGY3lsOE9Sc29mY2RR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usmnt-s-first-post-world-cup-opponents-r-2026-08-05",
-      "headline": "USMNT’s First Post-World Cup Opponents—Ranked - Sports Illustrated",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMEt4Z0J6MU5VNlFURTZUQmtZOHVadjYwYnNLUzhvc2dxSEJqUUtNd3d3cFFTWkVZSjNkcEJoYUN3cXpHMzZ4a3hEZ1I3UUJVSE5sQy1qUXJrbmVnY3lRUlE1OHl2T0ZlY3B2cEFXanNPaVljaFYtMQ?oc=5\" target=\"_blank\"&gt;USMNT’s First Post-World Cup Opponents—",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sMEt4Z0J6MU5VNlFURTZUQmtZOHVadjYwYnNLUzhvc2dxSEJqUUtNd3d3cFFTWkVZSjNkcEJoYUN3cXpHMzZ4a3hEZ1I3UUJVSE5sQy1qUXJrbmVnY3lRUlE1OHl2T0ZlY3B2cEFXanNPaVljaFYtMQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-and-infantino-under-uefa-threat-of--2026-08-04",
-      "headline": "FIFA and Infantino under UEFA threat of legal action: What we know - aljazeera.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUENjVVZ6NG91UkZlT3Axb0tPbkszQnQ5MDliX2RIRzFMX00tMjlLY0NJNDVTRk03T3VxLTlXdWRRZUZ3bHAycGlZdTlxNGp5aU1sNms2LVRENU5KMmhuNXNyVGU0cldBbm4xdTdRWTZQS2x4VVRnOUZXM2xUUFA3bGQzVVdJR2J2eTdQYVlSZ0kydXBXZ1JfemU2T3F1TXVpUlk3NEZLeGl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-04",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUENjVVZ6NG91UkZlT3Axb0tPbkszQnQ5MDliX2RIRzFMX00tMjlLY0NJNDVTRk03T3VxLTlXdWRRZUZ3bHAycGlZdTlxNGp5aU1sNms2LVRENU5KMmhuNXNyVGU0cldBbm4xdTdRWTZQS2x4VVRnOUZXM2xUUFA3bGQzVVdJR2J2eTdQYVlSZ0kydXBXZ1JfemU2T3F1TXVpUlk3NEZLeGlXRnJzRUFMZNIBtgFBVV95cUxNMWFvR2dNOU95WDR5NjhyYnpaTUNxLUpKMG9jTnlBSERKQzVfMGFFWGFLbE1wbmphLUswRG8zcnQtX1NqQ0R2eVRDcS1kVmRLbWEtLVd5V1JUNFJRem5oNU1ZX0dKdElyRVdfT2NkNGJ2czlDQUlBTF9LSUZBa2NNMmQ3MWJPamVYUUVmMmNMcEVNNWJxRlRQdU1BRnBYR0NPNkZRNHU5dW5ySllGM2dNdEF2RFhTQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
-      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
       "featured": false,
       "draft": true
     }
