@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-10T04:37:26.253Z",
+  "lastUpdated": "2026-08-10T07:40:26.779Z",
   "articles": [
+    {
+      "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-19",
+      "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - nytimes.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5\" target=\"_blank\"&gt;Ranking the W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-half-a-month-out-and-england-was-a-world-2026-08-09",
       "headline": "Half a month out, and England was a World Cup winner after all - The Japan Times",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-algeria-s-president-invites-kc-mayor-and-2026-08-05",
-      "headline": "Algeria’s president invites KC mayor – and 100 tourists – to visit after World Cup - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE50V1FaYzZlcm9WUXJBY3BFbDBIVE1jdkF4bkNOSDcyVWgyNE9OdnB1dVdsa2NyUFROcGRqak9OcUYzX3V5RXdwQkpkTGQxNUxodEYxaV9Hck8xcjVKZVItSTQ5cVhqYXNTd1hPazlGY3lsOE9Sc29mY2RR?oc=5\" target=\"_blank\"&gt;Algeria’s president invites KC mayor ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50V1FaYzZlcm9WUXJBY3BFbDBIVE1jdkF4bkNOSDcyVWgyNE9OdnB1dVdsa2NyUFROcGRqak9OcUYzX3V5RXdwQkpkTGQxNUxodEYxaV9Hck8xcjVKZVItSTQ5cVhqYXNTd1hPazlGY3lsOE9Sc29mY2RR?oc=5",
       "featured": false,
       "draft": true
     }
