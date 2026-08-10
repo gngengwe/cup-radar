@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-10T13:06:30.411Z",
+  "lastUpdated": "2026-08-10T15:59:00.909Z",
   "articles": [
+    {
+      "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
+      "headline": "How to Watch the 2026 World Cup Finals - WIRED",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-soccer-leaders-in-europe-north-america-a-2026-08-10",
       "headline": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - NBC News",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-06",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5ZMjR4VWpWb01rX0RrVG43U2xXYnE2V0lzdnp4S2xqdjk3SWlhSVJidDAxSDVCLXhENXVQU0ZuVU5oOHFyQkxnM0d1TmxqMWN0R0VkREFHQzBWYjhrbEF0MGtFTVgzMDZaWXdNSW9wS2FvdzJYMjFJODluazA0QmJGTXFMTURVM3JGUXZVcjhvZk9OclhwOC0xQmxLYmxJeUFFQVFyd3YxTmdXNjdDS2lVSEQ5VElXcmtnRmtsSTVHZE5UbUZyOXBHWWlZdGlLZGI2N1BHbEdlelU5MERyc2VHQzNQYk92a0c4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-pledges-to-defend-infantino-after-w-2026-08-06",
-      "headline": "FIFA pledges to defend Infantino after World Cup rights plan collapses - aljazeera.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjFqbkV1elZzS1pvZTNfVGNWR3VyRjM3czAzNGtXemUwbjIyQTJJTWVXTkRUWnhxb2hpODQ3ZXFyd2N4Z082UkhackVaWXN0ZmxQS24xU051S1Z5cFNDTzE2NjlBV1VYXzU1UFJJUHBnbU96YzZBN0t4aUFKRVp0OTcwbXJaWmFUNUUwR2dwOWpQWUhJaHZVLVdvV1BMcllkZGNtNldiR1g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjFqbkV1elZzS1pvZTNfVGNWR3VyRjM3czAzNGtXemUwbjIyQTJJTWVXTkRUWnhxb2hpODQ3ZXFyd2N4Z082UkhackVaWXN0ZmxQS24xU051S1Z5cFNDTzE2NjlBV1VYXzU1UFJJUHBnbU96YzZBN0t4aUFKRVp0OTcwbXJaWmFUNUUwR2dwOWpQWUhJaHZVLVdvV1BMcllkZGNtNldiR1gzZW9oQTZra0VB0gG3AUFVX3lxTFA1UnNscUFfSnlUMm85SWNlZmxXZGx3Ui1QTjF3YlVJeVBjc2FXeGU1MXdxeE51R3hNb2pyWUdxcmdPVGxoQ3ZZUHVuVDUtdkZWaTVMaHZKNVNsT3pkb0tjekZTb1hnNGRqS3kzenJhNW1TRWRGVTFncUZWR0lqTUg4cUxGYm12OXFSOEhDMmlPaEJubkZFNDc2bERkSTkxbzFzUl9vLTQwT3NvM2xfZTFkRWVSNnNjWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-is-getting-his-karmic-kicking--2026-08-06",
-      "headline": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5\" target=\"_b",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5",
       "featured": false,
       "draft": true
     }
