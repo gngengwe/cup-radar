@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-10T07:40:26.779Z",
+  "lastUpdated": "2026-08-10T10:15:46.808Z",
   "articles": [
+    {
+      "id": "news-auto-wafcon-2026-cameroon-shocks-nigeria-alge-2026-08-09",
+      "headline": "WAFCON 2026: Cameroon shocks Nigeria, Algeria and Malawi qualify for first Women’s World Cup - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWJwelRSY2JUbTh3cmFUUDhQMDExOTNySlNMZDcySWg1Q2prNzZ4dm9LOUFoYjRMejhGMkI2NXcwMzBuZVpQcmJTc3lRdGZTczNCSlpFVmdtWDJJYkQ0cVhYM3NCREFLQmdqRE55ekVaRmlqMktCbEZmLURNemtCd0wzMDZwSzQxSW0tSEVXY2RfajdLN01PNjR1UHI?oc=5\" target=\"_",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-09",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWJwelRSY2JUbTh3cmFUUDhQMDExOTNySlNMZDcySWg1Q2prNzZ4dm9LOUFoYjRMejhGMkI2NXcwMzBuZVpQcmJTc3lRdGZTczNCSlpFVmdtWDJJYkQ0cVhYM3NCREFLQmdqRE55ekVaRmlqMktCbEZmLURNemtCd0wzMDZwSzQxSW0tSEVXY2RfajdLN01PNjR1UHI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-19",
       "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - nytimes.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-30",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
-      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
       "featured": false,
       "draft": true
     }

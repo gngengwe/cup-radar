@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-10T07:40:28.936Z",
+  "lastUpdated": "2026-08-10T10:15:49.278Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 331,
+      "chapterCount": 332,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2665,6 +2665,14 @@
           "title": "Argentina Messi - The Herald Journal",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYm54RXk0UTU4SnA3U1NLcTRpSFoxUENhM0FRZWM2WGE0NDNFaEhYdTdDUERpNEt6dmNEcWNnLTVIcEV1RUwtTFNzWDNUWVdGRjRCMktJRFhvcVc0blBLeFp5bC1KY0ZMeXlGUzdxZnAxM0x6TXVaSWtld2QzeXBaeHhGR3Q3djUydTV4d19jcG0ybjlVTmxxaUhHM1dSNGRRZ0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786356947329",
+          "date": "2026-08-10",
+          "title": "Lionel Messi Attends Father's Funeral During League Cup Tournament - 95.7 WDAE",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHlfQl9zMzNsSXFwejZGTzdKRmkwWks3Y19iZHNqM2RGaWUwbHRVT3hxY0hCcHdEYXQ2cW5LWFV4aHF4SjlDVVhsUmpicldMNVI0dTBCX3JRMTlMVUtjbUxuaC1iZmRnTGhTUTdYOHVWR19rVlM1UzAtR3JGTWdhdE1OTnZuNEdyUnhzWGhFUUVIeXpfUnJXWGs2cmQ1eVlzSkJCNE5zbUs2NjdOdHlncEhR?oc=5",
           "draft": true
         }
       ]
