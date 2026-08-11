@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-10T21:40:36.294Z",
+  "lastUpdated": "2026-08-11T01:42:36.049Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-2026-how-fifa-president-gianni-2026-06-28",
+      "headline": "World Cup 2026: How Fifa president Gianni Infantino is jetting around - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lS3hidVhEWUNKamo2c2h3OEtTX1hWeHZHMm1yc1Rfam9mSmxpWER6ZjJBTi02cWVYZnRiUlRWbjNHUkdlVjFOVm45dU16ZGJTcGZEa2dkVFZVbmdqWkstN19FQkNlLTA?oc=5\" target=\"_blank\"&gt;World Cup 2026: How Fifa president Gianni Infantino is jetting",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-28",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lS3hidVhEWUNKamo2c2h3OEtTX1hWeHZHMm1yc1Rfam9mSmxpWER6ZjJBTi02cWVYZnRiUlRWbjNHUkdlVjFOVm45dU16ZGJTcGZEa2dkVFZVbmdqWkstN19FQkNlLTA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-malawi-reach-wafcon-semis-and-world-cup--2026-08-10",
       "headline": "Malawi reach WAFCON semis and World Cup, while Nigeria’s title reign ends - aljazeera.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-15",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-on-the-ball-world-cup-2026-final-score-b-2026-08-06",
-      "headline": "On the ball: World Cup 2026 final score - Bank of America Institute",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0dhUmdUZ0h2aVRoVC1xQlRfRnhkdFl0NjAyWVAxZXNsSlFEWGFsZ1FSWUMxSHFXOEt1aXhwdWpvd0pxZVNhUnY2aVlOZlJraGdQWVJ0Rld4Um55WU9RdFljdnNtOWxVSUJRakxYN2pLX0ZsR3dRanYzaUVNU2JJbkRjcENnNERsSEtZWTVYS0I?oc=5\" target=\"_blank\"&gt;On the",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0dhUmdUZ0h2aVRoVC1xQlRfRnhkdFl0NjAyWVAxZXNsSlFEWGFsZ1FSWUMxSHFXOEt1aXhwdWpvd0pxZVNhUnY2aVlOZlJraGdQWVJ0Rld4Um55WU9RdFljdnNtOWxVSUJRakxYN2pLX0ZsR3dRanYzaUVNU2JJbkRjcENnNERsSEtZWTVYS0I?oc=5",
       "featured": false,
       "draft": true
     }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-10T18:56:28.363Z",
+  "lastUpdated": "2026-08-11T01:42:38.701Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5151,7 +5151,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 652,
+      "chapterCount": 655,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10368,6 +10368,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWxJVHhOY2lETk5BM2lBLUFLVk9nbnYwUnBpemRTQmFWb2hsdFA3alFjd2VOczR2cmNpR0hacm9NeUY3RkNSeHh6ZlhmWUtBaUlMUElxLUJwWG9CVHJiLUdwVll1eUt3cFlnWFYxN2dIck9JMDdRN09tUHdwWEE5UnpCNjU4MkJmcW9YSTA1MkpMbUZv?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786412557649",
+          "date": "2026-08-10",
+          "title": "American gymnasts set for 2026 Rhythmic World Championships - USA Gymnastics",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVldydDhoc1lVakZBOGhWUUd4d1BMYWlZcW1vS1BWQktjTEtBQW54Q0VaSjJyTml6QTJZQW9QUC1BTkZXNmM5R2NsV1NxOXFidDZ3ZHgzQUlnTUs1OVRBcDByYzJEbTBFNnlFaGZXaVNyRGVKUjJOOVlKU3B2cUt2dGp4T1c2UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786412557649",
+          "date": "2026-08-10",
+          "title": "The one problem Pochettino must solve before the 2030 World Cup - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX013eFNUSmd4SG90X3dTVEt4TzRpTDNNdzN6azZQUWRDWkxkTmRjelVoc0s0Uk5uMk12Vk9JLTh5TWtGUjUzUm9VeEtjQXVCYjdBZlRVWkY0SG1tLW5Ec2JvZmZMbjVxaUdSaUVISHFGN0hlbnBZaGlmSWhYZGlCOW5zNFJxMTE5N2JObFBQS2NCNjgyUGZPR29tbFpVVTNZWDBhcjFJbGhSMUdya2fSAcIBQVVfeXFMUFlCMG1TSVlyYXBkVncwT3hwNHNmYjhKSi1sNEloTjNlZFpMdEVvV0FqN0gtZlByWUJRM1NoXzl2eGRkN1ZxNUQ0Yk8wQ1VTRDE0aXEwWWwzbmhyR00xblNNSmgyMFFGWXNoVHJicEtYZEZVY19LOWg4UG5SVEJ5WXlrMDU2eGg1WGJjZ3NRNVRSZ2F1S1JPTkVJUzIzazdxd3ZaN0k4RVhmMGpseGdzbEI2Y2Znb3ZzUXdlZVN3eFB5Znc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786412557649",
+          "date": "2026-07-21",
+          "title": "Mexico Upstaged USMNT at the 2026 World Cup—and FIFA Took Notice - si.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xd0NXWE5yM1RqbFhfc01HVWFzLXZmNnJkczZrLUtfMTktSFdZYmFxVWhKM2h1RnJwRXdtYk43MllLUWM2Ml9FX2N1NnAyR05XTDhXSkw3UDVCZ0xWT3J0ZUZDQi04ZlN2SHFQSW5vbjJjd3BRcU8xSEp4X0Vaejg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10386,7 +10410,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 492,
+      "chapterCount": 493,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14322,6 +14346,14 @@
           "title": "Women’s Africa Cup of Nations 2026: Semi-final preview, schedule and how to watch - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTdHd2VWWWpuX1RPWVZ0SFNhWGlMWkV2TFR6VHBvc1FCdWVqSzdTN3BIOTlnM29lc3VlVVhDUFpHT1I1ZzEtdXdNNGVQQjV6ejlZWVI2Sm04UExDYnR3R2Q0LXBKeVA3algxdURFSExhR0ZzUEdkRzVzQlFXeVFQMGxHb3VUOXRuXzFvMXhuY0c1LU0wc1NFYmlQWXVJWnN0enN4Uy1OTUFDcVloVF9vMw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786412558208",
+          "date": "2026-08-10",
+          "title": "Real Madrid Makes U-Turn on Endrick for the 2026–27 Season - si.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hcWxTb3hSaFJoN21vMUZEZUI4VjFWYjBqeDdYeEZsckFpcEhybzdVd25UenRmWGhtbDFacFJCUUNSZEhHeEdiSVMwaGZWRGxwem9HeVlVdXo3aHZTck9WRlFoekFGcjZTbWJmY28zSUVDNXVkU3c?oc=5",
           "draft": true
         }
       ]
