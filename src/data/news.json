@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-12T19:01:23.267Z",
+  "lastUpdated": "2026-08-12T21:43:58.999Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-fifa-world-cup-2026-petertatchel-2026-07-23",
+      "headline": "Seattle – FIFA World Cup 2026 - petertatchellfoundation.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5\" target=\"_blank\"&gt;Seattle – FIFA World Cup 2026&lt;/a&gt;&amp;nbs",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
+      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
+      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-gianni-infantino-considers-another-radic-2026-08-12",
       "headline": "Gianni Infantino considers ANOTHER radical World Cup change to save FIFA presidency after failed sell-off plan - Goal.com",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcERuQ3QtMVZkY005cjR1OVY2TFExelFvU29kSjBOcG5oczFTS1hPQUhGRE9ramotN042YlhGMjdoOUg5LWExaW56N1l0LVIyLW1iMnk3N2hVT1JRRmFwN0paVGtpb0hCY2I1WWNMTEozV2tsMGlJQmIxU2ZEdVduRmVCWHBJcmMzeHdacWNUeXc5MVZjQnhEczBkTTVvdVdQTmhMYm1vdlhXWFZRTEVaTjBubC1zS0xzZGRTOE9NNA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-fix-fifa-what-can-be-done-to-salv-2026-08-06",
-      "headline": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body? - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3RDbEFBUUJuMkR5VTRxb1R4QUYtakxDUm1jZ1dGWHNOZExEQTJibVRqMlpVcUgyZFlyeDYzSmpIdGh1dmlNNTVkR2tScmZ2cVBRSG1GWVZCOUtnWkxzSkkyTDlrQmdmcXgtVEE5Uy15eThCV2pfQnVfaHVWV0RLeE9fWUVOT0gwN3lVcTdicFM0Z19PSFE?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3RDbEFBUUJuMkR5VTRxb1R4QUYtakxDUm1jZ1dGWHNOZExEQTJibVRqMlpVcUgyZFlyeDYzSmpIdGh1dmlNNTVkR2tScmZ2cVBRSG1GWVZCOUtnWkxzSkkyTDlrQmdmcXgtVEE5Uy15eThCV2pfQnVfaHVWV0RLeE9fWUVOT0gwN3lVcTdicFM0Z19PSFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
       "featured": false,
       "draft": true
     }
