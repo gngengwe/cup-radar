@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-12T13:07:42.055Z",
+  "lastUpdated": "2026-08-12T15:58:12.800Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 336,
+      "chapterCount": 341,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2706,6 +2706,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnhibnYxRXB5eGR6TzZ4dWF6VHhSVXRSVG9Uall2VDY5MlgtTnZRSGVGXzZacXo5amUydEdRYjZrTFBJd0FRNmdhS3hkd3A5ZTZaNkdxNHpSeEhsc0xXWHhuNEVXTF91SnMzUEJjUllTQ2hrNndOb0Z3MmdNMm5OemNLdkZfMzdRSlEwbWRYSjBDR25KOEtMbE5KQldNVF9EN1E1bU4xbGRZRkp2OUFEYmJHdjdKLVdSVmEzYXNpYnBVR2hvNlNGa9IBzAFBVV95cUxQc0s0cUFaTUVUcXVnWnAzalVlNEFKdElvUjBSbDBoVjhYelVoUnFIeW0tWEo2blktRzJ4aVJ4SFdwOVhNV3VVTXRVN3BIeWFYWWVmZktaNTlJTml5ZVBMNUV1ajU5UWxBR2VHV1hLX2t1b3BIaGVUbFBqZDdremNFMFF2N1FsNFpQcmlpajYwY1UyRmdFcnJsTi1GOXdJLXRZVjlpTkhIblQ3WXYzUTdFNWcxN3JfTHd3TGNKWjdaS0dlYy1HYUJ0N1RWMEI?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786550290824",
+          "date": "2026-08-12",
+          "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM295czVQY3l0VTdyR2tSWVB2RWo2VzJCcGpFU1A0c0xxMHJDWTY2MkJFOWRPWGpqWTFfdjAtX1ZPTU9zT1B3NVVpSjhNWDVJaW9RTHZqRWtvVEx2MjMzS2hPZlhHMlJ3NWJLcnFlVEFVTl9zTGljUHNUN0dHUXhkeXBBcmpvTE43UXp2UmtGck1qcGhaeTc1al9ncDZWMk9PWDZheWtDVmxhbFRNMk5yVVRjN2wtUdIBuwFBVV95cUxPUjhER1Rqc1BTVUxOdEdsVGUwSHR3XzNBd21kVlctLVRIaWF6RWgyRlZGTVV4MHl3MkxXU3dJaklyamd6c3RoVnU1bGlfX3ZuMTBlUndCby1yY09xMWRaeTZsdW9LRFBsZ2Y4S1ZtTWktQ2dFNERyc0Fob0FkLVpSM25teVM1X2lWSGVueEpreGRVSlVjUGtXMzZVU010STFOYmlFNUdZTXdlU0JGV1RFQm9yeHVMQUs4ZjFB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786550290824",
+          "date": "2026-08-12",
+          "title": "Lionel Messi reveals he struggled physically during 2026 World Cup in farewell letter to his late father - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUllLVk82dnpqcU02eE00MER1S2dfV3ZMbmU5aTlMYUlSenRhSTRlc2o4bVptQ3k3Tjl0WVhIVnM0RXh1VXoyTUZmVkEtc3ZWeWRzcU1RMjU2NG9EQ0h0d0x3SW9JQlE0Z1ZpdTJIUnhjMnFQMU9ZR3oxdE1LVlFNMWlGRjVmWjNGSEczZndtckUyWDhpaVl1aUp4d3p0eHI2WUJob1NqbkhRN0RYS3R5TkxtMFRLX1RDNHVTMFhscFFZY19na3FLRFkxR1BvX2PSAdQBQVVfeXFMTUtEbjduWmd0Qzg4b0p4OC16YXFGZGtKOS1DVlF5OVpjN015V1ZSa1N0TDQ1S3hqYUtLRjB2QzdRREo1WlFrS1NUa0I5ZWt3REFKMkE1dEd6STBGVXJIQm5qN3hTS1oyb3VReXF6eC1YYzFFV0tkQTJ3RW5aNTVtUW14WkUyLUN4Ml84YjdJWW8xTUFNZVBPd1hKVDJVbGltZnNwaGJFNFNyNmxpZ1JhMHlIVElHWUxnVEdfZExiYVQ4QUFfVXFuc3ZLLTZuWFBCaVlpR04?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786550290824",
+          "date": "2026-08-12",
+          "title": "Argentina's Messi reveals doubts over future after father's death | Daily Sabah - Daily Sabah",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVdsdXByWTVfYmJxeC1kTDhWTXNXaUxuYWV2SDZfUkV3dlBhVl9aNVdIbHdBWFJTWUgwbFlHdEhQTWhmN0V3VXZUN2tnODhIQ3lNSTJ3bTBwWlpXQVV4eXp4UXRTYmtveVlGcmFkMzh0akJMMnBMY2ItNjBsdU9Gd1FLYmdjV3VLOWJudTFfM2tTaTlXa250XzNnZ3dseFZjTk5YQ25SRFp3QdIBrwFBVV95cUxPSmljcEhZSHV2Yno3RlVpek8wa2NJYkhFS0VfazVoU1RqY3MwdDU2MERRcFNYU1IwYUtiSTJqellLWldpbWw5N0ZxUmJFQWVxV2VPRFp5MS1NLXZ2ZFRzNVZYdUg3dmg0ZTZ3UHNUZ0d6ZTZpQjhQb3dMUlZQMlp3bEE2Z1pRaDlFUGUtVy1Ca2JJeWNFbkNfa0dlSHEwUlhVUEhFa1JlczJDSXY5dEVB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786550290824",
+          "date": "2026-08-12",
+          "title": "Messi unsure he will play 'much longer' after father's death - Yahoo Sports Australia",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aeTFJQW5SVUxmVFVPbzlxZUNRQlJRdm9zbXBCTE94dmR1RXhvOEhHazEtc1ByVlpjYnhUUjE1LVFzbjczNE5lVUVmRTF3ajdXVUV1LUlKVmVlUHM2VEF1WUhxTXBUOGxnRnNsNWxKMkl6ZW5KNnJpUXBudlo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786550290824",
+          "date": "2026-08-12",
+          "title": "Lionel Messi opens up about potential retirement after tragic loss of his father - SPORF",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFZVMzkwaUVsMm5jNEF3a0I4M01rbHNhLXlDRWtXWVZWdUtzQkdGclhDWVhrQllhR2RvaERjb09LOXVOTDJCT0dYTHRROHlxbzBBVG5ieWM1UkZPVEZGWE1teE50TnhVZUJBbkJaZ0FfVWJWTUt2a2NFeF9TTmIwMXhiV2lsbVhpUWZWZngxa0ZiRnJSUTNSMTl6QkNzTkxTSGNlb3dR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5207,7 +5247,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 666,
+      "chapterCount": 667,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10536,6 +10576,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdDaUpiV3RsSVh1OGRmTWZDdnJuUFoyaGZnZU9jMXJZYlBkZnVwYllrcnQtcmJ2TXA4TkRpODlOUk9seWpKa0YzcmNrdlI1U0ZpU1BqNzJUT2hXTWR5UWxkbmdSdktYSVJRcTBtaUZNa0JTNEJDWjZYaXdVS2JqTVJpTTJqYjZ5Sm85MFBtbUh5ejZVRDRrYjdMLWtWWnBtMDRNdDBTVS1ZdXZqcW9IM0Rn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786550291790",
+          "date": "2026-08-12",
+          "title": "Youri Tielemans explains how FIFA's Folarin Balogun red card U-turn inspired Belgium's World Cup victory over USMNT as Donald Trump's intervention backfire - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnlRazJkRE5oWGhBRGVISUVYWnI0MXZ5a3VudEc2a3ZidDNHbHp4clp0SGFfOGE4dGU3NlRHUEVOYzE2NXFVZUJiZnFBTVlwMWxMZDBHaHZJVlJLcDJfYndwZHpJTU9CdHlhMmk0bnVYM09NZzNmeDNfU3lSYkg2SVctSEp6S1kwVk9iQkV1ZmxGY1ZiUzZzemE0eGplLUU1NUFfR0JKNmMwYjF3cUhFTzRwZlJKUlZLZHU5cEVlUjdoa0daNHlkZzBSQXc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10554,7 +10602,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 494,
+      "chapterCount": 495,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14506,6 +14554,14 @@
           "title": "Morocco Leads Four African Teams to 2027 Women’s World Cup - Morocco World News",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmtrTGt4SWFLUUV5WHpOM2FURzUwSmRWdzZKQ1Y5emlwRWNmLTJVelpIR1FGcmlMZzE2d096ZXljMkRYeFJMYUh6ZGRQMXpqWW1vZnFFNDRORElfc2FXOXNZUW83NXhkTkNBa3NVUC1jZGozSnJVSDI5X1RFMUVhM3R2eXRTSzVYMEdfdG1McmVZdUc3T1pDNGxxUE1BTEhaZHFZMlQ4dkhCdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786550292270",
+          "date": "2026-08-12",
+          "title": "10 Most Expensive Soccer Transfers of Summer 2026, Including Morgan Rogers to Chelsea for $158 Million - Sportsnaut",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMHMweUVuSFJSeVRuaU8xSjBVN2FNY21rRWwxaldvYmxaQjRodXM3VE90cVg2eVM3cmxEb1otN2UtZTEzLURMaVFmYXdJZHQ3ZndaU1BuamR4NkZGWmJVQ2hLN2ZfT1BRT0Z2ODVyTk5pZldGbWtnLThiODVkUQ?oc=5",
           "draft": true
         }
       ]
