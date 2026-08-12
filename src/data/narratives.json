@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-11T21:46:07.647Z",
+  "lastUpdated": "2026-08-12T01:54:28.648Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 334,
+      "chapterCount": 336,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2690,6 +2690,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU8taE9kaXZRa2VHWmxfTlRoQTJYb2R5MnlxQ0lDY3NuLUxIOXlabkVIbVVSa1hpLTgyRWM4NXZxQzkwY09lZlR2Z0pHdWFxWnFnbTdBTVNFYmRXSXhkQlhsRXYwT2M4QVRYSnlyR2V3Qk00N01US3dkeE9lRXRBNW9IWkV6bmlZekgzcUstZlZIcUNjaUVoeVNaZ2NsaXdHOEhv0gGoAUFVX3lxTE00NjhxaFoyZDlJN0pielRQby1QZnN4WGpqUDhTQTBtd1FodzRpUWc1VXdvSk82QVlCeDlVS21CUEFIOTJlY3NVaHdoaTNhNVZ3cjBQcVl1ZVFReWZCd0JmU1FseXh0RXhwVkhuQ1g2VmIxNUp5aU1kYUpjODdiVEhPMk9rRXBuS2tLc2dTNThXM0pQM3V0TWplS01WMnluZTFGVVJoeGtPbA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786499666663",
+          "date": "2026-08-11",
+          "title": "Messi unlikely to play as Inter Miami faces Leagues Cup elimination vs. Leon - Miami Herald",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Y0tLejF2Zm43SThZV2VicTY1ZEVzQ1MwNzhpT01hRGRzUmVYLXJNOGgwZW11UFhqajVGaktQbW5JSFZUNWd3aU85Q2dPZm16bkxMd0F1V05TR18xUm9ZUUxxenZaMzk5TGMxMGE4Rkhxb0daMmYwYU5ZeUrSAXxBVV95cUxQTXY5TGRmdUVCMWV2WnY2TUczZzFvZ09aYV8zUVJfaUN1TVptWHo4QWJSTHcyeFV1U0ZZa2FKbmNPWnVxRXR6TXNEdVg2a3Q1SDVmYUxRU0o4Q2JGckRGVVNRWEtvd2FUdUdGcEJYOW01X0xpRnoyMTJkYmtn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786499666663",
+          "date": "2026-08-11",
+          "title": "Chucky Lozano uses Lionel Messi’s 2026 World Cup success as inspiration for a return with Mexico - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnhibnYxRXB5eGR6TzZ4dWF6VHhSVXRSVG9Uall2VDY5MlgtTnZRSGVGXzZacXo5amUydEdRYjZrTFBJd0FRNmdhS3hkd3A5ZTZaNkdxNHpSeEhsc0xXWHhuNEVXTF91SnMzUEJjUllTQ2hrNndOb0Z3MmdNMm5OemNLdkZfMzdRSlEwbWRYSjBDR25KOEtMbE5KQldNVF9EN1E1bU4xbGRZRkp2OUFEYmJHdjdKLVdSVmEzYXNpYnBVR2hvNlNGa9IBzAFBVV95cUxQc0s0cUFaTUVUcXVnWnAzalVlNEFKdElvUjBSbDBoVjhYelVoUnFIeW0tWEo2blktRzJ4aVJ4SFdwOVhNV3VVTXRVN3BIeWFYWWVmZktaNTlJTml5ZVBMNUV1ajU5UWxBR2VHV1hLX2t1b3BIaGVUbFBqZDdremNFMFF2N1FsNFpQcmlpajYwY1UyRmdFcnJsTi1GOXdJLXRZVjlpTkhIblQ3WXYzUTdFNWcxN3JfTHd3TGNKWjdaS0dlYy1HYUJ0N1RWMEI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5191,7 +5207,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 661,
+      "chapterCount": 662,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10479,6 +10495,14 @@
           "title": "The foul heard around the world. Plus: USA World Cup roster - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmhBT2hlN0MxN25DT3lPNkh6WE1SVkdJMUs2RERaOFEwYUljcEdZUXI0VWU3eDlWVk40cmRWdjdGUFZwTlMtX3VpSmJWREh5dVVmdDJnX2YyTjkyWnVsVktNbFBZNlFZb3EyalNfNW5SdVhja2s0VWoxekU3eTFYR0VsX0IyQXAxRnJGU0FLYzh2VU5kU2t2Ym9EeXZqRWVUUnl1UF9YRlVCelk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786499667625",
+          "date": "2026-08-11",
+          "title": "Sights & Sounds: 2026 USA Basketball Women’s National Team Announcement - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakJFUHp4STJGRlpQanNOUGo5dHRCQUUwTkwtNlM5NlQwdVM0NzNObHBtV2NWZGdwVkRSMGZOeUVCYzU1aEFURVBEQThfTFNZWkdRU3FqYTM5dE1wYzNSdHhKWGZMOG1faHVoeHc2eG5Ya21rRUdDZjkwWVFlUkRiUkVYSGZydlBObFotUjFzSF9qYmQ3SllLYW1KaG12TUFISnJSWEs1MEc?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-11T21:46:04.969Z",
+  "lastUpdated": "2026-08-12T01:54:26.147Z",
   "articles": [
+    {
+      "id": "news-auto-64-team-fifa-world-cup-infantino-reporte-2026-08-11",
+      "headline": "64-Team FIFA World Cup? Infantino Reportedly Backing Major Expansion - Forbes",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFh3MndsU0NQcjl2MHIxSEVKT1NscHRlYy1YdXg2eVJWbDkyQVNFd0Zxa1FCYlFpTlFJUDQ3R2gxN0JYYnZBZ3VWQjF5VnpIUC1SbGNnVVNKSkduNjNTMkRHbURVMG5GeWdwc0UyT2FxNlhNNlIyazZLdHQ1MGZoYWxpSnN0Y0Q4b3dlN0Y1di1FdHRjXzNZMzVhRmdsdEFnR0wwejlxMkF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-11",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFh3MndsU0NQcjl2MHIxSEVKT1NscHRlYy1YdXg2eVJWbDkyQVNFd0Zxa1FCYlFpTlFJUDQ3R2gxN0JYYnZBZ3VWQjF5VnpIUC1SbGNnVVNKSkduNjNTMkRHbURVMG5GeWdwc0UyT2FxNlhNNlIyazZLdHQ1MGZoYWxpSnN0Y0Q4b3dlN0Y1di1FdHRjXzNZMzVhRmdsdEFnR0wwejlxMkFKbXIyeWR0cTcxRWEzQ1c0bjRLM2lwVHRUMndzWkJvOHktcw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-a-world-cup-journey-full-circle-china-da-2026-08-12",
+      "headline": "A World Cup journey full circle - China Daily",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVVpyODF5TTR0X005U1Ayc1ZXYUZPYmNrUFk0aFFZZHA0VFRzWG56YWcyalJJa3MyaWh3aHJmaEdwZ3Z3MURMclA1TVpIS3hYZzZqV1R4N2FrNWREYmwwaXJ0R2ROR1hIckhXVE1nSV9uQjc3TmxOQ19QOXhCQQ?oc=5\" target=\"_blank\"&gt;A World Cup journey full circle",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-12",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVVpyODF5TTR0X005U1Ayc1ZXYUZPYmNrUFk0aFFZZHA0VFRzWG56YWcyalJJa3MyaWh3aHJmaEdwZ3Z3MURMclA1TVpIS3hYZzZqV1R4N2FrNWREYmwwaXJ0R2ROR1hIckhXVE1nSV9uQjc3TmxOQ19QOXhCQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-s-infantino-may-back-massive-world--2026-08-11",
       "headline": "FIFA’s Infantino May Back Massive World Cup Expansion In Fight To Keep Job - Yahoo Sports UK",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-22",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-apologizes-for-mistakes-but-re-2026-08-05",
-      "headline": "Infantino apologizes for ‘mistakes’ but retains FIFA’s backing at crisis meeting - CNN",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1KUEI3RmpnZTdsZktuVXA4MU5KTXRpWWRZak56MkQyMl9PYmFzVENHN3o4QlIxN0JxR2h3bDZLUFpDblY1cy1jY21WSnVicGp3SWhvaUt4eUMxcnNRa2RJbkNNNW5OR1h1YlU0eHZBUkNjUmQzdmxz?oc=5\" target=\"_blank\"&gt;Infantino apologizes ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-05",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KUEI3RmpnZTdsZktuVXA4MU5KTXRpWWRZak56MkQyMl9PYmFzVENHN3o4QlIxN0JxR2h3bDZLUFpDblY1cy1jY21WSnVicGp3SWhvaUt4eUMxcnNRa2RJbkNNNW5OR1h1YlU0eHZBUkNjUmQzdmxz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-commemorate-win-against-englan-2026-08-06",
-      "headline": "Argentina commemorate win against England at World Cup 2026 with special day - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGJyR2FLOGthVmpfVDdMVWVwTTE2NmdwYm82QWxmRTNBUjB4YUp6UW5GWS1vU1pKVmNJUUYyOWVrcVRnR1NxQzQ4VHdKZ2F3aU00SS1PQmxCZzJKY1dhNHpqX21CUDQ0TXdyU3hEWkhWazFRWHljd0tWeTBBY3RwYTBqXzlyblVEYkhZZEpmTDJnTjRJcEJlUWpMeGhkeWw5XzEyTFFidEt",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGJyR2FLOGthVmpfVDdMVWVwTTE2NmdwYm82QWxmRTNBUjB4YUp6UW5GWS1vU1pKVmNJUUYyOWVrcVRnR1NxQzQ4VHdKZ2F3aU00SS1PQmxCZzJKY1dhNHpqX21CUDQ0TXdyU3hEWkhWazFRWHljd0tWeTBBY3RwYTBqXzlyblVEYkhZZEpmTDJnTjRJcEJlUWpMeGhkeWw5XzEyTFFidEthREE?oc=5",
       "featured": false,
       "draft": true
     }
