@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-12T04:46:34.902Z",
+  "lastUpdated": "2026-08-12T07:23:43.433Z",
   "articles": [
+    {
+      "id": "news-auto-a-world-cup-journey-full-circle-chinadai-2026-08-11",
+      "headline": "A World Cup journey full circle - chinadailyhk.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE00U0g2d1NvbVFlakczS09mRHMzNzJPWFNnZTBwYWVDdzJHcGJMOURKRGFueGZYaGZqS0ZibHMyVERfeFFBSWFwaERFazJEdjNzdVBFX3A0eUI2UQ?oc=5\" target=\"_blank\"&gt;A World Cup journey full circle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-11",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00U0g2d1NvbVFlakczS09mRHMzNzJPWFNnZTBwYWVDdzJHcGJMOURKRGFueGZYaGZqS0ZibHMyVERfeFFBSWFwaERFazJEdjNzdVBFX3A0eUI2UQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
+      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5\" target=\"_blank\"&gt;Arrowhe",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-the-kansas-city-spirit-landed-the-fi-2026-07-10",
       "headline": "How the \"Kansas City Spirit\" Landed the FIFA World Cup - Kansas City Chiefs",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-06",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-6-4-france-fifa-world-cup-2026-a-2026-07-18",
-      "headline": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2d",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-where-to-watch-the-world-cup-final-in-se-2026-07-17",
-      "headline": "Where to watch the World Cup final in Seattle? We have lots of ideas - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2R",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2RxdVQzT2JpMmxMRGYtejRBaWJCMnk4c1hqMXFH?oc=5",
       "featured": false,
       "draft": true
     }
