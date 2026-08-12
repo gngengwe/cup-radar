@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-12T07:23:43.433Z",
+  "lastUpdated": "2026-08-12T10:03:53.998Z",
   "articles": [
+    {
+      "id": "news-auto--flawed-funding-system-behind-silence-of-2026-08-11",
+      "headline": "'Flawed' funding system behind silence of smaller nations in FIFA's civil war, says ex-PNG player - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGJTUkFkcDh3ekM3N3J2aUpmSlVVaFJEQlhjSnNleUdhQUZfUTZjdjVTTDlZTFVkVmczYll5QmpraFRJWm03ejVicmxRYldsaFZZY0k1YVVib1A2VUZ1WVllNy05VTNlemcyWkFVbjVCSjZOVzVrUXNHaVFmZzNXNXpRY0FJRTQ2bjJIdVZEQkVYQzlZNkZZeExWY2RHMEVmSUZfcFl0Nno",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-11",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGJTUkFkcDh3ekM3N3J2aUpmSlVVaFJEQlhjSnNleUdhQUZfUTZjdjVTTDlZTFVkVmczYll5QmpraFRJWm03ejVicmxRYldsaFZZY0k1YVVib1A2VUZ1WVllNy05VTNlemcyWkFVbjVCSjZOVzVrUXNHaVFmZzNXNXpRY0FJRTQ2bjJIdVZEQkVYQzlZNkZZeExWY2RHMEVmSUZfcFl0NnoydWlYTFludE5ZQjZJVk9HS1B3TXBNd18tTkNiSlZqRGhn?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-a-world-cup-journey-full-circle-chinadai-2026-08-11",
       "headline": "A World Cup journey full circle - chinadailyhk.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-25",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-european-nations-say-world-cup-boycott-i-2026-08-06",
-      "headline": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5\" target=\"_blank\"&gt;European nations ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
       "featured": false,
       "draft": true
     }
