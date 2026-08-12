@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-12T01:54:26.147Z",
+  "lastUpdated": "2026-08-12T04:46:34.902Z",
   "articles": [
+    {
+      "id": "news-auto-how-the-kansas-city-spirit-landed-the-fi-2026-07-10",
+      "headline": "How the \"Kansas City Spirit\" Landed the FIFA World Cup - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5\" target=\"_blank\"&gt;How the \"Kansas Ci",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-64-team-fifa-world-cup-infantino-reporte-2026-08-11",
       "headline": "64-Team FIFA World Cup? Infantino Reportedly Backing Major Expansion - Forbes",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-17",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2RxdVQzT2JpMmxMRGYtejRBaWJCMnk4c1hqMXFH?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-arrowhead-stadium-draws-record-crowds-du-2026-07-22",
-      "headline": "Arrowhead Stadium draws record crowds during the FIFA World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5\" target=\"_blank\"&gt;Arrowhe",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-22",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
       "featured": false,
       "draft": true
     }
