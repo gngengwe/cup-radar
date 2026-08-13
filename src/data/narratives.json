@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T13:09:08.248Z",
+  "lastUpdated": "2026-08-13T15:58:21.020Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 345,
+      "chapterCount": 347,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2778,6 +2778,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFVseldwM3BqbTNLNFNmV2cwekp4WWRXeFpjTFU0eUt2U1Qyc0pvUmQ1T3UzV3VoZTVvcXlzTWt6Q1lFLW1CeEZYeFktZnBoTGNteXVoVk9jV3VKdFhpZWE5RkwyeTB2MmZKZjhIWU1jSk4tdURuVDZSYjNfZWJaQmRfeVA2bmZvRENBQnRwRjhPZ9IBkgFBVV95cUxPMmx5TEphY1ZGa2VlTFBaNlI3Z1Rva3pZbUdZMzJNbXJmN2NFYkhvZkJ0YVl2dGdhUVB1WDBUX2tZbllGYVZmNzlfN28wRDN2d0tHZmhVOExQdjlUbm5nM0JucmpsSGxSOVp2VlM0NFY5R2duY2c2d1pYdkN5eWhzV2dSaFRPc3VMQ1Q5QnBOZmRMUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786636698678",
+          "date": "2026-08-13",
+          "title": "Lionel Messi expresses uncertainty about future in tribute to late father - The Japan Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUE10TGdhM2JjaEJFaVJ0eE93T2NBTGYtcnlpYm5xalNGU2lIeFJFaWkyU2ZxN1R2YkJBekVpb1hCMEdrNnkzV3Z0UkloOEFiU3hZcldzTkNzVHhLNmcwRnNvUm5PNU5kaHdIcWJURE5jRHJrVkNVVF9BWlpUc3J0S3V1RV9ESlk2?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786636698678",
+          "date": "2026-08-13",
+          "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father - theguardian.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1h5SE5zYVQybG92bnJFQTdtQzZpVkhMYmZtUkQtUUl0Y1pvNzlwVkxlYkJhWmFQS0wxYks2N2NXNHA0bTVlYk0xTkxhVFJ5QzhlUGJucWllRUZRZ2tkVmo5VzBVS2llcXRETzR0RFFEZ1RrU1B5akU2T3NGS0VjSjVpaDFUTFNZeFRISnJvdDNRWFJWZnQzTk1xa2RmMlZxLWkxYkI2YzE4cEVPaFdV?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5279,7 +5295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 671,
+      "chapterCount": 673,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10648,6 +10664,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXc0bjFkWFJELXNUT1d0eVJLNVFCU0ZoTzIxRkpqSjNtV3VYUi1VNTE5Y0NNWGUtd19CWm1ZS24tYzh2cjlvcEc2Qy0yazBwSEdLTExieVdITXpPVFlmZjJYb2dscDRmZmg1MkRsdGJEQnFoVmRpTU5nSVVDaDMtUXpVZEdhQVRSQ0g4U0Zwa1B3aWw2aUNVT3VmUFFIZkxGYmZz?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786636699706",
+          "date": "2026-08-13",
+          "title": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGxuZWR3U2h5N1VhUXRKUDFCVlFYdA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786636699706",
+          "date": "2026-08-13",
+          "title": "The Premier League Looks to Score World Cup Audiences With US Campaign - ADWEEK",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGFZTHA2OWlzN29GUGt4TTdEeVFJZHJSRzBMVnlZUnl1a2FqVjlHMlZ6aUo5RkhqVlFTQjFnTkhiYlNkcXFPY3BXMmhLUEpLUzZ3YU81aURRRnZ1S1RtendxbDJpcFJXeWdqZThiOG9WRGhxa3ZQamJBN3RiY1JnZnpsdWtRSmtXN2ZLdV83ZFNqVjlzbDRzd0pPRl9tdUx5Rm9MQWRicHRPSV9Z?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10666,7 +10698,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 496,
+      "chapterCount": 497,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14634,6 +14666,14 @@
           "title": "India withdraws from 2026 FIFA ASEAN Cup to play Brazil at home - VnExpress International",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXVEQ2R3M08yRVRRN3lPck1iYl9zUVQ1aGhmV0hzVjl5SjFzcGZVN2VwZ1Z3UEpYX0hicUVackJ6bkdaVTdKbDk1bVQ3MEtOQ0oyZGZwV0MxRHNjdW83eDJrVDA3b1NqbzU3c0dMTzJqODBlWE9JMkJfNEdFV2pFZWpndll3VjAtRDVPeFFtNVJhekljZWM5ajNsQkx4VFVlTFR5Mmd0TzJSQUhNeXpjeVpaZEV6d2p3c2FTYlNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786636700485",
+          "date": "2026-08-13",
+          "title": "IFAF Flag Football Women's World Championships Düsseldorf 2026: Canada vs. Brazil - CBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl84MndMX1BsOVJKX3g4U250N1Z6MDJ6MUZzMDBjbXM3aDdaUFNVRl9fNzQyWDhNcVlDa0NKNFNYeVFqR195ZjJoMDdBMF92U0ZQOXRyVUVxUQ?oc=5",
           "draft": true
         }
       ]

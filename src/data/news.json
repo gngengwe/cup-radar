@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T13:09:05.777Z",
+  "lastUpdated": "2026-08-13T15:58:18.145Z",
   "articles": [
+    {
+      "id": "news-auto-why-south-america-is-lukewarm-on-a-2030--2026-08-12",
+      "headline": "Why South America is lukewarm on a 2030 World Cup on home soil - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3Jfb1pEU3I2M0R1QWgybG51YWNxak4zTzNkRzlKUkdjNlNCdWNpeGRLaVJZZUp4a0RJLWpYVEVDc0h2N0c4WVY3QWFFRzBHUHlKWTlGM2tOMTk5Mno5X3VUUDlNTS1DeklVMklwUk5Jd01aenZMajdreFVhYkx1Q25BeTVyMnlEaVdSYmR6UXNwUkx1QWV4YzkwTmY5SVh6WnlLYzdPQQ?",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-12",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3Jfb1pEU3I2M0R1QWgybG51YWNxak4zTzNkRzlKUkdjNlNCdWNpeGRLaVJZZUp4a0RJLWpYVEVDc0h2N0c4WVY3QWFFRzBHUHlKWTlGM2tOMTk5Mno5X3VUUDlNTS1DeklVMklwUk5Jd01aenZMajdreFVhYkx1Q25BeTVyMnlEaVdSYmR6UXNwUkx1QWV4YzkwTmY5SVh6WnlLYzdPQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-caf-support-for-infantino-is-no-guarante-2026-08-13",
       "headline": "CAF support for Infantino is no guarantee of African votes at FIFA election - Reuters",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazhPc09peXR2ZElabmptZmR1YUw4TXUtY2pYelBSMXREWVA0WEdYTzQzMS1sS1M0czkzM2xyV1lQekNmX21IN3lKNlJSdDJRNDRqa1N5TlpSR2hrMkpER0tCTkpRbU9lVk0tYS1Vc2fSAZMCQVVfeXFMT3lKLUtmR3FIc1ZrWmZjVnNpTnFOWlBJUE03ZXJ6OThvcHdYMEZQcmJ4S1hwZVVfT3U4NVBMX2Z1Nk1FaUJwcW9pbjBGT1ZabWNVT19UaHktbm4zVzAzdTIzYjZnZXoyQUVJdmdPdlRhdHd0LXg2OEZyRVdNTFFoSUwtcllxMXNyaXhjcnZQclNaLVBQc1pHM0FWekVvM1BVUTFmT2xXTnlndGVtamVNcUE0cGdZenNUODZHakpjdE54VnB5NndoZFl2RTJBc0VJd2NlcVNwanhpWWgzRExseWM5a1NWM3ZYWHBaTjN6WTRXczd3TzJuUmNNSFppbUxKalRCSnpGbm1hZWNZbzhYaFpPbVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-police-report-reveals-man-wanted-to-murd-2026-08-08",
-      "headline": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
       "featured": false,
       "draft": true
     }
