@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T10:05:24.062Z",
+  "lastUpdated": "2026-08-13T13:09:08.248Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 344,
+      "chapterCount": 345,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2769,6 +2769,14 @@
           "title": "Lionel Messi shares tribute to late father and expresses doubts about continuing to play soccer - Chicago Tribune",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzdpQTktcnFEN3duTHF3aTR0d2NaZW1YeGR5ZlI0aWVDUTB5a3hkVWVVUDFNaHExWTFPaTFMckZ4dnJuU25qTV9oeE9Pb3hQXzB4TXMtaGxNYVJsSUoyaVFubEV0a0p6NUpRUVVwSU5NSHlhS2lobXZCT1B2bEJ1bnJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786626546238",
+          "date": "2026-08-13",
+          "title": "Lionel Messi Returns To Inter Miami Action After Father's Death - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFVseldwM3BqbTNLNFNmV2cwekp4WWRXeFpjTFU0eUt2U1Qyc0pvUmQ1T3UzV3VoZTVvcXlzTWt6Q1lFLW1CeEZYeFktZnBoTGNteXVoVk9jV3VKdFhpZWE5RkwyeTB2MmZKZjhIWU1jSk4tdURuVDZSYjNfZWJaQmRfeVA2bmZvRENBQnRwRjhPZ9IBkgFBVV95cUxPMmx5TEphY1ZGa2VlTFBaNlI3Z1Rva3pZbUdZMzJNbXJmN2NFYkhvZkJ0YVl2dGdhUVB1WDBUX2tZbllGYVZmNzlfN28wRDN2d0tHZmhVOExQdjlUbm5nM0JucmpsSGxSOVp2VlM0NFY5R2duY2c2d1pYdkN5eWhzV2dSaFRPc3VMQ1Q5QnBOZmRMUQ?oc=5",
           "draft": true
         }
       ]

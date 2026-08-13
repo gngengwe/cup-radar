@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T10:05:21.520Z",
+  "lastUpdated": "2026-08-13T13:09:05.777Z",
   "articles": [
+    {
+      "id": "news-auto-caf-support-for-infantino-is-no-guarante-2026-08-13",
+      "headline": "CAF support for Infantino is no guarantee of African votes at FIFA election - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdndlRxVUdyRkRlLUt5YjBRMnNqaXV2MUJ5NU5NM2lKcmJsVFIxVzh5S1M0RnpsWkVxRVNKTi1NRDRqbU9LNWx4RzNfMGtMUXE1STIxRWVHRTBiaXByYmpkOEdxbUZUNjkzUHZyZHNvTHY1ajJJSHNhdG90bDF0SG04dzJubXowdEsySUlsVzFydDJodWZvOXhfcUpmSXM3SF9Qc041cXV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdndlRxVUdyRkRlLUt5YjBRMnNqaXV2MUJ5NU5NM2lKcmJsVFIxVzh5S1M0RnpsWkVxRVNKTi1NRDRqbU9LNWx4RzNfMGtMUXE1STIxRWVHRTBiaXByYmpkOEdxbUZUNjkzUHZyZHNvTHY1ajJJSHNhdG90bDF0SG04dzJubXowdEsySUlsVzFydDJodWZvOXhfcUpmSXM3SF9Qc041cXVvbXZuV3Y4ZU5XLS0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-missouri-soccer-clubs-say-young-players--2026-08-13",
+      "headline": "Missouri soccer clubs say young players 'fell in the love with the game' after FIFA World Cup - KOMU 8",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQMXdEVXk1eDlnaFE1OHFLcXdYcFkzVTJEY1B3ZXBDSGJDWnJqeVZQTXlIUi0zTTB4VWpxOEFnM1hGVmFBNF9GemhNT1lqZ1poLU93ODRERU43dW9jaFdLb2tUME5YOWpPWkI2NzltTVA4N2paYTFHVkxGa1RFY2hIaURIMDc1NUJrc2x2TnVwU01Hbzl3amFNWGpNUDltTi04VEhoTVNSYzV",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMXdEVXk1eDlnaFE1OHFLcXdYcFkzVTJEY1B3ZXBDSGJDWnJqeVZQTXlIUi0zTTB4VWpxOEFnM1hGVmFBNF9GemhNT1lqZ1poLU93ODRERU43dW9jaFdLb2tUME5YOWpPWkI2NzltTVA4N2paYTFHVkxGa1RFY2hIaURIMDc1NUJrc2x2TnVwU01Hbzl3amFNWGpNUDltTi04VEhoTVNSYzVoa1FJVmhvYWVfWFNvSTNCYlBzSnZ3V3BJbW5mMlQ5QzM1N3FTMk4yTUJhRkNrbkpPczBUb1JlVDBLaGNRT2RrLUhRUU5JX3BSaldLMlRUeElKQVVKdjk1TFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-qatar-morocco-among-six-arab-federations-2026-08-13",
       "headline": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-s-father-jorge-dead-at-68-w-2026-08-08",
-      "headline": "Lionel Messi’s father, Jorge, dead at 68 weeks after 2026 World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaTEwR0J6ak93SmFsVXdUMDJpV201X1B3dEpNaGg5NWs5Ty02b19kbkpXcERnZ1RkT2tYMzBNQ3JXQ2kyOUNpWGlfTXdPR25hbjhnR1M1N3hoOThIWnJfV0xMN0tQU2ZZT1lkWk1yNzRKWV8xRXdBUU9EU0xVeERFdmh3UW9QUQ?oc=5\" target=\"_blank\"&gt;Lionel Messi’s fath",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaTEwR0J6ak93SmFsVXdUMDJpV201X1B3dEpNaGg5NWs5Ty02b19kbkpXcERnZ1RkT2tYMzBNQ3JXQ2kyOUNpWGlfTXdPR25hbjhnR1M1N3hoOThIWnJfV0xMN0tQU2ZZT1lkWk1yNzRKWV8xRXdBUU9EU0xVeERFdmh3UW9QUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-thanks-kansas-city-for-its-historic-2026-07-24",
-      "headline": "FIFA thanks Kansas City for its historic role in the 2026 World Cup - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJGMnZQMFHSAbMBQVVfeXFMUHR6Tlc0SGJSRTdkdzg2eXQ4dXdfal9CUXdfa0JVVHNwbVlMVTV6S28wVzZxZ1ppSFBJZEU1WGRkNmxfU0lqNC0wVE5aaXBZcklVWmRhZENHRFZNU1NpcG9KeGxLUEw1ZUIycWloOVYwa2tIdTBpRkR6blpPRjBwSnRLSWNteldoOElBQUFubkdJTm5ZZ0dUZm5sS3NJMzdvN3o0MmJzTzJYS2c4U1JjdURHaUU?oc=5",
       "featured": false,
       "draft": true
     }
