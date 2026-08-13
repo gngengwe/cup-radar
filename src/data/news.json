@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T04:50:02.554Z",
+  "lastUpdated": "2026-08-13T07:25:57.626Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-2026-us-punches-ticket-to-2026-06-11",
+      "headline": "FIFA World Cup 2026: US punches ticket to World Cup knockout round after 2-0 win over Australia - ABC7 Los Angeles",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2h0cGc5WjktMVZOcl9peGpMRDFaSnJsWE1YLTAybzhvT19OSG91aUlZMXEtQ21pSnJBNG9tSUc2U0ZHd2luUS1jcVh0SVdDdU1PUDJ0QzQwYmwxVFZKWklYNnNSdnh3dzlPN1VoeDZYc0hBUEl3RTNnRUpsZnVLNzl6SlJiX3kxR3E5cU9veUdrWDVYOGY4VXF1c3R4dmZ6Z1VROHFaNl9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2h0cGc5WjktMVZOcl9peGpMRDFaSnJsWE1YLTAybzhvT19OSG91aUlZMXEtQ21pSnJBNG9tSUc2U0ZHd2luUS1jcVh0SVdDdU1PUDJ0QzQwYmwxVFZKWklYNnNSdnh3dzlPN1VoeDZYc0hBUEl3RTNnRUpsZnVLNzl6SlJiX3kxR3E5cU9veUdrWDVYOGY4VXF1c3R4dmZ6Z1VROHFaNl9XbW5UU2RPU0pSbE1VVWJZakE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
       "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuTW5kS2tXSlpyOXZGVG1nYkxzUFZsajhEekpZWTR4ZWhaQlNxVjU0VEM5VDhidXQyWGdjbDJqTzVsRnFncEYwUHlwVVcyaW42MXdLVENETUwzN1g1d0dqSmtMUFRRNnhUR2xhTnk4UQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
-      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
-      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--you-have-to-fire-him-fifa-boss-alleged--2026-08-07",
-      "headline": "‘You have to fire him’: FIFA boss’ alleged affair exposed in fresh twist to football’s civil war - Fox Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxQbHE1dV9JVzJoeGMza3p6SWRMdWR5Sm1WTWpCOWFBUVAwNlJKbW01NkdLdHk3NGttblVJSmIzbWtWVFdSb0dtUzRkaFBKRkZCcHRiSHF4MnRCejhqdzAxNnBqWFZodGRSLUN6NmtzYnphMXAwQVdFZjdyM3NIQmNuLTlSdFd1eXFmVFV6VG1LRzBwMGhMMEpJWVZuM3Z4R0hNcWdkVWFNaE1",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-07",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQbHE1dV9JVzJoeGMza3p6SWRMdWR5Sm1WTWpCOWFBUVAwNlJKbW01NkdLdHk3NGttblVJSmIzbWtWVFdSb0dtUzRkaFBKRkZCcHRiSHF4MnRCejhqdzAxNnBqWFZodGRSLUN6NmtzYnphMXAwQVdFZjdyM3NIQmNuLTlSdFd1eXFmVFV6VG1LRzBwMGhMMEpJWVZuM3Z4R0hNcWdkVWFNaE1ydk1fbm1uWFIxVFlRSEt5TXNvWW9TNEFEcW9YcXlZbXo4czdrZHk3M0F4Q2xFeWdIV0hmZXNIZlc0dE9JN2FSZDBqc3dJdHc3MFhVSDNLUmstVHdkMDNKNk1QbTVXeVhldmFHb2tZZjdRekZ0UTdNTm93SXZRcHljZjhKZlRCWlZLcnRmZjJFQU0wdkFFYUxUYzRYbGVuX2hsT1Z6Mk51ZXlmM3dhS0RoR0JvN0EzNGRYQlU4QUprcy1xYWRIYl9HWTRLRFN5M0xCNkhEUHJ5OWVkdNIB_AJBVV95cUxQbHE1dV9JVzJoeGMza3p6SWRMdWR5Sm1WTWpCOWFBUVAwNlJKbW01NkdLdHk3NGttblVJSmIzbWtWVFdSb0dtUzRkaFBKRkZCcHRiSHF4MnRCejhqdzAxNnBqWFZodGRSLUN6NmtzYnphMXAwQVdFZjdyM3NIQmNuLTlSdFd1eXFmVFV6VG1LRzBwMGhMMEpJWVZuM3Z4R0hNcWdkVWFNaE1ydk1fbm1uWFIxVFlRSEt5TXNvWW9TNEFEcW9YcXlZbXo4czdrZHk3M0F4Q2xFeWdIV0hmZXNIZlc0dE9JN2FSZDBqc3dJdHc3MFhVSDNLUmstVHdkMDNKNk1QbTVXeVhldmFHb2tZZjdRekZ0UTdNTm93SXZRcHljZjhKZlRCWlZLcnRmZjJFQU0wdkFFYUxUYzRYbGVuX2hsT1Z6Mk51ZXlmM3dhS0RoR0JvN0EzNGRYQlU4QUprcy1xYWRIYl9HWTRLRFN5M0xCNkhEUHJ5OWVkdA?oc=5",
       "featured": false,
       "draft": true
     }

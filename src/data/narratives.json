@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T01:56:47.295Z",
+  "lastUpdated": "2026-08-13T07:26:00.138Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -10650,7 +10650,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 495,
+      "chapterCount": 496,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14610,6 +14610,14 @@
           "title": "10 Most Expensive Soccer Transfers of Summer 2026, Including Morgan Rogers to Chelsea for $158 Million - Sportsnaut",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMHMweUVuSFJSeVRuaU8xSjBVN2FNY21rRWwxaldvYmxaQjRodXM3VE90cVg2eVM3cmxEb1otN2UtZTEzLURMaVFmYXdJZHQ3ZndaU1BuamR4NkZGWmJVQ2hLN2ZfT1BRT0Z2ODVyTk5pZldGbWtnLThiODVkUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786605959771",
+          "date": "2026-08-13",
+          "title": "India withdraws from 2026 FIFA ASEAN Cup to play Brazil at home - VnExpress International",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXVEQ2R3M08yRVRRN3lPck1iYl9zUVQ1aGhmV0hzVjl5SjFzcGZVN2VwZ1Z3UEpYX0hicUVackJ6bkdaVTdKbDk1bVQ3MEtOQ0oyZGZwV0MxRHNjdW83eDJrVDA3b1NqbzU3c0dMTzJqODBlWE9JMkJfNEdFV2pFZWpndll3VjAtRDVPeFFtNVJhekljZWM5ajNsQkx4VFVlTFR5Mmd0TzJSQUhNeXpjeVpaZEV6d2p3c2FTYlNn?oc=5",
           "draft": true
         }
       ]
