@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T15:58:18.145Z",
+  "lastUpdated": "2026-08-13T21:43:51.562Z",
   "articles": [
+    {
+      "id": "news-auto-how-spain-s-ferran-torres-built-the-powe-2026-08-13",
+      "headline": "How Spain’s Ferran Torres Built the Power and Speed to Score the Winning World Cup Final Goal - Men's Health",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXpGZXJ4aC1HNFdrbGtWdnJzTDhpOW03SjFHUmZhcFBkVUU2dzJzVzFJb2QzekJKUHF0QkItVndnb3NnSzVtdHN0dDlTTVlfVjZHTnhaVmtEM0xBVXF5S3dkdHQxOWlwVi1mUTJ3REpDaXU2NTJ0NFJvVHRua3VPWkpUTlpMVmJsUmhj?oc=5\" target=\"_blank\"&gt;How Spain’s F",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXpGZXJ4aC1HNFdrbGtWdnJzTDhpOW03SjFHUmZhcFBkVUU2dzJzVzFJb2QzekJKUHF0QkItVndnb3NnSzVtdHN0dDlTTVlfVjZHTnhaVmtEM0xBVXF5S3dkdHQxOWlwVi1mUTJ3REpDaXU2NTJ0NFJvVHRua3VPWkpUTlpMVmJsUmhj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-where-to-watch-the-world-cup-final-in-se-2026-07-17",
+      "headline": "Where to watch the World Cup final in Seattle? We have lots of ideas - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2R",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVhIdGxITDd6bEo2eml1UnUwWFh0ajEzdjFFTzFtZ05fanFCbHBSNTZ3dnpEUmM5NzF4SG1IZEg2U3VIajZ6SkJPY2lMaUZCUEZ1OXR2eEx5YndNdHItM2hNZnh0b0QtRVZPZklBSURzS2ViWGdFRmIwWTRfeWFXeWh0UTlkb0FMRmNmdEVlVk5zSFpBR1pFc0llcDNXLUJqZmo4RWdGV2RxdVQzT2JpMmxMRGYtejRBaWJCMnk4c1hqMXFH?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-why-south-america-is-lukewarm-on-a-2030--2026-08-12",
       "headline": "Why South America is lukewarm on a 2030 World Cup on home soil - ESPN",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3BCV3BJdHVDcVhsMUlLX2dUbm9wLTNWalpvZFQyUkZaU2tEVm51V3Z0eVVxSHdSOGdKUjFZeHpPZmdTTTlpcU5uRnZ3UlVGYjR5YjNJaE1sMXRmSVZmajVNdjRyVVBITWFGZHZTN2dQaERHZkswSE9YYkxqOGNoUV9QbTd6ZjZTTHNv?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-adidas-spain-2026-world-cup-winners-2-st-2026-08-08",
-      "headline": "Adidas Spain 2026 World Cup Winners 2 Star Kit Edition Released - Available Next Week - Footy Headlines",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVY2SHM0S3B0QzBWWTVpdFgtcEpsSFcyLVE1OFFvdkR3bGJaX040eUpxZ200bVpGVS16UnNqbW8zQUV6VUlDZEZXV21BeXZkTTFzNExwa3FmSlFicUVkREtBVEg0ZmJaY3g2WTlpRklnV3FMUm9jWnQyVW1Ib0JCOEdyUHFnWVFKTEhrOFF3TjJhNFhUSGRwTUVGbVYyZUFTcXBxRUdoVk9",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVY2SHM0S3B0QzBWWTVpdFgtcEpsSFcyLVE1OFFvdkR3bGJaX040eUpxZ200bVpGVS16UnNqbW8zQUV6VUlDZEZXV21BeXZkTTFzNExwa3FmSlFicUVkREtBVEg0ZmJaY3g2WTlpRklnV3FMUm9jWnQyVW1Ib0JCOEdyUHFnWVFKTEhrOFF3TjJhNFhUSGRwTUVGbVYyZUFTcXBxRUdoVk9MenJzVzRmRFFzSWI2U0NhTUxCNEFUQnZyaGlQLUlBOUN3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-faced-chilling-death-threat-2026-08-08",
-      "headline": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News - Hindustan Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazhPc09peXR2ZElabmptZmR1YUw4TXUtY2pYelBSMXREWVA0WEdYTzQzMS1sS1M0czkzM2xyV1lQekNmX21IN3lKNlJSdDJRNDRqa1N5TlpSR2hrMkpER0tCTkpRbU9lVk0tYS1Vc2fSAZMCQVVfeXFMT3lKLUtmR3FIc1ZrWmZjVnNpTnFOWlBJUE03ZXJ6OThvcHdYMEZQcmJ4S1hwZVVfT3U4NVBMX2Z1Nk1FaUJwcW9pbjBGT1ZabWNVT19UaHktbm4zVzAzdTIzYjZnZXoyQUVJdmdPdlRhdHd0LXg2OEZyRVdNTFFoSUwtcllxMXNyaXhjcnZQclNaLVBQc1pHM0FWekVvM1BVUTFmT2xXTnlndGVtamVNcUE0cGdZenNUODZHakpjdE54VnB5NndoZFl2RTJBc0VJd2NlcVNwanhpWWgzRExseWM5a1NWM3ZYWHBaTjN6WTRXczd3TzJuUmNNSFppbUxKalRCSnpGbm1hZWNZbzhYaFpPbVE?oc=5",
       "featured": false,
       "draft": true
     }

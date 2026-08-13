@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T15:58:21.020Z",
+  "lastUpdated": "2026-08-13T21:43:54.118Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 347,
+      "chapterCount": 349,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2794,6 +2794,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1h5SE5zYVQybG92bnJFQTdtQzZpVkhMYmZtUkQtUUl0Y1pvNzlwVkxlYkJhWmFQS0wxYks2N2NXNHA0bTVlYk0xTkxhVFJ5QzhlUGJucWllRUZRZ2tkVmo5VzBVS2llcXRETzR0RFFEZ1RrU1B5akU2T3NGS0VjSjVpaDFUTFNZeFRISnJvdDNRWFJWZnQzTk1xa2RmMlZxLWkxYkI2YzE4cEVPaFdV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786657432072",
+          "date": "2026-08-12",
+          "title": "Lionel Messi shares tribute to late father Jorge, expresses doubts about continuing to play - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkVBdFAyY3lFUWdkTmhRV0NZNmtFZzFLbEphNjJIeHk4bVByWkctRWNfdXVVZmwtWXFXdzl0Vi1ESkV2U3NZTm5oUzB0Q045TFc2TkFYMDljWEstTkZXdmVMVl9lUDNrVEdCUGQ4YXdoZ0pUVlFxYmxmZmhjX2JQLVgyZnBaTUlmdUxNVTlEN0play04Sl9YenB0eHdOYkdKYWhId1pkNDhmc1VxUlVsM2dNRklDcmM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786657432073",
+          "date": "2026-08-10",
+          "title": "Alleged murder plot against Lionel Messi revealed in police report - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUFjNU5oYS13b3EwN2lWSzJ5UWJOVjBwTU01dUU2c0ZrcDREb21NQ0xPVjF5R2hjaG1yMTNJZ0RCclNrd2hLQjZDZ0ozTUNOdGhrT1daRk9pX29Ob2xhTGFFRVpCcThPT1hnUXMxb3RRd1NaSFlhS05Ec0Nqbmp4YzdrUDhpckhDMXBr?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5295,7 +5311,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 673,
+      "chapterCount": 676,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10680,6 +10696,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGFZTHA2OWlzN29GUGt4TTdEeVFJZHJSRzBMVnlZUnl1a2FqVjlHMlZ6aUo5RkhqVlFTQjFnTkhiYlNkcXFPY3BXMmhLUEpLUzZ3YU81aURRRnZ1S1RtendxbDJpcFJXeWdqZThiOG9WRGhxa3ZQamJBN3RiY1JnZnpsdWtRSmtXN2ZLdV83ZFNqVjlzbDRzd0pPRl9tdUx5Rm9MQWRicHRPSV9Z?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786657433031",
+          "date": "2026-08-13",
+          "title": "Video - U.S. Coast Guard secures 2026 FIFA World Cup - DVIDS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWpaaFJ3cmZsTmVhcmlJVXNZekhhYWlYc2RYNGMxbTFPSFZpNHdMbzgtUHpLaDRJQnpiUnhWVWd0bm5jS2hGZkxLSnVob0xLWlh0UmFENUNFS2NGMUJhNW9WX2NkQVY4ZzJrV1dkYi1PV01iLWpyQ29MZWtOV3N1R3E1dnRFQnRC?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786657433031",
+          "date": "2026-08-13",
+          "title": "By The Numbers: USA Basketball Brings Elite Resumes to Women’s World Cup in Berlin - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGxaY3hHLWdGQi03Mm5RN2c4TlprRWxMYU5OWldpZWhlSG1Hdmk2Qnp6Q09UZG1lanlVOEhVckpwWFZtbkwyQXNRY2prR0Vzb1BqRkZzQkxiRW9Zc3RvQTZ6WUNqUmxzdm50aEluZHlKU19OUkpPWUZwOFYtTXBOQlBB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786657433031",
+          "date": "2026-08-13",
+          "title": "Why isn’t Sabrina Ionescu on the 2026 Team USA World Cup roster? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEo4UmxxQlZfZ2JId3luWFUwOHY0aVV0RWZGemE0anpRSm02QmZyLUt1Wl92UXhwU3llcjh2OTAxWXVtNE9Qc2NzaFBBYmhiUTdaa3h5NWVJdGF5RnVINnNkUU5URHc0X0w5OGd6azAya1doNmlPZkZfNEZfVjNWbm5FNy11X1hpTVp4REp6WGpYXzEwd1FLUjBqeU9tSGF1YktpcEFWbWxCNjNfZGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10698,7 +10738,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 497,
+      "chapterCount": 498,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14674,6 +14714,14 @@
           "title": "IFAF Flag Football Women's World Championships Düsseldorf 2026: Canada vs. Brazil - CBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl84MndMX1BsOVJKX3g4U250N1Z6MDJ6MUZzMDBjbXM3aDdaUFNVRl9fNzQyWDhNcVlDa0NKNFNYeVFqR195ZjJoMDdBMF92U0ZQOXRyVUVxUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786657433607",
+          "date": "2026-08-13",
+          "title": "Why India are not playing ASEAN Cup 2026 - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9lcWE2cDJVeU9JRGJOMWFzdU5DZ3lWakRtY19VbkczdGpJZnJfMlJiNEwyNDFTcXktbW93aksyd0Y2aW13cmNmUVA2cl9XbEpNUWFCU2p6eEd2c0RpUHF2WnNlcjVLaWlUQTlGUjU0SjJ2eDQ3Wm0yeFdJQ1NueVpRN3VHZw?oc=5",
           "draft": true
         }
       ]
