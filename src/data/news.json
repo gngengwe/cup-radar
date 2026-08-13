@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T01:56:44.701Z",
+  "lastUpdated": "2026-08-13T04:50:02.554Z",
   "articles": [
+    {
+      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
+      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-youri-tielemans-explains-how-fifa-s-fola-2026-08-12",
       "headline": "Youri Tielemans explains how FIFA's Folarin Balogun red card U-turn inspired Belgium's World Cup victory over USMNT as Donald Trump's intervention backfire - Goal.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-07",
       "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQbHE1dV9JVzJoeGMza3p6SWRMdWR5Sm1WTWpCOWFBUVAwNlJKbW01NkdLdHk3NGttblVJSmIzbWtWVFdSb0dtUzRkaFBKRkZCcHRiSHF4MnRCejhqdzAxNnBqWFZodGRSLUN6NmtzYnphMXAwQVdFZjdyM3NIQmNuLTlSdFd1eXFmVFV6VG1LRzBwMGhMMEpJWVZuM3Z4R0hNcWdkVWFNaE1ydk1fbm1uWFIxVFlRSEt5TXNvWW9TNEFEcW9YcXlZbXo4czdrZHk3M0F4Q2xFeWdIV0hmZXNIZlc0dE9JN2FSZDBqc3dJdHc3MFhVSDNLUmstVHdkMDNKNk1QbTVXeVhldmFHb2tZZjdRekZ0UTdNTm93SXZRcHljZjhKZlRCWlZLcnRmZjJFQU0wdkFFYUxUYzRYbGVuX2hsT1Z6Mk51ZXlmM3dhS0RoR0JvN0EzNGRYQlU4QUprcy1xYWRIYl9HWTRLRFN5M0xCNkhEUHJ5OWVkdNIB_AJBVV95cUxQbHE1dV9JVzJoeGMza3p6SWRMdWR5Sm1WTWpCOWFBUVAwNlJKbW01NkdLdHk3NGttblVJSmIzbWtWVFdSb0dtUzRkaFBKRkZCcHRiSHF4MnRCejhqdzAxNnBqWFZodGRSLUN6NmtzYnphMXAwQVdFZjdyM3NIQmNuLTlSdFd1eXFmVFV6VG1LRzBwMGhMMEpJWVZuM3Z4R0hNcWdkVWFNaE1ydk1fbm1uWFIxVFlRSEt5TXNvWW9TNEFEcW9YcXlZbXo4czdrZHk3M0F4Q2xFeWdIV0hmZXNIZlc0dE9JN2FSZDBqc3dJdHc3MFhVSDNLUmstVHdkMDNKNk1QbTVXeVhldmFHb2tZZjdRekZ0UTdNTm93SXZRcHljZjhKZlRCWlZLcnRmZjJFQU0wdkFFYUxUYzRYbGVuX2hsT1Z6Mk51ZXlmM3dhS0RoR0JvN0EzNGRYQlU4QUprcy1xYWRIYl9HWTRLRFN5M0xCNkhEUHJ5OWVkdA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-missouri-s-sports-betting-tax-revenue-de-2026-08-08",
-      "headline": "Missouri's sports betting tax revenue decreased in June despite FIFA World Cup in Kansas City - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNamoyT3JyLWF4ZmpkMVNzd05ERTktUWxiNXdWVGxHY0o2WGpUc0NmbWIzNjJIM2NFNjhmY2xZbjl2TjRackc2QTA3X29SaTJIU1J6QjdLSElLYU1VMFhLcV9TWWZQb2dwQU9Ib1hQMWpoTWNkaG1URUJJY0lCSGZTVGJoU0J5cXVCYnNvZHYxSFctT1dUTjJkdUNnQm5VWTVWbW8yeTRXcHU",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNamoyT3JyLWF4ZmpkMVNzd05ERTktUWxiNXdWVGxHY0o2WGpUc0NmbWIzNjJIM2NFNjhmY2xZbjl2TjRackc2QTA3X29SaTJIU1J6QjdLSElLYU1VMFhLcV9TWWZQb2dwQU9Ib1hQMWpoTWNkaG1URUJJY0lCSGZTVGJoU0J5cXVCYnNvZHYxSFctT1dUTjJkdUNnQm5VWTVWbW8yeTRXcHU1SzQ3QWx4dXkzcEpaU09mbHpWRjRaMHQwSm55Y2tIbVVzWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - fox4kc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
       "featured": false,
       "draft": true
     }
