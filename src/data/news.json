@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T07:25:57.626Z",
+  "lastUpdated": "2026-08-13T10:05:21.520Z",
   "articles": [
+    {
+      "id": "news-auto-qatar-morocco-among-six-arab-federations-2026-08-13",
+      "headline": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
+      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-2026-us-punches-ticket-to-2026-06-11",
       "headline": "FIFA World Cup 2026: US punches ticket to World Cup knockout round after 2-0 win over Australia - ABC7 Los Angeles",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJGMnZQMFHSAbMBQVVfeXFMUHR6Tlc0SGJSRTdkdzg2eXQ4dXdfal9CUXdfa0JVVHNwbVlMVTV6S28wVzZxZ1ppSFBJZEU1WGRkNmxfU0lqNC0wVE5aaXBZcklVWmRhZENHRFZNU1NpcG9KeGxLUEw1ZUIycWloOVYwa2tIdTBpRkR6blpPRjBwSnRLSWNteldoOElBQUFubkdJTm5ZZ0dUZm5sS3NJMzdvN3o0MmJzTzJYS2c4U1JjdURHaUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-us-police-uncover-chilling-plot-to-assas-2026-08-08",
-      "headline": "US Police uncover chilling plot to assassinate Messi at the 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1pSZVBIQThFdENTYUh2TnBTVTh2Y1F4SC1CYm05Ni1PN3k5cWYyMG9hMFVkYXVucUdLV3lxaloxS2hkUlRGd09SdDVNMDRxTkVXZGs2Z3lHOW9nU1ZPbE9SdVpqQ0pMd2RqREdMT0JjdVM1TUQ0bmlhSS12WGpUMUVIcmFxU04tUlBXNVA5TmpGUzVsX0VGa2xiWmx1eHR1NWc0RUV4THN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1pSZVBIQThFdENTYUh2TnBTVTh2Y1F4SC1CYm05Ni1PN3k5cWYyMG9hMFVkYXVucUdLV3lxaloxS2hkUlRGd09SdDVNMDRxTkVXZGs2Z3lHOW9nU1ZPbE9SdVpqQ0pMd2RqREdMT0JjdVM1TUQ0bmlhSS12WGpUMUVIcmFxU04tUlBXNVA5TmpGUzVsX0VGa2xiWmx1eHR1NWc0RUV4THN2bHZRQmktd0tBOXVKSjhPTDJBemF6RU1JVWNJa2xETzhZb3kwU0RE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-and-mexico-join-africa-in-back-2026-08-07",
-      "headline": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-07",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJHSE43allxQ3RFSklaZ9IBuwFBVV95cUxPODZWYzZZY1N0SXo4cTVNTlVQUExFempXNGtLMEpKcXJ6SnJfeUNnMlRRUUsxNUdXYUEyV2hwdnNiY2FHMllha09CR1lDbnpoR0FFcUhSZ2h4RXVaR24xOC14NVZfZjNLaTFUMEd0VlRlelB2YWhCeVhER0lvelV2blhXZzgyU2YtTXJLVE1mUDk0ZUlheEtQZEVxNjBXNkwxWWVQNjJ4UldDeEREQ0FuUnNET0pzUGJWdVpN?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-altcap-your-biz-put-one-of-world-cup-2026-08-08",
-      "headline": "How AltCap Your Biz put one of World Cup’s biggest KC small biz winners in the driver’s seat - Startland News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBuTW5kS2tXSlpyOXZGVG1nYkxzUFZsajhEekpZWTR4ZWhaQlNxVjU0VEM5VDhidXQyWGdjbDJqTzVsRnFncEYwUHlwVVcyaW42MXdLVENETUwzN1g1d0dqSmtMUFRRNnhUR2xhTnk4UQ?oc=5\" target=\"_blank\"&gt;How AltCap Your Biz put one of World Cup’s biggest ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuTW5kS2tXSlpyOXZGVG1nYkxzUFZsajhEekpZWTR4ZWhaQlNxVjU0VEM5VDhidXQyWGdjbDJqTzVsRnFncEYwUHlwVVcyaW42MXdLVENETUwzN1g1d0dqSmtMUFRRNnhUR2xhTnk4UQ?oc=5",
       "featured": false,
       "draft": true
     }

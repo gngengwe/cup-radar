@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T07:26:00.138Z",
+  "lastUpdated": "2026-08-13T10:05:24.062Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5271,7 +5271,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 670,
+      "chapterCount": 671,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10631,6 +10631,14 @@
           "title": "The Gold Standard (Ch. 15): 2026 FIBA U17 Women's World Cup - usab.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUtpTWQtWTBJVWlZRlV2WktrTHFxZGZIa0lNR1pvbDYtcFBQQWRzRExSREt2dXBsWEo2N0VraW9HWDFndzhKeFhBVU5TU1hLbThiaXFmRm1OcDlYTktXdzAtQUNpTjJEQXExM1NfLVBUZnY2cDMxcC1sS3lrWkhUN25acktZZmFVLWItMUk2bWU5c1dS?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786615523080",
+          "date": "2026-08-12",
+          "title": "2026 WMH Masters World Cup Crossovers Set to Begin in Breda & Brasschaat - USA Field Hockey",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXc0bjFkWFJELXNUT1d0eVJLNVFCU0ZoTzIxRkpqSjNtV3VYUi1VNTE5Y0NNWGUtd19CWm1ZS24tYzh2cjlvcEc2Qy0yazBwSEdLTExieVdITXpPVFlmZjJYb2dscDRmZmg1MkRsdGJEQnFoVmRpTU5nSVVDaDMtUXpVZEdhQVRSQ0g4U0Zwa1B3aWw2aUNVT3VmUFFIZkxGYmZz?oc=5",
           "draft": true
         }
       ]
