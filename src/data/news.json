@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-14T18:53:12.521Z",
+  "lastUpdated": "2026-08-14T21:24:00.526Z",
   "articles": [
+    {
+      "id": "news-auto-2026-fifa-world-cup-2026-guide-schedule--2026-06-23",
+      "headline": "2026 FIFA World Cup 2026 guide: Schedule, match times, channels, streaming and more - NBC News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEx1VDR4MWZ5bm43X1FEdFFTTnZvS2hlSXhSSnp1X1RlZlNocGJ0N1VtcGxQZjRwa25OQmw4MnJqQjNhdEFSUmFBdFZQc0ExUVpaaGVCSWl1SENGVTN3VVdRY2R4Y0ZPdDJfUmlhU1ZpT3pLUEg4QTBKejlkOF9acjdLeVFKb2lUb1lKeGpzc0FaanA4VGQ0a3h6N1R1ckIyVWVJdXVLbXV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEx1VDR4MWZ5bm43X1FEdFFTTnZvS2hlSXhSSnp1X1RlZlNocGJ0N1VtcGxQZjRwa25OQmw4MnJqQjNhdEFSUmFBdFZQc0ExUVpaaGVCSWl1SENGVTN3VVdRY2R4Y0ZPdDJfUmlhU1ZpT3pLUEg4QTBKejlkOF9acjdLeVFKb2lUb1lKeGpzc0FaanA4VGQ0a3h6N1R1ckIyVWVJdXVLbXV1dzA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-08-14",
       "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-03",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-morocco-algeria-book-world-cup-2027-spot-2026-08-09",
-      "headline": "Morocco, Algeria book World Cup 2027 spots with quarterfinal wins at WAFCON - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-09",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-watch-fifa-world-cup-2026-live-free-sbs--2026-07-28",
-      "headline": "Watch FIFA World Cup 2026™ Live & Free | SBS On Demand | Stream Free on SBS On Demand - SBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqN0N1VklEUTYtYmNIQTNmTjYtLXpEalI1S1lReXZoOXlrVWZmUlpJRGdsTk5GUUF6ZS1wMkF5Rk5vM082N3owSGxGZVFIY1U4S252TVgxSFdPSHB6bHlnNA?oc=5\" target=\"_blank\"&gt;Watch FIFA World Cup 2026™ Live &amp; Free | SBS On Demand | Stream Fre",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-28",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqN0N1VklEUTYtYmNIQTNmTjYtLXpEalI1S1lReXZoOXlrVWZmUlpJRGdsTk5GUUF6ZS1wMkF5Rk5vM082N3owSGxGZVFIY1U4S252TVgxSFdPSHB6bHlnNA?oc=5",
       "featured": false,
       "draft": true
     }

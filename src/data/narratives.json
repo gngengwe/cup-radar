@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-14T15:51:17.953Z",
+  "lastUpdated": "2026-08-14T21:24:03.009Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5311,7 +5311,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 681,
+      "chapterCount": 682,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10760,6 +10760,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzJoNVFVeFpxM3dYYnFYTVZ6ZHR3LUg3V1RWX1JzRmptUk1vT2RvTFFTLXpsRGtQNF9lT3RtSXZHcTZVMFd4TWpYN3JHaDRXNHp4ejI3dWNyVDlwN1RlNkZaaDZZNThaRnFCUzdSSC13b3k1S3lra2o2cjFEemhoOWhPSThYbG5qOWJzSmtyVU5zb2ppZzBpY1BrZWVoM1hwY0hRbXUzcG9fRFBkZktGUTRTNVF5UHRmaWNkWjdCMFMzUk0teU1XOUtWOWRDTEV0dkt6akM2aTg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786742642022",
+          "date": "2026-08-14",
+          "title": "American Samoa, led by Taulia Tagovailoa, stuns U.S. at Flag Football World Championships - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUdaSUtQb1pCczJNTC0yYmVHcjNrRWJ0RS1naVQ2bkJONG40cUtmYzJwZnZuQmtNNGJXQUlfS2ViWmQzR21qRGZucTJlUDlLQzBXLWtfLUhoOFdxRHpXeE54aEtobS10N2taY1oxVTM2MUdFLV9NQloxVGFiT29iZnBFeEV4dVZERlpET1ZxMXR6OGlRdnVDcmJ0ZWR1QkV0Znc2dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10778,7 +10786,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 499,
+      "chapterCount": 500,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14771,6 +14779,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVjTkpMWnE2UjlHUS0ySnh1UTZ5cllNWlg3ekVvMk1NVEYzZ1AwYkhpT1E3TnpLalMwSm8tRE1TVk5WOWRYV3cxdzRPZjFaVlZLalRlLUpDa1VPX1ZPa21QRU5xU2FlV0xmdWwwVllQUklnWUV3VGZuWEszQUlTbGN2ZHdLbjVXVkI4U2xoZ0FkUHp1V1FFZlpUTWplY2pxcHJTN2ptc292SWUtUmRLV0I3cDQwUmhlbXZqUkJWVDdpY25hY01HWUhCaGVNa3FNRll2UE94cHlaMGZNdEx6NVRIai1wLVhlR2I0RFJ6NkUwbWs?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786742642484",
+          "date": "2026-08-14",
+          "title": "TV Globo Runs Brazil’s First Live-Sports 4K DTV+ Test; Triveni Digital Powers Chain - Tech Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXJITTF3c29JOXhMVnlueWcxcElCc0hfbm9OOFlkaXNfSXRlS19NR294X3FfSzdVbU1yR3ZLS0tLMlYxLTM4bkNrbkF3YnRxbVhXeHRNRGY4RUhScmVZRFNIeU5qWUJ1YTJnTWpOQ0VXdWdKYmoyY2dXX2RDX3RLRk44dXF4QWNZbGczcUVXVWtSTlpxZ1pnS3RPRm1RUDFoZFU0QUt2MmZ3UDBEdkxiXzNSdE93a0c0QmpBMl9oVWNLOWNCOGRWZkwyaWFlNGd2?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15000,7 +15016,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 774,
+      "chapterCount": 775,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21192,6 +21208,14 @@
           "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786742643009",
+          "date": "2026-08-14",
+          "title": "England FIH Men's Hockey World Cup 2026 Squad: Check Captain, Fixtures, Pool Group, Where To Watch And All You Need To Know - The Sunday Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTZ6bGZXTUMyUjNGekFSUDNrMmM1VGRIZHppSVExRU5MOVlvT1RfSjVrUG1RUHgxa3V1anBQRjlVZzl1TEF4ay1YUUdRclNlM3MzeUtleVozaVhjeUFCTWktLW1Ka0VyWXp1UjA0ems4aUFCSzRUNGlxbnlsblpBekNsWHhFdThFUUJRYTBid0poOUEtX2Z0WHR0UjAzWU5KbnVURkNDeTFZZjcwalpYVVJaRENMc3VxdkxvamY1T2tQTWlXU3MwSEh1SlJWb1dWSVdfQ2M2MTlQeDdWNTZqaHJfMnRqcUtwMUdYOExJalNKQWdfbVFr?oc=5",
           "draft": true
         }
       ]
