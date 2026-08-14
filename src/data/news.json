@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-14T01:54:38.016Z",
+  "lastUpdated": "2026-08-14T04:47:29.597Z",
   "articles": [
+    {
+      "id": "news-auto-somalia-s-top-referee-omar-artan-reflect-2026-08-14",
+      "headline": "Somalia’s top referee Omar Artan reflects on historic UEFA Super Cup duty after missing 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnVGRk84Y2NzSHp5NFFRdkRjWFVxWkFPUmFYVTRScnlDYlZPTXF4ZWx3dG01UjJGUkp0Sy13UmhtOVVXV2ItZFBqOUZRSVdfSEc1WjJ0UWVpSE1OS01WSVlDb0tsVEFMVl9CUXdJcVhHUDlKbHJNMVdac29FOTY0Rmk4ZlFDNk1Ua21qZm1od19MNmxqZXRIU2thM2E1X2w0ME5JRmI3NTh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-14",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnVGRk84Y2NzSHp5NFFRdkRjWFVxWkFPUmFYVTRScnlDYlZPTXF4ZWx3dG01UjJGUkp0Sy13UmhtOVVXV2ItZFBqOUZRSVdfSEc1WjJ0UWVpSE1OS01WSVlDb0tsVEFMVl9CUXdJcVhHUDlKbHJNMVdac29FOTY0Rmk4ZlFDNk1Ua21qZm1od19MNmxqZXRIU2thM2E1X2w0ME5JRmI3NThwNUxENmkxN0szbUotaVBaQ2o5M0YtT20zUUl0QmxvQUg3LS1BRFFRYXNJa0hxel9nU0Z2VHVGQWJiVW9DTGpDeVY3VlFzaUs3RFU1V1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-approves-2031-fifa-women-s-w-2026-08-13",
       "headline": "Kansas City approves 2031 FIFA Women's World Cup, 2031 Men's Rugby World Cup bids - KMBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-07",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-surprise-over-algeria-s-world-cup-welcom-2026-07-24",
-      "headline": "Surprise over Algeria's World Cup welcome shows how media misunderstand Kansas and Lawrence - Kansas Reflector",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFQ0SEN4bDM2YWRJUEVnZTd1dkctZEluSy1WMXlfbnVHQmlIemtGZk5DVktnU1Boci1nVWJzVjFGelZlNjdPeHJHSzhMV1Z0V1ZsZzAwN0M3OWFEZjR0WURJclB4WmdtSC01cXZLVnFTZWF0eWM3czlpTlB2Tl84WFNQc0pwQnVnUUhrS3JWUUR6R052cUc2V3ZqRk5UN3JPTVNsU2ZIeHJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFQ0SEN4bDM2YWRJUEVnZTd1dkctZEluSy1WMXlfbnVHQmlIemtGZk5DVktnU1Boci1nVWJzVjFGelZlNjdPeHJHSzhMV1Z0V1ZsZzAwN0M3OWFEZjR0WURJclB4WmdtSC01cXZLVnFTZWF0eWM3czlpTlB2Tl84WFNQc0pwQnVnUUhrS3JWUUR6R052cUc2V3ZqRk5UN3JPTVNsU2ZIeHJSaWVXU2J3dzM4M1EzSzR3RDZGZ1paWUhhUWViUGl3d2dR?oc=5",
       "featured": false,
       "draft": true
     }
