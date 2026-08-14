@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-14T10:00:32.067Z",
+  "lastUpdated": "2026-08-14T13:04:54.490Z",
   "articles": [
+    {
+      "id": "news-auto-andrew-giuliani-backs-gianni-infantino-t-2026-08-14",
+      "headline": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXQyNExFeGtKM3diUGF0enNEcWt5dmExMmdYajBIcFNiZWU4QjREMm9VcXg2QUs3eS1yVHd6NUdhSnQxQXFyc2VZNFNfeGFLTjZpWmh0OXFpTHhzT2JqVmdPcjk4QkcwSEZCR2tmTDlwYm1yeEF6d2paYVhyeFpSaGhTdFBpYVlJMnNyeXFtNlltQ3p3?oc=5\" target=\"_blank\"&gt;A",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-14",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXQyNExFeGtKM3diUGF0enNEcWt5dmExMmdYajBIcFNiZWU4QjREMm9VcXg2QUs3eS1yVHd6NUdhSnQxQXFyc2VZNFNfeGFLTjZpWmh0OXFpTHhzT2JqVmdPcjk4QkcwSEZCR2tmTDlwYm1yeEF6d2paYVhyeFpSaGhTdFBpYVlJMnNyeXFtNlltQ3p3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-fifa-world-cup-should-belong-to-fans-2026-08-13",
+      "headline": "The FIFA World Cup should belong to fans, not super-rich investors - The Conversation",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-carrick-confident-world-cup-experience-w-2026-08-13",
+      "headline": "Carrick confident World Cup experience will benefit Man Utd's Mainoo - beIN SPORTS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDR2MUJGUnE3UWlNRkE2dDVlMVFSNDhiMGpkRmZZWnVUSzNTZm9GMmRaaDBFMEh2NkJkQ2l0WDBIVHRtaUtYbm9YWmNfbGFNcDh5TXNZQ05zdWJadmVPRHphT1VEXzdmbW5DcXVDN3VieW5OQjlfMVF5NVg0UWR3V2V0blhFZkdRY2xwNDdCdlBJUjBwU0RsYTh5TjNJeWdlN2hNSy16dHR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRDR2MUJGUnE3UWlNRkE2dDVlMVFSNDhiMGpkRmZZWnVUSzNTZm9GMmRaaDBFMEh2NkJkQ2l0WDBIVHRtaUtYbm9YWmNfbGFNcDh5TXNZQ05zdWJadmVPRHphT1VEXzdmbW5DcXVDN3VieW5OQjlfMVF5NVg0UWR3V2V0blhFZkdRY2xwNDdCdlBJUjBwU0RsYTh5TjNJeWdlN2hNSy16dHRpck5iaEFJVjNCckpQNUlHdnEzUjBjUDdPUl9uT2s1dHo3WVJncFRPQURYNUpveV9ySGJ2Z09lVg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
+      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--this-was-my-world-cup-how-referee-barre-2026-08-13",
       "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup - ESPN",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-09",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDBBeGRzelFtVWNaaDdKNW1OQnhJMWlZSzhObjhrMjdxbGZzRnZObDNsczN5RUVScm1yMWhmdi1Nd1RtRDNDRHJpSmlQS2p5M3hCU2g2aFVqVFljR29zdDVQaVJqbXVFMVVXeC14eV95UU8ybExKVUp1UnJBNXZ1TlEzalJPeGdhelA2eGdhNFhOQjcyelFGREhPd25QU1BiVVlDaU00TkVFeGJsa2U2SmtlQV9yeVNhZVZoOG12VTdiSXFwajJxMzgyVFpsTWJVekdQRVFFaktSMDZNWUN4cHhZNmV5WFRrNlJ1TGhn0gHuAUFVX3lxTE9PQ3VQQy15ZlNhOFAtNjFTVGVJSER6cWM5UW1oYk94T2FJVGo5aGJidlNZcmxiaE9VNUJPY2dCN1llV1BzYjNaSkg1M0drcEVtNXZCZXpOTFNpQzQ5LUthajF2WXZVQzNKamdvbE9YbGh0VGlWQVNnZzdkenRQcU9QeDZ3TzJ3OGZ2YUw1MmxKQ1FUcV80c1ljb20tTFZ0cGhCZXZtTGEtWGxtcVNyaDNCV0FUd0pZcFR5LXQ2Y1hlV283TnRtNGFXeHZKbWxINW1lZkJLcmFpUGktZ3l5VTNQSmhmQUNoTHJZOW80T3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-morocco-algeria-reach-wafcon-semifinals--2026-08-09",
-      "headline": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-09",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB0gG3AUFVX3lxTE5reU1QRi0xRkdwRWYtVGs3c1lmNktVYXljb0JaWjNIM0E0eW1OM1Bka2NGQjVwbUZXeG4xT2NJVzlkZElpdWJYcERjaHA3enROLU1SVzI4eWJFdUlhLU9mV19HdzduZjlvWGFUekVjOFduUnhQYjBFNVVhTmp2VVBEekwxYWFUQUlPb2dDUm0xdklQTU52aVpuUEJKM05rYXUwNzRubEhvdEtuN3RwY1pVR2tORE12VQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-messi-and-ronaldo-targeted-by-threats-du-2026-08-08",
-      "headline": "Messi and Ronaldo Targeted by Threats During 2026 FIFA World Cup, Leaked Security File Reveals - Morocco World News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmhoTFNVcHNTSGN4Z1lIVDVza1pZZEVncWM5OHdDbHEyODVfMmYxYl9xT21FZEI3bHNGN2tMTFRKWFpLb3lZUm1saUtSRjdBT0t4a244cmlwMjdOTTd0ajdqbkhKRmJqdDdZWWU5ZVI2NjlFY2lqN3JOQ084WWNicjJ1MnBaRFE0aVdmbkk1alZtSkFvZVloU3dpRmRZVy1od1ZsSjhMZXR",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmhoTFNVcHNTSGN4Z1lIVDVza1pZZEVncWM5OHdDbHEyODVfMmYxYl9xT21FZEI3bHNGN2tMTFRKWFpLb3lZUm1saUtSRjdBT0t4a244cmlwMjdOTTd0ajdqbkhKRmJqdDdZWWU5ZVI2NjlFY2lqN3JOQ084WWNicjJ1MnBaRFE0aVdmbkk1alZtSkFvZVloU3dpRmRZVy1od1ZsSjhMZXRnRm54QU81aU9uSXRQNzRFb20yUVU1UXNTT3V6dUFuZnJOUUd3bkVSRk9iWF9IY21HUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--lionel-messi-bomb-threat-chilling-fifa--2026-08-08",
-      "headline": "'Lionel Messi Bomb Threat': Chilling FIFA World Cup Terror Plot Revealed, Cristiano Ronaldo Also Targeted - Republic World",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPei1DV3R0TUpuRDhlRm9lTFBieTlNYzhSU05Pbkh5RGVCOElQV2R4U0tMcTV3aDdYUmpGb1ZZanFvcnFwZThUM1R2Ujl2ZDkzU3BaanEwSUVNaDRTR1VOanFnelVSRTFCalpnOXlRSDFaMjh4Vkh1TkVyemFaVkxJUnNHU1ZyTXZyU2h6VlM2VWo1aE5ZYVh6ci00dUYxR25BUDJLYm5zVll",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPei1DV3R0TUpuRDhlRm9lTFBieTlNYzhSU05Pbkh5RGVCOElQV2R4U0tMcTV3aDdYUmpGb1ZZanFvcnFwZThUM1R2Ujl2ZDkzU3BaanEwSUVNaDRTR1VOanFnelVSRTFCalpnOXlRSDFaMjh4Vkh1TkVyemFaVkxJUnNHU1ZyTXZyU2h6VlM2VWo1aE5ZYVh6ci00dUYxR25BUDJLYm5zVlluUXljMG1ralRuaTdTUjdzQzg5eG1TcXJ4Q0I1eW0ta0d2YXpyNTdVNHN0QW1ZMkxBS0pFMW5XMXp6QVY4U2g1Sjg2bG5mamNnWTBFTjZVX9IB_gFBVV95cUxPZkJlY3NJYzRiZ1NsT08wOXdTNUtDZGNkNnFUNFFMQmNKRnpGeE5uZGVYOHpQVkdVaXEyQUUzR1pacDBTSGdkLUhYbnZhLVByRW9wRExQWGN6NzZDLWlGVlRJaFdqVEJqc3ZrbzhubU9SODVVajY3S1FnSmQ5YmtmZWlEQmNrMFc0SGUwLTZ3ZmloaFRhZEJ1bTZYWFFjb1NXNFkzMUpMckt6WkdDQTZSZFJmbmRfSWFXLXhpUXlIYTVfWlNReGdfR3dfY3gtZUhKNVpaZjM1SEFLR3FoSjBVUjZZR09pZ1pTUUcyX29VSlBlQ2FQRkVxSTFpVS1Zdw?oc=5",
       "featured": false,
       "draft": true
     }
