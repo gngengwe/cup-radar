@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-14T13:04:54.490Z",
+  "lastUpdated": "2026-08-14T18:53:12.521Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-08-14",
+      "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-14",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-where-to-watch-fifa-world-cup-2026-week--2026-06-15",
+      "headline": "Where to Watch FIFA World Cup 2026™: Week of June 15 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5\" target=\"_blank\"&gt;Where to Watch FIFA",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-is-bidding-to-bring-more-wor-2026-08-14",
+      "headline": "Kansas City is bidding to bring more World Cup matches to the area in a few years - kansascity.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPemROWDVITkFSTUoyaHU4YlhENFBrODNfTWFHVWt5QzlyV1pCdnItTXd1TjdjeElLc1UtZlc2NHdiWVU0UC12eF9lYnk4VGkzdFRibnhEVUNrV0xaUDRGZ3Y0eUhfaUNZcDdPa1hRVmhabFFTVEo4b2xrWThUY1hUcWJXYU1TSEtiSVp5eVEyd0wzQdIBkgFBVV95cUxOMm4yUUNCVFd4aDl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-14",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemROWDVITkFSTUoyaHU4YlhENFBrODNfTWFHVWt5QzlyV1pCdnItTXd1TjdjeElLc1UtZlc2NHdiWVU0UC12eF9lYnk4VGkzdFRibnhEVUNrV0xaUDRGZ3Y0eUhfaUNZcDdPa1hRVmhabFFTVEo4b2xrWThUY1hUcWJXYU1TSEtiSVp5eVEyd0wzQdIBkgFBVV95cUxOMm4yUUNCVFd4aDlmaGV4b2NPX1lodWU1NElwQWlNNFJNZWlRQm84UWFnQ21lRTUwU0RTZGcwbGpEWFVnVV9nX3lhUE5lWmJTdzV5V2FWM2toREFIX2JCalBoUFFONW9CLXRTS1pvSmhXMGFxbENYVFl1aXFTU2hJcE1rOUl6clFMMmxPdXh1YjRjdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-andrew-giuliani-backs-gianni-infantino-t-2026-08-14",
       "headline": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics - The New York Times",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-28",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqN0N1VklEUTYtYmNIQTNmTjYtLXpEalI1S1lReXZoOXlrVWZmUlpJRGdsTk5GUUF6ZS1wMkF5Rk5vM082N3owSGxGZVFIY1U4S252TVgxSFdPSHB6bHlnNA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-fifa-world-cup-2026-guide-schedule--2026-06-23",
-      "headline": "2026 FIFA World Cup 2026 guide: Schedule, match times, channels, streaming and more - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEx1VDR4MWZ5bm43X1FEdFFTTnZvS2hlSXhSSnp1X1RlZlNocGJ0N1VtcGxQZjRwa25OQmw4MnJqQjNhdEFSUmFBdFZQc0ExUVpaaGVCSWl1SENGVTN3VVdRY2R4Y0ZPdDJfUmlhU1ZpT3pLUEg4QTBKejlkOF9acjdLeVFKb2lUb1lKeGpzc0FaanA4VGQ0a3h6N1R1ckIyVWVJdXVLbXV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEx1VDR4MWZ5bm43X1FEdFFTTnZvS2hlSXhSSnp1X1RlZlNocGJ0N1VtcGxQZjRwa25OQmw4MnJqQjNhdEFSUmFBdFZQc0ExUVpaaGVCSWl1SENGVTN3VVdRY2R4Y0ZPdDJfUmlhU1ZpT3pLUEg4QTBKejlkOF9acjdLeVFKb2lUb1lKeGpzc0FaanA4VGQ0a3h6N1R1ckIyVWVJdXVLbXV1dzA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-final-lost-by-lionel-messi-2026-08-09",
-      "headline": "The World Cup final lost by Lionel Messi becomes the best defense for Cristiano Ronaldo - MARCA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDBBeGRzelFtVWNaaDdKNW1OQnhJMWlZSzhObjhrMjdxbGZzRnZObDNsczN5RUVScm1yMWhmdi1Nd1RtRDNDRHJpSmlQS2p5M3hCU2g2aFVqVFljR29zdDVQaVJqbXVFMVVXeC14eV95UU8ybExKVUp1UnJBNXZ1TlEzalJPeGdhelA2eGdhNFhOQjcyelFGREhPd25QU1BiVVlDaU00TkV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-09",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDBBeGRzelFtVWNaaDdKNW1OQnhJMWlZSzhObjhrMjdxbGZzRnZObDNsczN5RUVScm1yMWhmdi1Nd1RtRDNDRHJpSmlQS2p5M3hCU2g2aFVqVFljR29zdDVQaVJqbXVFMVVXeC14eV95UU8ybExKVUp1UnJBNXZ1TlEzalJPeGdhelA2eGdhNFhOQjcyelFGREhPd25QU1BiVVlDaU00TkVFeGJsa2U2SmtlQV9yeVNhZVZoOG12VTdiSXFwajJxMzgyVFpsTWJVekdQRVFFaktSMDZNWUN4cHhZNmV5WFRrNlJ1TGhn0gHuAUFVX3lxTE9PQ3VQQy15ZlNhOFAtNjFTVGVJSER6cWM5UW1oYk94T2FJVGo5aGJidlNZcmxiaE9VNUJPY2dCN1llV1BzYjNaSkg1M0drcEVtNXZCZXpOTFNpQzQ5LUthajF2WXZVQzNKamdvbE9YbGh0VGlWQVNnZzdkenRQcU9QeDZ3TzJ3OGZ2YUw1MmxKQ1FUcV80c1ljb20tTFZ0cGhCZXZtTGEtWGxtcVNyaDNCV0FUd0pZcFR5LXQ2Y1hlV283TnRtNGFXeHZKbWxINW1lZkJLcmFpUGktZ3l5VTNQSmhmQUNoTHJZOW80T3c?oc=5",
       "featured": false,
       "draft": true
     }
