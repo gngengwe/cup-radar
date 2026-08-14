@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-13T21:43:54.118Z",
+  "lastUpdated": "2026-08-14T01:54:40.583Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -10738,7 +10738,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 498,
+      "chapterCount": 499,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14722,6 +14722,14 @@
           "title": "Why India are not playing ASEAN Cup 2026 - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9lcWE2cDJVeU9JRGJOMWFzdU5DZ3lWakRtY19VbkczdGpJZnJfMlJiNEwyNDFTcXktbW93aksyd0Y2aW13cmNmUVA2cl9XbEpNUWFCU2p6eEd2c0RpUHF2WnNlcjVLaWlUQTlGUjU0SjJ2eDQ3Wm0yeFdJQ1NueVpRN3VHZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786672480135",
+          "date": "2026-08-13",
+          "title": "South Africa beats Nigeria at WAFCON 2026 to reach 2027 World Cup playoffs - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONTVjTkpMWnE2UjlHUS0ySnh1UTZ5cllNWlg3ekVvMk1NVEYzZ1AwYkhpT1E3TnpLalMwSm8tRE1TVk5WOWRYV3cxdzRPZjFaVlZLalRlLUpDa1VPX1ZPa21QRU5xU2FlV0xmdWwwVllQUklnWUV3VGZuWEszQUlTbGN2ZHdLbjVXVkI4U2xoZ0FkUHp1V1FFZlpUTWplY2pxcHJTN2ptc292SWUtUmRLV0I3cDQwUmhlbXZqUkJWVDdpY25hY01HWUhCaGVNa3FNRll2UE94cHlaMGZNdEx6NVRIai1wLVhlR2I0RFJ6NkUwbWs?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-13T21:43:51.562Z",
+  "lastUpdated": "2026-08-14T01:54:38.016Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-approves-2031-fifa-women-s-w-2026-08-13",
+      "headline": "Kansas City approves 2031 FIFA Women's World Cup, 2031 Men's Rugby World Cup bids - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5\" target=\"_blank\"&",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-rugby-pros-pitch-2031-world-cup-in-kansa-2026-08-13",
+      "headline": "Rugby pros pitch 2031 World Cup in Kansas City - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUVtS25xYkJQbWJYUlRkYjAzNFp1eDdNVENNVTRlNkZZaVVjLWxlVkRNWFZSOWFILUhqQTJGdE5SNTdqdGxqbHJ1NWdkeW5vUnFONlpEc211WDlJaEgzdW9Uc3E0MjVHRVpRdUVVSXFITkMtOWVTdVVWOTlNSmJrdGg1a2hrXzVYZU00?oc=5\" target=\"_blank\"&gt;Rugby pros pi",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUVtS25xYkJQbWJYUlRkYjAzNFp1eDdNVENNVTRlNkZZaVVjLWxlVkRNWFZSOWFILUhqQTJGdE5SNTdqdGxqbHJ1NWdkeW5vUnFONlpEc211WDlJaEgzdW9Uc3E0MjVHRVpRdUVVSXFITkMtOWVTdVVWOTlNSmJrdGg1a2hrXzVYZU00?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-spain-s-ferran-torres-built-the-powe-2026-08-13",
       "headline": "How Spain’s Ferran Torres Built the Power and Speed to Score the Winning World Cup Final Goal - Men's Health",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFQ0SEN4bDM2YWRJUEVnZTd1dkctZEluSy1WMXlfbnVHQmlIemtGZk5DVktnU1Boci1nVWJzVjFGelZlNjdPeHJHSzhMV1Z0V1ZsZzAwN0M3OWFEZjR0WURJclB4WmdtSC01cXZLVnFTZWF0eWM3czlpTlB2Tl84WFNQc0pwQnVnUUhrS3JWUUR6R052cUc2V3ZqRk5UN3JPTVNsU2ZIeHJSaWVXU2J3dzM4M1EzSzR3RDZGZ1paWUhhUWViUGl3d2dR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
-      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-was-the-target-of-chilling--2026-08-08",
-      "headline": "Lionel Messi Was The Target Of Chilling World Cup Death Threats - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3BCV3BJdHVDcVhsMUlLX2dUbm9wLTNWalpvZFQyUkZaU2tEVm51V3Z0eVVxSHdSOGdKUjFZeHpPZmdTTTlpcU5uRnZ3UlVGYjR5YjNJaE1sMXRmSVZmajVNdjRyVVBITWFGZHZTN2dQaERHZkswSE9YYkxqOGNoUV9QbTd6ZjZTTHNv?oc=5\" target=\"_blank\"&gt;Lionel Messi ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-08",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3BCV3BJdHVDcVhsMUlLX2dUbm9wLTNWalpvZFQyUkZaU2tEVm51V3Z0eVVxSHdSOGdKUjFZeHpPZmdTTTlpcU5uRnZ3UlVGYjR5YjNJaE1sMXRmSVZmajVNdjRyVVBITWFGZHZTN2dQaERHZkswSE9YYkxqOGNoUV9QbTd6ZjZTTHNv?oc=5",
       "featured": false,
       "draft": true
     }
