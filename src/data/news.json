@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-14T04:47:29.597Z",
+  "lastUpdated": "2026-08-14T10:00:32.067Z",
   "articles": [
+    {
+      "id": "news-auto--this-was-my-world-cup-how-referee-barre-2026-08-13",
+      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGx",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGxuZWR3U2h5N1VhUXRKUDFCVlFYdA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-somalia-s-top-referee-omar-artan-reflect-2026-08-14",
       "headline": "Somalia’s top referee Omar Artan reflects on historic UEFA Super Cup duty after missing 2026 World Cup - GhanaWeb",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-08",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPei1DV3R0TUpuRDhlRm9lTFBieTlNYzhSU05Pbkh5RGVCOElQV2R4U0tMcTV3aDdYUmpGb1ZZanFvcnFwZThUM1R2Ujl2ZDkzU3BaanEwSUVNaDRTR1VOanFnelVSRTFCalpnOXlRSDFaMjh4Vkh1TkVyemFaVkxJUnNHU1ZyTXZyU2h6VlM2VWo1aE5ZYVh6ci00dUYxR25BUDJLYm5zVlluUXljMG1ralRuaTdTUjdzQzg5eG1TcXJ4Q0I1eW0ta0d2YXpyNTdVNHN0QW1ZMkxBS0pFMW5XMXp6QVY4U2g1Sjg2bG5mamNnWTBFTjZVX9IB_gFBVV95cUxPZkJlY3NJYzRiZ1NsT08wOXdTNUtDZGNkNnFUNFFMQmNKRnpGeE5uZGVYOHpQVkdVaXEyQUUzR1pacDBTSGdkLUhYbnZhLVByRW9wRExQWGN6NzZDLWlGVlRJaFdqVEJqc3ZrbzhubU9SODVVajY3S1FnSmQ5YmtmZWlEQmNrMFc0SGUwLTZ3ZmloaFRhZEJ1bTZYWFFjb1NXNFkzMUpMckt6WkdDQTZSZFJmbmRfSWFXLXhpUXlIYTVfWlNReGdfR3dfY3gtZUhKNVpaZjM1SEFLR3FoSjBVUjZZR09pZ1pTUUcyX29VSlBlQ2FQRkVxSTFpVS1Zdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-america-s-greatest-stadiums-were-tra-2026-08-07",
-      "headline": "How America's greatest stadiums were transformed for World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5\" target=\"_blank\"&",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-07",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5",
       "featured": false,
       "draft": true
     }
