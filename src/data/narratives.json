@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-14T21:24:03.009Z",
+  "lastUpdated": "2026-08-15T01:12:04.934Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5311,7 +5311,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 682,
+      "chapterCount": 685,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10767,6 +10767,30 @@
           "title": "American Samoa, led by Taulia Tagovailoa, stuns U.S. at Flag Football World Championships - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUdaSUtQb1pCczJNTC0yYmVHcjNrRWJ0RS1naVQ2bkJONG40cUtmYzJwZnZuQmtNNGJXQUlfS2ViWmQzR21qRGZucTJlUDlLQzBXLWtfLUhoOFdxRHpXeE54aEtobS10N2taY1oxVTM2MUdFLV9NQloxVGFiT29iZnBFeEV4dVZERlpET1ZxMXR6OGlRdnVDcmJ0ZWR1QkV0Znc2dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786756323901",
+          "date": "2026-08-15",
+          "title": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - forbes.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0NwTTVpaGdvTkZreVZCOHZ3QjNxQ01kdmdpQTVtMngxRVFnZDk0dEZXcjBENDdlSVVQTmliOXRmenJ4aEduYkllQUpveVpabjRHcE5hdnBJenBnaC1NczlabHhBRlJqSi1JTnE0QUJ6X1lNNUpzX3N5NTdid0tkR2JNUDc1UjVsazJVUjR6aU1GVzgyVnc2R29lblUydFZBRFhNY2dZa0RQOTZEX1ZDV21QYV9nZWpWejJn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786756323901",
+          "date": "2026-08-14",
+          "title": "Red Bulls’ Julian Hall still ‘in between’ on World Cup call with USMNT, persistent Poland both options - nypost.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGFyOWZ2YUtUOWZnWkt4MHZjbHE1RGs5dmFfR3pyR1FvUDNkVkFvQ29wN1RoWWFBQzQ5Q1U5YUx6aV9GbV9QeHN2TmE0UkVsVHlMMGFwV2x2SzhSRjhuQ241eVpxcWVlYXpORlo3aEI4VmF0R1Q1YUNpcWx6amZ5X0Y1UU1GTFFrUVRCTFJiNXVZWEZFeEsxUF9R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786756323901",
+          "date": "2026-08-14",
+          "title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
           "draft": true
         }
       ]
