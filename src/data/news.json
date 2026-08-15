@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-15T12:36:05.652Z",
+  "lastUpdated": "2026-08-15T15:19:22.818Z",
   "articles": [
+    {
+      "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-20",
+      "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5\" target=\"_blank\"&gt;Ranking the W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-and-olympics-cited-as-coe-2026-08-15",
       "headline": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport - Al Jazeera",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-30",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-soccer-leaders-in-europe-north-america-a-2026-08-10",
-      "headline": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-10",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
       "featured": false,
       "draft": true
     }
