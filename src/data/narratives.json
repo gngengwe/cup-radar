@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-15T09:25:32.284Z",
+  "lastUpdated": "2026-08-15T12:36:08.025Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 349,
+      "chapterCount": 350,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2810,6 +2810,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUFjNU5oYS13b3EwN2lWSzJ5UWJOVjBwTU01dUU2c0ZrcDREb21NQ0xPVjF5R2hjaG1yMTNJZ0RCclNrd2hLQjZDZ0ozTUNOdGhrT1daRk9pX29Ob2xhTGFFRVpCcThPT1hnUXMxb3RRd1NaSFlhS05Ec0Nqbmp4YzdrUDhpckhDMXBr?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786797366184",
+          "date": "2026-08-12",
+          "title": "Messi pens emotional tribute to late father, questions own future in the game - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3E2SGc4ZEFMNFZUM2F3NU5YX1h1VmxLUXNwQURVMXdtNEh1NFJOdHNPZ0RPYUo4UkI5RjVIZlZ4TjJWM0VyX1otZDMtS2hyNGhXQk1BaXJJaDIwemRncEpKQ2tQVjJ4Qi1GYzBkMGViNjgtS3h1dUxPeTRvZ29nY2hDOWVaeGNPdWVXNnUyTEd3RVkwak43UXpsdXBsaHNJTms0NWRhRDg3Z09STTdFa2plUVFKUW8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5319,7 +5327,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 685,
+      "chapterCount": 686,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10799,6 +10807,14 @@
           "title": "American Samoa's flag football team bows heads in underdog triumph over USA on world debut: “We are a family of brothers” - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG8xSERPMWRTcEpoZjhGTkxyNUtRSUxjeS1rNWljYS1kenN6SlBkSVpnWVhYaFdEVENWWlA0UkJkRnVRVndhWkVXUDJycTNKTzJudE5hbXg5d2NMcW15N2l4YzY4T0hBbk9sTHBWSmtiWmJ5OU1VbjZZNFlUd211YTRaTjlHd2duTVhvWEdRbkRjSVp1MGZQTDJRbFBQVlh0WFJ6cWIyUGtKaXJxbkNscVZ4elE4bjVWOGVCcXlvM20?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786797367124",
+          "date": "2026-08-15",
+          "title": "Heck leading the way for USA in field hockey World Cup - Courier-Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3dJQjFBaXdmVUFzNlZBX0lQWkpCQzFOWW9oME15OGRLV2V1SW5rVEp1YzN1LThBSUhvYVppc0I2Y3VJMUZUTHVoNnFnTENwMEo3ajhudHFMVEZYWFlPNm9BcExIbzlNYXAxTU9NRmxYSGh4T0JPczVPcTI3RUFjeTZSMWNIRm8zRG5VMGxQNlpmQTdTTkxsYkdCZmtEXzJWQWNmNFY5b3BhNEVaeHpZOS1MeFJWT1FOLTR6OThhRlg2bXNIakE?oc=5",
           "draft": true
         }
       ]
