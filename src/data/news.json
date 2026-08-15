@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-15T01:12:02.474Z",
+  "lastUpdated": "2026-08-15T03:38:06.685Z",
   "articles": [
+    {
+      "id": "news-auto-what-s-next-for-christian-pulisic-after--2026-08-14",
+      "headline": "What's next for Christian Pulisic after the FIFA World Cup? - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5\" target=\"_blank\"&gt;What's next for Christian Pulisic after the FIFA Worl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-14",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-kicks-off-a-pivotal-decade-of--2026-08-15",
+      "headline": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVdhdkFCeHpvWkEzX2duOTJSOUhWXzhPeXFXZS1UM00tYVhmak1hTjNqSWh2eWczNzQ1bzFKOW1mbTRfaEZfT1RmOTFyb25RUDJYdzQwOU1aS1h0MVhHUURfUlgyTHFseTA3aVl0cjFGeVBGRjZPVVVmVjVBaEZmZ2p3?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off A Piv",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-15",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVdhdkFCeHpvWkEzX2duOTJSOUhWXzhPeXFXZS1UM00tYVhmak1hTjNqSWh2eWczNzQ1bzFKOW1mbTRfaEZfT1RmOTFyb25RUDJYdzQwOU1aS1h0MVhHUURfUlgyTHFseTA3aVl0cjFGeVBGRjZPVVVmVjVBaEZmZ2p3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - kansascity.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-kicks-off-a-pivotal-decade-of--2026-08-15",
       "headline": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - forbes.com",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-09",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWJwelRSY2JUbTh3cmFUUDhQMDExOTNySlNMZDcySWg1Q2prNzZ4dm9LOUFoYjRMejhGMkI2NXcwMzBuZVpQcmJTc3lRdGZTczNCSlpFVmdtWDJJYkQ0cVhYM3NCREFLQmdqRE55ekVaRmlqMktCbEZmLURNemtCd0wzMDZwSzQxSW0tSEVXY2RfajdLN01PNjR1UHI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-19",
-      "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - nytimes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5\" target=\"_blank\"&gt;Ranking the W",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-half-a-month-out-and-england-was-a-world-2026-08-09",
-      "headline": "Half a month out, and England was a World Cup winner after all - The Japan Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNODNHZDNtcVdGSTE5LWwtN3hQQU9LcjVnLTZaUlhMTkZKNWJCbk56OThmdkJ1emsyYlZGbGZoVjMxLXdubzhoeElEX1BjWHZ6M2hoV0dhbmh6Sm1veW9uRjZOUThyUU92SVo2T1dlS1VwRU1KaDVWcU54R2dJZDBpU2JVYXVHcDk0clE?oc=5\" target=\"_blank\"&gt;Half a month o",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-09",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODNHZDNtcVdGSTE5LWwtN3hQQU9LcjVnLTZaUlhMTkZKNWJCbk56OThmdkJ1emsyYlZGbGZoVjMxLXdubzhoeElEX1BjWHZ6M2hoV0dhbmh6Sm1veW9uRjZOUThyUU92SVo2T1dlS1VwRU1KaDVWcU54R2dJZDBpU2JVYXVHcDk0clE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
-      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - facebook.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
       "featured": false,
       "draft": true
     }

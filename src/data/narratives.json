@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-15T01:12:04.934Z",
+  "lastUpdated": "2026-08-15T03:38:09.135Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -2828,7 +2828,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 308,
+      "chapterCount": 309,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5292,6 +5292,14 @@
           "title": "Why Is Kylian Mbappe Not Playing Today for Real Madrid vs. Ferencvárosi? - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGlMMlFoM1duYkZteEZ6NkFmbUFJWW85TURPR0hsR3o0UTRpUWxSZ1pQN1VFOUxNQXNJd2tjZzdaLW1ESlFub2RqYk50ekZNS1dSbVd4TExZNTNUa3hKRGVXbFBEX2FDb2ZsamlLcGVsMjBucHlvRWlhZ0ZoUnQ3clhVcWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1786765087681",
+          "date": "2026-07-20",
+          "title": "Kylian Mbappé secures second consecutive World Cup Golden Boot despite France's semifinal exit - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWZzb1hSa3Atb3VlU1ZXbnlkT1FzaHg3MDd1MjRKbFR0Y20tbzVlS1lVMDRqRVRLMjJNeGNMNzIyaS1mRnhJS3lUTUQ4LUM5TTF6Q1BMc2hlYlJYRVdCajQ1SG02d0NDU0otWGYzbWNJOVJTSUlISnozYklFNUczNGFvdDNZZGpiRnM3M0x1QlpTUQ?oc=5",
           "draft": true
         }
       ]
@@ -10810,7 +10818,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 500,
+      "chapterCount": 501,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14810,6 +14818,14 @@
           "title": "TV Globo Runs Brazil’s First Live-Sports 4K DTV+ Test; Triveni Digital Powers Chain - Tech Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXJITTF3c29JOXhMVnlueWcxcElCc0hfbm9OOFlkaXNfSXRlS19NR294X3FfSzdVbU1yR3ZLS0tLMlYxLTM4bkNrbkF3YnRxbVhXeHRNRGY4RUhScmVZRFNIeU5qWUJ1YTJnTWpOQ0VXdWdKYmoyY2dXX2RDX3RLRk44dXF4QWNZbGczcUVXVWtSTlpxZ1pnS3RPRm1RUDFoZFU0QUt2MmZ3UDBEdkxiXzNSdE93a0c0QmpBMl9oVWNLOWNCOGRWZkwyaWFlNGd2?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786765088638",
+          "date": "2026-08-14",
+          "title": "Africa’s Representatives Take Shape for 2027 Women’s World Cup in Brazil - Morocco World News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWQzanNTbDBQck50cm1nRXlxLVBhUlAxRmJtSU9yVTNrX05IVThvRjN1a0NCTkFuMkI2VXVFcXA5b2dHYXEweDI0NU51WjNQd1NnX1BSdVhBZWl4UkpJNUNBOHJZYWpRaWRoQldHQzVFWUpRaV9nNjhlcmVpMGZoOVRmdU9Bc0ZuNzlhOWdvSE5OVEwwbWtWNGVSWFlyZFJXODBhcW1ZTXFZU3RKWmE0TkJCdi02ZnAzNHJr?oc=5",
           "draft": true
         }
       ]
