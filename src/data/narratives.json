@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-15T03:38:09.135Z",
+  "lastUpdated": "2026-08-15T09:25:32.284Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -15056,7 +15056,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 775,
+      "chapterCount": 776,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21256,6 +21256,14 @@
           "title": "England FIH Men's Hockey World Cup 2026 Squad: Check Captain, Fixtures, Pool Group, Where To Watch And All You Need To Know - The Sunday Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTZ6bGZXTUMyUjNGekFSUDNrMmM1VGRIZHppSVExRU5MOVlvT1RfSjVrUG1RUHgxa3V1anBQRjlVZzl1TEF4ay1YUUdRclNlM3MzeUtleVozaVhjeUFCTWktLW1Ka0VyWXp1UjA0ems4aUFCSzRUNGlxbnlsblpBekNsWHhFdThFUUJRYTBid0poOUEtX2Z0WHR0UjAzWU5KbnVURkNDeTFZZjcwalpYVVJaRENMc3VxdkxvamY1T2tQTWlXU3MwSEh1SlJWb1dWSVdfQ2M2MTlQeDdWNTZqaHJfMnRqcUtwMUdYOExJalNKQWdfbVFr?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786785932284",
+          "date": "2026-08-14",
+          "title": "FIH Hockey World Cup 2026: Everything you need to know - Team GB",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1BHZTJOQkE5emxpZHdHM1EtN0xmakVNcktha2xVaGpUWXJac1RnR3ZJWG5BcGtqNjhVWGRSSFk1cDlWdXlKa1JJdWVkTk9jb1I3NW5rUFpUMFVNNnlmd2VoTEk3NHRPSm1qcWRRUWZFZjZaX28yUDFlQTVhTU9XTkdsRkVoZ0V4bWNpWUpkbE5GUWw4X2VwLWlGS28zTU0?oc=5",
           "draft": true
         }
       ]
