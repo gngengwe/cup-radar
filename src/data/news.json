@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-15T18:28:44.624Z",
+  "lastUpdated": "2026-08-15T21:20:16.022Z",
   "articles": [
+    {
+      "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
+      "headline": "How to Watch the 2026 World Cup Finals - WIRED",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
+      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-fixture-schedule-and-all--2026-07-19",
       "headline": "World Cup 2026 fixture schedule and all the results - Sky Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-10",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF9NV2pGTXM5UVBvU01KdVFtdFNDMmllaS1TaWV1N041Y1RVMTZTNmNpQUh0cGZGa0NHdjZSM1VRN3FKY05Hdng0T3UtV3M2VFdwaF9yZTlSWTRTeTRuYWRPVElaTWRuMU9lLVFjWGlIaFFNUC1UOWhPcDRoX0hIRDFQZkU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-man-who-found-art-in-this-world-cup--2026-08-09",
-      "headline": "The man who found ‘art’ in this World Cup final scrap - The Athletic - nytimes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONkg3cFo3QTdFYk1JWnNud2RQSDVBeUVxdThxMFpsc1ZTanB2NkZHUy1uODltZndkYmU5XzlzcFRJeGlKR3U3UmxCYWtpcngtSkRKNW9VTnphNzBwVDhNMVo2SExzUVBpZHoxVnFoRkRlYUo0MmIzV3pBekh4LXBLeWZuRmx3RXFZcnlXOFhUZGlLbmNx?oc=5\" target=\"_blank\"&gt;T",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-09",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkg3cFo3QTdFYk1JWnNud2RQSDVBeUVxdThxMFpsc1ZTanB2NkZHUy1uODltZndkYmU5XzlzcFRJeGlKR3U3UmxCYWtpcngtSkRKNW9VTnphNzBwVDhNMVo2SExzUVBpZHoxVnFoRkRlYUo0MmIzV3pBekh4LXBLeWZuRmx3RXFZcnlXOFhUZGlLbmNx?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-nigeria-eliminated-as-cameroon-malawi-re-2026-08-10",
-      "headline": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1BNHF1UWEyMTRrcWkyTmlTWFp4Tmd4S2pIMDFnbmxYZ0RybEdpb3NvN2hFRUxYbTJvOWdoeGdDZ1BTeHgtY0txalZDVE9OX2VzZzJ4SjRVVmpsSlA4MllYejdRRjNDdFpDRlVSaHo1SFo2SVlKZ0xtQzllOGxCQzFQRW1sUVlXUW9mZlFmTHZPUWl1RFBIUTJZQmlDcVdITHN2eWczNEJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-10",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1BNHF1UWEyMTRrcWkyTmlTWFp4Tmd4S2pIMDFnbmxYZ0RybEdpb3NvN2hFRUxYbTJvOWdoeGdDZ1BTeHgtY0txalZDVE9OX2VzZzJ4SjRVVmpsSlA4MllYejdRRjNDdFpDRlVSaHo1SFo2SVlKZ0xtQzllOGxCQzFQRW1sUVlXUW9mZlFmTHZPUWl1RFBIUTJZQmlDcVdITHN2eWczNEJ4Z1o2QjlOLTJUTdIBuAFBVV95cUxONnM1a2NUUllTUzM3VHJCR1lIcnhTRjd1TDFRZ1pIU0Raa0s0RlREUE5Qek90RWNIOU9YbTRETkVTNlRIeE5SMjRPbVVOVkd3THN2RUZvbmpLUmNtVDlVNFJwaWpWVHNYRWRpQzc3MFNGTzhiYWVYZEdPQXMwcTlyRnRBVzJJX3c3bXBMZ2JrbFBIc0daMFQ5Q0M2MDNJZHRHdmQyQVg2bHJIRF9jNWQ3MTF6WjVRRVh5?oc=5",
       "featured": false,
       "draft": true
     }
