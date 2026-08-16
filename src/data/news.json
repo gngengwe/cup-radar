@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-16T12:37:14.317Z",
+  "lastUpdated": "2026-08-16T15:20:18.043Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-the-smallest-world-cup-host--2026-07-11",
+      "headline": "Kansas City, the Smallest World Cup Host, Has the World at Its Feet - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5\" target=\"_blank\"&gt;Kansas City, the Smallest W",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-post-world-cup-what-happened-to-kansas-c-2026-08-16",
       "headline": "Post-World Cup, what happened to Kansas City’s clean energy momentum? | Opinion - Kansas City Star",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
-      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
       "featured": false,
       "draft": true
     }
