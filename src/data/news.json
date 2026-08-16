@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-15T21:20:16.022Z",
+  "lastUpdated": "2026-08-16T03:47:58.399Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
+      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
+      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
       "headline": "How to Watch the 2026 World Cup Finals - WIRED",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-28",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lS3hidVhEWUNKamo2c2h3OEtTX1hWeHZHMm1yc1Rfam9mSmxpWER6ZjJBTi02cWVYZnRiUlRWbjNHUkdlVjFOVm45dU16ZGJTcGZEa2dkVFZVbmdqWkstN19FQkNlLTA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-malawi-reach-wafcon-semis-and-world-cup--2026-08-10",
-      "headline": "Malawi reach WAFCON semis and World Cup, while Nigeria’s title reign ends - aljazeera.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1BNHF1UWEyMTRrcWkyTmlTWFp4Tmd4S2pIMDFnbmxYZ0RybEdpb3NvN2hFRUxYbTJvOWdoeGdDZ1BTeHgtY0txalZDVE9OX2VzZzJ4SjRVVmpsSlA4MllYejdRRjNDdFpDRlVSaHo1SFo2SVlKZ0xtQzllOGxCQzFQRW1sUVlXUW9mZlFmTHZPUWl1RFBIUTJZQmlDcVdITHN2eWczNEJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-10",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMm1BNHF1UWEyMTRrcWkyTmlTWFp4Tmd4S2pIMDFnbmxYZ0RybEdpb3NvN2hFRUxYbTJvOWdoeGdDZ1BTeHgtY0txalZDVE9OX2VzZzJ4SjRVVmpsSlA4MllYejdRRjNDdFpDRlVSaHo1SFo2SVlKZ0xtQzllOGxCQzFQRW1sUVlXUW9mZlFmTHZPUWl1RFBIUTJZQmlDcVdITHN2eWczNEJ4Z1o2QjlOLTJUTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-world-cup-referee-shares-his-view-of-r-2026-08-10",
-      "headline": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF9NV2pGTXM5UVBvU01KdVFtdFNDMmllaS1TaWV1N041Y1RVMTZTNmNpQUh0cGZGa0NHdjZSM1VRN3FKY05Hdng0T3UtV3M2VFdwaF9yZTlSWTRTeTRuYWRPVElaTWRuMU9lLVFjWGlIaFFNUC1UOWhPcDRoX0hIRDFQZkU?oc=5\" target=\"_blank\"&gt;A World Cup referee sh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-10",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSF9NV2pGTXM5UVBvU01KdVFtdFNDMmllaS1TaWV1N041Y1RVMTZTNmNpQUh0cGZGa0NHdjZSM1VRN3FKY05Hdng0T3UtV3M2VFdwaF9yZTlSWTRTeTRuYWRPVElaTWRuMU9lLVFjWGlIaFFNUC1UOWhPcDRoX0hIRDFQZkU?oc=5",
       "featured": false,
       "draft": true
     }

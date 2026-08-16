@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-15T21:20:18.568Z",
+  "lastUpdated": "2026-08-16T03:48:00.775Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5327,7 +5327,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 688,
+      "chapterCount": 689,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10831,6 +10831,14 @@
           "title": "Mia Hamm Talks Christian Pulisic, USWNT Ahead of 2027 World Cup - rg.org",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aU0RJcG9DTTJWR0FjeGltcFlWOEFmaGR4dDU0R291d2dITUdHZGg5ZlF4UTlMMzFrTVBsUDhhTi1uT2tUY2stcXZfdldFRENxNFEzRVcyWUxEd3NKWHgtUkhjZWM0WVJCLVdlZjJocWxidw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786852079803",
+          "date": "2026-08-16",
+          "title": "They're better' - Brad Friedel reveals how Belgium's 'technical ability' was impossible for US to overcome at World Cup - the-sun.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT21TS0lKNWF3ak55RUNJanUyNTRhWVhHMTNjTXhXOGxEUnlfWHB3RWhlOUxJYUdvSmhkSHhBMGZTNHNrODcxdXNucUlpekZwUUxTVEh2SjI1SGpTVGg5TkJNMHlTamxrbEhpQnVZazFEbTRlcjNxWWktem56UGxnVUNLNk1oUQ?oc=5",
           "draft": true
         }
       ]
