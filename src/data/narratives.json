@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-16T18:28:02.869Z",
+  "lastUpdated": "2026-08-16T21:19:13.272Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5335,7 +5335,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 691,
+      "chapterCount": 693,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10863,6 +10863,22 @@
           "title": "USMNT Did One Thing Wrong Ahead of 2026 World Cup—And Must Not Make the Same Mistake Twice - Sports Illustrated",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkVYdGtISnpDNzFpUHliRlktb2ZMbVEzNThFTkhxRlZneUFiRzc5THVJLWxvWkx1RVc0Yk03NWp0T25iVlZzeS1PNkJCSUZEU1pkQWJVclN5TjdIMUdSc2tqQ0I2NDVqbldHVXg3Q0MtUE5zWW1JejdPN1o0Z1FRRGk2UzNNT2Q3U3k1cmpyYjNVOXNmTDRTYlZ5TVMtWlVNTjRF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786915152173",
+          "date": "2026-08-16",
+          "title": "2026 WMH Masters World Cup Comes to a Close - USA Field Hockey",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzF1OHJJMWx2YlpLY0s4eW1wVHdkbVYtZjNDQ2V1cU5PT2RQVDhFbG04Q3pVZE5BWjg3b2Nrc0tmSHVYVzc1c1BKNHlUdnotc0JIX0tkUE9Yc1k5dkJHWldTT19sOFNnMWhnblR6SlIwaDM3YVQ1Uzk5aEg5eTFOOGlGbFhGT1hVTUtYcEQwcVdGNDRpR3dMZE9B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786915152173",
+          "date": "2026-08-16",
+          "title": "Man City accept Barcelona bid for Spain midfielder Rodri, say reports - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NhU0kyRXpreVQzZWs0VjRqWVh3NFRkT0ZQVnEzaXVqQ3BCZGRqNkFoR2kyNjdadWFSREktZjFPNDlFR0VJeFM3NUlSTVhMZloweTJJNVpYOWJ4eXB0UEJKaGFvRlI0elBCWVI0SjFGTjdZMkhKZGFYWks1dFhDaTJCRU54VGl3SDB6dTFIT19Qd1ZjOWl6SlJYV3Ywdmx6MUotLXNWU2dOV2J6cmVuMVdBcHg?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-16T18:28:00.132Z",
+  "lastUpdated": "2026-08-16T21:19:10.806Z",
   "articles": [
+    {
+      "id": "news-auto-el-jalape-o-fifa-allowed-mexico-to-host--2026-08-16",
+      "headline": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream - Mexico News Daily",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-16",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZzR3VpbGtuRUMteXg1ZUZNOHlEdkcyY2ZkSUpHYzVtcFJESnprSDRGWGhJRnhpYjlQc0oycjcxTmtxQ09lYzZSRUV0X2Ria2VYOGk5VkF3bUlxN3E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-cristiano-ronaldo-hints-at-retirement-af-2026-08-16",
       "headline": "Cristiano Ronaldo Hints at Retirement After His Final World Cup, Says Soccer Has Been ‘a Lot of Sacrifice’ - People.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-29",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
-      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - Seattle.gov",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-new-jersey-could-host-2031-women-s-world-2026-08-11",
-      "headline": "New Jersey could host 2031 Women’s World Cup | Exclusive - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEc2blBLVi1wcllNbzN3amIyZjNRN2x2RGU5QllYV3BkdjV3RGlJdWxLcU1HcDF3WW8xRHFQay15dGt5djJKVjZDekZ2b2k2Z3B5M2NjaVlKSmZWNFRfUjZyVFBBRFVQYm5qNzE4dGt6T2t2b3hpQllpS0pZNFRCNFBjZw?oc=5\" target=\"_blank\"&gt;New Jersey could host 2",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEc2blBLVi1wcllNbzN3amIyZjNRN2x2RGU5QllYV3BkdjV3RGlJdWxLcU1HcDF3WW8xRHFQay15dGt5djJKVjZDekZ2b2k2Z3B5M2NjaVlKSmZWNFRfUjZyVFBBRFVQYm5qNzE4dGt6T2t2b3hpQllpS0pZNFRCNFBjZw?oc=5",
       "featured": false,
       "draft": true
     }
