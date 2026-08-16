@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-16T06:38:12.022Z",
+  "lastUpdated": "2026-08-16T09:26:31.498Z",
   "articles": [
+    {
+      "id": "news-auto-crinion-on-usa-s-morocco-2026-hopes-and--2026-08-16",
+      "headline": "Crinion on USA's Morocco 2026 hopes and future ambitions - FIFA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQam84dU5XalNla2lwQzBqd1pQblpyQWFIZTBYaTc3cEFvLXFfX0xaYU9FN0Y5SFpjbnJGXzhFdWNjTU5CYW8yODFDM2lIRXpGMXY3SFQyWlUxOHc1NWU3aGl6MFU5YmxLa0lNdHlka3FjY21NUFMyRmxZcW9CNE9lYzk1OGpEbGxVVjhZMlJBaVZZTndGeEhoZURmcm52a0lhSG1VZ3B5WTl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-16",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQam84dU5XalNla2lwQzBqd1pQblpyQWFIZTBYaTc3cEFvLXFfX0xaYU9FN0Y5SFpjbnJGXzhFdWNjTU5CYW8yODFDM2lIRXpGMXY3SFQyWlUxOHc1NWU3aGl6MFU5YmxLa0lNdHlka3FjY21NUFMyRmxZcW9CNE9lYzk1OGpEbGxVVjhZMlJBaVZZTndGeEhoZURmcm52a0lhSG1VZ3B5WTlzWUNINnVz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-what-is-the-world-cup-prize-money-bbc-2026-06-24",
       "headline": "What is the World Cup prize money? - BBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-11",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-is-winning-at-hosting-the-world--2026-07-01",
-      "headline": "Seattle Is Winning at Hosting the World Cup - The Urbanist",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5\" target=\"_blank\"&gt;Seattle Is Winning at Hosting the ",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5",
       "featured": false,
       "draft": true
     }
