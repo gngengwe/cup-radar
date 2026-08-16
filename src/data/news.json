@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-16T09:26:31.498Z",
+  "lastUpdated": "2026-08-16T12:37:14.317Z",
   "articles": [
+    {
+      "id": "news-auto-post-world-cup-what-happened-to-kansas-c-2026-08-16",
+      "headline": "Post-World Cup, what happened to Kansas City’s clean energy momentum? | Opinion - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTGhNempMV3dTQjRlUWV6ZDZkcVBXZlllODZMQ1JIQW4tVkhJVDQ1UVBxTUpCUFd5cGJoWHdWNklaR19ockZwSHMtNmljVkJYWGVNZkpMckhSR0NWa2dpZDVLNnB3Zk3SAWdBVV95cUxOZDNxUzZjeFRGU09HZmVvT3pKeEFsWi1SekZVY1J6SDRYQmFJbmM2NlNkMEswdl95X3MwaVJGX3p",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-16",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CTGhNempMV3dTQjRlUWV6ZDZkcVBXZlllODZMQ1JIQW4tVkhJVDQ1UVBxTUpCUFd5cGJoWHdWNklaR19ockZwSHMtNmljVkJYWGVNZkpMckhSR0NWa2dpZDVLNnB3Zk3SAWdBVV95cUxOZDNxUzZjeFRGU09HZmVvT3pKeEFsWi1SekZVY1J6SDRYQmFJbmM2NlNkMEswdl95X3MwaVJGX3p1WVBnTmhMaUJYUlhDR24zamNzNFRaOE1ULWJ6VDlELWw4TjBPY3hz?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-is-winning-at-hosting-the-world--2026-07-01",
+      "headline": "Seattle Is Winning at Hosting the World Cup - The Urbanist",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5\" target=\"_blank\"&gt;Seattle Is Winning at Hosting the ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-crinion-on-usa-s-morocco-2026-hopes-and--2026-08-16",
       "headline": "Crinion on USA's Morocco 2026 hopes and future ambitions - FIFA",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-10",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-kicks-off-in-seattle-today-wha-2026-06-15",
-      "headline": "World Cup Kicks Off In Seattle Today: What Residents Need To Know - seattlemedium.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off In Seattle Today: What Residents Need To Kn",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-thanks-kansas-city-for-its-historic-2026-07-24",
-      "headline": "FIFA thanks Kansas City for its historic role in the 2026 World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0tDUmtEcUhJc3J2WDN6c01vMUNuR0RjbXRCVzlRRUh2RjBXT05Uamt4ZHQwamtKN0xQSDVYZjI3ZVAzeDNGbkR5UTRKZjNiUTVmM0doZWtLbENmNFlMTy1wWGl6V252b3pjV19KOG5ha1c5OFFnZlQ5ZWYzaGhJZmVxM084bzJF?oc=5\" target=\"_blank\"&gt;FIFA thanks Kansa",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0tDUmtEcUhJc3J2WDN6c01vMUNuR0RjbXRCVzlRRUh2RjBXT05Uamt4ZHQwamtKN0xQSDVYZjI3ZVAzeDNGbkR5UTRKZjNiUTVmM0doZWtLbENmNFlMTy1wWGl6V252b3pjV19KOG5ha1c5OFFnZlQ5ZWYzaGhJZmVxM084bzJF?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-the-smallest-world-cup-host--2026-07-11",
-      "headline": "Kansas City, the Smallest World Cup Host, Has the World at Its Feet - nytimes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5\" target=\"_blank\"&gt;Kansas City, the Smallest W",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5",
       "featured": false,
       "draft": true
     }
