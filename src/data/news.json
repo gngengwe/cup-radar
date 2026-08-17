@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-17T06:54:09.675Z",
+  "lastUpdated": "2026-08-17T09:40:26.639Z",
   "articles": [
+    {
+      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
+      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
+      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-when-is-the-next-international-break-how-2026-08-16",
       "headline": "When is the next international break? How September, October dates have changed for 2026 - Yahoo Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-11",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQektIMFQ4VnFka0hsWE9UemRTbkItWkNublpUaWVJbWltRXJxWUZzcUVtUmxsSHlsbEppNFV1NFpOUkswMkRjdFdIckhIV245bVVHM0ZwTG90dWlQN0NHanBMVTJNUUxJN08zRG4yTTNqVWk2aFpOc2lVTEJwMTF3bTJIeEdDelBCUTU1QnBjMEprYVpzeUhSNEFQcHJ4eXVNcGZFRkdudGk4eVgtVFM3d3BKeVptM2RGSl84QjFLUGRmcDgwbjZYSGtKMGFZaXpJOWdLM1pib1pRc1JsOEhuaTJFbkdqMzY5VWZReQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-after-the-events-of-the-argentina-match--2026-08-11",
-      "headline": "After the events of the Argentina match at the World Cup: FIFA punishes Egypt's coach - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVh3SnpaTWVYWk1CSHFYMFlmTngzMjVfSlN5NjBYd0EtU3BIbi05VlpZdjVFQTJBMmRoSHlFMy02WE92TU9xMkxzcm1BeVZwQ1UzZ01TbTFvSGFJUVJNbFhPQnAwY0I2NzdNNUszNWxCQkhvQWZWX29yTjhKb3hkcmpvSFF3Nno4M0dDYVJGQWJGWmFud0kzNlZoNldnOUpPdW4wSUt3SjB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVh3SnpaTWVYWk1CSHFYMFlmTngzMjVfSlN5NjBYd0EtU3BIbi05VlpZdjVFQTJBMmRoSHlFMy02WE92TU9xMkxzcm1BeVZwQ1UzZ01TbTFvSGFJUVJNbFhPQnAwY0I2NzdNNUszNWxCQkhvQWZWX29yTjhKb3hkcmpvSFF3Nno4M0dDYVJGQWJGWmFud0kzNlZoNldnOUpPdW4wSUt3SjBtc3EyZjFJU2NPWFFsN2ZjYlVPMUdvUFFBM0hJekpObg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-trump-says-would-be-terrible-mistake-to--2026-08-11",
-      "headline": "Trump says would be 'terrible mistake' to oust embattled FIFA president Infantino - Dawn",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbWsyS1prUF9ha1NtVTVqQjFRZVhtbTBtYWtNQVRDRk1DQk9laWZESHhPLXRQdUVjN094NzVpU2V4Qi1hanJoQtIBTkFVX3lxTE1kNm45cExQbTZHRjgycTV1aXRYQWhCZ1cxWmRFOUxVTDBjeFplVVFJSWNKQnFYMnZadXl5Tld2Ri1tcDRTTzdyejBjd1R6dw?oc=5\" target=\"_blank",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbWsyS1prUF9ha1NtVTVqQjFRZVhtbTBtYWtNQVRDRk1DQk9laWZESHhPLXRQdUVjN094NzVpU2V4Qi1hanJoQtIBTkFVX3lxTE1kNm45cExQbTZHRjgycTV1aXRYQWhCZ1cxWmRFOUxVTDBjeFplVVFJSWNKQnFYMnZadXl5Tld2Ri1tcDRTTzdyejBjd1R6dw?oc=5",
       "featured": false,
       "draft": true
     }
