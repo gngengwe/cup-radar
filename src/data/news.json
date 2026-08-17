@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-17T18:38:28.177Z",
+  "lastUpdated": "2026-08-17T21:25:18.534Z",
   "articles": [
+    {
+      "id": "news-auto-garcia-blames-belgium-s-doctors-for-worl-2026-08-17",
+      "headline": "Garcia blames Belgium’s doctors for World Cup struggles - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lionel-messi-gets-huge-eafc-27-ratings-b-2026-08-17",
       "headline": "Lionel Messi gets huge EAFC 27 ratings boost after 2026 World Cup as Cristiano Ronaldo misses out on Top 27 - World Soccer Talk",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-11",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVURLeldIQUNvWENoYUh5anc5d1IzVngtZEk1VXRpeU5zT1dJZGNtMklaSjFKcGFlZkk0djFUT2xFaXEzRzNSbTJVdGl0X3FHa2JwMVVJSjRDeFlwdzRBZ280T0ZRdUpkMjdnS3Z6cEpMajRJTkhEYXFlLTMzdXU4NHdDSEVINXJHaU1uUHk1eGo2QUJEeTY4NThMRk1wTG00N0hfOUdkT2lkRTlSYllZX29PM0NYQ2M?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-president-trump-sends-warning-to-fifa-af-2026-08-11",
-      "headline": "President Trump Sends 'Warning' to FIFA After 2026 World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzhwRUFWRWR2NkNFWldfWGpOZFBTYU9IYXBpZWZCTUJ4Y2czUk1WZHUxTVFJUDdlWlctb3RsanFVNU9nTGtkajQ0b29MdGdwTzZ6bHlDaDZEUTc3NkRtSTNYa05KQU5lbzJPQ3F4d0lkN0phQTBvTEVOMXVTQ2MtNXZ5bUFUUDhqQW1F?oc=5\" target=\"_blank\"&gt;President Tru",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzhwRUFWRWR2NkNFWldfWGpOZFBTYU9IYXBpZWZCTUJ4Y2czUk1WZHUxTVFJUDdlWlctb3RsanFVNU9nTGtkajQ0b29MdGdwTzZ6bHlDaDZEUTc3NkRtSTNYa05KQU5lbzJPQ3F4d0lkN0phQTBvTEVOMXVTQ2MtNXZ5bUFUUDhqQW1F?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-somali-denied-world-cup-proud-to-referee-2026-08-11",
-      "headline": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk91MUpvQWNIdGNleDBGQVNJRTZLSTVFSlcwYUMzSWx4Rnc5d2YxMGlHYi1TSmViR1Iwa21JZ3hTMVRDYXJNa0JLWnpWVy1ZUG9ENXJxN2ZqWnBRaDR5QVRTY1YwMmNyYkplXzZzSGV5VEp5ZWZQVkRMV2JnMTM5dlo5dWNJUk9tYnJPTHRZRlNqQURMVmFnVWlHMElnREI4OXpBdXpfWGZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk91MUpvQWNIdGNleDBGQVNJRTZLSTVFSlcwYUMzSWx4Rnc5d2YxMGlHYi1TSmViR1Iwa21JZ3hTMVRDYXJNa0JLWnpWVy1ZUG9ENXJxN2ZqWnBRaDR5QVRTY1YwMmNyYkplXzZzSGV5VEp5ZWZQVkRMV2JnMTM5dlo5dWNJUk9tYnJPTHRZRlNqQURMVmFnVWlHMElnREI4OXpBdXpfWGZ1Z9IBrwFBVV95cUxQVk4tbTc4VE9JdmtmR1RpWUg4QlpGMTU0M3NuNlJyaUNoRFpkR0JYcVlxa3pzMlFTU21OcHBGdVJabkVsWlFLcFRKdHVWeEY0clIyRHBxYnc4ZGRmVmItLTZPbUhKRlV3R2RETnJIUWdsSHQzOHVLdWF5dGRIYVdIYUJVanZWMURXeFM0RWltMjA5bFpCZ3RhcXlzMU8zazhiSGhxVkphUFZLY2Y2cDFr?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-u-s-u-19-mnt-secured-a-fifa-worl-2026-08-11",
-      "headline": "How the U.S. U-19 MNT Secured a FIFA World Cup Berth - U.S. Soccer",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVYS2pMS09Fd2FadGtCYkxUbGhTR0I2V25SeEFweU13Rk9YV05yTWF3UjBLb3F3S0tUaHFPWGdrN1JmamVPZkxUOTZwU2dWT0tKdXBxdDBWeEJnOHRMd1F1WlFHUE02b1FiWi1SRWhTXzVXQmdVWWlUYjlkaDRHZTBSOU5HNV9ZTFd2RWdpaWpEMWtkaWxfYWtmazZsaXNTZlJQb1dXNmN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVYS2pMS09Fd2FadGtCYkxUbGhTR0I2V25SeEFweU13Rk9YV05yTWF3UjBLb3F3S0tUaHFPWGdrN1JmamVPZkxUOTZwU2dWT0tKdXBxdDBWeEJnOHRMd1F1WlFHUE02b1FiWi1SRWhTXzVXQmdVWWlUYjlkaDRHZTBSOU5HNV9ZTFd2RWdpaWpEMWtkaWxfYWtmazZsaXNTZlJQb1dXNmN2MzZocnl3WTJXR091bUtCVkJHZ290bDdrY2E2?oc=5",
       "featured": false,
       "draft": true
     }
