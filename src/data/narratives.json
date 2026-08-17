@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-16T21:19:13.272Z",
+  "lastUpdated": "2026-08-17T06:54:11.903Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 351,
+      "chapterCount": 353,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2826,6 +2826,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWROeVVyckE2YTl1ZXByUHI4Vy1fb2p1MEx3WHhJS1VJNUdra3o0WjVtRjkwN0NBZkRhUzNfbnh2VWREaEpvd3dROTFrWlFwVXBySEIyMDRVV0hLM3FRM2NDeHJwa0FQcTZiVXUwT1AybExlcTdQaWJvNnhVaWF2RTFHazB1aEVGRTBvU1c4UGNBNTl3VGJHVHF0Tk9nVEoyMjNXRGJzMVluSUM5eGfSAbMBQVVfeXFMTWkzNzhHcUoyWjB2d3FZNnIzdjVISnhZRDFTVUdKRDhNVm8ybWZ1RHZuakxtVHNXekRRWUs5blRtNy0wMEdmMVhBLVpVZnpPY3F6Z3pEZVVBSlBuSW9TYl9ESUdfTXBpMVdLcWtjM1k4SXpJUHk5VzJpYi14UzBnRS1PUk5CbHhfR09COVYwOXNkS0x4VGRzYzhhSDVpb3BadjNsN054Vmh6bFFtU0FVRjFQRTA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786949650168",
+          "date": "2026-07-29",
+          "title": "Where To Find Lionel Messi And Argentina's Stars After The 2026 World Cup - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlFBQnl3VFRkMmgwcXBmUnFGdXA1MUo5QU1qM3UxamIxdkcyQWFVdnk2WTZ3UGEwR0k0MWxBcGtPUTZGS1JjR0N4WEZxbXRXcld6LWIwMmY5dGt5Y2d5eVNyUXlSMEhXQnNfcHh5cHBxdmZySkJiU253RHRySUlCa0Q4VDBWUDRWT0o3SUFMUXNWaEtRaE1UMUdUVHNGdlpYaHVkYQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786949650168",
+          "date": "2026-07-22",
+          "title": "World Cup 2026: Lionel Messi opens up after loss to Spain — 'It will take time for this wound to heal' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcVFkOWZ5ejlDUGZVbTlDQ2w0RUNNRkhQQVl4bTRkT1VLWW9pWHJ6NUZNeHdPRi1hSHduLUcyTzNLcFltX2YyV184UThfdzB4ZTdyaC1NY0xVeFBGTG15amM5SU84NVdvUlEyOE1mUnFKaDNHRGhGYTZOak4zZUotZmJ3VEhycUFfMHc5bjB2MkU1WjdwVWdHVWkxSUdXd3dTNUtiVkNUNXZndEVQZ1hqOUt3TGxkV2ktaTNQelhiUFdYTDd2NXZYTkkzTTBUZksxeGsxTzAwUkVfWHEzN21uUHBQOWE0X2Rf?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5335,7 +5351,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 693,
+      "chapterCount": 694,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10880,6 +10896,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NhU0kyRXpreVQzZWs0VjRqWVh3NFRkT0ZQVnEzaXVqQ3BCZGRqNkFoR2kyNjdadWFSREktZjFPNDlFR0VJeFM3NUlSTVhMZloweTJJNVpYOWJ4eXB0UEJKaGFvRlI0elBCWVI0SjFGTjdZMkhKZGFYWks1dFhDaTJCRU54VGl3SDB6dTFIT19Qd1ZjOWl6SlJYV3Ywdmx6MUotLXNWU2dOV2J6cmVuMVdBcHg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786949651069",
+          "date": "2026-08-17",
+          "title": "World Champions! U.S. Wins Gold at 2026 Girls U17 World Championship - USA Volleyball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkh5SlloQXY1ZXRINk1ZOGhCMTZfU0t1RGhwUTJSak9YandGUlRzTUc0TjhfYUN0ZVlXS0U2ZTFCRFNlcDcwQzB3TXFZOVU5ZDA5bEdJZ1pqZTBpcGlkVTlwN0d6cXVuandEQmE5U1JtUEFaaTh0NkstWDhoN2pudzQ5UTMzR0lFMVlvam9IaElEYVlZLXRUZDNuWHpEaGpS?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10898,7 +10922,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 502,
+      "chapterCount": 503,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14915,6 +14939,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTExVUWRJMFVuNGt1cGpHU3RIV1V3QUFTaG1DQjV4RHNGNG5ydjRFbDNVUW9DcEJMank1Z3lBYlZZRzF1YjFvcGNCRHFPNEVESTZPdkdfUldvNkozbGJGT1dvZTdrLWhXVGtsY05BSnFEXzc3TEJyXzJ0N0ZnaVRYZ0E4d1ZoWTFpRVhTNVZwTlZ0ZGx3RVBWNjJuSHNuTlFxdWdrSlRFbEY?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1786949651471",
+          "date": "2026-08-17",
+          "title": "Brazil's Lula and Flavio Bolsonaro kick off presidential campaigns - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aYlhlb0loLVI0dV9QbE1FZG1rdklCNjdKeE1tVllxVldKaTBZNzI5WDU1TnNMZDBITG9WSnFCbldnYU5ZSjVzdkRrTDhqaDliTDZmVWZlbWpmV0lHVHNYelFnZ3NUbWs?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15144,7 +15176,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 781,
+      "chapterCount": 782,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21392,6 +21424,14 @@
           "title": "Hockey World Cup 2026: India Face High-Intensity England Test In Second Pool D Game - NDTV Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYVRoaWxNUUVNVTJVTG9JZ3JROW5tY05Ub2RuSkUyVDllcWZ5dEY4cDJPbG5vSDBRdFBpQ3dkUC1EZmZnS29Od0hKNDBtQ1ZWc2hlRkpEV3lOZnZ0WGJsYXdHMkZ6SkJWT2NNd2FPT09MRmV5U2NCNnBuSkdaRWtTS0Q2aWxrRG5BdVVZMWhaVl8tM2QxVm0yclRiUnR6MkNFV1Y3cVVLa3FVa3labHZTaVJ5aDI2VFVOdnZuRUtyS0QtOTVNeDJ6d1diLUcxQnlTTWxiNWwyTnU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786949651903",
+          "date": "2026-08-17",
+          "title": "India vs England at FIH Hockey World Cup 2026: When & where to watch in India, head-to-head & all you need to know - livemint.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2RhREk2dDNmcWNRalJuU0pxdlVEamdTYTFhd1MwRDBQUTZiQXhhSFhwZEQ0cWs0eTlmcGdjODYwckxJU1o2c0p5cjVpUEdTeXVKU3lVSUp4Z0gtM2gwUXVZd19pcld0U2JobzJiVW5NRkREM1VieHRmZkl1em44aC1Gek5QampSN3V1QXE5VDkxUVJVZFVBcWU1bTZILUVBU2V1ZDhsWTZCT2hxeXNCOHpYNzI4MHRaNHdqNlRibzBpS0wtY2lEUlM1X2JVdkkyQTFRdVdGU212RExnazNEWU5ZOG9mQXlSXzFFQmpJMkxiWVZaOThWddIB_gFBVV95cUxQMnRONXlFRGR4ZnlzUDdnZ0RRLW5tcWVQN2U2Z0dWd2h2enVnT1N3U3RMUGh3OUpVWWI5WGVPUHFjYkVSdFZtQzRyM1p4b3E0VmM0ZllwTWd5cm13cVRGcUN2b1BnUjA4TUJocF9FV1FWVVVmQXp6NS00VVZBQ0NMSE5YUW1HYlFXYmFndkhjV3NuLUJNamtaZnZLY0JzdDQwNjBGZVBtczYwSU1FcGNoTDdrUXZrZExnQWJ0R3ZWdGU4SnNEYlVvX3BMN3Yyc2k3UUZBZkVHQjRxZG1acTV4cUlXZUpXcTk0WGpkTFdCMTMwb2lCUWZwX21OMjl4dw?oc=5",
           "draft": true
         }
       ]
