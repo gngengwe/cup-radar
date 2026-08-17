@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-16T21:19:10.806Z",
+  "lastUpdated": "2026-08-17T01:13:48.927Z",
   "articles": [
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - Seattle.gov",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-el-jalape-o-fifa-allowed-mexico-to-host--2026-08-16",
       "headline": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream - Mexico News Daily",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-10",
       "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNU2ZjWjZoXzlmdUJhSkc3QnZsV1ltUDAycDVodFZsTHluNHJ1QUdoV0FzTUF3RVQyU2x5UUp1WmpBTEE0cGxwQ2ZfSXF2YkpzU3hEemc0aXoxcjU2ZWxJclpSX1M2SXJ1UzhOV0FsMWRhcENFNlU3NDZIODNKYkZIMmxHc0VZWHJ6UUhaamQyNDlyQk5xRDN2cGNXQTVZSkUyYVpraWlEbUJLSjF3OGQwS1BTLWxkZEVuM1RiTmFTYXZmVVNtVlRTLVdFS3FXRnQwT0l0VmNBbXhGOG4yQW94TEtiRGhHNGh1ektudm5URHNEOUl4REdGS0YyNUwyUTRLOFJFVDliSU9pUERONWNSWnVnQnR2T3QxWG9oR3RFTUpGSk8wclBJMzFnQ0NlV1JKZFVycklaTjdab1RBYURYZGEyMThmTWZjbGd2aDNIZUdfSmxTWXlBbnFjaGFuVHFVcnlfeVFFanlKTERNRmlUNUNLVWpfZldVbDNUNFpaYUp4Q25vY1dmX2dBYWNYbXluNEhPSHpCeU1vNEE2eXZB0gGfA0FVX3lxTE1TZmNaNmhfOWZ1QmFKRzdCdmxXWW1QMDJwNWh0VmxMeW40cnVBR2hXQXNNQXdFVDJTbHlRSnVaakFMQTRwbHBDZl9JcXZiSnNTeER6ZzRpejFyNTZlbElyWlJfUzZJcnVTOE5XQWwxZGFwQ0U2VTc0Nkg4M0piRkgybEdzRVlYcnpRSFpqZDI0OXJCTnFEM3ZwY1dBNVlKRTJhWmtpaURtQktKMXc4ZDBLUFMtbGRkRW4zVGJOYVNhdmZVU21WVFMtV0VLcVdGdDBPSXRWY0FteEY4bjJBb3hMS2JEaEc0aHV6S252blREc0Q5SXhER0ZLRjI1TDJRNEs4UkVUOWJJT2lQRE41Y1JadWdCdHZPdDFYb2hHdEVNSkZKTzByUEkzMWdDQ2VXUkpkVXJySVpON1pvVEFhRFhkYTIxOGZNZmNsZ3ZoM0hlR19KbFNZeUFucWNoYW5UcVVyeV95UUVqeUpMRE1GaVQ1Q0tVal9mV1VsM1Q0WlphSnhDbm9jV2ZfZ0FhY1hteW40SE9IekJ5TW80QTZ5dkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
       "featured": false,
       "draft": true
     }
