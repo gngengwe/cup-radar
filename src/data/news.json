@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-17T15:24:10.709Z",
+  "lastUpdated": "2026-08-17T18:38:28.177Z",
   "articles": [
+    {
+      "id": "news-auto-lionel-messi-gets-huge-eafc-27-ratings-b-2026-08-17",
+      "headline": "Lionel Messi gets huge EAFC 27 ratings boost after 2026 World Cup as Cristiano Ronaldo misses out on Top 27 - World Soccer Talk",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHlNRWNFcVFFUmdKNzFQQUgzalMyQkVqcE51cWgtTXJDYlBVN1lDZHFMYjMxSDJNaGdiUE1seU41aGhJYUxLTGFzTGQzR1ZIX2Jmd3NIczBNcWNDTUkzTVpmYzRvaWF2SXBPdVhTdEdsVjY2VGY2NE1ENjZ5aXE0ZHFuUmZSUGVrUnFFc3BueUI1UTNEWWk4Z1hORUdJVkt3UlZuWnlyUWd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHlNRWNFcVFFUmdKNzFQQUgzalMyQkVqcE51cWgtTXJDYlBVN1lDZHFMYjMxSDJNaGdiUE1seU41aGhJYUxLTGFzTGQzR1ZIX2Jmd3NIczBNcWNDTUkzTVpmYzRvaWF2SXBPdVhTdEdsVjY2VGY2NE1ENjZ5aXE0ZHFuUmZSUGVrUnFFc3BueUI1UTNEWWk4Z1hORUdJVkt3UlZuWnlyUWdPaUNYeHc3N0pQTTJtbzBfRkc2T2g1ZlR0R2JtNGEzbjJSQzM1Q2Nvci1wakxhNU3SAdwBQVVfeXFMTnRpekNfd3A2bDVsUHloNHA5UHFQSWZoVGVMY0M0X2NPS25xSTI2ejVPXzhXT2Y5bVlhalJkcEdJaGJ2UENKTUcwQ0VFblBadzZqMUFMWEpKMklMR2R4RmR2SWowa2pfTlhaeV9vdlhOT3NqcEoyMEx2cU9fNGJUX1VTalhmZzBNamJKc2cxcGlZaHF4amtUZmxKSTBsMWxSRVBLNV9WX2RJb09OdlBBdlBlTGFXMnlQTFVlVnN6NWctc2g4WHRUWEoyS3NmM1BvOGhyNktMUS1pT1lmYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-houston-on-list-of-potential-host-cities-2026-08-17",
       "headline": "Houston on list of potential host cities for 2031 FIFA Women's World Cup - ABC13 Houston",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-11",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVYS2pMS09Fd2FadGtCYkxUbGhTR0I2V25SeEFweU13Rk9YV05yTWF3UjBLb3F3S0tUaHFPWGdrN1JmamVPZkxUOTZwU2dWT0tKdXBxdDBWeEJnOHRMd1F1WlFHUE02b1FiWi1SRWhTXzVXQmdVWWlUYjlkaDRHZTBSOU5HNV9ZTFd2RWdpaWpEMWtkaWxfYWtmazZsaXNTZlJQb1dXNmN2MzZocnl3WTJXR091bUtCVkJHZ290bDdrY2E2?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
       "featured": false,
       "draft": true
     }
