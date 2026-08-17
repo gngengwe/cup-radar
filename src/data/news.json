@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-17T09:40:26.639Z",
+  "lastUpdated": "2026-08-17T15:24:10.709Z",
   "articles": [
+    {
+      "id": "news-auto-houston-on-list-of-potential-host-cities-2026-08-17",
+      "headline": "Houston on list of potential host cities for 2031 FIFA Women's World Cup - ABC13 Houston",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JPWlcxMlZqWTd0TVBDSnVqZGRMb01QcjMzZl8xRFVONEdWdlFCQTBsOVdJTFRIb2tuRGF5R3RxckRjcGNGeFZpNXJhTl85VVl5RkFDd3BBTlI3VWJXN1MxQlZxV3hyVWRQTkpqQXVTSUFHd0pKR0ZndmZCUmU3V2VBczBZTFVPYXpJN2gwSU44Y2VaZFBVb3BR0gGfAUFVX3lxTE5hWDN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JPWlcxMlZqWTd0TVBDSnVqZGRMb01QcjMzZl8xRFVONEdWdlFCQTBsOVdJTFRIb2tuRGF5R3RxckRjcGNGeFZpNXJhTl85VVl5RkFDd3BBTlI3VWJXN1MxQlZxV3hyVWRQTkpqQXVTSUFHd0pKR0ZndmZCUmU3V2VBczBZTFVPYXpJN2gwSU44Y2VaZFBVb3BR0gGfAUFVX3lxTE5hWDNxbTVHTUlYd0M3WXRqU3RQMUlJQjNpeWE1bFE3c2xGM2hrbmtwdmJ6akNhY2cxejU1WHE1cU9DaXJsbnZNSUNDZ0JVMzEwY2NUanZabjlxeEFnYTVGY1lDWlY3eGRzRVNyWkRFSXd3X2dablVla0ZwSEMxdUJaQXNVanhDY1ZRZjdCNnFKdEx0Z3ZEUl9BZGZFMW5MWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-why-didn-t-grass-from-world-cup-stay-at--2026-08-17",
+      "headline": "Why didn't grass from World Cup stay at Lumen Field? Blame unique Seattle circumstance - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
       "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-18",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-examining-how-much-of-your-tax-dollars-p-2026-07-17",
-      "headline": "Examining how much of your tax dollars paid for the World Cup in Kansas City - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-17",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5MY3NrOWM3RXh5d2M?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-president-donald-trump-defends-fifa-head-2026-08-11",
-      "headline": "President Donald Trump defends FIFA head Gianni Infantino amid calls he should resign: 'He is fantastic' - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQektIMFQ4VnFka0hsWE9UemRTbkItWkNublpUaWVJbWltRXJxWUZzcUVtUmxsSHlsbEppNFV1NFpOUkswMkRjdFdIckhIV245bVVHM0ZwTG90dWlQN0NHanBMVTJNUUxJN08zRG4yTTNqVWk2aFpOc2lVTEJwMTF3bTJIeEdDelBCUTU1QnBjMEprYVpzeUhSNEFQcHJ4eXVNcGZFRkdudGk",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQektIMFQ4VnFka0hsWE9UemRTbkItWkNublpUaWVJbWltRXJxWUZzcUVtUmxsSHlsbEppNFV1NFpOUkswMkRjdFdIckhIV245bVVHM0ZwTG90dWlQN0NHanBMVTJNUUxJN08zRG4yTTNqVWk2aFpOc2lVTEJwMTF3bTJIeEdDelBCUTU1QnBjMEprYVpzeUhSNEFQcHJ4eXVNcGZFRkdudGk4eVgtVFM3d3BKeVptM2RGSl84QjFLUGRmcDgwbjZYSGtKMGFZaXpJOWdLM1pib1pRc1JsOEhuaTJFbkdqMzY5VWZReQ?oc=5",
       "featured": false,
       "draft": true
     }

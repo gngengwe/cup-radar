@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-17T06:54:11.903Z",
+  "lastUpdated": "2026-08-17T15:24:13.388Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 353,
+      "chapterCount": 354,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2842,6 +2842,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcVFkOWZ5ejlDUGZVbTlDQ2w0RUNNRkhQQVl4bTRkT1VLWW9pWHJ6NUZNeHdPRi1hSHduLUcyTzNLcFltX2YyV184UThfdzB4ZTdyaC1NY0xVeFBGTG15amM5SU84NVdvUlEyOE1mUnFKaDNHRGhGYTZOak4zZUotZmJ3VEhycUFfMHc5bjB2MkU1WjdwVWdHVWkxSUdXd3dTNUtiVkNUNXZndEVQZ1hqOUt3TGxkV2ktaTNQelhiUFdYTDd2NXZYTkkzTTBUZksxeGsxTzAwUkVfWHEzN21uUHBQOWE0X2Rf?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1786980251201",
+          "date": "2026-08-17",
+          "title": "The Unexpected Problem Haunting Lionel Messi - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1hjRk01aTFOdlBBQ25Nb3RSbHplOVhKLW5aeUF1b2VtSFk3SDNvN0VLdkFtWFNlZ3BDbldqMXJCTlBieW82NDg4UmoyU0tGcEVkUXN0MC01Ynlkd2JyaGVFUmNoRXpTSklwd2Y1SXh6WlZta2hSUTVfQ0hENkxHSTIyNjRHcGpJelg0ZFJWRFVfazdmMHFrR2NoVjR0Uy1ZOTk1QnZpYU93QVJf?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5351,7 +5359,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 694,
+      "chapterCount": 695,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10904,6 +10912,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkh5SlloQXY1ZXRINk1ZOGhCMTZfU0t1RGhwUTJSak9YandGUlRzTUc0TjhfYUN0ZVlXS0U2ZTFCRFNlcDcwQzB3TXFZOVU5ZDA5bEdJZ1pqZTBpcGlkVTlwN0d6cXVuandEQmE5U1JtUEFaaTh0NkstWDhoN2pudzQ5UTMzR0lFMVlvam9IaElEYVlZLXRUZDNuWHpEaGpS?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1786980252235",
+          "date": "2026-08-17",
+          "title": "How to watch the 2026-27 Premier League season in the U.S. and Canada - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnJZN0M2cUxURVZleVVCVlROajQtbU9wNE9nUzZaeEd6S0Q4TUN5Wk1lVW1oQmZfYmJSMl9NQTkzZlJjc25nSm5JZERBeFB5TjBnQTJocm5DbG92ODItNGhMT2JvMGVyRWMxTHo0b0xtMHV2LWVPcDY2enlPSTNWNy1hRHIxdktiUkdwOG9zMTUyVklmcnFPYUNBWW4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15176,7 +15192,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 782,
+      "chapterCount": 784,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21432,6 +21448,22 @@
           "title": "India vs England at FIH Hockey World Cup 2026: When & where to watch in India, head-to-head & all you need to know - livemint.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2RhREk2dDNmcWNRalJuU0pxdlVEamdTYTFhd1MwRDBQUTZiQXhhSFhwZEQ0cWs0eTlmcGdjODYwckxJU1o2c0p5cjVpUEdTeXVKU3lVSUp4Z0gtM2gwUXVZd19pcld0U2JobzJiVW5NRkREM1VieHRmZkl1em44aC1Gek5QampSN3V1QXE5VDkxUVJVZFVBcWU1bTZILUVBU2V1ZDhsWTZCT2hxeXNCOHpYNzI4MHRaNHdqNlRibzBpS0wtY2lEUlM1X2JVdkkyQTFRdVdGU212RExnazNEWU5ZOG9mQXlSXzFFQmpJMkxiWVZaOThWddIB_gFBVV95cUxQMnRONXlFRGR4ZnlzUDdnZ0RRLW5tcWVQN2U2Z0dWd2h2enVnT1N3U3RMUGh3OUpVWWI5WGVPUHFjYkVSdFZtQzRyM1p4b3E0VmM0ZllwTWd5cm13cVRGcUN2b1BnUjA4TUJocF9FV1FWVVVmQXp6NS00VVZBQ0NMSE5YUW1HYlFXYmFndkhjV3NuLUJNamtaZnZLY0JzdDQwNjBGZVBtczYwSU1FcGNoTDdrUXZrZExnQWJ0R3ZWdGU4SnNEYlVvX3BMN3Yyc2k3UUZBZkVHQjRxZG1acTV4cUlXZUpXcTk0WGpkTFdCMTMwb2lCUWZwX21OMjl4dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786980253388",
+          "date": "2026-08-17",
+          "title": "India vs England Hockey Live Score, World Cup 2026: England beat India 4-2, consolidate top spot in group - The Times of India",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQW1menliOUFzdE1UYWhrZEl3Y2tHOEpGakRuQ1JURDA5YUlMQ1R4aHkxOElKOEwzci1oZ3lGSHhJeXJZSUNVZ1dfOEFlOG5Sd1A5VlFuNkxUb0hwSXh4Z3NVOVRlRVh4SWhlWVhUYnFhd0FqaGlQVEozUzNpVUhrZ2NVSkpqOFFwVl9aTU1wRlVYSEstaGw2T3ExWFdlamlJVlpXLWIwWDRoc0dMRE9xaDhONEVmbTJ5RGdMaGc3RXB6YTgtVXlkNW0zRVVGRkJPeGV3Y0h2ZkJLcHp5UkFRTUlzYW55UFU1NmgyUVNMczFNVW9lWVHSAfsBQVVfeXFMTkw3NlpLMUdESERsOU1ZYS1jVGoyRVlxa3lTV25EbS1kMC0yRnRLUmhfaHltRFFhcUs4eDgwWDBfaExlY2dRdVRodDUtaEh5NzY2bmt4YnJTblhVa0JjaU5WODVMUV9RMFI3bWJLUTJKUERhZDJfOTJfNi15YXVEeHRJTEpUcFQxYUx3STQtVzdJZWw3SjFfWV9HUE9IenZ0Y0IzZEpfYnJBTnVodlcxbjZ6SlAxel80Znpvd2RCa0hJdXRHS3hlVDhVRTBjOXJIRkpyalJUT2l5N2tYZXJJb09YWlF6bnhETDZuWGROUExIcTZyUGpzVWYzT2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1786980253388",
+          "date": "2026-08-17",
+          "title": "India vs England LIVE Score, Hockey World Cup 2026: England Stun India, Make It 2-2 After India's Comeback - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZnVWUHYxNzlZOHQxeF83SUN6RWlab2hiclRBSFJLTlo1dERORmRTWHZNZzJCSU9rZzh1RTNMdUxlR3dMRU9rX3pudTZsa29EMkw1QjhucnJhNHJ0YUwzNFhvYkRRN3pQVGd5aWZoTFE1VHhVVFc4azBNUGdyeUtOY0hFbTlidUlhTGpGRDU3YXprYUxVdmhuT3RmLXBlaWRHWWNZaHpjdkpNeElRdnFyOTAxcHpGVWhHLUZzczFVTFVJelpTZjdaeFljdFhXcVlyQWswSG5CSkhwMDV2d0g4LTZUb19ENDBjeEp6MzRBblZyOG5GWHJlcEFEaGw4SWVYYnA0?oc=5",
           "draft": true
         }
       ]
