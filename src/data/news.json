@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-18T12:43:38.885Z",
+  "lastUpdated": "2026-08-18T15:30:55.399Z",
   "articles": [
+    {
+      "id": "news-auto-ap-interview-klaveness-slams-infantino-s-2026-08-18",
+      "headline": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - boston.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2J3NC1zYktIQVN6ZzR3cnoxekMyRTE3TjhKT01QMTFHTENIREl0V1ZLXzNrRTg2VVYzczdUX1AzZFBCbmdEUmcwMkhUbEF3X2R3c0ZsQ1Z5a1JzMGdvZExjNnJZdGtBVURwMVRMWC1Nei1nXzAxTExwelFqLWE1bHJHM2RUbVZTYmpseERnbHdfZ0FpTDk2T2x2RmVtb2dWbi1pVg?oc=5",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2J3NC1zYktIQVN6ZzR3cnoxekMyRTE3TjhKT01QMTFHTENIREl0V1ZLXzNrRTg2VVYzczdUX1AzZFBCbmdEUmcwMkhUbEF3X2R3c0ZsQ1Z5a1JzMGdvZExjNnJZdGtBVURwMVRMWC1Nei1nXzAxTExwelFqLWE1bHJHM2RUbVZTYmpseERnbHdfZ0FpTDk2T2x2RmVtb2dWbi1pVg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-shakira-burna-boy-s-dai-dai-tops-billboa-2026-08-17",
+      "headline": "Shakira & Burna Boy’s ‘Dai Dai’ Tops Billboard Global Charts, Even a Month After the End of the World Cup - Billboard",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU5SZFBydk90X3FPbkg0YVVubVZGeVZ2N1BGb3FaQk9HYzF4M09qZ1RBcVhPMlFqX0tuR1UyOEswaVV2dXRYNDR5Z2R3bXFFU2J3VlpiWHB5UndpSExWWDgwdDZfYWdRdDlHUFJwVUFVMEFjczZjOUhteTZXa2k3V1NTUUI4dkhXRllEdThkTl9mUzFOY24xal9ZekdjbVNTN2FDNU5ZUU5",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU5SZFBydk90X3FPbkg0YVVubVZGeVZ2N1BGb3FaQk9HYzF4M09qZ1RBcVhPMlFqX0tuR1UyOEswaVV2dXRYNDR5Z2R3bXFFU2J3VlpiWHB5UndpSExWWDgwdDZfYWdRdDlHUFJwVUFVMEFjczZjOUhteTZXa2k3V1NTUUI4dkhXRllEdThkTl9mUzFOY24xal9ZekdjbVNTN2FDNU5ZUU5GQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-infantino-s-fifa-world-cup-fallout-lamou-2026-08-18",
       "headline": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan - Al Jazeera",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFRaHBTOFE2a0dzakJ4RGMtS2tPYkk2WnNBek9qaGdRdHdPOUxYdnktRFNYX0hGZ0NEcUJiWlBqbHhjOUFwMjNxQWFxV3Frd1FMbFJBT0ZxMXJtQ0lKOGlrdUJxQnd2dTRXNzEtbVpRakVCaVZEc2dmSWJxMGRDRHBWZnNmUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-borja-iglesias-reflects-on-spain-s-2026--2026-08-12",
-      "headline": "Borja Iglesias reflects on Spain’s 2026 World Cup victory - Yahoo Sports Australia",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2RPRnRwMUpjY29Vb3lUejJGdEdITEFta1NldHVGY3RyaWV1TmFiZWJ6U0RoY0RKNnhEcjV1YUFsemh1dEdkclFtaHV5Tk9EaEN2UnpoSzB2NnBlbzNGN1ZzeGxrb0FaWktoVUJ1RmNjMHJsek95a19wU0dJRGRIQlEzdw?oc=5\" target=\"_blank\"&gt;Borja Iglesias reflects",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2RPRnRwMUpjY29Vb3lUejJGdEdITEFta1NldHVGY3RyaWV1TmFiZWJ6U0RoY0RKNnhEcjV1YUFsemh1dEdkclFtaHV5Tk9EaEN2UnpoSzB2NnBlbzNGN1ZzeGxrb0FaWktoVUJ1RmNjMHJsek95a19wU0dJRGRIQlEzdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-doku-not-against-journalist-who-criticis-2026-08-11",
-      "headline": "Doku 'not against' journalist who criticised him at World Cup - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LZ3FIWEZCZEMyT0lTWEhnemlTRmNDdUh1VldJeTFHNDdwLTdkcFF3cTF0b3FnVFFzRGtUV09IYzFWWmFOVlNMVHl0akltcjRhSWs1eU1rblJsRjJadUVsc3E3bmE4WGs?oc=5\" target=\"_blank\"&gt;Doku 'not against' journalist who criticised him at World Cup&",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LZ3FIWEZCZEMyT0lTWEhnemlTRmNDdUh1VldJeTFHNDdwLTdkcFF3cTF0b3FnVFFzRGtUV09IYzFWWmFOVlNMVHl0akltcjRhSWs1eU1rblJsRjJadUVsc3E3bmE4WGs?oc=5",
       "featured": false,
       "draft": true
     }
