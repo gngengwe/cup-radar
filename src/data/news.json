@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-18T15:30:55.399Z",
+  "lastUpdated": "2026-08-18T21:23:20.788Z",
   "articles": [
+    {
+      "id": "news-auto-2026-fc-100-kane-yamal-messi-among-best--2026-08-18",
+      "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0lra2dQRlFWVm5oOWJIRzZwVjd5WTdFQnVLODJCRUM1V0Y0UGdDbGRad2YxdEpfUDF1Y0dzN2FScVFFM0FwTXVwYTdRRVNxc1p2NzVFQ041ZE51UXBTVW5rdnFFSTlxOUNZRng4TXpnZWFibTNvYk96RHNQdDNUS2tOaWpydzNRenVjWTZPck5BMmxLdEQ0UGJPVmJlenVjMFlR?oc=5\" ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0lra2dQRlFWVm5oOWJIRzZwVjd5WTdFQnVLODJCRUM1V0Y0UGdDbGRad2YxdEpfUDF1Y0dzN2FScVFFM0FwTXVwYTdRRVNxc1p2NzVFQ041ZE51UXBTVW5rdnFFSTlxOUNZRng4TXpnZWFibTNvYk96RHNQdDNUS2tOaWpydzNRenVjWTZPck5BMmxLdEQ0UGJPVmJlenVjMFlR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-65-foot-world-cup-heart-sculpture-ma-2026-08-18",
+      "headline": "The 65-foot World Cup heart sculpture may have a new home — with the Royals - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmaEktQ3ZySThIOVZvNUNWd0ozaV9aZ0hWYzMyRWVDaTdiNkhjWDA4RUtMbTE1Ri05Tk1ESEdUaTlTZ2pWYmZLVWdJSXFDMER5a3poa3BoWXpBRXk0eFFGSEkzNTRLaFZ6dzJrdTl0NEtTbVN1ZjdhU3hDQUc0d2PSAX9BVV95cUxOVHZnVm5vWlY1RzZ2Z3NMM1FPYUxKUm5Rd2hKTWtjNmp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmaEktQ3ZySThIOVZvNUNWd0ozaV9aZ0hWYzMyRWVDaTdiNkhjWDA4RUtMbTE1Ri05Tk1ESEdUaTlTZ2pWYmZLVWdJSXFDMER5a3poa3BoWXpBRXk0eFFGSEkzNTRLaFZ6dzJrdTl0NEtTbVN1ZjdhU3hDQUc0d2PSAX9BVV95cUxOVHZnVm5vWlY1RzZ2Z3NMM1FPYUxKUm5Rd2hKTWtjNmpYWnBHNXhfNlFveE1fX0RXakFQYjZ1cUYyS3BVLWJtQno2RGc1N2txaVhXQVNDZlNhSUNZV05ZVEQ3ZFJKVjVlUHhSbDFzUWd2RzlSeVVHaklEZXZDUFpn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-2026-in-seattle-the-compl-2026-06-15",
+      "headline": "FIFA World Cup 2026 in Seattle: The Complete Travel Guide to Lumen Field, Fan Zones, and the Emerald City - The Sporting Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVJ6c3U5cXRpdVRIRTNzVlp6cXkwV2NRbmx6NXczZXdOLWJkMWxvbkZBMld0Vy1BbEtiVlQ5b293SzQ1bWg5MmVROTdBODUwWmZvTEdCeFhzQXI4czFteWNuUlY1SXFaR1g1aEtDV1dvSXlfOVNGU2VLVTEtQ3g0aTVRV0hpaWpqVkxEalowb1A4S0xFV2RtUmRFRmhmNjlNSVEwenJR?oc",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVJ6c3U5cXRpdVRIRTNzVlp6cXkwV2NRbmx6NXczZXdOLWJkMWxvbkZBMld0Vy1BbEtiVlQ5b293SzQ1bWg5MmVROTdBODUwWmZvTEdCeFhzQXI4czFteWNuUlY1SXFaR1g1aEtDV1dvSXlfOVNGU2VLVTEtQ3g0aTVRV0hpaWpqVkxEalowb1A4S0xFV2RtUmRFRmhmNjlNSVEwenJR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-ap-interview-klaveness-slams-infantino-s-2026-08-18",
       "headline": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - boston.com",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2h2M2RWOEJRR0dzelNuNmgwaXhTNXhfRTRzeDBjRENKdWdZYW0tRlFhYzY2ejNNOVFWMFZlUVNtUEtSdFBLb1owTGREOEdiSDJYR05DWERYay1ZbXB6dlBDMnZnZGxXQnJJT2N0YlpUWDF2aXRzbjl5SlFJNWR6LXZaV1JhZWRJNmFyS1JhajZqb3lTVnJQdGo5QUxTNHZiZlQ0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-streetcar-hits-20-million-rider-miles-2026-08-12",
-      "headline": "KC Streetcar hits 20 million rider milestone after 2026 FIFA World Cup - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU1nX05kcWd5TU9TWmE4ZUVjZDAtTHYzTTY0c0xEQld3M1NwLUFQSjZoZ29XbnhkZkNfb2tvS2cxVTY3NFluZVUyRW9GdFB1cHVxRjdXYXRzdGZVSHo1NmJmX05Fd0ZrOFJwYmt0aHRxZmhMdjlwRHpSZ2xLRld2VFEyU21UTElnX2JsNE1oUXBvX0RHQV9xQlFiOA?oc=5\" target=\"_b",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU1nX05kcWd5TU9TWmE4ZUVjZDAtTHYzTTY0c0xEQld3M1NwLUFQSjZoZ29XbnhkZkNfb2tvS2cxVTY3NFluZVUyRW9GdFB1cHVxRjdXYXRzdGZVSHo1NmJmX05Fd0ZrOFJwYmt0aHRxZmhMdjlwRHpSZ2xLRld2VFEyU21UTElnX2JsNE1oUXBvX0RHQV9xQlFiOA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-world-cup-journey-full-circle-chinadai-2026-08-11",
-      "headline": "A World Cup journey full circle - chinadailyhk",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tNWlBdzYybmFMeHQzMjJncmdYN3N5MGdMY2VvcXJMSzVGZnUzN3g4ZmE3V1hDSVFXX2VBOU50c2xZanBBZGhWanh0dV9KdG9SVkxLM293?oc=5\" target=\"_blank\"&gt;A World Cup journey full circle&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tNWlBdzYybmFMeHQzMjJncmdYN3N5MGdMY2VvcXJMSzVGZnUzN3g4ZmE3V1hDSVFXX2VBOU50c2xZanBBZGhWanh0dV9KdG9SVkxLM293?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-somali-referee-denied-entry-to-us-for-fi-2026-08-12",
-      "headline": "Somali referee denied entry to US for FIFA World Cup will officiate UEFA Super Cup tonight - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFRaHBTOFE2a0dzakJ4RGMtS2tPYkk2WnNBek9qaGdRdHdPOUxYdnktRFNYX0hGZ0NEcUJiWlBqbHhjOUFwMjNxQWFxV3Frd1FMbFJBT0ZxMXJtQ0lKOGlrdUJxQnd2dTRXNzEtbVpRakVCaVZEc2dmSWJxMGRDRHBWZnNmUQ?oc=5\" target=\"_blank\"&gt;Somali referee deni",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFRaHBTOFE2a0dzakJ4RGMtS2tPYkk2WnNBek9qaGdRdHdPOUxYdnktRFNYX0hGZ0NEcUJiWlBqbHhjOUFwMjNxQWFxV3Frd1FMbFJBT0ZxMXJtQ0lKOGlrdUJxQnd2dTRXNzEtbVpRakVCaVZEc2dmSWJxMGRDRHBWZnNmUQ?oc=5",
       "featured": false,
       "draft": true
     }
