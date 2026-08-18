@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-17T21:25:21.045Z",
+  "lastUpdated": "2026-08-18T01:11:47.959Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 354,
+      "chapterCount": 355,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2850,6 +2850,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1hjRk01aTFOdlBBQ25Nb3RSbHplOVhKLW5aeUF1b2VtSFk3SDNvN0VLdkFtWFNlZ3BDbldqMXJCTlBieW82NDg4UmoyU0tGcEVkUXN0MC01Ynlkd2JyaGVFUmNoRXpTSklwd2Y1SXh6WlZta2hSUTVfQ0hENkxHSTIyNjRHcGpJelg0ZFJWRFVfazdmMHFrR2NoVjR0Uy1ZOTk1QnZpYU93QVJf?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787015505714",
+          "date": "2026-08-17",
+          "title": "Lionel Messi’s EA FC 27 rating improves with new position after great 2026 World Cup - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzdhdE1vWkJ3Z1drRGhxeGtTd2tTempscGxhU0lXSjVPSHhVcmZRV2JiNlhETnhvZDZScmpLZGtlUEVxNzI2VTN4Q0w5OWpDUHpqU1V5d0ZWRFFKMVVGNzJfVEtUb0dMSGt1Ukl3ZDRzR1VMNU5ISW4ybkR0bE1xQm1VOFAyUk1LUFQzS2FHQVRhUVpKZEpwbWhwM0JvMU9UeGVZdFVlcmdFMFdLMXdvUjhMUdIBuAFBVV95cUxQVzY5ejFvQzhHdi0yV1o2V1BTQ2M1SE83bGdSd2ZJcEVlT2NVT18zanVQd3F1azBfVzNzeFR2dVM3ODVwcDR5clQ1N0J2VUI3NmlYWTlLdHFQb0ZtRWFPT29CUy1nMnNTTklUdWhDbWlaeUg1SE12ZTNfWDduTzJaVnFvZVRScHFMOEwwUDVKSFNmTGRYM1ZMa1ZrTXNYbXdFSk9nd3o2TTJoeHg5b0VDOVZPVjhNVjRW?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5359,7 +5367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 696,
+      "chapterCount": 697,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10928,6 +10936,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMU9qS1pQRjJ1SjBaMFNOTHJ4NHBIOUE5QXhQMG1zZUNPczNtZ2RqM3lJdUpnOGNiY1h5MFloS0k2eDlfeDVWang0aXpmUEp1NzZCOGpmM0N6X181b3ZuelJKNDcyUGhxelhpLVlXMGMwT05YNXEyVTRpSVROd0VOZDZWeDNYbUwxNmc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787015506843",
+          "date": "2026-08-17",
+          "title": "Send us your Scotland World Cup memories of Boston - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLWUZSSW5Ud0ZFd2wzYmtOQ18zcWNvZjZ1VkpNcHpnSlNaRHFaSXF6SzItX1dsc1FOd0w4eEQtd0tJWlIwMV9mSmJsSmZFaWJ6RVJOdzl5ek9lejJYbmZTUTEwVFdqQVk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10946,7 +10962,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 503,
+      "chapterCount": 504,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14970,6 +14986,14 @@
           "title": "Brazil's Lula and Flavio Bolsonaro kick off presidential campaigns - Reuters",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aYlhlb0loLVI0dV9QbE1FZG1rdklCNjdKeE1tVllxVldKaTBZNzI5WDU1TnNMZDBITG9WSnFCbldnYU5ZSjVzdkRrTDhqaDliTDZmVWZlbWpmV0lHVHNYelFnZ3NUbWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787015507398",
+          "date": "2026-08-17",
+          "title": "Discord suspends livestreams in Brazil after teen's suicide - HESPRESS English - Morocco News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaExBOEotLVFiUHdtZHhKSFNlazFUVkRnWjd1RmxYaEZNSVBTT3VfVWdRanIyMzNPam94ZEZlN2RBSm5icWZxTGNNSWVUUGctblU4NmswQ3pGczhUSW5NT0EyVUxMWWdCYnZ3Wk5CZUVXbElsNGNJQXJHZmhUUl9reVBMQzNvRHhSZnRRQmQwUHFUT1Rfbl9jckpR?oc=5",
           "draft": true
         }
       ]

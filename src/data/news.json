@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-17T21:25:18.534Z",
+  "lastUpdated": "2026-08-18T01:11:45.227Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-fires-exec-who-ripped-gianni-infant-2026-08-18",
+      "headline": "FIFA fires exec who ripped Gianni Infantino over $20 billion World Cup investment disaster - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVl6UHN5b3Z3ajN1MV93SFBON0FWU2xKVC02T2lXOE9RSy03RTFZaHFnTmRPanB3MjhEYUVXYUZKWmVQVk5RZ096LWliZ0hHNDNNYS1XM0RWcjkzV0JaZDZ0Q0tRaUd4VHZoS1h5VWEwbWxHbFJnUjRkeXpBWmEyTDJRYTJNTXdjU1JNTmFTenRiMVZnYVUtUl9GQVZoV1J1WExfQkM3RlN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVl6UHN5b3Z3ajN1MV93SFBON0FWU2xKVC02T2lXOE9RSy03RTFZaHFnTmRPanB3MjhEYUVXYUZKWmVQVk5RZ096LWliZ0hHNDNNYS1XM0RWcjkzV0JaZDZ0Q0tRaUd4VHZoS1h5VWEwbWxHbFJnUjRkeXpBWmEyTDJRYTJNTXdjU1JNTmFTenRiMVZnYVUtUl9GQVZoV1J1WExfQkM3RlNidVRCZlVOWHBn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-chief-sacked-after-criticism-of-inf-2026-08-17",
+      "headline": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1R",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1RPZzZGSWZCdFg2dnlrNUhENHZxZi1qYWE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-miami-named-america-s-soccer-capital-in--2026-08-17",
+      "headline": "Miami named America's soccer capital in the wake of World Cup fever, says new study - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkpLR1dIc3RscUhSdjczUlFsRHRDZlZSSXlIZzFHZFdSSG10bllzR0VNeE8wOXFCOVdMc2NTNG1JQmJNSnNlVFJUOHR3SU5uY1dpNVdKblZvZ3FqRGRxVEVoSXlyT0JzOTBrblo4blFYOERUUVN3Uzh5VnlJNDhibHFidThOZVgzWjZPQg?oc=5\" target=\"_blank\"&gt;Miami named",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkpLR1dIc3RscUhSdjczUlFsRHRDZlZSSXlIZzFHZFdSSG10bllzR0VNeE8wOXFCOVdMc2NTNG1JQmJNSnNlVFJUOHR3SU5uY1dpNVdKblZvZ3FqRGRxVEVoSXlyT0JzOTBrblo4blFYOERUUVN3Uzh5VnlJNDhibHFidThOZVgzWjZPQg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
+      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc-themed-world-cup-flag-sales-help-bene-2026-08-17",
+      "headline": "KC-themed World Cup flag sales help benefit Ronald McDonald Houses - Yahoo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDhLSERQWVpIcmQxUGo5Sm4yN2swYURMMzdTTzdYNjZscWtkWU9lSVg3WDBDWGE5VGQxRHJMaXpyRXZONUFNT0UyZklFdDVGc2NVQlBPRzZOaUVFa0J2d19sTkdoSXA4ZEZSWEVWYnVDU0RlY3hDdmg1d2hXTXRncA?oc=5\" target=\"_blank\"&gt;KC-themed World Cup flag sa",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDhLSERQWVpIcmQxUGo5Sm4yN2swYURMMzdTTzdYNjZscWtkWU9lSVg3WDBDWGE5VGQxRHJMaXpyRXZONUFNT0UyZklFdDVGc2NVQlBPRzZOaUVFa0J2d19sTkdoSXA4ZEZSWEVWYnVDU0RlY3hDdmg1d2hXTXRncA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-garcia-blames-belgium-s-doctors-for-worl-2026-08-17",
       "headline": "Garcia blames Belgium’s doctors for World Cup struggles - Reuters",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-22",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY1OG1KTEp6NXEzMFVPaXA3SXJ2VzE4T2VNQ0lVU2JsQmJjODJpZHUxTUg4UkxPaW1CS3lmcTlNeVBocTM3UVNLbVYyd0dmc0V1QzBqYk1EZFVXMDBsM3doUlBjdzQtT1E5ZkVHZ0RRS0o0M0JLN2ZBSlI2R2lRa3FhblJQcUtXbkxyOEw2WQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-kansas-city-spirit-landed-the-fi-2026-07-10",
-      "headline": "How the \"Kansas City Spirit\" Landed the FIFA World Cup - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5\" target=\"_blank\"&gt;How the \"Kansas Ci",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-64-team-fifa-world-cup-infantino-reporte-2026-08-11",
-      "headline": "64-Team FIFA World Cup? Infantino Reportedly Backing Major Expansion - Forbes",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFh3MndsU0NQcjl2MHIxSEVKT1NscHRlYy1YdXg2eVJWbDkyQVNFd0Zxa1FCYlFpTlFJUDQ3R2gxN0JYYnZBZ3VWQjF5VnpIUC1SbGNnVVNKSkduNjNTMkRHbURVMG5GeWdwc0UyT2FxNlhNNlIyazZLdHQ1MGZoYWxpSnN0Y0Q4b3dlN0Y1di1FdHRjXzNZMzVhRmdsdEFnR0wwejlxMkF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFh3MndsU0NQcjl2MHIxSEVKT1NscHRlYy1YdXg2eVJWbDkyQVNFd0Zxa1FCYlFpTlFJUDQ3R2gxN0JYYnZBZ3VWQjF5VnpIUC1SbGNnVVNKSkduNjNTMkRHbURVMG5GeWdwc0UyT2FxNlhNNlIyazZLdHQ1MGZoYWxpSnN0Y0Q4b3dlN0Y1di1FdHRjXzNZMzVhRmdsdEFnR0wwejlxMkFKbXIyeWR0cTcxRWEzQ1c0bjRLM2lwVHRUMndzWkJvOHktcw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-world-cup-journey-full-circle-china-da-2026-08-12",
-      "headline": "A World Cup journey full circle - China Daily",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVVpyODF5TTR0X005U1Ayc1ZXYUZPYmNrUFk0aFFZZHA0VFRzWG56YWcyalJJa3MyaWh3aHJmaEdwZ3Z3MURMclA1TVpIS3hYZzZqV1R4N2FrNWREYmwwaXJ0R2ROR1hIckhXVE1nSV9uQjc3TmxOQ19QOXhCQQ?oc=5\" target=\"_blank\"&gt;A World Cup journey full circle",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVVpyODF5TTR0X005U1Ayc1ZXYUZPYmNrUFk0aFFZZHA0VFRzWG56YWcyalJJa3MyaWh3aHJmaEdwZ3Z3MURMclA1TVpIS3hYZzZqV1R4N2FrNWREYmwwaXJ0R2ROR1hIckhXVE1nSV9uQjc3TmxOQ19QOXhCQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-infantino-may-back-massive-world--2026-08-11",
-      "headline": "FIFA’s Infantino May Back Massive World Cup Expansion In Fight To Keep Job - Yahoo Sports UK",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjQyQ2dzeWV5d091TTlobTVSazBMVzBlZFJOdm1yZDJPZ0Q1anZ1WWdTVzFGbFhSTlpod3F3Yjg2cXo5X29tSEJ5TEJTdk5xMlFkVFRaTHRVVmFpTFVpdExuVUY2UndiOTllM3g3bzFDUjVRMnRmdURaYVFjeFduaUlaam8zQQ?oc=5\" target=\"_blank\"&gt;FIFA’s Infantino Ma",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjQyQ2dzeWV5d091TTlobTVSazBMVzBlZFJOdm1yZDJPZ0Q1anZ1WWdTVzFGbFhSTlpod3F3Yjg2cXo5X29tSEJ5TEJTdk5xMlFkVFRaTHRVVmFpTFVpdExuVUY2UndiOTllM3g3bzFDUjVRMnRmdURaYVFjeFduaUlaam8zQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-youth-sports-facility-development-takes--2026-08-11",
-      "headline": "Youth Sports Facility Development Takes the Stage at CSEF 2026 in Kansas City - Youth Sports Business Report",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVURLeldIQUNvWENoYUh5anc5d1IzVngtZEk1VXRpeU5zT1dJZGNtMklaSjFKcGFlZkk0djFUT2xFaXEzRzNSbTJVdGl0X3FHa2JwMVVJSjRDeFlwdzRBZ280T0ZRdUpkMjdnS3Z6cEpMajRJTkhEYXFlLTMzdXU4NHdDSEVINXJHaU1uUHk1eGo2QUJEeTY4NThMRk1wTG00N0hfOUdkT2l",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVURLeldIQUNvWENoYUh5anc5d1IzVngtZEk1VXRpeU5zT1dJZGNtMklaSjFKcGFlZkk0djFUT2xFaXEzRzNSbTJVdGl0X3FHa2JwMVVJSjRDeFlwdzRBZ280T0ZRdUpkMjdnS3Z6cEpMajRJTkhEYXFlLTMzdXU4NHdDSEVINXJHaU1uUHk1eGo2QUJEeTY4NThMRk1wTG00N0hfOUdkT2lkRTlSYllZX29PM0NYQ2M?oc=5",
       "featured": false,
       "draft": true
     }
