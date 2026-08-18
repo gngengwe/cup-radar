@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-18T01:11:47.959Z",
+  "lastUpdated": "2026-08-18T03:43:44.098Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5367,7 +5367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 697,
+      "chapterCount": 698,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10944,6 +10944,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLWUZSSW5Ud0ZFd2wzYmtOQ18zcWNvZjZ1VkpNcHpnSlNaRHFaSXF6SzItX1dsc1FOd0w4eEQtd0tJWlIwMV9mSmJsSmZFaWJ6RVJOdzl5ek9lejJYbmZTUTEwVFdqQVk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787024623078",
+          "date": "2026-08-17",
+          "title": "U.S. Soccer Weekly Recap: USWNT Forwards Shine in NWSL, Dest and Pepi Combine for PSV Winner - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzREX0NIWjFuUmtycVpMdk1tMF9iNEh5cmhialFPUnlFWjJiZUtQZ2psVDdBMkZvWDJZUFpmRU16Z1NKUG5EejhMNVh5bTZCUGRwTVgzeUR5dVA4dWpETFE4Q0NqQUx5TjhYT2l3d0xjNWhiZHEzWDJkeXhFVXhtaEptY1pwV1JqYzFoT0hGMndIbE4zTTl3SERvSW5SSFhaVXVnN1YtOERsT1VHbS1FUE9SWlAxandudnJ2VnpkSkp1WlBpU3Z6SXJ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10962,7 +10970,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 504,
+      "chapterCount": 505,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -14995,6 +15003,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaExBOEotLVFiUHdtZHhKSFNlazFUVkRnWjd1RmxYaEZNSVBTT3VfVWdRanIyMzNPam94ZEZlN2RBSm5icWZxTGNNSWVUUGctblU4NmswQ3pGczhUSW5NT0EyVUxMWWdCYnZ3Wk5CZUVXbElsNGNJQXJHZmhUUl9reVBMQzNvRHhSZnRRQmQwUHFUT1Rfbl9jckpR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787024623678",
+          "date": "2026-08-18",
+          "title": "South Sudan, New Zealand stun at the FIBA Women’s Olympic Pre-Qualifying Tournament 2026 - FIBA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE5SdEJ5ZFB1UXZ1UmpBSTdRY1R5OVcyWUowcUR5MTU3Ym1NN0RsNWhFMDJMYm1rZmlLbVp0VEphemZrRXhSeXZaRzNZdkRSOUdZUG90UHQ0Vkh4LUx3bXRTZFV4MXJBWmZUTEVtekpheGI3dmg1alBkdXJHakExaHhLeTNWUnZLRXM4cnJQSlVrbWRpVnA4TmF2cmNkbC1LQ0UxWDMyS1BCTzZESWNrVUlPa2dLQ0VIYW16NFFPOA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15224,7 +15240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 785,
+      "chapterCount": 786,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21504,6 +21520,14 @@
           "title": "Hockey World Cup 2026: England Stun India 4-2 In Amstelveen; Focus On Pakistan Tie - NDTV Profit",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFFaTmJXQ2dkSlI5NXJkb2hNTWdPZmhtT0FDd3BieDNUWE5xeEZGNmlCYjQxdG1WSEtJQVJZaXRKTkJ2dzFPMENjdVg3RWl3dW1ERER6OHAzbEdVLVczbU9kQ19idDZ6eWZLQ3BZMHBObDVHRlVqRk5pNzdGcDZUUG9KVl9KRUptTFcxeV8zSllHb0laQ0dhMGRUU0RSLXJPdGItUi1pMXZqZVRidm03cTVIZWZvVnVUZ2JWcjM4a0nSAcgBQVVfeXFMTlprbmpveFRjQzNtNmFaTkdpcUZsTHU3SlB3YmhyM2gtSmZKelB3TDZTaElOMGFnZ0lhUExxeWJqdnVXN21EUnNGUGdOSEM3YjljLUkyaWZOMW9aY29FMkViTTItQXFXMlhISnJLZ2dHTGxTSVY1OTdGek45OHhtM3AyZ2VXdnVuaG85RWdMS210S05FZWRpQVRyTU82ck5Ub09raG9CWlZOWXpHaFZfbDhfMEEyZzdiWVNWS1podURTOEFtTFp1TjY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787024624098",
+          "date": "2026-08-17",
+          "title": "India's Hockey World Cup 2026 Hopes: What England Loss Means Ahead Of Pakistan Match - NDTV Profit",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVktSlZKd0lBa2NVMFdQejMyakd3NTdpeGtaUEE0ZjBZSXI3c1hPRTZBMloxclVodGtmMzNqYldwQnp3d1lrR2drbVFpVXlzcnUxR3gwWUN3TW9pRjF5Y3FsMWM3cFB3WFRYMFhmZ1F6M0toZGw5TWlaVm1vVW5pMTh5RVhVUDYwNWhpQTV4dWZjZ0Y3dUU0VlBEbkhqOURmdnZCOURiT0tLMWV1Q3p1RzU0V05oZWp0SnpkNWF4cHJxSUnSAcsBQVVfeXFMTzU1dFV2VGNqVjlNQ3RFa0NfQWN6ZWVnb0pEYTg2amtRZ0lERFZITnFzWEI1bW9mMHk0MUJMeS1fZy1ORHN4TFdld29PT0t1VFYzd0dzSHpLZEk1b29UTGdKRGI2c1doV2ljTHZNOHhJMVJIdUZMNEZsa0xYMVNQbVMwY0JzVTBkUmF6endzMkhhZklLdDhqUUN2S3dFaDZ0MTA0cmhCMUdzcW9jMXFseHJvSkFvTExZSWtlS3pWVFBRLW45Nkt3N3VsRHM?oc=5",
           "draft": true
         }
       ]
