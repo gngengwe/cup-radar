@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-18T03:43:44.098Z",
+  "lastUpdated": "2026-08-18T12:43:41.910Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5367,7 +5367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 698,
+      "chapterCount": 699,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10951,6 +10951,14 @@
           "title": "U.S. Soccer Weekly Recap: USWNT Forwards Shine in NWSL, Dest and Pepi Combine for PSV Winner - US Soccer",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzREX0NIWjFuUmtycVpMdk1tMF9iNEh5cmhialFPUnlFWjJiZUtQZ2psVDdBMkZvWDJZUFpmRU16Z1NKUG5EejhMNVh5bTZCUGRwTVgzeUR5dVA4dWpETFE4Q0NqQUx5TjhYT2l3d0xjNWhiZHEzWDJkeXhFVXhtaEptY1pwV1JqYzFoT0hGMndIbE4zTTl3SERvSW5SSFhaVXVnN1YtOERsT1VHbS1FUE9SWlAxandudnJ2VnpkSkp1WlBpU3Z6SXJ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787057020447",
+          "date": "2026-08-18",
+          "title": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWtPcGg2QUlWVmVVNm04XzZYXzJaVlVKRkNxemJNcDhTbUx4UTJmZUFDeTQ5dDJKdFhRSnJpM0hRbW51TnBiNEZLQUkxMFBvNVd2N29seENPSExYQWxyUktKeVBhMG5xZzZ6NFVNbDdHYmRsNW93RlpDa2xCU0RMZVFZSFNSUlk1WWpUNElnZ19ZZDVfV05FWWswd09Ud1R3U2gtNF9wSnlwZFdCY3JnbXY3LXpZbklHYVoxQlgxczdTYVRYRWo2LUNyZGEzZENaY2c?oc=5",
           "draft": true
         }
       ]
