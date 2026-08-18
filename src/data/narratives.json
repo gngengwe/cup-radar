@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-18T15:30:58.360Z",
+  "lastUpdated": "2026-08-18T18:37:31.219Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5367,7 +5367,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 700,
+      "chapterCount": 702,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -10968,6 +10968,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXdPNmxOSXVjUXlzVGE1U2RHX1V2ajZlQUN4THVfck94OFlMYUlWd0dQY0ZuU29xaVpPaGZMNzUza3ZNbjdfUnd4ZWtDMHBqeEJBVUFCQlQ5TVRUMW5ldHpEcGh5SHFhTW5WemFBSE0zcmdVSjVTTHdWWFBwNjBIQVA4R2I1VldKTFVuWGpucXMwN3ZrV0tMUVln?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787078249891",
+          "date": "2026-08-18",
+          "title": "USMNT World Cup Defender Finalizing Deal to Return to Hometown Club—Report - FotMob",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0VibjdaZHpOSDVZVGZSaC1MNGFZbjhocXVfOUdzaG5YRkswNEdFN1E2R0xWSTc3dFY3Qkdfc3VNS1RFc2RYVjBFMEsxS1lxOU5FdHRoUzVlenpYeUc2LTlWRDc4NzA3OWg3V0E0QmNuMDM1ZHdhSElOZ3gwNWVYbl94VTU3ZjhJazl6eVBVU2JMc1NmMHVQQ0txbmdMR1BrWm40LUJBZWZJcWpfQ09pOW9wR0s?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787078249891",
+          "date": "2026-08-18",
+          "title": "D-Fend EnforceAir Secures World Cup Airspace Across Multiple U.S. Host Cities - uasweekly.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlY4WndWalEwdUYxTHp2TmlDSEZ2d3BWa3Y1ejdsOGJ5RVQyUXRXNjVoYTk5Q2NETmJHN1U5bzV6S0JIdS0tU2U4LVBvaDFKci1SYXkwQkZnNW1Wamk2cG9oVlFNc3E3RUR2RmJsbm4xLU5xQVYwdEVZcEo5YzA4b0RRYWxmQmVPb1piVXhaekxGWndqUGh2VmVFdnlpdHA1ckxaMGVpM2NGUkJqS0hB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -10986,7 +11002,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 505,
+      "chapterCount": 506,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15026,6 +15042,14 @@
           "title": "South Sudan, New Zealand stun at the FIBA Women’s Olympic Pre-Qualifying Tournament 2026 - FIBA",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE5SdEJ5ZFB1UXZ1UmpBSTdRY1R5OVcyWUowcUR5MTU3Ym1NN0RsNWhFMDJMYm1rZmlLbVp0VEphemZrRXhSeXZaRzNZdkRSOUdZUG90UHQ0Vkh4LUx3bXRTZFV4MXJBWmZUTEVtekpheGI3dmg1alBkdXJHakExaHhLeTNWUnZLRXM4cnJQSlVrbWRpVnA4TmF2cmNkbC1LQ0UxWDMyS1BCTzZESWNrVUlPa2dLQ0VIYW16NFFPOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787078250421",
+          "date": "2026-08-18",
+          "title": "India Likely To Host FIFA World Cup 2026 Team After Brazil. Report Makes Big Claim - NDTV Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0hSYmthVHNweS1BSktaY2NEN053TEtwaFMwXzg?oc=5",
           "draft": true
         }
       ]
