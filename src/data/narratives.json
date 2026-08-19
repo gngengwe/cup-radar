@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-19T09:33:16.879Z",
+  "lastUpdated": "2026-08-19T12:45:07.930Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 356,
+      "chapterCount": 357,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2866,6 +2866,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQU9GYzViTlBoclV3aElvN0Z5OFlGQUd0azFuSElCT3h3cTE4dVhSU052SWxacWFRTFhvZ0Z6SmtDMmNxbXlsR0lBeWpxN1NEMHJzbEtoM2xjY1ZDeExRcDE5dTBITExlQXdLWHY3amFGTUdxc3pJRzlCeW1TME12WWJiZ1hOaHJMWUE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787143506002",
+          "date": "2026-08-19",
+          "title": "Messi retirement hint highlights football era nearing an end - DW.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2gxTDU0cVJNZl9WTHlWVURVenQ0T0I5MDNBLURROVlhbzZOU2F5eE5VQktDU1E1TUVkN2FTTFZzbXhGRmNnRjdaMEdxLTJSN0w3a0JEbFpibThuUTBNdG9ETjdOeXFrVzNadXU0OV9VcC1Rc3N1ZkpIMjZvbVJMa2xDMi1lbF9FXzdVcks5RnJnaEV6NUNYTNIBmAFBVV95cUxOczRRenhYbnNyR0w4Tnc0Vm9LcVRRSDM4VXA2WFowMkJJMlNKMmY3MDFxQk8tWURKVG1FM2U0U1RsUkdqVW9GWGF6YXJIQXpQdmNKaGlvTUI2dzZqcXNtSDNZejJzREliU2RyQnE3YVVSdHBVOEFwbXVvOWFseGNfODh2QURJUFBwMVZseldUeXJaNHVkdEx6Mw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5375,7 +5383,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 708,
+      "chapterCount": 709,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11040,6 +11048,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkxVM1NpbG5DR1N3QnplUXhaVmEya1EyeWRiam8zQXhzLVBEV0FDWlM1WmVNNGN0am85WHNDOUthRS1PZkxEdHQ1SGtFSWtFY1lQdzdhS29oX1ItbzJJYWFZQkphazZhNEI5ei1oMWljcUxfd2dMXzNaMWJRT2RaclJsdnJHMjZ2MjlvamIzNjNLOF9kRUhxY0Rxbmx0cDE2ZmhtVWdJVjBiMzVVanc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787143507004",
+          "date": "2026-08-19",
+          "title": "Aston Villa’s Zion Suzuki: The U.S.-born Japan goalkeeper who turned down Man United - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkV4WkJjaEs3Wk1FTkE5eF9pb3lNUEZPbDdyd044dWJJRWkwemJCV3RzMm5mWWFFRnoxTXFhSEpxc1VjeDVfUjlKU0g1a3dOUnVXeF9XT012b3FMX25NNGU5dUt4enRtTDVibDhIWDFBSHRRS1o5aVhUakVGWFVrUDdiMVBlVVdDMXZrZzZaRDlMMk1MbTdJaUU0VEtlczJMd1JN?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11058,7 +11074,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 509,
+      "chapterCount": 510,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15130,6 +15146,14 @@
           "title": "After Brazil, India to Face Another FIFA World Cup 2026 Team? Report Makes Big Claim - MensXP",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGxhUGE1SlFTUXB4d3RHd2VTYkhQcjNJcGhpLS0wSE9jUlNwblRReXRxLTZydTMyQ0dJZXVvZmtqUnFza19rb2FzNmxhTHM4cWFJZ0RaZnYyZkdWRDF3NXhiY1BHZ0NPQTh0UW90azZMQlZFeUxxRG9lYWNtRzNZS0ZMdmxrUmk0bGRTa0xIRFlNYUNWNGZoNzdnUmhnMUdVUDFfNkJyYllDRS1SSnV0Snh5aThFamtTamhKUWRYd3RQcF9zcmZhODQ5WlRmZ9IB0wFBVV95cUxOa2NiOWhOMHpzSThlTW1kN0hZSGwxSXZJdHNhSWp1cUgyTzVmTW5fbVhUNlNtMHJvcm9oSF9ocFl3RldnUmJWdnNxdkNuZzZ6ckZNT3Y4MGtvb0h3VXFjendWY3lwTHc4UERzV1hVNmNDcmZNU0wyd2lZQjBuSU9TZkJsaEdlMkhBbjdqaVhUSHhFYzFJVk5Ld1FaNlB1X1BzLWRUNWtmN1kyVUlIOTJ3NkFBcHBpR0tmeFJ1MTdraUc5cFY2VnpGVEhPTmxaT3FNNEdz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787143507412",
+          "date": "2026-08-19",
+          "title": "Brazilian Equestrian Confederation share a statement in response to Yuri Mansur's decision to quit national squad - World of Showjumping",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdDllSzd6d0dYWkExRnpYUDI4M25lSGdaRGFGRmtBNndodjZxaVdSZi1HZHd5V2ZsUXFJWERZWTk3a2VHQjB2NTRRWFlVZHZ6NVYyOUFYd0tXTXhHdDRVTlJodXRneFNaVVpDZUNsMk9IaE04czdQUXR0bGhZOVhLSFo2RUtJOFBWanFhMUVyZUJXSlMwZ3k2MlRLLXRzRXB0T01xcFhVSUx0bmxBcm0yUGhpUXVKSHVGb2VWTkpWZGhKX0pMUVE3TUlUWVdlM0tCdWs3b1U2NnV5TU84Qkc5ME1hZkxqRkRKTVBqSWVMN094dUpKQWdCSUpzU3dTeEFrSTBQM2NFWjBUdUxFUEUtUQ?oc=5",
           "draft": true
         }
       ]

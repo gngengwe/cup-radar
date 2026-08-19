@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T06:41:43.165Z",
+  "lastUpdated": "2026-08-19T12:45:05.499Z",
   "articles": [
+    {
+      "id": "news-auto-grading-the-2026-world-cup-from-spain-s--2026-07-21",
+      "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5\" target=\"_blank\"&gt;G",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-21",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
       "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHVaeWFtVjJ0V2NFYXA0eURzelNOMjl4ZWZLUkdwNVN3NTRkTTVsZkdzblE4R1ZVZ09sTjBuaHdmTHVmV3RGdHJvT05NdmxSakdrQjdDMzlpZVVtZVBmZDFIQ2JqR2FXNmZZdUF4SHR2cVh1Z0NUYzBsYVdmeXlHR2Y3SDR5Nk9KU3RaWDh4b1hDSGFSX1JOWnRrQUw3RmpIcnpaNg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
-      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
       "featured": false,
       "draft": true
     }
