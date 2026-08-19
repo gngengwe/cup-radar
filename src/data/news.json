@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T12:45:05.499Z",
+  "lastUpdated": "2026-08-19T15:30:27.202Z",
   "articles": [
+    {
+      "id": "news-auto--i-love-freedom-viral-world-cup-fan-reve-2026-08-19",
+      "headline": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip - hitc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFM2Mmt2em9MU3NKczMycWtiTkFOOGxlVUduLXF5OVNTWk4xNGlDTW1FdDA3X2FtSWQ1OGZqNEpmYW9HUnM5ZHBGeU5yMXZvVEV2UDl5RzVLaE8ydi14ckk0NlZPRk0yckE1RkF5aTNYc1VUV2h0dGh5ZVFqbjkzMVFhdnplbklVMXpXOXR1VVJiNDVQQVRBSjcwVWVjTUZmV2VOTVQzQ1N",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFM2Mmt2em9MU3NKczMycWtiTkFOOGxlVUduLXF5OVNTWk4xNGlDTW1FdDA3X2FtSWQ1OGZqNEpmYW9HUnM5ZHBGeU5yMXZvVEV2UDl5RzVLaE8ydi14ckk0NlZPRk0yckE1RkF5aTNYc1VUV2h0dGh5ZVFqbjkzMVFhdnplbklVMXpXOXR1VVJiNDVQQVRBSjcwVWVjTUZmV2VOTVQzQ1NpYi1jOEE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-egypt-s-fifa-world-cup-2026-coach-hossam-2026-08-19",
+      "headline": "Egypt's FIFA World Cup 2026 Coach Hossam Hassan Collapses After Alleged Fight Between Two Wives - NDTV Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTZUU2lFcHpxZG0xSDlvc1YzRzR4QnNSeFpGRUZKYTNpcnNVTmRRenFsWnJ5eExTbjloRERCTmxDd2U4d2pRdVdlTFkxMkJXSk5jZzRSS0UtdlZJWGxVZHREeGhVblpLbS1GNW1aRzh4ZkhVaU5nRGMyeVI2TFZJNTBXYzBLeUZCUXZOdUZEdzNkM0VqajM4dzFYSzNJTXJReV8xRzJMaFV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTZUU2lFcHpxZG0xSDlvc1YzRzR4QnNSeFpGRUZKYTNpcnNVTmRRenFsWnJ5eExTbjloRERCTmxDd2U4d2pRdVdlTFkxMkJXSk5jZzRSS0UtdlZJWGxVZHREeGhVblpLbS1GNW1aRzh4ZkhVaU5nRGMyeVI2TFZJNTBXYzBLeUZCUXZOdUZEdzNkM0VqajM4dzFYSzNJTXJReV8xRzJMaFV1VXlNUFdLOFltdkh5M2UyQXVqZ1R1ZVdHeWdIWHhOMEhPalNuODdFekE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
+      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-grading-the-2026-world-cup-from-spain-s--2026-07-21",
       "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F - ESPN",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-23",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
-      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
-      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-gianni-infantino-considers-another-radic-2026-08-12",
-      "headline": "Gianni Infantino considers ANOTHER radical World Cup change to save FIFA presidency after failed sell-off plan - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHVaeWFtVjJ0V2NFYXA0eURzelNOMjl4ZWZLUkdwNVN3NTRkTTVsZkdzblE4R1ZVZ09sTjBuaHdmTHVmV3RGdHJvT05NdmxSakdrQjdDMzlpZVVtZVBmZDFIQ2JqR2FXNmZZdUF4SHR2cVh1Z0NUYzBsYVdmeXlHR2Y3SDR5Nk9KU3RaWDh4b1hDSGFSX1JOWnRrQUw3RmpIcnpaNg?oc=5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHVaeWFtVjJ0V2NFYXA0eURzelNOMjl4ZWZLUkdwNVN3NTRkTTVsZkdzblE4R1ZVZ09sTjBuaHdmTHVmV3RGdHJvT05NdmxSakdrQjdDMzlpZVVtZVBmZDFIQ2JqR2FXNmZZdUF4SHR2cVh1Z0NUYzBsYVdmeXlHR2Y3SDR5Nk9KU3RaWDh4b1hDSGFSX1JOWnRrQUw3RmpIcnpaNg?oc=5",
       "featured": false,
       "draft": true
     }
