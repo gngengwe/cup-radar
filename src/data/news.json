@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-18T21:23:20.788Z",
+  "lastUpdated": "2026-08-19T01:12:41.926Z",
   "articles": [
+    {
+      "id": "news-auto-canadian-fifa-world-cup-star-joins-premi-2026-08-18",
+      "headline": "Canadian FIFA World Cup star joins Premier League team in England - Daily Hive",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5\" target=\"_blank\"&gt;Canadian FIFA World Cup star joins Premie",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2026-fc-100-kane-yamal-messi-among-best--2026-08-18",
       "headline": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players - ESPN",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXk1N3pFTkE2cXRNMjdVN2ZCU0dXTE5IUGVWUFQ5RTFIMFhjUlhqeUppR1IxelJiMGsycWpJSDhqVzZ6dFBLeERUSlhxZ0Z4bGtPWjM4clRsLV9ZalhGWGdMRkwwc282MjE0YllHZXM2ZGpNdFVmZnNGZ2M2a0dLazZsYnM1aDh2Q1FEMU1EQVlRVzBaTnMxRjZseW1EelZU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-for-advertisers-hydration-breaks-were-th-2026-08-12",
-      "headline": "For Advertisers, Hydration Breaks Were the Star of the World Cup - adweek.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2h2M2RWOEJRR0dzelNuNmgwaXhTNXhfRTRzeDBjRENKdWdZYW0tRlFhYzY2ejNNOVFWMFZlUVNtUEtSdFBLb1owTGREOEdiSDJYR05DWERYay1ZbXB6dlBDMnZnZGxXQnJJT2N0YlpUWDF2aXRzbjl5SlFJNWR6LXZaV1JhZWRJNmFyS1JhajZqb3lTVnJQdGo5QUxTNHZiZlQ0?oc=5\" ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2h2M2RWOEJRR0dzelNuNmgwaXhTNXhfRTRzeDBjRENKdWdZYW0tRlFhYzY2ejNNOVFWMFZlUVNtUEtSdFBLb1owTGREOEdiSDJYR05DWERYay1ZbXB6dlBDMnZnZGxXQnJJT2N0YlpUWDF2aXRzbjl5SlFJNWR6LXZaV1JhZWRJNmFyS1JhajZqb3lTVnJQdGo5QUxTNHZiZlQ0?oc=5",
       "featured": false,
       "draft": true
     }
