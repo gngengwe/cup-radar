@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-19T18:34:15.811Z",
+  "lastUpdated": "2026-08-19T21:24:27.123Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5383,7 +5383,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 715,
+      "chapterCount": 718,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11104,6 +11104,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSklldGpMQTZXRnNpUTA4el95XzVJamE3aXA4QThIc0VEZ3RQdVVVMFZzOFNsZmwwZE14SkVqN2VwUEFvRlZWX2FrRkhtUy12OERTSU42TlhuWG9aZTVJM1daVWxpektEcjVPMV9xbXRTSjdlb1hOSzFzNmF5dXJFUjZqZTBWMHJ5YV8ydFhYVGhrVnhFSW5PS3pLdHBBNWlobW5jQ250VDE5UU5sNy1XU3hFY2h3Z3c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787174665996",
+          "date": "2026-08-19",
+          "title": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787174665996",
+          "date": "2026-08-19",
+          "title": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787174665996",
+          "date": "2026-08-19",
+          "title": "Chicago Stars FC Forward Micayla Johnson Called Up to Represent USA at FIFA U-20 Women’s World Cup - Chicago Stars FC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUS1oTElHbWdDVmozd1BxQVhieThGLTlGa3JjbzlMbTBwSC1qNy05cnVhS0hUQ3NxMERmRVhtOU9EVWNYRGlBUTBmcGI5dk1obFRFcGRkTjRrZjFzaFJTVXFfMkpiMHhLWHlYbEl2el9sQjRrZnVFTjh2QjFuSWtvNEg3djkwUWJ2RWRHMkNhYjlPWVc5bFoyb21IRUpvaFFZSldqOUVSQk4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11122,7 +11146,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 510,
+      "chapterCount": 511,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15203,6 +15227,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdDllSzd6d0dYWkExRnpYUDI4M25lSGdaRGFGRmtBNndodjZxaVdSZi1HZHd5V2ZsUXFJWERZWTk3a2VHQjB2NTRRWFlVZHZ6NVYyOUFYd0tXTXhHdDRVTlJodXRneFNaVVpDZUNsMk9IaE04czdQUXR0bGhZOVhLSFo2RUtJOFBWanFhMUVyZUJXSlMwZ3k2MlRLLXRzRXB0T01xcFhVSUx0bmxBcm0yUGhpUXVKSHVGb2VWTkpWZGhKX0pMUVE3TUlUWVdlM0tCdWs3b1U2NnV5TU84Qkc5ME1hZkxqRkRKTVBqSWVMN094dUpKQWdCSUpzU3dTeEFrSTBQM2NFWjBUdUxFUEUtUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787174666499",
+          "date": "2026-08-19",
+          "title": "Exclusive: Brazil 2027 Women's World Cup Away Kit Info Leaked - Footy Headlines",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0tRRjlCNE80X2FzdFY4alpDclNLYmh5aEw0WE53dG45dWxhMkk4WjV0bUJ4aVkwVDd1UFRsUDhGd3dKdVhuTmxXa3MwMk84V1NxOEpILWhwZzFEOGxoXzc1NllWanFxelNzVklJUnEyemwyMnZ3akh0WGNrR1I0ZXh4TkU0dEt3ZUpsbzIwaHkyOHZRSU1mNnVPSTRGVWk3Skx5Ul9RWEdqSGM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15432,7 +15464,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 787,
+      "chapterCount": 788,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -21728,6 +21760,14 @@
           "title": "Hockey World Cup 2026: India’s 32-year wait for win over England extended - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWhxM1drbjVwOHZ0SmZLZFRWZ0dGUjhDUTdZVWFlLS1nbGVFTEdIU29qV1hyZEotV1VRVHF3V3ZhdGx0R1E1Q1IxMF9nWGx5N3RUOTVna3Y2X19nN3VXX0NDRkNNelRqMEMyTTVqTENReU5adDNzeHpIZ3NmNkNtOTFzN3ZoaW5zcXZPcDQwRmVZQmRVQlFRQ3k4VWJiVkJR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787174667123",
+          "date": "2026-08-18",
+          "title": "Hockey World Cup 2026 Updated Points Table: England, Germany and Netherlands Lead Men’s Pool, Netherlands and England Shine in Women’s Standings - The Sunday Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPd0xoYVFpdkYtT3Qwd05JWkdmWDNmcng5bmREcDd6M0tMR3Q2S09fNVBaYmRXYlVZSm5pdEtSNWxQa3R0ZmU0TjUxV0JLaTFpV2tQQ1g1dGlQVmZxSU1mRElzX1JPOEdjcjRtenVLMWkxMTdjaHBUaVVOdEhYOW1FUHhJUWZjaG5pX2dRTHh3XzVvMXBDa3VWX3VDNkVlNHQxYk4tQWt2YW8yWlEtVWQtdTZSR1pjbE9HOU5seHRXSGNEak1sWkJqNnJuZ3ZFVTUyRmdmS1RWZDNMTURrbVlRdW1hd2ZORnpZbHRScG5xaE9xc2F3OVZLQ0tROTEwQ3JoSVVmaWZQdkdCYTBOZ3MxeGVrVdIBmAJBVV95cUxPRlVQMWpQQm9nbUdvNVllZkl4RUhsX2hjaU8xazN6azctbWpXUHprUk41alhMbzRVR19UOFB6UG1jZTJ0aEQyZTVCcHY3VHJTTERzNHBGRkY4T2Z5NURxbjdZM3BfcjFPUnMwM3lZT1dQdXNfWElzNXdxR3pJQkllejkzRWRnb2d5VjdISzloUG16OS1YM3NHazZzX1JJejFMdkFnV1p6blVMMlJxbEQySWE3Zzg0WHZ5WVpvU1F6VWZVMWJIZWpjbDZFVXZDWHRrWEtabXNwcGZkZlZqeE81dllkWWQzQlA2bVRyNldaR0FZVDBwNzhqM1QzRTRSa2Z0dktaM2oxVF9OOHFBQy13TjVQQVJDUm9h?oc=5",
           "draft": true
         }
       ]

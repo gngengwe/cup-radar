@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T18:34:12.827Z",
+  "lastUpdated": "2026-08-19T21:24:24.343Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-fifa-world-cup-2026-peter-tatche-2026-07-23",
+      "headline": "Seattle – FIFA World Cup 2026 - Peter Tatchell Foundation",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5\" target=\"_blank\"&gt;Seattle – FIFA World Cup 2026&lt;/a&gt;&amp;nbs",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
+      "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-richard-masters-and-howard-webb-criticis-2026-08-19",
       "headline": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup - Sky Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0Qzb2x4MTRKZDByTVRHWi1UenF0bWJjYlg1aUttb2VBSFY4MzRXSWVqSWplTDJldldUWU9PaFUzdFRoT2gxNFhheEZ1eHFmTkdydllEVjloNDFCQVotTVAyS1U3eTloVjhTc2g1UWtuczFtTUF4bnBuZFFTSTY3TVUzMUVJRjRJTDY3U0VR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-crowds-bring-some-boom-some-bu-2026-06-24",
-      "headline": "World Cup crowds bring some boom, some bust for Seattle businesses - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVhITThwaDRXaXo2dDdZUlRmYlJvblhRNGJUYVJDampuSldWRWVGbjVINmFhdHFCb0FQbl9fcWhndjBBcWNMMjB6M2I5QmZqenhiOEQtOVNVUnRRV0VpRU9NRFZpajRVM3NZZ205cnNwZ0MtLWgtSTRYSno0bmRaSTg4QkMwOE1xUVdmajJoaXBKUQ?oc=5\" target=\"_blank\"&gt;Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVhITThwaDRXaXo2dDdZUlRmYlJvblhRNGJUYVJDampuSldWRWVGbjVINmFhdHFCb0FQbl9fcWhndjBBcWNMMjB6M2I5QmZqenhiOEQtOVNVUnRRV0VpRU9NRFZpajRVM3NZZ205cnNwZ0MtLWgtSTRYSno0bmRaSTg4QkMwOE1xUVdmajJoaXBKUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-fan-fest-heart-gateway-origins-mean-2026-08-12",
-      "headline": "FIFA Fan Fest Heart Gateway: Origins, meaning, what comes next for KC's World Cup icon - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnY3YUp0Z3k0NDhLdXJSSUVfX0xQNmN3dklmY0t1c3BxRklLT1pPU2lkUHZCZnVVWEJhU3R1b2NBc3Ffc0dIZWJwNVVFZkgwX3hGZFN6YzZZa2VvU1I1Q0JxYVVPbW42bDlrY2lwTGVLRm5TWktTRHZrVndObmZ5LUdobVdxakVybEs5eTEtQ1BmOUR5dUctMWNZR0JfdTFhZkMyMmxBcTk",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnY3YUp0Z3k0NDhLdXJSSUVfX0xQNmN3dklmY0t1c3BxRklLT1pPU2lkUHZCZnVVWEJhU3R1b2NBc3Ffc0dIZWJwNVVFZkgwX3hGZFN6YzZZa2VvU1I1Q0JxYVVPbW42bDlrY2lwTGVLRm5TWktTRHZrVndObmZ5LUdobVdxakVybEs5eTEtQ1BmOUR5dUctMWNZR0JfdTFhZkMyMmxBcTk0YkZFRmJ2YzVwQnEyUkRTR3lsbg?oc=5",
       "featured": false,
       "draft": true
     }
