@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T15:30:27.202Z",
+  "lastUpdated": "2026-08-19T18:34:12.827Z",
   "articles": [
+    {
+      "id": "news-auto-richard-masters-and-howard-webb-criticis-2026-08-19",
+      "headline": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0ljeHpqNVJKbXA4dWlEdGVIeFcxeXpZVWlnckpibDZpcUdKdWdsdExycTlxRnJkZDVWRGxLazVkQmNTVWRsSFlkTjhZcFJ1RTdCdUJv?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-premier-league-players-at-the-world-cup--2026-08-19",
+      "headline": "Premier League players at the World Cup: All the EPL stars who featured at 2026 FIFA tournament - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjU4YUdFZFNudUtzd2o2SlJjX3JQSGgwMDN1cGhoUk1PejRRRDVEN2dWUFNVeWpVNXZlT3VLczVNVkpSTVF6SHEyWXBoamVKVVFpRUpydW1MdGJQVl9DUEU5SWFNRE1SelNDWUxTX2d0ZjdLSnpVVW5sUWI0NV9LcDd5aTdvcndZ?oc=5\" target=\"_blank\"&gt;Premier League pl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjU4YUdFZFNudUtzd2o2SlJjX3JQSGgwMDN1cGhoUk1PejRRRDVEN2dWUFNVeWpVNXZlT3VLczVNVkpSTVF6SHEyWXBoamVKVVFpRUpydW1MdGJQVl9DUEU5SWFNRE1SelNDWUxTX2d0ZjdLSnpVVW5sUWI0NV9LcDd5aTdvcndZ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
+      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--i-love-freedom-viral-world-cup-fan-reve-2026-08-19",
       "headline": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip - hitc.com",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnY3YUp0Z3k0NDhLdXJSSUVfX0xQNmN3dklmY0t1c3BxRklLT1pPU2lkUHZCZnVVWEJhU3R1b2NBc3Ffc0dIZWJwNVVFZkgwX3hGZFN6YzZZa2VvU1I1Q0JxYVVPbW42bDlrY2lwTGVLRm5TWktTRHZrVndObmZ5LUdobVdxakVybEs5eTEtQ1BmOUR5dUctMWNZR0JfdTFhZkMyMmxBcTk0YkZFRmJ2YzVwQnEyUkRTR3lsbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-streetcar-hits-20-million-rider-miles-2026-08-12",
-      "headline": "KC Streetcar hits 20 million rider milestone after 2026 FIFA World Cup - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU1nX05kcWd5TU9TWmE4ZUVjZDAtTHYzTTY0c0xEQld3M1NwLUFQSjZoZ29XbnhkZkNfb2tvS2cxVTY3NFluZVUyRW9GdFB1cHVxRjdXYXRzdGZVSHo1NmJmX05Fd0ZrOFJwYmt0aHRxZmhMdjlwRHpSZ2xLRld2VFEyU21UTElnX2JsNE1oUXBvX0RHQV9xQlFiONIBoAFBVV95cUxPM1p",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU1nX05kcWd5TU9TWmE4ZUVjZDAtTHYzTTY0c0xEQld3M1NwLUFQSjZoZ29XbnhkZkNfb2tvS2cxVTY3NFluZVUyRW9GdFB1cHVxRjdXYXRzdGZVSHo1NmJmX05Fd0ZrOFJwYmt0aHRxZmhMdjlwRHpSZ2xLRld2VFEyU21UTElnX2JsNE1oUXBvX0RHQV9xQlFiONIBoAFBVV95cUxPM1pUR08zZW84aFVmX2F2dkpmeDUtMURiZFRiNW5sZG00c3Fiblc3Ykg4M3ZTeGU5OUVDZVUtS2dRVDZQTmNJVG11bTBTQ2JHWUIwMXlncUR1S2dZbkdvMVB3ZFk4aHBDeFBOcVBLTEgwTHhsRmtrelVjZkJQd1N1Rk1nYVRBSzYxYzBEaGQ4ZlNYV2NSM2JnRFlWQkY3cXRa?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-fifa-world-cup-2026-petertatchel-2026-07-23",
-      "headline": "Seattle – FIFA World Cup 2026 - petertatchellfoundation.org",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5\" target=\"_blank\"&gt;Seattle – FIFA World Cup 2026&lt;/a&gt;&amp;nbs",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-23",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5",
       "featured": false,
       "draft": true
     }
