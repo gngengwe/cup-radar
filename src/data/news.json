@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T01:12:41.926Z",
+  "lastUpdated": "2026-08-19T03:45:50.013Z",
   "articles": [
+    {
+      "id": "news-auto-ea-fc-27-ratings-kylian-mbapp-shares-top-2026-08-17",
+      "headline": "EA FC 27 Ratings: Kylian Mbappé Shares Top Spot, Lionel Messi Gets World Cup Boost - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1JHX2h5dlhhRXVSNEU4Tm9ZSDV5V0hsOVlrNURpRVF5dVhQQnVVMXgzSWJDb1F2US1uRExKUUIxMndjcFpRa0VTNVZRZEJ0Nkk5NlBRYXVoWk5jN0NrdmdfdGdZc1A3R01nTnFmMXR5cC1hXzFkZFJwa0dNTHp3Y3NEeXZaWHpiZGs4MWo5MEVRQjI5aGVIeTlndXFRLW5nYWJHVzFrb25",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1JHX2h5dlhhRXVSNEU4Tm9ZSDV5V0hsOVlrNURpRVF5dVhQQnVVMXgzSWJDb1F2US1uRExKUUIxMndjcFpRa0VTNVZRZEJ0Nkk5NlBRYXVoWk5jN0NrdmdfdGdZc1A3R01nTnFmMXR5cC1hXzFkZFJwa0dNTHp3Y3NEeXZaWHpiZGs4MWo5MEVRQjI5aGVIeTlndXFRLW5nYWJHVzFrb25VTk5fN2xsdDNqVkRFY24zWGZPYXdn0gG-AUFVX3lxTFBkSFF4UEJPbXRpa1lmOHdzUy1qdGpoZ3JwT20xNFBfUXhIaTRqZ0VIeHRtaEpYR2xHZ2tJeGh5bk9yRnpFOHpaU1dnNUs4WWN3VVdPV2xnencwZDlGVVlvODhPX1hnLVYyRG5ZY194b1RKcE9hanlhakNMaUlnS1k2ejNWcVhrcjExWHNnX3BFSFc3RnV1dDNjMGctUW9vVVVWWno2bERQdG5JekxkOVdFQ0FHcUd0dFB3OEU1VHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-canadian-fifa-world-cup-star-joins-premi-2026-08-18",
       "headline": "Canadian FIFA World Cup star joins Premier League team in England - Daily Hive",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-12",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmhMdHctd2ZKV3hNUTdvaVA2WVZTRzlDRHFkN2tEWTBELXlWc1BjNjRKNElRc3pid05JbThIZVZHWlFZV2hzNUVzQXktc0o1ZkZ1T0t3djh6WWZTNEl2QzJSZXl3VUlhQ3kxRk1RRkw1MHBQWkVKTXd1WUlvVjJsNEgtbTJsOEpHUGcza2V5M1J5dV8zQ0JiREtnUlNNMHhGcVJsWE9jTnJlR2xWeG1RVzF5TldfSC1wVWoxQ1dBcXVmWFh1?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-gianni-infantino-considers-another-radic-2026-08-12",
-      "headline": "Gianni Infantino considers ANOTHER radical World Cup change to save FIFA presidency after failed sell-off plan - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXk1N3pFTkE2cXRNMjdVN2ZCU0dXTE5IUGVWUFQ5RTFIMFhjUlhqeUppR1IxelJiMGsycWpJSDhqVzZ6dFBLeERUSlhxZ0Z4bGtPWjM4clRsLV9ZalhGWGdMRkwwc282MjE0YllHZXM2ZGpNdFVmZnNGZ2M2a0dLazZsYnM1aDh2Q1FEMU1EQVlRVzBaTnMxRjZseW1EelZU?oc=5\" targ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXk1N3pFTkE2cXRNMjdVN2ZCU0dXTE5IUGVWUFQ5RTFIMFhjUlhqeUppR1IxelJiMGsycWpJSDhqVzZ6dFBLeERUSlhxZ0Z4bGtPWjM4clRsLV9ZalhGWGdMRkwwc282MjE0YllHZXM2ZGpNdFVmZnNGZ2M2a0dLazZsYnM1aDh2Q1FEMU1EQVlRVzBaTnMxRjZseW1EelZU?oc=5",
       "featured": false,
       "draft": true
     }
