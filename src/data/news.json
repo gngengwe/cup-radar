@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T03:45:50.013Z",
+  "lastUpdated": "2026-08-19T06:41:43.165Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
+      "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5\" target=\"_blank\"&gt;Fifa World Cup plans: Gianni Infantino scraps private investme",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-ea-fc-27-ratings-kylian-mbapp-shares-top-2026-08-17",
       "headline": "EA FC 27 Ratings: Kylian Mbappé Shares Top Spot, Lionel Messi Gets World Cup Boost - FOX Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-16",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-tielemans-ready-for-man-utd-challenge-af-2026-08-12",
-      "headline": "Tielemans ready for Man Utd challenge after disappointing end to World Cup campaign - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmhMdHctd2ZKV3hNUTdvaVA2WVZTRzlDRHFkN2tEWTBELXlWc1BjNjRKNElRc3pid05JbThIZVZHWlFZV2hzNUVzQXktc0o1ZkZ1T0t3djh6WWZTNEl2QzJSZXl3VUlhQ3kxRk1RRkw1MHBQWkVKTXd1WUlvVjJsNEgtbTJsOEpHUGcza2V5M1J5dV8zQ0JiREtnUlNNMHhGcVJsWE9jTnJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmhMdHctd2ZKV3hNUTdvaVA2WVZTRzlDRHFkN2tEWTBELXlWc1BjNjRKNElRc3pid05JbThIZVZHWlFZV2hzNUVzQXktc0o1ZkZ1T0t3djh6WWZTNEl2QzJSZXl3VUlhQ3kxRk1RRkw1MHBQWkVKTXd1WUlvVjJsNEgtbTJsOEpHUGcza2V5M1J5dV8zQ0JiREtnUlNNMHhGcVJsWE9jTnJlR2xWeG1RVzF5TldfSC1wVWoxQ1dBcXVmWFh1?oc=5",
       "featured": false,
       "draft": true
     }
