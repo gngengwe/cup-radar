@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-20T18:37:44.119Z",
+  "lastUpdated": "2026-08-20T21:27:17.469Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-begins-disciplinary-proceedings-aga-2026-08-20",
+      "headline": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlhUaDdENThVQ0MzNWhDN2NheUxmR1hjTmJueU5jUm5HTHBWUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
+      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--not-helpful-english-referee-chief-weigh-2026-08-20",
       "headline": "‘Not helpful’ – English Referee Chief weighs in on Donald Trump intervening in World Cup red card incident - Yahoo Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-13",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-rugby-pros-pitch-2031-world-cup-in-kansa-2026-08-13",
-      "headline": "Rugby pros pitch 2031 World Cup in Kansas City - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUVtS25xYkJQbWJYUlRkYjAzNFp1eDdNVENNVTRlNkZZaVVjLWxlVkRNWFZSOWFILUhqQTJGdE5SNTdqdGxqbHJ1NWdkeW5vUnFONlpEc211WDlJaEgzdW9Uc3E0MjVHRVpRdUVVSXFITkMtOWVTdVVWOTlNSmJrdGg1a2hrXzVYZU00?oc=5\" target=\"_blank\"&gt;Rugby pros pi",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-13",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUVtS25xYkJQbWJYUlRkYjAzNFp1eDdNVENNVTRlNkZZaVVjLWxlVkRNWFZSOWFILUhqQTJGdE5SNTdqdGxqbHJ1NWdkeW5vUnFONlpEc211WDlJaEgzdW9Uc3E0MjVHRVpRdUVVSXFITkMtOWVTdVVWOTlNSmJrdGg1a2hrXzVYZU00?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-spain-s-ferran-torres-built-the-powe-2026-08-13",
-      "headline": "How Spain’s Ferran Torres Built the Power and Speed to Score the Winning World Cup Final Goal - Men's Health",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXpGZXJ4aC1HNFdrbGtWdnJzTDhpOW03SjFHUmZhcFBkVUU2dzJzVzFJb2QzekJKUHF0QkItVndnb3NnSzVtdHN0dDlTTVlfVjZHTnhaVmtEM0xBVXF5S3dkdHQxOWlwVi1mUTJ3REpDaXU2NTJ0NFJvVHRua3VPWkpUTlpMVmJsUmhj?oc=5\" target=\"_blank\"&gt;How Spain’s F",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-13",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXpGZXJ4aC1HNFdrbGtWdnJzTDhpOW03SjFHUmZhcFBkVUU2dzJzVzFJb2QzekJKUHF0QkItVndnb3NnSzVtdHN0dDlTTVlfVjZHTnhaVmtEM0xBVXF5S3dkdHQxOWlwVi1mUTJ3REpDaXU2NTJ0NFJvVHRua3VPWkpUTlpMVmJsUmhj?oc=5",
       "featured": false,
       "draft": true
     }
