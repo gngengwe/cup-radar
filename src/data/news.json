@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-20T09:33:32.445Z",
+  "lastUpdated": "2026-08-20T12:48:02.929Z",
   "articles": [
+    {
+      "id": "news-auto-weverse-bts-media-episode-bts-fifa-w-wev-2026-08-20",
+      "headline": "Weverse BTS Media - [EPISODE] BTS FIFA W - Weverse",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y2Q2VWFtV2lkeFM1RkpoMWZCcHU0bFBHQmVhS3ZSM0xLWWdpWGdaNDd0MHFDc0w2UV9nUUMtVS11RXVVTUpsNGl0VmlSZjFwZVE?oc=5\" target=\"_blank\"&gt;Weverse BTS Media - [EPISODE] BTS FIFA W&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y2Q2VWFtV2lkeFM1RkpoMWZCcHU0bFBHQmVhS3ZSM0xLWWdpWGdaNDd0MHFDc0w2UV9nUUMtVS11RXVVTUpsNGl0VmlSZjFwZVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-would-a-vote-of-no-confidence-work-t-2026-08-20",
+      "headline": "How would a vote of no confidence work to oust FIFA president Infantino? - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmR4cGxPdmdFb01JUVdnZUVRWjgyV0NURU9FYVFaNHVYMGFtcWg3eGRGWUF6alhGaWZNWXFBZEhKT2xsVXpuekhXd1lyRkd2VWY4MWs0UEh0NEdvUFg4d2RJQ3dmeFRvUHJZa2xidTFfRlNWLVctQ2xDU1FGQWFUbmNLVU4tQXBnVXA5NmtqWkVVWW1pUDZ1NTdQekNwLUhoSm10RVhub2V",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmR4cGxPdmdFb01JUVdnZUVRWjgyV0NURU9FYVFaNHVYMGFtcWg3eGRGWUF6alhGaWZNWXFBZEhKT2xsVXpuekhXd1lyRkd2VWY4MWs0UEh0NEdvUFg4d2RJQ3dmeFRvUHJZa2xidTFfRlNWLVctQ2xDU1FGQWFUbmNLVU4tQXBnVXA5NmtqWkVVWW1pUDZ1NTdQekNwLUhoSm10RVhub2VuaG43Z1JiUDQyaw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-argentina-claim-anti-argentina-campaign--2026-08-20",
       "headline": "Argentina claim 'anti-Argentina campaign' failed to stop Lionel Messi and Co reaching 2026 World Cup Final - Goal.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2h0cGc5WjktMVZOcl9peGpMRDFaSnJsWE1YLTAybzhvT19OSG91aUlZMXEtQ21pSnJBNG9tSUc2U0ZHd2luUS1jcVh0SVdDdU1PUDJ0QzQwYmwxVFZKWklYNnNSdnh3dzlPN1VoeDZYc0hBUEl3RTNnRUpsZnVLNzl6SlJiX3kxR3E5cU9veUdrWDVYOGY4VXF1c3R4dmZ6Z1VROHFaNl9XbW5UU2RPU0pSbE1VVWJZakE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
       "featured": false,
       "draft": true
     }

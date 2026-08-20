@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-20T09:33:34.903Z",
+  "lastUpdated": "2026-08-20T12:48:05.421Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -11186,7 +11186,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 512,
+      "chapterCount": 513,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15282,6 +15282,14 @@
           "title": "FIFA set to announce the FIFA Women's World Cup Brazil 2027™ Match Schedule - CommBank Matildas",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkNsSm01b0xvLVRtaGVFQkhVMG8waXk5OWctTHBjc2V1OUhZZ1huV3VhWnBpZG9CTEdDUUN0eDRlWmlka0ZubGp6T1RsWHg2NUFiaWxCSEJUazlXN3RaaXRVYzVfeFRyN3RndTNVLTdWVUZ0ZlFfdloyeEd5QnFObjE3NUdJQmlUTko2bmZpSzEzNUlZMlFheXc5MnlKZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787230084896",
+          "date": "2026-07-30",
+          "title": "Neymar, Casemiro, Danilo not in Brazil's plans as Carlo Ancelotti turns to next generation - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFFQbVdMLWQ2QnVRaWRkeG9abzJWUTJweGxSdVdqSW1FVGFiY0ZEeENKUU15ZmV4cUhTWFQ1aklYd1dlVjVOdU51aFZkazdHSG5aYVp3Zzl0S2ZwZ0JyS1VkZWFiQ29xeC1lTzV6X1hJakwxQkQyZFRHXy1xbHZiRFZ4R0J5RFJSbHQ1UENaOHVaeTVhRktfMzUwNXAxR2dfY2V0Tm9HVk56SHBoVGotUVIySVpfdFByWnZTY2NRYw?oc=5",
           "draft": true
         }
       ]
