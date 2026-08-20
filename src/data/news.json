@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-20T03:45:44.955Z",
+  "lastUpdated": "2026-08-20T09:33:32.445Z",
   "articles": [
+    {
+      "id": "news-auto-argentina-claim-anti-argentina-campaign--2026-08-20",
+      "headline": "Argentina claim 'anti-Argentina campaign' failed to stop Lionel Messi and Co reaching 2026 World Cup Final - Goal.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE5ZQzY2d2xETTRjVHM2OE5aOU43QlRNOUpGWHVER04zNnEyN25lQWVNbENTQWJiZkNQREYxaDQyMmlFNjZzTFZVY1hoeVQ5WVdxM3ZJbWN1OS0zcV9jNE5zMmN2Rnpsb2w2UVJVUmhQNnpGbVBpV20zcUlwcXM1OVh3LVd5eGRmemtqa1JOTTJaMjRNWmlWOEkzY2R1bjM0c20wdldyYzJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE5ZQzY2d2xETTRjVHM2OE5aOU43QlRNOUpGWHVER04zNnEyN25lQWVNbENTQWJiZkNQREYxaDQyMmlFNjZzTFZVY1hoeVQ5WVdxM3ZJbWN1OS0zcV9jNE5zMmN2Rnpsb2w2UVJVUmhQNnpGbVBpV20zcUlwcXM1OVh3LVd5eGRmemtqa1JOTTJaMjRNWmlWOEkzY2R1bjM0c20wdldyYzJHMjg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-usmnt-s-home-world-cup-record-interest-s-2026-08-19",
       "headline": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-25",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
       "featured": false,
       "draft": true
     }
