@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-19T21:24:24.343Z",
+  "lastUpdated": "2026-08-20T01:11:43.385Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-u-20-wnt-head-coach-vicky-jepson-nam-2026-08-19",
+      "headline": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZTh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-india-likely-to-host-fifa-world-cup-2026-2026-08-18",
+      "headline": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - sports.ndtv.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0h",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-18",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0hSYmthVHNweS1BSktaY2NEN053TEtwaFMwXzg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-fifa-world-cup-2026-peter-tatche-2026-07-23",
       "headline": "Seattle – FIFA World Cup 2026 - Peter Tatchell Foundation",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-youri-tielemans-explains-how-fifa-s-fola-2026-08-12",
-      "headline": "Youri Tielemans explains how FIFA's Folarin Balogun red card U-turn inspired Belgium's World Cup victory over USMNT as Donald Trump's intervention backfire - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnlRazJkRE5oWGhBRGVISUVYWnI0MXZ5a3VudEc2a3ZidDNHbHp4clp0SGFfOGE4dGU3NlRHUEVOYzE2NXFVZUJiZnFBTVlwMWxMZDBHaHZJVlJLcDJfYndwZHpJTU9CdHlhMmk0bnVYM09NZzNmeDNfU3lSYkg2SVctSEp6S1kwVk9iQkV1ZmxGY1ZiUzZzemE0eGplLUU1NUFfR0JKNmM",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnlRazJkRE5oWGhBRGVISUVYWnI0MXZ5a3VudEc2a3ZidDNHbHp4clp0SGFfOGE4dGU3NlRHUEVOYzE2NXFVZUJiZnFBTVlwMWxMZDBHaHZJVlJLcDJfYndwZHpJTU9CdHlhMmk0bnVYM09NZzNmeDNfU3lSYkg2SVctSEp6S1kwVk9iQkV1ZmxGY1ZiUzZzemE0eGplLUU1NUFfR0JKNmMwYjF3cUhFTzRwZlJKUlZLZHU5cEVlUjdoa0daNHlkZzBSQXc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-childhood-dream-borja-iglesias-reflect-2026-08-12",
-      "headline": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0Qzb2x4MTRKZDByTVRHWi1UenF0bWJjYlg1aUttb2VBSFY4MzRXSWVqSWplTDJldldUWU9PaFUzdFRoT2gxNFhheEZ1eHFmTkdydllEVjloNDFCQVotTVAyS1U3eTloVjhTc2g1UWtuczFtTUF4bnBuZFFTSTY3TVUzMUVJRjRJTDY3U0VR?oc=5\" target=\"_blank\"&gt;A childho",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-12",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0Qzb2x4MTRKZDByTVRHWi1UenF0bWJjYlg1aUttb2VBSFY4MzRXSWVqSWplTDJldldUWU9PaFUzdFRoT2gxNFhheEZ1eHFmTkdydllEVjloNDFCQVotTVAyS1U3eTloVjhTc2g1UWtuczFtTUF4bnBuZFFTSTY3TVUzMUVJRjRJTDY3U0VR?oc=5",
       "featured": false,
       "draft": true
     }
