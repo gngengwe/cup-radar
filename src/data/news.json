@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-20T01:11:43.385Z",
+  "lastUpdated": "2026-08-20T03:45:44.955Z",
   "articles": [
+    {
+      "id": "news-auto-usmnt-s-home-world-cup-record-interest-s-2026-08-19",
+      "headline": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5\" target=\"_blank\"&gt;USMNT's Home World Cup:",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-u-20-wnt-head-coach-vicky-jepson-nam-2026-08-19",
       "headline": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
-      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
       "featured": false,
       "draft": true
     }
