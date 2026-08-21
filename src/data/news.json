@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-20T21:27:17.469Z",
+  "lastUpdated": "2026-08-21T01:15:40.303Z",
   "articles": [
+    {
+      "id": "news-auto-safety-lessons-learned-from-the-world-cu-2026-08-20",
+      "headline": "Safety lessons learned from the World Cup in Kansas City - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3ZYVDVER1V1TFRpQWItOGpTTW5yc2pwUWl0cFNNZ0lNUEhRX3VKSkRrVFdKNmdmNnNnNzJYUUlXbm5UQWpNQnp5THBkUTRQelpXT2d3TXEtVmhEeEVXYkNZQzRCNGd3X19LaWo2RUY3eUxjX1V6NkZKN0dlSlZVTHFKbGtMVHE5bGQxVA?oc=5\" target=\"_blank\"&gt;Safety less",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3ZYVDVER1V1TFRpQWItOGpTTW5yc2pwUWl0cFNNZ0lNUEhRX3VKSkRrVFdKNmdmNnNnNzJYUUlXbm5UQWpNQnp5THBkUTRQelpXT2d3TXEtVmhEeEVXYkNZQzRCNGd3X19LaWo2RUY3eUxjX1V6NkZKN0dlSlZVTHFKbGtMVHE5bGQxVA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-begins-disciplinary-proceedings-aga-2026-08-20",
       "headline": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds - Goal.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-14",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnVGRk84Y2NzSHp5NFFRdkRjWFVxWkFPUmFYVTRScnlDYlZPTXF4ZWx3dG01UjJGUkp0Sy13UmhtOVVXV2ItZFBqOUZRSVdfSEc1WjJ0UWVpSE1OS01WSVlDb0tsVEFMVl9CUXdJcVhHUDlKbHJNMVdac29FOTY0Rmk4ZlFDNk1Ua21qZm1od19MNmxqZXRIU2thM2E1X2w0ME5JRmI3NThwNUxENmkxN0szbUotaVBaQ2o5M0YtT20zUUl0QmxvQUg3LS1BRFFRYXNJa0hxel9nU0Z2VHVGQWJiVW9DTGpDeVY3VlFzaUs3RFU1V1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-approves-2031-fifa-women-s-w-2026-08-13",
-      "headline": "Kansas City approves 2031 FIFA Women's World Cup, 2031 Men's Rugby World Cup bids - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5\" target=\"_blank\"&",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-13",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5",
       "featured": false,
       "draft": true
     }
