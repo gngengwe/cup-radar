@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-21T15:32:10.815Z",
+  "lastUpdated": "2026-08-21T18:35:37.501Z",
   "articles": [
+    {
+      "id": "news-auto-henning-named-to-canada-u20-team-for-fif-2026-08-21",
+      "headline": "Henning Named to Canada U20 Team for FIFA World Cup - Michigan State University Athletics",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmliQmhWRlMyQ1F2V0owdHBybVRQYlVucVpxM0l5Znp5WXhCQk1XNUdwTXB4VmpUeXRtLWhkWjh2R3BnLVZMMzB2aEdlOVhOdzVHZ0pwcUVUb0lyT1ExZk5UdzhTd3lXcTFYY1ZqbWNEeXQ1cWNhQmRaUE5IR3JXWkN1VGJxdjVDRnV5MFF4RHhlZGw3Z292ckw1TzM1eHowb053Q09sMA?",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmliQmhWRlMyQ1F2V0owdHBybVRQYlVucVpxM0l5Znp5WXhCQk1XNUdwTXB4VmpUeXRtLWhkWjh2R3BnLVZMMzB2aEdlOVhOdzVHZ0pwcUVUb0lyT1ExZk5UdzhTd3lXcTFYY1ZqbWNEeXQ1cWNhQmRaUE5IR3JXWkN1VGJxdjVDRnV5MFF4RHhlZGw3Z292ckw1TzM1eHowb053Q09sMA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-suspends-argentina-players-fines-fo-2026-08-21",
+      "headline": "FIFA suspends Argentina players, fines football association over World Cup incidents - Anadolu Ajansı",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR29zVnVFYW9RbzJ4d1hmNDdIUU43enBwd2ZvTVByUlhWLVpWR3Y2c2Zwc2hObV96Wk5jTFAzMzByU290clc1bVQ5bTJTdTVRaVdjd0xNYWh5cGYwQ2EzYlYtTGs1Z2NvZ1RaYW1MZlZlam0zcExtYUotTjJFMExQZTNQX1IwZE5hajNtZElxcUlXQ0Z1MG5BM3JvSWFSUjk2cURXd3Bkc1Q",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR29zVnVFYW9RbzJ4d1hmNDdIUU43enBwd2ZvTVByUlhWLVpWR3Y2c2Zwc2hObV96Wk5jTFAzMzByU290clc1bVQ5bTJTdTVRaVdjd0xNYWh5cGYwQ2EzYlYtTGs1Z2NvZ1RaYW1MZlZlam0zcExtYUotTjJFMExQZTNQX1IwZE5hajNtZElxcUlXQ0Z1MG5BM3JvSWFSUjk2cURXd3Bkc1QyMC1RbGVZODZheGpybzVDdkluc1VUM04?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-opinion-my-2026-world-cup-experience-lio-2026-08-21",
+      "headline": "OPINION | My 2026 World Cup experience - lionsroarnews.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVlqTFBFRmd6RTNrd2JYY2ZXMTg0U3VmTXJFVWFaWFNYMDlDQkJpZ05BX2NnelpnRi1reXV1UWhXMF94UUVfNndGa3MxeTFDNWVBdllzMEx2QTlOcGJ1bzB3dEhmbjZTYXRhUXQwTEtBWks5TFVUZzJjTFJibVZDUGhn?oc=5\" target=\"_blank\"&gt;OPINION | My 2026 World C",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVlqTFBFRmd6RTNrd2JYY2ZXMTg0U3VmTXJFVWFaWFNYMDlDQkJpZ05BX2NnelpnRi1reXV1UWhXMF94UUVfNndGa3MxeTFDNWVBdllzMEx2QTlOcGJ1bzB3dEhmbjZTYXRhUXQwTEtBWks5TFVUZzJjTFJibVZDUGhn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-u-k-pm-explores-bid-for-men-s-fifa-world-2026-08-21",
+      "headline": "U.K. PM explores bid for men’s FIFA World Cup in north of England - Sports Business Journal",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlR0TjlaREt3eUgwS3VNc0cxWnhiWEYzN2oway1qYkp5VTVXcDBTclJnMEluQlc3T2RRMlM2bVVSQXlQN0EtUExnUC1JakZSWFFyQnlrY2F2ZUNuUFRpa09fZGxKWDhuRjMzVmx4T2xpSFZMWnlteHkzU1d1UEVBUURGTUJzR0FhQjMzc3JxUUlBRl92VlJXdHJWQ3Y3NExiT3VwbVAzSGN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlR0TjlaREt3eUgwS3VNc0cxWnhiWEYzN2oway1qYkp5VTVXcDBTclJnMEluQlc3T2RRMlM2bVVSQXlQN0EtUExnUC1JakZSWFFyQnlrY2F2ZUNuUFRpa09fZGxKWDhuRjMzVmx4T2xpSFZMWnlteHkzU1d1UEVBUURGTUJzR0FhQjMzc3JxUUlBRl92VlJXdHJWQ3Y3NExiT3VwbVAzSGNRYXo3c0JSeXNEb0VEdy1UVVp2cGJn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
       "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-15",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZ0dl9xMUxkOG9sb18zc1RWZnExdUMwc1BNQXZuOGtWdkJsd3F2NXJUd3k0RlZ3czIzV1JqNDctdlllNjNkcEtfV3AyeEFtMGVZcUZ5TnY3Z0NkbTBscmxfLTFzel8wTlZwTmdNNVBmSlZLRVVFYjRlSGV5NUsyZ0I1dG5VdmZOemxaMzRXM3dxblZGT3RyN3lReURfazdyV2ViTnl3NEtEZk9IZ1VSOFh2aFNmUWEyOTRPNV80OA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
-      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - facebook.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-s-next-for-christian-pulisic-after--2026-08-14",
-      "headline": "What's next for Christian Pulisic after the FIFA World Cup? - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5\" target=\"_blank\"&gt;What's next for Christian Pulisic after the FIFA Worl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-14",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-kicks-off-a-pivotal-decade-of--2026-08-15",
-      "headline": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVdhdkFCeHpvWkEzX2duOTJSOUhWXzhPeXFXZS1UM00tYVhmak1hTjNqSWh2eWczNzQ1bzFKOW1mbTRfaEZfT1RmOTFyb25RUDJYdzQwOU1aS1h0MVhHUURfUlgyTHFseTA3aVl0cjFGeVBGRjZPVVVmVjVBaEZmZ2p3?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off A Piv",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-15",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVdhdkFCeHpvWkEzX2duOTJSOUhWXzhPeXFXZS1UM00tYVhmak1hTjNqSWh2eWczNzQ1bzFKOW1mbTRfaEZfT1RmOTFyb25RUDJYdzQwOU1aS1h0MVhHUURfUlgyTHFseTA3aVl0cjFGeVBGRjZPVVVmVjVBaEZmZ2p3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
-      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - kansascity.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-kicks-off-a-pivotal-decade-of--2026-08-15",
-      "headline": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - forbes.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0NwTTVpaGdvTkZreVZCOHZ3QjNxQ01kdmdpQTVtMngxRVFnZDk0dEZXcjBENDdlSVVQTmliOXRmenJ4aEduYkllQUpveVpabjRHcE5hdnBJenBnaC1NczlabHhBRlJqSi1JTnE0QUJ6X1lNNUpzX3N5NTdid0tkR2JNUDc1UjVsazJVUjR6aU1GVzgyVnc2R29lblUydFZBRFhNY2dZa0R",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-15",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0NwTTVpaGdvTkZreVZCOHZ3QjNxQ01kdmdpQTVtMngxRVFnZDk0dEZXcjBENDdlSVVQTmliOXRmenJ4aEduYkllQUpveVpabjRHcE5hdnBJenBnaC1NczlabHhBRlJqSi1JTnE0QUJ6X1lNNUpzX3N5NTdid0tkR2JNUDc1UjVsazJVUjR6aU1GVzgyVnc2R29lblUydFZBRFhNY2dZa0RQOTZEX1ZDV21QYV9nZWpWejJn?oc=5",
       "featured": false,
       "draft": true
     }
