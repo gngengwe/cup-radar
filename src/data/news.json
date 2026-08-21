@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-21T06:45:03.091Z",
+  "lastUpdated": "2026-08-21T12:45:29.326Z",
   "articles": [
+    {
+      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
+      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
+      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-held-talks-over-private-investment--2026-08-20",
       "headline": "FIFA held talks over private investment in U15 ‘World Cup’ featuring 211 teams - The New York Times",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-15",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-is-bidding-to-bring-more-wor-2026-08-14",
-      "headline": "Kansas City is bidding to bring more World Cup matches to the area in a few years - kansascity.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPemROWDVITkFSTUoyaHU4YlhENFBrODNfTWFHVWt5QzlyV1pCdnItTXd1TjdjeElLc1UtZlc2NHdiWVU0UC12eF9lYnk4VGkzdFRibnhEVUNrV0xaUDRGZ3Y0eUhfaUNZcDdPa1hRVmhabFFTVEo4b2xrWThUY1hUcWJXYU1TSEtiSVp5eVEyd0wzQdIBkgFBVV95cUxOMm4yUUNCVFd4aDl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-14",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemROWDVITkFSTUoyaHU4YlhENFBrODNfTWFHVWt5QzlyV1pCdnItTXd1TjdjeElLc1UtZlc2NHdiWVU0UC12eF9lYnk4VGkzdFRibnhEVUNrV0xaUDRGZ3Y0eUhfaUNZcDdPa1hRVmhabFFTVEo4b2xrWThUY1hUcWJXYU1TSEtiSVp5eVEyd0wzQdIBkgFBVV95cUxOMm4yUUNCVFd4aDlmaGV4b2NPX1lodWU1NElwQWlNNFJNZWlRQm84UWFnQ21lRTUwU0RTZGcwbGpEWFVnVV9nX3lhUE5lWmJTdzV5V2FWM2toREFIX2JCalBoUFFONW9CLXRTS1pvSmhXMGFxbENYVFl1aXFTU2hJcE1rOUl6clFMMmxPdXh1YjRjdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-andrew-giuliani-backs-gianni-infantino-t-2026-08-14",
-      "headline": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXQyNExFeGtKM3diUGF0enNEcWt5dmExMmdYajBIcFNiZWU4QjREMm9VcXg2QUs3eS1yVHd6NUdhSnQxQXFyc2VZNFNfeGFLTjZpWmh0OXFpTHhzT2JqVmdPcjk4QkcwSEZCR2tmTDlwYm1yeEF6d2paYVhyeFpSaGhTdFBpYVlJMnNyeXFtNlltQ3p3?oc=5\" target=\"_blank\"&gt;A",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-14",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXQyNExFeGtKM3diUGF0enNEcWt5dmExMmdYajBIcFNiZWU4QjREMm9VcXg2QUs3eS1yVHd6NUdhSnQxQXFyc2VZNFNfeGFLTjZpWmh0OXFpTHhzT2JqVmdPcjk4QkcwSEZCR2tmTDlwYm1yeEF6d2paYVhyeFpSaGhTdFBpYVlJMnNyeXFtNlltQ3p3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-fifa-world-cup-should-belong-to-fans-2026-08-13",
-      "headline": "The FIFA World Cup should belong to fans, not super-rich investors - The Conversation",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5\" t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-13",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5",
       "featured": false,
       "draft": true
     }

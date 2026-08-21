@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-21T06:45:05.671Z",
+  "lastUpdated": "2026-08-21T12:45:31.924Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 359,
+      "chapterCount": 360,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2889,6 +2889,14 @@
           "title": "Argentina claim 'anti-Argentina campaign' failed to stop Lionel Messi and Co reaching 2026 World Cup Final - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbF80bVJtZlVJNWlNZnI2UmlIeTFfb21WZWZnV1A1UjlPN1RucEhSY2dHX0ZQckk4b09iWTk2djNUMENxYlltUHV3Qng2SmJyN05IYVdzd1ItYmt4WVUwM1EyczVZMWxRcDV3RkM2blVEV29FRllfUkZTaEZwaklDeUt4d0g2dzY2bzVfS0xRN3NGSGE5UlRQQWluY3hrcE5SbGs5R1dGNHFSWnpjV1JB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787316329878",
+          "date": "2026-08-21",
+          "title": "Argentina Messi Falkland - Bluefield Daily Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkdXUlJweU03a1lNUHRzaklvY3NxQVgwSmxVcm5hVjFYai1uVWJaSFplUHVSY0c5Qk1SOERqTzUtTVZubHlQRjQ5SmMyRlhTQVhVQmRsUnM3M2tWMTZLNm1UNVg3ZkxLa1dmY0tZRDZvaURHcXFFOVJWY0RUSVEtVlhlZDZmZXluRDBrdVBrckFadFFsZlpxNFdUcVRURGdteEx4R1ROWDdkeE0tc3I0SVdFUWU4bFB4T3oyXw?oc=5",
           "draft": true
         }
       ]
