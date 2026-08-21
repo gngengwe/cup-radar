@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-21T03:49:54.481Z",
+  "lastUpdated": "2026-08-21T06:45:05.671Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -11242,7 +11242,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 521,
+      "chapterCount": 522,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15410,6 +15410,14 @@
           "title": "When is the Women's World Cup? FIFA releases 2027 schedule details - USA Today",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejFBQ2VT?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787294705086",
+          "date": "2026-08-21",
+          "title": "Maracanã to host 2027 Women’s World Cup Brazilian opener and final - Inside World Football",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXZNMzlZMS05ejYyYTJWdk1uMU9vZ0oxU01fMW5lOVhId1ZkSWpuc3Vic3draXI4c0QzUXFKQU1ZODdpMVhQdUVnS3lraUFzVlhHSHdKaG5zeE1UU0swMjV1YURITWpuUWpkUUFSWkdqOFE2eFRKOEJTUjNuekRMdUlnVGszOVhFZGlwakVyQjJXcmpNZHpNOTBpWU9ueDQtWnZNWnpjODYzb1l0QmU0MnNhbw?oc=5",
           "draft": true
         }
       ]
