@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-21T01:15:40.303Z",
+  "lastUpdated": "2026-08-21T03:49:51.655Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-under-17-women-s-national-team-downs-2026-08-21",
+      "headline": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGt",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGtVeElmX29rekUyQnM5UmUxcndiMzloWGR1cjJL?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-safety-lessons-learned-from-the-world-cu-2026-08-20",
       "headline": "Safety lessons learned from the World Cup in Kansas City - KCTV",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-07",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--this-was-my-world-cup-how-referee-barre-2026-08-13",
-      "headline": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGx",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-13",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGxuZWR3U2h5N1VhUXRKUDFCVlFYdA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-somalia-s-top-referee-omar-artan-reflect-2026-08-14",
-      "headline": "Somalia’s top referee Omar Artan reflects on historic UEFA Super Cup duty after missing 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnVGRk84Y2NzSHp5NFFRdkRjWFVxWkFPUmFYVTRScnlDYlZPTXF4ZWx3dG01UjJGUkp0Sy13UmhtOVVXV2ItZFBqOUZRSVdfSEc1WjJ0UWVpSE1OS01WSVlDb0tsVEFMVl9CUXdJcVhHUDlKbHJNMVdac29FOTY0Rmk4ZlFDNk1Ua21qZm1od19MNmxqZXRIU2thM2E1X2w0ME5JRmI3NTh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-14",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnVGRk84Y2NzSHp5NFFRdkRjWFVxWkFPUmFYVTRScnlDYlZPTXF4ZWx3dG01UjJGUkp0Sy13UmhtOVVXV2ItZFBqOUZRSVdfSEc1WjJ0UWVpSE1OS01WSVlDb0tsVEFMVl9CUXdJcVhHUDlKbHJNMVdac29FOTY0Rmk4ZlFDNk1Ua21qZm1od19MNmxqZXRIU2thM2E1X2w0ME5JRmI3NThwNUxENmkxN0szbUotaVBaQ2o5M0YtT20zUUl0QmxvQUg3LS1BRFFRYXNJa0hxel9nU0Z2VHVGQWJiVW9DTGpDeVY3VlFzaUs3RFU1V1E?oc=5",
       "featured": false,
       "draft": true
     }

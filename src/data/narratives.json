@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-21T01:15:42.825Z",
+  "lastUpdated": "2026-08-21T03:49:54.481Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5407,7 +5407,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 724,
+      "chapterCount": 727,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11200,6 +11200,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFdzQTVGTkVaRV9BT1V4OFNHTkNkOGZxSjFTZzJQTm5FOXJxekhOVTZGUU15alE1YjlhdEZYNFdFTndNS185Z0VCc0FGczRQT01IcFBRSkI4SmFaYmJCUDZmLVhsMFRSZlItQWNBeEktQXN3VVJpMGJkUTM0c3B1dlA4dW5ESnBtYXVybk1lc09Gc2hUdHZiLTh1aEx0Nmt5T2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787284193054",
+          "date": "2026-08-20",
+          "title": "USA Basketball announces August 2026 Men’s World Cup Qualifying Team - NBA.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SjU4eDNBSU0zQnByZDdmaG9NYi1RYXZCa3BtRmNNcC14T0dXZHJiZzNscWRJa2RXYXdpb0wyV3BSWmVZQ2gzX1Zxd3R0c0h3Sm8wUEtyVFB1M2pQTWFyLWhrRUFzdEhucjBLbml6Q3FGb28?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787284193054",
+          "date": "2026-08-21",
+          "title": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGtVeElmX29rekUyQnM5UmUxcndiMzloWGR1cjJL?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787284193054",
+          "date": "2026-08-20",
+          "title": "USA Finishes Historic First Day of Competition at 2026 FIH Para Hockey World Cup - USA Field Hockey",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1RzQ0EwdnlSbUUwcG1xX2tCWVVYYTB2elN5WmhuNHNRcDJsckZ0ZXpCOFFkMk05V0dVM01tTFFkV3Q1VVVSQzIwQWRaYXlLT2JPTjJBX1ViWHRBU0w3RmpzbzlwMGdxYVMwRGVwQ1BNNTl4dURwMnctM1p1dzFXT2Vua240eG83R1NZMWFvblJFenN1dGVrbmxINlZMeXJCQXZoM21KdTJObVVvY21hRHhlMGNzdVdwVVRtS21mQWJuX3FNSzZUeHlxWQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11218,7 +11242,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 520,
+      "chapterCount": 521,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15378,6 +15402,14 @@
           "title": "Ronaldinho Returns: Third-Tier Italian Club Celebrates Signing Of 46-Year-Old Legend - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjQ2c29sUjJXNmVCcHpkNUdDZEZKWmlISnRiak50VzlTYi1KVW5FdWl3aDhfUjBPQmhnazY3TWVrSnFwZ3VVbkVXRVFSSElZcm1jVnNVcjJpMXJRMXlsU0JrMmxQVEphWFRxSl9fb3g4VWZweUUyNEJ1NTYzOU44Z1FvNHdQankyeUV4UGx5d05zZXppdUNORHRjVVB5amlVZ2hiNElIM1BSS2lqTWtSUlZYcUg3SzJ6aU1IMHFB0gG-AUFVX3lxTFBKSVFQdDNCa3Q5LVBaMWYyMXhrUFlDYThaY1JvQ29DSkRCMGxqc25XRW5Pb19vUXh2Tk1EN3k4SFdhV1hqVGhkNFlyWWY5NTJvaGxodk1wNU8tMk5EZ3dzbHBuZnJNRFp2ZEU2UUNNZmZtalNKT2pYZHpIRGwySnAyMlVMa0o5UVhDNUU0NV9QX3ZrOXFvenhDMDFhanBLU1BiandpZDJvek9Ta0VpZ1N1VFBuYlpWZXBtZkl4eVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787284193768",
+          "date": "2026-08-20",
+          "title": "When is the Women's World Cup? FIFA releases 2027 schedule details - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejFBQ2VT?oc=5",
           "draft": true
         }
       ]
