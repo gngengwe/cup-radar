@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-21T21:23:24.220Z",
+  "lastUpdated": "2026-08-22T01:11:41.627Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 364,
+      "chapterCount": 365,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2929,6 +2929,14 @@
           "title": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - New York Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTl6SHFOQkpFYWFic3NzaHVNSERuakpiYUk2Qmc4eXdjcF9XUGc0MEJQdjRuWGhrT3BiUk04NU9Ybm5wb3BYQ1lVZkRGY3lwaXJ6anV1d2twakFZWjJlaXVMV3ZxZXJjeVFoaXJPMlFFRFJmNGoyTjFXWmpabWlLcDhjVnQtRW1YLXNveUd5T3V0LXN1MGtneWV1SQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787361099233",
+          "date": "2026-08-20",
+          "title": "Lionel Messi scores first goal for Inter Miami since father’s death - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGVaV0FNNFEyenY5bWhhaDdxMHBya1dTa2o4aWU3MVEwc25FRDh5VFpneVV6ODBuZ2laNXdwN3hESDJCNFo3a1RaUlVUeUNaeDFKVjB6cW4wWVVoeWJuRVJjZE9PMmRfQmFDT3Q0cklSbGQtcFA4SExDYzFQV2hveEVCNHEwWXdSVlZJMGRHTWw2MUVVRFBTS294SWxHUnFfU0xsX1dVVUE3NEVTN0HSAbMBQVVfeXFMUHhVUG1MWUU1aHFvSWpBTzdkUVBOU3Ftekp1YVZIa2o2UFotMEo0QmpHSzgxbk9LSFVDS2hOdTk5MVB4VlU1YVJtcHlXVmh2NVRsai1yQlFndkozZlVSekc2UGwyVWlRc1d4ZkFtV0dsVlRkMERZQzJsbWlaVGJtcklyNDZHODZDV0xPTW1NTUFIZ1U5bjVkcUlEal93ajQ2WVV4X2R1OFdwRDRUSGRfYWJHdVE?oc=5",
           "draft": true
         }
       ]
