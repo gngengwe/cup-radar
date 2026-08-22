@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-22T06:38:42.076Z",
+  "lastUpdated": "2026-08-22T09:25:38.944Z",
   "articles": [
+    {
+      "id": "news-auto-post-malone-jennifer-hudson-and-more-to--2026-08-21",
+      "headline": "Post Malone, Jennifer Hudson and more to perform at 2026 FIFA World Cup closing ceremony - ABC News - Breaking News, Latest News and Videos",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZaZ2hiS3BfSG9lVU44bHNjQUI2R3I3anBjbERtTUc3OWNiSzY1TDlLdEozSUtGOXlrV0ZURW02WEdJS3JCSk1Ec1pFVGdhLUlXSl9BREp6OEp0bGt1X2F5T19KUFl1SmVubnViTlBfRHNoQWt1QzdfUkdqNDR3b3B4dHBHcTdReHAzam5MREtEa3E4V3pEdzdDcG9SbDNyNzlBZNIBqgF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZaZ2hiS3BfSG9lVU44bHNjQUI2R3I3anBjbERtTUc3OWNiSzY1TDlLdEozSUtGOXlrV0ZURW02WEdJS3JCSk1Ec1pFVGdhLUlXSl9BREp6OEp0bGt1X2F5T19KUFl1SmVubnViTlBfRHNoQWt1QzdfUkdqNDR3b3B4dHBHcTdReHAzam5MREtEa3E4V3pEdzdDcG9SbDNyNzlBZNIBqgFBVV95cUxNRUNVZzNvdi1tempHUzRHOWp0cExUTHlUbUtacjN2OFRDdlFFV0FlRTl1TW5TLWxPdkVMMGVNR2NqdmFhRm1OSF9rc04tdEN4dVNScERibjc3MW0zUldnV3R4UU9pXzRnY3Vjc1FITGpMMVpabEJ5RUF6X0hacGZOd1ZTczJYWUtVY1ltRFR6NWRjMVRDN2VSVkw3UUtqcEpjazM0RE5hOEVhQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-examining-how-much-of-your-tax-dollars-p-2026-07-17",
+      "headline": "Examining how much of your tax dollars paid for the World Cup in Kansas City - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5MY3NrOWM3RXh5d2M?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
       "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-15",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-is-winning-at-hosting-the-world--2026-07-01",
-      "headline": "Seattle Is Winning at Hosting the World Cup - The Urbanist",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5\" target=\"_blank\"&gt;Seattle Is Winning at Hosting the ",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42aXJzX0QyUi1WNzhiSFpkZWF4WHpIY3BxRXFTZXN2bkt4YWxvLVpiMUNmU3ZUV3VOSFBNcTlNZ3lFQ2RlSW1uZWc4OFRkVTJJZG12bUZPSnlsVmhoaHByMTFKTjNlYnh0YkFjeVFNRUJkcmc2NGQwNGdoQXk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-crinion-on-usa-s-morocco-2026-hopes-and--2026-08-16",
-      "headline": "Crinion on USA's Morocco 2026 hopes and future ambitions - FIFA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQam84dU5XalNla2lwQzBqd1pQblpyQWFIZTBYaTc3cEFvLXFfX0xaYU9FN0Y5SFpjbnJGXzhFdWNjTU5CYW8yODFDM2lIRXpGMXY3SFQyWlUxOHc1NWU3aGl6MFU5YmxLa0lNdHlka3FjY21NUFMyRmxZcW9CNE9lYzk1OGpEbGxVVjhZMlJBaVZZTndGeEhoZURmcm52a0lhSG1VZ3B5WTl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-16",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQam84dU5XalNla2lwQzBqd1pQblpyQWFIZTBYaTc3cEFvLXFfX0xaYU9FN0Y5SFpjbnJGXzhFdWNjTU5CYW8yODFDM2lIRXpGMXY3SFQyWlUxOHc1NWU3aGl6MFU5YmxLa0lNdHlka3FjY21NUFMyRmxZcW9CNE9lYzk1OGpEbGxVVjhZMlJBaVZZTndGeEhoZURmcm52a0lhSG1VZ3B5WTlzWUNINnVz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-is-the-world-cup-prize-money-bbc-2026-06-24",
-      "headline": "What is the World Cup prize money? - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdmJaM0lmQU01aGZtY21wYkRtT0liMnVLSHlOcDFQQWdRUTZBRmpqdFRKcnJrM1BPYlFLM1JaR0pFZ1U5S1JNZHdVcmdySnk3Z1pWVU1VT19WbG8?oc=5\" target=\"_blank\"&gt;What is the World Cup prize money?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdmJaM0lmQU01aGZtY21wYkRtT0liMnVLSHlOcDFQQWdRUTZBRmpqdFRKcnJrM1BPYlFLM1JaR0pFZ1U5S1JNZHdVcmdySnk3Z1pWVU1VT19WbG8?oc=5",
       "featured": false,
       "draft": true
     }

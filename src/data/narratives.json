@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-22T06:38:44.380Z",
+  "lastUpdated": "2026-08-22T09:25:41.221Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 365,
+      "chapterCount": 367,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2937,6 +2937,22 @@
           "title": "Lionel Messi scores first goal for Inter Miami since father’s death - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGVaV0FNNFEyenY5bWhhaDdxMHBya1dTa2o4aWU3MVEwc25FRDh5VFpneVV6ODBuZ2laNXdwN3hESDJCNFo3a1RaUlVUeUNaeDFKVjB6cW4wWVVoeWJuRVJjZE9PMmRfQmFDT3Q0cklSbGQtcFA4SExDYzFQV2hveEVCNHEwWXdSVlZJMGRHTWw2MUVVRFBTS294SWxHUnFfU0xsX1dVVUE3NEVTN0HSAbMBQVVfeXFMUHhVUG1MWUU1aHFvSWpBTzdkUVBOU3Ftekp1YVZIa2o2UFotMEo0QmpHSzgxbk9LSFVDS2hOdTk5MVB4VlU1YVJtcHlXVmh2NVRsai1yQlFndkozZlVSekc2UGwyVWlRc1d4ZkFtV0dsVlRkMERZQzJsbWlaVGJtcklyNDZHODZDV0xPTW1NTUFIZ1U5bjVkcUlEal93ajQ2WVV4X2R1OFdwRDRUSGRfYWJHdVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787390739427",
+          "date": "2026-08-21",
+          "title": "2026 World Cup: Argentina FA fined, 4 players and 1 team official suspended for scuffle with Spain after final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQek5TVjkyS0dZQkVTaTFZMnpPeXFOTTBpSFFsMkVEZUVlLWp1aFM5QXZ0cjVYMjZpTy1UXzFFWVJFMlA1eW1BVFZYUy1BWUl3WFlFRXJsYzJKd3loUk81aURXNUJJUm1VR3RZbjJzQklUNjZrNU1sVUFUSnhhdTI0S3plRGVlZ0VVa0Q2ZzFaUkhWVUJsUjlNWk9UM3Q3MnBEWnhKS0dvZUh3Rk9kcklERWJVWUl6T2ViZWQzNmV2YklUSXViUk5EYkp4a2lhM2FWMV80dHBjMF85YURHQzFFR01TeXh6ZTAtUkRabE0yWkx3cDBqTDg0b2p2eHBYQ2NmLTJnODM0YXA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787390739427",
+          "date": "2026-08-22",
+          "title": "Bad news for Lionel Messi and Argentina after FIFA World Cup 2026 final loss, they have been BANNED… - India.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUlTNUk1NVB5dEFpTHZ1NzREd1lDUW0tY2REUy1Ebl9GRnBhRTJQTEhVamtuQnpyMjdIWW0xMFFlS011MHpQU1pabzVDbW9MN3JmeVh5bi1jRjdUMWFPNGV0ekxYZ3lwN0ZXMTNWeDZJR09Qd1RJVnFGckFCenlUV3dabkdWdmtOY2Z3U0VDa2ZYY3BIZWFyNXJXcUpmZURLYW9WVTloQlJRWmd1d3ZralJpVGZhX2I3dEh2RmJMcmVVd0k2d0U0ejdpdDJvSjZSTlHSAdcBQVVfeXFMTjhkcnhacWxDeFNhVUJTYUtBZTFWVm8takJrMXp6b1IyaXQzRlJDRHE1M3dqdXhuczZUcWZKZFRmcGtxVEs1ekVlOE9NbTVZNXVUQzlBV0VvcTJ6NlVuWHYxdlE3eVd6Q3YxejNPYjZmZmJZbEpoY0hCYUFEYnZNZXQzai1TYm9HMnNtaUUtNTdWb05Nckp5eHNtVERZdFRoWnRQSnBzR1JjR3BDX1U1Y3FkQU5Zb3o0X05NWDR4MGEwUGxwN01tUUV2QlNKMW9YMHgxZnVtRmc?oc=5",
           "draft": true
         }
       ]
