@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-22T01:11:38.751Z",
+  "lastUpdated": "2026-08-22T03:40:51.079Z",
   "articles": [
+    {
+      "id": "news-auto-henning-named-to-canada-s-u-20-fifa-wome-2026-08-21",
+      "headline": "Henning named to Canada's U-20 FIFA Women's World Cup roster - The State News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmxmTGtHOVJSR0ZzQWNPWGUteENPWEk3a1dESW50dm9rU3RoTFNGRkZZdEtOekR5RjR0ejJmc2ZVLUIzYXJraXVGWS1LOEwyeTF0VWp1N1Z4azg2ODVQRFJfdVV3T1NfSkRRRDk0REpTS1YydXNhUFhvSzdJcERVNWJ4dUc3MjVTYU9sZy1QT05xUFQ5c0sxSDZabnI?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmxmTGtHOVJSR0ZzQWNPWGUteENPWEk3a1dESW50dm9rU3RoTFNGRkZZdEtOekR5RjR0ejJmc2ZVLUIzYXJraXVGWS1LOEwyeTF0VWp1N1Z4azg2ODVQRFJfdVV3T1NfSkRRRDk0REpTS1YydXNhUFhvSzdJcERVNWJ4dUc3MjVTYU9sZy1QT05xUFQ5c0sxSDZabnI?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nielsen-fifa-world-cup-2026-local-fandom-2026-08-20",
+      "headline": "Nielsen FIFA World Cup 2026™ Local Fandom Insights Report. - Nielsen",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3BqWV9jOXZBcUd6am93eV9sZHdfRk1fQUNQblZfa0h3QW12cWVwOE9YYm1DZnBqLVZqeWltakd3TUw4WTF4ZE1tZFFsZW5Ca0o5M1I3a2pVZk1iQ3BpSUtlUU5DMTdIdmR2OHV4UUtzN0EzX25JdkhlcjBQUTdUODdHZHEzUXQ0OEMxeEtaNWxjaG1SQW91Wk5aUQ?oc=5\" target=\"_b",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-20",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3BqWV9jOXZBcUd6am93eV9sZHdfRk1fQUNQblZfa0h3QW12cWVwOE9YYm1DZnBqLVZqeWltakd3TUw4WTF4ZE1tZFFsZW5Ca0o5M1I3a2pVZk1iQ3BpSUtlUU5DMTdIdmR2OHV4UUtzN0EzX25JdkhlcjBQUTdUODdHZHEzUXQ0OEMxeEtaNWxjaG1SQW91Wk5aUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
+      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-argentina-spain-brawl-at-world-cup-final-2026-08-21",
       "headline": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - Yahoo Sports",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-28",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-june-22-28-2-2026-06-22",
-      "headline": "Sporting KC Weekly Schedule: June 22-28, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
-      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
       "featured": false,
       "draft": true
     }
