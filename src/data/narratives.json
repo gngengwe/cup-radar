@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-22T18:29:27.084Z",
+  "lastUpdated": "2026-08-22T21:21:00.897Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 368,
+      "chapterCount": 369,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2962,6 +2962,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFVmNXZGX1NFN2VoZ0V1QmotSzhLU1FUZ0R4M1NucUw3UzNJdUhRZGRMQ2pnV0M3Q0tSbmFsRVJMSndlR1VBUTJ3anNPNkE1RHhTUFNHVzFJNWlKVF9IUm9wSWhKSEdRVlRyOXV4N21iRFd0ejZBb3JoRzlQOE1lZ0l1RmJydi1VaUNHOGdWeFZZSzBSSXg1amlfS3dRdGw2VjdTQkFrSVI2NHdLbVljZG93VdIBuAFBVV95cUxPbmlfRkZyekpXc25rVEloZTBHdVZROEhSQ0FaRDEtb2hLREJ3Mjd1SkxwSXBIT2ZheVhLOE1qV2FIUkx6SHB2VzN3a1NSSk5uQi1KWV8zSFpGOGVtTFJELWk3RnJ3MTlISnRmNDZSV1BNZUczdVhEUk8wMVVYSW1qMVlDSVMteDI4U3A3TTlHVnBKMkxSVTR0Mi1YWkcxWUdqaWpjRGtWS05pS2RraUhKa29nblpmTE93?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787433658902",
+          "date": "2026-08-22",
+          "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkg5dHZzZXI0RWdYeWxrYkZIeVp6UDhuR0FKYWl5T3hXV1duM3NIQnhLTmd1dG0zS3JBdHkxTDFNY3BTZi1hVEdkNUIxem5SWGdrR2JCZEZWaGpBTmw1R09POUxraFVvaUU4WngxZU9KV2VqOXNrYTJ0TjUyMm9WeEZEbEJKbEdGQVowMnJpaUh1ei0wNEUyT2lXZERUU05oRkHSAacBQVVfeXFMTWtYVUg0VW94b09IaTBsQ0pFc1B1WjA5UzQ3eUtZZXV6QWQ1VGEyaFl2QzlvVS1laUl3aE9QQVBDUmR3WlR0c19rb0U5RUxKVnFvYlpiZjZzVk44RXo3Uk1LTHRnenZ4c0duRWZPbVZtVmJURW5XbXlFX0ZBQkJKM29MWlhxbkJUS2pobXVMcWlXOUo0NjRFdzNTMDZKQkd1aGlJQ205N1U?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5479,7 +5487,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 733,
+      "chapterCount": 734,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11344,6 +11352,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekJsb0FHLWhkSjhBSWhwMm5xWVVRMWJ5SXhWNWdmVWNNelV6cm0zQndNdnBXZ2JpOURKNlpRYTkzMl9SZlBaazJfV0M5OTA1X3RnTTdYSXVGUVV1bk9kOWdDMmlEajltNkVkcl96UlZkcUJLV004ZTM1SEVTM1FGV3pIME1mWkkxeFY5V3hVUUZlaThtWWRmMTY0anVJVi02YWhPendmeGkzcGhIdmgyejY3Yw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787433659857",
+          "date": "2026-08-22",
+          "title": "USWNT Tie New Zealand in Second Phase 2026 FIH Hockey World Cup Pool Game - USA Field Hockey",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFVuektOdVVKdFByT25CRVRMblZCYXJLU1duYjI0X0RuZkpUTGlncFdfNzB6R0h2QlpKZUJRWDNfRXg5emlSRDZHMzNYWWVuQnpqcGFKXzhkNWRQaVN2TmN5LW5PdlRYa1hMQkQ0Q3lTaTdQTTJpbUMwc0loejN6UFBJY3Q0WmxYXzctV21nWHAxZ0ZSVGQ0YloydkRvelpUbl9j?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11362,7 +11378,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 525,
+      "chapterCount": 526,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15562,6 +15578,14 @@
           "title": "Brazil's Iconic Maracana to Stage Women's World Cup Opener and Final in 2027 - ASHARQ AL-AWSAT English",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmoydUhWUnpPbHhMa1dXdW1KbVh5WlhMTERyLV9mMmFEaEc2RGdVWnpLRm1HS3ZkaGp6SjdkeWdsQnp5MjR4dUdXd25oOWVaMHg1RVBSaUU0ZmswTTBRcmQ4RE9JdWZINDQtTG1OVDkxQm9ZNG5IZWR4Mm9mXzVreDQyclZLTU4xRHhTTDRWb3RjLVdCMmZueGV2QVNGWVJSMzkxMEV5blozWFA5Zmp3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787433660332",
+          "date": "2026-08-22",
+          "title": "Rayan seeks Erling Haaland 'revenge' in Premier League rematch after World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkdWbzBCaXhFYUUzSWJtTFN4ZUQtdUhoWHhZeGhpbncwVDNBbWZuMUd4TW1YbVpUWmtNWjVCME9pa2dsWTdkOTJnNzFlRGNPTk94NDdPdlRGZmNHX1ZFdjE4YUs1TzN5NXAyWUNJYkxwNUM3TnYwOHJUUGhhb05YeUdZWDJEdTVYdnRlLWtpcHdYLUlEZVZyQmh4M241aVRuZlprZmwwMnRpTFRrWnc2bExQZk9LZjVfR2J2Wml1NjlmU0ozeXlCTTFLMGplcFVrNkhaZXBpQVQ0aGc?oc=5",
           "draft": true
         }
       ]

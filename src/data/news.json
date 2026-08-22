@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-22T18:29:24.580Z",
+  "lastUpdated": "2026-08-22T21:20:58.408Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-hands-out-suspensions-hefty-fines-a-2026-08-21",
+      "headline": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl - Rediff",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUROTElFeElFaGpYT2tEMmVKc2FIbDlvS3QzREs4cE9EWHV1Ql9jc1FxQVlqajJfVy1XMTNrNDdaMFJkbHNtcWlubGN1dEJLZ2tGR1RNYUF2UzhIc0U1Rm1SUkxXbmdWZlByT1NpUzFtSW5sdDZjVVRYd1ZFS1ZUSExvTDNsbDZBQXRyeEUtMUdPdkVhV0F0Z2w3UkJjbEtHdTlSZjBVdVB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUROTElFeElFaGpYT2tEMmVKc2FIbDlvS3QzREs4cE9EWHV1Ql9jc1FxQVlqajJfVy1XMTNrNDdaMFJkbHNtcWlubGN1dEJLZ2tGR1RNYUF2UzhIc0U1Rm1SUkxXbmdWZlByT1NpUzFtSW5sdDZjVVRYd1ZFS1ZUSExvTDNsbDZBQXRyeEUtMUdPdkVhV0F0Z2w3UkJjbEtHdTlSZjBVdVBNbEFTdHBxWUpRNmpOZGE2bXJsU2Rlb0hna3PSAcYBQVVfeXFMTUpwazJLZEE0aV9xT2g5c3FGMkZid0N3RW9JVE5PNDV3UjRnbkVkckw4RkM4U2YtMklSV1pFZkpPOEhySjVOUlN2UGtjZi11cmlGRjJPcFFUYVNuR0FxSEdIQlFsLXlIaEVBeGlqT0UxdkN2ZU5tVzFXU0l4OGZBYlFGRXFmRnhKUXYyVDZlRUsxWlNjOUp6ZTJJRjh1RGlOLXFZdjlxbGxNT2lWeDdtc3ktVlZRNFlnZlExb3FwR2ZLbG1UQjJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-june-22-28-2-2026-06-22",
+      "headline": "Sporting KC Weekly Schedule: June 22-28, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-22",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-paredes-banned-for-10-games-after-world--2026-08-21",
       "headline": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-17",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
-      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
-      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-when-is-the-next-international-break-how-2026-08-16",
-      "headline": "When is the next international break? How September, October dates have changed for 2026 - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZExyRElLSlpoa285ZFpPbmdTT3VyT1lIWHdxXzZMZVBrWWVndDhCQnRVUUN2dFl5eThHLU1YVmdFT25JZmdMaFFqRXNDel9Yd2lPaUhlVEZpaXM1NkthSzVZZENvLWoySE1XczdBQVdRQkRrZko3c1BYamRybGNWSWxKTnlrT3R4d1lCclA3X0hVVmRKQWc?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-16",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZExyRElLSlpoa285ZFpPbmdTT3VyT1lIWHdxXzZMZVBrWWVndDhCQnRVUUN2dFl5eThHLU1YVmdFT25JZmdMaFFqRXNDel9Yd2lPaUhlVEZpaXM1NkthSzVZZENvLWoySE1XczdBQVdRQkRrZko3c1BYamRybGNWSWxKTnlrT3R4d1lCclA3X0hVVmRKQWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
-      "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - Oregon Public Broadcasting - OPB",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
       "featured": false,
       "draft": true
     }
