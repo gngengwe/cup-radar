@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-22T12:37:10.379Z",
+  "lastUpdated": "2026-08-22T15:19:56.129Z",
   "articles": [
+    {
+      "id": "news-auto-concacaf-chief-asks-infantino-to-skip-yo-2026-08-22",
+      "headline": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXo5Zy1LWkNHT2I1azNJT0ZmbElLanZORGxBbXFFU3A2Sjd4TWRaeTBFTWJFd09qTDVPalF4Y3ktanZvZFJmRVgzU1h1TmsyQ2dYd18tUVVtMXlaQWhFbGllUjA5ampBb1dsRnV0eGZ6dC1KajJxUDNvaW1sYUgyZ2VVaUpXZE45STJyX21tVnhqUTJYaGJzbDB6bmZTcUs5ZjNiSmNMRHQ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-22",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXo5Zy1LWkNHT2I1azNJT0ZmbElLanZORGxBbXFFU3A2Sjd4TWRaeTBFTWJFd09qTDVPalF4Y3ktanZvZFJmRVgzU1h1TmsyQ2dYd18tUVVtMXlaQWhFbGllUjA5ampBb1dsRnV0eGZ6dC1KajJxUDNvaW1sYUgyZ2VVaUpXZE45STJyX21tVnhqUTJYaGJzbDB6bmZTcUs5ZjNiSmNMRHQ3WUJFaU1HR05nLWwycHdlTkxBMVdMUUhyR3dFc3I3YQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-messi-haaland-mbappe-and-vozinha-where-a-2026-08-22",
+      "headline": "Messi, Haaland, Mbappe and… Vozinha: Where are the World Cup stars now? - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjItVFVPMWVUS083M21wcndrUUMxY2RQTXVsc3M1bWdaOF8ya3dXaTAxUW5OY2psN1ZJZVJWbTk2aWVDVk5HNXJtUkFGS2o5cEJPZ0xoUkFpOU9aRER0MEdTdFBkUmp4VHcwZ21XX3lXVG5NRGxoRTRXUUhmamdQTC1uYzNGa1FfUlpKNXZSVTcyNlZ3dHlSaHpuemk?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-22",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjItVFVPMWVUS083M21wcndrUUMxY2RQTXVsc3M1bWdaOF8ya3dXaTAxUW5OY2psN1ZJZVJWbTk2aWVDVk5HNXJtUkFGS2o5cEJPZ0xoUkFpOU9aRER0MEdTdFBkUmp4VHcwZ21XX3lXVG5NRGxoRTRXUUhmamdQTC1uYzNGa1FfUlpKNXZSVTcyNlZ3dHlSaHpuemk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
+      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-argentina-players-staff-banned-for-combi-2026-08-21",
       "headline": "Argentina players, staff banned for combined 21 games after World Cup final brawl - The Athletic - The New York Times",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-el-jalape-o-fifa-allowed-mexico-to-host--2026-08-16",
-      "headline": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream - Mexico News Daily",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-16",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZzR3VpbGtuRUMteXg1ZUZNOHlEdkcyY2ZkSUpHYzVtcFJESnprSDRGWGhJRnhpYjlQc0oycjcxTmtxQ09lYzZSRUV0X2Ria2VYOGk5VkF3bUlxN3E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
-      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cristiano-ronaldo-hints-at-retirement-af-2026-08-16",
-      "headline": "Cristiano Ronaldo Hints at Retirement After His Final World Cup, Says Soccer Has Been ‘a Lot of Sacrifice’ - People.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3cyZU9ocV9adVZZb3JpVzNFNWlrSXZocGc5Qld4X1RRclpfWDkwaC1nQW5GR0RYd1k1MHUwNlNZbGJoMEtrNmxxNmYtVFFfb3RWemJOdTdYeENEYmJlek1qRGRkU0p6TEYtbHAyWGVLWVVNbGdxb25wTXRJemxrYVFYSkh1ZjZ6eE9XUjNBRVlLYTc1bkE?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-16",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3cyZU9ocV9adVZZb3JpVzNFNWlrSXZocGc5Qld4X1RRclpfWDkwaC1nQW5GR0RYd1k1MHUwNlNZbGJoMEtrNmxxNmYtVFFfb3RWemJOdTdYeENEYmJlek1qRGRkU0p6TEYtbHAyWGVLWVVNbGdxb25wTXRJemxrYVFYSkh1ZjZ6eE9XUjNBRVlLYTc1bkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cristiano-ronaldo-drops-retirement-bombs-2026-08-16",
-      "headline": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmRQajAyT2pHLUs1OS1yOW15aC1YRjI1dzkyaFRNbTYwMmsyalNOcHRybUxBaVVJS1BXdEtCb3VVT2hScXdXbW1zOFVUMkJqcUhTM0xLWHpEVW1PUi1HUmhMdll0WUo0NmJEZjVneGZRTDJLQndUWmhGY0pwS3oyVW94M3BWakgzUmJQUE5zM0FHaUUxbWZzSHdjaG1DMEQ0Z3VPNTE5bUF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-16",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmRQajAyT2pHLUs1OS1yOW15aC1YRjI1dzkyaFRNbTYwMmsyalNOcHRybUxBaVVJS1BXdEtCb3VVT2hScXdXbW1zOFVUMkJqcUhTM0xLWHpEVW1PUi1HUmhMdll0WUo0NmJEZjVneGZRTDJLQndUWmhGY0pwS3oyVW94M3BWakgzUmJQUE5zM0FHaUUxbWZzSHdjaG1DMEQ0Z3VPNTE5bUFnRk9Rdmc?oc=5",
       "featured": false,
       "draft": true
     }
