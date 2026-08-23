@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-23T09:26:37.955Z",
+  "lastUpdated": "2026-08-23T12:38:45.054Z",
   "articles": [
+    {
+      "id": "news-auto-portugal-get-their-revenge-on-spain-this-2026-08-23",
+      "headline": "Portugal get their revenge on Spain — this time in cricket — after FIFA World Cup heartbreak - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORXhQZGotSDhRRHh0MXBzRk1TSGRiVlpxenRVMTZHUHVTT083ZlRGdmV1Q19pUUJLdGJ6Rm1sdVdxd0VTWUdILTJnNWtpN1gxclFvS3ZaTFdqWU4zMl9QMURqOUNfZGkyb0tyY0FkU1FKQW9sbVdwVzZKY3F6ZGxEZ3h4M2tqeERjWURkUQ?oc=5\" target=\"_blank\"&gt;Portugal ge",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-23",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXhQZGotSDhRRHh0MXBzRk1TSGRiVlpxenRVMTZHUHVTT083ZlRGdmV1Q19pUUJLdGJ6Rm1sdVdxd0VTWUdILTJnNWtpN1gxclFvS3ZaTFdqWU4zMl9QMURqOUNfZGkyb0tyY0FkU1FKQW9sbVdwVzZKY3F6ZGxEZ3h4M2tqeERjWURkUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
+      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-uli-hoene-says-julian-nagelsmann-not-sol-2026-08-23",
       "headline": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup - Yahoo Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-18",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWtPcGg2QUlWVmVVNm04XzZYXzJaVlVKRkNxemJNcDhTbUx4UTJmZUFDeTQ5dDJKdFhRSnJpM0hRbW51TnBiNEZLQUkxMFBvNVd2N29seENPSExYQWxyUktKeVBhMG5xZzZ6NFVNbDdHYmRsNW93RlpDa2xCU0RMZVFZSFNSUlk1WWpUNElnZ19ZZDVfV05FWWswd09Ud1R3U2gtNF9wSnlwZFdCY3JnbXY3LXpZbklHYVoxQlgxczdTYVRYRWo2LUNyZGEzZENaY2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-themed-world-cup-flag-sales-help-bene-2026-08-17",
-      "headline": "KC-themed World Cup flag sales help benefit Ronald McDonald Houses - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWllTRWZaSXhOVWd3eTQ4bTRleVBGRG9EcG4xZVNpYkVNcS1aVVo3dVBHcEFQVHZPRWhqWUtXeGJWSzloNXcyOEMzTXI3dHN1WjN6WGRob2lmeWJEeDJzdWlaLTJYaXZyQmdUNkVIaUxPcWlNaUlLY1lXT21hT3BmZS1wVDdhQ08tajdrakNsTGpQcVN0WkF0RWFsU19GdkhrMGVfNDJ4Rm1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWllTRWZaSXhOVWd3eTQ4bTRleVBGRG9EcG4xZVNpYkVNcS1aVVo3dVBHcEFQVHZPRWhqWUtXeGJWSzloNXcyOEMzTXI3dHN1WjN6WGRob2lmeWJEeDJzdWlaLTJYaXZyQmdUNkVIaUxPcWlNaUlLY1lXT21hT3BmZS1wVDdhQ08tajdrakNsTGpQcVN0WkF0RWFsU19GdkhrMGVfNDJ4Rm1mcVUy0gGyAUFVX3lxTE5TSklJV0h3MXdjQlNlTXRLd0ZPTDB4dEpJVU9XbGNrZHB5Vkh6WEtybTZtMDJJMlh0YUJfcGhHVzB0djFFNUxCSl9VcU14NWtTVEdLWW9xRnN0c0M3ekxHNjhQS0lHRFA1RXA5aVBBSXNjRE5kTmVnaU1jdTBaWEI3OUpoWm1xaHpCWncxUnZGWDBoLUZOcjF2VmtmeWk3cnBxc3NremZMQWFMMDdUVWl5N0E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-fires-exec-who-ripped-gianni-infant-2026-08-18",
-      "headline": "FIFA fires exec who ripped Gianni Infantino over $20 billion World Cup investment disaster - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVl6UHN5b3Z3ajN1MV93SFBON0FWU2xKVC02T2lXOE9RSy03RTFZaHFnTmRPanB3MjhEYUVXYUZKWmVQVk5RZ096LWliZ0hHNDNNYS1XM0RWcjkzV0JaZDZ0Q0tRaUd4VHZoS1h5VWEwbWxHbFJnUjRkeXpBWmEyTDJRYTJNTXdjU1JNTmFTenRiMVZnYVUtUl9GQVZoV1J1WExfQkM3RlN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-18",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVl6UHN5b3Z3ajN1MV93SFBON0FWU2xKVC02T2lXOE9RSy03RTFZaHFnTmRPanB3MjhEYUVXYUZKWmVQVk5RZ096LWliZ0hHNDNNYS1XM0RWcjkzV0JaZDZ0Q0tRaUd4VHZoS1h5VWEwbWxHbFJnUjRkeXpBWmEyTDJRYTJNTXdjU1JNTmFTenRiMVZnYVUtUl9GQVZoV1J1WExfQkM3RlNidVRCZlVOWHBn?oc=5",
       "featured": false,
       "draft": true
     }
