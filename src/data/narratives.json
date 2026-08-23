@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-23T18:28:13.594Z",
+  "lastUpdated": "2026-08-23T21:21:06.742Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 369,
+      "chapterCount": 370,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2969,6 +2969,14 @@
           "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkg5dHZzZXI0RWdYeWxrYkZIeVp6UDhuR0FKYWl5T3hXV1duM3NIQnhLTmd1dG0zS3JBdHkxTDFNY3BTZi1hVEdkNUIxem5SWGdrR2JCZEZWaGpBTmw1R09POUxraFVvaUU4WngxZU9KV2VqOXNrYTJ0TjUyMm9WeEZEbEJKbEdGQVowMnJpaUh1ei0wNEUyT2lXZERUU05oRkHSAacBQVVfeXFMTWtYVUg0VW94b09IaTBsQ0pFc1B1WjA5UzQ3eUtZZXV6QWQ1VGEyaFl2QzlvVS1laUl3aE9QQVBDUmR3WlR0c19rb0U5RUxKVnFvYlpiZjZzVk44RXo3Uk1LTHRnenZ4c0duRWZPbVZtVmJURW5XbXlFX0ZBQkJKM29MWlhxbkJUS2pobXVMcWlXOUo0NjRFdzNTMDZKQkd1aGlJQ205N1U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787520064279",
+          "date": "2026-08-19",
+          "title": "Messi retirement hint highlights football era nearing an end - DW.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2gxTDU0cVJNZl9WTHlWVURVenQ0T0I5MDNBLURROVlhbzZOU2F5eE5VQktDU1E1TUVkN2FTTFZzbXhGRmNnRjdaMEdxLTJSN0w3a0JEbFpibThuUTBNdG9ETjdOeXFrVzNadXU0OV9VcC1Rc3N1ZkpIMjZvbVJMa2xDMi1lbF9FXzdVcks5RnJnaEV6NUNYTA?oc=5",
           "draft": true
         }
       ]
