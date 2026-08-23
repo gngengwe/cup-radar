@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-23T06:39:30.871Z",
+  "lastUpdated": "2026-08-23T09:26:37.955Z",
   "articles": [
+    {
+      "id": "news-auto-uli-hoene-says-julian-nagelsmann-not-sol-2026-08-23",
+      "headline": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnhoX0dkUGFxdGVtb3RyUVFHZnp4bk1qbE90RF90WkViU05XVUN2MlBwZVRFN1I0cW5JYWNMSHhxXzhJQjNCdVZSWjhoRG01VzJsNHBiXzZ5Zm9FbDVYVWxYN1plaVZrVktCUEl5Mkk3QWl5OS0wamgzUms3bkNYRlg5bENTX2xn?oc=5\" target=\"_blank\"&gt;Uli Hoeneß says J",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-23",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnhoX0dkUGFxdGVtb3RyUVFHZnp4bk1qbE90RF90WkViU05XVUN2MlBwZVRFN1I0cW5JYWNMSHhxXzhJQjNCdVZSWjhoRG01VzJsNHBiXzZ5Zm9FbDVYVWxYN1plaVZrVktCUEl5Mkk3QWl5OS0wamgzUms3bkNYRlg5bENTX2xn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
+      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-meet-the-kansas-city-dentist-who-came-to-2026-07-31",
       "headline": "Meet the Kansas City dentist who came to aid of 2 teams during 2026 FIFA World Cup - Kansas City Star",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-18",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVl6UHN5b3Z3ajN1MV93SFBON0FWU2xKVC02T2lXOE9RSy03RTFZaHFnTmRPanB3MjhEYUVXYUZKWmVQVk5RZ096LWliZ0hHNDNNYS1XM0RWcjkzV0JaZDZ0Q0tRaUd4VHZoS1h5VWEwbWxHbFJnUjRkeXpBWmEyTDJRYTJNTXdjU1JNTmFTenRiMVZnYVUtUl9GQVZoV1J1WExfQkM3RlNidVRCZlVOWHBn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-chief-sacked-after-criticism-of-inf-2026-08-17",
-      "headline": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1R",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1RPZzZGSWZCdFg2dnlrNUhENHZxZi1qYWE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-miami-named-america-s-soccer-capital-in--2026-08-17",
-      "headline": "Miami named America's soccer capital in the wake of World Cup fever, says new study - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkpLR1dIc3RscUhSdjczUlFsRHRDZlZSSXlIZzFHZFdSSG10bllzR0VNeE8wOXFCOVdMc2NTNG1JQmJNSnNlVFJUOHR3SU5uY1dpNVdKblZvZ3FqRGRxVEVoSXlyT0JzOTBrblo4blFYOERUUVN3Uzh5VnlJNDhibHFidThOZVgzWjZPQg?oc=5\" target=\"_blank\"&gt;Miami named",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkpLR1dIc3RscUhSdjczUlFsRHRDZlZSSXlIZzFHZFdSSG10bllzR0VNeE8wOXFCOVdMc2NTNG1JQmJNSnNlVFJUOHR3SU5uY1dpNVdKblZvZ3FqRGRxVEVoSXlyT0JzOTBrblo4blFYOERUUVN3Uzh5VnlJNDhibHFidThOZVgzWjZPQg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
       "featured": false,
       "draft": true
     }
