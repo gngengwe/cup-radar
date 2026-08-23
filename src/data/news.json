@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-22T21:20:58.408Z",
+  "lastUpdated": "2026-08-23T03:49:58.020Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-officials-seize-33-million-in-counte-2026-08-23",
+      "headline": "U.S. officials seize $33 million in counterfeit goods during 2026 FIFA World Cup - KTLA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ29VWVhFTFNWdng3Mm1MWHJBaDh0M19LRThQTklCNmtDMW1EeTN1bDQ1NC1iVW8xRF9YU2UwVDhYRXVwUlJETGF5ZVE1LVFHUzdwRmhFY09RY0M5ejRpRElqemZMdS1NSGtjeVdkRGs5UlVTdVBlODNIM2s4MzNlc3F3enN4SVhQSHgwcGhZMWVVaHFpTm53dm1pcWdadTJvN19jTW5iQVk",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-23",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ29VWVhFTFNWdng3Mm1MWHJBaDh0M19LRThQTklCNmtDMW1EeTN1bDQ1NC1iVW8xRF9YU2UwVDhYRXVwUlJETGF5ZVE1LVFHUzdwRmhFY09RY0M5ejRpRElqemZMdS1NSGtjeVdkRGs5UlVTdVBlODNIM2s4MzNlc3F3enN4SVhQSHgwcGhZMWVVaHFpTm53dm1pcWdadTJvN19jTW5iQVktWlliLU1TMHRaSdIBuAFBVV95cUxQaXhrU21LNTZSbzB3MGU1N0dEY0V6WjlsZ3hzOF9CZmVib0xZQURzLUpnNUo2U2V0a21aX3dXNlJRdE9LOEMyZHV6dkcxX3lNbk54bVB4NW1BdEQ2RGczUU9WcnVxLXpxOGFid3dWVjJ2Vmtfd0w4bTNPVmE5bENnTzBGNVdJbTNOb1JmWEJncmxpUFVmS194SVEzM1BGUzJTQUtJM05oMlEyWEU2ekFWWFpZOFJPdmg2?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-do-argentina-s-combined-21-game-bans-2026-08-22",
+      "headline": "How do Argentina’s combined 21-game bans compare to FIFA’s other major punishments? - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTMzTTExZDJjLWEyUTd0UUNVYWtkbXBDMGVpYk04bVlwQ1VCcV8zT2NBeVgxZi1tX3BpTS01anozNHNyMktILXRKSlVsMWRFcG9RajAzbl9WcUtNcmZiS3VXek51NmZDNWRGVDRFU1hLY2FPUmYwMTRJSmh0MS11TWZkVEM5aHFM?oc=5\" target=\"_blank\"&gt;How do Argentina’",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-22",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTMzTTExZDJjLWEyUTd0UUNVYWtkbXBDMGVpYk04bVlwQ1VCcV8zT2NBeVgxZi1tX3BpTS01anozNHNyMktILXRKSlVsMWRFcG9RajAzbl9WcUtNcmZiS3VXek51NmZDNWRGVDRFU1hLY2FPUmYwMTRJSmh0MS11TWZkVEM5aHFM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-u-s-crashes-out-trump-meddling-fallout-2-2026-04-20",
+      "headline": "U.S. Crashes Out, Trump Meddling Fallout: 2026 FIFA World Cup Live Updates - HuffPost",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3JFQ2kzbXNqRGNkNVVtZlRvWUc1Sk5DV2VUUV90LWVob2Nub1UxbWhfVmN2cnFqZmZvcXR4QVB2T2dpUnhqMXZ1T2Yzdkl2Z0wwZG53WUF3OVB4bU9vc0FWVU82c0daZTRFbnJ0ZVJwSGlFSER4VHh2NUF1TlI2RDF1dE1OQTA0OTVlMWdOeGFmZW9C0gGaAUFVX3lxTE54OTZfZGFPLWV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3JFQ2kzbXNqRGNkNVVtZlRvWUc1Sk5DV2VUUV90LWVob2Nub1UxbWhfVmN2cnFqZmZvcXR4QVB2T2dpUnhqMXZ1T2Yzdkl2Z0wwZG53WUF3OVB4bU9vc0FWVU82c0daZTRFbnJ0ZVJwSGlFSER4VHh2NUF1TlI2RDF1dE1OQTA0OTVlMWdOeGFmZW9C0gGaAUFVX3lxTE54OTZfZGFPLWV2QmVSN3Q4US01bU1BZHRIUlJZM28zY3dwNFhsbUhRMzdBTktoMjlQR0pFUDBmOXJwdjBRaEJWVjk2SURzQkdIOG5HekY4b2NxVThSSlFvV1BoMjRMMDJEd0Voc2s5ZkdPOTRaVTN5c09IUnBpVEs1YmRRbjRsZV9SZlcwdVU5emJrZGdHU1pBQnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-thanks-kansas-city-for-its-historic-2026-07-24",
+      "headline": "FIFA thanks Kansas City for its historic role in the 2026 World Cup - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOak95dnI2XzdIMzJ3VUtNTlN2cDlGbEdRX0xDZVVTVXpTd2g3OW1fMFFoV1R0d3lrSzNGM1B3X29hTEFNRUJUTkxLeVhVWGdPT1hucEdaZ0ViN1gtVTlOQW1fYXYxUno2SnM2VU9VQVVpX0V4MTF6Q2Y4c2xDdlpZQVhWZy1MRjdEeVpub2VTemRuMDgtY3EtTGxVemNVZXA0WXBZb21VbzJGMnZQMFHSAbMBQVVfeXFMUHR6Tlc0SGJSRTdkdzg2eXQ4dXdfal9CUXdfa0JVVHNwbVlMVTV6S28wVzZxZ1ppSFBJZEU1WGRkNmxfU0lqNC0wVE5aaXBZcklVWmRhZENHRFZNU1NpcG9KeGxLUEw1ZUIycWloOVYwa2tIdTBpRkR6blpPRjBwSnRLSWNteldoOElBQUFubkdJTm5ZZ0dUZm5sS3NJMzdvN3o0MmJzTzJYS2c4U1JjdURHaUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-hands-out-suspensions-hefty-fines-a-2026-08-21",
       "headline": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl - Rediff",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-18",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
-      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-gets-huge-eafc-27-ratings-b-2026-08-17",
-      "headline": "Lionel Messi gets huge EAFC 27 ratings boost after 2026 World Cup as Cristiano Ronaldo misses out on Top 27 - World Soccer Talk",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHlNRWNFcVFFUmdKNzFQQUgzalMyQkVqcE51cWgtTXJDYlBVN1lDZHFMYjMxSDJNaGdiUE1seU41aGhJYUxLTGFzTGQzR1ZIX2Jmd3NIczBNcWNDTUkzTVpmYzRvaWF2SXBPdVhTdEdsVjY2VGY2NE1ENjZ5aXE0ZHFuUmZSUGVrUnFFc3BueUI1UTNEWWk4Z1hORUdJVkt3UlZuWnlyUWd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHlNRWNFcVFFUmdKNzFQQUgzalMyQkVqcE51cWgtTXJDYlBVN1lDZHFMYjMxSDJNaGdiUE1seU41aGhJYUxLTGFzTGQzR1ZIX2Jmd3NIczBNcWNDTUkzTVpmYzRvaWF2SXBPdVhTdEdsVjY2VGY2NE1ENjZ5aXE0ZHFuUmZSUGVrUnFFc3BueUI1UTNEWWk4Z1hORUdJVkt3UlZuWnlyUWdPaUNYeHc3N0pQTTJtbzBfRkc2T2g1ZlR0R2JtNGEzbjJSQzM1Q2Nvci1wakxhNU3SAdwBQVVfeXFMTnRpekNfd3A2bDVsUHloNHA5UHFQSWZoVGVMY0M0X2NPS25xSTI2ejVPXzhXT2Y5bVlhalJkcEdJaGJ2UENKTUcwQ0VFblBadzZqMUFMWEpKMklMR2R4RmR2SWowa2pfTlhaeV9vdlhOT3NqcEoyMEx2cU9fNGJUX1VTalhmZzBNamJKc2cxcGlZaHF4amtUZmxKSTBsMWxSRVBLNV9WX2RJb09OdlBBdlBlTGFXMnlQTFVlVnN6NWctc2g4WHRUWEoyS3NmM1BvOGhyNktMUS1pT1lmYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-houston-on-list-of-potential-host-cities-2026-08-17",
-      "headline": "Houston on list of potential host cities for 2031 FIFA Women's World Cup - ABC13 Houston",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JPWlcxMlZqWTd0TVBDSnVqZGRMb01QcjMzZl8xRFVONEdWdlFCQTBsOVdJTFRIb2tuRGF5R3RxckRjcGNGeFZpNXJhTl85VVl5RkFDd3BBTlI3VWJXN1MxQlZxV3hyVWRQTkpqQXVTSUFHd0pKR0ZndmZCUmU3V2VBczBZTFVPYXpJN2gwSU44Y2VaZFBVb3BR0gGfAUFVX3lxTE5hWDN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JPWlcxMlZqWTd0TVBDSnVqZGRMb01QcjMzZl8xRFVONEdWdlFCQTBsOVdJTFRIb2tuRGF5R3RxckRjcGNGeFZpNXJhTl85VVl5RkFDd3BBTlI3VWJXN1MxQlZxV3hyVWRQTkpqQXVTSUFHd0pKR0ZndmZCUmU3V2VBczBZTFVPYXpJN2gwSU44Y2VaZFBVb3BR0gGfAUFVX3lxTE5hWDNxbTVHTUlYd0M3WXRqU3RQMUlJQjNpeWE1bFE3c2xGM2hrbmtwdmJ6akNhY2cxejU1WHE1cU9DaXJsbnZNSUNDZ0JVMzEwY2NUanZabjlxeEFnYTVGY1lDWlY3eGRzRVNyWkRFSXd3X2dablVla0ZwSEMxdUJaQXNVanhDY1ZRZjdCNnFKdEx0Z3ZEUl9BZGZFMW5MWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-didn-t-grass-from-world-cup-stay-at--2026-08-17",
-      "headline": "Why didn't grass from World Cup stay at Lumen Field? Blame unique Seattle circumstance - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
       "featured": false,
       "draft": true
     }
