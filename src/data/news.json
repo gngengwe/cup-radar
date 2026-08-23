@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-23T12:38:45.054Z",
+  "lastUpdated": "2026-08-23T15:21:38.185Z",
   "articles": [
+    {
+      "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
+      "headline": "How to Watch the 2026 World Cup Finals - WIRED",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-portugal-get-their-revenge-on-spain-this-2026-08-23",
       "headline": "Portugal get their revenge on Spain — this time in cricket — after FIFA World Cup heartbreak - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-18",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX090RDlUV2FxYVh5dzhjLWtKWXRBVW9hOENDTzBJTnh6akQ4ZW5SRFQ2Vmk2M0twMjR5Z0JPa2dHSUlWbXhTakdaYndFRi13eERHM1FCTXRBa1FhZExnNDJTZ3V1QXROcUkyNEdFaUZkaDE2N0RuWExRTFVrOXNVUjdhamt2bEp3NTVlZ19LUlNhU3VjeHU5aWtZay00a2J1cW5iY2l6QmVqY3NvT0VabVBNONIBuAFBVV95cUxPS0lYS1dKV1c3X2R5V2dfQXphQ2ppU29QaFZtbnkyajdQcFhRZmtnTUxNckx4d21Xc2lTVFlWNGg0REtVam9BMHpKVTVGa1dQemlrRFAybF9ScFVyd0IwazhpdTNjRnhRNDV6SnktaUNad2dQZzlwU0t1NDZ6eGp6MGh0c2RraXpKcU85TklqcndEaERpNW9rMkVoaUdMMWZxYjVycU15MVVPbm0zeGpreVhIcFpyMmdC?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-roger-bennett-is-a-man-of-the-people-men-2026-08-18",
-      "headline": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success - USA Today",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWtPcGg2QUlWVmVVNm04XzZYXzJaVlVKRkNxemJNcDhTbUx4UTJmZUFDeTQ5dDJKdFhRSnJpM0hRbW51TnBiNEZLQUkxMFBvNVd2N29seENPSExYQWxyUktKeVBhMG5xZzZ6NFVNbDdHYmRsNW93RlpDa2xCU0RMZVFZSFNSUlk1WWpUNElnZ19ZZDVfV05FWWswd09Ud1R3U2gtNF9wSnl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-18",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWtPcGg2QUlWVmVVNm04XzZYXzJaVlVKRkNxemJNcDhTbUx4UTJmZUFDeTQ5dDJKdFhRSnJpM0hRbW51TnBiNEZLQUkxMFBvNVd2N29seENPSExYQWxyUktKeVBhMG5xZzZ6NFVNbDdHYmRsNW93RlpDa2xCU0RMZVFZSFNSUlk1WWpUNElnZ19ZZDVfV05FWWswd09Ud1R3U2gtNF9wSnlwZFdCY3JnbXY3LXpZbklHYVoxQlgxczdTYVRYRWo2LUNyZGEzZENaY2c?oc=5",
       "featured": false,
       "draft": true
     }
