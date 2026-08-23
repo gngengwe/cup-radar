@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-23T03:49:58.020Z",
+  "lastUpdated": "2026-08-23T06:39:30.871Z",
   "articles": [
+    {
+      "id": "news-auto-meet-the-kansas-city-dentist-who-came-to-2026-07-31",
+      "headline": "Meet the Kansas City dentist who came to aid of 2 teams during 2026 FIFA World Cup - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlpDME1WaU1icms2ZlY2b3h0bXdKUHQ5UW8tazRJMC1Lay1INTBSM1M2WXczQ1NxMnJickItRkNSUktWWWxuVTNJSFc2VC15T1pLVlAtMnFsVmxqbEtMNTNLbmszVFdKUnFnV0xra0xaYzFnNUh5SUJJd1hWSmZQc0ZCZDFEMFYzcnROWTU3Zm1OUQ?oc=5\" target=\"_blank\"&gt;Mee",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-31",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlpDME1WaU1icms2ZlY2b3h0bXdKUHQ5UW8tazRJMC1Lay1INTBSM1M2WXczQ1NxMnJickItRkNSUktWWWxuVTNJSFc2VC15T1pLVlAtMnFsVmxqbEtMNTNLbmszVFdKUnFnV0xra0xaYzFnNUh5SUJJd1hWSmZQc0ZCZDFEMFYzcnROWTU3Zm1OUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-why-didn-t-grass-from-world-cup-stay-at--2026-08-17",
+      "headline": "Why didn’t grass from World Cup stay at Lumen Field? Blame unique Seattle circumstance - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-officials-seize-33-million-in-counte-2026-08-23",
       "headline": "U.S. officials seize $33 million in counterfeit goods during 2026 FIFA World Cup - KTLA",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-05",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-themed-world-cup-flag-sales-help-bene-2026-08-17",
-      "headline": "KC-themed World Cup flag sales help benefit Ronald McDonald Houses - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDhLSERQWVpIcmQxUGo5Sm4yN2swYURMMzdTTzdYNjZscWtkWU9lSVg3WDBDWGE5VGQxRHJMaXpyRXZONUFNT0UyZklFdDVGc2NVQlBPRzZOaUVFa0J2d19sTkdoSXA4ZEZSWEVWYnVDU0RlY3hDdmg1d2hXTXRncA?oc=5\" target=\"_blank\"&gt;KC-themed World Cup flag sa",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDhLSERQWVpIcmQxUGo5Sm4yN2swYURMMzdTTzdYNjZscWtkWU9lSVg3WDBDWGE5VGQxRHJMaXpyRXZONUFNT0UyZklFdDVGc2NVQlBPRzZOaUVFa0J2d19sTkdoSXA4ZEZSWEVWYnVDU0RlY3hDdmg1d2hXTXRncA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-garcia-blames-belgium-s-doctors-for-worl-2026-08-17",
-      "headline": "Garcia blames Belgium’s doctors for World Cup struggles - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5\" t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFJb0JOMWROdnNjQTl2TDFwOFB1QzN6S1d6ZTUydVZQYzVfVVc5OEpQaUEtVjVnQlNLWmVyaW9RWGh3dVU2ZFJyd1l0WVVIVVNzVHh3cldzaXVBU0VISDBDU1FxdE9xTHY2WHJJdGt2dFAyZllncmM5S0lpN256YWVKck4zdzJUVm0wR3RhWkR4cUttanpma0N0aFBiYzAya2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
       "featured": false,
       "draft": true
     }
