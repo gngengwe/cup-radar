@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-23T15:21:38.185Z",
+  "lastUpdated": "2026-08-23T18:28:11.410Z",
   "articles": [
+    {
+      "id": "news-auto-portugal-get-their-revenge-on-spain-this-2026-08-23",
+      "headline": "Portugal get their revenge on Spain — this time in cricket — after FIFA World Cup heartbreak - The Times of India",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRUZwcW00dG82RFZCQVBuR0Y1QlYxXzhmV2hxMi1EeU0xMlc3RXAyQ29ZMUFaLS1VM2RjU0NXWWtta3F5Z3FodGZRNXdMM2ctWWFscXV6N1NqcDdTeDFiUEppZXRSY1BhNElsVGg5RHJSN1lDbnRvMkxfcG9fMlVJeUpfQkI0Y05ZWWNKeFM4cVJjY29SbXhiRjBCYUp5YkZoTy16V09RVEd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-23",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRUZwcW00dG82RFZCQVBuR0Y1QlYxXzhmV2hxMi1EeU0xMlc3RXAyQ29ZMUFaLS1VM2RjU0NXWWtta3F5Z3FodGZRNXdMM2ctWWFscXV6N1NqcDdTeDFiUEppZXRSY1BhNElsVGg5RHJSN1lDbnRvMkxfcG9fMlVJeUpfQkI0Y05ZWWNKeFM4cVJjY29SbXhiRjBCYUp5YkZoTy16V09RVEdYWklnWWw3T3BOTEFVT2lQVk1HaVN4X0tKbTcyQWlHTzFod29VaUpRWFJBU3FkVERYRWwyb0ZYWklrTVFqSktmM3lKTDVFbzdZZDg1Z0VVTzlyOVh3T0XSAYQCQVVfeXFMUE5aNmdiU215YW1CYUVXelFScEhWNGJnOFM0Z2NuZjVNVlBPc1dRUUR5WTdZclY0ZXAyREJxRldyYW1sNDN5WnFRLUU3RFk5NWpRbl9hd1pLRDAwcDhFUzVLNGN2N2ZXNVNqMTF6bUFaYW1mNldoeVFtTnB0WWttTDhrdmRyOFNjd0hQMEJydVU3Y2VjcjdRZ3E3YWpTVnFYWHlFdGw5ZUZUNkc2NWdtRE54N0pmTGZrYm9BVTZUTjZ0WDJ2SktGb0staXQ5NEZMSHMzUHRDVTY2SG9nOHBXN0V0Zk1XN2pGUWpUX3JXMEVnQm9WMFFKSEhVU3BvYWI4UHU4RGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
+      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
       "headline": "How to Watch the 2026 World Cup Finals - WIRED",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-18",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2J3NC1zYktIQVN6ZzR3cnoxekMyRTE3TjhKT01QMTFHTENIREl0V1ZLXzNrRTg2VVYzczdUX1AzZFBCbmdEUmcwMkhUbEF3X2R3c0ZsQ1Z5a1JzMGdvZExjNnJZdGtBVURwMVRMWC1Nei1nXzAxTExwelFqLWE1bHJHM2RUbVZTYmpseERnbHdfZ0FpTDk2T2x2RmVtb2dWbi1pVg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-shakira-burna-boy-s-dai-dai-tops-billboa-2026-08-17",
-      "headline": "Shakira & Burna Boy’s ‘Dai Dai’ Tops Billboard Global Charts, Even a Month After the End of the World Cup - Billboard",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU5SZFBydk90X3FPbkg0YVVubVZGeVZ2N1BGb3FaQk9HYzF4M09qZ1RBcVhPMlFqX0tuR1UyOEswaVV2dXRYNDR5Z2R3bXFFU2J3VlpiWHB5UndpSExWWDgwdDZfYWdRdDlHUFJwVUFVMEFjczZjOUhteTZXa2k3V1NTUUI4dkhXRllEdThkTl9mUzFOY24xal9ZekdjbVNTN2FDNU5ZUU5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU5SZFBydk90X3FPbkg0YVVubVZGeVZ2N1BGb3FaQk9HYzF4M09qZ1RBcVhPMlFqX0tuR1UyOEswaVV2dXRYNDR5Z2R3bXFFU2J3VlpiWHB5UndpSExWWDgwdDZfYWdRdDlHUFJwVUFVMEFjczZjOUhteTZXa2k3V1NTUUI4dkhXRllEdThkTl9mUzFOY24xal9ZekdjbVNTN2FDNU5ZUU5GQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-s-fifa-world-cup-fallout-lamou-2026-08-18",
-      "headline": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQX090RDlUV2FxYVh5dzhjLWtKWXRBVW9hOENDTzBJTnh6akQ4ZW5SRFQ2Vmk2M0twMjR5Z0JPa2dHSUlWbXhTakdaYndFRi13eERHM1FCTXRBa1FhZExnNDJTZ3V1QXROcUkyNEdFaUZkaDE2N0RuWExRTFVrOXNVUjdhamt2bEp3NTVlZ19LUlNhU3VjeHU5aWtZay00a2J1cW5iY2l6QmV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-18",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX090RDlUV2FxYVh5dzhjLWtKWXRBVW9hOENDTzBJTnh6akQ4ZW5SRFQ2Vmk2M0twMjR5Z0JPa2dHSUlWbXhTakdaYndFRi13eERHM1FCTXRBa1FhZExnNDJTZ3V1QXROcUkyNEdFaUZkaDE2N0RuWExRTFVrOXNVUjdhamt2bEp3NTVlZ19LUlNhU3VjeHU5aWtZay00a2J1cW5iY2l6QmVqY3NvT0VabVBNONIBuAFBVV95cUxPS0lYS1dKV1c3X2R5V2dfQXphQ2ppU29QaFZtbnkyajdQcFhRZmtnTUxNckx4d21Xc2lTVFlWNGg0REtVam9BMHpKVTVGa1dQemlrRFAybF9ScFVyd0IwazhpdTNjRnhRNDV6SnktaUNad2dQZzlwU0t1NDZ6eGp6MGh0c2RraXpKcU85TklqcndEaERpNW9rMkVoaUdMMWZxYjVycU15MVVPbm0zeGpreVhIcFpyMmdC?oc=5",
       "featured": false,
       "draft": true
     }
