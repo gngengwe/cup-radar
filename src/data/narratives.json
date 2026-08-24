@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-23T21:21:06.742Z",
+  "lastUpdated": "2026-08-24T03:53:49.285Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 370,
+      "chapterCount": 371,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2977,6 +2977,14 @@
           "title": "Messi retirement hint highlights football era nearing an end - DW.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2gxTDU0cVJNZl9WTHlWVURVenQ0T0I5MDNBLURROVlhbzZOU2F5eE5VQktDU1E1TUVkN2FTTFZzbXhGRmNnRjdaMEdxLTJSN0w3a0JEbFpibThuUTBNdG9ETjdOeXFrVzNadXU0OV9VcC1Rc3N1ZkpIMjZvbVJMa2xDMi1lbF9FXzdVcks5RnJnaEV6NUNYTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787543627423",
+          "date": "2026-08-23",
+          "title": "Lionel Messi, Inter Miami fall further behind in quest for 2026 MLS’ Supporters Shield amid winless streak - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGVISEdtUXdYekJvSUhFc1c2c2ZqYk9CbnpHa1d6amhDeFBEWUp4dEZOTEJ5RVVHenhqb1ZCcTA0RE1CSFVyQnNkN0VLSm5YR1hNRERldDZJX2FRa2JBOGVLVnNKM04wanZrWWtHcUM2ZzBaM2Q3dkZHRFRFbnhnTjZRTThIbTRTa05sMjgydFVWYkFXamNoZjc1cE1hbnZMN1Nwc0RFdUZFaG1fOElzVk5RUmpBUWVIX0NNeUNhNGpyaVFqTWNqT1kwbml1QnfSAdQBQVVfeXFMUHRNQnVIOG5fb2t1OEZfbzRGYnMxcGhkMnNhM21INEsxUGZSU1VZR19VMDl3dDFnVm8wcXlVZU9CUVhMbmU5c1lvUi1YSFhwWHk5NXJ4MW1INTZVdmhMdlB1UGpkTlBsM3lXM3Bmam9OeDMyVkdaeVpZcXBtd0VXZzR5ekJ4bVhlcjdQSmVpVExLNkk0bGpmWVJrLXo4WFlFZlN1MkJFVm9OWTNZa01zQlBFa3IxWHpPU3FMakZpSjJnM3NqNmtBNEZLQkVMZ0NNaE91a0w?oc=5",
           "draft": true
         }
       ]

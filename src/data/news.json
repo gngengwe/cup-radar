@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-24T01:15:35.174Z",
+  "lastUpdated": "2026-08-24T03:53:47.000Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-house-at-pacific-place-se-2026-05-20",
+      "headline": "Seattle Soccer House at Pacific Place - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZMWlZbGo4MGhVOWdqdllkcDBSN0lUdC1wTHRnRnNUVjRhYlpGLWVxejFMcVBmMU5wVDJLajlOQkZBTHllZF9ITXNKaUs3Uy1uNWZYSmx4Q0I?oc=5\" target=\"_blank\"&gt;Seattle Soccer House at Pacific Place&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-20",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZMWlZbGo4MGhVOWdqdllkcDBSN0lUdC1wTHRnRnNUVjRhYlpGLWVxejFMcVBmMU5wVDJLajlOQkZBTHllZF9ITXNKaUs3Uy1uNWZYSmx4Q0I?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
+      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-hopes-of-world-cup-tourist-boom-feeling--2026-05-13",
+      "headline": "Hopes of World Cup tourist boom feeling shaky in Seattle - Washington State Standard",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-13",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-07",
+      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-hero-ferran-torres-scores-twic-2026-08-23",
       "headline": "World Cup Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw - FOX Sports",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-19",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTZUU2lFcHpxZG0xSDlvc1YzRzR4QnNSeFpGRUZKYTNpcnNVTmRRenFsWnJ5eExTbjloRERCTmxDd2U4d2pRdVdlTFkxMkJXSk5jZzRSS0UtdlZJWGxVZHREeGhVblpLbS1GNW1aRzh4ZkhVaU5nRGMyeVI2TFZJNTBXYzBLeUZCUXZOdUZEdzNkM0VqajM4dzFYSzNJTXJReV8xRzJMaFV1VXlNUFdLOFltdkh5M2UyQXVqZ1R1ZVdHeWdIWHhOMEhPalNuODdFekE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
-      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-grading-the-2026-world-cup-from-spain-s--2026-07-21",
-      "headline": "Grading the 2026 World Cup from Spain's A to Infantino's F - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5\" target=\"_blank\"&gt;G",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-21",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
-      "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5\" target=\"_blank\"&gt;Fifa World Cup plans: Gianni Infantino scraps private investme",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ea-fc-27-ratings-kylian-mbapp-shares-top-2026-08-17",
-      "headline": "EA FC 27 Ratings: Kylian Mbappé Shares Top Spot, Lionel Messi Gets World Cup Boost - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1JHX2h5dlhhRXVSNEU4Tm9ZSDV5V0hsOVlrNURpRVF5dVhQQnVVMXgzSWJDb1F2US1uRExKUUIxMndjcFpRa0VTNVZRZEJ0Nkk5NlBRYXVoWk5jN0NrdmdfdGdZc1A3R01nTnFmMXR5cC1hXzFkZFJwa0dNTHp3Y3NEeXZaWHpiZGs4MWo5MEVRQjI5aGVIeTlndXFRLW5nYWJHVzFrb25",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1JHX2h5dlhhRXVSNEU4Tm9ZSDV5V0hsOVlrNURpRVF5dVhQQnVVMXgzSWJDb1F2US1uRExKUUIxMndjcFpRa0VTNVZRZEJ0Nkk5NlBRYXVoWk5jN0NrdmdfdGdZc1A3R01nTnFmMXR5cC1hXzFkZFJwa0dNTHp3Y3NEeXZaWHpiZGs4MWo5MEVRQjI5aGVIeTlndXFRLW5nYWJHVzFrb25VTk5fN2xsdDNqVkRFY24zWGZPYXdn0gG-AUFVX3lxTFBkSFF4UEJPbXRpa1lmOHdzUy1qdGpoZ3JwT20xNFBfUXhIaTRqZ0VIeHRtaEpYR2xHZ2tJeGh5bk9yRnpFOHpaU1dnNUs4WWN3VVdPV2xnencwZDlGVVlvODhPX1hnLVYyRG5ZY194b1RKcE9hanlhakNMaUlnS1k2ejNWcVhrcjExWHNnX3BFSFc3RnV1dDNjMGctUW9vVVVWWno2bERQdG5JekxkOVdFQ0FHcUd0dFB3OEU1VHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-canadian-fifa-world-cup-star-joins-premi-2026-08-18",
-      "headline": "Canadian FIFA World Cup star joins Premier League team in England - Daily Hive",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5\" target=\"_blank\"&gt;Canadian FIFA World Cup star joins Premie",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-18",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5",
       "featured": false,
       "draft": true
     }
