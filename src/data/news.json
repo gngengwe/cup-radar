@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-24T06:57:08.068Z",
+  "lastUpdated": "2026-08-24T12:48:59.036Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-road-closures-detours-what-to--2026-06-02",
+      "headline": "World Cup Road Closures & Detours - What to Expect - City of Kansas City (.gov)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGlwYjZfZXFiQ1phVlBZcXhPS1cwWEM2c1JDeGNYbi1SMFpwOV9qajBueUl0RjRyZlp6dDhSaTNQY2UwWlFqTjVqWkVYaHlyQXpxNzJaSTVEUW5vakV3YzFlVXNIZks1NEhpZC1oUkd6MHRDVG9BbkhEUWFhNWNHSg?oc=5\" target=\"_blank\"&gt;World Cup Road Closures &am",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-02",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGlwYjZfZXFiQ1phVlBZcXhPS1cwWEM2c1JDeGNYbi1SMFpwOV9qajBueUl0RjRyZlp6dDhSaTNQY2UwWlFqTjVqWkVYaHlyQXpxNzJaSTVEUW5vakV3YzFlVXNIZks1NEhpZC1oUkd6MHRDVG9BbkhEUWFhNWNHSg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
       "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-12",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--i-love-freedom-viral-world-cup-fan-reve-2026-08-19",
-      "headline": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip - hitc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFM2Mmt2em9MU3NKczMycWtiTkFOOGxlVUduLXF5OVNTWk4xNGlDTW1FdDA3X2FtSWQ1OGZqNEpmYW9HUnM5ZHBGeU5yMXZvVEV2UDl5RzVLaE8ydi14ckk0NlZPRk0yckE1RkF5aTNYc1VUV2h0dGh5ZVFqbjkzMVFhdnplbklVMXpXOXR1VVJiNDVQQVRBSjcwVWVjTUZmV2VOTVQzQ1N",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFM2Mmt2em9MU3NKczMycWtiTkFOOGxlVUduLXF5OVNTWk4xNGlDTW1FdDA3X2FtSWQ1OGZqNEpmYW9HUnM5ZHBGeU5yMXZvVEV2UDl5RzVLaE8ydi14ckk0NlZPRk0yckE1RkF5aTNYc1VUV2h0dGh5ZVFqbjkzMVFhdnplbklVMXpXOXR1VVJiNDVQQVRBSjcwVWVjTUZmV2VOTVQzQ1NpYi1jOEE?oc=5",
       "featured": false,
       "draft": true
     }

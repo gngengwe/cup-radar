@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-24T09:46:23.592Z",
+  "lastUpdated": "2026-08-24T12:49:01.557Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5511,7 +5511,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 738,
+      "chapterCount": 740,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11416,6 +11416,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXQxeEg5LVVwcUlqMTQ3QlQ4QnktNFJ6OE1QMU9mVlU3TkdSelFFS19pQ0M1STRFc2YtdEJTVDdsUWJnRzhSYUpBT0JOTWc3d3NJZnVvcEhONk5mTFNEaWJoYnQzM21abWw4c3EzcGluSy1fVzB1S3JNR2k1bEphNjVHeDNxNkY2YWMzdTc0S2NGaERRSmtMU3FvdnNBMTkyVnk5YnJnWXprZzNSRkczSjVuYlM3cm1mY05CUVh6My15QlZSZnc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787575740495",
+          "date": "2026-08-23",
+          "title": "U.S. to face South Korea in Overwatch World Cup 2026 quarterfinals - Field Level Media",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmRPbkhDS0NXeVBSZXdnZDB4azM2TC10aXdlYzNfbXJieENrV29uaHJVRmJidG4wZ1ByUXREWTloU2toN08yTE1USGZTWDRxRVRDSkpkckdjRHNocjE3T2otYnhGQTIzbzdYZFI4OFlEUV92ZElXTWVlZUVNVUE5bDNKbzR1VkdKdHpXWkR0Y0F2RTNpdlo4ZnJNSmp1bkFkcl9lTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787575740495",
+          "date": "2026-08-23",
+          "title": "Presidents Cup 2026: Scottie Scheffler leads 6 automatic qualifiers for U.S. team this fall - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOU5GYWp2b2dvbHQ5cGg1Yjd2WTFzUlo0N0VUSHlJallJdGVCRGF0dVpzRDN2U3VOMUc1d2o2YXJsNTNEVG82cUl3LWE5T3pBU2lURWx1WlhmM29HXzdsR2xjbDhzS1JHMGtqQmFITFdGWnhoSWdWUFNMVlg2TnBlaHJ2SW84UGhQbkZVQ1RNNmV0TjV3TWFKVkJsTnZFLWxMS2JTS1lnc1BFdnlaWU1nNVFkS09MRFZXZlpfSHBydTB5dE00NXZzeFpUeWh4YnlHdjNFZWszTW4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11434,7 +11450,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 530,
+      "chapterCount": 531,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15675,6 +15691,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzVJLW5DZHJJeUpndzJ4NllicjNlNWlZcVZTc3JHcGQwNEtmU2R3ZkpjNU5KdEVQQkJWRUdpaGhtbnRTOTc3NDVsS0RCNWlGUDBoSFlzanJ3TzEzdjNmVzFENEpxVTlvdmJCWkd2Qm8yUlJ5cURUVUVPZXFVU1hBNHdiUHZlcUdaZnhuZG9KTUNWYjdId2JV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787575741042",
+          "date": "2026-08-24",
+          "title": "Brazil and Chile lock in their place at the FIFAe Finals 2026 - Sheep Esports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGR4ZW1CdFpITk5kSXRHYktmNjFXX0RoZFdmUXE1N2tTMTVTd1J2T3AzTG4weFFCcEZybWQtdlFNSUVhaHRVdFhsTXFBa003cmJseG9uX3RnRDBSLVRFY1RVRC1oNDNUSHhHaVNSaHMtczhMRGdhRmJuTWNlNU9GSllxMGFNVEt2WmRSQTAtLVRleC01ajM5cUZucVJtNjk5em9iWUpPQng?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15904,7 +15928,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 796,
+      "chapterCount": 798,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -22272,6 +22296,22 @@
           "title": "FIH Hockey Men's World Cup 2026, Game 32: England vs Argentina | #HWC2026 - Fédération Internationale de Hockey",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkMxeDE5NG1iN2Z2X3EtZEpwblB0R0V0S1BZalhGcFpHd1dzSXhCOFpwUFZkQVJaQ3dEcWxUMFdSa1VOaDRYZ3ZjcHN4NWJYOFQtdjV3Tm5aQU5aM3BEVTRGMHZLSlJEOFM4ZEJCSll5dnpDQW1pUjl4MDZWc1cxUzd6MTlPNllhNWVZRWliYk1iVDZNdFQwaFZmRkpuUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787575741557",
+          "date": "2026-08-20",
+          "title": "ERICA MEG PARKINSON, LAURYN THOMPSON NAMED TO ENGLAND SQUAD FOR U-20 WORLD CUP - NC Courage",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejZ6a24zbnVkUERNSFJEazdzT0g4NXFXSjBXQjFOZEQwSDVzRm15MW9kQjV6amxHc3pCc3lqLXJsQkl1MFFxN2xHeTZrNWJ0bzZtaWJuTU1ZR0dyeUIwck1jbVhPVVRzYVJVNEFiMThjaVNva0thNjhUaDg1TVByaDZ1WU9vWXBsRWlKRF9LS2RMZ0haWXUtUVVpOHNFUHh1OEN4RlBQUG5ydEI1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787575741557",
+          "date": "2026-08-21",
+          "title": "World Cup coming home? England prepares potential bid to host 2038 or 2042 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUpDQzdVYXJDLWd4U3lPYmwxb1ozZHlmaFBmMldZS0ppZDJ3WWNEU0dKTDlVREF4X2NPRjFlMGhOSG5pcXNoRE1ieGJXeGtjZGhYeTNKQmo5ejNOb1hLNU1PSEUxU2ZsWFM1aVZJcWZzc2tRTGhTQWtsN1lTRjJCSll1dng?oc=5",
           "draft": true
         }
       ]
