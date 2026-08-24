@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-24T15:38:16.717Z",
+  "lastUpdated": "2026-08-24T18:38:51.042Z",
   "articles": [
+    {
+      "id": "news-auto-el-paso-county-declares-aug-24-ricardo-p-2026-08-24",
+      "headline": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection - KFOX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlB1b0hONDdyMmVidWx5a19JVWFGX0VyelEwZXAtZS1nUkJlV3FzbHU2c0lacWhOaWhxVm1JVUJPcDR0dkFVZlpDWEIzc3F1bUI0MFRDb2RWXy1kaFU0RDdrbHM3c1pYdUhVQllnRDZ3TXduVDFNQW14MDhrQW9ORUwtSnRwbURlWXdGVHU5WU5jd3h1UzgwU2ItWnRVTnNJNEpqb2tn?oc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlB1b0hONDdyMmVidWx5a19JVWFGX0VyelEwZXAtZS1nUkJlV3FzbHU2c0lacWhOaWhxVm1JVUJPcDR0dkFVZlpDWEIzc3F1bUI0MFRDb2RWXy1kaFU0RDdrbHM3c1pYdUhVQllnRDZ3TXduVDFNQW14MDhrQW9ORUwtSnRwbURlWXdGVHU5WU5jd3h1UzgwU2ItWnRVTnNJNEpqb2tn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
+      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
       "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-23",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQktVYU1MZUNxdGNuTmRKYm1EdGR1VU1ucWsxc21ycXl1dW9DYWFDN3VOcTFzQjlGc0FYZVoybVJWajZvNnRVTzNrMzNOWnEyclVFbUxMbUJwUEltajFlVERvU1l6REJ4bFBaRUVSZTREZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
-      "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-richard-masters-and-howard-webb-criticis-2026-08-19",
-      "headline": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup - Sky Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0l",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0ljeHpqNVJKbXA4dWlEdGVIeFcxeXpZVWlnckpibDZpcUdKdWdsdExycTlxRnJkZDVWRGxLazVkQmNTVWRsSFlkTjhZcFJ1RTdCdUJv?oc=5",
       "featured": false,
       "draft": true
     }
