@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-24T12:49:01.557Z",
+  "lastUpdated": "2026-08-24T15:38:19.588Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 371,
+      "chapterCount": 372,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2986,6 +2986,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGVISEdtUXdYekJvSUhFc1c2c2ZqYk9CbnpHa1d6amhDeFBEWUp4dEZOTEJ5RVVHenhqb1ZCcTA0RE1CSFVyQnNkN0VLSm5YR1hNRERldDZJX2FRa2JBOGVLVnNKM04wanZrWWtHcUM2ZzBaM2Q3dkZHRFRFbnhnTjZRTThIbTRTa05sMjgydFVWYkFXamNoZjc1cE1hbnZMN1Nwc0RFdUZFaG1fOElzVk5RUmpBUWVIX0NNeUNhNGpyaVFqTWNqT1kwbml1QnfSAdQBQVVfeXFMUHRNQnVIOG5fb2t1OEZfbzRGYnMxcGhkMnNhM21INEsxUGZSU1VZR19VMDl3dDFnVm8wcXlVZU9CUVhMbmU5c1lvUi1YSFhwWHk5NXJ4MW1INTZVdmhMdlB1UGpkTlBsM3lXM3Bmam9OeDMyVkdaeVpZcXBtd0VXZzR5ekJ4bVhlcjdQSmVpVExLNkk0bGpmWVJrLXo4WFlFZlN1MkJFVm9OWTNZa01zQlBFa3IxWHpPU3FMakZpSjJnM3NqNmtBNEZLQkVMZ0NNaE91a0w?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787585897206",
+          "date": "2026-08-21",
+          "title": "FIFA Suspends 3 Argentina Players A Combined 18 Games For World Cup Final Scuffle - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHBTU2l3ZzhNcjRQRkIyc2UtdGk0V1dvTzcyaTh6ejlwb0hOTnYxSU15a1QxdWw3b001ZlJTWEw1UHU3SGJfakhLQmpDd2NLMVo4U1VzRm5VR2pFNmNLUnVCMENKLWhmNHRob2FGeDdaSFFvRVNPVmRNbVBDQTQ1Vl94bXludkgxdDgyZ3JjNy13WkhJc2RpRmFpSWJvQm8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5511,7 +5519,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 740,
+      "chapterCount": 741,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11431,6 +11439,14 @@
           "title": "Presidents Cup 2026: Scottie Scheffler leads 6 automatic qualifiers for U.S. team this fall - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOU5GYWp2b2dvbHQ5cGg1Yjd2WTFzUlo0N0VUSHlJallJdGVCRGF0dVpzRDN2U3VOMUc1d2o2YXJsNTNEVG82cUl3LWE5T3pBU2lURWx1WlhmM29HXzdsR2xjbDhzS1JHMGtqQmFITFdGWnhoSWdWUFNMVlg2TnBlaHJ2SW84UGhQbkZVQ1RNNmV0TjV3TWFKVkJsTnZFLWxMS2JTS1lnc1BFdnlaWU1nNVFkS09MRFZXZlpfSHBydTB5dE00NXZzeFpUeWh4YnlHdjNFZWszTW4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787585898276",
+          "date": "2026-08-24",
+          "title": "Qualifiers for the 2026 U.S. Solheim Cup Team Finalized - LPGA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDIwSXpEbU9rdDNiUkl5eWtWTDMzTnVxTTllaXdTVzNlSkpuYWdwMTE2X2Z3MXBHS1dxM29KUXRTbGhtVG1ER05NMGlRdXhZakxwa0oySzg5SS1FdjFXRlR6ckR1Y3V5UHhZRm9kdGk3b2F1VE9RcUdWNm9DbkhoVmJHVGZyRGliY1hJUA?oc=5",
           "draft": true
         }
       ]
