@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-24T03:53:47.000Z",
+  "lastUpdated": "2026-08-24T06:57:08.068Z",
   "articles": [
+    {
+      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
+      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
       "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-19",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFM2Mmt2em9MU3NKczMycWtiTkFOOGxlVUduLXF5OVNTWk4xNGlDTW1FdDA3X2FtSWQ1OGZqNEpmYW9HUnM5ZHBGeU5yMXZvVEV2UDl5RzVLaE8ydi14ckk0NlZPRk0yckE1RkF5aTNYc1VUV2h0dGh5ZVFqbjkzMVFhdnplbklVMXpXOXR1VVJiNDVQQVRBSjcwVWVjTUZmV2VOTVQzQ1NpYi1jOEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-egypt-s-fifa-world-cup-2026-coach-hossam-2026-08-19",
-      "headline": "Egypt's FIFA World Cup 2026 Coach Hossam Hassan Collapses After Alleged Fight Between Two Wives - NDTV Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTZUU2lFcHpxZG0xSDlvc1YzRzR4QnNSeFpGRUZKYTNpcnNVTmRRenFsWnJ5eExTbjloRERCTmxDd2U4d2pRdVdlTFkxMkJXSk5jZzRSS0UtdlZJWGxVZHREeGhVblpLbS1GNW1aRzh4ZkhVaU5nRGMyeVI2TFZJNTBXYzBLeUZCUXZOdUZEdzNkM0VqajM4dzFYSzNJTXJReV8xRzJMaFV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTZUU2lFcHpxZG0xSDlvc1YzRzR4QnNSeFpGRUZKYTNpcnNVTmRRenFsWnJ5eExTbjloRERCTmxDd2U4d2pRdVdlTFkxMkJXSk5jZzRSS0UtdlZJWGxVZHREeGhVblpLbS1GNW1aRzh4ZkhVaU5nRGMyeVI2TFZJNTBXYzBLeUZCUXZOdUZEdzNkM0VqajM4dzFYSzNJTXJReV8xRzJMaFV1VXlNUFdLOFltdkh5M2UyQXVqZ1R1ZVdHeWdIWHhOMEhPalNuODdFekE?oc=5",
       "featured": false,
       "draft": true
     }
