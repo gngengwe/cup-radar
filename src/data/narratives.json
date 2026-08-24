@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-24T06:57:10.396Z",
+  "lastUpdated": "2026-08-24T09:46:23.592Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -11434,7 +11434,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 529,
+      "chapterCount": 530,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15666,6 +15666,14 @@
           "title": "Carlo Ancelotti Admits Hydration-Break Mistake Cost Brazil the World Cup - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUN1R1pfdmVSbVBoemIxdmVMZ2ZpaFlxd04wTWgxSzJxbjNtb2V1cUt5aS0yaU11SnZGa19TSkhsSkJfOVB6VTJfZklQVHlHSEt3N3RhelpWQ2lnaGllZl9FNDdHMUFTNnN6Y2ZZZnZMWF9Nb2M0Y1VRaVY2OHl5MDVVM3plVUVhVmg1MmdEREg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787564783101",
+          "date": "2026-08-24",
+          "title": "Trabzonspor set to sign Fabinho on free transfer - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzVJLW5DZHJJeUpndzJ4NllicjNlNWlZcVZTc3JHcGQwNEtmU2R3ZkpjNU5KdEVQQkJWRUdpaGhtbnRTOTc3NDVsS0RCNWlGUDBoSFlzanJ3TzEzdjNmVzFENEpxVTlvdmJCWkd2Qm8yUlJ5cURUVUVPZXFVU1hBNHdiUHZlcUdaZnhuZG9KTUNWYjdId2JV?oc=5",
           "draft": true
         }
       ]
