@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-25T01:13:47.896Z",
+  "lastUpdated": "2026-08-25T03:47:52.971Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 372,
+      "chapterCount": 373,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -2994,6 +2994,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHBTU2l3ZzhNcjRQRkIyc2UtdGk0V1dvTzcyaTh6ejlwb0hOTnYxSU15a1QxdWw3b001ZlJTWEw1UHU3SGJfakhLQmpDd2NLMVo4U1VzRm5VR2pFNmNLUnVCMENKLWhmNHRob2FGeDdaSFFvRVNPVmRNbVBDQTQ1Vl94bXludkgxdDgyZ3JjNy13WkhJc2RpRmFpSWJvQm8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787629670932",
+          "date": "2026-08-21",
+          "title": "FIFA Punishes Lionel Messi's Teammates With Lengthy Bans After World Cup Final Brawl - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY3d2SHlENktHOE40RWozemx1LTY1ODZlRFE2VFRQMF9KcWVsSWxfMDRkSnNlaHhTaE41MVpUT1ZiRkphbEZ2Nnl4UllkTjloQ3B6cXJxX0I1NUYwX2llQmxUUHhFaGFicThERktDcDkzOHk3ZHJkclRZeEdnNjZ0b1dyaTBZZHptMlBjcWloYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5527,7 +5535,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 743,
+      "chapterCount": 745,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11471,6 +11479,22 @@
           "title": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection - KDBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWU4elhMRFNDbmxmRXVpZk5IZmhRbU01TjRHN0FESnJmNzZ3Q2hJdHZzcnZLYzlJOWZEZTV6cEt1S1VEQVZ3Q3pwcWY3T3JXeDMyR2ZkbXlpQ29iUnp4bW5JemxXeEowYXREWUozMzVRNWNGMm9VVGdoRUU1NDRTajR0Y0ZpQTNnZ0JFbGxSZ1pTRmx0dXhHZEYtRVJfSGhCSXYxR1Y4d3U0R2VJUVFOeDBB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787629671921",
+          "date": "2026-08-24",
+          "title": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection - KFOX",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGRWYV8zQ1RYdXpQMUtERy01VTdGOXRGWGh3Z2xZc3I5b0JtZzJqWjBvcXRmdlh0WnVzZnd0T2hoa3VxUTB3QTZ0LUItZ3FKSndhMlFudER6R0RYdDlIUGxuenpJNHExa1hKRHlaLWJGQ1pDMmU2d3oyeGNrZ0o2dTlLLVNGWEs0dkRSZTd5YXFRREtTVUJNeVdacFRaUk5pS1hib1VoUHJaODIwa3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787629671921",
+          "date": "2026-08-24",
+          "title": "These are the 12 members of the 2026 U.S. Solheim Cup team headlined by Nelly Korda - Golfweek",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ29XMDhoNWtCTGFXUU81cHIxZzh2SG1TQWVSUGg4eGNBV2t5N3RUMVlaT1lwUlQzUEdtM1Fndm55UmhaRGtoelY1ZkpqVEd5ZUxJNU5jSXNETkR2Nkx1NmJESUU3SnpoWk8wSzV2UHJ6RktZRUVYa1VTSVdENU9GYm9Yak9qWEY3QVdTZzFGRmg5dkVmTk1QakhFNVVTdTZHYXFCR21TRzBVd3pmRUFZVzdkeWs1R2cxS0thLVBNazJhemt5cjd2R2JVeVJfV29tU3VwLWUyRFY?oc=5",
           "draft": true
         }
       ]
