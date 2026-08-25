@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-25T03:47:50.492Z",
+  "lastUpdated": "2026-08-25T06:45:00.457Z",
   "articles": [
+    {
+      "id": "news-auto-erling-haaland-shocks-fans-with-military-2026-08-24",
+      "headline": "Erling Haaland shocks fans with military-style buzz cut after FIFA World Cup - India Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ1k5SDV4U1lwOFp3OHF1YVF4b3Z6RXFOTlFXeTVqRXFLcDNWd0xhZUhqN01XcV91SWR2SFFrbm5LczIzM1BTenJDT1g0N1ZwSi1RamxCenZsdVd2U2J2b2pPeUgzT2hhMzBVMng3Rk9lY19pN29fdGhkWXRtSVUwdHUyU2RHQWJQSGR1dTJvUTRETlZfV0VzZTBLTVROSndDblBJT0g4dEU",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ1k5SDV4U1lwOFp3OHF1YVF4b3Z6RXFOTlFXeTVqRXFLcDNWd0xhZUhqN01XcV91SWR2SFFrbm5LczIzM1BTenJDT1g0N1ZwSi1RamxCenZsdVd2U2J2b2pPeUgzT2hhMzBVMng3Rk9lY19pN29fdGhkWXRtSVUwdHUyU2RHQWJQSGR1dTJvUTRETlZfV0VzZTBLTVROSndDblBJT0g4dEU2TVF5X2hwRmN5Tl9peWpVZlNSTDB2TjhQYmpNT2xhZmYxVHlPb2dLVnZmbEtEZ2NmblhvbjhJdDVB0gHnAUFVX3lxTE5EMDE4S0hVQUxuRk95UjNMdzQwbUxBVUFObVpqSVZvd1kxMG5RdTNzMXRVSmY1V1BUSW45M0tLVVM0cmpnU0pnQWpSeFY2Uk1hMzBZa1lJTXAzanhWd1puVmtFdmoxaHlwUmNDa2U0NGtDVXNWOVB0OV9VUm9NaEJaM0lwbnlJeVBnS3RpVWZzS3VkYXJkbGlKTkd0blZ0MFFTd3NZLUFUMEQzODlRc09JRWwtZXdhb2VNbHd2TVdzVnZoUEI2SkhvSDY4SWtGNWlXQW83TmZ2TWFZNUhoZ1lTV3BOUWc5SQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-fifa-opens-disciplinary-p-2026-07-29",
+      "headline": "World Cup 2026: Fifa opens disciplinary proceedings against Argentina - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81V2FKNDA1elkzRXJwN1BvNzB0c0lzQXBlOHhJcUpCTGRqQWdRTWNOeG1fUi1kbkdmZmJCRjJfWmE5b0MzWmk5SXNUcl91dVdTQ0R2S1ZwMnEyWGcyUGJodjl6VjVRX28?oc=5\" target=\"_blank\"&gt;World Cup 2026: Fifa opens disciplinary proceedings against Ar",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-29",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81V2FKNDA1elkzRXJwN1BvNzB0c0lzQXBlOHhJcUpCTGRqQWdRTWNOeG1fUi1kbkdmZmJCRjJfWmE5b0MzWmk5SXNUcl91dVdTQ0R2S1ZwMnEyWGcyUGJodjl6VjVRX28?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-final-ends-in-glory-for-spain--2026-07-20",
       "headline": "World Cup final ends in glory for Spain and heartache for champion Messi - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y2Q2VWFtV2lkeFM1RkpoMWZCcHU0bFBHQmVhS3ZSM0xLWWdpWGdaNDd0MHFDc0w2UV9nUUMtVS11RXVVTUpsNGl0VmlSZjFwZVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-would-a-vote-of-no-confidence-work-t-2026-08-20",
-      "headline": "How would a vote of no confidence work to oust FIFA president Infantino? - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmR4cGxPdmdFb01JUVdnZUVRWjgyV0NURU9FYVFaNHVYMGFtcWg3eGRGWUF6alhGaWZNWXFBZEhKT2xsVXpuekhXd1lyRkd2VWY4MWs0UEh0NEdvUFg4d2RJQ3dmeFRvUHJZa2xidTFfRlNWLVctQ2xDU1FGQWFUbmNLVU4tQXBnVXA5NmtqWkVVWW1pUDZ1NTdQekNwLUhoSm10RVhub2V",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmR4cGxPdmdFb01JUVdnZUVRWjgyV0NURU9FYVFaNHVYMGFtcWg3eGRGWUF6alhGaWZNWXFBZEhKT2xsVXpuekhXd1lyRkd2VWY4MWs0UEh0NEdvUFg4d2RJQ3dmeFRvUHJZa2xidTFfRlNWLVctQ2xDU1FGQWFUbmNLVU4tQXBnVXA5NmtqWkVVWW1pUDZ1NTdQekNwLUhoSm10RVhub2VuaG43Z1JiUDQyaw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-claim-anti-argentina-campaign--2026-08-20",
-      "headline": "Argentina claim 'anti-Argentina campaign' failed to stop Lionel Messi and Co reaching 2026 World Cup Final - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE5ZQzY2d2xETTRjVHM2OE5aOU43QlRNOUpGWHVER04zNnEyN25lQWVNbENTQWJiZkNQREYxaDQyMmlFNjZzTFZVY1hoeVQ5WVdxM3ZJbWN1OS0zcV9jNE5zMmN2Rnpsb2w2UVJVUmhQNnpGbVBpV20zcUlwcXM1OVh3LVd5eGRmemtqa1JOTTJaMjRNWmlWOEkzY2R1bjM0c20wdldyYzJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE5ZQzY2d2xETTRjVHM2OE5aOU43QlRNOUpGWHVER04zNnEyN25lQWVNbENTQWJiZkNQREYxaDQyMmlFNjZzTFZVY1hoeVQ5WVdxM3ZJbWN1OS0zcV9jNE5zMmN2Rnpsb2w2UVJVUmhQNnpGbVBpV20zcUlwcXM1OVh3LVd5eGRmemtqa1JOTTJaMjRNWmlWOEkzY2R1bjM0c20wdldyYzJHMjg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usmnt-s-home-world-cup-record-interest-s-2026-08-19",
-      "headline": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5\" target=\"_blank\"&gt;USMNT's Home World Cup:",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5",
       "featured": false,
       "draft": true
     }
