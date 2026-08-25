@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-25T18:38:20.773Z",
+  "lastUpdated": "2026-08-25T21:27:14.424Z",
   "articles": [
+    {
+      "id": "news-auto-amid-drama-fifa-alliances-could-change-i-2026-08-25",
+      "headline": "Amid drama, FIFA alliances could change international soccer forever | Opinion - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFlOZ3dTNUs5STFWLXk5cmZETnRXT1NmQmZkdXhKX1lZVVh4bjFfMkRIUmlXMnlFWFhVaERRcGF6U1ZFMERKMGhPQUwyWXgyaFMyQ0Rhc254QThpUEQzOTRRcGFjRXVoTmRLd0E3d1NnMFMwdG9rNzdGbmh2cVRLLUpwSDIycnV0bXFvMDM1bkpCVFB4S3pBRkpZdG5aSHVlamMwdnZIUjJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFlOZ3dTNUs5STFWLXk5cmZETnRXT1NmQmZkdXhKX1lZVVh4bjFfMkRIUmlXMnlFWFhVaERRcGF6U1ZFMERKMGhPQUwyWXgyaFMyQ0Rhc254QThpUEQzOTRRcGFjRXVoTmRLd0E3d1NnMFMwdG9rNzdGbmh2cVRLLUpwSDIycnV0bXFvMDM1bkpCVFB4S3pBRkpZdG5aSHVlamMwdnZIUjJTLW05eE84N0Q1ZzhvNFhnUkVUNmtLd20?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-call-up-the-journey-through-the-fifa-2026-08-25",
       "headline": "The Call Up: The journey through the FIFA World Cup 2026 - Concacaf | Official Website",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-30",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fan-groups-back-online-petition-calling--2026-08-20",
-      "headline": "Fan groups back online petition calling for Infantino's resignation, FIFA reforms - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDA5aUxCYlhqYXRVaGdTOUhLaUJHR0Q1cS1fU1Q5RGUzX3pkVmlHQ0RiOU0tYUppQXVBYjhYSVBNOVhadXZqRUN1TDNGOVRYc2FOTnJpRl9vVHh3MmhFOGtaX2RXZ25KN0c1emNxcFl0ZlVxN3FZOEkySnA1RF9DMmhEWUZMQVdoY3V3eWs5OW54dEJ5Q1RKQWFLclU1akMzVVN5eTBxUlV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDA5aUxCYlhqYXRVaGdTOUhLaUJHR0Q1cS1fU1Q5RGUzX3pkVmlHQ0RiOU0tYUppQXVBYjhYSVBNOVhadXZqRUN1TDNGOVRYc2FOTnJpRl9vVHh3MmhFOGtaX2RXZ25KN0c1emNxcFl0ZlVxN3FZOEkySnA1RF9DMmhEWUZMQVdoY3V3eWs5OW54dEJ5Q1RKQWFLclU1akMzVVN5eTBxUlVTMFpmX3VXcUVsT1BTWFlhY1BzbHpRaUVsNEU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-when-is-the-women-s-world-cup-fifa-relea-2026-08-20",
-      "headline": "When is the Women's World Cup? FIFA releases 2027 schedule details - USA Today",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejFBQ2VT?oc=5",
       "featured": false,
       "draft": true
     }
