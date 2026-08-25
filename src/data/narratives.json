@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-25T15:40:53.679Z",
+  "lastUpdated": "2026-08-25T18:38:23.855Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5543,7 +5543,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 747,
+      "chapterCount": 749,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11520,6 +11520,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZUFFTTFOZlFpSEFQNkpMVkloZlZCSTh6aWlRSjU1TGdhd182SFExdEM5N3hEOFBPT01yQVMwZF9fZjBLREswYUlYOHZOR0c0VjM2Skx3bUxOZDNSZTl3cTBVTEE5SGF3cE9hMTN4S1I1YXV3aU1wQkhZYzJYdTJwSkljUnc0bkt5R2FieVZTQXc5VlFvNFlVZnZEOThMY2F2a3VscHQ2RzdZZ0Ju?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787683102400",
+          "date": "2026-08-25",
+          "title": "Mayor Mamdani, USTA dedicate 1,000 discounted US Open tickets to New York City residents - US Open Tennis",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDdVazhia002b0h4OFNfV01MaVVYMFhpUmZJemNBRFlXSkVqaFk2ckF6c0VITWc5dmZNMjgwUWdqNUVLYzJ6VTFVS3BWNmNCMk44RER0MlItNk0xRUJab0hSYXBjVjlNdU5lc1FkbFVpV1JxUXU5ZjR4djJnLXAyTGVWTzlNN2tpeEdTV1FVczV4UEJsZ1E2UGJRR0VBdDgtckZKS2JacnJGRnVqRFJUYmN2RUlsNjl3cW9yaEg3eW9FdW5aOUR6REdkYzU5MTZSV3pzZ01NUW1xcTM2WFHSAeMBQVVfeXFMT1J5R2RWNTB6TlE2bWh4ZDZ1Y19hcDl4Sm9zdnU0SnNudlpocUktbTF4a0RzTlJwRjk1XzhFYTJJZXM4alVCMURPNXlSRHBVa0wwdEVOUUo3WTFaY0FXODZKTThMeG5RRGw0WEtTeTREX2Q3NkNaSUk5TlBUXy1HOHd3d3FBTzFRcEcteHROS1psTzhIbzNqSzRUeG52d0pib1NoVTRYUGxia3owVVpTZGY0a2RidWlDTEdsaGFQaWduRFFIMk84SkhzalVjZHVSbzZuY2l1aUktQWRULUFjZGNNcDQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787683102400",
+          "date": "2026-08-25",
+          "title": "U.S. Open wild cards cause more debate as former champion Stan Wawrinka misses the cut - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU21zejV6R01xeHZubVhOMzF2M0owSVJoRlhJYjdsSmFoYzhFNlE0eU5TS3g1ZjJ2cXBXQnpKZ1F5cTh3ZkJHVng5elNGcGtZLVBzTmtUdmJyOFM1RDR3VEdwVTllRzEzZ3FnZWpIRXoybXExcWQ0VkNUREtZSHdkbVAwUUN5Rm9ScFNJSkZCdmFTbG8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11538,7 +11554,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 536,
+      "chapterCount": 537,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15826,6 +15842,14 @@
           "title": "Final Draw date confirmed for the FIFA Women's World Cup Brazil 2027™ - CommBank Matildas",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzM1LXZXLUpkR1BMeDA2cGZLbEhLd25FQ1l5aHVycVo5cEhuS01EbGl4eVpyVXZaR2pxYUJxd3NVTTZBdVEzdlV5cVozUWtoQVQ4eHMyV2M1SHdEYkI0MEl6ZXpISko5N1l0TlRxbUg2dnB2M0NQVGlkd3haREJaVUc1RmpCNTFOb3pqR0R1aC1VWjhw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787683103131",
+          "date": "2026-08-25",
+          "title": "2027 Women’s World Cup Final Draw to Be Held at Rio de Janeiro’s Modern Art Museum - teleSUR English",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHBkUjM4SlBjMkpkcGhkeGVGeThnUDZYZmtyYTZEUGtnUmtFYUNSNk1nWlpUNldoc0JNYWZuNFBQTktZNDVUdUhkV2dYeDVyTzlVOUxpOHR3OGo2TU5LZjA5VHpDM1lPRmJxZnJodTVScUpuTGdFN09vZHhjQkNiQWN3UlpHTWVubGtNWHhmOWlsRUd5UVVMaE5xZmt1MVFkel9LdWJVcWpWWG9telFQQmhR?oc=5",
           "draft": true
         }
       ]
