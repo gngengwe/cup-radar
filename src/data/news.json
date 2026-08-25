@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-25T06:45:00.457Z",
+  "lastUpdated": "2026-08-25T15:40:50.722Z",
   "articles": [
+    {
+      "id": "news-auto-gianni-infantino-uefa-president-aleksand-2026-08-24",
+      "headline": "Gianni Infantino: Uefa president Aleksander Ceferin rules himself out of Fifa presidency bid - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95aUpiMTlOanNfSVhzdXJiQk1wOUtjS0tUOGhKS294eGt4eWZzVmY1Nnd4YVI0aHljR2RFUVB5TmpRZ0hpcmRPYWNrbEV5OTRMcUtxYWJGVnA5ZWxaV1BwRklaUkE4b28?oc=5\" target=\"_blank\"&gt;Gianni Infantino: Uefa president Aleksander Ceferin rules hims",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-24",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95aUpiMTlOanNfSVhzdXJiQk1wOUtjS0tUOGhKS294eGt4eWZzVmY1Nnd4YVI0aHljR2RFUVB5TmpRZ0hpcmRPYWNrbEV5OTRMcUtxYWJGVnA5ZWxaV1BwRklaUkE4b28?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-erling-haaland-shocks-fans-with-military-2026-08-24",
       "headline": "Erling Haaland shocks fans with military-style buzz cut after FIFA World Cup - India Today",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-25",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-weverse-bts-media-episode-bts-fifa-w-wev-2026-08-20",
-      "headline": "Weverse BTS Media - [EPISODE] BTS FIFA W - Weverse",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y2Q2VWFtV2lkeFM1RkpoMWZCcHU0bFBHQmVhS3ZSM0xLWWdpWGdaNDd0MHFDc0w2UV9nUUMtVS11RXVVTUpsNGl0VmlSZjFwZVE?oc=5\" target=\"_blank\"&gt;Weverse BTS Media - [EPISODE] BTS FIFA W&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Y2Q2VWFtV2lkeFM1RkpoMWZCcHU0bFBHQmVhS3ZSM0xLWWdpWGdaNDd0MHFDc0w2UV9nUUMtVS11RXVVTUpsNGl0VmlSZjFwZVE?oc=5",
       "featured": false,
       "draft": true
     }
