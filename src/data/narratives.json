@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-26T12:50:48.804Z",
+  "lastUpdated": "2026-08-26T16:16:58.908Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -11594,7 +11594,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 541,
+      "chapterCount": 542,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15922,6 +15922,14 @@
           "title": "1 Year to Go until the FIFA Women's World Cup Brazil 2027™ Guide - CommBank Matildas",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRy0wWWdsQ2V3UkFHVTJtakVSWVktTnZaXzRpUVRtRDN0Qy1EVDlWeGhQZVUxQXFKLVNSQmRuLS14blJDNW1xbDJvVW96c2pSZm9sdzRRa1ZISHN5cGYzT2F5MGVNdXlMTnpkMmpLMDdhWGV1NjNsMHo4RlZtMHk1bjBKLVZncXNWQl9iZlJscw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787761018367",
+          "date": "2026-08-26",
+          "title": "Mexico sextet in NWSL take aim at Brazil 2027 - WebWire",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTldzUWdFQWM3a3pSVVFHWkFYUmlBU2s0cWRuOHlxeFRVYVNtdm5FV2xZUjQtdXdMSXlwblFMV0pRSGFZeVlPSFZnN0ZRcjEtS3ViZ0lEa3JOb2sxNGJDWDZxRl9FbDNS?oc=5",
           "draft": true
         }
       ]

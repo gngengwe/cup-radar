@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-26T12:50:46.230Z",
+  "lastUpdated": "2026-08-26T16:16:56.478Z",
   "articles": [
+    {
+      "id": "news-auto-total-rift-in-fifa-the-south-american-le-2026-08-26",
+      "headline": "Total rift in FIFA: The South American legends who shield Infantino and defy Europe - MARCA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFBxU2FlVWVmakthSDZROXJrcldfNlFDOVp4Qk1xU3JXWTV4SHZuTy10V01GN3RJa0dzaVZpSTRmd2pzQUU1Z2wzbW54YkhvWjNwVjhVUWxHZ0Y5aG1TUDNTM2VUN0MxYmF3dWZpTWZBQmo2TDRuWEpsOGhlcklGNWVaTVI3UDRrWGw5QmNxcXlmVEN2Uy1GZ0ptZ0tTYmdzdmdKWEc2T0E",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-26",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFBxU2FlVWVmakthSDZROXJrcldfNlFDOVp4Qk1xU3JXWTV4SHZuTy10V01GN3RJa0dzaVZpSTRmd2pzQUU1Z2wzbW54YkhvWjNwVjhVUWxHZ0Y5aG1TUDNTM2VUN0MxYmF3dWZpTWZBQmo2TDRuWEpsOGhlcklGNWVaTVI3UDRrWGw5QmNxcXlmVEN2Uy1GZ0ptZ0tTYmdzdmdKWEc2T0E0RVYyai1aWnRiM0pqU0NjcDNoOXlYUmdhb0VNeHk2M0tFQ1Vtd9IBzgFBVV95cUxQLXdpWEFjc1lUeUVIdktwNDl4aW5zUUJhZGc0SEZRV19JcDZlcmNhN2N1OHg5aDNrNUFtQ255c2pWeWZvWVhTb2ZCRFN3WEpjWDBuOHR4a2cwMHBzajBQWi00eVF3aWFBakc5RUFEMVFDaklYc0xIZ0JPOGFKR19DcnNrS0tfRzdWcEFvbnJzRk5yaV9ab1BiMDh5S3VlQ3NhdXhJdjJONFhJMG5RRUhZd0xSVmZpeG51RHNjRzhNZzQtM01aN2kwT1V4MUJaZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-new-york-metro-area-touts-3-5-billion-im-2026-08-26",
       "headline": "New York metro area touts $3.5 billion impact from World Cup, silent on full costs from transit overruns and hosting FIFA - Fortune",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-21",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGtVeElmX29rekUyQnM5UmUxcndiMzloWGR1cjJL?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
-      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTA?oc=5",
       "featured": false,
       "draft": true
     }
