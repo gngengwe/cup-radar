@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-26T16:16:58.908Z",
+  "lastUpdated": "2026-08-26T19:46:09.060Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 375,
+      "chapterCount": 376,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3018,6 +3018,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2htRW1ubGtLS0ZIX2dzT1l5QV9qRC1DY29YUUJkeFM3YmlNNmJGLVlSSVEwSDhFem9KMjNMSGNrM3hJUEFWWmRrTFp4eXU1QW8tRlAxSGlsa0lEcmo3VTF0d1JDb1N3V1dNeXg1LTUwd1FrZ3lrRGJqbWpVdlltMjJOdjdvd2dlTEN6LVBqX084MmdBV1hVWDBtVXd5MFNhVmtGeVV0VzgzWEYtdWdQem1EWEdaQXhJUUhTdVZUUXNrTlpSVWZv0gHLAUFVX3lxTE9aSllPQkxzc3g3bWJBX2hpVU9YRHo0LUVUN21seEVuQnExclR6UkRvQWRaTzYzbjd5ejZMZWNKUTVZMWE0dTVON2pmVkE4SEtYd2N2WmJHdGtLOTZrbkZPMVNiM0cwYmJ5cEtUYUhkeUF1NmZqZnBIMlNrb1NlcUJnclFkZkNxSWNEbDhLVWtpZEhTTmNLNURJX2piWVRtdFA2Mlozak5fSVYxeFRrVFV2cEVXSUMwc2poRmlFUXd6S2Jsb015QmpJVkJ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787773566537",
+          "date": "2026-08-26",
+          "title": "Jerusalem Jane: When a soccer league honors ‘martyrs,’ the world should stop turning a blind eye - The Jerusalem Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xZ2JkbEFPcWhwVm5xWGV4clZLZW5WTTNKXzlnSmlyT3hJVDNDZk5iRnJjSVpXUUx3VEFSRzVUWUNMY3ltTFE0c1AxWmdyVGJERGhKbXZVaw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5551,7 +5559,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 753,
+      "chapterCount": 754,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11575,6 +11583,14 @@
           "title": "After The World Cup, How U.S. Soccer Aims To Tackle Youth Development - Forbes",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVNoSXV3clJpM2NFejFzWkhISVJEZDlMMGhrNzg3UnJLSU1sb09IRXJoNnZjdTdMdElOTVp2azl5M1hQTEtMR05nS0E0Q3NZaDlKM0xpSlpneWF3YVFRMWNvWWJWVGszSzI5Mm1YV0JYYWx5VDlWQkFVX1ZzYklUcU54ZVRpUEdudHBrOHZ1WW1Nd1VQcWFDTlhGOFdqWWYwcXpUeWxlTjN1UlJHaUEyeFVnTmJ1dkVaYWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787773567580",
+          "date": "2026-08-26",
+          "title": "U.S. Open mixed doubles: Serena Williams and Carlos Alcaraz steal show in defeat as singles stars triumph - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnNBV2ZiVXFraDhkNDVYd3VQZWNZYkhSYVNzZWhOR1REUU53UjdLR05OWFZPWldld0tITG5QUFI2bFFaVzhZMUs1djJNOWd2dk5fcmR1aXFSZXY5Yng1QVhmbWJSMHZTbHJIa3JhcHlqOWlSdFV1YTl5bDVwZTZaYnhKY3BGUHpPYTNZQzlUYm5EQTF1VkxfWjR5c3dYc2tGRWdJNmtBcHI1WXhX?oc=5",
           "draft": true
         }
       ]
