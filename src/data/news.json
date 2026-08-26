@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-25T21:27:14.424Z",
+  "lastUpdated": "2026-08-26T01:16:16.774Z",
   "articles": [
+    {
+      "id": "news-auto-brazil-women-s-under-20s-land-in-poland--2026-08-25",
+      "headline": "Brazil women’s under-20s land in Poland for the World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPemJ3SXVBb2xXZDFuLW1ER0QzTzZIaGs3ZGxDU0NQdDRMV3d6TEw1U3UtUUY2WHFOdm56VkhPSDdELTk4UFhXc3RYdWMzdDdqOXVOZ2UxejU3TDRtZnpQMHBCQnZab0xRVjJkeURMYWdvOWhkbGoxc1o3S0pYZE1pTnZn?oc=5\" target=\"_blank\"&gt;Brazil women’s under-20s ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemJ3SXVBb2xXZDFuLW1ER0QzTzZIaGs3ZGxDU0NQdDRMV3d6TEw1U3UtUUY2WHFOdm56VkhPSDdELTk4UFhXc3RYdWMzdDdqOXVOZ2UxejU3TDRtZnpQMHBCQnZab0xRVjJkeURMYWdvOWhkbGoxc1o3S0pYZE1pTnZn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-kicks-off-in-seattle-today-wha-2026-06-15",
+      "headline": "World Cup Kicks Off In Seattle Today: What Residents Need To Know - The Seattle Medium",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off In Seattle Today: What Residents Need To Kn",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-amid-drama-fifa-alliances-could-change-i-2026-08-25",
       "headline": "Amid drama, FIFA alliances could change international soccer forever | Opinion - USA Today",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-11",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-safety-lessons-learned-from-the-world-cu-2026-08-20",
-      "headline": "Safety lessons learned from the World Cup in Kansas City - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEVlOUR6LTdadkt0bVFDaWRqM3lWandCQVBXdEt5MllHZjhvbDFEeVZHMFVWNDkxcm1RM0lEaU5IRS1LT0hLUGhsQ2NtTURXS2NINjd5OEpnTnVaWHNXd0d3R3Jsc2w3Ti1UakN1RWZpMjV2UHNrVXFlTWdsZmtUUkVZSkTSAZgBQVVfeXFMUFBCQnp2UUdFeVV3ZHJNUHNOSnhwQklvdDF",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEVlOUR6LTdadkt0bVFDaWRqM3lWandCQVBXdEt5MllHZjhvbDFEeVZHMFVWNDkxcm1RM0lEaU5IRS1LT0hLUGhsQ2NtTURXS2NINjd5OEpnTnVaWHNXd0d3R3Jsc2w3Ti1UakN1RWZpMjV2UHNrVXFlTWdsZmtUUkVZSkTSAZgBQVVfeXFMUFBCQnp2UUdFeVV3ZHJNUHNOSnhwQklvdDFUcm03WVR4MFRaV3FlS0VSTjZ5WXpydV9wT3kyY29HVDlPT3JzT1hucGY4d3BxT3UwdmNfV2UwNXFTZ3RkZEh4NFVqbHNOTlRldFZrWXFYYjBzWFRwMm84TklXdE1TQXJUVGF5Sjd0OHkzemFkckV0eGZQLXpUZFI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-from-messi-to-mahomes-arrowhead-s-quick--2026-07-30",
-      "headline": "From Messi to Mahomes: Arrowhead's quick turnaround is underway following World Cup - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5\" target=\"_blank\"&gt;From Messi to Maho",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1RHUno1bm0zZERXeGtOUjVZVUtGSElBRDBNXzZ0dUtHdWtDbUp1NVFXWlBETlhGbURlR1RIODVscE5hTEdHTUxIUUZib2Z3RWNIMTdDQWU4LUJFV1RSaEFFWlZVWXRQajB3VkZRYVR1SGJ5T3VWXzVLTUpYd2p4ZTlqZjgzeXM?oc=5",
       "featured": false,
       "draft": true
     }
