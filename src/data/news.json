@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-26T09:40:13.986Z",
+  "lastUpdated": "2026-08-26T12:50:46.230Z",
   "articles": [
+    {
+      "id": "news-auto-new-york-metro-area-touts-3-5-billion-im-2026-08-26",
+      "headline": "New York metro area touts $3.5 billion impact from World Cup, silent on full costs from transit overruns and hosting FIFA - Fortune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1RoaFlTZnZ2eWFFZE1NUDZFREtGVUVUTndTWW9HY3JoanBfaVowZlBOLU01V3ZLQ2JvZkpVQUFyQjh1SksyNGdEU1ZDdmt2dDJKTUVkODJVdWZhSDNKbW0yNDNzb2pzZHVheEJYMGVQMm9pSkJPOWtJM2pfT3RvSDVJM0lxeV9KZlpQc2xsTU5uSi1CTW84?oc=5\" target=\"_blank\"&",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-26",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1RoaFlTZnZ2eWFFZE1NUDZFREtGVUVUTndTWW9HY3JoanBfaVowZlBOLU01V3ZLQ2JvZkpVQUFyQjh1SksyNGdEU1ZDdmt2dDJKTUVkODJVdWZhSDNKbW0yNDNzb2pzZHVheEJYMGVQMm9pSkJPOWtJM2pfT3RvSDVJM0lxeV9KZlpQc2xsTU5uSi1CTW84?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
+      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-franchise-returns-with-perfect-look--2026-08-25",
       "headline": "The Franchise returns with perfect look at Chiefs before 2026 season - Arrowhead Addict",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-06",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-safety-lessons-learned-from-the-world-cu-2026-08-20",
-      "headline": "Safety lessons learned from the World Cup in Kansas City - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3ZYVDVER1V1TFRpQWItOGpTTW5yc2pwUWl0cFNNZ0lNUEhRX3VKSkRrVFdKNmdmNnNnNzJYUUlXbm5UQWpNQnp5THBkUTRQelpXT2d3TXEtVmhEeEVXYkNZQzRCNGd3X19LaWo2RUY3eUxjX1V6NkZKN0dlSlZVTHFKbGtMVHE5bGQxVA?oc=5\" target=\"_blank\"&gt;Safety less",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3ZYVDVER1V1TFRpQWItOGpTTW5yc2pwUWl0cFNNZ0lNUEhRX3VKSkRrVFdKNmdmNnNnNzJYUUlXbm5UQWpNQnp5THBkUTRQelpXT2d3TXEtVmhEeEVXYkNZQzRCNGd3X19LaWo2RUY3eUxjX1V6NkZKN0dlSlZVTHFKbGtMVHE5bGQxVA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-begins-disciplinary-proceedings-aga-2026-08-20",
-      "headline": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-20",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlhUaDdENThVQ0MzNWhDN2NheUxmR1hjTmJueU5jUm5HTHBWUQ?oc=5",
       "featured": false,
       "draft": true
     }
