@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-26T06:48:11.858Z",
+  "lastUpdated": "2026-08-26T09:40:13.986Z",
   "articles": [
+    {
+      "id": "news-auto-the-franchise-returns-with-perfect-look--2026-08-25",
+      "headline": "The Franchise returns with perfect look at Chiefs before 2026 season - Arrowhead Addict",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWY2YTJpWkEtcTlvbUJ6d1JsblQ4TXRCQnBDdVNmU0lmY3ZfbkdkemNFMm05Z3Z1U2VTUXNQX2hKRW9xTTFxa001ZVB2aDYweWNiZkFhWmktd1ppXzZfRlE1MFNfTmJCYi0ta0NBaEZ4NmZQWWV1ZG1nUFlHVnV6eUU1cmtPWFZRTGExbXpwS1dTWW9JdXk0N2ZmLWw?oc=5\" target=\"_",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-25",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWY2YTJpWkEtcTlvbUJ6d1JsblQ4TXRCQnBDdVNmU0lmY3ZfbkdkemNFMm05Z3Z1U2VTUXNQX2hKRW9xTTFxa001ZVB2aDYweWNiZkFhWmktd1ppXzZfRlE1MFNfTmJCYi0ta0NBaEZ4NmZQWWV1ZG1nUFlHVnV6eUU1cmtPWFZRTGExbXpwS1dTWW9JdXk0N2ZmLWw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-fifa-opens-investigation--2026-07-20",
       "headline": "World Cup 2026: Fifa opens investigation into Argentina post-final trouble - BBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlhUaDdENThVQ0MzNWhDN2NheUxmR1hjTmJueU5jUm5HTHBWUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
       "featured": false,
       "draft": true
     }
