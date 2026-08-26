@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-26T01:16:16.774Z",
+  "lastUpdated": "2026-08-26T03:52:32.825Z",
   "articles": [
+    {
+      "id": "news-auto-barcelona-s-world-cup-ceremony-hangs-by--2026-08-26",
+      "headline": "Barcelona’s World Cup ceremony “hangs by a thread” after political violence - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXhCckRBb1pCeW8yVjFhNDBjTjZDTlJBWHVVMVhPdWl3TDJyLWQtd3pOb09QMjZLX3ZmY3gyXzZtR3AtLVVodHY5TjBNdHEyaElUSlFDODRFaUFwczNLaVBSc0dHM2xSY3FnQzlDbkthc1ZkQ2ZBYVVzZy1lakZ4aGR3YkJ6NXlGbE9R?oc=5\" target=\"_blank\"&gt;Barcelona’s W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-26",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXhCckRBb1pCeW8yVjFhNDBjTjZDTlJBWHVVMVhPdWl3TDJyLWQtd3pOb09QMjZLX3ZmY3gyXzZtR3AtLVVodHY5TjBNdHEyaElUSlFDODRFaUFwczNLaVBSc0dHM2xSY3FnQzlDbkthc1ZkQ2ZBYVVzZy1lakZ4aGR3YkJ6NXlGbE9R?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-brazil-women-s-under-20s-land-in-poland--2026-08-25",
       "headline": "Brazil women’s under-20s land in Poland for the World Cup - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LX0RtT2Q4dWJXTnpUS3F1WFlmeG5lWjNCQ3RyNlFuN2ZQX2ljV0F6REJJRWZranlGTm9td19waUVITDREM2JoQ1ZTT3Fxb1lhcE1BYXlJa1otcXBOMDFYRFJYQ3FWUdIBZkFVX3lxTE9pLUVKUkh3ZEpFTWhTbVg2X2Q0MktjM25MV3RkZ1pTRFVzbXhWLXZPRGthT3BXWUdtVk9fa3htYUJITU5DNEZjcU5KZThvT1puSFdlaEY2V211N0NBS0VHd01PZG1Ndw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
-      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
       "featured": false,
       "draft": true
     }
