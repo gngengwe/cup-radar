@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-26T19:46:06.077Z",
+  "lastUpdated": "2026-08-27T00:29:01.101Z",
   "articles": [
+    {
+      "id": "news-auto--3-5b-generated-from-fifa-world-cup-for--2026-08-26",
+      "headline": "$3.5B Generated from FIFA World Cup for NYNJ, Mamdani Comments as Full Economic Impact Released - Bleacher Report",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE5jVHZxMUN2SnY0QlpnTXVCVVNJbW40X0U0R2ZmWERRazgzV2x4MWRsMzJkOUtUWE9ZcVA0Q1h0ZEo4WGhiRmhfT2dDWUZjNXFOTnp2TmFid1RWbEdhVnZSdVNnOW1DbUlfOFlGUUw4aXBuZzl0clRzOVZuVElUSzE0T3JWa0hKVTR6NEdXS09rMnUwR1lOdnBlYlhKM1JRXy1ad0loRXR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-26",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE5jVHZxMUN2SnY0QlpnTXVCVVNJbW40X0U0R2ZmWERRazgzV2x4MWRsMzJkOUtUWE9ZcVA0Q1h0ZEo4WGhiRmhfT2dDWUZjNXFOTnp2TmFid1RWbEdhVnZSdVNnOW1DbUlfOFlGUUw4aXBuZzl0clRzOVZuVElUSzE0T3JWa0hKVTR6NEdXS09rMnUwR1lOdnBlYlhKM1JRXy1ad0loRXRfRUVaTElpRmVrbzRtaWtCY3o4MG1GSkMyNkU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nyc-area-saw-3-5-billion-in-economic-imp-2026-08-26",
+      "headline": "NYC Area Saw $3.5 Billion in Economic Impact From FIFA World Cup - Bloomberg",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHptMGI4blpkUFQwa3BRYmNoV1p0WHVBOG9PcE5tcGZqQkhxeko1OGxicUdkSlQxWXZTVUo2MERnZkNwR0Y4LUx4bW9ObmhfUW92LWZUZFZRbE1PQVpobDNOcEo3SGVBeldQVDJSUHVmMEk3Z0JOQW9oT3RoZ1hIUmZQa1h5RzFXVmhFLWRVNTZzbWxtVEdpOTh1Q3VEaVhwSy1hTkhjMXd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-26",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHptMGI4blpkUFQwa3BRYmNoV1p0WHVBOG9PcE5tcGZqQkhxeko1OGxicUdkSlQxWXZTVUo2MERnZkNwR0Y4LUx4bW9ObmhfUW92LWZUZFZRbE1PQVpobDNOcEo3SGVBeldQVDJSUHVmMEk3Z0JOQW9oT3RoZ1hIUmZQa1h5RzFXVmhFLWRVNTZzbWxtVEdpOTh1Q3VEaVhwSy1hTkhjMXdvZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-gianni-infantino-uefa-set-to-drop-fifa-t-2026-08-26",
       "headline": "Gianni Infantino: Uefa set to drop Fifa tournament boycott threat - BBC",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-21",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMG8xVlg1VGZva2JqU0N2bTdmVXFLNmhoTk9McTgwbGlXekJCUzl2R2pmb25tbnI5T0dHVHI1aU84MDRtdzY3dHpBRUVBME5haHJuX2wxTFMyQkh6Y1ZCdUItMXNrYWN3Y05LajZJT2lJOWR1RzFCWlZsZ1dJa2lYR9IBhgFBVV95cUxOcWRWeXFZU1hfREtObWRZT05lRUF2aWw4amJQNlZwRkZldUNJcjZCWXlrbnp4dlRZZDNJVlFvOEwyQWU0c1RfVEpLSklGLVdhZm5KNG5HSXBGTTVBdWZ3MGpLVmQteW1RSWtjSXNTblRKbjlkSE9GOUJJMk9xRTRHX0dfdWdtdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
-      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
-      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
       "featured": false,
       "draft": true
     }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-26T19:46:09.060Z",
+  "lastUpdated": "2026-08-27T00:29:03.987Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 376,
+      "chapterCount": 377,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3026,6 +3026,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xZ2JkbEFPcWhwVm5xWGV4clZLZW5WTTNKXzlnSmlyT3hJVDNDZk5iRnJjSVpXUUx3VEFSRzVUWUNMY3ltTFE0c1AxWmdyVGJERGhKbXZVaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787790541637",
+          "date": "2026-08-26",
+          "title": "Chelsea Reportedly Mulling Move For Argentina Star Emi Martinez - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmFud1Z1Y3BRaHk2ZnU5QnEydnVQZkgyTlFpRDVzZkZkSlhhZXRnUDdYaEFZOGJQRWdybTNqNms1UmhSUFc0VVB1RGxObVVRTnpFM1EzOUdjSHBfNnNkdVZGM1ZYaDFBc2NPNkd3eWZBRm1ZNGgyRS1UNTZzQ1BIcG5vaktuR2FwbWNFMUUzcTZ6S1VBRFhsU1JfOTBqVXljUmfSAaIBQVVfeXFMT1hNa0wzZ09qN3A4aXJXOUVvdVZBbGRrMlRCRlN4cEozX3J4dlA3eDhHOEFfc04yWjd0ckowRmdYQ05ld1k2b0lTdXB0SW53UnNYUVlvOU5ZUzlkLXFLODRzMUZVTmY4azgwbjJuMXpRZDU4OXM4NEstaVk5U1F6dUV2aVAwYk8tSnhzaTN3eU5wWGNmT285NVB5TDhHLTFpRlh3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3044,7 +3052,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 312,
+      "chapterCount": 313,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5541,6 +5549,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nYnd2QUNDc1UyeXcwanFFbDZCdElRWTE0anpXTDlYdmZlaVdORnFNSjNVQ2wwNjU2Mk5lSmUtRFdSVGs1bERkemwtbHcyeFpLcGNYb0VndEh2c2JnQ0dV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1787790542120",
+          "date": "2026-08-27",
+          "title": "Kylian Mbappe Hat-Trick as Real Madrid Thrash Sociedad 4-1 - Tempo.co English",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVnN3N0tXaDdvZVdEaEE4OWtOQW8yOXNFMGY1b1RHMzh5UGhXNm1TX0NCT0tSLWh6UEZMVWdtcUN3SDRlUC1mVTZuNk9SblhZb1lKNHZqSWFERlJMbzM3NGdKUWtNbFNYTldKRmhlVjVFQmtkS1hSRFBtYlJrdDg3ZEtFU0RvcEJWWjE0d2FLalYtSnljMnc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5559,7 +5575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 754,
+      "chapterCount": 756,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11592,6 +11608,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnNBV2ZiVXFraDhkNDVYd3VQZWNZYkhSYVNzZWhOR1REUU53UjdLR05OWFZPWldld0tITG5QUFI2bFFaVzhZMUs1djJNOWd2dk5fcmR1aXFSZXY5Yng1QVhmbWJSMHZTbHJIa3JhcHlqOWlSdFV1YTl5bDVwZTZaYnhKY3BGUHpPYTNZQzlUYm5EQTF1VkxfWjR5c3dYc2tGRWdJNmtBcHI1WXhX?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787790542800",
+          "date": "2026-08-26",
+          "title": "USMNT vs. Peru: Opponent Profile, Recent Form & History - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWVIQ2FwMEVUdk9aUUV0UE9KX1pQdDZHckNDQ2ZRLW83WnJHdUh4eVBVT1EtWFFTRDllb0FHVzBWaTM0VEYyVlduemdjeUEwVzZJQUZwOHVWOU5qcHRIRmc2TndDcHJvUWQ0T2IyWlM0WUxQd3VhdUNxVnBxYzc4dVVveHJhY25CMklaYjdMR1BSTm5oZzFTblBYMVJlbVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787790542800",
+          "date": "2026-08-26",
+          "title": "Landon Donovan Calls Out Vancouver Whitecaps for Letting Sebastian Berhalter Go - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVdZSU1QSEhlUlBGSHhjUW9nUXgwVVpNd2xKRVNPQUpxZGdXTE9RREtnV3dwLWdUM0xCVy1UVlFwOVJDRDFNYWVQWVNGZWdiTWpNRWh1TTJPbGRsZ3FTV3NpallWTXFiaUdPNDc0RldSMldzWWFuVGM0Yk04a1lkNFpFaU1waGJBdmFIZmtFTzd0TGs?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11610,7 +11642,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 542,
+      "chapterCount": 544,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -15947,6 +15979,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTldzUWdFQWM3a3pSVVFHWkFYUmlBU2s0cWRuOHlxeFRVYVNtdm5FV2xZUjQtdXdMSXlwblFMV0pRSGFZeVlPSFZnN0ZRcjEtS3ViZ0lEa3JOb2sxNGJDWDZxRl9FbDNS?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787790543501",
+          "date": "2026-08-26",
+          "title": "NJ Transit moved a record number of fans during World Cup and still lost money. A look at the numbers. - NJ.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHFtNmFWbXpzVmptOUxBYVd2VndRdk9vSG14WkNyZTduVmlZUDZ4RVhzbUFMNTZ6a00wbEdXNDUzdWk0TG5oMFpvUjduR2pDWmpGQ1FDem1weXhqTWpPTlBDbGVmMF91S3VGQ1lvem40LXZpSjdDcG1nNDVfbFV1eVFyUTZTb3RibUtmZkRaTGYtWXdrRWVTTGsyWHgxY2xwR0htdWJQMl9ZYWUzM0RQV3RxNjZ0TFpaVWJyRGRPOGN3bnhnWHJXNDZGNDJ0SGZwNlM00gHnAUFVX3lxTE9DQlRvanVpdk1uS3pwNExjN2hlTFhYelBub1dpbnFteVNUQUQtZ3M4Z1hScW9iVGp5QlNyYjVlLU1aUC1UbnRMcTRCUldpZm9TY3JSNG5IYUpGTUpzN0dWa1FRV1h4VExfZ29uQ2JOd1ZLT0RSM2pGSUtmN19XUWQ0eFdicmFuUDkxeU03UlVGbGxfamZCS3JjTXZldEN3bVdCbGt0Z21VcW9EaG9iNW9sUUtRSzU5Z3BFb0NuSkFfQWR2by10YUFYc2QwS2d1eUd0SEZuQTlkTmVsUmt4d2RVYnQtX25QYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787790543501",
+          "date": "2026-08-26",
+          "title": "Mexico sextet in NWSL take aim at Brazil 2027 - WebWire",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0ekxwMXROeTRCTm5PMUVGQ0tlYjFabEdOTmowTXFrUElvRUpzcXdxWUUxU0x3WWNVLU9Xbkt1YzJXZC14MDI3bkxGWlZUNXdyMkljRHZXY3Rmd0htS0Vuag?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16176,7 +16224,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 802,
+      "chapterCount": 803,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -22592,6 +22640,14 @@
           "title": "FIH Hockey World Cup 2026 - Netherlands vs England - Tapmad",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHdMa1NIVW9WaE5vTXRpa2VfNmlpSHZhazhzcmd0QU5HdmtZLWpLVndIUXBUVE1QYlJaeFhzV3FoZXkzd2pyN2VkMWphUHVHTFVCd3JWM0xjWjNYb05reGNva0ZraXhXLWYtaC1hTkY1VDFzZVdtZjk4WGF0cXBSVnZXdWZkYVBBNExkclFEOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787790543987",
+          "date": "2026-08-26",
+          "title": "Jerusalem Jane: When a soccer league honors ‘martyrs,’ the world should stop turning a blind eye - The Jerusalem Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xZ2JkbEFPcWhwVm5xWGV4clZLZW5WTTNKXzlnSmlyT3hJVDNDZk5iRnJjSVpXUUx3VEFSRzVUWUNMY3ltTFE0c1AxWmdyVGJERGhKbXZVaw?oc=5",
           "draft": true
         }
       ]
