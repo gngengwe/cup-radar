@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-28T14:55:58.669Z",
+  "lastUpdated": "2026-08-28T23:53:12.585Z",
   "articles": [
+    {
+      "id": "news-auto-statcan-figures-show-minor-economic-bump-2026-08-28",
+      "headline": "StatCan figures show minor economic bump from FIFA World Cup soccer matches - Castanet",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmtLX1A2d3VhcVBlNTNobFk2Z0t2aVJSY2Ixc3NpVy1GOTdIR3ZqazJONEs5OFFnSk8xNHRvbnFoSXVGWVBXWm9ZT2NoeEFRZlVFdVlaR0tITkJRWVV2ZFBBcFJaRTZWa1JMUXcxc1FmRWtjMTZWWG9nTjBvV3RZbmNtWGExT3pvSkRDNjNFMkpnZ21wM3JFOGpvT0IydUs4ekRoaEZhMTF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-28",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmtLX1A2d3VhcVBlNTNobFk2Z0t2aVJSY2Ixc3NpVy1GOTdIR3ZqazJONEs5OFFnSk8xNHRvbnFoSXVGWVBXWm9ZT2NoeEFRZlVFdVlaR0tITkJRWVV2ZFBBcFJaRTZWa1JMUXcxc1FmRWtjMTZWWG9nTjBvV3RZbmNtWGExT3pvSkRDNjNFMkpnZ21wM3JFOGpvT0IydUs4ekRoaEZhMTFacUtVVUpxWmZEbnExWmVtQ2V5dXRn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
+      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-statcan-figures-show-minor-economic-bump-2026-08-28",
       "headline": "StatCan figures show minor economic bump from FIFA World Cup soccer matches - Toronto Star",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-spain-brawl-at-world-cup-final-2026-08-21",
-      "headline": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0hlWVhEN1BMMVFDX09zbF90UXN0S2ZSdWJnT0JzUWJIcGRZRW4xNmVtWFpIVG5PQXVOUlNCcWVYdzRFdEhUaTlmWE83djBzSThIM0g4U29ESlRNckFGVjNROG1JWVFzR3pTVFl1RVBSVWlMT3IxY2ZtVjAtY0RNZ2JFZzJ6cFU?oc=5\" target=\"_blank\"&gt;Argentina-Spain br",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0hlWVhEN1BMMVFDX09zbF90UXN0S2ZSdWJnT0JzUWJIcGRZRW4xNmVtWFpIVG5PQXVOUlNCcWVYdzRFdEhUaTlmWE83djBzSThIM0g4U29ESlRNckFGVjNROG1JWVFzR3pTVFl1RVBSVWlMT3IxY2ZtVjAtY0RNZ2JFZzJ6cFU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-hands-out-multiple-suspensions-to-a-2026-08-21",
-      "headline": "FIFA hands out multiple suspensions to Argentina for World Cup Final post-game fracas - NBC Sports",
-      "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeklxNHZucXA2Znk2Z0lYc3ZNTlJtRkVVaEx6LURnS1NqUFQ3bkZUX3VPdWxIaDZ3X2pRb1dpRU5CNXVtc3FBeTVyUzVhZzBlNjVycFhxZFdFZkFvTmlSYXhUNVFuZmNZU0hZNnBsYjh2QTRnZUZUN3cteG9qTTg0YjA2MXFld0tHZmlhTFlXY2lvMXhHdTlXaDB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeklxNHZucXA2Znk2Z0lYc3ZNTlJtRkVVaEx6LURnS1NqUFQ3bkZUX3VPdWxIaDZ3X2pRb1dpRU5CNXVtc3FBeTVyUzVhZzBlNjVycFhxZFdFZkFvTmlSYXhUNVFuZmNZU0hZNnBsYjh2QTRnZUZUN3cteG9qTTg0YjA2MXFld0tHZmlhTFlXY2lvMXhHdTlXaDByYkxqc3JmMTJNUkYwQ3A1dVN2Z1Y4UUJFZVAtcFVSY3RtVHIxLXU0OWktLVpxbUtYbW9zekt3V294OWhiUEx4UlBJX1hFZw?oc=5",
       "featured": false,
       "draft": true
     }

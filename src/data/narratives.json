@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-28T14:56:01.686Z",
+  "lastUpdated": "2026-08-28T23:53:15.143Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 379,
+      "chapterCount": 380,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3050,6 +3050,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaEFPWXFTY0tFSUZJWlFQZTdxWFVlTHBneWxBeW1uTzlZMmo3MEZKc3QwU0szM0M2NkhKWVRBYWJrbEhXdEZTd3BaQU5hWFNjZUFmQkgyd1RORTE5dGNrTGN4MlptdEdvUDVkN3RYQXphY3ItWGdOSEVoZ3NlYnRxaFNTX3FDSFh2aVZiaFF3VmlKY1ZZeDdpWUdLNWV5NEFhQnlKMHd6QXd4di1mZzdBc0dldk9VekNrS1hFazdtRDVCdndITzF1Y0FDU1VQQjV0aTNRVkhCdjZsS3hPRWxjMjRqV3duZ9IB6gFBVV95cUxORmkzZ25TT0FjbjJxNS16ZzNVN2ExeWh3MFRRSFc5d0VrNmNSX1FkN0hFUnl0eGFmN0E3Y1I2OWZVNXhHYnpfb1dNLURMbS1vQXRmTzVsWFJtNmtHNVk1Wl9OUE1ieHJxT0N1dXEzZ1pfelRjWVNkbjdwUjFNWXpUZWg0Q2JweUxVLXlpcXZVSDIzNDl4elVRQkhfek5GQ1FoWmdkdDNNWUxuN25Dc0t1R0RPYXJnRTZzMjV3a0JOcEZHZGozaWx3U3E1eGxOenhaeEtMeDQ3QnVZXzl0VDBsTmxwWHZYc1dIeWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1787961193168",
+          "date": "2026-08-28",
+          "title": "Lionel Messi, loss and the cruellest month of his career - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmo0cVVRTjBab0lRYnNiZjJRdEJTSXY0UUQtY1ZGVHJIdEQtdUJKeFVKT1RlSlM2SGt1c3RyVnNuX1Q1OXlPWGZsdWM3U3dIbzlhNHpBbVc0b2UzZmVUQjN2MGRmY1dNT3hycGQ3cnRXVVFlXzdhZE0wVUxmdVZnZ2FHT3djUm1fWGYtMXF6MFRNSW1VOHB2dDVFeDJsN1JEanNCYWgyYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3068,7 +3076,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 314,
+      "chapterCount": 315,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5580,6 +5588,14 @@
           "title": "Mourinho fires World Cup jibe at Spain over 'eternal' Mbappe - TribalFootball",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHdSYlBVNjNQV3dTcFFmUFhxTWhzN0VvS0tFNDlIWjZaU25WUW5lV1FIYV85dFplQ1I5aGI1Zk5scHNQd0NOSV9qTzdUNUtXdlhjZDM1Q0thVnBzTWNqZVphRm1NMGFtUHVkZXhteHgzUzVwU2NwSFV3bThKUDNDVkMzcjVRR3l1QmNTVDZ3Rzk0SWtjdldLVnhBSk5fVWtzaDhCRW83Tk85RDFxV0FqMWpoYXpNZGFrTXJxbW9aRnQzd2prYWNBdlJseUZZTXNiVVVCYnZVZmpDa3k5aTNkTFZn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1787961193662",
+          "date": "2026-08-28",
+          "title": "Kylian Mbappé Steps Up His Ballon d’Or Push - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeEo5R0FCV29MM3NKdUVoLWxQcHY2STZvd0xVWEk4TExkcGtsQ1QzNU53cWphQnY2bHNxZ1phUzhPWUotemdIQlZEYlBJOUE4a3lreUV6LXV5Sy1YQXBaeWtiMmZNQzJLeldfN01hdzduRWo5a0JkMGVKVG9tSEJrNUJDRmhYSmdXYW4zeS15dkd5YzhCWWhsTW1wLTRpQXZiTmE2TUlWalpmS0NRbVlXZUlNUHpsRmc?oc=5",
           "draft": true
         }
       ]
@@ -16320,7 +16336,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 804,
+      "chapterCount": 805,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -22752,6 +22768,14 @@
           "title": "Men’s Hockey World Cup 2026: Why was England vs Australia match suspended? - Sportstar",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ1NCRHROUDVjb2NKSEVfMm1mNmJzMkxTa2NqcTJXM2RScTB1ZDQ0azZkZl84Nkh6TWxhTnlFZWxPdFhyWlExNVdqQUxuUm04Rmo1RFQyNU0yU1pIeW83N2J3OWt5RlhuX2gycFNtdE5GMUpDOXFOcTM1eXJ5QmY2TXBYWEhJQTZCelBsTm5hdzUzckZ3eDhRLTd5XzJEMDBNbTNEaFJVREM0WjJ2M0Z6SF90Y05XSGhkcklFZGk4bFdTRzBGZ2l2WmFfX184ektkWFBzbm9kQ1N0ZEnSAeIBQVVfeXFMTUtGVXFiRWp2Yy1mNXJOMjNBdHROSzBEWHVWZXhRU2lLZDBsT3FlMVkyYi1jYUVwNTJJMWJJQW1mSEdtVkRNT2RCTFM5ZmpmS1FPcHlEeE9xSTU5ZVRKMUpkT1hlSm41TU4wZnBqZVVLcmFsNmdCeVdpUlJ5eVZHVURaa0l2UW1uRE1rdXRKZ0M2Z1JLeng0NENDVldfQkkwTnFLWkVoX3RFZVZUSzFkV1RlYThDLThTWHR3TnRCMUhHYk1SSTNhR2JvNGhhbkRucjd1S01HMlZhX0lvWGxDWTBkZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1787961195143",
+          "date": "2026-08-28",
+          "title": "England Rugby League unveils World Cup Kit for 2026 - The Home of Rugby League",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFlvUWZXTXJ3NTJSNzdoTnB6S2ZlUVdkSjAyQ2l1SXN1ZHdsNW9mcEdZVzQ4WUwwandoU29fZG1fUXV6eWdld3dTZFlscnd6eGpubzdoaTQ3SWNOOWEyLVNMMVZRNlpVZEhjNkw4V3ZoYktXS1FwU0VnNjlfU1ctM2cwLVYwVVRCRWNhQ2lUVlBvYm5zMW9GN3JB?oc=5",
           "draft": true
         }
       ]
