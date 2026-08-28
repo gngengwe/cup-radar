@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-28T00:15:07.805Z",
+  "lastUpdated": "2026-08-28T14:55:58.669Z",
   "articles": [
+    {
+      "id": "news-auto-statcan-figures-show-minor-economic-bump-2026-08-28",
+      "headline": "StatCan figures show minor economic bump from FIFA World Cup soccer matches - Toronto Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYkF2RUMzSWRQbHdIVFd3NUxXV1liQmxMRmpCeVBkUlNESFlmaW9LVy13aWxsRkpfOHU5c29Wc3hmMzNTS19FSUM0SVBUeGpiU19ZUWl1Nko5RDVsLTluc0djTUpqLVNxRWQ5OGtKRDRYVUE5aXprNkZUYXpJcW0tTzg3a212UFpWNHlmT3hwOFhvQkwwZDFQM3NTUV85S3V0UFRwMVVwU3Z",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-28",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYkF2RUMzSWRQbHdIVFd3NUxXV1liQmxMRmpCeVBkUlNESFlmaW9LVy13aWxsRkpfOHU5c29Wc3hmMzNTS19FSUM0SVBUeGpiU19ZUWl1Nko5RDVsLTluc0djTUpqLVNxRWQ5OGtKRDRYVUE5aXprNkZUYXpJcW0tTzg3a212UFpWNHlmT3hwOFhvQkwwZDFQM3NTUV85S3V0UFRwMVVwU3ZRbGdmeG1DMkg3S0x1Z2pUTWNMNDV5NU1CbHJScWZ4MlVvWEI0dGdzNk5OdzJPb0tFOVhqT1JRdzJzQmNvbnZIV1BTY0RGcjJQZkU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-all-the-european-sides-re-2026-07-20",
+      "headline": "2026 World Cup: All the European sides' results | European Qualifiers - UEFA.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1pYc0V0Qi1EMXFqZ3hpZ0twWW84ZFptVlByV2FPMkU0ZzlOYTR0cDZqQTlUWDNlOFhFMVZwQmhrYnNFbjhNSFY3a0NnNmd2TU0zVzk5SEgwOFFKM1pfY00tOWlCNEtNM0VtalNuaTlWU1dPOWUwQm90MllQdUUwUHZJeXl3NFhseEotWlVpUjZqNW5MOHU1amhkS1dnLVd5V2NDeGhJVTR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1pYc0V0Qi1EMXFqZ3hpZ0twWW84ZFptVlByV2FPMkU0ZzlOYTR0cDZqQTlUWDNlOFhFMVZwQmhrYnNFbjhNSFY3a0NnNmd2TU0zVzk5SEgwOFFKM1pfY00tOWlCNEtNM0VtalNuaTlWU1dPOWUwQm90MllQdUUwUHZJeXl3NFhseEotWlVpUjZqNW5MOHU1amhkS1dnLVd5V2NDeGhJVTR5R0FEWFpGMTRycEx2THQ1NGtEMGVCdzZfUGE4Z09HSA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-leaders-reflect-on-world-cup-2026-08-27",
+      "headline": "Kansas City leaders reflect on World Cup success, opens door to more major events - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHdjRmxaWjlvZTczV1hfb01RbW83blF0aXJiRjlhVmNfU0tVOHZxY0NmOWhtVkJaMDg1QU9nUXRPbjBfdlo2ZF94SUNpQS0tcURKeTN1R2hkdnBYM1FzNVJJREQta1lGODRrcnBHdzNyVHBMX2dfQmM2d09hLWdJQnQ2SVlNZlN0VXc?oc=5\" target=\"_blank\"&gt;Kansas City le",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-27",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHdjRmxaWjlvZTczV1hfb01RbW83blF0aXJiRjlhVmNfU0tVOHZxY0NmOWhtVkJaMDg1QU9nUXRPbjBfdlo2ZF94SUNpQS0tcURKeTN1R2hkdnBYM1FzNVJJREQta1lGODRrcnBHdzNyVHBMX2dfQmM2d09hLWdJQnQ2SVlNZlN0VXc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-criminal-proceedings-gearing-up-against--2026-08-27",
       "headline": "Criminal proceedings gearing up against FIFA President for plans involving ‘corrupt Trump family’ - Yahoo Sports",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-21",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeklxNHZucXA2Znk2Z0lYc3ZNTlJtRkVVaEx6LURnS1NqUFQ3bkZUX3VPdWxIaDZ3X2pRb1dpRU5CNXVtc3FBeTVyUzVhZzBlNjVycFhxZFdFZkFvTmlSYXhUNVFuZmNZU0hZNnBsYjh2QTRnZUZUN3cteG9qTTg0YjA2MXFld0tHZmlhTFlXY2lvMXhHdTlXaDByYkxqc3JmMTJNUkYwQ3A1dVN2Z1Y4UUJFZVAtcFVSY3RtVHIxLXU0OWktLVpxbUtYbW9zekt3V294OWhiUEx4UlBJX1hFZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
-      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - facebook.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-born-for-the-pitch-world-cup-baby-born-s-2026-08-21",
-      "headline": "Born for the Pitch: World Cup baby born six weeks early reunites with Overland Park care team - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVkxbm54THdVMlEyNHZzdjVTR3JweGZ1T2VPUUxndVhzakRGMEtPMGRUbDJZWk1IRXdMSXR2R0VYMmtsdmJBM2xmMnJWLUo5T3ZJWmNkTlZPSVZ0MmViNlpQS0xxcE1JU2NaczlRblo0TF9QOFNOOE5Ea1ZSR1NoeDFjaGRucV9SQzd3RmEwczNuZXZTS2IyYlNzVzFER05XQzlIZGRIZ3V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVkxbm54THdVMlEyNHZzdjVTR3JweGZ1T2VPUUxndVhzakRGMEtPMGRUbDJZWk1IRXdMSXR2R0VYMmtsdmJBM2xmMnJWLUo5T3ZJWmNkTlZPSVZ0MmViNlpQS0xxcE1JU2NaczlRblo0TF9QOFNOOE5Ea1ZSR1NoeDFjaGRucV9SQzd3RmEwczNuZXZTS2IyYlNzVzFER05XQzlIZGRIZ3V2ai1ISFkxS1JkV1U3RmNRakHSAc4BQVVfeXFMT25Iei1xUzFIZlJheHFxVGRIYXdYN3ZVSWhvRnMwcms5cEV2Y25iNFZVdW94QlJSeDFxZzYtYXZKdUwyLUQ2Njh2dFRpSFRpTjBsLV8yYURCTjA1RUpnT1JLNVdpV041UVpmMVZWbHp2cnJxdDl6VURGSXg2Um9Tclh2a2JjaXVHeExBeHhOSmloQTRjS2pHVVpzX2p1bDAtYmx1YU5uTFd5MElTbFRGRGxUZGJuR01OZHV1cGZzTGdVRklReEp2cXJkRnFSaVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-eyes-2031-fifa-women-s-world-2026-08-21",
-      "headline": "Kansas City eyes 2031 FIFA Women's World Cup bid - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDRMTmJqOXZ0SUZZdnFxTFZRN3lwdUJSbGhwdWcxaFhrTHR0TmN6WXBxTVdNSDUxWk1qSkpUeU9Fd05CcDlmQmhSWmFISGxhVmhyeUVPSndNMzZSMjBNU3lRYXB2WkMyazlST290aXlxamtuNEFSTzRSSTJIXzVFM2NESm5oUkNCUnpQVVZkcmxZYVFFR2hjeEhsWThDZ091SFQyV2lRZFQ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDRMTmJqOXZ0SUZZdnFxTFZRN3lwdUJSbGhwdWcxaFhrTHR0TmN6WXBxTVdNSDUxWk1qSkpUeU9Fd05CcDlmQmhSWmFISGxhVmhyeUVPSndNMzZSMjBNU3lRYXB2WkMyazlST290aXlxamtuNEFSTzRSSTJIXzVFM2NESm5oUkNCUnpQVVZkcmxZYVFFR2hjeEhsWThDZ091SFQyV2lRZFQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
-      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
       "featured": false,
       "draft": true
     }
