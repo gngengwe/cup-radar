@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-28T23:53:15.143Z",
+  "lastUpdated": "2026-08-29T05:52:07.607Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5615,7 +5615,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 763,
+      "chapterCount": 765,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11720,6 +11720,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXFPUGZtTHIxZE9GMDZpMWxEWXB1YVhQdnVSZTFaM24tMFdjMnFKaTJPVEZWVFJHdTMwSXpkaW9vTjBrVlRISVRnWEstcjFQSll0ejRJN1hNRWRzQXdJTy1Vdk5XMUdFY1VwR3RieXAtd256SkI4Vlp1eFdoZUZHdDlmaHZxN3J3Q1ZiMUtxOVVDZF9WX3lQTWY2UGloY1pKNWpqWTItSC1lbFVuZXVVZ1VB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787982726225",
+          "date": "2026-08-29",
+          "title": "When is the Fever's next game? Indiana WNBA schedule and more to know about FIBA Women's World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalR3S01oRTNEdnIxZkJUMEtBVGVXUFplWVNtV083cTByb1czRHQ5NGNnSjQ2Z3pPSHNuSC1LMENiNUZJWEJkNks0TFlYMUxrZFVYc1RXSWZVcDUwa1pZdVNBUUF4cGJRdmloa2VKRGZjTk40a2F4RGR5ZkRBcXV1eV9EVjM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1787982726225",
+          "date": "2026-08-27",
+          "title": "U.S. Host City Reveals Total Amount Spent at World Cup—And It’s Staggering - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajMwVkNPdG45LUNyc2F2a0RtZkRKNmZCRGRBSUNpdkJETmlodW9BMjExQnhvOHZHZzdRZXoxSWdocEZveDdVVGJMdHI1NzdzM2hPZVByeW5nWmNXREhuMDlEUVhDVGJuTHBSUGVZajlQd015T0NTT3hnSEpNdzJVb2J3Qkg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11738,7 +11754,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 546,
+      "chapterCount": 547,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16106,6 +16122,14 @@
           "title": "FIBA World Cup 2027 Qualifiers schedule & results - NBA.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUkVhM2FOQ05PcC03VU9qUXMyUk83TlBCVGFaR0dDRVoyX3ptRVRUanhkR3ZmR043RHRha253aFFITzloOXdJcEhYaS1LNVJWZ1g5Q1RibEFvcW55OTUzdlJZU1k3c294WHk0dWdxb2J5WkxUbHZZUG5XeGs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1787982726894",
+          "date": "2026-08-28",
+          "title": "From one World Cup to the next: Dulce's new Brazil challenge - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNF9VSnlQWHEzZVFta0Q1RGw2RnI2ajYtUkUzaExYbGRzTzF4UWxGa2FpYzhYMHhsVGQxQ1FyT1BvS3N3VTJaODhXcmsxNS1RTWpDQ09udXhNWV9LbmMtdkk2ZHhrUi1VZERpek9hM0p2ckpOeFIyTUNYU1drdkk?oc=5",
           "draft": true
         }
       ]
