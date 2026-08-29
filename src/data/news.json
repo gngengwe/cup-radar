@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-28T23:53:12.585Z",
+  "lastUpdated": "2026-08-29T12:23:02.102Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-delivers-verdict-on-argentina-s-req-2026-08-28",
+      "headline": "FIFA delivers verdict on Argentina's request to reduce bans after World Cup final mayhem - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3RTZWsxbTlNcnEzZTZCU1hmekN6UWh4SktKVWNlcUVpU2ZEdzlLc1BpUHpQSVlPQVBaR2V5OWY4OTc0S05rdXNmRkJpRTJveHI4d3o4a1pSMktmVjlkeW1VVGZKdlVnRG92WUpyV0dKNlVtWWJIR285YUhfNDdJVll1X192Rzl3aUJRVU82bGRqQnM?oc=5\" target=\"_blank\"&gt;FI",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-28",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3RTZWsxbTlNcnEzZTZCU1hmekN6UWh4SktKVWNlcUVpU2ZEdzlLc1BpUHpQSVlPQVBaR2V5OWY4OTc0S05rdXNmRkJpRTJveHI4d3o4a1pSMktmVjlkeW1VVGZKdlVnRG92WUpyV0dKNlVtWWJIR285YUhfNDdJVll1X192Rzl3aUJRVU82bGRqQnM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-statcan-figures-show-minor-economic-bump-2026-08-28",
       "headline": "StatCan figures show minor economic bump from FIFA World Cup soccer matches - Castanet",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-20",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3BqWV9jOXZBcUd6am93eV9sZHdfRk1fQUNQblZfa0h3QW12cWVwOE9YYm1DZnBqLVZqeWltakd3TUw4WTF4ZE1tZFFsZW5Ca0o5M1I3a2pVZk1iQ3BpSUtlUU5DMTdIdmR2OHV4UUtzN0EzX25JdkhlcjBQUTdUODdHZHEzUXQ0OEMxeEtaNWxjaG1SQW91Wk5aUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
-      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
       "featured": false,
       "draft": true
     }
