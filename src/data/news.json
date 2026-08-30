@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-29T18:11:21.449Z",
+  "lastUpdated": "2026-08-30T03:56:07.060Z",
   "articles": [
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
+      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-star-breel-embolo-to-hear-the--2026-08-29",
       "headline": "World Cup Star Breel Embolo to Hear the Verdict of Atlanta in MLS Debut - Sports Illustrated",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-17",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lLMTY3Rno5azdYUDY5c0xlUXNsRnUydU9JSkpsUWE5RjlnTGlCbWVPUUVYZldzejB3ai1rOGlPdFpYQ0Y4M1BfV3FfM2VnNjNReHlXMXBfenpIZzhfMkVMTVFhR1pxQXpsTlNlSGlWNERwSU1RdkVMQVFoMkZtRFI3UVpqOTljaEhfakVFTDMtLW9hQlJqOHdGRGE2Q3VXRk5iQ3FWUU5MY3NrOWM3RXh5d2M?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
       "featured": false,
       "draft": true
     }
