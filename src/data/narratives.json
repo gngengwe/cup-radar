@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-30T03:56:09.907Z",
+  "lastUpdated": "2026-08-30T11:21:41.075Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 381,
+      "chapterCount": 384,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3065,6 +3065,30 @@
           "title": "Is Lionel Messi playing today? Projected lineups for Inter Miami vs Montreal in Matchday 22 of 2026 MLS season - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZjJyQjZHS3NOS2pIbzc4dlVCYU0yUjZtTjdjcmx4SVM1Tm8xR2ppb2dGSmZUMndHbEQxMWtldFlZTEJVTGRCYkRPZTdWZC00U09HSHNQN3g0WmN2V1FJVUZnMy1YclloYjlvcndnWnlmUEJzZVlrdGswZG82Z3JZSDd0T3Nkc2YtMlhqS1BnbGl3cUxnUVBnU1Y3YU9ENlZJWF9mRERGMGV6TnhOWUo5aFdWRXZyMWdHV3otVVl0SmdFeTFxX1VMOGpsQnZLVXNFYlpHN2hGSk9IeGPSAd8BQVVfeXFMUGExLWtjNWxJWkN2UDFab1I5TFBienM2T0pMMHg2MzMyamI4Si11T0FncVJpeTJRd2VKT1IyY1lqZ19KY3RIbmJnTFpIeEFXU1B6aGFYTDlrT0hNYS1IRlNzUnBLci1yQkwtTENLTmtoMTlIS0xENXo1OEIyU2R0UGQyeWpKb1VmU3N2d19qbl85NWdfNjNZeVJhOEtTR04tVHktQ3Z0SkNWNk9aVlByOUJLcm92emFja1pobHkyTlRyckh6VTBxM3pkR0xiSVpsdHlLWXdvNTVNSGRWblRMaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788088898814",
+          "date": "2026-08-30",
+          "title": "Lionel Messi Scores 4 Goals, Leads Inter Miami To Historic 7-1 Win Over Montréal - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEM3eDZ1YWQyR3p3Nko5LTdlTmJwR0Q2Rk1lSEc4UGItd0FtbkxHbTRNOEFQX2JJQVpxU0J5UWhHN0Q2ZjdlTlljLVNfZ3hFYjRabjVUMnNvT19GSzc5bTVTeU9QenlNYTRYR0VJU2hvaG8wU2tmX3l6enpSNGxJOHp6bk1UcHpmVXVVQ3FucDBQM0dVbmY5WmdKTnMwWkZ4ek9BbzlJZkJ6QnVzdXFhb0RmVUl1ZUFI0gG4AUFVX3lxTE0zM2F5TS1DLXRXNzlPcEVmbkhzbUVHM0tYZTlQZ0tMejNZZ0sxaXFzLVpuWTJrRjdXSG9CLW0xYVkyelVHMmluZWtLMFZVU1BsdmNBVFpQem84Qnk2V3hvSHNteW9IQ0V3ZUhjQTNKcWE2LThScWhNM3NldUVpY1h5SEFaUmlqMGlDbjlGV2hjZjlFclp0TnlTdnRuMVJFU0tWRFozTWttMHRibURNZnBrdUxNY0F0d2M?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788088898814",
+          "date": "2026-08-26",
+          "title": "Lionel Messi’s presence in Argentina’s upcoming friendlies reportedly in doubt as talks with China resume - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHFCbGJGNDM0UVJobkNHUEdzQWg5M3hiTnVyQWJERFJNeVBOVXUxRGttalNEZ0o3Q1QwOHFsY0Raa2lOTWptSWVGejgxcHEtSnctN09jUm5zMVhjRXRKWDlJYkFhYUI4c3p6aGd1U2lkdzdueGw0eG5DTDMybnhPTFo2cUw2ZHdUMGxBckdobGc3Z1l6R21HeFAzRjRBMWxfLWgxX2JmS3JuVmtVemJpLWJFOWVGMGRwaHNpNHM3VHhHMDk3N0ctMjUtbjBvTHY1WTFn0gHXAUFVX3lxTE5HUll4ZVNISUFSWDd4Nm1TME9Pd2tMSE1ENDRONEVqT3Qtc0I3UzNuLTN0S1lUR1BNNjBsTi1UdXpEMHRaaHd6aWJWRmwwbUpSWDViT2ctWDBvT3NPbjFzaFlrTWptaEhreWRtdmQ3dnhPdXZHRjBPWEpFS0pKNGRGd2dBMk42QkF0cEhTeFZrVHRkUHBtOHRQUDRHSUJrWmJEWGx0V3ZidWd0MGFBQnBVSE9xQTZmNUFVV3hqLTNjbVZZMVUwX0wyTjR6Z2dNM2ZpU3MwcXVv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788088898814",
+          "date": "2026-08-30",
+          "title": "Lionel Messi & Inter Miami CF vs CF Montréal Highlights ⚽️ FOX Soccer - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CMGRsUkI1Uk1zb3RBMk5YbGhOekRZSy02ektRMy13YTBaVDI5aTJYZmZ0bDdUelB5bmVqMTdkRmNWTW5yOFEzc1ZJdHdPVW5VcE93V3d3cUZFSC1PUVA1V2NR?oc=5",
           "draft": true
         }
       ]
@@ -11786,7 +11810,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 547,
+      "chapterCount": 548,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16162,6 +16186,14 @@
           "title": "From one World Cup to the next: Dulce's new Brazil challenge - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNF9VSnlQWHEzZVFta0Q1RGw2RnI2ajYtUkUzaExYbGRzTzF4UWxGa2FpYzhYMHhsVGQxQ1FyT1BvS3N3VTJaODhXcmsxNS1RTWpDQ09udXhNWV9LbmMtdkk2ZHhrUi1VZERpek9hM0p2ckpOeFIyTUNYU1drdkk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788088900386",
+          "date": "2026-08-30",
+          "title": "Brazilian World Cup winner Roberto Carlos refutes claims he converted to Islam - AFP Fact Check",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQT2hLckxNZW9oUlIwajJTdlFLLUJ0bTlMZ19HaTQwMXg5MC1aRlE3dVdfd0R4eHRfaVBtMW5YTi1FN1hEWXZOejBqSEpoTXpBRE82U1RYdFU?oc=5",
           "draft": true
         }
       ]
