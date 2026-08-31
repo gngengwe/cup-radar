@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-08-31T12:50:56.063Z",
+  "lastUpdated": "2026-08-31T20:40:07.062Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 384,
+      "chapterCount": 389,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3090,6 +3090,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CMGRsUkI1Uk1zb3RBMk5YbGhOekRZSy02ektRMy13YTBaVDI5aTJYZmZ0bDdUelB5bmVqMTdkRmNWTW5yOFEzc1ZJdHdPVW5VcE93V3d3cUZFSC1PUVA1V2NR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788208804767",
+          "date": "2026-08-31",
+          "title": "Argentina legend Lionel Messi announces international retirement - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdG9TQ0RPTmxDUGFsNDVNc1hHeG9oRG5hN3BmNnVxMGF1QTNxY0NhVEthUUZhTE1wWHQySmdET3ZyN0pOQkFBSlMzX1ZZOHprdE9DaFBrVkJ6ZF9HWWNNX1VNdFptMHRYbk9palI2ZnpsTWF1aXgxZjJPdm1pRWUtTkp6SlZTaVVIcVZuZFZpcjU1dGMyVFV3SEpFRVY5eERKeDlNNTVKTFRYSXJfczNOWldfWFl4UERHMEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788208804767",
+          "date": "2026-08-31",
+          "title": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9QcFhxa3lCZmJTOU1KTDIydTlrVzRWd1MxUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788208804767",
+          "date": "2026-08-31",
+          "title": "Lionel Messi retires from Argentina international duty: ‘A decision that hurts my soul’ - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NIeVh4b3psSlJUR2ZGeHkxSWkwTXBhRTFVQW91RGxFTnNhZG82MmxzQmZCNHNPcDRxNnNqNkplTTEwV3ZYMnlaWnVCYnlwN2g1aE93OG81NHJocUdIUF9OVGN1RlpBZFlHS296UjFfdFU1eDFpUTZ3YXV6TWlTLUtPNkYxVlYwc2VraEJzRTF6LTA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788208804767",
+          "date": "2026-08-31",
+          "title": "Looking Back At Lionel Messi's Historic World Cup Career - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0dWZnRRMFFvVFNoNlZZRUZtcXFXSU5nVmstN2ZMNWc4MEpLdnBlSXp1cFJBTVlLaWx5WDRjUWkyX3EtMjM0Tzl5U0lFbXRKS3hHWE5zekgtMTVYNzdNbnY1YVNlZ2kyVDBWaG1BQXExNFdqTkhhVy0ySVM2SmplQTlrSUdYelU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788208804767",
+          "date": "2026-08-31",
+          "title": "No fairytale ending, but Messi leaves defining legacy for Argentina - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFyQU1qVzhRejFVNXloTTVqcDhBSm10VF91NUt3cWVmQWVnbk10bWFVSUFaZ19lMGptU3pWYThVU1RqZUVwc29faHNrWnh2X3NvbGhJbVcxZTQ3dnlmUG5DVk8tZURTOE9SNVBvZ1hpMHdIcXJQUF83WHloUWJQX1R2cTRMNk84dWFuQWlBLVNGWUxGd1pjdm9ZWjF2b2VHaWxRNm9zc1cyOWpf?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5663,7 +5703,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 777,
+      "chapterCount": 780,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11880,6 +11920,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM05uWmtWLXNkZkR1TTd5X1I1TXVqVXF6Z0YzVG5Mb0wwOFpMUlBOUElLbmVINEM5ejc4dVFIM1JwRXNaYTRzd2czbFZ1NERvWjVsM19kYm1XeUJGOUJfSUdnWTJULVZvSWpac0RyeGdfMUhNOGt1S2FRN19OVUVJTWFJT3Q2SHhfc3hNLVZ2MEtCM3M4enhfWHhnUDhWU2pYaloyTHpfdTlZQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788208805776",
+          "date": "2026-08-31",
+          "title": "Sonia Citron and Kiki Iriafen added to 2026 USA Basketball Women’s National Team Roster - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVXJJa2RGSFNnMm5HeU45WXVtN3JxdjFaTy1xRkN2cG0tYXl1cVpyS1FYZkpzTFdCNlFRNFFIb1V1T1ZxT1gtUVg4MkJrbkxlVVZMalF1dDNqeDY1SjZQUHJQOU5jZzdqTlU0Ny1qS2lIM2NZU2dfclF3SEM3T0x4T2hUSHZQQ2E5b3hZWTV1VXNDTTBzSUNJdUhhaWZhUTYyZ0VxaEJCZTRtdU9qd3VfSHY0dzJ5VWZtYTJjcg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788208805776",
+          "date": "2026-08-31",
+          "title": "Report: Everton closing in on deal for USMNT F Folarin Balogun - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNllGWFh6SWlPSVFEMF9XOUw4UU9wSGd5LThqaV9RTUhTcDlSQUxEMXl4M1pDcEktRDkwMGlPSkg0YWNpX2lNektYZ1NhVXdDS01BaWJ5M1RxWXdmRXV5Wk9kNXRzdG5FcGU5TThNQ3E5LURhM2cxWFlISXBmZkZSNFpfYXR2akNmUkdWVTZYXzQyUjZld0JqNnp2TzF4ZGxfNHJtRU02ZjJpQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788208805776",
+          "date": "2026-08-31",
+          "title": "Kelsey Plum, A’ja Wilson Exit 2026 FIBA World Cup for Health Reasons - Just Women's Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXpmZEhOTXBUNXo2Z28tQ3kwWEx0WXJ0Y3c5TGlkYVZyREI5c18tckZOaDlUaUdNRDA3YWZXSUZERlptUWZoZUQwajRydjNvSV96SjVtQ1BJZ0ZROUpFeWJGX1poMW9Lb0JXaVlXaVpGNjcyZjFyOG56bTNqWnlSbVpicl84dGIzeC1zLW5kd0U0cEs0Um41MA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11898,7 +11962,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 549,
+      "chapterCount": 550,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16291,6 +16355,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2pMTGRhUDZvcEpPTVlwaDd4bHVYRnlVcHh3SzFmN3RvZ0FZN1hGTWE2bjhQblJzd3hIN3hOSWF4cndRS25rQmRpalpYck5vTEJ4akhFVXo5U1lTa0xoLW9sNURxcGRUWVB3OWR5TkFERDZ3MFZRWXc2SGk3WTZzRWRpQVJxR3ZGY1g0RTJXbmNVTzVvQ3o5bE0zWkRCOHI5SkJV?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788208806457",
+          "date": "2026-08-30",
+          "title": "Ahead of the U20 World Cup, Thaís Lima hails youth-senior link - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YOG5JaGNYVGhzUUpJTHhOQ2NGeElkMTlSWmp4Xzg5WE80SFMtZDVRMTIwU0Vsa1BxMFRjeDdUb0daVjZQU3RhTTdrUTFCdjBIbEd0YVlkVk5yYXVUdWpNWE91VHdiYmd4V2dZdmV2MHZNTlZobDV0dm5DVjdrdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16520,7 +16592,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 811,
+      "chapterCount": 812,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23008,6 +23080,14 @@
           "title": "Al-Hilal sign Watkins from Aston Villa on three-year deal - Reuters",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFhFWlF1VW50WXNmTUFpYmU2alZ2eS01elE5WTUxTV9XZmU1NHpkUkZyd0lpTHJuclI2dlRwa19WTTlkbXdHUkxzUjA4amphbGJhUHd5XzJ5QjR6bGFCNm1GSVNqUjFkS3ZQOHYwbHlEQWdVbThQSUJ3c01oTWJYTWstdTIyWngtWTVyNmZaakFJcGVSSm9SMEEtTndRZnZf?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788208807062",
+          "date": "2026-08-31",
+          "title": "TSN Rewind: Messi's final international goal was a clutch strike in the 2026 FIFA World Cup - TSN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc0UyVURTS29KWElzdzJYVlJTMnlNTjdDZ3g0NnF4dGtPQUtYV0QxQlRUM0pELTZtcV92Ylk2cHNOc3c4MldGeGFocFZLeXRiOFVjMllZUHhjdGpTWTdiWGsyNjNkRG9FODVCZWs5V3ZJel9wNk1kZnU4V2tWWUxSTHpZV2x5eE1GbzBabmNJTEE2aDl2VnVGd3hMeWdlRnhVYzVxaU1ScW92aXVNQ25qcE1pY2xpS0hJeTZ1cXljQTQ4c0swRW0yQnpmUzNNcERPOGI2YUZWY3g0b09BMUxPQXlR?oc=5",
           "draft": true
         }
       ]
