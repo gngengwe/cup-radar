@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-08-31T03:59:14.291Z",
+  "lastUpdated": "2026-08-31T12:50:53.363Z",
   "articles": [
+    {
+      "id": "news-auto--the-united-states-should-be-winning-the-2026-08-31",
+      "headline": "\"The United States should be winning the FIFA World Cup™ every four years\" - Rebecca Lowe - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBkMU1UajhIeFRkRDFGTWctMU9CRTB3MERuVnpuZE1FMWhLS3lDWFlBOVdwSER5cVoxUWdLQ2dpcUx4ZUM4U2RvSFlsaXI2Q1ZmRFVEWS0wQ2M2SDIxdkpKTGVGcjE3c01TS0JfaEV3?oc=5\" target=\"_blank\"&gt;\"The United States should be winning the FIFA World C",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkMU1UajhIeFRkRDFGTWctMU9CRTB3MERuVnpuZE1FMWhLS3lDWFlBOVdwSER5cVoxUWdLQ2dpcUx4ZUM4U2RvSFlsaXI2Q1ZmRFVEWS0wQ2M2SDIxdkpKTGVGcjE3c01TS0JfaEV3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-economic-impact-hits-3-5b-2026-08-31",
+      "headline": "2026 World Cup economic impact hits $3.5B, surpassing projections for New York and New Jersey - The Business Journals",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWVNSmFRbVhRYjVveDRNWnlJNm0tb1ZFeDV4aVRCaVhTaS1reFpOTV84YlVtRWxxby1QLXVDcTk4aW1NX3IzR2RfVHpzcWFUX2ZrcnNkZ0FjRVdhNXptei1MSElHTUZzZWpFWVFCZkI2WURJMFFsQ0hOcTdQNzBNWWRkZ2JmUmFPci13WmpFOThHWlFYenl5dWpJMjgzemdNLVhHX0pQOTA",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWVNSmFRbVhRYjVveDRNWnlJNm0tb1ZFeDV4aVRCaVhTaS1reFpOTV84YlVtRWxxby1QLXVDcTk4aW1NX3IzR2RfVHpzcWFUX2ZrcnNkZ0FjRVdhNXptei1MSElHTUZzZWpFWVFCZkI2WURJMFFsQ0hOcTdQNzBNWWRkZ2JmUmFPci13WmpFOThHWlFYenl5dWpJMjgzemdNLVhHX0pQOTA1MG8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-does-the-fiba-women-s-world-cup-work-2026-08-31",
+      "headline": "How does the FIBA Women’s World Cup work? Everything to know - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk5Pb3pHMG1rVDF2OWJZVERuSC1HSnZUZ24wazZnZURzSWZmdmUxMkxVLTV2bFdCWVBTdVdGRW5FUlNDdG1sWGI3OTVzb1VsQy1QVVV2RkVIZ0pFTExYOHhQVWg3ZVU5dnN3NjN3YUFCSjY1VVhrZjJyWFA3MjJBVWJwX2RaaF9IM1VYTkdHdlltMURRenJlYmdKbHJja0FpM0txTUcwWjM",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk5Pb3pHMG1rVDF2OWJZVERuSC1HSnZUZ24wazZnZURzSWZmdmUxMkxVLTV2bFdCWVBTdVdGRW5FUlNDdG1sWGI3OTVzb1VsQy1QVVV2RkVIZ0pFTExYOHhQVWg3ZVU5dnN3NjN3YUFCSjY1VVhrZjJyWFA3MjJBVWJwX2RaaF9IM1VYTkdHdlltMURRenJlYmdKbHJja0FpM0txTUcwWjMyd1dOUy1URW5RV293bUQ5MUwwVkZ5S2J2Qk0?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-2026-the-geopolitical-ten-2026-08-28",
       "headline": "FIFA World Cup 2026: The Geopolitical Tensions at Play Off the Pitch - Council on Foreign Relations",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-31",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlpDME1WaU1icms2ZlY2b3h0bXdKUHQ5UW8tazRJMC1Lay1INTBSM1M2WXczQ1NxMnJickItRkNSUktWWWxuVTNJSFc2VC15T1pLVlAtMnFsVmxqbEtMNTNLbmszVFdKUnFnV0xra0xaYzFnNUh5SUJJd1hWSmZQc0ZCZDFEMFYzcnROWTU3Zm1OUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-didn-t-grass-from-world-cup-stay-at--2026-08-17",
-      "headline": "Why didn’t grass from World Cup stay at Lumen Field? Blame unique Seattle circumstance - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
-      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-officials-seize-33-million-in-counte-2026-08-23",
-      "headline": "U.S. officials seize $33 million in counterfeit goods during 2026 FIFA World Cup - KTLA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ29VWVhFTFNWdng3Mm1MWHJBaDh0M19LRThQTklCNmtDMW1EeTN1bDQ1NC1iVW8xRF9YU2UwVDhYRXVwUlJETGF5ZVE1LVFHUzdwRmhFY09RY0M5ejRpRElqemZMdS1NSGtjeVdkRGs5UlVTdVBlODNIM2s4MzNlc3F3enN4SVhQSHgwcGhZMWVVaHFpTm53dm1pcWdadTJvN19jTW5iQVk",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-23",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ29VWVhFTFNWdng3Mm1MWHJBaDh0M19LRThQTklCNmtDMW1EeTN1bDQ1NC1iVW8xRF9YU2UwVDhYRXVwUlJETGF5ZVE1LVFHUzdwRmhFY09RY0M5ejRpRElqemZMdS1NSGtjeVdkRGs5UlVTdVBlODNIM2s4MzNlc3F3enN4SVhQSHgwcGhZMWVVaHFpTm53dm1pcWdadTJvN19jTW5iQVktWlliLU1TMHRaSdIBuAFBVV95cUxQaXhrU21LNTZSbzB3MGU1N0dEY0V6WjlsZ3hzOF9CZmVib0xZQURzLUpnNUo2U2V0a21aX3dXNlJRdE9LOEMyZHV6dkcxX3lNbk54bVB4NW1BdEQ2RGczUU9WcnVxLXpxOGFid3dWVjJ2Vmtfd0w4bTNPVmE5bENnTzBGNVdJbTNOb1JmWEJncmxpUFVmS194SVEzM1BGUzJTQUtJM05oMlEyWEU2ekFWWFpZOFJPdmg2?oc=5",
       "featured": false,
       "draft": true
     }
