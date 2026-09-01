@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-01T13:56:51.253Z",
+  "lastUpdated": "2026-09-01T18:10:29.592Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 393,
+      "chapterCount": 394,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3162,6 +3162,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3RKVThUblRaT3RMTk5GeURBenY1TWpoRWxfYUc2M3R2OFE3YkR5TEIxc0tpZU1JYXRfZVNxeEhkV2pRdGtjOVV4OTIyM3c0eW5GZ25INDBvRWVmOFYtQk53TzVsS2hYcE1wbW9XQmtncVZXRzRleWNWZ0ZUcmI1cHNONGJ2X01PcWo4SmZJRGt0dGVqLWhTVXc5em4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788286226864",
+          "date": "2026-09-01",
+          "title": "Farewell Lionel Messi, the genius who made Argentina dream again - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXRia2ZoWHdqeUx2ei1pS2w0M1hXVmFjZXYxdEEwMjlWZVBPeVhFM09KdW1vZXNfNm40VlhfTnpxUThlVnZpMGt3U3M5QlpaTXJSVTh6WXFHak5qQms3TURGZVFDMFhoakdzQXdxUlhqVGl1ajBfY09kdGZZSkV3QU5LLXhFLUFPWno5ZWdnZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5735,7 +5743,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 788,
+      "chapterCount": 790,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12040,6 +12048,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXFfWkxINUNGX2tLMWVvb3ExUlFFU1dHWUcwQklvMXN3TWpHOS1mT2tyVUh5QWo5Yi1HRzNUOXFPc21wZkstMGk0OGRfZTJ0YXUxdkpxOXdkQW1kMUpjczM0VjNYSDViY3c5alZEeXVlTHRoa0VrNmt0MnQtQkxIcUxYRW9XQU5BVFU2WGlrV29KX3luajNzcnUtUU9xd21vMXRmQUg5angwQkx5T0ZDOTJ5VTFSeXdxRFdwVGN6MkIydkJ0V0E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788286228246",
+          "date": "2026-09-01",
+          "title": "The Month Ahead: U.S. Soccer Key Dates & Major Moments in September - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOankzTS10Q0d0TFRNUmVLLVBNTHEzN2JCUkZ6MTZGUkx3cFhncDFveVZ1MnZzN194SWJsVUxWQnJmTXRjcHozVzluSUtOckQtU0Z5OEVuZUVJczNCMXpWak1PWE9KZzlPLW83ZERyVmpKVW1jR3RIeTRUVVM2aVVYS09QT01iRE5EUFJQUVY3R0g0blhQcEdsRXlHNGU2VlVPUVp4SlU0U3RIVTc0R1VHdjFWZWQ1VmM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788286228246",
+          "date": "2026-09-01",
+          "title": "Team USA Women’s Basketball FIBA World Cup roster 2026: Caitlin Clark, Angel Reese headline USAWB squad - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TZjlLeGtJd1hBNW5vQmpNanVXS3dmdFBiX3Vlal9HdjN6OUdOYmpEd1RWandfWG11VlQ0NU94TmVNTnhRcWItN3JVUTZsa0VIVkRUZ04tMGNCUzhUelRub0RKcV9tS0FYbnBGMGg3Q1FFME0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16720,7 +16744,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 817,
+      "chapterCount": 819,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23256,6 +23280,22 @@
           "title": "England squad for 2026 FIFA U-20 Women's World Cup: All the players selected by Lydia Bradford for the tournament - DAZN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxOV2VxRmZ3MkFZSGhzZHpMdTl4QXAzSmFnRkwtTnBRRVQzWGNCOWlvekUyaEZPS3VHNXVZNkd5TUxPWlc5b21ISEItOWowVThCV01sT0ljUzNoNVRrMlNSd3FhUGJiWXg0WlBrR0FxTDF5a25pNHRqTTJENXpPcldpZTdETTc5LVQwNUdIa3psNTZqM05ORTJrdEpNUzBiaXY1WFZFcTdzeTV5cGZZNFhVRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788286229592",
+          "date": "2026-09-01",
+          "title": "Who are England playing at the 2026 FIFA U-20 Women's World Cup? - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXREUDZIWDhHaFM2T1pMYndES21xU0kwX0ZqNGpxal9CLVhWRzNyTXpyekxuUEtHZlBiM1FYR2hjdTdDSjBJY3pRanlya00zVUhLYlNwNGJ0dmg5Rkw5WVRzSERkclpzaHNLdUMyZWxnOXhtaTFpbDNZWHBXSElta0Q0a2x1TTRIYmV5WWhDc0twU21ISTllNmNWRWM5ZHVzR1R1a2dVUU0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788286229592",
+          "date": "2026-09-01",
+          "title": "Caglar Soyuncu's England return now close amid West Ham United talks - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGVXTXlNeW9Ka29vaGRERTIta2FEUk5BcnJCcFJyM2NJanFGQ3h0WkZpRnVPSEFxVVJjdVd1YzZuVU5OOGhsNWlqeWRyOEpLcy1mM3lncVNkUnVyaWdBZXp2aGYyUXQ5SXRWWW9jd29Ob1dpOTg5QW1vZlBNVEJidm9Ya19aR2Q5SEY4?oc=5",
           "draft": true
         }
       ]
