@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-01T08:20:41.964Z",
+  "lastUpdated": "2026-09-01T13:56:51.253Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 392,
+      "chapterCount": 393,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3154,6 +3154,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2xIRGxOcWpSSnk1QWVQTG1iTktMTkJDdy1UWGk0dmJWbFhOQ0YtU0Y1dlV6NDdFakYwdmE5X0JBcDhkcG15Vm01cVR1SUwzZWVOZHBBVHp1MnJsR0d3QmU1ZlAzWVNVMlcyWHlOVHlHbmh1WFpmNGV0QTBmVWg4SXhQXzNTX0lJNTBmNFlLOVFJb3NINGVVekhiX3BubWdDU3BHT19JeGpybVBicTNZbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788271009201",
+          "date": "2026-09-01",
+          "title": "Lionel Messi retires from Argentina national team; 2026 College Football Playoff expert predictions - cbssports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3RKVThUblRaT3RMTk5GeURBenY1TWpoRWxfYUc2M3R2OFE3YkR5TEIxc0tpZU1JYXRfZVNxeEhkV2pRdGtjOVV4OTIyM3c0eW5GZ25INDBvRWVmOFYtQk53TzVsS2hYcE1wbW9XQmtncVZXRzRleWNWZ0ZUcmI1cHNONGJ2X01PcWo4SmZJRGt0dGVqLWhTVXc5em4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5727,7 +5735,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 784,
+      "chapterCount": 788,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12000,6 +12008,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwenZ2ag?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788271010258",
+          "date": "2026-09-01",
+          "title": "USA Men Improve to 7-1 in World Cup Qualifying | August 31, 2026 - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGgtWnJ1TzJqaXlNNlhXZklhckpIQUp4ekdUWDFQSFlpV2RwZExFS3EwdUl2ME5VSTVNam13Q0R4ODRTV0d0Ym9XZ096VHhqOGMxcmlPbkNPQVFPd2tZRmlxOHE4aHltUzVpMmdMT1dtUlVlYWQ3R201SktPWThheXVUdkk2djlvbUVzY3ZaT0l4TEJEVlZMZ3l0aXdiQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788271010258",
+          "date": "2026-09-01",
+          "title": "How to watch Team USA featuring Caitlin Clark, Paige Bueckers, Breanna Stewart and co live at 2026 FIBA Women’s Basketball World Cup - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM09Zb2FINDQyekFNRkZoT3VIblVRRk1fMlNvUmRUR1FLSjRHVDlfQ3BJd0FHUDdFWGJpeUpjbzloWWFCOWMxSlpKSDJzejMxemFSOU1malNfV2REeEdWTFplcko4ZFpSM0NTNDR3R2d5enhpTFczT3RTRl9vR0lsU2luNWlCSHdJSnlrd0ZQVHViNGl0dGhSUkk2MW9yUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788271010258",
+          "date": "2026-09-01",
+          "title": "Team USA FIBA World Cup Primer: How to Watch, Roster, Format - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3Q2ZGUxcTFlcWYxNmNxMno0TTMyOVhfelVXbDU1czNFeElOc0tyd3VPcXZzRVBaYTVoWXNaMGk1NHlkMFRYSHZlbGI1LTBpcGZvcVpOa3J6X05abWZEaExmR2RXT2k5c2tJRmtrQkNVUXpCZno2UTNUZ2k4Z3NJWjM1bWVBNnpnQTJzRXRSZkZldy1UVWU3eU5SUzlSWEF6cWJDYzRR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788271010258",
+          "date": "2026-09-01",
+          "title": "Can Caitlin Clark take Team USA reins? FIBA World Cup opens door | Opinion - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXFfWkxINUNGX2tLMWVvb3ExUlFFU1dHWUcwQklvMXN3TWpHOS1mT2tyVUh5QWo5Yi1HRzNUOXFPc21wZkstMGk0OGRfZTJ0YXUxdkpxOXdkQW1kMUpjczM0VjNYSDViY3c5alZEeXVlTHRoa0VrNmt0MnQtQkxIcUxYRW9XQU5BVFU2WGlrV29KX3luajNzcnUtUU9xd21vMXRmQUg5angwQkx5T0ZDOTJ5VTFSeXdxRFdwVGN6MkIydkJ0V0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12018,7 +12058,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 552,
+      "chapterCount": 554,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16435,6 +16475,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTN2S3dIQnN2ajFVN2pkQXFxX2JnXzlWTTlKSTZuUDBlZjFSQ2pRd19FWWQ1TDlRb2pTWXhWNjlDMkE0U3lhN0VZVmFHYkNld2tDQklLYWdiQXBaWGhuTUJpVWtWdHA2aTZYUEZOVXFLQlNSQVVLT1lCWEh1Tl9NR1daS3Y0Y2h3WmE4OUhtT3pLUE1vWVNF?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788271010793",
+          "date": "2026-09-01",
+          "title": "Indian football team for Brazil, Uruguay and Panama friendlies announced - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHA5Ui1McDJUejFGelRCVWhONTJkOFFHdV93UU9IUnRxNGliUUF6UGJEdnhlZjBvQmRPU053cDY0eEpOcFpESVJVRjBBS1A5bm1BUjNXWEdRZWt5bjVzUFp4RERCQl84Yi04dDBDa2hvNGxMQ2JqUTktanhkdmR2UE9Wc2FFUGFJSkhuVXFuMHRHWHo1d0ZaY25LZzI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788271010793",
+          "date": "2026-09-01",
+          "title": "DATA.BET shares betting trends from the 2026 Esports World Cup - iGaming Brazil",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1VVVU1weVFYMDV3Umo5UzFzanFORjdFR2J1RWJFM21Ici12ZmlkZ0lzMkdHRElpSWFpcUZrWTM0cEdZOC1tTUhFWkMwVUM2NnlxSWZKdFRlTDdxTUlXS1BMX0Z0SmxMbUp1UGdQMl82MG5CdGh6dzZRaUZWOUZnYVBicENhRVotOFhSZl9nbHpGbGhMT1dvVGNLMXZ0bXo4aGFfakN3YmVTY0F0TjRhUzlVQ2HSAbwBQVVfeXFMTnRzQzFWTVlRdElfSmJzdk1La3ozbGlZVmtxSFBaa0JYYTI1Sm41U0t5VjAxWjBGMGpVeDU4RWp5RWp3N0l3RHI1M1U4UU0tVngyZWlOT05PSE9tcF9DSUhoZWV6a3JpQ3B1OHpYNWktR1dFQ3dBbkViU240NVBTLWRXWjVrZ0llRUlOMzBnY2V0SVFSQUYxWW5vRmlfVFpMRVIzTG5WSGp0SVlPWmNwSkRGRUVJNHR5cHhqNUI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16664,7 +16720,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 814,
+      "chapterCount": 817,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23176,6 +23232,30 @@
           "title": "Messi's most memorable Argentina moments: World Cup, Copa America, more - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2xIRGxOcWpSSnk1QWVQTG1iTktMTkJDdy1UWGk0dmJWbFhOQ0YtU0Y1dlV6NDdFakYwdmE5X0JBcDhkcG15Vm01cVR1SUwzZWVOZHBBVHp1MnJsR0d3QmU1ZlAzWVNVMlcyWHlOVHlHbmh1WFpmNGV0QTBmVWg4SXhQXzNTX0lJNTBmNFlLOVFJb3NINGVVekhiX3BubWdDU3BHT19JeGpybVBicTNZbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788271011253",
+          "date": "2026-09-01",
+          "title": "Who are England playing at the 2026 FIFA U-20 Women's World Cup? - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTThZaURfOWxCUndMTHp1azZqREppUXZZbkR2ampCZ3cxWExnaVZEVWpEVTlBb2hQdXo5SFFZaFVuWjFSUDZqc2hsVE5sc2VMV1ZBVDBES01yQS16NXoyZGk2MFVFLVJ5ZDgzSExQU0VhaUxnTEVCZl9aR2Z1Njg2cjJ3WmpEV2VNVWs3T2VILUUxTmVTMm9Vd2VGbjNCVVk0bDJqdHoycV8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788271011253",
+          "date": "2026-09-01",
+          "title": "England Watch | World Cup hopefuls step up the pace - The Home of Rugby League",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY092YTRmZGRYQzd4MS1SNDZzbzhNQzBLbk9Dd0RidkJCWWZ4cGtoTy1rakNkQmNfb3dZSU41Y2JyaVpkbEZtdzQ3bHJlYnlPMzIwM25GUTZzWGNOcURYaWtWc1BibEF3NWt0eGNJcUtVcHBEX2RNcXpvNUNmTzkwbElDR1VtTVpHQVlZb1h0ekZlZXBESUR1b3hQVDE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788271011253",
+          "date": "2026-09-01",
+          "title": "England squad for 2026 FIFA U-20 Women's World Cup: All the players selected by Lydia Bradford for the tournament - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxOV2VxRmZ3MkFZSGhzZHpMdTl4QXAzSmFnRkwtTnBRRVQzWGNCOWlvekUyaEZPS3VHNXVZNkd5TUxPWlc5b21ISEItOWowVThCV01sT0ljUzNoNVRrMlNSd3FhUGJiWXg0WlBrR0FxTDF5a25pNHRqTTJENXpPcldpZTdETTc5LVQwNUdIa3psNTZqM05ORTJrdEpNUzBiaXY1WFZFcTdzeTV5cGZZNFhVRQ?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-01T08:20:39.188Z",
+  "lastUpdated": "2026-09-01T13:56:48.724Z",
   "articles": [
+    {
+      "id": "news-auto-football-power-struggle-caused-fifa-worl-2026-09-01",
+      "headline": "Football power struggle caused FIFA World Cup plan fallout, says Kushner - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDVZVU43NEN6am9wd1labmNTN1VYVEx6SHNfVUpMalZTVFVNRjZfTVRMdGR0elR5NnZOVXJyeTJ0UWt1dXplQkhDN2ZBUDJ0bTBUYnUwY3NVYjdvenBHeHZaamM1NDRuTUd1S3BDdDRESnlLbUhvRThObkswNlp1R3RPekdkQmhLME03SVVZTjVKVlk2ME44bWY2N1ZtNmZ5elIzVXVodFh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-01",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDVZVU43NEN6am9wd1labmNTN1VYVEx6SHNfVUpMalZTVFVNRjZfTVRMdGR0elR5NnZOVXJyeTJ0UWt1dXplQkhDN2ZBUDJ0bTBUYnUwY3NVYjdvenBHeHZaamM1NDRuTUd1S3BDdDRESnlLbUhvRThObkswNlp1R3RPekdkQmhLME03SVVZTjVKVlk2ME44bWY2N1ZtNmZ5elIzVXVodFhPVlFrcURNYlgtRdIBuAFBVV95cUxQWlhLQ3loeVFLNTFKRVIyM0RmUXNoeHAyQnQ4R0VhMFhyQnplNnkteFdndFpqNGVManVMNXhkaG5INDNqNnNDY09vUkdHTXEyTTd1T0pGRkRMYmVYMUF6VlpON25Td3JkRU9xb016M3RtdjNVZk5GS0VQN3otTHhFdUhac2hreW45MFZBWlF1ZGJRaG8tYXZYZmkzUzhWU2NCVzJaZjZJMVZGYnpYNFRxcS1FdWZEeFNr?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-messi-retires-from-argentina-national-so-2026-08-31",
+      "headline": "Messi Retires From Argentina National Soccer Team; No. 2 World Cup Scorer - Deadline",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONVM0NmxxQTBGN2xpZzJxbjdINl9yQ242U2FfS3RZdHpOWXJ1REhzMTFraXhMMUxBM0xWcVd5UXVicl9FbkZ3SXR4V09ILWZnNVh3c3NQZWNRLUx5RHZLME95elVOZmFhQmJ2SE1qZ1pIb1RqeENxdE1RdnhBbEFLbnFrRnc?oc=5\" target=\"_blank\"&gt;Messi Retires From Arg",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVM0NmxxQTBGN2xpZzJxbjdINl9yQ242U2FfS3RZdHpOWXJ1REhzMTFraXhMMUxBM0xWcVd5UXVicl9FbkZ3SXR4V09ILWZnNVh3c3NQZWNRLUx5RHZLME95elVOZmFhQmJ2SE1qZ1pIb1RqeENxdE1RdnhBbEFLbnFrRnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-joshua-kushner-express-regret--2026-08-31",
       "headline": "World Cup: Joshua Kushner express regret in involvement in scrapped private investment plan - BBC",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-16",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-house-at-pacific-place-se-2026-05-20",
-      "headline": "Seattle Soccer House at Pacific Place - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZMWlZbGo4MGhVOWdqdllkcDBSN0lUdC1wTHRnRnNUVjRhYlpGLWVxejFMcVBmMU5wVDJLajlOQkZBTHllZF9ITXNKaUs3Uy1uNWZYSmx4Q0I?oc=5\" target=\"_blank\"&gt;Seattle Soccer House at Pacific Place&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-20",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZMWlZbGo4MGhVOWdqdllkcDBSN0lUdC1wTHRnRnNUVjRhYlpGLWVxejFMcVBmMU5wVDJLajlOQkZBTHllZF9ITXNKaUs3Uy1uNWZYSmx4Q0I?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
       "featured": false,
       "draft": true
     }
