@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-01T00:24:07.413Z",
+  "lastUpdated": "2026-09-01T08:20:39.188Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-joshua-kushner-express-regret--2026-08-31",
+      "headline": "World Cup: Joshua Kushner express regret in involvement in scrapped private investment plan - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LYWMzV2dVejNXWHZKZ3pKZGhGY19kaUtiWVlRTW0yODhjT3lndTc5dDNsd2VWSnJEVW5iR3pJVEY3dWppSDRIcVQ5b0VabGpIUl9hbTZINkllMVhRQjlabE5TSVhlTjQ?oc=5\" target=\"_blank\"&gt;World Cup: Joshua Kushner express regret in involvement in scr",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LYWMzV2dVejNXWHZKZ3pKZGhGY19kaUtiWVlRTW0yODhjT3lndTc5dDNsd2VWSnJEVW5iR3pJVEY3dWppSDRIcVQ5b0VabGpIUl9hbTZINkllMVhRQjlabE5TSVhlTjQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-20",
+      "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - nytimes.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5\" target=\"_blank\"&gt;Ranking the W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-star-lionel-messi-retires-from-2026-08-31",
+      "headline": "Argentina star Lionel Messi retires from international soccer with World Cup title and 125 goals - christianindex.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVGNaQm9iNjRrOUtLcHljZzhkNkdJbUoyZUMtTm10cVhidFZOWnpXQnNyQUNVc0NTN3p6YWxuQTBXdjVYNTdHNHNiMkFydGU0Sjl4MVU1WERvOWljcl92RVloNzlqRVNjYnJhUlBjV0pkZE5rNDJBOHVFVzlpNU91RGt6dFVmRWstQTAtZzBGaU9XMFotVWtfcmlqQTg3djBnLTRUdG91bjZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVGNaQm9iNjRrOUtLcHljZzhkNkdJbUoyZUMtTm10cVhidFZOWnpXQnNyQUNVc0NTN3p6YWxuQTBXdjVYNTdHNHNiMkFydGU0Sjl4MVU1WERvOWljcl92RVloNzlqRVNjYnJhUlBjV0pkZE5rNDJBOHVFVzlpNU91RGt6dFVmRWstQTAtZzBGaU9XMFotVWtfcmlqQTg3djBnLTRUdG91bjZZcWxXQzZFakkweWxpREdKLV9XVE5qc3hjdThINHUwWWItMGlMWllqMmVZVA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-file-photo-fifa-world-cup-2026-round-of--2026-08-31",
       "headline": "FILE PHOTO: FIFA World Cup 2026 - Round of 16 - Argentina v Egypt - The Lufkin Daily News",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-hopes-of-world-cup-tourist-boom-feeling--2026-05-13",
-      "headline": "Hopes of World Cup tourist boom feeling shaky in Seattle - Washington State Standard",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-07",
-      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-hero-ferran-torres-scores-twic-2026-08-23",
-      "headline": "World Cup Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFlBYmpneHZ4WXFCTHRzQnVTV3U5Nk1Yd1NuT2dPcy1kRXp4cjl3R2l3cXByWWQ2a012NEV1UXZBcDhxZkhCZGVJeFhvaXF0N3pWa3I2Zk95SmJXNjR6WFVSNG9sd3liam1SdktMbWhMWHVsQTB4V0M4NUNPdG5mQXBveXFtVHliTU95U1BSbTlWVGtCZm9qdmVLc0w4ZWZyMFFfUGJibEl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-23",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFlBYmpneHZ4WXFCTHRzQnVTV3U5Nk1Yd1NuT2dPcy1kRXp4cjl3R2l3cXByWWQ2a012NEV1UXZBcDhxZkhCZGVJeFhvaXF0N3pWa3I2Zk95SmJXNjR6WFVSNG9sd3liam1SdktMbWhMWHVsQTB4V0M4NUNPdG5mQXBveXFtVHliTU95U1BSbTlWVGtCZm9qdmVLc0w4ZWZyMFFfUGJibElEeWR6Rk000gGvAUFVX3lxTE5rRkpBNjhWMFViMS1GTERMRnd0RURpQjdPa0V2TXE3aDNFVlhSNk84TUN3bmU5SVRuRHhZV0psVDRuZ2habmhmT3VEa1dqOTlwcmlnbXJQTVBBdnRWMFpQS3hSTE9pTVB3UTh0aFlpQTA1b0pOYzR1SzY0YzYxenJ2WEpVbUpOTEwxRDA3TlRUQ01xTE41Qk9VMTN4V2FfWFdtUXVwV0lTWXRCdkEyRHM?oc=5",
       "featured": false,
       "draft": true
     }

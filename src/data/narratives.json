@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-01T00:24:10.573Z",
+  "lastUpdated": "2026-09-01T08:20:41.964Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 391,
+      "chapterCount": 392,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3146,6 +3146,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEw5Sk9uU1lfNk52dGFXTlp4dkF2MWo0LVozVXJyVk51OFNUaVVOUFZZYjJWSHE2WUw0Z0RCSVN0dFN0WlBjTXhhY1JrNHpoRnB3TE12U3EzSzNhOW5jcjZFWDdRWFRLZ3hMb0VyZldETExUZUt1T2xac2tqNURGeDN0SGxpTnNfNDhlSk9ETQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788250839683",
+          "date": "2026-08-31",
+          "title": "Messi's most memorable Argentina moments: World Cup, Copa America, more - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2xIRGxOcWpSSnk1QWVQTG1iTktMTkJDdy1UWGk0dmJWbFhOQ0YtU0Y1dlV6NDdFakYwdmE5X0JBcDhkcG15Vm01cVR1SUwzZWVOZHBBVHp1MnJsR0d3QmU1ZlAzWVNVMlcyWHlOVHlHbmh1WFpmNGV0QTBmVWg4SXhQXzNTX0lJNTBmNFlLOVFJb3NINGVVekhiX3BubWdDU3BHT19JeGpybVBicTNZbw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5719,7 +5727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 782,
+      "chapterCount": 784,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -11976,6 +11984,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHdFWjlxYUNzaXdnWW9aeXpUUjZnMVlrMlgycUpGTDVHU2pxNzBDYmdBQU56cDhRWDYtbWpDQ3J2S2QxMlpLSVd5Zkw0NkVQVThVWUlSTVdwOS1lcHRYQjNScVhUMXlwZzR5dUFVNld6c1FZZzZpLVl3VTdvaXMzcGRxRnE4UllsaDBIVk04YUlIazdQX2ZxX0tITkxVQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788250840665",
+          "date": "2026-09-01",
+          "title": "U.S. Close FIBA 2027 Men’s World Cup Qualifying Window 4 With 104-80 Win Over Colombia - usab.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbW5jVGxwQmxoRXVDdF9meTZKa2Itbi1pbVJyZE8xUXR3NW9VWEFQLUpUbnVrbW9rTmZYMGNxdFVXRVFUeVNIRUdIUi00b3ZGMFd6RFJWR2lJUE9iY21kc0RGdjF3QkZ4bkhheFJyQkFHQ3VjNkxhZmRJWmNTX2JMU0ZfU1dkQ0w4R1BCUjdtRTBvdzVwZ0dOd004anlDdXpMbUhQSDFJdEF2NjVUang1N2VnNDI5TVNo?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788250840665",
+          "date": "2026-08-31",
+          "title": "How A'ja Wilson and Kelsey Plum injuries impact USA at World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1NyM0txWWV1cEVQZjJfVjM1ZVQzSG5GVHV2TEUwQWxfcTg4MWh5ME9kRXR2aVVibVNLVjg4ZDA4SjNEQ1YxVlYzVEJiTXh4SGY0WWhIZGpRUkQ1UWROSzhYVkF5YzlxdHpqMy1WYTYzU3N3dXVrYnRhTnVNX0JYOWxKTGlQb1ROczJlTkNmcHVpR0hNaXoybElHYW9qZTB4WHZiZmtCR01xSzZqcFdHZERCVnVhOVhwenZ2ag?oc=5",
+          "draft": true
         }
       ]
     },
@@ -11994,7 +12018,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 551,
+      "chapterCount": 552,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16403,6 +16427,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0tOWUVKTFU0Z0E1Y2VVZDJuWXJxcXNBdk94SGVkS2ktYnZmZ1Q2R3FhRWRWeEZnSGU0SGhmYlk3dTNYTzZlN0VtcWNWUHhBdHo4QjZScGVPZE5Fa0J3SE56bnMyOF9qMkdkQWFtMXVIYWlsTlhtZXhONDA1bTRldUZraGhPZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788250841395",
+          "date": "2026-09-01",
+          "title": "Indian football team for Brazil, Uruguay and Panama friendlies announced - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTN2S3dIQnN2ajFVN2pkQXFxX2JnXzlWTTlKSTZuUDBlZjFSQ2pRd19FWWQ1TDlRb2pTWXhWNjlDMkE0U3lhN0VZVmFHYkNld2tDQklLYWdiQXBaWGhuTUJpVWtWdHA2aTZYUEZOVXFLQlNSQVVLT1lCWEh1Tl9NR1daS3Y0Y2h3WmE4OUhtT3pLUE1vWVNF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16632,7 +16664,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 813,
+      "chapterCount": 814,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23136,6 +23168,14 @@
           "title": "FIH World Rankings Update Following Hockey World Cup 2026 - International Hockey Federation",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGh4WGY3ajJXdXlUSlVfeXZ3U0R0MmEtalhZbUxCaU1RSlZ0cjc0cUNBSlRxcERRcks1aW9OUGtDbjJzN3Vmdy1TNHJobHh2Qkhsb1JjMC1FR0phTjB4Ul9DVnpTZXZWNU50aS12YkZ3X09tMTRXcmVGb25hdmEwOEtVWkpwdUVJY1RWSGpB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788250841964",
+          "date": "2026-08-31",
+          "title": "Messi's most memorable Argentina moments: World Cup, Copa America, more - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2xIRGxOcWpSSnk1QWVQTG1iTktMTkJDdy1UWGk0dmJWbFhOQ0YtU0Y1dlV6NDdFakYwdmE5X0JBcDhkcG15Vm01cVR1SUwzZWVOZHBBVHp1MnJsR0d3QmU1ZlAzWVNVMlcyWHlOVHlHbmh1WFpmNGV0QTBmVWg4SXhQXzNTX0lJNTBmNFlLOVFJb3NINGVVekhiX3BubWdDU3BHT19JeGpybVBicTNZbw?oc=5",
           "draft": true
         }
       ]
