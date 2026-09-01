@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-01T18:10:26.357Z",
+  "lastUpdated": "2026-09-01T23:03:35.795Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
+      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-june-22-28-2-2026-06-22",
+      "headline": "Sporting KC Weekly Schedule: June 22-28, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-22",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - pbs.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lionel-messi-scored-21-world-cup-goals-b-2026-08-31",
       "headline": "Lionel Messi scored 21 World Cup goals — but which was your favourite? We asked our writers - The Athletic - The New York Times",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnhaWi1lYnRITVRxR1JkOG1zZWRUT1dnWkJHdC1MeGNwaE5ZbEtWM0Z5S3QzRUxjYVVvM2hpWkdyNWF4UVdzY1JRRXlYZkEtOXNZbS1xTEpldkhaZVFabWlzeUxDcWRRdEo4MWc4YTFsd1lIWUxmNDBGbFFPbHpYUTJRM2s1dWJ2bGpUUjk5eDduSF9TendvblRZUGpZeXdUeWFoY3hkbFoyQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-4-the-people-looking-back-at-the-world-c-2026-08-24",
-      "headline": "4 The People: Looking back at the World Cup in Kansas City - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnA0TTlBNnl3blp4Y3NrMDllRmloTHFxOTUxOVY5N2lMbHVjX1ZTdF9OWmkxQVVxWW5NUkVkQ3RUZ1pvUkg1dXlreDhBZU9QZUY5bTR2XzJ4elh3elRIT1RDMXhUbGlCd0FvMloyanpTUXRSdVc4aHk0LTEtTU12Nml4dFU?oc=5\" target=\"_blank\"&gt;4 The People: Looking ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-24",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnA0TTlBNnl3blp4Y3NrMDllRmloTHFxOTUxOVY5N2lMbHVjX1ZTdF9OWmkxQVVxWW5NUkVkQ3RUZ1pvUkg1dXlreDhBZU9QZUY5bTR2XzJ4elh3elRIT1RDMXhUbGlCd0FvMloyanpTUXRSdVc4aHk0LTEtTU12Nml4dFU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
-      "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-el-paso-county-declares-aug-24-ricardo-p-2026-08-24",
-      "headline": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection - KFOX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlB1b0hONDdyMmVidWx5a19JVWFGX0VyelEwZXAtZS1nUkJlV3FzbHU2c0lacWhOaWhxVm1JVUJPcDR0dkFVZlpDWEIzc3F1bUI0MFRDb2RWXy1kaFU0RDdrbHM3c1pYdUhVQllnRDZ3TXduVDFNQW14MDhrQW9ORUwtSnRwbURlWXdGVHU5WU5jd3h1UzgwU2ItWnRVTnNJNEpqb2tn?oc",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-24",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlB1b0hONDdyMmVidWx5a19JVWFGX0VyelEwZXAtZS1nUkJlV3FzbHU2c0lacWhOaWhxVm1JVUJPcDR0dkFVZlpDWEIzc3F1bUI0MFRDb2RWXy1kaFU0RDdrbHM3c1pYdUhVQllnRDZ3TXduVDFNQW14MDhrQW9ORUwtSnRwbURlWXdGVHU5WU5jd3h1UzgwU2ItWnRVTnNJNEpqb2tn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
-      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
       "featured": false,
       "draft": true
     }

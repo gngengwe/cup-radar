@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-01T18:10:29.592Z",
+  "lastUpdated": "2026-09-01T23:03:38.809Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 394,
+      "chapterCount": 395,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3170,6 +3170,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXRia2ZoWHdqeUx2ei1pS2w0M1hXVmFjZXYxdEEwMjlWZVBPeVhFM09KdW1vZXNfNm40VlhfTnpxUThlVnZpMGt3U3M5QlpaTXJSVTh6WXFHak5qQms3TURGZVFDMFhoakdzQXdxUlhqVGl1ajBfY09kdGZZSkV3QU5LLXhFLUFPWno5ZWdnZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788303816277",
+          "date": "2026-09-01",
+          "title": "After Messi's farewell, what is next for Argentina's national team? - NBC 6 South Florida",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXE5ZkNIS2tIVVFhcndjbnk4eUlpTzdMOXpsWHBrY2s1S2hZTHVnV1B2QTExc0FuRm5uTnFyX1N5Y1RRaHpHcy1sZG1GbVpuSFh4UUg4YllGV2I2dTE0SzFMRFBWQ0EwTUd1Y3FkcEZFZTRQbDhnX1lUakp4R25sNVFyY0hvYUJVVERoemhMYkY0UnFMSW1Ta2FaamHSAaQBQVVfeXFMT29HdHBsdUlSTlRMajN0V1pkVi1VS3dBRm9tZTVlU0VVNDVNZS1pbW5BUGNsTGZkclpYSUZFWXhmbEpsYTlGTHN4TDdlSzJNcGEzSHBtYnRjMmdCdGloU1F5TTZPWHdhNFFJSm9TRHZoQm9QdXp2bjRDOUFZdTRzVTh3SFVpNGtXOTl1UVNyVlF4RHZ0NFZXb2I5VGlpYUpiaWRFN0g?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5743,7 +5751,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 790,
+      "chapterCount": 793,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12063,6 +12071,30 @@
           "title": "Team USA Women’s Basketball FIBA World Cup roster 2026: Caitlin Clark, Angel Reese headline USAWB squad - NBC Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TZjlLeGtJd1hBNW5vQmpNanVXS3dmdFBiX3Vlal9HdjN6OUdOYmpEd1RWandfWG11VlQ0NU94TmVNTnhRcWItN3JVUTZsa0VIVkRUZ04tMGNCUzhUelRub0RKcV9tS0FYbnBGMGg3Q1FFME0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788303817351",
+          "date": "2026-09-01",
+          "title": "Paige Bueckers’ World Cup Debut Brings USA Basketball Journey Full Circle - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOENsT0xhOTNIb09XODJyMkRKTW9hYnI4RWJpekFlR2J6cFFzRmdLYlRtOFJLclRsN09fMHBXa29EV3czV1F5ZmF2LUVRaHlNT0pXVXFkUm1MR0pFRmVUMVJJS2hVdldyTkJ6NExWaEQzQTNPTVJwVFZaaUZoRHo4WXZ4MHREaHVPWkJN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788303817351",
+          "date": "2026-09-01",
+          "title": "Kara Lawson, Sandy Brondello Headline 2026 FIBA Women’s World Cup Coaching Staffs - justwomenssports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CcGNhZmVDUTVUZWUyaklOaVM4RGtwMHdqd0dMNl81S0lCbEFKbkszamU1Sm80djBGY1hJSnZWMEF0SDZBcnNnX1VwSU81OGhrZkpRQm9ya2FlSW13bEM0dVROdmFDRVdyeEJJVU5EV2NTdXEyRnJQU09XY2tQams?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788303817351",
+          "date": "2026-09-01",
+          "title": "How to watch 2026 FIBA Women's Basketball World Cup: TV/streaming info, Team USA schedule, location, dates - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSk83WVpOb2NmTjdFenhBTzJHeFlCQ0lxLWVpZzJpOFdCd1RQbXlpTld2aERjalhleFE1Tmw4V0k5SmVkM2ZOR0RuTmJvWWpqUWNDZWZzNVF6TmVLMDlYWUc2N0Y2SE0ybnFiRHhVUzdiRVFmdjNZRGJMSW5Pa2NaRDJNdXJ1YlZuaVFMa1cyMFpGZGdi?oc=5",
           "draft": true
         }
       ]
