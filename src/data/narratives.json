@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-02T03:09:25.445Z",
+  "lastUpdated": "2026-09-02T10:44:32.208Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 395,
+      "chapterCount": 398,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3178,6 +3178,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXE5ZkNIS2tIVVFhcndjbnk4eUlpTzdMOXpsWHBrY2s1S2hZTHVnV1B2QTExc0FuRm5uTnFyX1N5Y1RRaHpHcy1sZG1GbVpuSFh4UUg4YllGV2I2dTE0SzFMRFBWQ0EwTUd1Y3FkcEZFZTRQbDhnX1lUakp4R25sNVFyY0hvYUJVVERoemhMYkY0UnFMSW1Ta2FaamHSAaQBQVVfeXFMT29HdHBsdUlSTlRMajN0V1pkVi1VS3dBRm9tZTVlU0VVNDVNZS1pbW5BUGNsTGZkclpYSUZFWXhmbEpsYTlGTHN4TDdlSzJNcGEzSHBtYnRjMmdCdGloU1F5TTZPWHdhNFFJSm9TRHZoQm9QdXp2bjRDOUFZdTRzVTh3SFVpNGtXOTl1UVNyVlF4RHZ0NFZXb2I5VGlpYUpiaWRFN0g?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788345869950",
+          "date": "2026-09-02",
+          "title": "Lionel Messi says he's retiring from playing for Argentina - Scripps News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWo0dWJEMl9Ub1lMbVlGVkJMTHhkS0p6UzJfa3hGZGtMNmwtVEoteFNjR1BUQS1zNWxBeUxkSGppWlpGekRoY2VZQWdIbGwweDZoVUZFMEVGRkZnNDktcjZNYWl1eVoyQXppS3B0WUJrREdUa2h5dGdKQnBxRjNTNUppeEFHdTBZMHlYYXI4VFgzdzJ0X2tV?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788345869950",
+          "date": "2026-09-02",
+          "title": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDlzNjRxNjd5dm9oNzZoMEJsYlRRR3Bwa0V1ODd3WVlEcW1OUDNlT05kWFk5dHRWMklKRUdBdmR6bmF6eUFpdFh5WjRYLVFHT3FEMWFXRXhLaXV1bVhNYzA5ZVp2RnpWZ29qUzFKNUktT1hZWnk5bWRtd1FKem5Ra2pObzZzRHJsY1J0SXNjTkJkeDk2VjJCR25KMlZTc2RTYkQ5Z2pn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788345869950",
+          "date": "2026-09-02",
+          "title": "Paredes says suspension, Messi retirement make Argentina future uncertain - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3NtX1V2SmpRaFQzQTZacDlucThCZnVRSC1qMURoSFZkY0tJOGNxaWVWaXNCTThQbktING1xY19mMjBvTkhuclFKZm1oaERhTEM4LTJhTWlvODBZdWtBZ2U4LTg1VVJhd2ZaWGFKVTh5TG9LODkxQWtlWVhFOTc0cl9fNksxNndYVlpkN25GbDAwN1ZSS0l2MGpudUNyRzJxci1fazhUdDRZQUxXb3hLVzQwZzZsZVF2c01LblRjUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5751,7 +5775,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 794,
+      "chapterCount": 798,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12103,6 +12127,38 @@
           "title": "Folarin Balogun not going to Everton as deal falls apart in Premier League stunner - New York Post",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR01JYTFDTHA3aEtjYmNwaWtWQTVTdktwOEtRXzZnYlQwSmIySkM2dWFYVnJyeXBQMGNMZE1NVUM2ZmN5WkZVblM2a1RhcVdXUVJtU19Ua0xENzdoSUpEY0haM3JKZWhFMGdfQXRROEtOZlhBN3dlZ3dVenU4aGx2THh3V3hqSTFaZDBSMVZlVHJkdUJvTEpEWHN3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788345870873",
+          "date": "2026-09-02",
+          "title": "UConn stars lead Team USA at World Cup. Here's what you need to know. - CT Insider",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS25yZU5SWWJQRld1NnhRUXJkcTVwc1RJVVBYVHMwOGN5dUdMT2VjQTdRV2MwOEhHQmhoVmNJclJiX2d2NHJ3V3VEQVF5RW9uWnhhME1GNEItSGRKdGhKUjBwZURxRmRTbEprQ0Z6WVJfaG85NGRwSVRDUVBHQlVNV21OOWpydDYtQjNkQTVrVFFHanA4dElHOG9hVHdSa1BRb0lCNDE3RnBmTGU3d0hYQ0ItQmtTdlg5SllqX2RwaFFEb2s?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788345870873",
+          "date": "2026-09-01",
+          "title": "Post Malone, Jennifer Hudson and more to perform at 2026 FIFA World Cup closing ceremony - ABC News - Breaking News, Latest News and Videos",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZaZ2hiS3BfSG9lVU44bHNjQUI2R3I3anBjbERtTUc3OWNiSzY1TDlLdEozSUtGOXlrV0ZURW02WEdJS3JCSk1Ec1pFVGdhLUlXSl9BREp6OEp0bGt1X2F5T19KUFl1SmVubnViTlBfRHNoQWt1QzdfUkdqNDR3b3B4dHBHcTdReHAzam5MREtEa3E4V3pEdzdDcG9SbDNyNzlBZNIBqgFBVV95cUxNRUNVZzNvdi1tempHUzRHOWp0cExUTHlUbUtacjN2OFRDdlFFV0FlRTl1TW5TLWxPdkVMMGVNR2NqdmFhRm1OSF9rc04tdEN4dVNScERibjc3MW0zUldnV3R4UU9pXzRnY3Vjc1FITGpMMVpabEJ5RUF6X0hacGZOd1ZTczJYWUtVY1ltRFR6NWRjMVRDN2VSVkw3UUtqcEpjazM0RE5hOEVhQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788345870873",
+          "date": "2026-09-01",
+          "title": "The world is chasing the Americans. Plus: Fifth years can return in NCAA? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2VVQVcxX0xsM3hNTjh0aW1icnNoaHlOMUl5T3ZHT3lBVENmMjZ2MjlqVEhFUTc3dlRKTEVCXzBMNnFlTEQ0dzZibUxUQmJ1akI5UGdmR2hvWXhJc3RkT2ZielNZSm5DRjM2QmpmT3NfSWdhYk9fSG5kajFtVW1DLWtyQ3FfUWV2WFFKeHJ4WmZjU1U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788345870873",
+          "date": "2026-09-02",
+          "title": "Team USA could face 'most difficult' FIBA Women's World Cup yet, Kara Lawson says - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcTlsLUVhM2NrZW42YWdTZ0dZZEVxV0dSbGhmd1E4b0NsWTI2U203eEhDUGMxVk50eG1nX2g2djVIUGlqazJMbEdOTHBkTUdWWHFRRm1oc0Fqd3lSa0RFazBSNmcxbkVvMzZJVVdhc1lVTWZGS0o0NzRrMGFyMTNZNUp1Q212bzRqUmtJMWR2cGEyMWdlaXVfZVVWNC02ZGlwd1RaMndiX3NIN01BS1ZQU25DNldJZXJGSkxldkt1Z0k4dw?oc=5",
           "draft": true
         }
       ]
