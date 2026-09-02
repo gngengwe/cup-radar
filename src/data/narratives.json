@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-02T20:34:26.670Z",
+  "lastUpdated": "2026-09-02T23:00:10.088Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 400,
+      "chapterCount": 401,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3218,6 +3218,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWtCNzdpdElzcGVFQTJqX3doNm9TVHYyX2VyMTZLUlBpaEFQaGttY25sUFV4cGp4eUM1eGxjeHhkTi1ZTFVjTzJZMEZCZFB0aVRUNVRxV3JpaFZudnJGMlRnSEhPYzNMaVh5aU00VW5ISmxBZ0g5NDNBVkFGV3pCQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788390007193",
+          "date": "2026-09-01",
+          "title": "Messi has played his last Argentina game — get his jersey for 30% off today - NBC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdG1VWkU2aFE2TWkwLTVROUpucXN1aThScjFGUGtuZ01FbGpDSkoyVmVhV2RWSERpV2gwbFg1UmxOeDlUaTZyQXhIbUs5NDlRcVFxVDFaaW1QR2ZhbFhzSDd0Wi1IWERHS1ZvYnBRSjFHTmNfcGtiYXAxYXM3cW45RHhwR3l0aHpGUTFrZ2xNd1hRQ2djd1ZEYW53?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5791,7 +5799,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 805,
+      "chapterCount": 809,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12231,6 +12239,38 @@
           "title": "Basketball-Caitlin Clark Embraces Global Spotlight Ahead of World Cup Debut - U.S. News & World Report",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGFNMjBqeFVpa2JIYTJoX2dxZlhzb1pBMFJ1RmRpMEdoZi0xd2tOYkxDQ0hVYXc0ck52dTlzUmQ0QVMwMzR3THdlNEEtTV9jODBPOXFYZll2NGlhZzZtVnhuUWxjQ3Q0eTNEZ2dwaUtDZ0lERm40cS00dlc5cV9ueUVMUU1EZ0tOWDVkT2dQOWpnRTctSkxfMDRTUFg0VVNxX3daQ1JjZHN1c0pWWF85b2p1U0FNcGJiTGFXQWtIRldIZXZD?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788390008616",
+          "date": "2026-09-02",
+          "title": "Who are the players to watch at the 2026 FIFA U-20 Women's World Cup? - dazn.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1JaWTYwYndLa0t3VVVYemdqeE9WS0pjOXVIZDQ1WUhNN184aURaOGN1elZLNFdSeFRqRVV6WGtMTFNzTWMyRHZjUHdLUHh3QnZybGRlMHJJZ3BSd2h1MTBlMkp1ZlF6QmtTb0h0Yk1fS0lDMDhpZ3VxcWEzSnBnNlpaaWZ1M2xOUTRFSFRDS0ZNandDQXI0TEUxTEd6Q0k1VTJMcjktWmx6OGZIQ0E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788390008616",
+          "date": "2026-09-02",
+          "title": "FIBA Women's World Cup: Which teams are the biggest threat to Team USA? - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONm1NU1FuWG1UU3ZJLUE5X0JiZTlTdkQ0QXVkMVBSV0FSclVHNjRSc2xtOVowWjNNLVBoZk8tMVA5VHo1M3lrZlBiT2JsVGk2Vk9GZERQdGZQM1VvVk43U3J2ZW1XTWM0U0thVU43NWdWUEI1cUFXV1I2SzRrckJJZ3NDazZfV21fakE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788390008616",
+          "date": "2026-09-02",
+          "title": "U.S. Team Captain Brandt Snedeker announces six picks for 2026 Presidents Cup - pgatour.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdE5DbC1ua3NvNDNsWjF3TFktblpISEMxM2dqNmwtdHpxS3ZwSE9DZFZIbXRDY3B0RmtFVjRjTjlWbDhQNUtlRTF4cjJyOUl3aG9QXzBQenZoSlBQTkhSc0k0YWxMZlE3ZDhGWGViY3g3WGZyNDcyVnplQ0VXYXdMbzdfdGZwS1ExRWU5M2VEU1VIT2ZaVnBDNGpsVlRwSTU3N1lmRVlwZVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788390008616",
+          "date": "2026-09-02",
+          "title": "5 USA Regulars Who Secured Summer Transfers To European Clubs - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVlWNnVJaE1QbnBPMEliUDZTdzUzUkx3eXUtS2IxWHVUTnBNeVpPTV9MUVd6S3VubXd5b2dWOWpGTnB0TjdKTGQ1T3lYOXlNUDJWRUNZZUJMNTdiMEJIXzhhaXZ6aWFRZTFPaUZaUGtwUThzVTNKWktzQjhDb3pzZDZ0QTU1OXEwWFhvY09KSk1ZdmVoeVBibTVuVktkUE5h0gGgAUFVX3lxTE15S2NXZ05uNWpjMjFONVpoRm1QcW5SakdINk5QekxPM0JfY0t1d3dpUkhIMHFxWi11X0VCU3dGVzk5SWVLMEFadVQ3bzVyTy1rUXZmN2JHWmlTRUJwT2RuRFI3UlJZNjJBcERQTXhoR3lBc2t1dEV0b1RWNGVmQjI0dkc5Q1lJZzRPZU0zQk9xRDBMdld3UGJ5bS1meTVmLUQ?oc=5",
           "draft": true
         }
       ]
