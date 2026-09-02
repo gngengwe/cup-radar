@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-02T16:02:46.797Z",
+  "lastUpdated": "2026-09-02T20:34:23.939Z",
   "articles": [
+    {
+      "id": "news-auto-everything-you-need-to-know-about-the-20-2026-09-02",
+      "headline": "Everything You Need to Know About the 2026 FIFA U-20 Women’s World Cup - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVkLU1Ga3h5UU1BeTA0bE9rU041YklfME8wZGMxaU1TZjVSOEJtc0Ywbk8zSXNJaDZfUVI2ejl1YlBTUkZSdkRsZ1UySldIVlZPN3dCUXdTdGc2VkY4UVprUjVlM2RuQlJtMEJ6M1NxQjZIQjl2Tjdjajg4ZzVlVWQ5TXVydXRIdmJOZS0xMTRIX00wLUZkalFIaU5YYTZKNDc0QTJCSVF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-02",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVkLU1Ga3h5UU1BeTA0bE9rU041YklfME8wZGMxaU1TZjVSOEJtc0Ywbk8zSXNJaDZfUVI2ejl1YlBTUkZSdkRsZ1UySldIVlZPN3dCUXdTdGc2VkY4UVprUjVlM2RuQlJtMEJ6M1NxQjZIQjl2Tjdjajg4ZzVlVWQ5TXVydXRIdmJOZS0xMTRIX00wLUZkalFIaU5YYTZKNDc0QTJCSVFET05BME55UTIwUUFPMXVUNGZGaw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nestor-perinot-more-than-a-world-cup-a-j-2026-09-02",
+      "headline": "Nestor Perinot: \"More Than a World Cup, A Journey I Will Never Forget.\" - portada-online.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNczRLd3F6dUV2Y3NQVkFsSWc5bFZ0Z2N3VFFBWGRFNUNFa09nYmY1WFRBVFlfcXlFZU9RLWlkRkhxTHgzLXB3SHJOT3dINDVkT1ViM1pBZGlZTmNNWS1Tbm8zZUc2SDJjb2hNblR3WnJnbGRZNnM2bU5lZXVHS1dqbHg1U3M0eU9OV05BQzZ2LWREYWNSSTlSdllfNzJBeVpHdVVudVp2TUg",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-02",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczRLd3F6dUV2Y3NQVkFsSWc5bFZ0Z2N3VFFBWGRFNUNFa09nYmY1WFRBVFlfcXlFZU9RLWlkRkhxTHgzLXB3SHJOT3dINDVkT1ViM1pBZGlZTmNNWS1Tbm8zZUc2SDJjb2hNblR3WnJnbGRZNnM2bU5lZXVHS1dqbHg1U3M0eU9OV05BQzZ2LWREYWNSSTlSdllfNzJBeVpHdVVudVp2TUgtaUN3SDIw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
+      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
+      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-says-thank-you-to-kansas-city-aft-2026-07-14",
+      "headline": "KC2026 says ‘thank you’ to Kansas City after local 2026 FIFA World Cup matches come to an end - fox4kc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGpFS1FKaHRheW5DUnpVeFg2WHJoZmY1NldsdTJEeFJrLXl4YUt0SndtSFJsVXVjQlNFcnIwSUQ1bVpVV0xmaExkRmt5dDZOVV9WS2FCWmFGd0piRFZTWWdGTG5QY3NwQUZuZ0ZZVmowUTNPVUE5OV9jcUVTTjFLRUZQbW1hUi1mN2xPTmppa1pjT3pIS2dLVnZGVEpzM2J6SmNicXpJSmx",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-14",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGpFS1FKaHRheW5DUnpVeFg2WHJoZmY1NldsdTJEeFJrLXl4YUt0SndtSFJsVXVjQlNFcnIwSUQ1bVpVV0xmaExkRmt5dDZOVV9WS2FCWmFGd0piRFZTWWdGTG5QY3NwQUZuZ0ZZVmowUTNPVUE5OV9jcUVTTjFLRUZQbW1hUi1mN2xPTmppa1pjT3pIS2dLVnZGVEpzM2J6SmNicXpJSmxNR2VtVmlSY19NSVFPbWFReGfSAb8BQVVfeXFMTnNqd2ZhQkV2bGtPM0RObmNPQzBXVVV2cWhQa2xXUE94T3BiNGxfUXk5a3VhcmJxbmFtR1AxQ0RNYWhrdDhZdU55ZlN2cE5GanRtX05ERzZpZ0VqdXNwTXFGaGFEcTFSLW5IOGlsYlRxbGU0Z2pIamlER0dxRHZTQWZHNUg3U3REdHdtVktwNEFCYUxiU2ZJTVI3T3h4cU4xZ3FXRWwwWGZ2QTRUTzU3YVVsRTVVM1E2Wk1SOXF0N0E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-with-2-games-remaining-here-s-kansas-cit-2026-07-01",
+      "headline": "With 2 games remaining, here’s Kansas City’s World Cup experience by the numbers - kansascity.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE42ejBxVFBNTXpTdVFRSmo1TUs5d2dKeTdWVFZYTHBDc05ZdnUtOHl0N1IzTC15Nlo1UVgxUVI2OWRYUEozZDBLZGF5Sl9ZT1ZVQWVIRFluVHhOcV9XdjBEX0haUDlrVk9MaHZhU0RVLU54eUZza1puaGpn0gF6QVVfeXFMTWJzV2FDbmZkUWZiN3c1ak12SldWcEowd3dkXy1fN2N6cF9kNW0",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42ejBxVFBNTXpTdVFRSmo1TUs5d2dKeTdWVFZYTHBDc05ZdnUtOHl0N1IzTC15Nlo1UVgxUVI2OWRYUEozZDBLZGF5Sl9ZT1ZVQWVIRFluVHhOcV9XdjBEX0haUDlrVk9MaHZhU0RVLU54eUZza1puaGpn0gF6QVVfeXFMTWJzV2FDbmZkUWZiN3c1ak12SldWcEowd3dkXy1fN2N6cF9kNW03RTlyeEgxSXlOd19TaXZ4RDJiM0trczlUbDV5Tjd5ZkhvUEEwM05teS13ODB0ZDBUUWQ2aXVNMnh2ZGdMemZaYXV4aGFSMG0teTVXQ3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - fox4kc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-pat-mcafee-says-2026-world-cup-winner-is-2026-09-02",
       "headline": "Pat McAfee says 2026 World Cup winner is a ‘future GOAT’ - Yahoo Sports",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-27",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGNXakx1UnhtSHEwWS1FT0hMUmtScUkxYW1LakFOYS1yVUhwQWZsUDA2TXlyU0dwSF9TelVSYlVYc203M1dmZ1FtSU1QQmdNVlJOUlNDdFlpRWFqeFV4OElMWE50bjlzQXpHaFB2c3dUY2F6ZWdqNzJ6YTFlRW5rbWd3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-top-transfer-options-for-usmnt-world-cup-2026-08-27",
-      "headline": "Top transfer options for USMNT World Cup breakout star Folarin Balogun as transfer deadline inches closer - the-sun.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjE3NGtYU0R1ZnRBbEVUZzBvSDVKWW4zRzVzeGlOV29fTF9sQldOU21ZWkc2VUNfa0tfOG5ZR1pIcllNNE1uSGZiUXdtVDAtSmQ4NlZlZFFEN0VvLW0yUmVOX3ZuNWFydlBqVVRTNld1dGktRG9lUlNJblE5b3kzd2dTWVlIN0huV2JPS2ZVVjM?oc=5\" target=\"_blank\"&gt;Top tr",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjE3NGtYU0R1ZnRBbEVUZzBvSDVKWW4zRzVzeGlOV29fTF9sQldOU21ZWkc2VUNfa0tfOG5ZR1pIcllNNE1uSGZiUXdtVDAtSmQ4NlZlZFFEN0VvLW0yUmVOX3ZuNWFydlBqVVRTNld1dGktRG9lUlNJblE5b3kzd2dTWVlIN0huV2JPS2ZVVjM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-generated-3-5b-for-ny-region-h-2026-08-27",
-      "headline": "World Cup generated $3.5B for NY region. How much did NJ get? - Bergen Record",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxON0t6Q1JRbmw1S3VINnZKbWtPUFRjdWU5VFlNb0lKeHpTTlJDMGdZMnY5dXVyVFl6alRBQzdVRzhOTFZmRHMtMktpZmppZ21OS1pWc3M5TDBOakZhWUFWeVREc1BVN3JhNktWSHFjTG5ZNEItWFduYTNEdXZtaFlxZzJ2Vm9KdVhvc0RkMFU1Q2NiV0xGNWhLT0xjbEZyU3F3OXE1YnU0WXg",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0t6Q1JRbmw1S3VINnZKbWtPUFRjdWU5VFlNb0lKeHpTTlJDMGdZMnY5dXVyVFl6alRBQzdVRzhOTFZmRHMtMktpZmppZ21OS1pWc3M5TDBOakZhWUFWeVREc1BVN3JhNktWSHFjTG5ZNEItWFduYTNEdXZtaFlxZzJ2Vm9KdVhvc0RkMFU1Q2NiV0xGNWhLT0xjbEZyU3F3OXE1YnU0WXg2SVdh?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-fan-who-went-viral-in-tor-2026-08-27",
-      "headline": "FIFA World Cup fan who went viral in Toronto has been arrested - blogTO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS05PTmttVDE1bERWejhmUjd1OXctcGw1R2xnbDNLMTRkaVpBUGxYcjJfR3FkaXA3Qi1mMVZ6bDRzaE53ZzI4bnVBa0FOeFp3V3JOdHlyOHFtaFFmSmExZUJwbmZEUWE5ckw2ZVBuZ0xWcmx2STRqWl9kSHV6amRRS2Qwa0NKVlpKMnow?oc=5\" target=\"_blank\"&gt;FIFA World Cu",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS05PTmttVDE1bERWejhmUjd1OXctcGw1R2xnbDNLMTRkaVpBUGxYcjJfR3FkaXA3Qi1mMVZ6bDRzaE53ZzI4bnVBa0FOeFp3V3JOdHlyOHFtaFFmSmExZUJwbmZEUWE5ckw2ZVBuZ0xWcmx2STRqWl9kSHV6amRRS2Qwa0NKVlpKMnow?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
-      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-leaders-reflect-on-world-cup-2026-08-27",
-      "headline": "Kansas City leaders reflect on World Cup success, opens door to more major events - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMElnX1hHdkpvOC0zSWQzc1BqemJvT3paUGdRazNneEJuYlVqM1NzZ2ROZ2lLZUJjcy1wNXNkU2pfNGx3OXJkX1NCNlIydXVOSTBEM01Bb3J2eWtFZTlhTHdaWnFaSzN5UE5OMGVCemdkbDBzbXdoZmUyU1luU3RHYXRsdkwzOXdMOWp2bHItVFBuRFBUTF9ZZmtPN0x6RVFSSnhreElUR3D",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMElnX1hHdkpvOC0zSWQzc1BqemJvT3paUGdRazNneEJuYlVqM1NzZ2ROZ2lLZUJjcy1wNXNkU2pfNGx3OXJkX1NCNlIydXVOSTBEM01Bb3J2eWtFZTlhTHdaWnFaSzN5UE5OMGVCemdkbDBzbXdoZmUyU1luU3RHYXRsdkwzOXdMOWp2bHItVFBuRFBUTF9ZZmtPN0x6RVFSSnhreElUR3DSAa4BQVVfeXFMTTZHTDNyNUx1Rlo1VGEweTF2Y3A4UFdTVnZvbWNSalBSRHFPZ1piNnpVdk1QaG1DRUtPOFY2TFJ4SDFMQmhoMGI1TzR6SnlneDRoNFdXeUg3eDRDekVuTDA0XzJXSzl2dzlvTE9wVWJsbG51THZrU2pkeHZMTkNSX2NDMFRaZ2d1cHBsYXBzQlNBc1VCRXlQSXdOYUVxeEdXYVRmN0RvazRRaWhYN3lB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-chiefs-watch-guide-2026-tv-s-2026-08-27",
-      "headline": "Kansas City Chiefs watch guide 2026: TV, streaming for Patrick Mahomes’ return - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkY4ZnBjVFN3NWgycUp4eUNaV3F5NVFRUXlhZjRUUmtpc3hBc3JtcGhWX05haDF2T0dpa0NXTEU2Ujc5dXhnbXR2MlpINFBnTUV3RVpqM0I0MDZIZ2RaYUhMRk5nd195c2pXdGJ5OXNmT19KYjV4aDNBOWU4dVpiemxLb1poT3pMaUs4bkJWYjBrRzdqSWpJNHczREFERFJiVGo5NG9R?oc",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkY4ZnBjVFN3NWgycUp4eUNaV3F5NVFRUXlhZjRUUmtpc3hBc3JtcGhWX05haDF2T0dpa0NXTEU2Ujc5dXhnbXR2MlpINFBnTUV3RVpqM0I0MDZIZ2RaYUhMRk5nd195c2pXdGJ5OXNmT19KYjV4aDNBOWU4dVpiemxLb1poT3pMaUs4bkJWYjBrRzdqSWpJNHczREFERFJiVGo5NG9R?oc=5",
       "featured": false,
       "draft": true
     }
