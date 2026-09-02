@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-01T23:03:38.809Z",
+  "lastUpdated": "2026-09-02T03:09:25.445Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5751,7 +5751,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 793,
+      "chapterCount": 794,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12095,6 +12095,14 @@
           "title": "How to watch 2026 FIBA Women's Basketball World Cup: TV/streaming info, Team USA schedule, location, dates - NBC Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSk83WVpOb2NmTjdFenhBTzJHeFlCQ0lxLWVpZzJpOFdCd1RQbXlpTld2aERjalhleFE1Tmw4V0k5SmVkM2ZOR0RuTmJvWWpqUWNDZWZzNVF6TmVLMDlYWUc2N0Y2SE0ybnFiRHhVUzdiRVFmdjNZRGJMSW5Pa2NaRDJNdXJ1YlZuaVFMa1cyMFpGZGdi?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788318564134",
+          "date": "2026-09-02",
+          "title": "Folarin Balogun not going to Everton as deal falls apart in Premier League stunner - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR01JYTFDTHA3aEtjYmNwaWtWQTVTdktwOEtRXzZnYlQwSmIySkM2dWFYVnJyeXBQMGNMZE1NVUM2ZmN5WkZVblM2a1RhcVdXUVJtU19Ua0xENzdoSUpEY0haM3JKZWhFMGdfQXRROEtOZlhBN3dlZ3dVenU4aGx2THh3V3hqSTFaZDBSMVZlVHJkdUJvTEpEWHN3?oc=5",
           "draft": true
         }
       ]
