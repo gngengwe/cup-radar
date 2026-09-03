@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-02T23:00:10.088Z",
+  "lastUpdated": "2026-09-03T03:11:39.160Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 401,
+      "chapterCount": 402,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3226,6 +3226,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdG1VWkU2aFE2TWkwLTVROUpucXN1aThScjFGUGtuZ01FbGpDSkoyVmVhV2RWSERpV2gwbFg1UmxOeDlUaTZyQXhIbUs5NDlRcVFxVDFaaW1QR2ZhbFhzSDd0Wi1IWERHS1ZvYnBRSjFHTmNfcGtiYXAxYXM3cW45RHhwR3l0aHpGUTFrZ2xNd1hRQ2djd1ZEYW53?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788405096889",
+          "date": "2026-08-31",
+          "title": "Lionel Messi announces he is retiring from Argentina’s national team - CNN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yZjJ6emI4aF82T1dwSlZKRld0THJoMWFoZ2NfYnBLNmdnVjM3M1dEQ3AzZTUzMktWSXZjM0RWckhQLXB0bkdUbGNPMHlpNTluRTdvbWg3Q0dOQ3dXZC1mSENmX0lLeDJVSUxoc21JZFdBbm85c21vd1pibGVGdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3244,7 +3252,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 317,
+      "chapterCount": 318,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5781,6 +5789,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeW5DaUpfWHFLYjBQRTF2TUc3VjVYck1JV3VYWU8zT0pKQzlVUEdIakNYeXRmTGdma3RCYTFZN25QaXVHV2gzRmlKZDYxVVd1S3A0ZjluQjJ2TnJmRGZYblRSdzZpOUR1YzVubThzcEZSMUEtY3hfZTFfQ1NDNUZFSnJvX3VBZV9tVUV6ZQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788405097408",
+          "date": "2026-08-29",
+          "title": "Jose Mourinho Rails Against PSG, Spain Stars to Name His 2026 Ballon d’Or Pick - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTA1ZV8xNjg2bHdPNExNVTctYmJDT0ZENjhaXzkwbC1sVU5INzRPdDA5S3VxYzFPRzhpWnJFd3dkSHJwZHV3a3dJLXliZ1hlT2o3b1hCOEIta3NuekVrRVA4YlIxZlB2T1RNZ0NmeHRZNlNjVGFfTlRqWndGU1JVOG5B?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5799,7 +5815,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 809,
+      "chapterCount": 810,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12272,6 +12288,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVlWNnVJaE1QbnBPMEliUDZTdzUzUkx3eXUtS2IxWHVUTnBNeVpPTV9MUVd6S3VubXd5b2dWOWpGTnB0TjdKTGQ1T3lYOXlNUDJWRUNZZUJMNTdiMEJIXzhhaXZ6aWFRZTFPaUZaUGtwUThzVTNKWktzQjhDb3pzZDZ0QTU1OXEwWFhvY09KSk1ZdmVoeVBibTVuVktkUE5h0gGgAUFVX3lxTE15S2NXZ05uNWpjMjFONVpoRm1QcW5SakdINk5QekxPM0JfY0t1d3dpUkhIMHFxWi11X0VCU3dGVzk5SWVLMEFadVQ3bzVyTy1rUXZmN2JHWmlTRUJwT2RuRFI3UlJZNjJBcERQTXhoR3lBc2t1dEV0b1RWNGVmQjI0dkc5Q1lJZzRPZU0zQk9xRDBMdld3UGJ5bS1meTVmLUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788405097963",
+          "date": "2026-09-02",
+          "title": "FIBA Women's Basketball World Cup 2026: Schedule, rosters, how to watch during WNBA break - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaTZiSFVUOHFocHpPdGZVTE1Va05OV01PRnhMQ0Fqb1NCM2l0blhicWYzOGg4UC1pTnlpX0ZIY0dfdEJZRVFnTzZYcnAxSURBa1RacU56TlhEbFFLeTBfREE4M0dRNkY1VWZaLTRWcnNxX2NjZ29GLTZaUlE3WFlSb3NobE9QY1hIX1M2eVFnVndSakFLeDlhMTZWU0p1ODFWUXA4S0hFLVdCY1kyR2FwTFNVLU01bld6UktqZ2xQbkNrS3Z6NDAySzM1NkUtYmpEeHpxag?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12290,7 +12314,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 555,
+      "chapterCount": 556,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16731,6 +16755,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUtqX1RkWEZ5SkttVWJmY0ZDTEstVS1FMVZiWTlQY1FPbmxQbnR3NF9wOHJnY01uWVZfakdZRWF6NTlCNkdmSXAyQ0hxSkhEUk5sNC1fRnNPSWN0ZnNFUEY0X3F1TDBLZUxTV3JDX3I1eTFKR01TZk8xUy16XzcxN1hBbXNfTW51MDBnX09nV3lWM3g2Tnc1TkhYcUVaYktNVnNqbW1XZWhYTWM5RWJ2eUIyUUFfNHh6ZkNlXzZUWklRZ2R2QjNrT244eVpkbzU1SzB5OFJR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788405098524",
+          "date": "2026-09-02",
+          "title": "Accreditation open for Brazil friendlies against Australia - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONk5TLXVhR0dCTmZ0TG5URFZlRlJSRjQxOUdxaFhqRG5yVW1NMmFFeTU0OXZlNzlsdUtNSFQyZ252bVRHMzNIVDhieGJKNWNsUjhFa3dGRm40b2tjcHVHMi1SendOMVB4dTFhamtYQ0pSYUpKYm8zblFwSDJhbndsTXp3YmQ2VjllWnJPR1ZFUFhMc0gtY2kzUw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16960,7 +16992,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 819,
+      "chapterCount": 821,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23512,6 +23544,22 @@
           "title": "Caglar Soyuncu's England return now close amid West Ham United talks - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGVXTXlNeW9Ka29vaGRERTIta2FEUk5BcnJCcFJyM2NJanFGQ3h0WkZpRnVPSEFxVVJjdVd1YzZuVU5OOGhsNWlqeWRyOEpLcy1mM3lncVNkUnVyaWdBZXp2aGYyUXQ5SXRWWW9jd29Ob1dpOTg5QW1vZlBNVEJidm9Ya19aR2Q5SEY4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788405099160",
+          "date": "2026-09-02",
+          "title": "France avoids early exit in FIFAe World Cup 2026; Germany wins the Continental Championship - Sheep Esports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGdHXzI3dmRVVHFmLUFuaFQ2Sld6aDZiU01ZTlZXUmVXR0tZbkdxVENnODhCU1pLdHM2bzgxRXVlZktRN3NaYl9MSDhocWpBVnRuY3ZndzNiR0kxa3RlVnZpM2lZQXBmTEdrdnpZZnZLMHBqNzAycG1Ob0FkakRiakozN1lyVWxXZWEwSjNXdUUzdnROQkNtR1BJSkhkeXdiNzk1ZFRJdEFFUXZYaklUeDlpRzFUV3Z0Tk80Ymx5Z2tYdzR2UUU1LThOSzBzTUU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788405099160",
+          "date": "2026-09-02",
+          "title": "Leandro Paredes set to quit Argentina! Boca star ready to walk away after World Cup ban - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjdzVzNraVl0RW1IVEFOcnY1NDREaFVnbG1KaWY4WTIyMmo0eU1ZQ0pMREtUZkhkcXhMdnlyYWtrMWpzaUZETG5YU1pWUS1NNlJOS1FtVEtyNUFvZ3F0cG5wc3Zrc2RBcnh3WV9Gai1CNmR6MUNrYml2TWxhcVpmdG4zNDRfeW4yMkdPN0dpVVo2VUFidzJnQ2h1WUlwaEVJYWFORWZ2SUJPMmRlLXJIQ1FKUQ?oc=5",
           "draft": true
         }
       ]
