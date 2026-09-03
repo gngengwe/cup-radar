@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-03T03:11:39.160Z",
+  "lastUpdated": "2026-09-03T10:45:22.210Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5815,7 +5815,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 810,
+      "chapterCount": 815,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12296,6 +12296,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaTZiSFVUOHFocHpPdGZVTE1Va05OV01PRnhMQ0Fqb1NCM2l0blhicWYzOGg4UC1pTnlpX0ZIY0dfdEJZRVFnTzZYcnAxSURBa1RacU56TlhEbFFLeTBfREE4M0dRNkY1VWZaLTRWcnNxX2NjZ29GLTZaUlE3WFlSb3NobE9QY1hIX1M2eVFnVndSakFLeDlhMTZWU0p1ODFWUXA4S0hFLVdCY1kyR2FwTFNVLU01bld6UktqZ2xQbkNrS3Z6NDAySzM1NkUtYmpEeHpxag?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788432320282",
+          "date": "2026-09-03",
+          "title": "Who will USA play in 2026 FIBA Women's World Cup group phase? Full schedule - sports.yahoo.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sc2x0SE1mZ1VTb2phb19zcnMyNF9KcmlCdFVFOU1FRm82OE9qVXhKdHhDeGxIdTQyVDAzdnA3RWROX0NmbVB2QndTbEoxZW5zTmtZM1FHVzhSSHgwVzk1dmQ3WDlOblB4ZE5kMWJuWFRGMk4wUS1CajVZNG13Zmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788432320282",
+          "date": "2026-09-02",
+          "title": "Basketball: Caitlin Clark, Paige Bueckers, Angel Reese: Meet Team USA's seven World Cup first-timers - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTQlhBUVp3VmJFdkRmQldMVVBBWW9fYS1KSVZOSE9hSTVfS2Q0cGozMlU0OGhpaWcxeEF0NzY4a0lFbnZJUG5tRDhlaEZ4Nm5WZlBaX3JrMnFubG1DUjhMWkZMcVZfZTlhZ1dxY0w4Nk03Y19wbE1udWJoV2g4UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788432320282",
+          "date": "2026-09-02",
+          "title": "How Texas Became a Top Pipeline for USMNT World Cup Talent - The Red & Black",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWVdxeXJVejk5QWVuMTh5T01DbHVBNWJRYXFQRXE0MWs3ajJYY0I3QXJiY1JjZ01DMTlVMWU0R1J3V29GSkVTc1lkWmNwd0phWlNVSjhHWlExc29xaS0xSVRNNUZfVWUyZHFEbTZva21uS1RrLVd6cVVHWXRJN192enhQQzd3Rm1yRzBFUUcwMGpJcV9ianVCVThRMXJueTB5RmxxelU2bGI5SjZtOFY0cVNyUXlJRm4xNlZ6OGg3STJhOVJuLWl2YThtcUJkZmpCZG9xVmpNSG5ObzY2QzJz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788432320282",
+          "date": "2026-09-01",
+          "title": "U.S. coach Kara Lawson calls World Cup most challenging - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHI0WVNsLUdEbXZ3aExNV0NtbkNtM2s3cDdjN2RGa2RVNHNwa2Q4NnZSUGYwaFlwRGptY2VSbEltV05ZNkV3YW9mWmp1NEN0eC04VURDVXZlMFdVOHFiZmFuc2ZvZjJSYU9KcUlHTFoyOGlEZDdyUnJ0SWh1SVVMQm1MV0tmWGlLVGo0RU1QYVhTV2QxMEVhUkxydmZmbm1Z?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788432320282",
+          "date": "2026-09-03",
+          "title": "With a new-look roster and no A'ja Wilson the US FIBA World Cup title defense gets tougher - WPLG Local 10",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzN4MzBIRy1SSkQ1TUNoTWhuTVdBSnF4UVlWWXdNZG1OaDNWYkdTSGNJbkFVcjJtVGw5WEw4NDFhdldCUkY0cVAyMzhFVnpucEhhQm5RLS16WmdrT2lUZDE5RkF4N0RDV2NxQ3o4Rko2Y0ZiRklwaU9xOGhnVTlHbkhBNWQtdWFEZXBTbVFGQlRhSU04WDMyLURlMU04LVJEaXdTMkczVl9XQm9Ra3FkTHdTQnRJWEZkSXJ4ak12OGJZM3EzNk5mR0tvV0k?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12314,7 +12354,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 556,
+      "chapterCount": 557,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16762,6 +16802,14 @@
           "title": "Accreditation open for Brazil friendlies against Australia - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONk5TLXVhR0dCTmZ0TG5URFZlRlJSRjQxOUdxaFhqRG5yVW1NMmFFeTU0OXZlNzlsdUtNSFQyZ252bVRHMzNIVDhieGJKNWNsUjhFa3dGRm40b2tjcHVHMi1SendOMVB4dTFhamtYQ0pSYUpKYm8zblFwSDJhbndsTXp3YmQ2VjllWnJPR1ZFUFhMc0gtY2kzUw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788432321036",
+          "date": "2026-09-03",
+          "title": "World Cup rematch in Singapore as Brazil face Japan at The Kallang in November - businesstimes.com.sg",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk1zSXNVZWhSUUJqVERhSGE1bkMtSlNzdEs3WEV2WmViTEU0djg3aVNwNkdUV1E0S0NCczR2Z1NFX2hoOE1Sem5wZTVKNXJBbkNZcFAxLWc1WF9wV0Mtck5adXJZd2xyLUVnTEFMT3MtdFA3azZqSGItZ1dOV2MxcWt4VDFYaEdwZVhudGg0VUthT0ZSb2h6VVVHYWItQjM0OEE0b0R5RVU?oc=5",
           "draft": true
         }
       ]

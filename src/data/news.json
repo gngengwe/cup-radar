@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-03T03:11:36.408Z",
+  "lastUpdated": "2026-09-03T10:45:18.618Z",
   "articles": [
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-june-15-21-2-2026-06-15",
+      "headline": "Sporting KC Weekly Schedule: June 15-21, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmlGUF9kbFJuVTA4RU4wQUo0dE5KZmxsdXgxRkY5dDlNeG9SQmhDdUxYS2REWU5pZkJOSkRyWVRiMTRocXJnOExqLUxsdG1sNGQ2VkZZTVlrTWhhVWNDZjdaRnNiM24wZU04NnI2S24zRjN6NnZ2RUJidFJwTkRqSDNvaWkyTC1E?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmlGUF9kbFJuVTA4RU4wQUo0dE5KZmxsdXgxRkY5dDlNeG9SQmhDdUxYS2REWU5pZkJOSkRyWVRiMTRocXJnOExqLUxsdG1sNGQ2VkZZTVlrTWhhVWNDZjdaRnNiM24wZU04NnI2S24zRjN6NnZ2RUJidFJwTkRqSDNvaWkyTC1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-area-boosted-infrastructure--2026-06-10",
+      "headline": "Kansas City area boosted infrastructure for FIFA World Cup. Now, the games begin. - Kansas Reflector",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDNWZmE3NjVFRTJqRkZoaUlwTXdtb0NqY0VLczU0dTN0czhXT01QUmVQYmhnenVpNHdWdzZmTmZDbUVKODBubW9nMWF2SWJwdVROaXZCcjVVbG9aNXJlNlhXaC0xaUs4b2hwVk11a3NOOVZBd2hXQnIyVC1BNC12bFBBbGtLWGx3QlRBMi1PdHdCbUtYZ0RjZWtZc0RpRkw2aC0tZXVGSDA",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-10",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDNWZmE3NjVFRTJqRkZoaUlwTXdtb0NqY0VLczU0dTN0czhXT01QUmVQYmhnenVpNHdWdzZmTmZDbUVKODBubW9nMWF2SWJwdVROaXZCcjVVbG9aNXJlNlhXaC0xaUs4b2hwVk11a3NOOVZBd2hXQnIyVC1BNC12bFBBbGtLWGx3QlRBMi1PdHdCbUtYZ0RjZWtZc0RpRkw2aC0tZXVGSDAyVlcxQmR0QXZQUTVCQ3VWQWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-why-world-cup-fans-are-falling-for-kansa-2026-06-26",
+      "headline": "Why World Cup Fans Are Falling for Kansas City, the Tournament’s Smallest Host City - AFAR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkhnakdtMEJ1X0RTenJVV3QzU01ONmktOWlaLXVBMl9mcE16RG1PaW4taUo2bS1MNEtCa0VmYmk5ek9DR01BLUxGdFQ5WUZVeWFCUkNLdHZMSWZyLXBPTW5kMkpQMEJtTjdUdGk0MFlET092OGc3YXBSUWRPS2VuaVR0ZU4wS2lOSW5Fdw?oc=5\" target=\"_blank\"&gt;Why World C",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-26",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkhnakdtMEJ1X0RTenJVV3QzU01ONmktOWlaLXVBMl9mcE16RG1PaW4taUo2bS1MNEtCa0VmYmk5ek9DR01BLUxGdFQ5WUZVeWFCUkNLdHZMSWZyLXBPTW5kMkpQMEJtTjdUdGk0MFlET092OGc3YXBSUWRPS2VuaVR0ZU4wS2lOSW5Fdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-here-s-how-many-people-attended-world-cu-2026-07-16",
+      "headline": "Here's how many people attended World Cup matches at Kansas City Stadium, Fan Festival - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzdKX3d6SzdraXFyLTRQTkZKcTFvWmxVaDVrSXFFbEhNMjZMbW5hbnd0WVNYSGZVZHJ0OG1FV29KdWRWX1pQYlo3XzBocEVJZ1NnNnRwbHRUQUFXVlV4SUNVYnpnMDZlZW43Y2hJUWZYY2ozNGQtbEZPbjF5QVZ1bktCVlN0d0E2eTktczJhbWI5R2xUOGNj?oc=5\" target=\"_blank\"&",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzdKX3d6SzdraXFyLTRQTkZKcTFvWmxVaDVrSXFFbEhNMjZMbW5hbnd0WVNYSGZVZHJ0OG1FV29KdWRWX1pQYlo3XzBocEVJZ1NnNnRwbHRUQUFXVlV4SUNVYnpnMDZlZW43Y2hJUWZYY2ozNGQtbEZPbjF5QVZ1bktCVlN0d0E2eTktczJhbWI5R2xUOGNj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-lumen-field-transforms-for-wor-2026-05-22",
+      "headline": "Seattle’s Lumen Field transforms for World Cup as first match approaches - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEc2dU5OdkI5OWRsTS1wRVdUUGtjTzY3ZGxyYnpYYkFoUU4wSVdYdEdyMm1hLVhWRzdXZEZmYllsdlNnZGpMdlZNTE9CdXVKY2NGWmdCaElhYkRkaXBaUElwdXdrd1Ffa2xuc0czaHNXWklNWEtrS2JIZE1TUExHU2IzbnZHVExHRzc5cnlPUFBjaXNfUER0aEtEem00QlVtUnZxZW14SHF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEc2dU5OdkI5OWRsTS1wRVdUUGtjTzY3ZGxyYnpYYkFoUU4wSVdYdEdyMm1hLVhWRzdXZEZmYllsdlNnZGpMdlZNTE9CdXVKY2NGWmdCaElhYkRkaXBaUElwdXdrd1Ffa2xuc0czaHNXWklNWEtrS2JIZE1TUExHU2IzbnZHVExHRzc5cnlPUFBjaXNfUER0aEtEem00QlVtUnZxZW14SHFjZ0R6WmQ3OFlFdkR2RGh2M2ZGYWk5d3RUYlU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-geha-field-at-arrowhead-stadium-starts-t-2026-05-11",
+      "headline": "GEHA Field at Arrowhead Stadium starts transformation for FIFA World Cup 2026 - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjNKQVRKMmxxWEwtQ19lQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
+      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-kc-s-world-cup-debut-was-both-exhila-2026-06-16",
+      "headline": "How KC’s World Cup debut was both exhilaratingly Messi and exasperatingly messy - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmZ6ckhaTUtnc0JLZzlma1hJTHcwTGNUdEZiMzBRaUNSQW0yc1NkNm1raFlaUjh3UEpkVEZtUno1RTJkaE1OeDlXOTgxMVFiUl81M0s5STVreWJLMnR5U0N6S01teTJNZFVOc293TzU4RzNob0xSSkhiLVBBWXlzdzJvMTdKRW1ZM0toSHEwS2Fhd9IBkgFBVV95cUxOcVg3WDc3Z2RFNGp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmZ6ckhaTUtnc0JLZzlma1hJTHcwTGNUdEZiMzBRaUNSQW0yc1NkNm1raFlaUjh3UEpkVEZtUno1RTJkaE1OeDlXOTgxMVFiUl81M0s5STVreWJLMnR5U0N6S01teTJNZFVOc293TzU4RzNob0xSSkhiLVBBWXlzdzJvMTdKRW1ZM0toSHEwS2Fhd9IBkgFBVV95cUxOcVg3WDc3Z2RFNGppZEl0b1JmUjg5b3FLZkJvc21TQVloZXFaN0c1bVNaandMcUhEaFlPN0ptMmppSVA0ZUFuYmIxYXVFUzUzUWNGOHRjck9WY2N3WkpSMjBRekR6ZVBucm51d21uNng1RktxT1E2c19Oal83TnY5bkMzenNlMXlpSlZmRzAyajEzZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fiba-women-s-basketball-world-cup-2026-s-2026-09-02",
       "headline": "FIBA Women's Basketball World Cup 2026: Schedule, rosters, how to watch during WNBA break - Yahoo Sports",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-27",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0lLVjh2aEg1Ri1mWE43TUdGeG9yUXVRbkE5MmFWcHVnQW42RWVmRmd2QUg1cld3c0l3TVNTdzJCTEJSUEZZekhnVGVQLUF5RWJia050alBNUkNHbDBCdUd5REFIcXd5ZXhYREJwQ0hXQ2diY3ZHSmhMTW1NWUQxYlo0aHVUeDVrQm5Ma05VZnBmWHhD0gGaAUFVX3lxTFBSMmxOWmYzNElvRXREc3RTZ0oxbGM4MnAyXzFTMEszblI2c1U4Zk15V0tUZHh6b25rdGJLUk5fb1U3S1pqSXNaMXdZRlZvVHZPZlVKVDZrbjdRMFUydHc5RVlhMWxKLWhsMXY0UWlVQlJCRU5QWUhlaVEwY2EwNXVhYmtTajhkQkhGM2Jicm9LQTZyWXVDWnE3S2c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-soccer-show-turner-talks-world-cup-e-2026-08-29",
-      "headline": "The Soccer Show | Turner talks World Cup experience and Revolution's potential - revolutionsoccer.net",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONGRoUE5hdTdzbWVHQXdqLThJN1FsR0JObllXQkxGOUViQ3o3akdKOUMyaXNUYWVNRTFMbndrd2h6X001dzNCT0ZwTVZqZm5oOWpCT1NyUEhsT2ZRNDN2OHB3ci12NldpNjVNVGhrRk5RR0J2bjhtVFI5VFRHbE50QmZRX3ZzNTJjWDlOSkdsSVR5eG9C?oc=5\" target=\"_blank\"&gt;T",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-29",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGRoUE5hdTdzbWVHQXdqLThJN1FsR0JObllXQkxGOUViQ3o3akdKOUMyaXNUYWVNRTFMbndrd2h6X001dzNCT0ZwTVZqZm5oOWpCT1NyUEhsT2ZRNDN2OHB3ci12NldpNjVNVGhrRk5RR0J2bjhtVFI5VFRHbE50QmZRX3ZzNTJjWDlOSkdsSVR5eG9C?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lessons-and-efforts-from-the-fifa-world--2026-08-29",
-      "headline": "Lessons and efforts from the FIFA World Cup w/ Kris Kolluri - THIRTEEN - New York Public Media",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYURjbTdOZXJTTk1GTFU4Ymk0M0F6Smh0TFh2ZlpEcXUySFdzeTAxSFFhS1JiNnJybmc4cmNGWV91RmtORDZwM2c2eUlKcW95akJPQ0Q5LWtWOTNYSGpaTG5LZUV2SFBZWXYzcGdPSFFrOTUwZkNHZW1WRkZCRXRaREZjeUxKYWJYeVVxNmUyZmpDRzk5ejNTLWNBelI3U21LXzBtMDdIUmo",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-29",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYURjbTdOZXJTTk1GTFU4Ymk0M0F6Smh0TFh2ZlpEcXUySFdzeTAxSFFhS1JiNnJybmc4cmNGWV91RmtORDZwM2c2eUlKcW95akJPQ0Q5LWtWOTNYSGpaTG5LZUV2SFBZWXYzcGdPSFFrOTUwZkNHZW1WRkZCRXRaREZjeUxKYWJYeVVxNmUyZmpDRzk5ejNTLWNBelI3U21LXzBtMDdIUmowM1dENEMyMDI3QjZhWEh0bzNUbzVidlBlLW56QUFoQlRR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-harrison-high-school-new-soccer-space-cr-2026-08-27",
-      "headline": "Harrison High School New Soccer Space Creates Lasting Community Legacy Following 2026 FIFA World Cup - PR Newswire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc0IzRWRoVTlMMFBpSEh5WFFLVDhSYjNSNlh2RnFXZ2FKZDYzUG9jUEJUSU9keGVhWDB5cl91RVJFczhUbWFrWWJhZ01td0VSM1JqTkc5MTBUS3JucDVka25rZ19vNDlXMUpJQThMSXVvVlo3bUZtcXR1eWttVG5HU3AzUHNPTVhrLUJPN2FmbG9td1JIUVQ0WWY4Z2tLVnYxTE1kSF9WdnF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-27",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc0IzRWRoVTlMMFBpSEh5WFFLVDhSYjNSNlh2RnFXZ2FKZDYzUG9jUEJUSU9keGVhWDB5cl91RVJFczhUbWFrWWJhZ01td0VSM1JqTkc5MTBUS3JucDVka25rZ19vNDlXMUpJQThMSXVvVlo3bUZtcXR1eWttVG5HU3AzUHNPTVhrLUJPN2FmbG9td1JIUVQ0WWY4Z2tLVnYxTE1kSF9WdnFHNklHVmQwakl6Ny1aOWU5UW5fbjBJRnNJSFIxWW5mQTFmc3pLbm9wWU9GVEduTnpSekt2Y2FKLTdhYW5QNWFWT0RpTw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
-      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-star-breel-embolo-to-hear-the--2026-08-29",
-      "headline": "World Cup Star Breel Embolo to Hear the Verdict of Atlanta in MLS Debut - Sports Illustrated",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxON0hsM29ma0JkVFRDalZ3blZUYzBNc0JrOUU1dEtPNGhYcFVnTlBKUFp5NU5RVi1qU0NFaGRRb0Y5WjdZM2h0MUl4cXlpamR1eHJxVUFEamxNUFJmYW4zdXdSeUhpaVl4U2xpU3ZQY0w1Q0g0NkNzZWpQNEZtYVNWc2o4a3NHUQ?oc=5\" target=\"_blank\"&gt;World Cup Star Bree",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-29",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0hsM29ma0JkVFRDalZ3blZUYzBNc0JrOUU1dEtPNGhYcFVnTlBKUFp5NU5RVi1qU0NFaGRRb0Y5WjdZM2h0MUl4cXlpamR1eHJxVUFEamxNUFJmYW4zdXdSeUhpaVl4U2xpU3ZQY0w1Q0g0NkNzZWpQNEZtYVNWc2o4a3NHUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-07-19",
-      "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-delivers-verdict-on-argentina-s-req-2026-08-28",
-      "headline": "FIFA delivers verdict on Argentina's request to reduce bans after World Cup final mayhem - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3RTZWsxbTlNcnEzZTZCU1hmekN6UWh4SktKVWNlcUVpU2ZEdzlLc1BpUHpQSVlPQVBaR2V5OWY4OTc0S05rdXNmRkJpRTJveHI4d3o4a1pSMktmVjlkeW1VVGZKdlVnRG92WUpyV0dKNlVtWWJIR285YUhfNDdJVll1X192Rzl3aUJRVU82bGRqQnM?oc=5\" target=\"_blank\"&gt;FI",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-28",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3RTZWsxbTlNcnEzZTZCU1hmekN6UWh4SktKVWNlcUVpU2ZEdzlLc1BpUHpQSVlPQVBaR2V5OWY4OTc0S05rdXNmRkJpRTJveHI4d3o4a1pSMktmVjlkeW1VVGZKdlVnRG92WUpyV0dKNlVtWWJIR285YUhfNDdJVll1X192Rzl3aUJRVU82bGRqQnM?oc=5",
       "featured": false,
       "draft": true
     }
