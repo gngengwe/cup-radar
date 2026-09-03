@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-03T10:45:22.210Z",
+  "lastUpdated": "2026-09-03T20:34:03.094Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 402,
+      "chapterCount": 403,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3234,6 +3234,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yZjJ6emI4aF82T1dwSlZKRld0THJoMWFoZ2NfYnBLNmdnVjM3M1dEQ3AzZTUzMktWSXZjM0RWckhQLXB0bkdUbGNPMHlpNTluRTdvbWg3Q0dOQ3dXZC1mSENmX0lLeDJVSUxoc21JZFdBbm85c21vd1pibGVGdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788467640966",
+          "date": "2026-09-03",
+          "title": "Messi to get mid-game tribute by soccer teams across Argentina after international retirement - WSLS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZndRWFhZaE5kenp6YkxCVWxlaFVMTFhYNWN3UHEyZTB1aWpzYmVrRVBhU0syNTllQXF5MGpSNTBWaDdjV1BEUmlrVVB3am9tOUxiM0s2Ynp4QTlQVEFmQkpBRXhlUFdZS19waGtuSmEtdlE2SUkyZDR5VFNDWmw1OXkyVktOblhtTWticGxKUHVVb3QxVFJfd2J3NVEyRDJkelJyWW1IcHlfY1U1R21Za25KYXlsRlJuOVJzdExxVWhDN0lVQkVPeHBPUS03Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5815,7 +5823,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 815,
+      "chapterCount": 818,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12336,6 +12344,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzN4MzBIRy1SSkQ1TUNoTWhuTVdBSnF4UVlWWXdNZG1OaDNWYkdTSGNJbkFVcjJtVGw5WEw4NDFhdldCUkY0cVAyMzhFVnpucEhhQm5RLS16WmdrT2lUZDE5RkF4N0RDV2NxQ3o4Rko2Y0ZiRklwaU9xOGhnVTlHbkhBNWQtdWFEZXBTbVFGQlRhSU04WDMyLURlMU04LVJEaXdTMkczVl9XQm9Ra3FkTHdTQnRJWEZkSXJ4ak12OGJZM3EzNk5mR0tvV0k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788467641911",
+          "date": "2026-09-03",
+          "title": "Meet the Team: USA’s 2026 FIFA U-20 Women’s World Cup Roster - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHVvQjNXdGdWZTlDTlVBc2Nkanh1T2w5eTN5WFY0dXVjS2RrdDk1TTMzRFNoS2k4VVhHRVpzY0xuQ2lvSG9NUU55MUhWaVNWV2pJcHlLY1JlOTJGN1dFeHRWc1lnWlQwVWhpTmlpN2J4SHQ5NHFXeG9RMHh4TWdOVWRfR2hqaHZ6UlAyek0wcmRkd081LVJLNS1rZGdkSjJNa0c2NEt3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788467641911",
+          "date": "2026-09-03",
+          "title": "Where to watch Team USA at 2026 FIBA World Cup: TV channel, live stream, schedule, game times, roster - CBS Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHNiWkNveTVQLW04bjl3R0R0YjNWTF9TQ21BZ1Btc1ZCeE16bEdZakVfcTBsMGh2QUxXSXpQRWJ1TVhlZ1YwNFY5SV9pM3I4ZFpfWW1KeW9HX2Q2S2p1TGFRbk55aS0xNW0wUHhWbVI5YmdfSnpYcjFCMkFGNmMtUGhOT1dKakd3QV9KSWN2VWl1c3B3TDZyQlJIYmZPYnJWcFdncGZ4dFM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788467641911",
+          "date": "2026-09-03",
+          "title": "FIBA Women’s Basketball World Cup 2026 full game schedule, start times - nbcsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVRzXzhQWl9aSkp1akJjOU5DZGdaNXVoVTRMSi1ITW5QVjR0OVgxaTMzcHNxTkY0OGtuUWxURVVrekQ5N0EtMjROeGVUbnNGN2Rib0VndzNqWm9tWkplX3FiaGRhVlBzRk52czJ0al9maHpRUXZRYXFfZk12MU40aFZMY09OZExxZHhNSGUwRDVSVEZoSFdJVGVzeVZFNXZCcXd6WXNKdjNnQnRO?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12354,7 +12386,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 557,
+      "chapterCount": 558,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16811,6 +16843,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUk1zSXNVZWhSUUJqVERhSGE1bkMtSlNzdEs3WEV2WmViTEU0djg3aVNwNkdUV1E0S0NCczR2Z1NFX2hoOE1Sem5wZTVKNXJBbkNZcFAxLWc1WF9wV0Mtck5adXJZd2xyLUVnTEFMT3MtdFA3azZqSGItZ1dOV2MxcWt4VDFYaEdwZVhudGg0VUthT0ZSb2h6VVVHYWItQjM0OEE0b0R5RVU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788467642604",
+          "date": "2026-09-03",
+          "title": "Brazil, Japan to play World Cup rematch in Singapore - The Daily Star",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzY4eUZpTDhGTUJrNXNYSkxoSldMMGJmbHByRHdVUDBFazdpcnRnNWQydHcyUEFyX1FzaG9lVmVQYzViZkhfQWpNSDQ4TjU4NElQNjAyWGlQNHQxLW9YNVpRLW1zM3NxdzRVdE1TY25sZ3k5OVJHYURPSEMwdUlhUGJHNlBXdnIyWlhqa2Y3Tl9ZSi1qQ1JUUWNxeURkcllYSFRRUjB3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17040,7 +17080,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 821,
+      "chapterCount": 823,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23608,6 +23648,22 @@
           "title": "Leandro Paredes set to quit Argentina! Boca star ready to walk away after World Cup ban - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjdzVzNraVl0RW1IVEFOcnY1NDREaFVnbG1KaWY4WTIyMmo0eU1ZQ0pMREtUZkhkcXhMdnlyYWtrMWpzaUZETG5YU1pWUS1NNlJOS1FtVEtyNUFvZ3F0cG5wc3Zrc2RBcnh3WV9Gai1CNmR6MUNrYml2TWxhcVpmdG4zNDRfeW4yMkdPN0dpVVo2VUFidzJnQ2h1WUlwaEVJYWFORWZ2SUJPMmRlLXJIQ1FKUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788467643093",
+          "date": "2026-09-03",
+          "title": "The Pride Of The Three Lions: Six Of The Best England Soccer Teams - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGktRjYzZnhZVTYzalJZZVlWbjc0UGUzMUwxVnp5TUFybjRsMnBuNVZUay1IYi1ZWVNDUjZGNC12M1R3alVtNkFEdWl4aEU0MmYwemg0SVJzUEFoWnIyUWpQNVJWTTZaQVJOWEdWSDJTcHVMbzhlYkxGNDlTZWtnSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788467643093",
+          "date": "2026-09-03",
+          "title": "Thomas Tuchel in World Cup inquest - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEdLRmFkaUxiaVpZRVV5a1N5cHkxVTk2V3BLWEwyQldwc0lsZEVpMURZUkd2bWY3RnVFQ0Z4SWx2STlpcEVPa2hVNzZLZTlpRGdZVkRaMFFPYlJJWnJQYjZBQnRCMFBZNWVGWkVVU3dUNnE1cllnM0VRM1dtX2hrcHRKOUtBVkNMelJUN05nbG1SUQ?oc=5",
           "draft": true
         }
       ]
