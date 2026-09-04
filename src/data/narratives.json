@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-04T15:50:44.089Z",
+  "lastUpdated": "2026-09-04T20:20:43.210Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3284,7 +3284,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 319,
+      "chapterCount": 320,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5837,6 +5837,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQjJJck8wbTNsbnZMR1B2ejBmaUhZWnlJb1lBQVZuYmtPUFVNNDNiQzdBOTdFRnZtTXdTZHVjQUZibkJSS1NmSVBfajIzUjFEamljNXpjLUxKamFjcGJOQ1EzZ0NuT1N2Y0dGVnlPRHBxMFF0SVBHbVAyWFN6d01HT0xnVTlsS0M4VjA3b0VmUEltRDl4cV96eUJhU1M2ci1sTk1zZ09PSlRVS0VqYmQ4UUNvMTVkUUMyOXJkdlJZU0M5ZUgxX2Z3QlZaTXlGY2Q5TDlhSmM4WDh1STVZaER1QVlhaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788553241468",
+          "date": "2026-09-04",
+          "title": "Kylian Mbappe only ‘top three’ in the world as ex-France international Bacary Sagna snubs Real Madrid superstar & Harry Kane when naming his 2026 Ballon d’Or winner - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdldrQm9jdWNzY2NYek5welloQXlWa0ZGVC0tV044TXRGaVRwZUx1VlJCV3RuTW5hQmtRV1RzSDNzaGpzQTU3cHd0TFJ4bTVVQTNyTWtlUHMzQ3dWNFpkekQyNzlyZm52czVlVzJ3a1hCZFI0LVJIREZFcGktVTZrYklfVllxU0U2cHJ4QWZic2N5RDNnYkhJZGI2MnJYQmpXZ3pxeURnN0Z0TTg1U0d6SmNaYjdmOEJiVDZCTmpwcmZKSFFCY3pFZWJuRWlfWllMTzJtN2RRQV9BWHY1T2lZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5855,7 +5863,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 826,
+      "chapterCount": 828,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12464,6 +12472,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmdsbHFMQXdWQndtTHpQU25iX0VuYWVkd0hnenFIWHJLdWxLZnFTWVpGTGZxZ1ZXcVQwc3VHV19IOWk5OWZ4RUt6Z2ktSGR3WXFST1FlMHVZd0I0bjk0dTl5eG94bHJjdUF0OVdsVDVjcFlrczRNZ2x2ZVE5TkF2Q3p3YVlUNFJlTnNhRE9Gc2hNTHNKY0VGTzRQWWNBSTVoMEpZSEc0d19XcXVEZWdxYnpBSkV4eFZsY3JR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788553241956",
+          "date": "2026-09-04",
+          "title": "GALLERY: World Cup Day 1 feat. AUS, JPN & USA (9/4/2026) - Las Vegas Aces",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CRWRJb3FtYmVZeW1IWkZHcnN6OTU5eUFXWUpzNEprU2VkT2g1cTI1QzNMVk1ZNGJfelhRVzZxazMxVWFZdGlqQ1NvQmJVdXFrZWtBRklRbWtOMHhMNl9RM2lKdzFKZ2llcFpYZ0U4UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788553241956",
+          "date": "2026-09-04",
+          "title": "Caitlin Clark’s double-double helps USA rout China in Fiba World Cup opener - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWJNcXUxQXdoRnd4QXMxcEtoVFNCVlFvQ0pKSHp5VmpkUlhtVExfZ2ZiVGxkV2tjRm1ncDk5Z0E3OUVZNl9uME9Td1RNNDZnVGlLYnlGZjFsSWpQTEJzTGY0dVBHazd5QkhJZE05aHA0VnBBNlhiRFN5MWxobjUxOUdaNVJWQ1lJNHVIaExEZEx6dHM1M3RRcWw4a3RnQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12482,7 +12506,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 565,
+      "chapterCount": 566,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17002,6 +17026,14 @@
           "title": "Cafu On India-Brazil Match And Football's Future - rediff.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjNjOE5CaElIelp2dHY4aV81aWRPck1VOEVLc0pvQ0xJLWRNZVZ1ekhZcFBfUHZmbVhfbUZldURRTUNWVUVTX01mS0VTaXFyVDFTV3pXMHBtbHdhVnhKZHdZSjZ6RWpwSFdiVDI1aFJFS2FTa05IdW16bmxScVY3cnE2c1lXNU9NQ0lTR1B6X2ZnMXlma0hEY0VmcW10anZrbTRrMXZsTVlBa2xfanfSAbABQVVfeXFMTVRTWVdNNXA2bHpNeExoR0c5UWxHVFNidFd4UDQxanFvMnBSWUpmZzNsNUVCYXdhaU81VWZRUFZwYmNBc0JQT09iTmwtaUxnMENvRWdWU242dGcxZ2Fackc5ajFoQ0hMTkNoTnNmZ2IweVpqbFdBNEhnbUlRTkVRTEZ5MVpSdXFpMFpHSXdpQmFjM2lKdVZKZGtVWDY0cF9CeHIwYm9rYzJxckdPbzlldlQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788553242683",
+          "date": "2026-09-04",
+          "title": "Brazil great Formiga says 2027 World Cup will 'change players' lives' - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFIzXzFCbnNjN3FNR2p1WUlRVFluTGZQWjJ0TWw1RVgtZFdIcGo1cTFUREJHb0g5ZmVZWmtnU3p4Mk1jQWVPMjV3aWRuaWU3LXJ6dnc5TGp4MUVKc2hkTkNRU1d1TGQ3WElaV0t6SzVCS3k0NTZhXzZ1blhxYl9JTlJYMl9CZw?oc=5",
           "draft": true
         }
       ]

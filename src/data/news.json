@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-04T15:50:41.282Z",
+  "lastUpdated": "2026-09-04T20:20:40.477Z",
   "articles": [
+    {
+      "id": "news-auto-science-world-s-giant-fifa-soccer-ball-w-2026-09-04",
+      "headline": "Science World's giant FIFA soccer ball will soon come down and Vancouver fans are not ready - Daily Hive",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RldFVYNUNSN0EtNldUMFJ4RzVzdUYyaVMyZXFtSzU1Z1A1R3hhdm1SN2htYUdkcURRc19qZjYzV2oyVTVmalNsd0xWMW5rR0kxZW5mX09JOFg4VW43YzIzTFBKVWpZQnI5eDNiVFVGY2c4UUtGcnZwSlpRVFo3TjBicW9tYmdXOEtUMHN3?oc=5\" target=\"_blank\"&gt;Science W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RldFVYNUNSN0EtNldUMFJ4RzVzdUYyaVMyZXFtSzU1Z1A1R3hhdm1SN2htYUdkcURRc19qZjYzV2oyVTVmalNsd0xWMW5rR0kxZW5mX09JOFg4VW43YzIzTFBKVWpZQnI5eDNiVFVGY2c4UUtGcnZwSlpRVFo3TjBicW9tYmdXOEtUMHN3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ranking-the-world-cup-teams-from-one-to--2026-07-20",
+      "headline": "Ranking the World Cup teams from one to 48 based on their 2026 performance - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5\" target=\"_blank\"&gt;Ranking the W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-20",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWxfQU1zcmVFbTJRaUtNWXBwc0o0SmRFM2RSUlg0MHJ3Z3Z0cTdMNldRM3V2cTRrYllSaHZScHZIMzQ1MGtZRVJvVllrZ0JHTnJWVHJNUEM1YUZJRXBUV3BOR29SYnJaVDJCUHdLRkx3NTZaV29oN281OHhWSVhpUV80U2ZTTWY5bmI0?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - pbs.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2026-world-cup-odartey-lamptey-criticise-2026-09-04",
       "headline": "2026 World Cup: Odartey Lamptey criticises Carlos Queiroz’s tactics - GhanaWeb",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-12",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-traffic-issues-plagued-kansas-city-s-wor-2026-06-19",
-      "headline": "Traffic issues plagued Kansas City’s World Cup stadium. Officials want FIFA to fix the problems - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE8",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE82bTJLZkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
-      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-june-22-28-2-2026-06-22",
-      "headline": "Sporting KC Weekly Schedule: June 22-28, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5",
       "featured": false,
       "draft": true
     }
