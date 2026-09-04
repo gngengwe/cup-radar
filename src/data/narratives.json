@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-04T03:10:00.122Z",
+  "lastUpdated": "2026-09-04T10:43:00.215Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 403,
+      "chapterCount": 405,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3242,6 +3242,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZndRWFhZaE5kenp6YkxCVWxlaFVMTFhYNWN3UHEyZTB1aWpzYmVrRVBhU0syNTllQXF5MGpSNTBWaDdjV1BEUmlrVVB3am9tOUxiM0s2Ynp4QTlQVEFmQkpBRXhlUFdZS19waGtuSmEtdlE2SUkyZDR5VFNDWmw1OXkyVktOblhtTWticGxKUHVVb3QxVFJfd2J3NVEyRDJkelJyWW1IcHlfY1U1R21Za25KYXlsRlJuOVJzdExxVWhDN0lVQkVPeHBPUS03Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788518578193",
+          "date": "2026-09-02",
+          "title": "Messi wasn't always the international GOAT, but his perseverance for Argentina paid off - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXdtQXc5UGNDbnNHaGJ0ZmxjQjN2bFFPTXBwVTRoTFNHZFNvR3RiTnZhYW1zZlJvcWVmSVpldVRHZTE4eFFWZURLVnpXWW1yYlRSVXBabllCMVRRSFlzVkJ4TGx6b1BzNTliU0ZYWnVSM0xKX1RibThvb19kSjFMU1BoXzBGdUVKY043dDhnY0pHSUpsM3BaQmhKNy1uZFMtLTZaMzhsV2d5dXFPc2tTZFNoS2JveVVZMlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788518578193",
+          "date": "2026-09-03",
+          "title": "End of an era: Lionel Messi's career in blue and white - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHhZTl95N1ZKZEZYYktRUy12Y2JBeVFaeGloa29WUzNFeVplWXliRVBOZEgzM0wyUmp5Si1jUTBNMVVZMGRmbzRoVFFNTm5TdFNCeVlQV3A2U2c4dkVpMFFRQjVRb0dOczkyNGx3U1dPNHRpTVMzMWQ4Nkp2ZzFYZVl1cHN4N0FZVGRpdUZaQVQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3260,7 +3276,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 318,
+      "chapterCount": 319,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5805,6 +5821,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTA1ZV8xNjg2bHdPNExNVTctYmJDT0ZENjhaXzkwbC1sVU5INzRPdDA5S3VxYzFPRzhpWnJFd3dkSHJwZHV3a3dJLXliZ1hlT2o3b1hCOEIta3NuekVrRVA4YlIxZlB2T1RNZ0NmeHRZNlNjVGFfTlRqWndGU1JVOG5B?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788518578666",
+          "date": "2026-09-04",
+          "title": "Kylian Mbappe only ‘top three’ in the world as ex-France international Bacary Sagna snubs Real Madrid superstar & Harry Kane when naming his 2026 Ballon d’Or winner - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQjJJck8wbTNsbnZMR1B2ejBmaUhZWnlJb1lBQVZuYmtPUFVNNDNiQzdBOTdFRnZtTXdTZHVjQUZibkJSS1NmSVBfajIzUjFEamljNXpjLUxKamFjcGJOQ1EzZ0NuT1N2Y0dGVnlPRHBxMFF0SVBHbVAyWFN6d01HT0xnVTlsS0M4VjA3b0VmUEltRDl4cV96eUJhU1M2ci1sTk1zZ09PSlRVS0VqYmQ4UUNvMTVkUUMyOXJkdlJZU0M5ZUgxX2Z3QlZaTXlGY2Q5TDlhSmM4WDh1STVZaER1QVlhaw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5823,7 +5847,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 821,
+      "chapterCount": 823,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12392,6 +12416,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUW13bUtFSTFITEFNdlR1eTZ4OHp3SjBKRlRCZk13NFVsa2MwQ0FfcWg3R0xzaUpHMFB2NTI5aTdUMGJoOGI2QVU2Zi1XVXlXRlR5OEJ3Z1pid056cm9aT2tQSXhEclNyUXRLQUF3TnNBVS1rQmhGdDROeHVzOFJVcms4anFBenQyYVBIc1VSOGt2RS1iSkY4VU1KaENQZDhYeVHSAaIBQVVfeXFMUGFRZ0IyTThKZkI3SF80WmlIOVExc2V3MERUMmxRTENjUXNETWhIanl4T0x4M0NySktCLUM2bG5UeGo4b3RkOFBRMmR6Z0hpc3dTd0U2eW9jQkh3VjZxRVVJWG12NVFQcFY1bjA5R0REUnVuNkdld0hkc1FrZE5HTVBBeFN0UC1iS3lDd1A3NHNEcXhsLTByeGJxQ0JaZjRPUHN3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788518579160",
+          "date": "2026-09-04",
+          "title": "USA Seek Fifth Straight Gold at 2026 FIBA Women’s World Cup - usab.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnlkYWJTNWQxc2Fnc0pNLTN4SWFiUVFaamVQTXgzTVpMNDRQY2dPRjlxRWdrbUlDSThPOEJTMkVZTl90WFhvQ2Z4bjg2YllLRFpUcXViLVpHa09fcXlvU0pzczdlZkJDQmh5Q0pRcjJ6Ti1yTXhOZVloenRuQ1AyeldCZG1sRWVrYkduTkhIYmJsc0FVdUE0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788518579160",
+          "date": "2026-09-04",
+          "title": "Team USA vs China in FIBA Women's World Cup: Time, TV, stream - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVFdtWF9KQ1RubTlwR1hBNmdWWW92TGVITm8zdXNxZGtVZHlCYV9Ya01hX3d0NW9SRUdqMFJpbTd5WnU5UWpFYWxYTGZ0clZITGVyNTJHd2FmS0ppZl9UaE9USW1HMXJvUzhVZ3Z2eUpFTXBkR3lyUTROYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12410,7 +12450,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 561,
+      "chapterCount": 564,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16898,6 +16938,30 @@
           "title": "Brazil-Japan to play World Cup rematch at Singapore tournament - VnExpress International",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY05VZEtMOXYwWjJQalo3M3pkUFNsV1BYMDBQZzZxb19ZQm1mMnRfM1doOFpHWHhtcTg5Q0p3WnJOZk9rSmJUc01xeUt2R1V4b1lxV0ZQTkZEZU9GWDVSdkxlMnBTb0wwUFNHdHdzaDRJX0ZZYnpBc3hqVnQ1NUN0bjdsNHpVTFJFUUU4LUZqbjFIaDdGS1FuZ3lNSW5JejB2d0JHOF9lLWZPZzdKX095VnI5bTgyb0hTVlBtdQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788518579759",
+          "date": "2026-09-03",
+          "title": "Brazilian Martinelli joins Saudi Al-Hilal from Arsenal - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFV1YWZhelJQTThEOEg3OFd4WWR5SUpXRUg2OFBCa1ZkY3p3VERsdGt1VjB5NTlqd1Z2N2xjMnpsN0FQUHdNdUhMUTFlTTlvMWZQa3kzS0U0VkdqVzZ1NzFCcDcwbFFDdXphaTI0MGJLTUZJcGluN3lmNUFJc21hSDFybGRVc0MzVTNNdG1nX01FOUh5MHdhZXdrSndKajRC?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788518579759",
+          "date": "2026-09-04",
+          "title": "Across 30 jobs, and 8 host cities, 6000 volunteers want to work at the Women's World Cup in Brazil - Inside World Football",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1dmU3JobmZRQWN0aFRqcGRBOVE3cmpPYTdZSmFSVnJpOWlseWhMbkhCd2E5NFpmT3FNSFdZaFAxOHNGOVdSbXhLQWNQdEQwQlNmakY0QkZmcDYwRTJHeDZlYzFneXdiQS1GTWE5QUtUeER4SGNUVEE0UzJ1TWhpTDBnU29ReFEwaUtVY3ZoWWV2MkRqSFlhYw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788518579759",
+          "date": "2026-09-04",
+          "title": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1RNWkVlQVlQTFdXaHVfVnhNZEVuT1dtOVJscnVGR1RuR0dwbE9BY3ZBdzdSTmVuREUycjA2T1FBX3ZQbEFPUUpDR2QxNXZXNVdYcXRlcW5KWW9kTGVSNWZkQ3ZKb0FnMENkNDQ0bk1ZSkVzOXNMZGpteU1aNFViVUF3XzRraDN4Q1hYMHR1YTRaejVPSHcya3dRTEk0dVlOOWI3ZXM3SHhQUmlaaHJ6TVdR0gG3AUFVX3lxTE5PT2MzUy1vemtOM2R0WmdId2lhMWxYb2lGbm9RSWRLd1ZyRGpVN0FmVWZqQ2lfUVVpcGpMcFRON0cxY01EUmg0cTNJR1RCdXQyV1BrdUp3T2tIU20wcnREVnB1Uk1fMFRTN1ZSVmQ3WDZLVXZueGQ2cENFRGxiMURsLW15ZlktZzRqUWhNaXYtV2tkUnEwOXRjZnRHZGxhQndBY3MweEJ5Q3JXLUJYcmhaSGdraEVEWQ?oc=5",
           "draft": true
         }
       ]
