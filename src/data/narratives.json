@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-04T10:43:00.215Z",
+  "lastUpdated": "2026-09-04T15:50:44.089Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 405,
+      "chapterCount": 406,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3258,6 +3258,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHhZTl95N1ZKZEZYYktRUy12Y2JBeVFaeGloa29WUzNFeVplWXliRVBOZEgzM0wyUmp5Si1jUTBNMVVZMGRmbzRoVFFNTm5TdFNCeVlQV3A2U2c4dkVpMFFRQjVRb0dOczkyNGx3U1dPNHRpTVMzMWQ4Nkp2ZzFYZVl1cHN4N0FZVGRpdUZaQVQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788537041852",
+          "date": "2026-09-04",
+          "title": "After Lionel Messi’s Argentina retirement, what does his future in MLS, Miami look like? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVlWNEljdndsN0FXb01pQ0g4S2ZkVDVjRS1uaDgtbkREay1wN2xOMzVuVldmSTIxd1JUaHIyZEJPQ1lXYmxBU0dSRVR5V2FyZE5PMnY2VHBYa0Z1SDBZc2lsV3k4SHVaYkthZnh2Nkt5eXhVS1dPcEtJdmF0dXhMYmRGSU9oUkJvYXU5MUprV01maGFxNEh4LUZkaVpablFGbjR1dGc5Y3VsMHNIbmR5MDlB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5847,7 +5855,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 823,
+      "chapterCount": 826,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12432,6 +12440,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVFdtWF9KQ1RubTlwR1hBNmdWWW92TGVITm8zdXNxZGtVZHlCYV9Ya01hX3d0NW9SRUdqMFJpbTd5WnU5UWpFYWxYTGZ0clZITGVyNTJHd2FmS0ppZl9UaE9USW1HMXJvUzhVZ3Z2eUpFTXBkR3lyUTROYw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788537043029",
+          "date": "2026-09-04",
+          "title": "Tournament Notes: U.S. Under-20 WNT Ready for Second FIFA U-20 Women's World Cup Featuring 24 Nations - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmRYRHZ0LXBLRURmOVRiTEc3N1pqeVFJdF9EYXR3b0JOOEgyelp2X1dJc2RYd0tLN0dZZ1NPMUxqTVJjamRidzc3bDlsMFFjYnRiaExSeklhSXRqbl91d0lvaHJ4YTQyWm9uU0tYVXo4QVZ3aUpWMUgtMl9zX0Z0bGRLV1VkZzNCalE1ZFVWT3R3bS01SlpLX0w5QWdCWFRBeUNwelVWaFNtbkFWNUdPSld3aVJjTmVOUlRONERmSXgtT2xLam9uUktFZG1VanMxNFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788537043029",
+          "date": "2026-09-04",
+          "title": "FIBA Women's Basketball World Cup 2026: Schedule, tip-off times and results - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkpTMi1xLXJmbEY2d2NPbXZQX2FVV005ZVJ5R1RlNXByVEdUWFlQRU5NVVl2VHJEa0I0V3ZRY2tQMFRESXRZdHdSZEZqNkF2ZmFwektCc2ttbGp4ZVFUTDJlVXh6UDRoTWN0VXNxSmRmWDgzY21jamJ3dUZrci1nWXg3VFBfWldEX01PRER3N1U4ejBiT1JhY1VVbERQbUdEa1dIR2w4ekNRZ1p2WHIzLWd0bXp2cHVRVFRlNktPdXEzcGZqZUtacnJBbE80VmRncUlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788537043029",
+          "date": "2026-09-04",
+          "title": "FIBA Women's Basketball World Cup 2026: Caitlin Clark makes debut history as Team USA seal dominant win - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmdsbHFMQXdWQndtTHpQU25iX0VuYWVkd0hnenFIWHJLdWxLZnFTWVpGTGZxZ1ZXcVQwc3VHV19IOWk5OWZ4RUt6Z2ktSGR3WXFST1FlMHVZd0I0bjk0dTl5eG94bHJjdUF0OVdsVDVjcFlrczRNZ2x2ZVE5TkF2Q3p3YVlUNFJlTnNhRE9Gc2hNTHNKY0VGTzRQWWNBSTVoMEpZSEc0d19XcXVEZWdxYnpBSkV4eFZsY3JR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12450,7 +12482,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 564,
+      "chapterCount": 565,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -16962,6 +16994,14 @@
           "title": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1RNWkVlQVlQTFdXaHVfVnhNZEVuT1dtOVJscnVGR1RuR0dwbE9BY3ZBdzdSTmVuREUycjA2T1FBX3ZQbEFPUUpDR2QxNXZXNVdYcXRlcW5KWW9kTGVSNWZkQ3ZKb0FnMENkNDQ0bk1ZSkVzOXNMZGpteU1aNFViVUF3XzRraDN4Q1hYMHR1YTRaejVPSHcya3dRTEk0dVlOOWI3ZXM3SHhQUmlaaHJ6TVdR0gG3AUFVX3lxTE5PT2MzUy1vemtOM2R0WmdId2lhMWxYb2lGbm9RSWRLd1ZyRGpVN0FmVWZqQ2lfUVVpcGpMcFRON0cxY01EUmg0cTNJR1RCdXQyV1BrdUp3T2tIU20wcnREVnB1Uk1fMFRTN1ZSVmQ3WDZLVXZueGQ2cENFRGxiMURsLW15ZlktZzRqUWhNaXYtV2tkUnEwOXRjZnRHZGxhQndBY3MweEJ5Q3JXLUJYcmhaSGdraEVEWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788537043552",
+          "date": "2026-09-04",
+          "title": "Cafu On India-Brazil Match And Football's Future - rediff.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjNjOE5CaElIelp2dHY4aV81aWRPck1VOEVLc0pvQ0xJLWRNZVZ1ekhZcFBfUHZmbVhfbUZldURRTUNWVUVTX01mS0VTaXFyVDFTV3pXMHBtbHdhVnhKZHdZSjZ6RWpwSFdiVDI1aFJFS2FTa05IdW16bmxScVY3cnE2c1lXNU9NQ0lTR1B6X2ZnMXlma0hEY0VmcW10anZrbTRrMXZsTVlBa2xfanfSAbABQVVfeXFMTVRTWVdNNXA2bHpNeExoR0c5UWxHVFNidFd4UDQxanFvMnBSWUpmZzNsNUVCYXdhaU81VWZRUFZwYmNBc0JQT09iTmwtaUxnMENvRWdWU242dGcxZ2Fackc5ajFoQ0hMTkNoTnNmZ2IweVpqbFdBNEhnbUlRTkVRTEZ5MVpSdXFpMFpHSXdpQmFjM2lKdVZKZGtVWDY0cF9CeHIwYm9rYzJxckdPbzlldlQ?oc=5",
           "draft": true
         }
       ]
