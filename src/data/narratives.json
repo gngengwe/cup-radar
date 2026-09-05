@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-05T03:12:48.123Z",
+  "lastUpdated": "2026-09-05T10:01:42.771Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17296,7 +17296,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 825,
+      "chapterCount": 826,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -23896,6 +23896,14 @@
           "title": "Thomas Tuchel's intensive World Cup inquest as FA prepare major report into England failings - The Mirror",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHB4a2EwRU1CdlFCZTlXZnZURnotVmNtMV8tWm9SZkVDZ1pBTl94OFFUWk5XY1RYckhjM3RlUWRmZUlvcmV6M01LdVlFbFVQZWNWOGthNmM3SWIya0k5d3JQeHd4VUtVT2ZPU3N3eDdkcmRCTlhRQ3ptOHZfeXZuT0ZXa202aHM0a29Na29B0gGTAUFVX3lxTE5QNGxoZEJHZkNvTFRaTzZYUnZnRGM4ZzUzY09PSkpnamlNUU9veTRkSTZwTFM5d1pIa01FX1pqLThudXFCR1FWYUZCOUtTaHAwMURPaU5Hb0RzLWh6UUdublBBU1pXSTFrcDFVMFdvWUl2S0RGREpMX3E0LXp4OVBTUTA5dDdtMVhGY0tUTDNncE9iZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788602502771",
+          "date": "2026-09-05",
+          "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup - theguardian.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3FlS2dTNDB1MXBjY2l5S3NxN2YwVGd3b1pMX3dSa2pTcG44WFY4QWo5bGRfY3VfLWVnZXlfel9VN1hERnE5LXpReDlLdklfR0FmRkRpcHdtbVVWUmY2YjQ1eXpWcUl3cF9FN2ZheGFOVUNwX25ldnBSZTVCR1k0SVpFVi1VbkJhVTc0YnlVUUxvOTdRVVJZWnA3MjM?oc=5",
           "draft": true
         }
       ]
