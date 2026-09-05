@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-04T22:47:30.488Z",
+  "lastUpdated": "2026-09-05T03:12:48.123Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5871,7 +5871,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 828,
+      "chapterCount": 830,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12495,6 +12495,22 @@
           "title": "Caitlin Clark’s double-double helps USA rout China in Fiba World Cup opener - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWJNcXUxQXdoRnd4QXMxcEtoVFNCVlFvQ0pKSHp5VmpkUlhtVExfZ2ZiVGxkV2tjRm1ncDk5Z0E3OUVZNl9uME9Td1RNNDZnVGlLYnlGZjFsSWpQTEJzTGY0dVBHazd5QkhJZE05aHA0VnBBNlhiRFN5MWxobjUxOUdaNVJWQ1lJNHVIaExEZEx6dHM1M3RRcWw4a3RnQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788577967068",
+          "date": "2026-09-04",
+          "title": "How to Watch: U.S. U-20 WNT in 2026 FIFA U-20 Women’s World Cup - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenZkNWlmNjc3elpIbC1BNGh5Y0ZxbmZUUVVkeE1ab1U0YWpjRkFrUnJfSUdjUFIzWWVHVXFkbVRocTlFTVM5RjNNa0FOREUwVTYwTHMtZGlXRXVqNkdBb0VJNFhWOUJMYXQ0NllYXzREX0Q3MGQ2dmZpeC1rQklnd016VUIwV0xjQTYyTWNRSHl0dEtxTi1oZFlza19WTXM1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788577967068",
+          "date": "2026-09-04",
+          "title": "Team USA dominates China to open FIBA Women’s World Cup - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlBVZnpGblJ5bnpNUXcydE9OVlJHVWRoWTBONVBXT214RGp5SFV1R1JqVlA5dHNhMzZNYVhNczdYcnN4XzRXR0pmNUFreGVsVEdQQUQ4Y1FfVmpDalFRVGFUWUJOZWQ4Vng0UUsxeXcwdzJQandqNTE2dE9QWkVaOVZlbw?oc=5",
           "draft": true
         }
       ]
