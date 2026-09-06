@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-06T20:03:08.631Z",
+  "lastUpdated": "2026-09-06T22:43:11.679Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5895,7 +5895,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 841,
+      "chapterCount": 845,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12623,6 +12623,38 @@
           "title": "How to watch USA vs. Italy FIBA World Cup game for free today - MLive.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFQzaE1PODBPeTJyWDNLdTE1YlE4RjZwRXhONzVja25XTFV3WF9Ca1ZxWm5PMldUbDBYTDNMS3M1Ty10RHJneVVsZlNOYm9BVk1WZVl3QnI0Y0ZtcUJ4U01EVlhvUkIxZXRVOHJhSldlMkpRSTBJdlB6dEJMU05wRW5vRzNpUU10UDU4UmlRaDhtY295eGgxZVdublljSms?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788734590316",
+          "date": "2026-09-06",
+          "title": "Team USA struggles and survives World Cup scare from Italy - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlBUb0Z5ZzNvbFBiWU1hM1E0WFIwa2QxaHBZZGNMNmZHTkQ3ZzlBa09keHV1NExKbHk0MHNKdlBrU25oRWhXZVpkNG5Cc2dLeUtuUjAyMDYwNnlNekJDTm9PTzFQaXRZemFCRGNEcjFDbl9PZ2VTdzVuaUFVYmRncVl0OEk0cWRQbFd4dE1KMGhlOWVx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788734590316",
+          "date": "2026-09-06",
+          "title": "FIBA Women's Basketball World Cup 2026: Team USA overcome Italy scare in Group D thriller - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUxiNkVBdE45M2NqVzc4bUtsX2FoamtFMlJEVEdPQXc3djRCTVVsUXZVZVNQbjd4TXA3U2RBeldpTlpnZnJJVjd5NzVKa21pWm9QLVV4WGJJUWdvZ2d0SGh2LVJpRVdZeXVHbjlWdGRGa25xUzI2aXN3a0JHRlhPRHdmMjBVTGVWRHZTQWtYSXNVeXEzTEk5SHhMSGtVSVJGYkRHVENyYjlMQXlhUFhzeA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788734590316",
+          "date": "2026-09-06",
+          "title": "Team USA basketball survives scare against Italy in FIBA Women's World Cup, secures quarterfinal berth - Fox News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWgwbVV6cDlfdXgwUWx1eEJKNk9WRk1YajVQMnFSRXA3Q1UyaTF5WGNZbFFpcm8yTEphbm5YUkotVWljYlRScFJITlU0WHI1MkktNVBxbDNxRjJXemFYTXpYS3JIUFRybGVWY3RIV1B2em02MGNfYWhkU2lweGxwT0w1akhLWC1Wb0pkNUk0Y19HZ3NUbldBay1FZHRVVHIwMTAxemREUTh0bmdEeVVLSnRuYWVubk5aT3hDMzZneGQ1R0F6VWlHRGtteEFFVVlER3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788734590316",
+          "date": "2026-09-06",
+          "title": "There’s good news and bad news for the U.S Women’s World Cup team - sbnation.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkFVSEx5Mk5BaU5GX0diZFVXaWZYSDdBanFsMHpGZzlpNHFPUktRbnVmazZxU1RRT3NNdTVCZVhXcEdkMUFvcTVqN2RhVDhoUl8zQ29GUlRLd0dOOENZUlQwazhBYXNCZmI1Z0RfbWdyc196LWNKMG9JSzFHX1BwU1NDVEVmdnI2WXM4RzZBeHlWQQ?oc=5",
           "draft": true
         }
       ]
