@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-06T15:00:12.086Z",
+  "lastUpdated": "2026-09-06T20:03:05.781Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-under-20-women-s-national-team-opens-2026-09-06",
+      "headline": "U.S. Under-20 Women's National Team Opens 2026 FIFA U-20 Women's World Cup with 2-1 Loss to Italy in Lodz, Poland - U.S. Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdURuVmlHS2dMc1NYQkdRRFd3TkRYdmVjUFRsUDFTZHo1R2xrZC1EbnR0bmZ3eHYydHdWRi1uQ091ejJuNU1GbG5odEx6LXdTc3BlLWtMVUdxVGpZREpydDBHZXpfa2pmQWdNZjRaOXRwNy0wZVMzdFQ3cGFUZ1U3MDZTUDZobmJzbFlaZGRKMEhDRS1lYmtCcXRKM2VVY3VyWF9ld09nWjJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-06",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdURuVmlHS2dMc1NYQkdRRFd3TkRYdmVjUFRsUDFTZHo1R2xrZC1EbnR0bmZ3eHYydHdWRi1uQ091ejJuNU1GbG5odEx6LXdTc3BlLWtMVUdxVGpZREpydDBHZXpfa2pmQWdNZjRaOXRwNy0wZVMzdFQ3cGFUZ1U3MDZTUDZobmJzbFlaZGRKMEhDRS1lYmtCcXRKM2VVY3VyWF9ld09nWjJST213YVJvekdEQ2toY3ZWSHlMV2Z5RTk0U0hGMjhJRm1lanBzd2FX?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
+      "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5\" target=\"_blank\"&gt;World Cup 2026: Argentina's Paredes banned for 10 games over W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
+      "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
+      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
       "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-says-thank-you-to-kansas-city-aft-2026-07-14",
-      "headline": "KC2026 says ‘thank you’ to Kansas City after local 2026 FIFA World Cup matches come to an end - fox4kc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGpFS1FKaHRheW5DUnpVeFg2WHJoZmY1NldsdTJEeFJrLXl4YUt0SndtSFJsVXVjQlNFcnIwSUQ1bVpVV0xmaExkRmt5dDZOVV9WS2FCWmFGd0piRFZTWWdGTG5QY3NwQUZuZ0ZZVmowUTNPVUE5OV9jcUVTTjFLRUZQbW1hUi1mN2xPTmppa1pjT3pIS2dLVnZGVEpzM2J6SmNicXpJSmx",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGpFS1FKaHRheW5DUnpVeFg2WHJoZmY1NldsdTJEeFJrLXl4YUt0SndtSFJsVXVjQlNFcnIwSUQ1bVpVV0xmaExkRmt5dDZOVV9WS2FCWmFGd0piRFZTWWdGTG5QY3NwQUZuZ0ZZVmowUTNPVUE5OV9jcUVTTjFLRUZQbW1hUi1mN2xPTmppa1pjT3pIS2dLVnZGVEpzM2J6SmNicXpJSmxNR2VtVmlSY19NSVFPbWFReGfSAb8BQVVfeXFMTnNqd2ZhQkV2bGtPM0RObmNPQzBXVVV2cWhQa2xXUE94T3BiNGxfUXk5a3VhcmJxbmFtR1AxQ0RNYWhrdDhZdU55ZlN2cE5GanRtX05ERzZpZ0VqdXNwTXFGaGFEcTFSLW5IOGlsYlRxbGU0Z2pIamlER0dxRHZTQWZHNUg3U3REdHdtVktwNEFCYUxiU2ZJTVI3T3h4cU4xZ3FXRWwwWGZ2QTRUTzU3YVVsRTVVM1E2Wk1SOXF0N0E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-with-2-games-remaining-here-s-kansas-cit-2026-07-01",
-      "headline": "With 2 games remaining, here’s Kansas City’s World Cup experience by the numbers - kansascity.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE42ejBxVFBNTXpTdVFRSmo1TUs5d2dKeTdWVFZYTHBDc05ZdnUtOHl0N1IzTC15Nlo1UVgxUVI2OWRYUEozZDBLZGF5Sl9ZT1ZVQWVIRFluVHhOcV9XdjBEX0haUDlrVk9MaHZhU0RVLU54eUZza1puaGpn0gF6QVVfeXFMTWJzV2FDbmZkUWZiN3c1ak12SldWcEowd3dkXy1fN2N6cF9kNW0",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42ejBxVFBNTXpTdVFRSmo1TUs5d2dKeTdWVFZYTHBDc05ZdnUtOHl0N1IzTC15Nlo1UVgxUVI2OWRYUEozZDBLZGF5Sl9ZT1ZVQWVIRFluVHhOcV9XdjBEX0haUDlrVk9MaHZhU0RVLU54eUZza1puaGpn0gF6QVVfeXFMTWJzV2FDbmZkUWZiN3c1ak12SldWcEowd3dkXy1fN2N6cF9kNW03RTlyeEgxSXlOd19TaXZ4RDJiM0trczlUbDV5Tjd5ZkhvUEEwM05teS13ODB0ZDBUUWQ2aXVNMnh2ZGdMemZaYXV4aGFSMG0teTVXQ3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - fox4kc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-pat-mcafee-says-2026-world-cup-winner-is-2026-09-02",
-      "headline": "Pat McAfee says 2026 World Cup winner is a ‘future GOAT’ - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWtCNzdpdElzcGVFQTJqX3doNm9TVHYyX2VyMTZLUlBpaEFQaGttY25sUFV4cGp4eUM1eGxjeHhkTi1ZTFVjTzJZMEZCZFB0aVRUNVRxV3JpaFZudnJGMlRnSEhPYzNMaVh5aU00VW5ISmxBZ0g5NDNBVkFGV3pCQQ?oc=5\" target=\"_blank\"&gt;Pat McAfee says 2026 World ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-02",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWtCNzdpdElzcGVFQTJqX3doNm9TVHYyX2VyMTZLUlBpaEFQaGttY25sUFV4cGp4eUM1eGxjeHhkTi1ZTFVjTzJZMEZCZFB0aVRUNVRxV3JpaFZudnJGMlRnSEhPYzNMaVh5aU00VW5ISmxBZ0g5NDNBVkFGV3pCQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
-      "headline": "How to Watch the 2026 World Cup Finals - WIRED",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
       "featured": false,
       "draft": true
     }
