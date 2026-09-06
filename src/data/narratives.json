@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-06T03:12:18.114Z",
+  "lastUpdated": "2026-09-06T10:21:43.969Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 406,
+      "chapterCount": 407,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3266,6 +3266,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVlWNEljdndsN0FXb01pQ0g4S2ZkVDVjRS1uaDgtbkREay1wN2xOMzVuVldmSTIxd1JUaHIyZEJPQ1lXYmxBU0dSRVR5V2FyZE5PMnY2VHBYa0Z1SDBZc2lsV3k4SHVaYkthZnh2Nkt5eXhVS1dPcEtJdmF0dXhMYmRGSU9oUkJvYXU5MUprV01maGFxNEh4LUZkaVpablFGbjR1dGc5Y3VsMHNIbmR5MDlB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788690102137",
+          "date": "2026-09-06",
+          "title": "Messi sets up Miami goal in first game since Argentina retirement - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGw4Rjc4SGFoX1A1VWFjOE1kZlJ6bDQxTXlUWWF2Mm5XRUp4d05tWWloYXVxVGhvcmV6aENVbk5scXB1dHlNMl9jZUVGVzFfZDNadjRIYzlmSlpGd1Y0RE83b01jVlFUMmJvc3J2bVZ0OU0yZmltNWppNUJHVTBrYmFkU0hjVEpnSmVYQlhDUGd0ZUNtYnloY0JWTnd6bzIxME15bE84aFdab2xnZVlnZEZ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3284,7 +3292,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 321,
+      "chapterCount": 322,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5853,6 +5861,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWkwZmhUdDJycTV2Y3UydXBDSXBCdUJGMzVrZ1ZQRngtbTZMQi1LS1BwWkRHcGVWSnVFRUg1elNEQ1dDUE5pUHc0WnFsRUMtNTdNY0UxR3g5QUM5YnV0bTVJazU4TFBIdjN1djd3NEk5OTVyTDN3T1p4YUYycTkwa1R3ay15dFU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788690102571",
+          "date": "2026-09-05",
+          "title": "Mbappe starts as France take on Morocco in first 2026 World Cup quarter final - Fijivillage",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzl1cTNrV2NqYUVHbi02Tzg2bkVTal83V0dyU0JpRlJEYlZmd25WT1dNY3VkV1REcGJ1dVNRYjJQbVBLUmZMUDV5bFhSV2ZTWDZzc1lSa21JNjl6cDVqakNGSGJTRWl5Uk9VUlZnN1I2MVhGRy1Ia0d1ZDIwb1NDeE9aSDhoNEhBM21zNTJSTkF0TjJhQ1R0OEd6dTJOWWdRVTVDVlRYZmpiMVRJcnRUclYwaW5NZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -5871,7 +5887,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 834,
+      "chapterCount": 837,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12543,6 +12559,30 @@
           "title": "‘Make you pay’ – Team USA coach gives verdict on Italy ahead of FIBA World Cup clash - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lNXh5UzB2bjNYRktnNXd4TUZwcW55cDJ6M2dSbWJJQkdJXzdyYTh2dzYtSElnMURoUDZHRFl4QzNOWHZTc3MzOEhwU3RKa0Rpb0pTLXVpUnh3NFVjV1hGbzhnMURfdVljZzJTTnZOZXVFc1VGUktkY3VmYnVkQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788690103059",
+          "date": "2026-09-06",
+          "title": "How to watch Caitlin Clark, USA vs. Italy in FIBA World Cup today - Hawk Central",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEpNakc3dEY2OUFhTEJLaUFlVEduOGZWVVFWb2hiQjNDR2FXQjFEdUtRRUNTem5yZzdHWURVTWhnTW9iczFhel93aHhVSGJUUDFJWWRaUjg1LXpvSVFtUUtoTkRoT0pmNWY0cUg3cmRVb1hJWENkc3lzejl6Qy1HWHUwMWhzdUJyTnpWWTE1alJUbHZHQWRVbF9ZWFl2aFQ1ZThhb1dQSDU0T05XSlFueWZUZnEzNWZZZ1Q0VXVURDUwYTJsdHJ5LXBpeTJ0d0xKSGpKNVdLQ0g0MEJyeE85SGx6ZzFsSE9qRFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788690103059",
+          "date": "2026-09-06",
+          "title": "Where to watch USA vs. Italy basketball: Channel, live stream, TV schedule, time for FIBA Women's World Cup game - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXVFA0TzJRcTNjZE0yYnZfLWZ4LTBfeFk5Y3k4b3ZYZGF0WFNlVDJyNTFURmlKT2k5REFJcjJQTHR4X0hsVENOeEM1V20ycWt2VXRTZDk1UW9TV2JRMDVUOWM3OFlzRW1qcGxPWGtYTlAwbTF2VDVZNXhSV2xBQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788690103059",
+          "date": "2026-09-06",
+          "title": "Princeton native Jackie Young embraces USA Basketball leadership role at FIBA World Cup - IndyStar",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2FWQmRfM1Uwa2N4ajg1RzZNeWhKNUtPN0Y1am5DcGRGQ0tBMGMzZDAxaVgtcHhFVWNIUzBzellSSG9zZmpCUVpYUVQ3MzdTWnhFY2IxNXZJUE1WRjNfR0I1V1hlc0Vic29EQ2VqVk16aDJsSUhSOVVjdUtsLWxsaktYcERYQ1lIQ21WNFNBcXE0WUlNTHN5ZmU1d0l4QzRJMFY1S3kyWFBqN2pMMkp4eXVjXzJCUkloUUhSM1hZQnFpd1N2QnI2czJrRlVfZGNsR2t0c28zdHFVSWFaeVJVUExjSkhqMmp6S29CMy1NYw?oc=5",
           "draft": true
         }
       ]

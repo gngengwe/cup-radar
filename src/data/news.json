@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-06T03:12:15.257Z",
+  "lastUpdated": "2026-09-06T10:21:41.658Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-the-3-billion-arrowhead-stadium-k-2026-09-05",
+      "headline": "Inside The $3 Billion Arrowhead Stadium: Kansas City's 2026 World Cup Venue Evan Mobley (G4gqYmI52F) - mshale.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1T2Y5Z3V1MDZIS0NDaWhydWw4UFVVNk9EbDJqODROMG81MndleUxNZVA1dU52RGRMakZIbmxCdWt3akR6ZE1yTGlCTTNKMXVvdVFBTk5tWDNlWU0?oc=5\" target=\"_blank\"&gt;Inside The $3 Billion Arrowhead Stadium: Kansas City's 2026 World Cup Venue Ev",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-05",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1T2Y5Z3V1MDZIS0NDaWhydWw4UFVVNk9EbDJqODROMG81MndleUxNZVA1dU52RGRMakZIbmxCdWt3akR6ZE1yTGlCTTNKMXVvdVFBTk5tWDNlWU0?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-to-mls-12-summer-signings-you--2026-09-06",
       "headline": "World Cup to MLS: 12 summer signings you need to know - MLSsoccer.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-11",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
-      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
-      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
       "featured": false,
       "draft": true
     }
