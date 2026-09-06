@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-06T10:21:43.969Z",
+  "lastUpdated": "2026-09-06T15:00:14.828Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -5887,7 +5887,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 837,
+      "chapterCount": 839,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12584,6 +12584,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2FWQmRfM1Uwa2N4ajg1RzZNeWhKNUtPN0Y1am5DcGRGQ0tBMGMzZDAxaVgtcHhFVWNIUzBzellSSG9zZmpCUVpYUVQ3MzdTWnhFY2IxNXZJUE1WRjNfR0I1V1hlc0Vic29EQ2VqVk16aDJsSUhSOVVjdUtsLWxsaktYcERYQ1lIQ21WNFNBcXE0WUlNTHN5ZmU1d0l4QzRJMFY1S3kyWFBqN2pMMkp4eXVjXzJCUkloUUhSM1hZQnFpd1N2QnI2czJrRlVfZGNsR2t0c28zdHFVSWFaeVJVUExjSkhqMmp6S29CMy1NYw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788706813654",
+          "date": "2026-09-06",
+          "title": "Team USA Off To A Fast Start In 2026 FIBA World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DTUkwaW5EdEhqYTRsajJhWUt3RXEwbVJtX05Ddi1DWVZvZlo3UDBLOVB0TUhmNGMyaUo4WmJhYUNJU1hPX2pmSi1UZG1HdVY2SDU2UzJlZDd5TXpzSkdySjh3NTZmQXZfdmo3NFFCYWV5LXh0U0dBTDZTb3I?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788706813654",
+          "date": "2026-09-06",
+          "title": "Australia Beats Turkey for 2nd Win at Women’s Basketball World Cup, US Plays Italy Later - U.S. News & World Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODRVOERTbFotcFJfeS1rTU1XS0dZbDY3Q2RnN0cxN3lvcEROTkJPTG9Xbl9SLXMtWVNMeUlab2VuWm9xandPN0xuaGtxMk10VEUwNDlHcHBkLVVoTTlCYWFHUlk1cG5XZXNvMm9WNVo3eFB1WjhSRzNOOFA1c0tqNGlwazNieEd5TGZsS3lHOUZ0RmRZekExN0JtVnk3bG1xX08ydldVQjlIdVY5cF91UUtRczNPd0U2dHFIakRwRnlPMFJNcmxzNHFkX3J2enpJNjQ2TW9HcTBYZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -12602,7 +12618,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 570,
+      "chapterCount": 571,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17162,6 +17178,14 @@
           "title": "International News: Coming Next Saturday… Six Teams—Including Team USA—Will Battle for Two Entries to the WBSC Women’s Softball World Cup Finals 2027 (Sept. 5, 2026) - Line Drive Media",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMUhFTHdPa0hqaWw5TGdMMXdyUFlORFRORTg3N2p2MkFEb0tvVHlXR2pvNUlsMElTN2lGdG1WUVFRc2g0SXEtTUdndjRrNGxHejZvdUlhVU5WMklGcWxPbHUzc1Rqa2tZOXdsSmp5M0xGTzBTTlNLVzMxdzJJWU9mZTlCWUlFS3R5dGh6eFJ5bkxJU1QwOHVyNldDZXFsT3VyV2I3QW1YRmFUUU5hdFYzTFpDcC1jVWx2cUxuXzV2RGtIZXF4YU1EUkhtOXNST2lDSUFhQ25HdzRsMXN6ZHRwcWdiM0ZSanlQWkdNNDVkV29XUDdwVzRKc1NJTmIweGRRUERiRnVjaWdOREEtaFpPdnFwMENMRTN3Wmtv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788706814330",
+          "date": "2026-09-06",
+          "title": "Brazil squad for India friendly to be named on September 9 as Salt Lake pitch comes under strict CBF turf scrutiny | Football News - Hindustan Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQ2FiU1ZIYkIyU2I1d1lIR080S05kQUcwdm95bGtUNmFoWnNPQ21CQlNwRV9ENGcwY0pxSk1jSzR6Y1MxVW5Genk2dkI0M3o5ZEQ1SE5GcENTT2NSNUdxNWNFdmNmbTVVdk5mSW05d2JQODhyT21tODlnd0QwNU9leFg0dzFJSHRoRXJJbnZ6UGIwNzBraVZwaDBHQ3lxRnByVW9raEo0cEotUV80WXgxajc4WGZoQ2UtRGZtOHFBT2pZc0lRV3lWT015Q2hiZGQyVVBiT3dPNlg2WnhIa1Jya2ZraWVYdDFRd1I5NTRTTTNrLTAxanJYLU9uYlloQTYzenhjeWVKRFZyMDdaTmlZ0gGUAkFVX3lxTE1md2d1d3F1ZU5fMVlIMHFVLUlfSzJhRExFcnAyYUZpZVV6R3B2M1B2Yk1pV0dMRENhdXg2clkzaXBjWXdJRHJDVUJvT096ZUcwZ3k3ZV9idi0yNUFYYThGdHY1SE9hRnc5NDdOT2VYejZnV3p2LTRaaDVSc0xyVWtyY3lfWXk1Vk1BU2hwb1p0aElHTjJkQUxzSGZSS1VHUG5jZi1SQmVYdkY0SmNQd3RWWU5OMUxMMS14Y1dmcXdqUzFpS2tlanFjU2d4QjhTNlVpV3ZaX3Z1cXpIQnNrNTdfZmtka1l0VXVyMFNQOTJOVmdkaGhuZ0VSMFk3ZVJ5WEI0ZGpzUHpuaEdDTTc2SUdVcDdERw?oc=5",
           "draft": true
         }
       ]

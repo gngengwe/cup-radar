@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-06T10:21:41.658Z",
+  "lastUpdated": "2026-09-06T15:00:12.086Z",
   "articles": [
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
+      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-arrowhead-stadium-transforms-into-kansas-2026-05-11",
+      "headline": "Arrowhead Stadium transforms into ‘Kansas City Stadium’ for 2026 FIFA World Cup - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXlGRFnSAb8BQVVfeXFMT01NMXZHYzk5RGxCYU5sYXhjWXZzX09CeDlTYjJ3bzA3dV9na2t1RTNkWmdlbnZVcXpEREk2R2ZkRXNUdFNjMTZacnFSRVpBdi1oOGFxWDRFS0R5a1J2ck9sekdGcktzRE1OdDlxYXNCWTM2UGtzSWV1T2tfZ2xkWTh6RkNISEpSOTJXWGFQNklZY1NKLWVIZklQUXhnQ1pVMk0zRmw0aklXclZrM3dVRmJYSFlYMHBiMjNCTnh6VWs?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
       "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
-      "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5\" target=\"_blank\"&gt;World Cup 2026: Argentina's Paredes banned for 10 games over W",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-kicks-off-in-seattle-today-wha-2026-06-15",
-      "headline": "World Cup Kicks Off In Seattle Today: What Residents Need To Know - The Seattle Medium",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5\" target=\"_blank\"&gt;World Cup Kicks Off In Seattle Today: What Residents Need To Kn",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVXk1N2xtSTZodFRmWjlGU0dRNExoMmN2Z050RVFkVTkwUl81cFBWNFZoQTMxV3otVjZKN0tlZWlwYmRhQUlMaGUzS1pQV0ppOE1yQVBWb2lfcDNLNnVvMHRQWTV6QQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
-      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
       "featured": false,
       "draft": true
     }
