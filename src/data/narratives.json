@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-07T03:10:27.414Z",
+  "lastUpdated": "2026-09-07T11:42:41.646Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 408,
+      "chapterCount": 409,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3281,6 +3281,14 @@
           "title": "Lionel Messi’s Inter Miami teammate Rodrigo De Paul opens up on Argentina retirement - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlJadGlFQU9UNlU1bkFUZFUxNUR1RUNRMkhCWFg2U19iU2xPZzdveDBFQkFoNGI1THlYZUF3RWNvZW4tV2RmV19tUGs2WlJGNThYUzZfMVgxQ2tXcGg1S1dhQ0Y2MUE4YU56UkRlS0lnQVEyUlRGTmtJcWc4WXR3SmZyVTVUY2w2VkZiVW43WFppUWwwMU91RmFOb3QzM0haSmNURExLaGQzS042a200by1qcmtFVlJw0gG8AUFVX3lxTFBBLTRUbmF4LW1fX3NJdEVqOWlxVy1NNVNXeE9FcUtHb3BuR2VvSkkzQjdtMjdVWFZSX1VpZ1NIcVM1ZVFoNl96bGE1MGhzQWRFcmF3Z0JaSWFWRHlnVHA3TEd0VWpkTFBqTmdGRjNFQ29qN2lJVUhwUnF3QkZLNW54ZFFPSDFNdkpEcXhSQmtOZXBJVmtzVHFLTGhvMmZNWGtqb0xKT1dSc1dXd0RkVVdoem4zN3drUF92RUl2?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788781359678",
+          "date": "2026-09-04",
+          "title": "‘Stunning’ – Fans react as Topps release 1-of-1 Lionel Messi card after international retirement - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3hRQXkyaG12Wlphb1lFZ1BqVENBOEQxWTJmVXloOG5IZlFXeXo1QUF4ZVBBNDRyU3VCRmZ6NlhkQ0NfTjBRdGxnY1pfUUtZYWxBcGVHck5WMkYyRjl1Z3dqWnhoUHNObXZrRmZvTTJ0cjgxQmtZNDlOVWk4NFVENlE1bzMtSjJHTVE?oc=5",
           "draft": true
         }
       ]
@@ -12690,7 +12698,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 574,
+      "chapterCount": 575,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17283,6 +17291,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX21jdDhnbzJpNVVIZXdZLUxmRGRGNlJDMjU4elItX0dzMVFjaW9CV21FYmhRcnBKT2NvSTVRSGJCa2VHYmNSR0pjNk1FRUphanJnbnhZVmZWdF9QWWJLN1VCRGF2MUhhbmFtdGtGQnZvUXY5R09LSk5aTlVHMVVzWmpQWGhCYkZPUS1iNmUxWTQ1TmYwZkU4S3N5d0o5MU5oMTVDZkpmdlUtZmZ5M0psTDFn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788781361149",
+          "date": "2026-09-07",
+          "title": "Meet Men’s Group A: USA, Italy, Brazil and the Netherlands - iwbf.org",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDNYeGpjZTlOeDdhWnhUVkIzVy01UUYyelQtTXRjWVN5bmpFNzBlRGZyLUlzWlc2U25Zand0ekdMY3VPWGFmdDRTUzFmOTNIejZMRmNXa19qQkJOdlBFeTR1MmszRURRNV9wbkhjT1ZhMnBuT3JtN0hMbE9xT2dIN0JZc0xTR0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17512,7 +17528,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 831,
+      "chapterCount": 832,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24160,6 +24176,14 @@
           "title": "Sources: Eddie Howe lined up to replace Thomas Tuchel as England manager - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWlKcWh2dnc4bXU4dGJRZlZSblotMlI5YWo0RmZNZFg0ZHpzOURIdFA5SlFJVVFWYy1FVHg4NjVfU003dW1ETTJGdnVfalB5NmlYbkxvcGJoU1lYZk55dm1xaUotbE1UdE9ldmhybmt1S2Z0U2lEUVhtM2ZQeTVlU1VMdzk3amJM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788781361646",
+          "date": "2026-09-07",
+          "title": "Pietersen joins England coaching team ahead of World Cup - newagebd.net",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYS1ERFg3ZW1VUENocUhZTnUzZ2ptcjRwRmZJQlVWOEJLcnZ5TkN5VDFuUlp3a1U5N25MVHVoQXFFeFhoc3FfeHRrQ1Z0ZEJ4R3JURl9EOGJKckFzTXlsT0EzY1Nlc1JhbE5TMkFFblBidkx2d0twNUJmdzRQMm52bTg3UU5lcUlzU0JoVV8xVTBKaE5jMWVEYzN2a0hvYUJlenNB?oc=5",
           "draft": true
         }
       ]

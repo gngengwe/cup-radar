@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-07T03:10:25.041Z",
+  "lastUpdated": "2026-09-07T11:42:39.176Z",
   "articles": [
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-basketball-2026-fiba-women-s-world-cup-t-2026-09-06",
       "headline": "Basketball: 2026 FIBA Women's World Cup: Team USA - All results and scores - olympics.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-02",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHk1Uml2eVBpTG9DWWVhSzhnbVYzeG1qbFQ2a3VaRWhYU28wTnZMaGV4ellqUWk4NDlNVlpjZExZRXgzVmdUY05BdldJMkxTT2wxVWxoNW5YelZWbUdmTHBxM2l1N0ZBWVRWbnN3ajJLMzNwUktHaGhKcG9qNEpZaWtyREZIYnhf?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cid-advocates-rally-at-seattle-stadium-d-2026-07-07",
-      "headline": "CID advocates rally at Seattle Stadium, demand World Cup economic parity - Northwest Asian Weekly",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmJSUFNoUzZhcThKZzNwTURxek5pbTl0YnFNN1V1TDZ5dmQxQ09hWkk2ZFR0aXI1ZDZ0RHdxaHNLSW9WcjFUWnE5bkZnVVpacjg4c2VoSGpfQVMtZDZCbmE2WDBraEE3RGpYdXNzXzdRY3BXcjBwT0thTk1zVzdLRDBQN1djMjFuaTI0RGUyekNxQnFLZndiR2h4RG83OGxSNUdrU1ZLMm1ZZw?oc=5",
       "featured": false,
       "draft": true
     }
