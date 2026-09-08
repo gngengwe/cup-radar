@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-08T03:19:00.885Z",
+  "lastUpdated": "2026-09-08T20:46:34.960Z",
   "articles": [
+    {
+      "id": "news-auto-the-2026-world-cup-was-supposed-to-super-2026-09-08",
+      "headline": "The 2026 World Cup Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story - ttownmedia.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxORl9fb2FGbl8zcGE5bG1ub0Frcm5uSk12WDVBaGpQNUZlcktrd0ZqOHpWaDBHMjZlNzd3VzZXOWVtRnNpejI3eThDNTVsRERkVlh3eHUyNzFBT1ZqRnY2SUlSWEZoRzEwN1hyaHM5eUVDeDRxamFMb09rY1RsQS1yT1V4ejZQT21WdmF4RFNBYkMxTFdJNzFrMV9IOGROQ2ZnbXJFTzloOFV",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-08",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORl9fb2FGbl8zcGE5bG1ub0Frcm5uSk12WDVBaGpQNUZlcktrd0ZqOHpWaDBHMjZlNzd3VzZXOWVtRnNpejI3eThDNTVsRERkVlh3eHUyNzFBT1ZqRnY2SUlSWEZoRzEwN1hyaHM5eUVDeDRxamFMb09rY1RsQS1yT1V4ejZQT21WdmF4RFNBYkMxTFdJNzFrMV9IOGROQ2ZnbXJFTzloOFVFV1R5ZGdyZFJ1empmNWoyU1FnTnZQc055RDJhVm1ka0lnNTcweThRZWlwS0o0aGt3NEdWakI0ZjR1LXpXbnFHdDRIWVRWeTFWd0ZHS3U1U1p5ZWIxVlJtbXVN?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-haaland-shows-off-star-studded-world-cup-2026-09-08",
       "headline": "Haaland shows off star studded World Cup jersey collection - MARCA",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-11",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjNKQVRKMmxxWEwtQ19lQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-was-hosting-the-world-cup-worth-it-for-k-2026-07-20",
-      "headline": "Was hosting the World Cup worth it for Kansas City? Small business owners weigh in - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUF",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-20",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
       "featured": false,
       "draft": true
     }
