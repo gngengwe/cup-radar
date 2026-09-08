@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-08T20:46:34.960Z",
+  "lastUpdated": "2026-09-08T23:12:29.958Z",
   "articles": [
+    {
+      "id": "news-auto-lionel-messi-and-world-cup-winner-lamine-2026-09-08",
+      "headline": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5\" target=\"_blank\"&gt;Lionel Messi and World Cup winner Lamin",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-08",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-2026-world-cup-was-supposed-to-super-2026-09-08",
       "headline": "The 2026 World Cup Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story - ttownmedia.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-22",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEc2dU5OdkI5OWRsTS1wRVdUUGtjTzY3ZGxyYnpYYkFoUU4wSVdYdEdyMm1hLVhWRzdXZEZmYllsdlNnZGpMdlZNTE9CdXVKY2NGWmdCaElhYkRkaXBaUElwdXdrd1Ffa2xuc0czaHNXWklNWEtrS2JIZE1TUExHU2IzbnZHVExHRzc5cnlPUFBjaXNfUER0aEtEem00QlVtUnZxZW14SHFjZ0R6WmQ3OFlFdkR2RGh2M2ZGYWk5d3RUYlU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-geha-field-at-arrowhead-stadium-starts-t-2026-05-11",
-      "headline": "GEHA Field at Arrowhead Stadium starts transformation for FIFA World Cup 2026 - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-05-11",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUppMWhaMTJTVW5fQ0dVWTBhdjNKcUtQNkFGRC1GOE5zRUpLcFo2NW9DRjhlZjQ0cTM2VEs5LWFrSUc0LU1Ia2M5eU1wU2hNM0Z6NGxVRzVfeDdHVFJDcDJxUE9uN2w5THJjLTJObEF5Mm41WThTTGJGN3d4V0VTVzYxWjhqTW9td3k5LXdDRlQwNC10QVJXc1B3UXE2b3ZGd1JZM3Y1WjNKQVRKMmxxWEwtQ19lQQ?oc=5",
       "featured": false,
       "draft": true
     }

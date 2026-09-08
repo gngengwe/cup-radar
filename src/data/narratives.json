@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-08T20:46:37.992Z",
+  "lastUpdated": "2026-09-08T23:12:32.438Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 419,
+      "chapterCount": 420,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3370,6 +3370,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYXFycjE2Mml1OVc2UmpiNFNQeVppQURpLTlYbGlOWUtVZW1MZm9EMTQ3VnVSc0hxNjhEbjVRcjRGa09UaVphYjhaOVVFMEo0WVFOcENmelF3cTNkcVBGUXFRaDNRUU5TcU5DdWx1LXJiMlJncWZONnRWcVA3cW8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788909150425",
+          "date": "2026-09-08",
+          "title": "Messi nears deal to acquire Spanish second-tier club Eldense - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE9oLW5jZXdOY1QxMjNkWGhDeGJ0UHY4RGd4SkZkSWFKUzhJQUQ1M0lfZlowbzMtV1RVT0VsaUdTT05Ed0w3NjRxRmtBM1l3YmN1VzY3RVlneWtnTFY0bFhuR3VKU3hQQTR5YVpFYUg2RlYxci1nY094ejBQZVZKbGVodW9aT2ZjODhaNU1nVW9paGZPZFdzb29jbmZCNnd3X2lwZmpxa0FkYjA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3388,7 +3396,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 340,
+      "chapterCount": 343,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6108,6 +6116,30 @@
           "title": "Ballon d’Or 2026: Kylian Mbappé, Lionel Messi, and Alexia Putellas among star-studded nominees – complete list - olympics.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFdkUXBXZnVRZUg3dmFZdW0zZ005aG1YY0gwMHQ0LUFDOUo2WUEweG05LUxRZEVzUWlzUlZRcmw3VG5yUW9DdnBQUmRDSlJLdXlfaUdrWGZ3Q0ZzaXlGdnN5WVVJU1R1bnRubkNWRDQ0RkdGRzdwSzZieDFmTWdPTFlzZUo2Mmw3Z1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788909150913",
+          "date": "2026-09-08",
+          "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist - aljazeera.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2Q5SGhOUl9RRnA2bkNDckFrRFB2eXA5VGc2ek44a2lrNDd1al9GZnF3V0dTT3Z6aHJBYzMxWU1JYmJ3RVN6RFB2c1J3V2JRYml2eXhYeVZQTFpJaWY3X3BYUG1zNkRyMW1OaTRJTnl4YmRmZHZEQ082c1RGMXY1QkMwTEQxaWNieGszYTJ4QnNVMjBUSjgwWTRRckvSAaIBQVVfeXFMUGl1QWJPSm5Qc29lbDdxRW1IY1UzVUxUV0d6Z1NQMHlrRFJ1bHBLUGlCTEhzY1BCWTM2VllkSklXWks2SnZ0SzBVUHlhMlg4NjctRWYySjcxWEpVOFRyNk8zN3pkck9mWlFBbGFGSkJZYlduNnJyVEozUFczR0h5ZzdQV2VScDNSNnFFcE15c3hFN1NTMmh1Q1dIMUZXSTZ5Mzdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788909150913",
+          "date": "2026-09-08",
+          "title": "Messi, Mbappé and Kane headline Ballon d'Or shortlist, Vozinha named for Yashin award - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmtSM1ZLbnlmM1NvbXVYMjdlUG9kYWtzSndvNFBVNEV6bTNOSnQ5V1VHVGl3UjZHUEp6NmlzVnNGNExYRm9XU0pmRlFMVGRGQzR2a2UyVDBwTEtLNkhHWFFMdENtUHI2aTFKbkVxZ1VaSDR6d3Vzdjd0czJDeXAwb3RoRjhxbUJ2V0pUaWtnbFpBdVJIY3pYNVl5VVV5LXVjM2V2VEJPM29OWWYwOTlNOC1GUFlXYWFia3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788909150913",
+          "date": "2026-09-08",
+          "title": "Dembélé leads PSG's nine-man charge for 2026 Ballon d'Or - RFI",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFpzVm42NFFfQkRXMWpLWTR3RFIwdG12VktUaWpBdzFuOW1jaGtkdEJKWXYxSnJvaFpIVTVNQ3FRd3Fud3lqUTN2M0Nab0tWTFY5QzRkYVY0V0NYeTg4UVlZSWx2N0R1dktjblJyUldhaWNHd2RWeHRMUTN2M0pQaG9jVFVBSk5LX2ZoTWdhQ25CNUgwMzRHdFFPRkdhXzQ0ZEhaV2lXbzBvQ2hoWVlhbUx0dmVzZ0Mxbmc?oc=5",
           "draft": true
         }
       ]
@@ -12930,7 +12962,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 580,
+      "chapterCount": 581,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17570,6 +17602,14 @@
           "title": "2026 FIFA U-20 Women's World Cup: Brazil vs. Canada - TSN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWhNR0R3SDE3bk1paDVZaXdGVmJwa3d3cTZwZ2ZkR2pZVVJZeTJIelh4Wmhxb0h4UGtPZEt0aGZzRExzdFlGTWpYREd6b24tclBCQklQMndEcnJfaHR2c3lIbWZqSG5raHhuYjhOSnlvbkhHT09WRU5sOWFEbHlJNUZHcF9OSjQ2ZkJhcW9fLTVPZkMwWkcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788909151950",
+          "date": "2026-09-08",
+          "title": "Canada suffers 3-0 defeat to Brazil at U20 Women's World Cup, knockout qualification takes hit - Canadian Soccer Daily -",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXF3ZHlVeng0c2NvOGhqeEY2dEJlS3EycUVySVFQSzVRRURCeTNBRXh1OEp4VzJ3UUdzOUk1QlRKTUNFUTNDZGM0X1R6VElaOWFKLXFZZWh4OTU5eGE0QjFnQ29pVWVjakNmQXFwdlBBZGViMEtIdXJCQ1RQWUIxaGZMdE04c29OMTRrYWQ3ai1hU0E2Q3ZubnlNZ3dRMi1ib3lLbkRJbUE2QlN6TkhKVFgtWk4zSjI5UWthRU93Mkl0Zi0wY0RKQk5Hcl9hZ1JXNjJkcGthbXZydm4za1E?oc=5",
           "draft": true
         }
       ]
