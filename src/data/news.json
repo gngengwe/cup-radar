@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-07T21:10:12.408Z",
+  "lastUpdated": "2026-09-08T03:19:00.885Z",
   "articles": [
+    {
+      "id": "news-auto-haaland-shows-off-star-studded-world-cup-2026-09-08",
+      "headline": "Haaland shows off star studded World Cup jersey collection - MARCA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPa04wd3dnM1YxMDBpMEtRdW9ySWo5VkQxSXphNUpwbk84Rjd6ZE9MRjdmSGNzTFNraWJCOEw5RDNEX2NzZzBUUUdTNktnbUw3ZTJtQ1czTEw1aVIzaXY3QnBBVzZiMnY3XzVKWGRkN2xtdEY2M1BORG1NV2Z6N1VUOTRPWXNuVURVVXZJQndwcmpDTEhQVjNHdVNJaHNraUVZbTY2aXViTmM",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-08",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa04wd3dnM1YxMDBpMEtRdW9ySWo5VkQxSXphNUpwbk84Rjd6ZE9MRjdmSGNzTFNraWJCOEw5RDNEX2NzZzBUUUdTNktnbUw3ZTJtQ1czTEw1aVIzaXY3QnBBVzZiMnY3XzVKWGRkN2xtdEY2M1BORG1NV2Z6N1VUOTRPWXNuVURVVXZJQndwcmpDTEhQVjNHdVNJaHNraUVZbTY2aXViTmMyNlItcmVKcjFaODDSAbQBQVVfeXFMTVJ2NXVJN3lkTU1OOHN2SVFybFNWallZc0NmYmNlaGRLdW1yTzlCcXpRU0VHc1dBaHIzQzE0OGJIbmRYN3pkcGVlbGFUUFlGVEM3VV92OGhYbHdSSDVJZEJidHdUOTgtRGxwcWpxS3NvWktEWGQ5bU5zaERKcTFHaWgtb29OR0V0ZHFWeGdRUHZuWnRnMHlRTklNdHRuWlcxR3ZCTHluR3Yta1Awc2R6cEVhRnBQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-pochettino-plans-to-call-balogun-as-usmn-2026-09-07",
       "headline": "Pochettino plans to call Balogun as USMNT manager looks toward 2030 World Cup - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-20",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlDQ2VMV0pMX2hJVVl6N2dKdk5TUjdfTzNSdjI2ci0tT3hpbjYyNlFLVHNHakRrXzBnVHQzeVRDNFNBblJNenp2Vkp6dEFZd0pWYnh1UGRYTXNuRy1xekZmZnNYSloyMWZmWmxzcU5UNW1aTnFxcW5Pclg4Z1pPZXYwWUpoUEJXVmVRS3N5cE81dzAwSWMtWDJoUmZneFFNWXdyemZKOUFnUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-kc-s-world-cup-debut-was-both-exhila-2026-06-16",
-      "headline": "How KC’s World Cup debut was both exhilaratingly Messi and exasperatingly messy - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmZ6ckhaTUtnc0JLZzlma1hJTHcwTGNUdEZiMzBRaUNSQW0yc1NkNm1raFlaUjh3UEpkVEZtUno1RTJkaE1OeDlXOTgxMVFiUl81M0s5STVreWJLMnR5U0N6S01teTJNZFVOc293TzU4RzNob0xSSkhiLVBBWXlzdzJvMTdKRW1ZM0toSHEwS2Fhd9IBkgFBVV95cUxOcVg3WDc3Z2RFNGp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmZ6ckhaTUtnc0JLZzlma1hJTHcwTGNUdEZiMzBRaUNSQW0yc1NkNm1raFlaUjh3UEpkVEZtUno1RTJkaE1OeDlXOTgxMVFiUl81M0s5STVreWJLMnR5U0N6S01teTJNZFVOc293TzU4RzNob0xSSkhiLVBBWXlzdzJvMTdKRW1ZM0toSHEwS2Fhd9IBkgFBVV95cUxOcVg3WDc3Z2RFNGppZEl0b1JmUjg5b3FLZkJvc21TQVloZXFaN0c1bVNaandMcUhEaFlPN0ptMmppSVA0ZUFuYmIxYXVFUzUzUWNGOHRjck9WY2N3WkpSMjBRekR6ZVBucm51d21uNng1RktxT1E2c19Oal83TnY5bkMzenNlMXlpSlZmRzAyajEzZw?oc=5",
       "featured": false,
       "draft": true
     }

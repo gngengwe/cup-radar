@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-07T21:10:15.516Z",
+  "lastUpdated": "2026-09-08T03:19:03.341Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 411,
+      "chapterCount": 414,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3306,6 +3306,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3J6WWNxOUpJaXJGeDFBUmpQRW5UMVlzaWtGaFhfRGYzNmtHZEI3bzBQVWN5djNLZUtkS2JYMEF2NG56ZWJlNVdETnItMk1yelRTRjI4Sk1oME8tdXA4SlpqU3dKclpFZDBlRDg5Q2ZBNE9xVVFNQU5CbHhHLUpvbzJRSGJvTmdJOGg3ZFlhWDhLUUVYTVRFRG5pbzc1bjRiMWliU3Z0cTVOWEFrc3hhTlM1ZHVxeVk0V19z0gG_AUFVX3lxTE1TMEEwWE1nNGR1MnFYMC0wZWJSNWwxQjh0QnlqaE4wZkU0V2lFeHlHSFBtczVBc2ltaVlwSzRFZmxZb1lyR3laN3BaQnVDYmhldmE2d3JLTzA1NFpDQVg4OXZrSW1URk1nQjdCQVRvaTJBdjJIX01lQmhsT1hoUXcxZ09oUDBSUkpGOW9TUUw4djZ0MlViUE1RanBVZjdnNGxqSXF2M080QUd3ZzlVaWpZNEZJeW5xdmR5ellPME5J?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788837541356",
+          "date": "2026-09-07",
+          "title": "Adidas Messi Argentina 2026 Special Kit Leaked - Footy Headlines",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1BySlJ2REhEeHY5Y2xNTnBnbGlxVU9NT3lUYldxM1BPRTRfVnFMQV9DSDFISFJtdFF1ZVB2Tl9ObUhwVHJyQjQ0SUt3VG1reHAtUVRhTUptOFlJdjBIdlNXb3hwcGRQVHE2LU1mekUwaHJyRmREZF9KLTJzMEJ3MXhuOWJFMkJPQldBMzY1ZXQ5bEdNRlA4SEhSYjVRWkZ6Tmww?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788837541356",
+          "date": "2026-09-08",
+          "title": "Argentina’s first friendlies post-Lionel Messi era to be announced Wednesday as reports reveal potential ri... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOW5XZEFNalo4RkNGMzVJNk45VlpLM1hhY1h0Z3hYU2phRGswajhLb2d2WnF6RWRYbEJuUlFYcWFHNUV5eXY3NUtWUnM0LU1zb1hWZkt3WlVyN2FPeHZMcW1uem9uZTlZajlsb0p4ZldmaTduOGYyampuTkhjcGdULURXbFlOa0tGVElFZ082MW8zODdobkhUUm90THcxLWRxYUU1RW40cGNiOUFFZjI0LUlUQW9uRWJBdHZLM2dPMExLUWNnS1BTZy13NU5ERkRGdEpHRUEwUEhwUDRt0gHgAUFVX3lxTE1NRkVzTHZ0THBnTTNaNmlUR2l4RkZWNDg5XzFVaTBFY1MxaUZUX1VtWnR6bUFDQ0FQVFNBVndmWU1PSnFUR3VOSm41TFlFMmlMcjVlbU5fV3JORHk5NUpJWkpVNUs3d1kxU2lLLUprWXRqZkNlaUdIYVkybS0wdnVtSlJnYWM1RjJpUEpWRmd5UVFJWERTRWR2VHZ0MHpBMXdMVGw3WUV5LTMzOWdLczNQYzFMMF9wVmUya2sxMXZvTldjZ3ZYcEt0U3J0Ty1pYjdoMnNqU2R5R01memRmMmNB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788837541356",
+          "date": "2026-09-08",
+          "title": "Argentina reportedly defining opponents for October friendlies after Lionel Messi’s international retirement - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVhpcEtqOFlRTWwwYnl6VUpDeWhBM1ZoNFhFZklLMTJ2elJMRTkyV08yUmduMU1lV2hjTURmdTdrc2FpeDFPZU1abzh3RFdBUWs0dHk5ZnhJYTJYZFkwWGxxd1hxVHRYdGZUaUgtMTNmT2FWbWdKNmc4LTdPTXVwd3FxOXJobTlJTXRDelZubXY4WXc0MkRLUFhnME5sLWFzcG1TMkloNXVJNHZRR0tjWndFQ29JbVpIQzkxWWdYTnVfbHpEWlF6dHFfdE1LeVlpS3lF0gHYAUFVX3lxTE92dHRGak9uOXg4OVp4ay0zWjBSbjNVbUFDeXZWeHZud05PRDc5LWNDcUNxS2x6YTZQY2xzRFNFSWpsM1lteU4xeU1YTkJKTTBGX3BjZVZOWkdheDhiZWVVcjQzSTZQbGk0YUNOZXZScGJrdnFGVk1DNFh4ZXJ2UWxtQnZ5emVBWEFKU0hMYXdtMXp2aHhNbEQ5N0h4UHFDT05lbUU1UllBUnNFUzN0b2g1UVVIdDJLYW5CWXRSX2Y5SWdmVWk5eGxXNWM4VVMyWFBVSjc1ZzV4WA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3324,7 +3348,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 331,
+      "chapterCount": 334,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -5972,6 +5996,30 @@
           "title": "Kylian Mbappe shows confidence and asserts himself as frontrunner for 2026 Ballon d’Or - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVk9QWDhVVmU3NngyNkg2VlltZnFlRXJObU9ra2p5OXNXUENzR05oYzlaNVRMRGpwdDVhMGIyeHQ2ZldOVjZOR1VHZFdPUFVaRU8tUFdLZWZ0Ykp0VUtEOXJJVGJ0QlpjRjlyT1BXX3lsS1p6cEZXUFhiVmZKRjhaM2ZUU3RVV0NXeXBJeTAwOERtbjhZTFdDV2RhU0lHWHdTT05tVjdXaFlaVU1uNlJ6UkExWk1iTVpwN2JpSjVkQ3HSAcABQVVfeXFMUFZPUFg4VVZlNzZ4MjZINlZZbWZxZUVyTm1Pa2tqeTlzV1BDc0dOaGM5WjVUTERqcHQ1YTBiMnh0NmZXTlY2TkdVR2RXT1BVWkVPLVBXS2VmdGJKdFVLRDlySVRidEJaY0Y5ck9QV195bEtaenBGV1BYYlZmSkY4WjNmVFN0VVdDV3lwSXkwMDhEbW44WUxXQ1dkYVNJR1h3U09ObVY3V2hZWlVNbjZSelJBMVpNYk1acDdiaUo1ZENx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788837541843",
+          "date": "2026-09-07",
+          "title": "Kylian Mbappe backs himself for Ballon d'Or win, but says voters will decide - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGdiRU0tWk81LWlHNWZvSGpZVUxHbFNNbDU3ZDZYYmtGR0dfQ1R6b2R1NUM1cnBPNVlwdTJIeVRBZFMzNFJOUDhSTU5oNGJ0ZjU5TzkzXzdhOGl5X2xqcVBkbFlOOU1fR3hOWVg1YXZxZEhxREMtQ2pJZ1BjM0k1WTd2RGZKTm5faWxZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788837541843",
+          "date": "2026-09-07",
+          "title": "Kylian Mbappe shows confidence and asserts himself as frontrunner for 2026 Ballon d’Or - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR05Kb3Q5dEVBY1JmWXR5d3pwMVlzYUxsX2x6bWZnSl9sOVNiRTk4cGdTM0N5ZU00YUZRYzRWVzBWM0ZNMWo2OVFIMTBjRXNiRTJmY21FZlZZWTBGZ0lkOGZ6el9WemNnV1FReEd3NS1GWjVhRGxzZHNmZ1ZOSEJhN29rcVZsSkJRSm1UWnpHXzlNS29wX1hfMUV4LWQ4aGNnd1FkQ3dhcHhJUTVqZF9uRjI1NVk0V0lWb1g00gG_AUFVX3lxTFB5ZDdmSHFaMjNIQU9nbl9Wa2pZMkhYeERJcmYxNzhuSWdla3dnX3h0QnBVMUczNy03bmh2dmRNLXMtdUVsbmhwTzhhSnJLQk1tVGllQjhRSmJVRVpnR25DbXZFNE9pdjhWMTR0dEVtaGxZNlFVNGM4ZWtBaFdYQmNoWUo4aFBCZ0ZGaGVSWEVJVmxkQlNFNTNSUmJUS0g2dnpvRkd4X00yLU9Rajk5aENvZENsU1lwb1RWQ1JlWHEw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788837541843",
+          "date": "2026-09-07",
+          "title": "Kylian Mbappe labelled 'childish and pathetic' by France World Cup winner over Ballon d'Or claim - talkSPORT",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC1xNWw4M1dkLWlnUEh0U3JkeFhfcDZBN3Y2VjF3ZEpQZ3hldlZJMlFpeG1kV0tPblhVQkw2SXhtSDZibTBqUlFUTWRZSXpLRDRjS1Vvbko5bUdESWFOY0J1Z3NHZjZ3czZuOWdkZW41WUkydDRfOFlxYjhxNkZQZXo2UUhOR2xPeFl6T250MWFQdzZkcUZJ?oc=5",
           "draft": true
         }
       ]
@@ -12786,7 +12834,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 576,
+      "chapterCount": 577,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17394,6 +17442,14 @@
           "title": "Brazil U20 vs Canada U20 Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup - Fubo",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMndqMk1WTkd4a3dOM2dCWDA4My1adTh0amgyV1FEdndub1BadFJMWExoaFpQTzhTcHlEenk3aGNpeVRpT2psc1NzN0pZNlBBc0VLQl90ejRkd2hkTVpObVM3UlQ5S2xTZ2N6aWg0MW5kR0NmMms5ZmN6bERWdk4zSFpVUjhwb3ZueXZFN0FWM3dENW1ORjhPTnlPX3lfekdRakZZekROVVdpTFRhYkJIZy1IMW9DZmU2NDRqSnk1bkZLaTVVTlIwOXRKQVYzTDF1MmtyaGVR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788837542845",
+          "date": "2026-09-06",
+          "title": "Brazil legend Neymar suffers another injury setback with Santos - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEtOb3g2QWtVOGlyb3J2ZTBEc19xYk5LUTRiMl9jbmREOVFLSzFCSXFhci1ic2oxcXJPbVVVQ3p3aEN1LWlEdTZySHN6V3ZNZ2lxUFl0aWdqWVJJc2dmVHlNZkl5MnhjZUNXcnBhY3VIZUxWcTlGVVNJeWdON0FsMFlvUzB1VXI1dTZ6Nk93?oc=5",
           "draft": true
         }
       ]
