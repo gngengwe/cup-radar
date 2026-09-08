@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-08T10:41:29.111Z",
+  "lastUpdated": "2026-09-08T16:05:10.626Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 414,
+      "chapterCount": 418,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3330,6 +3330,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVhpcEtqOFlRTWwwYnl6VUpDeWhBM1ZoNFhFZklLMTJ2elJMRTkyV08yUmduMU1lV2hjTURmdTdrc2FpeDFPZU1abzh3RFdBUWs0dHk5ZnhJYTJYZFkwWGxxd1hxVHRYdGZUaUgtMTNmT2FWbWdKNmc4LTdPTXVwd3FxOXJobTlJTXRDelZubXY4WXc0MkRLUFhnME5sLWFzcG1TMkloNXVJNHZRR0tjWndFQ29JbVpIQzkxWWdYTnVfbHpEWlF6dHFfdE1LeVlpS3lF0gHYAUFVX3lxTE92dHRGak9uOXg4OVp4ay0zWjBSbjNVbUFDeXZWeHZud05PRDc5LWNDcUNxS2x6YTZQY2xzRFNFSWpsM1lteU4xeU1YTkJKTTBGX3BjZVZOWkdheDhiZWVVcjQzSTZQbGk0YUNOZXZScGJrdnFGVk1DNFh4ZXJ2UWxtQnZ5emVBWEFKU0hMYXdtMXp2aHhNbEQ5N0h4UHFDT05lbUU1UllBUnNFUzN0b2g1UVVIdDJLYW5CWXRSX2Y5SWdmVWk5eGxXNWM4VVMyWFBVSjc1ZzV4WA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788883508161",
+          "date": "2026-09-08",
+          "title": "Lionel Messi nominated for Ballon d'Or 2026 award - mlssoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1IwcVN3NFA4ZHB5RjllUzJjUWtNeTZRTTczY0FKYmw0VXhGNWxzYUN0TUQ5dnlLRVVSUmFZQVhGT1dHMnJDaUk5dEZKM1Z0NmQ4aFB0WGJUU29MbE93NEQ3MEl1aGtOLVdXUUw1aFdpbWNfdTFIanB2ZHVMcGNWS1hpT1BQcWJXSFVwQ25pTTFwUEdUX2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788883508161",
+          "date": "2026-09-08",
+          "title": "Ballon d’Or 2026: Kylian Mbappé, Lionel Messi, and Alexia Putellas among star-studded nominees – complete list - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFdkUXBXZnVRZUg3dmFZdW0zZ005aG1YY0gwMHQ0LUFDOUo2WUEweG05LUxRZEVzUWlzUlZRcmw3VG5yUW9DdnBQUmRDSlJLdXlfaUdrWGZ3Q0ZzaXlGdnN5WVVJU1R1bnRubkNWRDQ0RkdGRzdwSzZieDFmTWdPTFlzZUo2Mmw3Z1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788883508161",
+          "date": "2026-09-08",
+          "title": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTFXbnBtZFVNaW9GWmx4Z1AyMm9HZmktcE5vLTBQYXBvVTNYZWdzZ1NxVUU5QXlZQUYySmRwbEJhTXZ3ak5CX2VJMFQ0THY5MHVQQXlITFNIdGl6ZEpnRDZRNkhGQUJSOWh0czFpUWhHS29TRmNLdWNydVlZY2xsLWlvUDBtb05qWFdrMG5YTWlCQVhnYUdJdlR5ZmNIVVV1cWl5ekIxVVQ3NHVLeDA5STB0RXluZ1FQLWVIaU1DY1Z2em1uOGRXWHpoZlNmUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788883508161",
+          "date": "2026-09-08",
+          "title": "Lionel Messi nominated, Cristiano Ronaldo snubbed: The full 2026 Ballon d’Or shortlist - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkhsYVplMENxelF1d2dfc1o4cnhONnA2SnRTM0dCNXpIRTVfc2VsaGlMVUNWazlyNXdQR1EzMWNNNm9URzEzT1EyUjR5Z0tvSGVidlNEbFVkSUZxS2NYdXRJa0NRVTZCdlBicU4wUUdVZGpmbkZGa2RvU1FYN0ZzSWJfelJ5TExrRVR1b3hyT3NTc1JNMm5NUm9sQ1hyX0lsRHlKTXhlRDkxX2x3TlFBV2J3VdIBuAFBVV95cUxQaUdudDVNOFRDdHQzcEE4OUREVHFQQTBvbXRwTlE3dW5YUFRlZzRqSFZuYTF6YzhleXVIUDVYU0h5VTdxdHdBUlZRR2NJYVpPVktpMW1vQTdKUjExRl92VDIyZmVid2FuZzdnaFFteTlnZkhQRXNNZ1BFWmpTTDZaUmZKcFdnazJCSHF6ZkdkdTlFdmppZ0R6SktQWmdSY1dpYnVJaUdwMUxrSDhjUzhXc2JiTGthYWly?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3348,7 +3380,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 336,
+      "chapterCount": 338,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6036,6 +6068,22 @@
           "title": "This could be year I win Ballon d'Or, says Mbappe - China.org.cn",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWDBpc3NIZGktYWkzOU5zY3Z1OXVmZjZhemozU2RIc3dpZC1Ja0RMRG9iZjVZaUJMdFhZci1sWVBuVnlDWWMzY1BJbzVxWU9ORjdnSndrTVRLOVExRW9FSUpSYnRPSXpBZ3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788883508705",
+          "date": "2026-09-08",
+          "title": "The juxtaposition of Kylian Mbappe and Real Madrid’s defining Champions League season - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTRaYWhjUGJyeGxRTUpOQ0YtWUdLd081RjdlWE1UV1hVUkVqTDJKWDhzem13dlB5Z1hOYmdDa25wQkVLbUEwMjJVZ1FqZ1RXRXgxZnQ2OXJuUkJiVjgtd29NQVIyX3hMc3dveHE0am1pSG9VQ0wxWWRNUURnNFBvd2ZSRl9nZ0xCOC1wbXpuUDFNUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788883508705",
+          "date": "2026-09-08",
+          "title": "'Hardest? I don't know' - Real Madrid superstar Kylian Mbappe plays down France's World Cup semi-final exit to Spain - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlGV3BZUzE0LUxwamQ1bnNsTVJlbjB5MU1KOFFvS0tzbWtEUVpwVGY0RThuY3ZURTgyTnFkWWtaUzRrd0t3WTVTNlh3bVNsTzkwcGh0eXIySzVSS211cmx1M0t2ejNER3dVallqd1otMnRnV0dvRWNBWi1fM1B5SHFDbTN1UERFV0c0YXNnMnV6QUR3bElXc0hPOUxOVmZaWE1SeU5uak1VOXhwcnc?oc=5",
           "draft": true
         }
       ]
@@ -12858,7 +12906,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 577,
+      "chapterCount": 578,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17475,6 +17523,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEtOb3g2QWtVOGlyb3J2ZTBEc19xYk5LUTRiMl9jbmREOVFLSzFCSXFhci1ic2oxcXJPbVVVQ3p3aEN1LWlEdTZySHN6V3ZNZ2lxUFl0aWdqWVJJc2dmVHlNZkl5MnhjZUNXcnBhY3VIZUxWcTlGVVNJeWdON0FsMFlvUzB1VXI1dTZ6Nk93?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788883510032",
+          "date": "2026-09-08",
+          "title": "Canada falls to defeat in second Group B at 2026 U-20 Women’s World Cup - Concacaf | Official Website",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWI3aDlTTDZDcVNlaWtvUEdsSXBVZFNaUlAtQlc1R0loRFJVV25mSkhGNl9Vb2RCMEY0Q3prSmZBRkw2VHljblBuTXVibjF2Um42ZC1rQmNlVU80R0Rza3NXSTVmd1I5OHRxdzE3SFhmdUNNQUFuYXFVc1RoZTJHc1psR3poMzIybzl3dU1pb3U4OC00M0VyZ0NMZjlsOVQ0THNIdUV6OFI5MkNBYUdYSVR5ZUgwYXRMckR4cm01S3h6UnkzTDJQbDVlSmtaamVGUU53VjBJVWZxejg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17704,7 +17760,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 837,
+      "chapterCount": 838,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24400,6 +24456,14 @@
           "title": "'I'm eligible if England want me': Humphreys confirms World Cup goal - NRL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXQtaDIxUzRRUkxJMUVMX09waEN3OHg2ZnhYQkFmZjhQaXUzaTA3bFdoeUhLek1YdFNUeVZYMGh1UXRQMW8ydy1zOVFkZmNuSkhMclJpS2U2M3lWRGRNNnE4cWFPV2hmeVdROXQ3cTlLMWlnV2lTZ3lNdXMwZFhOMjJESjkzVldnM3JHM2FqdFFxYWNqalhsWkpURVltTld3allB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788883510625",
+          "date": "2026-09-07",
+          "title": "Kylian Mbappe backs himself for Ballon d'Or win, but says voters will decide - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGdiRU0tWk81LWlHNWZvSGpZVUxHbFNNbDU3ZDZYYmtGR0dfQ1R6b2R1NUM1cnBPNVlwdTJIeVRBZFMzNFJOUDhSTU5oNGJ0ZjU5TzkzXzdhOGl5X2xqcVBkbFlOOU1fR3hOWVg1YXZxZEhxREMtQ2pJZ1BjM0k1WTd2RGZKTm5faWxZ?oc=5",
           "draft": true
         }
       ]
