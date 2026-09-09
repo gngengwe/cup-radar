@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-09T16:00:11.952Z",
+  "lastUpdated": "2026-09-09T22:57:56.125Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 421,
+      "chapterCount": 423,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3386,6 +3386,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788994674140",
+          "date": "2026-09-09",
+          "title": "Lionel Messi reportedly set to be invited by Argentina for farewell tour after international retirement - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDJaaDRRQ3phRTV1Q3ZzMmZzQnh5VjBWMmdmVHc5dXdUb1JnS29NcEtsdkNsM3pRZ05md3RqSTBmeWRaeU9FbDZjMG5URTNrc0hZb0ZqV2RvMGt6N3hGS2MzNDd0Y0JqbGZ5SGhBdUZjc2N6RURoT2pjRGxZMjBCeU1kNFdDNXc5Y3djNFFKeE5jOWNBUTF2NlpfUVA5eDQ3QnpjMVN6WlZIel94LWJyaVRyQVhJdXZLU1c0aU5aVnphaURpWXZtRWt2dnNJQdIB0wFBVV95cUxOdjN6WFltS0Jnb2d3TzRmeXpxQ3ROVlBnRmlOOEJYaUpXbVRaNmNyYVI3eG9PdjlFME5qSnB1aG04UjRGT1BoRC1WcnotM05BcVBGbmIwYldOeWpfUmI4Ymd0ckNOUnh6WUttYV95ZENTZloxaVo4SG9CUUltN0hTU01DdTBQbEl0MzdOZWlpc3dsN0twcWtGS2lpV2VQUi1LaTUxNXVGa2VLamluUEhscjltUFhRQ0pmLWRXZHpIWVl6UWszWnZaWU9IMDRxR2tpRzRJ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1788994674140",
+          "date": "2026-09-09",
+          "title": "Argentina have reportedly found rivals for potential farewell friendlies for Lionel Messi - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRGd0hmd1B6THJMaWxtd2F6Xy1TVUtPUExkWV9JRk4wVkU4a3kxanU1ZTBScmVkYzVmTjFDa3ozVElHTml4czRNUzMzR2I0ck9EUUVWX1dtRzBZNnl5MjN4TjR6c3RqSU1DZ3lNSk1YT2lzMUxVbkVQbW5wcFRlMTlkcFhudFdXeHg0b0otUko5WHVrRHBGRGNOQ3pDbGd5RkRVUUdCQ2NlWUxzX0otVHBka0FBM2JSUHZ3Tkd2bk3SAcQBQVVfeXFMTldVcmowY3BKOGJLY3padkVRdEsyV3RZdDlRa2lnQUR6OUZHUDNLSlFDR1hDS3pOYzh5Tk5wMXpwR3Jma0d0dXhrS0ZoNVJzamlBS2FhMkVaUFhhS3BlUjh3NVBzLUZLUUtnNWV2Qk9kNkVSTER4UVl4SzBfRXg4dTBlbm9hR1M4emVCN21ka2JIaDFWVTFQYzZmRXk1emw5NHZVTDJXRml4NWpGRjJvR2c3UFRxNkh4Zk8tMlU1VUFUSmVNZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3404,7 +3420,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 345,
+      "chapterCount": 346,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6165,6 +6181,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDBvci10S1oxbUo3X1VUbkU0SU9mMWk0bkVsRm1zbFAwOWRsY0h2aVpSR1dBQ09VQnFRM2lCdkhjdGFwRUV2a29TOUV6OHExb1VDRXAwYjBBbVdTOVg1QmFEV25FU0M1TTNiUlBZVVprZzY0NG40YjVWLWVzTFJZTWo1REZmeXdCV3gxT2tOTU5BWU5LdGsybkFiNDVfWFgwZzJnb1ZMMmFYd1N2NWhQMnZqMjlOYVJRRXA3Wm4tSFpFbjJnT0x2M0RPbkY1S1hpTlZrLVRhWFFSenlyUTFEZ2Nabw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1788994674652",
+          "date": "2026-09-09",
+          "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years? - theguardian.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFQzeThVZEJ2NHdlMW9MMzlvS1Exek13Unl6Qi1vWU9zR3pXY2dac0ZOWnJLZER0dFBEa1hIV1ZyUS1Zcm1DQVlQU2RBbllObFZzalRpLW1SVUtPb25TWkdNVUNIc2VvZ2FTSUV4N2VrNUh2a1VxQVhCNWhvYXdNYVNuOURRemNpREtwWm14RzlXSTAwN05CbWdORVVwOUcwNFFyNHVWZ25DZ3ph?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6183,7 +6207,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 857,
+      "chapterCount": 861,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13040,6 +13064,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN295eWRGanExZThyQk56YmVybE1yVHN6SkhkTW1OV2o3M1BTbFRyLU8tRjNCVmlWQ0w1SXdpRzJvSzFvS2VOYU9lMUtSOTlHV0lrZjU5NW1aZFFUWURoYWQwWTVlX1pHaDF5UDFqNmZPRkZXa2k2SDFNendwMFZISm8zOXRjS0NGcDY4VnV4VVFFcTY2RGxHZFZpbGY1V2RiNE9FS0N6em1DVUt6clB3dW4wUW41a2Qx?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788994675129",
+          "date": "2026-09-09",
+          "title": "U.S. Under-20 Women's National Team Draws Japan 2-2 at 2026 FIFA U-20 Women's World Cup as Ainsley McCammon and Alex Buck Score - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORnQ1MVJMcW5JM2RSclJIY3d4eWhPQmpJOFVjakwxc2NZWWxWSTB5X2JaR01lUk1KVnozVGFvNVEwZ2NlWE1BY0g3OUx5SWdKSnU0OFptRXZyckVwY1VSNnJycXhJYkdzX09tX1htU2p4NkVyakJfc2twbjFTLUF4Y24wRFAxSGxrUFVVU0JsT2QyYWRPQXhndlJQc3JxSDBlbTJMUzFQOE1QM2sxUVRVYWdTazk0cjUxZUNWX2xab0NEWlNNWHJyeC11NA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788994675129",
+          "date": "2026-09-09",
+          "title": "USA Poised for Women's World Cup Knockout Stage - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ycmJGOFBVbm1WczE0bkZMUXo5d1Rhem9nc3hJRExMMXhrNjFsNzZCUGpuaG5peHV0M1FfdTFFWGZyR1gtN1Y2S2xoUUVuR0M3SHpjZnV3Skl3aTRxaTNMNnlQMm4xVzlqLUtz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788994675129",
+          "date": "2026-09-09",
+          "title": "FIBA Women's Basketball World Cup 2026: Meet Hungary, USA's quarter-final challengers as Paige Bueckers faces former teammate Dorka Juhász - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUdmM2h2ZEw3RlZVcG1BYjFva09oMGpsZEI0UzdRMl93TE1LRDlQMVdZY0FpLXF5MVZGeWdfWEVpdVp4SHNqNW5jeHpGTTFRam45bDF5ZGlWOUVPUGRXN2FzUllkazY5T2JNVlo1d1Z4TDZmWWFhTExYMkdya21XeUs1alc1aFpIWEdwS0hUTjJ3QjJTaHVvRDQ0N3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788994675129",
+          "date": "2026-09-09",
+          "title": "Team USA vs. Hungary in World Cup: Time, TV, what you need to know - CT Insider",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcm5OUWpYSXlhOFRRZXBmYWd4SzFWV2Q0amxSa1Q4YXVYa01lTUwxWDlHOTVMWWZjR2JoSFRMQ1gyOU1XTlBLenhSVGoyS1UyMFI0aE9zSFBCenFFaHZKeHpuYUx3bzFHNTVYSjVqTTkzRkdzOXYwcWczYUY1OUdGbTlfQnB1c0Z1dTF4SG9WSTNmSFQxLUctNGMtZHJMck9zQl9jTXJ4M0k5YUtyRW5RaDRKS0lpd21VZ1RuMFY0WVdzQkU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13058,7 +13114,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 582,
+      "chapterCount": 586,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17715,6 +17771,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDUzUjhmYktjaEo5MVh0d191X0pyWHl5VE92OW5zbjN2RS1OazFmOVdYRWNpTTlIZkdXVFI4LVJJT1VTUzNRZi1ZVUpTdklBZkF4M1ZYaEVLaWFJYjNaS2NGc0JnUVF3QVpjY3BEYW1Cby1JZ3duT1lGcF8tbDFjYnJvdFkzeFYzY1Y2Uzk2eXl6Q05LZW93YWNfMVJaVWlMWkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788994675713",
+          "date": "2026-09-09",
+          "title": "Ancelotti names new-look Brazil squad after World Cup failure - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG1lWlFycFBaOUsyQ0ctbnJOMnlFalRHU25QVktpQjFfM0Y5U2IzX1ZWNm9Pd0V2OVNEYXZ5eTlFSE1tR2xkbnlaU2M0MGtmWktYN1l5clRYbFNfSnZtLTRPQzBzcmEyLUFOTHpkaHFxM3U3czRnZnJjNE5IVFdfbjlmRk80c1pERFprU1p2NmhkbnF3OHhGaDhQU29jTkZ0Q3g4Yg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788994675713",
+          "date": "2026-09-09",
+          "title": "Brazil Begins Post-Neymar Era With João Pedro And Estevão In Squad - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFQ2UWNPMERENUhnYWhvV1BnaGpxMl9zNlEyamNadXZVWGNQV2VfVjlZQVFPMlZaY1hLczdjWGdWLTRQSmFvWGpEWURXcnM1WUhXczY1WVZpSmRBS0dlWl9ici0zSjdpOVhlVnZBal8yUUh1OVc3Yk1IMVlsSGRLRF8xUWJEQU10RzBqZF95OEQ5OUlzOHFXY05FSdIBmwFBVV95cUxNYWtVckpDd2ZXcWpiZEFrWHFfWmJqQmU4TWpLeVYwdnAyRHhFUnlFN2lEcXRLdjJRY0Z3Q1o3dkFTUWpHVndtYmNwdUs3a2R3U1dndzg2X3EteGNreWhHRVBNWWMwX05wR19DcUQyeXVuVTlscTN5R1Izb0dPREd6bnM0d3BzTUFZNDRNc2dwOTZmdFozUEppQXFvWQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788994675713",
+          "date": "2026-09-09",
+          "title": "Brazil squad for India football friendly 2026: Vinicius Junior, Raphinha, Endrick set for Kolkata - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmFYd1BNTVJDUXk4RExONFNLR2dPR3JYV2dQaGhmaEZtYlFKXzY2UkVhWkVuMnlhbU5lVktGcTFYbkhZSUVOMUs3VjhwVjFsZ3BtLU1Hb1FZWG8tX1gwUWZWYzhKRjQ3M3JvZkhOOWtTQlQ5NTMtelRwbTJjZ19BSXVZSzJ1Y0U5OE40eTdPaXZtQlUyRTlQMw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1788994675713",
+          "date": "2026-09-09",
+          "title": "Brazil squad named for friendlies against Australia and India - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVy1UZk1OTkZtX0tERkRHTVdaeUQ1bzhQWkJrTFhxVTl5VUF3RXNKVzdUWjNPb2s3S2hZYzctbEx2cnZJTlh3QWc4bWxQcWNfVDVjRklmN3phR0U2bDJDQ2Y1WXVMNG9uaUo5UEFtVUVFN2hGaHd0eEI1cnI1NkUtVXVhM0JuZ0ZNYnNUOE10RQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17944,7 +18032,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 846,
+      "chapterCount": 848,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24712,6 +24800,22 @@
           "title": "Tanzania fails England test in FIFA U-20 Women’s World Cup - cecafa",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0dXY1F1Ty1KRVEtZVpGdzRrd1pvVTZPZmtaU21hX25LY3VvLUxEd2xpV2dFQTByYVN6WXZHS0VuZGNYcnEtaWoxenZCRHM1b1pfVGNmUGt4UGppMmNNQktVNVBnWU51SzRyOWROTjBvV2tSdGE5SEtNUVp3UzdsYTAxRGZHXzNjc0dR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788994676125",
+          "date": "2026-09-09",
+          "title": "Live on the BBC: Red Roses WXV Global Series 2026 matches against Australia, Canada and New Zealand - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZC13SnJOSVlqNW9xUnd1N3JyeUZkaHlUZWRocEJreVBHMjhreWt6Q05Db2FvUm90dW9wb0QtSTZGMWJycnAwVUVmMkhJQmFFbkhaOW9mSmFfcXdsajJncFZSRzZiaGMtN1NzUjBIbEVwenZOclBySEpFbEI4Tlo2dHpwN2Z1Q0lFNEtibA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788994676125",
+          "date": "2026-09-09",
+          "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years? - theguardian.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFQzeThVZEJ2NHdlMW9MMzlvS1Exek13Unl6Qi1vWU9zR3pXY2dac0ZOWnJLZER0dFBEa1hIV1ZyUS1Zcm1DQVlQU2RBbllObFZzalRpLW1SVUtPb25TWkdNVUNIc2VvZ2FTSUV4N2VrNUh2a1VxQVhCNWhvYXdNYVNuOURRemNpREtwWm14RzlXSTAwN05CbWdORVVwOUcwNFFyNHVWZ25DZ3ph?oc=5",
           "draft": true
         }
       ]
