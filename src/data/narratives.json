@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-09T03:22:06.630Z",
+  "lastUpdated": "2026-09-09T10:50:27.131Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6159,7 +6159,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 848,
+      "chapterCount": 853,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -12944,6 +12944,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3RtZ19vWGdNYnEyZ1lJdHVOLUxhRUQzSkJrOG1pa2tMWFBIa1FDclJyUVlvWjVBc2FVMXE5N3p3MEFpT2hyS05wRVpmeEhlMDM1d0ktOC1vVFlqY0ZUdDFVb2JZZFZNc2sxdHByUmZhMVBiYWY0TlhveGd2TzltaWRIcGFMdjQ0RU14eTUxRVFqZmN6dWlVQmp4bzEwLUZqUmxwSzQyV0Y?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788951026054",
+          "date": "2026-09-08",
+          "title": "When does Caitlin Clark, Team USA play again in the FIBA World Cup? - Hawk Central",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVY1NGMtYUdNeTBOeHdKXzNEeFAwVUNyVFE1UkE0VElxcmVTcVdRVWJsaG5DbmtlT2pNMzBlWl8zTnNWUmFxVGJlRm9FbV9lc2lqbEwxTkd0OEpxZnA4cHljNTFoWC1SWVFRbk0yUmQ0TF92RGpDTDMwVURJRmNfVHdoemtYcHJMVWR5Ul9hOHJ6MDNxN3hCbzZVTXNXLU44TkNKQmcybWpTUThRQ0xRemJpTTJFZ2lNS3lMbW5ibXZYX0U5TllKNmxtb0htSmVZRUZBR1B5N2haQmFKOF9j?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788951026054",
+          "date": "2026-09-08",
+          "title": "Team USA bounces back from rough outing by dominating Czechia - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0VEVDF1MnZlSUdLcjBGNThWTF9ZeVVlWDBPWFZQYld0eWJ0YnI4cS1rMnpaaXkzV0QtQ05YN2xpZ3JTdnY1X2R3SFJRV1k2dGFTNER5alRxaU9vQThRaUZuczdxX1pPalRFRU9XdDRNWGtrMjJxLXBhTnhSNDd6OTd2cDhVQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788951026054",
+          "date": "2026-09-09",
+          "title": "Caitlin Clark's 3-point shooting not lighting up FIBA World Cup but 'great playmaking' ignites USA - IndyStar",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUHMwUXBvMHFaVDFtLTFmV2lUZnlZUzdpcjBZaTl3R1ZIQ3V2Q01ld3pmeXRLb21iWF9Xd1hpbGRiZDJyeVRPX3JLTG1mQS1EMGFLcjBBcWZCMW9ZYkFKUWhJOHhiOEMzU05vWHdNZldfbEJHdHBnNDBTVXkzMWFCLTNZZFNFX0duV0llRm85cHlidEV6OTZBMzY4TmdZOEY5OUxidl82RmNPLUlDNWh3NnVuRkZzSlRlYlBvVVZmeVVqaFBReDRLOHFDNWd6R0RGRW9RYk5MNTJ1Y3F0YnQzTkxFRVFIZjB0UXNUV0tiOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788951026054",
+          "date": "2026-09-09",
+          "title": "2026 FIBA Women’s World Cup Drops Final Phase Schedule - Just Women's Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlF4VVpXQUhUaEJnOUgtSWdqZVA1NHdwblFmSmtEQ3BESlMxaW4zSW9kb0R0TU05anNIWUZjNTNHRnJVWFlfREllY0Y2VUlQMFduTkYxUmxtS0dKYjlZTGtRdWJxR09PeFNFMXNhYk5jejlxZEF3U040N3M3RnlmR2tVTE5lLWdQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1788951026054",
+          "date": "2026-09-09",
+          "title": "FIBA Women's World Cup knockout stage includes USA vs Hungary in quarterfinals - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjhtcFNJZjIybERzNVhhU0N0MWpqaE9XWU5RQy1hVTdGeUJiU2VLOHhaUnIyU0JveTM3WWxmZVJER1RmZ04tOW1PdUIyY0NxVGtlRlhJTzFZMmZnTG0talN4eGxMU2EzTXFuc1piRTNQcjl1NUZwQ0lUOXVMYk04TDkxWURSdUV1TUtEVC1sYjV6TkNyaVFwVGU4dXphVkJXb1dLZFk3NFY0dXdONnE5YWQ4b0c1di1rdlVF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17848,7 +17888,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 842,
+      "chapterCount": 844,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24584,6 +24624,22 @@
           "title": "2026 Ballon d'Or: Full men's, women's short lists, host city change, more - espn.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXNCSWJDMlMyVmswR2FZRlBTWHQxNE1ZUXpISmp4STh4Q0F6OENOWWJmM2JyNkVRcUc0eGdWd3RUeklTTXUxTzJCZV9BbF8zVjVtTzhNR1JuNGNSTkJheHNJTzlHelZUeDhxVjR1bkZpNFhDaEhBcXdpYVZ6OENNbmRZVU94bW5SclFpdDh6d21fbUlQNzB5YTZwY1hKWm45aFZWbEtYY2hGN0gxekFQeUwxVjFOX0pxV0pUTw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788951027131",
+          "date": "2026-09-09",
+          "title": "Kane's 73 Goals Propel Ballon d'Or Bid - 조선일보",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXp5ZWdRQmFrOWRwYk51aXNaZTRJVUJ4UUhyVG42dVpGX2NrTXl2enAtRVVmMWd3NDBnVnB2QVVtVnphdnRkNU1hT3JaQWdmS1hhQlVTZEp3OFV5bmlKdTFBbERaYXlMbGdjYU43a2pkVEpmUjB0S2c3U1VfeUN0eWtRUUxKQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1788951027131",
+          "date": "2026-09-09",
+          "title": "Teams guide and players to watch at WXV Global Series 2026 - Women's Rugby",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREhhR3dBX0FRdWFMd2lFV2ZOY3JQeHNaMnNlZk82bXB5cEpOSFlta1lkRHJRYUR2TFhZbDFqZUJzeTFWSXJ3djNwclpiYTIzRTdjZjZNVkk1V3hhZllHYjVLZVZELVFYeFhxemxnNWRjazB4QUVuQk11NXYyNjVvVHI0VHplRjg?oc=5",
           "draft": true
         }
       ]

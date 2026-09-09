@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-09T03:22:03.775Z",
+  "lastUpdated": "2026-09-09T10:50:24.574Z",
   "articles": [
+    {
+      "id": "news-auto-2026-fifa-u-20-women-s-world-cup-livestr-2026-09-09",
+      "headline": "2026 FIFA U-20 Women's World Cup Livestream: How to Watch Every Game for Free - PCMag",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFOdEdQbzNpZG4xNzNieVRxSHFkMVJmaUJVbS1LNm5XdnREVnN4YlFIeW1xMndrclNIUVEyZ0NaVzJzejZld2NxaGs2U3RoTExEVjJSMHBZODlvTTE0SjVZNnF6RjE4V0lrU2NWT2NFaVF2MlcxRkVzOFBNYmxVSkhYQ0MyWFRZc01HTg?oc=5\" target=\"_blank\"&gt;2026 FIFA U",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-09",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFOdEdQbzNpZG4xNzNieVRxSHFkMVJmaUJVbS1LNm5XdnREVnN4YlFIeW1xMndrclNIUVEyZ0NaVzJzejZld2NxaGs2U3RoTExEVjJSMHBZODlvTTE0SjVZNnF6RjE4V0lrU2NWT2NFaVF2MlcxRkVzOFBNYmxVSkhYQ0MyWFRZc01HTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-schedule-today-games-kick-2026-09-09",
+      "headline": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-09",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-post-malone-jennifer-hudson-and-more-to--2026-09-08",
       "headline": "Post Malone, Jennifer Hudson and more to perform at 2026 FIFA World Cup closing ceremony - ABC News - Breaking News, Latest News and Videos",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-10",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDNWZmE3NjVFRTJqRkZoaUlwTXdtb0NqY0VLczU0dTN0czhXT01QUmVQYmhnenVpNHdWdzZmTmZDbUVKODBubW9nMWF2SWJwdVROaXZCcjVVbG9aNXJlNlhXaC0xaUs4b2hwVk11a3NOOVZBd2hXQnIyVC1BNC12bFBBbGtLWGx3QlRBMi1PdHdCbUtYZ0RjZWtZc0RpRkw2aC0tZXVGSDAyVlcxQmR0QXZQUTVCQ3VWQWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-world-cup-fans-are-falling-for-kansa-2026-06-26",
-      "headline": "Why World Cup Fans Are Falling for Kansas City, the Tournament’s Smallest Host City - AFAR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkhnakdtMEJ1X0RTenJVV3QzU01ONmktOWlaLXVBMl9mcE16RG1PaW4taUo2bS1MNEtCa0VmYmk5ek9DR01BLUxGdFQ5WUZVeWFCUkNLdHZMSWZyLXBPTW5kMkpQMEJtTjdUdGk0MFlET092OGc3YXBSUWRPS2VuaVR0ZU4wS2lOSW5Fdw?oc=5\" target=\"_blank\"&gt;Why World C",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-26",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkhnakdtMEJ1X0RTenJVV3QzU01ONmktOWlaLXVBMl9mcE16RG1PaW4taUo2bS1MNEtCa0VmYmk5ek9DR01BLUxGdFQ5WUZVeWFCUkNLdHZMSWZyLXBPTW5kMkpQMEJtTjdUdGk0MFlET092OGc3YXBSUWRPS2VuaVR0ZU4wS2lOSW5Fdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-here-s-how-many-people-attended-world-cu-2026-07-16",
-      "headline": "Here's how many people attended World Cup matches at Kansas City Stadium, Fan Festival - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzdKX3d6SzdraXFyLTRQTkZKcTFvWmxVaDVrSXFFbEhNMjZMbW5hbnd0WVNYSGZVZHJ0OG1FV29KdWRWX1pQYlo3XzBocEVJZ1NnNnRwbHRUQUFXVlV4SUNVYnpnMDZlZW43Y2hJUWZYY2ozNGQtbEZPbjF5QVZ1bktCVlN0d0E2eTktczJhbWI5R2xUOGNj?oc=5\" target=\"_blank\"&",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzdKX3d6SzdraXFyLTRQTkZKcTFvWmxVaDVrSXFFbEhNMjZMbW5hbnd0WVNYSGZVZHJ0OG1FV29KdWRWX1pQYlo3XzBocEVJZ1NnNnRwbHRUQUFXVlV4SUNVYnpnMDZlZW43Y2hJUWZYY2ozNGQtbEZPbjF5QVZ1bktCVlN0d0E2eTktczJhbWI5R2xUOGNj?oc=5",
       "featured": false,
       "draft": true
     }
