@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-08T23:12:29.958Z",
+  "lastUpdated": "2026-09-09T03:22:03.775Z",
   "articles": [
+    {
+      "id": "news-auto-post-malone-jennifer-hudson-and-more-to--2026-09-08",
+      "headline": "Post Malone, Jennifer Hudson and more to perform at 2026 FIFA World Cup closing ceremony - ABC News - Breaking News, Latest News and Videos",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZaZ2hiS3BfSG9lVU44bHNjQUI2R3I3anBjbERtTUc3OWNiSzY1TDlLdEozSUtGOXlrV0ZURW02WEdJS3JCSk1Ec1pFVGdhLUlXSl9BREp6OEp0bGt1X2F5T19KUFl1SmVubnViTlBfRHNoQWt1QzdfUkdqNDR3b3B4dHBHcTdReHAzam5MREtEa3E4V3pEdzdDcG9SbDNyNzlBZNIBqgF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-08",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZaZ2hiS3BfSG9lVU44bHNjQUI2R3I3anBjbERtTUc3OWNiSzY1TDlLdEozSUtGOXlrV0ZURW02WEdJS3JCSk1Ec1pFVGdhLUlXSl9BREp6OEp0bGt1X2F5T19KUFl1SmVubnViTlBfRHNoQWt1QzdfUkdqNDR3b3B4dHBHcTdReHAzam5MREtEa3E4V3pEdzdDcG9SbDNyNzlBZNIBqgFBVV95cUxNRUNVZzNvdi1tempHUzRHOWp0cExUTHlUbUtacjN2OFRDdlFFV0FlRTl1TW5TLWxPdkVMMGVNR2NqdmFhRm1OSF9rc04tdEN4dVNScERibjc3MW0zUldnV3R4UU9pXzRnY3Vjc1FITGpMMVpabEJ5RUF6X0hacGZOd1ZTczJYWUtVY1ltRFR6NWRjMVRDN2VSVkw3UUtqcEpjazM0RE5hOEVhQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lionel-messi-and-world-cup-winner-lamine-2026-09-08",
       "headline": "Lionel Messi and World Cup winner Lamine Yamal on 2026 men’s Ballon d’Or nominee list - CNN",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-16",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzdKX3d6SzdraXFyLTRQTkZKcTFvWmxVaDVrSXFFbEhNMjZMbW5hbnd0WVNYSGZVZHJ0OG1FV29KdWRWX1pQYlo3XzBocEVJZ1NnNnRwbHRUQUFXVlV4SUNVYnpnMDZlZW43Y2hJUWZYY2ozNGQtbEZPbjF5QVZ1bktCVlN0d0E2eTktczJhbWI5R2xUOGNj?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-lumen-field-transforms-for-wor-2026-05-22",
-      "headline": "Seattle’s Lumen Field transforms for World Cup as first match approaches - KIRO 7 News Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEc2dU5OdkI5OWRsTS1wRVdUUGtjTzY3ZGxyYnpYYkFoUU4wSVdYdEdyMm1hLVhWRzdXZEZmYllsdlNnZGpMdlZNTE9CdXVKY2NGWmdCaElhYkRkaXBaUElwdXdrd1Ffa2xuc0czaHNXWklNWEtrS2JIZE1TUExHU2IzbnZHVExHRzc5cnlPUFBjaXNfUER0aEtEem00QlVtUnZxZW14SHF",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-22",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEc2dU5OdkI5OWRsTS1wRVdUUGtjTzY3ZGxyYnpYYkFoUU4wSVdYdEdyMm1hLVhWRzdXZEZmYllsdlNnZGpMdlZNTE9CdXVKY2NGWmdCaElhYkRkaXBaUElwdXdrd1Ffa2xuc0czaHNXWklNWEtrS2JIZE1TUExHU2IzbnZHVExHRzc5cnlPUFBjaXNfUER0aEtEem00QlVtUnZxZW14SHFjZ0R6WmQ3OFlFdkR2RGh2M2ZGYWk5d3RUYlU?oc=5",
       "featured": false,
       "draft": true
     }
