@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-10T03:20:41.818Z",
+  "lastUpdated": "2026-09-10T10:44:17.986Z",
   "articles": [
+    {
+      "id": "news-auto-amount-wagered-in-missouri-sports-bettin-2026-09-10",
+      "headline": "Amount wagered in Missouri sports betting fell in July, despite World Cup in Kansas City - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRnczhXWWo4U1FxUDFZQk5seTVfdXM4SDBGYkJveVJKQ1RHNGlGeS0yRDFMYkZJMUlhWVFhUTZhNHdtYko5RmMwOG4tV3lKTVU1czFzUllyNjJIMkJSNHlvZEFZMGZiQWdraC1yYjFZMmN1c25pS3RBWlNsY0ZUQjROdTdnbmV2dGxKYmRvOWdWWGhLM1poRjZ0bkI0VkFCVlZfZjdBRHE",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-10",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRnczhXWWo4U1FxUDFZQk5seTVfdXM4SDBGYkJveVJKQ1RHNGlGeS0yRDFMYkZJMUlhWVFhUTZhNHdtYko5RmMwOG4tV3lKTVU1czFzUllyNjJIMkJSNHlvZEFZMGZiQWdraC1yYjFZMmN1c25pS3RBWlNsY0ZUQjROdTdnbmV2dGxKYmRvOWdWWGhLM1poRjZ0bkI0VkFCVlZfZjdBRHE3cmZyMWpTaU9GV1JOZ3lDNkdFTThCM1B4S1lu?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-a-new-era-mls-clubs-set-spending-record--2026-09-09",
       "headline": "A new era; MLS clubs set spending record in the wake of 2026 World Cup - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-03",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU215c2FvNUFxdF9Pc215N1RzQ3I1TmpQWEZYOHVqT0l4cnBmS0doYVR3U0pETE1tbHJmUDR3aEdCUWtyM09Ya3hHU3hJTlppdG1pRmVQSjdmOFFSczJlY0RwT0pNVlUyd1I5MGdZdjFzQ1hWbVpvZjBtQTRnVmJsMG11NS1EOVhJcmwtUGxqRE1FYWU3eURsUnNPRU1ON3NFc1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-bein-sports-deploys-dataminer-xops-for-f-2026-09-03",
-      "headline": "beIN SPORTS Deploys DataMiner xOps for FIFA World Cup 2026 Operations - Sports Video Group",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFM4UEVTU1k1NGtXTVJ6eDIwMzc2aExkMU9GM0t1ZU05enB3MlZzckRRYVpJUUJfVzltUFBwYXFKVnhTcXNEekNDS2gxTk5ydXdpeGtnU3RQOFlvRFA3dW5hQmJTd0M1REp5YVNzNFNNZnlWc2hHU3hLV09PSllkbE44Zk8zUGZtdnNUenY4RnE5bS1PY0prd21mZUxfcV83LTZ5X29Sa25",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFM4UEVTU1k1NGtXTVJ6eDIwMzc2aExkMU9GM0t1ZU05enB3MlZzckRRYVpJUUJfVzltUFBwYXFKVnhTcXNEekNDS2gxTk5ydXdpeGtnU3RQOFlvRFA3dW5hQmJTd0M1REp5YVNzNFNNZnlWc2hHU3hLV09PSllkbE44Zk8zUGZtdnNUenY4RnE5bS1PY0prd21mZUxfcV83LTZ5X29Sa25KeW5RVFE?oc=5",
       "featured": false,
       "draft": true
     }
