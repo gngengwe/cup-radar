@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-10T20:28:28.266Z",
+  "lastUpdated": "2026-09-10T22:56:50.258Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -18144,7 +18144,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 851,
+      "chapterCount": 852,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24952,6 +24952,14 @@
           "title": "WXV Global Series squads: England go strong on opening weekend as Canada rotate and France turn to sevens stars - Women's Rugby",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREhwTXdORlM5WExMTnZ3ME9DeV9NMGpDT1djaUJVWGt2TDlBckxMT3BYbG5zbHE2cVdUbzBuSVl1RXY2VTlsOGtSVml6WkJ6M2oxT01kVnZYaXVrTWpWMXJNSUpMa2taSVl1b1FnWnplUmZOMXA1WFpTVHpEc0FyMG5YbmtiTmZWTzJocDhXWnB1dmtzMlR0dHdEMjVJTnpnU05qM0NFa0wwTEg2UGhrSnRna1NzZm5KTHl2VmdxX0tDYU85R2RqcXZxdldXMU14RUlhT3o4Wjg1MGFTUWxlTWpvNF8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789081010258",
+          "date": "2026-09-09",
+          "title": "Ranking the 2026 Ballon d’Or contenders: Do Harry Kane’s astonishing numbers give him the edge? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRF9zcFZlQnZWRnFOeGkxemRSaEtVNDdiTkpqTloxSVhUODJad0Nsa0xhN1dVY01hWGRaU0JCNlR2LWZCMnEyTU5DVFpZUm5tMmptLWtVYXZWblBOd244NHdoNVRtdURmSm5rQWt4Z1MwZTEyR2xtb0oyWkVZNVBXRGxhNWswcmwtS1pnbElwbW1ZU2RMTy1yWmVibk54U2FwNWFveFFjZE05X0JsRzdEaA?oc=5",
           "draft": true
         }
       ]
