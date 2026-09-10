@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-09T22:57:56.125Z",
+  "lastUpdated": "2026-09-10T03:20:45.223Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 423,
+      "chapterCount": 424,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3401,6 +3401,14 @@
           "title": "Argentina have reportedly found rivals for potential farewell friendlies for Lionel Messi - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkRGd0hmd1B6THJMaWxtd2F6Xy1TVUtPUExkWV9JRk4wVkU4a3kxanU1ZTBScmVkYzVmTjFDa3ozVElHTml4czRNUzMzR2I0ck9EUUVWX1dtRzBZNnl5MjN4TjR6c3RqSU1DZ3lNSk1YT2lzMUxVbkVQbW5wcFRlMTlkcFhudFdXeHg0b0otUko5WHVrRHBGRGNOQ3pDbGd5RkRVUUdCQ2NlWUxzX0otVHBka0FBM2JSUHZ3Tkd2bk3SAcQBQVVfeXFMTldVcmowY3BKOGJLY3padkVRdEsyV3RZdDlRa2lnQUR6OUZHUDNLSlFDR1hDS3pOYzh5Tk5wMXpwR3Jma0d0dXhrS0ZoNVJzamlBS2FhMkVaUFhhS3BlUjh3NVBzLUZLUUtnNWV2Qk9kNkVSTER4UVl4SzBfRXg4dTBlbm9hR1M4emVCN21ka2JIaDFWVTFQYzZmRXk1emw5NHZVTDJXRml4NWpGRjJvR2c3UFRxNkh4Zk8tMlU1VUFUSmVNZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789010442625",
+          "date": "2026-09-09",
+          "title": "Messi agrees to buy second Spanish club - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2tTa1Q2OXU1dVNTX0NBRFlOUlFRYmpOcE96MXJEVHB4LTBvSEM0amJyZ1B6S0pGX21mVFo0MEFiUHNaM3BNUmVUNmhRRDIyYXZDNTdLY0VaQkJOSzFFT3lEazF2eDNPeHIwT3JNeGJDM1liX3hUa3I3b2ZNQndmZ0hvbkZhZ1U?oc=5",
           "draft": true
         }
       ]
@@ -13114,7 +13122,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 586,
+      "chapterCount": 587,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17803,6 +17811,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVy1UZk1OTkZtX0tERkRHTVdaeUQ1bzhQWkJrTFhxVTl5VUF3RXNKVzdUWjNPb2s3S2hZYzctbEx2cnZJTlh3QWc4bWxQcWNfVDVjRklmN3phR0U2bDJDQ2Y1WXVMNG9uaUo5UEFtVUVFN2hGaHd0eEI1cnI1NkUtVXVhM0JuZ0ZNYnNUOE10RQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789010444672",
+          "date": "2026-09-10",
+          "title": "Neymar and Casemiro out, Raphinha in: Carlo Ancelotti drops 15 players from Brazil’s 2026 World Cup squad f... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOclZxTDVIOGxPaE5yeEpZbktzSEJhaVd4ajZVYmFzMUZKVHNDeUNJNWtTdXNpeV9SanYtMk11d1lqbjdicVQzUUFfam1Gd1VqNHpYSGxDR2N3enBHbUpwcmhna2lpZV8zeFZXM2hjeHk4a0RycERVTVd6OGpxYmFOcTJYZXlfWmE3NHd6aW1Oa0hMZzFPb2Y5d0phVERHUS1paXZhd2U5cUdRT0VWQlQzUG5vQWU4dVJkYl9qb3p6TGQwVGstSWJXXzVGSTBMME9FLU1zd3hqMHdnZjEzeENvNVZR0gHmAUFVX3lxTE96LXNUR3RrWGhQeTdKLWdUczQzY2F4WUdpQXZpTWNPRmIwQjhTX3gwd1EyVXplUmNUekhKdGdoSW1EUWZ0RTkwVjRCenlKNEVsTmlBYWY5bE00c2xyaFhYcHo0WVFSUC01dnVlUnZsUE01WTYwWE1xemlVejNRM2FrNFlpcEtSV0FfTWg2ZHNIdVhHWkt5V05FRFh4SjJfMnVBaGpobl9FVzF3OVZfWURlMnBkUlM3ak9vR09GWlc4NjFjY2lfcVhrdjdBc2RuWkc5MnphbjNfQ0FDaEhUS0poeUJCQ253?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18032,7 +18048,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 848,
+      "chapterCount": 849,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -24816,6 +24832,14 @@
           "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years? - theguardian.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFQzeThVZEJ2NHdlMW9MMzlvS1Exek13Unl6Qi1vWU9zR3pXY2dac0ZOWnJLZER0dFBEa1hIV1ZyUS1Zcm1DQVlQU2RBbllObFZzalRpLW1SVUtPb25TWkdNVUNIc2VvZ2FTSUV4N2VrNUh2a1VxQVhCNWhvYXdNYVNuOURRemNpREtwWm14RzlXSTAwN05CbWdORVVwOUcwNFFyNHVWZ25DZ3ph?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789010445223",
+          "date": "2026-09-10",
+          "title": "Catch Up with Highlights - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwMXZ2dmJLbjBlMWpPYkU2SVlMX2p5Nlp0MXhiVUVxeEtEdHZwWV9yaG82UjZtMmppMm9sdzhwR0lTZV9Wa3J3YThoVEVhcXBvSFZXREVUYmt5ZTEwaEZ0c093?oc=5",
           "draft": true
         }
       ]
