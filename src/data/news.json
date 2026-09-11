@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-10T22:56:47.196Z",
+  "lastUpdated": "2026-09-11T03:17:01.104Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-us-soccer-chief-s-goal-be-expected-to-wi-2026-09-10",
       "headline": "US Soccer Chief’s Goal: Be ‘Expected to Win’ Men’s World Cup - Bloomberg.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-03",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12NTZDd3Z6by1ncktGbzVhbzdaRUR1Sm9kMk1PNkc4clpSU1BEWDdiQUl5dGltRGljbUx5RHBwd3h6cHpoVFJzNUpJZ08xZXk0dmlwbDM1NXhfOUViVmpzSlNiV2lFRFA2cklJc19yYkN1NzZY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-queiroz-is-back-as-ghana-coach-after-qui-2026-09-03",
-      "headline": "Queiroz is back as Ghana coach after quitting role following World Cup exit - Times Union",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzRWazl4NlI0dWZGWGFZUkxSUGJtY2J1VjZtNzIyNTlEdnNZRWZNUXBNZ2tjNG5QX2dWZGRFcldtUFA2bEtsaGI3NEVKNkxBQWhXaFZlU2dGNm96SFd0MVhRbnFzbE85bUpSTExWTXh2OEZkTlBGRDhBUmplZXE4VlJOc0JaWEZIUzdfTldtLVZNWWx6X201SlJZckxnanNMa2c?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzRWazl4NlI0dWZGWGFZUkxSUGJtY2J1VjZtNzIyNTlEdnNZRWZNUXBNZ2tjNG5QX2dWZGRFcldtUFA2bEtsaGI3NEVKNkxBQWhXaFZlU2dGNm96SFd0MVhRbnFzbE85bUpSTExWTXh2OEZkTlBGRDhBUmplZXE4VlJOc0JaWEZIUzdfTldtLVZNWWx6X201SlJZckxnanNMa2c?oc=5",
       "featured": false,
       "draft": true
     }
