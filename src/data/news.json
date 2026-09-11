@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-11T20:32:22.546Z",
+  "lastUpdated": "2026-09-11T22:59:59.583Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-storm-s-ezi-magbegor-suffers-sea-2026-09-11",
+      "headline": "Seattle Storm’s Ezi Magbegor Suffers Season-Ending ACL Tear at FIBA World Cup - justwomenssports.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHlndDRFWmV6VzZHZnhWMGtYR0FnTkM1VEhaempIcm5qV0NmSEhQYlQ4S0ZGSEFvOGJpem5lUTh1Xzk2dFd1eDhNU2M1MktHMUF0d045R3NDX0x4SjlzOHc1TDd5RHAzZVhINjlHcWhtNVBUVF9tOHNXSXJ5bmI5NVVmanF3cFZMazJtTFNubXc0azZjakcwOEhxZG1HYVJB?oc=5\" targ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-11",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHlndDRFWmV6VzZHZnhWMGtYR0FnTkM1VEhaempIcm5qV0NmSEhQYlQ4S0ZGSEFvOGJpem5lUTh1Xzk2dFd1eDhNU2M1MktHMUF0d045R3NDX0x4SjlzOHc1TDd5RHAzZVhINjlHcWhtNVBUVF9tOHNXSXJ5bmI5NVVmanF3cFZMazJtTFNubXc0azZjakcwOEhxZG1HYVJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
+      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-final-tug-of-war-escalates-as--2026-09-11",
       "headline": "World Cup final tug-of-war escalates as Morocco PM rebukes FA head, Spain stakes claim - Reuters",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-03",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWxCcXhQMUNSS0xvN0ROTjBiSTMtQVBWTTU2cVk2eU0wazlGZjBMR0pGZ0hZbWJTWjh3c2V4QWtJM09oVkxYVUppVUZZd0R3NUlzeDdrSloxWWU4SDBaVks4eElhWngxS080SWN4SG05MG00ZXZzY2paWVhva29QYS1HeVdsU1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-city-of-seattle-seattlefwc26-partner-to--2026-06-04",
-      "headline": "City of Seattle, SeattleFWC26 Partner to Provide Local Youth Access to FIFA World Cup Matches - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2hDbXg2ZHR3UjJXT0dUWWx4VUh0b0VGN2FwQmdiUkRYXy1nU3FCbndYV0laMEJheGpZLU1yTV9oNUUxUkRGRGZnVUYtTERhRktYaG1CNWdUOWxZaFFGd1VmNDJjYWpCdjJvcFB1aWdFTXRHY1U3SDdiRTV5WG9XN2pRbHNiYXk5OGZDaXhrVnBuZHhMWk1tM09icHk4STQyMVIyTTJSaGN",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-04",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2hDbXg2ZHR3UjJXT0dUWWx4VUh0b0VGN2FwQmdiUkRYXy1nU3FCbndYV0laMEJheGpZLU1yTV9oNUUxUkRGRGZnVUYtTERhRktYaG1CNWdUOWxZaFFGd1VmNDJjYWpCdjJvcFB1aWdFTXRHY1U3SDdiRTV5WG9XN2pRbHNiYXk5OGZDaXhrVnBuZHhMWk1tM09icHk4STQyMVIyTTJSaGN6b1h6bmw1ckRFeG1tVUxNSmlFak8wOA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
       "featured": false,
       "draft": true
     }
