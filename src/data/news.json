@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-11T03:17:01.104Z",
+  "lastUpdated": "2026-09-11T15:57:36.833Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-rebukes-morocco-s-claim-it-will-hos-2026-09-11",
+      "headline": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - aljazeera.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEH",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-11",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-news-argentina-s-new-captain-d-2026-09-10",
+      "headline": "World cup news: Argentina’s new captain decided following Lionel Messi’s retirement - sports.yahoo.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmxpTmE3UjI5OEV6NVJmUFRtTUw5czdwSmdQSVF5aFNnMmZMLU5rZ1RZcDJyLTNuM3lQbU94R21Zd3RUVnRyS3cyQVNoY0tCRFMtTGg0dmhuRDEtTzJQS050ZUlIVnpoZzFuMDR3NUtqRDFQeTZnX0RqbjNJY1JWbmFLNFNIRE56?oc=5\" target=\"_blank\"&gt;World cup news: A",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-10",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmxpTmE3UjI5OEV6NVJmUFRtTUw5czdwSmdQSVF5aFNnMmZMLU5rZ1RZcDJyLTNuM3lQbU94R21Zd3RUVnRyS3cyQVNoY0tCRFMtTGg0dmhuRDEtTzJQS050ZUlIVnpoZzFuMDR3NUtqRDFQeTZnX0RqbjNJY1JWbmFLNFNIRE56?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-airbnb-hosts-offer-guests-the-ultimate-u-2026-06-10",
+      "headline": "Airbnb hosts offer guests the ultimate upgrade: Free tickets to FIFA World Cup 2026™ - Airbnb Newsroom",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMczVfT0hTcm1fM2lVM0VDMlRhN1kwRUZqSzF5ZXBCMXFZT1E5bUI5UHRZckh0ZFhneTZpZ0VsUXozTzFYSWlFU3dDRi0tUUpubXdR?oc=5\" target=\"_blank\"&gt;Airbnb hosts offer guests the ultimate upgrade: Free tickets to FIFA World Cup 2026™&lt;/",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-06-10",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMczVfT0hTcm1fM2lVM0VDMlRhN1kwRUZqSzF5ZXBCMXFZT1E5bUI5UHRZckh0ZFhneTZpZ0VsUXozTzFYSWlFU3dDRi0tUUpubXdR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
       "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-15",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-stream-world-cup-2026-usa-v-2026-06-18",
-      "headline": "How to watch, stream World Cup 2026: USA vs Australia in Seattle - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDalI2ZUVrbmVWTXUzQ25zWi1ZQkR3UEVqcWlwRk16TDF3TW1pbl9fVXJSVjlsOGYyN0l4NkY3RVcwUlhCUWQtVDh5YTRVdENlMWJkaVo3X3JhbHpwWmpJOC1sUE4wWFhz?oc=5\" target=\"_blank\"&gt;How to watch, stream World Cup 2026: USA vs Australia in Seat",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDalI2ZUVrbmVWTXUzQ25zWi1ZQkR3UEVqcWlwRk16TDF3TW1pbl9fVXJSVjlsOGYyN0l4NkY3RVcwUlhCUWQtVDh5YTRVdENlMWJkaVo3X3JhbHpwWmpJOC1sUE4wWFhz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-mls-next-announces-2026-27-schedule-spor-2026-09-03",
-      "headline": "MLS NEXT announces 2026-27 Schedule - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1lZk5rM2NWcVV6NHZJUUVmSjlJM3MwMGU4c19id0s2NF8zVFdScTU0bW1Rc1VhQjB3d0VpbHNWLVdvd3gzeUZScDhVTE9yNFVGQk5GRUJ4cVIwRjYyVk03alZFaWlvSlpQMFc2Zmx4Zks0dm8ycUE?oc=5\" target=\"_blank\"&gt;MLS NEXT announces 2026-27 Schedule&lt;/a&",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lZk5rM2NWcVV6NHZJUUVmSjlJM3MwMGU4c19id0s2NF8zVFdScTU0bW1Rc1VhQjB3d0VpbHNWLVdvd3gzeUZScDhVTE9yNFVGQk5GRUJ4cVIwRjYyVk03alZFaWlvSlpQMFc2Zmx4Zks0dm8ycUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-million-dollar-prize-meet-10-kc-companie-2026-09-03",
-      "headline": "Million-dollar prize: Meet 10 KC companies vying for Startup World Cup, attention of global investors - Startland News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE12NTZDd3Z6by1ncktGbzVhbzdaRUR1Sm9kMk1PNkc4clpSU1BEWDdiQUl5dGltRGljbUx5RHBwd3h6cHpoVFJzNUpJZ08xZXk0dmlwbDM1NXhfOUViVmpzSlNiV2lFRFA2cklJc19yYkN1NzZY?oc=5\" target=\"_blank\"&gt;Million-dollar prize: Meet 10 KC companies vy",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12NTZDd3Z6by1ncktGbzVhbzdaRUR1Sm9kMk1PNkc4clpSU1BEWDdiQUl5dGltRGljbUx5RHBwd3h6cHpoVFJzNUpJZ08xZXk0dmlwbDM1NXhfOUViVmpzSlNiV2lFRFA2cklJc19yYkN1NzZY?oc=5",
       "featured": false,
       "draft": true
     }
