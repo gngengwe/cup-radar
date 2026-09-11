@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-11T15:57:39.848Z",
+  "lastUpdated": "2026-09-11T20:32:25.613Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 425,
+      "chapterCount": 426,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3418,6 +3418,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3NtdlJWdWYxM0NnSWxSQ3VEdWNOQ25ncG5FNXA5b3dYSjAwOFI2RDZUaDlrSGxqcThYUVlrWDE5U3ZVV2tOTUhiX1JpcnU5emtIanp3U3Z1Z3hKX3F1YVpXTHJtT1I0OGlhYlB4VWVJZ09ZaHFWZHhoRVF4dGJXVDY0SXhsMXk1OXE1am8wa1pTZUZLQzZNMlg0MzRkeFEyOUJjdngydHBERnFraGRjcEh6LTBmN0dMSElha0JvVWFGNDDSAcMBQVVfeXFMUGRaMVg0OWg0UzhOcDBudDg5VWRUNGJPMmVNcklNOHN2VGZfaXRFZFIyT0l3N3ZTZnlfR3VBRWNTTGhfdDhqTjFvbGlQX1lHVFFleFZ4TzRKRFJmR1RjZ0MwQmVIQng4S3hzUGJhWGx4eEpVU2kwWE9FTllJVjBxUUJ1Wkt0STRVb21rUUtldUNYR1RMQVBuampSNGxONUwwWE0tLXJtQnJBQ1BYcVRZWjZ3eTYtUDhpQkJpWUVieHprSm5n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789158743341",
+          "date": "2026-09-11",
+          "title": "Lionel Messi retires from Argentina National Team after a legendary legacy - Talon Marks",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjR6S1ZjZ3h6ekxSaFdBMjB4enVfTUh6WGNtQ01INThBbGZmWUwyTWcyR1R5a1RvbWhrUDNiOEg1SjhKUmdSeUJJaFI4TXVaVWF1QWRLSnpIOFpsbXVxMTdtVkpqNW1EaWYwV0FNY0hSenhOdmFxNWJKOHcxMnFwQ0RHcnZ3WlRydWVyN3RWV0JablU0bEdzSXNPLU5VOVBEQTBSUmpySXprdG83d2FieVFYU1BPOGo3QlRTMg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3436,7 +3444,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 348,
+      "chapterCount": 349,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6220,6 +6228,14 @@
           "title": "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzZ3OWlTaG1PT3NqWFlrcUh3b0EzTVRRY2h1UnM0TXVUX0s2ZUF1WkthQWF4MkJKc05wZGRHX3hqX0tvZHVyOUowQzl3SUw0My1jT2IzYmFGeTN0YWJ3LUxGejJuSW4wUUxTZFNCdDNuRDZhOUJ4UDQ4NGRvUkVITkhtV2IzNy1Bc3ZFQzd3VjFhb2RrZ09WaVZ1OXJOZFpZbGtoX2piV18zQkFPVWFj0gG0AUFVX3lxTE5zNlBEMGpGckJZVjF4amRmVHpoaXBSZlFIbHFXbE81SGRvdzhYb0xqNW9FWlU3WVM3eGpHYnRNN3U0Ynczbl9JbFFlckdLbkhfQmNxYWozckEteEhsOGdhYVhvSWhDMlc2Qktyb3Y3dTVJQzgyRjhvM1RUSXliZjU2VlYzZHBKRmFGblI5dnVhUFp6R3pIbVN2REtjc0hZYVQwSGZZTUIwLV9QVUJFX3d2bkFxdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789158743971",
+          "date": "2026-09-11",
+          "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODdJWWdULXZSMGY5YWlXdEl5YnJvVWZ5TlA1d2h4Wm1mV3NCS3VReDF5YmxTcEZ4Qy1OMS1tOGY0aTcteTk5TlBLTW5fSm1CUGJlRURBVzdyZ2VqeTRkSjJKbzg5VHlLVk9KbFItNktSb2JucHU4c3VfMmkzMG9OUWNjaG1TVFBjdlFlY2Z2UDRROWpacGF1bEFaWGJyUnBPeC0wdVI3cGdjcUp6REdudnZCZ9IBuAFBVV95cUxNQ3VHQWltNFBPaV9oRkdBWV95Q0J2Q1ZEbnZDbmJQeEJhOTNzRE96TlVsdC1MWUtQT3ZfckJZX0pKcURRQS1lZHA4QVVlYlRhWHIyUEo1bVZmY0M5OThvUUNOMzZ6R3h5cE12WGVTTG5uMDZWMVNPclJ0UlNfeFFPMnNRV3BpeDcwZ1JzVExjUGNvUU1Ya3hsRHFJVTJHbkgtRUEzZnlJOVB5T29uUzFBMmVyb1BvZWIw?oc=5",
           "draft": true
         }
       ]
@@ -13250,7 +13266,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 591,
+      "chapterCount": 592,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -17979,6 +17995,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamRuVEJqZW9WaWlOa1ZpRDhndGdhSkZEU0t0VTdfNGJCSENTWnZMR29RYTZSdE5ONmRwM2kwYjMteXhDVm01Q2pNb2FQN0NvWG5Nank5WlZ6OVdCbXR5WHJkZzdKRnhLWTN3UDlUZ2RTREVzeGRUczRva09rdW91c2kzdU1rUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789158744991",
+          "date": "2026-09-11",
+          "title": "Carlo Ancelotti blasted by former coach over Brazil job: “He is dead” - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGc5bUFsdkJHZzNVT2g3aEc2dGQyS2NfY2VCUWM1SFdmVFJHWDRuY19BbFI5THhzOFVWOUtzMUlzOXhBalhSb0NmalBpd2ctRkx6VEVmZjNBc2hQcngzcDBhcFY1aFVZY3lqaHgxQXlhWm5wRlpPVW52MzhHd0NwTnNWR2ZYSllJaTZlb3IwM2dDcE1XWW1TeEhBZG95b2hfcmV0MNIBuAFBVV95cUxQODAyb3lwbzI1WXQxNXIwYXVzRVljbnVVQU8xYlZSSFI4Vm9md3BZQ1FTN21RR0lkcldzZ3k4Rnd1VHhUaDdydkJQaFkwcVB3MU1ZNXE5b0VfV2tHVlJjS1hGZ29GM1A3b21Wc2NveWxNVm1xX2JpaDJVUElIZ0hUZTY4V2JTTnVjbTNKTWdNX1dveV9qUzVFVUlzaFhtaktGdW5UUndxVHRMNVE0TnJoU05IZHhoTVps?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18208,7 +18232,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 853,
+      "chapterCount": 854,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25032,6 +25056,14 @@
           "title": "England Wheelchair confirm staff team for 2026 Rugby League World Cup - The Home of Rugby League",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzNOMVF0Y1Nsb1M1eWtlLWtkelEzY3lBaDNNOVNISDk0dElQbmRmdGlfU0c2M3NkaHBpZkNrbG1kcjRvbjR5OFRURkc0SjJjVjVEUFliY2NYLS1lQzVRZXcxb0FqaUVuT0VDdkQyMTRUR2lUQ2YzOWw5ZFpUaUhzTFJWMEhQdnpGa3hsRGRRRGNKbjZ6MVluUVQzcVlvUHF4RDBGZ3BPNEYwUUFpVkpZTmxR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789158745613",
+          "date": "2026-09-11",
+          "title": "Zara Shaw's England beaten but still qualify for last 16 of U20 Women's World Cup - Liverpool FC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE9vblRZQTNjVS05MndoWmlrZkFFQlRDQmM3RWJxeG9Hb1ZlaDEtek1HUzRsVUJ6b2VET05pbHdSVDZta0lZSU9NMnFtLXpTRGpRUkVsU3gxd3cyVzRXOUdfbmRIZFV1YzdxNTBVMWRodWRyblU3VXMxcFJ1Y1o0eWtDdVVGWU5FNVVnQy1tNUhPel94dmY4blRNVGZVMnRZdGd30gGrAUFVX3lxTE95VzJfZHJwU3Z2NmxPcFN6dGRvRHNpRDJMZXR2TWRuRU5nQkRwMWNXQkpCSkQxdExHOS1HT2dFQmR2T3oyamsyVDFrV3JiRzFwNmt1MkdnR2FLbm9IM3lzUG9KNURYRTdDeXQ2WVBsR0FFM3VjaUtXT1hkUk13SDNqLXpsTm15R1dQbG9sY1hUY0ZMTnVqWjVsXzFCU0pWcmhYVVlwMFAxNnJObw?oc=5",
           "draft": true
         }
       ]

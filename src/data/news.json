@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-11T15:57:36.833Z",
+  "lastUpdated": "2026-09-11T20:32:22.546Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-final-tug-of-war-escalates-as--2026-09-11",
+      "headline": "World Cup final tug-of-war escalates as Morocco PM rebukes FA head, Spain stakes claim - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFp6ek5SVm9MclNoaVg3VnNaa0RkUlpMSENRRjVHZ3l3Rk9ZVG5BckdnMjhIZXlRZDZmMVcwRzR6eTQxNVdZeHRsell6VkdLNkNMYTZPb3dmeHBPcms3TjQyWk9wMTh4UFBsaHJyc1A1dnU1WHVvcXBYdkRUc3JfMUp5R3VHZk5fV0RMNWdyZ0tYNk5HbmNlZUJDMlRqQ2VGN2hVbENzSGd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-11",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFp6ek5SVm9MclNoaVg3VnNaa0RkUlpMSENRRjVHZ3l3Rk9ZVG5BckdnMjhIZXlRZDZmMVcwRzR6eTQxNVdZeHRsell6VkdLNkNMYTZPb3dmeHBPcms3TjQyWk9wMTh4UFBsaHJyc1A1dnU1WHVvcXBYdkRUc3JfMUp5R3VHZk5fV0RMNWdyZ0tYNk5HbmNlZUJDMlRqQ2VGN2hVbENzSGdOVnREdkUxS0JTOUtrQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
+      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - KATU",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-rebukes-morocco-s-claim-it-will-hos-2026-09-11",
       "headline": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - aljazeera.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-09",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-where-to-watch-fifa-world-cup-2026-week--2026-06-22",
-      "headline": "Where to Watch FIFA World Cup 2026™: Week of June 22 - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVV6UFVDS203WEMxSjZKN0ltaUQ2TjhQODdVZDIxTGEtbzFqVHdpeVVHZlNKa1lwQURiZDVJZ29xcDVPRG02ZHNrRllLWURnbU42YjY3aGt5eVdCcmxiYlJDLXlQLW94MHhnWERzRHllT1Z0QTNURm1MY205Y2JITGw4TDlfNURZZHhaRw?oc=5\" target=\"_blank\"&gt;Where to Wa",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVV6UFVDS203WEMxSjZKN0ltaUQ2TjhQODdVZDIxTGEtbzFqVHdpeVVHZlNKa1lwQURiZDVJZ29xcDVPRG02ZHNrRllLWURnbU42YjY3aGt5eVdCcmxiYlJDLXlQLW94MHhnWERzRHllT1Z0QTNURm1MY205Y2JITGw4TDlfNURZZHhaRw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
-      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
       "featured": false,
       "draft": true
     }
