@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-12T20:14:44.978Z",
+  "lastUpdated": "2026-09-12T22:51:30.519Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
+      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-under-20-women-s-national-team-rout--2026-09-12",
       "headline": "U.S. Under-20 Women's National Team Rout New Zealand 9-0 at 2026 FIFA U-20 Women's World Cup to Qualify for the Round of 16 - US Soccer",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-14",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1psUWVfUGpVRGVMcXVqNGcyM3lFSVR1cVpGc2xFMEw1UnZtTEpHYUktM1d3UHNmT0VlVlVXM3dpbWVxck0tY0hZUGI2R2wwdVdNTEo5WGU1ZnBUUHN5TjVDdElBaTd2ZjZlYzFIZU5hSnpQTHBjQUl1b1N6cURWeFhKMTU2dmhSNHhpcEFUckFDZ3NfWWtxVWVneEk0bDJVdjBUZA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-england-set-for-semifinal-matc-2026-07-12",
-      "headline": "Argentina, England set for semifinal match as Kansas City dismantles World Cup infrastructure - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmx",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmxEMjFvcElFUEFDYkNMQVM1dGh4YnZ1UXBGNFNuVUZRc2hn?oc=5",
       "featured": false,
       "draft": true
     }
