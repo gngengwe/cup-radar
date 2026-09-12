@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-12T15:06:00.791Z",
+  "lastUpdated": "2026-09-12T20:14:48.704Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3444,7 +3444,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 353,
+      "chapterCount": 354,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6269,6 +6269,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFdWUzlHMk90aHhNYk9uYnBWZnlXT3dZWkw0ejVkWk5QS3VYanJvb25DXy15d1BPVmZ3MjdqWkNTdC1YNjVkRWZzdjJUX1RVejQyYTlKeEJwYkEwWWRxelk2UXpSLU5xSVJKVDR2N3VBa2E5N1pHTUMxN0hFSEstMFRxR3E0Ti1xTFFVc2p3c2RPSExkOVozWjFMRWxfZkxfbWRhZnZMc0IxQTV2bmdaSU5KVVVUTXRySHhQUGZETWhTaHVlTG9F?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789244086571",
+          "date": "2026-09-10",
+          "title": "Ballon d’Or 2026: Ranking the Favorites to Win, Latest Odds - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGNfc2JlTHRWVElhUnd1dlZHNGxIbHUwUHFFMDVUX3ZCZHpnOGgwTTNQTVlpbFhidFMyUlQ4dlBZSXNRUm9DQmJveDF4dFBuNTNzQmhlY01JNEkxemFZUUx5eFQzTzh6RU5keVd6Q2JXVjBqd2NNTWJ5RUpjMnFsMQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6287,7 +6295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 877,
+      "chapterCount": 881,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13304,6 +13312,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ2lvSEtYYXN3NkRpWE5xXzRiUHNBV3A3akxmUkUtV0RVaUNxYzkybEVxTkRZRnRJYTdnY2w5dDNhNDVNSkZ4QnhjTG84NUhDSVRaajdTaHJ1QVl2SHFkbnFwZEVneE43T3o4OUhjb19qZWFqMk56MnJjUU84X1Jod09ZTWgzTXlwMWlSNTdBeXUzWVRjSnpFLWE2S0hPamo5TE9wTTVWVl9PZ0dsSk40c3hOdFFBeThZZUZrZk54ZXVVdklvTjg0RHpuTG9yWjRtUXRzeDlwdHU5amhzWGl6WDdxMnZUWjA4TEkzdERadVRjWnR6?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789244087168",
+          "date": "2026-09-12",
+          "title": "U.S. Under-20 Women's National Team Rout New Zealand 9-0 at 2026 FIFA U-20 Women's World Cup to Qualify for the Round of 16 - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhud0JyRHNOUWgwS3k1WHhuUlpNb01HSGVHLUQ5UURMQ3NDMThmX0tGeEFiLWJ5UHZaRFBQcEpxUU9YR1ZLRVJiS1k3d2p2M1F6Z0RvaXdXeTNNUk8yUDlZRURYNTBqckRzaFhIcldPeVpqZGwxeXVyUnhfV2paTXMtakxBZ3B3YkZqeW02MlRodWVmaDJZZzd5SnlZRmpDbmNKYjlQQXd2TFJSeWJ4bkNvS1MzRzN3NWljTTItR1hyZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789244087168",
+          "date": "2026-09-12",
+          "title": "U.S. women top Spain 76-66 to reach the FIBA World Cup final against France - Newsday",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDFLNFhvaHdGcVNjejlwS3R6SUo0aUhDY1FZeHBsSXg4SlBjRjFBQzNpV0kzR0dVZVZOVS04SkhpR2pOWTFmS3F4aEZGdF9hX1cxUXl6a3dMRnJoRGNiWVc3dXozdUR0T0xKbFlzcG1lSmlfeXFMdEVwb2ZJX0N2X2t3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789244087168",
+          "date": "2026-09-12",
+          "title": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0szU0JXNzA5d0NYQlFxcnpxY0Q1Zmd4UVFVNWdpd1JiM25YRElGZnRGazhBR2NWTEZwWU1WbFNPRmUxWHptcElISlFSQ3Q0SENuMFM0UzNLcnhhOUQzWE9Oc0ZGbzkza3hVTHktQ2lsa3ZRUUVUbGNxREw1aEdZVTN1cDJOUU1kSXFZc2xlRVVIdWUxWDlBdmtn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789244087168",
+          "date": "2026-09-12",
+          "title": "Where to watch Spain vs. USA FIBA Women’s World Cup basketball for free today - Syracuse.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTEydkxaQXdzNUw5VjVzc01OdHFJMHF3UWdEVzExQkNBbjNWLW9mWTRKVTZXaFlBZUxRa1FQOXMydW1vLVZ5U1BQM3JMNVhjc2NmMWQyZVc4cFp0alBEaWlTdTlGTzEzNzd5OXpjbHZFZG9iX1RFbk9HaS1hMFhPZWNqUU84RTdfcmF3V1cxU2l2aWltandZZVdRNlJNNUs3a05iRDZOeHV5OF9ZWDBjMmV1V1VRTkXSAcsBQVVfeXFMT3h3ckNfRkc0S0xyMlFONk0xdXVCWkt6WVBTSF9CZldJUTNqZ010eWduV0owa05MMTljRGhYV3U1MXVOYnhpeFVsSnJrOUs5MWNYT2Zva29mVU5wUlc3cXJISEpGX1I0aDEtR3ZCNktZcGVmSHBvenFrVkJPemRqTzJqOUd2YTRpblVQMnZPQ005V2lNM091dEs0cU9OdHlyLW9wUVUwbFAtSnA3VHFvR3RKT09sUFM5cUdZRGRHZEFvTGpCRlB6b281aG8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13322,7 +13362,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 593,
+      "chapterCount": 594,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18066,6 +18106,14 @@
           "title": "Brazil come from behind to beat England, finish group stage perfect - sports.yahoo.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXZBM1dMX0JNZDRsUk9rbUpnOFlZdFowVkQ4VEo2WUtfcmYzdmFqUHctOXdBeWJ0NnNzN2xDclp2WElwbXh5bnNlRWthM2dXYjhFRURZZS1vWl9TUUM1RnZNRDRjcTdua2QyR3I3aFhUdnZzMm5tNkV1Q0tFQjQ2WTlwZktEaWs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789244088007",
+          "date": "2026-09-12",
+          "title": "Opponent set: Brazil face USA in U-20 Women's World Cup last 16 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWlzSTFJQlFnM3ZfTWc5bVZRNl8xRk92dzY0ejlmOEJEZWRlbkN6VW5VY2p3SHVHR3ljeG4wdDhpdHJPTzJNWUhDWGhCS0t5SC0wMXZHUWhaMEo0RnlDcDdHcTJsejJYclVDNE5zNl9OSW1HVmRKQldrVi1XNmJ6am9xdw?oc=5",
           "draft": true
         }
       ]
