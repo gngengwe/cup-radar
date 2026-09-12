@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-11T20:32:25.613Z",
+  "lastUpdated": "2026-09-12T03:22:23.124Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13266,7 +13266,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 592,
+      "chapterCount": 593,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18003,6 +18003,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGc5bUFsdkJHZzNVT2g3aEc2dGQyS2NfY2VCUWM1SFdmVFJHWDRuY19BbFI5THhzOFVWOUtzMUlzOXhBalhSb0NmalBpd2ctRkx6VEVmZjNBc2hQcngzcDBhcFY1aFVZY3lqaHgxQXlhWm5wRlpPVW52MzhHd0NwTnNWR2ZYSllJaTZlb3IwM2dDcE1XWW1TeEhBZG95b2hfcmV0MNIBuAFBVV95cUxQODAyb3lwbzI1WXQxNXIwYXVzRVljbnVVQU8xYlZSSFI4Vm9md3BZQ1FTN21RR0lkcldzZ3k4Rnd1VHhUaDdydkJQaFkwcVB3MU1ZNXE5b0VfV2tHVlJjS1hGZ29GM1A3b21Wc2NveWxNVm1xX2JpaDJVUElIZ0hUZTY4V2JTTnVjbTNKTWdNX1dveV9qUzVFVUlzaFhtaktGdW5UUndxVHRMNVE0TnJoU05IZHhoTVps?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789183342410",
+          "date": "2026-09-11",
+          "title": "Brazil come from behind to beat England, finish group stage perfect - sports.yahoo.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXZBM1dMX0JNZDRsUk9rbUpnOFlZdFowVkQ4VEo2WUtfcmYzdmFqUHctOXdBeWJ0NnNzN2xDclp2WElwbXh5bnNlRWthM2dXYjhFRURZZS1vWl9TUUM1RnZNRDRjcTdua2QyR3I3aFhUdnZzMm5tNkV1Q0tFQjQ2WTlwZktEaWs?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18232,7 +18240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 854,
+      "chapterCount": 855,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25064,6 +25072,14 @@
           "title": "Zara Shaw's England beaten but still qualify for last 16 of U20 Women's World Cup - Liverpool FC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVE9vblRZQTNjVS05MndoWmlrZkFFQlRDQmM3RWJxeG9Hb1ZlaDEtek1HUzRsVUJ6b2VET05pbHdSVDZta0lZSU9NMnFtLXpTRGpRUkVsU3gxd3cyVzRXOUdfbmRIZFV1YzdxNTBVMWRodWRyblU3VXMxcFJ1Y1o0eWtDdVVGWU5FNVVnQy1tNUhPel94dmY4blRNVGZVMnRZdGd30gGrAUFVX3lxTE95VzJfZHJwU3Z2NmxPcFN6dGRvRHNpRDJMZXR2TWRuRU5nQkRwMWNXQkpCSkQxdExHOS1HT2dFQmR2T3oyamsyVDFrV3JiRzFwNmt1MkdnR2FLbm9IM3lzUG9KNURYRTdDeXQ2WVBsR0FFM3VjaUtXT1hkUk13SDNqLXpsTm15R1dQbG9sY1hUY0ZMTnVqWjVsXzFCU0pWcmhYVVlwMFAxNnJObw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789183343124",
+          "date": "2026-09-11",
+          "title": "Brazil come from behind to beat England, finish group stage perfect - sports.yahoo.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXZBM1dMX0JNZDRsUk9rbUpnOFlZdFowVkQ4VEo2WUtfcmYzdmFqUHctOXdBeWJ0NnNzN2xDclp2WElwbXh5bnNlRWthM2dXYjhFRURZZS1vWl9TUUM1RnZNRDRjcTdua2QyR3I3aFhUdnZzMm5tNkV1Q0tFQjQ2WTlwZktEaWs?oc=5",
           "draft": true
         }
       ]
