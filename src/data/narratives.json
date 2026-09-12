@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-12T03:22:23.124Z",
+  "lastUpdated": "2026-09-12T10:11:20.001Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3444,7 +3444,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 349,
+      "chapterCount": 351,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6236,6 +6236,22 @@
           "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODdJWWdULXZSMGY5YWlXdEl5YnJvVWZ5TlA1d2h4Wm1mV3NCS3VReDF5YmxTcEZ4Qy1OMS1tOGY0aTcteTk5TlBLTW5fSm1CUGJlRURBVzdyZ2VqeTRkSjJKbzg5VHlLVk9KbFItNktSb2JucHU4c3VfMmkzMG9OUWNjaG1TVFBjdlFlY2Z2UDRROWpacGF1bEFaWGJyUnBPeC0wdVI3cGdjcUp6REdudnZCZ9IBuAFBVV95cUxNQ3VHQWltNFBPaV9oRkdBWV95Q0J2Q1ZEbnZDbmJQeEJhOTNzRE96TlVsdC1MWUtQT3ZfckJZX0pKcURRQS1lZHA4QVVlYlRhWHIyUEo1bVZmY0M5OThvUUNOMzZ6R3h5cE12WGVTTG5uMDZWMVNPclJ0UlNfeFFPMnNRV3BpeDcwZ1JzVExjUGNvUU1Ya3hsRHFJVTJHbkgtRUEzZnlJOVB5T29uUzFBMmVyb1BvZWIw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789207877976",
+          "date": "2026-09-11",
+          "title": "Mbappé: Real Madrid fans' displeasure with me is natural, and this is the truth about the Spanish complex - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSXo4MmN6TmNJUjNTY1RtMi1ZVzhMMnZlNFBXYWdETzkwNUlJRmF6TlBNQzdlVExIMTUyN1daMDRRc05wbl9xSlB4T1ZNX1JCMlIwbU5BZ0Y3NGFtb0ZFc29DS3g4X0txMmhDNlA0M29JRUduODZwM190QmJ4Uno5bmc0eEhRa3FHcDZhaVE4dnlHbHpxOVR3M2p1Z25oYTNZTnp1Z1ZFZnk0eXE2TUlhWHZNWU1GaE04SURuWWM5Y0NSaVFOQy01ZDNoazA1MkpPZ3N3WDlMQjRGb3FjTzNSWmhOT3g?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789207877976",
+          "date": "2026-09-11",
+          "title": "Kylian Mbappe: Dictator meme shows 'lack of awareness', says Real Madrid forward - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOHhzVHVzMGlQWDVZSjgySUVNamQtT1ZxLXk4aUR5Z3hfU3AtaFdJSW9hU1NwM2k0TlMwUnNuX0xnSkpDaV9mOVhselVBV0ZYaldmNld2MmI2VVFHNUJWM3VvOEJna2c?oc=5",
           "draft": true
         }
       ]
