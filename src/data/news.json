@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-12T22:51:30.519Z",
+  "lastUpdated": "2026-09-13T03:27:56.848Z",
   "articles": [
+    {
+      "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
+      "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - opb.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-england-set-for-semifinal-matc-2026-07-12",
+      "headline": "Argentina, England set for semifinal match as Kansas City dismantles World Cup infrastructure - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmx",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmxEMjFvcElFUEFDYkNMQVM1dGh4YnZ1UXBGNFNuVUZRc2hn?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
       "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-03",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYlEyVFhRUnI5UTMzcUwzeFB4cWhHbTB5NnN4YzFRNmYweDZNNWlKY0plR2p1akN1YVUyWW9yNDdRVjBVdkdtSHRJcDFvM0VFV1oyS1NZZ1ZOMlJuUkJCc2tycFVPT0hjNk1JRFVzODNuQjJ2S2hNZy1lTjdmMkp1WVFlRGNKOFMwYXZSa245Q0lNbDB4ZUp0Sm93R2tiZzNYRTh1bWFfVlBQanpINkpSWjk2d2JqTS1sSFE1SVdPbWp0N25rZ0lVd3pB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-fifa-world-cup-seattle-when-where-t-2026-06-14",
-      "headline": "2026 FIFA World Cup Seattle: When, where to watch on TV - Seattle Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1psUWVfUGpVRGVMcXVqNGcyM3lFSVR1cVpGc2xFMEw1UnZtTEpHYUktM1d3UHNmT0VlVlVXM3dpbWVxck0tY0hZUGI2R2wwdVdNTEo5WGU1ZnBUUHN5TjVDdElBaTd2ZjZlYzFIZU5hSnpQTHBjQUl1b1N6cURWeFhKMTU2dmhSNHhpcEFUckFDZ3NfWWtxVWVneEk0bDJVdjBUZA?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-14",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1psUWVfUGpVRGVMcXVqNGcyM3lFSVR1cVpGc2xFMEw1UnZtTEpHYUktM1d3UHNmT0VlVlVXM3dpbWVxck0tY0hZUGI2R2wwdVdNTEo5WGU1ZnBUUHN5TjVDdElBaTd2ZjZlYzFIZU5hSnpQTHBjQUl1b1N6cURWeFhKMTU2dmhSNHhpcEFUckFDZ3NfWWtxVWVneEk0bDJVdjBUZA?oc=5",
       "featured": false,
       "draft": true
     }
