@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-13T03:27:56.848Z",
+  "lastUpdated": "2026-09-13T11:10:51.133Z",
   "articles": [
+    {
+      "id": "news-auto-tiktok-and-fifa-introduce-the-fifa-world-2026-09-08",
+      "headline": "TikTok and FIFA Introduce the FIFA World Cup 2026™ Creator Correspondents - Newsroom | TikTok",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-08",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDllNFZ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-happened-when-rugby-s-greatest-nati-2026-09-13",
+      "headline": "What happened when rugby’s greatest nations landed in Baltimore? Lots of World Cup learnings - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUURWQ2ppMnRBOU1TWGkxVGRsWGR4aWpUQzZ2dFJNU2NyWVZpODdPZFNHcllRZllqX294Y3M2UVRXRTZUamtteXhyYm1obVo1SFRiY0tzUWNLczFpaEtxMTlDQklINTRvRHdGdlNjMm9DSTZCWmU4blBmNzlpX2htUS1iN04yc2RCaHJ5NzJkUGdoOTdsYnpyQjB2M0s?oc=5\" target=\"_",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-13",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUURWQ2ppMnRBOU1TWGkxVGRsWGR4aWpUQzZ2dFJNU2NyWVZpODdPZFNHcllRZllqX294Y3M2UVRXRTZUamtteXhyYm1obVo1SFRiY0tzUWNLczFpaEtxMTlDQklINTRvRHdGdlNjMm9DSTZCWmU4blBmNzlpX2htUS1iN04yc2RCaHJ5NzJkUGdoOTdsYnpyQjB2M0s?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-fiba-women-s-world-cup-usa-france-g-2026-09-13",
+      "headline": "2026 FIBA Women's World Cup: USA-France gold medal game preview - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVhzOC1CeWhKaWtSaktBaUppVlFfSGIxTnRKRnJYUHBxUUVPMkNnVEJMMVotT0k3Z0xkQUpRLWlVbjlTX2dKN2c1R0pUYS1DR2NPTnVzc1ZMWWY5VXFySkd4RzE5S1ZibFo0bkRfZ0pOYkFfS1ktMlZNWDI3a0x3QkF0em40TU9LV2EyX3ZoNnZnNzRpTUxUOEtIVzVPWVRNdVV5M1MzY2l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-13",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVhzOC1CeWhKaWtSaktBaUppVlFfSGIxTnRKRnJYUHBxUUVPMkNnVEJMMVotT0k3Z0xkQUpRLWlVbjlTX2dKN2c1R0pUYS1DR2NPTnVzc1ZMWWY5VXFySkd4RzE5S1ZibFo0bkRfZ0pOYkFfS1ktMlZNWDI3a0x3QkF0em40TU9LV2EyX3ZoNnZnNzRpTUxUOEtIVzVPWVRNdVV5M1MzY2lCTE1pU3N0YmtB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-usa-survive-spain-scare-to-set-up-olympi-2026-09-12",
+      "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0szU0JXNzA5d0NYQlFxcnpxY0Q1Zmd4UVFVNWdpd1JiM25YRElGZnRGazhBR2NWTEZwWU1WbFNPRmUxWHptcElISlFSQ3Q0SENuMFM0UzNLcnhhOUQzWE9Oc0ZGbzkza3hVTHktQ2lsa3ZRUUVUbGNxREw1aEdZVTN1cDJOUU1kSXFZc2xlRVVIdWUxWDlBdmtn?oc=5\" target=\"_bla",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-12",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0szU0JXNzA5d0NYQlFxcnpxY0Q1Zmd4UVFVNWdpd1JiM25YRElGZnRGazhBR2NWTEZwWU1WbFNPRmUxWHptcElISlFSQ3Q0SENuMFM0UzNLcnhhOUQzWE9Oc0ZGbzkza3hVTHktQ2lsa3ZRUUVUbGNxREw1aEdZVTN1cDJOUU1kSXFZc2xlRVVIdWUxWDlBdmtn?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--abc-sports-ryan-garcia-vs-conor-benn-li-2026-09-12",
+      "headline": "[[ABC^Sports]] Ryan Garcia vs Conor Benn Live 𝐒𝐭𝐫𝐞𝐚𝐦 FIFA World Cup 2026 - Loughborough University",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOXRkVEZfMFh4dHNPUy1lTjJEMGs2akFMMkdMc0V2M1lQXzF5R0VERlE4U3JLWkpndEs5WjBDT3FmQWhqUWJfVTNhbGEyRy1mRnFPR3c4dFVOWWY5TVUtNXI5VW1yR2NDQmF6RlQyMndDNGhpeFBJeGNkNExiejNHNmVyZUdsQ3o3RmZkcnNaNGxXTjVRV3VhV0taemg1T1FhSHlxTkxaSEs",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-12",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOXRkVEZfMFh4dHNPUy1lTjJEMGs2akFMMkdMc0V2M1lQXzF5R0VERlE4U3JLWkpndEs5WjBDT3FmQWhqUWJfVTNhbGEyRy1mRnFPR3c4dFVOWWY5TVUtNXI5VW1yR2NDQmF6RlQyMndDNGhpeFBJeGNkNExiejNHNmVyZUdsQ3o3RmZkcnNaNGxXTjVRV3VhV0taemg1T1FhSHlxTkxaSEszVDJMZmx6RGoyR3cyUFBlZDRHS0RTM1RKTlA5TE40VFhTZUJRNDMzVzE0eEt4ZzNTTjR2Y09fMkREZVJqVlhqRi16VUZIMVhWYVIzN0ZxQWJTSGxRZk1sSUhGeXo0T0ZGeTkwTWNBdmgwc2FOemJhQ0ljb2ZTMnlkcU9NY3FCVklkYVNXOGk2RElNa19lVDhMa2NPTDczR3RJNF85MUVZVFZFRjZ2NmJ2UGxPck9V?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
       "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - opb.org",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-03",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUW13bUtFSTFITEFNdlR1eTZ4OHp3SjBKRlRCZk13NFVsa2MwQ0FfcWg3R0xzaUpHMFB2NTI5aTdUMGJoOGI2QVU2Zi1XVXlXRlR5OEJ3Z1pid056cm9aT2tQSXhEclNyUXRLQUF3TnNBVS1rQmhGdDROeHVzOFJVcms4anFBenQyYVBIc1VSOGt2RS1iSkY4VU1KaENQZDhYeVHSAaIBQVVfeXFMUGFRZ0IyTThKZkI3SF80WmlIOVExc2V3MERUMmxRTENjUXNETWhIanl4T0x4M0NySktCLUM2bG5UeGo4b3RkOFBRMmR6Z0hpc3dTd0U2eW9jQkh3VjZxRVVJWG12NVFQcFY1bjA5R0REUnVuNkdld0hkc1FrZE5HTVBBeFN0UC1iS3lDd1A3NHNEcXhsLTByeGJxQ0JaZjRPUHN3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-july-6-match-day-usa-belgium-fan-celebra-2026-07-03",
-      "headline": "July 6 Match Day: USA & Belgium Fan Celebrations, Marches to the Match, Road Closures, & Transit Updates - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnM0anhMZktpYmY2Z3haOGNQUEk4cU1iVS1Ib2N0UF9MU0tvZWVUb2hEenJFZFBpUHdaNXNMNjRvWUk5T3pCTkRsa1NsVE41OHhWV3ZYNUp5WktUUjg5UUg0SVBvQ1ExLTFxOG1za1IxdmtodHFYYUNrTVBDNjBQYWZqWUZiNm9VS2VTN0k3MFFzMEZMWVVORzVpVXMtVTdjaUtQUXR4SFl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnM0anhMZktpYmY2Z3haOGNQUEk4cU1iVS1Ib2N0UF9MU0tvZWVUb2hEenJFZFBpUHdaNXNMNjRvWUk5T3pCTkRsa1NsVE41OHhWV3ZYNUp5WktUUjg5UUg0SVBvQ1ExLTFxOG1za1IxdmtodHFYYUNrTVBDNjBQYWZqWUZiNm9VS2VTN0k3MFFzMEZMWVVORzVpVXMtVTdjaUtQUXR4SFlZM0pxWk9vLW1WUGc5MlNBX2xQOVl3ODZTM0xqYVh0bjBDbTZHRVV5?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
-      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-news-sps-families-plan-for-world-cup-tra-2026-06-12",
-      "headline": "News : SPS Families: Plan for World Cup Traffic - Seattle Public Schools",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5\" target=\"_blank\"&gt;News : SPS Families: Plan",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-queiroz-is-back-as-ghana-coach-after-qui-2026-09-03",
-      "headline": "Queiroz is back as Ghana coach after quitting role following World Cup exit - The Washington Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYlEyVFhRUnI5UTMzcUwzeFB4cWhHbTB5NnN4YzFRNmYweDZNNWlKY0plR2p1akN1YVUyWW9yNDdRVjBVdkdtSHRJcDFvM0VFV1oyS1NZZ1ZOMlJuUkJCc2tycFVPT0hjNk1JRFVzODNuQjJ2S2hNZy1lTjdmMkp1WVFlRGNKOFMwYXZSa245Q0lNbDB4ZUp0Sm93R2tiZzNYRTh1bWFfVlB",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYlEyVFhRUnI5UTMzcUwzeFB4cWhHbTB5NnN4YzFRNmYweDZNNWlKY0plR2p1akN1YVUyWW9yNDdRVjBVdkdtSHRJcDFvM0VFV1oyS1NZZ1ZOMlJuUkJCc2tycFVPT0hjNk1JRFVzODNuQjJ2S2hNZy1lTjdmMkp1WVFlRGNKOFMwYXZSa245Q0lNbDB4ZUp0Sm93R2tiZzNYRTh1bWFfVlBQanpINkpSWjk2d2JqTS1sSFE1SVdPbWp0N25rZ0lVd3pB?oc=5",
       "featured": false,
       "draft": true
     }
