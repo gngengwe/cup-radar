@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-13T20:23:50.077Z",
+  "lastUpdated": "2026-09-13T22:54:55.211Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3444,7 +3444,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 354,
+      "chapterCount": 355,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6277,6 +6277,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGNfc2JlTHRWVElhUnd1dlZHNGxIbHUwUHFFMDVUX3ZCZHpnOGgwTTNQTVlpbFhidFMyUlQ4dlBZSXNRUm9DQmJveDF4dFBuNTNzQmhlY01JNEkxemFZUUx5eFQzTzh6RU5keVd6Q2JXVjBqd2NNTWJ5RUpjMnFsMQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789340093440",
+          "date": "2026-09-13",
+          "title": "Yamal declares: I deserve the Ballon d'Or more than Mbappé - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDhDSWJtOXRKRWRPVzFwbGV6RWxkN0NIeUlkRUJLV2ZGR1dHWXNzT0czaXBwTllPdXFPc1VYblZERFdaQzhaeW0weGd3Y253YXJXbk9Bd1N0LU4wUi11cXptY2VSOTBxNDBqRUdTRUpyVnhmaUQtYi1xUWtXUVRtbHJ1R2RGYl9VRlYxdF9DWmwtd0JJcmxqcnI2M1RTNHFlZ011bUxOZ2o0QQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6295,7 +6303,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 889,
+      "chapterCount": 893,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13407,6 +13415,38 @@
           "title": "WBSC Women's Softball World Cup 2026 Group Oklahoma City: China stay unbeaten with win over New Zealand; three games to come on Day 2 - World Baseball Softball Confederation (WBSC)",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmdiRmR0T1JuZWNoSW9Hc3BQT1ZwWllTZUxKVmQ4Zk02aFY2MVgtX19LMG53QWZQQXRFZkltMGtjT1pTNWhia3NsNzBMS216Sm5QLW1VaGZMMHBYRGVBOVdEckVPVzFfWTFsRHJBSDhhX01WeG9MV05zclV5XzFxS19Dc3RyVTZscG1wV1FLNC12QWtMRl9iTGhzRlE1T2FZYlZlRUhFWUZ6cXN3VEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789340093944",
+          "date": "2026-09-13",
+          "title": "Clark and Boston Help Lead USA to Gold Medal at 2026 FIBA World Cup - Indiana Fever",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWZsb3dWbU1UMjBzT2xEZ1dVX2RRUlNPVEtPZF9QMEdScFA4UUdWbnZTbk1Bbm5Ec0VtcEI3Q2xXNFBzNnNJbEl2dzVIcGpUNDZzR1hsel96OUdsY1JfMzNvWVhvT0dCbjJuNExvb2xyakxaSUp4MERaN3g2cHFhX2JyM3lmNU5yWk14QnlhLTktYUdhaEF4Q1dDaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789340093944",
+          "date": "2026-09-13",
+          "title": "USA Wins Gold, Fifth Consecutive FIBA World Cup Medal - Forbes",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGdYWHpGa29rWjY2QTEwTXFtRHBWMHA3Q1NPMWFia1gwVVFSUUhOTVlXUzlKc0laOUtndmQycEhVTzZXY2QtVU05cXNsSUhWS1p1N2JpeURVb29LaGZPOUo4TW1VeHhoNkI2NnEzdVRubkdYa0tqY3I1MHFEbU9YM3U1NTQ5bDJ5UnUyWlFVNmZFQi1keHhZcFZZajFRMmpXXy1wMldLLVlZdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789340093944",
+          "date": "2026-09-13",
+          "title": "Breanna Stewart leads Team USA in World Cup gold-medal victory over France - CT Insider",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFI4R2FfbVZ2TlJ2TEdJMnpITElyWVgxS0tsLWhZeW10OTc0a01oT0RyZnJGWmxBRHBKS1J1ZU1zUUFtem4wSGFjUDdhNFNkRURSRElQb3RjbW1ZbTJYczgtZWpIaWs2ekxEUUw1NzNrdTR6Q1F1VjN0NTl1c2l1UlNneVhOS09yd1BOd01KcXNVNFNhNkoyUElBd1pzN2tmUGo4TUJYZUZYU1gxZFZxWWFsT21TT0VSNXZsODJ0R3pIaHNz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789340093944",
+          "date": "2026-09-13",
+          "title": "Team USA takes down France for fifth consecutive World Cup gold medal - nytimes.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRxSFl1YkFlSG1vRnprY3dUbS1VVzBPQ09EMk9FVUNnZHZZSHN3RkxHTFNydkFLLTJUOFZYbHJjSk9OZ3NNVTBXQXcxdFpPNERseFNHVGN6UW1ydGliVzFGc3RUT1JSMjNIWC15SEVtQW5VTlRsbEIxdXI5dWZWcFE4S3RqN0VTRzhrOWN5QldqZjBWSjNTM1I3NHZfNXRITllJV05hLVFDdVBBM0lnLVp6bU9PRGlXdl9jaFNhdw?oc=5",
           "draft": true
         }
       ]
