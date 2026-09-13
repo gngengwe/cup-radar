@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-13T15:42:09.721Z",
+  "lastUpdated": "2026-09-13T20:23:46.781Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - kiro7.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-new-zealand-exit-fifa-u-20-women-s-world-2026-09-12",
       "headline": "New Zealand exit FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-04",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlAyelk5QTVSZV96M0VmLWlqYUJBNF91LVJlVW50d2JpdHExLWU4M1pMdnVHRWk1cno2WFdudWEtdmhDWG1abk1acFhWbVp4dG5JQjlMekM0M0Q5blhaR3UxcU5kVml0V3gxLWg5S20xMkI5N1FhRHZhbEhjcVhCX2pzUGM5Vkk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-caitlin-clark-team-usa-in-f-2026-09-03",
-      "headline": "How to watch Caitlin Clark, Team USA in FIBA World Cup opener Friday - Hawk Central",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRDczZ1Q0aEdESnhWNkppUTQ5QURibmo1eUFVdV9oaEpIcGt6eXQ0aHBaalhwSkc4Ni1QNDB2SjhrN0JIaVpnSGZyb2twWC1TSV9mQ2oyRkVpTHlTWk5mUWsxY0M0UzJOOFRaU01HM2Joa2RJSVZiVVVOVHl3b3l5d09qekZKVXBCVjNCcDdrNVJWeUJrX2FiZ0ZRUGJjYVVJRWNKX28wMnp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-03",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRDczZ1Q0aEdESnhWNkppUTQ5QURibmo1eUFVdV9oaEpIcGt6eXQ0aHBaalhwSkc4Ni1QNDB2SjhrN0JIaVpnSGZyb2twWC1TSV9mQ2oyRkVpTHlTWk5mUWsxY0M0UzJOOFRaU01HM2Joa2RJSVZiVVVOVHl3b3l5d09qekZKVXBCVjNCcDdrNVJWeUJrX2FiZ0ZRUGJjYVVJRWNKX28wMnp0RmFuZWVkNjRaYkZ2M2xBLUdMZ3lhQUQ2OHQ2RFpza3d4SU54STRJNkRpVjJFa3NUNGhZR2QzcHNja2FCZzN0RjQ2cVNJZGk5ZlNC?oc=5",
       "featured": false,
       "draft": true
     }
