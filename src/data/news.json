@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-14T17:58:00.014Z",
+  "lastUpdated": "2026-09-14T21:43:56.328Z",
   "articles": [
+    {
+      "id": "news-auto-u-s-u-20-wnt-to-face-brazil-after-buildi-2026-09-14",
+      "headline": "U.S. U-20 WNT to Face Brazil After Building Momentum in World Cup Group Play - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0N2NlBWTTFpSGlzb19TTjJ5djZaSDB6SU1oVzVHTHp3NmJydnpLQUNKbzdUZlo5Y0lRYUp3ZTJIU0E0ZzJOekEyRWRLb0lWRFZOMURjLVVmLUs5aFFRUUF1bzhDWERsbXhodGJ6WkV5YldpRkhRTlVrRFFuQk1nRy1yNnBzUUVkQkQ0a3hpT2NfQU84cER4MnpsNmRpbFNWaEg5RjRadGM",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-14",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0N2NlBWTTFpSGlzb19TTjJ5djZaSDB6SU1oVzVHTHp3NmJydnpLQUNKbzdUZlo5Y0lRYUp3ZTJIU0E0ZzJOekEyRWRLb0lWRFZOMURjLVVmLUs5aFFRUUF1bzhDWERsbXhodGJ6WkV5YldpRkhRTlVrRFFuQk1nRy1yNnBzUUVkQkQ0a3hpT2NfQU84cER4MnpsNmRpbFNWaEg5RjRadGM3b0RoVWlRNUc5a09PMXFpcXgwU0w2Zw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-alex-morgan-crystal-dunn-marta-among-pla-2026-09-14",
+      "headline": "Alex Morgan, Crystal Dunn, Marta among players calling for FIFA to move U-20 Women’s World Cup - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-14",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-sets-the-standard-as-a-fifa--2026-07-16",
+      "headline": "Kansas City Sets the Standard as a FIFA World Cup 2026™ Host City - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5\" target=\"_blank",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
+      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lumen-field-swaps-its-world-cup-grass-fo-2026-08-19",
+      "headline": "Lumen Field swaps its World Cup grass for artificial turf - Axios",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5\" t",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-how-to-watch-the-2026-fifa-u-20-women-s--2026-09-14",
       "headline": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free) - PCMag",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-04",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWXp5M2V5REFlcFJGSVFrakZuNjNBU3BldkhyNXVoVjdxV0tpN2FQcEp1RUxYOGhYTU00SHoyLTRDZU42RFFvV2dHdmdhemMxSnZ0VG52NmIySEdJT3JEUEVvVlVWUGdCV1NDclFZTVFmS242Q1hwbGNEeWF5eWthR1F5MA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-metro-construction-ramps-bac-2026-09-04",
-      "headline": "Kansas City metro construction ramps back up after World Cup pause - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGJYUVNxM2lWRjRYdzREcEhrd3VRb0c5REJLM0NLM3hKTWF0Mm9xcDIxVlNVeGNGMktzaV84SnFQVEJVN2NFMFJVTWdVT2xCYVVfanVPbDlZNWgyQzRxQzA2NXkwdEtFVlVyb1I3QVFRMF9CaUtwWUZ6VW1OM244cEd1c3JfbFFXSUJwUGRmN1R3Nkc5bmZTZkNUbkNlajRzdmNHejNwNUZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-04",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGJYUVNxM2lWRjRYdzREcEhrd3VRb0c5REJLM0NLM3hKTWF0Mm9xcDIxVlNVeGNGMktzaV84SnFQVEJVN2NFMFJVTWdVT2xCYVVfanVPbDlZNWgyQzRxQzA2NXkwdEtFVlVyb1I3QVFRMF9CaUtwWUZ6VW1OM244cEd1c3JfbFFXSUJwUGRmN1R3Nkc5bmZTZkNUbkNlajRzdmNHejNwNUZvZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-cura-ao-and-kansas-city-found-world--2026-06-21",
-      "headline": "How Curaçao and Kansas City Found World Cup Magic - FIFA World Cup 26™ Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNms4TmdQTW55Tzd2V2tJWTBWakl2Tk1EVXIzREhFaGJNdWktbWJFNzFEazY3aHlJLXdlVnp2LVhaLWJDVE1NVVotQ0RpemJBVGhGd084NnZ0T3RMalNhdDk2Y1ZrMGJTYjJWV2dxX1lfRHBkVGFmcHNqdmdHZ1JMUkQ2SDg?oc=5\" target=\"_blank\"&gt;How Curaçao and Kansas",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNms4TmdQTW55Tzd2V2tJWTBWakl2Tk1EVXIzREhFaGJNdWktbWJFNzFEazY3aHlJLXdlVnp2LVhaLWJDVE1NVVotQ0RpemJBVGhGd084NnZ0T3RMalNhdDk2Y1ZrMGJTYjJWV2dxX1lfRHBkVGFmcHNqdmdHZ1JMUkQ2SDg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
-      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
-      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
       "featured": false,
       "draft": true
     }
