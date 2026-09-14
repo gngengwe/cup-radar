@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-13T22:54:52.391Z",
+  "lastUpdated": "2026-09-14T03:38:35.841Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-u20-women-s-world-cup-poland-2026-c-2026-09-14",
+      "headline": "FIFA U20 Women's World Cup Poland 2026: China vs. Spain - Xinhua",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S0xNVWJNY1kxQUdmNGxaNmg4RU5GRWJYT0plcjdkQ1RFNUFyaXY1dnBBci1obzFrbXJ6Tk1lU1R0Tm45NUhkWmJZNlU0d3VhdEN6dld1cC03eWNQdDNyQV90dlYzNTNURDAxczhaS25qVEM4VC0xaHVDdw?oc=5\" target=\"_blank\"&gt;FIFA U20 Women's World Cup Poland 2",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-14",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S0xNVWJNY1kxQUdmNGxaNmg4RU5GRWJYT0plcjdkQ1RFNUFyaXY1dnBBci1obzFrbXJ6Tk1lU1R0Tm45NUhkWmJZNlU0d3VhdEN6dld1cC03eWNQdDNyQV90dlYzNTNURDAxczhaS25qVEM4VC0xaHVDdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-new-caledonia-suffer-another-big-loss-at-2026-09-13",
       "headline": "New Caledonia suffer another big loss at FIFA U-20 Women’s World Cup - Friends of Football",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-29",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
-      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
       "featured": false,
       "draft": true
     }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-13T22:54:55.211Z",
+  "lastUpdated": "2026-09-14T03:38:38.807Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6303,7 +6303,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 893,
+      "chapterCount": 894,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13448,6 +13448,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRxSFl1YkFlSG1vRnprY3dUbS1VVzBPQ09EMk9FVUNnZHZZSHN3RkxHTFNydkFLLTJUOFZYbHJjSk9OZ3NNVTBXQXcxdFpPNERseFNHVGN6UW1ydGliVzFGc3RUT1JSMjNIWC15SEVtQW5VTlRsbEIxdXI5dWZWcFE4S3RqN0VTRzhrOWN5QldqZjBWSjNTM1I3NHZfNXRITllJV05hLVFDdVBBM0lnLVp6bU9PRGlXdl9jaFNhdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789357117624",
+          "date": "2026-09-13",
+          "title": "USA defend Fiba Women’s World Cup title after early scare against France - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV21ocWs3MDlvYU81WWJRSngxTW5FU0x4SDdTYzJySDB1RG9wRUtwWWYxN25PU201NFE2bDJaZXJBYkpCckRhc0dJdzhtVXlVYkRmbXpkdnJNTEVsZHIwcnQ1Smpnd3hNMVZvYm0xR3UwaHRpZ3A2UFppRnM0eG5OTWlFVGd2dG9LcWhfa2VQU01wMDF5Qm1UOEJha3V5WjlDVjhRbUFxazdCYkVF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13466,7 +13474,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 600,
+      "chapterCount": 602,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18266,6 +18274,22 @@
           "title": "U-20 WOMEN’S WORLD CUP: USA routs new Zealand to set date with Brazil - Soccer America",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRktBYUJCYlhVU2d0ZlpvbS1hSFI3QndsU1diTnFtajNacVAzZWJsc3lLTFFBQ2NmZl9KMkNIMk13SDNVQ0x6Vk9QenZLcmdreHd4UG9telU1eXUxX2ljUlJKbDJmSFBaNnh1NF8xSFR3QlBiUVduUkxhTEdDT1k2TVNUTmdMMDVUVERCU2VTWkxGSWFaUUwya091QmgxMGM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789357118127",
+          "date": "2026-09-14",
+          "title": "✍️ Marcelo Gallardo takes over a Brazil rival: the details - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3F3TjNLblNGUk1lbGRYTGFrZUVhZTc3NzhMeEotdUpXc0s5bEJkcTVSaFVBZWMwc3JJTWNqZEtMWWltRmlLU2g1OGdpdVpFNHMxR2xQS1d1WXIxNk1XYmdCb3Z2RktTbE5vbkUxQ3ltc0dHd2N3R1o0aGlhSmIzQmtWVWRwRUNvY0xz?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789357118127",
+          "date": "2026-09-13",
+          "title": "Japan Brazil WCup Soccer - dailyrecordnews.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1dlOTFOX19CemZRb0w1eHhwTVNSbFEwOFBUX21vMzRGQXgtRXdKN05BVEFpbG9FaHlERHNneU9CSzQ3YUNNYm91VFlrRVZoVUVtRmFoNlI1d19kMUlVU1c4X3ljWS1mYlU4ck8yOWdxZVlXRWpyeWQ4WUEzNTVBcU1UTUdUNlVaV3NLV0dRR0hVN1lHT2dnbkFvaVNpVmd6ZWpndHpCaEZVcGVGeU0xeUxWRVN3VkFZOFBOcnBB?oc=5",
           "draft": true
         }
       ]
