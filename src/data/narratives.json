@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-14T21:43:59.153Z",
+  "lastUpdated": "2026-09-15T03:39:33.305Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6335,7 +6335,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 902,
+      "chapterCount": 905,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13552,6 +13552,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEtFYVEtdmo0TWxQXzNoVUxWYVlaN1hVQmNwR2hIS1hKVC1FY1pfdW5fTXJmNUlmSm8xSXVjc01XanFrbWd6R2Ezd1RfVmYwY0o4aEhLc0xJaHpfZnU3NUtpNnlUcWVaM0hydDAxbUhIVWhTMXBMSGs2YzVrTnNZR3diRUFFTFFlaFB1TXFSZTlqb0k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789443572008",
+          "date": "2026-09-14",
+          "title": "USA Roster Prediction: Will Christian Pulisic Make The First Post-World Cup Roster? - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUluZmZ5YUFrNk5qWG84RDBzdVRhRk9ha3BCR01DWUtFZWZjWEhBRWRuOFZRajg2aEFHVm9fWUdSZzBnRm9vX2xaYkRDNWJlVmtncEduMzNOUVZRTVgxVlJwUzhkTDFaU19aSkpscmxLbE1mVkxWa2gyZTZObkcwQmo4N01LZmxaQjdCMG9nME1mM1ZmTkxzdXBjZkFFWjk1bmJyVdIBpAFBVV95cUxNY3ZZWmIxbThJTmNPbHZJbThYTXVvR2txU2dfY1BVWkdCekZZOV9ZZGpCZ2xiMDVIVFdOS21IbkJGRnlOOFUzdzhua0NVLU5yalFGQmoxRG4zbUFZU0Y2SHNNQUJyY1IyUEhVZlhUcXpGSS1YamdHRnBRMVJWMGhOb1Z5aC1MSm5NWEhVY0ZLM1F3eC1ianNjY1RmVnNwbHRrQlRkOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789443572008",
+          "date": "2026-09-15",
+          "title": "WBSC Women's Softball World Cup 2026 Group Oklahoma City Day 3: USA, China stay perfect; Mexico sweep doubleheader - World Baseball Softball Confederation (WBSC)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGdHU1MxcjZZWHVMZEw4UFo0aTlRNXh4VWhaQzRRNEtoYURpcU11T2dPWkJZRUJPTjhLYzBHc2ZpQ0Z3QjVYUlp2d2ZobTFQekNJdjJLVktOOWFoZGVIQjB6by1Rakk3OHBrbFdyLU1NaXBxZWtfZzVwcnFrMmVyYmRGVkVLWTY2Yzc2RVJLOWtVZm1hZlVteWhJWUlPZVgxVi1veTcyTmFRRmE2ZGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789443572008",
+          "date": "2026-09-15",
+          "title": "2026 US Open Cup Semifinals Preview: After World Cup delay, final four ready to square off - TheCup.us",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0txSW5qb0EtV0N4Z2FHUlZaSi1JZG5NZ19yazVCRC1Ma3BvTFZGVENSMXlJYWliVmR0cWY0SjdrWXdkUi1vN3VMaDgydUNISkUzcFk0U2JheXJZNTBiel8tWU9Ib0lJVmtveHJlaEd6eXVBVDBhM3pYUWM5MnBKMUhQbWFEYzVrQTFWcm9EQm5taEVSUnA5REtYbjlaM2stTEZZbHVBbmNQNGNmOUg5SnFxZTBGdHBaTXc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13570,7 +13594,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 606,
+      "chapterCount": 607,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18419,6 +18443,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0N2NlBWTTFpSGlzb19TTjJ5djZaSDB6SU1oVzVHTHp3NmJydnpLQUNKbzdUZlo5Y0lRYUp3ZTJIU0E0ZzJOekEyRWRLb0lWRFZOMURjLVVmLUs5aFFRUUF1bzhDWERsbXhodGJ6WkV5YldpRkhRTlVrRFFuQk1nRy1yNnBzUUVkQkQ0a3hpT2NfQU84cER4MnpsNmRpbFNWaEg5RjRadGM3b0RoVWlRNUc5a09PMXFpcXgwU0w2Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789443572492",
+          "date": "2026-09-14",
+          "title": "Carlo Ancelotti confirms Neymar's Brazil career is over as Selecao boss plots youth revolution after World Cup heartbreak - Yahoo Sports Canada",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0JlRjlISXRNeDJuUFFoX3AyQkV5S0g2c2s5djhtcF9zenRzdy1WSlUwekV4ZEFYLVYwN1BYVHktLUVtc2tTSkc4Q2MzZ0FYZ3pmVUtFUTNCcDZUWTdfczY0VXNlcHF0Y2Uzc0lrUTRZb3ZiZVNpV0NKaTJkM2FIN05BOTNyemNiNjItVmdyODM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18648,7 +18680,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 860,
+      "chapterCount": 861,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25528,6 +25560,14 @@
           "title": "Atlanta hotel occupancy dipped this summer during World Cup, new data show - AJC.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmprZU16YmNjQnZ2eXllRzEzcEdLNVMzd21IczM1eDFPYlpiQ05hVTJCdDVYUl9NVDBmaTZNR3V4M3VuWmJlM3hxeFdoVFRCU244NGVVbVhqZVhSeFVzdWpfRnlfX2NpU1ZjemNkeEkxbFE4R0FQaTh6UXdmSU9WQ3RlMmpGdU9uWkxib2FVczRtd19NWlowVDZfNE5VczRDRWpZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789443573305",
+          "date": "2026-09-15",
+          "title": "England hoping Pietersen's experience will aid World Cup tilt - ICC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1o1VTJuMGN5TzhzS0kwRnBweTRTZEtLTkx6Y3RfQVdzQUlzcW9EY2tsaTFqRGxERG9KdEpkZDhNVGJBbkVEY3ZJWWc3ZUdweFdJUE9wd2JsQ1BFb3VRSVo4eVZ1R0pyYWJGVkFoeWRkLURYclRDYVB6Qk1oMXBoRjM4RDM0RmMwZ0Z2UmlLdEVvOEFrQ0NQM3UzWlhjcnlmTFBiR1MzYm5pSl93SHMyLVA0NHdhdFg3ZFVRU2poM21sYUZiZGljajhxaVJzQQ?oc=5",
           "draft": true
         }
       ]
