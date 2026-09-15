@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-15T20:54:43.255Z",
+  "lastUpdated": "2026-09-15T23:25:46.480Z",
   "articles": [
+    {
+      "id": "news-auto-moments-of-joy-from-the-2026-world-cup-o-2026-09-15",
+      "headline": "Moments of Joy From the 2026 World Cup - opus.ing",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reEEtTDNhX0FlS3NkcDF2VlpPQnRsQnVsZXZaZktyZXNQeTJ6SGtyS0oxOEF2NFoybExTQ0V6TURXUGJpZ0sydEVuUzNRNVpfU1Q0cUpJTGdzUmhnS1E?oc=5\" target=\"_blank\"&gt;Moments of Joy From the 2026 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1reEEtTDNhX0FlS3NkcDF2VlpPQnRsQnVsZXZaZktyZXNQeTJ6SGtyS0oxOEF2NFoybExTQ0V6TURXUGJpZ0sydEVuUzNRNVpfU1Q0cUpJTGdzUmhnS1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-canada-roster-10-mls-players-called-as-2-2026-09-15",
+      "headline": "Canada roster: 10 MLS players called as 2030 World Cup cycle begins - MLSsoccer.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQM2h1QTY4aXpwaDNiQm5OVUtLQTBRZjdibVRlY3duZ0FuZE11eHZYWE5FcVhVYXRGeTByaG8td1hHRGdidDgwa0c4T3lXYnpTMm9LZ0pVTHVyc2FhLUktMjFVeGhqZnF1R2xvUXU3WElRU3RoTTU0WlhDbkhXY2hYME1Wc2tFX1RBNEFKek1kTkl2XzU3SU1xSTNDakl4dw?oc=5\" target",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2h1QTY4aXpwaDNiQm5OVUtLQTBRZjdibVRlY3duZ0FuZE11eHZYWE5FcVhVYXRGeTByaG8td1hHRGdidDgwa0c4T3lXYnpTMm9LZ0pVTHVyc2FhLUktMjFVeGhqZnF1R2xvUXU3WElRU3RoTTU0WlhDbkhXY2hYME1Wc2tFX1RBNEFKek1kTkl2XzU3SU1xSTNDakl4dw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
+      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
+      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-did-not-lead-to-more-metr-2026-09-15",
       "headline": "FIFA World Cup did not lead to more metro Atlanta hotel use - WSB-TV",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-06",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlBUb0Z5ZzNvbFBiWU1hM1E0WFIwa2QxaHBZZGNMNmZHTkQ3ZzlBa09keHV1NExKbHk0MHNKdlBrU25oRWhXZVpkNG5Cc2dLeUtuUjAyMDYwNnlNekJDTm9PTzFQaXRZemFCRGNEcjFDbl9PZ2VTdzVuaUFVYmRncVl0OEk0cWRQbFd4dE1KMGhlOWVx?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-betting-insight-missouri--2026-09-07",
-      "headline": "FIFA World Cup Betting Insight – Missouri - gamingintelligence.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1JDbWtJczg3UkdnVUpKSFpmdXNlNnl2aVBVREZEY29aOHhsZzBFS1BiNmk5d1ctTTFZeTJEU0ZRVVE3M3ZiTEpacURjYjVUNHFBSlhpZ1ozcUdzMldtOS0yOXc0bzhLLVZBbkFONl9MVV8wM0pKbTdScTJXbk50cU1XZURMaVVkZFk4?oc=5\" target=\"_blank\"&gt;FIFA World Cu",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-07",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1JDbWtJczg3UkdnVUpKSFpmdXNlNnl2aVBVREZEY29aOHhsZzBFS1BiNmk5d1ctTTFZeTJEU0ZRVVE3M3ZiTEpacURjYjVUNHFBSlhpZ1ozcUdzMldtOS0yOXc0bzhLLVZBbkFONl9MVV8wM0pKbTdScTJXbk50cU1XZURMaVVkZFk4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
-      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - kctv5.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-basketball-2026-fiba-women-s-world-cup-t-2026-09-06",
-      "headline": "Basketball: 2026 FIBA Women's World Cup: Team USA - All results and scores - olympics.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnJ4aFgxbDhreWdFd1hBWGlUaDl5VXRnVVZheUZBbGN2NkJuM0xydm9XeUR1TmtBQ2l1b01vLXJyeU54RGlfajFFbHBocFpFeE1qUDE4d1RrTXM2UjZvOGZoN0wwQlllanFkM1VCakZJVmRhY3FqNWhvVy11TzRfYWJYQ1RnbVl2M1RhclE4dmd4N2VwQnNiUFlB?oc=5\" target=\"_bla",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-06",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnJ4aFgxbDhreWdFd1hBWGlUaDl5VXRnVVZheUZBbGN2NkJuM0xydm9XeUR1TmtBQ2l1b01vLXJyeU54RGlfajFFbHBocFpFeE1qUDE4d1RrTXM2UjZvOGZoN0wwQlllanFkM1VCakZJVmRhY3FqNWhvVy11TzRfYWJYQ1RnbVl2M1RhclE4dmd4N2VwQnNiUFlB?oc=5",
       "featured": false,
       "draft": true
     }

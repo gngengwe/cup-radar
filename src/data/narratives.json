@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-15T20:54:46.566Z",
+  "lastUpdated": "2026-09-15T23:25:49.499Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 432,
+      "chapterCount": 435,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3474,6 +3474,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON2MxTU5xUk1WeV9tWTZxNG9TUU56eVhRSWVQX2lhcUkwaEJWa0dERldPUDIxdnVVZk5YeS10ekRmZTVNZGNKd2laMElWSmVFRUk2RVh0SEpLZE82Ri1kUHRPb2Y5SFBUTEk1NXNMV190N0xRSlprNVMyUW13Mkd1bVVKZEZqSmU5OTJfSnFYMS1sU1ZoUHZKaTBZWlNJOElUTHhWVm8zb0JuWDdNSDlEUdIBtgFBVV95cUxOX3pYSDhhT1RvLU9pcUFzNWYxb0dZZ00wa3ExbVNPdVV0UTFRMEpyczJLXzV1aVo0V0pQUkdZZnZyRnoxbFRJN0V1UUgyakt1am1pckJnRTBqU0pBcExvZ2RCSjVfaWJza0lvYTduYnQwWm1CakhpdVB5ejhvUGV4elhxeDRDWS10WXltclNKSmhYb0dvcVdFUEFsUTNrdF9rTTBUWjNndnluSXZ3TWlfaHpaRXRjZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789514747121",
+          "date": "2026-09-15",
+          "title": "Lionel Messi called up for Oct. 6 Argentina friendly as 'last tango' farewell - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWJwNXJRWnRwcVl1ZnJMX0gySHZJMDE3ekNLT1lPXzBsSUNfLVpaa1lNYVFuMENfb0l3QWdjUndhZXVUb1lrQ3JER3VUZTBVQmk3UURrSk5vNnY1WVFqM3d0T0ZZVmZrR0J0QzZhMkhKOEczQ3VuYzhIOUk2blE1TVhjSWZZMWIteFM0YTQyblRDelVSQng0U3R3ZU9XemlSZFJ1TkFTVlRPdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789514747121",
+          "date": "2026-09-15",
+          "title": "Lionel Messi called up by Argentina for farewell match on Oct. 6 in Buenos Aires - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZTFNOVp6alA1MElwNk83Zy1wLURhMVVIb3hQdldFWWkya0xRMXpqWUhsbEZ0RHhkdGQySHdNN1FCZjVuQjV4aEpZUmNuN1RIcG1lN1ZNcl84Tkc4MXMtNjFqdk5WeWJiSV9Pa295NWZvNWhCdWpwTzVjcURBY0phZ1djUm01NjhubDBBeWVKM3hYU3JLOFVnX29VWEY5ZEZTM3paTW1pbkZsdl8xdVA0OHV2MnFDUkxwaGhLUThRRnNGcDdKWnBIRGZrX0tGdlZ3dkNsNkpWRVVsamdvSXZnUllR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789514747121",
+          "date": "2026-09-15",
+          "title": "Argentina sending Lionel Messi off with farewell game in October vs. Benin - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREkySU14cFJycC1PX3dIRDk4ZDdGRW8yZ05pT0hBc05WdnFoOFgxTE5FbWtvaVdTYjFMeXpsQ1pRNWphXzdFcVc0cUM4MHFCNTZWc3MzU21rdzRpYlB5ZS1rNkhlUzI1d1hxU2dlNFZBRVE2SXQ0c2VmN0dzWVJWMHNPNU5HSGJXSGpBcS1nWkV4LTcwbko1UkdWd1RwOXBtRDVSb01vczhwMEZRYnkwWDd4ZmdHcU9Z?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6391,7 +6415,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 912,
+      "chapterCount": 914,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13688,6 +13712,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnJtYmt6R3g1TnRmS3VaWHJ6cEMzbExXUU1ROUtRcnVleVlzNGtENEFORzRtWmNJcWtxNks2dzM5UnByMlc2YjJISUpFNDhBNkM0QVVSUXFJaVpZMEZ4dVlFRVd4MzFOVTl5TVljYWFnYTYtYURfaU13VjM5R1I2TEo3MGI4WTRwNmxSOTVNejhjZkVTNV9qV0JPUFcwbHFTS3c2YVFVU3FVREdEWXc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789514748384",
+          "date": "2026-09-15",
+          "title": "Site revealed for USMNT's first official match after 2026 World Cup - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHpzZGtWQ2RBY2FKSk5yUG1uLUNIQy03amVEa1BEeEE5YmVNYVdSZFhMU0MyaUpjZFJhazdCTXp5MEN4YXljMzM4VzhmdzlkdFMtYW42UnFLcXlOWXBsR05HR1hVN1FsOGRMekFKQW1mVGV4SjBGSHBvSTZPM2gwbVNPVGxsVGZKN0RPczhvM3ZKd1pZdDNTWk1mckY4NG16RWlFYTZIdm5JRXNPV1JWV08tX0IyX2RTczdPUXBuY0JsQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789514748384",
+          "date": "2026-09-15",
+          "title": "WBSC Women's Softball World Cup 2026: Play-Off match-ups confirmed; USA-China to play for Finals spot; Netherlands-Mexico face elimination - World Baseball Softball Confederation (WBSC)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBXcXR3SmY4eTBCamRZdEp0emlNWHNTVXFhaXgtVnREWnBXeG5SSjFyYll1Zk11NnlYLTZ5ZmRmOVJtX2YwQ2oxbGV5SUgydklZQ2FUakRpOHlpQzF5c05iaUM0eGhSWWNWSzlIdzdpWmVWbXB1cDZXcVQ1ZmRiY3RWUFBLbXpZNE92V1hEZmlNMFM2QTNhV0pVVEFJU2JmMzZYZ1ItbjlZVV9GMHc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13706,7 +13746,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 613,
+      "chapterCount": 615,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18611,6 +18651,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBXcXR3SmY4eTBCamRZdEp0emlNWHNTVXFhaXgtVnREWnBXeG5SSjFyYll1Zk11NnlYLTZ5ZmRmOVJtX2YwQ2oxbGV5SUgydklZQ2FUakRpOHlpQzF5c05iaUM0eGhSWWNWSzlIdzdpWmVWbXB1cDZXcVQ1ZmRiY3RWUFBLbXpZNE92V1hEZmlNMFM2QTNhV0pVVEFJU2JmMzZYZ1ItbjlZVV9GMHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789514748952",
+          "date": "2026-09-15",
+          "title": "Brazil v USA this Wednesday in the U20 Women’s World Cup last 16 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWUxWGp6RE1OLTA1ZGRjSTJ0eE5sQlJ2aTdOY0gxWC14WjRONVBBVjNEdzlzNDJmMGJ3V05WODgwOVNFR1ZUdWhScGtLYWg3UDcwdlV3QWJKWldhRDZ3X3VrazVEQjI0SE5LVUVicVNGSWdlVm1YekVMWmNlR3lmMA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789514748952",
+          "date": "2026-09-15",
+          "title": "Neymar gets final Brazil verdict from Carlo Ancelotti as Selecao’s next move after 2026 World Cup heartbrea... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUDJlTDdIYUVzT1EwNmJoeXNnRXdvS29iNGVoQmt0d21aVlVlYjlzQUlBSDBwRFA2bFFJOERwZlhpUnJ6UC1WRWdIRmdJSC01c2JleXFJcHdwYWtVT1ZiLWdPalZXeEt4WnZlX1hucGZMOHNNaUJFeEtZSUR6R3VfTnFyN0pmMHJ6WEF0XzN2Y3dIYzlhME5IX19zaGhMNzZMd1A4YS1iVTJxZklYLWc4WGd6TUZ3aFZzUjJXRFc2RnBhWFNzNjl6X0NDQ3daUk9iVE0xdTBKZFhQQkw3bkhOM1dfQ00zUnFkR3FabXk3SdIB8wFBVV95cUxNcHZOQWd2dnRiZTc5U3BEUkN5YXVMWGhPX2FfN0NidTJycG1yRFJzS0JwdkpNY0ZzLXg4eVppdm9kRjJsUFlUeTFJNl9Oc1JJaG5FTmt6dnRDMFM2d2dZcEtlcU9XNXNqM2plbGE1ZzY5dVl5Y0J5aWljWnZwMnV3enBRSm5EY2hhanZONUFrd0M1Y1c5b1g2MmRsY2JjWWxuT0JnUnV6VzNnWEJ1MDBpWUdsWk82dlN3blNCcmwtN08xODRTdlhQVE9ja2ZObUxwc0FFNGlrN21RQkprUnlKSWo3U1YtSXBBaFpzTDR0LXZzTnM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18840,7 +18896,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 865,
+      "chapterCount": 867,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25760,6 +25816,22 @@
           "title": "How to watch England vs Sri Lanka T20I 2026 live: Start time, TV channels and streaming details for ENG vs SL series - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnc2OWhTNW9rQlhON2RMRmRlYWI4NGJiRWtPRXdtRVhielVacFJTM0ExSC1YY0gzT0MtdEEzUmswWU03WlFhZTdkLTlKMXRURTdJaWpZNU9vWGNseGFielZZVjF0a3c3Sjhva3lHdXAzM05qeU5HZ19TZmhZV1doQw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789514749499",
+          "date": "2026-09-15",
+          "title": "Thomas Tuchel reveals bizarre England regret in first interview since World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkZPSzV2Zm1BaF81WUNhbi1aa2d0MXVaS0Y0ejRYOEl4QWlYWVc5NXNtTzZqS0FQY1NBd25GM1Q4REpiN0gzLWxMbF9rN1ZCcU1ja1JfbE9Gb0tDUHJ5WThnNU1uRXNURkR2NTNncFdheVhJaVFGUU1OZm5sVURzcUV5RGdBbzJEVEJjeWJ6OA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789514749499",
+          "date": "2026-09-15",
+          "title": "Tuchel admits he wanted to 'eat grass' after England's World Cup win in Mexico - Flashscore.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1Z1OTZ1T0lvX1dTZXozWUFHYWpDLUJWOGdoZll2VGxoSTFybkV1NHBWWnc3NXlSdVpHZm1KanpxbDR6MV9TYWVSUkRNYVlPZXZON2Y3N21HVGJESm9LZEcwei1VSERNTHNaelhPeVFzT18zS1RLcTVtWm1uR3J6NWg4ekNvcGpYcFFVLVFnOVIxTnVjdE81NjNTWS03SWRqY1pnV0VoM3o4UXN6XzJUNTQxdEdHbEZYaEE?oc=5",
           "draft": true
         }
       ]
