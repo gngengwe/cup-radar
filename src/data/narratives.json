@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-15T16:23:19.630Z",
+  "lastUpdated": "2026-09-15T20:54:46.566Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 427,
+      "chapterCount": 432,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3434,6 +3434,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0R3QmJQLTVOcmZTUXhfQTFQYVV0SmtPeXFoM2s1RG84bkwzZV9mVFQxVE1QSXVMVUJmSVkxSXZWMG5OcW9sNFNIU0NmeG9aWThjUFpmVWZUREdlMTZQWDA2Q0FhUXlNaUdHeEs2a3paUkhEZl9iOE02NTFYQ0VYazNHMnhYMnVXemlMQTVrMHJLNVhOSHBZcjZJZ0VqaTRNd3RrMlFvVWpzM0VrZHRCVmZGN0h3bURGak5ldHJLeVVGeXRM0gHIAUFVX3lxTE90dWlwZTQ1TEJzbnJadjhQd3BSeGhVc0FsaEVYdHFmWHJ3Wl9zdmpPUWd2V3k3S200SzdZLXZwSDcxVllTNzFEc3lsb3RYOEthSXJBRXJxb2FVUWpwSzY2c1JhLWpsS0dmTnJNMEJNVF9wLWNQZjJ5cmV3WExXZVZDNEdmUXhHTDFmZ0FCakowdUdPY05qQUZYMGo4LTJzZ29YYUpUaW1JUDd2N3RxRUFCdXp2Z19tQ2pROHFpX0szX0V3ZFZtLWV4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789505683946",
+          "date": "2026-09-15",
+          "title": "Report: Lionel Messi Set for Argentina Farewell Game After 2026 World Cup - athlonsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3FGLTZIekNfMjRVVzE1RWRDRlRTZjNkcWlCM3VUdkpYRGw4VDc1QnBsNVhpMjN2OGRSd0ExWHBaVEw5endORjFQbDduTEt5UWJOdXVHcktpWUJYTHIzdDhQbXNPOE44ZkxJZzBLUnB3d2hkUklHckZKbTBJdjJyaTQtcG5la2NIbEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789505683946",
+          "date": "2026-09-15",
+          "title": "Messi called up by Argentina for farewell appearance following international retirement - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkt1Vl9ORmE0UktUbDAzb19hanRJUmNlcVZSaDVUaEkyUVo2Y2NfYU1vLVJiS29OeWdvXzNoSlM5dW1fTmdsN0NxZ2lzbk0xOGw0T3ZsVXNCc2NadGxsbkUwMFRVVXA5V3ctTjIxbWNDMF9DM2RJMmF5OVp5WU5CblJGNmNRLTJpZGRZV1lvcEc3WUpQZXJKMTZlZm5MZEpFTWQtN1VNS1Z3alJmdnE1SzBhSW5uNzFuWmYzUzNPQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789505683946",
+          "date": "2026-09-15",
+          "title": "Lionel Messi added to Argentina's roster for Oct. 6 friendly that team says will be farewell match - WSLS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXV4YU5NRllscC1lQUg3N3h0aThwVFo3UWpvRDhVU2RGcC1uWTl3c3NXaFQyVTY5aG5KTUVtNDY4bk1pMzhXRnBYYlRSczBwajc0Q25vTHBkMVdjbHFpcmR3YW9lX2xIYXdQM2ZVZWN4YVFYQVh3blpacFFwWmhFbUxoc3lJT2lzc25IWVVvT1pDSmlTdmxEdk9QY3EydlZxM01mYjgxMVhtU0k5NXQ4c1d1aFRlREN0QjFoZHRPdzExS1dJdFhLQjJ5NHhkY00yUWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789505683946",
+          "date": "2026-09-15",
+          "title": "Soccer-Messi called up by Argentina for farewell appearance following international retirement - lufkindailynews.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdVQ0WllfRFNlYjlGamNPNUNRbE1uVHdRWVZtVFNTRkRVTEdvSklhNGxJSHJJanhSaXkzcHNXNkdxYVphUDRkNUZkaUVKMjI4QVp2enMtVWZMb25wMTdxZDl2MzA1MmZNdjlPWkhZMnJNYnhVd3FnVzNIWFNzTzk1RmJCc2xud2tCalNRZkVKM1JKVkNhNGswQTU5UC1RSVJXb2pxQmNRV2pnVlNpMXVuWGluMVg2QXg3YTlCQW9WM0N3cE0xOERQYi00UG5WQVhRQW1TSE9JbEFDeERGNVhndUpndlM3VzhWa0JDSnUzT0pfZGh5cmlUUlJYdERqR0FVSHFpWXZHTndvdG1ETTUxQ19mZEFMMXhLYTB4Vw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789505683946",
+          "date": "2026-09-15",
+          "title": "Report: Lionel Messi to be called up by Argentina despite international retirement - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON2MxTU5xUk1WeV9tWTZxNG9TUU56eVhRSWVQX2lhcUkwaEJWa0dERldPUDIxdnVVZk5YeS10ekRmZTVNZGNKd2laMElWSmVFRUk2RVh0SEpLZE82Ri1kUHRPb2Y5SFBUTEk1NXNMV190N0xRSlprNVMyUW13Mkd1bVVKZEZqSmU5OTJfSnFYMS1sU1ZoUHZKaTBZWlNJOElUTHhWVm8zb0JuWDdNSDlEUdIBtgFBVV95cUxOX3pYSDhhT1RvLU9pcUFzNWYxb0dZZ00wa3ExbVNPdVV0UTFRMEpyczJLXzV1aVo0V0pQUkdZZnZyRnoxbFRJN0V1UUgyakt1am1pckJnRTBqU0pBcExvZ2RCSjVfaWJza0lvYTduYnQwWm1CakhpdVB5ejhvUGV4elhxeDRDWS10WXltclNKSmhYb0dvcVdFUEFsUTNrdF9rTTBUWjNndnluSXZ3TWlfaHpaRXRjZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3452,7 +3492,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 359,
+      "chapterCount": 360,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6325,6 +6365,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEFDT3JiWldxcFVBamI0TjhWNlFTSlR6ZzFmRUh2WHphVTc5c0lIT2JlZzQyUGNKaHAtSWVSdnJXanpBRjY0MThQd2wxdVY5bExvZXRDeVZYN0ZYT3ZLanB1WUhON3JiLUZRRVFuTUcwLVhtd3lkWDBCemZXTkpaSkxQR2ttTHBJT2NMNUQ1MFJlSkd0Sk4tLUpUc0x0NDhD?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789505684645",
+          "date": "2026-09-15",
+          "title": "Not Yamal nor Mbappé: Lothar Matthäus picks his Ballon d'Or favourite - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDVYbWJ5dUpFOWpOa0ZPSVJrNVpSdjJjOTR1cTZiU1QyZWxCc3hJWU83U3ZhWmsyMXQ3bXdHMVc2NXFWLXpRM0g3WUROYkg2cVBhdlVnblI3cDE1VjdBQW5CWkRtVU5XcnRhNVN6dU1kb0dtVDVENWM1Rk5oS0lNQmFWQUdKSXoxZ25pS3JKUmt5WEdtY05ua2FvYlpXS0dYT0FtQXJ1dkl0ZXE1dWhkUmRBdXJid2xB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6343,7 +6391,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 909,
+      "chapterCount": 912,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13616,6 +13664,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFFjTnRrcGZPUFphQlpUTG9lVUVjdC11bk5DTmpTeTBRMWRscEcySVZhOHJVYkdWb01jOUxQcHpHNjV6WGVmWFZ0b0F4X2I0U3hPSHNMV0FrUG1LU1A4N1IzYnI0OXlPNVpJekdyRFVUR3RManVYS2xMcVhlbXh0N2tkc3NaRXBwa240dFVWdlZKb3lRYWVQc2lPc3MzSGY4THpPdEpoQkVzWUNkV2ctTA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789505685178",
+          "date": "2026-09-15",
+          "title": "6 current NCAA student-athletes on USA Basketball at the 2026 FIBA 3x3 U23 World Cup - NCAA.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcTVlTzdOcnQxcUxyU25uT1oyb194NmZfMWw3OV9YRnVORFZldFVWdWxURnZpWEpUYVA2WTN2MkQtZ3V0ODFBY29EOTZwQjNwUnViRi1FYXJQYzluM3M3OVpTcmtGbmFXa1RYd0pDLW5mX0l0TllBSWhqMm1sWEZYalBXLWNaTVpwZmpkRkx6aER6Z3lZR3VIblJQakN2THFnU2ZIVExQR1RDVUE4cm1rMWdkMEd5RTBUR3hoQkpxQVVDWm1nS1NSd2htbml6VGVPNmfSAdcBQVVfeXFMTUstV012NjhNMklKN3V3QW9FekRReHRqMkZiU0hkdDNFb3FGTHBaYTBKYmYxc1Z3eUpuLXM2Y0NRbWpCdTl2UEJyMmt5Xzl0QjgwSzBWVGM5ams1dC1pOTc5ZHhqT2N3S0IwYXhjZ3hOOWFmbFNyTVNfd2pUYkh5Tm1MU0Q0T0NCRF96VjhCOVh6QkZ0Y08wVHBqdTgxS1pfNnRPOW1QOWIwRlBiUTJ5Qnk0SjU0TEhfZGhvanRPOWJZaFV2U3pHU0FoaUdvX1dhNUZucGVWbGs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789505685178",
+          "date": "2026-09-15",
+          "title": "5 questions for Mauricio Pochettino at USMNT camp: How September, October window paves way for 2030 cycle - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVdGZ0tOZUJKLTUwMl9HRTNfQU5XbFFxa2hZYjJlelRBSTRqTUJ0ampwamZvMW1fTV9lRENTUjBNN3JCT0h4VGhRNmxFdW9BR0NGTnRmRGhCY1czNkZUS2JELWd6R0F2c2NxMlVVOHc5NDgtSjh3YVZSbUFqWDZ6aTZYdEg3U1YyUmRPcEx5VQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789505685178",
+          "date": "2026-09-15",
+          "title": "USA Men and Women Set to Take on 2026 FIBA 3x3 U23 World Cup in Wuhan, China - USA Basketball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnJtYmt6R3g1TnRmS3VaWHJ6cEMzbExXUU1ROUtRcnVleVlzNGtENEFORzRtWmNJcWtxNks2dzM5UnByMlc2YjJISUpFNDhBNkM0QVVSUXFJaVpZMEZ4dVlFRVd4MzFOVTl5TVljYWFnYTYtYURfaU13VjM5R1I2TEo3MGI4WTRwNmxSOTVNejhjZkVTNV9qV0JPUFcwbHFTS3c2YVFVU3FVREdEWXc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13634,7 +13706,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 611,
+      "chapterCount": 613,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18523,6 +18595,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R2Q1JPOE9NVHpvNnRGTktnRmJlSmF5UXpqcXdKNDI5SWxHSFNIS3Nhd2Z5OEZFb04zVmFDYnJrSnk4d1BZSXZKbkUtSm1GbVpMcWp0SE9jZ25Vb0xrOVdBT21Idjc0MFhxOEtwVVVCY0FSOFk0a1JzemdFZk9wNE43OVBEdlNITVo5TTlmOXExMFNFdlZock5UdWNsbExUYUNkc3g0UEFwUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789505685808",
+          "date": "2026-09-15",
+          "title": "Sofia says Brazil are ready for USA test in U20 World Cup last 16 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3B6RU5td1RGWTNId3dkZTFNMU1vOHdNemNFOUQwaW01OHVRR0dFUk1FeUo5X212MmhXWlNhX1FlMV9aZldlTDY5ZU8xdjJBeXcxN1NJMlI5Slo3eU5LeUNwbW5SdFFVTzFON256MzVBbVZYUjVTaEEyUVdyXzZ0Z2xR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789505685808",
+          "date": "2026-09-15",
+          "title": "WBSC Women's Softball World Cup 2026: Play-Off match-ups confirmed; USA-China to play for Finals spot; Netherlands-Mexico face elimination - World Baseball Softball Confederation (WBSC)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBXcXR3SmY4eTBCamRZdEp0emlNWHNTVXFhaXgtVnREWnBXeG5SSjFyYll1Zk11NnlYLTZ5ZmRmOVJtX2YwQ2oxbGV5SUgydklZQ2FUakRpOHlpQzF5c05iaUM0eGhSWWNWSzlIdzdpWmVWbXB1cDZXcVQ1ZmRiY3RWUFBLbXpZNE92V1hEZmlNMFM2QTNhV0pVVEFJU2JmMzZYZ1ItbjlZVV9GMHc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18752,7 +18840,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 861,
+      "chapterCount": 865,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25640,6 +25728,38 @@
           "title": "England hoping Pietersen's experience will aid World Cup tilt - ICC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT1o1VTJuMGN5TzhzS0kwRnBweTRTZEtLTkx6Y3RfQVdzQUlzcW9EY2tsaTFqRGxERG9KdEpkZDhNVGJBbkVEY3ZJWWc3ZUdweFdJUE9wd2JsQ1BFb3VRSVo4eVZ1R0pyYWJGVkFoeWRkLURYclRDYVB6Qk1oMXBoRjM4RDM0RmMwZ0Z2UmlLdEVvOEFrQ0NQM3UzWlhjcnlmTFBiR1MzYm5pSl93SHMyLVA0NHdhdFg3ZFVRU2poM21sYUZiZGljajhxaVJzQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789505686566",
+          "date": "2026-09-15",
+          "title": "England’s Thomas Tuchel regrets not eating Azteca grass after World Cup win vs. Mexico - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2pjV0pIbmFyVGZBSmpVMjhHbV9Hb29ZMXhnQTBFWGI4R1ZpaXNKWnBIcVA4eDVOTEZMZTRxNWloNEpOdllSbVhWUnYwZWxkRlRhT3IweXNReVZpQTRIc09aOWt5S19hMzRDeWNUaW1Qa29ibzJmZDJKLWxKYmhaQlcwR0Z0UEJkTEp3VmI0MWlGOW9WRWJFRk9PSDNZZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789505686566",
+          "date": "2026-09-15",
+          "title": "FIFA World Cup did not lead to more metro Atlanta hotel use - WSB-TV",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEVjX0ZMMGlFWmpkMWhDU2J0MEZBQTdlbGM2NEgtNWxVSGU5V0l3cElyVnNYelNwTlMxQy1ZTHNIb1R6ZFFhVHNCQk53U21zQjdvUGNMNm02aEZNd0xVcnc4SnRGM2hjV1BvRXQzVFNnYzlLRDRyaXBuc25CYkZJR1N0bFQwNXhlY09ITUZMeHBaR190T0xCSmJPZ3F0bjFtaGtfNzlwbk9FdjZoYncxaTROS3pHMGczTDR3VDdTeHNQM1XSAdcBQVVfeXFMTlp3T2RlVzE0YjNjTU1XUFhPSXVKUGducEZreUxfb25MX2N0YmVSZEY4V2tmTXZyNUlLSE1jVXdYdV8zZ3BDLXEyT0dDakpJYzNpWENHZi1CbUx4TXQwdFQtM05pMlQxRkZtbGNyQWtMMlVtdnlsSGYzalU3bXFwYS1zaWJRd2sza29GUlFfODQ5M2FQeDh5WEtma1FCMDhHUnFTSEU1b2lWUXNrSkJXSTNXN1k1dnhCZkdiY3VEMEtOSVdzTC1Wa255eU9rUGY4Y2JpRVJuc1k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789505686566",
+          "date": "2026-09-15",
+          "title": "Tuchel reveals a strange secret from the night in Mexico: I still regret it - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVdQZnpiMWpQN21PY0NWOU1tQXNDNUNTTG96WFl2SkV5b2x3QTRjQkhLb3gwRk1OOFFjbTdLaExmbmt0OEcxWHBkTmxkNk5LSWpYQVpReWVSbzBMYzZJMWwxcXd6aWs5akZWRFhrVUZBZkRLa0h5UDYtZmlCTGIyS3MtSi1IOHpwSzlPbWVBY2JfWWZycXd6UDhCQWEyN3VsVERIUldhLUQyUFNHZXhyWGhOSVhpLXZmRzc4U2gxVzU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789505686566",
+          "date": "2026-09-15",
+          "title": "How to watch England vs Sri Lanka T20I 2026 live: Start time, TV channels and streaming details for ENG vs SL series - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnc2OWhTNW9rQlhON2RMRmRlYWI4NGJiRWtPRXdtRVhielVacFJTM0ExSC1YY0gzT0MtdEEzUmswWU03WlFhZTdkLTlKMXRURTdJaWpZNU9vWGNseGFielZZVjF0a3c3Sjhva3lHdXAzM05qeU5HZ19TZmhZV1doQw?oc=5",
           "draft": true
         }
       ]

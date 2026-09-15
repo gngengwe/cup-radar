@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-15T16:23:16.253Z",
+  "lastUpdated": "2026-09-15T20:54:43.255Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-did-not-lead-to-more-metr-2026-09-15",
+      "headline": "FIFA World Cup did not lead to more metro Atlanta hotel use - WSB-TV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEVjX0ZMMGlFWmpkMWhDU2J0MEZBQTdlbGM2NEgtNWxVSGU5V0l3cElyVnNYelNwTlMxQy1ZTHNIb1R6ZFFhVHNCQk53U21zQjdvUGNMNm02aEZNd0xVcnc4SnRGM2hjV1BvRXQzVFNnYzlLRDRyaXBuc25CYkZJR1N0bFQwNXhlY09ITUZMeHBaR190T0xCSmJPZ3F0bjFtaGtfNzlwbk9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEVjX0ZMMGlFWmpkMWhDU2J0MEZBQTdlbGM2NEgtNWxVSGU5V0l3cElyVnNYelNwTlMxQy1ZTHNIb1R6ZFFhVHNCQk53U21zQjdvUGNMNm02aEZNd0xVcnc4SnRGM2hjV1BvRXQzVFNnYzlLRDRyaXBuc25CYkZJR1N0bFQwNXhlY09ITUZMeHBaR190T0xCSmJPZ3F0bjFtaGtfNzlwbk9FdjZoYncxaTROS3pHMGczTDR3VDdTeHNQM1XSAdcBQVVfeXFMTlp3T2RlVzE0YjNjTU1XUFhPSXVKUGducEZreUxfb25MX2N0YmVSZEY4V2tmTXZyNUlLSE1jVXdYdV8zZ3BDLXEyT0dDakpJYzNpWENHZi1CbUx4TXQwdFQtM05pMlQxRkZtbGNyQWtMMlVtdnlsSGYzalU3bXFwYS1zaWJRd2sza29GUlFfODQ5M2FQeDh5WEtma1FCMDhHUnFTSEU1b2lWUXNrSkJXSTNXN1k1dnhCZkdiY3VEMEtOSVdzTC1Wa255eU9rUGY4Y2JpRVJuc1k?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
+      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-preview-usa-to-face-brazil-in-2026-fifa--2026-09-15",
       "headline": "PREVIEW: USA to face Brazil in 2026 FIFA U-20 Women’s World Cup Round of 16 - SoccerWire",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-06",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnJ4aFgxbDhreWdFd1hBWGlUaDl5VXRnVVZheUZBbGN2NkJuM0xydm9XeUR1TmtBQ2l1b01vLXJyeU54RGlfajFFbHBocFpFeE1qUDE4d1RrTXM2UjZvOGZoN0wwQlllanFkM1VCakZJVmRhY3FqNWhvVy11TzRfYWJYQ1RnbVl2M1RhclE4dmd4N2VwQnNiUFlB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
-      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-didn-t-grass-from-world-cup-stay-at--2026-08-17",
-      "headline": "Why didn’t grass from World Cup stay at Lumen Field? Blame unique Seattle circumstance - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTB",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-08-17",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjh2YzgzNk1lTU1UamhyQ3FfM2owcGNOTEk4NkJvMmYtbXdFcWVNVlRfUGhRUVZfTVpkeFNQbFJ0eHRFOVB1aGVTNHNQdktveUFNeF9zTlhJdHVrNjVxT3NPLXFhYzFCT1hLd2M4NUFtMnZOMmFiQW5sZUh1MXdGbU9maC1PSkp2TXRGdzlfTUlpN3I5aEpYN1F2QjV5bWNieUJSRTZGUTByUzJZX0pEVDBn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-caitlin-clark-usa-vs-italy--2026-09-06",
-      "headline": "How to watch Caitlin Clark, USA vs. Italy in FIBA World Cup today - Hawk Central",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEpNakc3dEY2OUFhTEJLaUFlVEduOGZWVVFWb2hiQjNDR2FXQjFEdUtRRUNTem5yZzdHWURVTWhnTW9iczFhel93aHhVSGJUUDFJWWRaUjg1LXpvSVFtUUtoTkRoT0pmNWY0cUg3cmRVb1hJWENkc3lzejl6Qy1HWHUwMWhzdUJyTnpWWTE1alJUbHZHQWRVbF9ZWFl2aFQ1ZThhb1dQSDU",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-06",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEpNakc3dEY2OUFhTEJLaUFlVEduOGZWVVFWb2hiQjNDR2FXQjFEdUtRRUNTem5yZzdHWURVTWhnTW9iczFhel93aHhVSGJUUDFJWWRaUjg1LXpvSVFtUUtoTkRoT0pmNWY0cUg3cmRVb1hJWENkc3lzejl6Qy1HWHUwMWhzdUJyTnpWWTE1alJUbHZHQWRVbF9ZWFl2aFQ1ZThhb1dQSDU0T05XSlFueWZUZnEzNWZZZ1Q0VXVURDUwYTJsdHJ5LXBpeTJ0d0xKSGpKNVdLQ0g0MEJyeE85SGx6ZzFsSE9qRFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-the-2026-world-cup-finals-w-2026-07-19",
-      "headline": "How to Watch the 2026 World Cup Finals - WIRED",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5\" target=\"_blank\"&gt;How to Watch the 2026 Wor",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZk1wc2ZkQ2VFb1Z4bGpla3Y3WnhfRXZkRzhCNnJnSHdoal82ZHREZmNreFUzbGFsS2xyRUl1b3BseS1yZFFQYnotMDBnd1JqYlZ1WGY2cFJ5Q2t0cFNYZFBfdHRnd1pvd0dKbzAtTGl3ZGtjamFzcjFOMktrTlc2dHl3?oc=5",
       "featured": false,
       "draft": true
     }
