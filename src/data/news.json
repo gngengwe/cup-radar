@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-15T03:39:30.173Z",
+  "lastUpdated": "2026-09-15T11:12:35.039Z",
   "articles": [
+    {
+      "id": "news-auto-grading-bafana-bafana-players-overseas-m-2026-09-15",
+      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1VJcm9zN3M5YTZNUm9FOGhsdXFNWm5LZV9oaTdka0FnT25GVjJaMzVrcl9xMmhxSHQ5SXBhN2J2TExselBJNmhrSkx1aktDVHlSamNfRGg4YjdONkFRREExS3Vvdlo3a2xsNVlRc2hpX1FOX2N1Wmg3LVdncGVIM2ducG1wRzU0RUxaZUVjWHAyeHZZaHExX1VpT0VOTk1GdkZvTDJJNFM",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1VJcm9zN3M5YTZNUm9FOGhsdXFNWm5LZV9oaTdka0FnT25GVjJaMzVrcl9xMmhxSHQ5SXBhN2J2TExselBJNmhrSkx1aktDVHlSamNfRGg4YjdONkFRREExS3Vvdlo3a2xsNVlRc2hpX1FOX2N1Wmg3LVdncGVIM2ducG1wRzU0RUxaZUVjWHAyeHZZaHExX1VpT0VOTk1GdkZvTDJJNFM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
+      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-june-15-21-2-2026-06-15",
+      "headline": "Sporting KC Weekly Schedule: June 15-21, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmlGUF9kbFJuVTA4RU4wQUo0dE5KZmxsdXgxRkY5dDlNeG9SQmhDdUxYS2REWU5pZkJOSkRyWVRiMTRocXJnOExqLUxsdG1sNGQ2VkZZTVlrTWhhVWNDZjdaRnNiM24wZU04NnI2S24zRjN6NnZ2RUJidFJwTkRqSDNvaWkyTC1E?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmlGUF9kbFJuVTA4RU4wQUo0dE5KZmxsdXgxRkY5dDlNeG9SQmhDdUxYS2REWU5pZkJOSkRyWVRiMTRocXJnOExqLUxsdG1sNGQ2VkZZTVlrTWhhVWNDZjdaRnNiM24wZU04NnI2S24zRjN6NnZ2RUJidFJwTkRqSDNvaWkyTC1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-and-switzerland-each-chase-his-2026-07-11",
+      "headline": "Argentina and Switzerland Each Chase History in Kansas City’s FIFA World Cup 2026™ Finale - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzVYbWc3aDAwOU4tSktBYS02NkNmMkhJTjFaR21HaVkxRHZQT09wMlduWTkwVmpTNXV2cWhRYnIzMzNXLXZxei1xM1gxOXpYU0sxd3ZKQTJHdm9TN180X00xTWJ3Y19BRGxHSTJ1RFNMdU1BUUpUQ3BDc3NRdXYxaU5tcXZHRWJvSkQwVXB2Qld4U2d6TC1aeWZBMmZQNGhUQU0tM21kNWN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzVYbWc3aDAwOU4tSktBYS02NkNmMkhJTjFaR21HaVkxRHZQT09wMlduWTkwVmpTNXV2cWhRYnIzMzNXLXZxei1xM1gxOXpYU0sxd3ZKQTJHdm9TN180X00xTWJ3Y19BRGxHSTJ1RFNMdU1BUUpUQ3BDc3NRdXYxaU5tcXZHRWJvSkQwVXB2Qld4U2d6TC1aeWZBMmZQNGhUQU0tM21kNWNvX0FVNTh1Sm0yX3YyVGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-us-stadiums-switch-to-grass-for-fifa-wor-2026-08-31",
+      "headline": "US stadiums switch to grass for FIFA World Cup 2026 - Central Oregon Daily",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ0NCQVpzdVo0N0tRRlpIcXhSRnM3S01jTDI0ZU5nVEVaRGR2UnozX1FoZHFsQ2RiRjVWNEdnRFhBM2Z0TGZjSWlxSFd4QXM2WUl0Q3J4d3VUWnZObFFtZmRRVm9OdS1zbHI4X0ZlSERtaDVFcXVYRnhPU2NGZjdkQ1d5LWp1SC1LUnYtNGxvcnFlcGY5RXk2algzVVhRWEpSUWM1bTlaT1R",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ0NCQVpzdVo0N0tRRlpIcXhSRnM3S01jTDI0ZU5nVEVaRGR2UnozX1FoZHFsQ2RiRjVWNEdnRFhBM2Z0TGZjSWlxSFd4QXM2WUl0Q3J4d3VUWnZObFFtZmRRVm9OdS1zbHI4X0ZlSERtaDVFcXVYRnhPU2NGZjdkQ1d5LWp1SC1LUnYtNGxvcnFlcGY5RXk2algzVVhRWEpSUWM1bTlaT1RnQUNxUmhGSkFvTUM5dnhGTmNucDZiNGRCMmxjeVdoSlBKMGJzTEhRNUJKZFdfTjNYeUk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-estadio-akron-receives-commemorative-pla-2026-09-14",
       "headline": "Estadio AKRON Receives Commemorative Plaque for the 2026 FIFA World Cup - Yahoo Sports",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-06",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-arrowhead-stadium-transforms-into-kansas-2026-05-11",
-      "headline": "Arrowhead Stadium transforms into ‘Kansas City Stadium’ for 2026 FIFA World Cup - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-05-11",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3J5Tml4V2lKM2RZWFVwbjNYa2RLemZwM1ZDSml2TVVxYjM0dF80ZGNDbGIwWFBMNjh4djBFREVpVzZTb0JCOW54YUtBV0owdlB3MWhzTG9QWm15NjRPaEkySk1iTExQQnpBVDdGQ3hlTlRHSFVXYVJ1U2xxX1ZEclpyNWE1YTVfSVJxTlplSXQzUHNWZ1hZZVdENlEtY2NRZHRDU3U1NXlGRFnSAb8BQVVfeXFMT01NMXZHYzk5RGxCYU5sYXhjWXZzX09CeDlTYjJ3bzA3dV9na2t1RTNkWmdlbnZVcXpEREk2R2ZkRXNUdFNjMTZacnFSRVpBdi1oOGFxWDRFS0R5a1J2ck9sekdGcktzRE1OdDlxYXNCWTM2UGtzSWV1T2tfZ2xkWTh6RkNISEpSOTJXWGFQNklZY1NKLWVIZklQUXhnQ1pVMk0zRmw0aklXclZrM3dVRmJYSFlYMHBiMjNCTnh6VWs?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
-      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-the-3-billion-arrowhead-stadium-k-2026-09-05",
-      "headline": "Inside The $3 Billion Arrowhead Stadium: Kansas City's 2026 World Cup Venue Evan Mobley (G4gqYmI52F) - mshale.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1T2Y5Z3V1MDZIS0NDaWhydWw4UFVVNk9EbDJqODROMG81MndleUxNZVA1dU52RGRMakZIbmxCdWt3akR6ZE1yTGlCTTNKMXVvdVFBTk5tWDNlWU0?oc=5\" target=\"_blank\"&gt;Inside The $3 Billion Arrowhead Stadium: Kansas City's 2026 World Cup Venue Ev",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-05",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1T2Y5Z3V1MDZIS0NDaWhydWw4UFVVNk9EbDJqODROMG81MndleUxNZVA1dU52RGRMakZIbmxCdWt3akR6ZE1yTGlCTTNKMXVvdVFBTk5tWDNlWU0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-to-mls-12-summer-signings-you--2026-09-06",
-      "headline": "World Cup to MLS: 12 summer signings you need to know - MLSsoccer.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXh1cWhZOG9XZi0wcVNwVGVOWkFidGVneHA3MmtnRW5BbG9WbldGSkROTGZSYzFHSk9HN2NCa3hOZVpZalozb19DZmVkN1VWMUZLNVphX3NybHVibllydXJfTjJlNWtBdVpCZVZkSmw0Y2dTWXoyOEF1a3A2V1VYMTNxTGJHOWZPSzI4?oc=5\" target=\"_blank\"&gt;World Cup to ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-06",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXh1cWhZOG9XZi0wcVNwVGVOWkFidGVneHA3MmtnRW5BbG9WbldGSkROTGZSYzFHSk9HN2NCa3hOZVpZalozb19DZmVkN1VWMUZLNVphX3NybHVibllydXJfTjJlNWtBdVpCZVZkSmw0Y2dTWXoyOEF1a3A2V1VYMTNxTGJHOWZPSzI4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
       "featured": false,
       "draft": true
     }
