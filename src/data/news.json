@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-16T20:55:45.332Z",
+  "lastUpdated": "2026-09-16T23:33:52.469Z",
   "articles": [
+    {
+      "id": "news-auto-usmnt-roster-for-september-october-2026--2026-09-16",
+      "headline": "USMNT roster for September, October 2026: Projected list for games vs. Peru, Chile, Mexico, and Canada - sportingnews.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMF9mbUx5dmxYU3F2UU91X3lnc1JfSF9NQlB3YlNNTFBIWWg5ZFNGS08wTWxCQmh5TEQ2YzlBX0VnUzdibE85cU9FVkk4Y2tqYkxrdjZINlM5RlBMWDVPSnU1eDV4dTR5ajFrSGloSno4a1Ffd28zd3g0a0Jjcjlhd1M4N2VreHBTb1I1aDBCa1JqOV9ic2M5eDhRcGFUeUlwQzB6enV0SWJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-16",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMF9mbUx5dmxYU3F2UU91X3lnc1JfSF9NQlB3YlNNTFBIWWg5ZFNGS08wTWxCQmh5TEQ2YzlBX0VnUzdibE85cU9FVkk4Y2tqYkxrdjZINlM5RlBMWDVPSnU1eDV4dTR5ajFrSGloSno4a1Ffd28zd3g0a0Jjcjlhd1M4N2VreHBTb1I1aDBCa1JqOV9ic2M5eDhRcGFUeUlwQzB6enV0SWJtYndhT29yTkdGMFc4amVNWUM4ZmZjZnRRU0lHSld1eQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-under-20-women-s-national-team-falls-2026-09-16",
       "headline": "U.S. Under-20 Women’s National Team Falls to Brazil in Penalty Kicks in Round of 16 at the 2026 FIFA U-20 Women’s World Cup - U.S. Soccer",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-09",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQelBlMEsxaGZnbU5vdlpPMjNxU1RpRTNWallsRGoyTTdzbEl6VkhYcVlzN1EtR0RxSzAzbmRqbl9oa2s5RHFraGhUaGtiYWpHWlhvNVJTSHloVHU4ckV2TENUdkxSNlFzd0szVXRSNXVjellJYnE0emg0cFozdk0wQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ballon-d-or-2026-nominees-kane-mbapp-and-2026-09-08",
-      "headline": "Ballon d'Or 2026 Nominees: Kane, Mbappé And Yamal Headline 30-Man Shortlist - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNazgwM2xNM0laRHJVcjJZOWxNQ2FlcndhMU1rMkRiOFNkYVlkcUNDcFpDamkwVkRRRk8xbU9JeWVrT2VTUFlOdTVFZ0Zua3I1QWphQTNlYmo0VnM3aWhrTHlhNjhZck9kaU5sYkxDLUFtSnVFNHU4SkxISTNFM3hSQm9IZnA4Y2lqWGVIV2JXNjlGaVhFbmRtRWJCVE85UEZReXF4c0xSNF8",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-08",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazgwM2xNM0laRHJVcjJZOWxNQ2FlcndhMU1rMkRiOFNkYVlkcUNDcFpDamkwVkRRRk8xbU9JeWVrT2VTUFlOdTVFZ0Zua3I1QWphQTNlYmo0VnM3aWhrTHlhNjhZck9kaU5sYkxDLUFtSnVFNHU4SkxISTNFM3hSQm9IZnA4Y2lqWGVIV2JXNjlGaVhFbmRtRWJCVE85UEZReXF4c0xSNF8tSjVhUnfSAa4BQVVfeXFMTllMbF9UNUdGc3Z6TFY3VzZVaXRDNnY1Q0xvaTBGNVg0LUlnRGtjZUJERm9Bb0FFNHJKMFRBZkMxZm9yV25VRGZtbk1YSi1pQ0c4MmNEcjJmM2VUelFoc3NlQ1FyZmFtVm5UNXR5ZnZyVHc4a3dxV0h0dUFPd3hBVjJFYklLaV9BaFNDVU5DeGFRUUFMYk1qOTFmOS1FQWJVeVBJc0w2QlgxNWJzZEdB?oc=5",
       "featured": false,
       "draft": true
     }
