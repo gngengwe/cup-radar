@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-16T10:55:58.842Z",
+  "lastUpdated": "2026-09-16T16:14:47.656Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -13794,7 +13794,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 616,
+      "chapterCount": 618,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18723,6 +18723,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ2tZTlcxV1Y5bzBLd0FyQ1hLZEFlLThSLXlmRnpHZWM4OGx5ZS1uSF83LVFadjREOHlNUXRnZ3FERjZxVHMtU3lEcWMtSEpScHJVVWxQeDZjZGdCU0hPRU1wMjVnZ2J0QlBBLXhDYkJYZ1VZY2VTLTF5NnY2eWhpZktmLUJ2ajVRUFU1VGVudHdqRlZVSVZZVl9OQkhacWhHNE55Y1lpX2VhWDBtUmlucWdqbDEzWUhJbVVRUWIzckVWb0F5a3dGWm1QWVA4aGhleHlicVA3NW1walFGdzE4dGN4UUpwYXpxYjcyM2JZU2ZXUdIB9wFBVV95cUxOVl9vR0FzVFZzTklFelNkMkhjRlZvdkxjR051NGFnYkRYYXMzbGtKNVEyZFJEeGJlVzM1LXlfMURQS3MtdG0xTDNQMl8wcmtrajloWHZLTGcxNXZnQW1qMUhrMXdCYS1MbFc1ajlOZDdnWUxINDNzQWpiRU9UR1dtNDFJU3pSbmVDZkVDWmdwbUlnbDdNdkY5N0FRUWlaZnRudDlnQTZRVktYRmxzbGRXdV9TUlB2TFo0aDNqbXZkMnpuQ2JSSnVMNUtUNGExNmo1WUhrNUg1SlhUZjhHc2ptWDhfQnRHWjNvQkN6c2FKX2gtNVNPV3Bz?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789575287008",
+          "date": "2026-09-15",
+          "title": "USA vs. Brazil - Live Score, Lineups & Match Hub - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORnlxcXFON2tnQk1ZVWRqYTdRMlZGUnhGa1ZCcVJDNmNvX1RTTFRaUUdxcE04b1Fhb1VRRmZVRFRSdkJ4R0x5TmJvYjNnOXphY1QxRzAxVVh0Y2x1T18wa1Q4cXBjTjg2YllTTXZDcmN6NW8yanZyd3lFaHEySWItRXp2MUJTNzluTEEzVDg3bk1Vd2haZjFCdF9fQ01LbnZMUjQ2MlVvQTI1MzVjOTRlWWFDeW9CZ1hTbzBxeS1iZHZEZXpURVdLSlp2VmZndFFPcFg4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789575287008",
+          "date": "2026-09-15",
+          "title": "Alex Morgan, Crystal Dunn, Marta among players calling for FIFA to move U-20 Women’s World Cup - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18952,7 +18968,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 869,
+      "chapterCount": 870,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25904,6 +25920,14 @@
           "title": "Thomas Tuchel: England boss regrets not eating Azteca turf after World Cup win in Mexico - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydFVuSDdMLTRocThJRFBqakF4N0V3aC1LMGJ0V3Q1N2dkcEVhRHBFM201b2lVMnB0ejEwRGI2V1JPbDJPRktXVUZIV0NtNFdWOEYtUGotSjM1SmNGclBCVzJZa1Jka0hO?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789575287656",
+          "date": "2026-09-16",
+          "title": "Thomas Tuchel pinpoints World Cup regret after England boss looks ahead to Euros - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWElGQzJQaDcyTW80Zk1RNGRYeWRiaGZKd1BXYnR4MHNpRjYtZk5JeEdrSW9UMHZBaGd1Q0M5LXZEWGZyTUJINGJUMTRtY2x6WmlxNlhPT3FDT1dIbVRqLW1BODVmdUdVb2U3M2wyV2VVRHBWamE1NlJxUzhTYW1oNE5fRHo4cnh3THc?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-16T10:55:55.650Z",
+  "lastUpdated": "2026-09-16T16:14:44.164Z",
   "articles": [
+    {
+      "id": "news-auto-grading-bafana-bafana-players-overseas-m-2026-09-15",
+      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmlMU0JjeTh3akxYQmltRmdLXzdMWG9MS1YwRzJvMHJzbEVmaGl1eHpVVkNsWURRU2RzcE1nZi1USEpzd0RWNjBBaFV2cXZaUFBhTWN2RUtzbmw5SE4zSEl2TzljMFhGUmlmLTJ2MVJpbHpRUGtSeUpVdVFNaFRpMDdTX05kMm9nWWJBU2xYVU9MQjd0Tmp1S0ZWZ29PNU1WamZrM0M2UlJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmlMU0JjeTh3akxYQmltRmdLXzdMWG9MS1YwRzJvMHJzbEVmaGl1eHpVVkNsWURRU2RzcE1nZi1USEpzd0RWNjBBaFV2cXZaUFBhTWN2RUtzbmw5SE4zSEl2TzljMFhGUmlmLTJ2MVJpbHpRUGtSeUpVdVFNaFRpMDdTX05kMm9nWWJBU2xYVU9MQjd0Tmp1S0ZWZ29PNU1WamZrM0M2UlJZb3pj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-preparations-aside-kc-world-cup-was-quie-2026-09-16",
+      "headline": "Preparations Aside, KC World Cup was Quiet for Hospitals, Police - flatlandkc.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmN5RHp3d0h0UXdJVXFuQmtLZVBzQTlkSW9FdHRPTXRRQzMxRWJrX3A3dXEweHBVV05xRmg0eXo2UmFBNVNkajl5dkhyUmRlcHJEbC0xR3ZfN1VCLU41dEVDQmdYYXBkRzdmTmxRUlRGQlNWUU9IeXJsU2l2LVA3VzdrSTV4cE56UVYwNG0yVFdWQ0VlUmZn?oc=5\" target=\"_blank\"&",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-16",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmN5RHp3d0h0UXdJVXFuQmtLZVBzQTlkSW9FdHRPTXRRQzMxRWJrX3A3dXEweHBVV05xRmg0eXo2UmFBNVNkajl5dkhyUmRlcHJEbC0xR3ZfN1VCLU41dEVDQmdYYXBkRzdmTmxRUlRGQlNWUU9IeXJsU2l2LVA3VzdrSTV4cE56UVYwNG0yVFdWQ0VlUmZn?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-canmnt-squad-named-for-september-october-2026-09-15",
       "headline": "CANMNT Squad Named for September-October International Window Following Historic FIFA World Cup 26™ - Canada Soccer Pressroom",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-08",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTnRCbUV1bUUwc3ZRZWZWWk02b194S29NUm80UzgxYU5fd1NaalB1bGxnaU12RGJZTnFvZjUyY3Y3TUR5VWhTVFVFNlU4ZW1iNTh2ZWF0N1lfOXVsV014UFpuc0dDSnAwUXFfTFo2QTlSVWxWVnJfTA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-was-supposed-to-super-2026-09-08",
-      "headline": "The 2026 World Cup Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story - ttownmedia.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxORl9fb2FGbl8zcGE5bG1ub0Frcm5uSk12WDVBaGpQNUZlcktrd0ZqOHpWaDBHMjZlNzd3VzZXOWVtRnNpejI3eThDNTVsRERkVlh3eHUyNzFBT1ZqRnY2SUlSWEZoRzEwN1hyaHM5eUVDeDRxamFMb09rY1RsQS1yT1V4ejZQT21WdmF4RFNBYkMxTFdJNzFrMV9IOGROQ2ZnbXJFTzloOFV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-08",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORl9fb2FGbl8zcGE5bG1ub0Frcm5uSk12WDVBaGpQNUZlcktrd0ZqOHpWaDBHMjZlNzd3VzZXOWVtRnNpejI3eThDNTVsRERkVlh3eHUyNzFBT1ZqRnY2SUlSWEZoRzEwN1hyaHM5eUVDeDRxamFMb09rY1RsQS1yT1V4ejZQT21WdmF4RFNBYkMxTFdJNzFrMV9IOGROQ2ZnbXJFTzloOFVFV1R5ZGdyZFJ1empmNWoyU1FnTnZQc055RDJhVm1ka0lnNTcweThRZWlwS0o0aGt3NEdWakI0ZjR1LXpXbnFHdDRIWVRWeTFWd0ZHS3U1U1p5ZWIxVlJtbXVN?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-haaland-shows-off-star-studded-world-cup-2026-09-08",
-      "headline": "Haaland shows off star studded World Cup jersey collection - MARCA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPa04wd3dnM1YxMDBpMEtRdW9ySWo5VkQxSXphNUpwbk84Rjd6ZE9MRjdmSGNzTFNraWJCOEw5RDNEX2NzZzBUUUdTNktnbUw3ZTJtQ1czTEw1aVIzaXY3QnBBVzZiMnY3XzVKWGRkN2xtdEY2M1BORG1NV2Z6N1VUOTRPWXNuVURVVXZJQndwcmpDTEhQVjNHdVNJaHNraUVZbTY2aXViTmM",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-08",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa04wd3dnM1YxMDBpMEtRdW9ySWo5VkQxSXphNUpwbk84Rjd6ZE9MRjdmSGNzTFNraWJCOEw5RDNEX2NzZzBUUUdTNktnbUw3ZTJtQ1czTEw1aVIzaXY3QnBBVzZiMnY3XzVKWGRkN2xtdEY2M1BORG1NV2Z6N1VUOTRPWXNuVURVVXZJQndwcmpDTEhQVjNHdVNJaHNraUVZbTY2aXViTmMyNlItcmVKcjFaODDSAbQBQVVfeXFMTVJ2NXVJN3lkTU1OOHN2SVFybFNWallZc0NmYmNlaGRLdW1yTzlCcXpRU0VHc1dBaHIzQzE0OGJIbmRYN3pkcGVlbGFUUFlGVEM3VV92OGhYbHdSSDVJZEJidHdUOTgtRGxwcWpxS3NvWktEWGQ5bU5zaERKcTFHaWgtb29OR0V0ZHFWeGdRUHZuWnRnMHlRTklNdHRuWlcxR3ZCTHluR3Yta1Awc2R6cEVhRnBQ?oc=5",
       "featured": false,
       "draft": true
     }
