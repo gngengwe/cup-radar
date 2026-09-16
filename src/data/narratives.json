@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-16T03:36:10.459Z",
+  "lastUpdated": "2026-09-16T10:55:58.842Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 437,
+      "chapterCount": 439,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3514,6 +3514,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHBWWjJEbHV1SDJnb0syMlJ4SmFYb1JoNTFoYTBtSHBUM1F2amJfalZSRlA0bWRqUlVrY0FBS0luU2I0eHpGUlVydFVIOXd6eXpCZ0xoSWtzV3FfX3BKdGt4WXNEV05wRXMyaW16UDNBWlVweTYwRF9ESDNPVDB5ZFo1TDRfYkEzUW1rbGpwakNqLWM4NkF0Sm9ERFRzdTFRZGlKOGpGZ1FqYnpBM2fSAa4BQVVfeXFMT05aSzlYYVFwcFZkRmZfZDU4eTdtR05kbVpqbkNzZXk4N0JSbExDTVpUZ01INVRITUpQWmxIemhCTkFwQi1VeGhCaDk2akFpQm5HLVcxV0ZYSk1LcWVnRThid2V3bDJXTWtxbkpwU2tHNk55NHI5aEpEMHRNdEpQWGdsLUhPeGtqN2ZfUTNnNC1oZmZJbjNsME1uNWZmVUxJT2tmSDZTTnpramhhZEl3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789556156174",
+          "date": "2026-09-16",
+          "title": "Lionel Messi set for Argentina farewell in October 6 friendly against Benin - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXZYbGhobTh6bGJ0Sl9kX1N6RE9zNENFczY1MXdseVQxX1NRdlVILUNGeDBSNE1pREl0TDM5UUtreU9mUjlrOS1FSS1OdWNpZHd4YTZOT25qR05wY1ZoS3piRWNHQmVXM01hNlBISUZDQ0g4OTJmYzBHQTRsU3BPTTF6RjUtLWc3VjlEQy0yanhrM3JRVXA5Y2pHcUk5al82a09uWEF6YS0tRjJSQ25oTkxJZTPSAboBQVVfeXFMT09vRnBBYnJ4dHBZVkdGam93TTZURTFpNEcwa0JTTE9JWjB0TnYxSktQQ2ljbFRkSGRFUkZiSXk4N1VtZS00RkFONDl6THExYW1RZzRIZGMySU5hLWVYZUlCbm9qQndhWFdVbElNWjFuYVczM1hQSXVvc1B0UGlZejVmQ1JacDAxQWxmSjRJSzdCRlRXeGtiQ1VBMUVzWGEwOTJMR19hQVc1NFVwdndtT1JVMW9pOVk1WmZn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789556156174",
+          "date": "2026-09-15",
+          "title": "Lionel Messi named in Argentina squad for farewell match after international retirement - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0E4WnBGaUtCUlZHSTluM2FmTDIyOVZTUGI5WUpEenFSbDc2UzBTOE1WRnRGRV8yQ1V3T25adEo2OUEyNTZPRl91eU9BRHNSMU5uZFkxckgwT2V3U3VvWFhzNUpsMENtRDM4bVZIV0VVckctOVhBSERvNzI2ZzFnRjAtVjY3U21ISWxR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6439,7 +6455,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 914,
+      "chapterCount": 915,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13752,6 +13768,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXBXcXR3SmY4eTBCamRZdEp0emlNWHNTVXFhaXgtVnREWnBXeG5SSjFyYll1Zk11NnlYLTZ5ZmRmOVJtX2YwQ2oxbGV5SUgydklZQ2FUakRpOHlpQzF5c05iaUM0eGhSWWNWSzlIdzdpWmVWbXB1cDZXcVQ1ZmRiY3RWUFBLbXpZNE92V1hEZmlNMFM2QTNhV0pVVEFJU2JmMzZYZ1ItbjlZVV9GMHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789556157570",
+          "date": "2026-09-16",
+          "title": "For USMNT’s World Cup core, UEFA Europa League is a common denominator - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNG1YSG1JMDJHSDc5WURydVBsZGN1VVJEOTFnN1Z0U0FlX0xlcWwtQUR3eWR4Rzc4SUdlY1piVU5qc1lFZDZ0MXQxcFk2a3lpeFhrZDNNaUNaUkVXcUNGSmFzcWJkaTh2ZWpmQWNZeUVwR3p4MnRfZzhIQVFZUkFkTDg2MFVlTEhlTjBaMFJudTBDUEh6UjF6Wmc1TjhadllxaThZNUgwenktR3dGazZVU2FjNUI1blRL?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13770,7 +13794,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 615,
+      "chapterCount": 616,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18691,6 +18715,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUDJlTDdIYUVzT1EwNmJoeXNnRXdvS29iNGVoQmt0d21aVlVlYjlzQUlBSDBwRFA2bFFJOERwZlhpUnJ6UC1WRWdIRmdJSC01c2JleXFJcHdwYWtVT1ZiLWdPalZXeEt4WnZlX1hucGZMOHNNaUJFeEtZSUR6R3VfTnFyN0pmMHJ6WEF0XzN2Y3dIYzlhME5IX19zaGhMNzZMd1A4YS1iVTJxZklYLWc4WGd6TUZ3aFZzUjJXRFc2RnBhWFNzNjl6X0NDQ3daUk9iVE0xdTBKZFhQQkw3bkhOM1dfQ00zUnFkR3FabXk3SdIB8wFBVV95cUxNcHZOQWd2dnRiZTc5U3BEUkN5YXVMWGhPX2FfN0NidTJycG1yRFJzS0JwdkpNY0ZzLXg4eVppdm9kRjJsUFlUeTFJNl9Oc1JJaG5FTmt6dnRDMFM2d2dZcEtlcU9XNXNqM2plbGE1ZzY5dVl5Y0J5aWljWnZwMnV3enBRSm5EY2hhanZONUFrd0M1Y1c5b1g2MmRsY2JjWWxuT0JnUnV6VzNnWEJ1MDBpWUdsWk82dlN3blNCcmwtN08xODRTdlhQVE9ja2ZObUxwc0FFNGlrN21RQkprUnlKSWo3U1YtSXBBaFpzTDR0LXZzTnM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789556158236",
+          "date": "2026-09-16",
+          "title": "Brazil U20 vs USA U20: How to watch, Live Stream, TV Channel and Time for FIFA U-20 Women’s World Cup game ... - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ2tZTlcxV1Y5bzBLd0FyQ1hLZEFlLThSLXlmRnpHZWM4OGx5ZS1uSF83LVFadjREOHlNUXRnZ3FERjZxVHMtU3lEcWMtSEpScHJVVWxQeDZjZGdCU0hPRU1wMjVnZ2J0QlBBLXhDYkJYZ1VZY2VTLTF5NnY2eWhpZktmLUJ2ajVRUFU1VGVudHdqRlZVSVZZVl9OQkhacWhHNE55Y1lpX2VhWDBtUmlucWdqbDEzWUhJbVVRUWIzckVWb0F5a3dGWm1QWVA4aGhleHlicVA3NW1walFGdzE4dGN4UUpwYXpxYjcyM2JZU2ZXUdIB9wFBVV95cUxOVl9vR0FzVFZzTklFelNkMkhjRlZvdkxjR051NGFnYkRYYXMzbGtKNVEyZFJEeGJlVzM1LXlfMURQS3MtdG0xTDNQMl8wcmtrajloWHZLTGcxNXZnQW1qMUhrMXdCYS1MbFc1ajlOZDdnWUxINDNzQWpiRU9UR1dtNDFJU3pSbmVDZkVDWmdwbUlnbDdNdkY5N0FRUWlaZnRudDlnQTZRVktYRmxzbGRXdV9TUlB2TFo0aDNqbXZkMnpuQ2JSSnVMNUtUNGExNmo1WUhrNUg1SlhUZjhHc2ptWDhfQnRHWjNvQkN6c2FKX2gtNVNPV3Bz?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18920,7 +18952,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 867,
+      "chapterCount": 869,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25856,6 +25888,22 @@
           "title": "Tuchel admits he wanted to 'eat grass' after England's World Cup win in Mexico - Flashscore.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1Z1OTZ1T0lvX1dTZXozWUFHYWpDLUJWOGdoZll2VGxoSTFybkV1NHBWWnc3NXlSdVpHZm1KanpxbDR6MV9TYWVSUkRNYVlPZXZON2Y3N21HVGJESm9LZEcwei1VSERNTHNaelhPeVFzT18zS1RLcTVtWm1uR3J6NWg4ekNvcGpYcFFVLVFnOVIxTnVjdE81NjNTWS03SWRqY1pnV0VoM3o4UXN6XzJUNTQxdEdHbEZYaEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789556158842",
+          "date": "2026-09-16",
+          "title": "Tuchel: World Cup made England feel like my players - beinsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxKcW4zWk9EdC01QVo3WTFtcFpWZXQtc2UtN2FlQUtkWFBFQ2ZzX2h0WU9tSUFBdExyNHdMeTk2d1lzOXZWbHlaVnFuREZ4UzNHU09wemhEelRqN1FzcC1uTUN6V1ZROWN6QWJyOVNDRm16VmNveTJ5UVpOQmpJWlNsRzFSa2l3Vl95eU5OWFRTOUR1aGRKRVdFMktBWXFpRTlDZ1JsSkp6U3Nmc0Vlb1VZRlVOZms2YlljTDlkSVp0YjhIanExX2Y1ZW0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789556158842",
+          "date": "2026-09-15",
+          "title": "Thomas Tuchel: England boss regrets not eating Azteca turf after World Cup win in Mexico - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydFVuSDdMLTRocThJRFBqakF4N0V3aC1LMGJ0V3Q1N2dkcEVhRHBFM201b2lVMnB0ejEwRGI2V1JPbDJPRktXVUZIV0NtNFdWOEYtUGotSjM1SmNGclBCVzJZa1Jka0hO?oc=5",
           "draft": true
         }
       ]
