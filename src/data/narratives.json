@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-16T16:14:47.656Z",
+  "lastUpdated": "2026-09-16T20:55:48.362Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 439,
+      "chapterCount": 441,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3530,6 +3530,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0E4WnBGaUtCUlZHSTluM2FmTDIyOVZTUGI5WUpEenFSbDc2UzBTOE1WRnRGRV8yQ1V3T25adEo2OUEyNTZPRl91eU9BRHNSMU5uZFkxckgwT2V3U3VvWFhzNUpsMENtRDM4bVZIV0VVckctOVhBSERvNzI2ZzFnRjAtVjY3U21ISWxR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789592145900",
+          "date": "2026-09-16",
+          "title": "Lionel Messi’s Final Argentina Game Revealed After Retirement Decision - People.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamlxWHUxZm9kRU1DN3VfTEFrUkZIeDFEdldqZl84a2NxakIxNlpJR3VFeTRRem1RV3ZhdE5CY29LaU9BVW9JaUNtdWVJS0gwVVBrTHBoY3JpZ2ljazRBTUFMNU5sRTZPVFh0T09tYmN2eXA2LTJaTEFhQm5VTERkZDhIaGM5anF4dUhqOGE0dEZ3ZWpfTFptNlc1OHA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789592145900",
+          "date": "2026-09-16",
+          "title": "Lionel Messi's Last Argentina Match Is Set for October 6 Against Benin in Buenos Aires - Hypebeast",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN212emxRYm82aGdxaHNldU5DNFZrMzF5YkJUTElMS05nNWVsS2daVDByTGtIaGRsNVJnSy15anlNd0xETEpFNkwtZGNzdWxwYzJHSlJBbjZaVWFYNE55OTE4VFE1d2FlV3NPek9UZEotUW8zWkZ2ZFhuTEhTWVhvTTcxb0ZqNE1mSGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6455,7 +6471,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 915,
+      "chapterCount": 918,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -13776,6 +13792,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNG1YSG1JMDJHSDc5WURydVBsZGN1VVJEOTFnN1Z0U0FlX0xlcWwtQUR3eWR4Rzc4SUdlY1piVU5qc1lFZDZ0MXQxcFk2a3lpeFhrZDNNaUNaUkVXcUNGSmFzcWJkaTh2ZWpmQWNZeUVwR3p4MnRfZzhIQVFZUkFkTDg2MFVlTEhlTjBaMFJudTBDUEh6UjF6Wmc1TjhadllxaThZNUgwenktR3dGazZVU2FjNUI1blRL?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789592147073",
+          "date": "2026-09-16",
+          "title": "U.S. ousted from U20 Women's World Cup in shootout loss to Brazil - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTNSMG41ZFpmSkxZM1dRS1ktbmU3RnhaU09rMXNyMDV4S0s2ZTNxLWg2V01nN0N5MWF0YlcxM3lIX01aRGsxand2OE9QdlVSeVZLOXJiQVZMYW41VDFpaXA5d3dTOTJkMENzdTJoaG5uSmF3Ykp6a3p4aFpGVjZmeTFMVHJER3FINWU5NUFpRjVkSEN0UEw4Um9ReFBJUXo2U2ZTNVNJT3JxQXdVOUtn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789592147074",
+          "date": "2026-09-16",
+          "title": "U.S. Under-20 Women’s National Team Falls to Brazil in Penalty Kicks in Round of 16 at the 2026 FIFA U-20 Women’s World Cup - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGw5dDhOcF81ZmF0Nk0xbFVZUFBQak5PMjVJck5IdjdqYWVIc2hvRFpRRnBxMzR0RlFnY05RMnVndW9xTUtlS01MRkw4TmFFX0tCdWM2XzN3NXowQ3gxQm1fSDdZTG4xNHh5Z2ZQVjc5eFhvRi1lR25lU3RONkpMdnpFVHlrVFVfTFJvZHRfb0tuV09xMXVRWFV0ZkdpY3JtLXJ6ZVhBLXZ6eDRYRWZlaDRR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789592147074",
+          "date": "2026-09-16",
+          "title": "US Wins 2026 FIBA Women’s Basketball World Cup - NewsForKids.net",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXhWMVQwYXlCQk1DbGJJVTJ6RnlsRGlTNlB3Rkp2Zm9ZZ1R2dk1IZlFZWC1oWWFCUkV2WWU2a042dm5xeDNlTkpoRkptQWY1MExqSVJvSzlBMkFCLVVta085bGRXN3R4LVVTUkdaRXc4YmJqZmpGUlE5bE5IQU9Qb01jbWl5UmxFTm5La2NsZ3NoZ0pV?oc=5",
+          "draft": true
         }
       ]
     },
@@ -13794,7 +13834,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 618,
+      "chapterCount": 619,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -18739,6 +18779,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789592147718",
+          "date": "2026-09-16",
+          "title": "U.S. ousted from U20 Women's World Cup in shootout loss to Brazil - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTNSMG41ZFpmSkxZM1dRS1ktbmU3RnhaU09rMXNyMDV4S0s2ZTNxLWg2V01nN0N5MWF0YlcxM3lIX01aRGsxand2OE9QdlVSeVZLOXJiQVZMYW41VDFpaXA5d3dTOTJkMENzdTJoaG5uSmF3Ykp6a3p4aFpGVjZmeTFMVHJER3FINWU5NUFpRjVkSEN0UEw4Um9ReFBJUXo2U2ZTNVNJT3JxQXdVOUtn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18968,7 +19016,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 870,
+      "chapterCount": 872,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -25928,6 +25976,22 @@
           "title": "Thomas Tuchel pinpoints World Cup regret after England boss looks ahead to Euros - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWElGQzJQaDcyTW80Zk1RNGRYeWRiaGZKd1BXYnR4MHNpRjYtZk5JeEdrSW9UMHZBaGd1Q0M5LXZEWGZyTUJINGJUMTRtY2x6WmlxNlhPT3FDT1dIbVRqLW1BODVmdUdVb2U3M2wyV2VVRHBWamE1NlJxUzhTYW1oNE5fRHo4cnh3THc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789592148361",
+          "date": "2026-09-16",
+          "title": "Thomas Tuchel explains how Argentina’s ‘f*** it football’ dismantled England in World Cup failure - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHVFc2tQWTVxN05RX1QzbFRsVG9SQjhvRlRCRXhfVHpONWM5ZEJtTVVLY0FfY1otQl9QclNYZlpFNmtEUGtfNlR3WWhydXYtcVVjTGUxQjd1ay00emJkY3pmbUlhS1AwWWRodU5VRVhjWEItZDhFR21wV3BONFpJbjN3eG1fMzM0Q1V3WGduM2YyUlRTeTd1VU5uVGp5UFFLUVJCTTAwRE9xRmhlRUN0UWlzYnhuRm9scGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789592148361",
+          "date": "2026-09-16",
+          "title": "Tuchel: England was 'waiting for death' in World Cup semifinal defeat - theScore",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pdk1qQ1hicXhTOFNWbmxLTDVfMlk0SHpYVnhwVTU4LWgxZkM4YnFFaFNjOGQ1bHVUWEFXNWltemgzdGtEMzJHSkFWeGU5QQ?oc=5",
           "draft": true
         }
       ]
