@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-17T20:59:09.218Z",
+  "lastUpdated": "2026-09-17T23:29:43.409Z",
   "articles": [
+    {
+      "id": "news-auto-uswnt-s-early-exit-from-u-20-world-cup-e-2026-09-17",
+      "headline": "USWNT’s early exit from U-20 World Cup exposes pitfalls of scheduling outside FIFA windows - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmpIaWtoSGE4U0NBREtpV0tvcjBGcEJtV0s2Y0NLX0lYV0tGekRCQ1BHR3NXaExxRllBblZURzNkdU00YjRLMl9FdnFvc3doU0lhNUlWblk5Z2VXd2tEcFVzVE9GM2pQRG1WenZ3QXBQSXhMeThwekY2elRwenA1d0U1YlVDYXRGa2ZFd0FiUQ?oc=5\" target=\"_blank\"&gt;USWNT’s",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-17",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmpIaWtoSGE4U0NBREtpV0tvcjBGcEJtV0s2Y0NLX0lYV0tGekRCQ1BHR3NXaExxRllBblZURzNkdU00YjRLMl9FdnFvc3doU0lhNUlWblk5Z2VXd2tEcFVzVE9GM2pQRG1WenZ3QXBQSXhMeThwekY2elRwenA1d0U1YlVDYXRGa2ZFd0FiUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-law-roach-reveals-he-bought-jennifer-hud-2026-09-17",
+      "headline": "Law Roach Reveals He Bought Jennifer Hudson Gift Shop Merch to Fix 2026 World Cup ‘Fashion Emergency’ - people.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUdjbW9ZYlNBQ1dWbHo2ejI3bDBFWTNoc0xiVWtrSFRqWXdOSVVxaEJsZHpnUk1vT2VVa00xUkdrQlljMWo4QlNISjBTUkxKY2poVzdsQlZnVzA4ME95N2IyTDI5ZjBQNlk0X2xacldmQThXU0RYQTdnbjJLRFRBMXQ1Vm5jdF84SlNzTzN2VjJkV3hnUm5GSUJ3?oc=5\" target=\"_bla",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-17",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUdjbW9ZYlNBQ1dWbHo2ejI3bDBFWTNoc0xiVWtrSFRqWXdOSVVxaEJsZHpnUk1vT2VVa00xUkdrQlljMWo4QlNISjBTUkxKY2poVzdsQlZnVzA4ME95N2IyTDI5ZjBQNlk0X2xacldmQThXU0RYQTdnbjJLRFRBMXQ1Vm5jdF84SlNzTzN2VjJkV3hnUm5GSUJ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-storm-s-ezi-magbegor-suffers-sea-2026-09-11",
+      "headline": "Seattle Storm’s Ezi Magbegor Suffers Season-Ending ACL Tear at FIBA World Cup - Just Women's Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHlndDRFWmV6VzZHZnhWMGtYR0FnTkM1VEhaempIcm5qV0NmSEhQYlQ4S0ZGSEFvOGJpem5lUTh1Xzk2dFd1eDhNU2M1MktHMUF0d045R3NDX0x4SjlzOHc1TDd5RHAzZVhINjlHcWhtNVBUVF9tOHNXSXJ5bmI5NVVmanF3cFZMazJtTFNubXc0azZjakcwOEhxZG1HYVJB?oc=5\" targ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-11",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHlndDRFWmV6VzZHZnhWMGtYR0FnTkM1VEhaempIcm5qV0NmSEhQYlQ4S0ZGSEFvOGJpem5lUTh1Xzk2dFd1eDhNU2M1MktHMUF0d045R3NDX0x4SjlzOHc1TDd5RHAzZVhINjlHcWhtNVBUVF9tOHNXSXJ5bmI5NVVmanF3cFZMazJtTFNubXc0azZjakcwOEhxZG1HYVJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-who-s-playing-in-fifa-world-cup-in-washi-2026-06-15",
+      "headline": "Who’s playing in FIFA World Cup in Washington state? When? See game schedule - Bellingham Herald",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0NVWFBZeTNkQWNJRTlObnpwU0pxTlA2cnZhbm1YWjR3TEhLQ2JtREY1bDNIOS1SYmpxQ3hqdWkxVHc0ZEFMaDdveWJCZ0VoTmRMZHV6MnB3WHRvNzZrWm91TkxZeEVvbUw4OHJqYWM3bVVfSlRWb3FZY0k4WVFRYm5iemtWTG5WMjZj0gGLAUFVX3lxTFBZcmpsMlpMYzZjMXZDOUNtLXpCLW1LdTdHMjJVSWFiNEdGbmFadzlHbWZCQXlGZFNwWVJ4WnQxb3ZDOFdjenV2NHBYYlJfeEpYWV9xNndLRnJ5YTBqZkxESUUwZnRhTy1KX1FkQ081M05uLWdraU84emlPWnFjb3E3T243RlE3NWZjQUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-hosts-its-first-ever-world-cup-m-2026-06-15",
+      "headline": "Seattle hosts its first ever World cup match at 'Seattle Stadium' - katu.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFB",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSFBJa3djQjhKYWtKQTgwTmpfZklQcFMwR3JkZUJtMlpveXBLNWZGcEdURGdQeTJ1d2xCSVV6SW92S2hJcnd6T3R0WWMzcnZwWTNHZzNjb0ZDVzNZaF9kcEFFcGlqbW9oSDJGR1R3RGhDR2FNVUNTRjBEbXRRc1VPeWtqbUZ6amhsWUtxWmt3MDZBTV9UcFc0Umt5TzBMb25Nc3RLX1dRNFBvQncxMkdBOHNMZHdnMnNiYWxES0dOandkRWQ1X0lMWVduU3hVZFJlem1DTDVhTHU0WUROWFlHcW5VSUFjcTVFQ3FmQWJQLVczVHRlbU1sMks0alZjYzVma09CUmRBd2FjbnlrekpQcGk5b1ZxclJDTUd0dENEeGpOeklCV2tLMVI4SVNpa0xGV0FaMk5mRTNfU3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-file-photo-fifa-world-cup-2026-round-of--2026-09-17",
       "headline": "FILE PHOTO: FIFA World Cup 2026 - Round of 16 - United States v Belgium - The Lufkin Daily News",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-12",
       "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOXRkVEZfMFh4dHNPUy1lTjJEMGs2akFMMkdMc0V2M1lQXzF5R0VERlE4U3JLWkpndEs5WjBDT3FmQWhqUWJfVTNhbGEyRy1mRnFPR3c4dFVOWWY5TVUtNXI5VW1yR2NDQmF6RlQyMndDNGhpeFBJeGNkNExiejNHNmVyZUdsQ3o3RmZkcnNaNGxXTjVRV3VhV0taemg1T1FhSHlxTkxaSEszVDJMZmx6RGoyR3cyUFBlZDRHS0RTM1RKTlA5TE40VFhTZUJRNDMzVzE0eEt4ZzNTTjR2Y09fMkREZVJqVlhqRi16VUZIMVhWYVIzN0ZxQWJTSGxRZk1sSUhGeXo0T0ZGeTkwTWNBdmgwc2FOemJhQ0ljb2ZTMnlkcU9NY3FCVklkYVNXOGk2RElNa19lVDhMa2NPTDczR3RJNF85MUVZVFZFRjZ2NmJ2UGxPck9V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
-      "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - opb.org",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-argentina-england-set-for-semifinal-matc-2026-07-12",
-      "headline": "Argentina, England set for semifinal match as Kansas City dismantles World Cup infrastructure - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmx",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-12",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1hGWlNXU2FjV1RQTFh6c0Y3V1NSWHpqa1M3bTlnVUJseUVGR1F4d3JHOFpndUFqRmZyaXRmY0Q2VkFYTlZkb19kSWxjMm1kb1plSXlPcDliZFBlaXJXRldzZUVzR2pGdm1Lc1RzTVJyOXlyTkFPa1VDbXlqYUI0SWdweUV5Wk56MVlEV3otbzJkMmZzQkJ6blFpMTdaSHV4NHZCM2lWYmxEMjFvcElFUEFDYkNMQVM1dGh4YnZ1UXBGNFNuVUZRc2hn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
-      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-under-20-women-s-national-team-rout--2026-09-12",
-      "headline": "U.S. Under-20 Women's National Team Rout New Zealand 9-0 at 2026 FIFA U-20 Women's World Cup to Qualify for the Round of 16 - US Soccer",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhud0JyRHNOUWgwS3k1WHhuUlpNb01HSGVHLUQ5UURMQ3NDMThmX0tGeEFiLWJ5UHZaRFBQcEpxUU9YR1ZLRVJiS1k3d2p2M1F6Z0RvaXdXeTNNUk8yUDlZRURYNTBqckRzaFhIcldPeVpqZGwxeXVyUnhfV2paTXMtakxBZ3B3YkZqeW02MlRodWVmaDJZZzd5SnlZRmpDbmNKYjlQQXd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXhud0JyRHNOUWgwS3k1WHhuUlpNb01HSGVHLUQ5UURMQ3NDMThmX0tGeEFiLWJ5UHZaRFBQcEpxUU9YR1ZLRVJiS1k3d2p2M1F6Z0RvaXdXeTNNUk8yUDlZRURYNTBqckRzaFhIcldPeVpqZGwxeXVyUnhfV2paTXMtakxBZ3B3YkZqeW02MlRodWVmaDJZZzd5SnlZRmpDbmNKYjlQQXd2TFJSeWJ4bkNvS1MzRzN3NWljTTItR1hyZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-folarin-balogun-s-red-card-scandal-is-st-2026-09-12",
-      "headline": "Folarin Balogun’s Red Card Scandal Is Still Haunting USMNT Star Months After World Cup - Sports Illustrated",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkUxSVFBdWZsX19DRG91Rm4yUlY5LURvNExIQzg2dmxpblFxNm9OQmthYmRFWDJQY2JyMjd2RW5nWjFwOEZkcEV6b0FZZFJlRC1fUUMwMEpvNVJBWDV4Q0ZGUmxqeDBoSl9Jc0wtSWVFT2dIejZpZHNHOFNvOE5qMFNUS3RydlgwcUVTYUdId1Fldw?oc=5\" target=\"_blank\"&gt;Fol",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkUxSVFBdWZsX19DRG91Rm4yUlY5LURvNExIQzg2dmxpblFxNm9OQmthYmRFWDJQY2JyMjd2RW5nWjFwOEZkcEV6b0FZZFJlRC1fUUMwMEpvNVJBWDV4Q0ZGUmxqeDBoSl9Jc0wtSWVFT2dIejZpZHNHOFNvOE5qMFNUS3RydlgwcUVTYUdId1Fldw?oc=5",
       "featured": false,
       "draft": true
     }
