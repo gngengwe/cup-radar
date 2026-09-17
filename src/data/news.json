@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-16T23:33:52.469Z",
+  "lastUpdated": "2026-09-17T03:41:06.581Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-fan-freddy-back-in-u-s-stops-i-2026-09-16",
+      "headline": "World cup fan ‘Freddy’ back in U.S., stops in West Memphis - WREG.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOV25QYy0xWTE2NFM3VDVnajhpU25qTHZWZXd6ZjFhdUtpRkFaQzhYVW9kR0dyS243U2xjWS1DYkxJUm02Y2JmMi1EYWJrRUczT21NOEVWc2lDMF9NM1Y0MFFRYS1WRFNtVHM2em5GZ1pxcGgwckNONmxIZ0xJblNZaUtvMNIBiAFBVV95cUxPZ3VMWS1pWFBOOFpGei1ESWxpZ2Jnb3kzQkN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-16",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV25QYy0xWTE2NFM3VDVnajhpU25qTHZWZXd6ZjFhdUtpRkFaQzhYVW9kR0dyS243U2xjWS1DYkxJUm02Y2JmMi1EYWJrRUczT21NOEVWc2lDMF9NM1Y0MFFRYS1WRFNtVHM2em5GZ1pxcGgwckNONmxIZ0xJblNZaUtvMNIBiAFBVV95cUxPZ3VMWS1pWFBOOFpGei1ESWxpZ2Jnb3kzQkNFdGp2TWlwRHIxcmpNa2ItbkJJRWw3TUhGNzJicTZlQ2FFTVlJYjAxN3FyVHpsOG1Qdk9HeGEzOEZjZV9PdU1FTTdoaGJaQXRvZElQRWFSYnlJY0Rsd3FjckQ5bmJMSDdvZDlBaE42?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-local-black-owned-businesses-reflect-on--2026-09-16",
+      "headline": "Local Black-owned businesses reflect on FIFA World Cup impacts - The Bay State Banner",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0dJcEE1YVEzM016Nm9FZElxVjg5cGF2V1JsQzUwcTA3S0FYU3g2YWt4ZERXNmc3U1lmR1RBcWYwdUVvMk1SanI3bTVqaG43THhaMjd5YW5faGczYlVpUlZLSDlJRk5mM2hnM0d0M2FsOE9HQVVuTVFlVnlWX0ozWktKckNCaHd0ZUpxcnhyY1cyb2tzLURDOFdBaVJMVUxNLWR3?oc=5\" ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-16",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0dJcEE1YVEzM016Nm9FZElxVjg5cGF2V1JsQzUwcTA3S0FYU3g2YWt4ZERXNmc3U1lmR1RBcWYwdUVvMk1SanI3bTVqaG43THhaMjd5YW5faGczYlVpUlZLSDlJRk5mM2hnM0d0M2FsOE9HQVVuTVFlVnlWX0ozWktKckNCaHd0ZUpxcnhyY1cyb2tzLURDOFdBaVJMVUxNLWR3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-usmnt-roster-for-september-october-2026--2026-09-16",
       "headline": "USMNT roster for September, October 2026: Projected list for games vs. Peru, Chile, Mexico, and Canada - sportingnews.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-10",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGYyZWpLekQzV2ZfNlVoUzVpUEh4Q0tLb3hpVGwzaGo0ODFBcHB6dUNhUHJCSzVPdFo1YUIta2QyVU51QUNDbng0d05Pa1hGcmcwaGE0dGh3S2t1aXMzSUp4SXczeWJKNWxtWC15dDNIdUxzYkpOZ2Z4aW84YmZLVUF1dmhmV1dZTEFfWEh3N1hsQmhNQlRpWjVBV1MwV1NjSWozaGFUVUhMMkp6WEFZTEUzM2JTSVJUVVBPOTdrWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-amount-wagered-in-missouri-sports-bettin-2026-09-10",
-      "headline": "Amount wagered in Missouri sports betting fell in July, despite World Cup in Kansas City - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRnczhXWWo4U1FxUDFZQk5seTVfdXM4SDBGYkJveVJKQ1RHNGlGeS0yRDFMYkZJMUlhWVFhUTZhNHdtYko5RmMwOG4tV3lKTVU1czFzUllyNjJIMkJSNHlvZEFZMGZiQWdraC1yYjFZMmN1c25pS3RBWlNsY0ZUQjROdTdnbmV2dGxKYmRvOWdWWGhLM1poRjZ0bkI0VkFCVlZfZjdBRHE",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-10",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRnczhXWWo4U1FxUDFZQk5seTVfdXM4SDBGYkJveVJKQ1RHNGlGeS0yRDFMYkZJMUlhWVFhUTZhNHdtYko5RmMwOG4tV3lKTVU1czFzUllyNjJIMkJSNHlvZEFZMGZiQWdraC1yYjFZMmN1c25pS3RBWlNsY0ZUQjROdTdnbmV2dGxKYmRvOWdWWGhLM1poRjZ0bkI0VkFCVlZfZjdBRHE3cmZyMWpTaU9GV1JOZ3lDNkdFTThCM1B4S1lu?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-new-era-mls-clubs-set-spending-record--2026-09-09",
-      "headline": "A new era; MLS clubs set spending record in the wake of 2026 World Cup - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQelBlMEsxaGZnbU5vdlpPMjNxU1RpRTNWallsRGoyTTdzbEl6VkhYcVlzN1EtR0RxSzAzbmRqbl9oa2s5RHFraGhUaGtiYWpHWlhvNVJTSHloVHU4ckV2TENUdkxSNlFzd0szVXRSNXVjellJYnE0emg0cFozdk0wQQ?oc=5\" target=\"_blank\"&gt;A new era; MLS clubs set sp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-09",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQelBlMEsxaGZnbU5vdlpPMjNxU1RpRTNWallsRGoyTTdzbEl6VkhYcVlzN1EtR0RxSzAzbmRqbl9oa2s5RHFraGhUaGtiYWpHWlhvNVJTSHloVHU4ckV2TENUdkxSNlFzd0szVXRSNXVjellJYnE0emg0cFozdk0wQQ?oc=5",
       "featured": false,
       "draft": true
     }
