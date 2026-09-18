@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-18T15:55:34.372Z",
+  "lastUpdated": "2026-09-18T20:28:44.532Z",
   "articles": [
+    {
+      "id": "news-auto-infantino-invited-to-african-summit-as-h-2026-09-18",
+      "headline": "Infantino invited to African summit as he faces challenge to FIFA leadership - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDZSeHVmN0lfTkFuOUFlRGRwNWk0NDRwQm1lbDRNeW9WZ2RaSmJBeXlzeDd4QjBXQmplTmpFNFdkd0ZVVGZIT0FzNjF4aGJXaTkyYmZ6VmtDZ3pVa215cUhucWZja0tSSDVvd0J5VW5kTVRsX3Q2elhaNnphRHBjQmVsQUZoWXV0ZmJGNzZPdnhRWk1ZUmx3QXQwMXlwYlczTzFuaUZTcDA",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDZSeHVmN0lfTkFuOUFlRGRwNWk0NDRwQm1lbDRNeW9WZ2RaSmJBeXlzeDd4QjBXQmplTmpFNFdkd0ZVVGZIT0FzNjF4aGJXaTkyYmZ6VmtDZ3pVa215cUhucWZja0tSSDVvd0J5VW5kTVRsX3Q2elhaNnphRHBjQmVsQUZoWXV0ZmJGNzZPdnhRWk1ZUmx3QXQwMXlwYlczTzFuaUZTcDA3VXpQN3piX0FWNTJUY25i?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-jackie-young-carries-over-world-cup-effo-2026-09-18",
+      "headline": "Jackie Young carries over World Cup effort with career-best performance against Storm - The Sporting Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOTy1wTU41VVZDQXdDOWZwWFlEcm1BM19UUVdudW83aVpDV3VmREZaMExweDUxc2RvSzdtTnY5M3czMnNfa2RSemI2RTRfZFNOVXl4NmlFY29jQ0dKRGU4b2ZZNGd4dUVCa3FzdlVxVUl3bC1RYUhONFBVUDZ4bC1JcEVIckxKT1kzZ3l4eDVFSmJTQVVHRGVSYWpTTWYzcy13UTZvUnlqZzN",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTy1wTU41VVZDQXdDOWZwWFlEcm1BM19UUVdudW83aVpDV3VmREZaMExweDUxc2RvSzdtTnY5M3czMnNfa2RSemI2RTRfZFNOVXl4NmlFY29jQ0dKRGU4b2ZZNGd4dUVCa3FzdlVxVUl3bC1RYUhONFBVUDZ4bC1JcEVIckxKT1kzZ3l4eDVFSmJTQVVHRGVSYWpTTWYzcy13UTZvUnlqZzNuWHJ4eHo5UU11bTRacV9xMTU4Nkc1M1JCdUxDZXZLa3BENA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-exclusive-top-soccer-bosses-demand-slice-2026-09-18",
+      "headline": "Exclusive | Top soccer bosses demand slice of FIFA’s $6B pie, blast scrapped Kushner deal to sell off World Cup rights - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVOV0pGZWxFVHR0OVVsVTNGYjBtVEtTOUpBdWtUaWlXQmxuMEJjTFZuXzJRSkFsRlJWekFhcmRzWU9SVFlsa2pjVTk0N2RoNFlqSEJtUnVFaktoaDg0cjJwZ2xQYWpLTV95Wk56eVJ0eG9iVE5YblVmVXlrXzRhWFJ4TGFDZ2JmQlFtdEZsUFpjS1BSVkVXY1c3em05NjhjZG9sTEdHY2x",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVOV0pGZWxFVHR0OVVsVTNGYjBtVEtTOUpBdWtUaWlXQmxuMEJjTFZuXzJRSkFsRlJWekFhcmRzWU9SVFlsa2pjVTk0N2RoNFlqSEJtUnVFaktoaDg0cjJwZ2xQYWpLTV95Wk56eVJ0eG9iVE5YblVmVXlrXzRhWFJ4TGFDZ2JmQlFtdEZsUFpjS1BSVkVXY1c3em05NjhjZG9sTEdHY2xLenMtbFNoVmJUX2Q?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-tuchel-explains-why-kobbie-mainoo-didn-t-2026-09-18",
       "headline": "Tuchel explains why Kobbie Mainoo didn’t play a single minute at 2026 World Cup - sports.yahoo.com",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWMwQk8wLURhMlhMb2FsR0JBX1VCdXBKeFF1ald0d01DWnhrNnVlU0paNlpYWTBSV2tSRVRWclR6UVdIeWhQeW9BRzFlSDBfUUN2VWdRSjNFRjBkakN6VTJDazAweGpsZTVONk1janh1bmRxQlVTR0NBZ09IYmxYXzUxZ0JYTV9XTkRWYTk4ZTU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-who-s-playing-who-in-the-2026-fifa-u-20--2026-09-14",
-      "headline": "Who's playing who in the 2026 FIFA U-20 Women's World Cup Round of 16 - DAZN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVBYNTRJekY5Y3p6Y05ORDlNRGh3LTNtaFMySFZKb1RiN1ZWMDdoRUJWSmxabHdwTU1hMFMwY1JoajdtN3N6YU13MTI5ajJOMW5lWjVKTjV5ZFhxd3dERy0wRDR2czd4dHc5RXRvclRKdnFuY2xNTTZ4UUFBdTFwY0t0cDZSNXV0ZGlrVXEzeGh6X0dJcy1BbkNVOWVMSFlXeGs4RzF0bUl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVBYNTRJekY5Y3p6Y05ORDlNRGh3LTNtaFMySFZKb1RiN1ZWMDdoRUJWSmxabHdwTU1hMFMwY1JoajdtN3N6YU13MTI5ajJOMW5lWjVKTjV5ZFhxd3dERy0wRDR2czd4dHc5RXRvclRKdnFuY2xNTTZ4UUFBdTFwY0t0cDZSNXV0ZGlrVXEzeGh6X0dJcy1BbkNVOWVMSFlXeGs4RzF0bUlNcGVKWlFZ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-team-usa-takes-down-france-for-fifth-con-2026-09-13",
-      "headline": "Team USA takes down France for fifth consecutive World Cup gold medal - The Athletic - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRxSFl1YkFlSG1vRnprY3dUbS1VVzBPQ09EMk9FVUNnZHZZSHN3RkxHTFNydkFLLTJUOFZYbHJjSk9OZ3NNVTBXQXcxdFpPNERseFNHVGN6UW1ydGliVzFGc3RUT1JSMjNIWC15SEVtQW5VTlRsbEIxdXI5dWZWcFE4S3RqN0VTRzhrOWN5QldqZjBWSjNTM1I3NHZfNXRITllJV05hLVF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-13",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkRxSFl1YkFlSG1vRnprY3dUbS1VVzBPQ09EMk9FVUNnZHZZSHN3RkxHTFNydkFLLTJUOFZYbHJjSk9OZ3NNVTBXQXcxdFpPNERseFNHVGN6UW1ydGliVzFGc3RUT1JSMjNIWC15SEVtQW5VTlRsbEIxdXI5dWZWcFE4S3RqN0VTRzhrOWN5QldqZjBWSjNTM1I3NHZfNXRITllJV05hLVFDdVBBM0lnLVp6bU9PRGlXdl9jaFNhdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
-      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-u20-women-s-world-cup-poland-2026-c-2026-09-14",
-      "headline": "FIFA U20 Women's World Cup Poland 2026: China vs. Spain - Xinhua",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S0xNVWJNY1kxQUdmNGxaNmg4RU5GRWJYT0plcjdkQ1RFNUFyaXY1dnBBci1obzFrbXJ6Tk1lU1R0Tm45NUhkWmJZNlU0d3VhdEN6dld1cC03eWNQdDNyQV90dlYzNTNURDAxczhaS25qVEM4VC0xaHVDdw?oc=5\" target=\"_blank\"&gt;FIFA U20 Women's World Cup Poland 2",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S0xNVWJNY1kxQUdmNGxaNmg4RU5GRWJYT0plcjdkQ1RFNUFyaXY1dnBBci1obzFrbXJ6Tk1lU1R0Tm45NUhkWmJZNlU0d3VhdEN6dld1cC03eWNQdDNyQV90dlYzNTNURDAxczhaS25qVEM4VC0xaHVDdw?oc=5",
       "featured": false,
       "draft": true
     }
