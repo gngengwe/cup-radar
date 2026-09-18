@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-18T03:27:16.349Z",
+  "lastUpdated": "2026-09-18T15:55:34.372Z",
   "articles": [
+    {
+      "id": "news-auto-tuchel-explains-why-kobbie-mainoo-didn-t-2026-09-18",
+      "headline": "Tuchel explains why Kobbie Mainoo didn’t play a single minute at 2026 World Cup - sports.yahoo.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlk5S24xck4tTGhScjFqWWphUE9NT2VtU0o1T3E4LVVCS19LUXhKN2l4Y0VwUzZLbW1VMlJ1UUJPM3NWUUxBTGlCc2gzSFUzcXc1YWdEM2RpTHRMekZaUVJTdE9ZRDNNaGg5aEFiUlpfaGlQZktSVUpDbmk0VDlBZF9HME9tb1NQQnc?oc=5\" target=\"_blank\"&gt;Tuchel explain",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlk5S24xck4tTGhScjFqWWphUE9NT2VtU0o1T3E4LVVCS19LUXhKN2l4Y0VwUzZLbW1VMlJ1UUJPM3NWUUxBTGlCc2gzSFUzcXc1YWdEM2RpTHRMekZaUVJTdE9ZRDNNaGg5aEFiUlpfaGlQZktSVUpDbmk0VDlBZF9HME9tb1NQQnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-545-ghanaians-were-denied-2026-world-cup-2026-09-18",
+      "headline": "545 Ghanaians were denied 2026 World Cup visas - Sports Minister - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDZXVVZkZFYyYklOWGdseDJ4dVlSeHI1amRfZE9tdnR4dXU0el9oT19ISFBmVWtibHYwYmdZaEhjajJpVmluWkxmNjZ2elIwSGEtRlotS1ktcTdoZ3laRUY2bEFhT2hDVkUwdVE0NWRrTUxWbUFwTV9RZ3pfamlQaFhEeXRhQkdKdEM3dG1saW5OaUJfZWoxVVNRUW5qaXJPMWp1R3ZyZjB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDZXVVZkZFYyYklOWGdseDJ4dVlSeHI1amRfZE9tdnR4dXU0el9oT19ISFBmVWtibHYwYmdZaEhjajJpVmluWkxmNjZ2elIwSGEtRlotS1ktcTdoZ3laRUY2bEFhT2hDVkUwdVE0NWRrTUxWbUFwTV9RZ3pfamlQaFhEeXRhQkdKdEM3dG1saW5OaUJfZWoxVVNRUW5qaXJPMWp1R3ZyZjBzVFdnVUdGNkVpMkxpcnJQN0VJbi1B?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-portugal-roster-for-2026-uefa-nations-le-2026-09-18",
+      "headline": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo called up for fall matches - sports.yahoo.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV5SnNBWkpROHlqc3JSMmZaRktzUF91LV9yQmh0N201ZDBBeUtBYzZhY2hmNVMwOTdFQ2dJZWwtaHdlRnpNTVpSbTBsVnFUdXBvdVJteXJWNzhuX1p5TjJmNE1GMFdMVC01WkpGb1psMkZWVjJlQ0tmUFhZcDNDN1NKTGdxY2toaHc?oc=5\" target=\"_blank\"&gt;Portugal roste",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV5SnNBWkpROHlqc3JSMmZaRktzUF91LV9yQmh0N201ZDBBeUtBYzZhY2hmNVMwOTdFQ2dJZWwtaHdlRnpNTVpSbTBsVnFUdXBvdVJteXJWNzhuX1p5TjJmNE1GMFdMVC01WkpGb1psMkZWVjJlQ0tmUFhZcDNDN1NKTGdxY2toaHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-england-6-4-france-fifa-world-cup-2026-a-2026-07-18",
+      "headline": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2d",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-18",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-goal-score-tiktok-exclusive-panini-prizm-2026-09-18",
+      "headline": "GOAL: Score TikTok-Exclusive Panini Prizm FIFA World Cup 2026™ Boxes - Panini America",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGtsZFVmQi1EbEpZb0EtUGhnSFJJU2J4WlZQaHVlZjhFNUxMYlI4cU90UjJwOEFERlJ0b29FVWhNM0ZYWDNMc1QyRWRDalZxMUpESTNDY3hObTFpYzg1QUVJeU1zenA3SHRDVzZoVXlzaDlYZnhTQzB6blVOVDR3b0JRWFVELU1pOGRqZW9iQnFQWXM1ZkRsVjB1dk52VWs?oc=5\" targe",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-18",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGtsZFVmQi1EbEpZb0EtUGhnSFJJU2J4WlZQaHVlZjhFNUxMYlI4cU90UjJwOEFERlJ0b29FVWhNM0ZYWDNMc1QyRWRDalZxMUpESTNDY3hObTFpYzg1QUVJeU1zenA3SHRDVzZoVXlzaDlYZnhTQzB6blVOVDR3b0JRWFVELU1pOGRqZW9iQnFQWXM1ZkRsVjB1dk52VWs?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-06-03",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Free-To-Public Programming During FIFA World Cup 2026™, Including Rave 52 Free Play Events - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-03",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9nWm5vTkNhLUt5c29NeHQwdkNEQk5ybmU4eWNlekZfZ2cya3VXYUZFQzVwdU9ZLVk1TUhJLTRBMFBaS2t5ckt6RU9wSnd5Y014eXZwaWRidVltdUROa1paU1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lumen-field-is-already-unrecognizable-an-2026-05-19",
+      "headline": "Lumen Field is already unrecognizable — and Seattle's World Cup makeover isn't done yet - KING5.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5ckl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-19",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5cklLLWVnaHNiYUQzdTBJT1hMcjZUcUVZWG5FdTRacmNJX0xFSnlLVlkzYjhuemh4YUh3V3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-home-teams-argentina-and-eng-2026-07-17",
+      "headline": "Kansas City home teams Argentina and England will play for World Cup glory. Here's how to watch - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEt",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-17",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWW9wN0kxVlJNeS1aMVJOVUM4cUtPM1BCWjlQTnMyMC1VWTFnZlBxS0g3Vlk3UnQ1SmxxaW5vWkxYN09wSllocy1TMHhnanJ5OWhLMU1MOXZrbm1raGpKMC1KeDFNMUg3UWJEcDRKdXY5NXZuN3BxckdtU0ZIdlJROUxpNmN6VlVaWlFfb1RId3RES2FraTFCZTg3d3RBbGVyYnNNSzF2OEtsZjZISWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-next-starts-now-bringing-the-future-forw-2026-05-22",
       "headline": "Next Starts Now: Bringing the Future Forward at FIFA World Cup 2026™ - hyundai.com",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3S0xNVWJNY1kxQUdmNGxaNmg4RU5GRWJYT0plcjdkQ1RFNUFyaXY1dnBBci1obzFrbXJ6Tk1lU1R0Tm45NUhkWmJZNlU0d3VhdEN6dld1cC03eWNQdDNyQV90dlYzNTNURDAxczhaS25qVEM4VC0xaHVDdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-new-caledonia-suffer-another-big-loss-at-2026-09-13",
-      "headline": "New Caledonia suffer another big loss at FIFA U-20 Women’s World Cup - Friends of Football",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDB3OC13NWIzMHZhejBTZ0tQbGNueldrVTlobVZpWVhUZG1pRW1kMnNnR0lNd2J4T1RJdmh6RWEydEtJWkhxNWp1LUZ5ajgxUGRKMVZpdjd1SVBXNWdGdVljb2d1dXFwVWFORThJajcyNlJxTGx0MF9UdUdxMG5nemNOQ0RMSVAyMWlMX21GQjBxVTk2eFVsUXRYdVd0Ni16X1FaVDQtUmx",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-13",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDB3OC13NWIzMHZhejBTZ0tQbGNueldrVTlobVZpWVhUZG1pRW1kMnNnR0lNd2J4T1RJdmh6RWEydEtJWkhxNWp1LUZ5ajgxUGRKMVZpdjd1SVBXNWdGdVljb2d1dXFwVWFORThJajcyNlJxTGx0MF9UdUdxMG5nemNOQ0RMSVAyMWlMX21GQjBxVTk2eFVsUXRYdVd0Ni16X1FaVDQtUmxCVjJGeHhOeW5UbHFmdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-can-halt-fifa-s-authoritarian-turn--2026-09-12",
-      "headline": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1J6SUlFdXNfc0JzaWZPQnprRXRWZVprN1dsNXc2MmhUOFdBYWVoOHVxbXRqXzNFblNqTlpHUDR5ZXJNN0Q5NGxqeHlUUHNvX1QxZ3dyOHVFRlZhem9QS0RSZ1N5UW5NNWYxTGp3OGJsT0Zlc1hTVUNxLVNTaUpwaHFCNElZYlJTckV6bXZEc2lSU1ZD?oc=5\" target=\"_blank\"&gt;W",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1J6SUlFdXNfc0JzaWZPQnprRXRWZVprN1dsNXc2MmhUOFdBYWVoOHVxbXRqXzNFblNqTlpHUDR5ZXJNN0Q5NGxqeHlUUHNvX1QxZ3dyOHVFRlZhem9QS0RSZ1N5UW5NNWYxTGp3OGJsT0Zlc1hTVUNxLVNTaUpwaHFCNElZYlJTckV6bXZEc2lSU1ZD?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
-      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - kiro7.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-new-zealand-exit-fifa-u-20-women-s-world-2026-09-12",
-      "headline": "New Zealand exit FIFA U-20 Women’s World Cup 2026™ - oceaniafootball.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkRVNl9EdjZhN3FpMnA3UnlfQ2VSc19feE5EdUZGZEZFQUFtRkQwcWM5UG5iZTdST0trZW5hRFczSDlCR25HUlRkS0RhT1ZDdmxnWVdhTVU1bzFpN09DT29qQkQ5bmZTdDhXamJsR1FwbnpGMTBxczVSVGk1ZGFpb1UwanVSRFd2?oc=5\" target=\"_blank\"&gt;New Zealand exit ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkRVNl9EdjZhN3FpMnA3UnlfQ2VSc19feE5EdUZGZEZFQUFtRkQwcWM5UG5iZTdST0trZW5hRFczSDlCR25HUlRkS0RhT1ZDdmxnWVdhTVU1bzFpN09DT29qQkQ5bmZTdDhXamJsR1FwbnpGMTBxczVSVGk1ZGFpb1UwanVSRFd2?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-tiktok-and-fifa-introduce-the-fifa-world-2026-09-08",
-      "headline": "TikTok and FIFA Introduce the FIFA World Cup 2026™ Creator Correspondents - Newsroom | TikTok",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-08",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDllNFZ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-happened-when-rugby-s-greatest-nati-2026-09-13",
-      "headline": "What happened when rugby’s greatest nations landed in Baltimore? Lots of World Cup learnings - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUURWQ2ppMnRBOU1TWGkxVGRsWGR4aWpUQzZ2dFJNU2NyWVZpODdPZFNHcllRZllqX294Y3M2UVRXRTZUamtteXhyYm1obVo1SFRiY0tzUWNLczFpaEtxMTlDQklINTRvRHdGdlNjMm9DSTZCWmU4blBmNzlpX2htUS1iN04yc2RCaHJ5NzJkUGdoOTdsYnpyQjB2M0s?oc=5\" target=\"_",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-13",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUURWQ2ppMnRBOU1TWGkxVGRsWGR4aWpUQzZ2dFJNU2NyWVZpODdPZFNHcllRZllqX294Y3M2UVRXRTZUamtteXhyYm1obVo1SFRiY0tzUWNLczFpaEtxMTlDQklINTRvRHdGdlNjMm9DSTZCWmU4blBmNzlpX2htUS1iN04yc2RCaHJ5NzJkUGdoOTdsYnpyQjB2M0s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-fiba-women-s-world-cup-usa-france-g-2026-09-13",
-      "headline": "2026 FIBA Women's World Cup: USA-France gold medal game preview - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVhzOC1CeWhKaWtSaktBaUppVlFfSGIxTnRKRnJYUHBxUUVPMkNnVEJMMVotT0k3Z0xkQUpRLWlVbjlTX2dKN2c1R0pUYS1DR2NPTnVzc1ZMWWY5VXFySkd4RzE5S1ZibFo0bkRfZ0pOYkFfS1ktMlZNWDI3a0x3QkF0em40TU9LV2EyX3ZoNnZnNzRpTUxUOEtIVzVPWVRNdVV5M1MzY2l",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-13",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVhzOC1CeWhKaWtSaktBaUppVlFfSGIxTnRKRnJYUHBxUUVPMkNnVEJMMVotT0k3Z0xkQUpRLWlVbjlTX2dKN2c1R0pUYS1DR2NPTnVzc1ZMWWY5VXFySkd4RzE5S1ZibFo0bkRfZ0pOYkFfS1ktMlZNWDI3a0x3QkF0em40TU9LV2EyX3ZoNnZnNzRpTUxUOEtIVzVPWVRNdVV5M1MzY2lCTE1pU3N0YmtB?oc=5",
       "featured": false,
       "draft": true
     }
