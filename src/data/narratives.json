@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-18T20:28:47.543Z",
+  "lastUpdated": "2026-09-18T23:02:34.101Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3572,7 +3572,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 371,
+      "chapterCount": 373,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6541,6 +6541,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFNHYWlQa0w5LXRNenVyNEkyZFMybmxqRHNvVkVrMnh6M3M4YWdSRHN2TEdnazFKRm5vVmpRYmhjMXZoUEJUZlIyQk56c19jZ0MyUjR2THhlaHZQUFZGNEFia1UzY1JnR0QxNXY4SFRKbjFuRnZ0SDlPTjJQbklEOEQ2M09DUHRSdG1Z?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789772552284",
+          "date": "2026-09-18",
+          "title": "Mbappe boosts On's brand visibility, but hurdles to soccer success remain - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWRtSm5CSlU2ZFBqUFRoVlA4cUJzQUVjUWMyRHJnVjdMbWtyWFFHRV9STnB5Q2UyRXI3bkptcVFYcFBITzhwQVhHMWV5X2ZkRnV1ZGRpTzlKSmFIRm1HaFpNNTVLaC10VzJuR0RzbVduYnM5eEV2MGxQUEdWNmRfb2xtQy1pTmN5bTZoWWJpTFhNOXNoYkpoSm8xV2REVGVsSFpia3c2YkRlci11VHpLU1ZaUjE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1789772552284",
+          "date": "2026-09-18",
+          "title": "France roster for UEFA Nations League: Zinedine Zidane names Lucas Da Cunha in first squad as Les Bleus coach - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHAwTS16enJkUTNkM0FxQXZYa2JZc3NaY3pmSW5nU1FBaWdiTEl3c2xHZzJXZ0thbkk4TkpBdVZyWlBuaTdWdkpzSzdVRmJxOVoxeGgwY1BJczViV25VNjVNa2twT21Dd3JoWjd6ZG1ndEtMR2ptZENsekRlNU1xajZEcUY5bTg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6559,7 +6575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 938,
+      "chapterCount": 939,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14063,6 +14079,14 @@
           "title": "Noahkai Banks commits to representing Germany over the USMNT - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWYxTWl3d3lQMVpGWXdpSVpQaGVrbmlqdzJNUmwtSlZrOEJxUkxTQlAzNmw3RHFyU2doSEhWMkh0TFZKZ0tMWmxKMTl3WWVCWnd4bGtHMEt3VU1SMVFBUmpmdlBLaG1FdE0ySTZRcEEzMl90d25BR2NOR0R5VWowWjN3OW0zZmlqWmJwd1JXRjFaMVVrUVhLWlpIbzVJWFhVamln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789772552804",
+          "date": "2026-09-17",
+          "title": "Two years and one World Cup down, Mauricio Pochettino is still assessing - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSGpadnNnWVhURW5YNUVwZmstbHJadE9ybWVpbTZ0Q0UyNjE0cnVuTTk0Vkh1VF9VeEJKVHZLb2w1REV3bjl1UXkwX0otOXhlSVlZQUZQTllhV2lkZFR1Zi12X3lxVWtwanJLcUdQVXBSRThqYTdqY1BZTzhXVXAyRlR2dXlLMTg5QURR?oc=5",
           "draft": true
         }
       ]
