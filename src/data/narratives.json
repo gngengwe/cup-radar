@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-17T23:29:46.335Z",
+  "lastUpdated": "2026-09-18T03:27:19.239Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -19216,7 +19216,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 883,
+      "chapterCount": 884,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -26280,6 +26280,14 @@
           "title": "England squad announcement: Big questions facing Thomas Tuchel - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HR0RkcndTeDg3bFduWmNlcVJReEtTNnQ0N0tid3BwaGo4UjNLTU41OUkwbjJIU09qeHpRUkNNUUFNcnZRZ2IxSDEwVC00SnlVVUZ2QzZCbElsV2dvXzBPOWtVNDc5UUFF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1789702039239",
+          "date": "2026-09-16",
+          "title": "Lionel Messi’s Argentina World Cup comeback over England still haunts Thomas Tuchel months later - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTBDY3gxRzhobUk2NkFHVjhzN3FWREcwZk1vN0Q3d2hWT3l1dnpQcktKUXNqbG5CTm5udkdXSG00YWRZeWg3bW04NmlJc0hyUjEzMDJ6dml4MXhlOGh5ZjFMNEthOV8zVUtsY0NUQ1BiZ3NLWGhxN2NZZkh3OVFqeTBIZ0QyZ3F3a3cyNmdwXzNCd3ozd2RhaEpyemxaY2hVeXRmR1QtZE5vZzl1N0tucF8tZjA2dUc0RXkyQWdKVG5oSEp3bDBmctIBzAFBVV95cUxOeVg5LUtZckhwczBnWFVkTFNFUmVPcDlmSlRja1FjWGk5WkRCaUJmQi15RUtwTlRGYzUzbjBLNkhxZVI2VmFkdmQ0T2o2aFJCNHdNYTBiOUhINzU1SFVhTWQ1QzJsV0lNVFZROUM2R1lMOUNzTTlsbEtYczBFbUFaQ2l2aDJfMkZlUGoyTVd2aXdjd2NxNnFIbUlCMHlLMUpLM2hXQXJfYW5yVkJHV1FFWFZGMXpmbGh0NG1KeWw3ajQ5YUY2SUl5eFFYWjQ?oc=5",
           "draft": true
         }
       ]

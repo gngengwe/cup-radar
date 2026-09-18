@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-17T23:29:43.409Z",
+  "lastUpdated": "2026-09-18T03:27:16.349Z",
   "articles": [
+    {
+      "id": "news-auto-next-starts-now-bringing-the-future-forw-2026-05-22",
+      "headline": "Next Starts Now: Bringing the Future Forward at FIFA World Cup 2026™ - hyundai.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQekhlNWVwSWtMR1hVYmh0ckoyS2FkYWxUTnVXM2g3cG92My1ORjQ2YVJ2cWdUd0hOckl4cEJhMkNqcGF2SE14eDFiYkowb0ZuOVYzU0poMjgwUFpUN0R6YVlYRTJWVkR0aE04QXdOcXZHMU9fRURDbXVqOFR6M205SUptRWJNdw?oc=5\" target=\"_blank\"&gt;Next Starts Now: Br",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekhlNWVwSWtMR1hVYmh0ckoyS2FkYWxUTnVXM2g3cG92My1ORjQ2YVJ2cWdUd0hOckl4cEJhMkNqcGF2SE14eDFiYkowb0ZuOVYzU0poMjgwUFpUN0R6YVlYRTJWVkR0aE04QXdOcXZHMU9fRURDbXVqOFR6M205SUptRWJNdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmgzdVlVOGJNT09GWmtodXVIZEwwYjY2d2UxRElKeFlGRFhsSW9udDdhZGhSWTlRZkQ2ZHUtOWlyS3RWR2E4UkJENjlqTF8zTnJvNnM5dGdQQVdpTlQwaG16ZVlxN1dJckJnR0FpekV4M3hVQVVPbXdNeGpKdmNEMTctdDM?oc=5\" target=\"_blank\"&gt;World Cup match day at",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmgzdVlVOGJNT09GWmtodXVIZEwwYjY2d2UxRElKeFlGRFhsSW9udDdhZGhSWTlRZkQ2ZHUtOWlyS3RWR2E4UkJENjlqTF8zTnJvNnM5dGdQQVdpTlQwaG16ZVlxN1dJckJnR0FpekV4M3hVQVVPbXdNeGpKdmNEMTctdDM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-uswnt-s-early-exit-from-u-20-world-cup-e-2026-09-17",
       "headline": "USWNT’s early exit from U-20 World Cup exposes pitfalls of scheduling outside FIFA windows - The Athletic - The New York Times",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-13",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVhzOC1CeWhKaWtSaktBaUppVlFfSGIxTnRKRnJYUHBxUUVPMkNnVEJMMVotT0k3Z0xkQUpRLWlVbjlTX2dKN2c1R0pUYS1DR2NPTnVzc1ZMWWY5VXFySkd4RzE5S1ZibFo0bkRfZ0pOYkFfS1ktMlZNWDI3a0x3QkF0em40TU9LV2EyX3ZoNnZnNzRpTUxUOEtIVzVPWVRNdVV5M1MzY2lCTE1pU3N0YmtB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usa-survive-spain-scare-to-set-up-olympi-2026-09-12",
-      "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0szU0JXNzA5d0NYQlFxcnpxY0Q1Zmd4UVFVNWdpd1JiM25YRElGZnRGazhBR2NWTEZwWU1WbFNPRmUxWHptcElISlFSQ3Q0SENuMFM0UzNLcnhhOUQzWE9Oc0ZGbzkza3hVTHktQ2lsa3ZRUUVUbGNxREw1aEdZVTN1cDJOUU1kSXFZc2xlRVVIdWUxWDlBdmtn?oc=5\" target=\"_bla",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0szU0JXNzA5d0NYQlFxcnpxY0Q1Zmd4UVFVNWdpd1JiM25YRElGZnRGazhBR2NWTEZwWU1WbFNPRmUxWHptcElISlFSQ3Q0SENuMFM0UzNLcnhhOUQzWE9Oc0ZGbzkza3hVTHktQ2lsa3ZRUUVUbGNxREw1aEdZVTN1cDJOUU1kSXFZc2xlRVVIdWUxWDlBdmtn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--abc-sports-ryan-garcia-vs-conor-benn-li-2026-09-12",
-      "headline": "[[ABC^Sports]] Ryan Garcia vs Conor Benn Live 𝐒𝐭𝐫𝐞𝐚𝐦 FIFA World Cup 2026 - Loughborough University",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOXRkVEZfMFh4dHNPUy1lTjJEMGs2akFMMkdMc0V2M1lQXzF5R0VERlE4U3JLWkpndEs5WjBDT3FmQWhqUWJfVTNhbGEyRy1mRnFPR3c4dFVOWWY5TVUtNXI5VW1yR2NDQmF6RlQyMndDNGhpeFBJeGNkNExiejNHNmVyZUdsQ3o3RmZkcnNaNGxXTjVRV3VhV0taemg1T1FhSHlxTkxaSEs",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-12",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOXRkVEZfMFh4dHNPUy1lTjJEMGs2akFMMkdMc0V2M1lQXzF5R0VERlE4U3JLWkpndEs5WjBDT3FmQWhqUWJfVTNhbGEyRy1mRnFPR3c4dFVOWWY5TVUtNXI5VW1yR2NDQmF6RlQyMndDNGhpeFBJeGNkNExiejNHNmVyZUdsQ3o3RmZkcnNaNGxXTjVRV3VhV0taemg1T1FhSHlxTkxaSEszVDJMZmx6RGoyR3cyUFBlZDRHS0RTM1RKTlA5TE40VFhTZUJRNDMzVzE0eEt4ZzNTTjR2Y09fMkREZVJqVlhqRi16VUZIMVhWYVIzN0ZxQWJTSGxRZk1sSUhGeXo0T0ZGeTkwTWNBdmgwc2FOemJhQ0ljb2ZTMnlkcU9NY3FCVklkYVNXOGk2RElNa19lVDhMa2NPTDczR3RJNF85MUVZVFZFRjZ2NmJ2UGxPck9V?oc=5",
       "featured": false,
       "draft": true
     }
