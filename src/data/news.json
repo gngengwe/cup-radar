@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-18T23:02:31.099Z",
+  "lastUpdated": "2026-09-19T03:23:45.015Z",
   "articles": [
+    {
+      "id": "news-auto-quarterfinal-south-korea-vs-italy-live-s-2026-09-19",
+      "headline": "Quarterfinal: South Korea vs. Italy Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup - Fubo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRwbDdOWjNuYi1iQmYzeU0yVmJ4UWNuZm9lSTRXMTJSclFSZ0JqbDhiYXlYbkEwWXh4dG1kNUh1MmVYRE1ZT0k0RzhCU29IU1JxdUxMWVBtdlhLWHpPc3FlM0hxTmZybC14eGxBNWowQVltc3FtVFpUNUVFWE9LWmZsSG1wMGR5RGU0U3hBS0VleVl5dTVMOUZKallvWjVzaEFNTzhFdGh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-19",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRwbDdOWjNuYi1iQmYzeU0yVmJ4UWNuZm9lSTRXMTJSclFSZ0JqbDhiYXlYbkEwWXh4dG1kNUh1MmVYRE1ZT0k0RzhCU29IU1JxdUxMWVBtdlhLWHpPc3FlM0hxTmZybC14eGxBNWowQVltc3FtVFpUNUVFWE9LWmZsSG1wMGR5RGU0U3hBS0VleVl5dTVMOUZKallvWjVzaEFNTzhFdGhkS0lub0tHdXdPaWFNT2VTLTc5b3lYNUlJVTFNQkRLWFh3NUhzSWxtc2RMbXRsc0dhd1N6Mzl3NURR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
+      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
+      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-andr-s-cantor-brings-his-beloved-goal-ca-2026-09-18",
       "headline": "Andrés Cantor brings his beloved goal call l to the 2027 Women's World Cup - HOLA",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmprZU16YmNjQnZ2eXllRzEzcEdLNVMzd21IczM1eDFPYlpiQ05hVTJCdDVYUl9NVDBmaTZNR3V4M3VuWmJlM3hxeFdoVFRCU244NGVVbVhqZVhSeFVzdWpfRnlfX2NpU1ZjemNkeEkxbFE4R0FQaTh6UXdmSU9WQ3RlMmpGdU9uWkxib2FVczRtd19NWlowVDZfNE5VczRDRWpZ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-revealed-why-barcelona-sensation-lamine--2026-09-14",
-      "headline": "Revealed: Why Barcelona sensation Lamine Yamal 'wasn't happy' at World Cup despite securing global glory with Spain - Goal.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0FLZkI2T1gyRTVBYVpqajRtTXZtQnMzajJfYWxscHRSUFdBSG8yQWJoTUVlUTVzNkpCRmwtZ0pyWHpmZmY3ZWY5QkpHR2dUanZwV0hCcUM3UWh2bU4wTDNxM0toU0hfMnRTQWZPeml3SktXemdKX012S1J2MTRqNHNTTVdYaXpTSC1XSzNhQ3RPTjl0bWpvNV9yM3loNjY0Nm1zWUpCWQ?",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0FLZkI2T1gyRTVBYVpqajRtTXZtQnMzajJfYWxscHRSUFdBSG8yQWJoTUVlUTVzNkpCRmwtZ0pyWHpmZmY3ZWY5QkpHR2dUanZwV0hCcUM3UWh2bU4wTDNxM0toU0hfMnRTQWZPeml3SktXemdKX012S1J2MTRqNHNTTVdYaXpTSC1XSzNhQ3RPTjl0bWpvNV9yM3loNjY0Nm1zWUpCWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifpro-europe-calls-for-fifa-reform-afte-2026-09-14",
-      "headline": "FIFPRO Europe calls for FIFA reform after Infantino's failed proposal - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXFYUzVpWlhrdGJFMWJwd25MVUppRlFnQnFJYi1RVlhRUnh0OW1vdVBNdUVFMl9RRVh2dEtyOU5SV3R3U0pzWGxNU3YxTG1QbTFYZjFMT1JERC11NlU0eXVHUGdjOXBuSl9ZaldjbkhtZ2Y2c3JJbkN0MUZRWW1GMHNXbnNqSDl1N1ZoUUsxbkpyV2Nqa3J0OWxhMXRpd0pPSWMzRkdoU1J",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXFYUzVpWlhrdGJFMWJwd25MVUppRlFnQnFJYi1RVlhRUnh0OW1vdVBNdUVFMl9RRVh2dEtyOU5SV3R3U0pzWGxNU3YxTG1QbTFYZjFMT1JERC11NlU0eXVHUGdjOXBuSl9ZaldjbkhtZ2Y2c3JJbkN0MUZRWW1GMHNXbnNqSDl1N1ZoUUsxbkpyV2Nqa3J0OWxhMXRpd0pPSWMzRkdoU1J5YnNNYk5JSkZSZXA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
       "featured": false,
       "draft": true
     }
