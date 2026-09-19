@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-19T20:07:38.146Z",
+  "lastUpdated": "2026-09-19T22:41:50.577Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 443,
+      "chapterCount": 444,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3562,6 +3562,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHpVY2taZm9LUXI2TGM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789857708278",
+          "date": "2026-09-19",
+          "title": "Lionel Scaloni hints at staying on as Argentina coach despite doubts over his future after 2026 World Cup - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1VfMnUxcVIxWGthall3dWloN1lScGZKOVdvMkR5Yk84a3YtdGRVck11RTJFMWFhM2FLX1liNEdNU3FMYXZEUU8wdlFpNl84MnIwcGR1TlVCWWc3TlNJY2ttQXZpTEJZV2lqazluTmI3OFdnV041NGNvbEVYeGJ6UG5zVVh2OFZFZWdVdGJBMkZtTjhnQjNBRTdaWndJZ3pnZ3VQUlhCempSTEpWS3VUTHc5WG1vY09hcXZfTC1fN3FTZnVQNkljM1RqbllDeTYxTWk3T2N30gHaAUFVX3lxTE9ocnh3b1NhUlR0aGl4cXlXMHVwQzlVMzY0UGVuNnZVbE5PQVRVMUtkaUhKSXhEM18tM1lKdV9mbTBGZXNTaGlBV2lyVkVlalR6MFI1UFZMN3BvdVZENFFLOUJYQ1liN2U1LTdvOGRxN2Rfa1FJN20wdm43cDdPZmlQWnAtZUVRN1JFbThUTWlwNTRLTzlOWDdUUHlPeThiN19DWUQzbUNyVEZPNWZPZGtiSmIwS2k4aG9Mb1E5cVhrRXVRVTlrYTY0U1ZNOVAzOGc5MG8zZE9mbWhR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6583,7 +6591,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 947,
+      "chapterCount": 949,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14160,6 +14168,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnpfSGNKTUlPSHlsei1XUnc2d0hSVUk3TThBUGtQclRhUzFBaURTOGJva1REUXp3TmQ2OFNlTmZ2a3BId0ZtR3g2ckpMc242SEpRdmlVV1FDMVE2eHdZOTdya1lrVWpwN2RjNU5zRVVsU3Rqakl1SGJlM0wxVEJXck5wdEdIOV9UWVY3X09nYkdzMzEtcWNoZXJSTHZ0MmpMNFNpTXpTakw1bm5RTGpaaWdUQjhRNFB6WGdLd0c3dVl5VUs5anl4MEVIN0xkSTgxdVdOTjAxY3pXdjdJY2hrX3FmME5JV1J4aExoZ3d30gHyAUFVX3lxTE1YZWFpYUp4T3lRSHY1UU5Yck04T3dMM0tOY2ExQm11SjY4QmFPaExvM1F5cjFRQUVUcjVkcmdfSE9LVmpLY0RteHlqOEROUDItSjFlSW50VUVsc3l3RU4ybnNUR3RDR25DNGlNcEllYTFZM1IwelJFdHhWYlFZOG13bEZLNHdXeUJ4NExmWUtpTTdSYjV6VFNWbUdFc3VvM0tRUXh5b0Zqb2FDOU90UnRRS21JbWdubXFJQVd3Qzd4ejYwZUdjc2NGUU9oNUxBVldkWkREUmJjWnc1ZUZsWjRyMGNWd0ZWSGxCRXRJVzJvdV93?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789857709386",
+          "date": "2026-09-19",
+          "title": "Chasing the League: Cavan Sullivan’s scorching form, USA out of U20 Women’s World Cup - fox5sandiego.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnRWVTc5dHhHX01rZmZzY1VuN2UtR1kzX1lucDhqQ29WOHhfY0FZejBYTVVSX3l0R3RGQnBQa0oyUzVqeDktbkY4STNQanhvTnJFTk56TEo0VTZKVnp1WWthUDFyREtqTE5KdWJFQ1NkOEdmdy05akRMeDVjWGsweE9PdlBEREdfZ2FqTkFGbDBrbWFIT3RGd0s4dEZRNF8xY21veHBkb1BtaUpaRndubTVR0gG3AUFVX3lxTE9ibkFwSXZwbV95b2NfOTFXX3owQVFVSjN0d0lFRk5mdnJsVFd1Y3R1bFptRU9WQVIyQnBXTW5ocDVmQ2gtaW5qVUtTLXM2TjQyYVF3aUlZdVlQTVZiMGh1dFpzRFUxemU2QjZsMzJfc1VoYzhwMWxJREJWRXVKWURqY2lqLXhNdUhnYjlEQmZINWtDWFdVaTRRS3o0bjhRWnpodWZfVE44WWgydTlRcXV2MmhVdEEyaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789857709386",
+          "date": "2026-09-19",
+          "title": "Iowa WBB's Dani Carnegie, Team USA win FIBA 3x3 U23 World Cup - Hawk Central",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHpqLXFITFNjSmtTRnF3WGZ4a0ZpcHBIZUR1dGFLdDlHby00R0VyWEoxMjJuLUY3ejRFZENTa1B1TWZhN0FIdzE3WHg0cl92dGU1Q2RHRTdaMU11RlBaMVdwUDNKaGVNUkhySW43YzBvaWJxQnFITDFra2tZUGpwaFZEYTBUN2ZnVXZvXzAzNDhwNDNNYW5Bdzg1cWtfRzZtSTNWdWI1aFpMLTRnWE1fZ2NUM0FFUGxkVlpyc3B4bFduQUp6OWE1b25tTlhoVDNCZVVvV0ZGLXpOYVliYy1v?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14178,7 +14202,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 626,
+      "chapterCount": 627,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19186,6 +19210,14 @@
           "title": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti’s 2026 World Cup snub - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEhHRzNLRGFLbjhOZzR2MDllVVNYRHgxa2J6UzZ5Y2xLUm5NZlVBTlZ2by1zbmpoLUpYX2UzNW5Sd281VkRDS3B1cjNFaFBqbkVWd3lfbXFYanZkWF9La21tRk91UXgyZFlsclpWcHNrb2F0OGZsWERoMmp4bEY1dDZ0S25JTjdGaFpGck12a3NnZ0NMcmdqQmoxTHg1TmF5Z2RYWkN3bHZFY19Zel9hTlNmVGFyV2hrejF1MjRrZ2hYdHBIUVVpX3B5RdIBzwFBVV95cUxNUDZtMjYyMTVvUHNIRXh1MlpJbDZnVjR5YkU2TU5Pa2JRQzl0anpqbVlBTVY4MzJuay1TYnB5a3lEaldzYlE5OUdMczJJQ2h5ZkJhemJNNEtDcjIzR2EwZUktUU9wRWMxR1g1bDRya2M1U2dpa2N5RmJmM01EVTNlcm1qX2JBcnJucl85Wm1OMnRObld0MXk1ODJjaEk1dXhrQUxSMVQ5VjcxRFFPb3ptWlIzWUE4THFTSzhMaHBQU2p0czJ0YlZud3MzMTVJS0k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789857709899",
+          "date": "2026-09-17",
+          "title": "Brazil squad reports for the Super FIFA window on Monday - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFlvWEFSenBtelZYOFNsSHB1MWdmS1d2bG1fcVJnX2xyR09NcFhZeXExdUpZVnhJVzJNM2s3ZklhRXRKd2xZdTVHTFRSR2lRbHBMOEgzUFhFYnFEdnhGQkRMS0Fhc0ZRb0pzLXh2ZU1Nd01xTDVqREcxSDVDR05keFJaWG9nZjg?oc=5",
           "draft": true
         }
       ]

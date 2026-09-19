@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-19T20:07:35.086Z",
+  "lastUpdated": "2026-09-19T22:41:47.648Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
+      "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5\" target=\"_blank\"&gt;Fifa World Cup plans: Gianni Infantino scraps private investme",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
+      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-lamine-yamal-calls-lionel-messi-the-best-2026-09-19",
       "headline": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - Morocco World News",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-15",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0txSW5qb0EtV0N4Z2FHUlZaSi1JZG5NZ19yazVCRC1Ma3BvTFZGVENSMXlJYWliVmR0cWY0SjdrWXdkUi1vN3VMaDgydUNISkUzcFk0U2JheXJZNTBiel8tWU9Ib0lJVmtveHJlaEd6eXVBVDBhM3pYUWM5MnBKMUhQbWFEYzVrQTFWcm9EQm5taEVSUnA5REtYbjlaM2stTEZZbHVBbmNQNGNmOUg5SnFxZTBGdHBaTXc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-lumen-field-s-world-cup-makeover--2026-06-12",
-      "headline": "Inside Lumen Field's World Cup makeover - KNKX",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5\" target=\"_blank\"&gt;Inside Lumen Field's Wo",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ014LXFPdzdta1lqRXdvUE5lWVR6alB1TjlCc0JzeFVrZVk2UVVBYlVXYjBIeFFRSmdTbjNZbEdILTBIVlJtcDk0UHU2SHlYNzdyei1tOHFEeGp0dEhoeUFqS1NPN1JXVlI3SFB6aVE0V0E4a3FkZzdVMmtuVG02ckMyRQ?oc=5",
       "featured": false,
       "draft": true
     }
