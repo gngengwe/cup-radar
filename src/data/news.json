@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-19T10:24:13.256Z",
+  "lastUpdated": "2026-09-19T15:27:10.329Z",
   "articles": [
+    {
+      "id": "news-auto-how-sports-ministry-paid-a-purse-holder--2026-09-19",
+      "headline": "How Sports Ministry paid a purse holder $10,000 at 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmJCd2xvcWVIazAyR1JHMllMVExNbE5OaXVtdE53S1BKMVVzZlpRT0p0b3Jqb1VFbVNDa2FHTmVPbzhNWkJBLXkyX0prd25kS2FSSS1ZMmFRLU03WHNabmhGOTRkTG45VUFzdnc1a3VPdkpuVVpDelphUkNoWlktZ21wcWpad2lJTzZYUHM2d3QtaGpMc2p2MHRoRklqMllaYm5XRXdNOHl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-19",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmJCd2xvcWVIazAyR1JHMllMVExNbE5OaXVtdE53S1BKMVVzZlpRT0p0b3Jqb1VFbVNDa2FHTmVPbzhNWkJBLXkyX0prd25kS2FSSS1ZMmFRLU03WHNabmhGOTRkTG45VUFzdnc1a3VPdkpuVVpDelphUkNoWlktZ21wcWpad2lJTzZYUHM2d3QtaGpMc2p2MHRoRklqMllaYm5XRXdNOHlrZnVLeGk5akl0S3Z1b09VUzZyMjRHaEc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-records-show-kurt-okraku-was-paid-50-000-2026-09-19",
+      "headline": "Records show Kurt Okraku was paid $50,000 as honorarium at 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVJQ0JNTmxWRzdmZDJCQTRWaEZGZENMR2RUV0JUYWdpYldHVW5QU1B2MmdLaFg5M2FCV0daNnk2MnRSV2wzUktuRHAzOW5ISUNXcFVXRXFOVjdFeVJEMUdSZUdYbkk5TVpKNW5mbjdqZ0YxZTZRX1pmU0V3OFVUYzlISEV2bF9rUmtuNEFkWU9wcDBpbTZ6clVUQWgwcFEwNk12OUcycmp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-19",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVJQ0JNTmxWRzdmZDJCQTRWaEZGZENMR2RUV0JUYWdpYldHVW5QU1B2MmdLaFg5M2FCV0daNnk2MnRSV2wzUktuRHAzOW5ISUNXcFVXRXFOVjdFeVJEMUdSZUdYbkk5TVpKNW5mbjdqZ0YxZTZRX1pmU0V3OFVUYzlISEV2bF9rUmtuNEFkWU9wcDBpbTZ6clVUQWgwcFEwNk12OUcycmpPU1VnTXJPc1FabmpPNnhnXzRHbmdFQkpObDVTbDhJcHlGTXZlUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lumen-field-swaps-its-world-cup-grass-fo-2026-08-19",
+      "headline": "Lumen Field swaps its World Cup grass for artificial turf - Axios",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5\" t",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-2026-to-feature-expanded--2026-09-19",
       "headline": "FIFA World Cup 2026 to Feature Expanded Format and Venues - India News Network",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0N2NlBWTTFpSGlzb19TTjJ5djZaSDB6SU1oVzVHTHp3NmJydnpLQUNKbzdUZlo5Y0lRYUp3ZTJIU0E0ZzJOekEyRWRLb0lWRFZOMURjLVVmLUs5aFFRUUF1bzhDWERsbXhodGJ6WkV5YldpRkhRTlVrRFFuQk1nRy1yNnBzUUVkQkQ0a3hpT2NfQU84cER4MnpsNmRpbFNWaEg5RjRadGM3b0RoVWlRNUc5a09PMXFpcXgwU0w2Zw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-alex-morgan-crystal-dunn-marta-among-pla-2026-09-14",
-      "headline": "Alex Morgan, Crystal Dunn, Marta among players calling for FIFA to move U-20 Women’s World Cup - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dzNTV2Vk1yeEFoTV9keHpmTmdCWXpPM3h6eDU5akpEY3ZLUW9LX0xSVmNTTVVhT2hBNFl3NFBtLWpKZUlhd2JsM0EyMG9DVE5ILWFNbk45RVVZcUJua2VjVjlsRU1MY0FnVUktU0NoNnN1UTNzeUtVR2tSVWJEdG1ITDFWSUhWZWtVUEx3QURnVFAtQmRqQkJIclJ3UFYwMGt3SHdB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-sets-the-standard-as-a-fifa--2026-07-16",
-      "headline": "Kansas City Sets the Standard as a FIFA World Cup 2026™ Host City - FIFA World Cup 26™ Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
-      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
       "featured": false,
       "draft": true
     }
