@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-19T15:27:13.497Z",
+  "lastUpdated": "2026-09-19T20:07:38.146Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 442,
+      "chapterCount": 443,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3554,6 +3554,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZTlKc2h4V0wtYkFlYkhqdTkwZjBmNm1JR3BzYkpueUFlbjF6Umc1OVJFcl9uTGN1TlIwcnBpVjFrcFFOQ3hBb3h6alNCMzMtbjdxTG5nNUItTzFHZ2JtbEhBTlpsVTlHbmZMOEQ1RHpoNUZ3ejVPWVJfZjkxekZGOW9iSFN3RlFZekIyaUY2Qm95OTZDcXJuVXY4Z3VKTnBhOVdnNU42VHkzSTg3NkF0U3RhT2ZySWdIeEZSX2hOSUZSanJ0bWpvT2RqV2U0R2gxQnBnMTEwQURtYzJOUUVVWGU1SHVFMzVfc1ZHMllURkQxY0FpWHN4Z194c9IB_wFBVV95cUxPdEs0M1FaUURFOV9tdndTcV9nQUIwV0kwdlVPZG9KTkZKRHpZWEdUQVBid3dRZVRIQktQcmlQcHBZOUM4UzBzbWg5a3oxMmRycFcyN0ZTRTl1NTlOWHExM2VqODF0QWljMzMteXNJVTQxN3dzZ1VwVEpTQmp1NnAya2JoYkpVWjljRk14NTJIWndFNmJuVlFNaXZPbmJiUmhRamRZWkVpRVJCcTZPQUh6bEMzYmZJaVdfSHVuRmlkcFJGZUlwTzJ4alc5RGdYdUVuRUhwTnpMQjlnTHhzWEZWUlg4RDJCTHpPc043ZTJMWmJTOEFFeV9NVUItM2E2NDQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789848455619",
+          "date": "2026-09-19",
+          "title": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - Morocco World News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHpVY2taZm9LUXI2TGM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6575,7 +6583,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 946,
+      "chapterCount": 947,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14143,6 +14151,14 @@
           "title": "Mauricio Pochettino dealt major blow as Bundesliga starlet Noahkai Banks rejects USMNT for Germany - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDhzck9RQi1PcHdzQ0JSbEpiWkxrdlpUWGxqME5XN192UUdkbWFidHEwMEZWZTdzekQ4eE5uekZhR0hlV1d4U1c3VjZqOGkzS2ZySHlkR2NkTG02THJnSy1DZnpZMzdyTHZ0SFpWM1l0Ynp0S2l2dFpQS2F0MWZSTGRaMVBCR094N3lIWndTRDN1M19DbE9lWGd2dDdmbWJVYXNGZDRHUzljMzFHbEpDbS1SeUE3S1NVMTh0MV9VejhUVUdEYkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789848456755",
+          "date": "2026-09-19",
+          "title": "Christian Pulisic gets major Milan boost ahead of Serie A clash vs Lecce after USMNT’s unexpected post-Worl... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnpfSGNKTUlPSHlsei1XUnc2d0hSVUk3TThBUGtQclRhUzFBaURTOGJva1REUXp3TmQ2OFNlTmZ2a3BId0ZtR3g2ckpMc242SEpRdmlVV1FDMVE2eHdZOTdya1lrVWpwN2RjNU5zRVVsU3Rqakl1SGJlM0wxVEJXck5wdEdIOV9UWVY3X09nYkdzMzEtcWNoZXJSTHZ0MmpMNFNpTXpTakw1bm5RTGpaaWdUQjhRNFB6WGdLd0c3dVl5VUs5anl4MEVIN0xkSTgxdVdOTjAxY3pXdjdJY2hrX3FmME5JV1J4aExoZ3d30gHyAUFVX3lxTE1YZWFpYUp4T3lRSHY1UU5Yck04T3dMM0tOY2ExQm11SjY4QmFPaExvM1F5cjFRQUVUcjVkcmdfSE9LVmpLY0RteHlqOEROUDItSjFlSW50VUVsc3l3RU4ybnNUR3RDR25DNGlNcEllYTFZM1IwelJFdHhWYlFZOG13bEZLNHdXeUJ4NExmWUtpTTdSYjV6VFNWbUdFc3VvM0tRUXh5b0Zqb2FDOU90UnRRS21JbWdubXFJQVd3Qzd4ejYwZUdjc2NGUU9oNUxBVldkWkREUmJjWnc1ZUZsWjRyMGNWd0ZWSGxCRXRJVzJvdV93?oc=5",
           "draft": true
         }
       ]
