@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-20T20:23:57.941Z",
+  "lastUpdated": "2026-09-20T23:01:16.360Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 446,
+      "chapterCount": 447,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3585,6 +3585,14 @@
           "title": "Is Lionel Messi playing today? Projected lineups for Inter Miami vs San Diego FC in 2026 MLS season - World Soccer Talk",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWlpQd0hnMVAwSEpIa1JTSGpaSk1EQjRPXzFjVmhuMHBNbVViVmw1bzZHQVkwNXpfb2hhWWItNjhKWEh1SWVwakFuekRVdG1qc0kyZS1QZUhEQ0UwZHdweDZoWmtxdTNTa0JsSzdtVzFuVEM3YVBmcDAwZ1R5dFVpMm5WZW0tOG8yMGNOOG1uTWU1ekpLZmZtVWpBVU5QNngxNjRLeFdYc2tXaGpRTlRZbTMtMHB2Ny1WRkN2Vk9sZmdhOElUczZYNnV4RULSAdABQVVfeXFMTTFNUUg5Z0JsTWZmNU0tVnU1bWtCcGpSUFhfZzY2X3U5OTNYRjM1OGY2VmZCb3NVQVF6eTdyejNWdkpNX01Tc1lFRzNWYmFNN0pMSHYwTzVQeW9PYUdpSjFfd0ljVDNGLURlVnJJakZSX3Bwem40UlZJNDluTWZEMTJ3TGZlaTc0ZU4zY3luU2lhQU96Z1hWR3VrVVBIQUtNT1FQejZpTU9taFlvRUFHSXQ0MEJFQVdyZi1EcGRJVVZjS2NCMHlsaTZqVXlFVE1sNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1789945273831",
+          "date": "2026-09-15",
+          "title": "Lionel Messi to play final Argentina game vs. Benin in October: ‘It will be his last dance’ - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWdEa2ZPcDRSbk9ZSkVkOXd3Y0cwbXZKa0YxX2hsdVl5aUZQS1ZOSTVXeDdsVzJKNUt0TERCTE5ncURYY1hEdjlfNE1oZ3h1ZjdRWVl2QTN2Vnc3ZU51dGE3Q0JNb0hudnMzR3k0Q1ZsTFhBRmZ3ZGZiQlRSemxIUXFCclNmTzViRm1EN0FhOGVlbTZTc2c?oc=5",
           "draft": true
         }
       ]
@@ -14258,7 +14266,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 628,
+      "chapterCount": 629,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19282,6 +19290,14 @@
           "title": "Former Australia captain Ryan absent from Socceroos squad for Brazil friendlies - Reuters",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1tMGQ3eXVJZXIyaGRTcFdOR1p1V2lXRzFTVU80ZG15Y2Y3UEVoZWEtSzdyQWJWWERPaDRnOVFjbFpqLUdEMkNKNWVlTG9jVUhYQVhnOUUxVzRzTloycU4wa0xmSlJFWWpwVzlyZHMtLUN3ZUd4SDNpU3FFeENINFlySXY1OTBwVTNDYjdSakJFTjV4cUw3SUVQakRZdnBfekZCYXMxYlZUb1RLdkdtcExGMlhIZ25wRGZ0NA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1789945275527",
+          "date": "2026-09-20",
+          "title": "Brazil takes three golds at World Challenge Cup of Szombathely - International Gymnast Magazine Online",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFA0MEVSNC1KVmJHRndYd1VNUFNrYmdLenJ2UVluT0RXUWpzV3U3cnhwQ3o4X1JFdGVMX0JBZkxiYktQeWwwbk1OMW1XYWxZVmZsU1F4QmszVEo1YjVHQWVzeENQcmhuTFJHZlF2SnR5Q24zVkp1Z2tzR3dLdTBmZjQtRWNvR3JYWUJLRFdSVzQtenU1Z1RidlNaMlo?oc=5",
           "draft": true
         }
       ]

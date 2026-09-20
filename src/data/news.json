@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-20T20:23:54.572Z",
+  "lastUpdated": "2026-09-20T23:01:13.250Z",
   "articles": [
+    {
+      "id": "news-auto-infantino-moroccan-fans-passion-defined--2026-09-20",
+      "headline": "Infantino: Moroccan Fans’ Passion Defined 2026 World Cup - Morocco World News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0lxeFBBTEF5dm5tZjlEeWpONE45MXMwZExKTlNJcE9QaFpHcmdveS1WeGhqS1JvY0xQdkkxNEJpNlNpYWNkQzNlR2QwTG11RUl2NElfUWVMWGNyZDUydWtISmNFSy0xUWZnSGF3bUlMZWlFY1RfU05xQ0EwQ09uVkxwcEVrUGNpZWN1X1VBNVR3a2JvWWZWbFRFdk5iNGY3T2pCbTFR?oc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0lxeFBBTEF5dm5tZjlEeWpONE45MXMwZExKTlNJcE9QaFpHcmdveS1WeGhqS1JvY0xQdkkxNEJpNlNpYWNkQzNlR2QwTG11RUl2NElfUWVMWGNyZDUydWtISmNFSy0xUWZnSGF3bUlMZWlFY1RfU05xQ0EwQ09uVkxwcEVrUGNpZWN1X1VBNVR3a2JvWWZWbFRFdk5iNGY3T2pCbTFR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-has-a-new-plan-to-raise-billions-of-2026-07-28",
+      "headline": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup - NPR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0dGZFFocTR6eUh4el9Md1ZXbDJ3QVpLVjZmbkxVSnN0RnJSb2J2U0NpSnVabXVxUEg0b21IUVZjS3pDdDRneS1OeDFjN1RCdXZZSk9WQjA2ZW10dG43TWFlQlpNMElzTjhMaE1ocVNQQnE5RENwZFh6N2ZxanFzOE5n?oc=5\" target=\"_blank\"&gt;FIFA has a new plan to ra",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-28",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0dGZFFocTR6eUh4el9Md1ZXbDJ3QVpLVjZmbkxVSnN0RnJSb2J2U0NpSnVabXVxUEg0b21IUVZjS3pDdDRneS1OeDFjN1RCdXZZSk9WQjA2ZW10dG43TWFlQlpNMElzTjhMaE1ocVNQQnE5RENwZFh6N2ZxanFzOE5n?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-scraps-world-cup-sell-off-plan-afte-2026-07-31",
+      "headline": "FIFA scraps World Cup sell-off plan after resistance from members - reuters.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHV2NFBiNDJaZWFBMktGVnVoNFVrSlBYQ3l0LW1nS2U2aVoxTDZIR0J3Nk55dGlVeVVUdU16RnIzZzZOTkxfYmwxcjZKVUdUdlFRX1pJc0FOM0xESmIxVkZkeDB0ektpYlM3WEI4dlFsRUNqdzU5OUFpREh6RXpzNm0yN3ZTendFbFJVTkV1UldkOVRpOHB2MThULWlPUDFWTWExNXl2YnV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-31",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHV2NFBiNDJaZWFBMktGVnVoNFVrSlBYQ3l0LW1nS2U2aVoxTDZIR0J3Nk55dGlVeVVUdU16RnIzZzZOTkxfYmwxcjZKVUdUdlFRX1pJc0FOM0xESmIxVkZkeDB0ektpYlM3WEI4dlFsRUNqdzU5OUFpREh6RXpzNm0yN3ZTendFbFJVTkV1UldkOVRpOHB2MThULWlPUDFWTWExNXl2YnVUZnZ3M0ZJ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-argentina-3-1-switzerland-aet-fifa-world-2026-07-11",
+      "headline": "Argentina 3-1 Switzerland (aet): FIFA World Cup 2026 – as it happened - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1B4LVZvZ3lTNlFjc0ItQXNsMXFscEluNUc0TVJmZ1phQkZzZkNPQ1V6ZGMwbmxPRXdxWDdpZnBGbEZKVTJ6SklfbGN5RmtvNElDZ0p5UHBNdnFfemZiSEt2NFNHeWhOUUNjeWE0VGYtSzdSWHduYTZxYS05OW1ZZ05KNElkS05DME5JQmRXSGtFTllNUmRqTzZlTUNhLTdqM3Rz0gGoAUF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1B4LVZvZ3lTNlFjc0ItQXNsMXFscEluNUc0TVJmZ1phQkZzZkNPQ1V6ZGMwbmxPRXdxWDdpZnBGbEZKVTJ6SklfbGN5RmtvNElDZ0p5UHBNdnFfemZiSEt2NFNHeWhOUUNjeWE0VGYtSzdSWHduYTZxYS05OW1ZZ05KNElkS05DME5JQmRXSGtFTllNUmRqTzZlTUNhLTdqM3Rz0gGoAUFVX3lxTE5IRm1yQUotclhTNGdRb3ZWVE1QdW9HR1g0UDZSUW1OeWtlTTBjQjU2b2ZSblBhZGFtMEd3WExPdHUtYm83QmhGeGQ1cTIzUVBmWW13cEg1NnBQQm5tWV9fTTN5YWhqM1ExNVBIajZzRmVUbHhTaW5saFNLT2w1Mk53M0FQRldlS3ZtSldxZ2dMUHk1ZW9PTTRwalY3ZUR2eXZUemxOSTNVcQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - kmbc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-nu-stadium-announced-as-host-for-final-p-2026-09-20",
       "headline": "Nu Stadium Announced as Host for Final Phase of FIFA Women’s Champions Cup 2027™ - Inter Miami CF",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-15",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R2Q1JPOE9NVHpvNnRGTktnRmJlSmF5UXpqcXdKNDI5SWxHSFNIS3Nhd2Z5OEZFb04zVmFDYnJrSnk4d1BZSXZKbkUtSm1GbVpMcWp0SE9jZ25Vb0xrOVdBT21Idjc0MFhxOEtwVVVCY0FSOFk0a1JzemdFZk9wNE43OVBEdlNITVo5TTlmOXExMFNFdlZock5UdWNsbExUYUNkc3g0UEFwUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-no-to-the-fifa-world-cup-yes-to-cycling--2026-09-15",
-      "headline": "No to the FIFA World Cup, yes to cycling – How the UCI Road World Championships returned to Montreal for 2026 - Cyclingnews",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzVidjVFamxoZ214WGVDQzhTU2x6OGNMelg1a2duNFdTRDRHV1lnY3kyR044TC16UE84ZVBrRkJQeDBRUWJPQU1XQTN3Q1Q0ODZJZFpGVzFic05EdEZ0VEQ1SVZ5OWVndmgtR1FmNTMyb2huVG4zMWlNVkNBQXZPbUNiNHBEcjU3VkRCWXA5blBQZVdZeTBnS3pyenBlMlFQM3pLRGctcGx",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-15",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzVidjVFamxoZ214WGVDQzhTU2x6OGNMelg1a2duNFdTRDRHV1lnY3kyR044TC16UE84ZVBrRkJQeDBRUWJPQU1XQTN3Q1Q0ODZJZFpGVzFic05EdEZ0VEQ1SVZ5OWVndmgtR1FmNTMyb2huVG4zMWlNVkNBQXZPbUNiNHBEcjU3VkRCWXA5blBQZVdZeTBnS3pyenBlMlFQM3pLRGctcGxsZVVDWXAtNnBPSlRIWUhzLS1BejFwZ0c3c2pQSDFmUFlrMUNOcVBWY0VYaFIyUDlOQS1sa0cwUnBPTGV6Z1l3SEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-who-s-playing-who-in-the-2026-fifa-u-20--2026-09-14",
-      "headline": "Who's playing who in the 2026 FIFA U-20 Women's World Cup Round of 16 - DAZN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUW85cnpTYnE5a1ZsQXlXYmFaTTdrS1BPT3VJWmxXZzdSMFdQVGdUWFhBQzBzNmxLWlVTbEQxZ3BJMTZEaEhSUGI5eFFPQmxLalpOQnZiVTZXaUdDYjJRVHU1a2hOZ3E0Q2FQbms1SXkwWUVKOXM0d1ltY0gxUmVXYjJZV1JqMWt6UHh6TlVQdERFSU8wQWNFR05HYUhVSGFzcU5IM2FkVEd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUW85cnpTYnE5a1ZsQXlXYmFaTTdrS1BPT3VJWmxXZzdSMFdQVGdUWFhBQzBzNmxLWlVTbEQxZ3BJMTZEaEhSUGI5eFFPQmxLalpOQnZiVTZXaUdDYjJRVHU1a2hOZ3E0Q2FQbms1SXkwWUVKOXM0d1ltY0gxUmVXYjJZV1JqMWt6UHh6TlVQdERFSU8wQWNFR05HYUhVSGFzcU5IM2FkVEdkVERD?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
       "featured": false,
       "draft": true
     }
