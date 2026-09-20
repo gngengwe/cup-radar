@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-20T15:32:28.009Z",
+  "lastUpdated": "2026-09-20T20:23:54.572Z",
   "articles": [
+    {
+      "id": "news-auto-nu-stadium-announced-as-host-for-final-p-2026-09-20",
+      "headline": "Nu Stadium Announced as Host for Final Phase of FIFA Women’s Champions Cup 2027™ - Inter Miami CF",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3pzazNZSEdaX0lra0ZNN2N5OWJSMGpyM3o4QjlYWWNHckxmQkQzVG9GOTAyWVRrT2FNUVhobGN3WDNlUmpiaFl5a1VXc1k1RDFSRHA2TTRzeU05ZElaaTNXTEV3c2VFdkNYdk1Sajd5NnU5Nmt2czRnT1dTREp6WEh6aFhvQVVKMWlMVzN5a015SHhMTnYydHZOU0pUZG1vME9meVhqOGd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3pzazNZSEdaX0lra0ZNN2N5OWJSMGpyM3o4QjlYWWNHckxmQkQzVG9GOTAyWVRrT2FNUVhobGN3WDNlUmpiaFl5a1VXc1k1RDFSRHA2TTRzeU05ZElaaTNXTEV3c2VFdkNYdk1Sajd5NnU5Nmt2czRnT1dTREp6WEh6aFhvQVVKMWlMVzN5a015SHhMTnYydHZOU0pUZG1vME9meVhqOGdxSUVCTm56bnBfb2I3UQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-reshapes-catering-consumption--2026-09-20",
+      "headline": "World Cup Reshapes Catering Consumption Time Slots: Half of Matches Fall 5AM-12PM, Breakfast Orders Surge 60% During 4AM-5AM - 36Kr",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZTJjWTlySEM0c3JMcTZSNmkteUlsYUZvVW16YXV4MzkyaFZuZnV4aUwzMUtNSVZ4cHFma0FocmhleGs5TmRmdnd6MHhTMEhicmhv?oc=5\" target=\"_blank\"&gt;World Cup Reshapes Catering Consumption Time Slots: Half of Matches Fall 5AM-12PM, Breakf",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-20",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZTJjWTlySEM0c3JMcTZSNmkteUlsYUZvVW16YXV4MzkyaFZuZnV4aUwzMUtNSVZ4cHFma0FocmhleGs5TmRmdnd6MHhTMEhicmhv?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-laporta-barcelona-won-the-world-cup-than-2026-09-20",
       "headline": "Laporta: ‘Barcelona Won the World Cup’ Thanks to Eight Spain Stars - Morocco World News",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-10",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
-      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-grading-bafana-bafana-players-overseas-m-2026-09-15",
-      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1VJcm9zN3M5YTZNUm9FOGhsdXFNWm5LZV9oaTdka0FnT25GVjJaMzVrcl9xMmhxSHQ5SXBhN2J2TExselBJNmhrSkx1aktDVHlSamNfRGg4YjdONkFRREExS3Vvdlo3a2xsNVlRc2hpX1FOX2N1Wmg3LVdncGVIM2ducG1wRzU0RUxaZUVjWHAyeHZZaHExX1VpT0VOTk1GdkZvTDJJNFM",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-15",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1VJcm9zN3M5YTZNUm9FOGhsdXFNWm5LZV9oaTdka0FnT25GVjJaMzVrcl9xMmhxSHQ5SXBhN2J2TExselBJNmhrSkx1aktDVHlSamNfRGg4YjdONkFRREExS3Vvdlo3a2xsNVlRc2hpX1FOX2N1Wmg3LVdncGVIM2ducG1wRzU0RUxaZUVjWHAyeHZZaHExX1VpT0VOTk1GdkZvTDJJNFM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-road-closures-earlier-pedestrian-zone-se-2026-07-05",
-      "headline": "Road closures, earlier pedestrian zone set for Seattle’s final World Cup match - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXF",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUktscmljREtVQXZuSVlBOTlKcjctdkVzdWVHdVZxZVNuTndwOFBfaWc0ZVdHcExWTkJIVjByWGpVQXB0QWcxTTRpQkZTQl95LXZIQk5qODQ4d2FROEZzdmI3YnFYdmU5TEJ3Sk5aNzN2Nmhwb2VwYUdtNGdHNzRvdFBqTFhpSkRsbDhvSWNxWHdPU29ib0p5OWVwenFRQTVSaXRSZlFJNXFHaWhIUXVSd1loaVZGUnZaNW16Q1JnUjlOaVpFN3hLdm1hVnh4bE9JRGRJV2F3MzM3TW9Ka254UFhMOUZtVWs2bnpQb0N3Tm9SUTc1Y0dQT1AwUUp2TjY5RjlfTg?oc=5",
       "featured": false,
       "draft": true
     }
