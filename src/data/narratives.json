@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-19T22:41:50.577Z",
+  "lastUpdated": "2026-09-20T03:41:15.518Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6591,7 +6591,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 949,
+      "chapterCount": 950,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14183,6 +14183,14 @@
           "title": "Iowa WBB's Dani Carnegie, Team USA win FIBA 3x3 U23 World Cup - Hawk Central",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHpqLXFITFNjSmtTRnF3WGZ4a0ZpcHBIZUR1dGFLdDlHby00R0VyWEoxMjJuLUY3ejRFZENTa1B1TWZhN0FIdzE3WHg0cl92dGU1Q2RHRTdaMU11RlBaMVdwUDNKaGVNUkhySW43YzBvaWJxQnFITDFra2tZUGpwaFZEYTBUN2ZnVXZvXzAzNDhwNDNNYW5Bdzg1cWtfRzZtSTNWdWI1aFpMLTRnWE1fZ2NUM0FFUGxkVlpyc3B4bFduQUp6OWE1b25tTlhoVDNCZVVvV0ZGLXpOYVliYy1v?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1789875674061",
+          "date": "2026-09-19",
+          "title": "What to know about US soccer star Folarin Balogun's 1-game red card suspension, why team can't appeal - ABC News - Breaking News, Latest News and Videos",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODhnZnRkRTdiLWtrV2RZRVUtb2NteHQxV2lMNU1EdzFXOWlqeXR4X0RKaU5OWTlBY2RzekdDNVVBeHdtUXV4UHhOb0ZHQlNhLUhPd2lDYU8zcmhxb1B4N05MY0RpaDFxYS1nSkVJNXF4RVQ1bFpVMnFVWEJ4R1FfQ0pSd2RVYlVwNnZxNG9VdnN0VWtIaXZYUdIBngFBVV95cUxOcVRwamkwUV8zWm9sUkM4dWtMVHhkOW9PN1l2Y3pBWmFSTmo3S0gweXprd1cwWDhndzJBaVBiQUlrZUIzMzZCNlVyRFFiVFAxNDd3cGI5eDVsZFRMSG5Vc1hEMmdQMjFDOERKejAtbkdqMDBjWXJMaHg5QmxKZ2JvelJONklwMElNdnBfNzB2bWJFU0VxSjZ4UmhFSE5xQQ?oc=5",
           "draft": true
         }
       ]

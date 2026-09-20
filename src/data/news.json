@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-19T22:41:47.648Z",
+  "lastUpdated": "2026-09-20T03:41:12.384Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-rapidly-accelerates-plan-to-expand--2026-07-31",
+      "headline": "Fifa rapidly accelerates plan to expand World Cup to 64 teams from 2030 tournament - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWFPTVotX1JiNElKQ1Q0b2I5eHpWa0VCbDd6QUNNMG9CSDZNWnZRZWQxSGpsbVdRSjRUb203UXBTc0p4ZUR6ZzA2OFZkTnlPU05zRnQ4YVJfa0dodEZrc0VjMGRzSUZnT3YtNlZKUlNGcDFPMmVITDR6dHZXdUROejRYZ1ZaU01XZ0NTQnRVc201MVU3bmpHbQ?oc=5\" target=\"_blank",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWFPTVotX1JiNElKQ1Q0b2I5eHpWa0VCbDd6QUNNMG9CSDZNWnZRZWQxSGpsbVdRSjRUb203UXBTc0p4ZUR6ZzA2OFZkTnlPU05zRnQ4YVJfa0dodEZrc0VjMGRzSUZnT3YtNlZKUlNGcDFPMmVITDR6dHZXdUROejRYZ1ZaU01XZ0NTQnRVc201MVU3bmpHbQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
       "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUluZmZ5YUFrNk5qWG84RDBzdVRhRk9ha3BCR01DWUtFZWZjWEhBRWRuOFZRajg2aEFHVm9fWUdSZzBnRm9vX2xaYkRDNWJlVmtncEduMzNOUVZRTVgxVlJwUzhkTDFaU19aSkpscmxLbE1mVkxWa2gyZTZObkcwQmo4N01LZmxaQjdCMG9nME1mM1ZmTkxzdXBjZkFFWjk1bmJyVdIBpAFBVV95cUxNY3ZZWmIxbThJTmNPbHZJbThYTXVvR2txU2dfY1BVWkdCekZZOV9ZZGpCZ2xiMDVIVFdOS21IbkJGRnlOOFUzdzhua0NVLU5yalFGQmoxRG4zbUFZU0Y2SHNNQUJyY1IyUEhVZlhUcXpGSS1YamdHRnBRMVJWMGhOb1Z5aC1MSm5NWEhVY0ZLM1F3eC1ianNjY1RmVnNwbHRrQlRkOA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-us-open-cup-semifinals-preview-afte-2026-09-15",
-      "headline": "2026 US Open Cup Semifinals Preview: After World Cup delay, final four ready to square off - TheCup.us",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0txSW5qb0EtV0N4Z2FHUlZaSi1JZG5NZ19yazVCRC1Ma3BvTFZGVENSMXlJYWliVmR0cWY0SjdrWXdkUi1vN3VMaDgydUNISkUzcFk0U2JheXJZNTBiel8tWU9Ib0lJVmtveHJlaEd6eXVBVDBhM3pYUWM5MnBKMUhQbWFEYzVrQTFWcm9EQm5taEVSUnA5REtYbjlaM2stTEZZbHVBbmN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-15",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0txSW5qb0EtV0N4Z2FHUlZaSi1JZG5NZ19yazVCRC1Ma3BvTFZGVENSMXlJYWliVmR0cWY0SjdrWXdkUi1vN3VMaDgydUNISkUzcFk0U2JheXJZNTBiel8tWU9Ib0lJVmtveHJlaEd6eXVBVDBhM3pYUWM5MnBKMUhQbWFEYzVrQTFWcm9EQm5taEVSUnA5REtYbjlaM2stTEZZbHVBbmNQNGNmOUg5SnFxZTBGdHBaTXc?oc=5",
       "featured": false,
       "draft": true
     }
