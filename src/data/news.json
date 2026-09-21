@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-21T19:52:34.906Z",
+  "lastUpdated": "2026-09-21T23:50:40.041Z",
   "articles": [
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-every-mls-call-up-september-october-2026-2026-09-21",
       "headline": "Every MLS call-up: September & October 2026 international window - mlssoccer.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-14",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54U2Nna0RQSXJhSEFwZVl0eXhqVkJ2VHA1bW9RQXhoRms5T0JKbzc1eklOZElPNFhuLXBsMHhZT1RvV1g1MmkzY1dWRjMxc0RTSXBfSHlndDdOeXBKS0w2b3hneGlhcTE5d2xmdm52dUF5TmRMQ1pTdE1STQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-grading-bafana-bafana-players-overseas-m-2026-09-15",
-      "headline": "Grading Bafana Bafana players' overseas moves since the FIFA World Cup - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmlMU0JjeTh3akxYQmltRmdLXzdMWG9MS1YwRzJvMHJzbEVmaGl1eHpVVkNsWURRU2RzcE1nZi1USEpzd0RWNjBBaFV2cXZaUFBhTWN2RUtzbmw5SE4zSEl2TzljMFhGUmlmLTJ2MVJpbHpRUGtSeUpVdVFNaFRpMDdTX05kMm9nWWJBU2xYVU9MQjd0Tmp1S0ZWZ29PNU1WamZrM0M2UlJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-15",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmlMU0JjeTh3akxYQmltRmdLXzdMWG9MS1YwRzJvMHJzbEVmaGl1eHpVVkNsWURRU2RzcE1nZi1USEpzd0RWNjBBaFV2cXZaUFBhTWN2RUtzbmw5SE4zSEl2TzljMFhGUmlmLTJ2MVJpbHpRUGtSeUpVdVFNaFRpMDdTX05kMm9nWWJBU2xYVU9MQjd0Tmp1S0ZWZ29PNU1WamZrM0M2UlJZb3pj?oc=5",
       "featured": false,
       "draft": true
     }
