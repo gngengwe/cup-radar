@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-22T11:03:09.702Z",
+  "lastUpdated": "2026-09-22T16:22:56.033Z",
   "articles": [
+    {
+      "id": "news-auto-south-american-international-preview-mes-2026-09-22",
+      "headline": "South American International Preview: Messi Era Ends As New Eras Begin After 2026 World Cup - sports.yahoo.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2ttZkNXQjV6Zmh5RDE1UjZGZDhDSHdDY043emZLRk41TU9aWjFFc1A0OHRpZGtnXzlnaER4UHFTQkhSTm8tdVpOam02N1pLZHdkbmF5WkwyNlhFc1RwcFQ5YVZRTGFTaDJ2M0Z5Q2pvc3cycndmUkVRR2NYM3hvbUJLblZvMGpwLVJOX1BVenpIM0JJdHc?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2ttZkNXQjV6Zmh5RDE1UjZGZDhDSHdDY043emZLRk41TU9aWjFFc1A0OHRpZGtnXzlnaER4UHFTQkhSTm8tdVpOam02N1pLZHdkbmF5WkwyNlhFc1RwcFQ5YVZRTGFTaDJ2M0Z5Q2pvc3cycndmUkVRR2NYM3hvbUJLblZvMGpwLVJOX1BVenpIM0JJdHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-news-and-live-updates-usa-2026-08-01",
       "headline": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-16",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTNSMG41ZFpmSkxZM1dRS1ktbmU3RnhaU09rMXNyMDV4S0s2ZTNxLWg2V01nN0N5MWF0YlcxM3lIX01aRGsxand2OE9QdlVSeVZLOXJiQVZMYW41VDFpaXA5d3dTOTJkMENzdTJoaG5uSmF3Ykp6a3p4aFpGVjZmeTFMVHJER3FINWU5NUFpRjVkSEN0UEw4Um9ReFBJUXo2U2ZTNVNJT3JxQXdVOUtn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-mls-not-seeing-immediate-post-world-cup--2026-09-16",
-      "headline": "MLS not seeing immediate post-World Cup attendance bump - Sports Business Journal",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlKSFRaSHc2VXNtc1Y5LTFMaXc1QTB1LVdnbUdYcDJvV3VsTmc4cFNFRV9oVUxQeG9EdW5mOUt0aWJoS0t5WV9ZLTh3M2pKc1Jza1dwV1RzSzQxdUhMZ0JaU3U1cGlxVTJ5THFrZVk0NGxTcnVvc2hKbVZFRzFSUjJCX1U2cmt6MXcteUtKYS1HdXYzQjJVM2tmOHJyRWVqakc2REMwUnY",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlKSFRaSHc2VXNtc1Y5LTFMaXc1QTB1LVdnbUdYcDJvV3VsTmc4cFNFRV9oVUxQeG9EdW5mOUt0aWJoS0t5WV9ZLTh3M2pKc1Jza1dwV1RzSzQxdUhMZ0JaU3U1cGlxVTJ5THFrZVk0NGxTcnVvc2hKbVZFRzFSUjJCX1U2cmt6MXcteUtKYS1HdXYzQjJVM2tmOHJyRWVqakc2REMwUnY5cTVqYkVwLU52NE0?oc=5",
       "featured": false,
       "draft": true
     }
