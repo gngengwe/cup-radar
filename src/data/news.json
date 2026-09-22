@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-22T16:22:56.033Z",
+  "lastUpdated": "2026-09-22T20:56:43.619Z",
   "articles": [
+    {
+      "id": "news-auto-infantino-s-world-cup-sell-off-debacle-h-2026-08-07",
+      "headline": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-07",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-england-1-2-argentina-fifa-world-cup-202-2026-07-15",
+      "headline": "England 1-2 Argentina: FIFA World Cup 2026 semifinal – as it happened - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVFDYTVacHdvWk5MaFVmc3pyUVZ2elJvbFU4SlJnR0NUQTdTVWJ6MjVXVi1Pd2EwWTRDLXFUWmh2SDFNQTYwUE0tc1JFRU5tLTFJYTRub2c4OWk5OHAycm5oNHZvX3g0ZjVidGVHZGkzTzRhX0dUQ1NBLVpqaHQtLWFkcmNaMlBvUjZLRUxyeUxMUk9ISUVwaGFLTUFDdDVZdzZpbjNxTmR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVFDYTVacHdvWk5MaFVmc3pyUVZ2elJvbFU4SlJnR0NUQTdTVWJ6MjVXVi1Pd2EwWTRDLXFUWmh2SDFNQTYwUE0tc1JFRU5tLTFJYTRub2c4OWk5OHAycm5oNHZvX3g0ZjVidGVHZGkzTzRhX0dUQ1NBLVpqaHQtLWFkcmNaMlBvUjZLRUxyeUxMUk9ISUVwaGFLTUFDdDVZdzZpbjNxTmRmTnfSAbABQVVfeXFMUDVDaGJCd1ZfZzFsc1o5dW9mN0hWY2xSWlY2Yk55SkNOOGhUTVJsczcxdzlfMXpWNHpuQlhXQnE3cjlsazhxZWstVXdPbmg5Z096Ml9Wd3FiUGNuZ2YxVWdiMkxyaUJDYlZDcENJU24tSnhCaXp1S3M1QnlXb051eG45V19RU2p6bmJ3TXp0cnctZVdnRnlCSEttLVlzbnZwMDZIWUlLZV8tc1BidVBMV1I?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-visit-seattle-reveals-economic-impact-fo-2026-09-22",
+      "headline": "Visit Seattle Reveals Economic Impact for FIFA World Cup 2026 - Visit Seattle Washington",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5\" target=\"_blank\"&gt;Visit S",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-world-cup-festivities-generated--2026-09-22",
+      "headline": "Seattle World Cup festivities generated $889M, hundreds of millions above expectation - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOMkcyTDJpam5EMlp5ajZjSVVrM0FITUtnblU4SVdNaGcyUWloTDFzajJGWDJJSXBseFZpa0VYSzNXTkJlRWFReUkySGgwekZ3ZlprNjgxQmJFNjQ0ZGhRR1E0cnVQZDRFX2pEcnNSUnc1eFF0TjZMejh1Z3QtLTlJZUtaTDBSTTVlTVVoR0FLQ0JQemtEQkQ3Mi1sOURQWm9tN0x1YjNMYng",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMkcyTDJpam5EMlp5ajZjSVVrM0FITUtnblU4SVdNaGcyUWloTDFzajJGWDJJSXBseFZpa0VYSzNXTkJlRWFReUkySGgwekZ3ZlprNjgxQmJFNjQ0ZGhRR1E0cnVQZDRFX2pEcnNSUnc1eFF0TjZMejh1Z3QtLTlJZUtaTDBSTTVlTVVoR0FLQ0JQemtEQkQ3Mi1sOURQWm9tN0x1YjNMYngtTW9aOHA0N0JCQmRYVWpxX3dpXzBsRjViY2VZdWJKRXVtWFFVVEJIMVVieHJrbzRic1NDUEEtZlFFQlQzdkJtRFBkLXFkbkk0SW8zQXZ4dFpNck14Tk4xTmZ4bmpqbjNyM3lna2RGUWtNbnJVZmFDSW12YjladFFxdEF0aWU4OVI0WU5UNEVqd0daWmZpaWFYSkxGa21j?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-south-american-international-preview-mes-2026-09-22",
       "headline": "South American International Preview: Messi Era Ends As New Eras Begin After 2026 World Cup - sports.yahoo.com",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-16",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV25QYy0xWTE2NFM3VDVnajhpU25qTHZWZXd6ZjFhdUtpRkFaQzhYVW9kR0dyS243U2xjWS1DYkxJUm02Y2JmMi1EYWJrRUczT21NOEVWc2lDMF9NM1Y0MFFRYS1WRFNtVHM2em5GZ1pxcGgwckNONmxIZ0xJblNZaUtvMNIBiAFBVV95cUxPZ3VMWS1pWFBOOFpGei1ESWxpZ2Jnb3kzQkNFdGp2TWlwRHIxcmpNa2ItbkJJRWw3TUhGNzJicTZlQ2FFTVlJYjAxN3FyVHpsOG1Qdk9HeGEzOEZjZV9PdU1FTTdoaGJaQXRvZElQRWFSYnlJY0Rsd3FjckQ5bmJMSDdvZDlBaE42?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-local-black-owned-businesses-reflect-on--2026-09-16",
-      "headline": "Local Black-owned businesses reflect on FIFA World Cup impacts - The Bay State Banner",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0dJcEE1YVEzM016Nm9FZElxVjg5cGF2V1JsQzUwcTA3S0FYU3g2YWt4ZERXNmc3U1lmR1RBcWYwdUVvMk1SanI3bTVqaG43THhaMjd5YW5faGczYlVpUlZLSDlJRk5mM2hnM0d0M2FsOE9HQVVuTVFlVnlWX0ozWktKckNCaHd0ZUpxcnhyY1cyb2tzLURDOFdBaVJMVUxNLWR3?oc=5\" ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0dJcEE1YVEzM016Nm9FZElxVjg5cGF2V1JsQzUwcTA3S0FYU3g2YWt4ZERXNmc3U1lmR1RBcWYwdUVvMk1SanI3bTVqaG43THhaMjd5YW5faGczYlVpUlZLSDlJRk5mM2hnM0d0M2FsOE9HQVVuTVFlVnlWX0ozWktKckNCaHd0ZUpxcnhyY1cyb2tzLURDOFdBaVJMVUxNLWR3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usmnt-roster-for-september-october-2026--2026-09-16",
-      "headline": "USMNT roster for September, October 2026: Projected list for games vs. Peru, Chile, Mexico, and Canada - sportingnews.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMF9mbUx5dmxYU3F2UU91X3lnc1JfSF9NQlB3YlNNTFBIWWg5ZFNGS08wTWxCQmh5TEQ2YzlBX0VnUzdibE85cU9FVkk4Y2tqYkxrdjZINlM5RlBMWDVPSnU1eDV4dTR5ajFrSGloSno4a1Ffd28zd3g0a0Jjcjlhd1M4N2VreHBTb1I1aDBCa1JqOV9ic2M5eDhRcGFUeUlwQzB6enV0SWJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMF9mbUx5dmxYU3F2UU91X3lnc1JfSF9NQlB3YlNNTFBIWWg5ZFNGS08wTWxCQmh5TEQ2YzlBX0VnUzdibE85cU9FVkk4Y2tqYkxrdjZINlM5RlBMWDVPSnU1eDV4dTR5ajFrSGloSno4a1Ffd28zd3g0a0Jjcjlhd1M4N2VreHBTb1I1aDBCa1JqOV9ic2M5eDhRcGFUeUlwQzB6enV0SWJtYndhT29yTkdGMFc4amVNWUM4ZmZjZnRRU0lHSld1eQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-under-20-women-s-national-team-falls-2026-09-16",
-      "headline": "U.S. Under-20 Women’s National Team Falls to Brazil in Penalty Kicks in Round of 16 at the 2026 FIFA U-20 Women’s World Cup - U.S. Soccer",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGw5dDhOcF81ZmF0Nk0xbFVZUFBQak5PMjVJck5IdjdqYWVIc2hvRFpRRnBxMzR0RlFnY05RMnVndW9xTUtlS01MRkw4TmFFX0tCdWM2XzN3NXowQ3gxQm1fSDdZTG4xNHh5Z2ZQVjc5eFhvRi1lR25lU3RONkpMdnpFVHlrVFVfTFJvZHRfb0tuV09xMXVRWFV0ZkdpY3JtLXJ6ZVhBLXZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGw5dDhOcF81ZmF0Nk0xbFVZUFBQak5PMjVJck5IdjdqYWVIc2hvRFpRRnBxMzR0RlFnY05RMnVndW9xTUtlS01MRkw4TmFFX0tCdWM2XzN3NXowQ3gxQm1fSDdZTG4xNHh5Z2ZQVjc5eFhvRi1lR25lU3RONkpMdnpFVHlrVFVfTFJvZHRfb0tuV09xMXVRWFV0ZkdpY3JtLXJ6ZVhBLXZ6eDRYRWZlaDRR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-ousted-from-u20-women-s-world-cup-in-2026-09-16",
-      "headline": "U.S. ousted from U20 Women's World Cup in shootout loss to Brazil - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTNSMG41ZFpmSkxZM1dRS1ktbmU3RnhaU09rMXNyMDV4S0s2ZTNxLWg2V01nN0N5MWF0YlcxM3lIX01aRGsxand2OE9QdlVSeVZLOXJiQVZMYW41VDFpaXA5d3dTOTJkMENzdTJoaG5uSmF3Ykp6a3p4aFpGVjZmeTFMVHJER3FINWU5NUFpRjVkSEN0UEw4Um9ReFBJUXo2U2ZTNVNJT3J",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTNSMG41ZFpmSkxZM1dRS1ktbmU3RnhaU09rMXNyMDV4S0s2ZTNxLWg2V01nN0N5MWF0YlcxM3lIX01aRGsxand2OE9QdlVSeVZLOXJiQVZMYW41VDFpaXA5d3dTOTJkMENzdTJoaG5uSmF3Ykp6a3p4aFpGVjZmeTFMVHJER3FINWU5NUFpRjVkSEN0UEw4Um9ReFBJUXo2U2ZTNVNJT3JxQXdVOUtn?oc=5",
       "featured": false,
       "draft": true
     }
