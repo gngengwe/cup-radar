@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-22T20:56:46.683Z",
+  "lastUpdated": "2026-09-22T23:32:07.619Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3676,7 +3676,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 384,
+      "chapterCount": 385,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6749,6 +6749,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENWl0U3dKdVpZU2tBeU1rTVdwdkh1Uko0NXh0X083Qm94REYtalYtZUt2cERsdl8xNzhjSnB2Q2dpaE9yYWdncWI5OHBQMlJaUV9VSmxpODdJdjhFLXJFOEhCX3dzVEE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790119925749",
+          "date": "2026-09-22",
+          "title": "Kylian Mbappé Misses France Training Seassion With Flu - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWExyYXRkNlI0bW1WRFgyR0RlTFBPekx5Rm8wek1SLUluREFrWU43S25scklQT2lPNFdSNnM4UnpSUlRyZmgzcVUtMmVXYkhoMV90NnR6VXFTQUZEazhPa3VOajdpaTZJeHRPMjQyazJNTk9BclZIUzJ2b29XZElRMTFFUndRdGtHOG8yT01QOGJjVFlY0gGUAUFVX3lxTE9yUVRzTXJpMHgtNkN5dElwU21fcG55bWpVVTRtenJaUlFTZFM5bkl6bUdOVGRZWkh3aHB2U3Vxa3huMXlGYm1CSDBvaWgyclg1WFlBb2RQYkU1RGxELXNNcUQ0T3QtZHRnWTRvNUZLZE8xdG5QdklhM05vRlNpODJnZDQ3RElvUEhkT0d5cThvckF2eEM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6767,7 +6775,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 968,
+      "chapterCount": 969,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14512,6 +14520,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTW5QRjdsNW83ZFNMdUxqRC1XMVlPUlNIajlDZnVwTl94YUVVdmpCTjZmNVo0b1dYamg0UFFyTVVzNm5vREVMNk53aU41OUpkRzNUd2FZLXd3TFBXS0JkdDJFM2pHSF8yZV9jaVc3Nll1cVlzUHVwOGRrYzc4aTY5Nkt3Rnl0WGs4VUV0NEZJLXl4bnRnU25iRXZ4SGVSR2xiZkdqaDJ3Q2lXMlVtWEI5Y19B0gGyAUFVX3lxTFA4ZTh0U0ttWC1CWXhhQmJlT3NpLW81d0pxbnp2TUVTcjZya2dfTGlmX1Bab2k2ZF9pOXhJZUtyNFNJNWd6UTZPeUNmV0FSUFZkUllRdG5VSGFRbDQ5SWZqc0syQ3pHOUprS0NfQmhJaVNiOTBpWU85QzNjUGdrc0NlbWhEdkZfYnpJdko4VHUyYWFLeUM0VjRvV3RNU2pfT2IyV3lkNmFzSGVtVlNuUVhEWlE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790119926254",
+          "date": "2026-09-22",
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14530,7 +14546,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 634,
+      "chapterCount": 635,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19603,6 +19619,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVA0QXVJdzNOT1FBeWduQzh4NzNSWmszUTRuRWNmdjdqYWxpS0plcmFqMDVQWkJyM2tCbWwtT25XQVpqcjNVM0wzdFBqMERkZkUwbTA3MldITmVtUTlJbkFlZHczMVhjdUtBMlFPNDhSOWsxdklDempoeEU5ZWhKZ3ZDaGJkajR6cWp3UW9CYlk4eU02aEpmV3NoTFU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790119926829",
+          "date": "2026-09-22",
+          "title": "'Chosen by Ancelotti!' – Estevao breaks silence on World Cup agony after surprise Brazil return - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnRiSEZIdTc3Q2hGZ0lGd0RjWnhnblZKYU8xX2JQUlhqRUdfOVNmd2tiTExxV0lDREdsb1gzUVp3UU9DbmUxMU9LVDY5YjBGWTJGbzZDVktscGNCZFBfcjF4UTYtU3lXMWEtWHllbmwwMlUyZVpHOGFMQWFxRDVjTFdUOERZU2lxMi0tMlQ1ZFgtOUtiZjZIc1VxU2QwRFdULXppX18wZkxFNzdzdTVQbE10VQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -19832,7 +19856,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 895,
+      "chapterCount": 897,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -26992,6 +27016,22 @@
           "title": "Cole Palmer, Declan Rice Ruled Out Of England's Upcoming Nations League Matches - foxsports.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGN1c3hrQTRpUmRLVDRaQjczRVUxZk01SUNKNFFPRFZ6ZXcwS3h3SWptVHZYRlAyVFlkdUFlZkhsbXFBU2lMc2ctdEF1b3hIdnJKY2lqdU9zZmQtcFNGMFoxYUNRNnJUWnVFdVFUcTdibUstQ29iS1ZRN1Z1MzFfamh0dmRxTGYzQkJUWVJwRmtSUzFZaVd2OFRuZURTQnBUQTNpLW9rR19OT1QxbTJ0QnBBcU0zUdIBtgFBVV95cUxPR3BHVUdxQTFOWDdnR0lNaUJTWDdnaUZ6YjJCQUVGVVBxYVQzMkcwT01WR2FQSTFYNXNtbmQyX2t4OUNRUkxjbjd3aUgxNGRVY3BZNm96TUZydkM0cVpaOHFUcHN5ZGpLdlJaZ0NlZUpYNUdVXzhyWkR2VWQ3V01LOFZ1aVlKaU5uR1NNeDJGaW0yZ1VVWVNyekI1Zjc2ZU5KVllESWVlTFhmeGZfYm5VZTRxd0Zvdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790119927619",
+          "date": "2026-09-22",
+          "title": "England vs. Spain in Nations League 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdjRaYjZhUGVvSGVxNGVnQXByeDRTZW1tUG9rR1ROSWhzTjVJX0F0cXI4Mk1hNVFENFV0bnBXSDh0NWxhc3JQOXBZSGlHQl9uamF1d1p2LWpjUFdOZzYyOUxockZtck1jbWtTb1FVUHlxc1JTQUdBekZaa2szOHdPeXM5b2pYUk9neEcydzZ2QkJXUjlOZzdVcVJVNE40b2VSa2FpM0lYOFFnWEVMS09hZEI0aGpMMXFwbHRJc043alpZY1JRMnlMUWdoRm5GQVBWeUZiLXhB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790119927619",
+          "date": "2026-09-21",
+          "title": "Cole Palmer, Declan Rice and Marcus Rashford among England withdrawals; Morgan Gibbs-White called up - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmtzNGVlT1ZSc3VLajR1eG5kRmY3NTNnSkVPNU9vZGdLLUhTYTJhZ25qWFVjR3g1U0JQYkpDeFVQbWlYUW5Eb3JueldZOVlRNEhBRXJvRFZEN0taM1J1TVNSUXNDMjdtRktWMml0R0FPSFpxcldlMU1fR1p1S0RCNnV4Tk1yelJqdkVENHBQQ0U?oc=5",
           "draft": true
         }
       ]
