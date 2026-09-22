@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-21T23:50:40.041Z",
+  "lastUpdated": "2026-09-22T03:34:29.539Z",
   "articles": [
+    {
+      "id": "news-auto--what-should-brazil-s-line-up-be-for-the-2026-09-21",
+      "headline": "🧐 What should Brazil's line-up be for the 1st post-World Cup friendly? - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzdUS1RuS3l3WHlhRzF5YzlQQUZ4S0VwcWNoeU5vNi0wako0a3JZelE2ZVVPTU84T1RRUHRrYjYzSzdvNWotYnZZTnFYdFFoX2F0YWQtd0FkU0laX3VLT0tEQUM2U2s3WUxCc0x6YmxQSEo4UnAwYU94TUxYUV9aVE9B?oc=5\" target=\"_blank\"&gt;🧐 What should Brazil's l",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-21",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzdUS1RuS3l3WHlhRzF5YzlQQUZ4S0VwcWNoeU5vNi0wako0a3JZelE2ZVVPTU84T1RRUHRrYjYzSzdvNWotYnZZTnFYdFFoX2F0YWQtd0FkU0laX3VLT0tEQUM2U2s3WUxCc0x6YmxQSEo4UnAwYU94TUxYUV9aVE9B?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
       "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-16",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVY1Vk5sR0tzSHhhMjRSZXpRNFY5MnFqSDBFSmJiNUtackFJSXpZTTJ1RFhmbFh2N29fZlBtUzlFLW1KYk4yN2ZaNElld1daMnBEaVlrTnVGUXBRQzVNQm1kbm5QOHgyV245VXRoUW50V0FjLU50OEVJQjZ3LTBlY1pLUVpXN1FkU2dLNnVVeG1zR2E3c0ItQ2ZmbjcyWHRLOXc4YkxfSVZDd2lTbHc2T1FQd0VBVlQ1UThpMG93MERyRGVXT3BOVk5PbS1aNFU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-media-access-made-ea-2026-09-14",
-      "headline": "FIFA World Cup 2026™ media access made easier with Agentforce - Salesforce",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE54U2Nna0RQSXJhSEFwZVl0eXhqVkJ2VHA1bW9RQXhoRms5T0JKbzc1eklOZElPNFhuLXBsMHhZT1RvV1g1MmkzY1dWRjMxc0RTSXBfSHlndDdOeXBKS0w2b3hneGlhcTE5d2xmdm52dUF5TmRMQ1pTdE1STQ?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2026™ media access m",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-14",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54U2Nna0RQSXJhSEFwZVl0eXhqVkJ2VHA1bW9RQXhoRms5T0JKbzc1eklOZElPNFhuLXBsMHhZT1RvV1g1MmkzY1dWRjMxc0RTSXBfSHlndDdOeXBKS0w2b3hneGlhcTE5d2xmdm52dUF5TmRMQ1pTdE1STQ?oc=5",
       "featured": false,
       "draft": true
     }

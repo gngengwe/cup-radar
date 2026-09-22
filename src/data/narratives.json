@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-21T23:50:43.964Z",
+  "lastUpdated": "2026-09-22T03:34:32.555Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6663,7 +6663,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 960,
+      "chapterCount": 962,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14343,6 +14343,22 @@
           "title": "USA announce 20-player roster for WBSC U-15 Baseball World Cup - World Baseball Softball Confederation (WBSC)",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE41Mms2T3cyMzdhcEp5eGQ5eDh1N0tzcXZ3UWYxa1g3eHpBRmpta2JOMHo3Q2s4VGQ4ak1ZZGYyTVlVVEJLaG1ySFZRN2dURS03NDZ3LWVIbzd6WlFLMTdRQlNmeHlHUXpTQy1TZTd2SEhzQXFmeFlNU0UwQkJQem02S2dIU3JCQzJmMFBWWnJ3OEh0WHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790048071154",
+          "date": "2026-09-22",
+          "title": "USMNT teens ready to prove they belong — as vets fight to keep their roles - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVRsbzJwdDM1ODYtLV9pcGtzV3B2RlcxbDdVeTBxdlA2cXV4eC1mUy1tN0NyVXF1aWt3a0hjSTRka1FvVDR0aGRHNi1UbG9QeWoyc2JMSzBhX08wOTA1ckl3T2hGY2VBU2N5MVlZM3dINVN1aGIwUkRYLTNhSWVXUzNWWFFqcnRIMU5oR2NjQ256d1lwOEVKNWktbHRVd0pocVExTHQxOUwxc2F0QlNN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790048071154",
+          "date": "2026-09-21",
+          "title": "Ricardo Pepi out of USMNT roster with injury, replaced by Damion Downs - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkh6TUdUclZaSXlqY0c1ajVSVjBKak9pOGNFbVlITmpIR0l1UTZfdXZqTC1ONkdObVo0Z0dqVm1TUWtkZk9GS3k3eTA0cEhQQ01VblU5UkozZld0b3lHTExCOEw3dWRUejVybmp1Wlh6MzM0aDJpbTJQOHVETWxjVG9peS1HX2RJbkdzTzN4enVUNmZvSFE?oc=5",
           "draft": true
         }
       ]
