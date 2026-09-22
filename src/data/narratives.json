@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-22T03:34:32.555Z",
+  "lastUpdated": "2026-09-22T11:03:13.114Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3636,7 +3636,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 376,
+      "chapterCount": 378,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6645,6 +6645,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZWFjQlZYaEVDTEtxX09mcmhWcHZ2cTdIZDU4RHQtWWJmaDA3WFZDY2FfSUp0eHBvU2s0MXRtUkE2cHpMQml6dXVibEc1RTFHZHlxU1Qta2xBdk40X1JaelNOOEUtbGRDdVJYLVdrN08zdllpUExMcUFsUnp2RW9rclNXaUVyQmpVQWdYNEtEbEF5amZBODJwQmpPcXVKS0F2UXpXdFF5b194dXNRdnhQXzl0cExObjhSc2pmdV9ITEdwaWhqZklKTk9hSzNyNko1MlJtSmloQUtkb1pEQWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790074991190",
+          "date": "2026-09-22",
+          "title": "Zidane could move Mbappe to left wing for France clash with Türkiye - Türkiye Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEJHUmhfYmx2LTRNTGhfZjBZc1NIQVVibDdlMC1Weno3cmItSkxHNFpjX2tVNkFzajBTQWljQkNhVHVOaE5ISnhCaTV4bjRwcEVHYXpJekR4clNvRUkwNmdQQmdVcm5uV1c1Zm9kRTlYZG9BNGs5NWg0V3VodldIMnpmWGI0ZzdOcFNkZ1YzZ3RmY25JcW9KRVlzc29HaURmQzRCaW9IQTNCU3VaaHpfWg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790074991190",
+          "date": "2026-09-22",
+          "title": "Kylian Mbappé set to return to the left wing for France? - getfootballnewsfrance.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWJzN0xlQVctc1cwelNsNWxldXBCSExRSmo0TXZWU1Q3NjhHYUZwMWFGejJ4TENscHdsbXk5Skp4Z29CMUgzMWRNZVljY0gtYml1RGJvbDVEUlE4R3lZVVhWTUtPS01xTGN4Z3hud2Z4Um9Hcklad1NfMkRxOE41S1hRYmJLZGI5QzhROXliX0xUTE5EamRNR0FidEZjc3VC?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6663,7 +6679,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 962,
+      "chapterCount": 963,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14359,6 +14375,14 @@
           "title": "Ricardo Pepi out of USMNT roster with injury, replaced by Damion Downs - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkh6TUdUclZaSXlqY0c1ajVSVjBKak9pOGNFbVlITmpIR0l1UTZfdXZqTC1ONkdObVo0Z0dqVm1TUWtkZk9GS3k3eTA0cEhQQ01VblU5UkozZld0b3lHTExCOEw3dWRUejVybmp1Wlh6MzM0aDJpbTJQOHVETWxjVG9peS1HX2RJbkdzTzN4enVUNmZvSFE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790074991702",
+          "date": "2026-09-22",
+          "title": "Bird on USA Basketball's 2026 FIBA World Cup win - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmlGcEpvN3NSVExVRmowcWtvMXZxbExlSWc3V0xNMXZwZVhyU21lVHUyWlE5dHdMWk9MeEZ6aTVEVV9Db3NROU42TTF3RG1FVjYxdjFUcmJXcnlNOEhFYXJLajFKdVFORm9nemRNa3dGQjBSdGUzaFBmS3M1WnkzQ3prck5OY3lsazk2ZkgxY1FQczRYc05KR2hKYm1oZw?oc=5",
           "draft": true
         }
       ]

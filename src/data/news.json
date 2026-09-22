@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-22T03:34:29.539Z",
+  "lastUpdated": "2026-09-22T11:03:09.702Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-2026-news-and-live-updates-usa-2026-08-01",
+      "headline": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQXYxVHRsWWN4TVFEZHByMTNTc1lFakpNTDJKUW83ZlFtTnZkTVdYSkx0MjF5dVh5NGpGcWtMWGpibm1aQUpjS1V0VGVPQkxvN3o0Y1VLQnNxWWZmR09YMlkzWFRBUGYydFM1YUxnLXU2LWlCenNOak80b1ptbWMzcTFZZkxMQ1dHc0ZpRDJQeEZ1a25hTkJjaDhfN2kzSlgtdE9LMkJUNC1",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-01",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQXYxVHRsWWN4TVFEZHByMTNTc1lFakpNTDJKUW83ZlFtTnZkTVdYSkx0MjF5dVh5NGpGcWtMWGpibm1aQUpjS1V0VGVPQkxvN3o0Y1VLQnNxWWZmR09YMlkzWFRBUGYydFM1YUxnLXU2LWlCenNOak80b1ptbWMzcTFZZkxMQ1dHc0ZpRDJQeEZ1a25hTkJjaDhfN2kzSlgtdE9LMkJUNC1oR1hRSnZuZmVEUXFMYjhBUHI4STJjSVRtYkxoS1U3NkdLNHBpLUg3ME9Lb3otZW1IYmlmMkNlRS0zdXBLMHM?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
+      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--what-should-brazil-s-line-up-be-for-the-2026-09-21",
       "headline": "🧐 What should Brazil's line-up be for the 1st post-World Cup friendly? - Yahoo Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-16",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlKSFRaSHc2VXNtc1Y5LTFMaXc1QTB1LVdnbUdYcDJvV3VsTmc4cFNFRV9oVUxQeG9EdW5mOUt0aWJoS0t5WV9ZLTh3M2pKc1Jza1dwV1RzSzQxdUhMZ0JaU3U1cGlxVTJ5THFrZVk0NGxTcnVvc2hKbVZFRzFSUjJCX1U2cmt6MXcteUtKYS1HdXYzQjJVM2tmOHJyRWVqakc2REMwUnY5cTVqYkVwLU52NE0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-thomas-tuchel-pinpoints-world-cup-regret-2026-09-16",
-      "headline": "Thomas Tuchel pinpoints World Cup regret after England boss looks ahead to Euros - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWElGQzJQaDcyTW80Zk1RNGRYeWRiaGZKd1BXYnR4MHNpRjYtZk5JeEdrSW9UMHZBaGd1Q0M5LXZEWGZyTUJINGJUMTRtY2x6WmlxNlhPT3FDT1dIbVRqLW1BODVmdUdVb2U3M2wyV2VVRHBWamE1NlJxUzhTYW1oNE5fRHo4cnh3THc?oc=5\" target=\"_blank\"&gt;Thomas Tuchel ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWElGQzJQaDcyTW80Zk1RNGRYeWRiaGZKd1BXYnR4MHNpRjYtZk5JeEdrSW9UMHZBaGd1Q0M5LXZEWGZyTUJINGJUMTRtY2x6WmlxNlhPT3FDT1dIbVRqLW1BODVmdUdVb2U3M2wyV2VVRHBWamE1NlJxUzhTYW1oNE5fRHo4cnh3THc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-veo-highlights-the-power-of-connection-a-2026-09-16",
-      "headline": "Veo Highlights the Power of Connection at the Special Olympics Unified Football World Cup - Special Olympics",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVY1Vk5sR0tzSHhhMjRSZXpRNFY5MnFqSDBFSmJiNUtackFJSXpZTTJ1RFhmbFh2N29fZlBtUzlFLW1KYk4yN2ZaNElld1daMnBEaVlrTnVGUXBRQzVNQm1kbm5QOHgyV245VXRoUW50V0FjLU50OEVJQjZ3LTBlY1pLUVpXN1FkU2dLNnVVeG1zR2E3c0ItQ2ZmbjcyWHRLOXc4YkxfSVZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVY1Vk5sR0tzSHhhMjRSZXpRNFY5MnFqSDBFSmJiNUtackFJSXpZTTJ1RFhmbFh2N29fZlBtUzlFLW1KYk4yN2ZaNElld1daMnBEaVlrTnVGUXBRQzVNQm1kbm5QOHgyV245VXRoUW50V0FjLU50OEVJQjZ3LTBlY1pLUVpXN1FkU2dLNnVVeG1zR2E3c0ItQ2ZmbjcyWHRLOXc4YkxfSVZDd2lTbHc2T1FQd0VBVlQ1UThpMG93MERyRGVXT3BOVk5PbS1aNFU?oc=5",
       "featured": false,
       "draft": true
     }
