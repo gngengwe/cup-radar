@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-22T23:32:04.520Z",
+  "lastUpdated": "2026-09-23T03:34:29.365Z",
   "articles": [
+    {
+      "id": "news-auto-england-s-world-cup-2026-fixtures-schedu-2026-07-15",
+      "headline": "England's World Cup 2026 fixtures, schedule and tournament route to final - how Three Lions could lift trophy on July 19 - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVJObXZ2RDg1RTB4UWlGRXZ2T2txQVRUQ2VoQXdBZ05XUVNGQUZVZm1lYkMxSkw0UkVKck1TNGIyZ2hFZFJ1eWo0TXB6ZDl3VnpqUEpwSWxDWFNxZTFlS2xRNG1obzVLVEw0WENTMXdTX0J0SHpNOTBMRzhmUTVpb1ExNURHb1dneU5wMXFUZC1fWVdOSXhDS1dibER0R3pBam53TWtmTF9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVJObXZ2RDg1RTB4UWlGRXZ2T2txQVRUQ2VoQXdBZ05XUVNGQUZVZm1lYkMxSkw0UkVKck1TNGIyZ2hFZFJ1eWo0TXB6ZDl3VnpqUEpwSWxDWFNxZTFlS2xRNG1obzVLVEw0WENTMXdTX0J0SHpNOTBMRzhmUTVpb1ExNURHb1dneU5wMXFUZC1fWVdOSXhDS1dibER0R3pBam53TWtmTF9JUXdOY0trYkNicUVwLVE2UFYzcXlkV3hoX1Nnb25qQmhMQXRCN2hQWTJNUUhuMllwcmVFUEgyRUZFVndyOVEtaFIzQzFNQ3dEc2VLemJnRg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-uefa-to-boycott-tournamen-2026-07-30",
+      "headline": "Fifa World Cup: Uefa to boycott tournament if Gianni Infantino's investment plans go through - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DY1NsaUJZMzNsaHg3UEprZ2kxV2ZIbmFzOGRudWQzX0ZuU2xwWmxlMTg1a1piM29oY1NMbXFNemUxVTM0YVdvTGZSblo5aG0yQ0FRenh5T3c2TTFlMXgzdUIzWmlzYW8?oc=5\" target=\"_blank\"&gt;Fifa World Cup: Uefa to boycott tournament if Gianni Infantino",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-30",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DY1NsaUJZMzNsaHg3UEprZ2kxV2ZIbmFzOGRudWQzX0ZuU2xwWmxlMTg1a1piM29oY1NMbXFNemUxVTM0YVdvTGZSblo5aG0yQ0FRenh5T3c2TTFlMXgzdUIzWmlzYW8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-local-revenue-for-2026-fifa-world-cup-be-2026-09-23",
+      "headline": "Local revenue for 2026 FIFA World Cup beat expectations, report says - KING5.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTNLVjQzVzlOb1dtWVoyeHZyS2F3NWhNb3ZiOV9CbHdlV1ZDeXFtRWlmbVlEcW9lUmNtQUZUajZ6bDU2NElnZzlrTFV0bEc4WlA3UENwd2dhdjRkNGQ2ZHg2OGhhZld6UHVIR3puYWFVSUo4TzlpTlRxbF81SkpqNjJWd3Uwbl80bk5wV2oxM24ydi0yM21aOVZZbmduVnExeDJ6T1dNUGF",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-23",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTNLVjQzVzlOb1dtWVoyeHZyS2F3NWhNb3ZiOV9CbHdlV1ZDeXFtRWlmbVlEcW9lUmNtQUZUajZ6bDU2NElnZzlrTFV0bEc4WlA3UENwd2dhdjRkNGQ2ZHg2OGhhZld6UHVIR3puYWFVSUo4TzlpTlRxbF81SkpqNjJWd3Uwbl80bk5wV2oxM24ydi0yM21aOVZZbmduVnExeDJ6T1dNUGF2Z1l4cGh2N19aLVZ6bUFrcS1fTlM4dGtPTzFRZFZLNTc5eXg4aGstNkVMdVNXQmRHM3JIMVZZZQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-european-nations-say-world-cup-boycott-i-2026-08-06",
       "headline": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-17",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdFdZR3REU0JLRnBfcnR4MGR6ZFNQSkF3RFZYZm1ZeEdPdGNUT2NQOTNXel9ucUUzQVBUTks5YVJlQkhsVzJabXJVMlBKeWxST1ZYQWROSTVmUS1iODBZTmV1a2RoeDQ2MF9NMG1lYVhzd1lnZlZWeXd5VHFEVGZKQWk4YlpWRWlFeTVRa3pDM0hyVU1iM1NsbngwYmJJM0hSR0ktMXFVbHA1WWJybGxvZldXc2VjMFV5QnE4eFVqU3ZRUkUyeVZMbm51NkFJZ09IN3VyaWZHRWQtZDhtTVRIcHl0Sk9Ecmk2VWVZUWJSNNIB9AFBVV95cUxQa3pMeEh6OHhVX0gzTEJTMHJaYXA2M3p4bGZ6ZHliVVhYbTlTZUN3eU11SUI2RUVoQ1ZOaGNlUW81eUFBcVYxeDZSRW1INUtuLVpBcHY3NDZKY25vTlB4LWtvWWE4YjdGUlhGZldkNVc1TzlFd2hWd1o2T0FTaGY2ZHNDUGFyTE1oSWRkTDlrYmc4bzhyeDNtN01nVFc4c3pyNkEydkRJdWdpejZwV2Y3eXF0eEdGSVZxbkkxb3FwQkNrVU9UUW1iallzUm42OEhLdU11NGw5RzZ1TWw2SmpXem10Y21SVkx5UE1PWEh4OG9kSWdU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-lives-up-to-its-reputation-as-so-2026-07-07",
-      "headline": "Seattle lives up to its reputation as soccer city during World Cup run - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-07",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGI0bm1BS0VFRkdURGNJbzdlU1dLa2FYMjBFOE1OZHhyTHo5TnBqb3lDcDhXYjM2NUZZMFJYVEk5SkN1WERMY3RTT1RPanVmdmdNd1N2TjVibElvSHBSbzQ3WTRwcWE0cm4xSHJhdHdTYjZ4V1pYSnFyNjFqZmVPdjlram13WnZMcFBSbllNT3gyWXppMFFwZDh4YWxiWXc1aEZEODl4Vnc5X3IxTjVaSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0tcTB2VjBzTTVBcjh1V0kzcWZaSG9zSXFDbTUxaFlPQjBGODVxbHkyRkFDcmlaWmJEUFRtVkwtVUxidXh1SjU3TXZVaVYyQWdKVWZhOGZVTzlOY0k2dWFyTGo4YkdRUC05cW1sanp1NV9sa2k3WEZVUkpja2tqZw?oc=5\" target=\"_blank\"&gt;Seattle to host 2 more FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tcTB2VjBzTTVBcjh1V0kzcWZaSG9zSXFDbTUxaFlPQjBGODVxbHkyRkFDcmlaWmJEUFRtVkwtVUxidXh1SjU3TXZVaVYyQWdKVWZhOGZVTzlOY0k2dWFyTGo4YkdRUC05cW1sanp1NV9sa2k3WEZVUkpja2tqZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-thomas-tuchel-admits-tactical-errors-in--2026-09-16",
-      "headline": "Thomas Tuchel admits tactical errors in England's 'agonizing' World Cup loss to Argentina - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONTZkWW9GYVFHa0oxUHJBdUlnNGZhMm5IV182ZU9IVTdBdng4ek11SWU3alBEQTl1TFdXNXcwTG4zV3A3QXBzTlFYaDl0YW9scHdLWjlibXVGVDRxb0tFQzJsZmhfRW1YalEtS0dJR293enRVclNyQzIwS1NfSU1CaTd1OXh5MjlxVF8wM0FR?oc=5\" target=\"_blank\"&gt;Thomas Tu",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-16",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTZkWW9GYVFHa0oxUHJBdUlnNGZhMm5IV182ZU9IVTdBdng4ek11SWU3alBEQTl1TFdXNXcwTG4zV3A3QXBzTlFYaDl0YW9scHdLWjlibXVGVDRxb0tFQzJsZmhfRW1YalEtS0dJR293enRVclNyQzIwS1NfSU1CaTd1OXh5MjlxVF8wM0FR?oc=5",
       "featured": false,
       "draft": true
     }
