@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-23T03:34:29.365Z",
+  "lastUpdated": "2026-09-23T10:52:23.455Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-2026-fifa-opens-disciplinary-p-2026-07-29",
+      "headline": "World Cup 2026: FIFA opens disciplinary proceedings against Argentina over several potential breaches including Falklands banner - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNbXp5aGcyM1B2NmgtNU1qTnk1T3RTOHJEMEFjOFRhSEVvaC1TaEJxY3o1QW1ZYWQtSW1qWTgwSGhDUUM3N1BiSjdDa0xpdDFnc0MwQmllQTJUYWdtR0JBUzJaeGZuZThESmVaMURvRlBVYXdvMlhoN2xLMFZUZ19pU1dxLVhBRVUwWmNFaU5hVzk3R09WYjNVSXNmTVRFUFBYNWRWTW9SNXF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-29",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbXp5aGcyM1B2NmgtNU1qTnk1T3RTOHJEMEFjOFRhSEVvaC1TaEJxY3o1QW1ZYWQtSW1qWTgwSGhDUUM3N1BiSjdDa0xpdDFnc0MwQmllQTJUYWdtR0JBUzJaeGZuZThESmVaMURvRlBVYXdvMlhoN2xLMFZUZ19pU1dxLVhBRVUwWmNFaU5hVzk3R09WYjNVSXNmTVRFUFBYNWRWTW9SNXFaUm15YXpFcUNNZEhCTURDcnh6bGwyOEdaM2xJMkVaWVBiZVZ4Zm14YkkwQVJkQlNXRUM3NDNDM1ZUMEdDbndKMU5MSXZpUTlhaExuN0xpSWJ2R0NheTkyOFBhVjVwRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-loved-the-world-cup-here-s-your-guide-to-2026-08-05",
+      "headline": "Loved the World Cup? Here's your guide to European soccer, 2026-27 - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-05",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F0bWt5ZEZGcWlQUmQ3cndzY3ExdldlajUwVWpMbjNuaVVSOGRIWnF5QWw0dFRNbUZTZlRqcWo4?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-will-never-be-as-profitab-2026-08-11",
+      "headline": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt - cnbc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU3p6WnRvSnZJNnVqTkhSaFVUdzZETzNYTng5VW1DdXRTRWJuOGM1UkRIbnF0TjhmYmZGdzFnd2ZyZXNNQ3lrT0dOTThrYXdsYmVRbThJVFRSNVdhbGVoTlBhMk9MblpvQTU5UlcwSHZaTDJBV3FydNIBfkFVX3lxTE1yel9tZ2R4VjZXZGV3ejJsaTAySG1EdG16cngxNlJoUHlEMUdZNHh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-11",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU3p6WnRvSnZJNnVqTkhSaFVUdzZETzNYTng5VW1DdXRTRWJuOGM1UkRIbnF0TjhmYmZGdzFnd2ZyZXNNQ3lrT0dOTThrYXdsYmVRbThJVFRSNVdhbGVoTlBhMk9MblpvQTU5UlcwSHZaTDJBV3FydNIBfkFVX3lxTE1yel9tZ2R4VjZXZGV3ejJsaTAySG1EdG16cngxNlJoUHlEMUdZNHhWeS1uMlJsQldTclFUS2ZIRnNZZjVmbXd2OFhqQ1ZkWElYWGRVMUQtQVpFeF9RZlpvdW9vSmI3RjdEVWhNbjQ0WmRtMG5lbGgzR2xlbG8tdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-world-cup-matches-deliver-889-mi-2026-09-23",
+      "headline": "Seattle World Cup matches deliver $889 million impact, but hospitality results are mixed - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkI1VWM1SVZ6RjY2Q1VYeU43QkZKanYyRmxycVpOUXZQMjhKRTR1UFJsQ0xZRGwxT2lNUElxX044VUlPbVFyMm8xMXFzOXJ6SW03TUNPZktZdVMwc3JTM25sZFJHb2pQNmNqc3p0Rm5VUTJrS1Q2U3R5cVlFTEtyeURxRVhzTlM0LThsTV9kN3lDeW1DTU51UUZxd3AtU1VTMEFpVXVVckZ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-23",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkI1VWM1SVZ6RjY2Q1VYeU43QkZKanYyRmxycVpOUXZQMjhKRTR1UFJsQ0xZRGwxT2lNUElxX044VUlPbVFyMm8xMXFzOXJ6SW03TUNPZktZdVMwc3JTM25sZFJHb2pQNmNqc3p0Rm5VUTJrS1Q2U3R5cVlFTEtyeURxRVhzTlM0LThsTV9kN3lDeW1DTU51UUZxd3AtU1VTMEFpVXVVckZiN3hhS0oxVTVQWXVTSm0yNkJpREFkT0tRRUh2Z1ltLW8tLXRKUXVzM2g4SXA0WXVpRGPSAe8BQVVfeXFMTkg4RVVqUkk3bW0xejNBdkhZRXpLb05ZWldKVmFzYnJISVlacEJMc2V2VmY4emFWckh4SFhrSWl1bVZ1WHV5VGhrdVZvQ0lmc1Ywa3FGbDh5MVRrckRueHlkQk5vVFNHWkVqZDQyc1dqV3dUNzFoQjF5SGR2MXBSN1lISlloLXRXZXd5Q3NkOUpUSlBxbVRQQVNGbk9jaE1WRzZCTFNLSkxJVlVtMk5IYXNmUEl0QVhvNWc1UDlZNXp0TWltRi02VHZxR2xvd2RJMUtiS2ZmWktkd3FXck96MGotUUh2b0NCV2hRU2hQQlk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-england-s-world-cup-2026-fixtures-schedu-2026-07-15",
       "headline": "England's World Cup 2026 fixtures, schedule and tournament route to final - how Three Lions could lift trophy on July 19 - Sky Sports",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-17",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkpBS1Nyd00xMG1pUGJ2VGtZWXd0RzhKaERsdW5tOWdNZjkyOEFCYi1NR2lOaF9SVUZ1Q0liZ19JTGdmUGU4aXNNR2FkemNYNHdFR24yRW9yMUE1RGxPQ2RIVjcwWnNBX0NQUjZlVHgzNlpPR1REb0I5TVVtU2pNb3ppSHBvdw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-news-sps-families-plan-for-world-cup-tra-2026-06-12",
-      "headline": "News : SPS Families: Plan for World Cup Traffic - Seattle Public Schools",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5\" target=\"_blank\"&gt;News : SPS Families: Plan",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-june-22-28-2-2026-06-22",
-      "headline": "Sporting KC Weekly Schedule: June 22-28, 2026 - sportingkc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5\" target=\"_blank\"&gt;Sporting KC Weekl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVsX2hNUUFYbWd2UW8yX3dPZl8yMUtrbUJEalVBUnR6VjZsSkdBOEUxalV6akNCOWpLZjhSeDlxY1F1QnJPUFRGcTVUVUVOdjIxak9NN20wR2JBbHhLQzA3M21tOFV5LUt1LWZYZTJkRDB1Y3c1RmtWTV9vZVNOd3daRjV3X1pz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
-      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - kansascity.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-03",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-u20-vs-nigeria-u20-how-to-watch--2026-09-17",
-      "headline": "England U20 vs Nigeria U20: How to watch, Live Stream, TV Channel and Time for FIFA U-20 Women’s World Cup ... - bolavip.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdFdZR3REU0JLRnBfcnR4MGR6ZFNQSkF3RFZYZm1ZeEdPdGNUT2NQOTNXel9ucUUzQVBUTks5YVJlQkhsVzJabXJVMlBKeWxST1ZYQWROSTVmUS1iODBZTmV1a2RoeDQ2MF9NMG1lYVhzd1lnZlZWeXd5VHFEVGZKQWk4YlpWRWlFeTVRa3pDM0hyVU1iM1NsbngwYmJJM0hSR0ktMXFVbHA",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-17",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdFdZR3REU0JLRnBfcnR4MGR6ZFNQSkF3RFZYZm1ZeEdPdGNUT2NQOTNXel9ucUUzQVBUTks5YVJlQkhsVzJabXJVMlBKeWxST1ZYQWROSTVmUS1iODBZTmV1a2RoeDQ2MF9NMG1lYVhzd1lnZlZWeXd5VHFEVGZKQWk4YlpWRWlFeTVRa3pDM0hyVU1iM1NsbngwYmJJM0hSR0ktMXFVbHA1WWJybGxvZldXc2VjMFV5QnE4eFVqU3ZRUkUyeVZMbm51NkFJZ09IN3VyaWZHRWQtZDhtTVRIcHl0Sk9Ecmk2VWVZUWJSNNIB9AFBVV95cUxQa3pMeEh6OHhVX0gzTEJTMHJaYXA2M3p4bGZ6ZHliVVhYbTlTZUN3eU11SUI2RUVoQ1ZOaGNlUW81eUFBcVYxeDZSRW1INUtuLVpBcHY3NDZKY25vTlB4LWtvWWE4YjdGUlhGZldkNVc1TzlFd2hWd1o2T0FTaGY2ZHNDUGFyTE1oSWRkTDlrYmc4bzhyeDNtN01nVFc4c3pyNkEydkRJdWdpejZwV2Y3eXF0eEdGSVZxbkkxb3FwQkNrVU9UUW1iallzUm42OEhLdU11NGw5RzZ1TWw2SmpXem10Y21SVkx5UE1PWEh4OG9kSWdU?oc=5",
       "featured": false,
       "draft": true
     }
