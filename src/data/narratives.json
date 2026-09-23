@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-23T10:52:26.037Z",
+  "lastUpdated": "2026-09-23T16:13:00.968Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 458,
+      "chapterCount": 459,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3682,6 +3682,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmNEbDVCT3VBOEFrTkFtMUlia3k5QjNkM2lOYUlpRWdqMzlJdk9PV3pFUlFaOUtLTWRZanVhSkZ3aXV0U1FkU3E0NXE3NTRmZXlMcnh4TTRJelZFdFFLOW1RMkxwV0xUVmItclB5dXFtR2kyZUFOR1lMc1ZFakFSNUxzaGRiMFZQT2Q0enJuSEtwVmExUnBxenJhT0hvbWMyN1h3VDFfdUNxODFqZ2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790179978078",
+          "date": "2026-09-23",
+          "title": "Messi set for Argentina farewell. Mbappé, Lamal and Ronaldo return after World Cup - ClickOnDetroit | WDIV Local 4",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZC1NS29qQzFGRGlacWVwZEI2eDFDR3RMWmZHTnVqcTR5WFN0NXlWVHlzeW5xdW4wamxqR2hMM1NGeVlZVXU5a2JSdTZJVjh3bjNUY3hsOC1jTVg3aU5xZndtZEtiUU5qNjVfWWNLM0tETmlrUmF6OVNtejhRcldkS3cwOV9uUGVSSTRIT0FkVGxLaXRLOS1ibE5kZzNUT2pLbjV5RW91NzVid3h3YXVrVXpTYnVsbGVCektKYTI0cGFreUFLcm1adXh3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3700,7 +3708,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 385,
+      "chapterCount": 387,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6781,6 +6789,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWExyYXRkNlI0bW1WRFgyR0RlTFBPekx5Rm8wek1SLUluREFrWU43S25scklQT2lPNFdSNnM4UnpSUlRyZmgzcVUtMmVXYkhoMV90NnR6VXFTQUZEazhPa3VOajdpaTZJeHRPMjQyazJNTk9BclZIUzJ2b29XZElRMTFFUndRdGtHOG8yT01QOGJjVFlY0gGUAUFVX3lxTE9yUVRzTXJpMHgtNkN5dElwU21fcG55bWpVVTRtenJaUlFTZFM5bkl6bUdOVGRZWkh3aHB2U3Vxa3huMXlGYm1CSDBvaWgyclg1WFlBb2RQYkU1RGxELXNNcUQ0T3QtZHRnWTRvNUZLZE8xdG5QdklhM05vRlNpODJnZDQ3RElvUEhkT0d5cThvckF2eEM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790179978899",
+          "date": "2026-09-23",
+          "title": "Kylian Mbappé believes ‘every club in the world’ would like to sign Michael Olise, but won’t advise him to leave Bayern Munich - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnJpVV95V0xCQktMdm9jcjBqYWQ1LUpGejItWnVNR1hURy1fLUJOVTZGbm1McWVRTFU3Qll0UEZUeXU0WDlVQjlZYlJ2cHN0R3ZNblMzcVVEQWZRam9rMjJ5M0dTVDVqNzVXdEFvVUcxbU1tclA3Zi1WR3N1cnY0QzNKamFhWF9k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790179978899",
+          "date": "2026-09-23",
+          "title": "Mbappe misses France training with flu ahead of Türkiye tie - Daily Sabah",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGszaC1qVlVRSVUxdDBTWkthUFQ1d0lZOS14cXpVZ0E4a1lUZ3BUOTNQQ2g3SUJQRHBLR3VIN0x0Q2lmNFlqSUJ4Wk0wUHlLSl9FTmlsQnZYUmNJSkp2YzV3Z0FhRmoxVlNlbC0tMUdSRTg1Z09mT3I1N2U1alpMMzNGdEp2Nm9zZE11b2EzcktvSGVTUUdjTXcyT25QVDJlTzJGbQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6799,7 +6823,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 970,
+      "chapterCount": 972,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14560,6 +14584,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1dveTRtQ0dpS2dUcFdxVzVWdU1oUXFGdVpKTWkxUW9UeG9MODl5YzRaYkg5cDY2LWhyaGpEWWRVdHB3UHJING8ySlk5UkdhRkZrMUZLRTJaalRydUlDT2ZDeWFwbm04TjNYODVWcW1iV0pDcmxuREZvZ08yN1gzM25fQlI4cFJ1eDdQVWk3bTh2dVRMV0tkckx2WXlUdzRIZWdRb1hWU3paVUk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790179979411",
+          "date": "2026-09-23",
+          "title": "2026 WBSC U-15 Baseball World Cup Preview - USA Baseball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZV84QXBpdHlPd0tfZWtzaXJUM3dCV0t0SmZ3NDZoSUVXQ3lUazRRQlhqbFdDQ3dSeHRLRlJBU296cExoQ05tMXVEZkZOd0VrM085WllkYXJ4aTEtczkzX0pFb1ViRFpxWHVGQW5sRHgwcVd3QTVMSUlQZVA2MlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790179979411",
+          "date": "2026-09-23",
+          "title": "How to watch USMNT vs Peru live: Stream, TV, team news, prediction - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NR3VkTko5U0lqSndzRGNVdGcyQmdHYWI3ZndrSi1wakh3RHQ4cmlZMk8ya2hETUpxR3FhWHdyOGxkMUNtbmdtbnowMVpuME96SzFJY2RSZnhiX3pHTF8yWk5zYWlKVjBSTHU3ak53T3BmZlo5bTV5ZVB1Z0RBQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14578,7 +14618,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 636,
+      "chapterCount": 638,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19667,6 +19707,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkNWOEVCTVd5TDlwUG1xRnNVT1NCaHBzb01qRFo2aDFvSUVONWg4eFpVWnJVUXY5MjQwd0dFWXlJRjJvbEhROG51VGM3T25fQnRIR2Rtc2R2c3NzVVFKZUx1aVFOQzVBdlpsbm52UXg2MWRVOWUxOV9oOHhMVVRxLS15QjByUE4ydlYyMi0wS2NzeDl1eHByd25Wd3RTTVFaS1diS2NudWUyMWNOUXdtU2RVY0RncXV6NG9zQmV3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790179980163",
+          "date": "2026-09-23",
+          "title": "Bruno Guimarães Opens Up on Brazil’s World Cup Penalty Miss: ‘It Still Hurts’ - athlonsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlF2NGk5X3QzaTJSOGEzQ1lndDBoSFJZYlViSFQwOWY1S0FlVGljNzJzUlppZGJMZHhGeEF1NFhNakZqSzl3S2xFcWRxZDJCU0EzM0VyWHBTY3ZPbXpSQlNfUTBhWWQweDZnWndOQnVKRzZ2dDJkX2R5bmRVV1Q5OWFHQWFmUUdoRlVUQ21WWHBQaVBHMkN6cWJWeW83QVVHV3VmWDRJV2Q?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790179980163",
+          "date": "2026-09-23",
+          "title": "Bruno Guimaraes still haunted by crucial World Cup penalty miss as Brazil target Australia redemption - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFdla1B6bFNDT2NyT25yRW1pYjktM0NYZ1RJbmVSbTQ2ODh2Y184bFJtdzctWjJjOU10TmxENG9abzVXV3dpMk91Rmg3Y3pjOE14REx4eGMyVDk1aUoxbEZ6dHJkTy02Y0xkYURkRjNxbnBpRUJxTWlGVVhDV1lzN1NhSmI3QTh4ZG51NDhOQVJWUkVKX01r?oc=5",
+          "draft": true
         }
       ]
     },
@@ -19896,7 +19952,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 897,
+      "chapterCount": 902,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27072,6 +27128,46 @@
           "title": "Cole Palmer, Declan Rice and Marcus Rashford among England withdrawals; Morgan Gibbs-White called up - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmtzNGVlT1ZSc3VLajR1eG5kRmY3NTNnSkVPNU9vZGdLLUhTYTJhZ25qWFVjR3g1U0JQYkpDeFVQbWlYUW5Eb3JueldZOVlRNEhBRXJvRFZEN0taM1J1TVNSUXNDMjdtRktWMml0R0FPSFpxcldlMU1fR1p1S0RCNnV4Tk1yelJqdkVENHBQQ0U?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790179980968",
+          "date": "2026-09-23",
+          "title": "England vs. Spain in Nations League 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbVZFS0c3eU9Vc1hmdXA0ajBxUFpzd0M0enJNNFkteHlXSWJjcU5OQW9xSjBtTjhfdlRLZGdQLWFxSGZ6blprVC01eDBORGctekJqckRmcHA2QWN1ejRVZU5yT1pmVHN0NHEtOUtiZnBVaGZiNENWY2FiYk8teTM0UTE2NVZxdUNndEF4LTdPUlJkN3MyRmNpTktWS0JVWmRQTDU0Wk1BSS15amMyWl9RWEhucTdWRFVjTXJ3TGhRSUJ5cWI3SVNpQm5ZQ21ieDRuc3kxemxGcFJkOGw0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790179980968",
+          "date": "2026-09-23",
+          "title": "England players carrying 'scar' from World Cup exit, says Bukayo Saka - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Vk50MUVoT1EycUthZGYyRkFsVVVLek9HZ1RuZFBYZk1lcVhNaWxyNU83aV9CUlFJay1VRk9ZeEs5WWR2N0dmdzR3YjNOcUdMaE9GV0hJZ1dCWjZRbjBJWl9yQUhueGNj?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790179980968",
+          "date": "2026-09-23",
+          "title": "Spain to face England on Saturday, after World Cup win - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzN5bm9DWGlMNGYwb2cyRUlvSzM4R3BhczRVZUtNUlRwbzJHZ2xTOC1udXRCU0xxVVlwWm9xTndHa1pfOWU5b2l2elN5UFB4aFRpaS1IcTF5YWVDN25pOFhDeFdHMjFzWHZXY1c5TlFXSTJtZ1FscjFUY2xlbmQ5Sl94cERxZ3pT?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790179980968",
+          "date": "2026-09-23",
+          "title": "Real Madrid news: Jude Bellingham roasts Argentina World Cup rival with savage Lionel Messi dig - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVhVTMtVU9JS3hQNVZBU2VqczFqWFJiM3FhU2ptM0hEeEpSX09jZlZQaVgzb0VmSFZCcXFqUXhkd2F2UHZ6Zk9jVXVVb2o4UHJiUkZVQk9kRHUyZXJiLTA0ZUg3LXo2cWxuUjVUNVZXNm80Rl95YlE5S0VLMWN1LWZ4WVNRQVg5?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790179980968",
+          "date": "2026-09-23",
+          "title": "Bukayo Saka says England still carrying World Cup ‘scar’ but must move on - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVG1mY3o2VWZid2NPQVNidF9mLUN6YWhCNFcwNnlqY2dUT2htTEpSZ3dXT2ZWLVFLamxQVzRJQ25hMUpuVHpDdDRUT3VMUlpUNjhCcFBtN09yRnB0Q3RBQlRicE9Gd2JJYVJQWWhkYnVBMTBqYlM4cnZQYlpHcnhiTlR1R3A0ZzBiWFYxT3JxZXNfMDhJMFRMcGEzU1FfMmdtakJJQzN3RktkcnpqR1Rnd0x3?oc=5",
           "draft": true
         }
       ]

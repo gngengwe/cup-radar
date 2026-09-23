@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-23T10:52:23.455Z",
+  "lastUpdated": "2026-09-23T16:12:57.330Z",
   "articles": [
+    {
+      "id": "news-auto-real-madrid-news-jude-bellingham-roasts--2026-09-23",
+      "headline": "Real Madrid news: Jude Bellingham roasts Argentina World Cup rival with savage Lionel Messi dig - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVhVTMtVU9JS3hQNVZBU2VqczFqWFJiM3FhU2ptM0hEeEpSX09jZlZQaVgzb0VmSFZCcXFqUXhkd2F2UHZ6Zk9jVXVVb2o4UHJiUkZVQk9kRHUyZXJiLTA0ZUg3LXo2cWxuUjVUNVZXNm80Rl95YlE5S0VLMWN1LWZ4WVNRQVg5?oc=5\" target=\"_blank\"&gt;Real Madrid news:",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-23",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVhVTMtVU9JS3hQNVZBU2VqczFqWFJiM3FhU2ptM0hEeEpSX09jZlZQaVgzb0VmSFZCcXFqUXhkd2F2UHZ6Zk9jVXVVb2o4UHJiUkZVQk9kRHUyZXJiLTA0ZUg3LXo2cWxuUjVUNVZXNm80Rl95YlE5S0VLMWN1LWZ4WVNRQVg5?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-fifa-opens-disciplinary-p-2026-07-29",
       "headline": "World Cup 2026: FIFA opens disciplinary proceedings against Argentina over several potential breaches including Falklands banner - Sky Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-17",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVhTWkpIMHdzOFNhd2JZN2ZJMWttV0g0bjJVUHpLWHdVVGJCT0ZzbjZOY18zYWw5b1A0MHhwLURIUmpOSGk3QXQ2WXNRVTlLVXB4cmwwcWJfQTg0VldQdmxpUldrWVpCUDdqUzdRQzFMVG5jN2tVeTJjVUxpbGdMMW1nUjVKOEhMT2FsT1U2U1dnQXVFNTIxYndlNWNGUmY3VExQOTV3c3lOUVJsMkdrZFczcDhkZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-from-the-ncaa-to-the-world-cup-clemson-s-2026-09-17",
-      "headline": "From the NCAA to the World Cup, Clemson’s inaugural Sports Business and Analytics cohort turns data into impact - Clemson News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVByY09DUG5SVHk1dC1PRlBjTzZ2VXlQQURFWE5LLVZSNFloS0lZVVB6ZFBrU18xRnY0QXRhRi1ZRGV4SUZIc0c5elNHd3g4czdkUjNGQW8yR0dXcGdsUXBMNVFRY3F3VHpBSGhQSEc0dFRvZnJKLXh0OXQ1bHhxejJvOF8wU21pQW8wNE5Cd0g5Y2Z3cFpFMDRzVTdJaWhheVBINDJsS2h",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-17",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVByY09DUG5SVHk1dC1PRlBjTzZ2VXlQQURFWE5LLVZSNFloS0lZVVB6ZFBrU18xRnY0QXRhRi1ZRGV4SUZIc0c5elNHd3g4czdkUjNGQW8yR0dXcGdsUXBMNVFRY3F3VHpBSGhQSEc0dFRvZnJKLXh0OXQ1bHhxejJvOF8wU21pQW8wNE5Cd0g5Y2Z3cFpFMDRzVTdJaWhheVBINDJsS2hRYy1LX0o0N0ZhNXB1QlVLM0VrZDRCeWhRNmRqTnV2OWVLVkFqNEpF?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-isn-t-folarin-balogun-on-usmnt-roste-2026-09-17",
-      "headline": "Why isn't Folarin Balogun on USMNT roster? World Cup star not among call-ups - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkpBS1Nyd00xMG1pUGJ2VGtZWXd0RzhKaERsdW5tOWdNZjkyOEFCYi1NR2lOaF9SVUZ1Q0liZ19JTGdmUGU4aXNNR2FkemNYNHdFR24yRW9yMUE1RGxPQ2RIVjcwWnNBX0NQUjZlVHgzNlpPR1REb0I5TVVtU2pNb3ppSHBvdw?oc=5\" target=\"_blank\"&gt;Why isn't Folarin B",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-17",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkpBS1Nyd00xMG1pUGJ2VGtZWXd0RzhKaERsdW5tOWdNZjkyOEFCYi1NR2lOaF9SVUZ1Q0liZ19JTGdmUGU4aXNNR2FkemNYNHdFR24yRW9yMUE1RGxPQ2RIVjcwWnNBX0NQUjZlVHgzNlpPR1REb0I5TVVtU2pNb3ppSHBvdw?oc=5",
       "featured": false,
       "draft": true
     }
