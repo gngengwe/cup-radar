@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-23T16:13:00.968Z",
+  "lastUpdated": "2026-09-23T21:09:20.609Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3708,7 +3708,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 387,
+      "chapterCount": 388,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6805,6 +6805,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGszaC1qVlVRSVUxdDBTWkthUFQ1d0lZOS14cXpVZ0E4a1lUZ3BUOTNQQ2g3SUJQRHBLR3VIN0x0Q2lmNFlqSUJ4Wk0wUHlLSl9FTmlsQnZYUmNJSkp2YzV3Z0FhRmoxVlNlbC0tMUdSRTg1Z09mT3I1N2U1alpMMzNGdEp2Nm9zZE11b2EzcktvSGVTUUdjTXcyT25QVDJlTzJGbQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790197758808",
+          "date": "2026-09-23",
+          "title": "Kylian Mbappé opines “every club in the world” would like Michael Olise - Bavarian Football Works",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZmxsWkRBNkxYXzRwZUYzVDh6QWtMSjdoU0Y3MWhUTlMtWnpwZkxxSG5jSHhYM0ttbXU1U1pKbUJ4UnJ6NUt2SGRMeHFIMU96a1J1eG1MUlExNFdOTks3eXNuR3ZiSkJkcFFfem8tX3J2eEJuUU5ZTVBGbGV0a09WaTdYTkd5M1FOaERZMm1PZlZuQVlXSnFLQ3ozVFNSVDNqWFF6aFYxYXVsekZFRlpSdDBOQzJNVk82d0tHbmJSNWVKY3hSU0JRZm1IYXhqaXBkU2ZQNU05Y0tDazcwVDNtWFVWMVRzb3YteGlhWUQwUnFvUEpFbkRaUGxoSGhVaDhYNTZzT053V0YxcmNBLWNVbDJiOUt5UXEyNzNHV2ZBVzZRNFFYbnJfU1dhVzRUUldMSkpfQ2FkUEE2bzVuMzhGZkZ4OFd1Xzhr?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6823,7 +6831,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 972,
+      "chapterCount": 974,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14600,6 +14608,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NR3VkTko5U0lqSndzRGNVdGcyQmdHYWI3ZndrSi1wakh3RHQ4cmlZMk8ya2hETUpxR3FhWHdyOGxkMUNtbmdtbnowMVpuME96SzFJY2RSZnhiX3pHTF8yWk5zYWlKVjBSTHU3ak53T3BmZlo5bTV5ZVB1Z0RBQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790197759345",
+          "date": "2026-09-23",
+          "title": "Tyler Adams: This USMNT camp will help prospects develop for next World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDVQV2tZUjZUQmllMTVaanJXLS05QXkzU0poRmJRZ05GanNFQ3kxaGtPMXQ2SUZhVWo0U3A2c0lSdDM0bVpzRTdzSURmZ1Y5THZmSy1BaXMzM3d3YVcyMC1RdGpsdm9lTUxlR2dtRmFhR2EzcENKWFlhQTFaYlZBZ0l6YnBhQU9TMkUyaklnNVJpX3hXckJCVGFMb0pTek05Rlo5R1VwRHp4T1VC?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790197759345",
+          "date": "2026-09-23",
+          "title": "What are the next steps for USMNT and Mauricio Pochettino? - NBC Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJaX2RhUVRKU3RGMzI4Sy0tN2lBYWNxMHh4d1ZNckI0QXZDeGE4dFlOdTVTVTA1emhiS3V6ZnRGM1p2TjZfZHQ5bHpzMkFYd3FVR18zemU1WTB2aVhCNVBQWTQ2TkNXbmVuMG1pWnVYWTBVYkYtMy1xanBNTjlxRlJkQWtDaXpFZlJlZzIydmo4bm12cDBnZnBOdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14618,7 +14642,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 638,
+      "chapterCount": 639,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19723,6 +19747,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFdla1B6bFNDT2NyT25yRW1pYjktM0NYZ1RJbmVSbTQ2ODh2Y184bFJtdzctWjJjOU10TmxENG9abzVXV3dpMk91Rmg3Y3pjOE14REx4eGMyVDk1aUoxbEZ6dHJkTy02Y0xkYURkRjNxbnBpRUJxTWlGVVhDV1lzN1NhSmI3QTh4ZG51NDhOQVJWUkVKX01r?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790197759872",
+          "date": "2026-09-23",
+          "title": "Neymar signs exclusive collectibles deal with Topps - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnh0S2IyTkhUQ1JTY1ZYbWxhMTBFSTBvaHBrOUpVLTVBOHpZZGN5VWYxM0NyNnFjMUZMZEJQcjFWdHBacVJtajZTa0JydkhvSUJTZEpEQlFUeGYwdUpYUjgwMHlwd2dMakVIbE5NQ19DUThKcmxObVJiNVNsamZKdjdoY3F6dXhCVXpxdHFGZ0dFUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -19952,7 +19984,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 902,
+      "chapterCount": 905,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27168,6 +27200,30 @@
           "title": "Bukayo Saka says England still carrying World Cup ‘scar’ but must move on - The Independent",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVG1mY3o2VWZid2NPQVNidF9mLUN6YWhCNFcwNnlqY2dUT2htTEpSZ3dXT2ZWLVFLamxQVzRJQ25hMUpuVHpDdDRUT3VMUlpUNjhCcFBtN09yRnB0Q3RBQlRicE9Gd2JJYVJQWWhkYnVBMTBqYlM4cnZQYlpHcnhiTlR1R3A0ZzBiWFYxT3JxZXNfMDhJMFRMcGEzU1FfMmdtakJJQzN3RktkcnpqR1Rnd0x3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790197760609",
+          "date": "2026-09-23",
+          "title": "Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’ - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2drQXFGMzJKQ2lrZUVfbGpBM1dZZGsySUJhNGU3R0pBYlpKRW1tSXJlVk5sY3M2ME5EbkM2dkdpeWtKUUlGVGNfcmQ3TE1XYUg3ZGlCbFFHQjhxN0ZqNEt4R1h0SlUydG8tb0lJWGd0UnpkU25VMkdEUGthMmJJamlUaWVoa245U2tHMmtjckZTbHJ0M001bWJsR1N6TVlFalZtc3AyMXZkQWNS?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790197760609",
+          "date": "2026-09-23",
+          "title": "Harry Kane: We went against our beliefs at the World Cup - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVLTkFsdUtnQXlESVRWdDBWTldZekdteE9qb003MnJldzJQTDByNkJxRzBsQVQzakZxV2o3WWFsTkltVGVqNWswZHp1UFBlZm1GVzVZN09rLTUyeGwyUjJMR2gwTU5iQjRvUXUxM005YmptbUNJaVo2Y1lobFRuUkdPU3FSMnpqaVo1ZEZ4ZDRxSGhMWTNJemxFenVvUVR5TV8zUkpiOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790197760609",
+          "date": "2026-09-23",
+          "title": "Harry Kane backs England dropouts and reveals ‘Declan Rice reached out to me’ - The Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNRSDdQR2JvNUVSUHc1U3djaDBXallyX3Q3YUx5bTR2X0VUbUpMTmtXcXg3MkNLaGhHbU93TjdJcWxqQkJqbDdQaWtWTkxLYkFQLTJzRWdmdDRsV1YydlJiWXAzSTd2blBzU25oN2lWVUhnQ296RzllYmRtRW9xLVJud2J3emJ6Mm03ZHJ1bjVGbHROaWctLTZpRWRMa0pQdnhVLWJBYldhc1FRMWc?oc=5",
           "draft": true
         }
       ]
