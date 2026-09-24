@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-24T03:24:57.471Z",
+  "lastUpdated": "2026-09-24T11:12:10.423Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 459,
+      "chapterCount": 461,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3690,6 +3690,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZC1NS29qQzFGRGlacWVwZEI2eDFDR3RMWmZHTnVqcTR5WFN0NXlWVHlzeW5xdW4wamxqR2hMM1NGeVlZVXU5a2JSdTZJVjh3bjNUY3hsOC1jTVg3aU5xZndtZEtiUU5qNjVfWWNLM0tETmlrUmF6OVNtejhRcldkS3cwOV9uUGVSSTRIT0FkVGxLaXRLOS1ibE5kZzNUT2pLbjV5RW91NzVid3h3YXVrVXpTYnVsbGVCektKYTI0cGFreUFLcm1adXh3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790248328214",
+          "date": "2026-09-24",
+          "title": "Where does Lionel Messi’s international retirement leave Argentina? And who wears the No 10? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHBfX0c3bnVKbUNuMEYxY3VrNkpwWDJnMkRVcjJaQV9wVnRPVVYyUXQ4YXhmc2h1LUR3UGVyMnNnUTlfTHdSbktHa1c1NWlnTEVJNkFabFo4QWNiSHhvTDB4WkV2SFBGVEF2MFBRVk0yUUQ1QVBLaUpnbFNlNGRCWWM2WXAtTDVrVDkwU3RYUFN5S2lKMzBYdg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790248328214",
+          "date": "2026-09-24",
+          "title": "Adidas Argentina Messi 2026 'Farewell' Shirt Already Spotted for Sale - Footy Headlines",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldGcUhMdnAyVTZnaEdkS1F3dldBQU5MaWNqOE9hNFR3bE5Cdmlra0dRN2pnLXN1ZGxTUVNJTms1LVVTQjg5VTI2cHM2OHdDWW5YbkdiSnlsdjhsdFVnM19PUEd3MEtFY25rVjFIMElQaEp5dEpqZExld1JpSUFxbmVwd1BwLTBNTE5GbXgtR1pZdk5vVmVxRno2dm1ZRkJRdW9FbG95aWlORDl1SjJjNVJkM3Y?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3708,7 +3724,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 388,
+      "chapterCount": 389,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6813,6 +6829,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZmxsWkRBNkxYXzRwZUYzVDh6QWtMSjdoU0Y3MWhUTlMtWnpwZkxxSG5jSHhYM0ttbXU1U1pKbUJ4UnJ6NUt2SGRMeHFIMU96a1J1eG1MUlExNFdOTks3eXNuR3ZiSkJkcFFfem8tX3J2eEJuUU5ZTVBGbGV0a09WaTdYTkd5M1FOaERZMm1PZlZuQVlXSnFLQ3ozVFNSVDNqWFF6aFYxYXVsekZFRlpSdDBOQzJNVk82d0tHbmJSNWVKY3hSU0JRZm1IYXhqaXBkU2ZQNU05Y0tDazcwVDNtWFVWMVRzb3YteGlhWUQwUnFvUEpFbkRaUGxoSGhVaDhYNTZzT053V0YxcmNBLWNVbDJiOUt5UXEyNzNHV2ZBVzZRNFFYbnJfU1dhVzRUUldMSkpfQ2FkUEE2bzVuMzhGZkZ4OFd1Xzhr?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790248328939",
+          "date": "2026-09-23",
+          "title": "Kylian Mbappe holds the key as Zidane’s France reign begins against Turkey - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2YxVEZmcTNLa1BFUWtQRkpTNFlNbW1PNzlUaUZ1eENMZ1lyZkpMTkhXNDlZR3FrWGhFVHhRV2I2ZUF0cWFlTGhid3pQZFNyNW1rSTN0THdJOG9FREhrRktudzBDYzlUZllUckV0WGg5SEQ5RmZqb1gxQ1NVdThhRzVaaFRUQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6831,7 +6855,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 976,
+      "chapterCount": 978,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14640,6 +14664,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlh5a19Xa05WZDZaTjBnQUQzRTBaUFkzbkVSb2xweFBta1A4RG8tV2pRZVF6bzF5aWFiOVRnV2lXR050TVR5dWphUjdvTHE1Um1VVE5xYlVmQ0RZZzZLSnJPUWJMQ25ENFZOcnVzblRkenpQMG40ZzRYMHkyMWFJN25xNnRXV3ZlUzFzVERXZnpoY29JQnFDc0I0MFRpR0hNQnhxczRR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790248329411",
+          "date": "2026-09-24",
+          "title": "USMNT’s 11-Day Gauntlet: Peru, Chile, Mexico, Canada & a 16-Year-Old Phenom - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTXpieFRDeTBVMnhLN1gzVjE4eUpkNnU0X3BuR2t3U2NEcFFJWVMxZE56OW91eklyLVdvQlFWQWs2Z3JFOVZneFh2anJQQ2p0T3VMQTZ0c3VSSTBOd2dQMEo4MXY5dUQ3M2JCM01JRHBQNFZIY0lVN3h1ZWhkbDJ4OA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790248329411",
+          "date": "2026-09-24",
+          "title": "See photos of Wadsworth native and FIFA World Cup referee Tori Pensoi - Akron Beacon Journal",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJvWXJjYXlfVU56MlB2NGlhb2MtR1Vyblh3SFpCYmwzUzJVNEpZTzRESG9LYzV2NXZCaWJxYmxjeVBTQVNPUnRJV25rM2dtVHV2UTJHSU1oLXBjUDFJME82LTI5VkVjQjhPeUhhRVBwNThobmx5LUpkMmI0T01leDhqMmF1NFQzUlgxT09CTjR6OWpCQUdDMzZWSHMxRFZsUEJWUzdfa0x3R1lRbGhLNkozS2JXUTZQSWlPZGhGWUIzLTdabko5cU1FbHA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14658,7 +14698,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 640,
+      "chapterCount": 642,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19779,6 +19819,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWWRwQ3dGYnlQTUpwaEpxNWx3RWduUWVVZUNibER6Q3c2RFJrUGtQdzB5WEtzNDJiZ2dGUDFsclRiNTBKY1BYWTBxNGhyZTU5UFRJc1pGRTY1SlNoZGdKaEZrZ0J4RTVKUmRaR2dCR3RqOFBuT3VPc21fWXdoM25OWlFUWTBjdGwtRDhqZllDMkROcThzV1ozQlIxRnQ5VG9vaFNlNFlIOEtiWFR0dlNnZDgtQTA2V1NETkRLWWZnVTdBWExIcUhnWHhHTEtuRXRxOGRVVEN1NGdZNDRzdGxhOVZLRzZMNDFBQ2FEaEtTQ2twbEhCU0VTX1B3dEhGcld3S1J6bk1weXMydWFfZmpYc094cnZ4RjVGYlB1RTNQV0ppQVdqTkd3YnJfeEdJYmFkbkFIcTM3M0ZDS3ZWQTJHTnB4QkgybmFrVDJGRW9uRVpRZ0RTQ2tLMWNqcC1reFFnWUJGajJoN0JteWg2VXIwZ242M0lZaHJLV0JmckJkbnNhdTJ4elVCYtIBiANBVV95cUxOWWRwQ3dGYnlQTUpwaEpxNWx3RWduUWVVZUNibER6Q3c2RFJrUGtQdzB5WEtzNDJiZ2dGUDFsclRiNTBKY1BYWTBxNGhyZTU5UFRJc1pGRTY1SlNoZGdKaEZrZ0J4RTVKUmRaR2dCR3RqOFBuT3VPc21fWXdoM25OWlFUWTBjdGwtRDhqZllDMkROcThzV1ozQlIxRnQ5VG9vaFNlNFlIOEtiWFR0dlNnZDgtQTA2V1NETkRLWWZnVTdBWExIcUhnWHhHTEtuRXRxOGRVVEN1NGdZNDRzdGxhOVZLRzZMNDFBQ2FEaEtTQ2twbEhCU0VTX1B3dEhGcld3S1J6bk1weXMydWFfZmpYc094cnZ4RjVGYlB1RTNQV0ppQVdqTkd3YnJfeEdJYmFkbkFIcTM3M0ZDS3ZWQTJHTnB4QkgybmFrVDJGRW9uRVpRZ0RTQ2tLMWNqcC1reFFnWUJGajJoN0JteWg2VXIwZ242M0lZaHJLV0JmckJkbnNhdTJ4elVCYg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790248329892",
+          "date": "2026-09-24",
+          "title": "Marquinhos hails Seleção stability and new talent for post-World Cup cycle - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzZkRG1KSmNPNFpuTl91YUwzZC1EUTVFTEJtOVc2cEVHTkZQeGlVdWttOWRwTEZIZFdkNkFSRmhxOWd1cG43NFVJcHJzWEU5LUhjZUN6YmxfcUdub2ZaRmtQaDBfc2trWVMzbURLSHF3Nm80TXVtamV4V1Z6VUNFRGhXZDhKbkxEcEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790248329892",
+          "date": "2026-09-24",
+          "title": "Can the Socceroos score against Brazil for just the second time ever? - Flashscore.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGZGMXVzanNPUjU3ZTRwVkU1bHpQMjJERGNGemJ0bWpqYl81VE1sUERKOTUwejd2N2xJZXdHak52TUVQMktjM1FIYm1LQkJiYzJYVjFxdEIzYmFQc0tHMXprTW1SUUp6S29ObTVBMkJBa2I2OVlJa3BGR1Bzd2lKRzBGczBBV0VVemZuc1Y1VUIzU3Y5NUVlOU5LWERTT0RIb1FqRjQ3dFVNUmJtV0NCamNjNnlqXzF6OC1TTjBVY05jbXN1VXhidHZEdUk3WUFXaEFMYzRMMHVEeWY5SmFF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20008,7 +20064,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 906,
+      "chapterCount": 908,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27256,6 +27312,22 @@
           "title": "England Star Harry Kane To 'Seriously' Explore Future In Both MLS And NFL - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjhHMmlhaEVOOGh3M1hQR1EwNFdZX2R1b2tlUFhfY29QMUdNcUp5ZFhSSEMtWEE1TFRob3VIZzR4dElCSW9PTEtscUdtakJweUp3VzJmZ0o3TElnSDcyeUJDU1FBNGF1SHkzT1lCTVpjVWcwUnl2MDlHS2dnRklqOXNaMWdKUW94VjB2UC1QQ3FOeWFYNUpOQldKWlFyd3RPa3Vvcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790248330423",
+          "date": "2026-09-24",
+          "title": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzFYdjJDN1pjRWxIemhuTWxKRUNHT0RFM1RxN2lOQVlmMUktdnNuTFNER2VQT2NvV0VMNkRmRnJ5ekVsSHNVeU52Vk02SHh3YTBfTFpiQTFlRzNsNldlTXJ2dWtHLVNxN3ROb3ZOdjhuSXBBWEY1aFpTT2g3TzBxY1kxOElqU284MnowUUNSV2ZqQkVaQVFQY0RqXzBySHBNMUVzRW1JUXBuT3pKN0szUXVKYmZIaHNfNVFleUU1QVlabVk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790248330423",
+          "date": "2026-09-24",
+          "title": "Harry Kane makes stunning World Cup admission before Spain showdown - Sports Mole",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWlxS2FhZ0pTc1lnVUtOcng0X1NkV29OalRta0ZYeU8xN1I2Sjd4M0RLT1J6TTVQeW1zS0dua1pvZlVjSkRFV041OGlKbUNJYXNkbG9OWnhLSDYxNGFsWEh2eWhZQUQ0dFlpXzJRbzZheFBxSkQ2REJuOUIzUkY2NHh6M3lkWkRPU3ZQU1FkU3dfQmo5cDFxNS1rY1ZFcWlqTzctZ1NVOHd1X1JpOEhpbWtEMHJJN1FFWFRNY29wb0c1aVU1cXh1S2NJNWtqb3RSRjduUWdB?oc=5",
           "draft": true
         }
       ]
