@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-24T11:12:10.423Z",
+  "lastUpdated": "2026-09-24T16:35:56.706Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6855,7 +6855,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 978,
+      "chapterCount": 979,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14680,6 +14680,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJvWXJjYXlfVU56MlB2NGlhb2MtR1Vyblh3SFpCYmwzUzJVNEpZTzRESG9LYzV2NXZCaWJxYmxjeVBTQVNPUnRJV25rM2dtVHV2UTJHSU1oLXBjUDFJME82LTI5VkVjQjhPeUhhRVBwNThobmx5LUpkMmI0T01leDhqMmF1NFQzUlgxT09CTjR6OWpCQUdDMzZWSHMxRFZsUEJWUzdfa0x3R1lRbGhLNkozS2JXUTZQSWlPZGhGWUIzLTdabko5cU1FbHA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790267755334",
+          "date": "2026-09-24",
+          "title": "Sergino Dest Confronts USMNT’s World Cup Collapse: ‘You Have to Show Character’ - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjhfNDY4eXNrZHE3dkZ4MzBEYk5ndlhTaFVBNGE3TnJJRzV1OXVOSVFTamlFQ3FVZkQyRktMMXdRdnZlRnhTeGQwR3IxVE5jYkVrZXF6M2M1NlNtaVhqaTVUemtPdUtRaGl2dTJRMkZGXzBsc2oyNGVPQ21naV9tbXNYNzh5VGs5T29aeVlIZ0Q?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14698,7 +14706,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 642,
+      "chapterCount": 644,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19835,6 +19843,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGZGMXVzanNPUjU3ZTRwVkU1bHpQMjJERGNGemJ0bWpqYl81VE1sUERKOTUwejd2N2xJZXdHak52TUVQMktjM1FIYm1LQkJiYzJYVjFxdEIzYmFQc0tHMXprTW1SUUp6S29ObTVBMkJBa2I2OVlJa3BGR1Bzd2lKRzBGczBBV0VVemZuc1Y1VUIzU3Y5NUVlOU5LWERTT0RIb1FqRjQ3dFVNUmJtV0NCamNjNnlqXzF6OC1TTjBVY05jbXN1VXhidHZEdUk3WUFXaEFMYzRMMHVEeWY5SmFF?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790267755881",
+          "date": "2026-09-24",
+          "title": "Brazil boss Carlo Ancelotti targeting 'new generation' of players ahead of next Copa América and World Cup - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR0hnb1B1bjRETTVoeDZrZjBoMDJoMUhwYlA3cjJpWUhlNG0tQkpjR2kxdDhub2dOLWkycmNLaXJkNFVRVmZydDJvODk2MHJqaFNOWGlGakplYnc1TnNjaTNkeGV2dXdRTHpRdkJkOTJPQktEWTBjNVdTTHViYkVSemN5cG84LURFOUlNRVJodnduWTl4SjhxTHQ4cWtMLXhESVhSTERZU0dFREFhTzNkTkNPdFdWVjRzUFJwaWZwdGtQZk84ZWNTTVRiVGtlMXlEcXp6MnUxNldVTGxZTWFpWA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790267755881",
+          "date": "2026-09-23",
+          "title": "Australia's Herrington braced for Brazil after meteoric rise - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFFVTmcwYVpYUGVEVzV1SnZFT1g3V1Z6Y3VuUVVYZ01tQ0ljVXJ3SW8xbTlTTTFZNUZGaFpNQm9sTS1BTkRrLTM3WU5LVE9GNTJLZzNad3IwdndVakwyLVdNUTZiZmc4YW1sQ0dhdTVndTh2dzk1UXh4SnJjRG90bnR2N1BIbGhNdm1SQW9YSFlhQWRYVm9CRUNTLWJMY0hRQllHck9ETWU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20064,7 +20088,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 908,
+      "chapterCount": 909,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27328,6 +27352,14 @@
           "title": "Harry Kane makes stunning World Cup admission before Spain showdown - Sports Mole",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWlxS2FhZ0pTc1lnVUtOcng0X1NkV29OalRta0ZYeU8xN1I2Sjd4M0RLT1J6TTVQeW1zS0dua1pvZlVjSkRFV041OGlKbUNJYXNkbG9OWnhLSDYxNGFsWEh2eWhZQUQ0dFlpXzJRbzZheFBxSkQ2REJuOUIzUkY2NHh6M3lkWkRPU3ZQU1FkU3dfQmo5cDFxNS1rY1ZFcWlqTzctZ1NVOHd1X1JpOEhpbWtEMHJJN1FFWFRNY29wb0c1aVU1cXh1S2NJNWtqb3RSRjduUWdB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790267756706",
+          "date": "2026-09-24",
+          "title": "‘Not said anything’ - Why Trent Alexander-Arnold deserves high ‘praise’ for earning England recall the hard way under Thomas Tuchel - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVMwRjhwQ3FFQmNTTkl3d3NpWDJiUVVLZmtKc09PVXVselZaQnQxWi1tSi1yVE80c0Z1akROVU4yVEpIOW95dlFGT29uYXE2aEVUUkp2YmhPMGxTeVI2dTQ5dDhIanp4c3pkWENBY25zRXNmZG10Zi1VdnFCYkd0NTFR?oc=5",
           "draft": true
         }
       ]
