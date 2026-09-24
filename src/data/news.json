@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-23T21:09:17.466Z",
+  "lastUpdated": "2026-09-24T03:24:54.720Z",
   "articles": [
+    {
+      "id": "news-auto-bruno-guimar-es-opens-up-on-brazil-s-wor-2026-09-23",
+      "headline": "Bruno Guimarães Opens Up on Brazil’s World Cup Penalty Miss: 'It Still Hurts' - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJRNDNGd0Y3MDQtWUw5NHU0NFp4R3BVMUVmRGR5ZU5NdEZpdXFCdGhaNXlKZjBSdnhZaEhmcGxmNFV4Y1VkWXJlLThObnVscVlJRkRUclRpMDRiTnN5dGtGdVNmXzFNYmR1Y3p0RDk4UEc2dk5sejFJNjY2WmlLSWdrUQ?oc=5\" target=\"_blank\"&gt;Bruno Guimarães Opens U",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-23",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJRNDNGd0Y3MDQtWUw5NHU0NFp4R3BVMUVmRGR5ZU5NdEZpdXFCdGhaNXlKZjBSdnhZaEhmcGxmNFV4Y1VkWXJlLThObnVscVlJRkRUclRpMDRiTnN5dGtGdVNmXzFNYmR1Y3p0RDk4UEc2dk5sejFJNjY2WmlLSWdrUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc-healthtech-company-earns-ticket-to-st-2026-09-23",
+      "headline": "KC healthtech company earns ticket to Startup World Cup, shot at West Coast investor’s $1M - Startland News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA4bUh3VzlhWnQxZmpJSWV0d3JDSlcwR2pQQmxQT0lpbExoQ0tmVERudjZERWU2T2xCaG1YaGxET2NNQ2IyaDJ5SUFnSGlSeXhHRmNBUzg4VDduMnJHUmtMN1dSdEpPVDFTSTFjbkhSVHdrNzJ4?oc=5\" target=\"_blank\"&gt;KC healthtech company earns ticket to Startup",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-23",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4bUh3VzlhWnQxZmpJSWV0d3JDSlcwR2pQQmxQT0lpbExoQ0tmVERudjZERWU2T2xCaG1YaGxET2NNQ2IyaDJ5SUFnSGlSeXhHRmNBUzg4VDduMnJHUmtMN1dSdEpPVDFTSTFjbkhSVHdrNzJ4?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-harry-kane-admits-england-s-world-cup-20-2026-09-23",
       "headline": "Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’ - The Guardian",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-17",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLUhYQlo1RnRJQVc3WmlhWXdRMHctZUFLS3pyaWhhcm1JN0FDSlAtdzYySnYyY3g1QjRfc0trVTQ2c0JCNnVWMGRFMWtmOEJOY1k2MzJaajVqTF9FOGdXYmJ3WFlnSW9DdlNuT0U1TnJKMEN2VjZ6bG9JVEo2NTFNOGp4bU5sNHNGeU9RMXdqYloxWDJwWWVjcmc4dWl0ODhEOHBjTUZxck1uY19PWm5tNzlxVEZ4LS1uSW9QZHBIaTNuV1dTRW94SnZHbzJDREhsZ3N0UXJGUzZnRk1BWnd6VU1VX2R4dG5BQjlTYg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-youth-movement-afoot-3-takeaways-from-us-2026-09-17",
-      "headline": "Youth Movement Afoot: 3 Takeaways From USA's First Roster Of 2030 World Cup Cycle - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDhYWUtpV2NjbU5TOTZKVTlneVgzalZxX2FuY3Z0UXVQV0ZicXpjQzlnaDJwTUE4UWI3VVNQQndTWW56Yk1XWWZtcmN3SUszb2NyZTVweDBtbUd1cmRvV2p0MDBoUHBkbDhKWVozTVpDdVRnMzhPNjJELTFic3k0blh1SWg4ZHpkYVVCemdJUl9nSExKOWhqbHNXY0hzSUhkRVFz0gGjAUF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-17",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDhYWUtpV2NjbU5TOTZKVTlneVgzalZxX2FuY3Z0UXVQV0ZicXpjQzlnaDJwTUE4UWI3VVNQQndTWW56Yk1XWWZtcmN3SUszb2NyZTVweDBtbUd1cmRvV2p0MDBoUHBkbDhKWVozTVpDdVRnMzhPNjJELTFic3k0blh1SWg4ZHpkYVVCemdJUl9nSExKOWhqbHNXY0hzSUhkRVFz0gGjAUFVX3lxTE9tbHFxVWROd1RDa19HTUtMUmV1aXJ4UkdMLURlTW1oR0tmclB3WmZRb29kcG5WZEZpYlN4WVFwTW9HbHhOWk1YM01uM0hFdHFqc291X29aTDNjR3hiRHVyS1hHSUdDbFV2V2ZkaGNUYU85RG45dmNIdGR1NUJ4bmtQYl8tZmI5Zmh5NWUzNVBnRWxrZ0R4dHFxbDg1bHpfaHRnN1k?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-english-fa-calls-for-infantino-to-releas-2026-09-17",
-      "headline": "English FA calls for Infantino to release FIFA World Cup sell-off documents - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXNGcjJydWJuU05LNS1jRG9JUFU1MFZWdG1oekw4dVdkX3hqZThTX1FscDVoUDhKdGFEVTNtcmdvdE1sN0JtbFhBeXljQkFaclBlQnVNS1AyX2ZXeDVydmQ0cHR6ZWNCdlgwUjNLamNvS3QybUtNYjdoTmdyUFdaaFVYTmIyNjNJYU4xbVQ3bFplTm1ZeW01LWNPY0loeThRTWdYX1poMjZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-17",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXNGcjJydWJuU05LNS1jRG9JUFU1MFZWdG1oekw4dVdkX3hqZThTX1FscDVoUDhKdGFEVTNtcmdvdE1sN0JtbFhBeXljQkFaclBlQnVNS1AyX2ZXeDVydmQ0cHR6ZWNCdlgwUjNLamNvS3QybUtNYjdoTmdyUFdaaFVYTmIyNjNJYU4xbVQ3bFplTm1ZeW01LWNPY0loeThRTWdYX1poMjZENm9odzdXZXphb25TRHhLc3fSAb8BQVVfeXFMUElMb2p4bldpTnpsZ2tOci1POWJZOE9KUFBZdVZ0RHgtcTlPSTZuOEdpVDlVY2dXUUJteTdZQ25FYVM4bmVVWnF0aERYNy0tSk5WZENLbmVVWWJLdHI5SEhXemxBXzVNVncyaVFDMGhpNGhXaGs5cnk5N0pabThnYmdpOEpfaDZadUY2UklxODBOSS0wd2FNWFpNcmNFem1SU2hZUG81YUxObzFlLUpaemV3UmNodndWWnIzTlpnU28?oc=5",
       "featured": false,
       "draft": true
     }

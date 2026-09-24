@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-23T21:09:20.609Z",
+  "lastUpdated": "2026-09-24T03:24:57.471Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6831,7 +6831,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 974,
+      "chapterCount": 976,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14624,6 +14624,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEJaX2RhUVRKU3RGMzI4Sy0tN2lBYWNxMHh4d1ZNckI0QXZDeGE4dFlOdTVTVTA1emhiS3V6ZnRGM1p2TjZfZHQ5bHpzMkFYd3FVR18zemU1WTB2aVhCNVBQWTQ2TkNXbmVuMG1pWnVYWTBVYkYtMy1xanBNTjlxRlJkQWtDaXpFZlJlZzIydmo4bm12cDBnZnBOdw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790220296433",
+          "date": "2026-09-23",
+          "title": "U.S. Under-17 Men's National Team Will Travel to Spain for Three International Matches in Final Preparations for the 2026 FIFA U-17 World Cup in Qatar - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjNxYTc2TVdyMk0xTnIzY0JCaDQzeHFGVVNYYWxCMG1lMUVzQ0lFZTl2WkRxOWNvVC1fejNSZXlNZFBFQndnM1VrdlROYWlRTzJnWnJ2RHpZRVIwYTg2cjVTVlh0OEJkVEZLY3VwajQyMERpWVZCMFU5dDVNS2lVNlZ4Z3VBa1NUbi1RTFpBdVlhUk8tenlRTl9DOGNsem11Wi1zY0JsMHFjMVhNQk1KSHZlcEVPeFB0R3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790220296433",
+          "date": "2026-09-23",
+          "title": "USMNT stars tell The Post the lessons they learned from World Cup roller coaster - nypost.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlh5a19Xa05WZDZaTjBnQUQzRTBaUFkzbkVSb2xweFBta1A4RG8tV2pRZVF6bzF5aWFiOVRnV2lXR050TVR5dWphUjdvTHE1Um1VVE5xYlVmQ0RZZzZLSnJPUWJMQ25ENFZOcnVzblRkenpQMG40ZzRYMHkyMWFJN25xNnRXV3ZlUzFzVERXZnpoY29JQnFDc0I0MFRpR0hNQnhxczRR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14642,7 +14658,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 639,
+      "chapterCount": 640,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -19755,6 +19771,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnh0S2IyTkhUQ1JTY1ZYbWxhMTBFSTBvaHBrOUpVLTVBOHpZZGN5VWYxM0NyNnFjMUZMZEJQcjFWdHBacVJtajZTa0JydkhvSUJTZEpEQlFUeGYwdUpYUjgwMHlwd2dMakVIbE5NQ19DUThKcmxObVJiNVNsamZKdjdoY3F6dXhCVXpxdHFGZ0dFUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790220296969",
+          "date": "2026-09-24",
+          "title": "‘Reality check’ for new excitement machines, WC heartbreak star returns to face Brazil - Fox Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWWRwQ3dGYnlQTUpwaEpxNWx3RWduUWVVZUNibER6Q3c2RFJrUGtQdzB5WEtzNDJiZ2dGUDFsclRiNTBKY1BYWTBxNGhyZTU5UFRJc1pGRTY1SlNoZGdKaEZrZ0J4RTVKUmRaR2dCR3RqOFBuT3VPc21fWXdoM25OWlFUWTBjdGwtRDhqZllDMkROcThzV1ozQlIxRnQ5VG9vaFNlNFlIOEtiWFR0dlNnZDgtQTA2V1NETkRLWWZnVTdBWExIcUhnWHhHTEtuRXRxOGRVVEN1NGdZNDRzdGxhOVZLRzZMNDFBQ2FEaEtTQ2twbEhCU0VTX1B3dEhGcld3S1J6bk1weXMydWFfZmpYc094cnZ4RjVGYlB1RTNQV0ppQVdqTkd3YnJfeEdJYmFkbkFIcTM3M0ZDS3ZWQTJHTnB4QkgybmFrVDJGRW9uRVpRZ0RTQ2tLMWNqcC1reFFnWUJGajJoN0JteWg2VXIwZ242M0lZaHJLV0JmckJkbnNhdTJ4elVCYtIBiANBVV95cUxOWWRwQ3dGYnlQTUpwaEpxNWx3RWduUWVVZUNibER6Q3c2RFJrUGtQdzB5WEtzNDJiZ2dGUDFsclRiNTBKY1BYWTBxNGhyZTU5UFRJc1pGRTY1SlNoZGdKaEZrZ0J4RTVKUmRaR2dCR3RqOFBuT3VPc21fWXdoM25OWlFUWTBjdGwtRDhqZllDMkROcThzV1ozQlIxRnQ5VG9vaFNlNFlIOEtiWFR0dlNnZDgtQTA2V1NETkRLWWZnVTdBWExIcUhnWHhHTEtuRXRxOGRVVEN1NGdZNDRzdGxhOVZLRzZMNDFBQ2FEaEtTQ2twbEhCU0VTX1B3dEhGcld3S1J6bk1weXMydWFfZmpYc094cnZ4RjVGYlB1RTNQV0ppQVdqTkd3YnJfeEdJYmFkbkFIcTM3M0ZDS3ZWQTJHTnB4QkgybmFrVDJGRW9uRVpRZ0RTQ2tLMWNqcC1reFFnWUJGajJoN0JteWg2VXIwZ242M0lZaHJLV0JmckJkbnNhdTJ4elVCYg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -19984,7 +20008,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 905,
+      "chapterCount": 906,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27224,6 +27248,14 @@
           "title": "Harry Kane backs England dropouts and reveals ‘Declan Rice reached out to me’ - The Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNRSDdQR2JvNUVSUHc1U3djaDBXallyX3Q3YUx5bTR2X0VUbUpMTmtXcXg3MkNLaGhHbU93TjdJcWxqQkJqbDdQaWtWTkxLYkFQLTJzRWdmdDRsV1YydlJiWXAzSTd2blBzU25oN2lWVUhnQ296RzllYmRtRW9xLVJud2J3emJ6Mm03ZHJ1bjVGbHROaWctLTZpRWRMa0pQdnhVLWJBYldhc1FRMWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790220297471",
+          "date": "2026-09-23",
+          "title": "England Star Harry Kane To 'Seriously' Explore Future In Both MLS And NFL - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjhHMmlhaEVOOGh3M1hQR1EwNFdZX2R1b2tlUFhfY29QMUdNcUp5ZFhSSEMtWEE1TFRob3VIZzR4dElCSW9PTEtscUdtakJweUp3VzJmZ0o3TElnSDcyeUJDU1FBNGF1SHkzT1lCTVpjVWcwUnl2MDlHS2dnRklqOXNaMWdKUW94VjB2UC1QQ3FOeWFYNUpOQldKWlFyd3RPa3Vvcw?oc=5",
           "draft": true
         }
       ]
