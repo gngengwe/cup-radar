@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-24T21:11:51.344Z",
+  "lastUpdated": "2026-09-25T03:42:06.451Z",
   "articles": [
+    {
+      "id": "news-auto-donnarumma-italy-want-to-control-the-gam-2026-09-24",
+      "headline": "Donnarumma: ‘Italy want to control the game, but World Cup wound still painful’ - Football Italia",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA0ckVVLXNNNnJlX2ZFZThRM0ZWVTBVajk5SGN1aHowYVBFdkI4VndYLTJHT2J1V3BpS3ZVRWZueVZZVjFGbEZzaTFrUGZGcEgzQ2FJNGVWYXM2Wnk3czV5MEF4eFBuQlZva0FVNVNUS19LbGZZT3Rpb3diaE5nek3SAYQBQVVfeXFMUDJVT3lSY2l6VFF3dkYwMkNweU5CcFJkMnJKQlN6OVJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-24",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0ckVVLXNNNnJlX2ZFZThRM0ZWVTBVajk5SGN1aHowYVBFdkI4VndYLTJHT2J1V3BpS3ZVRWZueVZZVjFGbEZzaTFrUGZGcEgzQ2FJNGVWYXM2Wnk3czV5MEF4eFBuQlZva0FVNVNUS19LbGZZT3Rpb3diaE5nek3SAYQBQVVfeXFMUDJVT3lSY2l6VFF3dkYwMkNweU5CcFJkMnJKQlN6OVJScWhrS1E2eHJlSFFVWUpnbFJNcU1CZ2k5TlcybWFrTkRiUFNETndvczFqWmNXeGJXbzZBUElkT3NBWmxOcEVtV29LOUpMNi05Q0RGYkhycGU0WVU5dVI4SVZ6Q0Fa?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lumen-field-is-already-unrecognizable-an-2026-05-19",
+      "headline": "Lumen Field is already unrecognizable — and Seattle's World Cup makeover isn't done yet - KING5.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5ckl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-19",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5cklLLWVnaHNiYUQzdTBJT1hMcjZUcUVZWG5FdTRacmNJX0xFSnlLVlkzYjhuemh4YUh3V3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-u-s-u-17-wnt-head-coach-ciara-crinion-na-2026-09-24",
       "headline": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-18",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-goal-score-tiktok-exclusive-panini-prizm-2026-09-18",
-      "headline": "GOAL: Score TikTok-Exclusive Panini Prizm FIFA World Cup 2026™ Boxes - Panini America",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGtsZFVmQi1EbEpZb0EtUGhnSFJJU2J4WlZQaHVlZjhFNUxMYlI4cU90UjJwOEFERlJ0b29FVWhNM0ZYWDNMc1QyRWRDalZxMUpESTNDY3hObTFpYzg1QUVJeU1zenA3SHRDVzZoVXlzaDlYZnhTQzB6blVOVDR3b0JRWFVELU1pOGRqZW9iQnFQWXM1ZkRsVjB1dk52VWs?oc=5\" targe",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGtsZFVmQi1EbEpZb0EtUGhnSFJJU2J4WlZQaHVlZjhFNUxMYlI4cU90UjJwOEFERlJ0b29FVWhNM0ZYWDNMc1QyRWRDalZxMUpESTNDY3hObTFpYzg1QUVJeU1zenA3SHRDVzZoVXlzaDlYZnhTQzB6blVOVDR3b0JRWFVELU1pOGRqZW9iQnFQWXM1ZkRsVjB1dk52VWs?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-06-03",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Free-To-Public Programming During FIFA World Cup 2026™, Including Rave 52 Free Play Events - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-03",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9nWm5vTkNhLUt5c29NeHQwdkNEQk5ybmU4eWNlekZfZ2cya3VXYUZFQzVwdU9ZLVk1TUhJLTRBMFBaS2t5ckt6RU9wSnd5Y014eXZwaWRidVltdUROa1paU1E?oc=5",
       "featured": false,
       "draft": true
     }
