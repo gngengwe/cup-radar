@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-25T16:40:46.631Z",
+  "lastUpdated": "2026-09-25T21:09:01.426Z",
   "articles": [
+    {
+      "id": "news-auto-spend-it-on-beckham-world-cup-deals-help-2026-09-25",
+      "headline": "Spend It on Beckham: World Cup Deals Help Global Star Rake In $51 Million - hollywoodreporter.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGFjMFZqUkpPY04yVlBVMlFFR2kyZVRZLVU3eUx0SkRoVDhJQnZDRVp3dFZoYTZPTkJzcWZTYTV4UWJtT2NRcTNkZWE5U1lDTDJWeVlta0NlRVl6WGxhcWtTLTM2OTNfbG1QcVZoVGNDSWNJYW9xZW1CMER5T0tCVmROM0xudlhaRFRSU2VLZ3M1eU95UWM0Ty1Zb2tiVXQ5YmhNc1hFckJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-25",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGFjMFZqUkpPY04yVlBVMlFFR2kyZVRZLVU3eUx0SkRoVDhJQnZDRVp3dFZoYTZPTkJzcWZTYTV4UWJtT2NRcTNkZWE5U1lDTDJWeVlta0NlRVl6WGxhcWtTLTM2OTNfbG1QcVZoVGNDSWNJYW9xZW1CMER5T0tCVmROM0xudlhaRFRSU2VLZ3M1eU95UWM0Ty1Zb2tiVXQ5YmhNc1hFckJjbGR2emc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - reignfc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-fifa-world-cup-should-belong-to-fans-2026-08-13",
       "headline": "The FIFA World Cup should belong to fans, not super-rich investors - The Conversation",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-15",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-exclusive-top-soccer-bosses-demand-slice-2026-09-18",
-      "headline": "Exclusive | Top soccer bosses demand slice of FIFA’s $6B pie, blast scrapped Kushner deal to sell off World Cup rights - New York Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVOV0pGZWxFVHR0OVVsVTNGYjBtVEtTOUpBdWtUaWlXQmxuMEJjTFZuXzJRSkFsRlJWekFhcmRzWU9SVFlsa2pjVTk0N2RoNFlqSEJtUnVFaktoaDg0cjJwZ2xQYWpLTV95Wk56eVJ0eG9iVE5YblVmVXlrXzRhWFJ4TGFDZ2JmQlFtdEZsUFpjS1BSVkVXY1c3em05NjhjZG9sTEdHY2x",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEVOV0pGZWxFVHR0OVVsVTNGYjBtVEtTOUpBdWtUaWlXQmxuMEJjTFZuXzJRSkFsRlJWekFhcmRzWU9SVFlsa2pjVTk0N2RoNFlqSEJtUnVFaktoaDg0cjJwZ2xQYWpLTV95Wk56eVJ0eG9iVE5YblVmVXlrXzRhWFJ4TGFDZ2JmQlFtdEZsUFpjS1BSVkVXY1c3em05NjhjZG9sTEdHY2xLenMtbFNoVmJUX2Q?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-tuchel-explains-why-kobbie-mainoo-didn-t-2026-09-18",
-      "headline": "Tuchel explains why Kobbie Mainoo didn’t play a single minute at 2026 World Cup - sports.yahoo.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlk5S24xck4tTGhScjFqWWphUE9NT2VtU0o1T3E4LVVCS19LUXhKN2l4Y0VwUzZLbW1VMlJ1UUJPM3NWUUxBTGlCc2gzSFUzcXc1YWdEM2RpTHRMekZaUVJTdE9ZRDNNaGg5aEFiUlpfaGlQZktSVUpDbmk0VDlBZF9HME9tb1NQQnc?oc=5\" target=\"_blank\"&gt;Tuchel explain",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlk5S24xck4tTGhScjFqWWphUE9NT2VtU0o1T3E4LVVCS19LUXhKN2l4Y0VwUzZLbW1VMlJ1UUJPM3NWUUxBTGlCc2gzSFUzcXc1YWdEM2RpTHRMekZaUVJTdE9ZRDNNaGg5aEFiUlpfaGlQZktSVUpDbmk0VDlBZF9HME9tb1NQQnc?oc=5",
       "featured": false,
       "draft": true
     }
