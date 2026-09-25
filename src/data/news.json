@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-25T11:16:44.103Z",
+  "lastUpdated": "2026-09-25T16:40:46.631Z",
   "articles": [
+    {
+      "id": "news-auto-the-fifa-world-cup-should-belong-to-fans-2026-08-13",
+      "headline": "The FIFA World Cup should belong to fans, not super-rich investors - The Conversation",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-13",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-kansas-city-spirit-landed-the-fi-2026-07-10",
+      "headline": "How the \"Kansas City Spirit\" Landed the FIFA World Cup - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5\" target=\"_blank\"&gt;How the \"Kansas Ci",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
       "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-18",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlk5S24xck4tTGhScjFqWWphUE9NT2VtU0o1T3E4LVVCS19LUXhKN2l4Y0VwUzZLbW1VMlJ1UUJPM3NWUUxBTGlCc2gzSFUzcXc1YWdEM2RpTHRMekZaUVJTdE9ZRDNNaGg5aEFiUlpfaGlQZktSVUpDbmk0VDlBZF9HME9tb1NQQnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-545-ghanaians-were-denied-2026-world-cup-2026-09-18",
-      "headline": "545 Ghanaians were denied 2026 World Cup visas - Sports Minister - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDZXVVZkZFYyYklOWGdseDJ4dVlSeHI1amRfZE9tdnR4dXU0el9oT19ISFBmVWtibHYwYmdZaEhjajJpVmluWkxmNjZ2elIwSGEtRlotS1ktcTdoZ3laRUY2bEFhT2hDVkUwdVE0NWRrTUxWbUFwTV9RZ3pfamlQaFhEeXRhQkdKdEM3dG1saW5OaUJfZWoxVVNRUW5qaXJPMWp1R3ZyZjB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDZXVVZkZFYyYklOWGdseDJ4dVlSeHI1amRfZE9tdnR4dXU0el9oT19ISFBmVWtibHYwYmdZaEhjajJpVmluWkxmNjZ2elIwSGEtRlotS1ktcTdoZ3laRUY2bEFhT2hDVkUwdVE0NWRrTUxWbUFwTV9RZ3pfamlQaFhEeXRhQkdKdEM3dG1saW5OaUJfZWoxVVNRUW5qaXJPMWp1R3ZyZjBzVFdnVUdGNkVpMkxpcnJQN0VJbi1B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-portugal-roster-for-2026-uefa-nations-le-2026-09-18",
-      "headline": "Portugal roster for 2026 UEFA Nations League: Cristiano Ronaldo called up for fall matches - sports.yahoo.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV5SnNBWkpROHlqc3JSMmZaRktzUF91LV9yQmh0N201ZDBBeUtBYzZhY2hmNVMwOTdFQ2dJZWwtaHdlRnpNTVpSbTBsVnFUdXBvdVJteXJWNzhuX1p5TjJmNE1GMFdMVC01WkpGb1psMkZWVjJlQ0tmUFhZcDNDN1NKTGdxY2toaHc?oc=5\" target=\"_blank\"&gt;Portugal roste",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV5SnNBWkpROHlqc3JSMmZaRktzUF91LV9yQmh0N201ZDBBeUtBYzZhY2hmNVMwOTdFQ2dJZWwtaHdlRnpNTVpSbTBsVnFUdXBvdVJteXJWNzhuX1p5TjJmNE1GMFdMVC01WkpGb1psMkZWVjJlQ0tmUFhZcDNDN1NKTGdxY2toaHc?oc=5",
       "featured": false,
       "draft": true
     }
