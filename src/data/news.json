@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-25T03:42:06.451Z",
+  "lastUpdated": "2026-09-25T11:16:44.103Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
+      "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5\" target=\"_blank\"&gt;World Cup 2026: Argentina's Paredes banned for 10 games over W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-donnarumma-italy-want-to-control-the-gam-2026-09-24",
       "headline": "Donnarumma: ‘Italy want to control the game, but World Cup wound still painful’ - Football Italia",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-18",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDV5SnNBWkpROHlqc3JSMmZaRktzUF91LV9yQmh0N201ZDBBeUtBYzZhY2hmNVMwOTdFQ2dJZWwtaHdlRnpNTVpSbTBsVnFUdXBvdVJteXJWNzhuX1p5TjJmNE1GMFdMVC01WkpGb1psMkZWVjJlQ0tmUFhZcDNDN1NKTGdxY2toaHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-6-4-france-fifa-world-cup-2026-a-2026-07-18",
-      "headline": "England 6-4 France: FIFA World Cup 2026 – as it happened - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2d",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-18",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnR5RTVPcTJTYlQzVHI1VWRkSGMwQnZhUkdCaklsTm1fQjNCQloyQTNZczU4RlZyTWl6OVlWdm8zSDd3MUpCRWd2Q3JXaUlQWVZDRDRYY1dpLXVBMFN5d3E3eWlzMGFZeUZrUW44STdHZnZWeV9IMU1hRk1mMGU2YlItSXpiQUZFOG5EZ2JJZGZwOWhUYU5zWGpRWEhoZzQ0dTktV3lQR2dLSWZUNUpwb25XU1TSAboBQVVfeXFMTjRpQ2ZNVmxNSElLQ1FPQmN4ZkZrRHRHbW0xZmFUNnVUdjA0UVA5aERXeXFzN3JpajBKbDdMa1hQMk8xOUlvWXA1VWgyLVhvUGg5bG5JeGE4ZFhlZUk4RjZ0N3U0blljSF9tTFM1U195ekI2ZUdWdWFkTFZrVmtoN0hPQ000VHFBRXFpRENZMTFlS3pERFdQSy0ta2tJNzV4U1E4WElMN3dvRkFyNDdrSkhiOWllS2hJSVpR?oc=5",
       "featured": false,
       "draft": true
     }
