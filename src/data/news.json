@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-25T21:09:01.426Z",
+  "lastUpdated": "2026-09-26T15:54:01.969Z",
   "articles": [
+    {
+      "id": "news-auto-lamine-yamal-reveals-what-he-told-barcel-2026-09-26",
+      "headline": "Lamine Yamal reveals what he told Barcelona legend Lionel Messi after Spain beat Argentina in World Cup final - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUE2SlF5WVM4VndUeml3blduTWRTRjgyRGZHMFNDWkw0MzdXNWJMWGx4bjlQSnRRckNPV0ZQbC1OS3plVnJUQWpVeHBIeWpfM01OVGNjcXRKNlI4MmtaREJnN0NoeURTTy1LRy02VkhXN3JkQ25KYXppMDk4WS1vOVdhZVFYS29saGxEdA?oc=5\" target=\"_blank\"&gt;Lamine Yama",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-26",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUE2SlF5WVM4VndUeml3blduTWRTRjgyRGZHMFNDWkw0MzdXNWJMWGx4bjlQSnRRckNPV0ZQbC1OS3plVnJUQWpVeHBIeWpfM01OVGNjcXRKNlI4MmtaREJnN0NoeURTTy1LRy02VkhXN3JkQ25KYXppMDk4WS1vOVdhZVFYS29saGxEdA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-generated-889-million-for-seat-2026-09-26",
+      "headline": "World Cup generated $889 million for Seattle and King County - KNKX Public Radio",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3lsbFNPd0RhcGx1LVRRaHpYc1hva3puX19RWVBUVDUxUlFFVTJES3ZBY1BtOGZDb3NSYlJ6N0NWYWFZX2dPcThpbWNBYkZ0TzZzUlljaGpsQ1JpcXNJX2JBalBQSGJ1UTVWN2JPXzNzbWdpdkItNThNU2FHVTNBT1JBTkl6MG1rVW9CYTFMTVdLYW5kODA4U3M2Q2dPVHBiZFE?oc=5\" t",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-26",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3lsbFNPd0RhcGx1LVRRaHpYc1hva3puX19RWVBUVDUxUlFFVTJES3ZBY1BtOGZDb3NSYlJ6N0NWYWFZX2dPcThpbWNBYkZ0TzZzUlljaGpsQ1JpcXNJX2JBalBQSGJ1UTVWN2JPXzNzbWdpdkItNThNU2FHVTNBT1JBTkl6MG1rVW9CYTFMTVdLYW5kODA4U3M2Q2dPVHBiZFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-spend-it-on-beckham-world-cup-deals-help-2026-09-25",
       "headline": "Spend It on Beckham: World Cup Deals Help Global Star Rake In $51 Million - hollywoodreporter.com",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-18",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTy1wTU41VVZDQXdDOWZwWFlEcm1BM19UUVdudW83aVpDV3VmREZaMExweDUxc2RvSzdtTnY5M3czMnNfa2RSemI2RTRfZFNOVXl4NmlFY29jQ0dKRGU4b2ZZNGd4dUVCa3FzdlVxVUl3bC1RYUhONFBVUDZ4bC1JcEVIckxKT1kzZ3l4eDVFSmJTQVVHRGVSYWpTTWYzcy13UTZvUnlqZzNuWHJ4eHo5UU11bTRacV9xMTU4Nkc1M1JCdUxDZXZLa3BENA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
-      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
       "featured": false,
       "draft": true
     }
