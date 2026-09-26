@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-26T15:54:05.064Z",
+  "lastUpdated": "2026-09-26T20:41:57.996Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -6983,7 +6983,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 998,
+      "chapterCount": 1000,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14968,6 +14968,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWW5TaU9OcGhkZFBCQXNQV2R3MGNMYklrT3poaWNweUFud09Qd3pWOTZfVldVY3dGNGotWmZLcUtwYXR6amwxU1J4OHpEUU1MQjRZTlJ6YkF5Y0VqVlJzeERROFhlaW1KUVBfV3p6aDdwdFZKZ191Um01RWUybDRORl94bHJxU1RMdE5LZ09xQjdBZ2ltRFNnQw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790455316644",
+          "date": "2026-09-26",
+          "title": "Live updates: USA takes on Peru in first post-World Cup match - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk5uQXRmc2p6Z0dyTnFuR05jdWs4b0RaYVVGVHZQcXVFaFlpcERaN2dnd3F5SzFaenF6MlB0TXNtWjRHSHdFaGxoSU93bUlNZVN6X1RwZFlRR1Q2MHAydnZ1cFd5anFoeUhPbjd1YVFpLXdZc0VmQ1B0X29UYjh3MEktd1lVLTZGekx1SnBiYlByTVhDalQ0RXl3NUpkeGJNU3plekNrWTl3WDlNY3FuUVd3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790455316644",
+          "date": "2026-09-26",
+          "title": "Did Donald Trump's Call to FIFA Ruin the USMNT's World Cup Focus? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjFkYWtCNjdiRU1MTUVOY29kdUVuLTg0aGtxZU9keE5HQVFVRF9rdG9IVVpSMi1ZSDBiM1pPajFNRDFPV2FXUmx5MkpxY21YQzc4ODZWb0JhVmRmeDhDQmxOV01aaEg5dllJZDhMUDF3VmFrcUJ5Wjc4bmxWWFBEWHZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14986,7 +15002,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 657,
+      "chapterCount": 658,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20243,6 +20259,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcW5oSE1ZaFNDZEMwNmFHY19Sck9USGRqbjdJYml6dFYxeFpPdlFObzhLQVpBM2hKVDBlcEN4c3Z5YW54NWQ3NUktbGYzTFZnMWdJNnV1Ni04Q0F1SWVLYUNMc25fV1Y2VFM5NWxZWkJtS2RBNW1ZOFU4RGY1Z1hnSGFEQ1FLY2s5SzVnblJEVHVFMUF3M3AtRDBfUGt2OTZXT3AwQUtHYXZEVXNrcjcyNi02LURFX2FDSU43bUo1a3p4RFl3QXc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790455317362",
+          "date": "2026-09-26",
+          "title": "Lula bans fixed-odds sports betting a week before Brazilian elections - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20472,7 +20496,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 914,
+      "chapterCount": 917,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27784,6 +27808,30 @@
           "title": "England projected starting lineup vs. Spain: Where will Bellingham play? - sports.yahoo.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUi1ma0pyVWhuLXZuZDNFVWZBeGpFdloyalZfaXRPYXEzTXlfbVFyUHNVUklMNGpDV0lrWWdaV3FiRk1DMGxIcHl1ZFRNZ01wVnBXczJzbnU5VnB4clNXUzIxdERZdHdDS0Z2QlZSWHE0UWotbG5iRjNhME13UC1CTkoweWhkTHd1UEVZVFlR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790455317996",
+          "date": "2026-09-26",
+          "title": "LIVE: England vs Spain – UEFA Nations League - aljazeera.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2NPZlFzX2RGUWNMSTg5ZlJiTmJyalZzay12RmRPVF9kal91OTg0enJoSHE1R1g2Yk1MbUZidThRQ0l3RFVONUZ3M2o0a2txZHFBdUY0Zk5FdjM3QVhCdXVUVFc4U1FkRGZqdjFWMDhBTmg4dEJVNGFTM3RYdGl4ZU9xczVqTFhfXzZ0b1ZVRE1zem15dFd1M9IBngFBVV95cUxQbkNaZ3oyMmdNRzR5bHBqSFJnWmZfOS1pWVhtRkU1WnlzajRQUG1ZYVFrZEJfR053RzYtRXlaeTg1VVJaN0FsYlhzRGVQVXQ4cnRNeGkzUllmUmhyRlhoSm5BaGxVaUduYy1kcW5zZ2JJQTFWTjJ4T2IybmwwUHFmWkZycmFhQ1JHdkd4MzNMdDc2YXF4a29PVkVXeGgxZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790455317996",
+          "date": "2026-09-26",
+          "title": "England vs Spain LIVE updates: World Cup champs trail after insane first half - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGdTc3g4dVpDelhDSURGN0x3aGg5Y0Ftdm55VkQ0NG1JS1BZRmwtZ0twcGhtZ3Zfc0xyWk9Kby1WUUUyRVpHUVFYOV9keW9vVjZFVUVvTGVaRmtBQVZRV29iZnpEa2FLS0dvcmZsSEVEcE40R0swcGZ3cUxJSUZkcEVqck5qbV92elBDVVAtR3hzOGZncnZJSVUtSWpzVjBPR2U4X2RnbkE0QmVCQW1zUXUzalVmU25Ha3FHYWRZaDN6dWlzd0c0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790455317996",
+          "date": "2026-09-26",
+          "title": "Who are the ITV pundits, commentators and presenters for England vs Spain? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWpLeVloX3ZyX05iSjNxTHpQUXlkeFpJZld1aEUyYmRKWmxicmQzS3Y2NXdjNkZGRFF6LUtUWjFYaktBQW5RQ0tDbERWTzBnQS1PUWlUUXZLZG5fTGpEYUpIaEFnaUR5QzV5cEFiZGpXWHRxenZWcU1NQlBpRVZ1Z1VpRXVRZllpa1U2VVduR29Yc2FKdTFn?oc=5",
           "draft": true
         }
       ]
