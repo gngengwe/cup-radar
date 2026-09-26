@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-25T21:09:04.269Z",
+  "lastUpdated": "2026-09-26T03:48:27.076Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 465,
+      "chapterCount": 466,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3738,6 +3738,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNnFSdVAwYWI4dUZUc3p3NE1MWDhnUzRXSm9jVkEzMjVxUjR5NGFNUnltWUFrZm14TS1RX3RpbXBTX1BqZExzRGNfemJtYTZkb2xobEZVTWNMUTlkZmh2MGp3bFBlZ3pteXp3LVp0dldla045V3ZBQ1hLdmV6OGpCbXQzV0JXamlCRVU0M2dZakZ4Y0lxY3dZSFQtd0g2SzNEcm51a1hQeVd0YTRXX01rX0hocGxwdUZOWkR6cUpqMU1BYVFuSmI0ZHBQTkhHRklPajNtV2RpNktpWVFuTE9lOHhfd21la1F2ajhTTGRvRHRTbms?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790394504566",
+          "date": "2026-09-25",
+          "title": "Argentina, adidas Launch Special Kit for Lionel Messi’s Final International Match - SportsLogos.Net News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1NhZTJRWGd5OXpBUFU2M2EzT2pwWTlxQ1BabWtHOEZBYWgzaGt6VFhqdnZuV3cycWZURkQ0dlZNT3djWmsxeko5VG8xZEFxYjJGLW8zaVNKd0pBQXRLTTNWeTRtUFk1Wk9iZXhrWkhFWm9nM3JnaW1iMHp0UGtEWEpHWGpLczFvLWhXYTlXWWdGT2pndXE3NkM5bzQ4bnAxVFgtWUJyaFZrNVR5eUFpYnk2WTRPUExPaGxrdFUySnVVZnlhNmc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3756,7 +3764,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 392,
+      "chapterCount": 395,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6893,6 +6901,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenRzdWV3N2ZfRksxbXdSQkdyaldkcVhDU1BWVFBseUJPLVhsS3NNU1QzZWtEVVZZMDY3VDVzQmdVbUxGUDFMeGJ3STJVaEtGVWpYTm8ycUdRdnZNWEF5SUhsOWpNMmI2OEZCTTlIWVZpRGFRQ25WY052RFE5Y3drbzc2TW1XTktuZndBbGhXeGlROVg0VTdoT29UZDFhalljcS11Yk9IZkozVVJsQXBZOTRtb0ljeC1aVS1QQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790394505234",
+          "date": "2026-09-26",
+          "title": "France coach Zinedine Zidane's first win soured by Mbappé's knee injury, Italy loses to Belgium - Houston Chronicle",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHUwM2xDb050aG9kQ19ZOVg1SzkzOFFUN2Rwd29zMWc1TnRULW5xRUxXSEVfX1Fhc1lET0hVSEs0WW4tbFFTZ2psNlRsUEY5SVVuN0ZaLU5oa242MEE1LUlyRFhxVTRUVXpTWUpTR084Rk0xdVZLME5jTE1XVkVhQmhaYmFPTVA3a2F6T3Bua1BIYy1zZnFvcFpWUktBcmE5RkxHV3hNcnUyZWxpSkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790394505234",
+          "date": "2026-09-21",
+          "title": "Being managed by Zidane for France is 'like a movie', says Mbappe - reuters.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2NUOC1pR0R0REtvb2RuRWJjQnVSME9NR1hDU1RGSll2ZWNLM0lUM3lJd0xmX2t5aG0wRmNYSnd0OEdIWEwzSGIyNmozUkFLWEprcTdGWnlsMDgxV3d1cTNHakhHSmMxdTVRV00yUU1BUTRPbjVuem1vdFgyZXZoa3NLQ3ZQWkgzMUdJNWptdEtWWl94RDVsMElwMWVLS014YmN1ZUMyWlgwdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790394505234",
+          "date": "2026-09-25",
+          "title": "Why was Kylian Mbappe subbed off by France vs Turkiye today in 2026-28 UEFA Nations League? - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUdSZmtZRjF0SEFBUnBRVVMydXRBZDIycVh2ZVFpcHdmZk5Wd2pNd2ljckNxeUpmNUtXVnR3T3lrbkY5ZmZ0YVlJM3ZPZjJtRGNsRV96Y0hYSW83S3BxMWdCRXo4NkNhVjFzZm14Q0hHdWN3dXROME0ydnoza2RsallNS2VfX2xPdHM2OWF4UHAzLWVra1JyV29aWDBKOVhUWGFhSnJKcXFyRm5mcTR6YXZESm5aUlZEVW5lTtIBwgFBVV95cUxOUHVPam5iUnhLOFRsRWZJcEpSWVRVV244RjZldUxoMTJqWUkzNnRpWWRXS2Jmd2ZZX2RsWTVzd1VocnVpWV9ST1pRYTBRM3BUMzZ0NHlzUE1XQnBEWEFqb2tjRkVRYnFVcEtzc0ljZW4xQmw4RHVUSE5KUnhJajBMdnJzZzhvZXJYc2pvbTh0NVRPSFM2X0dMUGxoNkUyWGdqakRpWnNBa2NfdmpiSnVKRTk5bWNSYVNNeEZhZEl5Yjd1dw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6911,7 +6943,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 991,
+      "chapterCount": 993,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -14840,6 +14872,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOclBRME5nYnVGTzFPVk1ob3g3RGZ6ZU1TNVZPdHBub1FuRVNocFhJSEFWVmkwd3BReW1xVTVISzJXU0JfdXNTcEZDUkUtMFZLVUdmY2ViN1NrLVJxZVJMQjNPZnJibzNQZDJFQXZuTjN6OF96alZoQmt2T2xkcU5GQTNVZUJ4dWhPV2JOLVBvWG1QQlNwLUFjZnFlQzAwb2k2WFdHU1lxUjVlNzRNYm5DQXhBSzU2MjZFYnJYTEFBVkhFZkx1NURMVW42dmlMTmhpU2NWV3ptNUNWN2M?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790394505788",
+          "date": "2026-09-25",
+          "title": "USMNT Takes on Peru in Orlando in Fan Appreciation Match to Kick Off 2030 World Cup Cycle - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2NFT2t1a0JjbUtVdXlYLTZlWVhTTE5Qb200emhKRm5NWlBNSW1RTkVscnpZS01Idk9sNTZ4bFk5SWN2aUpXb1ZMX242NUp1U2FOX1dNZjN6UFQ0V0RYTEdpeFRJU2tKcVJfdVZWRC1vVmNYVlZQYzVnZG4wSDBYV05CUkdpN1BjYjVrTE96b2JXOF9KeEF0RA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790394505788",
+          "date": "2026-09-26",
+          "title": "WBSC U-15 Baseball World Cup 2026: Japan, Chinese Taipei, USA, Dominican Republic and Venezuela make winning starts - World Baseball Softball Confederation (WBSC)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxmV1FWYURZbDRKeVg4NkZBYndFUWRBRVY4cHdXRDJTalBYMzNRR1lKMW9wQkEzVzB4d1M4TmszTHIzU19sMGVmVHpRV3IyUUlibkUtc0FoVWdmZkxJMkxucDVpZDJLWEhQSDRTeWV6MGtSXzE0Q1V3bHlLTzhzalpUSTBxQTJQZjVxR2VnRDU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -14858,7 +14906,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 653,
+      "chapterCount": 654,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20082,6 +20130,14 @@
           "title": "Neymar’s Brazil No. 10 era ends as Raphinha inherits iconic shirt once owned by Pele, Kaka, and Ronaldinho:... - worldsoccertalk.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcnV5LXdhQjdXV00yWnpGZjFYTmVQR0JVMFlrSkFjMm5YcUZnME42Q3JyMDFVYmZNN2ZIMTNmNHQ3T1FsQmpwcEcyY0VTVklOUVFXWEJWcTBleVhOOUN5aXpKRXF2UjNOVS16Mzk1Ul9rclg0RVlHanc3ZmpCbW1VYVVMZXAwQ3cxck91dGZlWlVIYTlrY3ZXME1IdkhOVzZxVEd1c0ZKREh4ZTdMaW1FQW5YWXdLaldjSF9lVk12OFJ6ajVJeVVsYnI2Y3VXdzZXYndveV8tT2tsX1hZZWQ0Q2p4VW9MU1ZnUjdEbzlR0gHyAUFVX3lxTE9YclIwcC1jZUJuOWVRaHRpWlZMRDRkQmpiLWJsSEJnanNFRHh6eWYyRkJuYVNnUEFjb1RtSGZxVzZkcXk4ZlAwdFRIZVZzVzlzbVhiMVBQYVV3cjhmdnh6TEtDdko5UnppMXpZazJFLWpENGViam9qVUw0MGVQUGlVVzV0MG5HZHloUnctbDFEWDI4aS1wUVFXQzRsSG43eFVFbHhCYXpjNVA2S1ZWdzhTQ2ZCcmxaT2Jfb1k3cWZNS2UtX3JvbGtHMUlpX1gtUlFwY1JFemIwek1GbFBPTDlza0xjU0thS0tvM3Q5cXlmUlV3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790394506394",
+          "date": "2026-09-24",
+          "title": "Australia vs. Brazil: Preview, Predictions and Lineups - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWFnNU1ialVfTFg3bkN5c1hfamlaYmJLcUxYWkpXNGlEaGIwYWtvSUFYT1A3Q3ItUkpJR0hkQmdkVEdpQmlxXzBzdlpPdGtqTXNPdVBiSmdPWmlMMmNBdXJ4RHd1WDI4Y1VOLUNsUGE3andlQ0s0V04tQ2lJR3RXQXNhLWZKTjhk?oc=5",
           "draft": true
         }
       ]
