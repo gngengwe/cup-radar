@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-27T03:57:53.512Z",
+  "lastUpdated": "2026-09-27T11:30:18.459Z",
   "articles": [
+    {
+      "id": "news-auto-fresh-off-world-cup-wins-kansas-city-lea-2026-09-27",
+      "headline": "Fresh off World Cup wins, Kansas City leaders say sports could be city's promising new brand - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVY",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-27",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVYxd19MVk83aDYzQ1dHODNvT0lEaTQwVWVIa1QzZ1lWTg?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-colombians-in-kansas-city-thankful-for-w-2026-09-27",
       "headline": "Colombians in Kansas City thankful for widespread support during World Cup - FOX4KC.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-18",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXhwb3hGaTd1cGg2TEF2a3RBZ3doSHdjNHZnTC0tNFdHcm90WXdJSUtVRUpyOHM5ZnkwVHYyUjUybVRoQTBZOWZuRFNwRUFOcjdhV3JVUVZ1Z3FFVGdocG5zZVNaVF8yZUNCX1VDWkdvdHdJUUNaenRBWFVhT2ZTanlTdVdGYjNxM18yZjdpVGV4TWtsSlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-to-watch-the-2026-fifa-u-20-women-s--2026-09-18",
-      "headline": "How to Watch the 2026 FIFA U-20 Women's World Cup Quarterfinals Live Without Cable (Even for Free) - PCMag UK",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTllVks4VHlQRXMtUWd3Mjd0VG1QM1d6TEx0ZE0zZXoydDc1NTI2UW9LbFk3NzV4ODRNYTkxWUs5bGoyVWktWDEwWDVMX1JCUmNsQTJObk80bV9iODJWTkJmcHZjcE54amprQnJHUjhvcl9FVi1VNDZQdld2ZEhsR3pBdFRVb0lZbkR5dUZCTG1tNkl6U3BFLXVWcnk1WVlhQThwVDU3bEN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTllVks4VHlQRXMtUWd3Mjd0VG1QM1d6TEx0ZE0zZXoydDc1NTI2UW9LbFk3NzV4ODRNYTkxWUs5bGoyVWktWDEwWDVMX1JCUmNsQTJObk80bV9iODJWTkJmcHZjcE54amprQnJHUjhvcl9FVi1VNDZQdld2ZEhsR3pBdFRVb0lZbkR5dUZCTG1tNkl6U3BFLXVWcnk1WVlhQThwVDU3bENKdmNaRjZldVpnd0UyRHBiMHhRWVhMSFB0dw?oc=5",
       "featured": false,
       "draft": true
     }
