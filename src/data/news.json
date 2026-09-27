@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-27T11:30:18.459Z",
+  "lastUpdated": "2026-09-27T16:29:44.967Z",
   "articles": [
+    {
+      "id": "news-auto-if-fifa-expands-the-world-cup-again-how--2026-09-27",
+      "headline": "If FIFA expands the World Cup again, how would a 64-team tournament work? - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTdxQUlFYVlMX3B2LVVfYnVkejdTTXhJVVpqZ0F3ZWM5d2ZrdEV6ZFZESDNmWDhfNGdjTk1hOHlMUFRwV19IdXBMSXllRExDcUVZWWp0TXRrcWRaOTJ0dDhIUGRHa1JfU1BDcE9CTWloYnJ4X0VsbUdyTHNxTlhNTUFSdDFLUjVubFNlbXdiZF9CMWNWWVplbVVQQzhWRDlWaENjd2VQNkV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-27",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTdxQUlFYVlMX3B2LVVfYnVkejdTTXhJVVpqZ0F3ZWM5d2ZrdEV6ZFZESDNmWDhfNGdjTk1hOHlMUFRwV19IdXBMSXllRExDcUVZWWp0TXRrcWRaOTJ0dDhIUGRHa1JfU1BDcE9CTWloYnJ4X0VsbUdyTHNxTlhNTUFSdDFLUjVubFNlbXdiZF9CMWNWWVplbVVQQzhWRDlWaENjd2VQNkVGOEk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-u-s-u-17-wnt-head-coach-ciara-crinion-na-2026-09-24",
+      "headline": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnEwZHVaTk9HWXQ0ZHlJZGJUMzRaZjdGaHh4U3JheVkxQUJkc3N6dEF0QnYxaDlOV01pelpVLUlfNWxwaHhKcU9XU3ZrYXdERjlvMUlNLUdiY3FtRFBUTVVhb3RkdVY4eEFMTXZ1amVubEdJcUxxQVRwYVdXalUyMmJwcWt4STl4Y2RVMmNSOTNiSXBNcEJfdV9fNVFDWDZJYlcydXdmbzQ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-24",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnEwZHVaTk9HWXQ0ZHlJZGJUMzRaZjdGaHh4U3JheVkxQUJkc3N6dEF0QnYxaDlOV01pelpVLUlfNWxwaHhKcU9XU3ZrYXdERjlvMUlNLUdiY3FtRFBUTVVhb3RkdVY4eEFMTXZ1amVubEdJcUxxQVRwYVdXalUyMmJwcWt4STl4Y2RVMmNSOTNiSXBNcEJfdV9fNVFDWDZJYlcydXdmbzQwVTRpU29VTVVqeTJ3X3dh?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-generated-889-million-for-seat-2026-09-27",
+      "headline": "World Cup generated $889 million for Seattle and King County - Oregon Public Broadcasting - OPB",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5\" targ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-27",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fresh-off-world-cup-wins-kansas-city-lea-2026-09-27",
       "headline": "Fresh off World Cup wins, Kansas City leaders say sports could be city's promising new brand - KCUR",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-24",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-andr-s-cantor-brings-his-beloved-goal-ca-2026-09-18",
-      "headline": "Andrés Cantor brings his beloved goal call l to the 2027 Women's World Cup - HOLA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTk1ka0VQYVdxMVctQlJad3Q2YVU5eExhcHNBVUM3TDZ3WkFCaV9LOW9hMktLMGJxRnlKVFFiSVJ5UGE2akM3OFZZNGlmQnBDZ0I0eTVLOEFxV3NXcU5YaV9aWGdNWWo0dnd0U2QwVmVTcmFmVUVMdTZvVlBzYklhMXU1aUFyUGpFVnVaUXJGTHNOYlBHcG1sbUtxOA?oc=5\" target=\"_b",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTk1ka0VQYVdxMVctQlJad3Q2YVU5eExhcHNBVUM3TDZ3WkFCaV9LOW9hMktLMGJxRnlKVFFiSVJ5UGE2akM3OFZZNGlmQnBDZ0I0eTVLOEFxV3NXcU5YaV9aWGdNWWo0dnd0U2QwVmVTcmFmVUVMdTZvVlBzYklhMXU1aUFyUGpFVnVaUXJGTHNOYlBHcG1sbUtxOA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-broadcasting-great-andr-s-cantor-named-n-2026-09-18",
-      "headline": "Broadcasting great Andrés Cantor named Netflix’s first 2027 Women’s World Cup commentator - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXhwb3hGaTd1cGg2TEF2a3RBZ3doSHdjNHZnTC0tNFdHcm90WXdJSUtVRUpyOHM5ZnkwVHYyUjUybVRoQTBZOWZuRFNwRUFOcjdhV3JVUVZ1Z3FFVGdocG5zZVNaVF8yZUNCX1VDWkdvdHdJUUNaenRBWFVhT2ZTanlTdVdGYjNxM18yZjdpVGV4TWtsSlE?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXhwb3hGaTd1cGg2TEF2a3RBZ3doSHdjNHZnTC0tNFdHcm90WXdJSUtVRUpyOHM5ZnkwVHYyUjUybVRoQTBZOWZuRFNwRUFOcjdhV3JVUVZ1Z3FFVGdocG5zZVNaVF8yZUNCX1VDWkdvdHdJUUNaenRBWFVhT2ZTanlTdVdGYjNxM18yZjdpVGV4TWtsSlE?oc=5",
       "featured": false,
       "draft": true
     }
