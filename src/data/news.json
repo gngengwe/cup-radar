@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-27T20:57:20.788Z",
+  "lastUpdated": "2026-09-27T23:43:17.168Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
+      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
       "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-19",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRwbDdOWjNuYi1iQmYzeU0yVmJ4UWNuZm9lSTRXMTJSclFSZ0JqbDhiYXlYbkEwWXh4dG1kNUh1MmVYRE1ZT0k0RzhCU29IU1JxdUxMWVBtdlhLWHpPc3FlM0hxTmZybC14eGxBNWowQVltc3FtVFpUNUVFWE9LWmZsSG1wMGR5RGU0U3hBS0VleVl5dTVMOUZKallvWjVzaEFNTzhFdGhkS0lub0tHdXdPaWFNT2VTLTc5b3lYNUlJVTFNQkRLWFh3NUhzSWxtc2RMbXRsc0dhd1N6Mzl3NURR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
-      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
       "featured": false,
       "draft": true
     }

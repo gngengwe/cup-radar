@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-27T20:57:23.981Z",
+  "lastUpdated": "2026-09-27T23:43:20.154Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3788,7 +3788,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 403,
+      "chapterCount": 404,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7013,6 +7013,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFJTV25hdU9mWG1FSC1jT2djaUxLbUtWcVFEQlNMS0NTQlR0d3FHU21rTmVvYnhBMW5sTkZNeUo0Uzg3ckRGbG1aMzJNTi15ZnNPWHlfWWNWWF8xX1VlLU5BVXZLaGxoTC1hQS1BbnNKYjk0TmhFamFtZGFHZU9iTHRmaGVOb0RUY1c3bUF2OXYwS0JDVWtrRlBTYUJfbV9ZRXlaMjZxVGFxdW_SAasBQVVfeXFMTzVXc2NSYVFZVlNoR0pGYUlyVnhtLXpqZGMzYTkyRXZlUEl4U1E2YXlidGxZZ0ZvY0I1UUZTbDJxTE10dXJaeVp5Z0dVRXpWZ2hPbmhKbVliNmlTOXVvd0s3VEZyY0VUcno2eWl4bnBJTWxQM3RCcEhEVWNlT2hicGgya2ZfSkFtNk9jSEVuN2FfMEJtcGZ3UlBFaFVWZnVRYkZWOXRCTlBlQm1n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790552598357",
+          "date": "2026-09-27",
+          "title": "Kylian Mbappe’s knee injury to keep him out for two weeks - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHc1aEowaHg2RnJBekZBUkF4SmN4d0pXMFlyUVlDeDZsSTJJT2JqLW5adTIyNWlwY204U0tndFNOaTNuS0tFdWdreE94MVNIOHZtbWNja0dtdGV5QVgzc1M2cVlMREcwVmREanBHSWg5NjdrM29CSl9PRWppeGowNHpwcjBNMENIM2k1UXUwaWtSS081bWFKQ0xEMEhWZ2p40gGmAUFVX3lxTE5ZSklYOGNMUzZycXpLMzhJalJFN2Z5eDJGejF4ajVmVU8xWGdWWDNmVjV3T0FaT1dFOHpvVDExem1zTlpHY2I5a2o4M0FMWDQ2c2VmYjN6NmVraXNmcEt1dU1GYVlENDFKRFF1Q29NRVRqa09ScHV0TjhFUkg2N1VwdTJBeGxEQzEtR25MZ2FxM2ljZVU4d0RfNmtzSXRVUkZHQUJyTEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7031,7 +7039,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1005,
+      "chapterCount": 1006,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15072,6 +15080,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWF4ZVRDY3pxbnc5ZC1RdXBrOUpXbEYyT0NFRzFSLU9KVTVRQXdYb2NqVm9WaTJkWnNKRE1iOXN0MUcyS1l2ejdHOXRHcFkxWXRoTFdoMVNBZldqX0o3QndHcGZ3Y0VzUEFVNC1qVXcxdXhIY24tanF1eThHZ2o4eWREbVBrWGY4SzFlS0Fra3p3eVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790552598861",
+          "date": "2026-09-27",
+          "title": "McNulty wins road world title to end US men's 33-year drought - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1hpNFQ2aWMwUU1PZ3VDQ1poUngtVUZPTGdGNlZxVDc4VUl4d1Rla2Q1VlZ5OXpHQjhkRVkxRTB5eDExMHQ1NFJsRV9mOG0tWkhnMXJ6TGQxbHdwQnZta243YURnSTlvcm1MTXUxQjRndlpnaFJiXzQzWHAwZUgyVlJ2MktLR19qMV9JYlVkRGkwUDhqQWlsa2hRcE9uM1NWN2c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15090,7 +15106,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 662,
+      "chapterCount": 663,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20386,6 +20402,14 @@
           "title": "How World Cup heartbreak has made Carlo Ancelotti take Brazil in a different direction - Squawka",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHpiQWdTbGg3c1hQeXVoZHM5ZUJydXdWcndQcVptRzI4Uk5JTTI4UjZDVHp1UTU5SG1iYkNZeHJ2SzR2ZEh0bG1sdU1yemx3SzdUUUVwMkdsQjdMbGsxSHBTWXk1M0tZdWhEeGtTZjVKSEZBQ3hrX0hrRDFFSnF1ZHFHYkExM0tGbGNKbS1IWXhBZHEySzh3V1VnY2xJdDZxWVBWOTBmcW9WMGt2U0duNm40VVQtSTE4dHhWOGFlckU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790552599421",
+          "date": "2026-09-27",
+          "title": "😂 Blue screen? Brazil's World Cup villain makes bizarre errors v Portugal - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVgySUluLXlXelZwRGdjU2hCejZ1MHpCclRjMGp2ZWQweUtsVGFiRXZFQ05JUUx1MUhMdENpbHZ0WDRlSWtrZmpnSkVoYXFpS1VLLTZNeEZBX0t0SzJHaU55X2huY1E5eTNsYjhKZ1Y4Wk9KZ0hJQUJfeFhoOFo4UV94VkQ?oc=5",
           "draft": true
         }
       ]
