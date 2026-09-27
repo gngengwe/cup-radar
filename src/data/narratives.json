@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-27T16:29:48.340Z",
+  "lastUpdated": "2026-09-27T20:57:23.981Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -15090,7 +15090,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 661,
+      "chapterCount": 662,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20378,6 +20378,14 @@
           "title": "Ancelotti imitates Flick and digs in against Barcelona - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXJuNEtBSXZmQVJCNjNHUXU3Snluai0xQXdGRnhRa3h4Yk1jVXpncmhEVkFlODlNZ1JZb2FEakthSFptUkxhOWF0YzhYbng4Z1BmcDVCQ20xU0tyQ3E1Z2wwOUlOUklUWmE1eFU4OFVWR3RzcjdGWXBLYURONDZXUFhxRW1LTHFveWR1M1g1eVltZ2pxQnRib2Y1WGluSFlrdUx6eTJn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790542643248",
+          "date": "2026-09-27",
+          "title": "How World Cup heartbreak has made Carlo Ancelotti take Brazil in a different direction - Squawka",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHpiQWdTbGg3c1hQeXVoZHM5ZUJydXdWcndQcVptRzI4Uk5JTTI4UjZDVHp1UTU5SG1iYkNZeHJ2SzR2ZEh0bG1sdU1yemx3SzdUUUVwMkdsQjdMbGsxSHBTWXk1M0tZdWhEeGtTZjVKSEZBQ3hrX0hrRDFFSnF1ZHFHYkExM0tGbGNKbS1IWXhBZHEySzh3V1VnY2xJdDZxWVBWOTBmcW9WMGt2U0duNm40VVQtSTE4dHhWOGFlckU?oc=5",
           "draft": true
         }
       ]
