@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-26T23:23:28.265Z",
+  "lastUpdated": "2026-09-27T03:57:56.346Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -3780,7 +3780,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 400,
+      "chapterCount": 402,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -6981,6 +6981,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazhwVGg0OGJ0b2R3RVN4QWpSNXA4LUpBXzIyM3FidEJoTDlBaEhMWjEtSU10VklBX1EycHIxMXRzLXpuc2lCYTJnNDdCX2VFbFNUS0hPTHJuM21HX1ZST1NpaFlTdkp0ak1hc0NicFpjX2lleTFtaHIxaTNzLXo1V2JzVUc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790481474701",
+          "date": "2026-09-25",
+          "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkF6cnlHUjV3TzBhRC1BR09nTThCSzQxQjdQTXBsS1hkZXpEb2tnbkpkbXg3UmE3UERWTkZFQW1vNVEwVkhfWnJGRV9reVZ5UFdzYkJzbmd3bUxTOHlhNjhDc0sxZWlkcHlrZFVGOXBzVlVGVGoxeFhqeGd4VE15WkktaEpUX0ktQ210UE1mNmVMSTBnam5rR2VxYUYyanltOGlFdGpYYlhhMjVNREZaQy1IOA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790481474702",
+          "date": "2026-09-27",
+          "title": "Mbappe injured as Zidane wins on France debut, Italy lose on Mancini return - ABS-CBN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmZxVXpQVGFBMVFDTmpxbktYbVlLazZSVUNMcEhGRGZELWpoNzFwTkNncVRmTzFOMlJNcVJ2WEFMeWJSS0NNSFFaOHNPcVdKM2hBRXRiRkFlZ1Jtc0Fkc1FhYS13bXgyYVBYMmJ6VjNNVDAycmVBNkU1UmVvakxPOW42NkFfMnAwTERvZVFqaEREU2hfaXVQSWNxd1BBY2pXTVNnLWx2REdrUWFfSGFqMEh5OXBQMUFsamZORjdaU3I1S1pzOUoyN08xQjI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -6999,7 +7015,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1001,
+      "chapterCount": 1004,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15008,6 +15024,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWThpYXhJWnFyZ1pMMmFyMF92YjYtNE1WdGNXdVJ4eS1QVWpmWnNmWDhvVUdSY3UzM1FzVjl4RTFGY2dHeUlKU3l0ZEs5NWNTRzdNODRxX0F0U2c2enhPdndDcEItRDBQaGI3bG5BTFlPVFhTOFJZSERud1hKMHhsczk2UEpQa3JTcnRwWlJXaTM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790481475172",
+          "date": "2026-09-27",
+          "title": "USMNT vs. Peru: Match Recap & Highlights | International Match - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUllvdWo1NkZtY1puUkNXN3hzdEdzU2VmT2JjTXoxQ29Jb3pCMENNQThmcmNDdUZ3T3FERmxkREVseW5ZTE9Qajc5Tjh0NWx0eVk5aWwzRmVoZ2ZxNm01eWZDT3NqSTc1eTJuMkljVFJQR0dsQzJmRUo3TkM1MkRVeDQ4S01PVkxKWEVsd1J4RF94eU1kWnpfZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790481475172",
+          "date": "2026-09-27",
+          "title": "USA thrash Peru as teenage newcomers shine in first step toward 2030 - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGtsRHA3MUFidVFvT0FWM1U5Z1pzNFJEemFVMDE1ckpOa0dCaXBIblpQdjhvU256NXZwaWd1VFg1QmN4QnFrMkZaVXpITTZWSzVuNHVBMzYxS2FhallGVzhTSS1fSzN1cVhzSzF4azRpTWN2MUstZk1vT0ZnMUxSQ094V2puOTVGYzB1ejBVei1Bbkl0QzNkM1lsbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790481475172",
+          "date": "2026-09-26",
+          "title": "The Kids Are Alright: 4 Takeaways As Youngsters Propel USA To Victory - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2RyQ2dvTkVPZ0ZqaWljR1dDanNQYWxRaHh4MUsyVld5a2JXZnZseFZTZGluZUFOLW82RUYyV21aWVJFTDcxRDl1NVZmYzVaTF84NS00LUFmcC00OFZOWE1yNmN0ZWNiWTJrR3JpWWJCT3lHNVpVUXowWkdCcHM2d09MTXNoQXVCSVZKaTVn0gGOAUFVX3lxTE1nb3BYeW9BZG11ZGJMMGNZNHlJS29WOWpSVTBteHVGR0RlbHUwWWgzTEE5M0kzV202VkpiYmpWTWhEajVjbU5lZlV4czdCSjlTMEdzZjZ3aVBnak1qbXMyY2lZYmVWWHNMSUptZENHSC1ldVQ4MFk1dFV5UkI0VzBYOEl6ZVNiZkJ2c3lMY2c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15026,7 +15066,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 658,
+      "chapterCount": 660,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20291,6 +20331,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUlDejFud1dMVEtrUnVfYXZzSTBTRTY5THlSc1hkSWlPRk50OW9FTWlNSm9GWDFMXzRhWGl6cWZ0MVpvaUU4WnhmQ3hQSWg4SUZtcEI4VVpISHdRV0k1NlFRY05NYlA3dGo4dm1PWTFsUHdOMm15TVA0Vk9Ca0l5UGJ1LWlJRFhxaENOQ214TG5ST3RmTF9taXEzaURLUzl0WFlEMThaYVg5cFZvbzl3el9PRUJfQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790481475731",
+          "date": "2026-09-26",
+          "title": "Before they became stars | Cristiane of Brazil | 2002 and 2004 - FIFA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLXdsR2h2RE9vd0lxN0xMaDNieHM4UFVtTEs4VFBxTF9nRGhNNVRuM3FQMmRfUjh3ci1KLVlERHRBRmYzbTFEdmkzV0pFV09seFltN3F3NEJQei1jUmhxSGhLVmN3UC1oZi1kS2FxWmJ4WnRDSE1RbDN2YW1uYkZmOEpnYXdQbHN3VWRCaXJUWWdZX29EZG9ESnZfZkI5QkExOGtTRVBOMmtUUVZyTHZ3UFhRNzNPSG1TdFJ1dHdRaGVsZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790481475731",
+          "date": "2026-09-26",
+          "title": "Why Ravens game in Brazil ‘will be like taking 80,000 kids to Disneyland’ - Baltimore Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamw2SXduT0pXbERCV3BmbVVWeGVoeUI5WG80WXZLaHRSbG9EUXF6aWxqMGVUbEcza3g3T2dpclpyazNXR05fMFJ0ekg1OVhGM01KUk4xd3FiQi1Zazk3SEp5UEpSNWkxVTZHQXVVOVdiRFdXZmVnN0JpYlpYLTJCNWEtekpxbmdVM2JnWlZfTHVmRV9zdDE3VjhFVmY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20520,7 +20576,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 919,
+      "chapterCount": 921,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -27872,6 +27928,22 @@
           "title": "England vs Spain LIVE: Nations League updates as Three Lions take on World Champions - espn.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVhRbklSNm9LRXFDeUg4dTVsUW9rOHVIcGZCWUMxOFNNX0N4Q3U5QklfOEtTSmlMdlhtVG9RUXZrZzdaenhrZ1Z4bExCWXVrTXZYbG9waWhOc0RrOFVROFAtVWVybkoySHVlVmJ3Z3Y4TmgyMEJhN3R2QjlCUmlRMkJqY0s2c190RXFnd0ptaDFXWnRNU0ZEcC0xQUwxMkM3QlpYd24yUWh4RjhObmsxWmozaDlfUDJHR2hWcQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790481476346",
+          "date": "2026-09-26",
+          "title": "World Cup winner Spain survives scare to beat England 3-2 in Nations League - Click2Houston",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXcxZUdTdnRxUE1hS2Q1TFNDbjc5THVGVTQ3LXdwTTFfTnhVR3FDVXRIN3I3dUNZeTlIRHdNQ1QtNmxBeXdjTFpUUUhFcE1QWmFqOHN4eVRzeGR1XzJXVkhzQVBMNHgxaXZYcWs1TzlnTHY0anpUSzNNNzRIZkF0RGhIYW91dTd4d1RwVDZPZnFtMC1aaTl1TEMxMWpLU1FYMzVaMWN5VFhtdFNoY0RxSHJoZkxJckxIMHAycTlwUFQ5UQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790481476346",
+          "date": "2026-09-26",
+          "title": "England 2-3 Spain (Sep 26, 2026) Game Analysis - espn.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Pa1owS3YzMlNHNmRaMHBWZHZpYWh2NnJ0cS1WZEE2Z0lUakIySkxTNnV3WmZLcXY0WXUxTk9ETWdFVXlVVmNTVTVfSHh3amFpb1pieU40SzE0UDdoUzlnaE8wVQ?oc=5",
           "draft": true
         }
       ]
