@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-28T13:02:53.252Z",
+  "lastUpdated": "2026-09-28T21:04:56.145Z",
   "articles": [
+    {
+      "id": "news-auto-do-you-remember-2026-world-cup-hero-vozi-2026-09-28",
+      "headline": "Do You Remember 2026 World Cup Hero Vozinha? He Wishes You Didn’t - Sports Illustrated",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEw1TTRVSHJCRlYtRzlJaldmU25RT3czdXlMOEZWcHI5UXBtM0dORGh3S3BocHQyZHN1c1FPQmVWdWtMZlR5QTVjV3ZrV1dpYVpJekxTMkNrcTBLNHJIZ2wyNzJ5VmI0SjlMMFFUdk9qTkVnWV92aHdnMWhyZHR6aUFKU1EzQQ?oc=5\" target=\"_blank\"&gt;Do You Remember 202",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEw1TTRVSHJCRlYtRzlJaldmU25RT3czdXlMOEZWcHI5UXBtM0dORGh3S3BocHQyZHN1c1FPQmVWdWtMZlR5QTVjV3ZrV1dpYVpJekxTMkNrcTBLNHJIZ2wyNzJ5VmI0SjlMMFFUdk9qTkVnWV92aHdnMWhyZHR6aUFKU1EzQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-vozhinha-admits-struggles-with-world-cup-2026-09-28",
+      "headline": "Vozhinha admits struggles with World Cup fame: 'I'd choose the life I had before' - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORE4zU0YtNmc0SFRZZGZHZnFsSkNFMXFZdWdmdW1nU0NJNFJTOGRWT19PVVhUZndJdjB4ejJXTE0wbHpoWUhqSXU0Vy1ocnpNcS1sc3V0bnpfUUptUkNheVRmY0ZvcjFkNWUwNmFZb3hEY3ZRZlU5RnBfSUJ1aG5CSVlvazFsUWJaOERmRw?oc=5\" target=\"_blank\"&gt;Vozhinha ad",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE4zU0YtNmc0SFRZZGZHZnFsSkNFMXFZdWdmdW1nU0NJNFJTOGRWT19PVVhUZndJdjB4ejJXTE0wbHpoWUhqSXU0Vy1ocnpNcS1sc3V0bnpfUUptUkNheVRmY0ZvcjFkNWUwNmFZb3hEY3ZRZlU5RnBfSUJ1aG5CSVlvazFsUWJaOERmRw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-fire-department-accelerates--2026-09-28",
+      "headline": "Kansas City Fire Department accelerates 24/7 DFR program in time for FIFA World Cup 2026 - Police1",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnNOMnlmOHhtUVBlTDgxYklBNWNaV1FXS3RTXzZFeHFDcmFBZEp6YmJWU05HMkMtMVA1dllEU201YkZaaXFsVlJfSF9nLXJ0di1OMUt2SFgwYm5ZaXg0bGI2cnY1TWxSRUp4bkw5TFJ6c21FUlcyNlNScEJ4eV9FblMtQVNIX2pJemV6a2tjLUNmSDJ6WXdBR1FTc0J2TXFkTWxOOUhvOFZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnNOMnlmOHhtUVBlTDgxYklBNWNaV1FXS3RTXzZFeHFDcmFBZEp6YmJWU05HMkMtMVA1dllEU201YkZaaXFsVlJfSF9nLXJ0di1OMUt2SFgwYm5ZaXg0bGI2cnY1TWxSRUp4bkw5TFJ6c21FUlcyNlNScEJ4eV9FblMtQVNIX2pJemV6a2tjLUNmSDJ6WXdBR1FTc0J2TXFkTWxOOUhvOFZfdWNZMlZRN2NmVVFtQVJCUm9USW5SZzQ3MXBmRlVmTm5yb3BMUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-sept-29-oct--2026-09-28",
+      "headline": "Sporting KC Weekly Schedule: Sept. 29 - Oct. 4, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDZrdmFwRlVMWTJ2WXlxUlZOdENUc3kwbG1Hcmc1ejBQUEEybWFhVzJ3dEZrREFvV0M1OF9iOTAtSUQtMHo2WTJpU3U5YVdENm0tM19kZDRUYzRLNWRkVGNzRVhxSTlxUVlpQ3h4S250VGVJRzUtdF9TU0EyQXg0YXhqSzJRaHNRMjlzcA?oc=5\" target=\"_blank\"&gt;Sporting KC",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDZrdmFwRlVMWTJ2WXlxUlZOdENUc3kwbG1Hcmc1ejBQUEEybWFhVzJ3dEZrREFvV0M1OF9iOTAtSUQtMHo2WTJpU3U5YVdENm0tM19kZDRUYzRLNWRkVGNzRVhxSTlxUVlpQ3h4S250VGVJRzUtdF9TU0EyQXg0YXhqSzJRaHNRMjlzcA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--lost-my-peace-cape-verde-star-admits-fa-2026-09-28",
       "headline": "“Lost My Peace”: Cape Verde Star Admits Fame’s Dark Side After FIFA World Cup Stardom - Yahoo Sports",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-19",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVJQ0JNTmxWRzdmZDJCQTRWaEZGZENMR2RUV0JUYWdpYldHVW5QU1B2MmdLaFg5M2FCV0daNnk2MnRSV2wzUktuRHAzOW5ISUNXcFVXRXFOVjdFeVJEMUdSZUdYbkk5TVpKNW5mbjdqZ0YxZTZRX1pmU0V3OFVUYzlISEV2bF9rUmtuNEFkWU9wcDBpbTZ6clVUQWgwcFEwNk12OUcycmpPU1VnTXJPc1FabmpPNnhnXzRHbmdFQkpObDVTbDhJcHlGTXZlUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lumen-field-swaps-its-world-cup-grass-fo-2026-08-19",
-      "headline": "Lumen Field swaps its World Cup grass for artificial turf - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5\" t",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-08-19",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lLYmtMeWl2M3ppdzFzbTd2QmpzOWFESTZwOTRpTzNRRmdtWkN6ajNmenNwMGE4NklyNW5ScG1zOHNEa0xWYkN4N25tdEhEU2lfS2xET1NKYXJOYVFxRGlCWkU0aDRqYnVFRmxTWmFKRUhkUVRqSUQ2NWxRalkwR0J0MzhJMHpBdS1oVk9WZWhRUjVFc0dsbHBWcnVYS04wTmc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-to-feature-expanded--2026-09-19",
-      "headline": "FIFA World Cup 2026 to Feature Expanded Format and Venues - India News Network",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm0tV2dsdjNnSHl3WnRpdjhKTWZZRnpPUTJtMWc1bTdVUDMwVEVOczNvTW82anM0OVRDcmxuTTVBb3d6VVZsZ1VYLUIzYlNmMy1va1JGUWg2M0RfZWVZMVNTb2ZrNl9RYTRSRW52czJiVFVoYjM1bWp2d1JyLTJPQV95WHdIc0h0Y1BidW83N19hUjhHcVEyOEo2RQ?oc=5\" target=\"_b",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-19",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm0tV2dsdjNnSHl3WnRpdjhKTWZZRnpPUTJtMWc1bTdVUDMwVEVOczNvTW82anM0OVRDcmxuTTVBb3d6VVZsZ1VYLUIzYlNmMy1va1JGUWg2M0RfZWVZMVNTb2ZrNl9RYTRSRW52czJiVFVoYjM1bWp2d1JyLTJPQV95WHdIc0h0Y1BidW83N19hUjhHcVEyOEo2RQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
       "featured": false,
       "draft": true
     }
