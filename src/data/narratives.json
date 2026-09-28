@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-27T23:43:20.154Z",
+  "lastUpdated": "2026-09-28T03:57:50.847Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 469,
+      "chapterCount": 470,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3770,6 +3770,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXpPR0ZyanlSWmg5WlVEVXNOcG1XM3hOYnI4TW14VWtNaEg5b3lxVk9vVGxCbXhjNFJDdHIwYUE0WHRia1kyTnFFRmt5X2VPek5VM2dfQ0N0RmNVQ00wU0c1VFJDQWVmV2ZhclpuZTBPdm1sckNyZjVPcmYzbkRXUUU3ZmZON3ByWGt0Ny1WQXJOY0hsclZzNndqdlpTYkc0TXlmcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790567868193",
+          "date": "2026-09-28",
+          "title": "Lionel Messi Farewell Match - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbndJQVpTekFvRHBRamFpVTdwdUJRckpsUU5ucG5zeEFTdUJFZmRBZEtVT1c5RTliVE54Zk9oUU9mSHpzOWpMblZUMzhqdUdkTDVza01ISkpwTURQY3dIMGQ4UDRCUF9Lc2JUV1pmbEFaekJobDh2S1RCaG5PMHpHQVBR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7039,7 +7047,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1006,
+      "chapterCount": 1007,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15088,6 +15096,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1hpNFQ2aWMwUU1PZ3VDQ1poUngtVUZPTGdGNlZxVDc4VUl4d1Rla2Q1VlZ5OXpHQjhkRVkxRTB5eDExMHQ1NFJsRV9mOG0tWkhnMXJ6TGQxbHdwQnZta243YURnSTlvcm1MTXUxQjRndlpnaFJiXzQzWHAwZUgyVlJ2MktLR19qMV9JYlVkRGkwUDhqQWlsa2hRcE9uM1NWN2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790567869391",
+          "date": "2026-09-27",
+          "title": "GAMEDAY: U.S. To Face Australia on Third Day of World Cup Group Play - USA Baseball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLW9hUVFQRXgtQlhpVXo0MmZEbHRFLV96YnBiVWRrT1VBNXlBb2ctOU9CVVpwcG5WZk9JVTc2aTdKWDlTRGlHQzNMOHRmTUtieFVuTGZndzVCeEVoUVh1dzY5RDlhWXpzTVN6SXotT19Ec0dzbUUtUlQyU3dWUXNYTmQxR2tGeHAzMjlrMldyeEJUclF1cFdfekpVcnYzb1Iz?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20640,7 +20656,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 923,
+      "chapterCount": 924,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -28024,6 +28040,14 @@
           "title": "World Cup Winner Spain Survives Scare to Beat England 3-2 in Nations League - U.S. News & World Report",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDBIU3ROSGc5a1YxRi1xdE40dGpGeXNRU2FzQkhESDNOenQ3V1BDb05XVm1neWxPRWczNllNc0VDbzl0b3UxYXlybnFCci1NQ3pJMWZnREZiclkzNlBGczJkdEpiMDRVRVlXdFpkY0ItUDIzUHhlYlRfV1J4ZlNXWHF5UXh6NDJPWjdxLXVEMDQ5TlJtbDZxd09JQjlYQWNCZGp4MFRsdEtSWnJUckM3U0lQRUhvSXdxRzJ3UzlyR2UtalVpRlFIUUhR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790567870847",
+          "date": "2026-09-26",
+          "title": "Why Is Jordan Pickford Not Playing Today For England vs. Spain in the UEFA Nations League Match? - athlonsports.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDZyUWxDM01sckdPaXo0TnRLTC1KanAzd3hTMERCZWhwV090bVpTZk1xLVFOWGZPY0dsLXo1V3RWdUtYdkI0RnBQdGZnODBOSVZ6bVRRcGZ2U2NteEpTQS16NVZ1Y2hXU0wyYVFkRFpaLUh5Q2lIUkN1eDlMcTllLWl6NjFJOHRvSWZFU0VqcnVQOWtZQWJnYVEyUV83eFBXQllDaVVyZFJqQQ?oc=5",
           "draft": true
         }
       ]
