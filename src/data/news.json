@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-28T03:57:47.561Z",
+  "lastUpdated": "2026-09-28T13:02:53.252Z",
   "articles": [
+    {
+      "id": "news-auto--lost-my-peace-cape-verde-star-admits-fa-2026-09-28",
+      "headline": "“Lost My Peace”: Cape Verde Star Admits Fame’s Dark Side After FIFA World Cup Stardom - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3F2MklfYU5BQWhEVUlZNEVvd2dnd09WMkR6ckd5QnlDbGZqWDdYM0x1b0JaYUpQdEVmRFZiOWl1WVBheHhaeVdpQVBsVW1BZE1hMzhjYmpyd1Q5bk45d0tJS0lYbTNxakFJRGV0SGY1YWlqcVh3X0ViRHB3Z3FEbw?oc=5\" target=\"_blank\"&gt;“Lost My Peace”: Cape Verde",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3F2MklfYU5BQWhEVUlZNEVvd2dnd09WMkR6ckd5QnlDbGZqWDdYM0x1b0JaYUpQdEVmRFZiOWl1WVBheHhaeVdpQVBsVW1BZE1hMzhjYmpyd1Q5bk45d0tJS0lYbTNxakFJRGV0SGY1YWlqcVh3X0ViRHB3Z3FEbw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-passport-helps-host-cities-keep-parking--2026-09-28",
+      "headline": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026 - PR Newswire",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZExPYWZ4QzlFNkFXZENUS0JHUFY4MmlLUkVkZ05aMmpYR0tFanJJaFU4MXdlenRnSW5OZGx1UFhMVzloU1dubzNkMG5INEZBUjNtXzlWWGQ3cnFObjV4QVYyeGp0c0Y4Yjl1emxTUVh3QlVpdlNhQUpORFJVeVJwNFJ4dWJjRlpFY1dXY3NYNnh6M3JCX0twOE1tRFZBRVZZQ1BwX2Y1TFd",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZExPYWZ4QzlFNkFXZENUS0JHUFY4MmlLUkVkZ05aMmpYR0tFanJJaFU4MXdlenRnSW5OZGx1UFhMVzloU1dubzNkMG5INEZBUjNtXzlWWGQ3cnFObjV4QVYyeGp0c0Y4Yjl1emxTUVh3QlVpdlNhQUpORFJVeVJwNFJ4dWJjRlpFY1dXY3NYNnh6M3JCX0twOE1tRFZBRVZZQ1BwX2Y1TFdVWjJfYjVsRnZBM3pBcm9kN3hZMjU2S3UwSnJ4R09EZ2s1SzFyUl9peGNmYXBuYnlKWlA0MkVfSXFjQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
       "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-05",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-where-to-watch-fifa-world-cup-2026-week--2026-06-15",
-      "headline": "Where to Watch FIFA World Cup 2026™: Week of June 15 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5\" target=\"_blank\"&gt;Where to Watch FIFA",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
-      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-01",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
       "featured": false,
       "draft": true
     }

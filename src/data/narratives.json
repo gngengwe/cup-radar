@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-28T03:57:50.847Z",
+  "lastUpdated": "2026-09-28T13:02:56.742Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 470,
+      "chapterCount": 472,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3778,6 +3778,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbndJQVpTekFvRHBRamFpVTdwdUJRckpsUU5ucG5zeEFTdUJFZmRBZEtVT1c5RTliVE54Zk9oUU9mSHpzOWpMblZUMzhqdUdkTDVza01ISkpwTURQY3dIMGQ4UDRCUF9Lc2JUV1pmbEFaekJobDh2S1RCaG5PMHpHQVBR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790600573766",
+          "date": "2026-09-28",
+          "title": "Lamine Yamal reveals what he said to Lionel Messi after World Cup final - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXFJYms1TllxazBXM3JHZHZLcTBXNmZzajZsdVhlMlhTLU0yRzJFUTRiNnUwYnRzeFdkRWEzTERSdXVvQkZoOE5TYy13d3YwRUhWWGJ2aDV5YWlqOHVzSUNKU2R0QWNvZk8yYUEwdXNVRmdEdFVGRTc1dC1qcmhnNVNDZHVhWjV1Tkd4Tm84czBZWmFkVDhYZ1A0NGtHT0VfMUFDNUVvaDVNTjN4Wnc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790600573766",
+          "date": "2026-09-28",
+          "title": "Soccer Monday: Messi’s ‘last tango’ with Argentina - Substack",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UQWR4aDZFZFF2RGkzWWhzeTd1T2oyZkZ2T3ZFUWJKdmo4T25fczdIUWxiMnZfWlRzTGtPaG9ob244OEFTazdqblA2R0FITmRiTDNRMlVBbDFVTUFEQUI1Wk14YWt1NTFnbUlCRzNucUpiU1JfZ3pWRTBOaWM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3796,7 +3812,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 404,
+      "chapterCount": 406,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7028,6 +7044,22 @@
           "title": "Kylian Mbappe’s knee injury to keep him out for two weeks - Al Jazeera",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHc1aEowaHg2RnJBekZBUkF4SmN4d0pXMFlyUVlDeDZsSTJJT2JqLW5adTIyNWlwY204U0tndFNOaTNuS0tFdWdreE94MVNIOHZtbWNja0dtdGV5QVgzc1M2cVlMREcwVmREanBHSWg5NjdrM29CSl9PRWppeGowNHpwcjBNMENIM2k1UXUwaWtSS081bWFKQ0xEMEhWZ2p40gGmAUFVX3lxTE5ZSklYOGNMUzZycXpLMzhJalJFN2Z5eDJGejF4ajVmVU8xWGdWWDNmVjV3T0FaT1dFOHpvVDExem1zTlpHY2I5a2o4M0FMWDQ2c2VmYjN6NmVraXNmcEt1dU1GYVlENDFKRFF1Q29NRVRqa09ScHV0TjhFUkg2N1VwdTJBeGxEQzEtR25MZ2FxM2ljZVU4d0RfNmtzSXRVUkZHQUJyTEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790600574519",
+          "date": "2026-09-28",
+          "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlUzRGxIaU5obFVVSUE0WVYtVzhoa2hGdWdmb1c5a0o3anl4NXZWN0I5LXRlczJKa2tRcm1XRTl3MlJmUG9kZ0VTWXV6LXNSNG1FNF9GbnBpU1JZcXU1bXNIa2R1VHEwZ0RDTDNWTFlSMnlrcVR2NHQ4NHdodkViV2lobTJoajNyaE43eFVKRG1OQW1wVFg0U004N2c0UUt5NEVpWlBfajJKRHfSAbABQVVfeXFMTWVaUnp2YVd2M0F3a0ZtamlfdHN3LWdnRi1hMFNXZE1IOUZqcXNISGd0bzczZGRNU1V3V3RPeHdMOHBpMVNqRjZZem9WWEhweWI1MjRES0o3TXRtc1FrTjM2aFpfZzRoT2N3UUQzQUlpZFNTZm1xNzNDNzJ3NjhzdGFBMDVaMnF2emdYdnMyTXNBNWZ5eEhfNHJyLXUycXpRY3B4ZFBJT2pkREgyb2NKSEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790600574519",
+          "date": "2026-09-28",
+          "title": "Zidane urges players to embrace challenge of playing for France - RFI",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWR5UkpFVjlqT3JoTGZsd3hOeThoeTh0bENWWk5xUVlSRk94Q1NrS1ZWM1JOWlVSVGpKamlCd1ZDUHZYSHRPblA5XzljWWU4b1JNRUVWVk9TamJmd1ZKdFVIM054dnNxRXZzbGpHSWoxMUdWQVphVXc1QzhORVdhSU1BVkR0V00xMGllbHFXcS1vTlYycGZyRHhUQnI1dmM1SWNYeG0xSldxcVBqakVEWThuZ1pPblR3YWc?oc=5",
           "draft": true
         }
       ]
@@ -15122,7 +15154,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 663,
+      "chapterCount": 665,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20426,6 +20458,22 @@
           "title": "😂 Blue screen? Brazil's World Cup villain makes bizarre errors v Portugal - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVgySUluLXlXelZwRGdjU2hCejZ1MHpCclRjMGp2ZWQweUtsVGFiRXZFQ05JUUx1MUhMdENpbHZ0WDRlSWtrZmpnSkVoYXFpS1VLLTZNeEZBX0t0SzJHaU55X2huY1E5eTNsYjhKZ1Y4Wk9KZ0hJQUJfeFhoOFo4UV94VkQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790600575799",
+          "date": "2026-09-28",
+          "title": "Endrick opens up about Brazil’s World Cup heartbreak and life at Real Madrid: ‘A wound that still remains’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVQ3ckEzX0R4c0JiMktTeDItSnJwZF9peXQycElHc281bWRmS3BfejhxTlRSTmd3VkJ2SUhDNm8tVXdRUWZrLTVDNlFOMndqOEVOQzYyakxUYnNadTdEa3V3N0x4YW10RnlwdFhsM0V2WXdHeWxYWjlJcjlUZUViakJQa2R3dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790600575799",
+          "date": "2026-09-28",
+          "title": "LA 2028 men’s volleyball: who qualified so far - Volleyball World",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHlqNGVPcWNGcHlaMlUwd3ZmUV9ILW11dTNTcGxXYVROZ3l2NmkzNjVUM0pYaE05a3dMZ0kzV2NTcWExbTVnVDRac05FbkVIdFdvMHlyUjR5UW5pcDZEVWJGbGhjb1pqWjVxVmNSR2xPcW85Zi1FMXFLdEljbFdmSDRLZllCbVB0?oc=5",
           "draft": true
         }
       ]
