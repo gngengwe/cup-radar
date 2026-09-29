@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-29T12:13:46.522Z",
+  "lastUpdated": "2026-09-29T19:47:49.192Z",
   "articles": [
+    {
+      "id": "news-auto-what-did-yamal-say-to-messi-at-world-cup-2026-09-29",
+      "headline": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’ - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1VKbTFjMTVnNWJQSnpWTjFteExVNXVVeGxpTXlIOGRwNlJ0VHI1bTVwall6RjFqQktvbzJqUGl1a0VzbHBFa29rcGZ0STAwbkRfWG1RQ050bTcxNE02bU5MbmQzUW4xTlhKVHlSdjkwWXJXRGUwQ3NKeFNQLXZ3OUtGS2dJYnp4NTU3RG1Tb25mRVd0aW96ek5MUDJNaVhoU2xDVFJsaDB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1VKbTFjMTVnNWJQSnpWTjFteExVNXVVeGxpTXlIOGRwNlJ0VHI1bTVwall6RjFqQktvbzJqUGl1a0VzbHBFa29rcGZ0STAwbkRfWG1RQ050bTcxNE02bU5MbmQzUW4xTlhKVHlSdjkwWXJXRGUwQ3NKeFNQLXZ3OUtGS2dJYnp4NTU3RG1Tb25mRVd0aW96ek5MUDJNaVhoU2xDVFJsaDBrREZFR1U00gG0AUFVX3lxTFBtb05oUGQzRUw5OWVEN0JodDEzNVZBOGlodzRUbm9hcGNqYWJ0cnd0MmtWUkJ0S1RlUG1TWXQ5WTI5RC1qMWtoU20xNXpxVWZ0RG5WZHpITmF1TUJfSS1TdDJPZ2cwU0FHajJjNWZFTlkxdzRFLTduODlQb1Bma3A4djZXUkxkNXBLcHpBX191Sk5aSTRNZW9UTU01b1M3Z3JDX3YzZFNnMEhDTXN0OFlGclB3SQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-caf-strategy-conference-how-10-african-c-2026-09-28",
+      "headline": "CAF Strategy Conference: How 10 African countries delivered a record-breaking 2026 World Cup campaign - cafonline.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3pxZHJTd2d3T3ZaTnUyUldzYkVueWhDa0lqNmZSS2J4MVJBbHBucVB3a0FqVW1IcEpPYjk2VGUtZFBfcS1nTWQyVzlFMWgyS0J4SmJWNV95bHkzLWU3blF4OGY3S1Q1NjRBNkxTT0xCcEVnZElCVk9wQUR3VU1weXdMOVZtOUVwdUZVbXdZYjVaNzJYSHpMTVNORE1qYUtlS3NTVlpOeDh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3pxZHJTd2d3T3ZaTnUyUldzYkVueWhDa0lqNmZSS2J4MVJBbHBucVB3a0FqVW1IcEpPYjk2VGUtZFBfcS1nTWQyVzlFMWgyS0J4SmJWNV95bHkzLWU3blF4OGY3S1Q1NjRBNkxTT0xCcEVnZElCVk9wQUR3VU1weXdMOVZtOUVwdUZVbXdZYjVaNzJYSHpMTVNORE1qYUtlS3NTVlpOeDhNdzhOSU9ueVBvTG5DMHd2c25oM1d2SmJVQXNpaFJkdU5ZOTE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-fixture-schedule-and-all--2026-07-19",
+      "headline": "World Cup 2026 fixture schedule and all the results - skysports.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWpUR0R6UUVoVml2TEN1QjFULUZnX0FPWC1ESUhLcFFjeFF2TE12XzJJSl9yRnJWdFR3d2hXWDNpU21KbHltREJkNzZKT0dGWEJxNkYwSzBELS1ZalZpSGVKYU1IS0VEdWFWeXFISUF2UElmM3Z3aF9GVTFwTThCcUh5Uk8temI5WnNLNHQ2SnhnZFUtZ1hpeDkzS01Ca2hybGdDTmNhbkd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWpUR0R6UUVoVml2TEN1QjFULUZnX0FPWC1ESUhLcFFjeFF2TE12XzJJSl9yRnJWdFR3d2hXWDNpU21KbHltREJkNzZKT0dGWEJxNkYwSzBELS1ZalZpSGVKYU1IS0VEdWFWeXFISUF2UElmM3Z3aF9GVTFwTThCcUh5Uk8temI5WnNLNHQ2SnhnZFUtZ1hpeDkzS01Ca2hybGdDTmNhbkdZUjFJUlRtM2RfeFJrQlFlTkRZSzNmQm5PZVd4V0JGdTZHenFqaDVhYWNCQzExTXNvR3dhektFTlpxMTVvaXhDMVRSTzRqaWlCZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-sets-the-standard-as-a-fifa--2026-07-16",
+      "headline": "Kansas City Sets the Standard as a FIFA World Cup 2026™ Host City - kansascityfwc26.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5\" target=\"_blank",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-16",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
+      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--it-was-a-silly-thing-to-do-new-valencia-2026-09-29",
       "headline": "'It was a silly thing to do' - New Valencia boss Javier Aguirre laughs off infamous 'Gordon, f*ck you' World Cup banter - ca.sports.yahoo.com",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jZ3hmV1NyOWNLWFJKMlRKLWdnYVV0QnNRUFpNM1pqTDlvZVFldmpqWHZtdm45eTRnbE1QVzhQbHJIc0lOY3JXUXpzdXlMN3FRMFVSOGFIaHp5U3Q3eVpIVFFB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-sports-ministry-paid-a-purse-holder--2026-09-19",
-      "headline": "How Sports Ministry paid a purse holder $10,000 at the 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1V3MWc0RWFOZE9HZzZyRXk1b2RoS1NvSm9EUGpqeXY4QXctWnotUlFCZEpsb1hNRU9qUVpzWHZ4ZmN4MVZHOTJpQnV4MElyd1YybVNVeDBFZk5DU3lVeE5RMWZEYnZJc2tmVHkwMlktV1RnSkI3UXV0YU5STnR0c3V4V0hLVTd5X090ZUVIOG9hdXE0Uk40RklmMGVUUTVLM24zeU1xYkx",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-19",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1V3MWc0RWFOZE9HZzZyRXk1b2RoS1NvSm9EUGpqeXY4QXctWnotUlFCZEpsb1hNRU9qUVpzWHZ4ZmN4MVZHOTJpQnV4MElyd1YybVNVeDBFZk5DU3lVeE5RMWZEYnZJc2tmVHkwMlktV1RnSkI3UXV0YU5STnR0c3V4V0hLVTd5X090ZUVIOG9hdXE0Uk40RklmMGVUUTVLM24zeU1xYkxsRl9iaXVpUVFrLXlPcFBzQUM4OU1mSzl4R1BHMktOQg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-scraps-controversial-deal-to-sell-s-2026-07-31",
-      "headline": "FIFA scraps controversial deal to sell stakes in World Cup to private investors - NPR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0hYVjhvTXVKbGkwaDhzcnlKeEtBVkp1Rk9PUnpRR0lPNmUtZHZTVUJPWklXcWpmWXltZWNCWTlPc185WjRSdU1VSzNRbXQ5clRWcXB5WVFJRUlXcVgwOHhleWp6Y3NyVmJoNWRZWndXME45TGJDSHNSODhTX1A4WHhR?oc=5\" target=\"_blank\"&gt;FIFA scraps controversial",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0hYVjhvTXVKbGkwaDhzcnlKeEtBVkp1Rk9PUnpRR0lPNmUtZHZTVUJPWklXcWpmWXltZWNCWTlPc185WjRSdU1VSzNRbXQ5clRWcXB5WVFJRUlXcVgwOHhleWp6Y3NyVmJoNWRZWndXME45TGJDSHNSODhTX1A4WHhR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-rapidly-accelerates-plan-to-expand--2026-07-31",
-      "headline": "Fifa rapidly accelerates plan to expand World Cup to 64 teams from 2030 tournament - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWFPTVotX1JiNElKQ1Q0b2I5eHpWa0VCbDd6QUNNMG9CSDZNWnZRZWQxSGpsbVdRSjRUb203UXBTc0p4ZUR6ZzA2OFZkTnlPU05zRnQ4YVJfa0dodEZrc0VjMGRzSUZnT3YtNlZKUlNGcDFPMmVITDR6dHZXdUROejRYZ1ZaU01XZ0NTQnRVc201MVU3bmpHbQ?oc=5\" target=\"_blank",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWFPTVotX1JiNElKQ1Q0b2I5eHpWa0VCbDd6QUNNMG9CSDZNWnZRZWQxSGpsbVdRSjRUb203UXBTc0p4ZUR6ZzA2OFZkTnlPU05zRnQ4YVJfa0dodEZrc0VjMGRzSUZnT3YtNlZKUlNGcDFPMmVITDR6dHZXdUROejRYZ1ZaU01XZ0NTQnRVc201MVU3bmpHbQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-plans-gianni-infantino-sc-2026-08-01",
-      "headline": "Fifa World Cup plans: Gianni Infantino scraps private investment proposal after widespread opposition - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5\" target=\"_blank\"&gt;Fifa World Cup plans: Gianni Infantino scraps private investme",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nOHNxQUlVOEFId1VlcHkzbmFUa2h1TzZFeE05LXpXMWQySUR5SWw1bHlfQ1hzalNmX3NJRl9NZjl2ZnU5QzNBekZnVDdiR3dmWlBlNnZtX202WmFlUEFtemR5TTdic0k?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
-      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
       "featured": false,
       "draft": true
     }
