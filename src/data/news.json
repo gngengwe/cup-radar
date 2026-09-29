@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-29T04:31:40.783Z",
+  "lastUpdated": "2026-09-29T12:13:46.522Z",
   "articles": [
+    {
+      "id": "news-auto--it-was-a-silly-thing-to-do-new-valencia-2026-09-29",
+      "headline": "'It was a silly thing to do' - New Valencia boss Javier Aguirre laughs off infamous 'Gordon, f*ck you' World Cup banter - ca.sports.yahoo.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGtiUkVuTTlHdjcxYlBiQ09Ga3hQakdoZkMybDY1dnpPaXdOaUJOVUthV3A0SzE5Q0Y2bnkyclVpTDJlOFNBVi1hOGJ2ak5ES3FmUjRhVWRNU3k2T2JKN2d3ZDcxNzMwcV9xWl9weFdwSjdNMXczT0pDTlkwbmphYlZwZzFwX2M?oc=5\" target=\"_blank\"&gt;'It was a silly th",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-29",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGtiUkVuTTlHdjcxYlBiQ09Ga3hQakdoZkMybDY1dnpPaXdOaUJOVUthV3A0SzE5Q0Y2bnkyclVpTDJlOFNBVi1hOGJ2ak5ES3FmUjRhVWRNU3k2T2JKN2d3ZDcxNzMwcV9xWl9weFdwSjdNMXczT0pDTlkwbmphYlZwZzFwX2M?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fame-has-ruined-cape-verde-world-cup-her-2026-09-28",
+      "headline": "Fame has ruined Cape Verde World Cup hero Vozinha’s life: ‘Lost my peace’ - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2VabDVRUXJ2RFM3OEJ2NVBBdUV5S01RTTNJTTl2MnBIamhDcHI0c3hCdEdtejg3WE54UmhGd2pkM0RZNmN4b2RrOWdJbkM3NVlrelk3SlhvV2pzeDRsZ0JOWjRmZTRkVkktZmpxQnBMRW5felBiSmNvUV85LUZKeU94R3p1VjZSaGdUWGs0WTBscFBvYkpGNnR6TTBqaHhINnlOVlRESVp",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-28",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2VabDVRUXJ2RFM3OEJ2NVBBdUV5S01RTTNJTTl2MnBIamhDcHI0c3hCdEdtejg3WE54UmhGd2pkM0RZNmN4b2RrOWdJbkM3NVlrelk3SlhvV2pzeDRsZ0JOWjRmZTRkVkktZmpxQnBMRW5felBiSmNvUV85LUZKeU94R3p1VjZSaGdUWGs0WTBscFBvYkpGNnR6TTBqaHhINnlOVlRESVpmTFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-canmnt-squad-named-for-september-october-2026-09-15",
       "headline": "CANMNT Squad Named for September-October International Window Following Historic FIFA World Cup 26™ - Canada Soccer Pressroom",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-10",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lamine-yamal-calls-lionel-messi-the-best-2026-09-19",
-      "headline": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - Morocco World News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-19",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHpVY2taZm9LUXI2TGM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-sets-the-standard-as-a-fifa--2026-07-16",
-      "headline": "Kansas City Sets the Standard as a FIFA World Cup 2026™ Host City - kansascityfwc26.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5",
       "featured": false,
       "draft": true
     }
