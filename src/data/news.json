@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-28T21:04:56.145Z",
+  "lastUpdated": "2026-09-29T04:31:40.783Z",
   "articles": [
+    {
+      "id": "news-auto-canmnt-squad-named-for-september-october-2026-09-15",
+      "headline": "CANMNT Squad Named for September-October International Window Following Historic FIFA World Cup 26™ - Canada Soccer Pressroom",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTh1TWdjQ1FKSlpDV3NqVnJkV0prR2pVejQ3YnEyVTUyQXlaaVhlZENsYkUtdU5Qei1jaU9NRDZRcHVzb0hULWdiM1FMOEhnQ2hrTFVvVGt5OFhlUmxyWFdLeVEyVDNqT1JRQmZRaHFoRHo1elZkWVgxVk1PN1Ytc3d2a012UzNSSVc3WEtjTlBFNkg5Z0huMW42MWpMb1BIbGdJTXBkRHB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-15",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTh1TWdjQ1FKSlpDV3NqVnJkV0prR2pVejQ3YnEyVTUyQXlaaVhlZENsYkUtdU5Qei1jaU9NRDZRcHVzb0hULWdiM1FMOEhnQ2hrTFVvVGt5OFhlUmxyWFdLeVEyVDNqT1JRQmZRaHFoRHo1elZkWVgxVk1PN1Ytc3d2a012UzNSSVc3WEtjTlBFNkg5Z0huMW42MWpMb1BIbGdJTXBkRHBfMGs3WnVzZjVQbTVBZ2V0WEJHN1VRbDFyN0FTb2dB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
+      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-18",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
+      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-do-you-remember-2026-world-cup-hero-vozi-2026-09-28",
       "headline": "Do You Remember 2026 World Cup Hero Vozinha? He Wishes You Didn’t - Sports Illustrated",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-16",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktETGY2WmFCZllXM0FVOVl6TWF6S3d1M19FUU5qcG5abkd3cUQwNHpqcGZPM3V5NEJ0c1RUR1p1azQ2c0w0NXBFOVQ5WWJkR0V3QXhRTV9famh1Q1gyajRxWW5RS1RNWHRQUG1sMkI0OENabVlLeXhRTlFQTkR5MzZ4dzJkV3JJSWRoUExMdi1NbFh4Rl90cA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-most-kansas-city-restaurants-saw-negativ-2026-07-24",
-      "headline": "Most Kansas City restaurants saw negative impact from 2026 FIFA World Cup, survey finds - kctv5.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW1",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRrZmIwR0RLQTdTRTdwckVCb0hiU0YxM0l4cDc2R2d0MFNLZTk5N2tKQy0xeUJuMm8yMXc1cFFWSi1WRjBmNmVzNVBpQlAxM2o2Z0lsa3g0ZEM4RFNOdVBPanFfZGg2SUNMUDZGYks4N1dTSDBtWGRsT1V4dXA5b0tJYy1BVVBtcnUybFcxY3pWTEVuOUVta21GdldvbUtFWlFJODdHcW16Y0pqOG80U2g2Y3R0QdIBygFBVV95cUxPTTVaRnl0ZGFtS0dkcU1GRWQwVnZ6UFhRU2Q1Y1VfZnlSMFhiWlJwOGR4WDRjREp0d0p5NzMwYUYxSlBadm56c092WWdyMEZiOXVNR1VtcUo2cDN3MWhnNTc5X2gwWmFRdlA2bTA3dWxIR1pKbHRTVjJmNm9lRUpjUjBFRmdLcG9OSVpVZnJrLTFPM1hUcWFKc184RVI3NHltRThfR2EyODlQVWpwVTFNMWhWbGdoUUdNTjVVVjh2eFdXTWJEMm5tai1R?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-sports-ministry-paid-a-purse-holder--2026-09-19",
-      "headline": "How Sports Ministry paid a purse holder $10,000 at 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmJCd2xvcWVIazAyR1JHMllMVExNbE5OaXVtdE53S1BKMVVzZlpRT0p0b3Jqb1VFbVNDa2FHTmVPbzhNWkJBLXkyX0prd25kS2FSSS1ZMmFRLU03WHNabmhGOTRkTG45VUFzdnc1a3VPdkpuVVpDelphUkNoWlktZ21wcWpad2lJTzZYUHM2d3QtaGpMc2p2MHRoRklqMllaYm5XRXdNOHl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-19",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmJCd2xvcWVIazAyR1JHMllMVExNbE5OaXVtdE53S1BKMVVzZlpRT0p0b3Jqb1VFbVNDa2FHTmVPbzhNWkJBLXkyX0prd25kS2FSSS1ZMmFRLU03WHNabmhGOTRkTG45VUFzdnc1a3VPdkpuVVpDelphUkNoWlktZ21wcWpad2lJTzZYUHM2d3QtaGpMc2p2MHRoRklqMllaYm5XRXdNOHlrZnVLeGk5akl0S3Z1b09VUzZyMjRHaEc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-records-show-kurt-okraku-was-paid-50-000-2026-09-19",
-      "headline": "Records show Kurt Okraku was paid $50,000 as honorarium at 2026 World Cup - GhanaWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVJQ0JNTmxWRzdmZDJCQTRWaEZGZENMR2RUV0JUYWdpYldHVW5QU1B2MmdLaFg5M2FCV0daNnk2MnRSV2wzUktuRHAzOW5ISUNXcFVXRXFOVjdFeVJEMUdSZUdYbkk5TVpKNW5mbjdqZ0YxZTZRX1pmU0V3OFVUYzlISEV2bF9rUmtuNEFkWU9wcDBpbTZ6clVUQWgwcFEwNk12OUcycmp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-19",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUVJQ0JNTmxWRzdmZDJCQTRWaEZGZENMR2RUV0JUYWdpYldHVW5QU1B2MmdLaFg5M2FCV0daNnk2MnRSV2wzUktuRHAzOW5ISUNXcFVXRXFOVjdFeVJEMUdSZUdYbkk5TVpKNW5mbjdqZ0YxZTZRX1pmU0V3OFVUYzlISEV2bF9rUmtuNEFkWU9wcDBpbTZ6clVUQWgwcFEwNk12OUcycmpPU1VnTXJPc1FabmpPNnhnXzRHbmdFQkpObDVTbDhJcHlGTXZlUQ?oc=5",
       "featured": false,
       "draft": true
     }

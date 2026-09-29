@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-28T21:04:59.013Z",
+  "lastUpdated": "2026-09-29T04:31:44.337Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7095,7 +7095,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1009,
+      "chapterCount": 1013,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15168,6 +15168,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcE5KbTFBNUxMeGgzMjhBU0lDVTdJNV9yWEdQMHFLMGNNUTlDcWdPeF8xcUNGNDFTMU9aQm14cjJvaHRlRDdVM014MGVRSFlWM00zRmVib0drTUZYNFptM05FM2o0UElVYUVGV21hTnpaSlZhT3RRWlE2SEJtTHpvcWc2aGp5TGZZWktnQWEzX2M0RnRiN3UtMkQxWkNpNTVDU2ZrcFJ4SjZQazFoRlJfdmxVeVBRTTJULTd1WVFoRG9PY25uMmt4RkJXclFiY0xLRUlka1AxRTFYZTIweV9EMGFwZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790656302695",
+          "date": "2026-09-28",
+          "title": "USMNT Returns to St. Louis to Take on Chile in Impact Match, Presented By New York Life - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1NReFNxWGpZNWVJSl9ZQ3F5MW04V1FFaENnQUlxcW1ZZzZhQzVvMmZoQkFGd1RpZTNDVXVYSHEzLWFXTmRibmZyeEhKTXkzSUNqdVVxRU5PVlpCdk9aWFFob0UyODBubHprSWFDclljQmNrRWJTc1dEdGR2cEMycjUyeXl1WkIzd0d4b2Zlaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790656302696",
+          "date": "2026-09-28",
+          "title": "U.S women’s 2026 World Championships Selection Event begins Wednesday - USA Gymnastics",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2dQemJ3bm1DbEViSElJVXh6N2doY2V6aHZpWmNrcWtHNW9mZ0JwN3NRMXJIanhMRFdUXzlCakhtRTZBeFlKdklVNVgwS0FjMkhVcU85UUZJcENzZ2ZfSlN2Sko2UkJ0OFFabU81RWU3SnJhRmdrSENfZmVRRDRtTm1USVV1LTdJUUtFUGJjZngxQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790656302696",
+          "date": "2026-09-28",
+          "title": "WBSC U-15 Baseball World Cup 2026: USA clinch Group B top spot; Dominican Republic advance, Germany make history on Day 4 - World Baseball Softball Confederation (WBSC)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm1VVno5eE0ybzZ3R3N0RnhIbHJFM3ZNUlplN2RQYmJETnFITFN0RGNJaXBTeWowbWRMRWNKZ0tsM3lueC00RTNuT3dkcjlZeDZLNnRaNWFUMk5RZ1FhX2pnY3kxQWN2T2haZ1o4Y3E3clo3NnBLZEU0WjBTb1IzQzZhSi1oSnJ4djhkeDVLS05rcHJiZWhB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790656302696",
+          "date": "2026-09-28",
+          "title": "Netflix Eyes US Men’s World Cup Rights for 2030 and 2034 - Movieguide",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnkzNF9URFlkSzhVaDVPWUtUNTVEc04wWndtaWptb2w3cUFTMnRkVDAzd0x3aG5MUWEtb09tUDRuMEhGWnFVZURmekpOVGdwSEVyT0Y0MXQwYTBNeXh4dkFxT1dROUNCRGQ1SmhiQWZPM3I3dks0ZlF2cG1IZGxnaEhSY18zRERXVmFYeWtka2s5V3V5SFV3MS0wTDJIdGowbzZj?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15186,7 +15218,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 667,
+      "chapterCount": 668,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20522,6 +20554,14 @@
           "title": "Australia 1-1 Brazil (Sep 25, 2026) Game Analysis - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56Y2xSWHZweFFwV295Z0xia0pLMXg0Q2NUaDRhQ0V5QVVKSm51MC02NTdhSFd1bVFNclhTODB1OGxjNmdrdDUydlVOOGNmTVAzdmlvbjNfazJZXzVtaV9kc2c0WQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790656303505",
+          "date": "2026-09-28",
+          "title": "How to watch Brazil vs. Australia online for free - Mashable",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUZGN1YzaWRWY3dad3N0V2dTZWdPZGJfSnc3V2NwMjlqQlVGeVhTcGdRTEpHdTFxUXBaT2E2TjVlY3Y4ZTN6S2dUWW9fbDVNbFplSWtwQ25YNGhxV1BoYkYxOFFDb2RNVUxGS29IRklqOVZvWHFNX1VaRUNsRUpJZHBQZHkyZ3AxcV9QaFFqWlc5eDFscGZoTkVYWlRueGlEcXc?oc=5",
           "draft": true
         }
       ]
