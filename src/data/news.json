@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-29T19:47:49.192Z",
+  "lastUpdated": "2026-09-30T00:04:36.135Z",
   "articles": [
+    {
+      "id": "news-auto-spain-celebrated-ahead-of-its-first-home-2026-09-29",
+      "headline": "Spain celebrated ahead of its first home match since the 2026 FIFA World Cup 🏆 - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hd29jeXpLVV9mXzA0eEEwaThlSXFURWpGajlYT3k1ekZoZ013UWxSVm5LS0xVb1RmUnJYdHJ2WWtBVnFPYjN3bVV6bnBRT0dHMlVFV0tlRFBtRUtiTTVjamZEVFFKX3JwSThOY213?oc=5\" target=\"_blank\"&gt;Spain celebrated ahead of its first home match since ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-29",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hd29jeXpLVV9mXzA0eEEwaThlSXFURWpGajlYT3k1ekZoZ013UWxSVm5LS0xVb1RmUnJYdHJ2WWtBVnFPYjN3bVV6bnBRT0dHMlVFV0tlRFBtRUtiTTVjamZEVFFKX3JwSThOY213?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
+      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-what-did-yamal-say-to-messi-at-world-cup-2026-09-29",
       "headline": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’ - Al Jazeera",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-20",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckVHbjRKNzdIUDhpZWhpZ2dOWTBCRG1ocm1rVzB3dmFVRllGWTRuZG11eXlPVzJ0MzdIdnlyUG9aYWNEakZnRWRiT29uWGlYQU5tTmlqQnd0R3V5UzFBR001WXBUWEVIY2t1VVFULXByQkswOTNUbGdfNGFObWY4aUNSbk8zYU1acjk5SE0zNlRPQzR0ZXFSb0lsZjNyRk9rcElFYnhzVW9EMXRzS0V6T0R3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-final-fifa-2026-07-16",
-      "headline": "FIFA World Cup 2026™ Final - FIFA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTlPT3ZwX2JhUnpvbE5TSXMydjY5eGd5T2tuaWdScmtUV3F2aGlEY2J4N0lvR05CbFQxY20wdzVlUE5XX3JYRFA1bm1mTlJ1NlNGTW5JTmQ1U28zMDVRZE9LNHI2N1d0Sm5ySTFqU0R5eGFFVnRRVjcyYTJwLXVXbw?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2026™ Final&",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-16",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTlPT3ZwX2JhUnpvbE5TSXMydjY5eGd5T2tuaWdScmtUV3F2aGlEY2J4N0lvR05CbFQxY20wdzVlUE5XX3JYRFA1bm1mTlJ1NlNGTW5JTmQ1U28zMDVRZE9LNHI2N1d0Sm5ySTFqU0R5eGFFVnRRVjcyYTJwLXVXbw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-a-new-stage-for-gooool-andr-s-cantor-s-n-2026-09-18",
-      "headline": "A new stage for ‘¡GOOOOL!’: Andrés Cantor’s next move is to Netflix for Women’s World Cup - orlandosentinel.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJCNzl4UTV0dzZnNnNWY09TRm02bGU0aHZRMTdOb1luU0ZjNG10S1FTRVJVWXFoQUtiOUNQWmQzRGhsVFUzVTVCOHV6Z1pSQWVtblF1S3FkVHhwTFZCSVJfVVZGa3lkY3BQbHBDb3NWcGp2VGZXamhSUFV6WmZBT3lCNzNxRFpMT2ZqWnZMZkJQMlVaenQ1blZoQ0ZsWkJScVZUWW0zbUF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-18",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJCNzl4UTV0dzZnNnNWY09TRm02bGU0aHZRMTdOb1luU0ZjNG10S1FTRVJVWXFoQUtiOUNQWmQzRGhsVFUzVTVCOHV6Z1pSQWVtblF1S3FkVHhwTFZCSVJfVVZGa3lkY3BQbHBDb3NWcGp2VGZXamhSUFV6WmZBT3lCNzNxRFpMT2ZqWnZMZkJQMlVaenQ1blZoQ0ZsWkJScVZUWW0zbUFReEl4TWFoNXlIcjVrNzdMNTB6Y3NRNVY3WWs?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spain-vs-argentina-highlights-2026-fifa--2026-07-19",
-      "headline": "Spain vs Argentina Highlights 🌎🏆 2026 FIFA World Cup™ | Final - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jZ3hmV1NyOWNLWFJKMlRKLWdnYVV0QnNRUFpNM1pqTDlvZVFldmpqWHZtdm45eTRnbE1QVzhQbHJIc0lOY3JXUXpzdXlMN3FRMFVSOGFIaHp5U3Q3eVpIVFFB?oc=5\" target=\"_blank\"&gt;Spain vs Argentina Highlights 🌎🏆 2026 FIFA World Cup™ | Final&lt;/a",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jZ3hmV1NyOWNLWFJKMlRKLWdnYVV0QnNRUFpNM1pqTDlvZVFldmpqWHZtdm45eTRnbE1QVzhQbHJIc0lOY3JXUXpzdXlMN3FRMFVSOGFIaHp5U3Q3eVpIVFFB?oc=5",
       "featured": false,
       "draft": true
     }
