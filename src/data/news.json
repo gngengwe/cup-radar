@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-30T00:04:36.135Z",
+  "lastUpdated": "2026-09-30T09:21:42.425Z",
   "articles": [
+    {
+      "id": "news-auto-cape-verde-goalkeeper-vozinha-unhappy-wi-2026-09-29",
+      "headline": "Cape Verde goalkeeper Vozinha unhappy with life change after FIFA World Cup in the USA - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3JoaURDdzBQaDY0Yi1pNHhMWXk3aHU3d3Z6TjV3MjhpeVhRRXU5TWhoVFAyWGZubmFNRkFiYXNOenBFeDlJUHl6emZCLTRXa01oQmtOZW00Ym1ERVpqalF3ZFRmUWJMMHRoR3REcmdOR3pqTTNvOEdYYXNLY0o4ZUlQODBjc2N0R0NuZ3Z6cw?oc=5\" target=\"_blank\"&gt;Cape Ve",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-29",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3JoaURDdzBQaDY0Yi1pNHhMWXk3aHU3d3Z6TjV3MjhpeVhRRXU5TWhoVFAyWGZubmFNRkFiYXNOenBFeDlJUHl6emZCLTRXa01oQmtOZW00Ym1ERVpqalF3ZFRmUWJMMHRoR3REcmdOR3pqTTNvOEdYYXNLY0o4ZUlQODBjc2N0R0NuZ3Z6cw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-winner-spain-has-now-gone-40-m-2026-09-30",
+      "headline": "World Cup Winner Spain Has Now Gone 40 Matches Without A Loss - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVE01amJmWGlWWEhubWhPMHpmUXVvdWxaNFZZOFMxYnFIQVA2RjZULXBZV3NEWHFpQmFMcmg2UzNYUjFUM1VwUE1oNlV2R3hsSXRmSl9JTlFDVkd0cGZlOXRGYlJPSC1QY1pjNGdSNHZ1Z2wtNm8yQW9NRE1uU09KaEZLMXctRWc1Y1RZVNIBjAFBVV95cUxPTkM4b0NqUG9pSEpObTNtdGJ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-30",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVE01amJmWGlWWEhubWhPMHpmUXVvdWxaNFZZOFMxYnFIQVA2RjZULXBZV3NEWHFpQmFMcmg2UzNYUjFUM1VwUE1oNlV2R3hsSXRmSl9JTlFDVkd0cGZlOXRGYlJPSC1QY1pjNGdSNHZ1Z2wtNm8yQW9NRE1uU09KaEZLMXctRWc1Y1RZVNIBjAFBVV95cUxPTkM4b0NqUG9pSEpObTNtdGJqcFFuSWxpU0cyVzNjV1F2QnhSMmI3Y0lfWEZMTFJOSm9CR0s0VVlibXpQeTJjczZnQjFnVElCemxrMzRvblVaLWpvcmhzcGdYWXRSX1AzYkthcVZqUjZwY1BkbXJ6N3I2STRubzBVNnB5N2p4b1QzbXhNVA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-five-things-presented-by-compass-mineral-2026-09-30",
+      "headline": "Five Things presented by Compass Minerals: Sporting set for showdown in Seattle | Oct. 1, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSndKTWFZRDJrTXpZSS1RMFVGSGNRN1JleUdEY29oWVRoZ1JlQ3Z0RU5HRzZ3akpncEZHX2lycE1VN0wtTm5Qc0tuU2VOSUprTXZVXzdIb09ROFhnNmk3N2Vra3R6enI3eVlmNEtEMDJaX1ZvRkpZUGhwNU9XSlFGcUVvNUFkTXBWeFdueTNIUkxzOUltRVVoOTVJZnVSOGdQUlFMVHpMbUZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-09-30",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSndKTWFZRDJrTXpZSS1RMFVGSGNRN1JleUdEY29oWVRoZ1JlQ3Z0RU5HRzZ3akpncEZHX2lycE1VN0wtTm5Qc0tuU2VOSUprTXZVXzdIb09ROFhnNmk3N2Vra3R6enI3eVlmNEtEMDJaX1ZvRkpZUGhwNU9XSlFGcUVvNUFkTXBWeFdueTNIUkxzOUltRVVoOTVJZnVSOGdQUlFMVHpMbUZieXBCNllWWXh4N2d2clg2eFp6Tnh3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-spain-celebrated-ahead-of-its-first-home-2026-09-29",
       "headline": "Spain celebrated ahead of its first home match since the 2026 FIFA World Cup 🏆 - FOX Sports",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-20",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3pzazNZSEdaX0lra0ZNN2N5OWJSMGpyM3o4QjlYWWNHckxmQkQzVG9GOTAyWVRrT2FNUVhobGN3WDNlUmpiaFl5a1VXc1k1RDFSRHA2TTRzeU05ZElaaTNXTEV3c2VFdkNYdk1Sajd5NnU5Nmt2czRnT1dTREp6WEh6aFhvQVVKMWlMVzN5a015SHhMTnYydHZOU0pUZG1vME9meVhqOGdxSUVCTm56bnBfb2I3UQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-reshapes-catering-consumption--2026-09-20",
-      "headline": "World Cup Reshapes Catering Consumption Time Slots: Half of Matches Fall 5AM-12PM, Breakfast Orders Surge 60% During 4AM-5AM - 36Kr",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZTJjWTlySEM0c3JMcTZSNmkteUlsYUZvVW16YXV4MzkyaFZuZnV4aUwzMUtNSVZ4cHFma0FocmhleGs5TmRmdnd6MHhTMEhicmhv?oc=5\" target=\"_blank\"&gt;World Cup Reshapes Catering Consumption Time Slots: Half of Matches Fall 5AM-12PM, Breakf",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-20",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZTJjWTlySEM0c3JMcTZSNmkteUlsYUZvVW16YXV4MzkyaFZuZnV4aUwzMUtNSVZ4cHFma0FocmhleGs5TmRmdnd6MHhTMEhicmhv?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
-      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-laporta-barcelona-won-the-world-cup-than-2026-09-20",
-      "headline": "Laporta: ‘Barcelona Won the World Cup’ Thanks to Eight Spain Stars - Morocco World News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQckVHbjRKNzdIUDhpZWhpZ2dOWTBCRG1ocm1rVzB3dmFVRllGWTRuZG11eXlPVzJ0MzdIdnlyUG9aYWNEakZnRWRiT29uWGlYQU5tTmlqQnd0R3V5UzFBR001WXBUWEVIY2t1VVFULXByQkswOTNUbGdfNGFObWY4aUNSbk8zYU1acjk5SE0zNlRPQzR0ZXFSb0lsZjNyRk9rcElFYnhzVW9",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-20",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckVHbjRKNzdIUDhpZWhpZ2dOWTBCRG1ocm1rVzB3dmFVRllGWTRuZG11eXlPVzJ0MzdIdnlyUG9aYWNEakZnRWRiT29uWGlYQU5tTmlqQnd0R3V5UzFBR001WXBUWEVIY2t1VVFULXByQkswOTNUbGdfNGFObWY4aUNSbk8zYU1acjk5SE0zNlRPQzR0ZXFSb0lsZjNyRk9rcElFYnhzVW9EMXRzS0V6T0R3?oc=5",
       "featured": false,
       "draft": true
     }
