@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-09-30T17:40:41.820Z",
+  "lastUpdated": "2026-09-30T21:55:01.676Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 477,
+      "chapterCount": 480,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3834,6 +3834,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjBjT1paY0NiTFhNNElaV1Z0MmZQREVaOURJeUJycFhUb1BtMTJic0VONWVaenpYSDRvTkJCX2dWNVNITXVzRFptLV83a3BXcGpUeENIS1pQeTBOMTRqVVpkRlUtT3dPRWNYXzNsSm5jSnktcEh0NTYzb2ptZDVXQ1JLaks2R3d2ektiUFdKdktIdzJGUk94WjFFWGFOa2VaUWo0bmRmczdFd3lsQ294NHRjX0NXeGZxSkVWZkNTOA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790805299263",
+          "date": "2026-09-30",
+          "title": "Why isn’t Lionel Messi playing today for Argentina vs Bolivia in 2026 international friendly? - bolavip.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azlGejYwR1E4ZHR6cVNMN2xrWFZFeUpn0gHDAUFVX3lxTE9qSWZ5cmhpM091RXlwcjVHaW1IUTNoSlBycURTdEppZkNwbEtwOFFuX2d3cjJ3WkJSMUdTcFdnM1FJanRqUzR6NjYzQUJrS0NUVWpnNW41SXJNTmltT01DTTZXdlp5cTVhS2RJY2ZPNlZBeGVGUDNqVWhyT0ZzcThDRFRKYUdfSzNCRlRTSHRJV09mWkpZYUk1b1pwMm1sZjRVRENXb3ZPS2JfN0xWN2Z2UFFxV2VRZlMtMGpmRWotVlpNSQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790805299263",
+          "date": "2026-09-30",
+          "title": "Argentina vs. Bolivia Lineups & Confirmed Team News: Is Lionel Messi Playing Tonight? - Athlon Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0pwWUhBckNkWGNpQVdzejNwbHNCaWwxcDB0T09kS1pxUkdZbHpjaXE5bnMxQ094S3BobVV5a3RhYWdFdDJHSmdxWmFJeTlMNEQ5M3h2LXMwYkxTMVNtdmdabnFNamkzQVUySTFPZUlPTm1OQU5jUk5wOHRTVzBsWEcyY1NpMW14UEtwbDRzUEVLRGxmTElHVDZ1eG1GNldkS0lhOUFkUzBINVNCS0VnNmZR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790805299263",
+          "date": "2026-09-30",
+          "title": "Is Lionel Messi playing for Argentina today vs. Bolivia? - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFhEUl9RYzk4a0JrX3BHTDE1YTN1T3k2REFlUjBWZXlpZEVrY1g1UnF1dWl6OHpoQUk2cnp5NENRSG1MUWJhVEVtdDVfQVBnWjFhMGFtX0VjZlZBN3lYMTJvT29SQmt3TkVWTFlLLVZtY0pVWHdOQXRMRG1UbFduN1R0ZDBTQ2VaRXlmYTVSN2NvTC1LSHNINVQxNmZiVXhpWVdyNGRMai1xdnVXaTBzRzFqNTlLY1ZLVC1XWmIxS1FYa0R5T0FHdW0zYTlOanVmNmp4QWtB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7135,7 +7159,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1026,
+      "chapterCount": 1027,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15344,6 +15368,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNGI1SzI3cC1vb2E0R0szVlFaUEd5cjhob2JpSGgtZzJWeUhOR1V0V1F2NzBsUWVGVll0N0htaDFZd2hLRXg4M2cxeWtXWFpzaTVWZE1RTzFFZnhrNVpRU0NMeHBuWjFqdVc3QWdrb3FxN2FpMWwydnhQQW90UXN3dXdNWFl2ajhxbGtjU1dDRTlTeEJwMDZ2bmljODExOTlEenVsMGZ1cU4wOXptSGQ1VllvQkdUNXQwdElqQThLcw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790805300351",
+          "date": "2026-09-30",
+          "title": "USA vs. Mexico: How to watch, stream international friendly - MLSsoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdktJYTdkbVBUeURqRjJwMklDdU5fd1JEdm1UVnNHckh0MTFicVRCYVlIOUV1NU9ibWthZWZLdjItdHpXSUdPMVRPNEN2cFlNMmJoaHdXdWp0R3o0dWRlOTZwWWtuX25BSlo3aXNyVWdPb0p3N2J1UzA5TmRmY0ZnWHFXSlJFQTVfZFN4ZDNkYUlMUUcwVTAw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15362,7 +15394,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 675,
+      "chapterCount": 676,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20763,6 +20795,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHk4MDdDX3FIX2oxWlBySkxsSjcyX042QmJUZDRMcmcwX25KbUZFMHEyOG1rUFhZRmlYdWJ5RGMwTVpOQk5JZEQwaHFtQ0pzWkZ3ZjFaR2l2UnNqVzZ2T05Hb0pGcW9GTTNwRjl2UUpkOUV2RlV1R2NhaEQ0YmVsb3ZXWmxpZ0NLTV9JTUNCNE83TjVtOUE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790805300889",
+          "date": "2026-09-30",
+          "title": "Watch Whittaker vs. Wallace: Prelims Live Stream Online | DAZN BR - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWkzbHZjWDFad2FLem96SjhYRG9CMnAxOGJvY3lNVVhuZE1TRlhLaFhtQUFwX0ROdlJTeUtHSVFseTFwNFBxZVNnSnZSblBsMDVpMEROeFhfZTdvUXVxOUg4RkNocWlhNzhRV29VQWpjOGswREs4MGpmUld6UEw0UnlBcTAzMnlIOC0yeTBB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -20992,7 +21032,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 933,
+      "chapterCount": 935,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -28456,6 +28496,22 @@
           "title": "England Up and Running in Nations League - TheLines.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDhvMkhiY2ktYXpfQ29HQmZud3FFeWxVOTZkWFN0UUdTekM5RVdBbUw5Y3JSbzkyaE9KS0FoeXZ4Q2hHMHpxd1lqUkRCTXJaWnpqVUtkT0ZnWE9CS1BBcF91bW4yWndKTGw0bkM0UDQzazk0VDEyNldtR3hySG9QRFd3N0N4MHhPZzZCTmxxb3NMV3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790805301676",
+          "date": "2026-09-30",
+          "title": "England Spain Score: Spain Shock England 3-2 In An Epic Wembley Thriller - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjVELUhvbGE0ckRGNFEyOUZOQS1CYXJFTkp3VXdFRlA2VUNuRHhmb1JzbkM0aDlCM21JOHNJeENRcmZvSTlkVURjR3pDb2t4cndGZ1V5VjVPazhVRUxMbllZSXZ2ejZ5cVpuWWhBWndCcGJFZHotcnloWXZ5bWtpV1hyMzlXWEU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790805301676",
+          "date": "2026-09-29",
+          "title": "Chloe Kelly, Ella Toone out of England squad for World Cup play-off, Lexi Potter selected - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0w3MGdWalgyTE5RSHFPWE1VUmtZdWM5QzJvVTFxLVl4TmIzRFVrVjFPVWNieHhhUV9IYTZnT1g2RC1hYVd4Q3EwNnowYjVyR3FTb0NURzBIb0dqaFNndzk2YWdyRFlSRGRGdjFhOGNST201V2E4aUJnNmZlcGJ3ZzlaLXZxYm5VRmRhdEk3WEFWMFlrNUZoeEg4SVU0a1hrQVUxbXB4TFpyUE9kTXZCQVRKaG1iYm92WC1Tcw?oc=5",
           "draft": true
         }
       ]

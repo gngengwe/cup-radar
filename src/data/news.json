@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-30T17:40:38.950Z",
+  "lastUpdated": "2026-09-30T21:54:58.671Z",
   "articles": [
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - kmbc.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-trump-turned-the-2026-world-cup-into-an--2026-09-30",
       "headline": "Trump Turned the 2026 World Cup Into an Imperial Spectacle - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-10",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-moroccan-fans-passion-defined--2026-09-20",
-      "headline": "Infantino: Moroccan Fans’ Passion Defined 2026 World Cup - Morocco World News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0lxeFBBTEF5dm5tZjlEeWpONE45MXMwZExKTlNJcE9QaFpHcmdveS1WeGhqS1JvY0xQdkkxNEJpNlNpYWNkQzNlR2QwTG11RUl2NElfUWVMWGNyZDUydWtISmNFSy0xUWZnSGF3bUlMZWlFY1RfU05xQ0EwQ09uVkxwcEVrUGNpZWN1X1VBNVR3a2JvWWZWbFRFdk5iNGY3T2pCbTFR?oc",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-20",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0lxeFBBTEF5dm5tZjlEeWpONE45MXMwZExKTlNJcE9QaFpHcmdveS1WeGhqS1JvY0xQdkkxNEJpNlNpYWNkQzNlR2QwTG11RUl2NElfUWVMWGNyZDUydWtISmNFSy0xUWZnSGF3bUlMZWlFY1RfU05xQ0EwQ09uVkxwcEVrUGNpZWN1X1VBNVR3a2JvWWZWbFRFdk5iNGY3T2pCbTFR?oc=5",
       "featured": false,
       "draft": true
     }
