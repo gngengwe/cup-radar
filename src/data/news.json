@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-01T12:32:51.580Z",
+  "lastUpdated": "2026-10-01T20:08:49.428Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-beats-projected-bay-area-econo-2026-10-01",
+      "headline": "World Cup beats projected Bay Area economic by $300 million - The Business Journals",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWFGeVJoOVgyOWFkRkRCa2xfUHZzWlBNZ1ZBUWNIczlQMnlGdjdtU2lFdUVaZXZJVjZNZHlxeWdiWDNHTURwdXBjcDlPd0JPNWllWmVFNE1uZWxITmZ5RUxQTFdsN3BIcXM5SlJmNVR3VVAtcnJLbThXLTZERWZNdHppbUU4dFBQMTIxalljeUtQZThWZ05XTkVJRDVvRUxsbnBHeTRxZDg",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-01",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWFGeVJoOVgyOWFkRkRCa2xfUHZzWlBNZ1ZBUWNIczlQMnlGdjdtU2lFdUVaZXZJVjZNZHlxeWdiWDNHTURwdXBjcDlPd0JPNWllWmVFNE1uZWxITmZ5RUxQTFdsN3BIcXM5SlJmNVR3VVAtcnJLbThXLTZERWZNdHppbUU4dFBQMTIxalljeUtQZThWZ05XTkVJRDVvRUxsbnBHeTRxZDgyMVJjM3laX1NB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-has-submitted-its-bid-to-hos-2026-10-01",
+      "headline": "Kansas City has submitted its bid to host the Men’s Rugby World Cup. Here’s what comes next - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUtITGR2aWgxNWhuaTZzSExRM3Q5X29UOU9Va0NtZlBBQVZSNVBNZXp0eGZiNHZONVM3aHdSc2o2UlRCMnZPbmhENlhsSERnaEFrZmRteVQybTdVaTAyMGxPS29pVGk3ZTEwVGZKb1BOUlRYYWpYdm9OS1dwQjlPM0k0eXJCczNsMVlVZzZkV3lXeXpoQ3EyRXVBNDFFaVFjMkx5OW5HczZ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-01",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUtITGR2aWgxNWhuaTZzSExRM3Q5X29UOU9Va0NtZlBBQVZSNVBNZXp0eGZiNHZONVM3aHdSc2o2UlRCMnZPbmhENlhsSERnaEFrZmRteVQybTdVaTAyMGxPS29pVGk3ZTEwVGZKb1BOUlRYYWpYdm9OS1dwQjlPM0k0eXJCczNsMVlVZzZkV3lXeXpoQ3EyRXVBNDFFaVFjMkx5OW5HczZ4VnFkXzRmak9hNFBRak5zalVlT1B3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--i-couldn-t-watch-samu-aghehowa-reveals--2026-10-01",
       "headline": "'I couldn't watch' - Samu Aghehowa reveals World Cup heartbreak after missing out on Spain glory through injury - Yahoo",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-29",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVR4Q0NvUWZBaFZwSHBZcVlNQXQ5a2JUUHpPdnRvMkYzc0tLbEwxWGNFc3RZbjF0YS11TGZ5QzRWdGZRYm5nM3RtZlJOanZSOVktQ2REbWd5VTBRVjhvTk9WckhTaHlCYVVkeHhUMXVHVVR0SV9mYkN6TXRyWUF1ctIBhgFBVV95cUxPZXdCYjIyaFZNTXhNZWZ3WVRjYW1GbWRhN0QxVk9ZUm95c2ZyeXE5Y3oyaF9JTFcxeXlocDU1ZjFaWlhYZl8tbzdlSDBfaGwyUkdXYVhPWE5VcFZfaTVPM1J1M2Qxc3dvVnVOZ0tJVEo4WUt0RmFiaGpZZWtZRUN2cEkzRV9wUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
-      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-11",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
-      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUdIBuwFBVV95cUxQR0pKa3RMODZrR2hxZTRhMkREQkVmaU1oN1dNX2lLREhGNU84RURpQnd4N1QxbWkwMjktWlBiMVhUMThLdTVCRkd0SUtacExCNVV1LTdwTVVpcEdicTY3VFdhWUxVZm4wWmFfZDhIVE1jZ1JZb3dVeXVIWjVWdUlGUXpPZ1VOdWRYS2NGUXBtMk9DV29naEIxRkZVYVIzM2VDRVROMkI5NEdOOGJ1TVg0MTZYTkotWXpXcThz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-france-vs-spain-0-2-fifa-world-cup-2026--2026-07-14",
-      "headline": "France vs Spain 0-2: FIFA World Cup 2026 semifinal – as it happened - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVpoOHprWXcxbkxtRGNDclhINEhxSUJBbEJUbE9QakhqLV9QcXlONGd0UVRvX19tNFdkai1tV1pZWkt2YXdlY2gxck5aSjJHM2k1RUFmZVBpYUhqNDI5RWU3UTZCODZIZUlfZ0tvUV9FUWZnbm83ZFpkN3NLOHl2cFVjSFhfZVphVlNvdFlINWpoQ3BSNWU1TFQtQVVhTnFXQkNxddIBqgF",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVpoOHprWXcxbkxtRGNDclhINEhxSUJBbEJUbE9QakhqLV9QcXlONGd0UVRvX19tNFdkai1tV1pZWkt2YXdlY2gxck5aSjJHM2k1RUFmZVBpYUhqNDI5RWU3UTZCODZIZUlfZ0tvUV9FUWZnbm83ZFpkN3NLOHl2cFVjSFhfZVphVlNvdFlINWpoQ3BSNWU1TFQtQVVhTnFXQkNxddIBqgFBVV95cUxNZlhxSDZfSmhDQUdnTm43U29BbnZYU0ZnVlA5b29aa0MyS0lxWGRwTkhUeVlnY3k3ckplaWpzWFFzN0pBVVVWek41azllaWdhMnVkdHJ6Mm9VcWpoam94Ui12d0NINUpVdzF3QnNQMlVhUmJMUXBFT0VkZkl5dHNqM0dkZFE5eUw4SDIxaGw4aUtYQUFOOWNDeEIxWVl0amIwekxjSFZ6S0lsdw?oc=5",
       "featured": false,
       "draft": true
     }
