@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-09-30T21:54:58.671Z",
+  "lastUpdated": "2026-10-01T04:27:07.397Z",
   "articles": [
+    {
+      "id": "news-auto-why-isn-t-lionel-messi-playing-today-for-2026-09-30",
+      "headline": "Why isn’t Lionel Messi playing today for Argentina vs Bolivia in 2026 international friendly? - bolavip.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azl",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-30",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azlGejYwR1E4ZHR6cVNMN2xrWFZFeUpn0gHDAUFVX3lxTE9qSWZ5cmhpM091RXlwcjVHaW1IUTNoSlBycURTdEppZkNwbEtwOFFuX2d3cjJ3WkJSMUdTcFdnM1FJanRqUzR6NjYzQUJrS0NUVWpnNW41SXJNTmltT01DTTZXdlp5cTVhS2RJY2ZPNlZBeGVGUDNqVWhyT0ZzcThDRFRKYUdfSzNCRlRTSHRJV09mWkpZYUk1b1pwMm1sZjRVRENXb3ZPS2JfN0xWN2Z2UFFxV2VRZlMtMGpmRWotVlpNSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
       "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - kmbc.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-30",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
-      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - kmbc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
       "featured": false,
       "draft": true
     }
