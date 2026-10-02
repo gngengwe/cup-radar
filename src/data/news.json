@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-02T17:32:18.036Z",
+  "lastUpdated": "2026-10-02T21:52:33.783Z",
   "articles": [
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-report-highlights-increas-2026-10-02",
       "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula' - ESPN",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--what-should-brazil-s-line-up-be-for-the-2026-09-21",
-      "headline": "🧐 What should Brazil's line-up be for the 1st post-World Cup friendly? - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzdUS1RuS3l3WHlhRzF5YzlQQUZ4S0VwcWNoeU5vNi0wako0a3JZelE2ZVVPTU84T1RRUHRrYjYzSzdvNWotYnZZTnFYdFFoX2F0YWQtd0FkU0laX3VLT0tEQUM2U2s3WUxCc0x6YmxQSEo4UnAwYU94TUxYUV9aVE9B?oc=5\" target=\"_blank\"&gt;🧐 What should Brazil's l",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzdUS1RuS3l3WHlhRzF5YzlQQUZ4S0VwcWNoeU5vNi0wako0a3JZelE2ZVVPTU84T1RRUHRrYjYzSzdvNWotYnZZTnFYdFFoX2F0YWQtd0FkU0laX3VLT0tEQUM2U2s3WUxCc0x6YmxQSEo4UnAwYU94TUxYUV9aVE9B?oc=5",
       "featured": false,
       "draft": true
     }

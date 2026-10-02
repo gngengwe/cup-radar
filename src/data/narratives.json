@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-02T17:32:21.092Z",
+  "lastUpdated": "2026-10-02T21:52:36.403Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 487,
+      "chapterCount": 489,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3914,6 +3914,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbE4zNVY2NUdwNk9xckRxZ3IxT3ZrZDc0REJsWHFPZDNXdEdsOE5aNmF1OHlYaUVoUkxpbl8zSy1Lajl1Ry1ueWJwRl83OUMxWllZNUFtSklwRkRranBHeTFUb0FwNFBjejUtVWpldHZ0eS13MkctQUl2M1BvMUY5Uy1EWVhIVjlJdGM3Snpn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790977954282",
+          "date": "2026-10-02",
+          "title": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team - WTNH.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVRPMUZsa292eGQ5b2RmOTluSUJVbHlrZXR0YlZXUk5ENGgzaVk4X3NjTFpqT215dmtJRmVHcGtwMGk3Z3Vod2NkY21RSW16REpOMUdUN1diM241cl9OZkZ6eFJWTDdiLW5BSHdvUDB4MEl2UW9UN3REdlZhVFdVWXBvMnFyWlVIYzVURC1kSFdMM2RNTWdvbUpGVndpUXM4OGYwczFmZWNoZlNzTF93d0dZR1MwaDZaTkHSAb8BQVVfeXFMTUZ4X1E1a1hhVGcxdG84Y1NrQzRfZndYTnpkTUt2UXZpZjBLT1VLM19iMGRjVGhOTEtLVTIybHZ1NVI2bUhvdG9pSFZFUFg2Rl9CamZoVHBybzExTjZjNVI3X1NCRFBJZ1Y4UjBpYW9JMzV6UDdDX05JRmU4STN1U3JzcGptNS1MZWFTbFZMRkVKT3dnVGxVUEVoU3pjR19JdDRkYVlVWURYSF9qa0FLbXNDaTlibUxRMUxRTU42ZEk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790977954282",
+          "date": "2026-10-01",
+          "title": "When Is Lionel Messi's Retirement Match? All About His Last Game for Argentina - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVR4eGdubmt5STBGMHR6dmZxRTlCNlFyWkJaOTR6cFZnWmRGR0NDNWswWmxoR0tiNGNtZWhDLWRjbGc4Nk1EdGRJTzNUb2tCaVRoa2IxdWJSb3pmSVRMR25wQXBMMTQ2NWl4dVBMc3RoVndkdl9GbVJtR2k5NFRabTlSZlVUSzM3aDJ0Zg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3932,7 +3948,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 413,
+      "chapterCount": 414,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7237,6 +7253,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTl0UWhzNTNVZmd6Z3F1T1VlWnFrTFFxcmdBX3lkWW9PVjhmVjNOYi0wUkJxY3c0UHpvektPSW1fZkRId2twbjZmc1oxYkV1d3hsOVo4bkZhOGdvZFFLYi1mYllOTG80THVCeS0tZEVNTk1BWFNhbHh3YTV4Nk1HQ1pzN3NxcTZkLWJ1Nm1VR3lXMEdyQWFtbHdKSGRMMTAwOWdpdjJIbXJLTXkzLWFFRG9wQTdMdnBEZUpqUw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790977954815",
+          "date": "2026-10-02",
+          "title": "France vs Italy: Confirmed lineups without Kylian Mbappe in Matchday 3 of the 2026-27 UEFA Nations League - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3I2TzFHa2ZlZTNuVFVIUmFyVkx1bVpmWlpkX1V4cEtDQXJ6M0ctX1E4QjRiQVY3MGd0ejJIUFB6Um1NN1RtUHpqRUF0dVBhaUtqLWdwclpmR2RadHNQbVVJMGlUMVV2R0JvdWxGYldIVWhXSjRUZEhGS0g3UnRvQWRkdnB2OWtIMjN2SHg3NDB2cG11bVlfNXBRNEhWTFV3VUswS1BVSUk2MlJkaVVvN0dyTHR4V2pWenBoM1BNMkZ6TmJzaUg3MXE2SzhFR2xLQ21DU9IB2AFBVV95cUxQQ3pDZ0FkMkl5TE11b3RxTndtV181bzBDaFpkbmFWbEhURmFWLXZrWFBIMzVuR1FvMTdfRzZ0S2pXTUYzVEFGRjV4SmRHYnhfM2pJM3prV2JYZW1iOEkwWVN2cXRldUNnQ0g3UWxvZ0hBOHdoQ2t5TVZwb1NLTmI4U256U0lwcEpNTVRuSFRMMV9yOUxCTEVGbFZKTnNtY0NGYTRrQno5dldyeVVNZFFFdjc0WEJ2QU5DQy1QTEN3LU8ta2Q1Q3hiQ2tyS3ZrZFVBT3E0N2FOZlc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7255,7 +7279,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1038,
+      "chapterCount": 1039,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15560,6 +15584,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNURRQ2hhazBlaXh2aGsxbDd1U01jX2M2Y09GLW9MRHU4MXhldHdGWG92dF9zZE14NXo4bmtPZjRmWWhnbVRYNURvNHpPN0VPejhwcC04eW5WQkFSOFF5ZkNERHg5SE9IOEVYQU1IZ0ZneXlKR3JYVUh3eUJoY19TLTB5ZXc3ZnlwZmJLWE93OC1SRVM3U2tGMlVSd3JiVUpMcHluSEVzVDBHRmtvXzFIWmgxSG9aNnVa?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1790977955287",
+          "date": "2026-10-02",
+          "title": "USMNT, Mexico, Canada in focus: Whose men's national team's future is brightest ahead of friendlies? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVURORWltbVhobnNvdTNyaHpwQjJzaVFQbHA4QnZNMHU3bHZDQUVMZ1M2YzlqM0V3eWF2bkVNVmpfV3ZWZUhvdjdDSkczTU1aUEJPelBERjRoODhPQ2pOV1VFMEVfQUtaTnlBakJJYkhZNkVlNzdZS2dDR1B3bGRKd2VyYnNzdG8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15578,7 +15610,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 685,
+      "chapterCount": 687,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21059,6 +21091,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZjdoUXRBYlJMTkVmb1F6QUJlLVN0QXktb0V5Tk5WWnJULTRrd2ZlNklJZ0U5LXYzRXoxcWRyOHlUMnNSUWVJbnRNNS1aekhUemV6ZXk3RVFTYk5UdGVzNHdBQzNidUlIRFdNb0gzS184ZmVFN2NCV2FLM2tXUGNRY0tmc1hlMEowTVJhNjBRVy1tMUxTeGluaUY1VGdCcUd3Tjh5N3drUkR3X2Jhc3dWZUFmMkk5bGg2NFh6UG9KeFBoODE1cFNDLVV6anp2T2hOS245c0ItQ2o5Z1RlT2dUY1RwbW9xVHZDcVVjUlFiOTJQaGNidGtCMFdkMU1yV29wNlN1a2JndGJQVFJvNzg0b1FhZ0hzYUhqR2t5c3A4MnI2REpPSWF3dVNISlhTd9IBswJBVV95cUxPc2k0NmxNeHJ5UGdmcHhOM3dCelVqNUtpNkdDWVhGZ2VaZnBlSFY1enUtbnY1bkNaZlFzQzVGM0xSRURWM1N6WXR3UC12V2h0Qk1uUUpLaTRvSFdyUUxOb1dMWUY5Qkxfa3dTRGU5MzdUak92WExvN2pIWXBMUUh5di1ua3ZBZVVZcmtJVG5DNWx2TDdMTm5tbzlnOUhCMDE3eURKMlBiWlBRVktDN2hvbDRCU2llMWVRaXM2Z0VCTldHTnZSTDlleTUzMnJWWk00Nk1FQmhiVEJuU01tZ1dZa1YtcHlqTTZieEZ4UFBXdkFCd3NKN0dTc1NoekJoUk5qNTlBWEtBTVItYzZBcEtlOE4yR0dZSFoxX3ZUNVhUdVlPSmRaTTVUSHJhYzFLSURLdFR3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790977955817",
+          "date": "2026-10-02",
+          "title": "Brazil bask in festive welcome in Kolkata ahead of India friendly - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3RRZjZKRDdBWDkzbk4xZ2NOQjhHbjBmRzk1Mno2YTRqOFkxTWFqcjdIZEo3amtpWHRnc0ZvX3A0RklDai1TOGVDV3REMVRVTmpfVE1kVEdJMFI2X1MyTDMwc2hPNGhtdEwwdFNnTGxLNHJtaE02TFBBUlB4bWNKUFQtdHB3OGZXekRJRnZjOC12eXItYWllX19lcXduTHo4RlZIZXNvc1Qydw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790977955817",
+          "date": "2026-10-02",
+          "title": "India vs Brazil football 2026: Know where to watch IND vs BRA friendly match live streaming and telecast - olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHVBdF84OHlkODNORG85NGJYRFF2emUydlZ4YjZ3Y0Vjd2lFaFBlN0pxam5nbXZ3azIzMTEyUUl1Smg1Ty1EWDRzREp2SGc5U25mMVJnYWJCSkVfUHNIQ0Z0VGsyOGREeHBOVVdRQmRrRlYtNlBoVVBWNG9YTnhmU0tWTzJyZHl6OUo5VS1NZXhVY2RSNlhiSmZxOGRLZWhxelBaT1l0RjkySEVjcXd3TXFn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21288,7 +21336,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 940,
+      "chapterCount": 941,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -28808,6 +28856,14 @@
           "title": "Croatia vs England Prediction: UEFA Nations League Preview - Opta Analyst",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FYczdCRUxzX3hYeUZCVlBoVUJhbGMyNlQxYnlheE9JOXBOTTFBb1hOcVJQQlRBMmw5VzYyUXhrWE5wcERwckpOcE5FUGdiaVNTZ1plTC0yaWNUX2xTTlNJeWE0WU5QRFZLZjJLTVp3aXlnSGFIbDBNU3ZOUFhpdldUNEFSNEN3c0Vfd0Z3LWZWZ0hLbWxQeE1tb0d0dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790977956403",
+          "date": "2026-10-02",
+          "title": "Anthony Gordon is Emerging as One of England's Key Players After the World Cup - nacionale.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0t1Z2ZoZDhrWXNWQmZETVVzRW82aWQ3VDdCZnpRcC1Jb0pEeUk4YWlob1dLUTRfUE5IMFVNTFJiNXhhUWE4dmo2bUo2RWdXM0lsSmNseDdqRmg5UHc2SnFDOHFFME83MjRQSHRiSzRDSEltYnNJUUcxand5bWNOcFhuWTJueUpIYk5EcnYwSUhfaHJRdnYyc0szZUFoWHV0?oc=5",
           "draft": true
         }
       ]
