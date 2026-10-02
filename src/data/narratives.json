@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-02T00:33:12.402Z",
+  "lastUpdated": "2026-10-02T09:24:51.940Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 486,
+      "chapterCount": 487,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3906,6 +3906,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXNSd3lGYXRfUnBRcDZtSDlvSXhTSXp6U1VaekE1UzFBdFBuQVFBaEJYNGQyeHJJamo2dmFEQ3J1NmRjNE9jWG1WZFZvMktOVEt4TFhRTkNmdW9oRnhPa1o5TS0wTmoyX1RRenNoMmZ2SkdYTWt6amtiZldBV1RGemVwMFI5QQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1790933089392",
+          "date": "2026-10-01",
+          "title": "How Argentina can still retire Lionel Messi's iconic No. 10 shirt despite FIFA rules - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbE4zNVY2NUdwNk9xckRxZ3IxT3ZrZDc0REJsWHFPZDNXdEdsOE5aNmF1OHlYaUVoUkxpbl8zSy1Lajl1Ry1ueWJwRl83OUMxWllZNUFtSklwRkRranBHeTFUb0FwNFBjejUtVWpldHZ0eS13MkctQUl2M1BvMUY5Uy1EWVhIVjlJdGM3Snpn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -3924,7 +3932,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 410,
+      "chapterCount": 411,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7204,6 +7212,14 @@
           "title": "2026 World Cup: Kylian Mbappé officially receives his Golden Shoe - Benin Web TV",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2lRRTUzUDRWbVVuR3l4bENrWmdTbzI5R3gxd0xJYlNUQkxwYW13SkNtbFhiS0QyZ2pJbHp6R0dnRjlLalFvakZTR0VkXzMtQng5a3B2dTdOUVY2em5sYVlycnY0TWVYdW5yNnNMOXVQOHZRellsUXY3eEpEc2F4NGR1THZWUTFPYjMxcXd6WjNFQVVZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1790933090131",
+          "date": "2026-10-01",
+          "title": "Dembélé: No issues with France teammate Mbappé despite Ballon d’Or chatter - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlRlNLM0NwQnpLV2dRcUFLX3RBUEJRNUE1bzU1Qnh3R3lmdklIby1hQ3hrV1J1MGhGMDVxVnJ4OUFmcFFZTE9RYUhMY2dHOVNVVzRTdTlOTGJSM3hna0tRSm9QelR6cmtBejB4OG1Qc1lrYmFSTzU3WWZEMFU?oc=5",
           "draft": true
         }
       ]
@@ -15530,7 +15546,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 682,
+      "chapterCount": 683,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -20987,6 +21003,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQndGUjBheWV5NUl3alV3RkF2LVE1YUsxalNpNXd4WWdhT2RhM2QxeDBWMXJNV3FDODZ1d2ZodEtaTzJSZE94M2RJRHM3WnAxbWNXSjVoYU52UVktcDJQX2NvOE45ZmhMSmk4cUswYWFnLW9kcmRfTTNoTFFjVmNWbGk2QnpMRjZWN2xLdUFGWk5zV056b200VWZTeGFKemZQeE5acmZqVGo4QQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1790933091184",
+          "date": "2026-10-02",
+          "title": "Brazil Coach Carlo Ancelotti Discusses India Match, Team Building, And World Cup Aspirations - Rediff",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGdnN3huRWZ1OExNY0RZX2RrNHJ5YTV4VHFrZWdxT1VKOWZOWkFVemtMdjRkOGNEZmlWbmFuUnczT0F1cC1SeUtXR2ZESWdLdy1sWGVPVHBGSnR1T3Y4SlVrMkxqWEs2eDlYcHdUMm9mYjFJQWhJcnlUOXdWQlJ0eTJIMjZtQndqMGozT2k5NlBseHlyZURqT295eS1tSXc5aHNXaUUwN0J4RUJ50gGvAUFVX3lxTE5iRWVXdHhLVWpnWTk5cHZBekloMjdiOFJwaGZTb0NvbmpWZGZraVJyT3NSaXZTbDhoVUZhR0h3azhMcjhIbmVLcWZWNjFWRkVjbUNrdVU0VUNUWDZmaXN0RjdxVEdESEE1c3FXRkVISTBTWXBQSS1HeHdibFV2ZjZuaV85WEhCc2lRdlFVMWIwNGc3RHBwbDI5eDQ1OW1zLS1fUEpKWnFsVFVEVm5ZSGs?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21216,7 +21240,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 938,
+      "chapterCount": 940,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -28720,6 +28744,22 @@
           "title": "Why is Croatia v England behind closed doors? - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUxHaUpRX012Vmo0Qjc0X2t0ZHEwNHpfOHE0UEp4T0tKajRUSk16WFVXZnhrRFpVTHl0VFZrdllLQzlNbXVIZnhEdERkd2lFUFFGWlE4dXVsUVJoSzBkQjEwaEczUnlRWEJ1aVJhS3pyQmZrRXhQZHRmdVdUckVWaFp0aw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790933091940",
+          "date": "2026-10-01",
+          "title": "England drawn against co-hosts South Africa but avoid India and Australia in Cricket World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0pYSkwtd1kzOUdvelFfcmhsZU5jQUhPc1lxUmdETnlFWlNOUWFvaGhzZDNiNjhOTE9RMExPeEZtZlRENnN5eW5ad1dKNG9MczRxRFZ6TENJQ2xSTjMxM1BBcHBhN0NnT1ctamdNWFZnMGtiTGJZZC14Um5Gd1ZFU3dvbTRJZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1790933091940",
+          "date": "2026-10-02",
+          "title": "Croatia vs England Prediction: UEFA Nations League Preview - Opta Analyst",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FYczdCRUxzX3hYeUZCVlBoVUJhbGMyNlQxYnlheE9JOXBOTTFBb1hOcVJQQlRBMmw5VzYyUXhrWE5wcERwckpOcE5FUGdiaVNTZ1plTC0yaWNUX2xTTlNJeWE0WU5QRFZLZjJLTVp3aXlnSGFIbDBNU3ZOUFhpdldUNEFSNEN3c0Vfd0Z3LWZWZ0hLbWxQeE1tb0d0dw?oc=5",
           "draft": true
         }
       ]

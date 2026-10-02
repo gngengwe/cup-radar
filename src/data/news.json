@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-02T00:33:09.573Z",
+  "lastUpdated": "2026-10-02T09:24:48.812Z",
   "articles": [
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
+      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-matches-bring-850-million-2026-10-01",
       "headline": "FIFA World Cup Matches Bring $850 Million to Bay Area, Report Says - KQED",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-21",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZExfNHVsRkdSU3VsSkFaLXN1TEloeGhILWh6dE9GTVM0X2lMeW51enQzb19RUzFKcE1aVmp3cWowbmZDUEVWM1B2Q2EzOF81S3luUGxvaDMzUmRKdUpSX0NQRTJpNmZnM3dQNEJKd3RPUGREYnVMSTF2bUFlUkE0eHJxWnVBUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
-      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
       "featured": false,
       "draft": true
     }
