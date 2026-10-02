@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-02T09:24:48.812Z",
+  "lastUpdated": "2026-10-02T17:32:18.036Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-report-highlights-increas-2026-10-02",
+      "headline": "FIFA World Cup report highlights increased tactical strategies but no 'winning formula' - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0QtcW5VVmc5UTN2ZVlXa09EMGROV2xDWnRxVTU3QUlHS1RUbExDeWN6MmZsYS1nUC1Lci1SX1BHVlc1MzVINnQ2Rmc1NmEtTHoyb3Z4S0N2Z2pobVM4Q1RKWFhkY1d4WnNZY2lEMm10MHFtMElGcFl5UFloODRDWVRwejhsczQ3WThiNXFkR0VZLTVTbW9nNjFPMk8yU1RCWUpSZEZJYzR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-02",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0QtcW5VVmc5UTN2ZVlXa09EMGROV2xDWnRxVTU3QUlHS1RUbExDeWN6MmZsYS1nUC1Lci1SX1BHVlc1MzVINnQ2Rmc1NmEtTHoyb3Z4S0N2Z2pobVM4Q1RKWFhkY1d4WnNZY2lEMm10MHFtMElGcFl5UFloODRDWVRwejhsczQ3WThiNXFkR0VZLTVTbW9nNjFPMk8yU1RCWUpSZEZJYzR2dno3eXBHLUtyTnYxdGoyY0dQVWxiZF9PMS0yamUxaw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-chief-sacked-after-criticism-of-inf-2026-08-17",
+      "headline": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1R",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1RPZzZGSWZCdFg2dnlrNUhENHZxZi1qYWE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-fire-department-drone-team-w-2026-10-02",
+      "headline": "Kansas City Fire Department drone team wins national award for World Cup security response - dailydispatch.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHdBRDd2NHlSTUpSVWM5OFN5T0tfQllFcHJtWDRiZm5GeDNOWTVHZlhKUTJiTFo5T0Jpa2xaS0RZeDIyemEzaDRsWGNZZFgzcF8ybVBtUHJCTHo0NUNTc1ltRm9uSmZ2ekJvdXhJY3J5RU1DVy1vNVRtVmZPcDZpSVlJbnpjSWRiVTMxdWRfVTZkUEN6bmNmTElYZWw2YmkzMTN5WlNyNUp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-02",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHdBRDd2NHlSTUpSVWM5OFN5T0tfQllFcHJtWDRiZm5GeDNOWTVHZlhKUTJiTFo5T0Jpa2xaS0RZeDIyemEzaDRsWGNZZFgzcF8ybVBtUHJCTHo0NUNTc1ltRm9uSmZ2ekJvdXhJY3J5RU1DVy1vNVRtVmZPcDZpSVlJbnpjSWRiVTMxdWRfVTZkUEN6bmNmTElYZWw2YmkzMTN5WlNyNUptQzJvaWFQd2hjTTBaQkpsdzdrRUZ1R1RuN3JwaUxaN2ZuUi1lbnc2Nmc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
+      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
       "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-21",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzdUS1RuS3l3WHlhRzF5YzlQQUZ4S0VwcWNoeU5vNi0wako0a3JZelE2ZVVPTU84T1RRUHRrYjYzSzdvNWotYnZZTnFYdFFoX2F0YWQtd0FkU0laX3VLT0tEQUM2U2s3WUxCc0x6YmxQSEo4UnAwYU94TUxYUV9aVE9B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-every-mls-call-up-september-october-2026-2026-09-21",
-      "headline": "Every MLS call-up: September & October 2026 international window - mlssoccer.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnJiUU9LeWR6UWVtMHJ5Smo5c1dvYWtmeUNDancwVmNkXzltLWkyYVN2cXZlT2ZRSTlEbDJvSTlic2VYSmp6Q2pzQ3RqRFNYeVp6Tm5fSWJRRUFaOWRHZ3FsWHdKTmUzd215aTc3R2p2TnZEYVEzeGJjMlViemhuMlJmR0N6c2hYSlBmaC1qZTIyLWxxM2Vr?oc=5\" target=\"_blank\"&",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnJiUU9LeWR6UWVtMHJ5Smo5c1dvYWtmeUNDancwVmNkXzltLWkyYVN2cXZlT2ZRSTlEbDJvSTlic2VYSmp6Q2pzQ3RqRFNYeVp6Tm5fSWJRRUFaOWRHZ3FsWHdKTmUzd215aTc3R2p2TnZEYVEzeGJjMlViemhuMlJmR0N6c2hYSlBmaC1qZTIyLWxxM2Vr?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spain-extend-de-la-fuente-s-contract-unt-2026-09-21",
-      "headline": "Spain extend De la Fuente's contract until 2032 after World Cup triumph - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkQwRDVHdTVnMk0xZjN4S2NtSmgwQUZWRDVlZmQ5M1JBdWVjdUpTMlhtM2tmWWFnMFhxOHBHd1Ffc0tLa3hqcVFYLU1WLXNWbFgzOUhKMFV3MnZTSENfRFk3ZkVXSXNSUkFwQ2dTQmNWbXh6Q0k1VzBWalRERjNqNGdVQUpIMjZLQ2lPc3c4QV9BZ3Z2LVVlY1lRNWRvMmlMSnBhS3B1Skd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkQwRDVHdTVnMk0xZjN4S2NtSmgwQUZWRDVlZmQ5M1JBdWVjdUpTMlhtM2tmWWFnMFhxOHBHd1Ffc0tLa3hqcVFYLU1WLXNWbFgzOUhKMFV3MnZTSENfRFk3ZkVXSXNSUkFwQ2dTQmNWbXh6Q0k1VzBWalRERjNqNGdVQUpIMjZLQ2lPc3c4QV9BZ3Z2LVVlY1lRNWRvMmlMSnBhS3B1SkdTcC1xOXNPeFQwcmZuVUd3cjdn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lamine-yamal-on-lionel-messi-the-best-pl-2026-09-21",
-      "headline": "Lamine Yamal on Lionel Messi: ‘The best player at the World Cup’ - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZExfNHVsRkdSU3VsSkFaLXN1TEloeGhILWh6dE9GTVM0X2lMeW51enQzb19RUzFKcE1aVmp3cWowbmZDUEVWM1B2Q2EzOF81S3luUGxvaDMzUmRKdUpSX0NQRTJpNmZnM3dQNEJKd3RPUGREYnVMSTF2bUFlUkE0eHJxWnVBUQ?oc=5\" target=\"_blank\"&gt;Lamine Yamal on Lio",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-21",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZExfNHVsRkdSU3VsSkFaLXN1TEloeGhILWh6dE9GTVM0X2lMeW51enQzb19RUzFKcE1aVmp3cWowbmZDUEVWM1B2Q2EzOF81S3luUGxvaDMzUmRKdUpSX0NQRTJpNmZnM3dQNEJKd3RPUGREYnVMSTF2bUFlUkE0eHJxWnVBUQ?oc=5",
       "featured": false,
       "draft": true
     }
