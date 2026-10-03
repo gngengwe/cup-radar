@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-03T11:11:27.697Z",
+  "lastUpdated": "2026-10-03T15:48:21.131Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7295,7 +7295,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1045,
+      "chapterCount": 1047,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15656,6 +15656,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlV2UG5sMTVxUzNwOFVtVHJqZjBZSjNaM0RHc2RTSE9YaDBmOFczUVRNTE5XY0k1VmVqaUZ3bGw1ZDZ5UUloMG1XdnpzWnlaZHJURlNsbDJCMmZUMkh5S21FakdSOXpaSlBJTEVXZ2YyaHM4R010N05KVFhleWVwTjRBeGREUUVWZHhUQmp3Z2E3M09kTGNNNmVoeTZNQXRMbkFEVk1kVUM5UQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791042499973",
+          "date": "2026-10-03",
+          "title": "U.S. Falls to Mexico in U-15 World Cup Super Round - USA Baseball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlhIX3RoZE10UEstLUZ6RkppeWIteU1LREoySVg0VkxvN3R5ajR1a2ZRdC1FWFMxS29VaTZkOVJhTmVFY2x2aEtVbGNMdUZ1c1pablFwM3JnbE1qWVpJYWpUT2IzZ1U3X3BNUjlpX2V5NDBBRnBuRGs5MzN0aGpRVHhFVjdfaHFZQ1E?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791042499974",
+          "date": "2026-10-03",
+          "title": "USA-Mexico Is A Huge Test For New Generation: 'Like A Cup Final' - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeV9Dam1NUUhtNThXa2tNajVIWXFVdXNyYk9OYXd5b2V3cVF4ZzVabHpnWmxyeXdlSF8zR2Zpd0NYUE1zNG82MVA5QnBlcmRLbUd3amZHd2dNNjlmTDBkYnlwUUdkdmRaZzR3Y0tYU1pydU1uU1hJUnRVNHRFaE94VDMzY2xZTjlJRFFJ0gGLAUFVX3lxTFB5Y3JPc3Rmb3FGT0ZHVzJ4U3pUNEJZeFQ5U0VLelNlbndjOVVzSVN3QUN0UlZ1QWdnRl9tS2d5eXVyWG42SmJ0bmwzY3E0TE9oR3puSjdXTXZ5aHMxaTFtQ0U5UHYybF9lMUhsSWp0MGRvZzlRWEhRanZidWI2NFUyUEF3dkdHV0NsY2M?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15674,7 +15690,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 688,
+      "chapterCount": 690,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21179,6 +21195,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnJ6eUphZk82eGRkNHFoM0dIM21HX1pKWm56MHU1bzFXT291eXJlRWxNa2RMODJRdzh1bWRvRTdOcWd4RE9YVlVnUk5TZENFOEgyc0VCQ1J3MWd5SjZEc1N4Y1lLNGtEUHYzb3E4cFMtdGEzdDlvaUd2T3ZYVG1zMkFMLWxyTXZrejU2VQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791042500680",
+          "date": "2026-10-03",
+          "title": "LIVE BLOG: India vs Brazil | International Friendly - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0Y5Zi1jNnhiem5LVUROR3YwNUp1dHd4OVA0ZExNeEhEdm9icHQwb0FLMWllYkJUMkdVX1J1QUZ3Zi1xRk1BbGpKMmV0OTB1SlZ2SVZqNVJteDUzSF9zd0tRbkRiUlg5VHEwX2M5MlNUWGNvaEVqOC1FUzFnZ2N5N0JSUTNiOXBHZm5HV0JpYVMxcEowMUZhN1ZDbl9pU1dIUXJXTjZwX0E1VkxXZG1iVEJYdXlrN01VMmZv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791042500680",
+          "date": "2026-10-03",
+          "title": "India vs. Brazil Lineups and Confirmed Team News for International Friendly - Athlon Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUstcTZlemhFZVpkYUNGUFFodDc2bTNZWEs5SF9pcHJBZmVKamxDTXdKNnFnYkY1bXRBRWxWZkcyNU9wMnpFQmNFOVNNbUE3VkU0dkU0MHB4N0NqUTZITXpuRjRtNXBCODdlWE9XWlhoN2hvcmQxQ1ZZelB6aVlCSlduYnFtSlQ3Znp0QUU0Nm8tWHdNb1MxSUc5Vml1Z1lVSXAwRkJaU3JJdw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21408,7 +21440,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 944,
+      "chapterCount": 945,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -28960,6 +28992,14 @@
           "title": "Will Croatia vs England be played in empty stadium? UEFA fan ban explained - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTE1hYnFWa2Nqck52ajdGaldiU3Y4SmFsTTBlQWJoUjN4c2NMQ1pUZHhYNU1tazJsUWNxbXhXekdUU2liMEtEYW92b1EzamVxNTd2Q18yc1hQUWdjSkNlWmNzbkc3YU1hSXF6bm9Sa1FZVVlUb1hjcGk1MENYQ2dMeHU4emxGams?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791042501131",
+          "date": "2026-10-03",
+          "title": "How to Watch Croatia vs. England on TV, Live Stream - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHhvSFVsOE5UbGR3d0xuNEQ1UnJMQXdLeDV3cE9tUUhPWmc2OHJKNVl0ZWtja1NvNVplSXhZRDdac2ZXS2NVTlRORTV3bmI1RHRHbWhtUVdUNFhvNnROTmFDZFJORmdBU2ptb3JkREQwX29BanJyalE3ZXY5R3h5RVlSVGlnU3M?oc=5",
           "draft": true
         }
       ]

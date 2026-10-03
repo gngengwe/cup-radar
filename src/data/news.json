@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-03T11:11:24.621Z",
+  "lastUpdated": "2026-10-03T15:48:18.439Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
+      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-what-world-cup-s-main-characters-did-nex-2026-10-03",
       "headline": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree - The New York Times",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMkcyTDJpam5EMlp5ajZjSVVrM0FITUtnblU4SVdNaGcyUWloTDFzajJGWDJJSXBseFZpa0VYSzNXTkJlRWFReUkySGgwekZ3ZlprNjgxQmJFNjQ0ZGhRR1E0cnVQZDRFX2pEcnNSUnc1eFF0TjZMejh1Z3QtLTlJZUtaTDBSTTVlTVVoR0FLQ0JQemtEQkQ3Mi1sOURQWm9tN0x1YjNMYngtTW9aOHA0N0JCQmRYVWpxX3dpXzBsRjViY2VZdWJKRXVtWFFVVEJIMVVieHJrbzRic1NDUEEtZlFFQlQzdkJtRFBkLXFkbkk0SW8zQXZ4dFpNck14Tk4xTmZ4bmpqbjNyM3lna2RGUWtNbnJVZmFDSW12YjladFFxdEF0aWU4OVI0WU5UNEVqd0daWmZpaWFYSkxGa21j?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-south-american-international-preview-mes-2026-09-22",
-      "headline": "South American International Preview: Messi Era Ends As New Eras Begin After 2026 World Cup - sports.yahoo.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2ttZkNXQjV6Zmh5RDE1UjZGZDhDSHdDY043emZLRk41TU9aWjFFc1A0OHRpZGtnXzlnaER4UHFTQkhSTm8tdVpOam02N1pLZHdkbmF5WkwyNlhFc1RwcFQ5YVZRTGFTaDJ2M0Z5Q2pvc3cycndmUkVRR2NYM3hvbUJLblZvMGpwLVJOX1BVenpIM0JJdHc?oc=5\" target=\"_blank\"&g",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2ttZkNXQjV6Zmh5RDE1UjZGZDhDSHdDY043emZLRk41TU9aWjFFc1A0OHRpZGtnXzlnaER4UHFTQkhSTm8tdVpOam02N1pLZHdkbmF5WkwyNlhFc1RwcFQ5YVZRTGFTaDJ2M0Z5Q2pvc3cycndmUkVRR2NYM3hvbUJLblZvMGpwLVJOX1BVenpIM0JJdHc?oc=5",
       "featured": false,
       "draft": true
     }
