@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-02T21:52:33.783Z",
+  "lastUpdated": "2026-10-03T11:11:24.621Z",
   "articles": [
+    {
+      "id": "news-auto-what-world-cup-s-main-characters-did-nex-2026-10-03",
+      "headline": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnMyMUFuX1hEUXpGQWZJYTZESERuR0xaSzgwMWtacHcwbWhVLVhMdnExaDhGaHljaE1MY29mSDB0Tmw2V25hLXNKcTJ5WGJmM2pZLVhxTklMS25oSkZiNUtsY0VTeURiUEgwN0lSY1c0NlJRSzV5S2RHWGdKeFVUSHAtQ0VIaEE?oc=5\" target=\"_blank\"&gt;What World Cup’s m",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-03",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnMyMUFuX1hEUXpGQWZJYTZESERuR0xaSzgwMWtacHcwbWhVLVhMdnExaDhGaHljaE1MY29mSDB0Tmw2V25hLXNKcTJ5WGJmM2pZLVhxTklMS25oSkZiNUtsY0VTeURiUEgwN0lSY1c0NlJRSzV5S2RHWGdKeFVUSHAtQ0VIaEE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-u-s-u-20-wnt-head-coach-vicky-jepson-nam-2026-08-19",
+      "headline": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - ussoccer.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWRzazVSb3Z2SFJNT1FSeGZ4dWlpSENVcV9YMHJMVjlqR3RoUDN2bi1HcXp5YlNUOE9oYUtfMVJqYUFoemExSmZGNV9qV01mSkVGUnl3Vm9uTExpcVVncVRLYktMRUM3V2tzTzEwWmc3RC13elpQeUQ3a255eUlaVjFOWHdqRDYyYXJIQXd3SjV4X1BBaFlNNF9Ma3JWcDJYZmstaXd0bk9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWRzazVSb3Z2SFJNT1FSeGZ4dWlpSENVcV9YMHJMVjlqR3RoUDN2bi1HcXp5YlNUOE9oYUtfMVJqYUFoemExSmZGNV9qV01mSkVGUnl3Vm9uTExpcVVncVRLYktMRUM3V2tzTzEwWmc3RC13elpQeUQ3a255eUlaVjFOWHdqRDYyYXJIQXd3SjV4X1BBaFlNNF9Ma3JWcDJYZmstaXd0bk9UcXpHRDJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
       "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2ttZkNXQjV6Zmh5RDE1UjZGZDhDSHdDY043emZLRk41TU9aWjFFc1A0OHRpZGtnXzlnaER4UHFTQkhSTm8tdVpOam02N1pLZHdkbmF5WkwyNlhFc1RwcFQ5YVZRTGFTaDJ2M0Z5Q2pvc3cycndmUkVRR2NYM3hvbUJLblZvMGpwLVJOX1BVenpIM0JJdHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-news-and-live-updates-usa-2026-08-01",
-      "headline": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans - Sky Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQXYxVHRsWWN4TVFEZHByMTNTc1lFakpNTDJKUW83ZlFtTnZkTVdYSkx0MjF5dVh5NGpGcWtMWGpibm1aQUpjS1V0VGVPQkxvN3o0Y1VLQnNxWWZmR09YMlkzWFRBUGYydFM1YUxnLXU2LWlCenNOak80b1ptbWMzcTFZZkxMQ1dHc0ZpRDJQeEZ1a25hTkJjaDhfN2kzSlgtdE9LMkJUNC1",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-01",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQXYxVHRsWWN4TVFEZHByMTNTc1lFakpNTDJKUW83ZlFtTnZkTVdYSkx0MjF5dVh5NGpGcWtMWGpibm1aQUpjS1V0VGVPQkxvN3o0Y1VLQnNxWWZmR09YMlkzWFRBUGYydFM1YUxnLXU2LWlCenNOak80b1ptbWMzcTFZZkxMQ1dHc0ZpRDJQeEZ1a25hTkJjaDhfN2kzSlgtdE9LMkJUNC1oR1hRSnZuZmVEUXFMYjhBUHI4STJjSVRtYkxoS1U3NkdLNHBpLUg3ME9Lb3otZW1IYmlmMkNlRS0zdXBLMHM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
-      "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEZjekl1Ujc3Z2lMSm5uTmR4allDeXp3VlFiMlNpVWsyQ0pNcndLbTdSbVVrWHZlMWFGcEo4c3NpTzhTUzNseE5SSGlJd0g5MElPdUpQNEs1ZmVWMzJHM080SC1qaFcxOUhmSGw1Z1RLT29OQVBNOU1zbk8xUldjMmJrWTVTOHA1ODRnYkFyTzFrMGxuNWFjU0VRLTdudFByanBOeVZCajNkeC14WHc?oc=5",
       "featured": false,
       "draft": true
     }
