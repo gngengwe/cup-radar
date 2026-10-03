@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-03T15:48:18.439Z",
+  "lastUpdated": "2026-10-03T20:39:18.130Z",
   "articles": [
+    {
+      "id": "news-auto-roberto-alvarado-s-other-side-fifa-highl-2026-10-03",
+      "headline": "Roberto Alvarado’s other side: FIFA highlights his impact at the World Cup - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2lEZ05TMDJEbVJrb2k2WV9oMUJHNldwdXlhSWVwUjBJNE8tdG1Ld3QyTThOYVVzZzZobTctNFJGZnhuZ1JfMHU4OUdPOEQ0UVU4QnpzdXNLbnJ5X19VbjRvVXdoSUdSeVJ3Q212VnBuVUlhNld2SWJXRXY2eXJuZFJ3OVFkcFI1?oc=5\" target=\"_blank\"&gt;Roberto Alvarado’",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-03",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2lEZ05TMDJEbVJrb2k2WV9oMUJHNldwdXlhSWVwUjBJNE8tdG1Ld3QyTThOYVVzZzZobTctNFJGZnhuZ1JfMHU4OUdPOEQ0UVU4QnpzdXNLbnJ5X19VbjRvVXdoSUdSeVJ3Q212VnBuVUlhNld2SWJXRXY2eXJuZFJ3OVFkcFI1?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-s-world-cup-capacities-make-arrowhe-2026-06-11",
       "headline": "FIFA’s World Cup capacities make Arrowhead Stadium smaller than for Chiefs games - KCTV",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-world-cup-festivities-generated--2026-09-22",
-      "headline": "Seattle World Cup festivities generated $889M, hundreds of millions above expectation - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOMkcyTDJpam5EMlp5ajZjSVVrM0FITUtnblU4SVdNaGcyUWloTDFzajJGWDJJSXBseFZpa0VYSzNXTkJlRWFReUkySGgwekZ3ZlprNjgxQmJFNjQ0ZGhRR1E0cnVQZDRFX2pEcnNSUnc1eFF0TjZMejh1Z3QtLTlJZUtaTDBSTTVlTVVoR0FLQ0JQemtEQkQ3Mi1sOURQWm9tN0x1YjNMYng",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMkcyTDJpam5EMlp5ajZjSVVrM0FITUtnblU4SVdNaGcyUWloTDFzajJGWDJJSXBseFZpa0VYSzNXTkJlRWFReUkySGgwekZ3ZlprNjgxQmJFNjQ0ZGhRR1E0cnVQZDRFX2pEcnNSUnc1eFF0TjZMejh1Z3QtLTlJZUtaTDBSTTVlTVVoR0FLQ0JQemtEQkQ3Mi1sOURQWm9tN0x1YjNMYngtTW9aOHA0N0JCQmRYVWpxX3dpXzBsRjViY2VZdWJKRXVtWFFVVEJIMVVieHJrbzRic1NDUEEtZlFFQlQzdkJtRFBkLXFkbkk0SW8zQXZ4dFpNck14Tk4xTmZ4bmpqbjNyM3lna2RGUWtNbnJVZmFDSW12YjladFFxdEF0aWU4OVI0WU5UNEVqd0daWmZpaWFYSkxGa21j?oc=5",
       "featured": false,
       "draft": true
     }
