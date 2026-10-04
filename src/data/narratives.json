@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-04T11:51:05.458Z",
+  "lastUpdated": "2026-10-04T16:31:50.726Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 494,
+      "chapterCount": 495,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -3970,6 +3970,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnlBYTlYYWVDeGF5SEFIVnp4a09CdUpvb0ZZQnhUcnJaVDNJQ21nZHhpR0ZvUzh6Z0VsUDlGX29ZYkJubGtwY3RFVjVxZXdFaHVIYVJUZVVlNllnZzNzZGdGM1NLRklURG5GcDN3bVBBV3ZSNW1HYmJMdGdOSGZPNktVNkhWVXZTOHRuQ3EycGE2OEJLSGxhQkFtQjI4d2tKd1hvXy1xSE9qZm1VeXhROEFlbEVmRkRiUTVwamcyS01LUUdtcWZQMk9MenB6ajV1LUFQVlRyMF8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791131508490",
+          "date": "2026-10-04",
+          "title": "Messi farewell closes a long, hard-won love story with Argentina - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamxEY05udmVFd055MWhoUE1oOGdEN19aRmRBRldPZlo3b3V6dGl0N2h2dlQyUWNiajhMd3lldmQyd24yT3BGNEhmTFlhbXBKaXBrQ2p3MUF4T3pSUWRHQS1LR3piTmhlZFRVU3lzQjBYZVhacnpDRmdtYlRWblZOUDNURTVueG84WDFKeDBoeWxBU2lDWVMtWjJheFpOREswc01HWk5BdzYxeXBmbDhpYg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7327,7 +7335,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1052,
+      "chapterCount": 1053,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15743,6 +15751,14 @@
           "title": "USMNT victory over Mexico, youthful surge give Pochettino, U.S. fans much to celebrate - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUNacDhNV0o2MjVFdjdBOVY0T0RCWmJfa0pmVmQxbUlpbDBlbG56ejI3ZXFSREd3ZUpMSG1RQnczUU85SnFFbzgyUU1tZnlpR1c3T1NVREJNc185Z09uc2ZxVHk1eUtvZkJKS3JrVGR1cWlGU3hKcl9EV2xQa2FKaXBFczF3QXNHZDJMT0xVMFlvTVBVN01Zb09ndndyZ29DNXZtUHlFWXpGY2dY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791131509499",
+          "date": "2026-10-04",
+          "title": "3 Reasons Beating Mexico Is Pochettino’s Biggest USMNT Win Yet - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVFiNzRvVkE1a2psS012QlNVWHFFMG5oNTNFZnRCNk9PTEZLcUdYRXJILUVmLWdEMGpoa3pab2tId1BrZ2JjOW9PRjZWeVJwOW5uU3c1c0RoaFhLTllIMFlhc04teGM0cGRBc3kweGhTSEk2bllqTG1tSHVMTHdrZE5mTGZIdnRLaEFMZg?oc=5",
           "draft": true
         }
       ]

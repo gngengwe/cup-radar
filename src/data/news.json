@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-04T11:51:02.655Z",
+  "lastUpdated": "2026-10-04T16:31:48.011Z",
   "articles": [
+    {
+      "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
+      "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-08-19",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-visit-seattle-reveals-economic-impact-fo-2026-09-22",
       "headline": "Visit Seattle Reveals Economic Impact for FIFA World Cup 2026 - Visit Seattle Washington",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-infantino-s-world-cup-sell-off-debacle-h-2026-08-07",
-      "headline": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-07",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?oc=5",
       "featured": false,
       "draft": true
     }
