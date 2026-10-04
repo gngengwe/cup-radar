@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-03T20:39:18.130Z",
+  "lastUpdated": "2026-10-04T04:35:07.868Z",
   "articles": [
+    {
+      "id": "news-auto-vozinha-is-not-thrilled-with-post-world--2026-10-03",
+      "headline": "Vozinha Is Not Thrilled With Post-World Cup Fame: 'I've Lost My Peace' - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2JNXzA0M3RWbU1fNFJfbG1LejktRGlXQUFtU01uTVYtcFFxOFNvNXVWMnBHTkNPMW1SZUc0ZjFwWktoSHYwOVJqRTFseHlHcEU5Y2dSS0tjUWl4UzNTdGY3MzNzbzVFS2RzTHk4TDVFaHR0VmEtSUlqWW9ZTkhhLUlCZmxCblE?oc=5\" target=\"_blank\"&gt;Vozinha Is Not Thr",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-03",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU2JNXzA0M3RWbU1fNFJfbG1LejktRGlXQUFtU01uTVYtcFFxOFNvNXVWMnBHTkNPMW1SZUc0ZjFwWktoSHYwOVJqRTFseHlHcEU5Y2dSS0tjUWl4UzNTdGY3MzNzbzVFS2RzTHk4TDVFaHR0VmEtSUlqWW9ZTkhhLUlCZmxCblE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-roberto-alvarado-s-other-side-fifa-highl-2026-10-03",
       "headline": "Roberto Alvarado’s other side: FIFA highlights his impact at the World Cup - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-15",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVFDYTVacHdvWk5MaFVmc3pyUVZ2elJvbFU4SlJnR0NUQTdTVWJ6MjVXVi1Pd2EwWTRDLXFUWmh2SDFNQTYwUE0tc1JFRU5tLTFJYTRub2c4OWk5OHAycm5oNHZvX3g0ZjVidGVHZGkzTzRhX0dUQ1NBLVpqaHQtLWFkcmNaMlBvUjZLRUxyeUxMUk9ISUVwaGFLTUFDdDVZdzZpbjNxTmRmTnfSAbABQVVfeXFMUDVDaGJCd1ZfZzFsc1o5dW9mN0hWY2xSWlY2Yk55SkNOOGhUTVJsczcxdzlfMXpWNHpuQlhXQnE3cjlsazhxZWstVXdPbmg5Z096Ml9Wd3FiUGNuZ2YxVWdiMkxyaUJDYlZDcENJU24tSnhCaXp1S3M1QnlXb051eG45V19RU2p6bmJ3TXp0cnctZVdnRnlCSEttLVlzbnZwMDZIWUlLZV8tc1BidVBMV1I?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-visit-seattle-reveals-economic-impact-fo-2026-09-22",
-      "headline": "Visit Seattle Reveals Economic Impact for FIFA World Cup 2026 - Visit Seattle Washington",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5\" target=\"_blank\"&gt;Visit S",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5",
       "featured": false,
       "draft": true
     }
