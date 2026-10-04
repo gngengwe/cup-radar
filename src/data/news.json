@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-04T20:55:05.802Z",
+  "lastUpdated": "2026-10-04T23:50:31.887Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-king-county-sees-889m-in-economi-2026-09-22",
+      "headline": "Seattle, King County sees $889M in economic impact from World Cup - FOX 13 Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
       "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - pbs.org",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-31",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENXpXZnI5OGZpSlRmc2hBdUprRWY5UjdtOVFQc0R4Q0RCZGxEcTBhellQRUgtUUUyUGxZN2JBNVBQR3hDbGdiclRDa3ZTSjF4WUNJaUZpQ1BxcTJJV2JCRGRpQzFKWkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-trump-s-fifa-pal-in-trouble-as-plan-to-s-2026-08-02",
-      "headline": "Trump’s FIFA pal in trouble as plan to sell off World Cup collapses - Salon.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmRxYVIxMVVtVXJJZHdiR0RMRk9BZHRZMmlqdlJEZlExY2RuVmlpbkFkbFBEVFo3Y3Q5YkNYczlpdXFDRElCcFRHYkFVcjhsd1NiUzZrUTFRc3pIUUx6REh0cVVtVV9FUWtRdjY2cmMySHlNZFQtbTk0ajZkdnVlQU5jZDgzY1RiTFhGVmFURDBwXzVoTmhsNlBXblpYWndjOUE?oc=5\" t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-02",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmRxYVIxMVVtVXJJZHdiR0RMRk9BZHRZMmlqdlJEZlExY2RuVmlpbkFkbFBEVFo3Y3Q5YkNYczlpdXFDRElCcFRHYkFVcjhsd1NiUzZrUTFRc3pIUUx6REh0cVVtVV9FUWtRdjY2cmMySHlNZFQtbTk0ajZkdnVlQU5jZDgzY1RiTFhGVmFURDBwXzVoTmhsNlBXblpYWndjOUE?oc=5",
       "featured": false,
       "draft": true
     }
