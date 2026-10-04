@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-04T16:31:48.011Z",
+  "lastUpdated": "2026-10-04T20:55:05.802Z",
   "articles": [
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - pbs.org",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-defender-katie-scott-named-to-usa-s-2026-2026-08-19",
       "headline": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-02",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmRxYVIxMVVtVXJJZHdiR0RMRk9BZHRZMmlqdlJEZlExY2RuVmlpbkFkbFBEVFo3Y3Q5YkNYczlpdXFDRElCcFRHYkFVcjhsd1NiUzZrUTFRc3pIUUx6REh0cVVtVV9FUWtRdjY2cmMySHlNZFQtbTk0ajZkdnVlQU5jZDgzY1RiTFhGVmFURDBwXzVoTmhsNlBXblpYWndjOUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-pioneer-square-business-ready-to-bring-w-2026-09-22",
-      "headline": "Pioneer Square business ready to bring World Cup energy back to Seattle - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
       "featured": false,
       "draft": true
     }
