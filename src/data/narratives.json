@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-04T04:35:10.889Z",
+  "lastUpdated": "2026-10-04T11:51:05.458Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7327,7 +7327,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1050,
+      "chapterCount": 1052,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15728,6 +15728,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUhHOXh1UW5DN1pORUVJTE9qU0VpdURLWU9XN3MtNTZCU0t4U0d4VGlmemRLa3hhNWd3aU5pSTVza0oxX3FzZGJOYUtSR3I2MThfYVdKTW02bTBRdnRfZWRSWGxuTlROQ0dQd2dNTEF4VVVmRk1iSHE0VDVVQ3I4SnpaN3k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791114664416",
+          "date": "2026-10-04",
+          "title": "USMNT vs. Mexico: Match Recap & Highlights | International Match - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2pUdnFoS2g4V3Zadmd5UjM2TmdzMWlUUUJydUlqcW5MWXJ0UFhJNUw3b3BuWDBCUkdJTUUtWXd1c25WQUxIb2liM01iQVJmREFmenRoWG03c0p1anBZU1Z0dHhPa0E2eFFTTGk5aldFQmVBS3RMSVRBbURCOUxsN1VDSzdGSV9aOHdXNDhFcUM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791114664416",
+          "date": "2026-10-04",
+          "title": "USMNT victory over Mexico, youthful surge give Pochettino, U.S. fans much to celebrate - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUNacDhNV0o2MjVFdjdBOVY0T0RCWmJfa0pmVmQxbUlpbDBlbG56ejI3ZXFSREd3ZUpMSG1RQnczUU85SnFFbzgyUU1tZnlpR1c3T1NVREJNc185Z09uc2ZxVHk1eUtvZkJKS3JrVGR1cWlGU3hKcl9EV2xQa2FKaXBFczF3QXNHZDJMT0xVMFlvTVBVN01Zb09ndndyZ29DNXZtUHlFWXpGY2dY?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15746,7 +15762,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 693,
+      "chapterCount": 694,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21291,6 +21307,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalhOdHA5QTZ2SlJoMlZFak5xYUZZS3hUMG5FUTZORXdBM0FmWVJPWm1KZ2thTTFhZ01UdnVHRmNKY3F5VUFUbElhd25JT1ZITDJ2MmJfbDlBVERsM3F2cDZiczUwcGtzTU94SU9NMzQ1dXR1ZVF6elAxd1E2MXBTeVNxaw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791114664886",
+          "date": "2026-10-04",
+          "title": "AI imports. Brazilian logistics. The New Left watching the 1966 world cup & “white heat”. - Chartbook | Adam Tooze",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUnoyWHRRakVtMURDczQweEgzRkg0RmtmcXVyS2RFdVBYVmJfSEFpZjhnTEhhTWhDeFAtTE5sWXhUcDNQc25GVUxfcENDcWVBX3hrV1NTdTFvOHFUSEd5Y0hwVGFJQ3lEZ0dyX2JnZ3M0MW1ZZFE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21520,7 +21544,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 951,
+      "chapterCount": 954,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -29128,6 +29152,30 @@
           "title": "England Puts 7 Goals Past Croatia As Kane, Saka, Bellingham All Shine - FOX Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUhtOVkzem5jQWR3MDB5RzhiNHZWNUo4Q0VFT0NwTUt6ZnFKRHh1dzY1bllsZ3lGb1lEbkVJMy0tUjdOQkJsS3owU1BNQ0IzVm1zcEo1ZElERURFOHZPanpaZm5adnMxdXE4dlJnNDg1dGlFZzBhdlF4RkNzVGlXNlNHNUNBd0p6ZkRIU3BiTFpMakZOVjhJOTYtb2JDdDFRTHdpcngzWGJnNVR0cDFwdVA0bDZMQdIBtgFBVV95cUxQdXphUEZGdW5NMlJBS1dORnQySlFCT2lTeWFmdVI0WU41akJCUTFwUHFUSGNyNDNqS0xnb3R0NG5DNkVNVS12N0tkemZ3LThCUFFGSUVvS2FUem1ZTFMzTEpuQ001VUppMWZrOGRBcTJNajNXeUpla1BZMlRsLVJ4UXJkYmxEOVpwdlI1ejhhQXgxVDZpbXR6YzZCcXBuNmJTcGlmYTdBdDJvRkxDWVJfWHN0bU1RZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791114665458",
+          "date": "2026-10-03",
+          "title": "England thrash Croatia to put World Cup heartbreak firmly behind them - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWlXNjlWanJhZUhjY1hvOG1JOWE4WU5PbjNhQzk1S1M1TkNpZ09BRlVSazc2MGg2dElEOVdrTkp3WlVFNkxnemdlaGRrSXh6bDEtOG5aOWxnb3pweEh0Rnc4TUZJMEtrN2hMWjdMakRvbm1QdlltTHhoWDg5N1RCRmNyN0xQYUY3UExNT1hMUWF3WG90WUozQWRxN1JUZHByNVdXR0dIMEFDVjg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791114665458",
+          "date": "2026-10-03",
+          "title": "Croatia 0 England 7: Ruthless Kane, Bellingham, Saka and Gordon demolish Modric and Co - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0FrbVAycXFhYVN3aVpYOU5VQ3JuY0RwWVlUc0l1Q2hDWWxKLVFSZGxqYjlmTm40Z0UzNkljRnJBeHA1cGlSN2FObVpicnF6S29NclA3ZHo0d3pJVU5SWmk0Y2FmV0FEMUtxYU1Cc2ZORzBBUllBdnF1bjY3bWdvaVBHaTFfbDJORlBVYXdlVVExeVhZM0cxZFBIVVZQMUNMdGh1V253?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791114665458",
+          "date": "2026-10-04",
+          "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHRuOVF6aUNTQ3JHLU1iZXBuRmlaczlTTWIzMTE0dzhfN0RwZE9WRWxGdWZLbjNpdk42c2dXQ0taRW9RY0UzOFprVV9LVDdjZ3Q0c1hJbkplMFdoUFhTYU8yNlFLcmNZaVpYWWhCalgwaG1jMjZocGc5SHRQOHhuMEtGS2xGY1BnZVhEcm14d3ljTjdJM0ZyU2JEaVQwcHJHNFJPV3hEMWpFNzh0M2lsM3JSVkprd9IBuwFBVV95cUxPRC1KR2Y3eDIxc3FxWGgwaFJ3dzFLUU5IVURBbFFub1ZrTzg0TGRzS2hzR1Zya25oR0xScmM3MDFScUZYd2RIMlROWjdCbk4yTW9lWV9paUNzbHdnOFJKc1gzTkhxajE0QWJaQWJSU2ptbUFFM2xnbGxHVkwwS25iaGVCNjkxUW9RdGxsaU8tQ1RhRnF5YVFsMGtmY3Yzck1zMEtRWHlheXNleHRzc1dmQmI3aTlzSFJuaXEw?oc=5",
           "draft": true
         }
       ]
