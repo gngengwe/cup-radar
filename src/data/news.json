@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-05T04:21:11.476Z",
+  "lastUpdated": "2026-10-05T13:45:14.738Z",
   "articles": [
+    {
+      "id": "news-auto--this-is-why-everyone-around-the-world-h-2026-10-05",
+      "headline": "‘This is why everyone around the world hates America’: Canada coach addresses Donald Trump World Cup incident - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWVqOUwtQUpTcC1sSTRNMm1SMWlZS0ZuanJ0Qllvb2FwU0JmdEZTamNWUXB5b0ZpS2lPQUVfU0VLSEVNcjR4QVRjeElleHN1aVF5SFhEazZ5R2h5NHpfeFdXWXBVQkVuQWh1RHRFdHBQYXhROFJicGRhNHRYVHlvc2FkbmNqS28?oc=5\" target=\"_blank\"&gt;‘This is why every",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-05",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWVqOUwtQUpTcC1sSTRNMm1SMWlZS0ZuanJ0Qllvb2FwU0JmdEZTamNWUXB5b0ZpS2lPQUVfU0VLSEVNcjR4QVRjeElleHN1aVF5SFhEazZ5R2h5NHpfeFdXWXBVQkVuQWh1RHRFdHBQYXhROFJicGRhNHRYVHlvc2FkbmNqS28?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-where-to-watch-fifa-world-cup-2026-week--2026-06-15",
+      "headline": "Where to Watch FIFA World Cup 2026™: Week of June 15 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5\" target=\"_blank\"&gt;Where to Watch FIFA",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-15",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-on-fox4-games-watch-parti-2026-06-16",
+      "headline": "2026 World Cup on FOX4: Games, watch parties, programming on Tuesday, June 16 - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDZHc3lsYURNd0hYQ2RRM3pROUNHZUk5ZGNsdmxkS0Z2N0NkUDY3QzBzUk04bUlqQ2JTU3NSNjVXc0dtTmtLd1Z2WjJMLWhXRVp4NHh1X2V0b2tqc3RXUmUtUTBRY1JxY3MwLXpHQkM5Y05tbTRrR0lMMnF1Y2ZiSE5BZnZzRHlEWTJSS3g4bXNiUmpFOVgyYzV4ZndxVWw0S1NXaUR3Tmw0R05Pems3dWR3c0pYUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
       "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-15",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZVJObXZ2RDg1RTB4UWlGRXZ2T2txQVRUQ2VoQXdBZ05XUVNGQUZVZm1lYkMxSkw0UkVKck1TNGIyZ2hFZFJ1eWo0TXB6ZDl3VnpqUEpwSWxDWFNxZTFlS2xRNG1obzVLVEw0WENTMXdTX0J0SHpNOTBMRzhmUTVpb1ExNURHb1dneU5wMXFUZC1fWVdOSXhDS1dibER0R3pBam53TWtmTF9JUXdOY0trYkNicUVwLVE2UFYzcXlkV3hoX1Nnb25qQmhMQXRCN2hQWTJNUUhuMllwcmVFUEgyRUZFVndyOVEtaFIzQzFNQ3dEc2VLemJnRg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-uefa-to-boycott-tournamen-2026-07-30",
-      "headline": "Fifa World Cup: Uefa to boycott tournament if Gianni Infantino's investment plans go through - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DY1NsaUJZMzNsaHg3UEprZ2kxV2ZIbmFzOGRudWQzX0ZuU2xwWmxlMTg1a1piM29oY1NMbXFNemUxVTM0YVdvTGZSblo5aG0yQ0FRenh5T3c2TTFlMXgzdUIzWmlzYW8?oc=5\" target=\"_blank\"&gt;Fifa World Cup: Uefa to boycott tournament if Gianni Infantino",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-30",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DY1NsaUJZMzNsaHg3UEprZ2kxV2ZIbmFzOGRudWQzX0ZuU2xwWmxlMTg1a1piM29oY1NMbXFNemUxVTM0YVdvTGZSblo5aG0yQ0FRenh5T3c2TTFlMXgzdUIzWmlzYW8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-local-revenue-for-2026-fifa-world-cup-be-2026-09-23",
-      "headline": "Local revenue for 2026 FIFA World Cup beat expectations, report says - KING5.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTNLVjQzVzlOb1dtWVoyeHZyS2F3NWhNb3ZiOV9CbHdlV1ZDeXFtRWlmbVlEcW9lUmNtQUZUajZ6bDU2NElnZzlrTFV0bEc4WlA3UENwd2dhdjRkNGQ2ZHg2OGhhZld6UHVIR3puYWFVSUo4TzlpTlRxbF81SkpqNjJWd3Uwbl80bk5wV2oxM24ydi0yM21aOVZZbmduVnExeDJ6T1dNUGF",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTNLVjQzVzlOb1dtWVoyeHZyS2F3NWhNb3ZiOV9CbHdlV1ZDeXFtRWlmbVlEcW9lUmNtQUZUajZ6bDU2NElnZzlrTFV0bEc4WlA3UENwd2dhdjRkNGQ2ZHg2OGhhZld6UHVIR3puYWFVSUo4TzlpTlRxbF81SkpqNjJWd3Uwbl80bk5wV2oxM24ydi0yM21aOVZZbmduVnExeDJ6T1dNUGF2Z1l4cGh2N19aLVZ6bUFrcS1fTlM4dGtPTzFRZFZLNTc5eXg4aGstNkVMdVNXQmRHM3JIMVZZZQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-european-nations-say-world-cup-boycott-i-2026-08-06",
-      "headline": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5\" target=\"_blank\"&gt;European nations ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-06",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
       "featured": false,
       "draft": true
     }
