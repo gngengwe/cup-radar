@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-04T23:50:34.671Z",
+  "lastUpdated": "2026-10-05T04:21:14.663Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4004,7 +4004,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 415,
+      "chapterCount": 416,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7325,6 +7325,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWk1EUEFWU3pWRUxHeExGVWRxY2tTY1djYk5wckpfSm9WNGxaRFRKOUVBNDh6anpXcWRYSEpkczhXdVZtMmtLS0xwbzJ5QVpNOWRBTUhiRl93d3NrUjVjSmtTQ0otN01WY1ItM293ZnMyZVpPQ0ZYMGRLYVJCVlNjOE51SnA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1791174073154",
+          "date": "2026-10-05",
+          "title": "The Ballon d'Or: a Germany legend snubs Yamal in favour of Mbappé - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1dLT0YwVDNWLVFXcnN6T0lobHlPYTBSUEp0a0VaRjM0eXF4cURKSXBhVHVBNmFzYlNoZ3lSbXg3T0xYVklsckxDa0d1VS0yd1ExRXNmS3RxaEx5UGhXU0pjOWxBcVFPY05odmROUE5qNkRrWGdOOGtmUHJHQVAzZzBISjVVTXFENUV4ZkxuYUVmV0w4S1RsX3F3Q1l4OExzb1ZvdWRHRjAwQk9iUDJhaHlQanRpWkNqVmtCS0hUbnRTWFU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7343,7 +7351,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1054,
+      "chapterCount": 1055,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15775,6 +15783,14 @@
           "title": "GOLD MEDAL GAMEDAY: Team USA to Face Dominican Republic in U-15 World Cup Championship - USA Baseball",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTdJRTVSd2RfdFYtNVN0dVBLb3JWc1pOSDBDbDdXZ2U0eHJ6dllRMkJBT2VkbTZGX0cwUEY0R3BFUEJycFU0UGM3a3NNcGlUZ2d5UF9Bd2tCb0xpVEFaWTNzZHE4V3hiME0yMDE3RVdjOWczNy1GcU5FTEIya050ZHN4dDJrUmJ5Vk96VGY0T21hZFlvTjRsUzhxMk5hZzFKVEpQLTNNTXpIVXZTcTN0TkRGMUpvZzU4b3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791174073627",
+          "date": "2026-10-05",
+          "title": "Latest Win Over Mexico Showcases USMNT’s ‘Top Mentality’ - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUJBeWlUZ21oRWh2S2hsaWk4WEJ1MTBuN0d6Y1Q0LTVOR0VlRXNOb01pcEFNWmFGeUNwekEteVQyVmRxWmJIOW5PVDN3SUdhSFVYa3BmNnNjU1g1UHV3aDdCTVJMSGdsalBBTUkwSjFkSDRmOGttT1ZxeVBuSnkzUzZkb2xDRjRFSXA2eE40VGNFZHlZS1c4Nk5FdGw1cm1VTkxvc0Nzd1NiQQ?oc=5",
           "draft": true
         }
       ]

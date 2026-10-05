@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-04T23:50:31.887Z",
+  "lastUpdated": "2026-10-05T04:21:11.476Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
+      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-king-county-sees-889m-in-economi-2026-09-22",
       "headline": "Seattle, King County sees $889M in economic impact from World Cup - FOX 13 Seattle",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-06",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-the-premier-league-clubs--2026-07-31",
-      "headline": "World Cup 2026: The Premier League clubs fighting a World Cup hangover - bbc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENXpXZnI5OGZpSlRmc2hBdUprRWY5UjdtOVFQc0R4Q0RCZGxEcTBhellQRUgtUUUyUGxZN2JBNVBQR3hDbGdiclRDa3ZTSjF4WUNJaUZpQ1BxcTJJV2JCRGRpQzFKWkE?oc=5\" target=\"_blank\"&gt;World Cup 2026: The Premier League clubs fighting a World Cup ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-31",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENXpXZnI5OGZpSlRmc2hBdUprRWY5UjdtOVFQc0R4Q0RCZGxEcTBhellQRUgtUUUyUGxZN2JBNVBQR3hDbGdiclRDa3ZTSjF4WUNJaUZpQ1BxcTJJV2JCRGRpQzFKWkE?oc=5",
       "featured": false,
       "draft": true
     }
