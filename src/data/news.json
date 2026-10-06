@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-05T21:50:17.859Z",
+  "lastUpdated": "2026-10-06T12:51:07.901Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-found-congo-player-ineligible-let-h-2026-10-06",
+      "headline": "FIFA Found Congo Player Ineligible, Let Him Play in World Cup - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnMzZXBPVHFIdjc1eWVFLTJNUlZjWU9XamlDazVHYmxnQnpMdWdJUVQxN3c1YlZXUm1aSE5yWVNJSVRWZzh0b2VHb0NJdXJ6eXlPNjBpZ0E5NUowaGV4ZTlRX3VHYWEzWXlSRHJxOEdCcHlUbFI1Uk1ZNGRrXzJPZi1RWWJNU0NFcExCbTZqTVRJc09IczZKOA?oc=5\" target=\"_blank",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-06",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnMzZXBPVHFIdjc1eWVFLTJNUlZjWU9XamlDazVHYmxnQnpMdWdJUVQxN3c1YlZXUm1aSE5yWVNJSVRWZzh0b2VHb0NJdXJ6eXlPNjBpZ0E5NUowaGV4ZTlRX3VHYWEzWXlSRHJxOEdCcHlUbFI1Uk1ZNGRrXzJPZi1RWWJNU0NFcExCbTZqTVRJc09IczZKOA?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-india-vs-uruguay-football-2026-know-wher-2026-10-05",
       "headline": "India vs Uruguay football 2026: Know where to watch IND vs URU friendly live streaming and telecast - olympics.com",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-08-05",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F0bWt5ZEZGcWlQUmQ3cndzY3ExdldlajUwVWpMbjNuaVVSOGRIWnF5QWw0dFRNbUZTZlRqcWo4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-will-never-be-as-profitab-2026-08-11",
-      "headline": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt - cnbc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU3p6WnRvSnZJNnVqTkhSaFVUdzZETzNYTng5VW1DdXRTRWJuOGM1UkRIbnF0TjhmYmZGdzFnd2ZyZXNNQ3lrT0dOTThrYXdsYmVRbThJVFRSNVdhbGVoTlBhMk9MblpvQTU5UlcwSHZaTDJBV3FydNIBfkFVX3lxTE1yel9tZ2R4VjZXZGV3ejJsaTAySG1EdG16cngxNlJoUHlEMUdZNHh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-11",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU3p6WnRvSnZJNnVqTkhSaFVUdzZETzNYTng5VW1DdXRTRWJuOGM1UkRIbnF0TjhmYmZGdzFnd2ZyZXNNQ3lrT0dOTThrYXdsYmVRbThJVFRSNVdhbGVoTlBhMk9MblpvQTU5UlcwSHZaTDJBV3FydNIBfkFVX3lxTE1yel9tZ2R4VjZXZGV3ejJsaTAySG1EdG16cngxNlJoUHlEMUdZNHhWeS1uMlJsQldTclFUS2ZIRnNZZjVmbXd2OFhqQ1ZkWElYWGRVMUQtQVpFeF9RZlpvdW9vSmI3RjdEVWhNbjQ0WmRtMG5lbGgzR2xlbG8tdw?oc=5",
       "featured": false,
       "draft": true
     }
