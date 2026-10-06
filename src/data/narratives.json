@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-06T12:51:10.881Z",
+  "lastUpdated": "2026-10-06T19:59:01.492Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 506,
+      "chapterCount": 507,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4066,6 +4066,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUZLNnl0QUN1dEZBalNwVlNOcTQ2ckpwd2VNbjFZY0lmOUZXUVNPbFlhWFRCOTdzdHZtd2Q3bHh0MVJXRkRGampvLThvN2pYMEx2bDc2aERxUzE0X01rNnBSZXcxOVJpTElWMTNrLVdQeV9wUUNRdHBKeVFqOVB3SW1iT0lNcGREQ3hzSm41TUk0ek96UVJ3MlhLUXFac05ZVmpSYzBMcVNCS1UtVEwwWE56TllhUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791316739060",
+          "date": "2026-10-06",
+          "title": "Argentina bids Messi farewell in final national team match, ending an era - ClickOnDetroit | WDIV Local 4",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHVXUDllczNvT2duMTRaY3FsVjBET2cxMFZIcE9DeElodUlrMUVmY3pydnNvQkRxZEhBdnR1cV9NNnJxVTZyT3h3TkNTZHB1QlItbDNCeUV2LUR3TnEwM3NZclpzYmFiSzlDSTBYdG4yZHBoY1lJU19rZWdwd2w0MVhYNS13MDBvbXdDVlpDQ1hoVTZyeWY1bHhQRUs1cERkNVJCTUpjRXRseGg2d0U0YWRCNC1wTHlJcXdvdkpGUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7439,7 +7447,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1062,
+      "chapterCount": 1066,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -15936,6 +15944,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnZpbzB3NkRxT1NsRjJFQS1wcjhhcXRrMFdHaG1PQllsQl9SNDlKdXZxamxXUXo4Y1JHWWh5S0pXRWJmYjlBaHVXUlNpVFpVV1IwZ09fR1RxNGlGb2hlVjVvZTM1UHFyOTJsWmdkaWxndXgtclFBUWh2WDhyXzk2Z3RWandtY1RqMXBUZ0ZOMXlDRkFfbTVVMW5jRjRoV0lOYmhKYjlxX1U3UmhQZ2YzUjlJRWhWaW9rdVlHaUlWendBNUhLU0Y2VjN6emVvVGZvZGRrZzdSRmJOamlTQVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791316740250",
+          "date": "2026-10-06",
+          "title": "Everything You Need to Know About the FIPFA Powerchair Football World Cup - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm1lZGFNRUNWbzlSWHM5dHQ3OVNkRXNieGx4UF9oaFVMNUJwOFF4aThhWjNqUVA1akxVenhNUEJnMFNub2Vwekt5dUIwTDZaYmlBaXpXblA0S0g3WlhMb0F5QmJLOV9FRVRpVmhPeDJKYk1CYlFQUEJpdFhWSzg4NTNyMDJCa1RsNzkyZXFtOE5mQV84dS1tbThNU1hlRmxPWUF0UlRoVFlSdXF4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791316740250",
+          "date": "2026-10-06",
+          "title": "Haiti confirmed as USMNT’s Concacaf Nations League quarterfinal opponent - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTJIQVMxeE1SMi1ycVYxOFdCazdVTHF6NWNPWWotVHZwY0hOazZFYXpmOGpqQk14b1EydUtjQVdnSVV4REVFUGdOblV4dHpyOThxRmhLREFwWGsxc1prSVRrUVNSRHp6V0Fvc1ZUU1lQT29TU3U3dENJWFhZWmZiNklNNGoxbzQ4WXJyMUlZRW5BY3RpbkM5T3RiYzhkYjRiVXNqbQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791316740250",
+          "date": "2026-10-06",
+          "title": "Musah: What Amorim told me was ‘true’, World Cup snub ‘was tough’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcklEZFZxei1qeDU1Q1hTeUk5T3diNm1fSDhoR2FFQktiUnROVm8wYjNMU1FlNkFfYjdwYV96bDk5NkFnRkdKZUMyanZWNzlpS1dEeTRKd0MtQk1WZV9oWjRmOHdzS3l4Q3pLR0xfM2RHSlJMTkJON0Y5U1ZTemswSV9ycw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791316740250",
+          "date": "2026-10-06",
+          "title": "Winning with youth, Pochettino nearing perfect window for USMNT - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTi1pUVNmc3ZsRGRfVUZsSWxFbnd4T2ppZkt6LUt0REpVSUtLVmpDZG9LYUdQdU4wZEVqZFI3WWRKa0hxYkUyYk0ybHdnWVJJdDZBT0pVcEppVVJmX0ZkeHBsamVJWWltYXJLQXUwTkw0UkZVX1YzbU1VaVJfeDN2YVZ1dDNUd0RNa3ZRTnZWWUw5YjhEYkdqbENyVHNEbkxoa194VE9yZl8ybjAxaVRLal9ZSEptMEpPT3hTd2dkUl9ILURVRFZkOWZ3TzVLVndiLXEw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -15954,7 +15994,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 698,
+      "chapterCount": 700,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21539,6 +21579,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRGVCWXNrby1oQ25Ub0x5b1ZleU1UZ2pEYWVhVmJTZ0tVTlRqVEZ3dUYyNWN4b3V4Z18zdjkwNzhsaFhwbXMtaHVHWFUwSFhsX1VyNEpjMUpmdGZwcXFDbDFRQUQ4SHF1VGdtMVJva0RVeHBSLWplbkkwVTVrTUt3eTdtQnNwUmV3V0E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791316740748",
+          "date": "2026-10-06",
+          "title": "Netflix appoints IMG as production partner for FIFA Women’s World Cup Brazil 2027 - SVG Europe",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNlBDQl9VYmU1bXZLcXN5RnNFUTF3ektzc0hWSVZiUUx6MzRFcTVRbXQxcXQ4VnJIMkVPVlpDc3EwcUhkWlpJYnRzX1hwUjcwWVlZbnBWVlQ2eWdtTlFLWFhZUmxoVWN1WVdQOXUwVm9EM0R2eENNemExc0tCcjUtbjRibkRWZ2FwaFc4OFdja2ozQkdSUkdNREVNVXVkdDhNUk84OHJWY0o3ZFIyd1A2UTdVelFTMGNSNENMaXhKcw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791316740748",
+          "date": "2026-10-06",
+          "title": "Netflix taps IMG as US production partner for Women’s World Cup - Advanced Television",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGs3eDI5RXVxc1NiZnhrejNuWTFVcDFGeU9BSHJHcGVOcDBzX1drQmdhUEx5d3owUWtuTmlIdU5XSnNKaDFrR0ZjN1NQVmZITlVCVGJGM1hhazl0Nk9SYmdld2lzalM5aGRKU2FfUHRQMFI5OVJxV0V6R0NkaVB2akNTZEpYRS1lMzk0NVZTTHcxTEdfRlZNSHdEZ2xsWm5fbER3WHdSMXQ5N2ZzWVZR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21768,7 +21824,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 961,
+      "chapterCount": 962,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -29456,6 +29512,14 @@
           "title": "RLWC26: Hugo Savala, Ben Talty, Max King among new faces in England squad for Rugby League World Cup 2026 - NRL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHZlWGlWaXpHeWNRc2lVUHp6S2wwMkdkNVBjSzNxQXF1MUZxYzctV2N5OXl0ZThqZnpBVkQ5cUpUWUFzLVE0NzVDNkJEdGp6LWNMeEtpbXdiT3VTV2cyclBWMnRSOFNzRkVDX3ZZaFhIYVBJSmR0Q3JiS2NQTmRqTGRKZG9DbzJTcWQxYW02ajQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791316741492",
+          "date": "2026-10-06",
+          "title": "England faced ineligible star at World Cup 2026 after Fifa quietly let him play - The Sun",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDE5WTQzQ04zZEhjeHVRRThFQTBXR1l5RnlVSnM4eHhYQVFrVTBDTkhnWUNmeERNcVQ3OG03OXd0NE93d3BHbXBQeXhISnFNRnlHZ2U3ckprVldWcE9LMm1lRk9IcExZLVB2dnFEQjh1cHo3cWdoZXBwa3VlZ1hjN08tQQ?oc=5",
           "draft": true
         }
       ]
