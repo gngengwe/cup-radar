@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-06T19:58:58.531Z",
+  "lastUpdated": "2026-10-07T00:22:50.085Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-reportedly-allowed-dr-congo-into-wo-2026-10-06",
+      "headline": "Fifa reportedly allowed DR Congo into World Cup despite ineligible player in qualifying - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3hmaHNEc1VBMlEzcEl2aXNCX2ZOcnNJdHZJNHFrWm9ueW5HTEZfMHk3RlI3ejJoemlnZWRiYjNodnQxTUdHOUYzYl9RZjNCTlZhNjFCNVI1TjdOWmhrOWhYUFNJa3JCY1AzakthU2pQVzdNdkZiaU9CWWNmVmJaczIyNERDUnhnQ0doeGwwaHpRR1JsSGYyemJhZnBYWXZ1cldhUFNCX29",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-06",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3hmaHNEc1VBMlEzcEl2aXNCX2ZOcnNJdHZJNHFrWm9ueW5HTEZfMHk3RlI3ejJoemlnZWRiYjNodnQxTUdHOUYzYl9RZjNCTlZhNjFCNVI1TjdOWmhrOWhYUFNJa3JCY1AzakthU2pQVzdNdkZiaU9CWWNmVmJaczIyNERDUnhnQ0doeGwwaHpRR1JsSGYyemJhZnBYWXZ1cldhUFNCX29VQnFyYmtYd1IwajdVMmE5cHpBS0VFYzRKYU9faU00YkZPeTdWUFpTQWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-super-eagles-ineligible-dr-congo-goalkee-2026-10-06",
+      "headline": "Super Eagles: Ineligible DR Congo goalkeeper puts Nigeria’s World Cup qualifiers in spotlight - Soccernet.ng",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9aclJRdXJKRXFrUEU1MDhiNlc1SndxYXdldm44Q2MxUWJhWmNObERCWnpSTy16Sk15RUhscV9EZHlMeWQtUG1QSVNrcGw5ZS1aSkdXbTZ2cmxLZVFzMjZJczJzdUs0OUNuVHpqbWFkV0NrVWdCLUpyZ1lnc2s4UQ?oc=5\" target=\"_blank\"&gt;Super Eagles: Ineligible DR Con",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-06",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aclJRdXJKRXFrUEU1MDhiNlc1SndxYXdldm44Q2MxUWJhWmNObERCWnpSTy16Sk15RUhscV9EZHlMeWQtUG1QSVNrcGw5ZS1aSkdXbTZ2cmxLZVFzMjZJczJzdUs0OUNuVHpqbWFkV0NrVWdCLUpyZ1lnc2s4UQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-world-cup-general-counsel-curtis-fr-2026-10-06",
+      "headline": "FIFA World Cup General Counsel Curtis Franks Shares His Playbook - Bloomberg Law News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSThGbEFhNk9rS3RCalhaUk9MZmlVNThNbk1NeVNUOGNXeGVEc1VkNlROSHFUNVZpck8tOFM5S2x1Y0poRmdKZXJST1Exc3RXSVJmUWhjSUN5TXFHeWtfZGhubF8wdjIySnphTzR6UHZIV3hzWFR1VUxWWUdCblFURDhqYzBqczhqY3lOZlZsN1lXbC10OXlTMUExeXE2MTQ3dVVicUVuZEF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-06",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSThGbEFhNk9rS3RCalhaUk9MZmlVNThNbk1NeVNUOGNXeGVEc1VkNlROSHFUNVZpck8tOFM5S2x1Y0poRmdKZXJST1Exc3RXSVJmUWhjSUN5TXFHeWtfZGhubF8wdjIySnphTzR6UHZIV3hzWFR1VUxWWUdCblFURDhqYzBqczhqY3lOZlZsN1lXbC10OXlTMUExeXE2MTQ3dVVicUVuZEFfd283OUIwWA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-matches-have-given-arrowhead-s-2026-07-03",
+      "headline": "World Cup matches have given Arrowhead Stadium a one-of-a-kind atmosphere - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXl",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-boston-recognized-as-one-of-most-welcomi-2026-10-06",
       "headline": "Boston recognized as one of most welcoming 2026 FIFA World Cup host cities - Yahoo Sports",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-24",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0J1SXR6TXZrMjRyQlhXa0o0alljd0RnaUhMaDZWMFVOQVF3Tjg3VnpCS05oTmRZWWFRUmYtVktad1ZvMzV4bUZlLW1ENXJ1NTRtYmdJTW1LRUJsMGtPeWY4dFFWUDZZLUExWDRJNGJPMEF2WnpxbnFLVW03SFhtVmViT0F5NjJzbXdXVC1hQ3VYTDYxUTAxREV5Y3lFYUVuc3JKM25LQW4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-bruno-guimar-es-opens-up-on-brazil-s-wor-2026-09-23",
-      "headline": "Bruno Guimarães Opens Up on Brazil’s World Cup Penalty Miss: 'It Still Hurts' - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJRNDNGd0Y3MDQtWUw5NHU0NFp4R3BVMUVmRGR5ZU5NdEZpdXFCdGhaNXlKZjBSdnhZaEhmcGxmNFV4Y1VkWXJlLThObnVscVlJRkRUclRpMDRiTnN5dGtGdVNmXzFNYmR1Y3p0RDk4UEc2dk5sejFJNjY2WmlLSWdrUQ?oc=5\" target=\"_blank\"&gt;Bruno Guimarães Opens U",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJRNDNGd0Y3MDQtWUw5NHU0NFp4R3BVMUVmRGR5ZU5NdEZpdXFCdGhaNXlKZjBSdnhZaEhmcGxmNFV4Y1VkWXJlLThObnVscVlJRkRUclRpMDRiTnN5dGtGdVNmXzFNYmR1Y3p0RDk4UEc2dk5sejFJNjY2WmlLSWdrUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc-healthtech-company-earns-ticket-to-st-2026-09-23",
-      "headline": "KC healthtech company earns ticket to Startup World Cup, shot at West Coast investor’s $1M - Startland News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA4bUh3VzlhWnQxZmpJSWV0d3JDSlcwR2pQQmxQT0lpbExoQ0tmVERudjZERWU2T2xCaG1YaGxET2NNQ2IyaDJ5SUFnSGlSeXhHRmNBUzg4VDduMnJHUmtMN1dSdEpPVDFTSTFjbkhSVHdrNzJ4?oc=5\" target=\"_blank\"&gt;KC healthtech company earns ticket to Startup",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4bUh3VzlhWnQxZmpJSWV0d3JDSlcwR2pQQmxQT0lpbExoQ0tmVERudjZERWU2T2xCaG1YaGxET2NNQ2IyaDJ5SUFnSGlSeXhHRmNBUzg4VDduMnJHUmtMN1dSdEpPVDFTSTFjbkhSVHdrNzJ4?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-harry-kane-admits-england-s-world-cup-20-2026-09-23",
-      "headline": "Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’ - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2drQXFGMzJKQ2lrZUVfbGpBM1dZZGsySUJhNGU3R0pBYlpKRW1tSXJlVk5sY3M2ME5EbkM2dkdpeWtKUUlGVGNfcmQ3TE1XYUg3ZGlCbFFHQjhxN0ZqNEt4R1h0SlUydG8tb0lJWGd0UnpkU25VMkdEUGthMmJJamlUaWVoa245U2tHMmtjckZTbHJ0M001bWJsR1N6TVlFalZtc3AyMXZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2drQXFGMzJKQ2lrZUVfbGpBM1dZZGsySUJhNGU3R0pBYlpKRW1tSXJlVk5sY3M2ME5EbkM2dkdpeWtKUUlGVGNfcmQ3TE1XYUg3ZGlCbFFHQjhxN0ZqNEt4R1h0SlUydG8tb0lJWGd0UnpkU25VMkdEUGthMmJJamlUaWVoa245U2tHMmtjckZTbHJ0M001bWJsR1N6TVlFalZtc3AyMXZkQWNS?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-real-madrid-news-jude-bellingham-roasts--2026-09-23",
-      "headline": "Real Madrid news: Jude Bellingham roasts Argentina World Cup rival with savage Lionel Messi dig - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVhVTMtVU9JS3hQNVZBU2VqczFqWFJiM3FhU2ptM0hEeEpSX09jZlZQaVgzb0VmSFZCcXFqUXhkd2F2UHZ6Zk9jVXVVb2o4UHJiUkZVQk9kRHUyZXJiLTA0ZUg3LXo2cWxuUjVUNVZXNm80Rl95YlE5S0VLMWN1LWZ4WVNRQVg5?oc=5\" target=\"_blank\"&gt;Real Madrid news:",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-23",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVhVTMtVU9JS3hQNVZBU2VqczFqWFJiM3FhU2ptM0hEeEpSX09jZlZQaVgzb0VmSFZCcXFqUXhkd2F2UHZ6Zk9jVXVVb2o4UHJiUkZVQk9kRHUyZXJiLTA0ZUg3LXo2cWxuUjVUNVZXNm80Rl95YlE5S0VLMWN1LWZ4WVNRQVg5?oc=5",
       "featured": false,
       "draft": true
     }
