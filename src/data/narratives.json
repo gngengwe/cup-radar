@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-07T18:30:02.475Z",
+  "lastUpdated": "2026-10-08T00:43:37.689Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 514,
+      "chapterCount": 516,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4130,6 +4130,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU21HMGlKZEM1eXU4ejdicjVpOGZVZjNYS0w3MXZPajljckJWOTRCd0hUY1JybHV6NWhwd0NVWUttY3hlN3hwWE5Iek43bjM3TjU4RkxCam0xNEd3S0ZIeHpxcVBlMnUxQ3ZVa3ducHFGWXQwYmotWWVWSzduY2xmc1JodXdCM0hNY2Qxa0k2SHRDN0ZFcWNSeWpSN3dxemo5b18zdzc3cmFwU0VuUXc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791420214704",
+          "date": "2026-10-07",
+          "title": "Ronaldo hails Messi after Argentina great says he already misses national team - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNalNWOE1hbkJobGRBX2s1UGJncUplMHlJYXZGWnlSMEp5UzBILVpQWnNmcUMzaTFkQ3lxNkhpVjVmUG5NYzM4UWdtS1JQUzJfWXkzSnNkQmpCNHg4WkZQdGZibXJWRVNXRWtkWTNiaVJPMXJfUGNYYjZ5RU1wZ3h3Uk1JZF9sOTVoN0tyY0lSR0FpdU5TLXBxRFlsRElaUFppTEFkUWxmQy1RdkVCeUxZNG5vcllCUEQ1TWRKNUFRYWVxMk9CMU1J?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791420214704",
+          "date": "2026-10-07",
+          "title": "Messi’s international farewell puts the spotlight on Ronaldo - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk5KWXZsU25wcjVUSUxna0N1V3JlQlNKWEprZDMzcmNyeU91QzVyRTd1WklNMzB5ZHU3Y2RET3NnXzZDQkdld2NQNFpXRGdOQjNfWEhuUEdkT1VRV2daOEIyZndySjZHLW82TV90czJhb2dVeHphVzBIb2UyOFZKVnpzdGljNXJFb2g0WGpmSG5tVDkyZHQ0?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7511,7 +7527,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1074,
+      "chapterCount": 1075,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16104,6 +16120,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcmN1LXJta0c1WHRSNjNkV2ZjRUF1NUstZXU2SmZ3dEZTX0NzQUZnLURVWkFCRnVxTElKbXhyTXRGNF9JNUhpcTlMRUdkS1ZQNW1HeUFJVllrZWlqNnBMOWpMSnZST29MbXpEMXlobTh1RGlXMjVRU29CMWZRbEVrTmRtTXM1cXZweUVRUC1tX1p6V29E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791420216243",
+          "date": "2026-10-07",
+          "title": "2030 World Cup: When does qualification start for USMNT, world? How many teams? Where is it? - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1pHSnRsN182dzVSbjU2NDU3QV9DUFYtaUlEampWLVV1cy16bHdOQW13ZFBua0YwUzFULTZMNzViQW1aTXJjVFJvR0pvTmh1ZGFKLXVtWkJYSjNQRHA5V3gxZnFqOVhlVFpfNHloTGJFeC10eEp4enZwNTYwTTViUnVDdFNXT3FoU0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -21968,7 +21992,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 968,
+      "chapterCount": 969,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -29712,6 +29736,14 @@
           "title": "Harry Kane Eyes Ronaldo Record After Equalling England Caps Milestone - HeraldLIVE",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXROdHg0YVdwb2QzLUhJbXhNX0hRSGQxUGJob0V2TGJyWG5rU0RuX2JMblIwLUdGcm1MUDVBRHZrazg2M3RpR1ZpRFYyUWtRUV9zU011b2lQekZ1ZWFNbmtfUEpNUVhGQmVGbXNwcEt4TmxLM0E1U3JaNHRBa21DUUp6eVNrQjU5VFlycEo3cmxCTDNkNW5OV1hMYk5wVWZpNy1LY1JsZjY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791420217689",
+          "date": "2026-10-07",
+          "title": "Lionel Messi: England clash left Argentina 'running on fumes' before World Cup final - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUs5ZTVZVlZUbkFkdWR6OS1aelhrWnVlQ05lX3lyX0FBZDJwTkROQ2RpVnRGQU5CSF80WHFKalg5MTZWeGR5SzEzd1UzN01SU2hiTzZXVm1oZW1iUmF6aUhNbE1jOFJIYzJ4akRqWWZtRWNydWF5OEZ4eGQ2ZjBZS0drTmQ2YUoyRWN1RERWTTBJQU15amRxbkZxR1hRSmtKVUh3R1kxNVF0WGZnQ01rZkExS1VGZENHd3c?oc=5",
           "draft": true
         }
       ]
