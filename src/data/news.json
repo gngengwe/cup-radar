@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-08T00:43:34.247Z",
+  "lastUpdated": "2026-10-08T10:05:37.243Z",
   "articles": [
+    {
+      "id": "news-auto-portugal-jumps-into-top-5-of-fifa-world--2026-10-07",
+      "headline": "Portugal jumps into top 5 of FIFA world rankings - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVC1LVkRJZGpTdXNRQkxMd0t0ZXBxVFdhRy1DdnJxaVpLZlQ5dktjSUFCdHg0ZmRqLXlkVHZoaFhoWXpIaTY5VmtBck9HbjB6a0JxQ3dETWxnYXJodWw3ODA4X1d5YW5UU19xWWRTamNnRWgybWJWbXpBT2libDdIQkhUd28wSHZqbHJWNG5xZDdiM0QxXzRFOGFfQjBnWm9ITUE?oc=5\" t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-07",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVC1LVkRJZGpTdXNRQkxMd0t0ZXBxVFdhRy1DdnJxaVpLZlQ5dktjSUFCdHg0ZmRqLXlkVHZoaFhoWXpIaTY5VmtBck9HbjB6a0JxQ3dETWxnYXJodWw3ODA4X1d5YW5UU19xWWRTamNnRWgybWJWbXpBT2libDdIQkhUd28wSHZqbHJWNG5xZDdiM0QxXzRFOGFfQjBnWm9ITUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-fifa-opens-disciplinary-p-2026-07-29",
+      "headline": "World Cup 2026: FIFA opens disciplinary proceedings against Argentina over several potential breaches including Falklands banner - Sky Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNbXp5aGcyM1B2NmgtNU1qTnk1T3RTOHJEMEFjOFRhSEVvaC1TaEJxY3o1QW1ZYWQtSW1qWTgwSGhDUUM3N1BiSjdDa0xpdDFnc0MwQmllQTJUYWdtR0JBUzJaeGZuZThESmVaMURvRlBVYXdvMlhoN2xLMFZUZ19pU1dxLVhBRVUwWmNFaU5hVzk3R09WYjNVSXNmTVRFUFBYNWRWTW9SNXF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-29",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbXp5aGcyM1B2NmgtNU1qTnk1T3RTOHJEMEFjOFRhSEVvaC1TaEJxY3o1QW1ZYWQtSW1qWTgwSGhDUUM3N1BiSjdDa0xpdDFnc0MwQmllQTJUYWdtR0JBUzJaeGZuZThESmVaMURvRlBVYXdvMlhoN2xLMFZUZ19pU1dxLVhBRVUwWmNFaU5hVzk3R09WYjNVSXNmTVRFUFBYNWRWTW9SNXFaUm15YXpFcUNNZEhCTURDcnh6bGwyOEdaM2xJMkVaWVBiZVZ4Zm14YkkwQVJkQlNXRUM3NDNDM1ZUMEdDbndKMU5MSXZpUTlhaExuN0xpSWJ2R0NheTkyOFBhVjVwRQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-2030-world-cup-power-rankings-who-are-th-2026-10-07",
       "headline": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game? - ESPN",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-24",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZG9yTEZUMnRHeUNNTFktTGk2UTdhaFVJcWZrZ1ZYVzhKYWZuTUFKWFgyTExmRXd0NVZoQU82aDlYcHJXemxXbHhTX0xuWE5qc3NwOXhON052dzlPanYxeVVoNU9ZRE1GSU5MZmVWWEpiLWR0VmhlUlpnYmZiTnhIbXhRejJmTGRHV0ltTGhWNFBCVmRqd1FiTjhPY01lMnFqWnliZVcxV3E2ZlZER0JIUmRlZ2tjSmMzVW55SExR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-india-vs-panama-football-2026-know-where-2026-09-24",
-      "headline": "India vs Panama football 2026: Know where to watch IND vs PAN friendly live streaming and telecast - olympics.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUhXRzN2dnBrMjJieTZuRVVGNm9Za0RFWHhTVHI1a3dpMTVjajMyeDVHUXlyX3hwSFMzYUc2a1A0VmZIRE56QkxXSUxOUHJZZTVvVjFkcGR0Z2RDQkVLa1cyUjAyd3o0MmR6c0V6blIwb2dFbXJQUmJUdEtoLUc4U3Y2VkI0dGJoR1lCY2UxY2UxTEFCOGlfUzRqZ0htYVUyQ3djT3M1NDN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-24",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUhXRzN2dnBrMjJieTZuRVVGNm9Za0RFWHhTVHI1a3dpMTVjajMyeDVHUXlyX3hwSFMzYUc2a1A0VmZIRE56QkxXSUxOUHJZZTVvVjFkcGR0Z2RDQkVLa1cyUjAyd3o0MmR6c0V6blIwb2dFbXJQUmJUdEtoLUc4U3Y2VkI0dGJoR1lCY2UxY2UxTEFCOGlfUzRqZ0htYVUyQ3djT3M1NDNEOG9zR1lR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-asean-cup-features-same-left-sleeve-2026-09-24",
-      "headline": "FIFA ASEAN Cup Features Same Left-Sleeve Kit Badge as in 2026 FIFA World Cup Final - footyheadlines.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjRxZXpQWGNNa1FLRWpfV2ZtRVJkM2cxZEpyNjk0UnNQWmVwc2U1TTdyRG1oc182Sk1Rd3p1OHRPQ0daYzBXNHhyQ0NmcVRlN2YwV093bkhQc1hvS21MUUZCVEJ1dFIxc0R2NXJzN1FNaC16dnR0VDg2elRtTnRJTVppWVdrc0JaRDJCWVE2cFVWWW1tWGlFRl9VcTRYSmZvb2VudG5wc2t",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-24",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjRxZXpQWGNNa1FLRWpfV2ZtRVJkM2cxZEpyNjk0UnNQWmVwc2U1TTdyRG1oc182Sk1Rd3p1OHRPQ0daYzBXNHhyQ0NmcVRlN2YwV093bkhQc1hvS21MUUZCVEJ1dFIxc0R2NXJzN1FNaC16dnR0VDg2elRtTnRJTVppWVdrc0JaRDJCWVE2cFVWWW1tWGlFRl9VcTRYSmZvb2VudG5wc2tIS1BVQmc2elZ1Q0phbXVFRVhUVFQ1NUVwZ2JhM3RidQ?oc=5",
       "featured": false,
       "draft": true
     }

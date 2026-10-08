@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-08T00:43:37.689Z",
+  "lastUpdated": "2026-10-08T10:05:39.853Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 516,
+      "chapterCount": 518,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4146,6 +4146,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk5KWXZsU25wcjVUSUxna0N1V3JlQlNKWEprZDMzcmNyeU91QzVyRTd1WklNMzB5ZHU3Y2RET3NnXzZDQkdld2NQNFpXRGdOQjNfWEhuUEdkT1VRV2daOEIyZndySjZHLW82TV90czJhb2dVeHphVzBIb2UyOFZKVnpzdGljNXJFb2g0WGpmSG5tVDkyZHQ0?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791453937740",
+          "date": "2026-10-08",
+          "title": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZllpN3FEb1lQQTNUNWdjQU1JQm56U0V5SzN5dFpsZlE2bHQ2R2U4NzRUbExrZGlkbm1mbHBUaFg1U09JbjdwMUlXNUUxakZhNl9UMmlhMk1aMkJkeDEzUFY0OThZV2cxYWhuWF9rSlNzb3ltYmRZaDJEdXhia0pRcWtpcDNfYWxRWkpOTVhlTFRzT1FpSzA4cDJhN3FYUjkycWllcHFsYy1EX1AyUGtvLWRFTk3SAboBQVVfeXFMT1lFZ3VJdlM5UHpocnpjWW9DVm1GZGFKTGJyWnhicy1VeEVUM3Q2eF9ERHZxQlVDZU1LVjJyWXVkaDB1eVdDbmNFUnV4TWgtWG5fcUtHOGtzbkxTQ3NkVmdOeUVDeVA3RC1zUS1mOGIyVGhTVGRsSWxWS2xrcTcxZlp1NjNQSjRnajBRNWc1alAyN2FqaFNWU1lfUEh1cU0tUzgxbUNNMExxUk5jZHZXUjJSWlJka3hReEt3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791453937741",
+          "date": "2026-10-08",
+          "title": "Lionel Messi's 'last dance' for Argentina: What we know about farewell international appearance - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHdEYnppWHFJSnNfSHEzRm9qQW12SlY5S2UyWEtaOTF3c09wNjhqNGV6eGhvampIYTZZbTZxQkdCZHhGZlNTNzdNNkFmb21mTEpJM19LOWh4WXV3a3UzVjlCeDNTX2N3aFhPRVlzanVkb3FmLXItelZWMlJyTlg2S0tEbi11NVc1a2FZ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7527,7 +7543,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1075,
+      "chapterCount": 1076,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16128,6 +16144,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1pHSnRsN182dzVSbjU2NDU3QV9DUFYtaUlEampWLVV1cy16bHdOQW13ZFBua0YwUzFULTZMNzViQW1aTXJjVFJvR0pvTmh1ZGFKLXVtWkJYSjNQRHA5V3gxZnFqOVhlVFpfNHloTGJFeC10eEp4enZwNTYwTTViUnVDdFNXT3FoU0E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791453938771",
+          "date": "2026-10-07",
+          "title": "2026-27 Stifel U.S. Alpine Ski Team Announced - U.S. Ski & Snowboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDhNcUlyb3p2R0VFeVVseXpsbjBBOUxlenRxUzRZel9fSFFxVFhUbVNub3drckdOM1ZBcDBQTDdvSmplVjRkRm9rVkhydXRrQXdTekFJSVh2ejVuV21USkhFaTY5TVkxSVp0bzZxazZvdlpjMHVwMVV1MDVSRlZ6T0RteGl1VXA3NkE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16146,7 +16170,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 702,
+      "chapterCount": 703,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21762,6 +21786,14 @@
           "title": "World Bank: Colombia Expected to Outpace Brazil and Mexico in 2026 - ColombiaOne.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1lUZ1dWZHRHNnFTLVMxMlNhV3IydG5wZS1PTWhHQmhiWkFGd3lUby0yaEt1ck1HR2lCeXNnVWlZX1J3aDlwSW5VNVYtM1RfRXU5VjNIOFI5V21EckJITkhWQ25WYjE2UmFCaUNHUDBWUTB3Q1FzYkFnQk1DSXYxeHJXT2FOMG5JaWN3S0NBbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791453939311",
+          "date": "2026-10-07",
+          "title": "Brazil Claim the World Cup Scalp of Hong Kong at Junior World Challenger - Americas Rugby News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUo3SU9wam5pVnVYc0gzcmpqR1NQTGJORXJZZ0NBZmNIeW5qRG9Zakl5NXY3cVM3N1RBZDViUlE2OV9LN1lrdWY0UDRMbk53VU41QXMxS2VGRHhnNkJuSHR2d0NBZ2locnBRS2ZTTGJ5YVlMVlBIdVl6Skt1LVh3Y25YRmdSc253MVQ2R2JpUy15VnU3VVZxNDJtaGxIdkZDUmNMVy1OZEpoU2YwUmk2TUZDaVprSWZzQ2c?oc=5",
           "draft": true
         }
       ]
