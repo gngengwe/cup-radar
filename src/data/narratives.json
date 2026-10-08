@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-08T10:05:39.853Z",
+  "lastUpdated": "2026-10-08T18:29:11.599Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 518,
+      "chapterCount": 519,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4162,6 +4162,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHdEYnppWHFJSnNfSHEzRm9qQW12SlY5S2UyWEtaOTF3c09wNjhqNGV6eGhvampIYTZZbTZxQkdCZHhGZlNTNzdNNkFmb21mTEpJM19LOWh4WXV3a3UzVjlCeDNTX2N3aFhPRVlzanVkb3FmLXItelZWMlJyTlg2S0tEbi11NVc1a2FZ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791484149124",
+          "date": "2026-10-06",
+          "title": "Explaining Lionel Messi's special final Argentina jersey and if fans can buy iconic shirt - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXZRWWdQR2VDQm1nNmhaMk9uNXAyMlgyeklvYmxxU0p1MllGUGdkUjVTcE1NVlRxQmFObkVpOUNqN0ttSzJvUWl4NFQ4LXJrZU1od0ltRFUxVTFtbUl5bG1IdFdEZ0NmV1RGQy1vRW9Ea2ZkZjZfQjVxWGhnMU1pZkg3b2E3eENSdTROZWJ6ak4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7543,7 +7551,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1076,
+      "chapterCount": 1078,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16152,6 +16160,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDhNcUlyb3p2R0VFeVVseXpsbjBBOUxlenRxUzRZel9fSFFxVFhUbVNub3drckdOM1ZBcDBQTDdvSmplVjRkRm9rVkhydXRrQXdTekFJSVh2ejVuV21USkhFaTY5TVkxSVp0bzZxazZvdlpjMHVwMVV1MDVSRlZ6T0RteGl1VXA3NkE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791484150332",
+          "date": "2026-10-08",
+          "title": "With no Pulisic and good results, have the USMNT moved on from their savior complex? | Leander Schaerlaeckens - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkVyd1dDc1g0TEs3UTVOWE5sdzJpVlNiWHFORVhrQkRJREVvOTBibVJIakcxYi1uandZYkliek92R2FTeHRia3lYRlEydVVfQkpnck5aSkhvUzBlZWp3d01Rd0dMU0VkbTItR2Z0V1ZOa1V3bUMxRUp3V2pVSUx6Wm56TEp1d3VjREFLYnhCMnA2eXU3X19xY1IxdndacVlOM1VFVERLd3FwWTQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791484150332",
+          "date": "2026-10-08",
+          "title": "2026-27 Toyota U.S. Snowboard Team Announced - U.S. Ski & Snowboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc000Y0FRRm1nNU4yeUJNaElxb2U0Ym1mcjdWNEZSYkV4SFdNNWlPX3lWT2lkQ3pfUm5ULXpMQWpyNG9PUlJncU5ycEVqZGY2QjNWejNNTzA0NkFhMDBldGQ4bngzZGRaNUoyS1Mzek96Y2JtN09VX1E0RWZkdS1mMy1KWENwUk8x?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16170,7 +16194,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 703,
+      "chapterCount": 705,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21795,6 +21819,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUo3SU9wam5pVnVYc0gzcmpqR1NQTGJORXJZZ0NBZmNIeW5qRG9Zakl5NXY3cVM3N1RBZDViUlE2OV9LN1lrdWY0UDRMbk53VU41QXMxS2VGRHhnNkJuSHR2d0NBZ2locnBRS2ZTTGJ5YVlMVlBIdVl6Skt1LVh3Y25YRmdSc253MVQ2R2JpUy15VnU3VVZxNDJtaGxIdkZDUmNMVy1OZEpoU2YwUmk2TUZDaVprSWZzQ2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791484150905",
+          "date": "2026-10-08",
+          "title": "Women’s World Cup Brazil 2027: Countdown and Latest Updates - The Football Week",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ka2JmeHZLX3drRTJVMmg5ejI4VE5zQlYxSTFVdnVRcThJckJONXNTcl9wanhQbDhCbjV5ZFF2RmFmUGJYR2pQbmd4VkZ6LVlURnYzQm5KX1J5c1lKeWdUZzRPNVVCOTNDX1ZCVjNSMVZjRHdWY3BfbUdR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791484150905",
+          "date": "2026-10-08",
+          "title": "SPORTEL Awards 2026 selects the best images from world sports - iGaming Brazil",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlRNcjYtMl8wYkJNTWQyOGxuWFRiWHlhLVhYV1VvTGJzTWpiOElNRkdQaE8xak4xa25CZExOS3ZSeHE5TDduQ0diek9MM05PUDZMNFBEQVp3WTlqNzUzZnZHVUJzSnhHcy1nVTVVTElEY3p5SUlLVnRvc3FSOUx4Z3Q2T0QwSmVNdktFM2FHdTRUNk1XN0NWS3Z3VUJXUjg4R0EtVnhzTkg0YmVHSEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22024,7 +22064,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 969,
+      "chapterCount": 972,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -29776,6 +29816,30 @@
           "title": "Lionel Messi: England clash left Argentina 'running on fumes' before World Cup final - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUs5ZTVZVlZUbkFkdWR6OS1aelhrWnVlQ05lX3lyX0FBZDJwTkROQ2RpVnRGQU5CSF80WHFKalg5MTZWeGR5SzEzd1UzN01SU2hiTzZXVm1oZW1iUmF6aUhNbE1jOFJIYzJ4akRqWWZtRWNydWF5OEZ4eGQ2ZjBZS0drTmQ2YUoyRWN1RERWTTBJQU15amRxbkZxR1hRSmtKVUh3R1kxNVF0WGZnQ01rZkExS1VGZENHd3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791484151599",
+          "date": "2026-10-07",
+          "title": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWlaaTRSTmNScjh5UjNsaEZzbHp3dkhodkdIZ1hSRjIySmhabGFaUWdZTnItTHRnd0N6V1pCUm1wOWcyNGc1LWxWQVpUTzZrNUsydlRXc1BBa25GVjBFaExZNzYxOGJWdi14Y0hTSFJkc2VvOTFuNGgwQ2RYMjFBVWtVaWVRZW5lTXNaakt2ZXBrRlJIbHpnWkJ2My1IU0c3MEcwTmNrTDZlYkh3ZnNaR2gxX1l5RE1LOVYtaE9hSmhiRVZUSmtmdVNqYjJfdDg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791484151599",
+          "date": "2026-10-08",
+          "title": "'Phenomenal' Harry Kane backed to end England's Ballon d'Or drought by Gary Lineker - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTZQdUFmVXJSQXBXVU9MM2RKWm5obndYekJPRGM3WE9EcHpyNWJQLThVRThvNy0xdGxoUjE2Umo4X25Ya1pVSkIzNVJLNVNSY2JyUkFZM2dNaTEyWEVpM2tubGVMaW1tRndTN05Cci04UDY3Unp0S1lLRkpfN2tqR21rQ29ld3M1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791484151599",
+          "date": "2026-10-08",
+          "title": "Tuchel: England have levelled up by taking 'calculated risks' - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZHNMUl9ibnVGZ0tfaEI5VEVWR1BrVjdNSXQ3dVZiVVBmSDl0ZXA2VFlhWTV1U2FJMGNoM3FIZURESnMtamZValQtOWNrUWRqU0FWXzNKWXNncXdnaW94Mk9RMjFIRWQ1bVJMcFk0LU1GYWpZYUd2SDMzNVRJeW9Gb2JMUlhKZExwbUlOMjRRWWlhaHVuZXk1T1k3TTdpMnhuMFJ4Z2hxbnNHcnhxOTV6MDFfTnJLQXNoSWdmeHRuWTRMR0k4cDhnOUFuVWhGNjQxUUpoUg?oc=5",
           "draft": true
         }
       ]
