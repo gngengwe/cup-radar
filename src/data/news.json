@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-08T18:29:08.613Z",
+  "lastUpdated": "2026-10-09T00:59:44.346Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
+      "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5\" target=\"_blank\"&gt;World Cup 2026: Argentina's Paredes banned for 10 games over W",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-21",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-african-football-leaders-rally-behind-in-2026-10-08",
       "headline": "African football leaders rally behind Infantino for FIFA reelection - Reuters",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-26",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUE2SlF5WVM4VndUeml3blduTWRTRjgyRGZHMFNDWkw0MzdXNWJMWGx4bjlQSnRRckNPV0ZQbC1OS3plVnJUQWpVeHBIeWpfM01OVGNjcXRKNlI4MmtaREJnN0NoeURTTy1LRy02VkhXN3JkQ25KYXppMDk4WS1vOVdhZVFYS29saGxEdA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-generated-889-million-for-seat-2026-09-26",
-      "headline": "World Cup generated $889 million for Seattle and King County - KNKX Public Radio",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3lsbFNPd0RhcGx1LVRRaHpYc1hva3puX19RWVBUVDUxUlFFVTJES3ZBY1BtOGZDb3NSYlJ6N0NWYWFZX2dPcThpbWNBYkZ0TzZzUlljaGpsQ1JpcXNJX2JBalBQSGJ1UTVWN2JPXzNzbWdpdkItNThNU2FHVTNBT1JBTkl6MG1rVW9CYTFMTVdLYW5kODA4U3M2Q2dPVHBiZFE?oc=5\" t",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3lsbFNPd0RhcGx1LVRRaHpYc1hva3puX19RWVBUVDUxUlFFVTJES3ZBY1BtOGZDb3NSYlJ6N0NWYWFZX2dPcThpbWNBYkZ0TzZzUlljaGpsQ1JpcXNJX2JBalBQSGJ1UTVWN2JPXzNzbWdpdkItNThNU2FHVTNBT1JBTkl6MG1rVW9CYTFMTVdLYW5kODA4U3M2Q2dPVHBiZFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-spend-it-on-beckham-world-cup-deals-help-2026-09-25",
-      "headline": "Spend It on Beckham: World Cup Deals Help Global Star Rake In $51 Million - hollywoodreporter.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGFjMFZqUkpPY04yVlBVMlFFR2kyZVRZLVU3eUx0SkRoVDhJQnZDRVp3dFZoYTZPTkJzcWZTYTV4UWJtT2NRcTNkZWE5U1lDTDJWeVlta0NlRVl6WGxhcWtTLTM2OTNfbG1QcVZoVGNDSWNJYW9xZW1CMER5T0tCVmROM0xudlhaRFRSU2VLZ3M1eU95UWM0Ty1Zb2tiVXQ5YmhNc1hFckJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-25",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGFjMFZqUkpPY04yVlBVMlFFR2kyZVRZLVU3eUx0SkRoVDhJQnZDRVp3dFZoYTZPTkJzcWZTYTV4UWJtT2NRcTNkZWE5U1lDTDJWeVlta0NlRVl6WGxhcWtTLTM2OTNfbG1QcVZoVGNDSWNJYW9xZW1CMER5T0tCVmROM0xudlhaRFRSU2VLZ3M1eU95UWM0Ty1Zb2tiVXQ5YmhNc1hFckJjbGR2emc?oc=5",
       "featured": false,
       "draft": true
     }
