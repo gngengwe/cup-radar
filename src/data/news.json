@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-09T00:59:44.346Z",
+  "lastUpdated": "2026-10-09T18:00:51.317Z",
   "articles": [
+    {
+      "id": "news-auto-an-england-soccer-player-s-favorite-thin-2026-10-09",
+      "headline": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFhLYXNhUGxfSkVJRmNDZDI1VjBVYnBBS25oUzVMbERCT0FUMmJ2VWhaekdMM09WQUtsYWhWQ3pCZFprU21lTjk1YTRHR2d4dkRZX1hFa0txbWVack1WSmhlVS0wOWRLampiU0tDRGxmZXBTbVFReEVvbEZXck9YNFRzRXNtRTN3OUVQLXpWOFRRZ9IBkgFBVV95cUxNbXVuOUxfR0U2MnF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFhLYXNhUGxfSkVJRmNDZDI1VjBVYnBBS25oUzVMbERCT0FUMmJ2VWhaekdMM09WQUtsYWhWQ3pCZFprU21lTjk1YTRHR2d4dkRZX1hFa0txbWVack1WSmhlVS0wOWRLampiU0tDRGxmZXBTbVFReEVvbEZXck9YNFRzRXNtRTN3OUVQLXpWOFRRZ9IBkgFBVV95cUxNbXVuOUxfR0U2MnFtTG42RUpPYVROa0NwdGJrRnlocEZ3XzZyZEhsMDNpX3pKZG91dUtVenpqOGxlQzhXeWV0OEpEbDlsYTJRVTBmbmUxbWVIQnJfZmxJUnd5Y1hVUUNFSzdwOEpkR2JVWTNhT3FkWTBYVjFuU2FWaXFvMGlWejh6ZV9jVmphcVMxZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nsa-scandal-gta-clarifies-role-in-2026-w-2026-10-09",
+      "headline": "NSA Scandal: GTA clarifies role in 2026 World Cup visa application process - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxObzdFWW5xSndtaGZDY1p0d1pOVVNLS0hRTm02aWtsVWdURnRjelNFakNXcko1VUdOaWs3ZHZDT19nMFo2YUhORzVBNnRMVS1oR09Vb1JwVlBNYmktZjZpNnRMdUJoZlBjc3FCOGFOUTdPdmRlMV9BN29faWFEbkJUWjlRMVdlMjF0YU5RWDRiV3Ryd3pxV21aT2thS3Bwc2dESk1oVkk0SlQ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzdFWW5xSndtaGZDY1p0d1pOVVNLS0hRTm02aWtsVWdURnRjelNFakNXcko1VUdOaWs3ZHZDT19nMFo2YUhORzVBNnRMVS1oR09Vb1JwVlBNYmktZjZpNnRMdUJoZlBjc3FCOGFOUTdPdmRlMV9BN29faWFEbkJUWjlRMVdlMjF0YU5RWDRiV3Ryd3pxV21aT2thS3Bwc2dESk1oVkk0SlQtOXFfSUxoTUNSLUx2MC1KR1VncHNFWHlZZ1VTaWJGblpoUEk?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
       "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-26",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUVXeWNzbEVfRkRJV21rV2tlQmhJM1pmODZ2anJNb0lNNXRVQm5pMTZDQ0VWcXV3aUdocGZ3NExPbkVpRC1PU3hYdWdrSm93TDhCNVB0RlBFTS0zamtDVGRvSzNzZkxvTlFlQnZtelVFTkVLSFNyUlBnazZPY1R6TUN1Y3pweWhrSVJPUkNrSEpaY0xhZF9kcEliVHI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lamine-yamal-reveals-what-he-told-barcel-2026-09-26",
-      "headline": "Lamine Yamal reveals what he told Barcelona legend Lionel Messi after Spain beat Argentina in World Cup final - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUE2SlF5WVM4VndUeml3blduTWRTRjgyRGZHMFNDWkw0MzdXNWJMWGx4bjlQSnRRckNPV0ZQbC1OS3plVnJUQWpVeHBIeWpfM01OVGNjcXRKNlI4MmtaREJnN0NoeURTTy1LRy02VkhXN3JkQ25KYXppMDk4WS1vOVdhZVFYS29saGxEdA?oc=5\" target=\"_blank\"&gt;Lamine Yama",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUE2SlF5WVM4VndUeml3blduTWRTRjgyRGZHMFNDWkw0MzdXNWJMWGx4bjlQSnRRckNPV0ZQbC1OS3plVnJUQWpVeHBIeWpfM01OVGNjcXRKNlI4MmtaREJnN0NoeURTTy1LRy02VkhXN3JkQ25KYXppMDk4WS1vOVdhZVFYS29saGxEdA?oc=5",
       "featured": false,
       "draft": true
     }
