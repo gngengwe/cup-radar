@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-09T00:59:47.234Z",
+  "lastUpdated": "2026-10-09T10:07:56.793Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 520,
+      "chapterCount": 521,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4178,6 +4178,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdzZwRGJGcFhfWXR4ZG5qOFptYXBOd2pHaE9TOGp4QkJqQXRSOFJVM2JpQ3pfcVVCdXpYWnFXSFZXYWpkaUhfQXBMbmx1ZWZNcHUwTm9hX3hrUmY3YUdUYmc5anVMMERqUDRZUnRlWFMtY3BBMmxhYWJVZTQ1b0x4UEJRdVZuWjhRczktY0hsd0p3NDZrejFkRmxSYkd2bjNJY0hPM3FOcHo3Ty1vZThOOUxuUVJPaEVWcFdjWkJDVzJYbGFleU9HVFY0bk9hdmVPNTRwcnlaLXA2UQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791540474214",
+          "date": "2026-10-08",
+          "title": "Messi played his last game for Argentina and other top photos from Latin America and the Caribbean - Bozeman Daily Chronicle",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMGVKNy00MnJ1OTdfcFBpMGlZY1V2elJ1dXVXR2ZGNjBkUkFUc25ScFlUWHlPOE91UThmQ0YxUGlXZUhfQ3dDUFlpSzZRRWJDaU8tLVJRVWktYmo5ZzBpdzRUVkl5YzNYVl8zOElGRHV4enhaS0EwazR6WThqRWhQdlN5c0ZKU19DYmhYMGhoRXRGV1pVblNHVl9SUWRqR25yQ3AxVDFYSTIzalNGTVRyUkg2d2tWTXBqWUczWDk2Q0JHRGJtLUYtNUNSTFZ3cHdrWlU3NFJaZEdRdHlUUzVUZUFyMW5SMDN1MWZHMzVrdUNWRHhzVl9VMjE0Y1EwdkFoWFhEOTFzbjRENDk3LVQw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7567,7 +7575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1079,
+      "chapterCount": 1080,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16200,6 +16208,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3NRS0RWVGtOV1hWMjRoV1BBbTBycF9kR1FhT0JsRUVPeVlRVE5GOE1hYVIyNDd4X1FDMFNiX0hBZjJ6bWpTX2ZpcTBBQklRNTB3cEczY1I5S3pLZEFscUxDSkRGNG5ub0owYzZXMWs1d0J6d0R6bWpKRk1oVU1UTg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791540475402",
+          "date": "2026-10-08",
+          "title": "“Tactically, They Ran Right Over Us”: The Brutal Admission After Argentina’s Defeat to Spain in the 2026 World Cup Final - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUUQyLWhrQUpseDdfVnlSLW16SEp3aTE4TFVsTDQtb3lRZXUzQzF5ZExsdjNvVm1KTUpDaFNBb0hHNTIzMVA2YmpnVmJaMWxvR1R0OThqYzBPTW4tV2YtWVF1dVpKd0swdTRjTXNUd0ZuYUo1czVKR2dRSEo4eG5pa3NCRldYSktuUHJ2SUtGZW1QOG9aZk5xSURHSFZzLW5tN0FZWlI4anlzcTA3cWZQdzZjWDFCWktpS2JnYkVDODVEbFVSTGVUUjhyWkJneDItdDVpZlRxZlA0dHl0LUtkajJlYUVGdzIzTzUtSTR5MkluWTYwRkxOMGx1THg5RV9yZktRZGl6eWI0azlfM2t3S3Y2TXl4clJYTklLM2c1NzhJdFE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16218,7 +16234,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 706,
+      "chapterCount": 707,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -21867,6 +21883,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb01sdEZHaU9sYTFWdmZySzVZQjNtdmxWbkZqeElrbVR5QzBHaG04czZ2QTA0c0k5VzBJZTlrWHJaYW5xSzJub2ZxdE9BeFpHWTlRbjlGN3lYSEhMNVVFVGtyVTZhTk9rVDNnOFhIazBHNFQtZ1Q1MjNRdjJ2bm1qd2s2b3Y4Qk9hRFVUTVlaMGhoY2drTVI0OWNfNm5SOGxJR1ppejZjLVVBNG1BV0NKOF9SeUtVSjNjeGZkeXQ1QkwtRzFwaGtuR3pKX1FUMkhKU2c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791540475892",
+          "date": "2026-10-07",
+          "title": "2030 World Cup Power Rankings: Who are the top 15 nations in the men's game? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWlaaTRSTmNScjh5UjNsaEZzbHp3dkhodkdIZ1hSRjIySmhabGFaUWdZTnItTHRnd0N6V1pCUm1wOWcyNGc1LWxWQVpUTzZrNUsydlRXc1BBa25GVjBFaExZNzYxOGJWdi14Y0hTSFJkc2VvOTFuNGgwQ2RYMjFBVWtVaWVRZW5lTXNaakt2ZXBrRlJIbHpnWkJ2My1IU0c3MEcwTmNrTDZlYkh3ZnNaR2gxX1l5RE1LOVYtaE9hSmhiRVZUSmtmdVNqYjJfdDg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22096,7 +22120,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 974,
+      "chapterCount": 975,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -29888,6 +29912,14 @@
           "title": "Women's World Cup play-offs: Ella Toone called up by England as Lucy Bronze withdraws - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTTBYMHNVbm85VWFubTlNOEwwdFVFMlJBYm1oVWV3QzljV2pMVkJfVzN4aF9UWkc1OThqMnZ2TWZXd0RkcHEyUXJpQXUwVUU5Q0F3elFCdmtYcmxOX2I5aWhkTFRLWG00?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791540476793",
+          "date": "2026-10-08",
+          "title": "Arsenal target tipped to change clubs next summer in boost for Gunners - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2FVQlhPNkt2Ymx4RGlyTjB2MjF3ZzZEaTM3UTR1dXIzRHMzYWVOUHQ2anNJTDNrT2w1aUlWWm5GSElzMzNCQjkxeERwY01QY01tcGdKeXBycHlNTlM1Sjc1S3loYVhrWnBHNVBycWYzTVlMMkg4VGVlRjVZc0pzXzJvb3Q3VTFYczBn?oc=5",
           "draft": true
         }
       ]
