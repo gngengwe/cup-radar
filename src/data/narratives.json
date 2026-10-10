@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-10T09:29:03.350Z",
+  "lastUpdated": "2026-10-10T17:01:12.874Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 523,
+      "chapterCount": 524,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4202,6 +4202,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzVUcDNhYWtldkhtXzhGd2M3ZEpsTW53QmJvTy1Bamhybm5BYll5ZHk1bGF5czJlVE80QWc5blVjby1ycUpOTHF3N01XRng0TXRjdXJ1ZVpwTVZCN210WnpEc3M5WWl2RlE0VmVjWlJubklOZzhLVTFQekNncW90QThiMy1Uc3lWOUJJQWc2TEt2R0FnVm5tV3NaZmFPYVBhWUVFZWQwQUtnVFZqQlE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791651670739",
+          "date": "2026-10-10",
+          "title": "Argentine stars set for Serie A showdown after Messi’s international farewell - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGxRQzVCbEF5T1ZEdTdkV1hiNHY5ZW9hakpPbVNHUEROSFZWQXV0Yk5YREdXVlYwRUU2UmdtOHJCcjE5M2FrYWRmMmEzRXcwRlVjczBUTmttMUxObHlyZTZUcVdRTW5PbDdjejEwTFVCU3cwXzRKc3QwNGpmTG5VT2tmS000N21zM2k4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7599,7 +7607,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1084,
+      "chapterCount": 1085,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16272,6 +16280,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX21weS1Eb0FwaEh2MHU2VU1fSVRLaUItNXhMQ050YzU1amhNRGpEb3hQV3hOUTdzMUdMNFpDczFMeTBLdGF6TkZ1cnktQlk1TjFiVFlpSWk1bmJubmlSbVRwZHJLUTRnei1ZTkdSYWlJUkVvV2w3RFZIcHZCZDlRRmFUdEs0Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791651671709",
+          "date": "2026-10-08",
+          "title": "2026-27 Stifel U.S. Cross Country Ski Team Announced - U.S. Ski & Snowboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblQzVTBlS19GUm9udjEySExHLWVoaGtwdllFQncybzNERVFqRHVYdEM4QjRPMnhZZWM3Mm91ZGpJN2VZdDdDRzQxVElFRVBQWDN3Q2NSc0NBdEdUc2ltUW0yc3RhZ3JXejNZdEJ0OEROTXRsTjdoUVFvTWNHUjNWWk1FYmlwem9BR1Nsa2dFYkxfRW8?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22184,7 +22200,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 981,
+      "chapterCount": 983,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30032,6 +30048,22 @@
           "title": "Is Greece v Lionesses on TV? Channel, kick-off time and how to watch World Cup play-off - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQThoMDFXTU0xa3pJazBlQklsNlVyazRKMlc0UGVmU0xXQTVGVWpxNEVnVlA0SVZOMlJmeHBvQTVjdHVlal9UNjJGUXRSb0pCTDN3bHFuWE11akh2ZXhsTjFUNmpaeGtPeWM2RDVVeVRCaHlPenZLQ3FaT25Jal9wdXVOTDc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791651672874",
+          "date": "2026-10-09",
+          "title": "Women's World Cup play-off: England in Greece for first leg of semi-final - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzQU54bWxvZk1aemQ4UnNONlZ2TzhjYVY3YWdwQVZETE9OY3B0WktFUTdobmhWcWptX0JDVncwckRvTHlfT3ZQcHBJcHh3VlJhamFGN2Z2OGtDQmE3TGxRdEdWdU5qMEVYY1ExbC10MjE0Qlctc2JmWmd6cFBhbkU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791651672874",
+          "date": "2026-10-10",
+          "title": "Argentina were World Cup’s most targeted team online, says FIFA report - The Daily Star",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGdscGhfcm1QclprU2R3c25fWWh0RFkxWWY1eXZyRDNPY1B6REJuUjBMRGxjNVBsRW5UM081RkFpQmdhRFNpd1NOVXl1d2ZMLWRHa1lqQVlnck5fWUg2STdPcFBMOHdCazQ1OGw2SGZZZEgxb1ZWczVLb1JDdVFJN2ktOFJkMTV1VHd2SXlHZU1KWG5sMjVXZVljV2pOSEdWVlZJUndDd3d5enh2OWpmY3JBU1ZFMTNOamxSeHJYUzFWbUlE?oc=5",
           "draft": true
         }
       ]

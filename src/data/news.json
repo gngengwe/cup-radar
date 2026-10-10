@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-10T09:29:00.593Z",
+  "lastUpdated": "2026-10-10T17:01:10.296Z",
   "articles": [
+    {
+      "id": "news-auto-an-england-soccer-player-s-favorite-thin-2026-10-09",
+      "headline": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOckRPRWpkZjl3Wjc1U2U1QnZfelo3MW5EbEI2Z2RJaUFMSHY5OERCOHJNbkM2c010ZHNyRE5LQjdMZjJ5MHBYQTlNamdRRXN3VWhFYVp0N3p1SnduOS15NXpuRTViY2JqQjhlNGllTFU2WEFsZ0E4azAyb1lNVlF1OV92czhMTkx5d1ptWmtR?oc=5\" target=\"_blank\"&gt;An Englan",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckRPRWpkZjl3Wjc1U2U1QnZfelo3MW5EbEI2Z2RJaUFMSHY5OERCOHJNbkM2c010ZHNyRE5LQjdMZjJ5MHBYQTlNamdRRXN3VWhFYVp0N3p1SnduOS15NXpuRTViY2JqQjhlNGllTFU2WEFsZ0E4azAyb1lNVlF1OV92czhMTkx5d1ptWmtR?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-women-s-european-qualifiers-for-2027-fif-2026-10-10",
+      "headline": "Women's European Qualifiers for 2027 FIFA Women's World Cup: Play-off first legs completed - UEFA.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakZzSDdKb2FmMGxZbTBaYkZxRjFGM3BxdWpEaXJLSl9JSGVUT1pXNUVpVVZVR0cyMmQ0bldWOGpBNXpJVm5NOUNUVnI3bi1BSlUyM2ZXdVdjSGdtcEVNRTc4cTNRcC0tODRSZ3pyX0dRQ3E1bjFuVFJteEtjS1ZwZU8tZjdTdm5ObXV6TUhSbTRKNTJmbG8tcGxmTFdTWEpBRU1tZmxwXzN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-10",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakZzSDdKb2FmMGxZbTBaYkZxRjFGM3BxdWpEaXJLSl9JSGVUT1pXNUVpVVZVR0cyMmQ0bldWOGpBNXpJVm5NOUNUVnI3bi1BSlUyM2ZXdVdjSGdtcEVNRTc4cTNRcC0tODRSZ3pyX0dRQ3E1bjFuVFJteEtjS1ZwZU8tZjdTdm5ObXV6TUhSbTRKNTJmbG8tcGxmTFdTWEpBRU1tZmxwXzNvVVlQazdKWWZIRVI4VWRRWHJnVGtlYmdrSWtkSmRac3diWmNOYWNkYXpGNkk4dHJYZUgwSFQzd2xR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-alexi-lalas-post-world-cup-power-ranking-2026-10-09",
       "headline": "Alexi Lalas' Post-World Cup Power Rankings: France Or Spain At The Top? - FOX Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-27",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVYxd19MVk83aDYzQ1dHODNvT0lEaTQwVWVIa1QzZ1lWTg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-colombians-in-kansas-city-thankful-for-w-2026-09-27",
-      "headline": "Colombians in Kansas City thankful for widespread support during World Cup - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOMi1GOXBfVENZRXNOekliWUQ4eWY2QjJINzVZNTRKODhtaGtleXprY0VwdHV6OVYtaVJXVEJKb1NpNi1lbWNkNGlFVV8tV09LeGhPblJIVmpjX1RXNDVySllmb1pSYTdWY2owZ2F3R3pFdTRMZXFFalVhYkgya3ZqQi04SkZLNm1EejBGdjR1MGRhWXBCM1g5OGRnMll5SVpCWGczd2JwbjV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-27",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMi1GOXBfVENZRXNOekliWUQ4eWY2QjJINzVZNTRKODhtaGtleXprY0VwdHV6OVYtaVJXVEJKb1NpNi1lbWNkNGlFVV8tV09LeGhPblJIVmpjX1RXNDVySllmb1pSYTdWY2owZ2F3R3pFdTRMZXFFalVhYkgya3ZqQi04SkZLNm1EejBGdjR1MGRhWXBCM1g5OGRnMll5SVpCWGczd2JwbjVvNXM0UUZmaVRIQ3RFb2PSAbwBQVVfeXFMTlpZa05SM3hRcWpaNGZwdmFpMUdxa3Q0R2NvaElmTU94dmpFYmFmNFlYOTlPdU9iOVB0LVpkWXQ1TVl4bnJlWUJCemVubkkwZTc3MjFvVy1qUmlYaW9RRkhWMFcyY0hXck1YaE54ODA4N25VaFZpbXZ2NjhNbmFXUE5wck9paXhKUGdqLUpYdjlMUHBTakNISG1HbjZLUlhFUXlVQWl5dHByYnJaZTVFZ1FMTFhrWkhsN0d1UEI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
       "featured": false,
       "draft": true
     }
