@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-09T18:00:51.317Z",
+  "lastUpdated": "2026-10-10T00:29:50.480Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-an-england-soccer-player-s-favorite-thin-2026-10-09",
       "headline": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue - Kansas City Star",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-19",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbURKRDhVdVdyNjFKLUFjcGtNTy1CUlg5dHhLQ1J3SW5zRnhLTl9nbTdEcG5EdnZYaG9GLUw0R05qNVdXUjl3NWZraGRQS3ZGOE9zZlpzYjVBcFoweDhLRkhuRlVSRWFlLTJwNkxlSDJHZHFBVVJFd2pyVmhEaFdrNTlSNzJBMHRwLUdFZU1aZkxzUUFxWHExLVZhLWxBOGloN3NnaFg5U0ZDMC1xbHFoWVBkdV9mcVBpblptVlRPX09KTXVoOGtqNXFDWjkwempmeVhHQ2NRcmNuWnNhRG9RN0EwYzlzaUphNjVDMkFhQ201ZjFSZzk0QlJrX0JzZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-italy-vs-colombia-livestream-how-to-watc-2026-09-26",
-      "headline": "Italy vs. Colombia Livestream: How to Watch the 2026 FIFA U-20 Women's World Cup Bronze Final for Free - PCMag",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUVXeWNzbEVfRkRJV21rV2tlQmhJM1pmODZ2anJNb0lNNXRVQm5pMTZDQ0VWcXV3aUdocGZ3NExPbkVpRC1PU3hYdWdrSm93TDhCNVB0RlBFTS0zamtDVGRvSzNzZkxvTlFlQnZtelVFTkVLSFNyUlBnazZPY1R6TUN1Y3pweWhrSVJPUkNrSEpaY0xhZF9kcEliVHI?oc=5\" target=\"_",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-26",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUVXeWNzbEVfRkRJV21rV2tlQmhJM1pmODZ2anJNb0lNNXRVQm5pMTZDQ0VWcXV3aUdocGZ3NExPbkVpRC1PU3hYdWdrSm93TDhCNVB0RlBFTS0zamtDVGRvSzNzZkxvTlFlQnZtelVFTkVLSFNyUlBnazZPY1R6TUN1Y3pweWhrSVJPUkNrSEpaY0xhZF9kcEliVHI?oc=5",
       "featured": false,
       "draft": true
     }
