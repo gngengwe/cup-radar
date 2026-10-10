@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-10T00:29:50.480Z",
+  "lastUpdated": "2026-10-10T09:29:00.593Z",
   "articles": [
+    {
+      "id": "news-auto-alexi-lalas-post-world-cup-power-ranking-2026-10-09",
+      "headline": "Alexi Lalas' Post-World Cup Power Rankings: France Or Spain At The Top? - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWd3Z2dxUVVsY3RfbkVXM3UzTTZCbnVuaW1OTmpIN293ZVRhQnJ6UkI2cU5zN18yNHJuelRxbFZobzJfazdzYTYxekNiY3hLdmwwT2M1X1Y0R09MVmRtazlhT3JENGJYSEVUUWRkSHYzV0xNRHRwZ0otdnFXcHRsLVBuMmpmQ3RBTVHSAYoBQVVfeXFMTXAxN0pQSERfSUE5SzB0T0x2ZG5",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-09",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWd3Z2dxUVVsY3RfbkVXM3UzTTZCbnVuaW1OTmpIN293ZVRhQnJ6UkI2cU5zN18yNHJuelRxbFZobzJfazdzYTYxekNiY3hLdmwwT2M1X1Y0R09MVmRtazlhT3JENGJYSEVUUWRkSHYzV0xNRHRwZ0otdnFXcHRsLVBuMmpmQ3RBTVHSAYoBQVVfeXFMTXAxN0pQSERfSUE5SzB0T0x2ZG5pQ3J1MlBOYXFHZFQwal9SZmk5THVXWjF2S0dMRUkzaXpzcG9PQ0RvRVo2ZkVaUkpGNXFxN3A1UjZUQ0VlUVZOSTg2UTRZOVhvWF9VTUZQR1lVQl91LUxzV3hmbmxJWkdZdzI4TG9xdFBnZDhOOUhB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
       "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-25",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-fixture-schedule-and-all--2026-07-19",
-      "headline": "World Cup 2026 fixture schedule and all the results - Sky Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbURKRDhVdVdyNjFKLUFjcGtNTy1CUlg5dHhLQ1J3SW5zRnhLTl9nbTdEcG5EdnZYaG9GLUw0R05qNVdXUjl3NWZraGRQS3ZGOE9zZlpzYjVBcFoweDhLRkhuRlVSRWFlLTJwNkxlSDJHZHFBVVJFd2pyVmhEaFdrNTlSNzJBMHRwLUdFZU1aZkxzUUFxWHExLVZhLWxBOGloN3NnaFg5U0Z",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbURKRDhVdVdyNjFKLUFjcGtNTy1CUlg5dHhLQ1J3SW5zRnhLTl9nbTdEcG5EdnZYaG9GLUw0R05qNVdXUjl3NWZraGRQS3ZGOE9zZlpzYjVBcFoweDhLRkhuRlVSRWFlLTJwNkxlSDJHZHFBVVJFd2pyVmhEaFdrNTlSNzJBMHRwLUdFZU1aZkxzUUFxWHExLVZhLWxBOGloN3NnaFg5U0ZDMC1xbHFoWVBkdV9mcVBpblptVlRPX09KTXVoOGtqNXFDWjkwempmeVhHQ2NRcmNuWnNhRG9RN0EwYzlzaUphNjVDMkFhQ201ZjFSZzk0QlJrX0JzZw?oc=5",
       "featured": false,
       "draft": true
     }
