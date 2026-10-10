@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-10T17:01:10.296Z",
+  "lastUpdated": "2026-10-10T21:13:48.516Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-an-england-soccer-player-s-favorite-thin-2026-10-09",
       "headline": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-27",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fresh-off-world-cup-wins-kansas-city-lea-2026-09-27",
-      "headline": "Fresh off World Cup wins, Kansas City leaders say sports could be city's promising new brand - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVY",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-27",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVYxd19MVk83aDYzQ1dHODNvT0lEaTQwVWVIa1QzZ1lWTg?oc=5",
       "featured": false,
       "draft": true
     }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-10T17:01:12.874Z",
+  "lastUpdated": "2026-10-10T21:13:51.538Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 524,
+      "chapterCount": 525,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4209,6 +4209,14 @@
           "title": "Argentine stars set for Serie A showdown after Messi’s international farewell - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGxRQzVCbEF5T1ZEdTdkV1hiNHY5ZW9hakpPbVNHUEROSFZWQXV0Yk5YREdXVlYwRUU2UmdtOHJCcjE5M2FrYWRmMmEzRXcwRlVjczBUTmttMUxObHlyZTZUcVdRTW5PbDdjejEwTFVCU3cwXzRKc3QwNGpmTG5VT2tmS000N21zM2k4?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791666828963",
+          "date": "2026-10-10",
+          "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTJtOGRweU0yNENmVWpjcEF5a2l5ckY1cnJPaFpfRkJqMDBKS1p4aXpBTjVxM3RBUEZCNnhZLURmaHJRYWZvZmVKcEJIMk94OFAzUDhfVnB5RVRQaW9jb1duMEVOOXRoakNYd2hnZGN0b0FPM2lFNDc5QkJreHpJUFRIWjdzd1dkdklNcG5sekdPSXRaYWtHaUd1MldadVNsNnp5Q2xhbDNmd0h3SDB2LdIBtgFBVV95cUxPaUVDcEx0R0J5WEFmY1ZZSkxsVF9ESDNzM0tSZlZzSTdvdkZPT2xVNDlqUzlWejhPeDV4UFZaenRDang5cFBHak0wUGNPV0FJTFFhaXFfbGtvSng4RFYzeXlUczc0OXJjS1A3eU1OMzI1Rkl6WlRNYXYwRDE5cEpFVl9lVTFQNDNnVG5OYmltOEY5SjNydW5nc2dTT0ozN2JtRnJuLVdGc1RlVF9SWVlUVDBzUFZoZw?oc=5",
           "draft": true
         }
       ]
