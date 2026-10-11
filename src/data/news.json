@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-11T12:11:47.365Z",
+  "lastUpdated": "2026-10-11T19:21:23.063Z",
   "articles": [
+    {
+      "id": "news-auto-how-fifa-broke-its-own-rules-to-boost-th-2026-10-11",
+      "headline": "How FIFA broke its own rules to boost the DRC's chances of World Cup qualification - Le Monde.fr",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbVVTQjZ1R3I4VlFVSWJVT2tWakdlXy12YXd1bVVSU0F2RXRWYnQ4X1VpNXNrZXViN3RiX2dZNXN6ZFRteHJ4ODFJUHB1WUhmc2E0WmZPSHdUU1FzWVktWVh3TFFoaERFcHhiN0hpM25UelRTN3ZFRTAyOE5McWRhVTJTdjg1THVaZXo4alZwLVd5ejVPcTdnVVpmSVFyQm8xb0RNYVA5ZDE",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-11",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbVVTQjZ1R3I4VlFVSWJVT2tWakdlXy12YXd1bVVSU0F2RXRWYnQ4X1VpNXNrZXViN3RiX2dZNXN6ZFRteHJ4ODFJUHB1WUhmc2E0WmZPSHdUU1FzWVktWVh3TFFoaERFcHhiN0hpM25UelRTN3ZFRTAyOE5McWRhVTJTdjg1THVaZXo4alZwLVd5ejVPcTdnVVpmSVFyQm8xb0RNYVA5ZDEtTWFFT0Y4eDVnUzNPNjdNUF9QaUlCalJOTkNyTDJabTRoLW1QejFHeFdVWnRzbmx5Y190UXZFYmNHVQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-uefa-tells-gianni-infantino-that-fifa-sh-2026-10-11",
+      "headline": "Uefa tells Gianni Infantino that Fifa should share out £1.5bn - The Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkRwWDVVM0dsX29VcmtUYm1WYmduWWZqdzVmU0ZmVlJKMjJFYWpnZG1vOTFTQlpud19oSTFxUDhjN180b2JaTklZXzRqem5ZaXFWQU52RmZwVWZjTWJXbHoxTkVuM2ZrT09NbmNWd3JzOXFXaUZ6NnFGNXJ4bmZjWnAwS2cyY18xWnNqY3B0RDZDR2hlX0lLdDhlX2Q0bkZvYTNqUTZ3?oc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-11",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkRwWDVVM0dsX29VcmtUYm1WYmduWWZqdzVmU0ZmVlJKMjJFYWpnZG1vOTFTQlpud19oSTFxUDhjN180b2JaTklZXzRqem5ZaXFWQU52RmZwVWZjTWJXbHoxTkVuM2ZrT09NbmNWd3JzOXFXaUZ6NnFGNXJ4bmZjWnAwS2cyY18xWnNqY3B0RDZDR2hlX0lLdDhlX2Q0bkZvYTNqUTZ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-generated-889-million-for-seat-2026-09-27",
+      "headline": "World Cup generated $889 million for Seattle and King County - Oregon Public Broadcasting - OPB",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5\" targ",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-27",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
+      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
+      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-can-saudi-arabia-s-2034-world-cup-surviv-2026-10-11",
       "headline": "Can Saudi Arabia’s 2034 World Cup survive the Middle East’s escalating wars? - South China Morning Post",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-28",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE4zU0YtNmc0SFRZZGZHZnFsSkNFMXFZdWdmdW1nU0NJNFJTOGRWT19PVVhUZndJdjB4ejJXTE0wbHpoWUhqSXU0Vy1ocnpNcS1sc3V0bnpfUUptUkNheVRmY0ZvcjFkNWUwNmFZb3hEY3ZRZlU5RnBfSUJ1aG5CSVlvazFsUWJaOERmRw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-fire-department-accelerates--2026-09-28",
-      "headline": "Kansas City Fire Department accelerates 24/7 DFR program in time for FIFA World Cup 2026 - Police1",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnNOMnlmOHhtUVBlTDgxYklBNWNaV1FXS3RTXzZFeHFDcmFBZEp6YmJWU05HMkMtMVA1dllEU201YkZaaXFsVlJfSF9nLXJ0di1OMUt2SFgwYm5ZaXg0bGI2cnY1TWxSRUp4bkw5TFJ6c21FUlcyNlNScEJ4eV9FblMtQVNIX2pJemV6a2tjLUNmSDJ6WXdBR1FTc0J2TXFkTWxOOUhvOFZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-28",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnNOMnlmOHhtUVBlTDgxYklBNWNaV1FXS3RTXzZFeHFDcmFBZEp6YmJWU05HMkMtMVA1dllEU201YkZaaXFsVlJfSF9nLXJ0di1OMUt2SFgwYm5ZaXg0bGI2cnY1TWxSRUp4bkw5TFJ6c21FUlcyNlNScEJ4eV9FblMtQVNIX2pJemV6a2tjLUNmSDJ6WXdBR1FTc0J2TXFkTWxOOUhvOFZfdWNZMlZRN2NmVVFtQVJCUm9USW5SZzQ3MXBmRlVmTm5yb3BMUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sporting-kc-weekly-schedule-sept-29-oct--2026-09-28",
-      "headline": "Sporting KC Weekly Schedule: Sept. 29 - Oct. 4, 2026 - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDZrdmFwRlVMWTJ2WXlxUlZOdENUc3kwbG1Hcmc1ejBQUEEybWFhVzJ3dEZrREFvV0M1OF9iOTAtSUQtMHo2WTJpU3U5YVdENm0tM19kZDRUYzRLNWRkVGNzRVhxSTlxUVlpQ3h4S250VGVJRzUtdF9TU0EyQXg0YXhqSzJRaHNRMjlzcA?oc=5\" target=\"_blank\"&gt;Sporting KC",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-28",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDZrdmFwRlVMWTJ2WXlxUlZOdENUc3kwbG1Hcmc1ejBQUEEybWFhVzJ3dEZrREFvV0M1OF9iOTAtSUQtMHo2WTJpU3U5YVdENm0tM19kZDRUYzRLNWRkVGNzRVhxSTlxUVlpQ3h4S250VGVJRzUtdF9TU0EyQXg0YXhqSzJRaHNRMjlzcA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--lost-my-peace-cape-verde-star-admits-fa-2026-09-28",
-      "headline": "“Lost My Peace”: Cape Verde Star Admits Fame’s Dark Side After FIFA World Cup Stardom - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3F2MklfYU5BQWhEVUlZNEVvd2dnd09WMkR6ckd5QnlDbGZqWDdYM0x1b0JaYUpQdEVmRFZiOWl1WVBheHhaeVdpQVBsVW1BZE1hMzhjYmpyd1Q5bk45d0tJS0lYbTNxakFJRGV0SGY1YWlqcVh3X0ViRHB3Z3FEbw?oc=5\" target=\"_blank\"&gt;“Lost My Peace”: Cape Verde",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-28",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3F2MklfYU5BQWhEVUlZNEVvd2dnd09WMkR6ckd5QnlDbGZqWDdYM0x1b0JaYUpQdEVmRFZiOWl1WVBheHhaeVdpQVBsVW1BZE1hMzhjYmpyd1Q5bk45d0tJS0lYbTNxakFJRGV0SGY1YWlqcVh3X0ViRHB3Z3FEbw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-passport-helps-host-cities-keep-parking--2026-09-28",
-      "headline": "Passport Helps Host Cities Keep Parking and Curb Operations Moving During FIFA World Cup 2026 - PR Newswire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZExPYWZ4QzlFNkFXZENUS0JHUFY4MmlLUkVkZ05aMmpYR0tFanJJaFU4MXdlenRnSW5OZGx1UFhMVzloU1dubzNkMG5INEZBUjNtXzlWWGQ3cnFObjV4QVYyeGp0c0Y4Yjl1emxTUVh3QlVpdlNhQUpORFJVeVJwNFJ4dWJjRlpFY1dXY3NYNnh6M3JCX0twOE1tRFZBRVZZQ1BwX2Y1TFd",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-28",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZExPYWZ4QzlFNkFXZENUS0JHUFY4MmlLUkVkZ05aMmpYR0tFanJJaFU4MXdlenRnSW5OZGx1UFhMVzloU1dubzNkMG5INEZBUjNtXzlWWGQ3cnFObjV4QVYyeGp0c0Y4Yjl1emxTUVh3QlVpdlNhQUpORFJVeVJwNFJ4dWJjRlpFY1dXY3NYNnh6M3JCX0twOE1tRFZBRVZZQ1BwX2Y1TFdVWjJfYjVsRnZBM3pBcm9kN3hZMjU2S3UwSnJ4R09EZ2s1SzFyUl9peGNmYXBuYnlKWlA0MkVfSXFjQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
-      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
       "featured": false,
       "draft": true
     }
