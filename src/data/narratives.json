@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-12T10:18:16.653Z",
+  "lastUpdated": "2026-10-12T20:57:46.127Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4260,7 +4260,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 420,
+      "chapterCount": 421,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7621,6 +7621,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVZONl9CS19WRUFrRkMxSHFKYW43d0FUd0xMSVhPUUlOd2g0ZUZEZ2xNQzR4UVBQeDZNMHFkam1CenlJWWdDLWNQZmF6Z3RueTFrMVZ6UzZCTUd2WndQN01CRjVRbHFKNDhVSldEbWhBRHlpVjI3eDg3TlE2VEV4SXNWeDVzTzJPTTNFMWNQZ29jWndfeU8yMFB4VDhtZEhvMzM4N1lmLW0ycWdPTzNQcmNoekNJSDlzWTJVT0VHaGVhcW5OYnM0ekdFTnE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1791838664374",
+          "date": "2026-10-12",
+          "title": "\"Before the London ceremony\": French poll embarrasses Yamal and puts Mbappe on the Ballon d'Or throne - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMmNmZ3ZtalFuTUlFdG5jeDMtS1J5amQ2Z2xjZFRlMHFOakxSUVhNTlpUSkx3dGFFQzBfSHRmVGdqdnNHZnhCbVdGVERLX3JlZmF6cHBTNUNhT2JaeEMwRFZabXFfWGhHajNPTzNsMjNvNjU0S0lBT3BZUHI5NVRQb21takNLSzd5SzFzUUZJbTZRakZDUlBTVFRReVlQRzVYdjRVUk84c2JEdUVlRWNIbTVoRUEwZ2RmS1djUkdlTmxpN3UxZGQzR2k0RWdrZ0l0ODY1OUtlaWxFUUV3VXdsWQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7639,7 +7647,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1088,
+      "chapterCount": 1091,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16344,6 +16352,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4VzlEem9abXp5a09ESm42TjgyNGN2d2JoTVF4UGh6d3lVR2RTcDgtYjhNVk5rU3loZ24xQlFSZTVyTWFYTndpMW9zRjlPNGpjY3ROOXlPaHFIeGFoV3U4SU1Lbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791838664949",
+          "date": "2026-10-12",
+          "title": "U.S. Women's Cerebral Palsy National Team Head Coach Chris Maravalli Names Official 10-Player Roster for 2026 IFCPF Women's World Cup From Oct. 15-23 - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEFON0Zaa0h1VmZsbVhjbUJGS1N5aVJxN3VpLVp3ZE5EU1ZOcFI4QU5IUU05OE5SczZLNmt4SnBHUVMxT0RTS2lHazE4NGpsQ1Q4Rk9xZXdHVmN3Z2NOMXY2SVhOeGl2Y2dTa1A5dU9tVXlQN1pmT2xhbUJRYTAtZjRySW1VbFdxVG1paW83cGYtbzRYYzhBRVpwSGRvckJlenoyTkxJQ0dBQ19LVTZuTHpJSDJZZmpiTkE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791838664949",
+          "date": "2026-10-10",
+          "title": "2026-27 Stifel U.S. Freestyle Ski Team Announced - U.S. Ski & Snowboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGEwOGxYV3RpaGI5d3V4R0ZIbDhEOUR6eFdLdnlfNFRLMzdjd3ZpRGFUQVA2UE1GaUdJQ0E5OGxBTzJxMVJPcXRrUGR3S0RVS2Nzb01vRWdPTlhBU05Yc242bWs3M3lxQVl1MkNSTU8waWlfanFGRDNIbWVmREg4NmxlREpMWEhFeHlHWTJB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791838664949",
+          "date": "2026-10-11",
+          "title": "U.S. grabs four medals in Division A, finishes second in men’s freestyle team race at 2026 Veteran Worlds - USA Wrestling",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNanhOSWJ1RG1KRG1DVm5sajI2XzNFYWc1OS1CaFlXUlJvd1ZYNUQwcFZuQkk0ZjBNYTJvb1pUd29FSTlaZTNBbXIzTnllWV92bTFpN0RwRk02Q004WERsU1EyQjVVZUhNX0RvbURpN3F2M0xlZV9IRXlfN3Bwd2NwSVE1NTFvYzhMOWt3VTV5X2pjU29RN3hwc3NBUlk4clVnQzRCYWd6Wm16cUdxQmluWVZOQk9LUDc0bUNjUWctbU1oYmwwMmVCazIzTGVTczgxei1xUURwdHFKUjdsN3lzdg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22256,7 +22288,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 987,
+      "chapterCount": 990,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30152,6 +30184,30 @@
           "title": "‘I want to show you can rise above the hate’: Junior Nsemba on racism and his Rugby League World Cup dream - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEtXd3VTU2ZfOWlSM3dZcGJMYnFPdnBkcFdRdGpuNmgweGdkOEtqbTZjNVBjT3NhVTZzV1dweFVvQkozbGlNWHBvVGk5U2xYc2FIVS0wMWxCanFTdThoZGRnNDAxQWM1R2xheHVVUUhSM1ZrTjFFNXgzUlpDR3VtSzdXV1lnWW1CYTE0VWhXMzN1R0FnUFhUTE9iSERtWU93WkZDOVd5Z0ViN2M1ampWSFVJWkJJaXNxbGR0QU1WOGpfNFJkLTktV09vTFZ2R2ZNWVMyS2t4YXdOaEtKZmpLNFo2cw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791838666127",
+          "date": "2026-10-12",
+          "title": "Rugby League World Cup 2026: Schedule, dates, format, results from men's, women's, and wheelchair tournaments - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS1hDUDFGdTZmU3pHSk1jc0h2SmZ2MVZlRW4wUDVoRzd2R3A5YjBfTE54LTV5NzR4ZnBpUV8tcHBFVVZVRFRycWxabEZXUmpTQXBkS2M3UkZQWjlfaUVWUW9JUDRfUzd6SDhCcHg2WV94YzlIbmJZQThaSXdkcTdKMy1VeE5HZGFLMktZakljamlWMFV2LVR1UEtrTFdlRnR0RkpEdFJCcEQ5UWpVaVFQZjNBWThSdkJKME5GNURrdHNfanJ0bUJFcUdhaWd4dFlRS0tLb1BxU3FTSzFway1xeS1sQ3NDUmJpNUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791838666127",
+          "date": "2026-10-12",
+          "title": "Six questions facing England as they target next year’s Women’s World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUdXc2dJNXU5cHJXM0k4TUJrSXdkcUtYOWkzYlZBaFFOZ2tWdlNnZmIwSFItWU0wNG51cVVkZVZkblY4WnVIUGJrV2lkNFRaXzhsckhDaFFxd2pELUwwbkl3UkFzM2ZmNVlhVUZwVGctSlhBdURCSWVkbkh2YldkTXRGTzU0bGs4OWt3RGNn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791838666127",
+          "date": "2026-10-12",
+          "title": "What channel is England v Greece Women's World Cup play-off match on? TV coverage, live stream and kick-off time - Radio Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVZ4czR6SUFiNF9FU0I3UlNMQUZJano1RWdCdkpMdHl5TVE5c2JqYk1ZN2RSTFh0dHRYSzhmVGYwX2NNNDBYQ3daMkpqNXBYa01TY05LemphbW9ERzVXb2ZzRHdXVXBwc3h5MkpURURkN0hXalktVHNhdU1TRUtkOFpmT21zbS1QT0RqZ2Z5c296SWNNZGNqU0NHUQ?oc=5",
           "draft": true
         }
       ]
