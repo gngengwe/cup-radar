@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-13T02:29:43.592Z",
+  "lastUpdated": "2026-10-13T10:08:51.195Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7663,7 +7663,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1091,
+      "chapterCount": 1093,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16392,6 +16392,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNanhOSWJ1RG1KRG1DVm5sajI2XzNFYWc1OS1CaFlXUlJvd1ZYNUQwcFZuQkk0ZjBNYTJvb1pUd29FSTlaZTNBbXIzTnllWV92bTFpN0RwRk02Q004WERsU1EyQjVVZUhNX0RvbURpN3F2M0xlZV9IRXlfN3Bwd2NwSVE1NTFvYzhMOWt3VTV5X2pjU29RN3hwc3NBUlk4clVnQzRCYWd6Wm16cUdxQmluWVZOQk9LUDc0bUNjUWctbU1oYmwwMmVCazIzTGVTczgxei1xUURwdHFKUjdsN3lzdg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791886130140",
+          "date": "2026-10-13",
+          "title": "Opening Day of 2026 Galaxy U23 World Championships Concludes; U.S. Misses Repechage - USA Wrestling",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUktdHN0NkFzTzlUOEtDWl90LUNSYzdpQ2xpY2hGUGJjdl8zVFdMb2FET1VNempELXM5YlRCYnpIWXhPYnhXTFdUaXFrS0hWbklTWW1kQzNuN1FCNm14azRRUllLWUtYeC1XNWc0RzdOdjVHTjNqRHJ5WUMzZ0VySlI3Y1NZREZGYm9jTVJLYnh2Vm5FdzZtSWZXbUw0c01fdlVodUZCSHJ2MlhTVUhIQkY2ZktrUHdSUXNRWUZqUktWaDA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791886130140",
+          "date": "2026-10-12",
+          "title": "2026-27 Stifel U.S. Ski Jumping Team Announced - U.S. Ski & Snowboard",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkNfY3Nrd2E2MVZWaGZYd2R3VGg1b2JTRGJWdUtZRGhrZWt3TFBkZTU1MWtrenZYQzl2N280cU9aU2kyS3NtWUxoNmNnQ3dFcXVfUTN1dnNaR0Z2R0p2UXg1RENuVWJsRFlSaU9vOE5Tb29ZcGJQYTRyeURuZXoyS0FqcVBZUEhCNkpj?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22304,7 +22320,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 990,
+      "chapterCount": 993,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30224,6 +30240,30 @@
           "title": "What channel is England v Greece Women's World Cup play-off match on? TV coverage, live stream and kick-off time - Radio Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVZ4czR6SUFiNF9FU0I3UlNMQUZJano1RWdCdkpMdHl5TVE5c2JqYk1ZN2RSTFh0dHRYSzhmVGYwX2NNNDBYQ3daMkpqNXBYa01TY05LemphbW9ERzVXb2ZzRHdXVXBwc3h5MkpURURkN0hXalktVHNhdU1TRUtkOFpmT21zbS1QT0RqZ2Z5c296SWNNZGNqU0NHUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791886131195",
+          "date": "2026-10-13",
+          "title": "Men’s Rugby League World Cup 2026: group-by-group preview - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTF3UGxpaDlJMldBMzNZbUsxek5wdDBUaHkzWWpob19zX2xlYTdDb1ZmLUdINERrX25SRTh2LWhlYnNsYmE3WkUwQmpXMDJyT0xkQXZoODNoYnBWT2VtQVpYblgwTXY3WFFrV0RFWFNYOElQUFJfRzVNREVENThiZnJCZjhwdFE1R1Rab0NYMzJidzEtcFcxNGx4VlpMam1NZktB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791886131195",
+          "date": "2026-10-13",
+          "title": "Lewis left out for England's Rugby League World Cup opener - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelFwWFZoTDhCM1k4R0dpOGpuaHpYYS1kLS1ZQml0NVdWanliY3ZtSnJOcjRKeHlXUE9XQk1BM1dpVHdNVlBLNFlBSm5MeVN6RlA4MHhNcFdIclc3YXoxVTZveGdHQWlEaVNfaXZLQ3JRSjVHVC0zeXgydTlaZGVHSUxnNjRMUmxB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791886131195",
+          "date": "2026-10-13",
+          "title": "Lewis left out for England's Rugby League World Cup opener - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVUNaLTVBQ1FCU2RkNFVRVXZhWjEwTW96WW4xMzliSndMODhpU1hCR2dnWUJPbFRndlBLeHNRWWZONVhjNWRXc2hPTnZqT0U5OVVPaFhSbWtEZHZaMFdQTGVIRFlQckdjeWZwTGtxcFA?oc=5",
           "draft": true
         }
       ]

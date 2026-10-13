@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-13T02:29:41.042Z",
+  "lastUpdated": "2026-10-13T10:08:48.677Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-new-report-exposes-human-rights-fai-2026-10-13",
+      "headline": "FIFA: New Report Exposes Human Rights Failures at 2026 Men’s World Cup - Sport & Rights Alliance",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcy1LYTNrVGN4UEUybHZ2d3RpdklNVlVXRFA0XzI4d3lJVFpPQ1NwT3ZTcm1VMlZ0NWZVUThZMnlPa1V5ODFlM2x2bG9XNTNpOHA4MWVKYnRTSEVDR19XQTVuSG05Y3hsQkpoS29XZTNEaDFoUU4yOVpGV25md2NmWEFRN2NzUHRsenF5dUhETDlNVDhFbTR1UXNzbzBmN1ByUmtmemd2WQ?",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcy1LYTNrVGN4UEUybHZ2d3RpdklNVlVXRFA0XzI4d3lJVFpPQ1NwT3ZTcm1VMlZ0NWZVUThZMnlPa1V5ODFlM2x2bG9XNTNpOHA4MWVKYnRTSEVDR19XQTVuSG05Y3hsQkpoS29XZTNEaDFoUU4yOVpGV25md2NmWEFRN2NzUHRsenF5dUhETDlNVDhFbTR1UXNzbzBmN1ByUmtmemd2WQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-president-gianni-infantino-received-2026-10-13",
+      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG0wc1lBQWRwQXpBRU5WdHpnd1k5ZEJVZHhROUR4ZG9CbnBvWW5VTzVUUU5pMzFTcjVUY2M1Z19pNURwUUtQUXcyaDlHWnV6ME9EQ05OTENsa1JUcWdrZzAxSERYX2lfXzZjLWEwNHNTNXlWeFhaTFpxdjhTYzdoV0F4YjVUTW5MdUZCaGFEMGJ5cjVrVXo4YXZnVGJ4aVFrV19PSjFTeVh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG0wc1lBQWRwQXpBRU5WdHpnd1k5ZEJVZHhROUR4ZG9CbnBvWW5VTzVUUU5pMzFTcjVUY2M1Z19pNURwUUtQUXcyaDlHWnV6ME9EQ05OTENsa1JUcWdrZzAxSERYX2lfXzZjLWEwNHNTNXlWeFhaTFpxdjhTYzdoV0F4YjVUTW5MdUZCaGFEMGJ5cjVrVXo4YXZnVGJ4aVFrV19PSjFTeVhuVWE4dTFYLVd3SHlxbGJ4ckRZdFJzQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-retiring-world-cup-referee-ismail-elfath-2026-10-13",
+      "headline": "Retiring World Cup Referee Ismail Elfath A U.S. Soccer All-Time Great - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0xmYWtqbFNwRll2dGd5LWlNbDhWS3k0dWpqT0pQWktUTUQtZ3A3eFFCUWYyNjFuclc3WDBadFhDeGtTZi1heGgtV0YzRFdLV1Z5aVNYR0txZFZzc2g2SHBvcW9SdWkwVHFCTzk1WUJLOHd2T2FFM2tONGR2dUd2WExKd3FkSE85VlE?oc=5\" target=\"_blank\"&gt;Retiring World",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0xmYWtqbFNwRll2dGd5LWlNbDhWS3k0dWpqT0pQWktUTUQtZ3A3eFFCUWYyNjFuclc3WDBadFhDeGtTZi1heGgtV0YzRFdLV1Z5aVNYR0txZFZzc2g2SHBvcW9SdWkwVHFCTzk1WUJLOHd2T2FFM2tONGR2dUd2WExKd3FkSE85VlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-pays-millions-for-trump-tower-offic-2026-10-13",
+      "headline": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5kUlREMGFpM0tjSVFfbkVReDZaSFFqRVQ0NjMzbk9ETi1NM3Eteml1RUFwZlJLVld1MDI3LXBDdFRldXJ0a2RZTEhZTTVZcnhtemh3QlFMQkE2MUlHeTk4Z1g0WFFDTHFIZ012bEJLcTl5LTlKdkVITm1mY3QxdXoxOHdZdw?oc=5\" target=\"_blank\"&gt;FIFA Pays Millions ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5kUlREMGFpM0tjSVFfbkVReDZaSFFqRVQ0NjMzbk9ETi1NM3Eteml1RUFwZlJLVld1MDI3LXBDdFRldXJ0a2RZTEhZTTVZcnhtemh3QlFMQkE2MUlHeTk4Z1g0WFFDTHFIZ012bEJLcTl5LTlKdkVITm1mY3QxdXoxOHdZdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
+      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-world-cup-gave-dallas-economic-boos-2026-10-12",
       "headline": "FIFA World Cup gave Dallas economic boost, documents show - WFAA",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-01",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWFGeVJoOVgyOWFkRkRCa2xfUHZzWlBNZ1ZBUWNIczlQMnlGdjdtU2lFdUVaZXZJVjZNZHlxeWdiWDNHTURwdXBjcDlPd0JPNWllWmVFNE1uZWxITmZ5RUxQTFdsN3BIcXM5SlJmNVR3VVAtcnJLbThXLTZERWZNdHppbUU4dFBQMTIxalljeUtQZThWZ05XTkVJRDVvRUxsbnBHeTRxZDgyMVJjM3laX1NB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
-      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-30",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-has-submitted-its-bid-to-hos-2026-10-01",
-      "headline": "Kansas City has submitted its bid to host the Men’s Rugby World Cup. Here’s what comes next - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUtITGR2aWgxNWhuaTZzSExRM3Q5X29UOU9Va0NtZlBBQVZSNVBNZXp0eGZiNHZONVM3aHdSc2o2UlRCMnZPbmhENlhsSERnaEFrZmRteVQybTdVaTAyMGxPS29pVGk3ZTEwVGZKb1BOUlRYYWpYdm9OS1dwQjlPM0k0eXJCczNsMVlVZzZkV3lXeXpoQ3EyRXVBNDFFaVFjMkx5OW5HczZ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-01",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUtITGR2aWgxNWhuaTZzSExRM3Q5X29UOU9Va0NtZlBBQVZSNVBNZXp0eGZiNHZONVM3aHdSc2o2UlRCMnZPbmhENlhsSERnaEFrZmRteVQybTdVaTAyMGxPS29pVGk3ZTEwVGZKb1BOUlRYYWpYdm9OS1dwQjlPM0k0eXJCczNsMVlVZzZkV3lXeXpoQ3EyRXVBNDFFaVFjMkx5OW5HczZ4VnFkXzRmak9hNFBRak5zalVlT1B3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--i-couldn-t-watch-samu-aghehowa-reveals--2026-10-01",
-      "headline": "'I couldn't watch' - Samu Aghehowa reveals World Cup heartbreak after missing out on Spain glory through injury - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjBZdTBEaGVsbFBaWHc1OVBEYk1XTHdSTmh3NjJjMW5PdWhYRG5XTFM1amJoVk5TaEhwVENZYlplYXVKVU1UQUo2aDRaSTcxaGdlUlp5WEhqQmprd19PZEdFRzZvZDFvMzBuMjNMbURLekdQWmFBVDQ5R1JOUUNoS0dmY3N2alhtaU1n?oc=5\" target=\"_blank\"&gt;'I couldn't w",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-01",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjBZdTBEaGVsbFBaWHc1OVBEYk1XTHdSTmh3NjJjMW5PdWhYRG5XTFM1amJoVk5TaEhwVENZYlplYXVKVU1UQUo2aDRaSTcxaGdlUlp5WEhqQmprd19PZEdFRzZvZDFvMzBuMjNMbURLekdQWmFBVDQ5R1JOUUNoS0dmY3N2alhtaU1n?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-after-hosting-2026-world-cup-does-usmnt--2026-10-01",
-      "headline": "After hosting 2026 World Cup, does USMNT, Mexico or Canada have highest 2030 upside? - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeW5VMEtoZGotZlFGQW0tZU9ibGZlZHkyYmZEb29lR0p1QkhHRE9XSWdRclJ0QWlhcTBDMUR3Tm85djlRNjJoTm11Y0gxYmRqY2liak1KaUYyT3FPczV3cGRGcXUxYWJSZm9oRzlWT0dJejQ0TDJ1bTBGTGdJbHZQaERDOHRoM2s0VENjWl9tVnM?oc=5\" target=\"_blank\"&gt;After ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-01",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeW5VMEtoZGotZlFGQW0tZU9ibGZlZHkyYmZEb29lR0p1QkhHRE9XSWdRclJ0QWlhcTBDMUR3Tm85djlRNjJoTm11Y0gxYmRqY2liak1KaUYyT3FPczV3cGRGcXUxYWJSZm9oRzlWT0dJejQ0TDJ1bTBGTGdJbHZQaERDOHRoM2s0VENjWl9tVnM?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-why-isn-t-lionel-messi-playing-today-for-2026-09-30",
-      "headline": "Why isn’t Lionel Messi playing today for Argentina vs Bolivia in 2026 international friendly? - bolavip.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azlGejYwR1E4ZHR6cVNMN2xrWFZFeUpn0gHDAUFVX3lxTE9qSWZ5cmhpM091RXlwcjVHaW1IUTNoSlBycURTdEppZkNwbEtwOFFuX2d3cjJ3WkJSMUdTcFdnM1FJanRqUzR6NjYzQUJrS0NUVWpnNW41SXJNTmltT01DTTZXdlp5cTVhS2RJY2ZPNlZBeGVGUDNqVWhyT0ZzcThDRFRKYUdfSzNCRlRTSHRJV09mWkpZYUk1b1pwMm1sZjRVRENXb3ZPS2JfN0xWN2Z2UFFxV2VRZlMtMGpmRWotVlpNSQ?oc=5",
       "featured": false,
       "draft": true
     }
