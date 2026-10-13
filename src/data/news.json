@@ -1,7 +1,62 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-12T20:57:43.130Z",
+  "lastUpdated": "2026-10-13T02:29:41.042Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-gave-dallas-economic-boos-2026-10-12",
+      "headline": "FIFA World Cup gave Dallas economic boost, documents show - WFAA",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTZLVURheVVLY1pxNTBYbEl1NWNLMEwtUXhEdU95cWszNVpMWURvMzNMUU1EbEJLRHRWQ2VETFdCblN1Y3JUVjZZeW1pUTlhYU9xVnZVSDhTeUNGNWxPZlFjdTdYbk9GRFFwWFhna2J6SXdjT1k5ZGRkblpqb3BRZzRqZDc3b0tYWGxxekxYX1RfSHJfVnhTOEJleW5YNVc5SHBRRktsSEt",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-12",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTZLVURheVVLY1pxNTBYbEl1NWNLMEwtUXhEdU95cWszNVpMWURvMzNMUU1EbEJLRHRWQ2VETFdCblN1Y3JUVjZZeW1pUTlhYU9xVnZVSDhTeUNGNWxPZlFjdTdYbk9GRFFwWFhna2J6SXdjT1k5ZGRkblpqb3BRZzRqZDc3b0tYWGxxekxYX1RfSHJfVnhTOEJleW5YNVc5SHBRRktsSEt6WlVXOHJ0R2hLTHNWUzVJSllOZG12eGRCcW9VQ3ZtMlZB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-failed-to-deliver-economic-boo-2026-10-12",
+      "headline": "World Cup failed to deliver economic boost to LA hotels, report says - Los Angeles Daily News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGllUlVmanVTZ2J4RUdnRGV2V01iWWRKNi1hTWlISGpjaUdMSFAxaDlrUjFJc0VuNWpCR3dWSWJGaXZPVThCaUc0MnJjNEZVbkFBdmFSNlJmbDZtcFJOUEhhelJMUFFhWkozRW14UlZPQ3c4TGNBLTYwN3h4SVFtc1g1Q0MtT2N5WEFDZHhVT3c0R2lMYmJ4SEV4VnBUaTZnLWxQbmdOeFN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-12",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGllUlVmanVTZ2J4RUdnRGV2V01iWWRKNi1hTWlISGpjaUdMSFAxaDlrUjFJc0VuNWpCR3dWSWJGaXZPVThCaUc0MnJjNEZVbkFBdmFSNlJmbDZtcFJOUEhhelJMUFFhWkozRW14UlZPQ3c4TGNBLTYwN3h4SVFtc1g1Q0MtT2N5WEFDZHhVT3c0R2lMYmJ4SEV4VnBUaTZnLWxQbmdOeFNoQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nicholas-earns-fifa-world-cup-appointmen-2026-10-13",
+      "headline": "Nicholas earns FIFA World Cup appointment - Trinidad Express Newspapers",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPM25IOExCbTFCN2lXc0Zwd3A3eEtNZlVKSnliempBR1hrMWZzT1dhelZmWDFDTFR0RVJmQ1hTWjJMNFF4Mlpnc1NJTDZwX2NDdmUxM2xXUnNCM0Y3djFPdGN5UzBfRjk3M05ieEtQSmNCcEJqMm1ucnJFYlVaMnpXVUpwUG54SmJjNm9Nd3c0ZzhhcmsyQ0ZUcVhEbXBNNktkOXhKVGNZY0Z",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM25IOExCbTFCN2lXc0Zwd3A3eEtNZlVKSnliempBR1hrMWZzT1dhelZmWDFDTFR0RVJmQ1hTWjJMNFF4Mlpnc1NJTDZwX2NDdmUxM2xXUnNCM0Y3djFPdGN5UzBfRjk3M05ieEtQSmNCcEJqMm1ucnJFYlVaMnpXVUpwUG54SmJjNm9Nd3c0ZzhhcmsyQ0ZUcVhEbXBNNktkOXhKVGNZY0Z5T2Z0YlpybU1yNTdjOWM5RWQ1ZU1lcHRIMFNjV3VRUnJwUUU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-traffic-issues-plagued-kansas-city-s-wor-2026-06-19",
+      "headline": "Traffic issues plagued Kansas City’s World Cup stadium. Officials want FIFA to fix the problems - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE8",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE82bTJLZkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-world-cup-in-kc-compared-to-chie-2026-07-12",
+      "headline": "How the World Cup in KC compared to Chiefs games for two Arrowhead staffers - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-12",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJrZjVLMkVxeUZqZjc5SkVGd2NaYnZiMnprci1namhNSUVic1BYbUk0MGJORE9KNU5GSU1kZ29jcGpBRU44RmcwZ0NLQlo3M184eHdBNnJQZENpREdUOFI1ZkRmNFVPZWpNYW5hY2I5ZlZhbGdxRHRR0gF6QVVfeXFMTWdsRTZyLU1jZFJpWWlmUE10bC0xLW5QYy0xdFlFeUlsVF9zaVJFbUwyTTBNU2VTczV1UHlramdOUzl0cy1Nb1ZCdFJjWEE1Ym9EczFhazNtX1BOc1J1NFk4Y3E1cGt5Y3A3cjJzRC1OWlU4cjJVTjBXbFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-prizm-fifa-world-cup-2026-stickers-will--2026-10-12",
       "headline": "PRIZM FIFA WORLD CUP 2026™️ STICKERS WILL SHINE ON PANINI BLOCKCHAIN - Panini America",
@@ -1044,61 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-30",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHRXZF9iXzhjSWJxcEs3T2RrMUx4Vk0xM24tRzhVbGp0YXNkYkJjWnVnUnRiWEhZSFFFUWdCa1JTaE44bDBiU29SV3NNU1UxQ2doSzB1TXl4eWtBUlU5UDRFWEpGcUVUMzNULWFqNnVOOHZfS0xySE5PV2xSM2htcjU5U3dCVlN3VFlLOVJhT2xRbXV2bElTTEJFcWU5NDRTcEFmaFZ4azlGejYwR1E4ZHR6cVNMN2xrWFZFeUpn0gHDAUFVX3lxTE9qSWZ5cmhpM091RXlwcjVHaW1IUTNoSlBycURTdEppZkNwbEtwOFFuX2d3cjJ3WkJSMUdTcFdnM1FJanRqUzR6NjYzQUJrS0NUVWpnNW41SXJNTmltT01DTTZXdlp5cTVhS2RJY2ZPNlZBeGVGUDNqVWhyT0ZzcThDRFRKYUdfSzNCRlRTSHRJV09mWkpZYUk1b1pwMm1sZjRVRENXb3ZPS2JfN0xWN2Z2UFFxV2VRZlMtMGpmRWotVlpNSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
-      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - kmbc.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-trump-turned-the-2026-world-cup-into-an--2026-09-30",
-      "headline": "Trump Turned the 2026 World Cup Into an Imperial Spectacle - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXlKYkdvX0ZyOE5jeElqQk9udVI0cDZoRkRYWndPcXNDVkRPeUp2SV9pWWJaNEUyTnVpR3lVeEhpWFM1Y0psdFR3dl9WY3dDc2tLRjBWQnZqRURzeS0wa28wbnBkWi0yZFpWakVKYlg2MVhUYU5MZXNOeGtyTVBKVkJB?oc=5\" target=\"_blank\"&gt;Trump Turned the 2026 Wor",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXlKYkdvX0ZyOE5jeElqQk9udVI0cDZoRkRYWndPcXNDVkRPeUp2SV9pWWJaNEUyTnVpR3lVeEhpWFM1Y0psdFR3dl9WY3dDc2tLRjBWQnZqRURzeS0wa28wbnBkWi0yZFpWakVKYlg2MVhUYU5MZXNOeGtyTVBKVkJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-delivered-2-billion-economic-b-2026-09-30",
-      "headline": "World Cup Delivered $2 Billion Economic Boost to New York City—and a Win for STRs - Realtor.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDNtN0czNUxxdXhvVVJFUXUtQU9zTWctaXVicFdqZkMtcU85V2s1a2tkbUE3eGZSMzAzTl9RSWlmakVkemV4X1hQVUk4RUNQcVhxNV9ac1hHSWNRa1p6c3lOdURvS2stRVNjeXJDbXVKakc5U2ZOaWVSLURSWjhGSk1ZbWtDbWgzOTFZbU51QQ?oc=5\" target=\"_blank\"&gt;World C",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDNtN0czNUxxdXhvVVJFUXUtQU9zTWctaXVicFdqZkMtcU85V2s1a2tkbUE3eGZSMzAzTl9RSWlmakVkemV4X1hQVUk4RUNQcVhxNV9ac1hHSWNRa1p6c3lOdURvS2stRVNjeXJDbXVKakc5U2ZOaWVSLURSWjhGSk1ZbWtDbWgzOTFZbU51QQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-added-2b-to-nyc-s-economy-2026-09-30",
-      "headline": "FIFA World Cup added $2B to NYC’s economy, says Mamdani - SILive.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0dxX1BzME1BLWFKZHM2OUpTeEphZkx3YUc0WVlMVEdPSkFTLUo1WThoR1ZUMmt6VUl4NFIxME5YNWxQRVVTMGpudGNncHRXMV9adEM2eEpKZGdUdDhuQ3I2cGlqUXdtaHRRUzdZM2xoS3liTEZUcXZ0VXAyVDFKMFB2WklueDRpbENCaUNFT0JuUUgzb3JYLQ?oc=5\" target=\"_blank",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0dxX1BzME1BLWFKZHM2OUpTeEphZkx3YUc0WVlMVEdPSkFTLUo1WThoR1ZUMmt6VUl4NFIxME5YNWxQRVVTMGpudGNncHRXMV9adEM2eEpKZGdUdDhuQ3I2cGlqUXdtaHRRUzdZM2xoS3liTEZUcXZ0VXAyVDFKMFB2WklueDRpbENCaUNFT0JuUUgzb3JYLQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-has-submitted-its-bid-to-hos-2026-09-30",
-      "headline": "Kansas City has submitted its bid to host the Men’s Rugby World Cup. Here’s what comes next - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTZvQTlCZkVscGQtdmtxa2RaLW8tRTdqeHlYSXZaNS1CeXdVMDhVb3p1MGVOTGthYkhCMF84U09pSjZ4WUYwYlRuNXpVSml0MExNVmJIa0FkeER6cDI5RnRYNUhHeG1DM0F5aVRQd0h2M2ZQc2tpY3pHLU1mZy0wMXE1MVF3M0tPWlZndW43QUVaQlg0U0ViM1hjN1dtd0p2N2NFaEVMbFR",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-09-30",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTZvQTlCZkVscGQtdmtxa2RaLW8tRTdqeHlYSXZaNS1CeXdVMDhVb3p1MGVOTGthYkhCMF84U09pSjZ4WUYwYlRuNXpVSml0MExNVmJIa0FkeER6cDI5RnRYNUhHeG1DM0F5aVRQd0h2M2ZQc2tpY3pHLU1mZy0wMXE1MVF3M0tPWlZndW43QUVaQlg0U0ViM1hjN1dtd0p2N2NFaEVMbFRaX0d6Ry1maWVySm9MQdIBygFBVV95cUxNNGs0X1pzNUE0SjNuakdUc2pOTm16dTUxakpwR18zQjUyYWc2TDJzWE1mZEE4YXE0b0M2S2NxWVFBWTRhRzZYSE5vOWlNVmR2aDlGeUJNWXBoTVdpclc1UUdHRmVySUZaQnJqNlVabG5OMW9IbFhLRU5fblBiWlJEWElfUUQ5YVBJTnIxLURBaUVWSUFDYldFbXpiUzZNRk5wNFlKUTdxa3pMUGNvSzJtaXdlaXRRaG1YODhEM01YUGhFSkhJekxtdFdR?oc=5",
       "featured": false,
       "draft": true
     }

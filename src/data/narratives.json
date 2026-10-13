@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-12T20:57:46.127Z",
+  "lastUpdated": "2026-10-13T02:29:43.592Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 528,
+      "chapterCount": 530,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4241,6 +4241,22 @@
           "title": "Lionel Messi delivers masterclass following Argentina retirement - MLSsoccer.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGZzelRYWU1lbGFlMHQ5aFJNRFZGaU81VmQyb3hxMFFtQko5TnRia2lSVGlfbnB4UjRxZUVtVnR6blVsUl9YOEV1UlpZQkFFTWJrQ0JtSzVJSzB0bk1QcnpkV2FCdUd1QmdpblRodmhUdXBUZGdYNTEyZGpFc0I5YVdFZVdaTG9TWlFXaUE2VzFONWNIVXBPUHJYVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791858581533",
+          "date": "2026-10-12",
+          "title": "Como’s Jesus Rodriguez follows Nico Paz onto Messi’s list of future stars - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEtPdTdvUGxGV1V0azJ1T3lGdGFBRHkxbmlid2MtQkREa2NpZi1EbXFxUGJKWF85aFl1ME5QcXo0RTRyZm4waDhHVXlwWF84dkx3M3pQUGh5SWxyaTJQODZPM0ZWRTB2UTVTblN1UFA0b1ZFcFE0dU1MRF9xaUdELUswZjlGbFBobEE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791858581533",
+          "date": "2026-10-12",
+          "title": "Messi bids emotional farewell to Argentina - Caribbean Life News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yYkZyUWlMOWFPbFpsczFDNmp0clV2YUlmNW11dkprSmluVEVpYl9RaDBuNHpxdnlWNmJXbnIteWs2YWsyT1otaHQ4NDcwVGhuWDQzTTRTZHMzSkdnWGhnLW9xMVVMT21vallKV2piQQ?oc=5",
           "draft": true
         }
       ]
