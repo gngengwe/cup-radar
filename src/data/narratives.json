@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-13T18:56:11.938Z",
+  "lastUpdated": "2026-10-14T00:09:25.297Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 531,
+      "chapterCount": 532,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4266,6 +4266,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXllcHNPQmllU3c1M042Vms4TVd2eHNMZGlrdWgybGNYdG9ub21JS251SGtKdERoUXRzT3NMdlFlODlWOWxtWEctd2hCOEZhcGxqZjBJR1ZnSkJLYTlybWxSN3g3R3JsS3ZXU1JGVzMzanFXSi16SXZnMkx0RGhZTFF6Ymw3SHFrdm9XMmd5TkVkUkgwck9xbFMwY3BvYmVTM3hobjR4Q1VQbklvZktyTl9SVTNDYXpVMVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791936562983",
+          "date": "2026-10-13",
+          "title": "Lionel Messi’s Argentina retirement sparks fresh questions about his club future - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWVpTkpmNEVsaGNiSGtLQURhNFU5UThlUGcxM1RjVEVfVXZrajJiT0R2Ml84dHJuWmZLQ1F3M243eWs2SGJ3RjZnMTMyVi16elQzcEctZUdTZDdHVmVRTU9DMUdOVU5YVnJqREt6dHRJSGlpWkJmZUdqR2pKOHZNVFpvd19lNmp0Q1BzTGdWQkFGZ1k?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7671,7 +7679,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1095,
+      "chapterCount": 1096,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16432,6 +16440,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG0wc1lBQWRwQXpBRU5WdHpnd1k5ZEJVZHhROUR4ZG9CbnBvWW5VTzVUUU5pMzFTcjVUY2M1Z19pNURwUUtQUXcyaDlHWnV6ME9EQ05OTENsa1JUcWdrZzAxSERYX2lfXzZjLWEwNHNTNXlWeFhaTFpxdjhTYzdoV0F4YjVUTW5MdUZCaGFEMGJ5cjVrVXo4YXZnVGJ4aVFrV19PSjFTeVhuVWE4dTFYLVd3SHlxbGJ4ckRZdFJzQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791936564106",
+          "date": "2026-10-13",
+          "title": "Netflix awarded broadcast rights to 2030 World Cup for fans in Spain - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjh1dWJ3TUZYX01ac3RJQnEwTzFRNTl6aFlvX3N5b2FibDJOYURqb1FlcmxsTXN5Zkx5ZkhkOFQ5SEdZOUdrNGxkeThBY3VwdTRHZTNxNm5uWVg2cE9fZHJGeksxdVhkVjdYQ2JsemxCQVh1ZTN4WEdUR0M0OVJkV1liTFkzb2JVTkQwT0Znbw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16450,7 +16466,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 710,
+      "chapterCount": 711,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -22131,6 +22147,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGtkYlJLdEdyNWxVZm9LbGNOY0VCSnRQNDIxbGdBQW5hd3hEY2NwQ1NVelJpdWdJRVNpaVhBWEdyNjdNUDBQbThybER5RTlMZVdRMXE2UkI3alBHdTA3dDRiNWNGR050dEIwYldJdmp1bVBIT3phSGltNXJIaTN0SXNqR29NdkJvaG1Gbg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1791936564644",
+          "date": "2026-10-13",
+          "title": "𝚆𝙰𝚃𝙲𝙷 Argentina W v Brazil W 𝐋𝐈𝐕𝐄 World Cup 2526 Ｔｖ Ｃｈａｎｎｅｌ 29 July 26 - Universidad de Córdoba (UCO)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQdlpGbk9pVjU0ZWh0X2dnUi1fdVVhNjllMlRkMzBxQkFKOExFc01YamlFeHd4TjJCTHlOSHlnODRpLWNRSUU3Rm5BMzVBT1ozaUEzMHFwSmNELTZfYnBVc0RDc0JOUTYzM0V1Yk1kaTFkV04tSGNGMmpoQVdVeEJRUTlGRHE1Q1UxS0ZDdHJBeEF5T3NYWGV3RGZ1T0VyS1RWQkFoVU9OWm5LcWJwd1FZV1ZMZ2RCRjB0d3dlaldYWXdFZWlGbGdSYkpzLWVMSjZ1cURnR283VktxSHZmZm5Hcjhqd0VXckZKVUUtNkI0RmJiZkpGckpiWFc5dGxRcFFabzlUZVlTTldCUmI1blJxMTdXV0FLYlZ3QXpvcjJsajRqV0NSRGhGQ2ltWFhUMG9Bek1xR284M3lIMGZOeEN4TnVjWW1xVldtRFJ0WWt3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22360,7 +22384,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 995,
+      "chapterCount": 999,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30320,6 +30344,38 @@
           "title": "Lewis left out for England's Rugby League World Cup opener - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbzNlZWhma3E5VTNzSnJFd1BLcy1Yekx1dEMxS04xb2FVN3hOM01RdHhYSDVXYWdzUm84Tzl1SG5fcmZWYmJsakl2bDM5TGVOb1UtTlJYX0tfeWdhSV8tbmJEcGkxSkE1WEF1bm1n?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791936565297",
+          "date": "2026-10-13",
+          "title": "LA seeks info on 2026 World Cup watch parties with eye toward 2028 Olympics - Los Angeles Daily News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLW0wWmpfT0wzeC1TbjZjZTRiUnAwUGdvZGhxOU54RVZzdjYyTmVNN2IxdzYxRUtvb0JBOGFkSUpocXJBdzY1X3BKU0FhODI4ME1kakRJV2V1SzVPaG5fSXBQS1RWVkU2a2tlYTRGUHYtbHdLbXhjbVdwd0d2bi1NYVUtN19fdWp0bEZQQUExTlZZWUp2M19ZZUJ6UGIyc0dDS1pwR2tfanpiajFtdWJrSXE0Zw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791936565297",
+          "date": "2026-10-13",
+          "title": "England thump Greece to move closer to World Cup qualification - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0c3ZVVUU1VDOTlkMF9QZWJqMWR4b3VJYkhxOUp1WGl1aTNDbFd5algwWnRjajlXYXFPd0NUZjZWTi1rM3UydlV1X2hFWWhaUGxPUWpNYkU1bXZHZDEyUUJwRk4yTUtLS2hRNEJSMEp2LS00UWxqSjhvc1dVWDZ5WFJ6Sm5RcUgw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791936565297",
+          "date": "2026-10-13",
+          "title": "England 5-0 Greece (Oct 13, 2026) Game Analysis - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eXFzS1VCYzBsVW1LaXVqX1BMMm9ud0hQY3oxRXNaRzZKcmxJeHFaWTdhbC1SZjRFbGxRNF90T09ZWllYX2FIX0gwM0otSFhLS19nX3BDXzlkNXpxWG9oMW16RQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791936565297",
+          "date": "2026-10-13",
+          "title": "World Cup Team Lists: Men's Round 1 - Rugby League World Cup",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TeUtib3dNTXBKMGxHMEZOaG50VXFZMnBhTHlzXzlEa3NfdW5hSjhPclVacXRNeWwyd0RLd2h3eGRHLV9tUHVrSF9PUFFTMGkwdXFVSVlZbF9XaE1Wa0o1cDJ0WTFoMFZodVNlenpNcS0?oc=5",
           "draft": true
         }
       ]
