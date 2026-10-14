@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-14T19:11:10.515Z",
+  "lastUpdated": "2026-10-14T23:43:05.392Z",
   "articles": [
+    {
+      "id": "news-auto-visit-seattle-reveals-economic-impact-fo-2026-09-22",
+      "headline": "Visit Seattle Reveals Economic Impact for FIFA World Cup 2026 - Visit Seattle Washington",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5\" target=\"_blank\"&gt;Visit S",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm1OMmZxZUZsR1JYODg2Tm5CeDBYQ0ZhQ3pEYTl3cjlxdmxjUS1yVmNhc1I2VVltc281WFNzRUJMNHVTamJQdnU5MklTMFZwQ21XYzAtUHJQUkIxNEVySlhVNnhuaDJ0MjJpY25CazRQMGx5RzgtNkZyU2ltOEEtVkllNXJ5WnZEVnZIZ0dTZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-soccer-viewership-in-us-surging-since-wo-2026-10-14",
       "headline": "Soccer viewership in US surging since World Cup - Reuters",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-03",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVI4M2xIQTMxLVMtam9SVFpRbzI5d204ZnpBb01UbEN5UjlzQ1RaRHZ2cGhFUDJ2N1QwVEZoNkE4MXR3bUhTQjF0NUk5SnpRNDJhbHZpaDBVNUxUTmF6Sk1acnBHUkRtRW9FSGkzS3hvU3BZZWUxWmRWSGVnM1JXenBVUUVEZWF2Z3dRNHdwMNIBjwFBVV95cUxQRU1JN3p2ZkQzbTRkNXlfQTdsVTE3QnVoTnZzQ1J1T1VzZVZidDNSdVE2MVVHTlJFdzY1Z0tGMktJUWRoTWQyYlRCYjRaTkl5SGQ5NWlJb18wRDhtdWFlM2ZxZ19ZS0N5YkNoN3dYdUE1UUZKYmxDc2JnVXl2SkdhaGpjRy1CalJ5MGtqSlhXYw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-boston-recognized-as-one-of-most-welcomi-2026-10-06",
-      "headline": "Boston recognized as one of most welcoming 2026 FIFA World Cup host cities - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG5hYzFZS1hUaDJ0R1QzazQ5X2ZBWkZFbnpfeENVN19NbWtzb3Z3eVk2dk1UaWxVZzFaSjV3M0o5em9PM1IzNXdkTVRPVmxHRGVHSklJS0JyRlUwMzd2a1JIVWNfOG9XYmJVcDR4OUVYaUYzRE41QWg4ZE1vMWJuallZdF9ZdUlyVjFROUVn?oc=5\" target=\"_blank\"&gt;Boston re",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-06",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG5hYzFZS1hUaDJ0R1QzazQ5X2ZBWkZFbnpfeENVN19NbWtzb3Z3eVk2dk1UaWxVZzFaSjV3M0o5em9PM1IzNXdkTVRPVmxHRGVHSklJS0JyRlUwMzd2a1JIVWNfOG9XYmJVcDR4OUVYaUYzRE41QWg4ZE1vMWJuallZdF9ZdUlyVjFROUVn?oc=5",
       "featured": false,
       "draft": true
     }
