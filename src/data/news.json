@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-14T14:21:03.004Z",
+  "lastUpdated": "2026-10-14T19:11:10.515Z",
   "articles": [
+    {
+      "id": "news-auto-soccer-viewership-in-us-surging-since-wo-2026-10-14",
+      "headline": "Soccer viewership in US surging since World Cup - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWxLVkNJZTE3c1ZpVkRBem90SjJ4blV2bnJBTUlrNUZTNWlMVjdlTk5mcWFYOVJ2aW0tTUp6dl8xOU5fZjB4UDdxdnJKWFpFczFqaXZUd29EQUE2UVFySzhLY0Vrb3A5eHFUY3JvcGFtU2RZdjVhZDRsVnFxMzRCSjRRalpDUUdoVmdyaDJnV0VPc3U3Vm82b1NQRTdIa2ZW?oc=5\" targ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-14",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWxLVkNJZTE3c1ZpVkRBem90SjJ4blV2bnJBTUlrNUZTNWlMVjdlTk5mcWFYOVJ2aW0tTUp6dl8xOU5fZjB4UDdxdnJKWFpFczFqaXZUd29EQUE2UVFySzhLY0Vrb3A5eHFUY3JvcGFtU2RZdjVhZDRsVnFxMzRCSjRRalpDUUdoVmdyaDJnV0VPc3U3Vm82b1NQRTdIa2ZW?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ghana-s-world-cup-spending-a-breakdown-o-2026-10-14",
+      "headline": "Ghana’s World Cup Spending: A breakdown of costs in 2022 and 2026 - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWUyNUlBQWtNVFAzTG83dHBCVkQyam4yUG14aXEtV1lFRDRpcTBYMVExdEJJZ3p1UEtfNThuSERmcmJuZkxQay1heTdIM2tBSGFHMzBtTy1CRnlNekdvOUNxVU1aVWJvS1lLdkllSVU3alc4M21Qc1pDSHVPblpld1RSQnB2UjByZmFOMG45eDUyUXY2dWNZeDNxSGYyanZLT3BHTU9nTnF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-14",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWUyNUlBQWtNVFAzTG83dHBCVkQyam4yUG14aXEtV1lFRDRpcTBYMVExdEJJZ3p1UEtfNThuSERmcmJuZkxQay1heTdIM2tBSGFHMzBtTy1CRnlNekdvOUNxVU1aVWJvS1lLdkllSVU3alc4M21Qc1pDSHVPblpld1RSQnB2UjByZmFOMG45eDUyUXY2dWNZeDNxSGYyanZLT3BHTU9nTnFFNExSZFZSUnhyTzZidXdjYWFnaVY2c2VtQm8?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-report-gianni-infantino-received-undiscl-2026-10-13",
+      "headline": "Report: Gianni Infantino received undisclosed $1.7M World Cup payment - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZU9FTFAyZDZaaXp4R3htZVNTaU1lWEtQbGtQSFltR3E3YUFteWppYTN6UFBxcWN5cVdoNkVFU2xEVUIxTkF6NHFqQk5pbUtPRGhYX0VIa091VnpDdE9kT2VDOFE3cW1fYnIxSTE4TmRtUFpiZFphcVR6LVFZR21WTXp0UG8ydFkwTHFSTzZEX1dkM3NZYmVVSXdwc2RNeUs5c2U2RmZVR2t",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZU9FTFAyZDZaaXp4R3htZVNTaU1lWEtQbGtQSFltR3E3YUFteWppYTN6UFBxcWN5cVdoNkVFU2xEVUIxTkF6NHFqQk5pbUtPRGhYX0VIa091VnpDdE9kT2VDOFE3cW1fYnIxSTE4TmRtUFpiZFphcVR6LVFZR21WTXp0UG8ydFkwTHFSTzZEX1dkM3NZYmVVSXdwc2RNeUs5c2U2RmZVR2tCbDYzNzd2VE5DNTJpaW1aYzYtZWxR?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-king-county-sees-889m-in-economi-2026-09-22",
       "headline": "Seattle, King County sees $889M in economic impact from World Cup - FOX 13 Seattle",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-06",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG5hYzFZS1hUaDJ0R1QzazQ5X2ZBWkZFbnpfeENVN19NbWtzb3Z3eVk2dk1UaWxVZzFaSjV3M0o5em9PM1IzNXdkTVRPVmxHRGVHSklJS0JyRlUwMzd2a1JIVWNfOG9XYmJVcDR4OUVYaUYzRE41QWg4ZE1vMWJuallZdF9ZdUlyVjFROUVn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-england-faced-ineligible-star-at-world-c-2026-10-06",
-      "headline": "England faced ineligible star at World Cup 2026 after Fifa quietly let him play - The Sun",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDE5WTQzQ04zZEhjeHVRRThFQTBXR1l5RnlVSnM4eHhYQVFrVTBDTkhnWUNmeERNcVQ3OG03OXd0NE93d3BHbXBQeXhISnFNRnlHZ2U3ckprVldWcE9LMm1lRk9IcExZLVB2dnFEQjh1cHo3cWdoZXBwa3VlZ1hjN08tQQ?oc=5\" target=\"_blank\"&gt;England faced ineligibl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-06",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDE5WTQzQ04zZEhjeHVRRThFQTBXR1l5RnlVSnM4eHhYQVFrVTBDTkhnWUNmeERNcVQ3OG03OXd0NE93d3BHbXBQeXhISnFNRnlHZ2U3ckprVldWcE9LMm1lRk9IcExZLVB2dnFEQjh1cHo3cWdoZXBwa3VlZ1hjN08tQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-fifa-knew-congo-fielded-i-2026-10-06",
-      "headline": "2026 World Cup: FIFA knew Congo fielded ineligible player against Nigeria – Report - Vanguard News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnNRbGNVekJ6bGFNYThIQmJwWmVBblNLeld3ODFrZzZCMmg4MmdyMnh5R0FMakdzUGZFRkozQm51RW1hM1NWNHY5NEp3M0s2Xzd2WEhsOWxjaTRSRE00dW1pV2N1X2cxcGJQSTBHa0UtZ3BRbW9ERVl1Ty0wZjdhaFd0bVJJQzczZ1Q2Y29fZ0dYdUMzS1FPMGZ6Nm10YmtfVHJXbUtoSmZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-06",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnNRbGNVekJ6bGFNYThIQmJwWmVBblNLeld3ODFrZzZCMmg4MmdyMnh5R0FMakdzUGZFRkozQm51RW1hM1NWNHY5NEp3M0s2Xzd2WEhsOWxjaTRSRE00dW1pV2N1X2cxcGJQSTBHa0UtZ3BRbW9ERVl1Ty0wZjdhaFd0bVJJQzczZ1Q2Y29fZ0dYdUMzS1FPMGZ6Nm10YmtfVHJXbUtoSmZ0OEZ6ZFozSXJEV0llM0nSAbwBQVVfeXFMUGN0QlV6WVJxZ1FNSHVQbWpOR0FuMmx1QXZyVnRTbzRHTlRUNUJTZ2Q4eUtpbmw0MUtlNm5HdENtMHFFYmVfSk9XLWQ1SFNrd1hwUEp5NDdMelpuQ3JxUE5EVUtmQ3UxaFA0eE5yNW5aZ1VmVS03VDlLb2lVLUM2SU0tdE5ZTHNPVnVJSEs3Qk8wYW15R01BdGYzTnZiQjhIX0xXSnFXUFBpbDFkai1sMWtvb0VXNGFWVTlYY1I?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-found-congo-player-ineligible-let-h-2026-10-06",
-      "headline": "FIFA Found Congo Player Ineligible, Let Him Play in World Cup - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnMzZXBPVHFIdjc1eWVFLTJNUlZjWU9XamlDazVHYmxnQnpMdWdJUVQxN3c1YlZXUm1aSE5yWVNJSVRWZzh0b2VHb0NJdXJ6eXlPNjBpZ0E5NUowaGV4ZTlRX3VHYWEzWXlSRHJxOEdCcHlUbFI1Uk1ZNGRrXzJPZi1RWWJNU0NFcExCbTZqTVRJc09IczZKOA?oc=5\" target=\"_blank",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-06",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnMzZXBPVHFIdjc1eWVFLTJNUlZjWU9XamlDazVHYmxnQnpMdWdJUVQxN3c1YlZXUm1aSE5yWVNJSVRWZzh0b2VHb0NJdXJ6eXlPNjBpZ0E5NUowaGV4ZTlRX3VHYWEzWXlSRHJxOEdCcHlUbFI1Uk1ZNGRrXzJPZi1RWWJNU0NFcExCbTZqTVRJc09IczZKOA?oc=5",
       "featured": false,
       "draft": true
     }

@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-14T14:21:05.818Z",
+  "lastUpdated": "2026-10-14T19:11:14.005Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 534,
+      "chapterCount": 535,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4290,6 +4290,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaExMUUU3MGZJTWM0Wkhnd1ItTElXNFBOMjl0WUpBNGF1MU9PVlM2bW5wbFNvX1Vja0xEMWNUcll1TE44dng2UW8tQUU1SW5mTWctY1EyQ3EtMEdsWkM1bDJSLTJUM20yU29YRmxLYXF5LVJqdDdDQ3N0S0lQWWtSVGtGOFU0M3dxNllWR2JLam54SGwzN0JIazViZllHbkRrc2ctMV9fZGx5cXh3eHdrMlhaWVdRZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792005071148",
+          "date": "2026-10-13",
+          "title": "Lionel Messi reportedly receives surprising new responsibility for 2026 Ballon d’Or - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnZkRkRYcXBHT0RJWGdoQzBHcUhxUEVTdHJsT1cyVG9SS0RBN1MwN3hHVGZNNmRnV3VDM0lCT1hWS3hMVkZLcmpRYWpUTXAzYVhNN0lrZ2QyaEwteTJzUTlUdEVtUU5NbTNMbkc5SjF1OEdpNzdGZ3RqNE1aeDFFamlCcWNOS0E1N0VoaVNVVFFaTFFVVE1r?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7695,7 +7703,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1102,
+      "chapterCount": 1103,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16512,6 +16520,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVJjbk9iRGZHaDEzb0YzSGV5QnZuODMzRFN6aXVsUnpfRmZoUzZJb04wVVVTOFhHSjNKT1JzZHdfN1o2aUc0bGNQdWd1V1RraFNVRHNyOW5SOFgxT2wwNGdqcDZGZFh1SjVZWjV2c2ZncWhJTjlEWnNKRGJTTEpNanNudjl0RW8tMnE1OWMwQjU0TzBuSG5wZThwOTFRanVRU1E?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792005072792",
+          "date": "2026-10-14",
+          "title": "Queen Creek teen named alternate for US women’s team in U-17 World Cup - AZ Family",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU11NDVlTnM3Ny1PMVJmVGx5blN2Y1lfOU05UU9yeVZudW16VmgtTW1KYWtzbW1FODlpU0EzU3hqVXFtdjJ4N1duYTF4QXRqVFlITXpqYmNZX2NkbEc5YllaLWhkUDBQQ0NRN1dueHVQd0RsdVRlY3IydFpLWWV4X3pqVlhxYjhZbUM5RkpQT3lEMDZhX2VMd1c3LUJ2SUlB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22456,7 +22472,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1003,
+      "chapterCount": 1004,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30480,6 +30496,14 @@
           "title": "England squad ladder: Ranking Sarina Wiegman’s players from 1-35 - The Athletic - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1lCX21LV29GTDBiaEhvcDlCMjItaG1LUkFIR0FXbmlRZHVhMXV1blBxczVMQ3NROE1aLUlUcV9McVN6ZktOUmRKS21CZkd0a0VqX2xfOS1HX29YdDhRbi0xd0ppc0p4WTRxTzZlaTU2UWs1R2pKakVFTE81Mmp5Wk1MaVJGblE5T2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792005074005",
+          "date": "2026-10-14",
+          "title": "Rugby League World Cup 2026 on TV: Schedule, coverage and live stream details - Radio Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXRtSWtuX3B1T2lqZVplTTRYb1hQUmRsQXBPMGFFSXB2d1pzV0M4Wi1EeUFsV1JKQXBnU0JoczlWU2NiQ09Pakhrdkg1MGJVT3BMMUs3SjlJQzYwNTl2VDZkR0xLMG5LZU84UU5vRklBZXFhT3JfOHBmSUY5cXpLMEJFdUhFN3M?oc=5",
           "draft": true
         }
       ]
