@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-14T08:25:35.936Z",
+  "lastUpdated": "2026-10-14T14:21:03.004Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-king-county-sees-889m-in-economi-2026-09-22",
+      "headline": "Seattle, King County sees $889M in economic impact from World Cup - FOX 13 Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-09-22",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-netflix-scores-exclusive-rights-to-strea-2026-10-13",
       "headline": "Netflix Scores Exclusive Rights To Stream Every FIFA World Cup 2030 Game In Spain - Deadline",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-06",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnMzZXBPVHFIdjc1eWVFLTJNUlZjWU9XamlDazVHYmxnQnpMdWdJUVQxN3c1YlZXUm1aSE5yWVNJSVRWZzh0b2VHb0NJdXJ6eXlPNjBpZ0E5NUowaGV4ZTlRX3VHYWEzWXlSRHJxOEdCcHlUbFI1Uk1ZNGRrXzJPZi1RWWJNU0NFcExCbTZqTVRJc09IczZKOA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-india-vs-uruguay-football-2026-know-wher-2026-10-05",
-      "headline": "India vs Uruguay football 2026: Know where to watch IND vs URU friendly live streaming and telecast - olympics.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2VnLXF0dFBoUUplbXlBUWtDYW9yOEhtNXgzQ1F5NkJ0UXA5dGgxZHpEb3FaOXlDa2hyUlNyVjZtVUl3TDl5WGRhem0ycllaaTgyOS1MY0t2ZlU3NTh5RUR1amNjQjhuNjJ1SWMyOGhZd3hQMkQ2V0RDNWx0LUlrc3hMNXZZYWV0c09iSW91cFlTRU5JaklaeklTOHVMaktnTzFkd1NFbWp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-05",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2VnLXF0dFBoUUplbXlBUWtDYW9yOEhtNXgzQ1F5NkJ0UXA5dGgxZHpEb3FaOXlDa2hyUlNyVjZtVUl3TDl5WGRhem0ycllaaTgyOS1MY0t2ZlU3NTh5RUR1amNjQjhuNjJ1SWMyOGhZd3hQMkQ2V0RDNWx0LUlrc3hMNXZZYWV0c09iSW91cFlTRU5JaklaeklTOHVMaktnTzFkd1NFbWp0aVRLbkxVSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
-      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
       "featured": false,
       "draft": true
     }
