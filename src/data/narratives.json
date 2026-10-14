@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-14T00:09:25.297Z",
+  "lastUpdated": "2026-10-14T08:25:38.560Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 532,
+      "chapterCount": 533,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4274,6 +4274,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWVpTkpmNEVsaGNiSGtLQURhNFU5UThlUGcxM1RjVEVfVXZrajJiT0R2Ml84dHJuWmZLQ1F3M243eWs2SGJ3RjZnMTMyVi16elQzcEctZUdTZDdHVmVRTU9DMUdOVU5YVnJqREt6dHRJSGlpWkJmZUdqR2pKOHZNVFpvd19lNmp0Q1BzTGdWQkFGZ1k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1791966336464",
+          "date": "2026-09-26",
+          "title": "Beyond Messi's Goals And Assists: The Numbers Behind His 2026 World Cup Run - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcV9yU2FiZFZ2WUZCdHZjYW5jeFI3alk3ZnFWNXowSFMwV2RkcGc2M1hMT1Q4OEFiVzhzbWRlNURlNjcyNF9IdWdBclFDWjNCWGc1d0N6dDBMZ0hJc0JEUzlJTlEtOG1QVmtQN3I3OVg2Q2VPMUx3V2ZOV2Q4TDJRc1RwNWk4Sm9aU3pfalJiem1oMkIteDF1NGh4elhPNjhldlNNSWdZZ25veE9iMkxkMFhZWUTSAbQBQVVfeXFMUFBJTFEzcXFockItb1NlUXhmLUVJZTFZaUJlQ0xWcHFnSnIyT1RaSV9WVjBlVkVxNU05NXU2Z2wxUmN4a3hnbUZSYXJHVUFrczkxc0xJNkRCOG84LWhVWUt0TFBKNWNHNm5Bb0JRM1RTRncxX09HTWotR2dlM0d4QWt4ZVN2THlyZTBBdHNPaTBHYTAzVVNEVDFXazBLSXB6UmVLZTVWNHk4YjZNT210Q0l2Y1NI?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7679,7 +7687,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1096,
+      "chapterCount": 1100,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16448,6 +16456,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjh1dWJ3TUZYX01ac3RJQnEwTzFRNTl6aFlvX3N5b2FibDJOYURqb1FlcmxsTXN5Zkx5ZkhkOFQ5SEdZOUdrNGxkeThBY3VwdTRHZTNxNm5uWVg2cE9fZHJGeksxdVhkVjdYQ2JsemxCQVh1ZTN4WEdUR0M0OVJkV1liTFkzb2JVTkQwT0Znbw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791966337541",
+          "date": "2026-10-14",
+          "title": "Soccer viewership in US surging since World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWxLVkNJZTE3c1ZpVkRBem90SjJ4blV2bnJBTUlrNUZTNWlMVjdlTk5mcWFYOVJ2aW0tTUp6dl8xOU5fZjB4UDdxdnJKWFpFczFqaXZUd29EQUE2UVFySzhLY0Vrb3A5eHFUY3JvcGFtU2RZdjVhZDRsVnFxMzRCSjRRalpDUUdoVmdyaDJnV0VPc3U3Vm82b1NQRTdIa2ZW?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791966337541",
+          "date": "2026-10-14",
+          "title": "USA 2-2 Spain (Oct 13, 2026) Game Analysis - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pa3lvcjA3ZXVSTTNyU0VCNTNfbEZKNmJNRk44d0kzOGkzSG82MUVya3BsZUp4eDVxTUZqSW9qZUhUZHlwRG82LVNYOXphYl8tdVNOS2NvbXdvX1czdk9YaDV4MA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791966337541",
+          "date": "2026-10-14",
+          "title": "U.S. Soccer Fandom Hits Record High After World Cup 2026 - The Source Magazine",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkNmMjlISkpieVdLSzd0SVlrZUpkMnZzcEtWVmY3STJkNjAxYXdhcTBWVVphTGNlN3ROb1N6NjhuTlZReVpIeW44TGRXdFlYb1MycU5UcFlLclBmS0RacmRUdUxHTzl4RkFCdHpBam1BVkxNT3ZWWXJxdzc4OTlTSGdJUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1791966337541",
+          "date": "2026-10-14",
+          "title": "US women erase two-goal deficit to tie World Cup champion Spain - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXRXc0V2WDZqNmY1aE50N042LW1BRVd4NHI4YnRyeVZKVy1ibnRjcnJoM0dsT1RjdlJ0dmI2eVRwSHFOQUU3RGJNbWxwVFhWUVBudXRJUjhiZEZNSkRBQTZYZ2FTRzBfUnhaMUg5T0lMekg4MFRYVUxMbUpNbDFxLUcxS2J6b3lwZXJxSzFjeFhiT2loUldYbjhCaF9HYVFDblI4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22384,7 +22424,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 999,
+      "chapterCount": 1000,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30376,6 +30416,14 @@
           "title": "World Cup Team Lists: Men's Round 1 - Rugby League World Cup",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TeUtib3dNTXBKMGxHMEZOaG50VXFZMnBhTHlzXzlEa3NfdW5hSjhPclVacXRNeWwyd0RLd2h3eGRHLV9tUHVrSF9PUFFTMGkwdXFVSVlZbF9XaE1Wa0o1cDJ0WTFoMFZodVNlenpNcS0?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1791966338560",
+          "date": "2026-10-14",
+          "title": "Lionesses World Cup play-off opponents: Ukraine in profile - England Football | Home",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTml6NnV1ZmNTNjZKWlFvYTFIYjA4WDJoWXRxX1pFdXBETVhNQVNjNlBNeXRENWZZLTg5cG1GVGZwVXQtX25GRmdGcVFWd1VwY0ZweHJmTDYxRnBRQVY0QlBSeWY5YS1ab3N5V05OamdmQ0Rva1Q1VHItbnFTQzZjc2NMOUd5Q3lxMXhuWWV2NXBaN0ZUV1cycHdkaVEzUUJaUlZDSW5SR1dDYnhySURPaDc1R1Nua2gzZENB?oc=5",
           "draft": true
         }
       ]
