@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-14T23:43:08.120Z",
+  "lastUpdated": "2026-10-15T10:56:16.819Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7719,7 +7719,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1104,
+      "chapterCount": 1105,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16552,6 +16552,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHpPNThwWnU1RHhHN2JwajVQODlnV0lhUXRqUFJLWHpvSUktMU90cHFKVkdYRS1IdUs5OW1DRWdpX1o0YmszVWtLRW9EMTVXeUlxSV9wVmsxS28ybkNvZzRmbGJ2dzFvRWdoQWVYSzFCS0R5Nm1NQWFnV2xLcHFMV2c0aGN6QQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792061775748",
+          "date": "2026-10-15",
+          "title": "President Trump Gets His Lasting World Cup Legacy With Proposed Rule Change - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFaVXRoc29pUmRJZkU3RGp2SVY2Vnc4T0FydmpmQjhHVk5kZFJ3RHJQZTN3eXhablRpTHI0MXl2eTgxcnJNMEsyOUVtU2tiUVJ5WHFhRW9QbkZNVmx0TVJHMkt0UThBbnlOcFhvZGdwZ1dEQm1mai1LX05hREZpUFZWNEdjWUVnbF9NX1JjR2Q?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22496,7 +22504,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1005,
+      "chapterCount": 1008,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30536,6 +30544,30 @@
           "title": "Rugby League World Cup 2026: Kallum Watkins replaces injured Morgan Smithies in England squad - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lZS0wSG9RSDRiOFo0SF9aR1pWdXdVQVJoYXFISWVYOVdJT19yVzhsejNsRzE4QjVQWXR4ZXNOd2ZKei1aXzU0dEo3SzUwcENlbjZYQVFza0NRYUlmMEhoekJ4bFhMakxlRUpNazVB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792061776819",
+          "date": "2026-10-15",
+          "title": "Where to watch Rugby League World Cup 2026: TV channel, live stream, schedule for tournament - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkFScEp6RkRxQW5kWklRTWZqMVN0WFI0dVUwQXFCR3JBakpjOFJGdFg0ODJacmxTV2xaVUFEQWlrUHFZcVYyT1N4Y0Z2My1xY2RxLWg1cXREMk5SYi11Ni1GVVJ2c3pQTkpGNGpLRmdYdjNGdzNXV2V4UUtWOHJmTVFXWHR4QQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792061776819",
+          "date": "2026-10-15",
+          "title": "See the best moments from Mexico's recent World Cup history - USA Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGg2dU5PRmQ3RzNUNnZTRzlRZGtEcURJRXV1aW1feWNwWWV1R2FiYk1uME9DZ2JrWkREclZQaDhFQXdZQWJFaTRYM0NzRUg0MmM2M0IwTndsVENtcVdxb3oyd3htbkNyR2xvdWdrSGdfV3ppeGlnQmRmb1J3MGZKUWMxM1YtY3VpLWJqN2pMRDZqZWNUcU4wN2czQm1LNVRQak5pNkJEcktXTXM1QkhoZElSMzNzMUl1bHBNOXdQeGw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792061776819",
+          "date": "2026-10-15",
+          "title": "Why isn't the Rugby League World Cup on the BBC? Latest on free TV speculation - Radio Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHFiMmd0eHY0NktUT2d2Yzl0Sjg4a3pQLXkzT055YUFGbWxOdW5MLTIyaXF4bjk0ZDZYbUM5N0dVak1fNllSYVNJTEJhTTc2eFRIX0oyeFo0OS00SnlnNDdDOXU1NzJSUEkxVTd0SE1Jbml2RlRLU3dpWUdPeURxZVJUQ0JNeklBRENiOG1GNA?oc=5",
           "draft": true
         }
       ]
