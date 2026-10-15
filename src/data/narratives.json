@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-15T10:56:16.819Z",
+  "lastUpdated": "2026-10-15T16:24:19.621Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 535,
+      "chapterCount": 536,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4298,6 +4298,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnZkRkRYcXBHT0RJWGdoQzBHcUhxUEVTdHJsT1cyVG9SS0RBN1MwN3hHVGZNNmRnV3VDM0lCT1hWS3hMVkZLcmpRYWpUTXAzYVhNN0lrZ2QyaEwteTJzUTlUdEVtUU5NbTNMbkc5SjF1OEdpNzdGZ3RqNE1aeDFFamlCcWNOS0E1N0VoaVNVVFFaTFFVVE1r?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792081457146",
+          "date": "2026-10-15",
+          "title": "Lionel Messi provides magic touch as Inter Miami clinch 2026 MLS playoff spot with dominant win over NYCFC - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDNKTkhMX2E2bTZBUGRzclBVWE9LUDEwRDA0cXNLejFBQ1NPY3BGb0hJWkkxX1dSZG1Xd1JORlVJczM2aXA1Vm5HM0xTNTMzSjRyaVMwV3hVUW9QZWNzOEtUcU5LellYT0ZpN2RkYjE4TS1YVDZqeEo2T09oZ2lsRW05bHFiUXRVc3c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7719,7 +7727,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1105,
+      "chapterCount": 1107,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16560,6 +16568,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFaVXRoc29pUmRJZkU3RGp2SVY2Vnc4T0FydmpmQjhHVk5kZFJ3RHJQZTN3eXhablRpTHI0MXl2eTgxcnJNMEsyOUVtU2tiUVJ5WHFhRW9QbkZNVmx0TVJHMkt0UThBbnlOcFhvZGdwZ1dEQm1mai1LX05hREZpUFZWNEdjWUVnbF9NX1JjR2Q?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792081458520",
+          "date": "2026-10-15",
+          "title": "U.S. soccer fandom grows by nearly 10 million following men’s World Cup, report says - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTBKWG5DY2Y1UVhfZmt6Q1ZLNlRNYVJQeTctYlFUSHlZVmNpOTVnMUlqU2p5b2lvaEVuZXlJOUM5VXVnaFI0bXRkdTdYcm85c3lXSVZCQ2VkMEFTMDRTbWtyMkhGTHNrWVNrV0hvMlRLLU5ieGZyTWd1bEppTE81SkYxUVhVYlpiS3FLcGc1V2JrR2pD?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792081458520",
+          "date": "2026-10-15",
+          "title": "Artistic Gymnastics World Championships 2026: Hezly Rivera playing it safe in training ahead of Rotterdam debut - Olympics",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnVSQjE2UGF3bGpjUWhua3FIUTc1SkhXUFI0VkZ6VzQ3YjFJYmtVdjg3NDVCNHhERTdpbDBrOTJ3TEVBeDZMSkhHd3JobGpHMEt0Y2lxU2V3X2lHeHA4V01LYzZaVF83STFHVU1Ud183Ui1WMUVlZEdrQW9ydUNTODQzM19ULW5yZDlldWF1eENpYkpDSDFjY2ZsQkFsZUMwTGtmVTZhUU51YzUt?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22504,7 +22528,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1008,
+      "chapterCount": 1009,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30568,6 +30592,14 @@
           "title": "Why isn't the Rugby League World Cup on the BBC? Latest on free TV speculation - Radio Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHFiMmd0eHY0NktUT2d2Yzl0Sjg4a3pQLXkzT055YUFGbWxOdW5MLTIyaXF4bjk0ZDZYbUM5N0dVak1fNllSYVNJTEJhTTc2eFRIX0oyeFo0OS00SnlnNDdDOXU1NzJSUEkxVTd0SE1Jbml2RlRLU3dpWUdPeURxZVJUQ0JNeklBRENiOG1GNA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792081459621",
+          "date": "2026-10-15",
+          "title": "England Men ready to begin World Cup campaign against Tonga | Game 1 Preview - The Home of Rugby League",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3B2ZmRVVEZjZVFEcktCWXNtWEI5am9sUUdXS2E2eHAzWHFvNE56QUY1a2Fja1hCX2FucHRmdHdLMW44QVRhV29RemRZLVpiTGRCOEdMcmpzZkJRaWo2eHZDS2R0X2ZnY21WdUR0ZjUxaHFGcnVXMURSTXB2V2NHcUFVTFQxQnpkdzdJQ1NFUVhjeXBRT3JyRVhCZVlZYUJVemxnaVdhTDZfMEhGdjBqakZ2d1ZPdjZYb05paVp3?oc=5",
           "draft": true
         }
       ]
