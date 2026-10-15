@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-15T16:24:19.621Z",
+  "lastUpdated": "2026-10-15T20:58:52.666Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 536,
+      "chapterCount": 537,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4306,6 +4306,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDNKTkhMX2E2bTZBUGRzclBVWE9LUDEwRDA0cXNLejFBQ1NPY3BGb0hJWkkxX1dSZG1Xd1JORlVJczM2aXA1Vm5HM0xTNTMzSjRyaVMwV3hVUW9QZWNzOEtUcU5LellYT0ZpN2RkYjE4TS1YVDZqeEo2T09oZ2lsRW05bHFiUXRVc3c?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792097930248",
+          "date": "2026-10-15",
+          "title": "Soccer great Lionel Messi retires from Argentina national team - vnhsmirror.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVU4zMXRGMjRBclJ4TFM5UVdORENrbjFoeHNFOUF6a3dhR1VsUi1RZDVyQ1BsSDBkUUQ0Smw1ZzFISzBST0ZseHR2UGZBWGxFMW5UdkFtVGNFWVRSa0EtUHZWekJVUXJacnN6MG9uQVhrRHVyTWtzWkROQW5ndUh0ZElQaF9HU1lPWDBucENjVmplWmFfLWZUQ3NRYVU2RUhINHVmcURB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7727,7 +7735,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1107,
+      "chapterCount": 1110,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16584,6 +16592,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnVSQjE2UGF3bGpjUWhua3FIUTc1SkhXUFI0VkZ6VzQ3YjFJYmtVdjg3NDVCNHhERTdpbDBrOTJ3TEVBeDZMSkhHd3JobGpHMEt0Y2lxU2V3X2lHeHA4V01LYzZaVF83STFHVU1Ud183Ui1WMUVlZEdrQW9ydUNTODQzM19ULW5yZDlldWF1eENpYkpDSDFjY2ZsQkFsZUMwTGtmVTZhUU51YzUt?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792097931396",
+          "date": "2026-10-15",
+          "title": "Fort Wayne athlete to represent Team USA at Powerchair Football World Cup - WANE 15",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0ZJLXBPaFc1OE51WFdacWhDdmtYeXRRLVVQRVNCa3NQMHRrY0V5WEhqVDlxcXZPVVVvTm1yZ29MbXNTTXotSEFXcFlMamxwWGZQZU8wUWtiYlZRTlRXbVVGNHFQTFFZOUkxUTE4M2dPVjNYQ2ZWbkR5cXlTcFlTYkNFMU52aGpUX01BWHh3RXVIZ2VOaEtTZHBEUnlyWEU2aHBOcUxBLXg3SzjSAbABQVVfeXFMUFVaVld4S0VXU05VcVFZYXRZN3Z6RWVNSnhYdkh4Umx1SjVwZzN3Q2RRY01FaUhURjA3ellnaUVxaVRGT2RZNGYwN2stZUNxaWhzMTJzWk5sRWhqSkh2bV8zUDJRVjUtYTY2Sl9JWkg1Q1FfUHp1TnRLME14dWVfVXNUQU9TX21JdjhxUEhwVkViVENldFVIdnd3WjB4eVUzSWthekliZFpQOUNCZldfcmY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792097931396",
+          "date": "2026-10-15",
+          "title": "FIFA set to change rule at center of controversial Folarin Balogun decision - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1R6MXU3Z3VvaldzSlp3M3dXeHU0bWRrNnlLN3lFYm5xclF3dnpSczhNY21NMmVNS0ZSa0xvZVBYNU5kSnE0WDV2a2toN3BhdHIzTTBrSGl5ZkpZdlRmV0FPNjZIeVZrSzFZRXJpTzJqMTRoUUNKUWFjTVI2R3Vvd3VR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792097931396",
+          "date": "2026-10-14",
+          "title": "What to know about US soccer star Folarin Balogun's 1-game red card suspension, why team can't appeal - ABC News - Breaking News, Latest News and Videos",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODhnZnRkRTdiLWtrV2RZRVUtb2NteHQxV2lMNU1EdzFXOWlqeXR4X0RKaU5OWTlBY2RzekdDNVVBeHdtUXV4UHhOb0ZHQlNhLUhPd2lDYU8zcmhxb1B4N05MY0RpaDFxYS1nSkVJNXF4RVQ1bFpVMnFVWEJ4R1FfQ0pSd2RVYlVwNnZxNG9VdnN0VWtIaXZYUQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16602,7 +16634,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 712,
+      "chapterCount": 713,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -22299,6 +22331,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVzZTZ0syZ1lIbkNaOXNJVW1YaVpOWjF3LU1pRm1DdEthZlJ6eWJGUXJUVDdKVTJnaWVuUEdUcmlwSzRLekhYVDA4RDlIdVhqSW5aRWt0Zk1fbVgtQkJjQ01XLXhjb0J0Q1hhb3JPeFJTVnk3NjExVlZrZ2t0REk3eHU0VWFNdmMxVF9hWF80S1dkc2NxXzJXNXN6RnBWR0hLQllIWk54ZVdEYkV5Q2FRRGw4aTZyMWJJeFFDLUwzRFhDQlVYNkpVdXJLMWNsUE01RnhVb3BCUnpUZUJjTzJLbUVVbWM0S1ZNeTQ0bk1ucUo4cDZDV01nakpYTkNkMkVSTlVUUEpiM0ZJSUdrNUZYTk85cXJ6ZVXSAZwCQVVfeXFMTUNzN0J3V1pKbHJkR3NPal9qVmZDS2VmakktaWJPZHo4MWwwMmhzRnVtQXJnWncwX1VPbnBzQkh5cklSOXJUdzFvYzR2c29zb3Z4MUdzZUg3OUtzZ1BSUGRsM3FucEJTVWFsZ3gtSl95V2RCeEJmS3JPVEZEdkNQdWhDN0NyVDFGTEtGU2hwbFROc0l2eV9yV1czMWQ5aktjTHVpV005VFNtaEJWbjNzeXIzdFFXUkZzUmJoOGtuT1NmN1R1d0pVU2gwUFpwT2xHREhUenkzbnBCdU5OZnZjUGZ2QV9xZVZsM1Z1cFFmNWpMbXJ1R2FuVFVERXdjM0o0Q01PMzVEdkw3WTEyZTFGYkxNemg2bEJJdFplLWU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792097931903",
+          "date": "2026-10-14",
+          "title": "Eight major brands renew CazéTV sponsorships for FIFA Women's World Cup Brazil 2027 following record 2026 audiences - StreetInsider",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRDFHNnM1X08yUFpzX2pRZDl0emZTS1hLcTF1N1QxNVl3cnlPc1JmSGlNMnJmbG5vVE9jemVUQWJwQmU3NENIVXJTZlhyQlV3dl8xeHZTeHc0WXRPRURVX2M4NkNlcFhteG1XdlNiTGFtUzEzTjlTWTQ3TFB0WUJXOC1nQzdPUFZ2RGFjNVhvUlNBUzI4c2JvOHNySnBTWHZwSW5xb2pyYkJzVFJZY0haaXl5Vy1xZ2dabkxJMlJIdVlKa3RuMmE2TXVNaHMtVnJZWWZmLXNuNmdON3pQS3ZtajhMbENTVFNGVUFsRktvMC1ublNOWGRaQzdOZlQ2STNDWkJ3MHpZLVdhZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22528,7 +22568,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1009,
+      "chapterCount": 1010,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30600,6 +30640,14 @@
           "title": "England Men ready to begin World Cup campaign against Tonga | Game 1 Preview - The Home of Rugby League",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3B2ZmRVVEZjZVFEcktCWXNtWEI5am9sUUdXS2E2eHAzWHFvNE56QUY1a2Fja1hCX2FucHRmdHdLMW44QVRhV29RemRZLVpiTGRCOEdMcmpzZkJRaWo2eHZDS2R0X2ZnY21WdUR0ZjUxaHFGcnVXMURSTXB2V2NHcUFVTFQxQnpkdzdJQ1NFUVhjeXBRT3JyRVhCZVlZYUJVemxnaVdhTDZfMEhGdjBqakZ2d1ZPdjZYb05paVp3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792097932666",
+          "date": "2026-10-15",
+          "title": "Cristiano Ronaldo accused of special treatment from FIFA as ex-England boss Gareth Southgate questions 2026... - World Soccer Talk",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdFI5VUJUWmlzc3FycmF0U3JnTjU2WVQ3RjFpVFRNb3FfcFZlOUVWM09fVkJiWVdpRk96OEVfanlpUWNZdzFnNUNuakV2dUczNG1xUEZ6bzBKUFhtQU1aaFdGSk41YXlxemdWZDV2UjI3Q3hUQnV5WVMxRHNEQkJsRXMyTlZTN0lMU2RwR2tUaExJUUJqWlFQenJJR3k4YXFsSkRhNzVsMWE2NWxHY1RjeWxxYkxTWjVmZm1nejY4WWJQc1BDS21HSHlsV09WZms2dHlHUXU3eGY0eFRrbk43cjFkd3hIdk5YUTNHaDMzNGVHSDh4aUFz0gH7AUFVX3lxTE5YOVlDNmx1dlVPTlBfRGFReTFoZVVPWVpheEowRVplWmk3VkVTOUVrQ1lRNWx2cHVPZjUwWFU2OEl0X1F1NkUxVWV3R25MXzJQVFRTSG5tLXMzYnFZNWpxaUxDdjFXZG16QlhVM3hPT0JaMk9ENDNBZ19ZVlE4Zmh0UXhJSG9jRHVnNVNtN2ZyRzdscDFGQmw2RTQ2c2ZXamJWUGd4UVlSejVyMXBnbXJCNmEtX3Z0OWQ0UlFURVNxTVlfbkFNc0kzLXRKMnRWQlhib1V4TTFyeXJacUpXakdjVW11SEdaT3A2R09FYkxxVTcybVo1TktEWld3?oc=5",
           "draft": true
         }
       ]

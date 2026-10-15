@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-15T16:24:16.452Z",
+  "lastUpdated": "2026-10-15T20:58:49.699Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-set-to-change-rule-at-center-of-con-2026-10-15",
+      "headline": "FIFA set to change rule at center of controversial Folarin Balogun decision - USA Today",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQekNod1VlYjI2ZFFGYkRSLXlEMjhfcDkzZngtejJQTlZvZkpORmVSMTJodFVZTlBlVUt1V2FZRk5tdmNPNnZIQ2Nfc0xOZ0hPeXp2S3NLcDF0Skxra0tHNzZlRVk5SW5BSUd0YVNneG56ZzRYb1VxM2syWTRCMEQzUEgtV2NjR1lXOUpGelFFdzZ5b29hRVV6c1Y5aVJHclR0MkpQTmdPWEh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-15",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekNod1VlYjI2ZFFGYkRSLXlEMjhfcDkzZngtejJQTlZvZkpORmVSMTJodFVZTlBlVUt1V2FZRk5tdmNPNnZIQ2Nfc0xOZ0hPeXp2S3NLcDF0Skxra0tHNzZlRVk5SW5BSUd0YVNneG56ZzRYb1VxM2syWTRCMEQzUEgtV2NjR1lXOUpGelFFdzZ5b29hRVV6c1Y5aVJHclR0MkpQTmdPWEhLTU9xWlRBMVRCOU9NZGNTcHNLMGdqbw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-gianni-infantino-apologises-over-wo-2026-10-15",
       "headline": "Fifa: Gianni Infantino apologises over World Cup move but told he must do more - BBC",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-08",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUtCcDlRY1dvdDR4d1IxX0N3d3BOYnhtaE5jZU1NSXhzUGVmZDF1ckl5aUptNDF3Tno3MS1NaUdVdy1rSVVZRXplZGFXam9UUGN4bTZNX212dTZkYlV4MGdiQzY2WkR4VlZnaTdPUl9lcWx2R2xiRWFIbVFIWHFzSVZ4dw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-after-changes-to-arrowhead-stadium-fifa--2026-06-11",
-      "headline": "After changes to Arrowhead Stadium, FIFA announces capacity for World Cup games - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5\" target=\"_blank\"&gt;Af",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5",
       "featured": false,
       "draft": true
     }
