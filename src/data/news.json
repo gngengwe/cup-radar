@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-15T20:58:49.699Z",
+  "lastUpdated": "2026-10-15T23:38:02.094Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-set-for-rule-change-after-balogun-r-2026-10-15",
+      "headline": "FIFA set for rule change after Balogun red card row at the World Cup: reports - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3MxSnc4QTEtcmlmdXVoNjBwclhIUGFqbDVDUWQ4a3J2UERlNFNlN3NtTjA0bENRQTBVMW11dGI5NDBfdWRiMEVqaVNQbWZVMVNfLW5veUVWbENaYzhHRWE3V2l3ZWk1Vi1GWTUyLXQ3RmxhbnlXQUhMOWVZU1ZIRDNJLUFQMVhwVDlCTFZ6d0dVYzFlVlhRem9wZ0pWcGZUSkZpVGUtU2F",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-15",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3MxSnc4QTEtcmlmdXVoNjBwclhIUGFqbDVDUWQ4a3J2UERlNFNlN3NtTjA0bENRQTBVMW11dGI5NDBfdWRiMEVqaVNQbWZVMVNfLW5veUVWbENaYzhHRWE3V2l3ZWk1Vi1GWTUyLXQ3RmxhbnlXQUhMOWVZU1ZIRDNJLUFQMVhwVDlCTFZ6d0dVYzFlVlhRem9wZ0pWcGZUSkZpVGUtU2FQMExhVTFNMV9CODBUOC0tMWxMatIBwgFBVV95cUxNQmVJMWdZeE44LV94V1lNdVlkY29ETHZtTWVhY0FncnBlSlNnMFYxN3pmalJLUkdLOTJsNDd5TFpaSDk3bkw2YVAxX3NhX2o4cmp6LVU4bnhBMlJkTGFxTjRVSzVzYkZXb0VGeUxHSkRxd00zYUtwa2loYTAtRUJWaE1pZjZETHAzNjJPaDlCc1BXalUyblZFMW9rZzRseGxVQ1liNnIzYy1XSXBjOHo2a1dlOVNFcTcwdUthV3RXeUh2UQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-set-to-change-rule-at-center-of-con-2026-10-15",
       "headline": "FIFA set to change rule at center of controversial Folarin Balogun decision - USA Today",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-08",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekhnelFOdjJjT09TNUxRUlZ6azhUZWhmeEdTUG5fWGFoRy03ekRUdjlHZGJkZll6dEZ2Umo2VzZEck45YnBKUmVOcDdCbTQ2MnVEWDAzNUhKVlgxYWlRaWYxSmRXem5Xa1pWYjl6ZmhCcG04MjIxS1c2SlN1LXFmMC12VTNkVkF6QlJia01TWnAxU201QXJ4M3NRVVQtMDdIMEV0SU54ZzdKU3piNUxYN0FyVEJjTGxxS0wycmdQMXM5VEJEdGRidzdtMi10cTJkcDVaamsxWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lemon-hill-s-caretakers-call-for-sustain-2026-10-08",
-      "headline": "Lemon Hill’s caretakers call for sustainable parks funding as World Cup legacy project begins - Billy Penn at WHYY",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUtCcDlRY1dvdDR4d1IxX0N3d3BOYnhtaE5jZU1NSXhzUGVmZDF1ckl5aUptNDF3Tno3MS1NaUdVdy1rSVVZRXplZGFXam9UUGN4bTZNX212dTZkYlV4MGdiQzY2WkR4VlZnaTdPUl9lcWx2R2xiRWFIbVFIWHFzSVZ4dw?oc=5\" target=\"_blank\"&gt;Lemon Hill’s caretakers",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-08",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUtCcDlRY1dvdDR4d1IxX0N3d3BOYnhtaE5jZU1NSXhzUGVmZDF1ckl5aUptNDF3Tno3MS1NaUdVdy1rSVVZRXplZGFXam9UUGN4bTZNX212dTZkYlV4MGdiQzY2WkR4VlZnaTdPUl9lcWx2R2xiRWFIbVFIWHFzSVZ4dw?oc=5",
       "featured": false,
       "draft": true
     }
