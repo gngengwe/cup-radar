@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-16T16:10:13.479Z",
+  "lastUpdated": "2026-10-16T20:33:57.565Z",
   "articles": [
+    {
+      "id": "news-auto-spain-beat-argentina-1-0-after-extra-tim-2026-07-19",
+      "headline": "Spain beat Argentina 1-0 after extra time to win the 2026 World Cup – as it happened - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjFVNnlGOEhKQ054eEY4WThsZjNIX196Mk1xalNQMTZDb1lFSGZFbWFwa09ieWw4elhDbjV4aElDTWRFM3ZORDlFcFRKNW8tTnRTS096WjFxRzdaTEI0WWtQUHBsanpITDVhZGlMRkJFZmpYR1gxb1R2d3ZJRUpKTHNTVHFhdzZWS2xwa3NndFBBSjZMekMyTndmV3lwNXZHSGFfZFZ3MnE",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-07-19",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjFVNnlGOEhKQ054eEY4WThsZjNIX196Mk1xalNQMTZDb1lFSGZFbWFwa09ieWw4elhDbjV4aElDTWRFM3ZORDlFcFRKNW8tTnRTS096WjFxRzdaTEI0WWtQUHBsanpITDVhZGlMRkJFZmpYR1gxb1R2d3ZJRUpKTHNTVHFhdzZWS2xwa3NndFBBSjZMekMyTndmV3lwNXZHSGFfZFZ3MnE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-ii-midfielder-zamir-loyo-rey-2026-10-16",
+      "headline": "Sporting KC II midfielder Zamir Loyo Reynaga called up to Mexico's U-15s for 2026 FIFA U-15 World Cup & Festival - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZE9KbElGeWZ1NXplN1lIZ0VxQkYwMERNTEltWnpYVG1mbl85SGJaN0xhWG1XaUhkMnNXSGc2YnZSVWtYRWpPODV5UEd1czN4WDZwblpaaUFiV25kcW03dXhqaEV0WlNqNjA5MjVjZURMZEl2YVN0ZXl6RDZmNGJIQ25QN2dnSkRLSWNDWG0yQmt4QzBILTRYN296UmRHUUY0bGlXdnlkU3M",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-16",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZE9KbElGeWZ1NXplN1lIZ0VxQkYwMERNTEltWnpYVG1mbl85SGJaN0xhWG1XaUhkMnNXSGc2YnZSVWtYRWpPODV5UEd1czN4WDZwblpaaUFiV25kcW03dXhqaEV0WlNqNjA5MjVjZURMZEl2YVN0ZXl6RDZmNGJIQ25QN2dnSkRLSWNDWG0yQmt4QzBILTRYN296UmRHUUY0bGlXdnlkU3M4N094NEpwZ3pMM0ZSTHcwNmEwX0Vmc2tJZ1R0R3JnYUVneUE4T1lwNDNhX2ZjTUN1QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc-chamber-s-139th-annual-dinner-set-for-2026-10-16",
+      "headline": "KC Chamber's 139th Annual Dinner Set for Nov. 24, 2026 - Hoodline",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkV6U1Y4Q0U1UlRHb2R2TkpnaUFGN3VEZ0s3N01ZSmZNWkd3c1pqc0Y2N0JGVUlzeEZveFh2WGxDLW1DbkVEQ0t2S0hGNjdJeWtuWnJxVmR3SkF6T2dZcWVCUlExcTk1bVBiVUMtRXdqMzNXU3h0N01TZUxpVFFVVnpVdTluN2ItQ2NFbUFTQ005dWlBMHNBbkNyTHRhY0E?oc=5\" targe",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-16",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkV6U1Y4Q0U1UlRHb2R2TkpnaUFGN3VEZ0s3N01ZSmZNWkd3c1pqc0Y2N0JGVUlzeEZveFh2WGxDLW1DbkVEQ0t2S0hGNjdJeWtuWnJxVmR3SkF6T2dZcWVCUlExcTk1bVBiVUMtRXdqMzNXU3h0N01TZUxpVFFVVnpVdTluN2ItQ2NFbUFTQ005dWlBMHNBbkNyTHRhY0E?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-to-amend-article-27-of-disciplinary-2026-10-15",
       "headline": "FIFA to amend Article 27 of disciplinary code after Balogun case - Reuters",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-09",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzdFWW5xSndtaGZDY1p0d1pOVVNLS0hRTm02aWtsVWdURnRjelNFakNXcko1VUdOaWs3ZHZDT19nMFo2YUhORzVBNnRMVS1oR09Vb1JwVlBNYmktZjZpNnRMdUJoZlBjc3FCOGFOUTdPdmRlMV9BN29faWFEbkJUWjlRMVdlMjF0YU5RWDRiV3Ryd3pxV21aT2thS3Bwc2dESk1oVkk0SlQtOXFfSUxoTUNSLUx2MC1KR1VncHNFWHlZZ1VTaWJGblpoUEk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-argentina-s-paredes-banne-2026-08-21",
-      "headline": "World Cup 2026: Argentina's Paredes banned for 10 games over World Cup final clashes - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5\" target=\"_blank\"&gt;World Cup 2026: Argentina's Paredes banned for 10 games over W",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-21",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41XzVid0k4UFpCa0s2ZFF1RnBfekN1M0ZXZ1ZPWFd6UHkzaXZTV3poaFZDUzZDdy1RaUhHRGlJaHJuU2NZWHFoOE45NGYyYzJ5bk1qQ21iWkJOOHEtbk9lUTI3Z1Fjem8?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-african-football-leaders-rally-behind-in-2026-10-08",
-      "headline": "African football leaders rally behind Infantino for FIFA reelection - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTItWHItOG9nbTkyTm1rcUp0UEVuU1lKZDdreW00TmhLVlExMS01OGpjbFNLc2RKa28zU25IRVkyWjZIZzhGanBncG9FdS1nR08xXzhXb09DZER1VURaekNsN0ZvMDJYWUNKc0drTGt6bFhyeWd5MGJLRVJ5eXhZZEhnQWVjNlNuVl9hNzZ4ZjRnSGprNWFWOEtOWFRMTnJiMm1MSmV3ZVh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-08",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTItWHItOG9nbTkyTm1rcUp0UEVuU1lKZDdreW00TmhLVlExMS01OGpjbFNLc2RKa28zU25IRVkyWjZIZzhGanBncG9FdS1nR08xXzhXb09DZER1VURaekNsN0ZvMDJYWUNKc0drTGt6bFhyeWd5MGJLRVJ5eXhZZEhnQWVjNlNuVl9hNzZ4ZjRnSGprNWFWOEtOWFRMTnJiMm1MSmV3ZVhMQQ?oc=5",
       "featured": false,
       "draft": true
     }
