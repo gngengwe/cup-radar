@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-17T20:12:07.870Z",
+  "lastUpdated": "2026-10-17T22:54:33.262Z",
   "articles": [
+    {
+      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
+      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - Facebook",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-hopes-of-world-cup-tourist-boom-feeling--2026-05-13",
       "headline": "Hopes of World Cup tourist boom feeling shaky in Seattle - Washington State Standard",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-09",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQW5BaURNVHNlb0lfWEY4RUhLNjBYRm90cmNXRmxFZ1FqM1FuajRIQXVKOEZmRHlsNmdtcHpYMjJjdV94aUlHTEtoNE1vX3JoZ21sa1ZnRnpfUncta0dnUXJjamFCYktjLXZLRlQyWVc3ZjNDenhhQWtzWGVjV1ZoamdjdVlJanhMcllZQ3p2bUNBRTFrY0pjNUV4NXg3RTVyZGJLcF9UV3RUby1WaVFRTG92dWZETFhXZ1VYZU04Q2tsX3dNbFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-vancouver-whitecaps-fc-clinch-audi-2026--2026-10-11",
-      "headline": "Vancouver Whitecaps FC clinch Audi 2026 MLS Cup Playoffs spot - MLSsoccer.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVpQUUxIT0lIMUp6cnFwSnl3VWNxS0Fqb0FpcDdRdTFkR00yeERQZG0zVnJEd0oyRTVJNDRWOFdCVXh4dVVhaDAtN3lTelpYcm1ZczhhalRzb1dqTVpYMGdQVVl4LUhKVVprTG5ibFVKTFozMFRJemNCOXhiMUdNUEdOV2JEeHd6bWFDYzh4UXJwRThwYUhV?oc=5\" target=\"_blank\"&",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-11",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVpQUUxIT0lIMUp6cnFwSnl3VWNxS0Fqb0FpcDdRdTFkR00yeERQZG0zVnJEd0oyRTVJNDRWOFdCVXh4dVVhaDAtN3lTelpYcm1ZczhhalRzb1dqTVpYMGdQVVl4LUhKVVprTG5ibFVKTFozMFRJemNCOXhiMUdNUEdOV2JEeHd6bWFDYzh4UXJwRThwYUhV?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-tiktok-and-fifa-introduce-the-fifa-world-2026-09-08",
-      "headline": "TikTok and FIFA Introduce the FIFA World Cup 2026™ Creator Correspondents - TikTok Newsroom",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-08",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDllNFZ3?oc=5",
       "featured": false,
       "draft": true
     }
