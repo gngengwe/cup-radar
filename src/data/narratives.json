@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-17T15:02:51.604Z",
+  "lastUpdated": "2026-10-17T20:12:10.643Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 540,
+      "chapterCount": 541,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4338,6 +4338,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXVpTm1YbFNBcmZmY1RBcG5kUTdBUkJRU3VGcmdhOFBRSUJYa2l2MGdTdmNwNjJrNFd6eDdveTBmeVlOMFFNcFBNUW53dHUyckI3czJya09nSDBCQzVyMHAzYmJMeHhRX2xLYnpKNEZyWkhsRU5yeGhDanB1UDV4aFVfZWU1QzJxQ2hUN1lxbnpNUWpJVVlWS3RMT1Rmc01PaUFQRUZtdnFQX3NHbWhSTU9ERXhUTnFQaDdIOHhJeDTSAcQBQVVfeXFMTWRJRHIxandDT3dWeFdBRlpGTU9qdzBzXzdpdkg5al94a3lrcHpGR3hOU2JKQ1R1QzNJRHdYRjYxYU5TMFI4NjhSQzNuN0FGMUFNVE80TEl4REVSakl5dThqcGlPa3dXQk9aLXM1LVBCeGxlV2FLcHZlX2VvckhCcFJVc01ma2VjVUpZX0s3cjRQckV6bDlzQzRPMzdYSHlpLUIyc3B6OGFnbG5LVWZyWVZlRVdubVhGWmY1UEhMd1hfbWZIRg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792267928559",
+          "date": "2026-10-17",
+          "title": "Argentina to begin post-Messi era with Uruguay, Costa Rica friendlies - The Daily Star",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVJWWm41akVIMVQtNVRpSXhBN0oxMDNScmhXMWxiQVA1cURaRi1RbzZLRUJDNDc1WWU4SDVQOU9fYWlyMFQ1VlRRQkNoX041TUN4eDYwRWw0X0R2QnpXSDNHS0RsR1hFVXJYbUFBTWlQM0dvUTlNVERxaXgwb1hObWIySVp2SkttWXM0YTdmbEhweXJUaVVSRjNEd09VcjVxRXNrQUJ1WUl4RzI2WDYtVjJjS0J1QmhRTGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4356,7 +4364,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 425,
+      "chapterCount": 426,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7756,6 +7764,14 @@
           "title": "La Liga top goal scorers: Pichichi rankings for 2026-27 season - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSTB4TXUwNGQtWW84eEdQQ21OMm9Bem43LW1CZ003S3BMV18zSzZiN2k4OU1nNzUwcGU2bUdaczJHejlEeGRWN25WM016bXN6WnJWV05pRXl5Sm5IVGpydFVFLVZXZ3U1RHdiRnQxMUY4T0RuX0dqTWktNklXZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1792267929170",
+          "date": "2026-10-17",
+          "title": "Kylian Mbappe for Ballon d’Or 2026: Why He Deserves to Win - Chase Your Sport",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0NORzROQTVGVVFEdFNndExYTnVabTdPTm1UMWQ0aUkxUWN2aklLNU5sLUE5OEQ1dnZGU29EUGpFQUhvUExaaThja2xaeHJDRW9vZHFzdW9WQUZwTHZxLUtmaEdTQUhIZU5GTUU2ekliaEhEWm1aaDdJcTZuMzVFRQ?oc=5",
           "draft": true
         }
       ]
@@ -22680,7 +22696,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1019,
+      "chapterCount": 1020,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30832,6 +30848,14 @@
           "title": "England’s Rugby League World Cup hopes in tatters after Tonga defeat - The Telegraph",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUlTd0cxbWF6dzZlaThZQWsxWDZMRlI0a1RZR1J2ZkVDX1M4OTVBaHJZUThnQ3dzZHUwUm4xZHpaU2tZN0lWalVQZ2FZZk1KamU2Y1h0ZlBveDNZQkE0TGtGVHJzejRkZWY5QjR3T1RBUHBIcXliZUpiVHhuZ3lUQU9Qb1VKWThWMlMzSjV1QkRhMHZxRnp3VlNnZGZUVFA3a0NlZnlpWllBNHBTZVE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792267930643",
+          "date": "2026-10-17",
+          "title": "Brutal England reality as Tonga in World Cup ‘statement’... but face nervous wait on star - Fox Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNWDBfNDlpMlVJY0RGSEFWc2FtZWNWU21zLWFJOHBnSjNKUHF3TWVSMHRwUWs5US1BZzJ2TkZjMGRRcjlRTjVYQmVBb25uM2FyempESG44N0lScnhXaEtTQnZqSjFoTllXYlFvU05VWXdxeTM3YU0wSU5rMFo5MEI5SHoxRzZBbFBYVWt3allLdkFya1o1dnVjZzVmM1RWUVp3Z0RUWjliSFdJbzJOV25qLXpHRl9OdHk0WEpWSFdZbWZSLTdieHZhRFNhSFlVS2VEbzhXVDhWd1IyTy1nYTFFOWZYVy1mMWJHMkVGVWNLM1BrTTdENDlmOWc2Z0pOSnVoTmVkaVA1S2hQVFYxaUI2M2JLTXVDVEV5RDB0Y1JVY2dqeWFfelpWTEpMcGpGd9IBrgJBVV95cUxNWDBfNDlpMlVJY0RGSEFWc2FtZWNWU21zLWFJOHBnSjNKUHF3TWVSMHRwUWs5US1BZzJ2TkZjMGRRcjlRTjVYQmVBb25uM2FyempESG44N0lScnhXaEtTQnZqSjFoTllXYlFvU05VWXdxeTM3YU0wSU5rMFo5MEI5SHoxRzZBbFBYVWt3allLdkFya1o1dnVjZzVmM1RWUVp3Z0RUWjliSFdJbzJOV25qLXpHRl9OdHk0WEpWSFdZbWZSLTdieHZhRFNhSFlVS2VEbzhXVDhWd1IyTy1nYTFFOWZYVy1mMWJHMkVGVWNLM1BrTTdENDlmOWc2Z0pOSnVoTmVkaVA1S2hQVFYxaUI2M2JLTXVDVEV5RDB0Y1JVY2dqeWFfelpWTEpMcGpGdw?oc=5",
           "draft": true
         }
       ]

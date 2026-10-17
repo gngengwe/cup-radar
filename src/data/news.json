@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-17T15:02:48.990Z",
+  "lastUpdated": "2026-10-17T20:12:07.870Z",
   "articles": [
+    {
+      "id": "news-auto-hopes-of-world-cup-tourist-boom-feeling--2026-05-13",
+      "headline": "Hopes of World Cup tourist boom feeling shaky in Seattle - Washington State Standard",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-13",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-06",
+      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-everything-you-need-to-know-about-the-fi-2026-05-09",
+      "headline": "Everything you need to know about the FIFA World Cup 2026 in Seattle - Time Out Worldwide",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5VZ0RMQmgyRGNMUEdJNTFjOUJKRUNyTTdNcHROQWVMTWFYODJKYVdrTUF6NGE5ZHVPVExzR0NELTN0QUwtR2hCeG50VERRR0hhcm9SRjVzYTBZRXEtS3U2bGdDZHV4QnVkekM3WThSTEVxem9SaGdsMmJaVHVtVzQ?oc=5\" target=\"_blank\"&gt;Everything you need to know ab",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-09",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VZ0RMQmgyRGNMUEdJNTFjOUJKRUNyTTdNcHROQWVMTWFYODJKYVdrTUF6NGE5ZHVPVExzR0NELTN0QUwtR2hCeG50VERRR0hhcm9SRjVzYTBZRXEtS3U2bGdDZHV4QnVkekM3WThSTEVxem9SaGdsMmJaVHVtVzQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
       "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-08",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGhldzUzSUx4ZVZjbEpDYndBOGxQNUEyb21MQXE4VkJTOHBYNHFtRFhtTmlFbEdDci1xa0NqT284ay1paTczSzk0TFAzajMxaXZwVmdOaDIwSU9vNEs2b0NPY1Z6WG12SzJzM3AzT1N6dkg0Rl84Y0JSOUM3MzhMZ2FQeVByRldYemx1eUhETl9Vd1V4VTl1YkduME5VR3pfaVFrd1c2TDllNFZ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-history-made-by-stunning-closing-ceremon-2026-07-19",
-      "headline": "History made by stunning closing ceremony and Halftime Show - FIFA",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUVyOXRyaFNrQ055em1sSEZ1NkJHVkc3eXVlRmg2LXNXdnJLQVYyc2hBOHJnUFRqd0tidmJjVjl4TW9DN3gyX0Fvc0RkaWpEaWFzSmxNZG5pQzNBa2ZhbG00YW5rb0l6V0tLWXVDbkVhVWJXV0VqUnl4Vm1lNzR2WG00U1haTHVuZ3pnbXJ3alFDaU8tTXQxV1hwamxmWHB0Q2NlamFHa1B",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUVyOXRyaFNrQ055em1sSEZ1NkJHVkc3eXVlRmg2LXNXdnJLQVYyc2hBOHJnUFRqd0tidmJjVjl4TW9DN3gyX0Fvc0RkaWpEaWFzSmxNZG5pQzNBa2ZhbG00YW5rb0l6V0tLWXVDbkVhVWJXV0VqUnl4Vm1lNzR2WG00U1haTHVuZ3pnbXJ3alFDaU8tTXQxV1hwamxmWHB0Q2NlamFHa1BGdUxZYWdhaXU1UXExWDly?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-an-england-soccer-player-s-favorite-thin-2026-10-09",
-      "headline": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOckRPRWpkZjl3Wjc1U2U1QnZfelo3MW5EbEI2Z2RJaUFMSHY5OERCOHJNbkM2c010ZHNyRE5LQjdMZjJ5MHBYQTlNamdRRXN3VWhFYVp0N3p1SnduOS15NXpuRTViY2JqQjhlNGllTFU2WEFsZ0E4azAyb1lNVlF1OV92czhMTkx5d1ptWmtR?oc=5\" target=\"_blank\"&gt;An Englan",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-09",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckRPRWpkZjl3Wjc1U2U1QnZfelo3MW5EbEI2Z2RJaUFMSHY5OERCOHJNbkM2c010ZHNyRE5LQjdMZjJ5MHBYQTlNamdRRXN3VWhFYVp0N3p1SnduOS15NXpuRTViY2JqQjhlNGllTFU2WEFsZ0E4azAyb1lNVlF1OV92czhMTkx5d1ptWmtR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-women-s-european-qualifiers-for-2027-fif-2026-10-10",
-      "headline": "Women's European Qualifiers for 2027 FIFA Women's World Cup: Play-off first legs completed - UEFA.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakZzSDdKb2FmMGxZbTBaYkZxRjFGM3BxdWpEaXJLSl9JSGVUT1pXNUVpVVZVR0cyMmQ0bldWOGpBNXpJVm5NOUNUVnI3bi1BSlUyM2ZXdVdjSGdtcEVNRTc4cTNRcC0tODRSZ3pyX0dRQ3E1bjFuVFJteEtjS1ZwZU8tZjdTdm5ObXV6TUhSbTRKNTJmbG8tcGxmTFdTWEpBRU1tZmxwXzN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-10",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakZzSDdKb2FmMGxZbTBaYkZxRjFGM3BxdWpEaXJLSl9JSGVUT1pXNUVpVVZVR0cyMmQ0bldWOGpBNXpJVm5NOUNUVnI3bi1BSlUyM2ZXdVdjSGdtcEVNRTc4cTNRcC0tODRSZ3pyX0dRQ3E1bjFuVFJteEtjS1ZwZU8tZjdTdm5ObXV6TUhSbTRKNTJmbG8tcGxmTFdTWEpBRU1tZmxwXzNvVVlQazdKWWZIRVI4VWRRWHJnVGtlYmdrSWtkSmRac3diWmNOYWNkYXpGNkk4dHJYZUgwSFQzd2xR?oc=5",
       "featured": false,
       "draft": true
     }
