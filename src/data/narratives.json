@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-17T10:13:50.201Z",
+  "lastUpdated": "2026-10-17T15:02:51.604Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4356,7 +4356,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 424,
+      "chapterCount": 425,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7748,6 +7748,14 @@
           "title": "Bijan Robinson boosts Kylian Mbappé’s receiver skills as NFL heads to France - The Big Lead",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlN0ZXRoUlgxd0wwOUpOT09DUWRiLVpVQmpIZ2oyYUNUUkY0MEpfWlBnR3lKOXJiQmktUTgxX3Bia0lqeGo1UzlXTnNMNmRZVUV3bXowTVpWeFJhdlNvWER2amhMenRORGR4Rmt0YjBHSWV1NGNfc0FIbDBnU25JMnc4YlM3U0hrSmE5eGdiN2hwM0lmbjhxd1JSamVaTUdNeklYeFdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1792249370097",
+          "date": "2026-10-17",
+          "title": "La Liga top goal scorers: Pichichi rankings for 2026-27 season - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSTB4TXUwNGQtWW84eEdQQ21OMm9Bem43LW1CZ003S3BMV18zSzZiN2k4OU1nNzUwcGU2bUdaczJHejlEeGRWN25WM016bXN6WnJWV05pRXl5Sm5IVGpydFVFLVZXZ3U1RHdiRnQxMUY4T0RuX0dqTWktNklXZw?oc=5",
           "draft": true
         }
       ]
@@ -22672,7 +22680,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1015,
+      "chapterCount": 1019,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30792,6 +30800,38 @@
           "title": "England vs Wales LIVE: Rugby League World Cup 2026 - build-up, team news, score, text updates & match stats - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tUzlEb3cwN2Q3aGw4RzEtTTRQcUxZZjRNbFlqbXJiNXFMaTBKWTFuMmV4M3d4NmhSdVpERWlIXzNxZ3ZJT0g2VUxudVJoUENHWVhXZDNKLXJoR3pGOGdHRmhMRW5RSW1w?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792249371604",
+          "date": "2026-10-17",
+          "title": "Rugby League World Cup 2026 LIVE! Updates from England men vs Tonga and women vs Wales in opening games of the tournament - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaFlEMERoME1oQXhCeWlMT1pSeXM1dHg5ekhyRllqcWpwenNOUHdFbWtBb3VzQ0lEMkhsa01OckxxQUNCVVdGVDJydFNNbjBaN2V5bUVuUjhwVS1GZ2JuR1hTaVB0bUlrOTNBZDFneXh4RFdrNlFkWTZMZ3BDZ3hGcTNISmRhaE5xZUE0MVFXWUZNZ3BhY1Q2RHdXbTFDM3RnN25iNUxEY0RBZEFhQkNFQUZDdWFadzBsZjBJUFM4dU92bXloTnhBZ3lmVGdvV21pUGpxUVJ0akZnR1dQdlNmc0FLVUI4dUQ2bjc2UlFhYVI1LWU0TkdzOXp3TUh5dERZUHpkRHg5M1dMdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792249371604",
+          "date": "2026-10-17",
+          "title": "England stunned as Tonga tonking leaves Rugby League World Cup hopes in shreds - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU81SjNPQ0F2NnJzeGs2Zzd1Rl9aMVZrZmZicGN3X1BSNmlTSjZ0c3h4cGV0YzI1dXJKTkkySmdGcXRpTE94d19yaDhRajlwZXdBTnhhQTI0LV96ZFZXekdpY2xBUVl2RE45T2txSWdsU3RPWXlMajFUYW52Mkg0aEpuN05UR2t5Mzc3VTNMYkV1Mm5zUFNxb0F0bw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792249371604",
+          "date": "2026-10-17",
+          "title": "How to watch England vs Tonga for FREE: Live streams for Rugby League World Cup 2026 game - TechRadar",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnBqa2JYTEFlQWVMd1N2V3FpSS1LTWdIS1FJc1RyWXhPWGpsODVHYzJhbWdfbmdDTFpNbUtoRktJYXc2QUlTVVd1MFV4eGZMTUpEQTRtNzNaM2lIMzJicXlycTV5cERKM09UWUtkUXYyVU5Ecml2aWd1aEl2VUlxcUcwMEhERG1PSFdVZ2RpVGtJLV94SU9DTDdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792249371604",
+          "date": "2026-10-17",
+          "title": "England’s Rugby League World Cup hopes in tatters after Tonga defeat - The Telegraph",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUlTd0cxbWF6dzZlaThZQWsxWDZMRlI0a1RZR1J2ZkVDX1M4OTVBaHJZUThnQ3dzZHUwUm4xZHpaU2tZN0lWalVQZ2FZZk1KamU2Y1h0ZlBveDNZQkE0TGtGVHJzejRkZWY5QjR3T1RBUHBIcXliZUpiVHhuZ3lUQU9Qb1VKWThWMlMzSjV1QkRhMHZxRnp3VlNnZGZUVFA3a0NlZnlpWllBNHBTZVE?oc=5",
           "draft": true
         }
       ]

@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-16T23:15:53.347Z",
+  "lastUpdated": "2026-10-17T15:02:48.990Z",
   "articles": [
+    {
+      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
+      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
+      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-16",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-soccer-fandom-in-u-s-sees-unprecedented--2026-10-16",
       "headline": "Soccer Fandom in U.S. Sees Unprecedented Surge Following 2026 World Cup - Sports Illustrated",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-10",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakZzSDdKb2FmMGxZbTBaYkZxRjFGM3BxdWpEaXJLSl9JSGVUT1pXNUVpVVZVR0cyMmQ0bldWOGpBNXpJVm5NOUNUVnI3bi1BSlUyM2ZXdVdjSGdtcEVNRTc4cTNRcC0tODRSZ3pyX0dRQ3E1bjFuVFJteEtjS1ZwZU8tZjdTdm5ObXV6TUhSbTRKNTJmbG8tcGxmTFdTWEpBRU1tZmxwXzNvVVlQazdKWWZIRVI4VWRRWHJnVGtlYmdrSWtkSmRac3diWmNOYWNkYXpGNkk4dHJYZUgwSFQzd2xR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-alexi-lalas-post-world-cup-power-ranking-2026-10-09",
-      "headline": "Alexi Lalas' Post-World Cup Power Rankings: France Or Spain At The Top? - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWd3Z2dxUVVsY3RfbkVXM3UzTTZCbnVuaW1OTmpIN293ZVRhQnJ6UkI2cU5zN18yNHJuelRxbFZobzJfazdzYTYxekNiY3hLdmwwT2M1X1Y0R09MVmRtazlhT3JENGJYSEVUUWRkSHYzV0xNRHRwZ0otdnFXcHRsLVBuMmpmQ3RBTVHSAYoBQVVfeXFMTXAxN0pQSERfSUE5SzB0T0x2ZG5",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-09",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWd3Z2dxUVVsY3RfbkVXM3UzTTZCbnVuaW1OTmpIN293ZVRhQnJ6UkI2cU5zN18yNHJuelRxbFZobzJfazdzYTYxekNiY3hLdmwwT2M1X1Y0R09MVmRtazlhT3JENGJYSEVUUWRkSHYzV0xNRHRwZ0otdnFXcHRsLVBuMmpmQ3RBTVHSAYoBQVVfeXFMTXAxN0pQSERfSUE5SzB0T0x2ZG5pQ3J1MlBOYXFHZFQwal9SZmk5THVXWjF2S0dMRUkzaXpzcG9PQ0RvRVo2ZkVaUkpGNXFxN3A1UjZUQ0VlUVZOSTg2UTRZOVhvWF9VTUZQR1lVQl91LUxzV3hmbmxJWkdZdzI4TG9xdFBnZDhOOUhB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
       "featured": false,
       "draft": true
     }
