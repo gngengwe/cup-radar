@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-18T20:09:52.543Z",
+  "lastUpdated": "2026-10-18T22:48:04.700Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-thank-you-letter-to-kansas-city-fif-2026-07-23",
+      "headline": "FIFA Thank You Letter to Kansas City - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMXlJUzk4RnhxOVhIVHJtS1ctci1xTF91SlhTaHNYeGNLTTVMbkF3SmdXaGZoZTgwSDgtUmFQSHVzMGFncVh3b2EyYjZ0X1l2c3hGTHlGd3l3XzFaZjJkQWNyVl9PR3NsN2VMUGJ2SEtSMmM?oc=5\" target=\"_blank\"&gt;FIFA Thank You Letter to Kansas City&lt;/a&gt;",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-23",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMXlJUzk4RnhxOVhIVHJtS1ctci1xTF91SlhTaHNYeGNLTTVMbkF3SmdXaGZoZTgwSDgtUmFQSHVzMGFncVh3b2EyYjZ0X1l2c3hGTHlGd3l3XzFaZjJkQWNyVl9PR3NsN2VMUGJ2SEtSMmM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-canada-makes-2026-u-17-women-s-world-cup-2026-10-18",
       "headline": "Canada makes 2026 U-17 Women’s World Cup debut - Concacaf | Official Website",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-11",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGdscGhfcm1QclprU2R3c25fWWh0RFkxWWY1eXZyRDNPY1B6REJuUjBMRGxjNVBsRW5UM081RkFpQmdhRFNpd1NOVXl1d2ZMLWRHa1lqQVlnck5fWUg2STdPcFBMOHdCazQ1OGw2SGZZZEgxb1ZWczVLb1JDdVFJN2ktOFJkMTV1VHd2SXlHZU1KWG5sMjVXZVljV2pOSEdWVlZJUndDd3d5enh2OWpmY3JBU1ZFMTNOamxSeHJYUzFWbUlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
-      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
       "featured": false,
       "draft": true
     }
