@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-18T10:28:52.733Z",
+  "lastUpdated": "2026-10-18T15:27:20.198Z",
   "articles": [
+    {
+      "id": "news-auto-lionel-messi-retires-from-international--2026-08-31",
+      "headline": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final - Fox News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9QcFhxa3lCZmJTOU1KTDIydTlrVzRWd1MxUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--live-world-cup-2026-livestreams-jackson-2026-10-18",
+      "headline": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Jacksonville Jaguars v Houston Texans watch Live Stream free - Universidad de Córdoba (UCO)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxQVVJLN015Nm94QW9IeEh6QXNXYzlGdk9wanFYVzQwVmdtS0tHeWRNOGlJLWQ5RG02bnUxRV9IUFlaOTktd3NVQWtUZ1dWMGZoSkhSWC02OHpNeXdKNWtPcHNrZ1RtcEIzT0VRRkRvVndXUWpScmNzYlg0Q09RMTNRc1Zxb1hHZmZLZUJtRmxnVUNnOHVMWWhMY3BBaGhlNWNQZnBtN3doZzh",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-18",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVVJLN015Nm94QW9IeEh6QXNXYzlGdk9wanFYVzQwVmdtS0tHeWRNOGlJLWQ5RG02bnUxRV9IUFlaOTktd3NVQWtUZ1dWMGZoSkhSWC02OHpNeXdKNWtPcHNrZ1RtcEIzT0VRRkRvVndXUWpScmNzYlg0Q09RMTNRc1Zxb1hHZmZLZUJtRmxnVUNnOHVMWWhMY3BBaGhlNWNQZnBtN3doZzhxcDBIZXFEdWVXdU1rX1I2MGNodnJRVnBrSllBcW84UzRSaGwzWGtrQW54QTd5TWNFclJJelp4ai1WWlBlcVNRYl9nQzR4XzJ0ZEZCZWJNNDNZSVhoUHBDVE40SXFrR2N2XzZya3lFdWhYbXVlTHkySldyRXpnUVRDWjhHX1laWUVmWVBMRVVGb2RoeVFKYjdqeG15el9UVnhfV3R6ZzROMjk0?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-young-wsl-stars-expected-to-dominate-2026-10-16",
       "headline": "The Young WSL Stars Expected to Dominate at the FIFA U-17 Women’s World Cup - Just Women's Sports",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-27",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGpxdU9VRnZ0M1lhYWFkSk96WklPaXoxU1lscG0tY2JaejVsd0cxYUQ4MGVlWE9oT2Q2a01DY3BuVklCRDNiNDVDaWdGcG5hZnFqZzlJVUFKRlpnd2dCUUZMNXVFd3NGT2VORUE3ak9KRVJBeXM2VzRXQXlDNnc0R1ItYWFxSGtmMkp4eHlaUXlaSnFTQThia0o1VHMybkdG?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
-      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-lumen-field-earns-positiv-2026-06-29",
-      "headline": "2026 World Cup: Lumen Field earns positive reviews from visitors - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
       "featured": false,
       "draft": true
     }

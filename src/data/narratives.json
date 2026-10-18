@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-18T10:28:55.702Z",
+  "lastUpdated": "2026-10-18T15:27:22.781Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 543,
+      "chapterCount": 544,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4362,6 +4362,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGxxbkNjS09pMlBVT292UnBxeUU0WFBFQ3RIY0xDWlFVTlNBbEFybEFKSWNmLTloZ3FvS1pyUTdDOEFGcXdVT1lGNWlqa2pmeXg2SjB3clNpZHdPMGkzVnllcjNlQ09jUk9yY3NDODlORjhuVEIwMVg5RUpzamwtQkZYRW1Ra18wU2JTc2R4RjBCMV9t?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792337240819",
+          "date": "2026-10-18",
+          "title": "NYC teacher posts antisemitic meme of Lionel Messi - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3c3MFFmSk9nYUQ0VnB2TGpxTHctSGpKcy1YZG1SSWw1OTd0UjJXemVPbUFQOHBPMlVnV2V6TW5ZdUpZb3ZqazRiSDM3Q1VDeXpTbzFMOXVGNEx3SGFzMU5mZlBBWHRiVWx1WlQyLVlkcnRWOHJIeGxmVkFNMnA4eDlKamdRSFloYnJrMG5UQzBsYzQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7807,7 +7815,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1122,
+      "chapterCount": 1123,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16783,6 +16791,14 @@
           "title": "The Challenges Facing Former Soccer Players-Turned-Pundits - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjJ2bXBtbFdZazl4XzAzNXM3eTllMXdBYWNkdVhGbU40OGpiYkFNM1ZFQXUybTBWejYwTDU5YUwtOExaU0FVekNBUEgxNTZpb1k2QzlkVDJBdENHaUZJNl9jMmdDMWU1UzRSdzJOVktrQXBONTdoaFVaVHc5WVl6Y1VCUXVZSU84Q3lfamsxLTFkZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792337241889",
+          "date": "2026-10-18",
+          "title": "U.S. Women's CP National Team Wins 2-0 in a Hard-Fought Match Over Japan and Clinches Semifinal Berth in 2026 IFCPF World Cup - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFJLMDhDX1lGVFdoRmpad2hZWWpVcUpSVHgxSHZ4a2hER1FYTGdOTXJWOFVHb0FvZ1NyTXhQdFdBVE9jSURtNGxCNGpKVTlfdUVWc2w5c2NaajUya1FyR3FybGloaHJsOERRdi1LQ2l0RXpHQmNjdUJ3WFFoejAxVm9reGhxY21kdGIzdjNRQTVQYlZseEVrcUp5RFJGbVZnTG1HbDV3WkJYLW9QRFQ3SDkxamk5VDhWNEVwZGhoX1A?oc=5",
           "draft": true
         }
       ]
