@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-17T22:54:36.277Z",
+  "lastUpdated": "2026-10-18T03:16:43.553Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 541,
+      "chapterCount": 542,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4346,6 +4346,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVJWWm41akVIMVQtNVRpSXhBN0oxMDNScmhXMWxiQVA1cURaRi1RbzZLRUJDNDc1WWU4SDVQOU9fYWlyMFQ1VlRRQkNoX041TUN4eDYwRWw0X0R2QnpXSDNHS0RsR1hFVXJYbUFBTWlQM0dvUTlNVERxaXgwb1hObWIySVp2SkttWXM0YTdmbEhweXJUaVVSRjNEd09VcjVxRXNrQUJ1WUl4RzI2WDYtVjJjS0J1QmhRTGc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792293401334",
+          "date": "2026-10-16",
+          "title": "Lionel Messi & Inter Miami bring momentum to Atlanta United - MLSsoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlhGbDVyZ19ReEJ0XzBWZnZsNVZnMmw1SGowS2JuSE1Pcm5XWmZOUTNLbVFwQ3JPa1NfN2hMaHhmcmZ2UkFidlN1azJzSDF5SURHOWFwa3FLcGhNSWhSMXlIRjVzS2NVQU5iMGZPWkRtcVdEdjg0cnFmWG1BSnJhTHZsamk3UHdjRHQ0ZnM1ME9rSndUR2pGNjlUSVA1VVU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7791,7 +7799,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1118,
+      "chapterCount": 1121,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16736,6 +16744,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONDBOZi12WUtVTkVaMF9rTTlDM0RWYlZKTTk5LTV1V0xMUGF6WTE0LVMtR2tZZ2E1Q1NKUG8wQ2ZuNWxRd3hQNGpoaWFIdW5JeldDMkV5UkxOOFZ1QkFmUVYxYVlTdE1oa2RwVDJZQ1lUb3EtaXN1SE01cmFuamx4eVhlV2Vram9pNUQza1NTWTlhSVczeW1uX25WZnltOW8?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792293402382",
+          "date": "2026-10-17",
+          "title": "American men sit fourth as 2026 Artistic World Championships kick off - USA Gymnastics",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUFrTmtVVW85TDI4NzdEbGFRRDNxaGxrZ09aVlVDSGZienhPSnlsYWwwZXJITU1BRmpxLW5NNTd4MFE5U1Q2RmJEcFN1aTNteXZNeVJlVzdhWENOT1JXMTF4VUNmX2plQmNfRm5JcTNYQlRvQ3BoQW4tTVlVSk5OU1NMZlU5Qkh5dkdSSWxKekFoeGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792293402382",
+          "date": "2026-10-18",
+          "title": "Men’s Last Boulder World Cup Finale of 2026 Set in USA - Gripped Climbing Magazine",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTS1maFhEWnJWYkVZd1RZb0tiSERQdFBTZDRMT3FVRFZKS1BHZ2N4TmRjQ0NSYmRJdVItT2YtemoxQlNKMm1rWGJERTJfbHl4SUlJUzFDQkNKczJIM0ZpWnI3dW5QcHFkSWZoNmhzdElQOEJMTExnRGhPbU5ZOHdJTXFhdXRvZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792293402382",
+          "date": "2026-10-17",
+          "title": "Three Team USA athletes advance to singles round of 32 at 2026 IBF World Cup - BOWL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2lZdDlnLUI4bnJkWVI1UFZFalhiRUxaaWtCS05ZbGxWQ0VSZEpIMEQyeWM3X1NxaGkweGk4eG1jUjJsQmx6ZnI0RUlocDB5SlNzcnI3LVpLa1JwMG1CWU1mVF92VmstVUdHcUJUZ21SaE5NYWxJT0dTOElUME1scDRQVkE0c2V0UGdqdGVqREsxQVN6LUlHSkFpUm1waVU?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16754,7 +16786,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 716,
+      "chapterCount": 720,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -22483,6 +22515,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hJeWtTNWxFUjFxN1Y1aDhsOU44LUI4YldWSVFabE91WU1CTmh4T0lKUUFjWUtDS2xSSEZ0cDZrZ2RKTXFlcWEyY1lBMFhKb2czOW5RUThLc2NmWW53dklLY2Zuckh3S2lGRVVhbzJ0R2FqTE9HWWlOYmgxWjBieEtMTENzMWp0NUVSQ3Zrdmh1SjExS0g0?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792293403053",
+          "date": "2026-10-17",
+          "title": "Brazil face Canada in Women's U17 World Cup opener - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFdXaG1Oa1BEQ3hSQ1BFWTRNMHpDSnRzaFNKM0Niamt5V3l4d3NlODZiVWtlWWFRaHQzRnU5OElCSHpVWWRERXEteW0tLWlIMFIwU3o1RjBZRGlzekZBSGF4ZlpMR3Y1d3lpTlJvVTFmVFdybDNHUXRkMVo3Z2EyVy1KQTI?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792293403053",
+          "date": "2026-10-18",
+          "title": "Sticking Points: 5 things to know from Day 1 of qualifying at the 2026 World Artistic Gymnastics Championships - Gymnastics Now",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDdiQlh1eHgyRFdGNXE4TlMyUjBicTNyR2J4V0M5N0tvY3ctTHROZG9qVXFWdEl0Nmhici14NTFjc0dtejNQcGtNRklCdWM3Y0I2alh2eHJkeDhRUjFFb2t2TWIzVWRSZGptdFNRbjJyUWlodHd2SWVsX2VuazZKNHpQeDRtR29lbHlxdXZaRFU5TFVacWhnbXNQRWw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792293403053",
+          "date": "2026-10-18",
+          "title": "Brazil is climbing to 8th in the world economy. China's oil demand is a big reason why. - Latin Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1FpYkVvazg5VDFlVjRiQU1fenp1Zm5mZ0hjaWJ5SW04WGt0cDc5WEJoYklfMm1GdVZXNHlCbXU0LVlxUHI2NlY2cGdUMFVuUjlTelRFM2l5d0RSckUtbnZPbXY3OGJNSnRrMXVDQ1JtaGQwc3BQX21odkxYRVo5MWx0LXB3eEVnaTU3TGZSdTAyaE1xbjN2UHowLV9TaFlSbTJDOTF5WElobzZs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792293403053",
+          "date": "2026-10-17",
+          "title": "Brazil U17s wrap up preparations for World Cup opener - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ09LTFZFVm1LeVByLTAwZzk2OWxuNWJMcmpRUUo0U2lDazlvM3NlYXlHRF9FTjY0eFo2ZGhPdUxpeDByY1FWRV80NEMwLXpmUlpsSF9LaEhlbXpRRWFaYlh2M3F0ck9uSzBmOWNDQ0VRdUFCZTl5TG1vaWtJcy1WZUh4RmRRM1hNbTN3Sw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22712,7 +22776,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1020,
+      "chapterCount": 1021,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30872,6 +30936,14 @@
           "title": "Brutal England reality as Tonga in World Cup ‘statement’... but face nervous wait on star - Fox Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNWDBfNDlpMlVJY0RGSEFWc2FtZWNWU21zLWFJOHBnSjNKUHF3TWVSMHRwUWs5US1BZzJ2TkZjMGRRcjlRTjVYQmVBb25uM2FyempESG44N0lScnhXaEtTQnZqSjFoTllXYlFvU05VWXdxeTM3YU0wSU5rMFo5MEI5SHoxRzZBbFBYVWt3allLdkFya1o1dnVjZzVmM1RWUVp3Z0RUWjliSFdJbzJOV25qLXpHRl9OdHk0WEpWSFdZbWZSLTdieHZhRFNhSFlVS2VEbzhXVDhWd1IyTy1nYTFFOWZYVy1mMWJHMkVGVWNLM1BrTTdENDlmOWc2Z0pOSnVoTmVkaVA1S2hQVFYxaUI2M2JLTXVDVEV5RDB0Y1JVY2dqeWFfelpWTEpMcGpGd9IBrgJBVV95cUxNWDBfNDlpMlVJY0RGSEFWc2FtZWNWU21zLWFJOHBnSjNKUHF3TWVSMHRwUWs5US1BZzJ2TkZjMGRRcjlRTjVYQmVBb25uM2FyempESG44N0lScnhXaEtTQnZqSjFoTllXYlFvU05VWXdxeTM3YU0wSU5rMFo5MEI5SHoxRzZBbFBYVWt3allLdkFya1o1dnVjZzVmM1RWUVp3Z0RUWjliSFdJbzJOV25qLXpHRl9OdHk0WEpWSFdZbWZSLTdieHZhRFNhSFlVS2VEbzhXVDhWd1IyTy1nYTFFOWZYVy1mMWJHMkVGVWNLM1BrTTdENDlmOWc2Z0pOSnVoTmVkaVA1S2hQVFYxaUI2M2JLTXVDVEV5RDB0Y1JVY2dqeWFfelpWTEpMcGpGdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792293403553",
+          "date": "2026-10-17",
+          "title": "RLWC as it happened: Tongan fans ‘pushing the decibel meter’ in big victory - Nine.com.au",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeENqbGo5aXdmMkp5OXgyYUZfZGJkZzF0b2szMFJZRk0zTDFwSFloUlNZakVPYjcxczh2dUlHcU5ETUpabDBKZDQxeXRSdjY0QUhFNjZNOV9hWWMwUTI0TThMVzNXSEFGUVN0QVhmcV9zaTNaNkNsZUY3Tm5GQWtFT2JMN3lXbmpINzBBVlRjbjJKRzhQdjlHNExudURtZUU3eTJ6aVRYcnVRUFMtLVp4U2cwbE1MZndVN0FkODZMdk0zTFV1TEN1UlFRYzQ0NmVNSUJHdnNfN2V6OFFHLU5PSE03U2ZGdHQ4TUVPRUNTcUpfV2Y0T1dCNU9tcEM?oc=5",
           "draft": true
         }
       ]

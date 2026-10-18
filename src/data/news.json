@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-17T22:54:33.262Z",
+  "lastUpdated": "2026-10-18T03:16:40.536Z",
   "articles": [
+    {
+      "id": "news-auto-after-changes-to-arrowhead-stadium-fifa--2026-06-11",
+      "headline": "After changes to Arrowhead Stadium, FIFA announces capacity for World Cup games - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5\" target=\"_blank\"&gt;Af",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
       "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - Facebook",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-11",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTFqSzJKZ3BOek5UZkJjQmlkSExMRnRlWkFUZWFBZTdZTWdKLURfUVFFVXBzam9sNUdPREQzalNEN1YzcTdhaWVINW9QX0dDVHVLSzdVS0drUGlLUUlMUFdLT2FRVnJqR2ZLaUtFUGcxWVpPUzlwQ1hHVldWaTJTVEdtOHFmZktzX1UzVlpvaU9ZSHVQcTJiYmpSZjltRFdPV25HLXNCVVZUSXhwRUtodzRpWU9VaHRlbmNYQVpQbDZRUHVZUXl4UlJR0gHKAUFVX3lxTE5QLThtMmZ6UDNKV25LS29JZk8xd1A4dEZQSmgzMUZRNUFELWVzX1N3cDJETEVLVnRrNXlrdzBuWGh6RElFYkNzU28xN3FvSUFleE9pbHphTXl6Z25icUsxS3dhcE4wNjlPR09jR1FRZFdHRjkyckRYcUFxbmZZQVRRb2VLeVBuYkJwT241OTVIMlE5dlpidkpMSE96dDJzTmVoNW9GTjBwTHlxcEtjRVZGNE9MbGFFOE92WjM0c0NDSGJtcjR2OFdCTHc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-bibossynova-to-represent-kazakhstan-in-2-2026-10-09",
-      "headline": "Bibossynova to Represent Kazakhstan in 2027 FIFA Women’s World Cup Qualifiers - James Madison University Athletics",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQW5BaURNVHNlb0lfWEY4RUhLNjBYRm90cmNXRmxFZ1FqM1FuajRIQXVKOEZmRHlsNmdtcHpYMjJjdV94aUlHTEtoNE1vX3JoZ21sa1ZnRnpfUncta0dnUXJjamFCYktjLXZLRlQyWVc3ZjNDenhhQWtzWGVjV1ZoamdjdVlJanhMcllZQ3p2bUNBRTFrY0pjNUV4NXg3RTVyZGJLcF9UV3R",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-09",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQW5BaURNVHNlb0lfWEY4RUhLNjBYRm90cmNXRmxFZ1FqM1FuajRIQXVKOEZmRHlsNmdtcHpYMjJjdV94aUlHTEtoNE1vX3JoZ21sa1ZnRnpfUncta0dnUXJjamFCYktjLXZLRlQyWVc3ZjNDenhhQWtzWGVjV1ZoamdjdVlJanhMcllZQ3p2bUNBRTFrY0pjNUV4NXg3RTVyZGJLcF9UV3RUby1WaVFRTG92dWZETFhXZ1VYZU04Q2tsX3dNbFE?oc=5",
       "featured": false,
       "draft": true
     }
