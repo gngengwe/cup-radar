@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-18T03:16:43.553Z",
+  "lastUpdated": "2026-10-18T10:28:55.702Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 542,
+      "chapterCount": 543,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4354,6 +4354,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlhGbDVyZ19ReEJ0XzBWZnZsNVZnMmw1SGowS2JuSE1Pcm5XWmZOUTNLbVFwQ3JPa1NfN2hMaHhmcmZ2UkFidlN1azJzSDF5SURHOWFwa3FLcGhNSWhSMXlIRjVzS2NVQU5iMGZPWkRtcVdEdjg0cnFmWG1BSnJhTHZsamk3UHdjRHQ0ZnM1ME9rSndUR2pGNjlUSVA1VVU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792319333276",
+          "date": "2026-10-18",
+          "title": "Messi Brace Lifts Inter Miami To 3-1 Win In Atlanta - Channels Television",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGxxbkNjS09pMlBVT292UnBxeUU0WFBFQ3RIY0xDWlFVTlNBbEFybEFKSWNmLTloZ3FvS1pyUTdDOEFGcXdVT1lGNWlqa2pmeXg2SjB3clNpZHdPMGkzVnllcjNlQ09jUk9yY3NDODlORjhuVEIwMVg5RUpzamwtQkZYRW1Ra18wU2JTc2R4RjBCMV9t?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7799,7 +7807,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1121,
+      "chapterCount": 1122,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16768,6 +16776,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2lZdDlnLUI4bnJkWVI1UFZFalhiRUxaaWtCS05ZbGxWQ0VSZEpIMEQyeWM3X1NxaGkweGk4eG1jUjJsQmx6ZnI0RUlocDB5SlNzcnI3LVpLa1JwMG1CWU1mVF92VmstVUdHcUJUZ21SaE5NYWxJT0dTOElUME1scDRQVkE0c2V0UGdqdGVqREsxQVN6LUlHSkFpUm1waVU?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792319334646",
+          "date": "2026-10-18",
+          "title": "The Challenges Facing Former Soccer Players-Turned-Pundits - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjJ2bXBtbFdZazl4XzAzNXM3eTllMXdBYWNkdVhGbU40OGpiYkFNM1ZFQXUybTBWejYwTDU5YUwtOExaU0FVekNBUEgxNTZpb1k2QzlkVDJBdENHaUZJNl9jMmdDMWU1UzRSdzJOVktrQXBONTdoaFVaVHc5WVl6Y1VCUXVZSU84Q3lfamsxLTFkZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16786,7 +16802,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 720,
+      "chapterCount": 721,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -22547,6 +22563,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ09LTFZFVm1LeVByLTAwZzk2OWxuNWJMcmpRUUo0U2lDazlvM3NlYXlHRF9FTjY0eFo2ZGhPdUxpeDByY1FWRV80NEMwLXpmUlpsSF9LaEhlbXpRRWFaYlh2M3F0ck9uSzBmOWNDQ0VRdUFCZTl5TG1vaWtJcy1WZUh4RmRRM1hNbTN3Sw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792319335144",
+          "date": "2026-10-17",
+          "title": "Chicago puts in bid to host 2031 FIFA Women's World Cup - WBEZ Chicago",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZURMVFAxYU50N0FYSk92eFU2NUF0Y0RvOVR6elV1SElYaEVoNVRJOVlYeWZBSUItWkdJMGVYQWN0N2lsY1NFUTNwbUdvSkVvWDBVUXlsa0NRNFZtSExTdWZfTHUzejZ0cWx4dmQzZlJYMXlXLVlqRl93ZmlVMVZrRHplVEpGU01Ha015Y1FBQnBPc0gxc1E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22776,7 +22800,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1021,
+      "chapterCount": 1023,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -30944,6 +30968,22 @@
           "title": "RLWC as it happened: Tongan fans ‘pushing the decibel meter’ in big victory - Nine.com.au",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeENqbGo5aXdmMkp5OXgyYUZfZGJkZzF0b2szMFJZRk0zTDFwSFloUlNZakVPYjcxczh2dUlHcU5ETUpabDBKZDQxeXRSdjY0QUhFNjZNOV9hWWMwUTI0TThMVzNXSEFGUVN0QVhmcV9zaTNaNkNsZUY3Tm5GQWtFT2JMN3lXbmpINzBBVlRjbjJKRzhQdjlHNExudURtZUU3eTJ6aVRYcnVRUFMtLVp4U2cwbE1MZndVN0FkODZMdk0zTFV1TEN1UlFRYzQ0NmVNSUJHdnNfN2V6OFFHLU5PSE03U2ZGdHQ4TUVPRUNTcUpfV2Y0T1dCNU9tcEM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792319335702",
+          "date": "2026-10-17",
+          "title": "Tonga make statement with historic win over England - NRL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV002UGtlLVdWbDJEbmY1RE42TnFpVWRqTjFDa1Y2dVZ6eVQtcENDdHh5QnpRTnhnRWdIOE85Q01zaHQ5STFvMVdCVW8tanhfZlJtalJNMkdXVmNjVW5YYkoycWlwVFVDZEh4U3pQenRlOE43dm43TXVaaHZVX3BEV2N0dnJZZDAxSmtyd1ROSWpsQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792319335702",
+          "date": "2026-10-16",
+          "title": "What channel is England v Tonga Rugby League World Cup 2026 match on? Kick-off time, TV details and live stream - Radio Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHhPclUtZWMzVFhaX08wZzNoSlVMRVg0QmdHVXdxZ2U0akxoNThzZkpnLW84SWZYSFM2WjZXV0NFUHMwYzBkQXJPMFI3bG9jcHJyYXVWZXlYLXptU19wZEs5enptZ0JkR3FUbFM3MHA2Y1ZobkVGTk4wNnZVel9kVm1PVjNrR0tqaHoxT1c0bVBYaVhKcVZ5cWtzTFlRRnV5?oc=5",
           "draft": true
         }
       ]

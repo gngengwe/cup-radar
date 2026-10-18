@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-18T03:16:40.536Z",
+  "lastUpdated": "2026-10-18T10:28:52.733Z",
   "articles": [
+    {
+      "id": "news-auto-the-young-wsl-stars-expected-to-dominate-2026-10-16",
+      "headline": "The Young WSL Stars Expected to Dominate at the FIFA U-17 Women’s World Cup - Just Women's Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnJkQlZUWUF4N0pibmhKeHlhS3NkeUs4a1ZtVVhtdXNhRXFsbXZLMjN6MVNaZkZmTERJSWdpNGl4X0tBZ09RTVR3bldoTWhLT29zUFZBS1BoM0xOTHY0TDgxV1NGZFVjTGNQODJ4LTlJYUpibTJTVDk4WUlPc1FRdDJOUW9ZZw?oc=5\" target=\"_blank\"&gt;The Young WSL Stars",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-16",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnJkQlZUWUF4N0pibmhKeHlhS3NkeUs4a1ZtVVhtdXNhRXFsbXZLMjN6MVNaZkZmTERJSWdpNGl4X0tBZ09RTVR3bldoTWhLT29zUFZBS1BoM0xOTHY0TDgxV1NGZFVjTGNQODJ4LTlJYUpibTJTVDk4WUlPc1FRdDJOUW9ZZw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-after-changes-to-arrowhead-stadium-fifa--2026-06-11",
       "headline": "After changes to Arrowhead Stadium, FIFA announces capacity for World Cup games - Yahoo Sports",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-29",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-can-saudi-arabia-s-2034-world-cup-surviv-2026-10-11",
-      "headline": "Can Saudi Arabia’s 2034 World Cup survive the Middle East’s escalating wars? - South China Morning Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTFqSzJKZ3BOek5UZkJjQmlkSExMRnRlWkFUZWFBZTdZTWdKLURfUVFFVXBzam9sNUdPREQzalNEN1YzcTdhaWVINW9QX0dDVHVLSzdVS0drUGlLUUlMUFdLT2FRVnJqR2ZLaUtFUGcxWVpPUzlwQ1hHVldWaTJTVEdtOHFmZktzX1UzVlpvaU9ZSHVQcTJiYmpSZjltRFdPV25HLXNCVVZ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-11",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTFqSzJKZ3BOek5UZkJjQmlkSExMRnRlWkFUZWFBZTdZTWdKLURfUVFFVXBzam9sNUdPREQzalNEN1YzcTdhaWVINW9QX0dDVHVLSzdVS0drUGlLUUlMUFdLT2FRVnJqR2ZLaUtFUGcxWVpPUzlwQ1hHVldWaTJTVEdtOHFmZktzX1UzVlpvaU9ZSHVQcTJiYmpSZjltRFdPV25HLXNCVVZUSXhwRUtodzRpWU9VaHRlbmNYQVpQbDZRUHVZUXl4UlJR0gHKAUFVX3lxTE5QLThtMmZ6UDNKV25LS29JZk8xd1A4dEZQSmgzMUZRNUFELWVzX1N3cDJETEVLVnRrNXlrdzBuWGh6RElFYkNzU28xN3FvSUFleE9pbHphTXl6Z25icUsxS3dhcE4wNjlPR09jR1FRZFdHRjkyckRYcUFxbmZZQVRRb2VLeVBuYkJwT241OTVIMlE5dlpidkpMSE96dDJzTmVoNW9GTjBwTHlxcEtjRVZGNE9MbGFFOE92WjM0c0NDSGJtcjR2OFdCTHc?oc=5",
       "featured": false,
       "draft": true
     }
