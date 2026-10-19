@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-18T22:48:07.600Z",
+  "lastUpdated": "2026-10-19T20:23:13.614Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 544,
+      "chapterCount": 545,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4370,6 +4370,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3c3MFFmSk9nYUQ0VnB2TGpxTHctSGpKcy1YZG1SSWw1OTd0UjJXemVPbUFQOHBPMlVnV2V6TW5ZdUpZb3ZqazRiSDM3Q1VDeXpTbzFMOXVGNEx3SGFzMU5mZlBBWHRiVWx1WlQyLVlkcnRWOHJIeGxmVkFNMnA4eDlKamdRSFloYnJrMG5UQzBsYzQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792441390855",
+          "date": "2026-10-19",
+          "title": "Messi Bids farewell to Argentina after 21-year international career - The Free Press of the University of Southern Maine",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUI0YjBIZGo3LW00cUk2QzAtVlA0MzBBLTZEUXpMamVyOC1aVkY5UktKZlczVzhFU3NzZlVkb1JzQmx0b0M0S3NuVTRCZnZTdnZJeEJHOTB3TFlFQzNRV1dKYlBIQXFtTFdOUmxsVGI2S1RMU1UydkYxdnhsTW51d2hidXQ5aDRtbHNqZFNVTXRVRFQ4U2tRZmpMY19PNllrRTVsQkNpbnk?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7823,7 +7831,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1125,
+      "chapterCount": 1129,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16824,6 +16832,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1hMMzRndzdmNHFmZHFnMUF1MGJITlJNS2V1VEJrVGtLSjFEVGVocU9fUzh1UUNOQ0hOVjNGbTZUUG9fd0dWUGlOTkY2Q3N4eDRMRXowQTBYZE1zT1NWSkZCcHg2UndfRjZTbUJ4Qm51enI3eWNGckhkbmJobUZYM25qV1hIXzNEQlhhVEJWRmJIRnk4elAyS1ZGODM5ajZ5SkhHWHRhUTZOaVJ0NzBQbUYydlVmV2dwZkR6RWVsOA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792441392189",
+          "date": "2026-10-19",
+          "title": "How to Watch: U.S. U-17 WNT in 2026 FIFA U-17 Women’s World Cup - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjlMdWhXT0lqeDJtdVFuNm92QlVITlJCMXhsLUoyY05hWDE4WndBeE1hVXo3c1dhcU5ib3FmTEJrR1R1SWtNUjh4VHNOcWVOWEVLTEZWQ2ZPRFpqYnp2WkNScWxaWWxDN21qbUYyU1lRWmE0ZDl2TDRNQkNPdFhYUEdDbklGYk45ZlprdzRPNEJZRjNrby1mQlhaNTJicjVieUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792441392189",
+          "date": "2026-10-19",
+          "title": "U.S. Power Soccer National Team Draws Against Denmark and Defeats Belgium on Matchday Two of the FIPFA Powerchair World Cup in Argentina - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXJIZEFJeUxpQzFKNHJvdDZYUmJfREdmRU5EQzRQYTRReS1oaXBINGRjbzZBQnVIUy00cUwzbm9YQ1ZqS0NYRzd5YlNyY2pBcWxORXozcVYzVEUtTHpxcUM0TTBVRFgxRWdyYmI5ZXk0UE1KQktGSU93Y0sycGVnMll4MTNEaU5nYkU1V1g2aGppQkRuM2FoWlZXZGFpT1E0Wm9BcER0VWhybEFWX1hEYnA5czM2eWNEV09TMGNFWWRoRnYwMEtHUUNybjJuS0l3aEtON19kQjlWQ1BNZXBTa2NMZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792441392189",
+          "date": "2026-10-19",
+          "title": "Arsenal return ruled out but USMNT striker Folarin Balogun backed for Premier League transfer by title-winning former Gunners and Monaco star - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2dSNXozWlA1Y3labF9SZW9uNkUtVGN0SWJkVXU5Z2xLMU5XTlE3WXV5UmZRUXAtUUNWbHFjS1Y1TGgwekRTVllkSUtlMnlPM0dzcXNoaWx4UlR2UGlxLXRqMVlOUVhHS0g5WmtGQkpmRlhOdW52Y2pDdXBoOGZIWTFiX1IxbVdtLVEw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792441392189",
+          "date": "2026-10-19",
+          "title": "Chicago join US city bidding for 2031 Women’s World Cup hosting - Inside World Football",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNlOVoxSjVZM1RpU1k3WWJkUHNacFBOUUUwemJLRlBLbnRlX3V2M0NrMzhRQzNDTzY0T2xaREFaNnltaFVqSktST3FPTlI0WjJYdlJINFlaVmdXbllKcEktSGo1aG9FaVJOOVFkYmJWaTNCQURiVW5UZzZWa0tKaTBwM3A5LWZ3YXc5WVFGX1VMNFBFS09QMG1JeTNkMHp0a2tycUlZTENwRlV0QnYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -16842,7 +16882,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 725,
+      "chapterCount": 726,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -22643,6 +22683,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0kxSzdOMl9xZWRwSWszNWRoaGFCWVpKS1dFaGpaUVc5bk5KdkN6U3QxTlJCa3RGbDNPQTNabXJnaVljYURoSWMyR0xmcjJLQVBWRHVSUUtlV21EaUN6M3RZVV94ODlqR2JoczZZaGxhelZRWVJvNkx3dzRqRTVLdHlYTDBTTnVGUnV0VmZjcmF6Ykk?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792441392801",
+          "date": "2026-10-19",
+          "title": "From Carnival to the World Cup: Brazil arrives in London for WTM LONDON 2026 - Breaking Travel News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmFIMjhIM181YmNMTjVlOVNkMkEtT2ZmcExzaWpSdUlpMlAtcEJubTU0RDFCalVRNWtLVkhURVFvek1wa3BqS2d4RDhFUDlnSnhjaXB5ZGY3TTVyTEJjcl9RMEg3aVVKak1xZzIzb1dLRlNQa3JCZThjU19BczFJaTlfZXowYVZ1Q0tvNnE1UHZaaFVHeFktY2REQU1DbzFKZ3pxa3FJWjdGYURqZkh5TzZTMlZtUVJvdlE5dGQxOE9wZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -22872,7 +22920,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1023,
+      "chapterCount": 1027,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -31056,6 +31104,38 @@
           "title": "What channel is England v Tonga Rugby League World Cup 2026 match on? Kick-off time, TV details and live stream - Radio Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHhPclUtZWMzVFhaX08wZzNoSlVMRVg0QmdHVXdxZ2U0akxoNThzZkpnLW84SWZYSFM2WjZXV0NFUHMwYzBkQXJPMFI3bG9jcHJyYXVWZXlYLXptU19wZEs5enptZ0JkR3FUbFM3MHA2Y1ZobkVGTk4wNnZVel9kVm1PVjNrR0tqaHoxT1c0bVBYaVhKcVZ5cWtzTFlRRnV5?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792441393614",
+          "date": "2026-10-19",
+          "title": "Familiar foes get serious in ODI World Cup build-up - Cricinfo",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXBlY19PY2Q3NGdMZFNzTUItdGl4MklZc2xsZGg3V2ZkZ1h5a2NfeHFZSlNxMDZfa0p5ekZXdTVJdVpyNnNWNndvVUh3QTFhMEt1VjkwUWhtTGdYNjY4TXVURG5tMVVWS3lpYW1naF84R1JEZWNzdzdQNzJoWXI0WTRmSTNaQmlmc3JHVzNzTU1icFBNM21PQV85bkZCa0dVSTMwMFJ0UTNmNlRiU08wczV6WmNkMmF6WWEyN09xMFg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792441393614",
+          "date": "2026-10-19",
+          "title": "Shastri urges India to use Bumrah sparingly ahead of ODI World Cup - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzBfMEs3RVpwcDlsNUhhM1RWenZWWWtQVm1oSFRpdmFWMVU1R2ViQmZZeC03YzBFUGg2cGVJdjVOcGFpNXRJV1lzOVI0ak45M1dqXzA1MG9pMVJoMmxBbGwzN3RVWG93WXhHaE1TcVdNQllSWkRseFBod3FWaUVqNUY1ZFRSNDNtWFZENmxyWjNIbU9wQkV6VzlsNEtmeFpOQzM3SmFBbnVTaDJEX25ZbQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792441393614",
+          "date": "2026-10-17",
+          "title": "'We know what's in front of us now': McDermott - Rugby League World Cup 2026",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHdCdlhVSG1aMUo4NEZWd0xkbGtBTjhsRm5oakZOX2dJR1VoTDVMc0s4MUJpdjRwcHdNeDRNOThtOEVLc0U3dWdhTUxaeTdYYmh5WjZKaUFYa1gwR1Z2SHhSem1ZbEppRW5IWmltNkw4X0JKaUttM3prZjVxaUdlUA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792441393614",
+          "date": "2026-10-17",
+          "title": "~$!【England vs Tonga】 Rugby League World Cup 2026 LIVE STREAM Free REDDIT - Universidad de Córdoba (UCO)",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRU9kclNEY0N5NU9ySl9tdmVpTXVBYkhjZ0VHUkgtOXQ5MGUxSzJ1TE1BVlN3UkJiY3BMVVcxVEM4MXREd1hLVVZMZXRDM20xbWZpSUJnTFpVTy0xNkdQVkNxYkZRVFVKTFBoNEZBTGtkQWJ6Zzh1QjFfVkw5eEhBV2xCbGhUcFNvaVdaMnZ6eFpOb2JRam5HT0JpbnQ5NlZzQTRSTmpuc2VVX21Ka1p2QmRjRkIxaXpEc2JsN3c0OGluQXBQMXJYYUM3cVlWSDctN3ppZ1FuTnN3UUtibkpDaWRfV3BHSkFrQ3dJeWp6VFNDaXFELWk0UE80cGwxdGtzR19qWXNVeVJqN0pqUkZxMzI1bG5TdGw2WUg3bklIUE9IZWFxbXNhcnNDRURCZ3JCTXoxQlM2TnZiMlgzNF91QkxtUVFWM2tUWWJlSjg3cnJid2Jobk1ZVVRsSQ?oc=5",
           "draft": true
         }
       ]
