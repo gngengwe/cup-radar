@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-20T18:56:31.534Z",
+  "lastUpdated": "2026-10-20T23:38:17.009Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 547,
+      "chapterCount": 548,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4394,6 +4394,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE1WOUI5YkItejg0a3NVOHlaOGRiWElpVVVhWWxtYkZuWHgtTk9nNnVMZURkSjZpUVAzd1JhSWlFM2JBZWxVWVdPUk1rSFExcXlfUmRMWDduWlExYktSNUMycmQ3VkpROTUxUlFfOXZyNWthMDlWV1o4VV9xaE1yTWZocEtUSjdINVBkeTY3cw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792539494185",
+          "date": "2026-10-20",
+          "title": "Lionel Messi sets trading card sales record, topping Shohei Ohtani and LeBron James - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFVxbDkweXBmRmt2eE5jdXlUNmd6NVJzMVIyS09OR1RpS0M0V042aS1HT1ZVM09sLTNiZkI3ck5iRTdfRWw4a3VHVEpISk0xRHlYUFdwQ21pLXdUWkhpbW8zZUotYnpQUkwxcmdPYjdISzVaM1kxUDFzeHVVaGJQQzRiT3gxUk9tZEE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7863,7 +7871,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1139,
+      "chapterCount": 1140,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -16976,6 +16984,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDJQMTZvbElPMHA0UWlDUmN0dVFZQUtqV1J0REZ0N2NMbUtfM3VkWVRYTlYyUURpNWRMTWxEUGRZMUFiRjNXUnBGM1ZiNGVUR0NHZW5KSDlOZWx5LXRjeG5CT25uWklmSHdJRGJOSkhJaEZhX0lMd1k2MkFncjNxaGxCNjQ5VEZCOGFQOXhaUE5qXzl4Nmh4YW5sdll1dWwzN3NFSTM5eGZWY0JQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792539495309",
+          "date": "2026-10-20",
+          "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm5XS2lQOWlFaTFqZm12RXR0QnhGOGxtNlQ1YWQ0bVRUcTJvYW4wNmtDVlBCdm5sMF9wUUM4NldyWTBrNmZmeXktUWJTZUxOWmF0bERsNk9Ec0U5UjNudE9BOHpBY0lNbU80VENmXzM2YU10Ung4dmJ1ODBrcmVlTw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23064,7 +23080,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1033,
+      "chapterCount": 1034,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -31328,6 +31344,14 @@
           "title": "Rugby League World Cup 2026: Brian McDermott on England's 'erratic' ends and not chasing points with progression out of their hands - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOYkx3d0VGdUhzc3VnUmxjM3BWZTF3ZWppTDVZc0lydHMzMGhPQ2ZiajlCSWVIUjJtQU5nLW5CdmFRTU1mVjA2QmFqalZ0NHVUNE9SZWJPbGxzX0tLdXYwdlF4b19RR09GSTgtdlRZWnpmTnRfVTBnTTVuLWFPSWNVUGk2cG1qS2tlUHZDNlhoeF9aMzBOVktrVDZ4UG5EMXlkd0ZvTnB1QkxKcExKWUU1a0pyempLc0NtRDBUTHR6Tk1nd3lkNW5zN09qb3hSdVlOeE5pS3FRQzdYWFJod050Q1AwdDd6SUpKbldlcVlPbTlZNzAybXFDYmxYZzVRNmlWRXJTQkVVb2RNMGZF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792539497009",
+          "date": "2026-10-20",
+          "title": "Ballon d’Or 2026 contenders ranked: Can Kane or Olise fend off Yamal surge? - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0xzLUdrVE5sSV9DSXZwbk84bzY2YVQ5cUJuZ2xQcm51V3BuOXR5V2gweWtjdjNqb0NKRHQ4WTdJeG5tWjZrU3BsN3BlUE9TYlRleVJ4TXBoTEZIVTViTEpvOHNqSlBNQm5tY0V5aVcyeDdNSGpKUHdpcDJzOE9YVzhISjVaMzJWWmJJRjJYTHN5RFpLb1A3QTJiQ2x6cGpXejRzNFBwTjg3TXVqTzR3SVdHZEFsMk0?oc=5",
           "draft": true
         }
       ]
