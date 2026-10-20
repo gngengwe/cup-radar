@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-20T00:06:47.409Z",
+  "lastUpdated": "2026-10-20T08:13:22.979Z",
   "articles": [
+    {
+      "id": "news-auto-egypt-s-hassan-and-zico-suspended-over-f-2026-10-20",
+      "headline": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmI0SGVzM2gwbkdSSk4tR2NTUmlzZEtULXNURHRGT3hlbVM0WkNoQmxEQzFUYUwzM2NjMGhxR2ZyRTl0V1NqRHRtRk12cU9rR2xaQW9mNlpwMElRMzdjSkU1cmdjZGNIT0hrNzVsUWFVTTN2NHFWM1lxeEtZRzdHOXp3R2FMTUJjeVNvN0VEdjNTbHhHMUQ0X3BISWRvUDhoZUpSd1RQVDB",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-20",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmI0SGVzM2gwbkdSSk4tR2NTUmlzZEtULXNURHRGT3hlbVM0WkNoQmxEQzFUYUwzM2NjMGhxR2ZyRTl0V1NqRHRtRk12cU9rR2xaQW9mNlpwMElRMzdjSkU1cmdjZGNIT0hrNzVsUWFVTTN2NHFWM1lxeEtZRzdHOXp3R2FMTUJjeVNvN0VEdjNTbHhHMUQ0X3BISWRvUDhoZUpSd1RQVDBjMHJIeWZFOGJIQWhGVHMw0gG-AUFVX3lxTE4ycnYtcy1NNXFfQmpCQkRxSXJHNVRFYTRuMVU4VWl5SzVNcnRKd3hacEp1aW1GNWFpbnQzbUloU2luWHpNaEVDSVdvSXZjbFh5cUR0MWV5eHVfUjlLMmlmSUJnLUFEUjQ0ZEdxdUotNHlnLXRWaGxybUF5dTg5NVpDU3p3bFNyTU1kaHctdVBnWVh1Qkdhbmp4SEwxQW82U2k3Zk1lVVNtOGVhYXNralF3c3dDZXc2ZGpDQkVuQWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-suspends-coach-hassan-and-forward-z-2026-10-19",
+      "headline": "FIFA suspends coach Hassan and forward Zico for three and five matches - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGNTbVdwWmR1cHdzUWpqNHU2eHhtNHBlNTkxVVR5eWJLZ1NrRjZ1ZldvckdEX0RFU1JUdHphRmdZLUtTNjlYT1ZNU0VrcERSUGoxcWFKaU50NGttakYxclBsNGNLQ04tQkVEZWxRWmxNWWcwQlFKVDE1eDF5LTNUZnB5Q2VrQTVEdGFLZmFsTmxhd3lqRW1laENUNmRUcktsMTZ6U0xsbnd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-19",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGNTbVdwWmR1cHdzUWpqNHU2eHhtNHBlNTkxVVR5eWJLZ1NrRjZ1ZldvckdEX0RFU1JUdHphRmdZLUtTNjlYT1ZNU0VrcERSUGoxcWFKaU50NGttakYxclBsNGNLQ04tQkVEZWxRWmxNWWcwQlFKVDE1eDF5LTNUZnB5Q2VrQTVEdGFLZmFsTmxhd3lqRW1laENUNmRUcktsMTZ6U0xsbndET3JE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-ukraine-poland-explore-joint-fifa-world--2026-09-04",
+      "headline": "Ukraine, Poland explore joint FIFA World Cup bid - POLITICO.eu",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlAyelk5QTVSZV96M0VmLWlqYUJBNF91LVJlVW50d2JpdHExLWU4M1pMdnVHRWk1cno2WFdudWEtdmhDWG1abk1acFhWbVp4dG5JQjlMekM0M0Q5blhaR3UxcU5kVml0V3gxLWg5S20xMkI5N1FhRHZhbEhjcVhCX2pzUGM5Vkk?oc=5\" target=\"_blank\"&gt;Ukraine, Poland ex",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-09-04",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlAyelk5QTVSZV96M0VmLWlqYUJBNF91LVJlVW50d2JpdHExLWU4M1pMdnVHRWk1cno2WFdudWEtdmhDWG1abk1acFhWbVp4dG5JQjlMekM0M0Q5blhaR3UxcU5kVml0V3gxLWg5S20xMkI5N1FhRHZhbEhjcVhCX2pzUGM5Vkk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-display-your-soccer-pride-with-lego-s-fi-2026-10-19",
       "headline": "Display your soccer pride with LEGO's FIFA World Cup trophy down at a new $160 Amazon low ($40 off) - 9to5Toys",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlGbUF4SXdLNWQwZm5zS01jb0EyNk03a1diUm1oUlJWalRxTDMzSDRnOU5sNGNHMGlmSjFmcFdaazhDRkh3LWM0WUhBc0N0X3ZLelNBY2JQRXJkcWF0eVdhNVhzRm5ydTNoZ3M5V0JUejJXcVdHMmtHdHNtOGNZZkpSM1NydGdGa3pNbk9PS1dkN2IySDVOTg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-new-report-exposes-human-rights-fai-2026-10-13",
-      "headline": "FIFA: New Report Exposes Human Rights Failures at 2026 Men’s World Cup - Sport & Rights Alliance",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcy1LYTNrVGN4UEUybHZ2d3RpdklNVlVXRFA0XzI4d3lJVFpPQ1NwT3ZTcm1VMlZ0NWZVUThZMnlPa1V5ODFlM2x2bG9XNTNpOHA4MWVKYnRTSEVDR19XQTVuSG05Y3hsQkpoS29XZTNEaDFoUU4yOVpGV25md2NmWEFRN2NzUHRsenF5dUhETDlNVDhFbTR1UXNzbzBmN1ByUmtmemd2WQ?",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcy1LYTNrVGN4UEUybHZ2d3RpdklNVlVXRFA0XzI4d3lJVFpPQ1NwT3ZTcm1VMlZ0NWZVUThZMnlPa1V5ODFlM2x2bG9XNTNpOHA4MWVKYnRTSEVDR19XQTVuSG05Y3hsQkpoS29XZTNEaDFoUU4yOVpGV25md2NmWEFRN2NzUHRsenF5dUhETDlNVDhFbTR1UXNzbzBmN1ByUmtmemd2WQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-president-gianni-infantino-received-2026-10-13",
-      "headline": "FIFA president Gianni Infantino received undisclosed $1.7M World Cup payment - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG0wc1lBQWRwQXpBRU5WdHpnd1k5ZEJVZHhROUR4ZG9CbnBvWW5VTzVUUU5pMzFTcjVUY2M1Z19pNURwUUtQUXcyaDlHWnV6ME9EQ05OTENsa1JUcWdrZzAxSERYX2lfXzZjLWEwNHNTNXlWeFhaTFpxdjhTYzdoV0F4YjVUTW5MdUZCaGFEMGJ5cjVrVXo4YXZnVGJ4aVFrV19PSjFTeVh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG0wc1lBQWRwQXpBRU5WdHpnd1k5ZEJVZHhROUR4ZG9CbnBvWW5VTzVUUU5pMzFTcjVUY2M1Z19pNURwUUtQUXcyaDlHWnV6ME9EQ05OTENsa1JUcWdrZzAxSERYX2lfXzZjLWEwNHNTNXlWeFhaTFpxdjhTYzdoV0F4YjVUTW5MdUZCaGFEMGJ5cjVrVXo4YXZnVGJ4aVFrV19PSjFTeVhuVWE4dTFYLVd3SHlxbGJ4ckRZdFJzQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-retiring-world-cup-referee-ismail-elfath-2026-10-13",
-      "headline": "Retiring World Cup Referee Ismail Elfath A U.S. Soccer All-Time Great - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0xmYWtqbFNwRll2dGd5LWlNbDhWS3k0dWpqT0pQWktUTUQtZ3A3eFFCUWYyNjFuclc3WDBadFhDeGtTZi1heGgtV0YzRFdLV1Z5aVNYR0txZFZzc2g2SHBvcW9SdWkwVHFCTzk1WUJLOHd2T2FFM2tONGR2dUd2WExKd3FkSE85VlE?oc=5\" target=\"_blank\"&gt;Retiring World",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0xmYWtqbFNwRll2dGd5LWlNbDhWS3k0dWpqT0pQWktUTUQtZ3A3eFFCUWYyNjFuclc3WDBadFhDeGtTZi1heGgtV0YzRFdLV1Z5aVNYR0txZFZzc2g2SHBvcW9SdWkwVHFCTzk1WUJLOHd2T2FFM2tONGR2dUd2WExKd3FkSE85VlE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-pays-millions-for-trump-tower-offic-2026-10-13",
-      "headline": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5kUlREMGFpM0tjSVFfbkVReDZaSFFqRVQ0NjMzbk9ETi1NM3Eteml1RUFwZlJLVld1MDI3LXBDdFRldXJ0a2RZTEhZTTVZcnhtemh3QlFMQkE2MUlHeTk4Z1g0WFFDTHFIZ012bEJLcTl5LTlKdkVITm1mY3QxdXoxOHdZdw?oc=5\" target=\"_blank\"&gt;FIFA Pays Millions ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZW5kUlREMGFpM0tjSVFfbkVReDZaSFFqRVQ0NjMzbk9ETi1NM3Eteml1RUFwZlJLVld1MDI3LXBDdFRldXJ0a2RZTEhZTTVZcnhtemh3QlFMQkE2MUlHeTk4Z1g0WFFDTHFIZ012bEJLcTl5LTlKdkVITm1mY3QxdXoxOHdZdw?oc=5",
       "featured": false,
       "draft": true
     }
