@@ -1,7 +1,18 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-20T08:13:22.979Z",
+  "lastUpdated": "2026-10-20T14:07:51.549Z",
   "articles": [
+    {
+      "id": "news-auto-uefa-demands-fifa-releases-documents-rel-2026-10-19",
+      "headline": "Uefa demands Fifa releases documents relating to World Cup sell-off scheme - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZMTk5hMC1iQXdINXE4Vl8zSHhYRWpvUWZSWnJpcXlDcG9KaXFiV005M3hiV3dBR0RyUWR1SjFvZll6RHNZVjZ1bi1jbUZrZDZ3QzdmRnF0ZmVyZDlncmNmX1lnWUxIZzdTNDVDdDFRSGhwVVhnT0VtUVlJbWkzM2dRdWxlZXVKWXRqTlhYWjJJUjE1RWhtZlRkcEZCMVNhb3VkSlA4cHN",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-19",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZMTk5hMC1iQXdINXE4Vl8zSHhYRWpvUWZSWnJpcXlDcG9KaXFiV005M3hiV3dBR0RyUWR1SjFvZll6RHNZVjZ1bi1jbUZrZDZ3QzdmRnF0ZmVyZDlncmNmX1lnWUxIZzdTNDVDdDFRSGhwVVhnT0VtUVlJbWkzM2dRdWxlZXVKWXRqTlhYWjJJUjE1RWhtZlRkcEZCMVNhb3VkSlA4cHNIckQyYmZFaEdTd1BnT2lRTThnRlMwdUM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-egypt-s-hassan-and-zico-suspended-over-f-2026-10-20",
       "headline": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism - Al Jazeera",
@@ -1088,17 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RY0E1RlJLTU43dkxFRWNNTHBHOEdyOHdkaFdOYnc2Z1BHcnpuZ2JDeWlxUnFRRXlJS0hWSi1hbnpxSlpxSlVvcmc1c0prV25PSmZwa05jMkMyQXVyeUJXQUtvMVpiZFYzb1A5NjE3bw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-streetcar-partners-with-ez-pedicabs-afte-2026-10-13",
-      "headline": "Streetcar partners with EZ Pedicabs after success during the World Cup - The Business Journals",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlGbUF4SXdLNWQwZm5zS01jb0EyNk03a1diUm1oUlJWalRxTDMzSDRnOU5sNGNHMGlmSjFmcFdaazhDRkh3LWM0WUhBc0N0X3ZLelNBY2JQRXJkcWF0eVdhNVhzRm5ydTNoZ3M5V0JUejJXcVdHMmtHdHNtOGNZZkpSM1NydGdGa3pNbk9PS1dkN2IySDVOTg?oc=5\" target=\"_blank",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlGbUF4SXdLNWQwZm5zS01jb0EyNk03a1diUm1oUlJWalRxTDMzSDRnOU5sNGNHMGlmSjFmcFdaazhDRkh3LWM0WUhBc0N0X3ZLelNBY2JQRXJkcWF0eVdhNVhzRm5ydTNoZ3M5V0JUejJXcVdHMmtHdHNtOGNZZkpSM1NydGdGa3pNbk9PS1dkN2IySDVOTg?oc=5",
       "featured": false,
       "draft": true
     }
