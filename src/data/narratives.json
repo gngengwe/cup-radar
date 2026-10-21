@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-21T11:15:59.836Z",
+  "lastUpdated": "2026-10-21T16:42:06.418Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -7879,7 +7879,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1143,
+      "chapterCount": 1144,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17023,6 +17023,14 @@
           "title": "U.S. Soccer celebrates record-breaking crowds and TV viewership as more than 165,000 fans attend first senior matches following 2026 World Cup - Goal.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkN4dW9sYkRyZTR1Nk5TQWh4ZjhiUzQ5YlpIQkh3LXVYU1lfeUt1Vi1mVEVGMThVendDUEVRaG44TTVjRFBoOGZvRWZDdnh0S3poZ3Aya25JRDQ1dmtfUFplRGZLODFMY0h0SWdrTEppYUkxUzlNVnd4SC1EMllDUnJNSGdsc1ZhMjd6SThmcU5GSU90TkEydUVJSFQ1MU11czUtOEFnN095cUFUMDhHSUhiQ2NWMGkxeHc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792600925314",
+          "date": "2026-10-20",
+          "title": "U.S. men’s team sixth in team final at 2026 Artistic Worlds - USA Gymnastics",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcFNpZ0JSWGZRWllBS05yVFZtQ0I5V1lKbTlxYngyMzZrMHcxNmZfTjFGZlpfUHMzT1I0eFhzSndaZFJxZ3RnZlhJRmlyOE1qeDJ2RkF0bzdOZU9jWGF1TWo1bEFfb1phcVdmTUswQldkendjczl0c0Zwcm4zcmEyeThpMA?oc=5",
           "draft": true
         }
       ]
