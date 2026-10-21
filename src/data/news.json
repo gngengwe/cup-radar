@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-21T16:42:03.499Z",
+  "lastUpdated": "2026-10-21T21:17:59.740Z",
   "articles": [
+    {
+      "id": "news-auto-netflix-scores-exclusive-2030-fifa-world-2026-10-13",
+      "headline": "Netflix Scores Exclusive 2030 FIFA World Cup Rights in Spain and Andorra in Landmark Deal - Variety",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWFQelI5Zlg3b1Rib0lobjBQM0tiUnZ0U1I4NTY3NGR5WF9jUml4QVRCZVlSc19ZbzN6Z01xdnRiXzJMTFdjWi1XbGI2NUdmakF3Ym4wbHdQZlFIUlhKX0VKNURTU0M0UXZLOGo3eXNkcV85UVpDSHh6Rk5DaVlXcjlUS1JBUlhxWWY4MHotRktMcmZINTBaNnB5ZXByVG54VzdQSWFWdGF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWFQelI5Zlg3b1Rib0lobjBQM0tiUnZ0U1I4NTY3NGR5WF9jUml4QVRCZVlSc19ZbzN6Z01xdnRiXzJMTFdjWi1XbGI2NUdmakF3Ym4wbHdQZlFIUlhKX0VKNURTU0M0UXZLOGo3eXNkcV85UVpDSHh6Rk5DaVlXcjlUS1JBUlhxWWY4MHotRktMcmZINTBaNnB5ZXByVG54VzdQSWFWdGFMdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-netflix-secures-rights-to-air-2030-world-2026-10-13",
+      "headline": "Netflix secures rights to air 2030 World Cup in Spain, Andorra - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-sporting-kc-weekly-schedule-july-6-11-20-2026-07-06",
+      "headline": "Sporting KC Weekly Schedule: July 6-11, 2026 - Sporting Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5\" target=\"_blank\"&gt;Sporting KC Weekly",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNendURVF3d2RqREhCaW9JQkpUdmx5Z1NvQXluNVVWVVotTjFySUFDQk52VGRJNEFtUHZLek1tZ1hOTENuVEh3N1VaSXgyNnpMRE5RTTNuR1JtcG55cHNEUjhUTjM0cUlwVklNanlXX2N1dnkyd1NGeUsxNWIwMmpBS1ZDSk4zWVk?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-the-kansas-city-spirit-landed-the-fi-2026-07-10",
+      "headline": "How the \"Kansas City Spirit\" Landed the FIFA World Cup - Chiefs.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5\" target=\"_blank\"&gt;How the \"Kansas Ci",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc3NqVkNhcDkyTDBBNnlNZEp6Xy1ZSTBDZFRNUmVJOHVwVzF0WmI3QngwQ2s1T09yY3Q0NXJUZzltNWhHYl9ocDltQWpVUUgwVWkwRVF5Nm9OaGhfNGYtS0EzR2d4YjlsajFOUXM0OGE2akVYNi1ZdVdYc1VzYmdKdDVBSnBOcDg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-canada-vs-norway-how-to-watch-fifa-u-17--2026-10-21",
       "headline": "Canada vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction - DAZN",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEUtcjF2SEZoM0VpVlBDcjc2c1hzTnVXY29iLXN1R042RWhRMk5tS0JVcGdhSVlLa0JHS2QyLTJRYXN6MllBZ0pFMmNfMzJ5eFF1RVd2NmpqZ0FLd2dKYk1PeUhBU2ZMMDYxUXhQMFI3RFA2LUp5dkpzNUdtMDdmNjFJcEo3YkxKd25jUzh2QmZuLVNNNDhhc3NRdlZqR3FNcEdBejdjei12c1FXQnA1YUlzb3U2QTdZYzRHVkgwVndkWTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-soccer-viewership-in-us-surging-since-wo-2026-10-14",
-      "headline": "Soccer viewership in US surging since World Cup - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5rZS1pQ1RzVFVjVFZ0ejFJekZTQ0pjd2M1ZXVNUmhFeDlZX3g3cHVGNXhfOGFoWFFDeHJVX2tPNm9XZ09SSm1INEJwQnBEcFJXVG9vd19PdndhckZFb3JRaXBBR1l0QnM4ME16emJYWQ?oc=5\" target=\"_blank\"&gt;Soccer viewership in US surging since World Cup&lt;",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-14",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rZS1pQ1RzVFVjVFZ0ejFJekZTQ0pjd2M1ZXVNUmhFeDlZX3g3cHVGNXhfOGFoWFFDeHJVX2tPNm9XZ09SSm1INEJwQnBEcFJXVG9vd19PdndhckZFb3JRaXBBR1l0QnM4ME16emJYWQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-all-104-matches-of-the-2030-fifa-world-c-2026-10-13",
-      "headline": "All 104 Matches of the 2030 FIFA World Cup Are Heading to Netflix Spain & Andorra - What's on Netflix",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkQ0UjVGMTVTRHZESFRldUcydURlemVTOERqR2lvZ3p6ZUQyVkM5M09ESm5sQnJ3d3hWekNkVk9GczRyMWZlVF93V2Z1aFE3b0M4TFctY2hseS1rSkRoVjFpS2hyMFJsc01tVzlXMWFNV1VuNzBJV3lrU3RxUF9PZVdYZTcybmxXajluRTlwTlR5Zkw3OVhlVlE2QWdvUnNKTUhQTXVuVHg",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkQ0UjVGMTVTRHZESFRldUcydURlemVTOERqR2lvZ3p6ZUQyVkM5M09ESm5sQnJ3d3hWekNkVk9GczRyMWZlVF93V2Z1aFE3b0M4TFctY2hseS1rSkRoVjFpS2hyMFJsc01tVzlXMWFNV1VuNzBJV3lrU3RxUF9PZVdYZTcybmxXajluRTlwTlR5Zkw3OVhlVlE2QWdvUnNKTUhQTXVuVHg3NUE1Zzd2YWR6eExYWVRwQnZXMjNDbXlpT00?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2026-live-score-results-g-2026-01-21",
-      "headline": "FIFA World Cup 2026 – live score, results & group matches - Sofascore",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1zX3ZYSnh4TzY4MTFOV0FjYkwwVnM1RmNPSVBmdXRkVG9HNVAzd2lTakxKVFpGSEo3ZTRDMlBzeTlid2Npd1MybmI2VlNiTXlJT0JGQk9HemxXeTZGT1AzdEZEeEgydkozZnRTdDhHSXYzUDgzNjN5NEppd25oQQ?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2026 – live scor",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-01-21",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zX3ZYSnh4TzY4MTFOV0FjYkwwVnM1RmNPSVBmdXRkVG9HNVAzd2lTakxKVFpGSEo3ZTRDMlBzeTlid2Npd1MybmI2VlNiTXlJT0JGQk9HemxXeTZGT1AzdEZEeEgydkozZnRTdDhHSXYzUDgzNjN5NEppd25oQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-netflix-awarded-broadcast-rights-to-2030-2026-10-13",
-      "headline": "Netflix awarded broadcast rights to 2030 World Cup for fans in Spain - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjh1dWJ3TUZYX01ac3RJQnEwTzFRNTl6aFlvX3N5b2FibDJOYURqb1FlcmxsTXN5Zkx5ZkhkOFQ5SEdZOUdrNGxkeThBY3VwdTRHZTNxNm5uWVg2cE9fZHJGeksxdVhkVjdYQ2JsemxCQVh1ZTN4WEdUR0M0OVJkV1liTFkzb2JVTkQwT0Znbw?oc=5\" target=\"_blank\"&gt;Netflix",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjh1dWJ3TUZYX01ac3RJQnEwTzFRNTl6aFlvX3N5b2FibDJOYURqb1FlcmxsTXN5Zkx5ZkhkOFQ5SEdZOUdrNGxkeThBY3VwdTRHZTNxNm5uWVg2cE9fZHJGeksxdVhkVjdYQ2JsemxCQVh1ZTN4WEdUR0M0OVJkV1liTFkzb2JVTkQwT0Znbw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
-      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
       "featured": false,
       "draft": true
     }
