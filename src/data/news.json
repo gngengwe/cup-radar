@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-20T23:38:13.496Z",
+  "lastUpdated": "2026-10-21T03:31:40.789Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-traffic-issues-plagued-kansas-city-s-wor-2026-06-19",
+      "headline": "Traffic issues plagued Kansas City’s World Cup stadium. Officials want FIFA to fix the problems - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE8",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjdHY3BveU8zZUd5Q1FKSzhJOEcyVjQtZWpnLU9hQlZUQUNpLTloQVZjSmxmSzM2aGd5eVZFaWhrYUhVa3RXcjRUNUpkTnkwbE8wcGJYOXNkWEJUaUgxZ2lCeVk0Tzk4NzBnV3hLMGxpYk1iMFh0bm9STlViWkx2bjE5bzUwNjhNemFzRE1ETDVxaC0zZDdGeGFyanhPZjB6YUhmUW9STE82bTJLZkE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
       "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-13",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTmZucC1LNmxNcGxMLWhXdGc4Y1JMVlhRNnFKdGlyaVVvRm5FWEJ3ekpTOHNWOF9VWWo2VC0waFRxX05ybUNCeEpFS1Q0VTZITWJnV3loS0ZQUlQ1NUZZZ2VTdnRfdkZEdi1raUh4VVJGbGNvekVOS0RpX3NRVVBLR3o2X2xjUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-reports-fifa-president-infantino-receive-2026-10-13",
-      "headline": "Reports: FIFA President Infantino received undisclosed $1.72M payment - upi",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXBFdGtUUUxDM0JBaEpHQS1NdGlEOWVvSldCQUVOMTYzSTBVcVdzMDdnOTVxTGpNamVnLUJxRkRhUm5RNDduYVJhX3Via1JOeWJ5TWh4RGRuSzBVZGZncFNhSWxvUFZEdW9sWGF6NHRpRUV2VlFzT3JfZWhoU0M1WE9EQUZqbXJrSnI3bkhRZzZJZ2ktVFFFZkVneVRMMGZwX3pSV2FGQzB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXBFdGtUUUxDM0JBaEpHQS1NdGlEOWVvSldCQUVOMTYzSTBVcVdzMDdnOTVxTGpNamVnLUJxRkRhUm5RNDduYVJhX3Via1JOeWJ5TWh4RGRuSzBVZGZncFNhSWxvUFZEdW9sWGF6NHRpRUV2VlFzT3JfZWhoU0M1WE9EQUZqbXJrSnI3bkhRZzZJZ2ktVFFFZkVneVRMMGZwX3pSV2FGQzBfcHBvdl800gG0AUFVX3lxTE1ZMmhQa1NEOW5ESkdWdUNpbmdZUXRKMXR5aXZ1S3MtaFpQQkp2dzQ4b3dxcnFWUlhDQ3RadE50Zzh1MkgzZ1BhTWp5cEM1amVTbGNOenpScFNQNzB2RjBWNk9KM3ZpNHZrWi1lOFUtSmdjT0wzR3RvVFBtbk5EeWRsMXVWTm1BdnlTZkh6UGM2eHpqMHlsYzNEQlFTc3hPR3JvOWFPLUNhTW9ZcE5oLTU4TDBjTw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-2026-fixture-schedule-and-all--2026-07-19",
-      "headline": "World Cup 2026 fixture schedule and all the results - Sky Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWpUR0R6UUVoVml2TEN1QjFULUZnX0FPWC1ESUhLcFFjeFF2TE12XzJJSl9yRnJWdFR3d2hXWDNpU21KbHltREJkNzZKT0dGWEJxNkYwSzBELS1ZalZpSGVKYU1IS0VEdWFWeXFISUF2UElmM3Z3aF9GVTFwTThCcUh5Uk8temI5WnNLNHQ2SnhnZFUtZ1hpeDkzS01Ca2hybGdDTmNhbkd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWpUR0R6UUVoVml2TEN1QjFULUZnX0FPWC1ESUhLcFFjeFF2TE12XzJJSl9yRnJWdFR3d2hXWDNpU21KbHltREJkNzZKT0dGWEJxNkYwSzBELS1ZalZpSGVKYU1IS0VEdWFWeXFISUF2UElmM3Z3aF9GVTFwTThCcUh5Uk8temI5WnNLNHQ2SnhnZFUtZ1hpeDkzS01Ca2hybGdDTmNhbkdZUjFJUlRtM2RfeFJrQlFlTkRZSzNmQm5PZVd4V0JGdTZHenFqaDVhYWNCQzExTXNvR3dhektFTlpxMTVvaXhDMVRSTzRqaWlCZw?oc=5",
       "featured": false,
       "draft": true
     }
