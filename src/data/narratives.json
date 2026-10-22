@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-22T11:14:45.580Z",
+  "lastUpdated": "2026-10-22T16:42:49.170Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 551,
+      "chapterCount": 552,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4426,6 +4426,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEpYZ3lNYWd5TUNwVDJibmw5Y0dGZ01aS0RQUlluV2c1VVBtODZfSjRTTmZ2dWtES3l2VW1BUWFHR0t0SFExam9fdGNHN1ZxMUdhQXZJWlNmMHNRT1Nhek51UGIxTG1Jb2pOanI5OHJrN1ZqZlhhazlMQ3pVRjkydGFrZjNaQXFaVEFNMGRyeXNLcXNqb0RQSU9RdG9IcFRfenNkNUhfY1Z1QzJJU2dqZnd6SkVCQjFFSFVJcDFVYWZaN21qY2NmNlJYOA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792687366863",
+          "date": "2026-10-22",
+          "title": "Messi Arrives in Spain to Receive 2026 Princess of Asturias Award for Sports - Morocco World News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWg4UDJJUnk5NW9VYkh0aW5DNlkwR096eWpRMzBXZ3U3VWFROFZmcHE0bGxOTDh4dXNGeHFxXzRRbTBhTFY2T0ZXemx0dUxSbkUxMUh4N1ZqLU9pRE9mMDEyb0VPUlJsMVRRV1h4MFdTcGprclFOcVF4blNoT1FOMWhzdmFOdVljZGZXMDBBYWpzckxvdEUzUDRMOEZYX29oVFpkd0NFRVBDN2hKR0ZuZGVfTFdjSEozV2V1Wmp6dU85WXM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7927,7 +7935,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1148,
+      "chapterCount": 1153,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17112,6 +17120,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFpjaGVXZzFqbTRzSGxuc09RU2Vfa19CSTRHV0IxcGdjTVZYdENaZ3k1bnUzUG1uWTZDUGNHYXN3QU9QSnFRcWNWbkE1R1NvZV9yd2hzcDRod21hbHpqb2J0bUVNUnFKQVV2Vk1YWmdQVmRULThhWk5yUE55akprejNObXJ0cVhSSzZWQVV6QjdMb3RkVENwbzJvVQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792687368098",
+          "date": "2026-10-22",
+          "title": "U.S. Women's CP National Team Advances to 2026 IFCPF World Cup Final With a Resounding 15-0 Win Over Ireland - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGgyMG5Na1p0V2dpVkN6TWVlX09JS3VtNUZFT0d2dDNXVHREWFlqdFJMSHpkTmRUYmp4SzFtQ0plMXRHVnBfMjlrN3pJT2s0elYtZ2VYWFVrVjJZcXYzX1FLNWlQNktOcmVIc1g4X2FxMzJzejJQN0ZLSEl3bXFMV1gzWkE4RXMzWXRLZkc5OE1fUnRzMmREbGthb0Z3OWpsWHI2WGlpZkcxd19PcDRmSS13N1B5YWM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792687368098",
+          "date": "2026-10-22",
+          "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year - CNBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3ZlNWtYWk1vX3lCZWNNbExvczlfejdiYjZ2Sy1rZFVpR2dQbWdhLVIxU0VydmJGRWtHQWR6eGgzajB4aGxGdHF6akoyVFBUVDBReTBjQWdXaW1lcE5pc3d3d2lyak9WclI3U1hoV0oxM0RJTExJblRwQlJ0WVBfS3ZyQkxmanEybVNUSzlvR2tkamdRM0JGMTA2QdIBoAFBVV95cUxOSk9BbFJCZ3VIMXN1NmxBdkhLcUZsT2VBUUpvTkhyS3NqS0ZwVVY5MjJXcWNRSHpvOHd2NlZsdlFtTVpLSjM3d3poMHhMeFR5SERGazN5aUZRYjJaZVR3ZWg1VXdqaGZ0Z1R5ZW51Nkc3UDFQZEV6b0ZfZ0ZuWW1CQVB3QmZac2twR3BadmkyUnNNNjdGUXhPMm9HbEoyLXZt?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792687368098",
+          "date": "2026-10-22",
+          "title": "FIFA begins U.S. tender process for 2030, 2034 World Cup broadcast rights - Sports Business Journal",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1pGUnhXLUJ2ZnlnSUt6SFI1X1pTNGNfZ3Bqdmh2SFZ1c2drWVFoN1p4XzhQUjVwQ2VZQzdIcHVGVzhLbzZLVXFqTHVPdE9ZcTg4cUdCNlI1NFNhZm9nV3piSDVNUzFpcTJnRW0yN283TjlLVTA3R0ZJaTZEcHRfVGFORW4zYjBiaVV0U0JPbVZERW01THA3OVloa2ZwVWhyTmFHbmY5amxBMmJaMDVXdkUtWDBMR2VSSlN5RWRUMk5jRWF2Wmt2UA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792687368098",
+          "date": "2026-10-22",
+          "title": "FIFA Opens Up Bidding for U.S. Rights to 2030 World Cup - The Hollywood Reporter",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOERTR0hrMHB5amVzZFp1elJWTzZwVWZsMUIzWjdZTUxVVVBXMHJWTmdBaTg2RTc3a3F4YmdZSHQ2UzhRNkRuX2gzUWlEUExZZ21nVEMtQUhwbUhZa0k0UEh5Slp2eTJBa2o4TEloQ0NFNlF0NkhGanF3T1NqZmdMM3NiaFVpcmoyeHhfdm1DV2ZoQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792687368098",
+          "date": "2026-10-22",
+          "title": "FIFA Opens Bidding for 2030 Men’s World Cup U.S. Media Rights - Sportico.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGVzT01VbkJEbE5WNTJzeTQwU1Ffck1XVWI2VVlzc2hlcFhIenl0VWpUclBOMnRsdnZPYVprTFRvbXpIZlF4RXpLRGdyUG56TFBKX2NFWEItcDRHTzloaURpbmlLeHN4T1UwOFJ6UVRaVEI0VlZjMXB0dDRQT28zNGw1c2VXeTN0RWFEZFVvQ0d0a0dVLWpBd1k4WHJfZXN5WUIydjBDU18?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23280,7 +23328,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1035,
+      "chapterCount": 1037,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -31560,6 +31608,22 @@
           "title": "Rugby League World Cup 2026: What represents success for England & home nations? - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05OUVEengtdV82eHpuTUp6YzVoYzBONDI4a2lnTzRoVldZZGwzZWljanFvdEY5ZXd0dWU1UjkydUxpS2c3Um1EdlpNR0N1ZktFZ3ZtNlIxMjl5ZFFHSi1telZtV1RSa19FSWJ2Rlp3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792687369170",
+          "date": "2026-10-22",
+          "title": "McDermott blames Rugby League World Cup format as England face exit - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeG95RXhBQ2VScEc0bXlTUDNGWEhlOEttcTgybDZKM0hnUDZfRXZHRWtsWFlFc2lQOW5NXzM5dUNNdGpfMGIyWEJEV09aczhMOWU5b1Z4eUJTdXZjd0ZRN19YVUlQQnNUWHFsNzJnbS1RWS1uYWNiU3hjdE5EYkVac2RSSUxjRnlwOWtPajFOY01KQnZTdFdFS3ZkNkEyX3ZySGxibHhZUEhsa2VUdGprbldB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792687369170",
+          "date": "2026-10-22",
+          "title": "Rugby League World Cup 2026: England travel schedule like Planes, Trains and Automobiles - McDermott - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RS0FIcHVnenVJQkVDRHkyOXBqQ0tVS0cyalRKX2VYTmV2ejhlUEhvMXlmUnY5V2sxRGpWYnJaRjA1dEYzNVM1OC1jcHhhcnppYjR5Z3doMm1HdjZ1bFlCWUN4Mm1XcFg5akdlU2VZamQ?oc=5",
           "draft": true
         }
       ]
