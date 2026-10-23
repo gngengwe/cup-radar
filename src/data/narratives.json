@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-23T03:36:16.938Z",
+  "lastUpdated": "2026-10-23T16:33:20.317Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 553,
+      "chapterCount": 554,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4442,6 +4442,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzB5TjFNYXNYbjdEd2lTa0p4Z2ZZX1NlRHJ4REd3R2h3UW51T3poa0d6cDJtV2hLRzZNRzdVNkx4RXdpSE9US3lLeHFfc01oOE9fR2Rib1pCVW5SdDIyZk5Vb1FiQ0g3Rm96YnBMQ0RGZ3IwV21NZkt2TzF4a2E5dEp3bktpSzBybWVTSGhzdXJycjhVYXBkVENnX2hHT2JqVVJYdEh1Ym5obTU1RHd1WFlJMjFfQ0xIOWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792773197974",
+          "date": "2026-10-23",
+          "title": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\" - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMyZG54MHlYX0NlLWlHVlVjcy1YUnRuRF9oM1FGR2sxUVhISDhwRGJOOGdNNFQtQlItakxNS203akJZbFQ4VE5GNDFCUHZ3WEttTlMwOWdBX0lHRm5uNmNfZXNzWEQtcDBUNnNXZkw1cmIzSHdCTFNGaTZmWWdSNUxRc3JkSEZFeTZXOGw5RExvVzhtOXVSZGNObHo3UQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7951,7 +7959,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1159,
+      "chapterCount": 1162,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17224,6 +17232,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVFhxVW5CaWFzcmpwUVpZU2gxNVhTb2hoN1dabFdPdVFLd0RjT3lFNk9YSlczeFl5SHF6c1BibUNKUXVPSVI4YmcxNVdmazF5MTgyVjJ5UV9HSjNWY0VIRGdlbVk2MFVjVHFJVENrVGtxR3h2UkhZbVBQclFIZVo1VFNfU3o3cGJwa3k3R0JDQlpxaWowSTlxN9IBmAFBVV95cUxQSWRfR2dnRVVpRGJDVEdZWVA1LXd1OTIzeUUyZUZCTG9EQUwzRU40RjFIdUVfbC1YNndKSlRLcktrdllueGRTQUlCX0pXX1BhbnJEOHNpU3VoTk1IWFZYdWlDVjdyVDhDY3MwcXI1WUl1MV83RjZBQ1lZdnh5ZWdubmwxdk9PSnpGZE9nUGE0NC1fTUJrRFVUVg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792773199257",
+          "date": "2026-10-23",
+          "title": "U.S. Power Soccer National Team Falls to France 4-0 in Semifinals of FIPFA Powerchair World Cup Semifinals in Argentina - U.S. Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemZUZko1QW1qSnFVbXFMTko0SURZOGMyVVFJTzI2OTQxY1E1UGNEN3Vqa0J0dXdhOEZWY1BkSnBjNzF0V2I5dXFwLUpyX3RWNkNtRk5ILUlSZ21fbVl2MFlGR1FsZkVGWlEybUhaWTliZG92UGNJSlYwYUcxNUk0ZjhxM25tMlFuZkJDYk1xcFppZ2Rua21sWFRjbnhpN2xkSl9nMVoweTFkN2c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792773199257",
+          "date": "2026-10-23",
+          "title": "US Speedskating World Cup trials at the Pettit | Skaters, schedule, tickets - Milwaukee Journal Sentinel",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWY5dWJTbFI3NTF1WmlZbGh0R1NfZldOMGREdHpiQnRnSWdndG1XcjNVb1h3cUM5ZUxvdlVuNmRmUVlucmFGZFJuQUltT3R3blJzdHlveUtnSXpzUlF5TWhxc2Z4cEtIMTBNMXdRNFhGLUpwOHZaUFlUWl9TaUdxY2pwS0xRNUcyOXl6RUxHSkxPaXFQX1gzMXVVWUdjMkQ5WXJRbnBsQUxJcmRoOVZzdEpzQVEwRXZzVlFaM205MkNoYlc0UjBGaFp1aUhKNlJTODBtNjlQRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792773199257",
+          "date": "2026-10-21",
+          "title": "2026 WBSC Americas U-18 Baseball Pan-American Championship Preview - USA Baseball",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1h5NERyNmZrNEhWcENmRW1STkpTd3VyWWViSlAySC1CbVd4QzhiVndVVzZiSEt6YjhXbVV1UW53bjRKTDh2QTR2M3VBbVZCMDYzMnJYTUFHTFdNblJxSEFyVEU4Q1UzSzlCcDNjYUc2MVpReVl6LWJHTTRncEhhWVRIQ1VrR0FWYXhZcjE0aGxLRDg0NWVZWTJPU21QblZh?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23408,7 +23440,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1038,
+      "chapterCount": 1042,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -31712,6 +31744,38 @@
           "title": "Rugby League World Cup 2026: England suffer huge blow as Strange ruled out - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4U3psQmxrMGVOM2xxRVplZkRUaDdlUEhOMGFqUGlFM1Q3dTE2TXJHakVZV3ltT2hLWHhWa2ZVUjFQcVdGajV2UkFkMmZ0OTQ5VWw1S1pqcDR2YlZVUHFYLTl5clRKbm5XY3VMRy1B?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792773200317",
+          "date": "2026-10-23",
+          "title": "Rugby League World Cup 2026: Winger Matty Ashton says England must balance attacking instincts - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82dDI3eExSSVhlbWFJVWVkS3EzeWN6a3lCckZkUGxMdjBLRC1ybjF2RnF4RUUwWDdMZGJyRk9CdGRuS0RWbVlFaF9IUVg0dnBEakZMbXpTb1NZUU1uVEQtNjVZVjV2S0V3enFCMzFB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792773200317",
+          "date": "2026-10-22",
+          "title": "What channel is England v France Rugby League World Cup 2026 match on? Kick-off time, TV details and live stream - Radio Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFV1VXZnS0phaGdzelFkS0d3RGJWVGtIVXcxRFFZU0QzSGY4OG9UZWx0d1A0UWVReE9oQnRlWHZPZ3RkMFQxMnF2MUZYLVQ1Skk1QlJTb1h6MENjSjk5TkJYZlVldEI3ZlpuNWw4QUxlT0FnZjBzV0xISFB2dWUzczFqWnNzQ21mVFUwSmt0ajJlTHZtVVJUYjV3QXNZbkVNRlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792773200317",
+          "date": "2026-10-22",
+          "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0ZnWEhyamx3cGF3UVlyN3ZQazhLZWsyTERWWGpkdmRhODctUDFBVUc0V3lJYkpLMGFpM0Q4Yms5c0dIOFA0NFk1c21PWk9NaS0yZmYzU252R1ZqV3k0LVBRdGxCQ2ZDcnRvdThlOU56bkcyakNKdUEwQVNmak03VGlCQ1k2TEFvdUVzY0Y1aGF0bXhZaW1fNmlDbTNlMWpOYWZvQWdIMXg3ZFVRS2xZSHh30gG3AUFVX3lxTFA4QUFOLTJlX0V2bjVncDdrM1p2T2Z5YnBoVHpObUtKTHRsUngwRWtLRWVxWDBuclA1UE9zcmlZMTJSRXRZc3RQLVRDV0tnQmtzZmgtQkg5QjJWM1puUlA2ZVBRY2Rkc0xwbldRSFRMX1pwOFBUSzJRU0ZJUDNDRXpRVUItLUtzMU8xdVBLdnFCRldhNzVqSVh4VjJtcXZ5V3BfMnJGU0tyckdEaVdYY1FJQVNaYkNTaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792773200317",
+          "date": "2026-10-23",
+          "title": "Harry Kane Chases Ballon d’Or After 73-Goal Season - 조선일보",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzdYdHVESHVGbUYwSmRQSzhZWkRFLWlzaXJFUVNxbGhncUF6WWVWbl9oc3ZXTk93dVBIYnBjSWpTY2JwSGt2dndJREpqZTdkWWZJVmE4OG54R09sdG5GSU1WQ0hKeWxwaUV6NEVGc0E2bjh6V2N1bWUzS1NENjd2YUpCMzYydw?oc=5",
           "draft": true
         }
       ]
