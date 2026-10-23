@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-23T16:33:20.317Z",
+  "lastUpdated": "2026-10-23T21:03:02.735Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 554,
+      "chapterCount": 556,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4450,6 +4450,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMyZG54MHlYX0NlLWlHVlVjcy1YUnRuRF9oM1FGR2sxUVhISDhwRGJOOGdNNFQtQlItakxNS203akJZbFQ4VE5GNDFCUHZ3WEttTlMwOWdBX0lHRm5uNmNfZXNzWEQtcDBUNnNXZkw1cmIzSHdCTFNGaTZmWWdSNUxRc3JkSEZFeTZXOGw5RExvVzhtOXVSZGNObHo3UQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792789379992",
+          "date": "2026-10-23",
+          "title": "Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it? - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR25MUGlRZGVNdTJHb2ZmOVdLQTNLNEpVcTd1OGI1SEZPVkZUbzRNekRIWWh2M2ZnLWFyNjRneUZhVHhGN2tfajJUcmlQdi03NWtzZEFoOTdSM2h3aFl1dXUxSXdWWm9vSlNRWmd3N0ZsNmRPdWVMREFkU0N0Q2pFcDB1Z1JVbnVtZDd4REFXQU56Zm1k?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792789379992",
+          "date": "2026-10-23",
+          "title": "Messi Receives 2026 Princess Of Asturias Award - TVC News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWWR4SFZyeWhMaldaVi00Y00tRGhUTEkyMGh3MkNydVV3dFNUcmpySm9zSWxBMHVqSGFHOFd1eWdIank2bXhVeEt3SU04d0Q4RWNzcjNHVFYtRW1NVUhyaHpMZkItdDZLQzBXTE1TVnlSdVlXekhNbS1n?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4468,7 +4484,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 434,
+      "chapterCount": 435,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7941,6 +7957,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVhqdDZjT3JqNmRtRmtKTlIyMVZieUhWbHpyd1NkdC12a1JadzZDY05oMVZwdTQ3bWtSWEVFZmRiSlN5Yk00bXh2ZzBxLWFYS2VWM0pCSzFNTWxheV9WTkhQNG1WTnJkakdpdWx4ajNaRmtTTFNrdW94Y29XVm52bVpPRUN0ek8xeHN0el93dU9lQjF2TFJCYXhkVjVlNm5YbnJzRE4yelJhWEh0RE05U2tXbW9kbjQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1792789380742",
+          "date": "2026-10-22",
+          "title": "Real Madrid’s 2026 Ballon d’Or Boycott Decision Plays Right into Kylian Mbappe’s Plans - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yTGZsYXE4eUpXdE5xN0VBdnVwVndkVGxsWXlZLXotdDdfRmVuaHM4Y1NhQ2FfMnBaUGg3blRuNTI0NEpSck5faEJtZjU3ZDh5RnpfT1JhQkVyN3BRbThCSmpVOG5kX0FYTTI3VW1nY0NsaUdwS0t4SVRR?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7959,7 +7983,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1162,
+      "chapterCount": 1164,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17256,6 +17280,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1h5NERyNmZrNEhWcENmRW1STkpTd3VyWWViSlAySC1CbVd4QzhiVndVVzZiSEt6YjhXbVV1UW53bjRKTDh2QTR2M3VBbVZCMDYzMnJYTUFHTFdNblJxSEFyVEU4Q1UzSzlCcDNjYUc2MVpReVl6LWJHTTRncEhhWVRIQ1VrR0FWYXhZcjE0aGxLRDg0NWVZWTJPU21QblZh?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792789381230",
+          "date": "2026-10-23",
+          "title": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUVSQU5HNkpmSFhBOGtqb2lTS3VzcGlIZ0pvMy10bkFCZ0lYNlZvUjhzYk5wNDdNenkyZ2lhNlY2WHpsVjF3Rll2SmxvNG5lTVJrZlV4eFdEUDNzYmd6SVhkYWVBeDBVOEwycGdFdGowTXNTaUE3ZVVNSEdiTzRSMFJpbkdldw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792789381230",
+          "date": "2026-10-23",
+          "title": "IIHF Women's World Championships Schedule 2026: Here's When Hockey Canada, USA Play - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3NUOThoczJDSkZybmJXZkVzcEd1djBaelp1bFMzX2k5aFN1dUZXRUlNUWdtYUR2aUNDSkxfbnFkU2g1aFFQczVRYkVwbzJSdjFtbC1Xa3RoN3h2VGZ1aFNNclFtbUM4eDVlbEdrcGNEVmpHeVREMnFnM21PTXRCaTRfVWRHSjlJZnZhSTYtWFU3WHc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17274,7 +17314,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 742,
+      "chapterCount": 745,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23210,6 +23250,30 @@
           "title": "How Brazil’s election result could shape women’s football in the country - The Guardian",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjIwSVNqNWpQRm1XRWJHamhLOTBTSnRZM204NVQ5ZnJuanYyTjUwZFAzT1phaGFnQ0otb2VDNlgycWRIWXhxVFFTU2stQmxfOUNTTERGMnhoVzliUFVsS0RlR0xiYlhRR09lYkVSRVhhT2hOc0p3VnVqQ0FBNGdsV1o3OGhIR0o4dk90WTJzQkZ2Y3VkaFplZURKT3BFSVl2eF9Cby1fWmFVdTBLZEQ5TmNfN3FtNnlTTXpF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792789381936",
+          "date": "2026-10-23",
+          "title": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUVSQU5HNkpmSFhBOGtqb2lTS3VzcGlIZ0pvMy10bkFCZ0lYNlZvUjhzYk5wNDdNenkyZ2lhNlY2WHpsVjF3Rll2SmxvNG5lTVJrZlV4eFdEUDNzYmd6SVhkYWVBeDBVOEwycGdFdGowTXNTaUE3ZVVNSEdiTzRSMFJpbkdldw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792789381936",
+          "date": "2026-10-23",
+          "title": "Brazil vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOG5xU3ZwZ1EydlBaVnFSdnZ0cjVEcW5kUW1obXZYSVJQbnZNWjNnYXRkb19Xdlk4NFZZTGZ5UTNlN0xYZEhqbGNRdjNZWHMxZW1EeFlFVUdGaHBtelNpTFRJY1JvSkdhYjhnYTM5V28xbnZ4Q1lDdS13TnN6VXdWUkRZYVFiVnE2QWYzc3UwUzRCdFBhN1p6WWRjZFZTNVhzdHB1dkRwZk1oZkFZb1lhT18yRHNNU1BaV1FOWnI4OVMxWUliNXNITHNoWEVkNDhyUk45VVZOYkJIbkk3eFBrOWZMMkhSTVBLREE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792789381936",
+          "date": "2026-10-23",
+          "title": "Ravenna confirm date for Ronaldinho’s return to the pitch: ‘It’s real’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1Y2cENCM1JKM0lmUVpkM1NzM2RYcUdDcUdza0RKZWNBUVJXd0tBLWJGMjgzS2R3WVNEMkZUc3h6RlRaenlaUzY2MnJFTjlNekdLa19uUXl4aWc3UjNWUlhXTkxzbGdfcGlhemF5OElEVUE5TDBVUjNUQ3lHeE5KV1Rva0ItcFBTb05EVkktU3c?oc=5",
           "draft": true
         }
       ]
