@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-23T21:02:59.375Z",
+  "lastUpdated": "2026-10-24T03:30:03.096Z",
   "articles": [
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-06-03",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Free-To-Public Programming During FIFA World Cup 2026™, Including Rave 52 Free Play Events - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-03",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9nWm5vTkNhLUt5c29NeHQwdkNEQk5ybmU4eWNlekZfZ2cya3VXYUZFQzVwdU9ZLVk1TUhJLTRBMFBaS2t5ckt6RU9wSnd5Y014eXZwaWRidVltdUROa1paU1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-day-after-kansas-city-ready-for-more-as--2026-06-17",
+      "headline": "Day after | Kansas City ready for more as FIFA World Cup 2026 enters Day 7 - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa21",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkFRWWtJZElTVFk4dm9QcHFZZVVDdFJxM2NGakxPVDV1aWJqa3NYWmFxdFVYUi03RFc3N0djZWNCOFFBNzJkWjJodFBabGJQaEVoU2xLQ29ONVNyZVNiSHc5Y1NWRGRrdUl6WTdJVTlzZVZBdlRVUTR4TW5vamphbE5jQVpidk11bHUyVlQtNllkTEpOc3lKSFBZSTJhMjczNE1vUElIa213T0NfRGZB?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-united-states-to-host-inaugural-women-s--2026-10-23",
       "headline": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic - The New York Times",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-07-01",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-missouri-set-aside-42-5m-for-world-cup-f-2026-06-16",
-      "headline": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead - Sportico.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-16",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21qQlFCZ0VRb255YWswWnY5NHMweUIxYzJFVTRYMGp6dzlFdEFwZGFjakxQek9GMTVOempzeTNIM0tDY0gyXzNlLThDZHJJeHFxWjdNUEF3cWxNQjZXTC1iU3NVSnpBWXRpcGE0WGxTVnRZWlhsdUJsNnNIX0Y5bGtJUy13TnBNcktTeTZiLXlHWlVVRy1EV3VtS0h6SUhOSXVzYmJKdGQ3Zm8wMDgtSWRDU1FvbUxERXJMRlNNNkpLeXFZLWFUVE9KVVlsUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-soccer-fandom-in-u-s-sees-unprecedented--2026-10-16",
-      "headline": "Soccer Fandom in U.S. Sees Unprecedented Surge Following 2026 World Cup - Sports Illustrated",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5EVDN5Qmx0eThqVFJQMnl1VkFaWERvWUluczltQXFxd1BKR2NCVFJ5VFhSRDlXeTQ2Ni1aNnpaMlp3MC1tS0JKaUIya2wxUk11ZFdBem5JWmxlOHN1QXFMRlNZaWtUTnMxa0NpTlg3Rm0?oc=5\" target=\"_blank\"&gt;Soccer Fandom in U.S. Sees Unprecedented Surge Fol",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-16",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EVDN5Qmx0eThqVFJQMnl1VkFaWERvWUluczltQXFxd1BKR2NCVFJ5VFhSRDlXeTQ2Ni1aNnpaMlp3MC1tS0JKaUIya2wxUk11ZFdBem5JWmxlOHN1QXFMRlNZaWtUTnMxa0NpTlg3Rm0?oc=5",
       "featured": false,
       "draft": true
     }

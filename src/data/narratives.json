@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-23T21:03:02.735Z",
+  "lastUpdated": "2026-10-24T03:30:06.747Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 556,
+      "chapterCount": 557,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4466,6 +4466,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWWR4SFZyeWhMaldaVi00Y00tRGhUTEkyMGh3MkNydVV3dFNUcmpySm9zSWxBMHVqSGFHOFd1eWdIank2bXhVeEt3SU04d0Q4RWNzcjNHVFYtRW1NVUhyaHpMZkItdDZLQzBXTE1TVnlSdVlXekhNbS1n?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792812603665",
+          "date": "2026-10-24",
+          "title": "Lionel Messi and Antonela Roccuzzo meet Princess Leonor at the Princess of Asturias Awards - HOLA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVlBN1dIQXdpV0tGOVRjTGIzY2pfdTVEYlQyUm1PTXVvd0pmSFBIWW9TU2wxNlJkbWExX3lNTTRwQi00Wm9oU1BkR293aTVIS1M3WnlObnpLSU50YUhOLXplR1BYM1BRU1dScWlIRDNQWW5sS3RCQm4wV1lCdTJNOVRsaTFJV08zQmM4dm83aHNpRmhpVjA0bVhIelhuU1hUUlZpV1NUUk5IWFhaRFh2TzhGRmV2Zkx6NkJaVllOb1o3STZqSk5iZmZ3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7983,7 +7991,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1164,
+      "chapterCount": 1165,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17296,6 +17304,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3NUOThoczJDSkZybmJXZkVzcEd1djBaelp1bFMzX2k5aFN1dUZXRUlNUWdtYUR2aUNDSkxfbnFkU2g1aFFQczVRYkVwbzJSdjFtbC1Xa3RoN3h2VGZ1aFNNclFtbUM4eDVlbEdrcGNEVmpHeVREMnFnM21PTXRCaTRfVWRHSjlJZnZhSTYtWFU3WHc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792812605347",
+          "date": "2026-10-23",
+          "title": "U.S. U-17 Women’s National Team defeats Kenya 6-1 in World Cup group stage - SoccerWire",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVk5qT1dUWlY4ekw3TnE0T2NlbjhqUERteTFoSjAxTV9zT3B6ZG9XVC01NWRhZ3Y2blhzTmxkeHE3VC1qYnd3UU4zQmZNdi1RYmpqTlhOcHE1UnpxZXNRVU1xUmZpXzMtUGhfYWJNTG1XYlpqUTlrVG9JZU5YRHFqdEx1Si1DWS1wSk5PSlh6d0hfZmhPUlBwYUV3ZnZMX1ZZc2ZacG4xelM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17314,7 +17330,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 745,
+      "chapterCount": 748,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23274,6 +23290,30 @@
           "title": "Ravenna confirm date for Ronaldinho’s return to the pitch: ‘It’s real’ - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1Y2cENCM1JKM0lmUVpkM1NzM2RYcUdDcUdza0RKZWNBUVJXd0tBLWJGMjgzS2R3WVNEMkZUc3h6RlRaenlaUzY2MnJFTjlNekdLa19uUXl4aWc3UjNWUlhXTkxzbGdfcGlhemF5OElEVUE5TDBVUjNUQ3lHeE5KV1Rva0ItcFBTb05EVkktU3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792812606020",
+          "date": "2026-10-23",
+          "title": "Brazil squad named for the 2026 Futsal Finalissima - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzVjcVF6MVR2YjZzMGU1czM2YzY1bDcxRkE1ckRrQjhObGhkS09kY0xwcUM2WV9zMXhYOVhhQzllZmpqaFhJeUpxNVhoOGoyZ3RGNk95N21JNFVlZ1pSN1NIc3dHZVAtaGVCOTdjVmc4c3F5dklJV2I4dDBDaXNhR2dJQmVEdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792812606020",
+          "date": "2026-10-23",
+          "title": "Brazil vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXZKZFM0bFA0d3dkcWFFbUg2ejhVTUEzUG94QUV1V3FMenRtUXRGb1o3U0F3R2lwQWd1VlhpcE56d3FGa2tTUzRyYmtJRi1vR3lSU0JMSS1fQmYzMWtycUJjTkFEdFEwNG0zX21zS0FMNmNoSDJKb1dlMDgxOFN3S0NWMkhGNVQ5N1dSeWdPSWF3cVlyeUpsb1NOc0ZWVFdGcnE2V015TW5TNGVRMjltQTh4aklUaXNlQkVhbU5KbHJrOHZzZjFRajJIWGpyWVYyWHJNMHFrN0hTU3c2VWpXRHBLM3pocW8?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792812606020",
+          "date": "2026-10-24",
+          "title": "The Kings World Cup among the Golden Crown finalists - kingsleague.pro",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZk5taTh6VFJoV0tIU05NNDVyZVJIY1NWdkJQTWEtUjljQWxTODVjYlBleWxkbE9NRGF3bHVaS1JZNUc0U3JlZHhkNlRCdDByLUN2b3NBSGNESHdoYmxLeVVjTmV1b2NWUWo3bDNVY2lBMTlmQndPTThuRUc4ZUMyOTNZZTVmYVVOcDVVb1ZrTHF0SFBWWk5vNG9FRkthN25ZOUEzMFJVdUNpZGh6UEN3eA?oc=5",
           "draft": true
         }
       ]
