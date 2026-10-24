@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-24T15:27:56.518Z",
+  "lastUpdated": "2026-10-24T20:18:57.381Z",
   "articles": [
+    {
+      "id": "news-auto-ballon-d-or-2026-can-kylian-mbappe-s-rea-2026-10-24",
+      "headline": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjN4SS1XbnU4SXRtS0NWcHYzLUFMVU5qVWV5YUY3WUJNNmI4ZDdyYXgtUTdvNkxieWo5UVR1TENXdWRBM0dRWVRFX2tndUwtYzJKbDJWS2oxRVd5UXpKbTJZeGFFT2wxZFAxbFhMRUdsd01VZkcxYzA0UXFudkJuQWNkd04wc3ludnJGNWxueVRGX1lOc1RjN1c2VmpHV0RNWXoyWXotZDc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjN4SS1XbnU4SXRtS0NWcHYzLUFMVU5qVWV5YUY3WUJNNmI4ZDdyYXgtUTdvNkxieWo5UVR1TENXdWRBM0dRWVRFX2tndUwtYzJKbDJWS2oxRVd5UXpKbTJZeGFFT2wxZFAxbFhMRUdsd01VZkcxYzA0UXFudkJuQWNkd04wc3ludnJGNWxueVRGX1lOc1RjN1c2VmpHV0RNWXoyWXotZDc5dVUzZFVxUDJ0VlM2UdIBuwFBVV95cUxOekhxejlvMTFPTzVNYzBldFZ5OFpMTGE3OVIwakoxM3J3Nkk1RjhldF8zVk5fazR5VnlSM1NVTHdRSTNNQndZX1RjYlF5azZROXo1WENTc1pMRU80S3VjWTR0SVM2Sk1xSzNiWXhROEJoNnc3NEpuODRUdU1MYzdVU2Y0bXE4cDk0SUJ4TktBY05Kay1BR0l6anlMY3djOEM3OUxuSS0xWHRreTV1UXRpb1o4MTl0VVVkTWRj?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-u-15-world-cup-festival-azerbaijan--2026-10-21",
+      "headline": "FIFA U-15 World Cup & Festival Azerbaijan 2026™ - DAZN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObWtjbFlCbWdOWnQ0RldzNG1xcGcya1JZZE1jLTRyV2FiQUdTVER3US1yZGNfVExlckNONHdzbWJPV1NWekozLUM2VEVTZElqQWFWRmJWeWxVRUNBMjRTdzNSYnJrb0htMGVUbHo3c3AySVlXQlVYdHRkM1JleGxoVG53?oc=5\" target=\"_blank\"&gt;FIFA U-15 World Cup &amp;",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-21",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWtjbFlCbWdOWnQ0RldzNG1xcGcya1JZZE1jLTRyV2FiQUdTVER3US1yZGNfVExlckNONHdzbWJPV1NWekozLUM2VEVTZElqQWFWRmJWeWxVRUNBMjRTdzNSYnJrb0htMGVUbHo3c3AySVlXQlVYdHRkM1JleGxoVG53?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-parking-prices-at-arrowhead-st-2026-04-17",
+      "headline": "World Cup parking prices at Arrowhead Stadium dwarf cost for Royals, Chiefs games - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkNmZDJDbGxzZ05wekdabDhON0lJckRIWWNRQ0VETkpsdU90U3N5Q0hZM1V6aVVZMGloX01kS0hzdjRIa05Wcm01YkhfdlBQTkQzLVQzZGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-purina-and-kc2026-introduce-pet-centered-2026-05-12",
+      "headline": "Purina and KC2026 Introduce Pet-Centered Programming to Make Kansas City a Pet-Friendly FIFA World Cup 2026™ Host City - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg1RXN2NERYdXNxaFZSX0hwYXRyN1dNZWZ0MWlhanl6cmpvWHVvdTlnR294SS1meE56YllDYS02aUhQRWd5YzM0bXpRTHc3bVcxcmh2NVRZeUh5SVZiSHQzOFMtMDY4U2NCVUxOMmZRZkR1b0pLaVdmdjFHVXN0cGZKTVQ3Y1JEcGJYa2tvdERscFQ0T2xCT0hDSmhFdmRjeTZ3Y2p0LTJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg1RXN2NERYdXNxaFZSX0hwYXRyN1dNZWZ0MWlhanl6cmpvWHVvdTlnR294SS1meE56YllDYS02aUhQRWd5YzM0bXpRTHc3bVcxcmh2NVRZeUh5SVZiSHQzOFMtMDY4U2NCVUxOMmZRZkR1b0pLaVdmdjFHVXN0cGZKTVQ3Y1JEcGJYa2tvdERscFQ0T2xCT0hDSmhFdmRjeTZ3Y2p0LTJoTmpiYmlaM1NnMFFfYXNDdndsNUNMRWt4VEpVVThkTjM5cGt3NmZFcE5RVmkzakZJTmdjY3NV?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-matches-in-kansas-city-st-2026-06-04",
+      "headline": "2026 World Cup Matches in Kansas City: Start Times, Dates, Locations - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlNJZ1FWU25RcTMtdVNESl9yU0FPT3RYX3J5aldac2ZORHI2UV96cXY3RmJudE9ITG1GaVo4YjIyaWx2NVN5YzExVndjdHQtZHhnSzZEcnhtbjhGTXVfMWwwcFFnR1Z2RnE3ekh6SU5mWF9WQTJfakFOaHFFcXNVSE1PT3p5aWlOTXBQU2ZSMVp3UTUzYmpndllNZGpIaVpIanlGS3ln0gG",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-04",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlNJZ1FWU25RcTMtdVNESl9yU0FPT3RYX3J5aldac2ZORHI2UV96cXY3RmJudE9ITG1GaVo4YjIyaWx2NVN5YzExVndjdHQtZHhnSzZEcnhtbjhGTXVfMWwwcFFnR1Z2RnE3ekh6SU5mWF9WQTJfakFOaHFFcXNVSE1PT3p5aWlOTXBQU2ZSMVp3UTUzYmpndllNZGpIaVpIanlGS3ln0gGmAUFVX3lxTE1zRWRNTmVLalV4RlJVc3NvRkpsSThmOE1pc09FTUU1WjZSNGRlN0VvVUFRaWQyNHF1SlI4TjJlTjJWR2d1V2dNTjNxWVZxd3dhdnozSkFQS1VVZEwtMlRWVkdBWm1oLTNfSDVpMW0wUmlGcHhkbkJOTFpxRGE2YkJiSGUxamhMeWp6SUxwZjk5a281cXFhOFdVSkttdEFWblV6bDNNYWc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-how-kansas-city-became-a-surprise-center-2026-05-19",
+      "headline": "How Kansas City became a surprise center of the World Cup - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDMtWmg3YjBndm5ZNG9iRk1qUDU3OURXV0lRRl8tZU82Zi1TQm9Qam03dmNYVW9XSm9xRm9jVlMxYVhxdXJGNGNKZ0taUTJKU01wMUxIaWpQVVYtNFdQb1NaZWhXSmE0NkRnN2xzdnJBYThTcU5mcl90MUtRNkhwUlU3Z3BXYUh5cHBuMlhpNlc5Y2FmSVl3emkyanBNbWtw?oc=5\" targ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-05-19",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDMtWmg3YjBndm5ZNG9iRk1qUDU3OURXV0lRRl8tZU82Zi1TQm9Qam03dmNYVW9XSm9xRm9jVlMxYVhxdXJGNGNKZ0taUTJKU01wMUxIaWpQVVYtNFdQb1NaZWhXSmE0NkRnN2xzdnJBYThTcU5mcl90MUtRNkhwUlU3Z3BXYUh5cHBuMlhpNlc5Y2FmSVl3emkyanBNbWtw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-iran-start-fifa-u15-world-cup-festival-2-2026-10-24",
       "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high - Tehran Times",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-15",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNm9VaW1SZS1hQXlMYmRoSFdZVmFXQl9zbFhpeUMzRy1FSklIcy0tdFhNZVB5Q244OVMxZWpHVzlsU0ZfUk9uQ0EzSEtuTE04bEY0TFBvQXJuTklEUUllMDRJU2tLeGVrZFBfeDZDMG8wZG9mUTRvOGFtNnV2WXlpRkhQcE1RQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--cbs-tv-sunderland-vs-brighton-free-engl-2026-10-18",
-      "headline": "[CBS TV ]] Sunderland vs Brighton Free English Premier League Thursday, 16.10.2026 - Universidad de Córdoba (UCO)",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwNBVV95cUxQVy1IRTRsaWpzVnN4dEl5Sm03eHZJVDVLZi1PLWpoV05icHdsV1FkZ2piWVNkd3lPS3dtMWdWVHFqazlEWEdqSVJOTmZ1Slh3bEh2OXBVUmg4a2NBVkd3X0k1bzRqeTdjX3FVZWVUX2g5ZkYtNWh3dlVvNThoOHRfanp3ekVpUzg3TENIWmJUNkdJTjF1R1hVemRJOURDTzhUWUgyMWJhc25",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-18",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQVy1IRTRsaWpzVnN4dEl5Sm03eHZJVDVLZi1PLWpoV05icHdsV1FkZ2piWVNkd3lPS3dtMWdWVHFqazlEWEdqSVJOTmZ1Slh3bEh2OXBVUmg4a2NBVkd3X0k1bzRqeTdjX3FVZWVUX2g5ZkYtNWh3dlVvNThoOHRfanp3ekVpUzg3TENIWmJUNkdJTjF1R1hVemRJOURDTzhUWUgyMWJhc25CYTh1TV9Tb0VwN1NjeFdXd0NpUGhoMTVrRmRZWVBFbFFWMTlKY05CSmMwVTdaXzI4eEp0dWZBZUlqU1FhZVEwNlNYeHVEcXNnWkV3VEczS1BZZkpjMDl4U241ZUsxSkJuY2tPSzI3MEZEc21veG52eXRDdkdWaWJkXzRrNXlSU0t1Tm5HcVFxZjI0ZXFTSV9uQXN5UjllQUxLTFFWeTZXRnFzSUR0S1RQVlhuVzB0ODFQTjUxU0ZYYlJtQmhDdnBLdGFPLVp3VEdHN2hNNl9DXzNoWHFIRk1nbHZ6QXI0TlF5OVYzT1M0OWI0dkJnT180TF82RGtkRjFpQ0FrdFU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-kansas-city-gave-the-world-somethin-2026-07-24",
-      "headline": "FIFA: 'Kansas City gave the world something it will never forget' - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5\" t",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmNsc3RaOTFQWlFTRUtaX2dfeG42SjZvTzBTLWlzenhEZU45bEtINzN6VTFhUzluV2dxUHJPTmdoUHlMUjg3Ym5sck94Q0xodndlWUl5UThlNHF3LU5xZGl4T05GamdkMi1jcTlTbHpsRXNuSzRKa05sNmdtdjJQd3h5N3ZoeFcwZmxmSlBWckZaZGpDbXRPNVBEd3pMa1R4aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-s-world-cup-visitors-had-to-2026-06-29",
-      "headline": "What Seattle's World Cup visitors had to say about Lumen Field - The Seattle Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1dVbTdKZ2czaVV4Z09nRmJDVEdmMHBlMkdDYzJ5dWRJZzhiRXNWcDUzdlQxMUtTTFB0SVJnRTVfQlRvN2lUcElPbHRJN09xUEg4Nk1jRlVOZjk4Sm9WNkc3c1lza2RrSUd2NHBWWjAtYzdsa3AxLTN0VzNTOG9BT1paYzlfaDlGNVNmZ2NSVmgzMnlJdGRuakZCSmppT1p2Rlc0aHhrWnljYXgtTC1V?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lionel-messi-retires-from-international--2026-08-31",
-      "headline": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final - Fox News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-08-31",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9QcFhxa3lCZmJTOU1KTDIydTlrVzRWd1MxUQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--live-world-cup-2026-livestreams-jackson-2026-10-18",
-      "headline": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Jacksonville Jaguars v Houston Texans watch Live Stream free - Universidad de Córdoba (UCO)",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxQVVJLN015Nm94QW9IeEh6QXNXYzlGdk9wanFYVzQwVmdtS0tHeWRNOGlJLWQ5RG02bnUxRV9IUFlaOTktd3NVQWtUZ1dWMGZoSkhSWC02OHpNeXdKNWtPcHNrZ1RtcEIzT0VRRkRvVndXUWpScmNzYlg0Q09RMTNRc1Zxb1hHZmZLZUJtRmxnVUNnOHVMWWhMY3BBaGhlNWNQZnBtN3doZzh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-18",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVVJLN015Nm94QW9IeEh6QXNXYzlGdk9wanFYVzQwVmdtS0tHeWRNOGlJLWQ5RG02bnUxRV9IUFlaOTktd3NVQWtUZ1dWMGZoSkhSWC02OHpNeXdKNWtPcHNrZ1RtcEIzT0VRRkRvVndXUWpScmNzYlg0Q09RMTNRc1Zxb1hHZmZLZUJtRmxnVUNnOHVMWWhMY3BBaGhlNWNQZnBtN3doZzhxcDBIZXFEdWVXdU1rX1I2MGNodnJRVnBrSllBcW84UzRSaGwzWGtrQW54QTd5TWNFclJJelp4ai1WWlBlcVNRYl9nQzR4XzJ0ZEZCZWJNNDNZSVhoUHBDVE40SXFrR2N2XzZya3lFdWhYbXVlTHkySldyRXpnUVRDWjhHX1laWUVmWVBMRVVGb2RoeVFKYjdqeG15el9UVnhfV3R6ZzROMjk0?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-young-wsl-stars-expected-to-dominate-2026-10-16",
-      "headline": "The Young WSL Stars Expected to Dominate at the FIFA U-17 Women’s World Cup - Just Women's Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnJkQlZUWUF4N0pibmhKeHlhS3NkeUs4a1ZtVVhtdXNhRXFsbXZLMjN6MVNaZkZmTERJSWdpNGl4X0tBZ09RTVR3bldoTWhLT29zUFZBS1BoM0xOTHY0TDgxV1NGZFVjTGNQODJ4LTlJYUpibTJTVDk4WUlPc1FRdDJOUW9ZZw?oc=5\" target=\"_blank\"&gt;The Young WSL Stars",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-16",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnJkQlZUWUF4N0pibmhKeHlhS3NkeUs4a1ZtVVhtdXNhRXFsbXZLMjN6MVNaZkZmTERJSWdpNGl4X0tBZ09RTVR3bldoTWhLT29zUFZBS1BoM0xOTHY0TDgxV1NGZFVjTGNQODJ4LTlJYUpibTJTVDk4WUlPc1FRdDJOUW9ZZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-after-changes-to-arrowhead-stadium-fifa--2026-06-11",
-      "headline": "After changes to Arrowhead Stadium, FIFA announces capacity for World Cup games - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5\" target=\"_blank\"&gt;Af",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5",
       "featured": false,
       "draft": true
     }
