@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-24T10:22:42.223Z",
+  "lastUpdated": "2026-10-24T15:27:56.518Z",
   "articles": [
+    {
+      "id": "news-auto-iran-start-fifa-u15-world-cup-festival-2-2026-10-24",
+      "headline": "Iran start FIFA U15 World Cup & Festival 2026 on high - Tehran Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3duUjFfUTB0T04zbEJHakRBTW02MEJmeGNBSGZXMU8zM29pMzYtWHFBOGdnVkpFNlpXODc1di1Ga0Mzd3ZVQnBJNDlJRU12ZzBWRHRUODF3enVLdzc4a2tua3FEYkFPQjN6NDhRMGdPSm9xUHF0UGxYbklvZ3lUSDdPbDlHdnV2QVpheXdtallaT2dEb3c?oc=5\" target=\"_blank\"&g",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd3duUjFfUTB0T04zbEJHakRBTW02MEJmeGNBSGZXMU8zM29pMzYtWHFBOGdnVkpFNlpXODc1di1Ga0Mzd3ZVQnBJNDlJRU12ZzBWRHRUODF3enVLdzc4a2tua3FEYkFPQjN6NDhRMGdPSm9xUHF0UGxYbklvZ3lUSDdPbDlHdnV2QVpheXdtallaT2dEb3c?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-emerges-as-one-of-the-defini-2026-07-01",
+      "headline": "Kansas City Emerges as One of the Defining Host Cities of the FIFA World Cup 2026™ - FIFA World Cup 26™ Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2F",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-01",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTZkaFFFa3NJNVlyd1hEVmpOSU4td1lUMmdQal8wRUJEajkxeTUzd3ZIZXZ3TklTMFRscmZMdGlVNThEcFlTZXRaRjczSVY0VFRVZ19LVGZNanJaRUo0NGo4eDhBY0FaSHhvbDNZNnZRLWk1RXhKWjhSbmpJSHFZWWRVQ3pGem13Mm02V1drb0R6NkJuZEJndzRTM0hQU1dkMDYyXzRzb2FKVFM2MVFz?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-netflix-secures-2030-world-cup-tv-rights-2026-10-13",
       "headline": "Netflix secures 2030 World Cup TV rights in Spain - BBC",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-06-11",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXJ6eV9td1JyMkJoTGEwOG1CMTBQdm56ZDdjMnM1Uk1TVl9lQy1EQXVYTXQ1bF9OMTZMSmFCelRsbXdad01QeGZlRHZ5bldSVklVM0lSclZyeDJSVXJYWkZtQ2UzakFwZ2tFREZJMG95WlNDaXNORk5QWUYtcXNHOUdpajNOeDVic0xxSlFyc2dnUFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
-      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - Facebook",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-hopes-of-world-cup-tourist-boom-feeling--2026-05-13",
-      "headline": "Hopes of World Cup tourist boom feeling shaky in Seattle - Washington State Standard",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU16Mk5KT2p2b2ZXMVljbXFOSFVFXzJKZHF5ZTRnRzZxYi03elBnV2pBZG1kYmJ0NjlfbjdwaEVENm5ocE9icy13amJabTg4RnpVQjFFcFNLcmZLeFhVSkx0a0JBdVo3dzVJUlVzbk9MdE1tMWJfZHU2QTdIZUJtcTN5TktvQm5ERThySEtfVVExY0RNY3cxbXVhbGV5WlZ0Zmo0Yzh6QQ?oc=5",
       "featured": false,
       "draft": true
     }
