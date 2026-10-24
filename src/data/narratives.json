@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-24T03:30:06.747Z",
+  "lastUpdated": "2026-10-24T10:22:44.754Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 557,
+      "chapterCount": 558,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4474,6 +4474,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVlBN1dIQXdpV0tGOVRjTGIzY2pfdTVEYlQyUm1PTXVvd0pmSFBIWW9TU2wxNlJkbWExX3lNTTRwQi00Wm9oU1BkR293aTVIS1M3WnlObnpLSU50YUhOLXplR1BYM1BRU1dScWlIRDNQWW5sS3RCQm4wV1lCdTJNOVRsaTFJV08zQmM4dm83aHNpRmhpVjA0bVhIelhuU1hUUlZpV1NUUk5IWFhaRFh2TzhGRmV2Zkx6NkJaVllOb1o3STZqSk5iZmZ3?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792837362666",
+          "date": "2026-10-24",
+          "title": "Lionel Messi becomes first footballer to win Princess of Asturias Award individually - Türkiye Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGJaQlQ4SHByNjdBWGNia0VUVzJ6eVo5cTc0MUQ5UWY0a1ZKa2o1Z2FwbGtlT2QxcGNFUlV2V1p1LWtyeDQ1cTh1N3JxV0RZYjMtRGdVYlpvSkNVam5HeEZFOE9uVktiZzE2LVpoWUdLX0ZybWNibDBQb2FicklEaThKbTc2OWhnQzdFa3R4TTBvMHk1aXlnMjMwR1lIcG8xTUNkY3RuOEhyUWJrYXhKdEUzU3M2c18zNTFaNXVmdmlkWENhZHBV?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4492,7 +4500,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 435,
+      "chapterCount": 436,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -7973,6 +7981,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yTGZsYXE4eUpXdE5xN0VBdnVwVndkVGxsWXlZLXotdDdfRmVuaHM4Y1NhQ2FfMnBaUGg3blRuNTI0NEpSck5faEJtZjU3ZDh5RnpfT1JhQkVyN3BRbThCSmpVOG5kX0FYTTI3VW1nY0NsaUdwS0t4SVRR?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1792837363235",
+          "date": "2026-10-23",
+          "title": "All you need to know about the 2026 Ballon d'Or - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UdWFEOUpieTlJWE12eHNOWXlCa0ZLNm9uNWZqQ1pJMklHeDRqVVNYOWJxNGVDWmxEQktBbmtKOUQ2andWamxLX1NYQ2RZeWRoa2FYbzNMNkJXZlU2N0kzU1hIeGZqUmVQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -7991,7 +8007,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1165,
+      "chapterCount": 1166,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17312,6 +17328,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVk5qT1dUWlY4ekw3TnE0T2NlbjhqUERteTFoSjAxTV9zT3B6ZG9XVC01NWRhZ3Y2blhzTmxkeHE3VC1qYnd3UU4zQmZNdi1RYmpqTlhOcHE1UnpxZXNRVU1xUmZpXzMtUGhfYWJNTG1XYlpqUTlrVG9JZU5YRHFqdEx1Si1DWS1wSk5PSlh6d0hfZmhPUlBwYUV3ZnZMX1ZZc2ZacG4xelM?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792837363655",
+          "date": "2026-10-23",
+          "title": "Naomi Girma doubtful for USWNT World Cup qualifying - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkhCV0FJWV9GTnljci16RWNsY1VQbnBFZFNqa2UxTzRxUFhJSHhoUk5hcFREM2xBUDRhcU5tc2N5cmltOUVmZ2w0S1lHbEF6RHdWNFpGaWdOVDRERU1jNXhUSGoyQmg3Zm1paUdUWktvQmVzdWp1c2lOSVAtNFN6TldLenBrbUN3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17330,7 +17354,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 748,
+      "chapterCount": 749,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23315,6 +23339,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZk5taTh6VFJoV0tIU05NNDVyZVJIY1NWdkJQTWEtUjljQWxTODVjYlBleWxkbE9NRGF3bHVaS1JZNUc0U3JlZHhkNlRCdDByLUN2b3NBSGNESHdoYmxLeVVjTmV1b2NWUWo3bDNVY2lBMTlmQndPTThuRUc4ZUMyOTNZZTVmYVVOcDVVb1ZrTHF0SFBWWk5vNG9FRkthN25ZOUEzMFJVdUNpZGh6UEN3eA?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792837364277",
+          "date": "2026-10-24",
+          "title": "Live updates: Event finals at the 2026 World Artistic Gymnastics Championships - Gymnastics Now",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVhpWXNZVExiUTRFODZhOHZncWp6RXpfRk40ZUNMS1RkbGN2V2lxOF9kd2tGd0ViTDRIeWVEdTR0aXYwQWtNTmZNcjh4NEVDSmFGU0FnZDRVY1AxTk8zbG0xclVhaGlYSGtFQmU3S0g5a1ZkZWlnSTZoRFVpa1MzUVg4T0xNS3pZY24ycG1lYw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23544,7 +23576,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1042,
+      "chapterCount": 1044,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -31880,6 +31912,22 @@
           "title": "Harry Kane Chases Ballon d’Or After 73-Goal Season - 조선일보",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzdYdHVESHVGbUYwSmRQSzhZWkRFLWlzaXJFUVNxbGhncUF6WWVWbl9oc3ZXTk93dVBIYnBjSWpTY2JwSGt2dndJREpqZTdkWWZJVmE4OG54R09sdG5GSU1WQ0hKeWxwaUV6NEVGc0E2bjh6V2N1bWUzS1NENjd2YUpCMzYydw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792837364754",
+          "date": "2026-10-24",
+          "title": "‘Clutching at straws’: Duo bag hat-tricks as France go missing - Nine.com.au",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVlfdDZhcDdDb1Y0N1QtMklRRTJSSVluT1JFZlYwSnpnOVB5SzlGNlNVOGNJN0h0YXUzT2s0NC01TzFiVEtIeWp6MUtLUFY2bTY4akZrQVZ2b2lGX0VlcGNSMEUySFQtN1l4cE1sUVE1bjF4SEJXNkZmSWZuR0x5S001aXlrTlhBZWFTcmtCcjJrcU5sWTZOczB6ODRFaVZtcVRfai15LXlnQ2ttS3BQRU9XYXM4emU5UnIwZGMtbkpiby1TZ0VXZTdITWdIQnMx?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792837364754",
+          "date": "2026-10-24",
+          "title": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026 - TechRadar",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR1V6eGhHVFZvekZLTk5KdnB4cF9DZDBGdFE0eE1CY0l2MGphTEZLaHRqRVZHb1NUaVprMFBkbk1oQ3lRazBrSk5YaDZ2VDdjWW5ZMVpPemlSQjFnWTU1Qm5pNkY2Zlp1Zy0wTy1WUXpmRWtULWR3bXVWM19sZVNXQlpjTzlULUdnRUdtc3p0MC1tVHM1Y2tkTmZoazJrV25DQ2llcQ?oc=5",
           "draft": true
         }
       ]
