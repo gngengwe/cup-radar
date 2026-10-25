@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-24T22:55:14.939Z",
+  "lastUpdated": "2026-10-25T03:26:25.991Z",
   "articles": [
+    {
+      "id": "news-auto-black-challenge-receive-gh-10-000-boost--2026-10-24",
+      "headline": "Black Challenge receive GH¢10,000 boost ahead of Mexico 2026 World Cup - GhanaWeb",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWpWenpRVXV6VG5PcjAycUxLdHRPOWp0VkhBOGdkMEVZYXlacjR3aUFqbDQ1RTJud3FBWHNvOUo3NGNQQnZ4RmdZcWl1QzNpdk4zMjZCYjd4MEJfNmdDTkI5RkhGS0d2Qm1CMkNDVnpBMlhlT0kwc0FNVEpYVGYyTHROMTg1TUpDbXpwQkxSV2tGdTJ1c1VXTmIycENVVjZXR3JpQjZMdHV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-24",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWpWenpRVXV6VG5PcjAycUxLdHRPOWp0VkhBOGdkMEVZYXlacjR3aUFqbDQ1RTJud3FBWHNvOUo3NGNQQnZ4RmdZcWl1QzNpdk4zMjZCYjd4MEJfNmdDTkI5RkhGS0d2Qm1CMkNDVnpBMlhlT0kwc0FNVEpYVGYyTHROMTg1TUpDbXpwQkxSV2tGdTJ1c1VXTmIycENVVjZXR3JpQjZMdHVFNDNjR2w2cDB1RUVJSHY0Vkt1VWlJMGpvN1l5QkE1WjZMcw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-lionel-messi-retires-from-international--2026-08-31",
+      "headline": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final - Fox News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-08-31",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWVzTlRyYmFkOVl3aUNIUWZtR3lRR3Jqc3l1Y1FOdm5zZGZwOUQ5RGFhYzFEck83b3oxbFdzWnpDWWRIV0EwVmxFQnJfY1hhRjhDWXNWZWYyUF9iZm5LSUtHUHNocVNaYnBBNXlPeUd3a0VlWWUyZy14LUlscUpzdldiRmJZSU8xc1d1WkQ1NUZEczZCSDVwNGlqbnRFS1Jlb0lwS0dISk9QcFhxa3lCZmJTOU1KTDIydTlrVzRWd1MxUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-russia-mark-return-to-fifa-competitions--2026-10-24",
       "headline": "Russia mark return to FIFA competitions with 11-0 win at Under-15 World Cup - The New York Times",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-19",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWElqVVRzQnFaRjlJNlNzdHpVc3c0SHhRbWtRMGw0bDhWcjRuclFHb3VpRUhyWlNRdzh3NnpNbWI0eXBvQWE1bHRZd3lXMjA0QmVfdEhJcE1KajMzMldGaDZzcnBJVHJBOXAyWXVYVkpMZnpGcWMzdElvT09wbGRJQ24zNnhxQk55cmNmaDJBV0xINlVPNGVCRF9MdW9odWF4V0VkZHFzS0xHMWJYRFd0VVY4OUU0dFF4a0dWNUp0VQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-delivers-in-fifa-world-cup-debut-2026-06-18",
-      "headline": "Seattle delivers in FIFA World Cup debut as the Emerald City welcomes the world - Seattle Sounders FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXdDejlBNGVrM21ScTduX3B1RHY3Ymw2YlVXNzNINHE5R3dvOUpNZDdyU3VxcENqeGV1aXdIQkptMnR0RE9aOHN2SnlHY01UQUhlNEFIU29fU2xvYlFkQ094WTJwRGlVZ21LcGtfUlBpVTcyUDdKZ3YtRm1DVmxRMjgza3JSRmZTQnc2NEp6SFdGT0Y1Q0JiLU5adlp3d3RZVGJiLVpQazE3TXlpR3ZBbg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-s-last-world-cup-match-is-set-to-2026-07-05",
-      "headline": "Seattle’s last World Cup match is set to be its biggest - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5\" target=\"_blank\"&gt;Seattle’s",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-07-05",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjV1ckVCeFpKVklGNjFkZ3NHbHc2TU9kRVNvbnNtTjdGTlVYRW5rT05CSDVvVjRGQVBzMG5URkVuTm5jbmNXLXFjcHNGeFZXbWJ1aThYLWE5c181TUQ4V0dWWDdEOUJjSkxXckVqUVFrbXBXLU1Nc0xMQjBGc0lrajJyaVk3a1VyUUY1dTJB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto--fifa-world-cup-2026-through-industry-an-2026-10-19",
-      "headline": "'FIFA World Cup 2026 Through Industry and Culture'... Magazine 'PROSVIEW' Issue No. 22 Published - 스타뉴스",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE05VWYtM1V5NklOMDJsU1czMHdUUFliTDBleURuNndiVWU5Q2RxUk13MW9CcUhsMEMwanF0bldldUtsSkhKd1dWSkkzU1pfNUFBODZxTVNiXzFXZ0VhZU9IXy1PWE1ZWjhRdlo1YnY5c0tDTlJPdGE2NGlR?oc=5\" target=\"_blank\"&gt;'FIFA World Cup 2026 Through Industry",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-19",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VWYtM1V5NklOMDJsU1czMHdUUFliTDBleURuNndiVWU5Q2RxUk13MW9CcUhsMEMwanF0bldldUtsSkhKd1dWSkkzU1pfNUFBODZxTVNiXzFXZ0VhZU9IXy1PWE1ZWjhRdlo1YnY5c0tDTlJPdGE2NGlR?oc=5",
       "featured": false,
       "draft": true
     }
