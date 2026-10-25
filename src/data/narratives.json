@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-25T15:38:00.260Z",
+  "lastUpdated": "2026-10-25T20:26:25.935Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -8047,7 +8047,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1170,
+      "chapterCount": 1171,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17408,6 +17408,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHhZMlJrcktRNEFvN2YzV1VZUDk0OFBWMjdoNkdoM0ZmcVpYV29HeTI5WnNkYy1aSmFuMUZqTklRV05na1l5QkpsNnRNTXRNc2ZXOUYxelp6TzlPV21zNEFjVklrbzNab3ZpNnVSTlVhNDhkVDZLcTRaWWhZYzlDYVA2eEd0R1R3YVMyNm93NXJPLVh2X0JHclRrN0tkb2s2?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792959984956",
+          "date": "2026-10-25",
+          "title": "U.S. Men’s Cerebral Palsy National Team Finishes Second in the 2026 IFCPF World Cup - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHpJZ25pcUQ1bTJuN1E0TlRTM2JPMENoZXVqd3RPZXMxbmNsMmlXZGh3T2NxMl9vcDQtT3I2WW9VdmFqeGFzYW5oZGVlWjhHeU1BS1dla0kxblpqWlN5WWZULTl2QXhhNi1FMkI4T2NCU0RqMS0wWDlyY3E2di1uREdJeWJZcWswMXl3cGlBWWhSdFpzcjV6Y0w4QkV0VlIwSWRVWkMtZllpRjdybGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17426,7 +17434,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 761,
+      "chapterCount": 762,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23515,6 +23523,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNExReDVqZjh0WVNXb25qeFNiZE00T3lmX1Yxai0xdEM1MmVjeVF5c1o2S1ZyRDRoTktDb0dXRExyUnpYaGRMb1B1QXNQb2NFd3ZBc0lPZWw0NE5FejJpVmhNRXJNcnoyR0RwRjZmZTd1TldUS0RRWFdyUWVEM3hjM0xUaW5ySk9sVXZUSUJTWkpaMURfYjdybzRkdUlNNXpqN3RVclE2LXdqMjVWME5ydld0UFhMMkZjbzR4U1o4MHdfUHdxUGk5am1YNFZwSHpNVWtSNVhpTnhxcV9ONmYwZjBLVllzekVmeXBYVVNsRWpZWVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792959985473",
+          "date": "2026-10-25",
+          "title": "Brazil's Olympic skiing champion Pinheiro Braathen wins season-opening giant slalom - WSLS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZjZmWGFUZXZLUXpwNVk0QUxBSGR0aWVJT3poMGhNeEVibXZiUE5LLTlZc3FhY1BlVnhLSnZIaHBDYkkwZExWNk5fLU5EYWp6NlJLNzVPcW40Q2ZoU1hTME9IcUpXV1lXVExtLUNkRk5ueGNLQ0M1cUV4T0IxVHd1UldMOFpTUXd4N0pPVXVYV3FSZkI3alZWVUgyVkVjN3IwOFdUa3c1N21rYkx4cGhoWTQ3Q2pSU0d1SG0weTN5T2otdV9Ha3ZaRXgyY1FoNUtQWGc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23744,7 +23760,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1050,
+      "chapterCount": 1053,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -32144,6 +32160,30 @@
           "title": "Jillaroos hammer England 78-0 but superstar's World Cup ends in hospital - ABC News & Headlines – Australian Broadcasting Corporation",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzFzMGxlSWY1TVRCb2VjMmJTSXVHYk1JYmpEVnlsVDVUbjRBZFJ0SW1lMDZDb1RUMHpFQTY1clpCV3djQUU5RTJSWDl4TXNHSEw2dHFBV3hwUkJKZ0hEdmtHRy1YMjRUWVpTa2NfTmNocnkxRk1NWFJkZTZLY0d4eWJIRUNTV1MtZ2NES1Ayamo3Y2Q3eWhxbVRB?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792959985935",
+          "date": "2026-10-25",
+          "title": "U.S. Men’s Cerebral Palsy National Team Finishes Second in the 2026 IFCPF World Cup - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHpJZ25pcUQ1bTJuN1E0TlRTM2JPMENoZXVqd3RPZXMxbmNsMmlXZGh3T2NxMl9vcDQtT3I2WW9VdmFqeGFzYW5oZGVlWjhHeU1BS1dla0kxblpqWlN5WWZULTl2QXhhNi1FMkI4T2NCU0RqMS0wWDlyY3E2di1uREdJeWJZcWswMXl3cGlBWWhSdFpzcjV6Y0w4QkV0VlIwSWRVWkMtZllpRjdybGc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792959985935",
+          "date": "2026-10-25",
+          "title": "Highlights | England Men v France | 2026 Rugby League World Cup | Game 2 - The Home of Rugby League",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmwyUzhaUG9uR0RHeVgxUVJGM0dKblZDYVItRFNTd2xVWkNhSHRROC1DNDhTamR4NHJhUjhIcHdiVmdFVWRfQUtDWEtpSFFLLXJYbktySlBWaFpVUlhNdzVxR01feThRQmlsYUdMMVV1bnFqT21WM2hJczA0R0ExOERxcllHTk13NFBZdDhrOTlmSl95X1A2V3E2UWZLOHJLV0dZRVh1bDMzVjFnbkNZVjVoUGdMQjE0VHplb1dR?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792959985935",
+          "date": "2026-10-25",
+          "title": "Champions of the World: England’s Para Lions Deliver IFCPF Men’s World Cup Triumph to Cherish! - EU Today",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RMkNoMEg0ajBXU2xCanJjbktFZXFtVjhmN2daVkVMaW11RS1jUklaUDN0WFJjOWpJYzRtX210Q2laY2VNWWt1anIwdkh1RkRKV2p4bEUwYmg2VFlsNXZIajhoUm1wdmU0YXg0Z1JxUkxwbFZ1RHhPMA?oc=5",
           "draft": true
         }
       ]
