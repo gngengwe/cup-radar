@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-25T03:26:28.912Z",
+  "lastUpdated": "2026-10-25T10:50:22.615Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 559,
+      "chapterCount": 560,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4490,6 +4490,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUU2UVAzTTZYcEJnMjViSHZmM2doV2ZLWjN4aHV6eWxGTHY3bzFEMlRqcE1pNXVjY1JqTmZpQmRXck1RRWVKalFqT0dxenhUYU5lMVNtUG9BbDNJWmIwSk9IWl94ZmdtRUdpT0N5ZlY4eGZpMTZ6ZGhIa0RHM05pWFFSM0ZuaV9KTkJaTG5hSXhZWG9KcHlXM01NNUdLRmpWcDhLWTd5REpnLVNXUUZBMVdjSdIBuAFBVV95cUxNVWlJR0JpUzVhOGZ4bHZUYV9oNG1tNUhHNldKb1gzalptMUMzNzg0SFY1X3h2d1JnTHotYzA3ek5lMEFtcDNwRmRqQ3BfQXZnaXZaM3hkdTBvanRzM1Jkdi1UaDVnb1haYU9TY0xiRTBKTng2ZHRxSTZlOW9RSl9reXJiZTF6cktLdU9Bekc1VUdWd2l4dElGTGZVSkhQOTQ3Y0phcjZ6QnpINU5saktvdGlqNWgwUkdI?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1792925420520",
+          "date": "2026-10-24",
+          "title": "Messi receives top Spanish award from heir to throne - Taipei Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JQkdHc3NzOGhZT1JHWUVQSnR5cG1Kb2FHeW85QWVfQXJHX1llTTdfY0d3LUdTQ2h4WjJsSVJNRnRDRE5wdlRDM2hTWlVmbllsTEV5SkFfRllzbE1BR2xsREhuQVUwaTdmWUVmU3c0WEZvZ0Uxa25wWQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8031,7 +8039,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1169,
+      "chapterCount": 1170,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17384,6 +17392,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGJzTFVBS0R0ZnhmRXhDaUJWMEhOWkZ3RVdXTnZLSmRRS3RaazM3SHVIOWxjUUxUZ2hQdG9KX0RlQ1FaNmxuUGdqWXRWWXVrVVJyelRMMWFxRkZIMF8xVl8tRUZxRXNGT3NOX0lSOFZ6OEhTZFI5cDhwcW9Fem1MZmt6N1FQNmlXLWJTbFkwWC1vb1FhN25LOWdjUW1fY0k?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1792925421480",
+          "date": "2026-10-24",
+          "title": "‘Like a fairy tale’: USA’s Paula Moltzan becomes oldest first-time World Cup winner by 0.01sec - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHhZMlJrcktRNEFvN2YzV1VZUDk0OFBWMjdoNkdoM0ZmcVpYV29HeTI5WnNkYy1aSmFuMUZqTklRV05na1l5QkpsNnRNTXRNc2ZXOUYxelp6TzlPV21zNEFjVklrbzNab3ZpNnVSTlVhNDhkVDZLcTRaWWhZYzlDYVA2eEd0R1R3YVMyNm93NXJPLVh2X0JHclRrN0tkb2s2?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17402,7 +17418,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 753,
+      "chapterCount": 756,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23427,6 +23443,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUJBM0NDbFhUcXV1bTFOV1NJWkVlOWdsNkpPWVRqbFoyT1JPbUUyZ1N0YjBEWXB6dEw4SFBfNGMxS2pOemkwdWw3ZEExdzlfN1ZmQzV6bGFVNlctcVJFcEpqUDk4WF9GbUltT1lkM216WlZ0bDJKdko3Ump3TUhTb3pXblAxbExPODRudjJndWxScDJZdUJz?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792925422000",
+          "date": "2026-10-25",
+          "title": "Brazil's Olympic ski champion Pinheiro Braathen poised for win with 1st-run lead at season opener - Times Union",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkJDSUVTNGNDS1kzM3JmalZ1TExyUEJIMGFLRTZMZDdRU0xfc2F2SXhyTEhsNlVJYUVlM0VpcUxpM05nZkdyV1FTWHJyeGkwajgwV3drdVA2bEJhZHBFc2N5RGVkeUVFY2JLYU9jUzR6SkZNSksxNFU5Nk1IeGxFM3BZTGZ6SE1iSlB0dlhWcHNtNlNrdFhqYVBOS1pZd1hkc3UxUg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792925422000",
+          "date": "2026-10-24",
+          "title": "Sölden Men’s GS 2026: Start List, Rankings, Times & How to Watch - Ski Racing Media",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKNW50ZkEtbjBZZDdoYmozV2YzUVA0Zk5TbWV5dDBTQVJNSnJ5RGlJQWZIUm9ZZEl0NndHamFnX0tWV3k1VTZYbGV2Y09HWWRDRnUtbFlqYXFtYXJzYkhWLXcyWk5JUUxxcTN3MTI2Y0RPZkx3WlJjdTdnNng?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1792925422000",
+          "date": "2026-10-24",
+          "title": "Rebeca Andrade, Simone Biles’ Paris rival, is back and winning gymnastics gold again - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVFWdG5wUEhxWTdrOGprR1FmNEpYZHJ3a09ZY0loRjR0aHhYZS1PRlRJUnBrQ05ZT0FTYlRUZWxjSXJtb2dtdVdsUTk3OUxVX3J5a05FUDZKR3NvQ2hhSGthWEtYNzJVX1Qyck0tUzFRSHllUFYwWjUzdDBoOC0tdnRnRTFyR2hJdXNPaFBsQXFURjJJQUw4dF9nbWd2dWdYR2VKR2UzUlRITURHc25qaXMxeUVfZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23656,7 +23696,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1049,
+      "chapterCount": 1050,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -32048,6 +32088,14 @@
           "title": "Rugby League World Cup: How can England still qualify for the semi-finals? Scenarios to avoid historic group-stage exit - Sky Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTlJ5a0ZEalVLT3F6UVBRMW1XR2lwZUd6cE8yaXRyMDc0MlFDdEN5Rmxibi15QzNMZlBmMm5zcGltMElwb2ViUjVJS2dXR3pJTUpPOFJLU1JqYnI2dkNRQWNHS0dHOGpCM2E3My1sMERGZE1nVGQyUHZudVJLY0NYVnkzeHV5SVd4T2J4NmsyUEs3dkc4VXQtaWJqZWwtSG42bFNfeTVmQUhWYUpXX0loaDk2X09lZEF4Wm5sVE80UWFmdEhBV1g2M3dSejRGMlFJckZNa3FCcXIxdmhtSGREUWFnVTBScmJsTmZCM0pTM0lPVW1NVXowV1dvNUNIakU?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1792925422615",
+          "date": "2026-10-24",
+          "title": "Jillaroos hammer England 78-0 but superstar's World Cup ends in hospital - ABC News & Headlines – Australian Broadcasting Corporation",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzFzMGxlSWY1TVRCb2VjMmJTSXVHYk1JYmpEVnlsVDVUbjRBZFJ0SW1lMDZDb1RUMHpFQTY1clpCV3djQUU5RTJSWDl4TXNHSEw2dHFBV3hwUkJKZ0hEdmtHRy1YMjRUWVpTa2NfTmNocnkxRk1NWFJkZTZLY0d4eWJIRUNTV1MtZ2NES1Ayamo3Y2Q3eWhxbVRB?oc=5",
           "draft": true
         }
       ]
