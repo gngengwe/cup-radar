@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-26T03:28:54.140Z",
+  "lastUpdated": "2026-10-26T12:20:56.380Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 560,
+      "chapterCount": 561,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4498,6 +4498,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JQkdHc3NzOGhZT1JHWUVQSnR5cG1Kb2FHeW85QWVfQXJHX1llTTdfY0d3LUdTQ2h4WjJsSVJNRnRDRE5wdlRDM2hTWlVmbllsTEV5SkFfRllzbE1BR2xsREhuQVUwaTdmWUVmU3c0WEZvZ0Uxa25wWQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793017254321",
+          "date": "2026-10-26",
+          "title": "Ballon d’Or 2026 power rankings: Who should win football’s biggest individual honour tonight? - The Independent",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFlCcXVEZ1hJc2FYcWYtMkhzeUxDOFFUQ25Db1BoaVMzYUZXZXM1akpUUl9ZSDhneHpUMV9oal9UY1ZoWXFhM2Nzd0w3cmRERU0yWGVDUnB2aEp0b0Y0SHo2bzNCX0NuclpoTm83dnoxOHZyM01rQXY4alBlUGYtWHBwY3pMZFQ0UDZaeWtsRUMyY3BMbkp3WTBadmhVYnl2QnFWTy14SWZsaW15QWdGeXdtM01NMHlyTmNUS19KWkFfX2xRdTl6LUx2SQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4516,7 +4524,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 439,
+      "chapterCount": 443,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8028,6 +8036,38 @@
           "title": "Kylian Mbappe has long been told he will win the Ballon d’Or. So why hasn’t he? - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUW4yTTg0bnBDSGVpc05WYndRU0dPOFY3b053TVdYX1NNc0d6WUlqX0hObHp6aU11XzJkWGZGRC1pdXU0OWVQbXAtUHRPbi1WbmRIZ25ianRtSVR0bF9xVEJjZ00wSmItTzN2eTVXdFFwN19lU2FibGVOM3d6UWNiRnpfYUIxdm9lVkhoNTFyelUwMGs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793017254922",
+          "date": "2026-10-26",
+          "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW5zeE1zbENhS0FpUjJYU2xXX3EzZUJ0RjV4RWpxUEl6cWJhVzliV2JxNWF6RnFXQmQ1S3Z4aEFYcnpqZVdMWFdkV2UwZVBKX0pVTHd4NUoxRDhCdV8tdFVaMWladElkWmtIeFQ3Mk04U3RzNXVsc2d4MVV0YTI5bldxclhFOVdTVkJsa0E1Tk9wMk9nU2dQUjZDMUdnX2RKWE04S9IBqgFBVV95cUxOMXBNX2lJZjlqaEhSVmc0M3FITVZGaVNhdFZfLXJUNTExam5OYktkUXFKYzY4d21LSC05dFBHZ3JUbVpFZ2xsS19qUXJadU9xcExSSmo2eTdwT0NIYnRpMTd0ZlNhNllUS1htZGpVbzZwazVRYW91dGk1UHdIeGZ1NEZXZXV5UDItaENmVkRNOGl3YWJqM19QYVBoSXdvVkUtS2hMaHRrWUt0dw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793017254922",
+          "date": "2026-10-26",
+          "title": "Ballon d'Or 2026: Harry Kane, Kylian Mbappe and Lamine Yamal in race for men's award - stats and pundits' opinions - Sky Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQU0RudlVwYTEyMWZKSVJENGI1bE5ibjdkcjVWcHZnX3hIUnF2QVV5UFhRTElNbDhHamM1empTaTNvaUZuRkM1MEprT25pT1FRRG1ZbUhIZlhJQ3A2b0lFdXEwcXp0eHNLMThfbXR5OFpmcTdsZHQydTIwU0RBMjQ4clhEdXVzbEhILW5uS2VQVEg2aWRacWJPVHhXcE8tcEdZN1FFNmhxa0VoMmZHa1RodF9ZSHpoODdCWGc1eUxDZzFYeFBzNVQ5azIxdXJvQ1lJWFl4eGZJdHJLX2NURUJ6VUQwZG4zNTVtbi1FdQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793017254922",
+          "date": "2026-10-26",
+          "title": "Mbappé, Yamal and Kane to discover Ballon d'Or fates at London awards ceremony - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU25rd0QtLVpWSjhTektLclAtYi1LVmU4ZTU2c0xVOUwyRFZqRjBPVVJ5SzQtUnJtYXVDUWFpWHh5UjZQQktwajgtVGl0MXJ0UlRPVnZ6dEp6Wi05V1JyQjJNX0dNZ2s0X3B2SHpTSi1kNTA4dkJteUVNbTdtOTlUS01icGJNMlNh?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793017254922",
+          "date": "2026-10-25",
+          "title": "The Internet Is Racing to Crack a Hidden Code That Reveals 2026 Ballon d’Or Winner - Sports Illustrated",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOejJGb1RBaFB2MnE5SVRyNFRIZkJSSUpWSkNBN185bERyRmJyNGg3MS1wLXlubGl0Umg0b0pVZllTRWlCVEJXU3lpZU1QeEdQMzYzeEZQdnJUaHhWQnNLWVNHaE5ILUNkYW4yR041MkZ3Q211OGFfbDRNa3czSWJMY3hybkJaQVBlRlFz?oc=5",
           "draft": true
         }
       ]
@@ -17458,7 +17498,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 766,
+      "chapterCount": 769,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23587,6 +23627,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFo2VWFDajRFQ2EtQVhURDNzLVR5MUgwTlFrZlVFaDdRQnk0UW9KZ1pIRC1SZEk0ZFRmSVNiSXpDZFhqMmtzZF9PTHFUX1ZyUnl5MmgxU05qT0JuUHYwbVp2SVhRYUJUTHhuTl91cURLS0NtM3BqYzQ2WlRiWjJxZzNGYjBMVUstamxkek9iWXFSMVRoeXU3T19rNGJjMXVFTk84cnc5RnBscllpSnFMalU5Slp6OW9QZFRJaTVtVzNZS3F1eWllNW5vZlFtdGI1bURlLWxpQ05WOGxy?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793017255998",
+          "date": "2026-10-24",
+          "title": "Brazil U15s thrash Guinea-Bissau 8-0 in World Cup opener - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3lPY244V0N2blhBc2Q2bEM1dmlpUmw1anVNX19wVnNtbmhOQldUenBVSnRsVEp1enpmcUFScGIyUnY4Q2FhekJwQ2E3TGhzX19WU2U1TVlxQmlqRHhNYUhORzNnaDBQSXpNX04zTDRBNW1yUktYQ04wUlZ3OWdYcVdwQXAxSm90?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793017255998",
+          "date": "2026-10-26",
+          "title": "Brazil tops medal table at Para Pan American Championships - World Archery",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlZUXVSbnY5a01ERVJPSmJralpmbzBVVF9mTEpvU2FmenlxLUhYeW9JZXNJUFlSR1BpR1lxbFQ1ZWRZWXBxUUNSR0h1QXgxdndxdVU2dGxRemVRSVRlcl9uWnVTWlBORTlVdnVqYWFhd1BGdHdnaWc0OHdsYmtTTFQ1U0V3dWFmY1pyNXFFVXl1MWQtNl9reA?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793017255998",
+          "date": "2026-10-25",
+          "title": "Champions crowned at 2026 GKA Freestyle Kite World Cup Ilha do Guajiru - Sail-World.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaU9uaTF6SmRLVXVmdUJfajRwMFFJd2R0QnlKdHpVbXhEWHpMRzBzdUFzS2NTem44TmJpc1JFbUt5bUxzZnB0NTZCZGxVbzZLWEtmRUYzSzIxWG50TlUxTmhZWVp1UjBnRTJHVW5VanFoV1lnakxKUmNxbzZlSnNDZDlpUGV6TFNMZF9JdFVoNEVDQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -23816,7 +23880,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1054,
+      "chapterCount": 1057,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -32248,6 +32312,30 @@
           "title": "The Wrap: World Cup Men's Round 2 - NRL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DbWpudTQwTG9jbnhhaENlX2ZQTUZ3MTBQa2VOOERrcVlVWTV1OXNwRG5BS3k4YjlYcExNTHdCZk9VdlEzLXpRV1hjd2czSHFRcXplS0Vmb0ZLZzlnRGhQNlNMUUoxNDhvQUI1bERhdS0yMG50NDFn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793017256380",
+          "date": "2026-10-26",
+          "title": "Can England miss out on 2027 ICC ODI World Cup? Explaining ENG's ODI form and impact on rankings - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZ2ZiSzB0ZmZFM0NCMVZjRlIwUmx2TnZOVnRmMUhpd3hpSTZEaXdUT0VRY3lNMkdyOGlfUmwzSWRaOGhabGhCUjVlVlZLdUtibVhJbDBjbFRmdVZPdERLRThjaDZTOS12WTZVXzlxLWVVS2ljMno5d2dLQ1VXMFk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793017256380",
+          "date": "2026-10-26",
+          "title": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race - France 24",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnpQUFA3QjFtbktPa1RxRUpxaHpOU185bHNDQ2FTZHMxWVVqWWZOSGFuUzktNFJWdjNUeDcyUjJEOEwwM2lrdkNvSTZ4WTItUlQ2S2pPLTN5TjMtanh1LS02TnZtNGo1bWFSOWdjcmZlMUFDUERBV2JkalVESGFWTGFITERSSXZfaHFDbXY3MXJvOFpialVjeS1LVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793017256380",
+          "date": "2026-10-26",
+          "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win? - Al Jazeera",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW5zeE1zbENhS0FpUjJYU2xXX3EzZUJ0RjV4RWpxUEl6cWJhVzliV2JxNWF6RnFXQmQ1S3Z4aEFYcnpqZVdMWFdkV2UwZVBKX0pVTHd4NUoxRDhCdV8tdFVaMWladElkWmtIeFQ3Mk04U3RzNXVsc2d4MVV0YTI5bldxclhFOVdTVkJsa0E1Tk9wMk9nU2dQUjZDMUdnX2RKWE04S9IBqgFBVV95cUxOMXBNX2lJZjlqaEhSVmc0M3FITVZGaVNhdFZfLXJUNTExam5OYktkUXFKYzY4d21LSC05dFBHZ3JUbVpFZ2xsS19qUXJadU9xcExSSmo2eTdwT0NIYnRpMTd0ZlNhNllUS1htZGpVbzZwazVRYW91dGk1UHdIeGZ1NEZXZXV5UDItaENmVkRNOGl3YWJqM19QYVBoSXdvVkUtS2hMaHRrWUt0dw?oc=5",
           "draft": true
         }
       ]
