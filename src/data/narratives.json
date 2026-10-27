@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-27T00:14:39.706Z",
+  "lastUpdated": "2026-10-27T08:40:56.926Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 565,
+      "chapterCount": 567,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4538,6 +4538,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96S2dqNmROM1NWdDkwQXM4RXBYT295dmxGZTFhcmlwaVptd0ctMzhVZ0dOSzI3alE1SXlLdEczWFJmWDh4MG85R3VJSkJoNVFkRWVWN1V5OWJ1OHhzQzZEbVZfUjJSZ3dvMzYyNXNva3czeTVjTzBHb3hjQQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793090454536",
+          "date": "2026-10-27",
+          "title": "Lionel Messi secures remarkable Ballon d’Or finish as Inter Miami superstar defies age in 2026 rankings - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDV0ZXVtWmV2aUlzYnVpN1M5SU00TlNRYkdRdGNfQXRNS0V3X1IySzdUV2VDcXJDRDZmcHJYTVU2TTlQcXJ1ZURFaTF3cmhwS25aYzZKc0o3UEhhcGp3STcyQlVzZFlKUEdDT0FvRUJUUWNoMG1xUEU2cXN4b1dEUkpNWHc0R2JTcTljSnp5LXk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793090454537",
+          "date": "2026-10-27",
+          "title": "Where Did Lionel Messi Finish in the 2026 Ballon d'Or? - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0ZONXBhYURzT09Pd0dfQTlRSGJsNG5VOFVkdTNBUG9mdGhwbDNCTjVtU1FGeE9XY0ozOW9Jci1ERGJZaXpFdVE4NnhFUElLd2llcGdOLVpTWFVKQ2t4OS02WDhfRVFKdU0xTkN3bnVwYW9jMWNOX0VjOFRiMHFQX1RITF9la1BpTGhtS3R3dFFiR3htRGRzNmVBc2VGMWlLTUlneUk4WjdHQUtva2traVdseHpzQVM4?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4556,7 +4572,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 449,
+      "chapterCount": 452,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8148,6 +8164,30 @@
           "title": "Mbappé, Kane and Yamal top favourites list in wide-open 2026 Ballon d’Or race - France 24",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnpQUFA3QjFtbktPa1RxRUpxaHpOU185bHNDQ2FTZHMxWVVqWWZOSGFuUzktNFJWdjNUeDcyUjJEOEwwM2lrdkNvSTZ4WTItUlQ2S2pPLTN5TjMtanh1LS02TnZtNGo1bWFSOWdjcmZlMUFDUERBV2JkalVESGFWTGFITERSSXZfaHFDbXY3MXJvOFpialVjeS1LVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793090455356",
+          "date": "2026-10-27",
+          "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jOGpuWDdCR1ZBYjFnSzVCS1U3ZXhiRmhEU3lfRlB3Z1FKZUNWaUY1MnRfU0FiSHI1R0ppNFRRdXgtNWVLWlozZ21KSkp5ZEFxNHp2empRcXdlaXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793090455356",
+          "date": "2026-10-26",
+          "title": "Ballon d'Or Winner Leaked? Kane, Mbappe And Yamal All Subjects Of Accidental Post - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2YwOHRMVDdBdzN6VjBGTlo4bTlxc0tHSUxJMVBnZzNURXlVbUZ3cjRVVm9CSkxhdDY4X2ZsWG1vVE5xOWJXclNqZS05bGVvMjg4Wm1GR0ttTzJJeHh5aDZldkx4ZEtMUzZZOEdGdHlnWDhvU1JtMFVMTS1CWlVWbDl2TjBqaTlaQVpQc0duWFY3M25FZEtZeFRfSlVtYkpDMTUwbzJYMzJpSEIxLWFlRFZn0gGyAUFVX3lxTE1jSDEwbUJGNUtjX1dOdmZ5eGZTd0JxMkMxWTBmdFZET1ZKLXd5WlgtN0d5WFF0TmlzUzZZQ09qY3EtcVFxSDJCcC1neHRULXROQXJqc25SdTg5c0RRZkpMb1ViM2tGRDdZZFBIczJZUUtjZDhpYkFSb0ZRNTVDR05xb2Zvd2kzZDhGSk02akZLUGxQNWJOX05ReTI2Sy1OMk9YSlZMWkw0S2xxQnFGZWpocXc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793090455356",
+          "date": "2026-10-26",
+          "title": "Best dressed at the 2026 Ballon d'Or: Kylian Mbappé, Sophie Turner lead the way - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWV3VVlhM0xURkVWWmx1ZGxRUE1laGZvbTY1aldsRnB0T1VPeWFjdWE1WEhGRWpOaTYyME1UYnc4NVE0LWJUbTdvWm9SWi1Zam9vUXhQN2VhQnRmTXJNNlBKSDFQcEE0LTZna1d2ck54SjZhWXVJaUptekRMMkdtQg?oc=5",
           "draft": true
         }
       ]
