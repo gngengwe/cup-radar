@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-27T15:09:01.876Z",
+  "lastUpdated": "2026-10-27T21:52:07.346Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 567,
+      "chapterCount": 568,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4554,6 +4554,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0ZONXBhYURzT09Pd0dfQTlRSGJsNG5VOFVkdTNBUG9mdGhwbDNCTjVtU1FGeE9XY0ozOW9Jci1ERGJZaXpFdVE4NnhFUElLd2llcGdOLVpTWFVKQ2t4OS02WDhfRVFKdU0xTkN3bnVwYW9jMWNOX0VjOFRiMHFQX1RITF9la1BpTGhtS3R3dFFiR3htRGRzNmVBc2VGMWlLTUlneUk4WjdHQUtva2traVdseHpzQVM4?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793137925383",
+          "date": "2026-10-27",
+          "title": "Inter Miami, Argentina star Lionel Messi finishes 5th in 2026 Ballon d’Or voting - Waking The Red",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQllfaVFya1ZlVF9CU00xUGF2eFB4Ul8zSHBpWlh0UVhZbWoxSDVPcmMwSDF4dm1oUVBpaTNVYVVCcV9DQ2kyeHVWZ1hTTW1ldnhhQ2RJSmJxTG05MFMwTXg5MzJxWWpPTVNHSXhTVWc3Y2dEQnJFd1FWUUxRckxtNEhCR3hoS3Y1YXE5cjI3VGpNdTRXZWNBemVXY3paZWV6R1hSV3YtQ0JSaWN1MC1GcnNTMTk0Q2xicTdEN0FB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4572,7 +4580,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 455,
+      "chapterCount": 458,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8213,6 +8221,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEpuejVpcFV1NWl1THR0dFpWVDZXUWNyT3U0SmpnLTFGT2hsbF9Oamp0bHNZbmp2cEVBdVIzY2J0c0c2elpuRFkxRVN3VlNWTktzNnoyU1otNU9JR2pad3NTQlVuWW9xVnktSEtzeGQ1TEYzdm5FejM3VVFSeFlNOVBSS1JWNUFvRmd4ZlJCNVZTMUl1SnJ1ZG1HT2dsMm8wMUN5SjJPazhDazRYM09nY09nTmlWMmNB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793137925902",
+          "date": "2026-10-27",
+          "title": "France Football chief reveals how close Kylian Mbappe came to winning 2026 Ballon d’Or: ‘Was leading for a long time’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORU9SQU9TYjhnaFJSNDdkNmRoeld4RWpiR2pJYTRYVGJXbF90X21oRGpBTnRDUTNTb001LXBnNEMzRV9WS0F3NkhYanJhcTFfUVQzWF9zWkluZ241ZUJ5Z0lEVnh1ZGJWS3luYmpxTGl3Tms3RHgyUzNPb2haRHFwbWU2dklydVhHMkdhVg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793137925902",
+          "date": "2026-10-27",
+          "title": "Mbappé misses out on Ballon d'Or again, finishing behind Kane despite PR blitz - Le Monde.fr",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSkNraTQ3dExvaktoNnpHcnRMRVVSV0luM2Z5a2NOSG04RTF6dHhXOUdZZ2NLOUJlZlo4Nnh2eUNSOEU2OUd3WVp2cWdkQTd6LXh3M1dhaUQxYmxzR1k2cVlpZGV6RHREdWhaN3RtR3VRVDlnZUdqdE5Ma19ENm1wSldxeDVsd3EwUk85M0JBbEF6QlZhci1oVmRSdFZiTDdIUW1QU3NCckdxZmV6QkI3a2tQWnJjUkJVUXhVVG00ZkdHWlFPT0JsMi1sNHBoeEZGdVVHdDNMeEh2YTVs?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793137925902",
+          "date": "2026-10-27",
+          "title": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzdEd3ljN1pmWEUySExDRGFYajUtWWlJcGtuZDNKNjVsOGNrRHFJcFRTdVRJdUpxUzhQWUV3NkZuQUk4MTQzNHNtVV9IS05yTll1MDFnUnlJVkxNcVRNZzc2N2hzODFSMjQzdmxhTUwxZHEtaU0wV012V1RkbFhpWTVPZm5HaF8xbXBtRHpoY2kwM1FzOVBjdWJvdUVjclNtd19TY1RGSXVpUVBTWVZvTC13?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8231,7 +8263,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1178,
+      "chapterCount": 1181,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17656,6 +17688,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnVubWp6NkFTWlJDNndwdUMxZGF4Z0QyOENwQmo2SXJRejB3Zk5laDBvMTA5S3MwTm9tcG1lYVRrYnY2VzFCQnB2N1VhMExpVHl6dmdaOUdiY1BiS0hUSjdZTE9PY0xEMGlPMDBGWHNIVU91NHhTTU9zMGg0R3pwYmhyZVMwOXRNbE5uSWhyTDRqb09QNXBYNm82NzdGV2QxeDlWSg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793137926372",
+          "date": "2026-10-19",
+          "title": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnEwZHVaTk9HWXQ0ZHlJZGJUMzRaZjdGaHh4U3JheVkxQUJkc3N6dEF0QnYxaDlOV01pelpVLUlfNWxwaHhKcU9XU3ZrYXdERjlvMUlNLUdiY3FtRFBUTVVhb3RkdVY4eEFMTXZ1amVubEdJcUxxQVRwYVdXalUyMmJwcWt4STl4Y2RVMmNSOTNiSXBNcEJfdV9fNVFDWDZJYlcydXdmbzQwVTRpU29VTVVqeTJ3X3dh?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793137926372",
+          "date": "2026-10-27",
+          "title": "How to watch USA Swimming 2026 World Short Course Championships Trials - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0d6RGZiV2Q4SUpGWlQ0N3p2V21qY1RQRENKa1RFQ0FSRGlZcFlseEx5cmNnMjY2Ylk4UFNLNnQ5VzM3U3BmSlNzZkFKREFLeDlGdllCMkdBUXA0bzBSOG05bzZsNVlvSFRyTVdhSHg2dVRfTWlNa0ZDLVd1UUl3VmhGUHQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793137926372",
+          "date": "2026-10-27",
+          "title": "USA Rugby’s games in Nashville are a ‘friendly’ reminder about Cincinnati’s potential World Cup future - Northern Kentucky Tribune",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVBSUzRGTURHSU1pZkdjS2pYVE5xZzZFTXpEeGc3ZV9CdTdmQlNzS0JEV1NGWTZNZVhkVHNUQkl0VzU0MHNWbnF0am1Yd3o0d2hqbUVYUmxfMzk0MVllQ2dOcXFvODVSUUlxX0FLdUxfenhHcXl1NENoNURLVVlobWdsSk84aUxsTU5zQkFhQUFLQ2NMaVAwMUxsZ1lGUnJPMndLTXp5VXhyWWlzWjVqakJ1TVRRaUdYTXB0TndpeXJzeGlTbVEydHZn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17674,7 +17730,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 771,
+      "chapterCount": 772,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -23843,6 +23899,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS09UanFRd2l6NlVZZTk2bXEwRFJNM1k0OHdINWd0aFJoOGdSYlhSQUdrWHlnLVczTGtkcnFkWmxwU3VkMi1iQTJadzZ2TkxBa2xxSHNNOTYwRVRGOW9la0FHeXFxbEx6UEJha2dLa2ZpMjBJUzlaSWk2N0I5WERubG9JbDFtRVNSTDE0Mnc5a0Y1bFRxelJKREpaQm0wVGdnci1URVhnTQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793137926925",
+          "date": "2026-10-27",
+          "title": "Mustapha Hadji to Koooora: Morocco can beat Brazil and Argentina, and this is its biggest weakness - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOTE5RklLWGlhMmZFTWp5TnIxU1ljWnNWVHBsVHU0RWJpeFlZZ0s3TmJxdVNNV0RlM05UVmJ6TkVYRW81Tmtzb3NTMlVLMzdLZTVJVjVkcjZvRV9OTUoyWFBQN3N5TkQ2c2tsU2tBNkVxT25PTHREckdCRVE5XzkxWGZ6Y0lnT1JSTWU0azBHOTFIMGVYRl9NWkNYUXJXaTYtRExBWFR3ZWwzODRBMmR2ek1WWmxwdGstWDJwcU9JVTVxT2E5YjM0UTRoUDNLU0ktWDJzZ294MXRuM3VIc2c?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24072,7 +24136,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1064,
+      "chapterCount": 1066,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -32584,6 +32648,22 @@
           "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or - NPR",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2VoNTF3NnhPTjRJY21TQkx3OGswak1WRTRzaU04dGs4a3REeTlycGpYbnZNUXA4RHJBTXNPWi0tUkY0YlQxcjZLUHJ5azNjeUZWbGo0QTNIOVdwb2VtWE91Rm1wTmtOSkFtNG82SWQ0WjdCdDVkYlA4ZlRiSWZRRGppQ0o0NHZsbUE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793137927346",
+          "date": "2026-10-27",
+          "title": "Harry Kane Merch Becoming Instant Collectibles on Heels of Soccer Star's Ballon d'Or Win: Shop Here - Rolling Stone",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRks2cjFEOFkxVUVWUnZJN1pDbmc0R2NhcHVtV2p3cDFqS0o0ZmFRdXBwcG1TNUc5N053X0ZmbkRCQUc1S0RkSTRVZ3NYaXNGSUxid0JUcjhaUDVEc3Axc3M4R0NleGx1WGR0R1lndXBweWprRnA5c0g3aDE1WlFSdGRDZU43dlNoSVhYX3dWX2g1NkNDQlJqWGN0VTBLdXNmQ09IMWdTZ01ESFlrNjR2NzZmSE9NdUhBTmV2S2F6SzRLSXJpZ0J5b29TcXpydw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793137927346",
+          "date": "2026-10-27",
+          "title": "England face 'do or die' World Cup game with Samoa - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkaThsb2tCWkNELTRUelhmcmdmWml5LTY4WXlDc184TWliN3JqcU53V0hzUThfVWpqcEVNUEs0cTQtNjdLODVhME1HVHBsZDZ4eFVENjhRbExSZ0NaT0dmZ0ZrM3hfaWJqcVgyRU9R?oc=5",
           "draft": true
         }
       ]
