@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-29T09:26:38.191Z",
+  "lastUpdated": "2026-10-29T18:05:05.477Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4580,7 +4580,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 464,
+      "chapterCount": 465,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8293,6 +8293,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmIxcjdDOHUwWEFJaENUZW12enJFX1lFMVZvZkpYMTRHZkpPQlNIMHFkODA1bEJhN0xQVlk4WkR5SlE3ZmwxOXVJb2FSSXlfVnkxVWUxcnZzNFAzcEZCWlRVMDdQelN2NUxIdmtJZ3hCWWhGV2dQQjhLd2kxOEVBUGZsRmFtV01PQlJwaEplcVJDMXJZdUJMbjJPOXQzTmpMaWhVTTRJVTNOcS1veThN?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793297103980",
+          "date": "2026-10-27",
+          "title": "The Ballon d'Or president admits: Mbappé was the winner, and we recorded the smallest margin in the award's history - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUtXaEtudHpCZU1peE01LXAwRm8yVlpWeFJyQkh2UG9TMXJrTXVUV3NveXZCczFWcl9iMXNLWndXemxRMHFOWEllLVBkclUxUzYxSjhIU3RWTVYyTDB2SnFBeC1nSlJ3T0REeWpjZlNjUDlLMjFtcEJCdlhTWEFxT3BGRVBZTUY2bnpqZE41bFh3cWVxb28zV1lDcGEzenhOUFg5cWplMjBDdTlmR2hjdkxkbUZxT2RPNVotajUzYi1kbTRnUWhPWmdnS2Y5Z2hud291LVk0Mm5iUEhHcTdPVjRMQjBvbmlWR2hKVWdhVXk1Z01F?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8311,7 +8319,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1187,
+      "chapterCount": 1189,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17808,6 +17816,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFJ6QUtGZzVJaGZpcTlqWFMybks1SndHc3p2c2pqb3lSZ0Y1THpKMkJhVTJ5bXFWdXJpMEJmaFBhSGpKZ0E4Mm9IcmtDdE9kZENSbWdGUG9XUms2cUxmQnFPbTdwaTBUdjlrNnFYcE5qSVgtWUxBNnV6emJjRVNqVzYtdXFYZkZVdTBCNU1tU2VhMTdwb1dDSW9LNlI1QnRvT3NOTk5RU1hnd0tabjVkTGdabVFFRHMzR0RrQnVpVjBzeWNqa1hQM1BRQkRQUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793297104420",
+          "date": "2026-10-29",
+          "title": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results - The Hollywood Reporter",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTdEMjlaUzd0LXBnUXBhSjM2VXozSHVvcmx0aHRlc1dHSnN5cGk3Ni1qVlpKWHRSZTBiZlFja0EtTlEwYkp2Vi1raDVfNGFINUJCT19iRmtPZ01kNm5zUlZNNTl1ZjlSa0phaGdTWUk3aVdiNFg4djloZldOTFZmU2lDeDRnUXl0b1EwTjcyOTNzV0YyLU9iWEtPaWNhNFNIWS1SZ1BUU2lsWWhVc1g0T0N1SFBzRUtYbkJta2NYbEgxeGRlb3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793297104420",
+          "date": "2026-10-29",
+          "title": "Pasifika pride finds a home at Rugby League World Cup: ‘Passion brings us together’ - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzlpLWNjVlBqQWZDRTJTWU9XVjlKeFVzeVcyc3R3dGtvLVE3b3pxdFpGZWRERXg4enhSV1N6T1ZkYklKSDRVOXBfZ0NXU2ZsX3ZUWlFUMWU0WEUySDNQdGJ3Q1pHNUFHR053WUtFZHZoOU56cXZraXFxbWpyOGVuTUNhVmdZRDNNSl9rZFlUV2JBY2NNbEVyVzU5RzFhX1hqdTF0Ug?oc=5",
+          "draft": true
         }
       ]
     },
@@ -17826,7 +17850,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 782,
+      "chapterCount": 785,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24083,6 +24107,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa01kNFRKS2YtMnJ1aGV5OUNwQmM1QUlRa0w4X1F5cVZUS3ZPWGtNVy00TGtFdmJZN2FMUGdfYnRaN0J6TGYxOWh2NUlvVGtxTDVtX3RxMEVRWWJjcnhUeWhCRjV6ZVZHZlNPWFFpVWFSeDljX0FfVTk5cFV4WmhUVE5uWEVZdUJmdjFvVUdRRkhfVjJYNDlpUEY4Q0JSMlJMMEUyQXdVaC1TMGdJU0V1ZkplbnhjZ9IBuwFBVV95cUxQU1E2OXN1Mkp4VWp5MV9TVVJRcnhmR1hQMnIyeTQzODBUZjF4Z3h0WDRucVpTTkwxQ1JTdVNFYnRORkd6bkdoOVlSdWhxUi11Z240U3RpcW1OQjdiUWc0cXNLTHBXLWl1c18tbXhoWGpmeHI1dElFcmoyTlNVcG5rNEFveTR1MXFCSG1hZkl5VHNkd0ZsS1JTTm1IMHM2cm5TV3RLMjkwbktsbGZ3MExESDNpbTdJVlhWN0RF?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793297104949",
+          "date": "2026-10-29",
+          "title": "Ancelotti picks Brazil squad on Thursday for final 2026 break; react 🇧🇷 - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQl85aGpGeThZVEZ2SlVRWW9PQzdVelg3bHU3ajJLR0lvQ0ZqZ0J1RkRBNDZpaERQaGVMUkhXZUh5S3c1R3dMYldBbk1DX0Q4dzZaVnZ6ajBtNHpTbWdGeWxNR2VKeG5YRWN5c0Q4QzlFT2cxc25wY2poZU5uUFUyZUIxb3piZm9wZ2NzR0RLaw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793297104949",
+          "date": "2026-10-29",
+          "title": "Haiti - 2026 Qatar World Cup : Our Grenadiers are preparing in Brazil - HaitiLibre.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkNXMHhvc1UxT0MtSDVQSXV4cW5VUEZKSUVVdzNlOGlKbXJxdHhaZ3NzdWwxbkdxdnZxZ1J6eUdLLWpNcDRVa3Z1eTBYbVFRQko2aU5sNVNQYS10V25qNjRHck1YcV9Pd2VGeEk2UFdoa1Zia1ZKSDVCSXVwNnhLTFlNVUJaTGRtNnVtRzRqSm8yZHE0NmpNZ0JERVNock8xNElXOVI1Y0VoeUNWd0RNNw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793297104949",
+          "date": "2026-10-29",
+          "title": "2026 FIFA U-17 Women's World Cup: Round of 16 - Brazil vs. Poland - TSN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24yRVA2cjJiUlE2RjhQdUFNbUY2SWhJZ0dDT3pmNDZ2V0FzWnFkdWFpTTM1c19fUkRGWnM5d3k1bzAwSDNYOEVfVXJ3SEhWSXhKSWpia1c1anpja0Rjc0dxTnNEWFdSeDV6R0V6azYwZUdXSjBqQzFaYW5GcFZZbUdUTmdwbmhxZjBwVUxkNm5pZS1ObEpWbUxnTUJHUnphTmkwWnR0bw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24312,7 +24360,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1070,
+      "chapterCount": 1074,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -32872,6 +32920,38 @@
           "title": "Argentina star rubs salt into England wounds and says 'half of us were INJURED' - The Sun",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemlFdXdPVjd5MWVQQ2d0MzYwWlpDdDMyZXEzZEZrOTNXYjBLRTdoaHpfanlReDlndE9OOURzOTZKelhhMWh2RDR4RWhHdk5JVGNKM0F3ZkVRVGtPQ3ZPeUpxaWI4LXp5blpwNV83VXVRUjdvMEY5YVVHLU9rcVZEbGsxMFFOY0c4Sm9WQUsxQ1VJVGsteG01aUZjYmVTUG9TeXZuaV9vYWk0Vy1xZEJZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793297105477",
+          "date": "2026-10-29",
+          "title": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results - The Hollywood Reporter",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTdEMjlaUzd0LXBnUXBhSjM2VXozSHVvcmx0aHRlc1dHSnN5cGk3Ni1qVlpKWHRSZTBiZlFja0EtTlEwYkp2Vi1raDVfNGFINUJCT19iRmtPZ01kNm5zUlZNNTl1ZjlSa0phaGdTWUk3aVdiNFg4djloZldOTFZmU2lDeDRnUXl0b1EwTjcyOTNzV0YyLU9iWEtPaWNhNFNIWS1SZ1BUU2lsWWhVc1g0T0N1SFBzRUtYbkJta2NYbEgxeGRlb3c?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793297105477",
+          "date": "2026-10-29",
+          "title": "England urged to hold nerve as Rugby League World Cup hopes hang by a thread - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSENJZ1FLZjhLclZpT1ByS0ZEV1YtSHZ6TkxlWXA2MnlqQXBQSW1nUWNUMmhVMnFpZTU5SXRaQ3dnSGU5UjZhUlMxMXd2Nms2OWJaeHpuUHVlMjcyWG9KQTgzTEw5ZnRKQ0JQWjhqdDctM0ZUR3hoc0tJUnFrTmxRWDlJNUhvZVVIc2pKS0FoZnE4Y0VtNGVwQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793297105477",
+          "date": "2026-10-29",
+          "title": "Rugby League World Cup 2026: Be patient - England's blueprint for semi-final bid - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZbzVwbE1VeGhwc3lydzRfRUVrMjdHa3NXZFNHTkE2MmNuVzBwM1ExcUZFSE9fUzBKODFpOVdaMExXaWVrOFhlbG11a0tZT3UxMmlqTmV4cTg0a1hGRGx0TGJWVFlrbnMzbF9ZZ09R?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793297105477",
+          "date": "2026-10-29",
+          "title": "Rugby League World Cup 2026, Wheelchair round 1, official team lists, updates - NRL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObjFjaVJrQXJEM3EtbDNVLUYwbTBLWUFkLUhKVWZ2ZGNmQ0tiRHRMSktyTjNXVmhsOThaYjNNMW85ell3R2lIUW54bFc4UnV1RkJzeWJDcTV4X1FGcXBVSndidDJBdnNjTWt6cUo1WVBkSVJtNWJHTUxuWGQ2RHQ0Vkh3?oc=5",
           "draft": true
         }
       ]
