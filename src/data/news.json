@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-29T00:37:10.334Z",
+  "lastUpdated": "2026-10-29T09:26:35.199Z",
   "articles": [
+    {
+      "id": "news-auto-2026-world-cup-locations-games-schedule--2026-10-26",
+      "headline": "2026 World Cup Locations: Games, Schedule for All 16 Cities - FOX Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZlZS00OFdfRWhIdmt6Z21VWnRSTEIwS1otZFFsaklPcElERGsxWExBRTBzUTZaTTNYR0xnbGZibjJQcFBkWDg1dkd3Q19CT01nZlo0RzA0UnpSSDVHdkVTbXNadnp4ZFI2cGUxZXJWMU52TVZQM2JSVlAyUlhEU0hXRHpmTzgxeWJCRlF0b1RYTEpR0gGUAUFVX3lxTE41amRPNUx3XzI",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-26",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZlZS00OFdfRWhIdmt6Z21VWnRSTEIwS1otZFFsaklPcElERGsxWExBRTBzUTZaTTNYR0xnbGZibjJQcFBkWDg1dkd3Q19CT01nZlo0RzA0UnpSSDVHdkVTbXNadnp4ZFI2cGUxZXJWMU52TVZQM2JSVlAyUlhEU0hXRHpmTzgxeWJCRlF0b1RYTEpR0gGUAUFVX3lxTE41amRPNUx3XzIweVgtNmNoSl9EYkZSRG5UNi1zS29fWTVUdWlwYlJNMkRDSFNFZl9tVEktdjdKeWRZLW9HUk0zRWM2UDVSQzdDT1k0SW1McDNOcUtPazhTMkc1eGoxVXJiaW5MNDN6eVF6RDA2UkhJQ040Y0MweHo1eXFKWlhMVmpxYTIta21QNlVkT20?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
+      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-players-and-clubs-to-benefit-from-new-fi-2026-10-28",
       "headline": "Players and clubs to benefit from new FIFA Women’s World Cup funding plan - Friends of Football",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-21",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWtjbFlCbWdOWnQ0RldzNG1xcGcya1JZZE1jLTRyV2FiQUdTVER3US1yZGNfVExlckNONHdzbWJPV1NWekozLUM2VEVTZElqQWFWRmJWeWxVRUNBMjRTdzNSYnJrb0htMGVUbHo3c3AySVlXQlVYdHRkM1JleGxoVG53?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-parking-prices-at-arrowhead-st-2026-04-17",
-      "headline": "World Cup parking prices at Arrowhead Stadium dwarf cost for Royals, Chiefs games - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkN",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-04-17",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkNmZDJDbGxzZ05wekdabDhON0lJckRIWWNRQ0VETkpsdU90U3N5Q0hZM1V6aVVZMGloX01kS0hzdjRIa05Wcm01YkhfdlBQTkQzLVQzZGc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-purina-and-kc2026-introduce-pet-centered-2026-05-12",
-      "headline": "Purina and KC2026 Introduce Pet-Centered Programming to Make Kansas City a Pet-Friendly FIFA World Cup 2026™ Host City - FIFA World Cup 26™ Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg1RXN2NERYdXNxaFZSX0hwYXRyN1dNZWZ0MWlhanl6cmpvWHVvdTlnR294SS1meE56YllDYS02aUhQRWd5YzM0bXpRTHc3bVcxcmh2NVRZeUh5SVZiSHQzOFMtMDY4U2NCVUxOMmZRZkR1b0pLaVdmdjFHVXN0cGZKTVQ3Y1JEcGJYa2tvdERscFQ0T2xCT0hDSmhFdmRjeTZ3Y2p0LTJ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg1RXN2NERYdXNxaFZSX0hwYXRyN1dNZWZ0MWlhanl6cmpvWHVvdTlnR294SS1meE56YllDYS02aUhQRWd5YzM0bXpRTHc3bVcxcmh2NVRZeUh5SVZiSHQzOFMtMDY4U2NCVUxOMmZRZkR1b0pLaVdmdjFHVXN0cGZKTVQ3Y1JEcGJYa2tvdERscFQ0T2xCT0hDSmhFdmRjeTZ3Y2p0LTJoTmpiYmlaM1NnMFFfYXNDdndsNUNMRWt4VEpVVThkTjM5cGt3NmZFcE5RVmkzakZJTmdjY3NV?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-matches-in-kansas-city-st-2026-06-04",
-      "headline": "2026 World Cup Matches in Kansas City: Start Times, Dates, Locations - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlNJZ1FWU25RcTMtdVNESl9yU0FPT3RYX3J5aldac2ZORHI2UV96cXY3RmJudE9ITG1GaVo4YjIyaWx2NVN5YzExVndjdHQtZHhnSzZEcnhtbjhGTXVfMWwwcFFnR1Z2RnE3ekh6SU5mWF9WQTJfakFOaHFFcXNVSE1PT3p5aWlOTXBQU2ZSMVp3UTUzYmpndllNZGpIaVpIanlGS3ln0gG",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-04",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZlNJZ1FWU25RcTMtdVNESl9yU0FPT3RYX3J5aldac2ZORHI2UV96cXY3RmJudE9ITG1GaVo4YjIyaWx2NVN5YzExVndjdHQtZHhnSzZEcnhtbjhGTXVfMWwwcFFnR1Z2RnE3ekh6SU5mWF9WQTJfakFOaHFFcXNVSE1PT3p5aWlOTXBQU2ZSMVp3UTUzYmpndllNZGpIaVpIanlGS3ln0gGmAUFVX3lxTE1zRWRNTmVLalV4RlJVc3NvRkpsSThmOE1pc09FTUU1WjZSNGRlN0VvVUFRaWQyNHF1SlI4TjJlTjJWR2d1V2dNTjNxWVZxd3dhdnozSkFQS1VVZEwtMlRWVkdBWm1oLTNfSDVpMW0wUmlGcHhkbkJOTFpxRGE2YkJiSGUxamhMeWp6SUxwZjk5a281cXFhOFdVSkttdEFWblV6bDNNYWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-how-kansas-city-became-a-surprise-center-2026-05-19",
-      "headline": "How Kansas City became a surprise center of the World Cup - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDMtWmg3YjBndm5ZNG9iRk1qUDU3OURXV0lRRl8tZU82Zi1TQm9Qam03dmNYVW9XSm9xRm9jVlMxYVhxdXJGNGNKZ0taUTJKU01wMUxIaWpQVVYtNFdQb1NaZWhXSmE0NkRnN2xzdnJBYThTcU5mcl90MUtRNkhwUlU3Z3BXYUh5cHBuMlhpNlc5Y2FmSVl3emkyanBNbWtw?oc=5\" targ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-05-19",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDMtWmg3YjBndm5ZNG9iRk1qUDU3OURXV0lRRl8tZU82Zi1TQm9Qam03dmNYVW9XSm9xRm9jVlMxYVhxdXJGNGNKZ0taUTJKU01wMUxIaWpQVVYtNFdQb1NaZWhXSmE0NkRnN2xzdnJBYThTcU5mcl90MUtRNkhwUlU3Z3BXYUh5cHBuMlhpNlc5Y2FmSVl3emkyanBNbWtw?oc=5",
       "featured": false,
       "draft": true
     }
