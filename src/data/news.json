@@ -1,7 +1,73 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-30T17:45:18.128Z",
+  "lastUpdated": "2026-10-30T21:57:52.490Z",
   "articles": [
+    {
+      "id": "news-auto-tournament-notes-u-s-under-17-wnt-takes--2026-10-29",
+      "headline": "Tournament Notes: U.S. Under-17 WNT Takes on Spain in Round of 16 at 2026 FIFA U-17 Women's World Cup - U.S. Soccer",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RzN1diTWpUZzhhMkdKVUlybjJPclpjQTA2OV9BTVpiVDZhOWJ6MWJUVHNqdmNSekNhZThVYlRKZG53N1l3d0IxaFQzc3poMG5VNU5FbGd5Y09jT3p2TGRQbmFoYjI3cXpJNmllS2ZfTUpDeXNZSERWSzU0aWZUMHV0MlFIZjhwbXhEUzg3STZJeWtsVVUycXBsMHV5VzVrLXhfM1lFRm9",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-29",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RzN1diTWpUZzhhMkdKVUlybjJPclpjQTA2OV9BTVpiVDZhOWJ6MWJUVHNqdmNSekNhZThVYlRKZG53N1l3d0IxaFQzc3poMG5VNU5FbGd5Y09jT3p2TGRQbmFoYjI3cXpJNmllS2ZfTUpDeXNZSERWSzU0aWZUMHV0MlFIZjhwbXhEUzg3STZJeWtsVVUycXBsMHV5VzVrLXhfM1lFRm9Zcm41YjZOMTZxOXY3TGVzcXI1OUtyQTdLQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-brazil-women-s-squad-for-final-2026-fifa-2026-10-30",
+      "headline": "Brazil women's squad for final 2026 FIFA window to be named on 10 November - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGFxV25YNzVRRlRWRFQ2clRiYU0xeDBQdURpZVY3T0FpLVllN0ZpY09YWFE0MkpGbVJHZVZtd2NGUm1SY0pJSzZveTdRZ2JXOFNrSzFjR0ZfNHpBYldLYmdIT1k5OWhncktyQktFN2V6dm1ZSy1rbm9LS2o3ckRKQUZRRUNSdw?oc=5\" target=\"_blank\"&gt;Brazil women's squa",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-30",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGFxV25YNzVRRlRWRFQ2clRiYU0xeDBQdURpZVY3T0FpLVllN0ZpY09YWFE0MkpGbVJHZVZtd2NGUm1SY0pJSzZveTdRZ2JXOFNrSzFjR0ZfNHpBYldLYmdIT1k5OWhncktyQktFN2V6dm1ZSy1rbm9LS2o3ckRKQUZRRUNSdw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-2026-fifa-s-record-5bn-ticket--2026-10-29",
+      "headline": "World Cup 2026: FIFA’s record $5bn ticket windfall - Insider Sport",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkFxS3Ftc3lLVG16Xy1vdDFoY1N6SkpCU3Q2STdQTElZRXpvSk9mZFBvUDg0eGFnM1FPQ0xmNXJBX2tQcnZkRWp3dlM0clZjWXRJWDZGNHU2WklBVDVPSHpBazNxdlU3WF9PMlRqbk9wek5taVktRVBkSFU3dDRiWQ?oc=5\" target=\"_blank\"&gt;World Cup 2026: FIFA’s reco",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-29",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkFxS3Ftc3lLVG16Xy1vdDFoY1N6SkpCU3Q2STdQTElZRXpvSk9mZFBvUDg0eGFnM1FPQ0xmNXJBX2tQcnZkRWp3dlM0clZjWXRJWDZGNHU2WklBVDVPSHpBazNxdlU3WF9PMlRqbk9wek5taVktRVBkSFU3dDRiWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-s-final-fifa-world-cup-match-you-2026-07-06",
+      "headline": "Seattle’s final FIFA World Cup Match: Your ultimate guide - KIRO 7 News Seattle",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnR",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-06",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm5zOWo1WmJpYmFRU29na1JKTmFGbm9BcWpYZUZ6cnpqQzdMdTZaVTZndHNlOGVNa3VVNVpTcXo4QlBVaG1FRjRaRS0wWFVhRW0zUFRWT2EzRm01N2JqLXdnYkpUMjFabFNjeHRYZ3BCdHpOaEhnN005VVVTU2xMdmd6aV9RYnpyMHFnaTBVRGEyYTBmTng5czRucjdMcHJWWVdIQzBGZnRlcmQwamFZWjJVQWtfQTDSAcsBQVVfeXFMTXA1TVpZMTJscE5ZenpzQXkzeGNLaGhpVHAtYTRrcktZZHVWNHkybDBlenZidHRQYWRXYm15dC1hZmQtVUg5SjhMWjR2ODZiN1pUV0tjSkY4emhNby1KMF9VQ1pLU1ZWc2VkSGkxajdJa2dWVWg0S1hSTE53RUx5OWhxQXFoX1lmenZrdFhwbUktbnhhc0pfUllkSDRCd0Vid1ZRV3ZjbGxBU3o5eS1oVjFmdUpfS21paHc2azJNb2FHX3dKVTVJMlY2U1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-jmu-students-take-center-stage-at-2026-f-2026-10-30",
       "headline": "JMU students take center stage at 2026 FIFA Men’s World Cup - James Madison University",
@@ -1033,72 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-15",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTh1TWdjQ1FKSlpDV3NqVnJkV0prR2pVejQ3YnEyVTUyQXlaaVhlZENsYkUtdU5Qei1jaU9NRDZRcHVzb0hULWdiM1FMOEhnQ2hrTFVvVGt5OFhlUmxyWFdLeVEyVDNqT1JRQmZRaHFoRHo1elZkWVgxVk1PN1Ytc3d2a012UzNSSVc3WEtjTlBFNkg5Z0huMW42MWpMb1BIbGdJTXBkRHBfMGs3WnVzZjVQbTVBZ2V0WEJHN1VRbDFyN0FTb2dB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-ukraine-poland-explore-joint-fifa-world--2026-09-04",
-      "headline": "Ukraine, Poland explore joint FIFA World Cup bid - POLITICO.eu",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlAyelk5QTVSZV96M0VmLWlqYUJBNF91LVJlVW50d2JpdHExLWU4M1pMdnVHRWk1cno2WFdudWEtdmhDWG1abk1acFhWbVp4dG5JQjlMekM0M0Q5blhaR3UxcU5kVml0V3gxLWg5S20xMkI5N1FhRHZhbEhjcVhCX2pzUGM5Vkk?oc=5\" target=\"_blank\"&gt;Ukraine, Poland ex",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-04",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlAyelk5QTVSZV96M0VmLWlqYUJBNF91LVJlVW50d2JpdHExLWU4M1pMdnVHRWk1cno2WFdudWEtdmhDWG1abk1acFhWbVp4dG5JQjlMekM0M0Q5blhaR3UxcU5kVml0V3gxLWg5S20xMkI5N1FhRHZhbEhjcVhCX2pzUGM5Vkk?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-rebukes-morocco-s-claim-it-will-hos-2026-09-11",
-      "headline": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEH",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-11",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-cape-girardeau-police-recognized-for-sec-2026-10-26",
-      "headline": "Cape Girardeau police recognized for security efforts during 2026 FIFA World Cup - KBSI Fox 23 Cape Girardeau News | Paducah News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWxIMm9DWEhHM2xWVHFGTnU4ZWVTdEtKdDRtQWEyaGZPUUNTN0xQbjRLUDA1Z3FLUlI2Sm9rZHhVc25nVDFPcjNlV24wTUxSVDY3YzZvTmV3YTRHY3FiQWpBdzhKLVVHUWktbEJZRHpGSENxamc0TkxCQ3hLRHhfWVBCNHpja2xnNjlxMjQ0MjIxWDhwWkhjRzVLN1RWeXBzZ2kzdl9temV",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-26",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWxIMm9DWEhHM2xWVHFGTnU4ZWVTdEtKdDRtQWEyaGZPUUNTN0xQbjRLUDA1Z3FLUlI2Sm9rZHhVc25nVDFPcjNlV24wTUxSVDY3YzZvTmV3YTRHY3FiQWpBdzhKLVVHUWktbEJZRHpGSENxamc0TkxCQ3hLRHhfWVBCNHpja2xnNjlxMjQ0MjIxWDhwWkhjRzVLN1RWeXBzZ2kzdl9temVNYzRpOEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-croatia-wins-men-s-group-title-at-2026-i-2026-10-26",
-      "headline": "Croatia wins men's group title at 2026 ISF Football World Cup in Suzhou - Global Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PeGhHYklLaXdIaEZhdjlQVmhSMjRpV0x1TWtxcmpJZzIyTl94TFo4cHpmeVRoRk5OZVhITmphQWdXQlJNVUpRYzB0eFJPcFZDUDdsUlh5T1ZYU3pHaVV2aWRn?oc=5\" target=\"_blank\"&gt;Croatia wins men's group title at 2026 ISF Football World Cup in Suzh",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-26",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PeGhHYklLaXdIaEZhdjlQVmhSMjRpV0x1TWtxcmpJZzIyTl94TFo4cHpmeVRoRk5OZVhITmphQWdXQlJNVUpRYzB0eFJPcFZDUDdsUlh5T1ZYU3pHaVV2aWRn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-mcdonald-s-pulls-fifa-sponsorship-after--2026-10-26",
-      "headline": "McDonald’s pulls FIFA sponsorship after 2026 World Cup fails deliver on expectations - Inside World Football",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDFrcWJvXzdDa0JvWWpmR0t0RXVsX01rdkZ2c3I5UFRjVW93XzZHOVZkLVM1S01VQmRUU2ZkZ1pXWFZZaTZYT0wzOXNZUFE1cVpnTXRjUkw1WDVJTmp0VDhZMFNPRFBPN18yeDUtOVBOTXUxZ2U3b1FKbER1NjFWcU1QZmJoSlZWOWNtczExR1ZOTWxPVmtXXzRrbDZXaEZId2l5amdnWmJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-26",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDFrcWJvXzdDa0JvWWpmR0t0RXVsX01rdkZ2c3I5UFRjVW93XzZHOVZkLVM1S01VQmRUU2ZkZ1pXWFZZaTZYT0wzOXNZUFE1cVpnTXRjUkw1WDVJTmp0VDhZMFNPRFBPN18yeDUtOVBOTXUxZ2U3b1FKbER1NjFWcU1QZmJoSlZWOWNtczExR1ZOTWxPVmtXXzRrbDZXaEZId2l5amdnWmJIVkZGRVA5VlppcmphRXQ2YlNOVlFYcFJ4UHQwRlFDSFNrRQ?oc=5",
       "featured": false,
       "draft": true
     }
