@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-30T00:37:44.501Z",
+  "lastUpdated": "2026-10-30T09:39:30.553Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4580,7 +4580,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 467,
+      "chapterCount": 468,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8316,6 +8316,14 @@
           "title": "Real Madrid says Mbappé was wrong over Mao Zedong as China fallout continues - RFI",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2xIUEd1S3h6WUVQQ0pFanRna3ZFb1N4eGFmb2NObWhqaFQwWGNUdVZOQzFJYXR5WXRZNVZWV3BhekhmWC1aMWVsdVZwazFLbi1BY2t5Z20tM2szbElVVHZ4d3VLNUU3ZjltdDlkeHVZVG40dEw4VjJSQXhUc1llb0VDYjgydmdfN2pMVTE5WEdfUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793353169017",
+          "date": "2026-10-29",
+          "title": "Mbappe should be allowed to move on after apology, says French federation chief - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkItMXV2V0M0QXFZS3JWalRHS2JWTDBVWGhnWFlFdTdhelZENE9PVFBPN3QzVUpfZkxZUXNnSlVGYWF2UnViZTVDQkhXdFEyeUNwOFBKaU5leHNlTm9XNXdSVm9vZHl3a2tEX2Q3ZEZIQUZZUmlUNTUwbVRkbldwcGxGY0JvMkVoODlnZldCcEU5dHVlSFFVMGdiYVp2OHhIa1NrbHJBTDhReU9ZQm1FSWtqdUk4LTZaMmhpckxXUQ?oc=5",
           "draft": true
         }
       ]
@@ -17898,7 +17906,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 787,
+      "chapterCount": 791,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24195,6 +24203,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCNkI3Mjd1Q2NZODJpYUlmWkliMjI0TkVqOXBxNXNORmphdU9OMlNfRzR1a0c1RUdIcmRGMWh1OGZIM2ZnXy1XN21QR29KOGVRMnVocWFlZExuRk4tZUhpdTZuNHRaX3cyTG5LVWdKTng1WEZfZHNkTlBTTnLSAYIBQVVfeXFMTXZJdEZzQnRqakZyS2VZNmwxWHVQa01KQ00tOTJRajhqNWxDbU11Q2w4eE9MYmtsR0h1LVF1eklXMGpqMDI5OTY4OVBNeXZYTlhINnFEMFlLX3Y4U09qNTNmYW1kT2FsdDNzRFFRaDNaSlc1Q3Q0SzZSWm5ldGxzSnNDUQ?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793353169938",
+          "date": "2026-10-29",
+          "title": "Brazil out on penalties, FIFA U15 World Cup and Festival quarter-finals - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlR4RVpVbVhOOG5xZ2xtSWZkakVnM1JibFIyNnhyM1J1V29palN6LXlFNnZfblpPRU1ZU2g0OVpaSm1zMi01emFhWG5KWUxhejJod0JJM0lOX2JFYmM5ZC1mNTVHd2VuV1pDZVZsdlY3TFhzWjAzTGdoQ196RVZoek1fZXh0dmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793353169938",
+          "date": "2026-10-29",
+          "title": "Carlo Ancelotti continues Brazil 'renewal' with squad for Japan, Singapore friendlies - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHQ3UVhGM25tVHkwSzE1bHNMeERqX1dVRHhjb2tBaTc3V1JXaXVWVWZhR1h5elF4U3F2ckRmTFA4NngzbFRQY091NTc4TW13VkF0a3doZjdGNXBlNE9kV3hlRHRRX2pDV2xvNjFJM0xwRWFDem1YYUxubldTUjd3OTdMRmZYMVpndTJ5dDFtbVRpX1Y2c2ViV1dYM3lmNnRadGJN?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793353169938",
+          "date": "2026-10-30",
+          "title": "Carlo Ancelotti's Brazil Revolution: 15 Young Talents Usher in a New Era - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTnJCdkdpaUFKVl96cHFNZTFWZXpoTEJST0dZRENHTWd4aVB3eTA0Wk9MMUdMY1JYcU5rTHBkSnBZdmpBc19SbjhCWmduUUhTQUx3NmlVaXRqel9CTmVOSXNIZWpaazBFb0RSUkhkcllTZmxlX2VOMmVXYlhZSjJHYldjaXFZV0d4dzltRHpBNEtnQzd1RjFSaDFsMUZUSlN6bDk0SVF3Z19ja2hSWE5IbFo4YURjYkR4YkMwSVczeF9yWTRFVkx2TWJ5ZmlfSnd2QXViMC1uNnJWUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793353169938",
+          "date": "2026-10-30",
+          "title": "Ancelotti responds to Laporta over Raphinha call-up - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmpscmNrRGVTTmxhYnpDTml5RW5nRm9kaGo2Qmh5UkpoN3YweGs2ekVybF9oSm1fNm81M3UzZElaOWtGMjVLektlb3hoR0Fnam9zRmhrOWFjSW1wLU9Yd05FZ0dlMzlTQ0pubTlHd3VtM0Q2VUlXRGkxS1k3UFlxOW9wTGR4eUU4SG13YW5yRmFWbVhjQ3hkSnVITEpqelktMXNB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24424,7 +24464,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1074,
+      "chapterCount": 1076,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33016,6 +33056,22 @@
           "title": "Rugby League World Cup 2026, Wheelchair round 1, official team lists, updates - NRL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObjFjaVJrQXJEM3EtbDNVLUYwbTBLWUFkLUhKVWZ2ZGNmQ0tiRHRMSktyTjNXVmhsOThaYjNNMW85ell3R2lIUW54bFc4UnV1RkJzeWJDcTV4X1FGcXBVSndidDJBdnNjTWt6cUo1WVBkSVJtNWJHTUxuWGQ2RHQ0Vkh3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793353170553",
+          "date": "2026-10-30",
+          "title": "England vs Samoa LIVE: Rugby League World Cup 2026 - build-up, team news, score, text updates & match stats - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMFB0bnRFdzUyZjBLeUpJZ01nMHdsaXZRUXJILVVSMkFfTlM0Q1FFT2l4aTRIR2F1bldRbUpYQUVpbWhuZ0wxZmRFNXNLUlhZSE9XcFBKQ3BXcjJPM21FYm5IemM4a0o2?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793353170553",
+          "date": "2026-10-30",
+          "title": "LIVE: Pressure on England as huge PNG win needed to keep World Cup hopes alive - Fox Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinANBVV95cUxNVzdkTmYwczZmU3VZa2szdnVTWDJrZ3FKUERCQ2d5Vm5kRHUybk91U2VFbDlIUi1FdUdwSDc5QzBnM29OZEMzNjdRcWFDdFhjTWItclFiSWNNUWxDSkt5TkpCbmF3cGdGMzlXWGlodTU2WnlSUThJRkp3QTJLQVlYeGFkV0JqbGFCdFVIOERTM3NrM2lxdGFNVmNVdXQ5U3E1WFFEajlwVG1GN2MxdnkzV05pY1BPeVB5X1hZa29YVFg1MC1sMDRVVm0wN3R4NUNkemdkRHdWdjJMRUQydlBhR1BmeG1iYWdUd0FTTjdsWVZDdnU2RElDclYwTUluUVRKYmtXSzh0b0x0RTlQN09LZDdPd3dUU2xGdGFieDYzUzdHdlBHc3JoeFBEbmtNUTlzckluVlpYX19NSk9aTGVnMzBITU1HM1pCT09kME9uREV4RE00MTIxRlZFNlFqeW1rZkY4Q2dUOV95dHVJN2tCTEN0ekFvZlVyQnNHTUVnTmZVSkNwYXB2dVozNWNTTUJ5bkM2YTdsYmRLT1pE?oc=5",
           "draft": true
         }
       ]
