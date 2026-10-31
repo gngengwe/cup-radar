@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-31T04:20:59.646Z",
+  "lastUpdated": "2026-10-31T11:45:41.113Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 569,
+      "chapterCount": 571,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4570,6 +4570,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEhwdk1QTkZ3aTJUUDhXNENlZjFzNEJOWVZ6RjFMVURobTRETTRzdFltZUs0R3pDZmIxSE51WUZUbDJyaUV0cnZESVBQU3NNenVmU0o4SjRNeE1iWUhDdHBsbjB1dGNlSHZRZjRIcDVNWVpfRW1kaUJTTU5pamNNM3RHYUhRSnVGR0ZkaWVnbUFmWnd0ZUdkeWs4dm1GU2JyTTA3dGxBNNIBrAFBVV95cUxOenVXdGdoUk91cjlUVmJuU0VLTklwN21lcTRjclZHVm95WUw5OHR1MUExMXpyZE9uMWR3Y0QzR0VrLUtmTGFwRnBXWjFGYlVWeEZyd05Ud0FDT1Y0YkFmM3VZSldOTUJ1ampQX0xVd01RN0Y3SUFxdG1vZmxvT2M0MFhjMy03UUdPSE1FVUQ0cWZZS3NqcFFZOGhReEEwSzFkdEhHTHZsbnNYNmxO?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793447139008",
+          "date": "2026-10-31",
+          "title": "UAE Voted for Lionel Messi as 2026 Ballon d’Or Winner - Gulf News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlRMMkI5eEUxOTdLcHNqdThqWmxsVklNNjYzN1plaS1rMDZmSFZYVUIwWW1MUENNSkJFWkNxMWJFVFFWX1hiTFJnZ1NJTDVvc29ycERGRm5xdHVTUEVKOC02UnRWT2xXMVpHLVRwNDBLemdSNTZOR2poeHBZaGlMRjd5NzRMeEl1OHBpTndnV2lxWWN2TkHSAaYBQVVfeXFMTk1XNWNLcWNVZlZtOXNxdHRmb2N1UDFHTTFrSG02TGtYRkR6TjlhZHJKcVFkYU1LbnRzWU12SUxOQ09Xc0sxWnlBQWx5bXJxWGhmZnRYX0tiS1E2ODlRdkRrZ3ZoVld2UzFERk9KMkg5N1lUNmF2MS1Xb1l3ZTNwOWxPaDk3ODhrejFURzM3eWlwSWZhRktob1BTOVlJVmYta0dranRRUQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793447139008",
+          "date": "2026-10-31",
+          "title": "Argentina to wrap up 2026 with home friendlies against Uruguay, Costa Rica - MorungExpress",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVBILTdmZXRucDczVW5BZm5kSExJMmg2TkduNUhMV0swZmtlSGozNWtFS2MtMDM2a1U3Z2tTNm04RTBEd0xTTVJ6TlVHaGh1dk5vN1VFdmlUdGlpWHRpNE5sMDZJMVQyWHBSSkREYU5YaW5yVzRlOElaWmVQVmJpeU9IUUVIaHFKWlhxZnQxZDFVUjJJaFlPdFNPeUMyWHBD?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4588,7 +4604,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 471,
+      "chapterCount": 473,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8357,6 +8373,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmtIVzNBSWpHbGkwaVVNSmhVMU5wSHdIdzI2VFMyenU4NDdyUzJXM0ExaHcxbzhab0pmS2w3MEFqS2NKOTNiY2xxa0t2VHZ5a1NONExGSEVfZjVaa3g5Y1lqalBhTVJDd0hOaTZkU2JBOEtiV2NJVzczOWRBTHJoemxvazlFX0ZIX0QzZFVmZjJyMWtRYklPSjRucjV5VkNBNTJNdzFoaGhYazZ6dnZlQUJUYVZIRFF4TXhBTUd5ejJWOGVPczNpVVl3RmNoM29B?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793447139520",
+          "date": "2026-10-30",
+          "title": "Full 2026 Ballon d'Or Voting Results Revealed After Harry Kane's Historic Win Over Mbappe, Yamal - Bleacher Report",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVkhnYlJFRHRudHE3SERxY254bEEtOHJXNmh2djFwOGZPb3A1UVVFbzNLVk9EVENTVUl0NlRjUE42WGE5UWJBLWZkRUxQTTM1S0xDQkgxdm0wR1lRSVJadUZ0Z2hpNnJ4RDNtd01XdEN2SlJPWmFsekRYMjY2SURFanRDaXprazl3bXkwZW9ZR0NZZ1N1Mm1hWkRQS2NDaDVtTUo4NVFPbzZrVFlIaGxCcFZOdEstQ0NDV0dqbHBoWWNiVWVZQlRNZmlLU1ZXd0ZlWjJqNw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793447139520",
+          "date": "2026-10-30",
+          "title": "Who voted for whom in the 2026 men’s Ballon d’Or? These are the chief takeaways - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSi1QUVRIU0VRb19pSlhDU1hxLUFQVHVrMXV4QVU1Vi1TTmNtZGl0U2dvaGtrWHV1dmdLdkVZbDJjQWNSZUJwQlBFWXp6S2ZOY3BRVzN3NFdGanYxSGh2eDF6UV8wR0dERzdZNkxsTUwyb1ZTTmVJN3BuMGhRdnI4dkFYUTE3eXNtdzVLb0ltb2h6cVJCRlBBLUsyMVJQcXlBMjVPWlN2M2VzN3lnTHhhOFpR0gHGAUFVX3lxTFBfcDU0QXY0dlBHVmhfOGVMaGlGX0ctY2xIX1J0dVRfYnBmTWtFV3JQVFNxSzhXREJ5S05hWlJOYnVRaDM4Ymx1dmNVR2VaWjRkYjZuRWJuN3FFNnI2ajZfc2RBMDhqOGVkdUxJbmxjQnUtUy05UEF4RVNUSWlZa1IwSnhFOFlYakxuSGhmM3k5NWp4dlZLalctaTFrS2N0RU5zZTJpcXhfWjRwLXM4RVRaX25sZ21VdVY0dTVYLXZLdEd5TEpzQQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8375,7 +8407,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1199,
+      "chapterCount": 1201,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -17968,6 +18000,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zRWc5SWdhSy04UzVueDRwUERIdlNiZzQzV0IwX21ORFBaQUplLWNPMXlzV3NQYVYwV25DbWVaWHl0OXhUYUdhb0U3MG9WVkVldERsbXFWWUpXX2lpa2NPdjA2bERVSUhhOHFYdS1tMVFCY2lDX2tCODNB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793447139914",
+          "date": "2026-10-30",
+          "title": "USMNT star Christian Pulisic signs new AC Milan contract through 2031 - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTE1iMzk1VXNjVkpTSEIwZWR2TUs0aFE5YXhjZVV4NGEzQkJ2R0NjSzFSMXVNelgtQ29qVU5CeWZKUENWbVBzMExJbHZwb1VxMlZNclZxNEFJd1V0X19faFNONWNJc3ZnSmozVUpfeGNWTUNPN3AtQ09yWkhGOFYzWHVpc3RkUjl1bzNmdGI1TmZuTkFfSzFJNkpvell5U0Y4c0c3bFZtRQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793447139914",
+          "date": "2026-10-30",
+          "title": "Team USA women's hockey blanks Canada in warmup for World Cup: Highlights - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnlRQmpMWXY0MnlNVmN2OWZ6VTRpbmtzLWk3N0F0dTZ3T2tmSEt4azNETkVBMEJ0bUIyWGlfNk9NSUVDRUtWUU1SUGFwYnpkSHBaOFltTzFfeV9kMjZBbk1xekZPUS1tU3gyNXdCRzFkaXlheXhwZXZBNDdVclJteDBB?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24560,7 +24608,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1082,
+      "chapterCount": 1083,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33216,6 +33264,14 @@
           "title": "Rugby League World Cup 2026: Set up to fail? Where England's World Cup campaign went wrong - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQWDZFbXlqcFVuNFM1TUstbXZWSTBPbUV3bklfUDBTLXdZak5PS2phTzRzbHV0dFJ6eVc2cTFKRmFJbkQ1dVFfU0dQMFVZNWE2bXMyWHR2S20yb3hELVZCVEwxbkdxanFNSF9GU0x3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793447141113",
+          "date": "2026-10-30",
+          "title": "Sloppy win leaves England needing a miracle - NRL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXlFVElnUjdSWWtIbkpCd2ZGRWFtZDMxVWhMOVlmaEMtZ1ozbnc2N1VUVnMwczYyRHk5TEZULXVuYm9xbE9NZWJ2d01qTThTbmZ4amhYSjlxYVByd1FPRlZIY1lqWmZtSndjWTZkWkZQQzRCT09mMXVBNFFjQjY1MzZ2YVAzZVk?oc=5",
           "draft": true
         }
       ]
