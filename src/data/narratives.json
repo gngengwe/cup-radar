@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-30T21:57:55.344Z",
+  "lastUpdated": "2026-10-31T04:20:59.646Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4588,7 +4588,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 470,
+      "chapterCount": 471,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8348,6 +8348,14 @@
           "title": "2026 Ballon d'Or results: Kane beat Mbappé by one of smallest margins in history - ESPN",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZTdRU3VoSUNidDgxVDQxMlNvU085d1NtWWg3c3NjT3hsWldNUFZiVzNpcVIzTGJjNXBrWmNmSGRob245NDJWRW5FVHhBNzZFOFFhU2xuSG1qamY4S2p1bUpud0xfZ3YtVG5RXzFVazMtaEVQckpVTkN4UWNTaS16amRadHZIT01hZzhQZlJjaVBiN21Yb0otdnA2SGFpR1FfMkZWUU5lVQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793420457985",
+          "date": "2026-10-30",
+          "title": "Despite the racism and the mudslinging: Mbappe earns an unexpected vote in the Ballon d'Or race - Goal.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMmtIVzNBSWpHbGkwaVVNSmhVMU5wSHdIdzI2VFMyenU4NDdyUzJXM0ExaHcxbzhab0pmS2w3MEFqS2NKOTNiY2xxa0t2VHZ5a1NONExGSEVfZjVaa3g5Y1lqalBhTVJDd0hOaTZkU2JBOEtiV2NJVzczOWRBTHJoemxvazlFX0ZIX0QzZFVmZjJyMWtRYklPSjRucjV5VkNBNTJNdzFoaGhYazZ6dnZlQUJUYVZIRFF4TXhBTUd5ejJWOGVPczNpVVl3RmNoM29B?oc=5",
           "draft": true
         }
       ]
@@ -24552,7 +24560,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1081,
+      "chapterCount": 1082,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33200,6 +33208,14 @@
           "title": "England vs Papua New Guinea FREE streams: Watch Rugby League World Cup 2026 - TechRadar",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2hQM2k2UHJFN3htQjRKY1JRdFFwYVVINGFIZDAySE96TUR3SWdabXQwZkZCeWd6MFNIUFk5UGhtY0xvYVJkZlpuNm5DcXpNME1QUTgyaXIwR3NBOUFSN3hQdUNEYUtXNjVLZW9HeHM1ZUhrekwxRFBMbkVyZlBaUDJMcEVNbEVkNG1QQlNMLUJkZmVPbmo5YlJBUFhyeDRwSmpxZ1g5V09VMWNKMXRRX3Vn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793420459646",
+          "date": "2026-10-30",
+          "title": "Rugby League World Cup 2026: Set up to fail? Where England's World Cup campaign went wrong - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQWDZFbXlqcFVuNFM1TUstbXZWSTBPbUV3bklfUDBTLXdZak5PS2phTzRzbHV0dFJ6eVc2cTFKRmFJbkQ1dVFfU0dQMFVZNWE2bXMyWHR2S20yb3hELVZCVEwxbkdxanFNSF9GU0x3?oc=5",
           "draft": true
         }
       ]
