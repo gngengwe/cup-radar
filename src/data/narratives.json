@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-10-31T11:45:41.113Z",
+  "lastUpdated": "2026-10-31T16:53:21.440Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -8407,7 +8407,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1201,
+      "chapterCount": 1203,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18016,6 +18016,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnlRQmpMWXY0MnlNVmN2OWZ6VTRpbmtzLWk3N0F0dTZ3T2tmSEt4azNETkVBMEJ0bUIyWGlfNk9NSUVDRUtWUU1SUGFwYnpkSHBaOFltTzFfeV9kMjZBbk1xekZPUS1tU3gyNXdCRzFkaXlheXhwZXZBNDdVclJteDBB?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793465600092",
+          "date": "2026-10-31",
+          "title": "Team USA announces roster for 2026 Women’s World Championship - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3FRVlJpNFZacFZ3cHJ3OG0xdnozc3N5M09Ka2JxdVc1LXNkR0RGNXExTGJrSXVEbU9odUJEZzJUUFlJdUstMGliN05Zb1l3d1FaUm9CT0p0eWtlcGF1aHpweTlCYXBNTS13UEhfY1c2M0lqTVdialQ3ZUpZNktZdUxHRXp0TmpMX0l2RTA1SWxjcm9KV1QzcDBnOEw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793465600092",
+          "date": "2026-10-31",
+          "title": "How much money did FIFA make from 2026 World Cup tickets? - Diario AS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVU3Z3FPLVB5R2FGZVZXOURrSW1kU1lXeUhPcTRFaFZGbWRLS2JucDlkYzFJUmQ0OU5rXzlEdkhKUjd3MWZMMGxiUElsOXNnN3R2WU9CUzNVWEpFMmpyVE91Tmh1QkJNcUFySEF0Xy01YTVBM3lxWjhnVFpGU2xMZGxSeFJDRktoN2RGYjlubmRrZGlrWGp30gGrAUFVX3lxTE5xdDhLRXlNYWhLUVZpQk9TeW5FZl92dkE2QzVvM1N5ckFLSWU5MzNrZE1RZFBlNmJURkNmT1J6RjM3VGV5aTBfUnJfc1B6Q3dkRFpsckJkSndjZzVTeV91Tmk2UjNXQkh1M3ctWjBGelVOMFJmQ2prZUdIWUdjbHFYVTJtdnZWOUdtVWNMQUplYTVjQ3J5ME1oS18wb3R0aVZ1el9DUjBXLUdUMA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18034,7 +18050,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 793,
+      "chapterCount": 794,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24378,6 +24394,14 @@
           "title": "What Brazil’s recent election results mean for the 2027 Women’s World Cup - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVU5fY0drN0hqZmhNOWwyeno1Y255cEw0cTkxNm9jdmxoMU50WVYwR2xTUUI4NjQyZWhrcnk1V29tRTRNQ29uQ292ZXc5RHN6aVU5R0hwblliRUxmek9OY1ZoUy05aXdPQ2tIdXNjU2oyLWtadENyOXEwMHBRWXc1b1VTZS1pNTVyb204U1JxSkdGamJZ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793465600683",
+          "date": "2026-10-29",
+          "title": "Ancelotti Surprises With His Final Brazil Squad of 2026 - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalJsMEc3eHhwOVE2Mm1HX0ZJbUZZS1lUdnVhd3RnRFl6SEQ2dGZhcGdRRzUtQmpCcXZia21uZV8zSV8zTEJUR3F6X2p4VVNydThQZ0drc2JYUm5Zc0hrMGU4ZlljTjM5OTlPZUlWZFBaVGs1Tnd6dlY5MVZ0Yks1dXZMRks2ZGdTSGEySUpNY09UTXVuaTZnSTRuWmxicWZOdEhjM0xpUjMtc2NrS1ZjZXV3ekhfQjRGY3RWQTFGRGFXbTU1?oc=5",
           "draft": true
         }
       ]
