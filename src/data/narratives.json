@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-01T12:45:13.412Z",
+  "lastUpdated": "2026-11-01T19:22:49.435Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -8455,7 +8455,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1206,
+      "chapterCount": 1207,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18104,6 +18104,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktXSGVneWZURnJIQkZpX0lEbVpDUU81dmNaS3ZNa0EweWlqc3AtUVNqY25yenRxc2tZdE5hWVNZZHRDQ3RnTVhPZ0VxWXR4b3JMS19pcUpGeF95U1RKXzRpc0pHNURaOHVUZ1pXc1N3enpmVnBOOURJWkdfc0l3cXNaZGNJamhGajBvSFRxUnZjLXhZazdHRkc4alJwSGRsNHhvcENVYWLSAbwBQVVfeXFMTlRUT0d4TUNBZm1lYi1hTkEzMDRhZERJeGk3Sjhpb1NHTzZhNVE5YUVsNWhkMlo3ZnZMbk5ZZWNIbHBiUVNKUVBZLWtId205R1ZHSzVreVpNdkZ0akRyTUZFUndtc3gyQ0JWRVJkMk1IdWhrU0tLLUhsel9WVjEweWVQa1VYbVZTSkJXNDVDVzh3NHdfT0VIVlEzR2hfV1AwODdxeUpqUTlqWjJlUXM0UUsyV0duTW9XaVpFODI?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793560968441",
+          "date": "2026-11-01",
+          "title": "U.S. U-17 Women's National Team Falls to Two-Time Defending Champion Korea DPR, 3-0, in Quarterfinal of 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXJGLTV4UXoxaXdra1dRRlJ5dV9yX1F3eFZrNDFYVTRIUm5Mc1hpLVdPTGs3ZFF3Ym1aYzhwcUYtM3JlQ0lUOUZCTlVxNF9WTktHckI4RS1lNFVEY0d2cTE0eFk2MmVXcFpiVEZ5ZTVJRm5MZnZJbTFBc21hWXIzOWlNREdqVnh3ejMzeTV0dW96U0luVHp6NmFFWmppNUNXeVVBNTJ5WmNwSkFSQTNoZmpUbUQ1QXRfNDFuN2o1TjNRaW5ILUlDYVdYYzVabEhvaEhKaksxNV96Z1hrejltTFdjaEtPUEk3cDh3?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18122,7 +18130,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 794,
+      "chapterCount": 796,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24474,6 +24482,22 @@
           "title": "Ancelotti Surprises With His Final Brazil Squad of 2026 - beIN SPORTS",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalJsMEc3eHhwOVE2Mm1HX0ZJbUZZS1lUdnVhd3RnRFl6SEQ2dGZhcGdRRzUtQmpCcXZia21uZV8zSV8zTEJUR3F6X2p4VVNydThQZ0drc2JYUm5Zc0hrMGU4ZlljTjM5OTlPZUlWZFBaVGs1Tnd6dlY5MVZ0Yks1dXZMRks2ZGdTSGEySUpNY09UTXVuaTZnSTRuWmxicWZOdEhjM0xpUjMtc2NrS1ZjZXV3ekhfQjRGY3RWQTFGRGFXbTU1?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793560968813",
+          "date": "2026-11-01",
+          "title": "Brazil face China again for a place in U17 World Cup semi-finals - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJmaUlBVHFFaE9QTFZndG9kU0NNZkNQSWVEbERpZ19YdUsxSUxmSU4xUExrMzJNS1dSQjVaMFM0bU5seVJHck43TFRZaDhwVTUwVVpfZDFXSXJfdGlnMFRvNjliaGFMcjB1N3Vlc3hDbVJRN2pueC1mUE9DSmlVRVdDUmY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793560968813",
+          "date": "2026-11-01",
+          "title": "China PR vs. Brazil (1 Nov, 2026) Live Score - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEtheUhrdkd3ejZZYTZHb2ZKR19pdC1TVVpSR2gwc19fTWRsTjFmbWRNNWxFOHNvWWluVU9aV2FIQ0haOU1VcVlWeEdrUnE2ZUo3aXRONC1BcElndXV1a3JvWEFKQUV3RFY3Y1JhNjliblRvX1cyc1RuMHZxX2ZnbENvN24wRWhu?oc=5",
           "draft": true
         }
       ]
