@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-01T04:40:08.360Z",
+  "lastUpdated": "2026-11-01T12:45:10.354Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-world-cup-2030-netflix-scores-exclu-2026-10-13",
+      "headline": "FIFA World Cup 2030: Netflix Scores Exclusive Rights in Spain and Andorra - Netflix",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEdTRDdkVnBqMjdtRnRLY0JRbWxZUTFZenF4STJjVmhHMFp4Slo1X2ZwZnJLek5EVGRjekZseHVaOE1ROUVEVlFtbkkxNFFpQXlEcnBUb2pfT1JmVzVJRGZYaVZ0Qzlxd0dzWWpaNWtScHp5U0xvYjJvUndYQ052UHRHQQ?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2030: Ne",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-13",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEdTRDdkVnBqMjdtRnRLY0JRbWxZUTFZenF4STJjVmhHMFp4Slo1X2ZwZnJLek5EVGRjekZseHVaOE1ROUVEVlFtbkkxNFFpQXlEcnBUb2pfT1JmVzVJRGZYaVZ0Qzlxd0dzWWpaNWtScHp5U0xvYjJvUndYQ052UHRHQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-morocco-could-host-2029-fifa-club-world--2026-10-31",
+      "headline": "Morocco Could Host 2029 FIFA Club World Cup - Morocco World News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-31",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k3Q0xSb3I2UlJPSGxpVEU?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-by-the-numbers-kansas-city-dre-2026-10-29",
+      "headline": "World Cup by the numbers: Kansas City drew an estimated 680,000 visitors - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGM1YU05OEVKMTBvWU5KRFZqTnhJYkFDeF9wSm9tZVNYU05pcEFZX0NJck04Z29BME1KNHlUUTRQcUZOREtVeU45dkUwdWg4bnpCVWtlYWozQW9ORVo4OTdpTmFfcUJVRmdlLUxhbjRpS01ZZDYySHlncTVnR19DUlZacDQ2bm44dktlV2FnZV90T05TdzFGOXFIdXg1MVJaUFVjeVQ2all",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-10-29",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGM1YU05OEVKMTBvWU5KRFZqTnhJYkFDeF9wSm9tZVNYU05pcEFZX0NJck04Z29BME1KNHlUUTRQcUZOREtVeU45dkUwdWg4bnpCVWtlYWozQW9ORVo4OTdpTmFfcUJVRmdlLUxhbjRpS01ZZDYySHlncTVnR19DUlZacDQ2bm44dktlV2FnZV90T05TdzFGOXFIdXg1MVJaUFVjeVQ2allIQQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-andoni-iraola-wants-smart-free-transfer--2026-10-31",
       "headline": "Andoni Iraola wants smart free transfer pickup for 31-year-old FIFA World Cup winner - Yahoo Sports",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-22",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOERTR0hrMHB5amVzZFp1elJWTzZwVWZsMUIzWjdZTUxVVVBXMHJWTmdBaTg2RTc3a3F4YmdZSHQ2UzhRNkRuX2gzUWlEUExZZ21nVEMtQUhwbUhZa0k0UEh5Slp2eTJBa2o4TEloQ0NFNlF0NkhGanF3T1NqZmdMM3NiaFVpcmoyeHhfdm1DV2ZoQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-king-county-sees-889m-in-economi-2026-09-22",
-      "headline": "Seattle, King County sees $889M in economic impact from World Cup - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-mcdonald-s-dropping-its-fifa-sponso-2026-10-27",
-      "headline": "What McDonald’s dropping its FIFA sponsorship means for sports marketing - Marketing Dive",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTVranA0TFFpRnozY2lFX0NxVnZQdUk0NG1rSmVLWHQ2RFk4dDhBUXE1RlBKWVRfS2JpNDB1QWc5dEZBVThOYms3Q2J1SWlyYkRqaEQzNW1IN2RMRzQyWTBLTlY3LUctNTZ4cmRNbGNVTGp6cUx4cGgzaWVPbWIyVUYyN1g4NmdFX1lhSFlwWWcya0hZZ2tnbTVQSlNRRVE5bGU5cmJFOEN",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-27",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYTVranA0TFFpRnozY2lFX0NxVnZQdUk0NG1rSmVLWHQ2RFk4dDhBUXE1RlBKWVRfS2JpNDB1QWc5dEZBVThOYms3Q2J1SWlyYkRqaEQzNW1IN2RMRzQyWTBLTlY3LUctNTZ4cmRNbGNVTGp6cUx4cGgzaWVPbWIyVUYyN1g4NmdFX1lhSFlwWWcya0hZZ2tnbTVQSlNRRVE5bGU5cmJFOENiQkdwTzhNWEp2ODE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-de-la-salle-star-who-broke-world-cup-pla-2026-10-27",
-      "headline": "De La Salle star who broke World Cup player’s record voted Michigan’s top soccer senior - MLive.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkF5Z182c1pNbWhmUGdaS1hGd01qazIzcTJlajVQU2JEeENjb05MazBrazgybVlSNWVNM1pfd2RGUWtTcXRCRmtxZ0FxZm5fLWxvSWR1OVpRX2MzS0RyY0t6OWtGSWZ1TEhzZ2JPWUNPNWZ4cDFCT3RMcUJYblYxUUF3N2gtTE9hWU1lOWh6X29Eclo1WW8xOUpYTUQ3YWRvdGRNTGdldmp",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-27",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkF5Z182c1pNbWhmUGdaS1hGd01qazIzcTJlajVQU2JEeENjb05MazBrazgybVlSNWVNM1pfd2RGUWtTcXRCRmtxZ0FxZm5fLWxvSWR1OVpRX2MzS0RyY0t6OWtGSWZ1TEhzZ2JPWUNPNWZ4cDFCT3RMcUJYblYxUUF3N2gtTE9hWU1lOWh6X29Eclo1WW8xOUpYTUQ3YWRvdGRNTGdldmpQaVFrd2RDRmJDd3Q2MHlGcy1oRS1Ga0gzdHRGcWxiand6ZDV2VUl1cnAw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-to-visit-potential-2030-world-cup-h-2026-10-27",
-      "headline": "FIFA to visit potential 2030 World Cup host cities in November and December - The Daily Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlJ4eXVsWkoxOXZGZWdiQmIydGZraWVLU2pWVUZJYVhXanIzN1VqV3BNUmdjQV9qTmhBYURrRHY2TkdVNmVOd01kQ3dVejdjdFE2MENpdE53em1XR0xRSFpoVHRGQko4cUh4X2Z1Z0t3ZDZNRHl5M3BwZldLd3pyNHA1QnFLWXUtN2NOaVE5UXJLMTZMdjBOZXFMdlplX1BnRnlqWG1lMUl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-27",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlJ4eXVsWkoxOXZGZWdiQmIydGZraWVLU2pWVUZJYVhXanIzN1VqV3BNUmdjQV9qTmhBYURrRHY2TkdVNmVOd01kQ3dVejdjdFE2MENpdE53em1XR0xRSFpoVHRGQko4cUh4X2Z1Z0t3ZDZNRHl5M3BwZldLd3pyNHA1QnFLWXUtN2NOaVE5UXJLMTZMdjBOZXFMdlplX1BnRnlqWG1lMUlibGRvR3VEWkI3NEFwVlFVZWFCR1lXVFlYUUItSEE?oc=5",
       "featured": false,
       "draft": true
     }

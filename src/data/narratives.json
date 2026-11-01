@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-01T04:40:11.371Z",
+  "lastUpdated": "2026-11-01T12:45:13.412Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -4628,7 +4628,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 475,
+      "chapterCount": 476,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8428,6 +8428,14 @@
           "title": "Revealed: The points gap that denied Real Madrid’s Kylian Mbappe the 2026 Ballon d’Or - Yahoo Sports",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUNLSTRSa2dMRnk5OXVpZ1BSRDc3eWhSRlZKaWNZbTJqZkRTQ2Q2a0tvOFBwaVc5OHFYbEpoVno2Zm1WT2dqRHdOVGw2YWZIRUZiUl9OZlVhRWhXS1JsWEd5cmVpZmYxVUpOZHRKTzRZRER0U1Y0WlBiTGpsb1ViZEtocXVUclk?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793537111713",
+          "date": "2026-11-01",
+          "title": "Former France star slams Real Madrid superstar Kylian Mbappe over Ballon d’Or campaign: ‘He lost control’ - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlBUdVFJLWlJd09PcTdfaDBlblk0NXgxMTVjRFotMXRPSXY5YnRPOEw4ZGk2Ty1XSlNWdkl5eHpsWEpzbldoMldIekRkZnl2Q3hnM1NJcUd3V0pVR1RoMFNiUkc5SW9meDQ0d3FuOW03UFBoTE1ORkxkVjNjV0RjV0ZiaVc?oc=5",
           "draft": true
         }
       ]
