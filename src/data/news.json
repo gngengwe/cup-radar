@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-10-31T21:03:14.601Z",
+  "lastUpdated": "2026-11-01T04:40:08.360Z",
   "articles": [
+    {
+      "id": "news-auto-andoni-iraola-wants-smart-free-transfer--2026-10-31",
+      "headline": "Andoni Iraola wants smart free transfer pickup for 31-year-old FIFA World Cup winner - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFxTGZCWjlobEx3VVZVOFNxWDlGNWgwVkZkZWViM181UXZiSlRGU01fTFdJeTNLLVVSYzVsZjBDM1l3S1JIZmhDQXRJTVdveUszaDhYVHZYczh6UVhCRWI4TkF1b1ZuaUtYQWJMWEpBRlFLOG1wNi1jTlN0ZWNJZzBTLUw3Zw?oc=5\" target=\"_blank\"&gt;Andoni Iraola wants",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-10-31",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFxTGZCWjlobEx3VVZVOFNxWDlGNWgwVkZkZWViM181UXZiSlRGU01fTFdJeTNLLVVSYzVsZjBDM1l3S1JIZmhDQXRJTVdveUszaDhYVHZYczh6UVhCRWI4TkF1b1ZuaUtYQWJMWEpBRlFLOG1wNi1jTlN0ZWNJZzBTLUw3Zw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
+      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-17",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
+      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-chiefs-and-sporting-kc-leaders-say-world-2026-07-11",
+      "headline": "Chiefs and Sporting KC leaders say World Cup brought Kansas City to international stage - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5\" target=\"_blank\"&gt;Chiefs and Sp",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazFfSXZNRm9ia1pYQ3lQMGJMVjFtcnNiRmhqVzl3dFBUTmUwSDBoYXp3c0ZxekFKVm40UDRhOHdRSFdVR2JVdEQwQlJkRkY0aU1wNVZfWm5iNXh3RU1TZzRCRVBRdVpKWHEtUEVEcjdWT3lLcTlsUE5xX3ZyMzlsYTZxTEtnZ3JvaE5B?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto--live-world-cup-2026-livestreams-san-die-2026-10-31",
       "headline": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] San Diego State vs Wazzu watch Live free - Pierce Manufacturing",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-27",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlJ4eXVsWkoxOXZGZWdiQmIydGZraWVLU2pWVUZJYVhXanIzN1VqV3BNUmdjQV9qTmhBYURrRHY2TkdVNmVOd01kQ3dVejdjdFE2MENpdE53em1XR0xRSFpoVHRGQko4cUh4X2Z1Z0t3ZDZNRHl5M3BwZldLd3pyNHA1QnFLWXUtN2NOaVE5UXJLMTZMdjBOZXFMdlplX1BnRnlqWG1lMUlibGRvR3VEWkI3NEFwVlFVZWFCR1lXVFlYUUItSEE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-voters-view-economy-as-weakening-2026-10-13",
-      "headline": "Seattle voters view economy as weakening in survey that reveals short-lived World Cup euphoria - GeekWire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEUtcjF2SEZoM0VpVlBDcjc2c1hzTnVXY29iLXN1R042RWhRMk5tS0JVcGdhSVlLa0JHS2QyLTJRYXN6MllBZ0pFMmNfMzJ5eFF1RVd2NmpqZ0FLd2dKYk1PeUhBU2ZMMDYxUXhQMFI3RFA2LUp5dkpzNUdtMDdmNjFJcEo3YkxKd25jUzh2QmZuLVNNNDhhc3NRdlZqR3FNcEdBejdjei1",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEUtcjF2SEZoM0VpVlBDcjc2c1hzTnVXY29iLXN1R042RWhRMk5tS0JVcGdhSVlLa0JHS2QyLTJRYXN6MllBZ0pFMmNfMzJ5eFF1RVd2NmpqZ0FLd2dKYk1PeUhBU2ZMMDYxUXhQMFI3RFA2LUp5dkpzNUdtMDdmNjFJcEo3YkxKd25jUzh2QmZuLVNNNDhhc3NRdlZqR3FNcEdBejdjei12c1FXQnA1YUlzb3U2QTdZYzRHVkgwVndkWTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
-      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-viewers-saw-unhealthy-ads-ever-2026-09-22",
-      "headline": "World Cup viewers saw unhealthy ads every seven seconds - Euronews.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTFNTExTcDVlWDVFMlZoMnBsdnFoV2RiT3FZSTNBbzZ4ci1vaVZFU0RJWEo4Z01xSU9xdUhncnZhcW9nSzd1RW1FNEItNkNzS3B1S21fQktONmVnN1habVdLV29PN3hTVktyQzJwUm1laWVtZ0pYS09hRmhfMDl2OVJid1Fka2ViZk1aNkczNV95QUZpUUw0cXRMSDNGTnZxSU1uc2NyYTl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-22",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTFNTExTcDVlWDVFMlZoMnBsdnFoV2RiT3FZSTNBbzZ4ci1vaVZFU0RJWEo4Z01xSU9xdUhncnZhcW9nSzd1RW1FNEItNkNzS3B1S21fQktONmVnN1habVdLV29PN3hTVktyQzJwUm1laWVtZ0pYS09hRmhfMDl2OVJid1Fka2ViZk1aNkczNV95QUZpUUw0cXRMSDNGTnZxSU1uc2NyYTl6OE9lV0hwZmFrX28yNnFmVTBUWkRR?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-did-international-visitors-think-of-2026-07-19",
-      "headline": "What did international visitors think of Kansas City as a World Cup host? ‘Above expectations’ - KCUR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5\" target=\"_blank\"&gt;What did internatio",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-19",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenI1dVRZc2Z0cnJWTVhKSlhPaGhLNFhRYl9QdHBEU0RPTjM2eTRtTDlDWS13eWMzQUdwaExTMWZhazlVRFVKcmJndHN3VmFsU1J1TEoyZzRENDJDUUZDMDNwaklEMTVFZ3dWQk12S1dDU3ZzcXQwd3hlSUNrNkM3VTE0QWZmQQ?oc=5",
       "featured": false,
       "draft": true
     }
