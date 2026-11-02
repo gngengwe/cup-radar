@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-02T10:36:20.615Z",
+  "lastUpdated": "2026-11-02T21:26:44.724Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 575,
+      "chapterCount": 576,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4618,6 +4618,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHJCZUxKZ0ZQQkl6QUlJMkU0a0pfcS1YdUN3WlJDWWkyTHUtR3h6WEpSOEtYbGRFUGRGN01NNUYyZU1uOXJySDNZTXlqVVhQMGprX2NpR3ktX0lkN1RPSjJuVi05ZVJlX3NEZFRlTUt6bVdKeXU4bVg0VHdXSFFvQlhuN1lrTXpINzVMMmRMTkw2bFhGWFhMblg3cjI4a0pvcVpaZ3pIQ3hnZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793654802486",
+          "date": "2026-11-02",
+          "title": "Lionel Messi, Cristiano Ronaldo in FIFPRO World 11 shortlist: The other nominees - Bolavip US",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGpBNURSUjJXa3F4d21kakk5ZDFGTWNkc3JmQzd0TEdQb2YwUDRvUlIyRnFjeHYwU3c1cHpEV0MyNUd4Yl9SdmU0RXpFbGxBWlpObnlibHpGdzM4ZDRCR2NJaVhrdGR3VkdCZ1Q0UUpFbzh3WnNiUVFlcWNBZXdYZkFUbDNfQk1wWFpJc1pjY0VIM09hSDdvYW9Vd1NHYzlzUDcxUi1Ea0NHczdr0gGyAUFVX3lxTE5IWm1XVE5fdXNnMFZ5TVdaVUUwem5zdjc1VzBBa2tDakkzNXNMSUtESHQ5Z2Q2WVlwZl9UNlRsZWt6QXFuaVk2NmZkV2gzdE9WLWxRVlhsZHpBRzNFckFybWpTOHM4UFhNaW05aldUcnNWVDBNWEU1bDZPWmthM2h3ck5DMDZZaWVxZmVFNEhwT1ozTnJOS3NkaDhQSVFFQTcxWmZySnYtU3RFbm1YWjh0Vmc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -4636,7 +4644,7 @@
       "emotionalStake": 5,
       "summary": "Kylian Mbappé has won everything — except the World Cup as the undisputed best player in the world. In 2022 he scored a hat trick in the final and still lost. In 2026 he arrives at the peak of his powers with France looking like one of the two or three best teams in the tournament.",
       "watchFor": "Does Mbappé finally convert a major tournament into a winner's medal? And what's the subplot between him and anyone France has to face in the knockouts?",
-      "chapterCount": 476,
+      "chapterCount": 477,
       "chapters": [
         {
           "id": "ch-auto-nar-002-1779580128610",
@@ -8445,6 +8453,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlBUdVFJLWlJd09PcTdfaDBlblk0NXgxMTVjRFotMXRPSXY5YnRPOEw4ZGk2Ty1XSlNWdkl5eHpsWEpzbldoMldIekRkZnl2Q3hnM1NJcUd3V0pVR1RoMFNiUkc5SW9meDQ0d3FuOW03UFBoTE1ORkxkVjNjV0RjV0ZiaVc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-002-1793654803213",
+          "date": "2026-11-02",
+          "title": "Confirmed: Four Real Madrid players nominated for FIFPro World 11 as 26 finalists announced - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUhydjhUbDhTTmk5SHJjd1U5LUltQm4yLW1MRFpPZVU1WE0wZFB1VEFYMUY3OGpObTkxT1JfYlBrbVUxbHVlZ0RfYl9UcE9SWXFZZGJESmhfYVUxMUFCd0dDWUQxZE1EN09JNnItVWkzUGFsYmM5QmFlekttN3NUN2ZMSF9USC1pLXVF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8463,7 +8479,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1211,
+      "chapterCount": 1214,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18152,6 +18168,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1FjNDdMNGZ2cVliQ01hZk80N2xuYTY3ekJFZFlwXy1ZTm5zc0FZWFV2R1AwNk8yejRabkpKVE45UC0xak4tOGRTdDlFbmN3ckZ0Q0U4ckRacjdGWThOOEUybHpyUW41S2Q5N1VMb2JtcGhBcVNNUVpsUHpfZEFwanhOcEdSSUplT1lJZ3ZVY0FFQjNFSko0QkdjRUFvay1rMzVTNE1tdFdIVWJjOEhUVg?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793654803697",
+          "date": "2026-11-02",
+          "title": "U.S. cities navigate event selection processes for 2031 Women’s World Cup and Men’s Rugby World Cup - Major League Rugby",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFhCeGVMakpfTTcwcjctMU1nVDVwRkI2ZjdTbmstN1VWY3EyVXJZSVZXMUMyY1BGcy1wU0FHa3VpN25HMzFGNWtDTE9RRWFod1ppbmM0SFBjdlZaNjdkQkliYllMU2lTWnhBZTlOSGl6TUNHT2VFNzlSeXYzNW54SjdHamhCSnJoRnBKaDQ5YjBPeUpMU3hSeHNPLVJUY0FyazRtZlNOSVR4LUlrejg1VmVvaWptMUV3TF9KTlZ2bXhBVVBYd0ZjZkFn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793654803697",
+          "date": "2026-11-02",
+          "title": "Folarin Balogun scores first goal since starring for USMNT at World Cup - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFg2YWpGZnk1Nmt4bXhDbmZFaWpBUGNWOWJDTlh1eUJ6WHAxVjQ3cVlvd3ozOEhPRWZPWDgyS1ZPTnowdkJHVmlLQUUyMk5WemE3THlIX08wUy1JRnVJYm1yVTMtQURmTnRlcHdzQ1FYcldFeGNZS2hYb3JjZG9JVnVoRmt3cGxGbmc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793654803697",
+          "date": "2026-11-02",
+          "title": "FIFA paying millions of embattled boss Gianni Infantino’s US tax bill: report - New York Post",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFUxRE8wLV8xRnFVMFhvRUhMVjlBNnVKOWtUZVhFek9aQXpRQnRHdF9DZzM1SjRGNXpZM3F3UlVHTjREN2dUTWVjck94Z3kzZGRYQlVpbEdLQV9aSkhGZ21hRWhUY3c2MFhaRWc4WlVOY0RUQzBOVnVLYm8yU2dmZVhmWnVYaVdxVzl5SDRCTmtKdlRSRFNFUS15eFRvQ1VuRnpUenZpWlBTc19hVHpUVGhQWXd6Zw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18170,7 +18210,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 797,
+      "chapterCount": 798,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24547,6 +24587,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0NCd040UHVWd3VIOTJCOURVcHJIMlBCTjdMU1JFX1VwcWxlQjNlU1BWQkIwSGVFdEh0Qm5aSEpCTXdQUjMtaTVHUl9mdGRhbkFzRzFqWkowQW8ybHM0X3BicmQ5LUw4WXlMaVBuSEFMbHRJQTRKRmhKektMbWR4UXpn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793654804213",
+          "date": "2026-11-02",
+          "title": "FIP Padel World Cup 2026: Spain and Argentina chasing gold in Doha - Red Bull",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mSXYyLUV2QWJHNzVGZENzN2ZWR2xYNUdqR19nX2w1LW9NU0VTWnNRd0JqLXN3Skl6djIyeVNlSmpRT2I4Q3p6Nm56aFcwXzhtVEdKTjhTM0F6YXpJRlZrTFQ4TUx1V3kxcFNnUTh4dkw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24776,7 +24824,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1088,
+      "chapterCount": 1090,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33480,6 +33528,22 @@
           "title": "The Wrap: World Cup Men's Round 3 - NRL.com",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9POHpuRUJSbkdVa3E4SGVZTmlzMm5qWFRYRzZpbVpaemVMcWJIOTQteGlpNno1QXpGMVdneXJEQU1jVkwtTnB5dHEzZ0dOSDJkSFFLY08yQ1M0bGFZVkZlTUV6VnNWdzBXLWt6Wlhacno5N0lfNUxv?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793654804724",
+          "date": "2026-11-02",
+          "title": "England’s exit from Rugby League World Cup was a disaster years in the making | Aaron Bower - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0dOWHQ3aklsOTVuaGxNNWZDbE5iVzV3VkM3VFl6VWhZdTJwaDlMczlhSXF2ZE1mQjF0TXpXMnZKZ2NOQjlvOHJ3Q2xKT3pzZGd2TkVqWUVsZVlPVDZiSDJPQW9kMVNmWWwtb1lHOUhjV3U3WGpqYWNyYlFiUmJuN0FwRV80Y1N0NW1ENm16ZDFpam9P?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793654804724",
+          "date": "2026-11-02",
+          "title": "Venue confirmed for Lionesses' game with Ukraine - England Football | Home",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmQzS2UtWmZLODZ6cFJVZnoweWZaM2tiMllfdkNwNWpoVDN2U3NlclVCRW44OVpPU3lkZXNvb05Ea2htY3FZRlRtdXdzVzhKVWJLRzcwYUFRLU82Wm5VMFB4ZGRmbjk2MDgwQXJrMDRqSVFlbjZlcWdmc21UTm54OUVOd09iZlpaV0dzNktaS1lUSUdQTTZlbkxHdGpKVXN4Q2pmcklZOFpLdw?oc=5",
           "draft": true
         }
       ]
