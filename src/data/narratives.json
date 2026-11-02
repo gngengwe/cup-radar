@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-02T00:17:41.090Z",
+  "lastUpdated": "2026-11-02T10:36:20.615Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 574,
+      "chapterCount": 575,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4610,6 +4610,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbThQSldSbjhxY0I5MV9JWVRBdWNBNURNVXRXYzJWbUpqX1h0TkFkbllfNzZqM3ZmaDR4M2k2MDNFOFB3Vm50S0E4VXpmcmttWXMwenptVDVNYm9TUGdfdUxSSnRyVXd6UGV3TWxkTno2d0xNWWJzT0ExTFZZNnVsWWVtajk2eXBPMm1ZcVZUZw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793615778634",
+          "date": "2026-10-06",
+          "title": "How Argentina learnt to love Lionel Messi. He retires a god - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHJCZUxKZ0ZQQkl6QUlJMkU0a0pfcS1YdUN3WlJDWWkyTHUtR3h6WEpSOEtYbGRFUGRGN01NNUYyZU1uOXJySDNZTXlqVVhQMGprX2NpR3ktX0lkN1RPSjJuVi05ZVJlX3NEZFRlTUt6bVdKeXU4bVg0VHdXSFFvQlhuN1lrTXpINzVMMmRMTkw2bFhGWFhMblg3cjI4a0pvcVpaZ3pIQ3hnZw?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8455,7 +8463,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1210,
+      "chapterCount": 1211,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18136,6 +18144,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOTFCT21tQzBJZHF5NDZqZlZONXJjWVhnREhOeTZZb1BkTWFDYXFwSkRTbk9wY0kzOXJHaXZKbkhWUWFaUWlUcXZPWUN6RTJuT0M0WTBvQi1fMXhsdWFxRzhMWjk3Rm1EUWw3bk1NdjJjZ3plVkVKNFRKc0FHS3FCSXJOY0hfdGc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793615779646",
+          "date": "2026-11-01",
+          "title": "USA closes out U-17 Women’s World Cup run - Concacaf | Official Website",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1FjNDdMNGZ2cVliQ01hZk80N2xuYTY3ekJFZFlwXy1ZTm5zc0FZWFV2R1AwNk8yejRabkpKVE45UC0xak4tOGRTdDlFbmN3ckZ0Q0U4ckRacjdGWThOOEUybHpyUW41S2Q5N1VMb2JtcGhBcVNNUVpsUHpfZEFwanhOcEdSSUplT1lJZ3ZVY0FFQjNFSko0QkdjRUFvay1rMzVTNE1tdFdIVWJjOEhUVg?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24760,7 +24776,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1087,
+      "chapterCount": 1088,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33456,6 +33472,14 @@
           "title": "England beat Bolivia at Under-15s World Cup after goalkeeper refuses to face penalty - The New York Times",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmtHdHQ3ci11NUp2WG9UeVd0SVhCTkRiOU1IUlRWT2xVZ3lQcFFwU3NDYnNxZ3VTQ3k5d09LeGVHWGlVaDdOWTZ0YmwxcTFnVzdyVFZTcEpVSmMzdXhQMWxFdnFibzV1eGh1UFdnbHVVbDFrTGNIaktDUG1EeWZ6VWNiUWZDM0JFd2wtSEtZLTJELU1f?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793615780615",
+          "date": "2026-11-02",
+          "title": "The Wrap: World Cup Men's Round 3 - NRL.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9POHpuRUJSbkdVa3E4SGVZTmlzMm5qWFRYRzZpbVpaemVMcWJIOTQteGlpNno1QXpGMVdneXJEQU1jVkwtTnB5dHEzZ0dOSDJkSFFLY08yQ1M0bGFZVkZlTUV6VnNWdzBXLWt6Wlhacno5N0lfNUxv?oc=5",
           "draft": true
         }
       ]
