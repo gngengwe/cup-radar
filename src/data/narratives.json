@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-03T05:33:06.316Z",
+  "lastUpdated": "2026-11-03T13:42:27.279Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 577,
+      "chapterCount": 579,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4634,6 +4634,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXVrUDVYd0FXOE16cG95eTVaX3NkTU94aEtuaXFZVUpTSUdTNmY5Q0tFWkQ4X0ZRSm1mX0ZBc25UUHFFSDlfMWxERkc0UXN5WExwSVFMWmRXS3dsVE9hVHZSMXRSdkNQOENUV0c5SDlWNnF0ejdkX0ZQeVRhMGhMOFZuVllzaE1BT1VCbzgxUFZJVUdMRzZNcWhMT1c0bnJmeDdF?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793713345321",
+          "date": "2026-11-02",
+          "title": "Dakar 2026: Inspired by Lionel Messi, Argentina's futsal starlets sweep past hosts to open bid for gold - Olympic Channel",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDk4MEhhRklRcDJnY2sxQVlRb3FtWWFJcEpoUUw0UkxQc3BXcUoyN1Y5OHg3RDRLbjA2ZFdHZmVlZThtNHhGSklzMUNoRU8xX0NDWGJLbmJ4dnltaEEwb1VPelNzX3k1RzBpTGxwZ2NqOUUwQ1JrczhPaEZHaTFOb2UwZUJsVElOeHVZa29zR21aTTJiaVVaVkJVaElDaEV5UUZiNi1ZLVdVOHEya3JnNTJn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793713345321",
+          "date": "2026-11-03",
+          "title": "Futsal: Messi-inspired Argentina crush Senegal at Youth Olympics - Galaxy Television",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUk0a1BYQ21rTVhkUkRITTgzQ2d5UmJ3SlpaVkpBTllwMmw5Tl9rUTM1OXdlN28zaU50Um1wMThlN1lBTUxERmFqQlk2bzR0QUdMUkZ0R09VdTZRRDRJdGZRV2tqT1NkbHJWWGNmMFJfd2E1OUhfUUhZQjVSNGFmTGtmVHpHdGU0Z2V6R0llR0dHbTBYOG5UNC1MTmRMUDMwdllvdUhSajgxNU5IM0E?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8487,7 +8503,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1216,
+      "chapterCount": 1217,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18216,6 +18232,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2JEMG9UanlnTWFoVVdMTjktcnR2S3ZDb0NFOHQtT1FEaHM5OV9zT1NLblFidlA1RjhWVnM4OXJXVUYwSmgyb1ZKcHF0b29SMDhWR0dfSWstb29vU2lNQUZCcnhLbEN3a2JscTdCX2RCRU5vOEljdV9iN3NNUUQ5Z0hDLXU2X2JZSXBfRWNTUnZHXzMtZWc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793713346281",
+          "date": "2026-11-03",
+          "title": "US cities want better terms to host the 2031 FIFA Women’s World Cup - Inside World Football",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlkzYjNlamlMTENZTWF3QzZZLWVINVhUNWp1a2Z0TW1TQkpjRlhHSEY0QzQ5MEpNQVBieTNRZzhreHg4OHBhNkNFcUxYbUpEUHVHbDdnM0tYQ0hLaW5lV1IyUGdHNVNFQ2c0OUZkSURPR2Q1dmZTaUJrUy1oYk0yZmh3aENLNDBiLUtlS0g1cllFYTNpSjRBWDFLcDE4RDA5SzFkalJ6akdxclRmSW9IdGR6Q3Y?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18234,7 +18258,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 800,
+      "chapterCount": 801,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24635,6 +24659,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2dRRUpEOENNOERsRVhsOEJXeE9mTGgzZjZzdjlrNVpNd1h0cTJ5VW82aGR5R2pwQ09FdEcyTzcwelF3NV8tbzZwTDRUQzZWRWphaGtCcHkwd0VPZEZqbXk1SWhhZHJIVjVsVnVsQjhkTEFIQ1ZNSFZuMjV4WWxEaDhBMTZOSnc1?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793713346776",
+          "date": "2026-11-03",
+          "title": "FIFA U-17 Women's World Cup semi-finals: How to watch on DAZN - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2JWZy1JSTVoOUpoOGZaWkZZVWNCNnlFd255X3FtVU5UWHJwZnNDUEVHekdfYjlmLXFwVXBQcUZxdnhHVVpic3ducTlLNmkzMnA4ZW1vdHg1ZXFvUFh5LUZLZUtoTVp0SXF4djAxUHJBN0wxZnhkQkNNQlNOUXJ1alp4emltblpKSGV5T3VXdFhCN0dQM0JDUnpNTlBpVUxndFZUVHRKWjUwSGNkVzBrUUNVbGxsbkFqSUttMjBXUXgtYWppTXpJOA?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24864,7 +24896,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1091,
+      "chapterCount": 1093,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33592,6 +33624,22 @@
           "title": "Rugby League World Cup 2026: Spirited England exit World Cup after Samoa loss - BBC",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqMHFRd2tlMGJXcGZ5QTJ0czk5MExTUFlBRGpPMFAzMHhNWGdnczhlYUxuSW9ESTNKMDgyZUlycWdvTTdqSG84TnBtNUpOMHlPaUR3LUtCX25TV1BJNmZaaUlHZk9kNFdRRmpCSVZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793713347279",
+          "date": "2026-11-02",
+          "title": "Jude Bellingham's Dad, 50, Scores Seven on His England Over-50s Debut - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFNXVlVMaFdISUdjMkViVWxJMUY3aW1YUENiYm9acWM3ZUl3TGllTnkyUGZUNTBpaXJmRUd5ZHFDRGFJWk9LTzNvbGNIUkgxanJ0V193VlhHLVViSWthLUJFVHdpQzlIdWp2Y1RRUnlTX2YxX0l2LVZHd3RYNVVBcWhTUHNXZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793713347279",
+          "date": "2026-11-03",
+          "title": "England thrash USA 134-0 to reach World Cup semi-finals — BBC Sport - UA.NEWS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEw4VzhmS2wweFdWVU8tX2VNQ1hnX0FVdUdwUlRjbnFjcDdRMlprZW83eGYzbUtUNVJsMVFGMjNmLVRSZldjVzFDODZxaG1kdHRBSFV3a0FqWmNJSl9XMzFIZExPc21GVnQ2cXlYQUhwZGROamxWT1JjR3RTMWRQaFZQQ1htRlhIdUMwTFZvUkJJVGRiV2c?oc=5",
           "draft": true
         }
       ]

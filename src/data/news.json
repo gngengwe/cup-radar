@@ -1,7 +1,95 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-03T05:33:03.104Z",
+  "lastUpdated": "2026-11-03T13:42:24.777Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-to-share-documents-related-to-world-2026-11-03",
+      "headline": "FIFA to share documents related to World Cup sell-off plan - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG1kRzVJQ0owcmtvYWk3QUhGYTdFc1BoYkp5Qk5XaDRMUUJyNnVkNGRUcmF3ZmxUMm5jRlhtQ2RwZ2EyNW9zaWppWktGWTc3el91RXI4THIySEo5UWpqVW1yQjRKYnlscGJyQVpvVFRYZ3JxRk52ZjdDajhmWjNQRUR6Tll0Z2hlUFgySG4yYmZjRW04NDJvTjBFWFdJUjhLRXRN0gGoAUF",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-03",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG1kRzVJQ0owcmtvYWk3QUhGYTdFc1BoYkp5Qk5XaDRMUUJyNnVkNGRUcmF3ZmxUMm5jRlhtQ2RwZ2EyNW9zaWppWktGWTc3el91RXI4THIySEo5UWpqVW1yQjRKYnlscGJyQVpvVFRYZ3JxRk52ZjdDajhmWjNQRUR6Tll0Z2hlUFgySG4yYmZjRW04NDJvTjBFWFdJUjhLRXRN0gGoAUFVX3lxTE81MHV3R0RnV1RfYUdnUlhtYXRROTdwekxjb2VZdTl6aVpnZXo2MXZPcnVVMnlGUFcxZXJ5WlZ1dF90UXhVeVcwYnpaZU9Ea3BjTEJXeHVESXIyZ1FoSnppdjBoa0RXRWh0TjhISUU5SHhTaENxSnJnbURMS3dfYzlHa0hDYkZ3ZVo2c3RFcnJ1R0hiQ091NWZUbm0zMVkyeDlod2ExRjBvbQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-us-cities-want-better-terms-to-host-the--2026-11-03",
+      "headline": "US cities want better terms to host the 2031 FIFA Women’s World Cup - Inside World Football",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONlkzYjNlamlMTENZTWF3QzZZLWVINVhUNWp1a2Z0TW1TQkpjRlhHSEY0QzQ5MEpNQVBieTNRZzhreHg4OHBhNkNFcUxYbUpEUHVHbDdnM0tYQ0hLaW5lV1IyUGdHNVNFQ2c0OUZkSURPR2Q1dmZTaUJrUy1oYk0yZmh3aENLNDBiLUtlS0g1cllFYTNpSjRBWDFLcDE4RDA5SzFkalJ6akd",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-03",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlkzYjNlamlMTENZTWF3QzZZLWVINVhUNWp1a2Z0TW1TQkpjRlhHSEY0QzQ5MEpNQVBieTNRZzhreHg4OHBhNkNFcUxYbUpEUHVHbDdnM0tYQ0hLaW5lV1IyUGdHNVNFQ2c0OUZkSURPR2Q1dmZTaUJrUy1oYk0yZmh3aENLNDBiLUtlS0g1cllFYTNpSjRBWDFLcDE4RDA5SzFkalJ6akdxclRmSW9IdGR6Q3Y?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-u-17-women-s-world-cup-semi-finals--2026-11-03",
+      "headline": "FIFA U-17 Women's World Cup semi-finals: How to watch on DAZN - DAZN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2JWZy1JSTVoOUpoOGZaWkZZVWNCNnlFd255X3FtVU5UWHJwZnNDUEVHekdfYjlmLXFwVXBQcUZxdnhHVVpic3ducTlLNmkzMnA4ZW1vdHg1ZXFvUFh5LUZLZUtoTVp0SXF4djAxUHJBN0wxZnhkQkNNQlNOUXJ1alp4emltblpKSGV5T3VXdFhCN0dQM0JDUnpNTlBpVUxndFZUVHRKWjU",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-03",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2JWZy1JSTVoOUpoOGZaWkZZVWNCNnlFd255X3FtVU5UWHJwZnNDUEVHekdfYjlmLXFwVXBQcUZxdnhHVVpic3ducTlLNmkzMnA4ZW1vdHg1ZXFvUFh5LUZLZUtoTVp0SXF4djAxUHJBN0wxZnhkQkNNQlNOUXJ1alp4emltblpKSGV5T3VXdFhCN0dQM0JDUnpNTlBpVUxndFZUVHRKWjUwSGNkVzBrUUNVbGxsbkFqSUttMjBXUXgtYWppTXpJOA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-guide-to-the-world-cup-in-seattle-seattl-2026-10-29",
+      "headline": "Guide to the World Cup in Seattle - Seattle Met",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nNE5hRnlQWWd2bDYydFBqS2RFNXV5Zko3VFdpZnk2Nlo2Mm1IVkhfZnFUd0Z0eUFOSG11aGw3Vm5YU2pJVXQzSGwzenVwMi1RLWxscjg3TUdKNkN1RmhURHhJa3o2Q2dkUjk4RnNwbjJacUNSakRBNw?oc=5\" target=\"_blank\"&gt;Guide to the World Cup in Seattle&lt;/a",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-10-29",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nNE5hRnlQWWd2bDYydFBqS2RFNXV5Zko3VFdpZnk2Nlo2Mm1IVkhfZnFUd0Z0eUFOSG11aGw3Vm5YU2pJVXQzSGwzenVwMi1RLWxscjg3TUdKNkN1RmhURHhJa3o2Q2dkUjk4RnNwbjJacUNSakRBNw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
+      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-15",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-world-cup-parking-prices-at-arrowhead-st-2026-04-17",
+      "headline": "World Cup parking prices at Arrowhead Stadium dwarf cost for Royals, Chiefs games - Kansas City Star",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkN",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRUN6WTloUW1rNThMaWdIVTZyLWFUc0o1QmhLOFNjQ0VmUW9hMHJWeHJtT0JwbFZVMi0zWXJMb2tLaW9EeGpjOWpkUkdFY1o3WUpkR2ZUdXpwb3k2RFExdThVbm1qcWpGaXhoenlPQjZ4aWw3ZjJEZTBB0gF6QVVfeXFMT3k4OU83UEJTeEQzVldCSDQtZENjcU5MWmlBNFFJLV9pTl9YYkNmZDJDbGxzZ05wekdabDhON0lJckRIWWNRQ0VETkpsdU90U3N5Q0hZM1V6aVVZMGloX01kS0hzdjRIa05Wcm01YkhfdlBQTkQzLVQzZGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-the-smallest-world-cup-host--2026-07-11",
+      "headline": "Kansas City, the Smallest World Cup Host, Has the World at Its Feet - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5\" target=\"_blank\"&gt;Kansas City, the Smallest W",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-11",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0pmYzZsVVFPd2JaUUtFTjl0bUVSUEpxMVlVSldkS3pJR2dXZWRSNDhZVGluRERITWsyeDNrNlhiS1hZblljczZlWXJLVDJnMWZBNWVZbk52WXFwTlQ0X0JxXzYyNjAxQWg2VjlWQjFLQlZzck5TajRKWnNzSW9fYw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
+      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-05-25",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-to-share-documents-on-world-cup-sel-2026-11-02",
       "headline": "Fifa to share documents on World Cup sell-off plans with council members - The Guardian",
@@ -1011,94 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-29",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQl85aGpGeThZVEZ2SlVRWW9PQzdVelg3bHU3ajJLR0lvQ0ZqZ0J1RkRBNDZpaERQaGVMUkhXZUh5S3c1R3dMYldBbk1DX0Q4dzZaVnZ6ajBtNHpTbWdGeWxNR2VKeG5YRWN5c0Q4QzlFT2cxc25wY2poZU5uUFUyZUIxb3piZm9wZ2NzR0RLaw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-nigeria-vs-mexico-29-oct-2026-live-score-2026-10-29",
-      "headline": "Nigeria vs. Mexico (29 Oct, 2026) Live Score - ESPN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZeUJLMHdaZ2VycENpczUyZFA4VDd2Y0dkWmI2aUR2M2RUamU5WFJocXVCTjZfUlQ3V3V1UFBtNjRhVDFCT3RfRHJrTTl0UzJ2YVRkN3g5R21XT25VckptVTNZcWY0eU1B?oc=5\" target=\"_blank\"&gt;Nigeria vs. Mexico (29 Oct, 2026) Live Score&lt;/a&gt;&amp;nb",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZeUJLMHdaZ2VycENpczUyZFA4VDd2Y0dkWmI2aUR2M2RUamU5WFJocXVCTjZfUlQ3V3V1UFBtNjRhVDFCT3RfRHJrTTl0UzJ2YVRkN3g5R21XT25VckptVTNZcWY0eU1B?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-watch-visitkc-kansas-city-officials-reca-2026-10-29",
-      "headline": "WATCH | VisitKC, Kansas City officials recap visitor impact of 2026 World Cup - KSHB 41 Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3FTQjcxRm1xdTc0U01NMGlfa0UzNlFYa28zRTNPYXRVN0Q2TlhnV25VQUJwNUFSSGdWejJnMVU3UFUtYU4tZ2FVRFZvTjAyWEt1bWt5RTMyTXF2QXVtQktRNWpDUnZLNTZvR3loT0tRVTFiXy1YNGFEblNUYnZRRUhpcFlmNEhJSmFoTHpOR1VhMXZzWTZlY0ZnRnBsU3V6b3lnWUI1aGd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3FTQjcxRm1xdTc0U01NMGlfa0UzNlFYa28zRTNPYXRVN0Q2TlhnV25VQUJwNUFSSGdWejJnMVU3UFUtYU4tZ2FVRFZvTjAyWEt1bWt5RTMyTXF2QXVtQktRNWpDUnZLNTZvR3loT0tRVTFiXy1YNGFEblNUYnZRRUhpcFlmNEhJSmFoTHpOR1VhMXZzWTZlY0ZnRnBsU3V6b3lnWUI1aGdvZXUxcDVPYUN3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-s-final-economic-figures-are-2026-10-29",
-      "headline": "Kansas City’s final economic figures are in for ‘26 FIFA World Cup. How did we do? - Kansas City Star",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZXR5TDc3RFpDclVaN1o0MFMwVGVEM2QtUHJ0cmxwd3NaY0ZfbkQ4VzB6d3JmS3ZLT0UxZlR2Rl9IanhtY2FqQm5KNUh6RDVBUUx0V19iVTB5S044ckFJMUNlclA4VFVJUWJxbE1NTm9TVzJZbHZVRHNB0gF6QVVfeXFMTWdKdGttZHZ1OTBQS3YyNGNpZzhpM3hwTUl0WjcxbGMtMWF4YWl",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JZXR5TDc3RFpDclVaN1o0MFMwVGVEM2QtUHJ0cmxwd3NaY0ZfbkQ4VzB6d3JmS3ZLT0UxZlR2Rl9IanhtY2FqQm5KNUh6RDVBUUx0V19iVTB5S044ckFJMUNlclA4VFVJUWJxbE1NTm9TVzJZbHZVRHNB0gF6QVVfeXFMTWdKdGttZHZ1OTBQS3YyNGNpZzhpM3hwTUl0WjcxbGMtMWF4YWlxVjN3b1oyVjBkQXEyTWFYSDR6cGUyZGd2SlZKWTZma3RXNzZZdmVvSFlNM0hGQ1Q1S1JlbUZ0Sm14dG91RnVEMWhQS2x6eTg5MHYzbWc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-world-cup-celebrations-continue-in-s-2026-06-19",
-      "headline": "The World Cup celebrations continue in Seattle today with USA vs. Australia. It’s an honor to host this matchup featuring our U.S. Men’s National Team in our beautiful state. Go Team USA! - Facebook",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZUR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeldQX2hsSVIwUkhndjBTMHNNaGFKX0JLMkFJS0V3dXhnVlhYSkkyX3R6QXpoT0tUbmVXNjFKdkpBOGhhZTRqREZIWEpGVXp4XzNXUTI4QlV6V1NaU05mSEVVQzZVNDNITDBQLWR1aS1NeEJudWZJMno3Z3dKOHkwbVc4eHlLOGRObDhQcFptTmRvUlBESUVTdWJ4di1xZ0x2N0plRXpiZURYdS1KMk9qVXdla3B2dy1OTkRTMTkyU3A3TUhhaWowaEY2MmE1ODZHSjVwTU5jSQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-watch-live-visit-kc-releases-world-cup-v-2026-10-29",
-      "headline": "WATCH LIVE: Visit KC releases World Cup visitor data - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTGFaZ3dsSUt3ZTZoem1Oczd6WXFYN09XRXBHNmQyM1ZTQ2MxakIxMHI1Zjh4T3F3TzU2eElYcTR1RXRpWUJDcEhzcVRzZURjM2lwbVJ0TWRlbWYtYkg4c0ZJZTYzRTZ6Smx2dWM0REt3eV9xTEJKNmdFLVUyZUU?oc=5\" target=\"_blank\"&gt;WATCH LIVE: Visit KC releases ",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UTGFaZ3dsSUt3ZTZoem1Oczd6WXFYN09XRXBHNmQyM1ZTQ2MxakIxMHI1Zjh4T3F3TzU2eElYcTR1RXRpWUJDcEhzcVRzZURjM2lwbVJ0TWRlbWYtYkg4c0ZJZTYzRTZ6Smx2dWM0REt3eV9xTEJKNmdFLVUyZUU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-visit-kc-says-world-cup-brought-approxim-2026-10-29",
-      "headline": "Visit KC says World Cup brought approximately $570M in direct spending to Kansas City area - KMBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDNYLWc3b3NCNm5DZGtUd2l6VGFTMDNoQTAtWkEtdFZmdHlaWXNHaV9vVlkxbkJ4VGJsU01rOWVWTWV3UU9haU5iazk0U0NuTW9SMlBOOTEyWEZ3VVYyYmdOMExOZFFGaWFfODZYazZicjNfNHREZDY5NnpFN0xRU2hxWVE2czdLbC11WA?oc=5\" target=\"_blank\"&gt;Visit KC sa",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDNYLWc3b3NCNm5DZGtUd2l6VGFTMDNoQTAtWkEtdFZmdHlaWXNHaV9vVlkxbkJ4VGJsU01rOWVWTWV3UU9haU5iazk0U0NuTW9SMlBOOTEyWEZ3VVYyYmdOMExOZFFGaWFfODZYazZicjNfNHREZDY5NnpFN0xRU2hxWVE2czdLbC11WA?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-locations-games-schedule--2026-10-26",
-      "headline": "2026 World Cup Locations: Games, Schedule for All 16 Cities - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZlZS00OFdfRWhIdmt6Z21VWnRSTEIwS1otZFFsaklPcElERGsxWExBRTBzUTZaTTNYR0xnbGZibjJQcFBkWDg1dkd3Q19CT01nZlo0RzA0UnpSSDVHdkVTbXNadnp4ZFI2cGUxZXJWMU52TVZQM2JSVlAyUlhEU0hXRHpmTzgxeWJCRlF0b1RYTEpR0gGUAUFVX3lxTE41amRPNUx3XzI",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-26",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZlZS00OFdfRWhIdmt6Z21VWnRSTEIwS1otZFFsaklPcElERGsxWExBRTBzUTZaTTNYR0xnbGZibjJQcFBkWDg1dkd3Q19CT01nZlo0RzA0UnpSSDVHdkVTbXNadnp4ZFI2cGUxZXJWMU52TVZQM2JSVlAyUlhEU0hXRHpmTzgxeWJCRlF0b1RYTEpR0gGUAUFVX3lxTE41amRPNUx3XzIweVgtNmNoSl9EYkZSRG5UNi1zS29fWTVUdWlwYlJNMkRDSFNFZl9tVEktdjdKeWRZLW9HUk0zRWM2UDVSQzdDT1k0SW1McDNOcUtPazhTMkc1eGoxVXJiaW5MNDN6eVF6RDA2UkhJQ040Y0MweHo1eXFKWlhMVmpxYTIta21QNlVkT20?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-05-28",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Waterfront Live Viewings and Fan Experiences for FIFA World Cup 2026 - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
       "featured": false,
       "draft": true
     }
