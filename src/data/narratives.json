@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-02T21:26:44.724Z",
+  "lastUpdated": "2026-11-03T05:33:06.316Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 576,
+      "chapterCount": 577,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4626,6 +4626,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGpBNURSUjJXa3F4d21kakk5ZDFGTWNkc3JmQzd0TEdQb2YwUDRvUlIyRnFjeHYwU3c1cHpEV0MyNUd4Yl9SdmU0RXpFbGxBWlpObnlibHpGdzM4ZDRCR2NJaVhrdGR3VkdCZ1Q0UUpFbzh3WnNiUVFlcWNBZXdYZkFUbDNfQk1wWFpJc1pjY0VIM09hSDdvYW9Vd1NHYzlzUDcxUi1Ea0NHczdr0gGyAUFVX3lxTE5IWm1XVE5fdXNnMFZ5TVdaVUUwem5zdjc1VzBBa2tDakkzNXNMSUtESHQ5Z2Q2WVlwZl9UNlRsZWt6QXFuaVk2NmZkV2gzdE9WLWxRVlhsZHpBRzNFckFybWpTOHM4UFhNaW05aldUcnNWVDBNWEU1bDZPWmthM2h3ck5DMDZZaWVxZmVFNEhwT1ozTnJOS3NkaDhQSVFFQTcxWmZySnYtU3RFbm1YWjh0Vmc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793683983690",
+          "date": "2026-11-02",
+          "title": "Dakar 2026: Inspired by Lionel Messi, Argentina's futsal starlets sweep past hosts to open bid for gold - www.olympics.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeXVrUDVYd0FXOE16cG95eTVaX3NkTU94aEtuaXFZVUpTSUdTNmY5Q0tFWkQ4X0ZRSm1mX0ZBc25UUHFFSDlfMWxERkc0UXN5WExwSVFMWmRXS3dsVE9hVHZSMXRSdkNQOENUV0c5SDlWNnF0ejdkX0ZQeVRhMGhMOFZuVllzaE1BT1VCbzgxUFZJVUdMRzZNcWhMT1c0bnJmeDdF?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8479,7 +8487,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1214,
+      "chapterCount": 1216,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18192,6 +18200,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFUxRE8wLV8xRnFVMFhvRUhMVjlBNnVKOWtUZVhFek9aQXpRQnRHdF9DZzM1SjRGNXpZM3F3UlVHTjREN2dUTWVjck94Z3kzZGRYQlVpbEdLQV9aSkhGZ21hRWhUY3c2MFhaRWc4WlVOY0RUQzBOVnVLYm8yU2dmZVhmWnVYaVdxVzl5SDRCTmtKdlRSRFNFUS15eFRvQ1VuRnpUenZpWlBTc19hVHpUVGhQWXd6Zw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793683984641",
+          "date": "2026-11-02",
+          "title": "USMNT Nations League roster projection: Who will Pochettino call vs. Haiti? - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2tINGdWTldRV2FxSVNDZE1VMS1MYWV3NHJGM3YzNlpWWkg5eHpRcHFkeVVYdkNvc182dGVHNUI1aWtGQm15UkMwYlVYTENWSGlrbmxiLTM0b2lVVDNOcUdUSUlDc2d1ZlVTcFRlOXpxcS1VXzlmNFdDWUZLRHFQWkM1ZDZGZEMtSTVSU2NtLUhwekZRNEhWb0xOMWZ5OE01ZXNQbml1RFVYZ04y?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793683984641",
+          "date": "2026-11-02",
+          "title": "Pearson Runs Away with World Cup Victory - USA Triathlon",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2JEMG9UanlnTWFoVVdMTjktcnR2S3ZDb0NFOHQtT1FEaHM5OV9zT1NLblFidlA1RjhWVnM4OXJXVUYwSmgyb1ZKcHF0b29SMDhWR0dfSWstb29vU2lNQUZCcnhLbEN3a2JscTdCX2RCRU5vOEljdV9iN3NNUUQ5Z0hDLXU2X2JZSXBfRWNTUnZHXzMtZWc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18210,7 +18234,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 798,
+      "chapterCount": 800,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24595,6 +24619,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mSXYyLUV2QWJHNzVGZENzN2ZWR2xYNUdqR19nX2w1LW9NU0VTWnNRd0JqLXN3Skl6djIyeVNlSmpRT2I4Q3p6Nm56aFcwXzhtVEdKTjhTM0F6YXpJRlZrTFQ4TUx1V3kxcFNnUTh4dkw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793683985409",
+          "date": "2026-11-03",
+          "title": "Brazil vs. Nigeria - Live Score - November 04, 2026 - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHctdHVLMnNxLVIydzVjZXdOc0NiTkstb0haVXh5N3pIOXBjT0xFeVZjNVB1d3l6YWJVbWoxSTFFNXoxTVpBSExGcGQyaXlCQXJERW9uTkRSTGdJcE9lV18yYzVmUlktX0VxR3c0aDc5bURGdURUMjVLd3haVldqUUEwemhGSXdTdHk5RXlqRndvbVZNYlR6aHl3RkJDQ2RGTnJYSzIyc2EzeHJMQnJF?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793683985409",
+          "date": "2026-10-31",
+          "title": "Brazil wrap up preparations for China in U-17 World Cup quarter-finals - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2dRRUpEOENNOERsRVhsOEJXeE9mTGgzZjZzdjlrNVpNd1h0cTJ5VW82aGR5R2pwQ09FdEcyTzcwelF3NV8tbzZwTDRUQzZWRWphaGtCcHkwd0VPZEZqbXk1SWhhZHJIVjVsVnVsQjhkTEFIQ1ZNSFZuMjV4WWxEaDhBMTZOSnc1?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24824,7 +24864,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1090,
+      "chapterCount": 1091,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33544,6 +33584,14 @@
           "title": "Venue confirmed for Lionesses' game with Ukraine - England Football | Home",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmQzS2UtWmZLODZ6cFJVZnoweWZaM2tiMllfdkNwNWpoVDN2U3NlclVCRW44OVpPU3lkZXNvb05Ea2htY3FZRlRtdXdzVzhKVWJLRzcwYUFRLU82Wm5VMFB4ZGRmbjk2MDgwQXJrMDRqSVFlbjZlcWdmc21UTm54OUVOd09iZlpaV0dzNktaS1lUSUdQTTZlbkxHdGpKVXN4Q2pmcklZOFpLdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793683986316",
+          "date": "2026-10-30",
+          "title": "Rugby League World Cup 2026: Spirited England exit World Cup after Samoa loss - BBC",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqMHFRd2tlMGJXcGZ5QTJ0czk5MExTUFlBRGpPMFAzMHhNWGdnczhlYUxuSW9ESTNKMDgyZUlycWdvTTdqSG84TnBtNUpOMHlPaUR3LUtCX25TV1BJNmZaaUlHZk9kNFdRRmpCSVZ3?oc=5",
           "draft": true
         }
       ]

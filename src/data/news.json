@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-02T21:26:41.989Z",
+  "lastUpdated": "2026-11-03T05:33:03.104Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-to-share-documents-on-world-cup-sel-2026-11-02",
+      "headline": "Fifa to share documents on World Cup sell-off plans with council members - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcFRqbGFzak85T1NiblJrcmpwbnJuVE1JYkFNMFpUWlZPd2ljZTVHWVJhcFMwSE11eVhZbnBTYVZXTEZPeEV0WEdCbDF3eVRuRmRpT0pWSUtNQlNmcEZic3gtaExQY1FqTXE3TFZJLXNadmJ2UDNUUFdzcEJCZDZjUDlYRnZaX1pDcTBUa3ZibmowVnJwejZkaFgzWEc1OWptbmpnbDZsVWR",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-02",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcFRqbGFzak85T1NiblJrcmpwbnJuVE1JYkFNMFpUWlZPd2ljZTVHWVJhcFMwSE11eVhZbnBTYVZXTEZPeEV0WEdCbDF3eVRuRmRpT0pWSUtNQlNmcEZic3gtaExQY1FqTXE3TFZJLXNadmJ2UDNUUFdzcEJCZDZjUDlYRnZaX1pDcTBUa3ZibmowVnJwejZkaFgzWEc1OWptbmpnbDZsVWRXZFlLUy1mN0IwY1hESVBTMUxuM1hySHNCLVFSQ0tMUUFIUlY4ekRVal95TThlNDc5dlE3STdBRmZfN1AwSXh0LVJ0bVp5Yzl3R2s?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-final-world-cup-game-is-he-2026-07-10",
+      "headline": "Kansas City’s final World Cup game is here, while Fan Festival enters its last weekend - KCUR",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5\" target=\"_b",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM05BSGRnT1pycEIxRW1lOWkxOUcwendSLS1OSHJyQkd6VHlPUDVGQ1MzbnB0cG5KT3Vta2k0REhPQmVnNmNPU0RCWTY0cG5naXY4OFdRNGlLY3pxSmdpa0lNdWlIMXhHamlZa3lwd0NiQ2M4QWZqRDFicjZLRmZaMF9TR05iSkZETjV4Z0diQm1rVXVvNDNxTGMzUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-fifa-to-grant-access-to-documents-from-s-2026-11-02",
       "headline": "FIFA to grant access to documents from scrapped World Cup sell-off plan - Reuters",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-05-28",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWN0VEZtRXY5NE12ZE9WVi1JYVNPWEx4ME5nN3RuNUtYQ0lfNlppVHV0eWx2Sk45d0pSWklWbGtrd1NwMGdvaG5YaUdobkRzMnRWVWFrZ2U3MVRBMFFGWUhFNFJiQkFveENhN0lJaUR5YWR5dmV1X0NLOHJXUzFVSkFhWlB5bC0zY0JyMFdqRmN1V3pPcHZ0V0YyUXJPd2NCdUo0elFLcGVYLVBPU25YczZlMVkyNTFOZTZfaTFQVlgwcHhOUDA3UTdyaDlDemMwOVNBaUdxSnBYS0FFMXZDaHpSY0F4LVE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-saved-its-best-2026-fifa-wor-2026-07-15",
-      "headline": "Kansas City Saved its Best 2026 FIFA World Cup Match for Last - Kansas City Chiefs",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5\" target=\"_blank\"&gt;Ka",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-07-15",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGVLSmtPQmMtaUNXZjZwR0ktcWtKVm5CM1RkU2QwSGVQMENTdWFvazFGenFBQ19pRHRucTlJNWJpVkJZLXExMkM0QmtwQW8yYXpOOHlXRlNRVmgwNzBHNEZvYV9yaXMwd244aVptYlNzMFRqUW1VbjZvRkV4cVFlUGViZGJmVklKSDFHcWl0eUhLUnc?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-preps-lumen-field-for-2026-fifa--2026-05-25",
-      "headline": "Seattle preps Lumen Field for 2026 FIFA World Cup, to be renamed Seattle Stadium - KOMO",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzV",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmsydm5ZU3Rfb2ZfR3FEUXB0NllmRkNOQkxjY2pzMHR6N3JGaXBSU1dGQng3ZElBbXJtVVpURmJJSzNBV1NyamtiU3R6Z21ORlVFc0ZjaV9CZkZ6eU9DQVRmMnR2MlV1cU1YLTR1akY3eWRhNS1vLXpfMjBMajNXYVJ3VGlDY01FMzNmcjRFc3Blc1ZVWmtwOU5aMW85TWJLMXRaSnJHUzVsdklhaS1VODdKTlF1a09QeDlXN1RRQ3EyMURBemNNbW5Qbzl3dnVwLUFJMnpTenh6ZjZPSGNTTzItTW1iNWhWeVRPRDY5cUJzWGhickZHODlrX19Od2xsaFR4THFJYmxoenBsQ29ldG93?oc=5",
       "featured": false,
       "draft": true
     }
