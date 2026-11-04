@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-03T20:46:40.650Z",
+  "lastUpdated": "2026-11-04T01:03:25.365Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -17,7 +17,7 @@
       "emotionalStake": 5,
       "summary": "Lionel Messi arrives at the 2026 World Cup as the reigning champion and almost certainly in his final tournament. At 38, he carries the weight of a nation's love and the question every soccer fan is asking: can he do it twice?",
       "watchFor": "How does Argentina manage Messi's minutes? Does he show up in the knockout rounds when it matters most? And what does his face look like if they go out early?",
-      "chapterCount": 581,
+      "chapterCount": 585,
       "chapters": [
         {
           "id": "ch-auto-nar-001-1779580128185",
@@ -4666,6 +4666,38 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVd3Uy1fcWlpRFg5bXZtRHkxeEhlcHNWMF9KcHdGWWZmQTJOelBqV0ltT1FITzNyMWNxM3BlT2xQVTd2a2dhUU5ZTklWemRjWTNuOFI2VlBfbmRfNG1SQnRITTNCdVdpazFlNVlLbHNyUkcwalA4NXBjVkFwUkR6NllkYWNKMTZ3OVkyYklqUXVLd01m?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793754203027",
+          "date": "2026-11-03",
+          "title": "Argentina sets first call-up without Lionel Messi for November friendlies - ESPN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUJmMEg3dzJ4SVRSeFlmMTlJTEVnUUJWVmlpUTZ3QmxvSzVqZEZJWXRXQkxDdURraHhRaGYySUJtVDdxMF9FOFlpdW13Z2FSVEZHcVVNRS1MYTVjODVuckpBdzg4Z0ZidjFzbUpPQVhuTDJ3b01XT2VFTjQ1dzZoaHdCaTNTNWJqSnFuZXUzVVNmbkJqQzFSbWFIOVZvZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793754203027",
+          "date": "2026-11-03",
+          "title": "Not just Messi: Argentina squad announcement features several big-name omission as Scaloni begins revolution - MARCA",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOajFja3Rmakwzek1xQURkU1UyRjU2QS1uNkdTR3RuZG9rODZySWJQeldWWXN2QV9XcXVJNjh4VzI5elZRN09zLTZnd25hcW1lQzVJRk90dnZwSDc5eFoycXRWd2F1Mkl0ZWdDTXd6R3ZBdTk5ZkZHNldZNzVPazl5dlo0VFFRNWJqT2lxVEhqM2YwQUVJclhBOUdfYmNFNVIyYUk2UHQ1QlpaRlN0OWh6aS1lXzRueUhTcVhlZy1Da3lsODhlYkhERU5YTHU4UFpsZ1BxNEUyTkt5SzJodkJTc1E4RUloMGVIdUVXMVdjZklPbUk4QzExZTNpb2JqUjJUTXBuc2k4QXIzSW5k0gGMAkFVX3lxTE93ank0RWhRc0hjbi1pUjhXd3lZcEFwbHZkaVlXRV9xbDFvODBzX3doLWRBUnZJY2U2SlNCU0RVSXIxR3FNOVZXbC1iRlBOOTJxYmM0dFBCYkQ3dmpzMG1ZZ0g3SUhocG83aVU2bFQ5dm1BcktMdmNBYmg1YzVBVDNMdTRQNkV6R3dzaEd4NmQ4cnIyLXdFSm11cDJyVlhyUzRKbHY3ZFM0LXdOVGk5S0t2SUhybDVWSG82bmhQT0d5TnRueVVneUVjUURDNmtlTk9tNWhKWkVVRXlxVHpvVWQwVGpvMkZoQnhkNTBUT3FZOHJISnB2b1pqLUFsUWhydHdfdUk2UW1BeFUyZ00?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793754203027",
+          "date": "2026-11-04",
+          "title": "Lionel Messi Remains the MLS's Biggest Commercial Star! - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3BBWHlhdkFtZk5XTTNXVE9zbmtvTlJUX3lXQjJNSkRXeGxHNm85d0hMSURvQmJFMmdOLWg1VTRBWFE0X1ZJelZOTEJkXy1BZ0phTXdPSW82eXhERkZma2JEYzNyZXFFckhiX1FLMWtVcGd6VnpUVkZNaU1MaGtnTi1HVFplbVJIa2ZxaS1fTTM0dU1XSHNpVW40MHh6bFpqRDVaM0I2VQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-001-1793754203027",
+          "date": "2026-11-03",
+          "title": "Argentina roster for November 2026 friendlies: First squad without Lionel Messi for matches vs. Uruguay, Costa Rica - Sporting News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUpGTHVMenFKV1BqQ01VSWhxNE1BMUE1M25JU2tWNEM3dzZVSHRUeTFPUVNha0psSlFsUkhHYzFxRzhXUVh2RDlNQ0RwbUJhQnhUZWpsQ29ibGtQVi1OY1daYjNyWERYTjFYR3Y4MVBGTHA0OTRvMEhxZURJMkVFcnBxWFR5dE9rMW9jcmp5ckttZ0dpVWxUOWFnMm9VOEMtUzJUSG9KbkdUQnRsd3FnVkpTV09aS3lVSjdYWW1WcC1BaGM?oc=5",
+          "draft": true
         }
       ]
     },
@@ -8519,7 +8551,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1218,
+      "chapterCount": 1219,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18264,6 +18296,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZVGcyTkU5eW92UFZMMkZWdVZTek5nWVF5Z1NDN2ZEZldqSmhLOE5fYW91VEhQNlBrSjY4NmNzdXRzeVE5SGZfcXVhUVRyWE80MFNKNlJoY2p1LUdUYkU5VW9SV29DTzR3VTVFSVZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793754204446",
+          "date": "2026-11-03",
+          "title": "USMNT roster for November 2026: Predicted squad for two CONCACAF Nations League matches vs. Haiti - Sporting News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDhvc09XOTJQWEtvcEg5akxKdWxfUEhYQndjemRCNkw3enhvYkEyVHZhNlh5VldNVnliQ3BtVzg4MldnUWhqRGNvM0ZSaU1MbkowdDI0eDdNTXRXTVlUVmFjQzBaODZyeE1yQ1Zfc2dFTlVVQnFRSnVyZFRib0R2V2JzS1VkNTVxMS1obHZhOTgycmFsdVNyYWlic0JnNWpoWndNVzRuV0daT0F0SmlYbUhuTXIybnFiWU9kaEVGYTc?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18282,7 +18322,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 802,
+      "chapterCount": 803,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24699,6 +24739,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNjROTi1zRUJ0OXpoa1BuOGxwSkt5Z05KSnMybjdiQTBSWlhfMExkSFlBdzM4dHNfVVltRTVLVjM5Qlc1bEpYSlNUQmZLa2dJVlU1YXNwNEhVNTNUc2tBaHE2M013d09PdWhtX2lhVzFQdGZSSjM0aHRpaWJVMkZ1NUdnQzh5RmwtVEpiYXcxUkxScWdBQUR6X0N0S0tmU2g4djhBdVEwMElHd2M1QVI3dS1ETHl0OFhUcThwNFZJYi1KTDRvNW1LcmxiNEFkSXlFWmRtcU9vVkJtOTFRUHJnLXU5eHg3X2gyVkVFRw?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793754204960",
+          "date": "2026-11-03",
+          "title": "Brazil vs. Nigeria: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction - DAZN",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ2UyeWV6Z2hqV2JJd2p5Zy03ZE5xcENnWmpqbnpWeVdSX2NUaGRGQmpGZ1QwMllSMHN2OWg5M0Y1UC1EbGJZOVFGQzVWTkhZWUlWWHBnSzhBX2h1aTBvTEVSenNOaDB4X05ST09NbEFKQl8xM0hkSmRwem5CcFdLLThTOW5jNDU2M1JYZV9DQXd4czg2OUFNMUtMN01jMXhHcXBVNjJRU0haVEtXMkFIOWVmR2Y5NjRQS21TTU1TM0RKeU03Rk1KU2VvTmQxdGhPMjI5dDVRaXFKODdDa0Qtd2ZJb1M2MWdaNVE?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24928,7 +24976,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1095,
+      "chapterCount": 1096,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33688,6 +33736,14 @@
           "title": "England's Nations League opponents in profile - England Football | Home",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkVhSnZua1V6bEpRc2Y2X3ZJbV9vRkl2V21HejZ6aWJfeFpsdWs0UmRyX1RtWWRHQ0hNY21QdzJJSmZBR3dqdUVCMFU4RXpfWlI5NV9YVmd2cU5KWkJhc0VYZXVGSkJGUG50Z2NvOWpONlg5ektRXzB6aWVDV0kwQnVuaV9DYjgwQWFlVWlCNVVKN2h3T21XeFZsX0lkZjIxbHRQU3pZMkYtS1pNbGhWcldQSmg4dnMtMWc?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793754205365",
+          "date": "2026-11-03",
+          "title": "mRLWC 2026, Wheelchair World Cup, round 2, daily wrap, match highlights, England, France, Australia, Ireland - Rugby League World Cup 2026",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CbnZfaDEyQjZ2U2doajhoRW5TN2IyMERteEc0QVdIcGFMd0xVRlZhUmdoUi00TDBrS0xZcnpUWUt4TU9Cbm1OcWpQTVYyLWo4eThoSXdNa1hYblZ3MnBVRkZ6bUFYT0c3SW1Ya0cySzY?oc=5",
           "draft": true
         }
       ]
