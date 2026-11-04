@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-04T01:03:25.365Z",
+  "lastUpdated": "2026-11-04T19:25:26.746Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -8551,7 +8551,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1219,
+      "chapterCount": 1224,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18304,6 +18304,46 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDhvc09XOTJQWEtvcEg5akxKdWxfUEhYQndjemRCNkw3enhvYkEyVHZhNlh5VldNVnliQ3BtVzg4MldnUWhqRGNvM0ZSaU1MbkowdDI0eDdNTXRXTVlUVmFjQzBaODZyeE1yQ1Zfc2dFTlVVQnFRSnVyZFRib0R2V2JzS1VkNTVxMS1obHZhOTgycmFsdVNyYWlic0JnNWpoWndNVzRuV0daT0F0SmlYbUhuTXIybnFiWU9kaEVGYTc?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793820325729",
+          "date": "2026-11-04",
+          "title": "USMNT Head Coach Mauricio Pochettino Names 25-Player Training Camp Roster for Concacaf Nations League Quarterfinals Against Haiti - US Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEpxNGZGZ002NFBxc0VLa3FqMTZFUEx1VTJPcmpMeHNUVUt5MVU2RFpJTVQ3ZFZIOFdCbk1hN3djM0JNaFJ6UGlnNTlJN2VzME1KM1BZQ3pLY1E0RGJGcFhlOERzODhla1o2ejNVd0dSd1BLbkR1N3FLNmZEZFBYNFlzUi1fay13TDRscmhYd1N6LXl6ZUtlM2ln?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793820325729",
+          "date": "2026-11-04",
+          "title": "World Cup Hero Balogun Returns For USA's Nations League Quarterfinal Vs. Haiti - FOX Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczNrdjZHT0JYbloyUklUUVpCYnRVMzFOcThHUGw5OXNTeXlzMTM3SmMyUkdWS3IzQzBwaFpOcURwT1RmQzhOMVI0VXV2S2NFeFEzbEVmMWJuLW15VUVZaE5heG5LV1FvSWQ2UDNIODd5Sk1yZTd1Ym15WTNVNDhBRHd6ckxBOWdaU3BJU19NUW00WndIcDkzUWNjVdIBmwFBVV95cUxOdTRsejZqWk1HT0p4LXg1OUJJY2pWMGpnN25mZUl1eVJKRGtSLXdkbzI3c1ZqV1dOZWx2VkI3a1lmQUpfUFdSeHN5Sk9DSzNsMkJfRHlLR2ZYQ01Rb2Q0aWlCTmd2aGl1azZqR2JKUUYxNTRyUHpRN0pOS0dGaHh1SWJmelh3akN4cVQ5aXNkaU9fWV80VGx3a1hNbw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793820325729",
+          "date": "2026-11-04",
+          "title": "Pulisic, Balogun back in US squad for CONCACAF Nations League quarters - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVhGSmZac3RucUZHRG14MEV4YjdyTzFTUU9lUnpIY3hoMjFRaVdJVVVwOW5US1BxbmtJN1g1eURQVUZuLUpaWTltX1JQc2hBeDB1TmoybkFaMV9lbllqZWpEdjZsYTFFUnFvNmZxREw3czZwYXZqYWI1ZExZblB1SE1hVGJ4bEZFVnhjMEhJRGdrOUxiUVQtZVR6cnIzYmRsbmQ0bDJ4TVJoMXU1bDJlSmdn?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793820325729",
+          "date": "2026-11-04",
+          "title": "PULISIC AND BALOGUN ARE BACK: Along with World Cup veterans and newcomers Sullivan, Hall, Mehmeti on USMNT roster - Front Row Soccer",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaTFhVkNGcXF1RWFIeWt0MEg1dHNDd0lpWkQ3Z1c0Wm9wcFlfdDBKdHRtNGFjSGRJUUFjRmIwRTNNUzZqREZCNWJYTXFqMWF2UnRrRm1EZHZoQUE1ODg3YTRES3VCX0ZnM0RGXzV1a1FuQV9VRGFOVVRPTThyajJ2b0hkTXdPdU43d0hiZE5CZW9FSGQ2SlZ4TDNhLTBKRVJzVGY3QXJycVE4VVRUWlFYQzgzT2V3QnpMenpiZUpZcTZqRUw1Y3R4UXpNdVdRT2VRSU16am14RmZPeWZ3czdHZGY5enRkTU15?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793820325729",
+          "date": "2026-11-04",
+          "title": "USMNT roster: 8 MLS players called for Concacaf Nations League quarterfinals - MLSsoccer.com",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUU1FbDJxQTJjTG13bUhqbENfNlZjNFJjY2F0TzhLSVI5VEpleExHMFd5eFFqQTYtdG42Q1BMZWZPYkRRZUJQX2xzNXBOWFBudWVqQ0RyV2dxam83UzViREllN20teXgxZk82aXloS3NZNHIyMzNvRzJkUlZ1X2IyYnpkMG5GZVRPb3lQM01HOTJpbU9oOENDZW00VTNKTVdLWkNGSDV1UVN0N3A4NVpXVkxn?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18322,7 +18362,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 803,
+      "chapterCount": 806,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24747,6 +24787,30 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ2UyeWV6Z2hqV2JJd2p5Zy03ZE5xcENnWmpqbnpWeVdSX2NUaGRGQmpGZ1QwMllSMHN2OWg5M0Y1UC1EbGJZOVFGQzVWTkhZWUlWWHBnSzhBX2h1aTBvTEVSenNOaDB4X05ST09NbEFKQl8xM0hkSmRwem5CcFdLLThTOW5jNDU2M1JYZV9DQXd4czg2OUFNMUtMN01jMXhHcXBVNjJRU0haVEtXMkFIOWVmR2Y5NjRQS21TTU1TM0RKeU03Rk1KU2VvTmQxdGhPMjI5dDVRaXFKODdDa0Qtd2ZJb1M2MWdaNVE?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793820326265",
+          "date": "2026-11-04",
+          "title": "Carlos Eduardo Patetuci assesses Brazil U17's World Cup challenges - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGJ4QlFPWWpBZjdNY2dVTjJOS2lPdFRKZlFfZjM1Y2NZMFhoS3lWaEdYZjVMWXFRdHFCYWdheDJhbVFtTkVranBmQWtmR1loX2xwWEUtQzJydFVsOGp3WEJZTjV0eG9KRThEMEFQaUIwM1VCWHBHWkhORlhmWEtTc0t6MjhmVzAyaDBldGoxZGEwZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793820326265",
+          "date": "2026-11-04",
+          "title": "Football: Minamino set to return as Japan face Brazil, Paraguay - Japan Wire by Kyodo News",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVE5ZNHZ2MFJwS1hlWVk4aHNYSVhZOGZBNWFYa3RpazZzS3N6dmNFU29hM2FfRG9RMlNRN2xhWmtUbklnVzRfb2lvV01XQ1lsVGlNY0hUTUxFdw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793820326265",
+          "date": "2026-11-03",
+          "title": "McTominay returns to Scotland squad after heart surgery - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkQzWHVuaEFra1U5clpDc3A1ZmtpdjQtNFpxMnFGcWVrRjNxX0tsRk1UdEI2bzNOdlVBN3hBQzlkeUlEdTRjXzFfdGhoRTBEaEdWdkN1aTJLWTR5NTFCZXFJVTJYM0VucnBaUWY3TlRHUThxNzhmV29xRWttU0xPUkRsZGx3YnFWazZ3VUlGLThPcmk2ekw3NF9WSkgzSWFHYzF3eQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -24976,7 +25040,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1096,
+      "chapterCount": 1100,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -33744,6 +33808,38 @@
           "title": "mRLWC 2026, Wheelchair World Cup, round 2, daily wrap, match highlights, England, France, Australia, Ireland - Rugby League World Cup 2026",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CbnZfaDEyQjZ2U2doajhoRW5TN2IyMERteEc0QVdIcGFMd0xVRlZhUmdoUi00TDBrS0xZcnpUWUt4TU9Cbm1OcWpQTVYyLWo4eThoSXdNa1hYblZ3MnBVRkZ6bUFYT0c3SW1Ya0cySzY?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793820326746",
+          "date": "2026-11-04",
+          "title": "Foden aims for England call-up - but not spoken to Tuchel - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2ViUXU5YWQwRjBaZy1YRHYxWC1RclB6aGd2RGVIdlRvRFJCWUZ1V3FQQURrMktqQVppTXprOE1UWWs5TElFcmJLVlo4UGd5OUM0RUhjdzlOLXBLV2t0eHNqanpOYTAxX0lMaTRUdmNTUUJOSmh1RW9pV2VfM2RGNnZ3?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793820326746",
+          "date": "2026-11-04",
+          "title": "The long goodbye: England taking their time to leave Rugby League World Cup - The Guardian",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkVGTWQ1R0hqdm4zYUZncF9EbFZNa0dqb0kzS0NVUmVvWmhpdFd5TDh1MnJXRE85OFZGYWhySW1JQ3hTbzFKSFV5YUZBemM5eG9lUi1jaGE5cDRTbmtHd2JWZkJWNkdiMVllczVIcWxla2VlQWE5SEFJWmJfSW5fbmEzQ284TG5SclF6Y0h3bk83bGxtUEcwX2RZY2tONE5YcjA5MXhnMEd5RTJBNUZKQm1RWU9paHNLbzMxSWRQUnYzc19uT0VGTWdwbTFGaHZLSlE?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793820326746",
+          "date": "2026-11-04",
+          "title": "Nations Championship month to offer Rugby World Cup clues - Reuters",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFRyUDJuVU81d0loMGV1YVhvM2RabC11U1dLczZpOHZIRjh2WFdCVVdMU0psSThsNm5fNkVKQ0NDcmFNMzMwODBRTllFMENqNVlRUF9JZDhSQ1FGMEY5YlZZWGtFX3pQc1pNMHNuMGxZQWNnSlhqZk5TWFJVUzY2Snp0QzJDUjNtVkdoMjBXTS14aVk5TVU1Ylp0SXhLZw?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793820326746",
+          "date": "2026-11-03",
+          "title": "Five World Cup stars who could make 2026 FIFPRO Men’s World 11 debut - FIFPRO",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRMT1NsNzJWLVlaMnc2a3hqaFBGSFc4Z0FrR2tsS1FKT1U4YnFmZG1oZkNrT1N2RThsOVFJU0pRWVhjMTljMDAweFlOMFo5TWhIV0ROekVhOEE3Wk1JOWpUYmdtQldRdjIzWGVHRFF0cVpfVnpTLVJSTjg5WDVHQk11ZGZPdHVydS1wMFpMVnplZGFJbTBCQWpVZE40azFINHJwSGVIa0RtYnF0el9jUA?oc=5",
           "draft": true
         }
       ]
