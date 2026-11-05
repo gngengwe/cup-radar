@@ -1,7 +1,84 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-04T19:25:24.310Z",
+  "lastUpdated": "2026-11-05T01:18:34.482Z",
   "articles": [
+    {
+      "id": "news-auto-canmore-s-soccer-scene-gains-ground-afte-2026-11-04",
+      "headline": "Canmore’s soccer scene gains ground after FIFA World Cup - Rocky Mountain Outlook",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRE9ndjZ6RHNTS0dsNmgwdGtUZk9kZFdXSVdpcE1iVTVYd3g0cld1VlNGN0RjRlRsZ1NiMnFmUlpwV0l5RUxXYXZrc294bXEyUy1GWG5MdEM4anFkSklra3ZNLUVyTlpib1BFWm1sNjZWaUhPQ0hYOWZDRDljbjRrM3RMOE5sOTZmOENTem9GSW9VUTdmQmtJRGlVR0g5UTJPNzJUV3JB?oc",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-04",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRE9ndjZ6RHNTS0dsNmgwdGtUZk9kZFdXSVdpcE1iVTVYd3g0cld1VlNGN0RjRlRsZ1NiMnFmUlpwV0l5RUxXYXZrc294bXEyUy1GWG5MdEM4anFkSklra3ZNLUVyTlpib1BFWm1sNjZWaUhPQ0hYOWZDRDljbjRrM3RMOE5sOTZmOENTem9GSW9VUTdmQmtJRGlVR0g5UTJPNzJUV3JB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-japan-1-1-north-korea-nov-4-2026-final-s-2026-11-04",
+      "headline": "Japan 1-1 North Korea (Nov 4, 2026) Final Score - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTdWbG1kT3F2YVAyYUxaY203MVZCcklxUHg5cHNaeklmaG1pOGdhWlZMTmJjd1drMDV1SzJTNDJJcUFUNm12V19MOWdvR0ktZzhpMkg1ZkJfdzZNTjd4aFpyLWNZZ3dlVUNFUEZEeUNJVFhzNjkxZEJjSW1wQjNxRENCbWQ?oc=5\" target=\"_blank\"&gt;Japan 1-1 North Korea ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-04",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTdWbG1kT3F2YVAyYUxaY203MVZCcklxUHg5cHNaeklmaG1pOGdhWlZMTmJjd1drMDV1SzJTNDJJcUFUNm12V19MOWdvR0ktZzhpMkg1ZkJfdzZNTjd4aFpyLWNZZ3dlVUNFUEZEeUNJVFhzNjkxZEJjSW1wQjNxRENCbWQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-nigeria-reach-fifa-u-17-women-s-world-cu-2026-11-04",
+      "headline": "Nigeria reach FIFA U-17 Women’s World Cup final after defeating Brazil - CAFOnline.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1lhUzVjQS04NWhEQlJDY0JOelNWd3BRenUtU3M3a3UzcFdMcHdTZm05REJZQVFRUkMtUTBEbFZycmpiVEVmZVdjVnB6aWF2Zm1ScU5ibFctZTNUSmlSblBQOXhaYmZ4VzFlVVptaW9wZXpvVXFod2EwYVBOZXNZT0pVNnNDb1NmN3FjLXhlWV9WT3pQempncDl5MldIdlF4YzAxTnFyMHE",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-04",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1lhUzVjQS04NWhEQlJDY0JOelNWd3BRenUtU3M3a3UzcFdMcHdTZm05REJZQVFRUkMtUTBEbFZycmpiVEVmZVdjVnB6aWF2Zm1ScU5ibFctZTNUSmlSblBQOXhaYmZ4VzFlVVptaW9wZXpvVXFod2EwYVBOZXNZT0pVNnNDb1NmN3FjLXhlWV9WT3pQempncDl5MldIdlF4YzAxTnFyMHEzVENmYUdWaVVoZDQ4RHhua1E?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-reports-15-billion-in-2026-world-cu-2026-11-04",
+      "headline": "FIFA reports $15 billion in 2026 World Cup revenue — The Guardian - UA.NEWS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1UREtaV0ZWMmR2MFhXcS1PckMzbEp4QXdDYmptMlI5WF95Z1BtR2NDZk45VS13QlRtNF9uLXZCXy11OWtZRGhFSE1NaDlKYXZXeEV5WXBuYVF0am11cXh1VkYzUklPTGlfNE5xZV9MRkNxSTZsbllUUnpEUWgtVzRjUnN6azJa?oc=5\" target=\"_blank\"&gt;FIFA reports $15 ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-04",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1UREtaV0ZWMmR2MFhXcS1PckMzbEp4QXdDYmptMlI5WF95Z1BtR2NDZk45VS13QlRtNF9uLXZCXy11OWtZRGhFSE1NaDlKYXZXeEV5WXBuYVF0am11cXh1VkYzUklPTGlfNE5xZV9MRkNxSTZsbllUUnpEUWgtVzRjUnN6azJa?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-game-on-seattle-here-s-how-to-get-around-2026-06-11",
+      "headline": "Game on, Seattle! Here’s How to Get Around during FIFA World Cup | #WCSeattle - SDOT Blog (.gov)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5\" target=\"_blank\"&gt;Game on, Seattle! Here’s How to Get Around during FIFA Wor",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YUJHejFYUnk2SU5zQWI1MlhBQmdZOTE1YTFQcW9YdkV2bE8ya05SY0hmeldiZkhFT0JzNU83eEtuYWxDVi1Qb05jUERLQ3Y2Z1VOUnRHWnZ0bGZnOHgtV2hfMjc4LVBLRlE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-s-world-cup-guide-for-july-1-2026-07-10",
+      "headline": "Kansas City's World Cup Guide for July 10-11 | Everything you need to know - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5\" target=\"_blank",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-07-10",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGVxUFdGb2xMcU5KdktZb2JIWDVONDg5OTVncHoxbHNVb0RObDd2YkpmOFV2Z3lkVlRHX2Z0RS1MMGRWWGNrcVVjTjYxMnZiOWt3SU9jWnpvVkpZUXpNZHU0YW5FRGI5ZEF6SG5qUlJSX2JzRkN1QTNCUVVqM2gzblYzZU5XalhfZHpSUnhvdVk2MVNWWTlaNw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-washington-state-is-spending-120-million-2026-06-12",
+      "headline": "Washington state is spending $120 million on the World Cup. Will it be worth it? - Oregon Public Broadcasting - OPB",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2IzU3V1ZGt4c2kwMWJNTlhZUHlFSVQ5czI0WXp5NGZBaEJBR3NUM0VxOFM1c29LZ3lkaTRLZXVmc2Vma0ZKZ0haY1VReXVWeFNEUjBzcTZwR1dMdGdmd0I5ZXNvaUhYNm5uMngybFk4cjBCZHBldi1HemxaS0xiN1IxS0o5dF9mblN1Uk9mSjdpeTBvYklDdk01ZlB2Q2lYUC1vMw?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-billions-in-revenue-proves-fifa-right-on-2026-11-04",
       "headline": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about - The Guardian",
@@ -1022,83 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-30",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmtTQmRTalVVdEFqRVBkN0hlUUtRYTFuNnp0TlFNS2hnRGY0V2hRWHV1SE1jNHhsbHpnWnpBek9oTlI4QjBHZHlSZ1hySjJtNC1vTHdLUXVLYWFxZ01aRVc2RXRvSGhPdFQweHFJM2JwSUNjZlNMRFpYN3A3NWttRjBvU1JTbG9FX3Q5bDg3bGRVbG94WlJJdC03dndsRlNVWVI2R3IzZnk0aGhXd3dweHg2U3JvNFNVXzdV?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-usa-beats-spain-2-1-in-fifa-u-17-women-s-2026-10-30",
-      "headline": "USA beats Spain 2-1 in FIFA U-17 Women’s World Cup Round of 16 - SoccerWire",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmVkdGRWT3NIT2R5TFp6NGNJcGZvckJNdmNmZGRDRUdEOXZYVEpqdGRvSHdXbWJ0UDN2Nk5fa1A5ekpPMUdhMHFfcjAzcURyTGVRQTFseUwtNUlrTEFSb0NydDJncWRGQWdRNFJsYU9VVUY2VUllbkJ2dXo5SkNHcXpHaXYzWVR4ZmFQLTdpZFNmX1dXTEdONHhn?oc=5\" target=\"_bla",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-30",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmVkdGRWT3NIT2R5TFp6NGNJcGZvckJNdmNmZGRDRUdEOXZYVEpqdGRvSHdXbWJ0UDN2Nk5fa1A5ekpPMUdhMHFfcjAzcURyTGVRQTFseUwtNUlrTEFSb0NydDJncWRGQWdRNFJsYU9VVUY2VUllbkJ2dXo5SkNHcXpHaXYzWVR4ZmFQLTdpZFNmX1dXTEdONHhn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-u-s-cities-navigate-event-selection-proc-2026-10-30",
-      "headline": "U.S. cities navigate event selection processes for 2031 Women’s World Cup and Men’s Rugby World Cup - Sports Business Journal",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZU1VcDJvMGZRcHlweTFmdGJISF9Zbm9acmtwM2Q2bFhvSDFPZWctWmtlZlVrb2l3cnhhd2NWUHdWQUFleHUwSllqNTVMMDY5S2N3eFJKVGZHbDBWV0RmN1JRaVNzU2VnRGdOeFB0N2pwMzhnQVQtVTllWGFuYTd4RzhXUHphN3k4SEw3ZkpoVFRQV0hDTUhLajNtMjZPYk9PcHRjYmJMXzd",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-30",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZU1VcDJvMGZRcHlweTFmdGJISF9Zbm9acmtwM2Q2bFhvSDFPZWctWmtlZlVrb2l3cnhhd2NWUHdWQUFleHUwSllqNTVMMDY5S2N3eFJKVGZHbDBWV0RmN1JRaVNzU2VnRGdOeFB0N2pwMzhnQVQtVTllWGFuYTd4RzhXUHphN3k4SEw3ZkpoVFRQV0hDTUhLajNtMjZPYk9PcHRjYmJMXzdDYTlTNkxtOFFwazItd3p1MFNMRUQxNEZJb2ZleUV4ZHcxVzNpeEw1aGxqUC10cERNY2JOQVpmYWlQRk9qajM3aFE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-soccer-celebration-powered-by-le-2026-06-03",
-      "headline": "Seattle Soccer Celebration Powered by Lenovo Announces Free-To-Public Programming During FIFA World Cup 2026™, Including Rave 52 Free Play Events - Seattle Reign FC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-03",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUxUeWstYmhxcjlLQVVPdjZNY29oYVJvMGRXc0pWcHFZakFCSm9UVFVHMzlCX09XSVl2dDQtblVwREtKb1RmejU0cElvRGI3ZjdwdWcwa2lNNXFZUUxFUlVVdVRBNWJGYlhZZ1NmUTdlMHB6VjBqd3pONUtQNmRxbVVwZ3FDMEpDYVNnaFZua1Zjbk1jSUpqck5EeXVaeUdVZnMxemplVG9nWm5vTkNhLUt5c29NeHQwdkNEQk5ybmU4eWNlekZfZ2cya3VXYUZFQzVwdU9ZLVk1TUhJLTRBMFBaS2t5ckt6RU9wSnd5Y014eXZwaWRidVltdUROa1paU1E?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-what-seattle-soccer-newbies-should-know--2026-06-09",
-      "headline": "What Seattle soccer newbies should know heading into the World Cup - KUOW",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5\" target=\"_b",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk5HYkNiOEFkMUhHRnROMGVxTllrc0ZSakdTYm00dGdjM2YxUW5vNzhMTng1bEl1ckw2dTloSHd2RDgta2MxQS1uVndOVmxsWHRzWk9fdFZNSjc4dkd1Z2ltaFFwVGQ0MzVjcmZ3RFJlVWF5T19EODhldS13enEyMWdLbWU1ZVZGWDZncFVSUXNiNEFpbEVSUGpHTQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-2026-world-cup-matches-in-seattle-start--2026-06-04",
-      "headline": "2026 World Cup Matches in Seattle: Start Times, Dates, Locations - FOX Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNb24zaVVBLXRMTEEzVjdXQ0JWZi0xeVZ1ZnlTY1JlRmxBZ05VMUpMMlZ0Mmk4VklsT2xhOHFqWFdKRXI3ckNjdWtubkJ6bFZ5Q2NDeTJud25QSkRtek5IV2pGb0o1X3ktd0JnNkRBR2ZqakVkTHNiVkd2X0hKazBGenotTlA2Y3JJb0xCQzRVa0FMemNyVW1CeVZhOHFGZFlW0gGgAUFVX3l",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-04",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb24zaVVBLXRMTEEzVjdXQ0JWZi0xeVZ1ZnlTY1JlRmxBZ05VMUpMMlZ0Mmk4VklsT2xhOHFqWFdKRXI3ckNjdWtubkJ6bFZ5Q2NDeTJud25QSkRtek5IV2pGb0o1X3ktd0JnNkRBR2ZqakVkTHNiVkd2X0hKazBGenotTlA2Y3JJb0xCQzRVa0FMemNyVW1CeVZhOHFGZFlW0gGgAUFVX3lxTE1TVFJGQThVbDk3bGpmZTRDVWdZS24tS3RoWHo2enEzc3F0TXgyTWFEZTJTaEJNX2t1bEhxLS1IWjdNUGluMHJ2NGV6NmJVMWF6ak5uYmNJampGejNxVWt3bGVIVWhBU3V2dVdGeWJHR3Y3MDZycHJzakt6cnItNGs2cjdJWFdXTGJueTZuX0FhM2VESjVVUnFJd1BTekQwSzg?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kansas-city-world-cup-spending-sets-reco-2026-10-29",
-      "headline": "Kansas City World Cup spending sets record, falls short of projection - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3cxY09vR1dIM2IweVJtY2E0Z3dBSXlZMmc4dG9uMU14OURPaUJXUXk2OXBRNFBRM2M3Q2RCQ2JoQmVMS29xdWVOVThGemNxaHpfaUlOaWJQdXAtZmFwOG8wS3hrNkc5THlBVmI2YTZYemxaZk9sczM1dWh3ZFlHaXNBZld4cmQ2dGt0M2Y5bFJvZmxaVHVuSzdLdjRHWWNDSTE4TkhnNkE",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3cxY09vR1dIM2IweVJtY2E0Z3dBSXlZMmc4dG9uMU14OURPaUJXUXk2OXBRNFBRM2M3Q2RCQ2JoQmVMS29xdWVOVThGemNxaHpfaUlOaWJQdXAtZmFwOG8wS3hrNkc5THlBVmI2YTZYemxaZk9sczM1dWh3ZFlHaXNBZld4cmQ2dGt0M2Y5bFJvZmxaVHVuSzdLdjRHWWNDSTE4TkhnNkE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-visit-kc-gives-update-on-2026-fifa-world-2026-10-29",
-      "headline": "Visit KC gives update on 2026 FIFA World Cup Impact - Spectrum News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGx0WlVkUHE0RmZNNmVkQjJ6QTV4bm5QWWU2NGhHZDdXbkI1Y2ZVbjV4bFpRMmFfbk9UM2NESlF5eW1UX2VYcWdUdV9lRk9hVDEydGJCNFRRY2xRVHppSDhlYlBrWElFWkprbHlDeXcxRnNlQy05SHFMTF9JbjB2LWtCRjFEY3ZpS0hpUmlCdHdHdzZ2V2RWZUsyUkdFOGZ1YWdMWTNGWnd",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGx0WlVkUHE0RmZNNmVkQjJ6QTV4bm5QWWU2NGhHZDdXbkI1Y2ZVbjV4bFpRMmFfbk9UM2NESlF5eW1UX2VYcWdUdV9lRk9hVDEydGJCNFRRY2xRVHppSDhlYlBrWElFWkprbHlDeXcxRnNlQy05SHFMTF9JbjB2LWtCRjFEY3ZpS0hpUmlCdHdHdzZ2V2RWZUsyUkdFOGZ1YWdMWTNGWndYYzJOR3NXRGVoTQ?oc=5",
       "featured": false,
       "draft": true
     }
