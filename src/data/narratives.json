@@ -1,6 +1,6 @@
 {
   "_note": "Tournament storylines. Update status as the tournament progresses: pre-tournament → building → climax → resolved.",
-  "lastUpdated": "2026-11-06T10:26:17.283Z",
+  "lastUpdated": "2026-11-06T18:56:25.990Z",
   "narratives": [
     {
       "id": "nar-001",
@@ -8575,7 +8575,7 @@
       "emotionalStake": 5,
       "summary": "The United States has never won a World Cup, and they've never hosted one with a team this talented. They opened with a statement, beating Paraguay 4-1 at SoFi Stadium in front of a roaring home crowd. Playing across LA, Seattle, Dallas, and New York, the USMNT has a generational chance to turn the country into a soccer nation overnight.",
       "watchFor": "The home crowd energy clearly showed up on opening night. Now: can they back it up against Australia and Türkiye to win the group? How far do they go from here? And how does the country react if they make a deep run — or stumble?",
-      "chapterCount": 1232,
+      "chapterCount": 1234,
       "chapters": [
         {
           "id": "ch-auto-nar-003-1779580129131",
@@ -18432,6 +18432,22 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmxHNlIyd3JkeWVKajhJQXg5NEdJcGpFenBQX0dCSmVaNlJkMXJLeGtyMnhhbFBUbW1fblNrZUxrckFnQlpxMThyS0RUX3VXYng1VVo5Ull4YWpsZHdhaThOdWxSS1VaMzRoTnp4UVRweDhQdkZZZ2s3Q3ZxMHdQUU1CMjBhVmJs?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793991384855",
+          "date": "2026-11-06",
+          "title": "Revolution Academy graduates Judah Siqueira and Makai Wells earn U.S. U-17 call-ups for 2026 FIFA Under-17 World Cup - revolutionsoccer.net",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJFYVNmb2hKYXl3Q2pJY2s4ckxjQ0UxQmloNDN5MFZxWW15U2MwZlgyU3ROcWxNS2psYWpNSnV4ekJHWVBTT0N6TjdlbDBiMWJvUHZWdkgxTnk0OG1SRHBiUlNNYTByTmpLMDBCcklEWC12QThlTDg3aXRYYnhsS3EzTHlCU2NCVm11YjA0YzF2bWZHY1JKbFpvUmp3SlNqSzl2ODBXWDhwanM?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-003-1793991384855",
+          "date": "2026-11-06",
+          "title": "Chicago Fire FC Homegrown Player Robert Turdean Named to U.S. U-17 Men’s National Team Roster for 2026 FIFA U-17 World Cup - Chicago Fire",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa0hlUmZYTHZaSk13QzhrVTk3UWFUbVNlbDFVRWZJa0NSWDhnaE45YnJQZVQyUnFwQXBmN0lORm9ma2JKaV9pVnZmRVZVNDRIMmtCcW5NbFlFeUpSSnFqaHRxaGhFU3dnNF82aGZMb0JVc3EyV2poUmdvQ3kyWUNqRDlSclpxQ2ZwMnlQRUN6QjRQX2NQb0JyS0FwZmhfVXFOcndtV1FLWlVyUjJvSG8tV0htNnVPQ1ZhQVUtSm50YmdyN0NkRm5iVnhWYXRzeloxLWpyUHdGalpCUTd2YmxONHZxMjl5WHZDa0s5bQ?oc=5",
+          "draft": true
         }
       ]
     },
@@ -18450,7 +18466,7 @@
       "emotionalStake": 5,
       "summary": "Brazil last won the World Cup in 2002 in Japan and South Korea. Since then: quarterfinal exits, a 7-1 humiliation at home in 2014, and years of near-misses. In 2026 they arrive with Vinicius Jr, Endrick, and a squad that has been building toward this for years.",
       "watchFor": "Can they shake the psychological weight of 24 years? Does Vinicius Jr announce himself as the world's best player? And can Brazil handle a knockout-stage pressure situation?",
-      "chapterCount": 815,
+      "chapterCount": 816,
       "chapters": [
         {
           "id": "ch-auto-nar-004-1779580129714",
@@ -24971,6 +24987,14 @@
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGU4QW9IeVcyZ3cySjY4Rlp4aXJRb2NqXzF5a2JOTzVnMGkteV9oNXA5d0hKdFFjR0xhakZubFFhM0VOYnRtaGZ4WGhBNW5iejRYRWpleGtIN0dacHg4R1FfanFhNHZKUVNlYWFXNGpSQUFWbmkzcW9mVXduN2tEQ2M0V25kWWtFaXQ3ZTRmVTFKeGhmcDk1VXFWT3phdFNTT0JrUzlHMHpPOXVsR0ljdEZn?oc=5",
           "draft": true
+        },
+        {
+          "id": "ch-auto-nar-004-1793991385449",
+          "date": "2026-11-06",
+          "title": "Rilany, sole woman U17 World Cup semi-final coach, leads Brazil for bronze - Yahoo Sports",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGxueWxCaWFzT2NzaFcyVGFMczB5eGFUR0dDRmlfVlNJODgtTWN0UWc2b2t3cmI2akJ1RUtscXF6Y1RYdEQyOE1yMkZvM2tkRmZPUGZSU3o2LXlDYXQ4SjdSenpuLXJaSHZDRXBBY24yVHFBQWtTbW9WcXNzV0dkcE5B?oc=5",
+          "draft": true
         }
       ]
     },
@@ -25200,7 +25224,7 @@
       "emotionalStake": 4,
       "summary": "England reached the Euro 2020 final and Euro 2024 final. They have arguably the most talented squad in English history. But the weight of 60 years without a major trophy still sits heavy. The 2026 World Cup is perhaps the peak opportunity for this generation.",
       "watchFor": "Do they finally close out a major tournament? Or do they find yet another heartbreaking way to fall just short? The English football psyche is watching.",
-      "chapterCount": 1107,
+      "chapterCount": 1110,
       "chapters": [
         {
           "id": "ch-auto-nar-008-1779580130184",
@@ -34056,6 +34080,30 @@
           "title": "Jude Bellingham Is Causing a Stir in NYC, and It's Not for Soccer - Sports Illustrated",
           "body": "",
           "sourceLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDJ6LXh1b21kb0ExZlpJVElNYm1ObUt3WFBMOHZ4Um5kTUlkWUczSWxIQk5zQUloakIwR0pmMkZmcWNTMldRNFFRbTZsOTVhV2s1bUhVWHdHcTU4U2RlSHJNQ210NUdnbTFnVllic0RXUWNKQy01ZkQyaHdQanpFZEtDR0Jra0hVN09mbDE2eG94eWZoWFg2OGc1cy14VWhPanRYV2NKaGtGQQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793991385990",
+          "date": "2026-11-06",
+          "title": "Cole Palmer left out of England squad, Josh King and Jobe Bellingham included - The Athletic - The New York Times",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2VZemJoU1cyX2luWG1QN0JZVVdPaEFaSUVfdHp2a1MyajNTclBvaG5uZHQyOXJldEhEdnBUYWhrMm1LOXp0T3k0TVFNQmpJcXdycGNiT3RzRXFHNnRnYlVaZndYeDQtZXoxQjJDd1RSeTBMeTYteHNrSzdMRm5oYS1xRU4xUTRMMVAzTThfVkQ?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793991385990",
+          "date": "2026-11-06",
+          "title": "England Wheelchair finish group stage unbeaten after thriller against Ireland - The Home of Rugby League",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzAyRHRRVHNxTU1help0aXBza200bzN2TDhYVjlvRkVyQldpZmFKREVhM01fU0NIU0o1N3JTTGt6SlViTUJVUEZmVVppNnpWMExkV0ZISnRnb0hmazZ2WFlUelozMGgwaEhmX0d0MGhjeFdldFdhS1BiaWhsazNHU00zemFaVGlHMmpIWHBmc1FGRkUza19fb0JUY1NELW84NDVIdHJ5UFNwaWNQQnpOeWMwTmIwS2FDaGVicg?oc=5",
+          "draft": true
+        },
+        {
+          "id": "ch-auto-nar-008-1793991385990",
+          "date": "2026-11-06",
+          "title": "Palmer left out by England as Jobe Bellingham and King earn maiden call-ups - beIN SPORTS",
+          "body": "",
+          "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlJ6bVp0dk0zNWc5eXFuYkZzdFprOHVCREFBMDBjbWYwSFhLT1EtMkpaeU84S3E4aEtJUmFlcERSUmdxSE1FenBqNEh1LU9ub3BXX1dJallOMGxMbjZkXzZOekRuZVlYSmM2OE10cFBzSG9RRjR4c1FJXzJES2hHYVFma25SR3EyUUxla1JNYU1jQUZINVdNR1Jpemg3cDNQVGFTX2pwZGp5a3RfLUh0VENYY1V1aWl3emJIWkJWRGJKZFRyOWJsRUxsU0pXLThYMTNyZlByVG1icXhOd1ozQzlRTHZXV0ZrZ3ZJ?oc=5",
           "draft": true
         }
       ]
