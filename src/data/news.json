@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-05T19:33:46.114Z",
+  "lastUpdated": "2026-11-06T01:23:07.855Z",
   "articles": [
+    {
+      "id": "news-auto-giant-soccer-ball-artwork-in-west-orange-2026-11-05",
+      "headline": "Giant Soccer Ball Artwork In West Orange Was Inspired By World Cup - Patch",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNeExHak1rcGJYOFBwcTZPclM1endIczB6LVpPV3FrbHd4VE9GckFiLVBETV9FUHV3OW1tZnJmeXd1akJ2cEZrX1czbXFKVHJvZzhjZTNieFNVbWp2aVhWNHdtRHBGcEJJNXZkQ3NTaTZkX1hmazJVNFlkSGFweHBLMFNlazVYZEpfQlR1YVlqUG1xVVhpbW9VeGpfTFJsSnotYWfSAbsBQVV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-05",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeExHak1rcGJYOFBwcTZPclM1endIczB6LVpPV3FrbHd4VE9GckFiLVBETV9FUHV3OW1tZnJmeXd1akJ2cEZrX1czbXFKVHJvZzhjZTNieFNVbWp2aVhWNHdtRHBGcEJJNXZkQ3NTaTZkX1hmazJVNFlkSGFweHBLMFNlazVYZEpfQlR1YVlqUG1xVVhpbW9VeGpfTFJsSnotYWfSAbsBQVVfeXFMT2NMbmZsYjdiUXZJWEx2bkJ3aGk2TVFDalp0bFNRcU9LbXFCell4Q3ppZkpTRnFvQk9LSlZwbDVMQzVSUXVneTBTTE1reXlrdzZnNjczczBVZlVjTWZJTzdBQ1pZVTRNZXJCSFlnV2lfNEt4RjZfS2VRU2hUTWhjZkJJM3R1QUx4eHVFdkNpRE9peGgzY3M0VnJDclIycDI5dmNvbHFDMjhWSlJlb0xqX29pWU5yelBHak9Ndw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-to-host-2-more-fifa-world-cup-ga-2026-06-30",
+      "headline": "Seattle to host 2 more FIFA World Cup games. See schedule and who’s playing - Tacoma News Tribune",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVh",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmxBMGI1RVBudHlOWUhSUE1fcTRPS3VCM3lRMmZ0cVFIVlBrNG9BWWRQbEpEa3Z1aWlrMnh6V0UzUUNOdnEyMmpYNHg3aDBiemM2MU5PNEZZRVBoak1mNzJGVkEzTUVPYnlrNU5MR18xekdOTDZBdmpwbzVYUEpGSm9zR21UTGI20gGIAUFVX3lxTE5Eb3pDcndJdmhTdlNyX1Q1a3ZleVhsZkRsRUVCbjQ2Sm1SbHQyMW1iZUtPd3F1VzVJbUlWMmt1MWRNcDRuQUZBY2hDckZNZjNPUHhXSnpJcHdfeTJpX0dDLWJiTVNiYS1oUTZSeWFtajlzZTVwTHItc1RFcTM0cWNXZUcya2ZyV1U?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-kansas-city-unmatched-the-best-images-fr-2026-11-05",
+      "headline": "Kansas City Unmatched: The best images from Kansas City's World Cup festivities - KCTV",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWxIdWVDX09kYTJwR1ZLc093a0RMVWtfVFdsbHY3eWtWMm9vZ2tIZVpHTW4xTDJ4SFc4ZnV4dmc4aGM2eGhYTTFTRC1RQlB4X0NpWExKMFczdnpHUEJ5aF92UnppenluRjBBMGlWQjEtaGhFSjhrM3ZIdTJfLTNKczVNTHk2anI5RWVxMG1GNTJZcHlNOU4yTFVUU1hjYlUyRFJVcms5WjJ",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-11-05",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWxIdWVDX09kYTJwR1ZLc093a0RMVWtfVFdsbHY3eWtWMm9vZ2tIZVpHTW4xTDJ4SFc4ZnV4dmc4aGM2eGhYTTFTRC1RQlB4X0NpWExKMFczdnpHUEJ5aF92UnppenluRjBBMGlWQjEtaGhFSjhrM3ZIdTJfLTNKczVNTHk2anI5RWVxMG1GNTJZcHlNOU4yTFVUU1hjYlUyRFJVcms5WjJkUlNWMXc?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-inside-arrowhead-stadium-s-transformatio-2026-06-08",
+      "headline": "Inside Arrowhead Stadium's transformation into Kansas City Stadium for FIFA World Cup 2026 - KMBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5\" t",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlEyT2JXSFc0Mjh1QkM5SmtlcWRYTGtycnFBenZJeVVLWXhvZVYyQ014WnFKVllOaG04QW5mQVNBcWJBVEJKeWhVcFo3dGwtSEl3YmdFeDNUa1ZWeXRHYU1pWHhqeEQ3SG1rRERWX1VEemNDcE14WkJxUWI3UHViOE8zZy1BTXgtLUtINF9wUFNubVhVTzBLS3FXWlNRa3VZWGc?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-cristiano-ronaldo-tribute-upon-his-portu-2026-11-05",
       "headline": "Cristiano Ronaldo tribute upon his Portugal retirement - FIFA",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-11",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-news-sps-families-plan-for-world-cup-tra-2026-06-12",
-      "headline": "News : SPS Families: Plan for World Cup Traffic - Seattle Public Schools",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5\" target=\"_blank\"&gt;News : SPS Families: Plan",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVEenB0TEJkNEtsMVpMSmFfbDFWX0t1LXJCUGRsZ3JPMnktcms0dS1ZeGctdnZPbWNTaXZjMEpxSUhTRDRSbU5BWmFmWUZUWUpWMFEzaGxkV3ZFX2pUSVpsTUJKQVVIZjI3S091OFd2UHJhQ2tUazdBQUtIYmlVMEh3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
-      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-06-29",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-sbj-unpacks-u-s-cities-applying-lessons--2026-10-30",
-      "headline": "SBJ Unpacks: U.S. cities applying lessons to 2031 World Cup bids - Sports Business Journal",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5zRWc5SWdhSy04UzVueDRwUERIdlNiZzQzV0IwX21ORFBaQUplLWNPMXlzV3NQYVYwV25DbWVaWHl0OXhUYUdhb0U3MG9WVkVldERsbXFWWUpXX2lpa2NPdjA2bERVSUhhOHFYdS1tMVFCY2lDX2tCODNB?oc=5\" target=\"_blank\"&gt;SBJ Unpacks: U.S. cities applying les",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-30",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zRWc5SWdhSy04UzVueDRwUERIdlNiZzQzV0IwX21ORFBaQUplLWNPMXlzV3NQYVYwV25DbWVaWHl0OXhUYUdhb0U3MG9WVkVldERsbXFWWUpXX2lpa2NPdjA2bERVSUhhOHFYdS1tMVFCY2lDX2tCODNB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-skc-ii-midfielder-zamir-loyo-reynaga-sco-2026-10-30",
-      "headline": "SKC II midfielder Zamir Loyo Reynaga scores 10 goals for Mexico's U-15s at 2026 FIFA U-15 World Cup & Festival - Sporting Kansas City",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1hiaHJHMkVEdnF0S3NQSDBSMlByVW5JeFpKV3l2dXFLcWFfN0E0Y09YcHpDNDJsMlZOYzF1cjFFWm91U2JCc2JQZ29hUHNjNWJ4d0U5U1NEendpZkpyalZnOGFfeTNyTVdUeUhxWkhlZnFOTHhRTkNTMXJKN3JDcHU5MnozRGNKRndreS03ZGswSVJNQm5NNkNwLVVTOFNLaXpfRWg3Q2s",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-30",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1hiaHJHMkVEdnF0S3NQSDBSMlByVW5JeFpKV3l2dXFLcWFfN0E0Y09YcHpDNDJsMlZOYzF1cjFFWm91U2JCc2JQZ29hUHNjNWJ4d0U5U1NEendpZkpyalZnOGFfeTNyTVdUeUhxWkhlZnFOTHhRTkNTMXJKN3JDcHU5MnozRGNKRndreS03ZGswSVJNQm5NNkNwLVVTOFNLaXpfRWg3Q2swRE1lWUI3bUt4bmFsVzh4Ql9kUGJkNHRGR2J4VUdHeXNTVGo2dml3Zi1weXd0Yw?oc=5",
       "featured": false,
       "draft": true
     }
