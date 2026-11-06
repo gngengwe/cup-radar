@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-06T01:23:07.855Z",
+  "lastUpdated": "2026-11-06T10:26:14.375Z",
   "articles": [
+    {
+      "id": "news-auto-outfront-media-inc-out-q3-2026-earnings--2026-11-06",
+      "headline": "Outfront Media Inc (OUT) (Q3 2026) Earnings Call Highlights: Revenue Jumps 9% on FIFA World Cup ... - Yahoo Finance Australia",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTFpREx5N3RxZ3FUaDZWMHU2NXNCOG44bUoxcVZnYVpmS05naUktbmJfUFlsd2JiR2QwdXE3clAtOG9FTnNMeFVlS09XR29MZXNSOWxublpuY1N3cUN2WjlJWGNzbEZjNHRKSXNRY09XYzl4THBXNElENllPMUFPeg?oc=5\" target=\"_blank\"&gt;Outfront Media Inc (OUT) (Q",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-06",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTFpREx5N3RxZ3FUaDZWMHU2NXNCOG44bUoxcVZnYVpmS05naUktbmJfUFlsd2JiR2QwdXE3clAtOG9FTnNMeFVlS09XR29MZXNSOWxublpuY1N3cUN2WjlJWGNzbEZjNHRKSXNRY09XYzl4THBXNElENllPMUFPeg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-houston-dynamo-fc-homegrown-midfielder-m-2026-11-05",
+      "headline": "Houston Dynamo FC Homegrown midfielder Matthew Arana to represent Mexico at FIFA U-17 World Cup 2026 - Houston Dynamo FC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJrOHh1dldveHUxZDUzZll5bGVSNkZ3anBkemtKTFcwa2JtUkMwTDN0eWJ4RFYzUFN5QVFBMEY0bTY3NzRvN1p1SkZ0YU96STI5dXVzVGxIaTNCYzVrLXFnMWhHdUdDREZRNlBQbUJka083dXgzbFpoeFY3RHo4Mm1KUWM2cWszNjcxQ3lJbkRFeERNOE9JUHB1cFI3SHMtT3dJUVNBRmV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-05",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJrOHh1dldveHUxZDUzZll5bGVSNkZ3anBkemtKTFcwa2JtUkMwTDN0eWJ4RFYzUFN5QVFBMEY0bTY3NzRvN1p1SkZ0YU96STI5dXVzVGxIaTNCYzVrLXFnMWhHdUdDREZRNlBQbUJka083dXgzbFpoeFY3RHo4Mm1KUWM2cWszNjcxQ3lJbkRFeERNOE9JUHB1cFI3SHMtT3dJUVNBRmVySVZzUzQwczFEanZPX2dLWXRxV1F1UEs3bG5wazVsaUVkUXJWdWF0NEsw?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-faces-potential-action-from-women-s-2026-11-05",
+      "headline": "FIFA faces potential action from women’s players over equal pay row ahead of World Cup - The Athletic - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFBFQWNFLTFzdUExNV80THVIcGc3VWtyTmJFRzdCTk84WjJqMHd0WlBzenJhZUtVMHVZdXVFYTdCbTgtd3RjclFWMzBLSjdlRXB4bmJnX25GcGlUaEpMa3FRR1pGM2c0UndkS2dDS0FhaWF6X1JBbWl6WlZEZ0RiWEZoT2dCSThINjZYLQ?oc=5\" target=\"_blank\"&gt;FIFA faces ",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-05",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFBFQWNFLTFzdUExNV80THVIcGc3VWtyTmJFRzdCTk84WjJqMHd0WlBzenJhZUtVMHVZdXVFYTdCbTgtd3RjclFWMzBLSjdlRXB4bmJnX25GcGlUaEpMa3FRR1pGM2c0UndkS2dDS0FhaWF6X1JBbWl6WlZEZ0RiWEZoT2dCSThINjZYLQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-seattle-breaks-records-as-fifa-world-cup-2026-06-29",
+      "headline": "Seattle Breaks Records as FIFA World Cup 2026™ Group Stage Closes, Welcoming the World and New Teams for the Knockout Round - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52Ylp",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-29",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeFhwRnZYQl8wZXJXOUxGdkI0RVNxUnJ2amlrZUw2UG8zVkM2VUJmNmFsQThQTGN0UXdOTGJzTTRrOEtsRmFHZFhrTS1rQzV0NUN3cUJCUm80MTlRN3dPTXhaSTA5VV9JamZ2Ukh3aGdDc1h3THRrVVE0TDBLQ0JubG9JSVRIZ3BzaUlQaF94clRSX0gwal8yZDU5MnV3Sjg4ZjVmNk52YlpMVEE0d2tyS0FVdjZ5Z21NM084bTBQOV8telBWZmRpSmdfdEliSzZfa1VoTlhUNUppeGRGRVlFaVdVLXZFd2s2VUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-giant-soccer-ball-artwork-in-west-orange-2026-11-05",
       "headline": "Giant Soccer Ball Artwork In West Orange Was Inspired By World Cup - Patch",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-31",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalRwME9PMUcxUXd4SDJRblU3X0hVSXpubWE1d2VGUXU1V0p0R3hoRWNHT2VaRnhWWHRDdF9xd09JYUJ6RGdCOVlpaXVENUk2TGJpeHRjYWxLXzh0UWpoM1JKQkJZWEhMWUNFclJGUW9nX1pUaEtURHlxRFhRSXA0Szg0TlpXb0hCY1FkTDR4NDVxZXBfZlZqZ3dzNlNZZw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-emiliano-martinez-rejected-surgery-to-pl-2026-10-31",
-      "headline": "Emiliano Martinez rejected surgery to play at FIFA World Cup 2026, reveals finger will never be normal again | Football News - Hindustan Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQMndJeUNzaU5NUjdFZjdFdF9qWjNYQnkzWU9pYzVDZUZQSG54bEVaeGxFeFMxNUF5VWFVbnpLUTBOMTQwZUlBMzlnYmNWX3pjWVEtMHRUT25zMGNYQ2lWNldMekh0VEdoVm1OaEktb1p0SElzTHhPYmZkRWJEblVlTHQzSGRWUnJValp5OXNPUWw5RHVYWG9yQjZhSFVOWTNzbk1ENHlsMjJ",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-31",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMndJeUNzaU5NUjdFZjdFdF9qWjNYQnkzWU9pYzVDZUZQSG54bEVaeGxFeFMxNUF5VWFVbnpLUTBOMTQwZUlBMzlnYmNWX3pjWVEtMHRUT25zMGNYQ2lWNldMekh0VEdoVm1OaEktb1p0SElzTHhPYmZkRWJEblVlTHQzSGRWUnJValp5OXNPUWw5RHVYWG9yQjZhSFVOWTNzbk1ENHlsMjJHMzc3eE9LZHNFWUlFZkZNZ3J4Y2NSR0ZSOU4tb1VuaV9aSGlsclM4bmR5NXNnRXZmOHRveHNZRWFOQ2FfTFdqWGhkaE1pTWdFdEdyR1RXTUtIc3BUR2NDeWN0LWZn0gGLAkFVX3lxTE85ZUttdkIwZnRidWV1elZEX09HLWlSVlBHQlA0WjM5N0dmcjY3azV2NGtsQ0d2YjJPM3IzQ1MyOTM2WEc4MUxvakI5T05QWWtvZXlCYmlkeVQ4NXI1OWt2c3hIR0d2Q1piNmtYSjRJSVZ4dWJjX2llVlF6MC15V29BUHFvdG5NZmt5bTRib1R0bWVnQkhDaVVveE11ZEFKX0hVR096aHpJa2xhSWtRRkdDWThfNldWLUhYYmpJd21nNjNVNmR3ZXRjOEJXUVhEdGZ4czZaN1FPcjF4cjNleVJRNEk3SEFoMjdVVWlCNXJDU0lidWlxS2NiRk9RSUxSMnBoU1ZoTG9Genp1TQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-u-17-women-s-world-cup-quarter-fina-2026-10-31",
-      "headline": "FIFA U-17 Women's World Cup quarter-finals How to watch on DAZN - DAZN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjZiQmt3M0YtcTBCdlVOVi1rdVI5RkR4VlhoUkNpTXFqVV9iNlVkNHhIR2JfdUFjY2EtQkRWQlpWWE1FU0ZYY3lmSUlYQ2IzTFhYdnQ1dTZ3Ujlha0puaE5CWTllNEFwUVc0emNYTm15cU1fMzhwajFFZktxOFZXc3kwZHk0aGxtc0tzamxfY0o1R1FveDFsQnRPNzM3Ml8wNFVaeEVqdmV",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-31",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjZiQmt3M0YtcTBCdlVOVi1rdVI5RkR4VlhoUkNpTXFqVV9iNlVkNHhIR2JfdUFjY2EtQkRWQlpWWE1FU0ZYY3lmSUlYQ2IzTFhYdnQ1dTZ3Ujlha0puaE5CWTllNEFwUVc0emNYTm15cU1fMzhwajFFZktxOFZXc3kwZHk0aGxtc0tzamxfY0o1R1FveDFsQnRPNzM3Ml8wNFVaeEVqdmVoWlpsb2p1ZDJ6c1pFVjluN0FXX3pGbWZVaXp0NkdISw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-canmnt-squad-named-for-september-october-2026-09-15",
-      "headline": "CANMNT Squad Named for September-October International Window Following Historic FIFA World Cup 26™ - Canada Soccer Pressroom",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTh1TWdjQ1FKSlpDV3NqVnJkV0prR2pVejQ3YnEyVTUyQXlaaVhlZENsYkUtdU5Qei1jaU9NRDZRcHVzb0hULWdiM1FMOEhnQ2hrTFVvVGt5OFhlUmxyWFdLeVEyVDNqT1JRQmZRaHFoRHo1elZkWVgxVk1PN1Ytc3d2a012UzNSSVc3WEtjTlBFNkg5Z0huMW42MWpMb1BIbGdJTXBkRHB",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-15",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMTh1TWdjQ1FKSlpDV3NqVnJkV0prR2pVejQ3YnEyVTUyQXlaaVhlZENsYkUtdU5Qei1jaU9NRDZRcHVzb0hULWdiM1FMOEhnQ2hrTFVvVGt5OFhlUmxyWFdLeVEyVDNqT1JRQmZRaHFoRHo1elZkWVgxVk1PN1Ytc3d2a012UzNSSVc3WEtjTlBFNkg5Z0huMW42MWpMb1BIbGdJTXBkRHBfMGs3WnVzZjVQbTVBZ2V0WEJHN1VRbDFyN0FTb2dB?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-rebukes-morocco-s-claim-it-will-hos-2026-09-11",
-      "headline": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEH",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-09-11",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
       "featured": false,
       "draft": true
     }
