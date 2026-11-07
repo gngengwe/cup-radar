@@ -1,7 +1,40 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-07T00:38:05.615Z",
+  "lastUpdated": "2026-11-07T09:39:28.681Z",
   "articles": [
+    {
+      "id": "news-auto-world-cup-love-story-leads-to-algerian-g-2026-11-06",
+      "headline": "World Cup 'love story' leads to Algerian government-hosted trip for Lawrence community - KSHB 41 Kansas City",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRU5oWURxZHNzYk9DUEtSWTd0a1ZWejQ3emVnanFwb1ZMemJWaU5RaWNiZU5weE50TThKRG5FQ01fN1gzT1l0ci1wLU5IbTV5dEZtN2JuNkdHLU5uS2dIUWhuU29zWjJLbDFYRDRPMEFGSi0wdG1WZ3lKcFJIdzNiazFwYzNSbTFHVjJKY1Rmb0ZCZWNhSUlMOXdQb0V1SkJfSG5SSk1fLVV",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-06",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRU5oWURxZHNzYk9DUEtSWTd0a1ZWejQ3emVnanFwb1ZMemJWaU5RaWNiZU5weE50TThKRG5FQ01fN1gzT1l0ci1wLU5IbTV5dEZtN2JuNkdHLU5uS2dIUWhuU29zWjJLbDFYRDRPMEFGSi0wdG1WZ3lKcFJIdzNiazFwYzNSbTFHVjJKY1Rmb0ZCZWNhSUlMOXdQb0V1SkJfSG5SSk1fLVVLYjF1Um9remNOWTNFTE9FSm4tZzA1aUNfZHc3eU9KZ2NTZnNndG5HSHhGX2FrcXR2VVE?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-city-of-seattle-seattlefwc26-partner-to--2026-06-04",
+      "headline": "City of Seattle, SeattleFWC26 Partner to Provide Local Youth Access to FIFA World Cup Matches - Seattle FIFA World Cup",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2hDbXg2ZHR3UjJXT0dUWWx4VUh0b0VGN2FwQmdiUkRYXy1nU3FCbndYV0laMEJheGpZLU1yTV9oNUUxUkRGRGZnVUYtTERhRktYaG1CNWdUOWxZaFFGd1VmNDJjYWpCdjJvcFB1aWdFTXRHY1U3SDdiRTV5WG9XN2pRbHNiYXk5OGZDaXhrVnBuZHhMWk1tM09icHk4STQyMVIyTTJSaGN",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-04",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2hDbXg2ZHR3UjJXT0dUWWx4VUh0b0VGN2FwQmdiUkRYXy1nU3FCbndYV0laMEJheGpZLU1yTV9oNUUxUkRGRGZnVUYtTERhRktYaG1CNWdUOWxZaFFGd1VmNDJjYWpCdjJvcFB1aWdFTXRHY1U3SDdiRTV5WG9XN2pRbHNiYXk5OGZDaXhrVnBuZHhMWk1tM09icHk4STQyMVIyTTJSaGN6b1h6bmw1ckRFeG1tVUxNSmlFak8wOA?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-2026-world-cup-schedule-for-6-matches-in-2026-06-12",
+      "headline": "2026 World Cup: Schedule for 6 matches in Seattle - The Seattle Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEpESlVMa1lCb0NLSGthd1hxNlE1NmNVNGV4VTJTME1ZbVJLRW14UF93N2FfTXdSYS1JcWFBVmJ2Yk1fT19jZzlhb1NKcVJ6Mm11cmZMZEpTOWZzRTJaWHZUMUV3UldENEdsSTV4aFc0eVpuMnhrbW90T3VQeEktMjdJOW5aZWR3YXVLLVJ5Vi1vTWE5WUJJMVVpSk1OM0JxRGFkbW5PazM",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-06-12",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEpESlVMa1lCb0NLSGthd1hxNlE1NmNVNGV4VTJTME1ZbVJLRW14UF93N2FfTXdSYS1JcWFBVmJ2Yk1fT19jZzlhb1NKcVJ6Mm11cmZMZEpTOWZzRTJaWHZUMUV3UldENEdsSTV4aFc0eVpuMnhrbW90T3VQeEktMjdJOW5aZWR3YXVLLVJ5Vi1vTWE5WUJJMVVpSk1OM0JxRGFkbW5PazM?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-san-jose-earthquakes-kaedren-spivey-usa--2026-11-06",
       "headline": "San Jose Earthquakes’ Kaedren Spivey (USA), Marcelo Avalos (México) Named to FIFA U-17 World Cup Rosters - San Jose Earthquakes",
@@ -1066,39 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-31",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k3Q0xSb3I2UlJPSGxpVEU?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-by-the-numbers-kansas-city-dre-2026-10-29",
-      "headline": "World Cup by the numbers: Kansas City drew an estimated 680,000 visitors - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGM1YU05OEVKMTBvWU5KRFZqTnhJYkFDeF9wSm9tZVNYU05pcEFZX0NJck04Z29BME1KNHlUUTRQcUZOREtVeU45dkUwdWg4bnpCVWtlYWozQW9ORVo4OTdpTmFfcUJVRmdlLUxhbjRpS01ZZDYySHlncTVnR19DUlZacDQ2bm44dktlV2FnZV90T05TdzFGOXFIdXg1MVJaUFVjeVQ2all",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-10-29",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGM1YU05OEVKMTBvWU5KRFZqTnhJYkFDeF9wSm9tZVNYU05pcEFZX0NJck04Z29BME1KNHlUUTRQcUZOREtVeU45dkUwdWg4bnpCVWtlYWozQW9ORVo4OTdpTmFfcUJVRmdlLUxhbjRpS01ZZDYySHlncTVnR19DUlZacDQ2bm44dktlV2FnZV90T05TdzFGOXFIdXg1MVJaUFVjeVQ2allIQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
-      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-andoni-iraola-wants-smart-free-transfer--2026-10-31",
-      "headline": "Andoni Iraola wants smart free transfer pickup for 31-year-old FIFA World Cup winner - Yahoo Sports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFxTGZCWjlobEx3VVZVOFNxWDlGNWgwVkZkZWViM181UXZiSlRGU01fTFdJeTNLLVVSYzVsZjBDM1l3S1JIZmhDQXRJTVdveUszaDhYVHZYczh6UVhCRWI4TkF1b1ZuaUtYQWJMWEpBRlFLOG1wNi1jTlN0ZWNJZzBTLUw3Zw?oc=5\" target=\"_blank\"&gt;Andoni Iraola wants",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-31",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFxTGZCWjlobEx3VVZVOFNxWDlGNWgwVkZkZWViM181UXZiSlRGU01fTFdJeTNLLVVSYzVsZjBDM1l3S1JIZmhDQXRJTVdveUszaDhYVHZYczh6UVhCRWI4TkF1b1ZuaUtYQWJMWEpBRlFLOG1wNi1jTlN0ZWNJZzBTLUw3Zw?oc=5",
       "featured": false,
       "draft": true
     }
