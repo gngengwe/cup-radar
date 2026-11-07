@@ -1,7 +1,29 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-06T18:56:23.477Z",
+  "lastUpdated": "2026-11-07T00:38:05.615Z",
   "articles": [
+    {
+      "id": "news-auto-san-jose-earthquakes-kaedren-spivey-usa--2026-11-06",
+      "headline": "San Jose Earthquakes’ Kaedren Spivey (USA), Marcelo Avalos (México) Named to FIFA U-17 World Cup Rosters - San Jose Earthquakes",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2NGUURKUjRCY3NLajVGVjMwUk4za080Q1ZTbDNvTzE2aDlzYmg1TE45UWJTYmNyaDZnalJFcnhCR296V0NUSzNvSnFjaERIeTcxVzNfOVVvWC1fNFR5cjM5TWdrRlJOdC1rdENUOU81T2l4d2E1Q1hsM0hZTVctSE82aC0zbE91SFAwQk1VenRZYUhLOFM1SXRnT1BVU2gwU1RXdnRQeC0",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-06",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2NGUURKUjRCY3NLajVGVjMwUk4za080Q1ZTbDNvTzE2aDlzYmg1TE45UWJTYmNyaDZnalJFcnhCR296V0NUSzNvSnFjaERIeTcxVzNfOVVvWC1fNFR5cjM5TWdrRlJOdC1rdENUOU81T2l4d2E1Q1hsM0hZTVctSE82aC0zbE91SFAwQk1VenRZYUhLOFM1SXRnT1BVU2gwU1RXdnRQeC0zSGtReV9iVERYVElWTFVwOF9oV1ZKdERZNVhQbnc1ZTNoTFhCUQ?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto--they-had-hyped-us-up-so-much-seattle-bu-2026-07-07",
+      "headline": "‘They had hyped us up so much’: Seattle businesses near World Cup stadium report declining sales - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5\" target=\"_blank\"&gt;‘They had hyped us up so much’",
+      "category": "seattle",
+      "source": "Auto-refresh",
+      "date": "2026-07-07",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MGZkYnVRa1FPUmVCVktqZmZJU1lBNjU0M19oSU5CQ2w0Y0ttMkF6OWQzUEZOTjhwRXdaeEktdUhrWHhoMGMwVmVVcWhqVjREMFBhUWktUncxenJSdjU3UGp0Y2FXcXRfbVZwSDZzZUJBcDQ5bG0zWUg4Y2lKbUE?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-revolution-academy-graduates-judah-sique-2026-11-06",
       "headline": "Revolution Academy graduates Judah Siqueira and Makai Wells earn U.S. U-17 call-ups for 2026 FIFA Under-17 World Cup - revolutionsoccer.net",
@@ -1077,28 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-10-31",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUFxTGZCWjlobEx3VVZVOFNxWDlGNWgwVkZkZWViM181UXZiSlRGU01fTFdJeTNLLVVSYzVsZjBDM1l3S1JIZmhDQXRJTVdveUszaDhYVHZYczh6UVhCRWI4TkF1b1ZuaUtYQWJMWEpBRlFLOG1wNi1jTlN0ZWNJZzBTLUw3Zw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-kc2026-operational-constraints-caused-he-2026-06-17",
-      "headline": "KC2026: ‘Operational constraints’ caused heavy traffic delays for World Cup match at Arrowhead - KCTV",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-17",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWl1Nmp6by10dS1pcjh0YUVGSEZlbmZrRXdfbVhMRHBMNnktSkNoYUdyaE9hbm5jNG50eTN6X0RMQS1SckZsSHRITkhYVEdVZDEzdUZxMnhabmJONmVqdVk4WHpCdFNzWmY4LUNSVUQ2R3VreGpoblRrR3IzVkFSVW9TbWdvd2tOM2dLVFdmTURpX0ZURE54QVNtOERGTi0xeVJkM2g0c0I4VS1SUFJWZlF2cTd4eFhvSy10bEYzUzbSAdQBQVVfeXFMT1MzSzY2TnNQRlAzckREV3JjSkJUM09XbDNxWXVMNHhualVtQnpTcVN5dXhQMkoxVlYzcE1CQkp5Wi1OMUJKbUMtTy1nMUxqa2dFSTRwcFN0eUJ5enFmR0c2SXpfOWJxMkl4RUJ0a2VLdWJPRnU5bmFHYktPRlgzeEV2MGtpZDQtNkpCRGU5Rm1ONlRUUWR4VjgzUXJ6dmxMUFJhY1VDcDN2a2pvZFdlOXNIV1JTZHRydmE5Q2VKN2NUMjBDaDJLZW9uSVZFVDExdEx0aVY?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-world-cup-match-day-at-arrowhead-stadium-2026-06-25",
-      "headline": "World Cup match day at Arrowhead Stadium: Weather, parking and more - FOX4KC.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1V",
-      "category": "kansascity",
-      "source": "Auto-refresh",
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHU3RW91QnE5bk1TYnNCa2o4QUloQ2Q0LTk4cEJjWFdkSWtiUG1CS1E4VGt2bVV2dVdWQzlDWEp6ck1PWUdJUUwwYm8zSlA5VjB6eFFIRE45LVRWQWtiQ2NWa1lBZTFLeF9LalpPSGdVazBsNTFXX01jd0wwcHo5R1ctTjhKU3loZXlobGVYbEhySlE4SVNxa3J6WlBwUkExOGQzRGVSZ1VLNG_SAbABQVVfeXFMUG5XODVqaEo0Z2doZW8zT3NtZFRUVU85Y1Zyd2k2aExXXzd2MWVkQ0JpUTNKXzducF9BRkJiN1E5MUZQTVY5S1ktSlJXbng4UnFUWTUzYTRQekJ4MUtoTUNteXhJekJJQ1ozOHEzUmVrZmk3bFlnNFU4VjM4NVJFdlBlNkhDNWFwUmxRWG8tQ3RJenA1bkJPSnFoMTNULWQ2UGplemV6TFJJNDkxajNIN2s?oc=5",
       "featured": false,
       "draft": true
     }
