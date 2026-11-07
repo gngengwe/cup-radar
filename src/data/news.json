@@ -1,7 +1,51 @@
 {
   "_note": "Manually curated news. Add new items at the top of the array. Seattle articles: category='seattle'. KC articles: category='kansascity'.",
-  "lastUpdated": "2026-11-07T09:39:28.681Z",
+  "lastUpdated": "2026-11-07T17:28:39.847Z",
   "articles": [
+    {
+      "id": "news-auto-fifa-reduce-molina-ban-after-argentina-b-2026-11-07",
+      "headline": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final - Yahoo Sports",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTd6WGZYaXhQUXh6YmtfVFdzanpQdFJKU1NvZElTSDJKWGNJTE9UbHFfREVldFdtdm9MMUhTLUwxVktvU3duOHUyRDBjVk44d1N0cmQxQWZxcjg3bHVOZUh2MXlwSU9wRW56UWhpQVN0SDNsYzY2M2psdXRtb2Z1Tkh5V0hNQmhV?oc=5\" target=\"_blank\"&gt;FIFA reduce Molin",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-07",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTd6WGZYaXhQUXh6YmtfVFdzanpQdFJKU1NvZElTSDJKWGNJTE9UbHFfREVldFdtdm9MMUhTLUwxVktvU3duOHUyRDBjVk44d1N0cmQxQWZxcjg3bHVOZUh2MXlwSU9wRW56UWhpQVN0SDNsYzY2M2psdXRtb2Z1Tkh5V0hNQmhV?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-fifa-abandons-plans-to-expand-the-next-w-2026-11-07",
+      "headline": "FIFA abandons plans to expand the next World Cup - Українські Національні Новини (УНН)",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeVU5eXVfc01XcnZqcEMyOEc1V2xhTWRPaHVJeXpYcFBkaVgta2J0UVlJWVBLWTJRMGtKRTZLRGw4VFhMOU9ha0lOM2lkY2htaHYwZE9FWFQxOThIaW44a1FQSTN6MlBJaWlEVTEzNzR2MjUwc0VtU2Nsc9IBekFVX3lxTE1GMkY5TzcwQ0p6Z2FFd2ZldGtqRkdVVjdfZmxYV3FNbnliNE0",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-07",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeVU5eXVfc01XcnZqcEMyOEc1V2xhTWRPaHVJeXpYcFBkaVgta2J0UVlJWVBLWTJRMGtKRTZLRGw4VFhMOU9ha0lOM2lkY2htaHYwZE9FWFQxOThIaW44a1FQSTN6MlBJaWlEVTEzNzR2MjUwc0VtU2Nsc9IBekFVX3lxTE1GMkY5TzcwQ0p6Z2FFd2ZldGtqRkdVVjdfZmxYV3FNbnliNE0tWkNuMU0wZ2NpVVNCTVQ1UFJHejY4eEtnZVcxUXA4aXNZV3hlUDEtQ0RkSXk4VG1IZ1Ixd3BHRVhyZTM1S1R4aGdsMlE3SXZFdzB0UzJB?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-north-korea-vs-brazil-7-nov-2026-live-sc-2026-11-07",
+      "headline": "North Korea vs. Brazil (7 Nov, 2026) Live Score - ESPN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUlJzbGtqNHFOZUc4d21UVVpUQjNzNjJuMFJoN2hiVGdUWDlrUGZ0U1kydkpweDV1Y0RyTGZ6dGh6ZzMzNjYwQUFZM0doWGEtNzZHMVk2ZmlJQS1BSTcwb2wxRHRjUjg?oc=5\" target=\"_blank\"&gt;North Korea vs. Brazil (7 Nov, 2026) Live Score&lt;/a&gt;&amp;",
+      "category": "general",
+      "source": "Auto-refresh",
+      "date": "2026-11-07",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUlJzbGtqNHFOZUc4d21UVVpUQjNzNjJuMFJoN2hiVGdUWDlrUGZ0U1kydkpweDV1Y0RyTGZ6dGh6ZzMzNjYwQUFZM0doWGEtNzZHMVk2ZmlJQS1BSTcwb2wxRHRjUjg?oc=5",
+      "featured": false,
+      "draft": true
+    },
+    {
+      "id": "news-auto-the-2026-world-cup-has-arrived-here-s-wh-2026-06-09",
+      "headline": "The 2026 World Cup has arrived. Here's what to know about the 16 stadiums hosting matches - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1U",
+      "category": "kansascity",
+      "source": "Auto-refresh",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzd2M3BFVDNFdTRkZUpCYTlQOUNWSG53QWlYc1VtNFJuMnBoVkN4M2pGaXN6YndTMmc2Ukc5OWI3Q2RXc09pUm10aVd0Yjg3eTV1U0ZHWmxHNTBwd3JoNWp5aF9BYTRZdEtuVnZjdUxoYXZsMmUtVldXWDFfMDkwZFhrd3VJTUppcUFTa1llYmlNa2FLZGlETkxBMV83QVE1Q2lqYS00Z1UwNHlGUl93ZG5jSzN2b2lORXFaLVN6UFI?oc=5",
+      "featured": false,
+      "draft": true
+    },
     {
       "id": "news-auto-world-cup-love-story-leads-to-algerian-g-2026-11-06",
       "headline": "World Cup 'love story' leads to Algerian government-hosted trip for Lawrence community - KSHB 41 Kansas City",
@@ -1055,50 +1099,6 @@
       "source": "Auto-refresh",
       "date": "2026-09-22",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxYkd5NzVZTkVfWEgtekRJMHRQMEpwR2ZLUmREYmhzSEh5OEthZVBMS2pvbldHUUswUGdWN1BBbjJqWW9aOW5lRXdBZTBhSElCQll5b28wSkJaRUtEQzA4NUNzX0J4ZUoyejIwbmdPbi1EeXB6dk8wNGstTDkyRU3SAYQBQVVfeXFMT0VNMGdmT25wdTVfUTJWT2ZTb1h5bk1DM1k5VWc0bHV5RXZ3cTIwY3kzOU4zZkl5a0lkaGM3eVA4RjQ0WktoaTlEUUxPb1MtT193YUlFaGRjNXFwSi1jdWdZbll0dzFKTW85UDNlQ1R5TktaczlJUDRuWGRyaFdmV2lqeUJ3?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lumen-field-gets-fresh-paint-job-ahead-o-2026-04-16",
-      "headline": "Lumen Field gets fresh paint job ahead of FIFA World Cup - FOX 13 Seattle",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE44NVpiT0Fka2N3RWNaNXYxbUgxMVZRSGlCbmU2U0xneURTTWU1T1F6elVrQ3pBWEtkSUhuanJ2VmxfWThvd1d4TkZMTGhPVXZfelZRdnpUTzlFWUZhTWc1WF9jU29BQ2pYUnhzaU5DbFRWWkRremlOZFA4MNIBgAFBVV95cUxOTlBSSlpzYjM1N0xjUjBnVHFFdmEzbFdZODA0cWpZYXdqZGR",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-04-16",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NVpiT0Fka2N3RWNaNXYxbUgxMVZRSGlCbmU2U0xneURTTWU1T1F6elVrQ3pBWEtkSUhuanJ2VmxfWThvd1d4TkZMTGhPVXZfelZRdnpUTzlFWUZhTWc1WF9jU29BQ2pYUnhzaU5DbFRWWkRremlOZFA4MNIBgAFBVV95cUxOTlBSSlpzYjM1N0xjUjBnVHFFdmEzbFdZODA0cWpZYXdqZGRpeDQ1LWY4SFRVYmZJc0ktTGdoTi1GaXpaNzBNd1RMUzVBX3lYV1lzNFNyOUpaZFNROXZWY3lZMXBPSFNXeTJlN29vajJ2SDFrWTZfaFI3UlNEUHMzMw?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-lumen-field-is-already-unrecognizable-an-2026-05-19",
-      "headline": "Lumen Field is already unrecognizable — and Seattle's World Cup makeover isn't done yet - KING5.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5ckl",
-      "category": "seattle",
-      "source": "Auto-refresh",
-      "date": "2026-05-19",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObExCTGtSUHI5cDlzSHlCeS1iV0tSS3dPQXNuazJ0RHlDLXBwNjhBWWlIQkdxb0lSMmZRTmxTMm1tTkJtXzdzbm5VZTlyUWhlZE9iVVJFNTFtaUpBOE5BQ0xpTGlFZ0ZBNXpZS0tFcmUzX19uZXZJbXJGTkxwMDRSeXZsX2ViU19HNVVpRVo0X3hWQUI2WXFmbjhndnQ3NmZGOExpZEQ5cklLLWVnaHNiYUQzdTBJT1hMcjZUcUVZWG5FdTRacmNJX0xFSnlLVlkzYjhuemh4YUh3V3c?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-fifa-world-cup-2030-netflix-scores-exclu-2026-10-13",
-      "headline": "FIFA World Cup 2030: Netflix Scores Exclusive Rights in Spain and Andorra - Netflix",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEdTRDdkVnBqMjdtRnRLY0JRbWxZUTFZenF4STJjVmhHMFp4Slo1X2ZwZnJLek5EVGRjekZseHVaOE1ROUVEVlFtbkkxNFFpQXlEcnBUb2pfT1JmVzVJRGZYaVZ0Qzlxd0dzWWpaNWtScHp5U0xvYjJvUndYQ052UHRHQQ?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2030: Ne",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEdTRDdkVnBqMjdtRnRLY0JRbWxZUTFZenF4STJjVmhHMFp4Slo1X2ZwZnJLek5EVGRjekZseHVaOE1ROUVEVlFtbkkxNFFpQXlEcnBUb2pfT1JmVzVJRGZYaVZ0Qzlxd0dzWWpaNWtScHp5U0xvYjJvUndYQ052UHRHQQ?oc=5",
-      "featured": false,
-      "draft": true
-    },
-    {
-      "id": "news-auto-morocco-could-host-2029-fifa-club-world--2026-10-31",
-      "headline": "Morocco Could Host 2029 FIFA Club World Cup - Morocco World News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k",
-      "category": "general",
-      "source": "Auto-refresh",
-      "date": "2026-10-31",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k3Q0xSb3I2UlJPSGxpVEU?oc=5",
       "featured": false,
       "draft": true
     }
